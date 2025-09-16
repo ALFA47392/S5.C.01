@@ -1,0 +1,7872 @@
+1
+00:00:05,649 --> 00:00:08,678
+Pour clôturer ma conférence sur le
+remodelage des lamelles interstitielles,
+
+2
+00:00:08,838 --> 00:00:11,479
+je souhaiterais aborder des problèmes
+qui ne sont pas limités
+
+3
+00:00:11,599 --> 00:00:13,200
+à l'anthropologie judiciaire.
+
+4
+00:00:14,193 --> 00:00:17,105
+Si cela convient à mon hôte, Dr Wexler.
+
+5
+00:00:17,294 --> 00:00:19,652
+Je tendrais à penser que tous,
+sauf les plus joyeux acharnés,
+
+6
+00:00:19,772 --> 00:00:21,571
+en effet, je parle de vous, Cyril Bibby,
+
+7
+00:00:21,691 --> 00:00:24,736
+apprécieraient un aparté
+vis-à-vis de l'ostéon.
+
+8
+00:00:24,896 --> 00:00:28,047
+Mon partenaire,
+l'agent spécial du FBI Seeley Booth,
+
+9
+00:00:28,167 --> 00:00:30,232
+a donné sa conférence
+à Scotland Yard, hier soir.
+
+10
+00:00:30,352 --> 00:00:32,619
+Agent Booth, pouvez-vous vous lever ?
+
+11
+00:00:34,596 --> 00:00:37,291
+- Hé, Booth !
+- Oui, je suis là. Que se passe-t-il ?
+
+12
+00:00:37,909 --> 00:00:40,218
+L'agent Booth est l'humaniste intuitif,
+
+13
+00:00:40,338 --> 00:00:42,462
+alors que je suis l'empiriste logique,
+
+14
+00:00:42,622 --> 00:00:44,927
+bien que j'aie récemment constaté
+
+15
+00:00:45,370 --> 00:00:47,509
+les capacités destructrices
+d'une logique pure.
+
+16
+00:00:48,365 --> 00:00:50,245
+Mon propre assistant, le jeune homme...
+
+17
+00:00:50,365 --> 00:00:52,371
+le plus brillant que j'aie jamais vu...
+
+18
+00:00:52,491 --> 00:00:55,809
+... a fini comme complice
+d'un serial killer cannibale.
+
+19
+00:00:55,969 --> 00:00:59,521
+Je ne vous ai pas demandé de me
+rejoindre, Booth, alors asseyez-vous.
+
+20
+00:00:59,906 --> 00:01:01,910
+Ce que l'agent Booth m'a appris
+
+21
+00:01:02,030 --> 00:01:05,815
+est que nous, scientifiques, devons nous
+armer d'autre chose que
+
+22
+00:01:06,041 --> 00:01:07,044
+de logique pure.
+
+23
+00:01:07,164 --> 00:01:10,601
+Une qualité qui nous évite une passion
+irrationnelle pour le rationnel.
+
+24
+00:01:10,830 --> 00:01:11,861
+Exactement.
+
+25
+00:01:15,989 --> 00:01:18,068
+- Quel âge a ce type ?
+- Qui, Ian ?
+
+26
+00:01:18,188 --> 00:01:21,008
+Il a un an de moins que moi
+et il est presque aussi brillant.
+
+27
+00:01:21,128 --> 00:01:23,209
+- Que pensez-vous de mon discours ?
+- Oui, c'était,
+
+28
+00:01:23,329 --> 00:01:24,871
+vous voyez, mieux vers la fin.
+
+29
+00:01:24,991 --> 00:01:27,031
+Vous voulez dire,
+après m'avoir interrompue ?
+
+30
+00:01:27,151 --> 00:01:29,340
+Je suis désolé. Écoutez,
+c'est pas que je m'ennuyais,
+
+31
+00:01:29,460 --> 00:01:31,077
+c'est surtout que j'étais fatigué, OK ?
+
+32
+00:01:31,197 --> 00:01:33,316
+Les poulettes m'ont emmené
+boire une bière, hier soir.
+
+33
+00:01:33,436 --> 00:01:35,911
+- On les appelle des agents de police.
+- Je crois plutôt que Sarah,
+
+34
+00:01:36,031 --> 00:01:37,713
+Pauline et Jacqueline sont,
+vous savez,
+
+35
+00:01:37,833 --> 00:01:39,263
+- des poulettes.
+- Dr Brennan !
+
+36
+00:01:39,383 --> 00:01:40,496
+Dr Brennan !
+
+37
+00:01:40,776 --> 00:01:43,148
+Quelle magnifique conférence.
+Fantastique, sublime, géniale.
+
+38
+00:01:43,308 --> 00:01:44,486
+Merci, Dr Wexler.
+
+39
+00:01:44,606 --> 00:01:47,360
+Qui aurait cru qu'une robe sans forme
+pourrait être si évocatrice ?
+
+40
+00:01:47,520 --> 00:01:49,753
+De la connaissance scientifique,
+je voulais dire, bien sûr.
+
+41
+00:01:50,479 --> 00:01:53,473
+Juste un instant avec ma collègue,
+s'il vous plaît, agent Booth.
+
+42
+00:01:57,947 --> 00:02:00,992
+Ces derniers jours, on m'a mise en garde
+
+43
+00:02:01,112 --> 00:02:03,075
+plusieurs fois, à votre sujet.
+
+44
+00:02:03,195 --> 00:02:05,008
+Mise en garde ? Ça a l'air dangereux.
+
+45
+00:02:05,128 --> 00:02:08,019
+Est-ce quelque chose du genre,
+"Faites attention à Ian Wexler.
+
+46
+00:02:08,139 --> 00:02:09,674
+C'est un jeune prodige qui monte." ?
+
+47
+00:02:09,834 --> 00:02:12,380
+Comment pouvez-vous flirter avec moi
+en ignorant votre téléphone ?
+
+48
+00:02:12,500 --> 00:02:14,123
+Je suis un homme de perspective.
+
+49
+00:02:14,243 --> 00:02:16,405
+Aussi, je crois que si on ignore
+ce truc assez longtemps,
+
+50
+00:02:16,525 --> 00:02:19,161
+généralement, il arrête de sonner.
+Et plus tard,
+
+51
+00:02:19,691 --> 00:02:22,255
+à ma demande,
+il me dira ce qu'il voulait.
+
+52
+00:02:22,496 --> 00:02:23,778
+Dr Ian Wexler.
+
+53
+00:02:23,898 --> 00:02:25,354
+Ne partez pas. Ce n'est rien.
+
+54
+00:02:25,474 --> 00:02:27,525
+Un meurtre ? Quel genre de meurtre ?
+
+55
+00:02:27,685 --> 00:02:30,324
+Bien, est-ce un meurtre ennuyeux
+ou un meurtre violent ?
+
+56
+00:02:30,741 --> 00:02:32,424
+Est-ce que votre curiosité est piquée ?
+
+57
+00:02:32,796 --> 00:02:34,199
+Est-ce que vous êtes sérieux ?
+
+58
+00:02:34,359 --> 00:02:36,493
+Je vais vous passer
+une de mes collègues.
+
+59
+00:02:36,613 --> 00:02:39,537
+Je voudrais juste que vous rappeliez
+l'origine de cet appel. Merci.
+
+60
+00:02:40,834 --> 00:02:41,953
+Scotland Yard ?
+
+61
+00:02:42,913 --> 00:02:43,917
+Un homicide.
+
+62
+00:02:44,077 --> 00:02:45,077
+Merci bien.
+
+63
+00:02:45,303 --> 00:02:47,516
+Bien, voulez-vous m'accompagner ?
+Il s'agit d'un meurtre.
+
+64
+00:02:47,636 --> 00:02:50,423
+Je peux rien promettre, mais possible
+qu'une héritière célèbre soit concernée.
+
+65
+00:02:50,583 --> 00:02:52,091
+Je suis aussi pressée qu'un melon.
+
+66
+00:02:52,380 --> 00:02:54,261
+Une orange, aussi pressée qu'une orange.
+
+67
+00:02:54,381 --> 00:02:57,257
+Excellent effort sur la formulation
+tout de même. Très impressionnant.
+
+68
+00:02:57,377 --> 00:02:59,078
+Votre cow-boy veut nous accompagner ?
+
+69
+00:02:59,198 --> 00:03:01,650
+- S'il vous plaît, ne dites pas ça.
+- Il trouverait ça insultant ?
+
+70
+00:03:01,770 --> 00:03:03,760
+Non. Il adorerait ça.
+
+71
+00:03:24,942 --> 00:03:26,270
+<i>Reculez, s'il vous plaît.</i>
+
+72
+00:03:32,596 --> 00:03:33,842
+Inspecteur Kate Pritchard,
+
+73
+00:03:34,002 --> 00:03:35,903
+Scotland Yard,
+j'aimerais vous présenter...
+
+74
+00:03:36,023 --> 00:03:37,666
+- Agent Booth !
+- Oui.
+
+75
+00:03:37,786 --> 00:03:40,397
+Bonjour. J'ai beaucoup apprécié
+votre discours hier soir.
+
+76
+00:03:40,517 --> 00:03:43,726
+Il est très actif. Effets sonores et
+visuels, toutes sortes d'accessoires.
+
+77
+00:03:43,886 --> 00:03:46,896
+Bien qu'il se soit longtemps plaint
+de devoir nous laisser son arme.
+
+78
+00:03:47,056 --> 00:03:49,227
+Vous savez, sans mon arme,
+je suis pratiquement nu.
+
+79
+00:03:49,347 --> 00:03:52,026
+- C'est pas vrai, Bones ?
+- Inspecteur Pritchard, Dr Brennan.
+
+80
+00:03:52,186 --> 00:03:54,112
+- Charmante.
+- Elle est exactement comme moi.
+
+81
+00:03:54,272 --> 00:03:56,656
+Charmant, tenace,
+obscène, prétentieux,
+
+82
+00:03:56,817 --> 00:04:00,183
+euphorique, noble, ignoble,
+stupide, méchant,
+
+83
+00:04:00,303 --> 00:04:02,266
+morbide, torpide et ennuyeux.
+
+84
+00:04:02,386 --> 00:04:04,500
+La flatterie ne vous mènera
+absolument nulle part Kate.
+
+85
+00:04:04,620 --> 00:04:06,424
+Alors,
+vous avez trouvé Portia Frampton ?
+
+86
+00:04:06,544 --> 00:04:09,544
+D'habitude dans notre travail, Ian,
+je remonte les corps depuis la Tamise
+
+87
+00:04:09,704 --> 00:04:12,998
+et vous utilisez vos pouvoirs
+extraordinaires pour les identifier.
+
+88
+00:04:13,118 --> 00:04:15,184
+Ils sont un peu la version anglaise
+de vous et moi.
+
+89
+00:04:15,304 --> 00:04:18,094
+- Vous pensez que c'est elle ?
+- C'est sûrement sa voiture.
+
+90
+00:04:18,453 --> 00:04:21,431
+Portia Frampton, Américaine,
+comme son père. Le connaissez-vous ?
+
+91
+00:04:21,591 --> 00:04:24,227
+Ils ne se connaissent pas tous.
+Les Américains sont très nombreux.
+
+92
+00:04:24,347 --> 00:04:27,937
+Roger Frampton, compagnie aérienne,
+internet, entreprises, bâtiment de luxe.
+
+93
+00:04:28,097 --> 00:04:29,314
+Grande nouvelle, Kate.
+
+94
+00:04:29,474 --> 00:04:31,684
+Je suis en pleine analyse
+d'un de ses chantiers.
+
+95
+00:04:31,804 --> 00:04:35,002
+Frampton voulait construire des
+gratte-ciel sur ce qui s'avérerait être
+
+96
+00:04:35,122 --> 00:04:37,906
+un trésor de l'âge de bronze
+ou peut-être juste un tas d'ordures.
+
+97
+00:04:38,488 --> 00:04:41,037
+- L'un n'exclut pas l'autre.
+- Exactement.
+
+98
+00:04:41,157 --> 00:04:43,411
+La plaque du véhicule
+correspond à celle de Mlle Frampton.
+
+99
+00:04:43,571 --> 00:04:45,775
+Manifestement, le véhicule est entré
+dans la Tamise
+
+100
+00:04:45,895 --> 00:04:49,000
+à une certaine distance en amont
+avant de toucher le fond ici.
+
+101
+00:04:49,160 --> 00:04:52,123
+Qu'en pensez-vous, Dr Brennan,
+femme ou travesti ?
+
+102
+00:04:53,413 --> 00:04:54,376
+Femme.
+
+103
+00:04:55,291 --> 00:04:57,425
+Fin d'adolescence, début de vingtaine.
+
+104
+00:04:57,712 --> 00:05:00,053
+Trauma perforant
+au niveau de l'os pariétal.
+
+105
+00:05:00,213 --> 00:05:02,994
+Quelqu'un l'a frappée à la tête
+avec un objet tranchant.
+
+106
+00:05:03,114 --> 00:05:05,495
+Vous devez faire ça aussi ?
+Traduire pour eux ?
+
+107
+00:05:05,615 --> 00:05:07,657
+Vous devez supporter ça, vous aussi ?
+
+108
+00:05:07,969 --> 00:05:09,739
+- Est-ce un meurtre ?
+- Oui.
+
+109
+00:05:10,264 --> 00:05:12,152
+Si c'est Portia Frampton, alors son père
+
+110
+00:05:12,272 --> 00:05:14,567
+demandera sans doute
+l'intervention du FBI.
+
+111
+00:05:14,727 --> 00:05:15,538
+Pourquoi ?
+
+112
+00:05:16,411 --> 00:05:17,615
+Ils sont américains.
+
+113
+00:05:17,735 --> 00:05:19,989
+Vous n'aurez pas vraiment
+de juridiction, vous comprenez.
+
+114
+00:05:20,149 --> 00:05:22,116
+Pas au-delà de ce que j'autorise
+par courtoisie.
+
+115
+00:05:22,276 --> 00:05:25,784
+Le "pas dans notre juridiction",
+ça ne marche pas trop au FBI.
+
+116
+00:05:25,904 --> 00:05:27,914
+Dites-lui juste qu'il peut
+avoir une arme.
+
+117
+00:05:28,074 --> 00:05:29,265
+Ce n'est pas possible.
+
+118
+00:05:29,385 --> 00:05:33,252
+Bon, comme ils disent en Amérique,
+"Hasta la vista, baby."
+
+119
+00:05:33,412 --> 00:05:35,400
+Agent Booth, je ferai...
+
+120
+00:05:35,520 --> 00:05:37,674
+Je ferai mon possible
+pour vous avoir une arme.
+
+121
+00:05:37,834 --> 00:05:39,043
+Dans ce cas,
+
+122
+00:05:39,163 --> 00:05:40,188
+excusez-moi...
+
+123
+00:05:40,308 --> 00:05:43,688
+Pour résoudre les crimes, Bones et moi
+sommes la meilleure équipe en Amérique.
+
+124
+00:05:43,808 --> 00:05:45,100
+Nous sommes en Angleterre.
+
+125
+00:05:45,220 --> 00:05:47,432
+Essayons juste de nous entraider
+tous ensemble, d'accord ?
+
+126
+00:05:47,552 --> 00:05:50,269
+Une petite et heureuse unité
+d'enquête transnationale.
+
+127
+00:05:51,110 --> 00:05:54,440
+Bien, le corps devrait être envoyé
+au Jeffersonian ainsi que
+
+128
+00:05:54,600 --> 00:05:56,276
+les échantillons de vase
+
+129
+00:05:56,436 --> 00:05:58,778
+et parties du véhicule
+pouvant contenir des preuves.
+
+130
+00:05:58,938 --> 00:06:01,192
+Que pensez-vous de cela, Dr Wexler ?
+
+131
+00:06:01,312 --> 00:06:04,951
+Je suis impatient de me soumettre
+complètement au Dr Brennan.
+
+132
+00:06:05,568 --> 00:06:08,579
+Vous l'avez entendue : ramenez tout
+au Jeffersonian, tout. Pigé ?
+
+133
+00:06:08,739 --> 00:06:12,638
+Bones - Saison 4 Épisode 01-02
+"<i>Yanks in the U.K.</i>"
+
+134
+00:06:14,245 --> 00:06:17,380
+Synchro : <i>ShalimarFox, mpm,
+Icefreak, Arkana</i>
+
+135
+00:06:21,419 --> 00:06:25,013
+Trad : <i>Rhum1, Venusia, Kujathemas,
+Mag31, B.kr, Natrobo</i>
+
+136
+00:06:27,884 --> 00:06:30,542
+Relect : <i>Ky, Arkana.</i>
+
+137
+00:06:35,475 --> 00:06:38,568
+Sous-titre : <i>A²S Team</i>
+--==All-about-Subs.fr==--
+
+138
+00:06:45,195 --> 00:06:47,520
+Brennan a envoyé toutes ces preuves
+d'Angleterre ?
+
+139
+00:06:47,640 --> 00:06:50,643
+Pas seulement des preuves,
+mais de vrais restes humains.
+
+140
+00:06:50,763 --> 00:06:52,707
+Les Anglais ont utilisé
+des fichiers dentaires,
+
+141
+00:06:52,867 --> 00:06:54,326
+pas de blague, s'il vous plaît,
+
+142
+00:06:54,446 --> 00:06:56,316
+pour identifier la fille
+d'un riche expatrié.
+
+143
+00:06:56,436 --> 00:06:59,130
+Américain millionnaire typique.
+Il pense qu'on est meilleurs.
+
+144
+00:06:59,290 --> 00:07:00,698
+Parce que nous le sommes.
+
+145
+00:07:00,818 --> 00:07:03,342
+- Rayons X pour vous, Clark.
+- Merci.
+
+146
+00:07:03,502 --> 00:07:06,262
+Je prends le corps. Voir s'il n'y a pas
+de tissu qui mérite un coup d'œil.
+
+147
+00:07:06,422 --> 00:07:08,267
+Et ces photos de scène de crime
+sont pour moi.
+
+148
+00:07:08,387 --> 00:07:10,556
+Regardez ça. De la vase anglaise.
+
+149
+00:07:11,092 --> 00:07:13,353
+Bien plus correcte
+que la vase américaine.
+
+150
+00:07:13,666 --> 00:07:16,356
+- Une sorte de papier.
+- Je vais voir si on voit quelque chose.
+
+151
+00:07:16,812 --> 00:07:20,412
+Très bien, comme toujours,
+j'aurai besoin de rapports constants.
+
+152
+00:07:31,734 --> 00:07:32,690
+Angela.
+
+153
+00:07:39,150 --> 00:07:41,015
+Oh, mon... Oh, mon Dieu.
+
+154
+00:07:50,439 --> 00:07:51,584
+Grayson...
+
+155
+00:07:52,385 --> 00:07:53,344
+Angela.
+
+156
+00:07:56,357 --> 00:07:59,481
+C'est le dernier moment piquant
+que tu auras de moi.
+
+157
+00:07:59,828 --> 00:08:01,150
+Je veux mon divorce.
+
+158
+00:08:09,995 --> 00:08:12,620
+Portia Frampton, fille unique
+de Roger Frampton, 47 ans,
+
+159
+00:08:12,780 --> 00:08:15,368
+ancien de Ringwood, New Jersey,
+et Sarah Frampton
+
+160
+00:08:15,488 --> 00:08:18,462
+née Burroughs, décédée en 1994
+à Cheltenham, Angleterre.
+
+161
+00:08:18,582 --> 00:08:21,181
+Mon Dieu, vous croirez pas ce que
+le motel m'a donné au petit-déjeuner.
+
+162
+00:08:21,301 --> 00:08:23,589
+C'était comme de la mélasse marron
+et une espèce de viande.
+
+163
+00:08:23,709 --> 00:08:25,654
+C'était une saucisse
+de la taille de mon doigt.
+
+164
+00:08:25,774 --> 00:08:27,051
+J'ai eu un buffet entier.
+
+165
+00:08:27,211 --> 00:08:29,095
+Vous dormez au Duke
+ou un truc comme ça, non ?
+
+166
+00:08:29,215 --> 00:08:30,801
+Je suis au Beefeater Hotel Motel.
+
+167
+00:08:30,921 --> 00:08:32,449
+Vous mangez dans un beefeater.
+
+168
+00:08:32,569 --> 00:08:33,868
+C'est courageux.
+
+169
+00:08:33,988 --> 00:08:35,268
+Oui, c'est le mot.
+
+170
+00:08:35,428 --> 00:08:36,995
+Jamais eu de café aussi léger.
+
+171
+00:08:37,115 --> 00:08:38,479
+Booth, c'est du thé.
+
+172
+00:08:38,639 --> 00:08:41,377
+Il y a deux semaines, Mlle Frampton
+a été vue pour la dernière fois quittant
+
+173
+00:08:41,497 --> 00:08:43,568
+sa maison après la fête
+de son 21e anniversaire.
+
+174
+00:08:43,688 --> 00:08:45,152
+C'est une sacrée coïncidence,
+
+175
+00:08:45,272 --> 00:08:47,697
+Dr Wexler
+travaille pour le père de la victime.
+
+176
+00:08:47,857 --> 00:08:50,120
+Eh bien, pas pour lui, en fait.
+Pour la ville.
+
+177
+00:08:50,240 --> 00:08:52,493
+Je devrais vérifier mon journal
+pour voir si je l'ai tuée.
+
+178
+00:08:52,653 --> 00:08:54,829
+La fête de Portia s'est finie
+vers deux heures du matin
+
+179
+00:08:54,989 --> 00:08:57,247
+et elle était portée disparue
+l'après-midi suivant.
+
+180
+00:08:57,742 --> 00:08:59,077
+La question est pourquoi.
+
+181
+00:08:59,197 --> 00:09:01,889
+Elle était probablement portée disparue
+car personne ne pouvait la trouver.
+
+182
+00:09:02,009 --> 00:09:03,880
+- Ian.
+- Je pense que si personne l'a trouvée,
+
+183
+00:09:04,040 --> 00:09:05,892
+c'est qu'elle était dans sa voiture
+
+184
+00:09:06,012 --> 00:09:08,259
+au fond de la Tamise.
+C'est juste une théorie, d'accord.
+
+185
+00:09:08,419 --> 00:09:10,868
+Bien. C'est une super théorie.
+Pouvez-vous tenir ça une seconde ?
+
+186
+00:09:10,988 --> 00:09:14,849
+Merci. Le Dr Brennan et moi
+allons parler à la famille.
+
+187
+00:09:15,009 --> 00:09:17,148
+- Ensemble ?
+- C'est ce qu'on fait.
+
+188
+00:09:17,268 --> 00:09:19,186
+Vous et un inspecteur.
+C'est extraordinaire.
+
+189
+00:09:19,347 --> 00:09:20,195
+Sympa.
+
+190
+00:09:22,608 --> 00:09:24,400
+Portia Frampton a été frappée
+par derrière.
+
+191
+00:09:25,027 --> 00:09:27,399
+Le trauma aux zygomatiques suggère
+qu'elle est tombée par terre
+
+192
+00:09:27,519 --> 00:09:29,350
+puis a été encore frappée
+au moins deux fois.
+
+193
+00:09:29,470 --> 00:09:31,279
+- Une arme ?
+- Les Anglais n'ont pas pu
+
+194
+00:09:31,399 --> 00:09:34,083
+retrouver tous les fragments du crâne
+donc c'est presque impossible à dire.
+
+195
+00:09:34,203 --> 00:09:35,360
+Excusez-moi.
+
+196
+00:09:35,932 --> 00:09:37,838
+Je voudrais vous présenter mon mari.
+
+197
+00:09:38,408 --> 00:09:41,000
+Mon futur ex-mari.
+
+198
+00:09:41,160 --> 00:09:42,335
+Il faut qu'on parle.
+
+199
+00:09:42,455 --> 00:09:43,753
+C'est lui Birimbau ?
+
+200
+00:09:43,913 --> 00:09:46,380
+Je préfère mon vrai nom, Grayson Barasa.
+
+201
+00:09:46,540 --> 00:09:48,192
+Très heureux de vous rencontrer tous.
+
+202
+00:09:49,810 --> 00:09:50,666
+Écoutez,
+
+203
+00:09:52,254 --> 00:09:55,389
+je me rends compte
+que Grayson est très charmant.
+
+204
+00:09:55,549 --> 00:09:56,724
+Ça, c'est sûr.
+
+205
+00:09:57,528 --> 00:09:59,311
+- Merci.
+- Il est plutôt costaud.
+
+206
+00:09:59,431 --> 00:10:02,792
+Mais tant que Grayson ne m'a pas donné
+les papiers du divorce, je n'ai pas
+
+207
+00:10:03,063 --> 00:10:06,133
+vraiment envie qu'Hodgins vous voie
+tous en train de le contempler comme
+
+208
+00:10:06,253 --> 00:10:07,643
+s'il ressemblait à un dieu.
+
+209
+00:10:07,763 --> 00:10:09,707
+D'accord, mais il ressemble vraiment
+à un dieu.
+
+210
+00:10:10,310 --> 00:10:11,822
+- Vraiment beaucoup.
+- Cam...
+
+211
+00:10:13,067 --> 00:10:14,616
+- Vous ne m'aidez pas là.
+- Pardon.
+
+212
+00:10:19,057 --> 00:10:20,267
+Oh, mon Dieu.
+
+213
+00:10:20,387 --> 00:10:21,484
+Pauvre Hodgins.
+
+214
+00:10:24,786 --> 00:10:27,172
+Regardez-moi ce type. Il est juste...
+
+215
+00:10:29,500 --> 00:10:31,628
+Regardez-le ! Désolé.
+
+216
+00:10:35,328 --> 00:10:36,239
+Hodgins ?
+
+217
+00:10:36,473 --> 00:10:37,430
+ Angie.
+
+218
+00:10:38,516 --> 00:10:40,507
+Voici Grayson Barasa...
+
+219
+00:10:41,307 --> 00:10:42,353
+Birimbau.
+
+220
+00:10:43,678 --> 00:10:46,437
+S'il vous plaît, dites-moi
+que vous êtes là pour signer le divorce.
+
+221
+00:10:47,788 --> 00:10:49,193
+Ce n'est pas possible.
+
+222
+00:10:50,753 --> 00:10:52,613
+Je suis toujours amoureux d'Angela.
+
+223
+00:10:53,167 --> 00:10:54,585
+Bien sûr que vous l'êtes.
+
+224
+00:10:55,347 --> 00:10:57,221
+Je comprends,
+
+225
+00:10:57,341 --> 00:10:59,620
+mais Angela est amoureuse de moi.
+
+226
+00:11:00,094 --> 00:11:01,679
+Je te l'avais dit, Grayson.
+
+227
+00:11:02,070 --> 00:11:04,875
+Angela, tu te souviens de la nuit
+où on s'est rencontrés ?
+
+228
+00:11:06,023 --> 00:11:06,836
+Vaguement.
+
+229
+00:11:07,395 --> 00:11:09,630
+Les vagues étaient phosphorescentes,
+
+230
+00:11:09,790 --> 00:11:11,904
+comme si le monde s'était renversé
+et nous
+
+231
+00:11:12,024 --> 00:11:13,759
+nagions nus dans la Voie lactée.
+
+232
+00:11:13,919 --> 00:11:15,624
+Du phytoplancton bioluminescent.
+
+233
+00:11:15,744 --> 00:11:17,064
+Rien de mystique.
+
+234
+00:11:17,458 --> 00:11:19,849
+Nous parlions de ce que
+l'univers représentait pour nous.
+
+235
+00:11:22,156 --> 00:11:24,103
+Et de comment nos lèvres
+se sont touchées...
+
+236
+00:11:27,608 --> 00:11:28,691
+Excusez-moi.
+
+237
+00:11:29,060 --> 00:11:31,319
+Pas de problème.
+Nos lèvres se touchent tout le temps.
+
+238
+00:11:32,440 --> 00:11:33,440
+Les cloches.
+
+239
+00:11:34,425 --> 00:11:35,948
+- Quoi ?
+- Non, Hodgins.
+
+240
+00:11:36,108 --> 00:11:38,993
+Littéralement, des cloches se sont mises
+à sonner. Ça n'avait rien de cosmique.
+
+241
+00:11:39,153 --> 00:11:40,911
+Toutes les cloches
+de l'île avaient sonné.
+
+242
+00:11:41,071 --> 00:11:44,540
+C'était pendant le Shark Festival des
+cloches. Tu t'attendais à quoi d'autre ?
+
+243
+00:11:44,700 --> 00:11:46,083
+Des tirs de fusils ?
+
+244
+00:11:51,916 --> 00:11:55,022
+Alors, alors... pour les papiers
+du divorce ?
+
+245
+00:11:58,643 --> 00:12:00,993
+Vous avez besoin de temps pour parler.
+
+246
+00:12:09,016 --> 00:12:10,898
+Calmos, petit rigolo.
+
+247
+00:12:11,018 --> 00:12:13,027
+Attends qu'une de tes ex se pointe.
+
+248
+00:12:13,789 --> 00:12:14,612
+Oui.
+
+249
+00:12:15,751 --> 00:12:17,169
+- Au travail.
+- Oui.
+
+250
+00:12:20,482 --> 00:12:22,745
+On a quitté les États-Unis en partie
+
+251
+00:12:22,905 --> 00:12:25,602
+pour s'éloigner de la violence.
+Voilà le résultat maintenant.
+
+252
+00:12:25,722 --> 00:12:28,405
+D'accord M. Frampton, nous sommes
+vraiment navrés pour votre fille.
+
+253
+00:12:28,525 --> 00:12:30,487
+C'était quoi ? Un cambriolage ?
+
+254
+00:12:31,268 --> 00:12:32,563
+On ne sait pas encore.
+
+255
+00:12:32,878 --> 00:12:34,621
+J'aurai besoin d'une liste
+de vos ennemis.
+
+256
+00:12:34,741 --> 00:12:35,798
+Quels ennemis ?
+
+257
+00:12:35,918 --> 00:12:38,170
+Vous êtes un Américain très dur
+en affaires
+
+258
+00:12:38,290 --> 00:12:40,601
+vivant ici en Angleterre,
+vous devez avoir des ennemis.
+
+259
+00:12:40,721 --> 00:12:43,349
+Ma fille était une très douce et
+innocente fille.
+
+260
+00:12:43,509 --> 00:12:44,846
+Pas toujours...
+
+261
+00:12:46,325 --> 00:12:47,652
+M. Frampton.
+
+262
+00:12:47,990 --> 00:12:49,942
+Mais pourquoi vous demandez ça
+de toute façon ?
+
+263
+00:12:50,062 --> 00:12:52,051
+Alors, éloignez cette photo,
+Dr Brennan.
+
+264
+00:12:52,171 --> 00:12:54,268
+Mlle Miller, étiez-vous proche
+de votre belle-fille ?
+
+265
+00:12:54,388 --> 00:12:56,273
+Heather et moi ne sommes
+pas encore mariés.
+
+266
+00:12:58,065 --> 00:12:59,824
+Portia était comme ma petite sœur.
+
+267
+00:12:59,984 --> 00:13:03,768
+On parlait de beaucoup de choses :
+les fringues, les cours, Harry...
+
+268
+00:13:03,888 --> 00:13:05,212
+Harry ? Qui est Harry ?
+
+269
+00:13:05,332 --> 00:13:07,289
+Lord Henry Albert Bonham.
+
+270
+00:13:07,768 --> 00:13:10,852
+D'accord. C'est le genre de vieux
+politicien grincheux ?
+
+271
+00:13:10,972 --> 00:13:14,505
+Lord Bonham est jeune homme tout sauf
+grincheux, héritier du Duc de Innesford.
+
+272
+00:13:14,666 --> 00:13:17,041
+OK. Harry, Henry, Bonham, peu importe.
+
+273
+00:13:17,161 --> 00:13:18,394
+J'ai lu les tabloïdes.
+
+274
+00:13:18,514 --> 00:13:21,166
+Rien ne faisait référence à Portia
+sortant avec un quelconque royaliste.
+
+275
+00:13:21,286 --> 00:13:23,180
+Le duc voulait que ça reste secret.
+
+276
+00:13:23,340 --> 00:13:26,107
+Le duc doit être le père du lord.
+
+277
+00:13:26,227 --> 00:13:28,659
+- J'ai pigé, Bones. Je comprends, OK ?
+- J'essaie juste d'aider.
+
+278
+00:13:28,779 --> 00:13:31,913
+Donc, le duc dit une chose et tout à
+coup, par magie, ça arrive.
+
+279
+00:13:32,033 --> 00:13:34,184
+- Bienvenue en Angleterre.
+- Un meurtre est un meurtre,
+
+280
+00:13:34,304 --> 00:13:36,360
+peu importe qu'il soit proche du trône.
+
+281
+00:13:36,520 --> 00:13:39,588
+Je vous en prie, aidez-moi à trouver
+qui a fait ça à ma fille.
+
+282
+00:13:53,308 --> 00:13:55,182
+Pourquoi vous avez loué ce truc ?
+
+283
+00:13:55,703 --> 00:13:58,618
+Je ne l'ai pas loué, OK ?
+L'entreprise de location a merdé.
+
+284
+00:13:58,738 --> 00:14:01,409
+J'avais demandé une Aston,
+vous voyez, James Bond ?
+
+285
+00:14:01,529 --> 00:14:03,924
+- Mais ils m'ont donné...
+- Oui, ils vous ont donné une Austin.
+
+286
+00:14:04,044 --> 00:14:05,514
+Ça peut arriver à tout le monde.
+
+287
+00:14:05,674 --> 00:14:07,841
+On conduit à gauche ici,
+vous vous rappelez.
+
+288
+00:14:07,961 --> 00:14:10,978
+Conduire ici est tout à fait différent,
+je prends le volant si vous voulez,
+
+289
+00:14:11,138 --> 00:14:13,439
+- je suis excellente conductrice.
+- Merci, Rain Man.
+
+290
+00:14:13,599 --> 00:14:14,778
+Non, ça ira.
+
+291
+00:14:14,898 --> 00:14:16,759
+Écoutez ça, au pays,
+toute la famille royale
+
+292
+00:14:16,879 --> 00:14:19,149
+passerait à l'interrogatoire.
+
+293
+00:14:19,269 --> 00:14:22,147
+Un par un, on les laisse mariner,
+on les attrape quand ils mentent.
+
+294
+00:14:22,267 --> 00:14:25,284
+Ça serait possible, si vous voulez, mais
+ils auraient le temps de se refermer.
+
+295
+00:14:25,949 --> 00:14:28,330
+Restez bien à gauche, s'il vous plaît.
+
+296
+00:14:29,198 --> 00:14:30,966
+- Se refermer ?
+- Serrer les rangs.
+
+297
+00:14:31,200 --> 00:14:33,403
+Rien n'est plus impénétrable
+que l'aristocratie
+
+298
+00:14:33,523 --> 00:14:35,237
+bloquant
+toutes les intrusions du peuple.
+
+299
+00:14:35,357 --> 00:14:37,766
+Je dois dire que je suis assez
+impatiente de voir deux Américains
+
+300
+00:14:37,886 --> 00:14:39,381
+affronter le lion dans sa tanière.
+
+301
+00:14:40,232 --> 00:14:42,570
+- Le feu est rouge.
+- C'est pas grave. Je tourne à droite.
+
+302
+00:14:42,690 --> 00:14:45,459
+Non, non, tourner à droite à un feu
+rouge est comme tourner à gauche
+
+303
+00:14:45,579 --> 00:14:47,502
+sur la mauvaise voie à un feu rouge
+chez nous.
+
+304
+00:14:47,622 --> 00:14:49,065
+- Ça n'a aucun sens.
+- Non,
+
+305
+00:14:49,185 --> 00:14:51,685
+le truc est que c'est illégal
+de tourner quand c'est rouge !
+
+306
+00:14:52,388 --> 00:14:53,562
+Freinez ! Freinez !
+
+307
+00:14:53,972 --> 00:14:54,813
+Freinez !
+
+308
+00:14:57,528 --> 00:14:58,426
+Freinez !
+
+309
+00:14:59,975 --> 00:15:01,654
+Dégage, glandu !
+
+310
+00:15:01,774 --> 00:15:04,562
+Je crois qu'on devrait attendre ici
+le temps que le trafic se disperse.
+
+311
+00:15:05,237 --> 00:15:08,065
+Seigneur, je hais Londres !
+Je hais l'Angleterre !
+
+312
+00:15:08,481 --> 00:15:11,031
+Heureusement
+qu'on a fait la révolution !
+
+313
+00:15:13,458 --> 00:15:14,480
+Brennan.
+
+314
+00:15:14,600 --> 00:15:16,746
+<i>Et le temps,
+pour changer, des nuages...</i>
+
+315
+00:15:16,866 --> 00:15:19,540
+La composition d'acides gras du liquide
+céphalorachidien de la victime
+
+316
+00:15:19,660 --> 00:15:22,145
+a attiré mon attention,
+alors j'ai fait d'autres tests.
+
+317
+00:15:22,544 --> 00:15:24,635
+Il s'avère que Portia Frampton
+était enceinte.
+
+318
+00:15:24,795 --> 00:15:25,970
+Enceinte de combien ?
+
+319
+00:15:26,130 --> 00:15:27,054
+<i>Et le café !</i>
+
+320
+00:15:27,399 --> 00:15:28,806
+Pourquoi c'est si dur de faire
+
+321
+00:15:28,966 --> 00:15:31,809
+une tasse de café noir ?
+
+322
+00:15:33,059 --> 00:15:35,585
+- Environ deux mois.
+- OK. Merci Cam.
+
+323
+00:15:42,374 --> 00:15:44,154
+OK, ça va beaucoup mieux.
+J'ai raté quoi ?
+
+324
+00:15:44,314 --> 00:15:47,700
+Lord Henry Bonham, héritier du Duc de
+Innesford, a mis en cloque la victime.
+
+325
+00:15:47,860 --> 00:15:49,493
+OK. La royauté déteste les bâtards.
+
+326
+00:15:49,653 --> 00:15:52,165
+- Seulement ceux qui ne font pas de roi.
+- Attendez, les filles.
+
+327
+00:15:52,285 --> 00:15:55,535
+Laissez-moi juste sortir
+de cette cuvette de chiottes !
+
+328
+00:16:04,925 --> 00:16:06,221
+Joli château !
+
+329
+00:16:06,341 --> 00:16:08,136
+Les châteaux ont été conçus
+
+330
+00:16:08,256 --> 00:16:10,343
+à des fins militaires,
+pour résister aux attaques.
+
+331
+00:16:10,463 --> 00:16:11,306
+Ceci...
+
+332
+00:16:11,807 --> 00:16:14,398
+est plus exactement appelé un palais.
+
+333
+00:16:14,518 --> 00:16:17,244
+Un peu d'aide pour sortir, Bones ?
+
+334
+00:16:18,204 --> 00:16:19,347
+Bon sang...
+
+335
+00:16:19,750 --> 00:16:20,700
+Mon Dieu.
+
+336
+00:16:21,268 --> 00:16:22,818
+Bon sang. Allez !
+
+337
+00:16:22,978 --> 00:16:25,504
+Sortir de ce truc, c'est comme naître.
+
+338
+00:16:29,441 --> 00:16:31,175
+C'est le duc ?
+
+339
+00:16:31,295 --> 00:16:34,073
+- C'est son domestique.
+- C'est le majordome.
+
+340
+00:16:34,523 --> 00:16:36,355
+Tu fais quoi ici, vieux ?
+
+341
+00:16:36,475 --> 00:16:38,089
+C'est vrai... FBI.
+
+342
+00:16:38,368 --> 00:16:41,253
+Vous pouvez ranger celle-ci,
+elle n'a aucune valeur.
+
+343
+00:16:41,413 --> 00:16:43,010
+Et pourtant, je suis ici.
+
+344
+00:16:43,437 --> 00:16:45,190
+- On attend dehors.
+- Pourquoi ?
+
+345
+00:16:45,310 --> 00:16:48,010
+Parce que l'agent Booth ne veut pas
+seulement perturber les aristocrates,
+
+346
+00:16:48,170 --> 00:16:49,699
+il les veut sens dessus dessous.
+
+347
+00:16:49,819 --> 00:16:51,364
+Il va les agacer, vous voulez dire.
+
+348
+00:16:51,484 --> 00:16:54,803
+On va dire que le duc et la duchesse
+ne sont pas habitués à vos manières.
+
+349
+00:16:54,923 --> 00:16:56,250
+Un conseil,
+
+350
+00:16:56,557 --> 00:17:00,522
+quand ils commencent à parler de vous
+entre eux, ils cherchent la fuite.
+
+351
+00:17:00,805 --> 00:17:01,590
+D'accord.
+
+352
+00:17:04,937 --> 00:17:08,096
+J'ai vu dans les photos de la scène
+du crime que les sièges arrière du 4x4
+
+353
+00:17:08,216 --> 00:17:11,165
+étaient repliés, ce qui me fait penser
+que peut-être la victime
+
+354
+00:17:11,285 --> 00:17:13,612
+transportait quelque chose
+valant le coup d'être volé.
+
+355
+00:17:13,732 --> 00:17:17,289
+Brennan a récupéré et envoyé des tissus
+du véhicule, que j'ai analysés.
+
+356
+00:17:17,450 --> 00:17:20,876
+Huile de transmission ST-90,
+faite avec du polyalphaoléfines,
+
+357
+00:17:21,036 --> 00:17:22,823
+du plomb, des résidus d'acides H2O,
+
+358
+00:17:22,943 --> 00:17:24,959
+et beaucoup d'HAP.
+
+359
+00:17:26,278 --> 00:17:28,384
+- Ne l'oblige pas à demander.
+- Merci Angela.
+
+360
+00:17:28,745 --> 00:17:31,095
+Une moto a été transportée
+à l'arrière du 4x4.
+
+361
+00:17:31,255 --> 00:17:33,643
+Plus vraisemblablement un scooter,
+compte tenu de la taille.
+
+362
+00:17:33,763 --> 00:17:36,773
+L'assassin tue, charge le corps
+et son scooter.
+
+363
+00:17:36,893 --> 00:17:38,769
+- Ou mobylette.
+- Conduit jusqu'à la Tamise...
+
+364
+00:17:38,929 --> 00:17:42,314
+Décharge la voiture, le corps,
+dans la rivière et rentre en scooter.
+
+365
+00:17:42,474 --> 00:17:44,608
+À travers les rues bondées de Londres.
+
+366
+00:17:47,342 --> 00:17:49,364
+Donc vous êtes
+un authentique majordome ?
+
+367
+00:17:49,484 --> 00:17:53,301
+Ma famille a servi la famille de
+Sa Seigneurie pendant huit générations.
+
+368
+00:17:53,652 --> 00:17:56,106
+Ouais, un véritable majordome
+aurait demandé à prendre mon chapeau.
+
+369
+00:17:56,226 --> 00:17:57,873
+Un vrai gentleman porterait un chapeau.
+
+370
+00:17:57,993 --> 00:17:59,376
+Regardez ce mec.
+
+371
+00:17:59,808 --> 00:18:01,366
+Oui, Monsieur. Ça date de...
+
+372
+00:18:01,486 --> 00:18:03,483
+S'il vous plaît, ne touchez pas à ça,
+agent Booth.
+
+373
+00:18:03,777 --> 00:18:06,576
+Fin des années 1490 ou début 1500.
+
+374
+00:18:06,696 --> 00:18:08,215
+Design allemand ?
+
+375
+00:18:08,376 --> 00:18:11,507
+Les ancêtres de Sa Seigneurie ont
+combattu pour Henry VIII, en France.
+
+376
+00:18:11,878 --> 00:18:14,341
+Bon sang, regardez la taille de ce truc.
+C'est une grande taille,
+
+377
+00:18:14,461 --> 00:18:16,765
+probablement pour effrayer
+les poules mouillées françaises.
+
+378
+00:18:16,925 --> 00:18:20,481
+En fait, Henry VIII a commencé à faire
+des grandes coquilles parce qu'il
+
+379
+00:18:20,601 --> 00:18:23,731
+avait la syphilis, son pénis était
+très sensible à tout ce qui le touchait.
+
+380
+00:18:23,891 --> 00:18:26,923
+Sa Seigneurie favorise la version
+"intimider l'ennemi",
+
+381
+00:18:27,043 --> 00:18:28,593
+si on parle de ce sujet.
+
+382
+00:18:28,713 --> 00:18:30,487
+Sa Seigneurie, Madame et Lord Henry
+
+383
+00:18:30,647 --> 00:18:32,823
+vous rencontreront
+dans la salle du matin.
+
+384
+00:18:33,138 --> 00:18:35,659
+Deux semaines et
+je n'ai aucune nouvelle de Portia.
+
+385
+00:18:35,819 --> 00:18:38,121
+Je savais qu'il s'était passé
+quelque chose de terrible.
+
+386
+00:18:38,241 --> 00:18:40,598
+Vous avez gardé votre relation
+avec Portia Frampton secrète.
+
+387
+00:18:40,718 --> 00:18:42,458
+Ça veut pas dire que je ne l'aimais pas.
+
+388
+00:18:42,618 --> 00:18:44,881
+De là où on vient,
+c'est exactement ce que ça veut dire.
+
+389
+00:18:45,001 --> 00:18:48,468
+Sommes-nous sûrs que ces Américains
+ont le droit de poser ces questions ?
+
+390
+00:18:48,588 --> 00:18:50,785
+Vous savez quoi,
+appelez Scotland Yard et la réponse
+
+391
+00:18:50,905 --> 00:18:52,885
+sera toujours "oui".
+
+392
+00:18:54,755 --> 00:18:57,856
+Portia n'est jamais venue visiter ce...
+
+393
+00:18:58,293 --> 00:18:59,183
+Palais ?
+
+394
+00:18:59,343 --> 00:19:00,681
+Cette maison ? Non.
+
+395
+00:19:00,801 --> 00:19:03,812
+Pourquoi ? Vous étiez amoureux d'elle.
+N'est-ce pas, Lord ?
+
+396
+00:19:03,972 --> 00:19:07,191
+Eh bien, d'après ce que j'ai compris,
+le système de classes en Angleterre,
+
+397
+00:19:07,351 --> 00:19:09,902
+bien que très laxiste
+depuis la Deuxième Guerre Mondiale,
+
+398
+00:19:10,062 --> 00:19:13,411
+existe toujours au plus haut niveau de
+la société. C'est vous, n'est-ce pas ?
+
+399
+00:19:13,531 --> 00:19:16,158
+On préfère ne pas faire
+une telle affirmation.
+
+400
+00:19:17,128 --> 00:19:20,881
+Depuis combien de temps aviez-vous des
+rapports sexuels avec Portia Frampton ?
+
+401
+00:19:21,001 --> 00:19:22,737
+Ai-je dit que je couchais avec elle ?
+
+402
+00:19:22,857 --> 00:19:24,833
+Bien sûr que tu couchais avec elle
+
+403
+00:19:24,993 --> 00:19:26,710
+et je suis sûre qu'elle aimait ça.
+
+404
+00:19:26,870 --> 00:19:28,796
+Tu es un garçon athlétique, bien formé.
+
+405
+00:19:30,290 --> 00:19:32,178
+As-tu offert des rafraîchissements ?
+
+406
+00:19:32,298 --> 00:19:35,052
+Je n'ai pas l'intention de
+les encourager à rester longtemps, mère.
+
+407
+00:19:35,212 --> 00:19:36,470
+Du thé, s'il vous plaît.
+
+408
+00:19:36,630 --> 00:19:39,093
+Harry a gardé sa relation
+avec la fille Frampton secrète,
+
+409
+00:19:39,213 --> 00:19:41,683
+parce que son père est un escroc avide
+
+410
+00:19:41,843 --> 00:19:45,395
+qui utilise l'intimidation et
+la corruption pour avoir ce qu'il veut.
+
+411
+00:19:45,515 --> 00:19:48,624
+Donc... ça n'a rien à voir avec ça ?
+
+412
+00:19:49,142 --> 00:19:51,996
+Ils ont apporté ce torchon
+dans la maison.
+
+413
+00:19:52,116 --> 00:19:53,195
+J'étais là.
+
+414
+00:19:53,355 --> 00:19:55,864
+C'était l'après-midi avant
+la fête d'anniversaire de Portia.
+
+415
+00:19:56,024 --> 00:19:58,384
+- Vous avez vu le photographe ?
+- Bien sûr que non.
+
+416
+00:19:58,504 --> 00:20:01,370
+- Je l'aurais rossé.
+- Le Lord allait la faire médiévale.
+
+417
+00:20:01,776 --> 00:20:03,438
+La fête de Portia était agréable.
+
+418
+00:20:03,558 --> 00:20:05,931
+Elle est partie avant
+que je ne me réveille le matin suivant.
+
+419
+00:20:06,051 --> 00:20:08,627
+- C'est la dernière fois où je l'ai vue.
+- Mais vous l'avez entendue.
+
+420
+00:20:08,787 --> 00:20:11,343
+Les enregistrements téléphoniques
+
+421
+00:20:11,463 --> 00:20:13,924
+montrent
+que vous avez parlé ce matin-là.
+
+422
+00:20:14,084 --> 00:20:16,135
+C'était une conversation personnelle.
+
+423
+00:20:16,895 --> 00:20:18,819
+Vous avez parlé de sa grossesse ?
+
+424
+00:20:20,549 --> 00:20:21,473
+J'ai compris.
+
+425
+00:20:21,633 --> 00:20:23,523
+Je vais vous dire,
+il y a eu une dispute.
+
+426
+00:20:23,643 --> 00:20:26,258
+Portia voulait garder le bébé,
+pas vous.
+
+427
+00:20:26,736 --> 00:20:30,148
+Je vous assure,
+je n'avais aucune idée que...
+
+428
+00:20:30,308 --> 00:20:34,069
+Est-il en train de suggérer que
+la grossesse est un motif de meurtre ?
+
+429
+00:20:34,229 --> 00:20:36,317
+Balivernes.
+Des dispositions auraient été prises.
+
+430
+00:20:36,437 --> 00:20:38,970
+Bien, et vous êtes sûr d'être le père ?
+
+431
+00:20:39,090 --> 00:20:40,701
+- Harry.
+- Regardez ça.
+
+432
+00:20:41,550 --> 00:20:43,745
+Je suis intimidé par la royauté.
+
+433
+00:20:44,420 --> 00:20:45,703
+Vous devez savoir que
+
+434
+00:20:46,170 --> 00:20:47,923
+Portia a rompu avec moi.
+
+435
+00:20:48,285 --> 00:20:50,473
+Elle a dit
+qu'il n'y aurait pas de discussion.
+
+436
+00:20:50,593 --> 00:20:53,982
+Nous y voilà, un motif de meurtre,
+quel que soit le pays.
+
+437
+00:20:56,960 --> 00:20:59,538
+- Qu'est-ce que c'est ?
+- C'est du thé noir Assam,
+
+438
+00:20:59,658 --> 00:21:00,716
+très fort.
+
+439
+00:21:00,945 --> 00:21:03,360
+Appelons ça la version classe supérieure
+
+440
+00:21:03,598 --> 00:21:04,638
+d'une "Cuppa Joe".
+
+441
+00:21:06,143 --> 00:21:07,102
+Tchin.
+
+442
+00:21:10,625 --> 00:21:13,583
+J'ai regardé la photo de la victime
+dans le magazine à scandale.
+
+443
+00:21:13,703 --> 00:21:16,945
+Dans un tirage photo successif,
+la plupart des images sont floues.
+
+444
+00:21:17,106 --> 00:21:19,316
+Seul le sujet principal est net.
+
+445
+00:21:19,436 --> 00:21:21,902
+C'est quoi cet endroit le week-end ?
+Un donjon ?
+
+446
+00:21:22,151 --> 00:21:23,160
+Tu vois ici ?
+
+447
+00:21:23,983 --> 00:21:26,836
+Ces pixels semblent avoir été modifiés
+de manière à apparaître flous.
+
+448
+00:21:26,956 --> 00:21:28,547
+Donc, ce n'était pas un téléobjectif ?
+
+449
+00:21:28,667 --> 00:21:30,288
+Vous éclairez avec des torches, non ?
+
+450
+00:21:30,408 --> 00:21:33,475
+C'était un téléobjectif,
+mais ça a été arrangé pour qu'on croie
+
+451
+00:21:33,595 --> 00:21:35,948
+à du 500 millimètres alors que
+
+452
+00:21:36,256 --> 00:21:38,000
+ce n'est pas plus que du 80.
+
+453
+00:21:38,236 --> 00:21:40,093
+<i>Pourquoi quelqu'un ferait ça ?</i>
+
+454
+00:21:40,408 --> 00:21:42,049
+Vous voyez cet éclat blanc ?
+
+455
+00:21:42,380 --> 00:21:43,972
+<i>Vous voulez dire la tache blanche ?</i>
+
+456
+00:21:44,132 --> 00:21:45,807
+Ouais, c'est un reflet de lumière,
+
+457
+00:21:46,101 --> 00:21:48,727
+presque comme si le photographe
+était derrière une vitre.
+
+458
+00:21:49,226 --> 00:21:52,105
+Et... dans les yeux de Portia,
+vous voyez ça ?
+
+459
+00:21:52,432 --> 00:21:53,482
+- Non.
+- Non.
+
+460
+00:21:53,853 --> 00:21:55,652
+<i>C'est le reflet d'une maison.</i>
+
+461
+00:21:56,776 --> 00:21:58,582
+Vous voyez où je veux en venir ?
+
+462
+00:21:58,929 --> 00:21:59,953
+- Non.
+- Non.
+
+463
+00:22:00,835 --> 00:22:02,783
+<i>- La photo a été prise dans la maison.
+- Exact.</i>
+
+464
+00:22:02,943 --> 00:22:04,499
+Avec un objectif de 80 millimètres.
+
+465
+00:22:05,167 --> 00:22:06,127
+Chérie...
+
+466
+00:22:06,947 --> 00:22:09,242
+... mon ex-mari est ici
+avec les papiers du divorce, alors
+
+467
+00:22:09,362 --> 00:22:10,865
+plus de détails à votre retour.
+
+468
+00:22:10,985 --> 00:22:14,228
+J'aime ce mélange personnel et
+professionnel que vous semblez gérer.
+
+469
+00:22:14,461 --> 00:22:16,463
+Harry aurait pu prendre la photo.
+
+470
+00:22:16,772 --> 00:22:18,561
+Oui, c'est évidemment une possibilité,
+
+471
+00:22:18,681 --> 00:22:20,850
+mais Harry n'avait aucun mobile
+pour prendre la photo.
+
+472
+00:22:20,970 --> 00:22:23,315
+On est plus à la recherche
+d'un domestique mécontent
+
+473
+00:22:23,435 --> 00:22:24,903
+qui avait besoin d'argent.
+
+474
+00:22:47,048 --> 00:22:49,228
+Je suis désolé de manger sans vous,
+
+475
+00:22:49,348 --> 00:22:52,013
+mais il semble que pour réserver
+une table, il faut commander.
+
+476
+00:22:52,133 --> 00:22:55,665
+Je suis pas ici pour manger, mais pour
+que vous signiez les papiers du divorce.
+
+477
+00:22:57,418 --> 00:22:58,489
+À ma place,
+
+478
+00:22:59,328 --> 00:23:01,550
+- vous le feriez ?
+- Je ne suis pas à votre place.
+
+479
+00:23:02,026 --> 00:23:04,594
+J'ai cherché Angela pendant 5 ans.
+
+480
+00:23:05,171 --> 00:23:06,659
+Je sais. Je sais.
+
+481
+00:23:06,779 --> 00:23:09,029
+Notre détective privé
+nous a tout dit.
+
+482
+00:23:09,149 --> 00:23:12,036
+Vous avez construit une maison
+à mains nues pour Angela et
+
+483
+00:23:12,156 --> 00:23:14,938
+fait en même temps de la contrebande
+de médicaments pour les enfants de Cuba
+
+484
+00:23:15,098 --> 00:23:17,274
+et vous aidez un orphelinat.
+Vous êtes un saint.
+
+485
+00:23:17,434 --> 00:23:18,556
+J'ai compris.
+
+486
+00:23:18,676 --> 00:23:20,402
+Si vous croyez que c'est vrai,
+
+487
+00:23:20,562 --> 00:23:22,738
+alors vous voudriez
+ce qu'il y a de mieux pour Angela.
+
+488
+00:23:22,898 --> 00:23:23,948
+C'est vrai.
+
+489
+00:23:24,085 --> 00:23:25,913
+Et devinez quoi. C'est moi.
+
+490
+00:23:26,568 --> 00:23:28,702
+Pourquoi êtes-vous meilleur que moi ?
+
+491
+00:23:28,969 --> 00:23:30,863
+Manifestement, je ne le suis pas.
+
+492
+00:23:32,532 --> 00:23:35,499
+- Mais je l'aime plus que vous.
+- Vous ne pouvez pas le savoir.
+
+493
+00:23:35,660 --> 00:23:37,066
+Si, je peux.
+
+494
+00:23:40,195 --> 00:23:41,923
+On est dans une impasse.
+
+495
+00:24:00,724 --> 00:24:02,788
+Vous n'avez aucune fierté.
+
+496
+00:24:03,104 --> 00:24:05,503
+Oui. Je donnerais ma vie pour Angela,
+
+497
+00:24:05,623 --> 00:24:07,377
+alors c'est quoi un peu de fierté ?
+
+498
+00:24:07,859 --> 00:24:09,451
+Elle m'a embrassé, vous savez.
+
+499
+00:24:09,611 --> 00:24:11,328
+Sur la joue ou...
+
+500
+00:24:12,916 --> 00:24:14,444
+Qu'est-ce qu'il se passe ?
+
+501
+00:24:14,564 --> 00:24:15,499
+Oh, non.
+
+502
+00:24:16,875 --> 00:24:18,951
+- Il dit que tu l'as embrassé.
+- C'est vrai.
+
+503
+00:24:20,121 --> 00:24:21,514
+C'était un baiser d'adieu.
+
+504
+00:24:21,634 --> 00:24:23,006
+Vous ne pouvez rien y faire.
+
+505
+00:24:23,166 --> 00:24:25,205
+- Vous devez accepter...
+- Hodgins !
+
+506
+00:24:25,919 --> 00:24:27,817
+Vous pouvez tenir ça, s'il vous plaît ?
+
+507
+00:24:35,134 --> 00:24:36,283
+Bravo, Grayson.
+
+508
+00:24:40,684 --> 00:24:41,663
+Angela...
+
+509
+00:24:48,337 --> 00:24:50,713
+On cherche à identifier le photographe
+
+510
+00:24:50,833 --> 00:24:52,483
+qui a pris la photo de Portia.
+
+511
+00:24:52,603 --> 00:24:54,955
+L'identification de son meurtrier
+est sûrement plus importante.
+
+512
+00:24:55,116 --> 00:24:57,153
+Ce sont des paparazzi.
+Ils suivent les gens.
+
+513
+00:24:57,273 --> 00:25:00,752
+Peut-être qu'il a vu quelque chose.
+Je ne sais pas, peut-être le tueur.
+
+514
+00:25:00,912 --> 00:25:03,922
+La photo a été prise
+d'une chambre de la maison de Portia.
+
+515
+00:25:04,082 --> 00:25:07,884
+Vous suggérez que la bonne a laissé
+entrer un paparazzo dans la maison.
+
+516
+00:25:08,044 --> 00:25:11,930
+En fait, la bonne a dit à Pritchard
+que vous étiez dans la chambre.
+
+517
+00:25:12,710 --> 00:25:16,054
+Vous voulez nous dire pourquoi vous
+l'avez fait, avant que Roger n'arrive.
+
+518
+00:25:16,316 --> 00:25:18,789
+Roger et moi avons fixé cinq dates
+de mariage, au fil des ans.
+
+519
+00:25:18,909 --> 00:25:21,226
+À chaque fois, Portia trouvait
+un moyen de lui faire reporter.
+
+520
+00:25:21,346 --> 00:25:23,608
+Elle faisait ce qu'elle voulait de lui.
+
+521
+00:25:23,768 --> 00:25:25,986
+- Donc, vous l'avez tuée ?
+- Ne soyez pas ridicule.
+
+522
+00:25:26,146 --> 00:25:29,480
+Je souhaitais simplement que Roger
+voie Portia comme une
+
+523
+00:25:29,600 --> 00:25:32,304
+adulte sexuellement mature
+avec ses propres projets
+
+524
+00:25:32,539 --> 00:25:34,703
+plutôt que comme une enfant innocente.
+
+525
+00:25:35,221 --> 00:25:37,910
+Désolé, je suis en retard. Ça a duré
+plus longtemps que prévu au tribunal.
+
+526
+00:25:38,030 --> 00:25:39,679
+Heather, j'espère que tu n'as rien dit.
+
+527
+00:25:39,799 --> 00:25:40,741
+Trop tard.
+
+528
+00:25:41,008 --> 00:25:42,157
+Trop tard pour quoi ?
+
+529
+00:25:42,277 --> 00:25:45,234
+Votre petite amie a envoyé la photo de
+votre fille nue, au magazine à scandale
+
+530
+00:25:45,354 --> 00:25:47,546
+pour que vous arrêtiez de penser
+qu'elle était parfaite,
+
+531
+00:25:47,666 --> 00:25:48,800
+et enfin vous marier.
+
+532
+00:25:49,285 --> 00:25:52,173
+Les Américains compensent par la clarté
+leur manque de subtilité.
+
+533
+00:25:52,440 --> 00:25:53,752
+Roger, je suis désolée.
+
+534
+00:25:54,441 --> 00:25:56,057
+Mais bon sang, pourquoi as-tu fait ça ?
+
+535
+00:25:56,355 --> 00:25:59,189
+Crois-moi, je n'aurais jamais fait
+quoi que ce soit pour nuire à Portia.
+
+536
+00:25:59,309 --> 00:26:01,552
+J'ai juste fait une terrible erreur.
+
+537
+00:26:03,675 --> 00:26:04,643
+Roger !
+
+538
+00:26:05,299 --> 00:26:06,109
+Roger !
+
+539
+00:26:06,668 --> 00:26:08,403
+Je pense que cet entretien est fini.
+
+540
+00:26:08,563 --> 00:26:11,774
+En fait, j'ai une autre question.
+Qui pourrait vouloir porter ça ?
+
+541
+00:26:16,362 --> 00:26:18,739
+C'est tellement agréable de vous voir
+détendu et apprécier une
+
+542
+00:26:18,859 --> 00:26:20,555
+bonne bière britannique, agent Booth.
+
+543
+00:26:20,675 --> 00:26:22,055
+- Tchin.
+- Tchin.
+
+544
+00:26:22,774 --> 00:26:24,669
+Je vais vous dire,
+j'aimerais voir ça s'ouvrir.
+
+545
+00:26:25,885 --> 00:26:27,164
+Vraiment ? Pourquoi ?
+
+546
+00:26:28,087 --> 00:26:29,090
+La chance.
+
+547
+00:26:29,250 --> 00:26:31,256
+Vous devriez être
+drôlement chanceux pour voir
+
+548
+00:26:31,376 --> 00:26:33,929
+- une chose comme ça, n'est-ce pas ?
+- C'est ce que je voulais dire.
+
+549
+00:26:35,266 --> 00:26:37,373
+Vous êtes vraiment chanceux aujourd'hui.
+
+550
+00:26:37,493 --> 00:26:38,223
+Ouais.
+
+551
+00:26:41,139 --> 00:26:43,858
+C'est un Walther PPK.
+C'est un pistolet de James Bond.
+
+552
+00:26:44,766 --> 00:26:46,399
+Booth, Seeley Booth.
+
+553
+00:26:46,719 --> 00:26:48,732
+Non, c'est épouvantable.
+
+554
+00:26:51,320 --> 00:26:52,483
+Merci, Pritch.
+
+555
+00:26:55,182 --> 00:26:58,819
+S'il vous plaît, n'oubliez pas
+que si vous l'utilisez,
+
+556
+00:26:59,276 --> 00:27:01,751
+c'est moi qui trinquerai.
+
+557
+00:27:02,128 --> 00:27:03,708
+Je suis un bon tireur.
+
+558
+00:27:07,414 --> 00:27:10,225
+Ce sont les bigleux américains.
+Vous allez adorer ces personnes.
+
+559
+00:27:10,479 --> 00:27:11,865
+Booth, Seeley Booth.
+
+560
+00:27:11,985 --> 00:27:15,721
+<i>Le papier que vous m'avez envoyé
+s'avère être une lettre</i>
+
+561
+00:27:15,841 --> 00:27:17,931
+adressée à Portia Frampton, de sa mère.
+
+562
+00:27:18,428 --> 00:27:20,794
+Un souvenir de son enfance peut-être ?
+
+563
+00:27:21,177 --> 00:27:23,520
+<i>- Non, ça date de cette année.
+- Que dit la lettre ?</i>
+
+564
+00:27:24,139 --> 00:27:26,806
+L'ensemble de la lettre
+est indéchiffrable.
+
+565
+00:27:26,926 --> 00:27:30,569
+La date, les salutations et
+la signature sont claires.
+
+566
+00:27:30,729 --> 00:27:32,028
+Merci, Ange.
+
+567
+00:27:32,342 --> 00:27:35,463
+Donc la mère de Portia Frampton
+est toujours en vie ?
+
+568
+00:27:36,412 --> 00:27:38,493
+Ça soulève un tas de questions.
+
+569
+00:27:40,289 --> 00:27:43,164
+<i>Visible en L2 dans une zone
+de radio transparence.</i>
+
+570
+00:27:43,324 --> 00:27:46,001
+- Je ne vois rien du tout.
+- Donnez-nous un moment, Clark.
+
+571
+00:27:46,161 --> 00:27:48,629
+On a trouvé quelques fragments d'os
+de plus aujourd'hui, Dr Wexler.
+
+572
+00:27:48,749 --> 00:27:50,720
+- Bien. Quel âge ?
+- Pas plus de 100 ans.
+
+573
+00:27:50,840 --> 00:27:53,380
+Pour empêcher Frampton de construire
+son cher gratte-ciel sur ce site,
+
+574
+00:27:53,500 --> 00:27:55,885
+on doit trouver quelque chose
+de l'âge de bronze ou plus vieux.
+
+575
+00:27:56,045 --> 00:27:58,675
+Il y a la preuve de la réabsorption
+de l'os environnant.
+
+576
+00:27:58,795 --> 00:28:00,923
+Ici, oui, je vois. Très intéressant.
+
+577
+00:28:01,043 --> 00:28:03,727
+Cyril, vous devenez impertinent.
+Arrêtez de parler.
+
+578
+00:28:03,887 --> 00:28:05,961
+L'anomalie pourrait-elle être
+un hémangioblastome ?
+
+579
+00:28:06,081 --> 00:28:08,596
+OK, il est temps de partir.
+Et ne revenez pas avant d'avoir trouvé
+
+580
+00:28:08,716 --> 00:28:11,239
+au moins un os fossilisé
+de l'âge de bronze.
+
+581
+00:28:12,645 --> 00:28:14,904
+Cam a-t-elle fait l'histologie, Clark ?
+
+582
+00:28:15,091 --> 00:28:16,388
+<i>Elle le fera, Dr Brennan.</i>
+
+583
+00:28:20,455 --> 00:28:21,327
+Alors...
+
+584
+00:28:21,805 --> 00:28:24,666
+- Et maintenant ?
+- Je pensais à un verre rapide,
+
+585
+00:28:24,786 --> 00:28:27,989
+retour chez vous pour un peu de sexe,
+et après, un dernier souper.
+
+586
+00:28:29,691 --> 00:28:31,046
+J'aurais tendance à accepter.
+
+587
+00:28:31,206 --> 00:28:34,215
+- J'en serais très heureux.
+- Mais Booth a dit de me méfier de vous.
+
+588
+00:28:34,375 --> 00:28:37,031
+- Et pourquoi ?
+- Il dit que vous les collectionnez.
+
+589
+00:28:37,378 --> 00:28:38,845
+Les collectionner ? Vulgaire.
+
+590
+00:28:39,005 --> 00:28:41,014
+Booth est très bon pour cerner les gens.
+
+591
+00:28:41,174 --> 00:28:43,235
+Dans ce cas,
+pourquoi ne pas commencer par un souper,
+
+592
+00:28:43,355 --> 00:28:46,144
+et ensuite, voir où ça nous mène ?
+
+593
+00:28:46,304 --> 00:28:48,188
+Ce serait un compromis acceptable.
+
+594
+00:28:53,311 --> 00:28:56,860
+J'ai cherché des traces microscopiques
+dans les fragments du crâne.
+
+595
+00:28:57,343 --> 00:29:00,241
+- Brillant et joli, c'est quoi ?
+- De la nacre.
+
+596
+00:29:00,953 --> 00:29:02,661
+Avez-vous parlé à Angela aujourd'hui ?
+
+597
+00:29:02,821 --> 00:29:05,872
+Oui... vous dites que notre victime
+a été attaquée par une haliotide ?
+
+598
+00:29:06,033 --> 00:29:08,625
+- Elle est très en colère ?
+- Beaucoup.
+
+599
+00:29:08,785 --> 00:29:12,545
+Je pensais que les femmes aimaient
+que l'on se batte pour elles.
+
+600
+00:29:12,705 --> 00:29:15,048
+"Les femmes", c'est une généralisation
+inacceptable.
+
+601
+00:29:21,816 --> 00:29:23,848
+Vous devriez regarder par-dessus
+votre autre épaule.
+
+602
+00:29:24,008 --> 00:29:26,738
+- Je conduis depuis l'âge de 12 ans.
+- Ça vous rendrait moins nerveux
+
+603
+00:29:26,858 --> 00:29:29,269
+si je vous disais que je n'ai pas
+couché avec Wexler hier soir ?
+
+604
+00:29:29,389 --> 00:29:30,899
+Je ne suis pas nerveux, OK ?
+
+605
+00:29:31,019 --> 00:29:34,109
+Je suis énervé à cause de la conduite
+de cette petite voiture, c'est tout.
+
+606
+00:29:34,426 --> 00:29:36,990
+Le Dr Wexler est juste...
+
+607
+00:29:37,726 --> 00:29:40,026
+Je ne suis pas énervé à cause de vous
+et du Dr Wexler.
+
+608
+00:29:40,146 --> 00:29:42,742
+C'est juste un mec qui cherche
+une liaison sans lendemain.
+
+609
+00:29:42,903 --> 00:29:45,316
+- Et ?
+- Et il ne prend pas ça au sérieux.
+
+610
+00:29:45,436 --> 00:29:48,540
+Ça veut dire quoi ? Vous ne riez
+jamais pendant l'amour ? Moi si.
+
+611
+00:29:48,700 --> 00:29:50,708
+- Vous voyez ce fourgon ?
+- Je vois ce fourgon.
+
+612
+00:29:50,869 --> 00:29:53,336
+C'est un camion, OK ? On est
+américains et ça, c'est un camion.
+
+613
+00:29:54,695 --> 00:29:58,023
+Je ris pendant l'amour. Juste...
+Ce n'est pas ce genre de sérieux.
+
+614
+00:29:58,143 --> 00:30:01,803
+Je pense que le Dr Wexler est sérieux
+au sujet de faire l'amour avec moi.
+
+615
+00:30:02,250 --> 00:30:04,305
+- Très intéressé.
+- Bulletin d'information pour vous.
+
+616
+00:30:04,465 --> 00:30:07,422
+Il n'y a pas un mec dans ce pays qui ne
+voudrait pas faire l'amour avec vous.
+
+617
+00:30:07,542 --> 00:30:09,656
+Peut-être la moitié des homosexuels...
+Doucement.
+
+618
+00:30:10,316 --> 00:30:12,997
+Vous êtes gentil avec moi ou
+odieux avec les hommes britanniques ?
+
+619
+00:30:14,499 --> 00:30:16,818
+Wexler n'est pas spécial, vous l'êtes.
+
+620
+00:30:21,316 --> 00:30:24,824
+- J'interromps quelque chose ?
+- Non, j'aide juste Booth à conduire.
+
+621
+00:30:24,944 --> 00:30:27,224
+Il ne devrait pas conduire,
+il ne sait pas s'adapter.
+
+622
+00:30:27,344 --> 00:30:30,832
+<i>Je suis M. Adaptation, OK ?
+Et le rétro est de la taille d'un ongle.</i>
+
+623
+00:30:30,992 --> 00:30:34,043
+Vous vous attendiez à quoi en louant
+une voiture de la taille d'un pouce ?
+
+624
+00:30:34,204 --> 00:30:37,161
+Je ne pense pas qu'il y ait assez de
+tissu fœtal pour avoir l'ADN, mais...
+
+625
+00:30:37,281 --> 00:30:40,425
+On peut juste se calmer jusqu'à ce
+qu'on entre dans la circulation ?
+
+626
+00:30:42,921 --> 00:30:44,588
+Vous pensez que je suis spéciale ?
+
+627
+00:30:44,708 --> 00:30:46,848
+Bien sûr, je pense
+que vous êtes spéciale, oui.
+
+628
+00:30:47,009 --> 00:30:50,393
+<i>Merci. Je tiendrai compte de votre
+conseil romantique.</i>
+
+629
+00:30:50,553 --> 00:30:54,435
+Vous êtes trop loin vers la gauche.
+Vous allez heurter le trottoir !
+
+630
+00:30:55,201 --> 00:30:56,357
+Ça va.
+
+631
+00:30:56,871 --> 00:30:58,359
+Ouais. Sauf si on a un pneu crevé.
+
+632
+00:30:58,879 --> 00:31:01,404
+<i>- Non. Ça va.
+- Si je peux à nouveau parler,</i>
+
+633
+00:31:01,564 --> 00:31:03,221
+j'ai eu plus de chance avec la tumeur.
+
+634
+00:31:03,341 --> 00:31:06,409
+Notre victime souffrait
+de la maladie de Von-Hippel Lindau.
+
+635
+00:31:09,238 --> 00:31:12,457
+- On a un pneu crevé.
+- Comment ça a pu arriver ?
+
+636
+00:31:13,501 --> 00:31:16,794
+Il n'y avait aucune indication de VHL
+
+637
+00:31:16,955 --> 00:31:19,619
+<i>dans les rapports médicaux
+de la mère et le rapport d'autopsie.</i>
+
+638
+00:31:19,739 --> 00:31:22,008
+Mais c'est héréditaire,
+donc son père doit l'avoir.
+
+639
+00:31:22,241 --> 00:31:24,052
+Roger Frampton travaillait pour la NHL ?
+
+640
+00:31:24,223 --> 00:31:28,181
+- Il a peut-être la maladie de VHL.
+- Et s'il ne l'a pas ?
+
+641
+00:31:28,341 --> 00:31:31,518
+Alors, Roger Frampton n'est pas
+le père biologique de Portia Frampton.
+
+642
+00:31:31,986 --> 00:31:32,986
+Oh, mon Dieu.
+
+643
+00:31:35,616 --> 00:31:37,506
+Super. C'est super.
+
+644
+00:31:37,626 --> 00:31:39,002
+Je déteste cette voiture.
+
+645
+00:31:45,979 --> 00:31:47,408
+Ma femme n'est pas en vie.
+
+646
+00:31:47,885 --> 00:31:50,587
+Votre fille avait sur elle une lettre
+de sa mère quand elle est morte.
+
+647
+00:31:50,707 --> 00:31:53,456
+Ça datait du 21e anniversaire de Portia.
+
+648
+00:31:53,741 --> 00:31:55,125
+C'est impossible.
+
+649
+00:31:55,589 --> 00:31:57,544
+Dites à vos gars du labo
+qu'ils se sont trompés.
+
+650
+00:31:57,843 --> 00:31:59,504
+En fait, le labo a raison.
+
+651
+00:31:59,675 --> 00:32:01,548
+Portia avait sur elle une lettre
+de Sarah,
+
+652
+00:32:01,709 --> 00:32:03,258
+datée de son 21e anniversaire.
+
+653
+00:32:03,418 --> 00:32:05,649
+Portia et moi nous sommes vus
+dans un café à Knightsbridge,
+
+654
+00:32:05,769 --> 00:32:08,476
+le lendemain de sa fête. Je lui ai
+personnellement remis la lettre.
+
+655
+00:32:08,596 --> 00:32:10,419
+Vous découvrirez
+que Sarah se savait mourante
+
+656
+00:32:10,539 --> 00:32:12,984
+et a confié les lettres à M. Curry
+qui les a données à Portia
+
+657
+00:32:13,104 --> 00:32:15,233
+- lors de son anniversaire.
+- Comment le savez-vous ?
+
+658
+00:32:15,353 --> 00:32:18,073
+C'est ce que j'aurais fait si j'étais
+mourante et que j'avais une fille.
+
+659
+00:32:18,193 --> 00:32:20,767
+Tout ça est très touchant,
+mais Willy-le-Porteur-de-Perruque reste
+
+660
+00:32:20,887 --> 00:32:22,745
+la dernière personne à avoir
+vu Portia en vie.
+
+661
+00:32:22,865 --> 00:32:25,530
+- Maintenant, je suis suspect ?
+- Tu aurais dû me le dire.
+
+662
+00:32:25,690 --> 00:32:28,523
+Tu n'es pas la seule personne
+à m'avoir engagé pour ma discrétion.
+
+663
+00:32:28,856 --> 00:32:31,642
+- Que disait la lettre ?
+- Je ne pense pas pouvoir vous le dire.
+
+664
+00:32:33,314 --> 00:32:35,157
+M. Frampton, comment vous portez-vous ?
+
+665
+00:32:36,069 --> 00:32:37,333
+Quel est le rapport ?
+
+666
+00:32:37,493 --> 00:32:40,169
+Aucunes douleurs des nerfs,
+vertiges, migraines ?
+
+667
+00:32:40,330 --> 00:32:41,652
+Je suis en pleine forme.
+
+668
+00:32:41,772 --> 00:32:44,966
+Êtes-vous au courant que Portia
+n'est pas votre fille biologique ?
+
+669
+00:32:49,172 --> 00:32:51,806
+Peut-être que je devrais mener
+la suite de cet entretien.
+
+670
+00:32:58,126 --> 00:32:59,147
+Nous y voilà.
+
+671
+00:32:59,307 --> 00:33:01,812
+Angela, les hommes sont des idiots.
+Sérieusement.
+
+672
+00:33:02,226 --> 00:33:04,895
+Pour être sûre,
+es-tu un homme ou un gosse
+
+673
+00:33:05,052 --> 00:33:07,155
+pour le bien de cette conversation ?
+
+674
+00:33:10,107 --> 00:33:14,055
+Quand j'avais dix ans, le gosse d'à côté
+avait un TortueVan.
+
+675
+00:33:15,037 --> 00:33:18,249
+C'est un accessoire pour
+les figurines des Tortues Ninja.
+
+676
+00:33:20,147 --> 00:33:21,204
+C'est un jouet.
+
+677
+00:33:22,516 --> 00:33:24,589
+Bref, j'adorais ce TortueVan.
+
+678
+00:33:25,287 --> 00:33:26,841
+Je voulais ce TortueVan.
+
+679
+00:33:27,125 --> 00:33:29,582
+Donc, j'ai escaladé l'arbre
+devant la fenêtre de sa chambre.
+
+680
+00:33:29,989 --> 00:33:31,471
+Mais l'arbre avait un champignon
+
+681
+00:33:31,632 --> 00:33:34,140
+et son père était trop radin
+pour embaucher un arboriste.
+
+682
+00:33:34,722 --> 00:33:37,997
+Sans que je le sache,
+certaines des branches étaient mortes.
+
+683
+00:33:38,585 --> 00:33:40,033
+Une chance pour toi, je...
+
+684
+00:33:40,275 --> 00:33:43,198
+J'apprécie une histoire tarabiscotée
+avec ma boisson chaude.
+
+685
+00:33:43,388 --> 00:33:46,280
+Je suis à l'hôpital.
+Le bras cassé, commotion...
+
+686
+00:33:46,902 --> 00:33:48,859
+et le gamin au TortueVan entre.
+
+687
+00:33:49,637 --> 00:33:52,047
+Je lui avoue tout.
+Tu sais ce qu'il a dit ?
+
+688
+00:33:54,182 --> 00:33:55,536
+"Je te l'aurais donné".
+
+689
+00:33:56,719 --> 00:33:58,373
+Il avait une légère attirance pour toi.
+
+690
+00:33:59,287 --> 00:34:00,237
+Vraiment ?
+
+691
+00:34:02,376 --> 00:34:04,001
+Ça explique beaucoup de choses.
+
+692
+00:34:04,121 --> 00:34:07,308
+Mais je présume que tu as
+un point de vue différent de l'histoire,
+
+693
+00:34:07,511 --> 00:34:08,653
+peut être que...
+
+694
+00:34:09,067 --> 00:34:10,353
+Je suis le TortueVan.
+
+695
+00:34:10,917 --> 00:34:14,510
+Non, tu es le garçon gay.
+Ton amour est le TortueVan.
+
+696
+00:34:14,757 --> 00:34:16,129
+Grayson est l'arbre.
+
+697
+00:34:16,614 --> 00:34:17,814
+Je suis Hodgins.
+
+698
+00:34:18,219 --> 00:34:20,093
+Ce qui nous ramène au fait que
+
+699
+00:34:20,379 --> 00:34:22,313
+tous les hommes sont des idiots.
+
+700
+00:34:23,640 --> 00:34:25,066
+T'as vu comment j'ai résolu ça ?
+
+701
+00:34:26,644 --> 00:34:28,396
+C'est parce que je suis doué.
+
+702
+00:34:31,426 --> 00:34:34,409
+Les sculptures des pneus de la victime
+étaient quasiment remplies de limon.
+
+703
+00:34:34,702 --> 00:34:35,516
+Mais...
+
+704
+00:34:36,159 --> 00:34:38,102
+j'ai trouvé d'autres matériaux.
+
+705
+00:34:39,554 --> 00:34:41,374
+Du corail scleractinian écrasé.
+
+706
+00:34:41,534 --> 00:34:43,937
+- Originaire d'Australie.
+- Elle a été tuée en Australie ?
+
+707
+00:34:44,057 --> 00:34:46,629
+C'est utilisé comme revêtement
+pour les routes privées en Angleterre.
+
+708
+00:34:46,789 --> 00:34:48,691
+- En quoi ça nous aide ?
+- Ça a été illégal
+
+709
+00:34:48,811 --> 00:34:52,003
+d'en récolter pendant des années, donc
+la route en question est assez vieille.
+
+710
+00:34:52,178 --> 00:34:54,919
+Et même si on en trouvait,
+c'était incroyablement cher.
+
+711
+00:34:55,164 --> 00:34:57,041
+- Et la matière organique ?
+- Ouais.
+
+712
+00:34:58,027 --> 00:35:00,803
+Une partie de feuille pennée,
+avec des pétales roses.
+
+713
+00:35:01,006 --> 00:35:03,980
+C'est une rosa damascena.
+Une rose antique.
+
+714
+00:35:11,314 --> 00:35:14,224
+Bien, je vais transmettre ça à Booth
+et au Dr Brennan en Angleterre.
+
+715
+00:35:14,344 --> 00:35:16,075
+Vous, allez-y et...
+
+716
+00:35:16,370 --> 00:35:18,098
+Et les caméras de sécurité, les gens.
+
+717
+00:35:18,541 --> 00:35:21,013
+Le bâtiment est rempli
+de caméras de sécurité.
+
+718
+00:35:22,894 --> 00:35:25,091
+Peux-tu ne pas frapper mes ex-maris ?
+
+719
+00:35:25,707 --> 00:35:29,018
+Entendu.
+Tant que tu n'embrasses pas tes ex-maris
+
+720
+00:35:29,138 --> 00:35:30,673
+pendant plus de trois secondes.
+
+721
+00:35:31,375 --> 00:35:32,377
+Sur la bouche.
+
+722
+00:35:33,748 --> 00:35:35,845
+Entendu. Écoute, c'est simple.
+
+723
+00:35:36,479 --> 00:35:38,025
+On ne réclame pas mon cœur.
+
+724
+00:35:38,416 --> 00:35:40,183
+- C'est à moi de le donner.
+- J'ai saisi.
+
+725
+00:35:40,627 --> 00:35:42,885
+Je veux dire, ce que tu dis,
+pas ton cœur.
+
+726
+00:35:43,010 --> 00:35:43,884
+Idiot.
+
+727
+00:35:44,663 --> 00:35:46,362
+Tu as mon cœur.
+
+728
+00:35:46,629 --> 00:35:48,691
+Parce que tu me le donnes ?
+
+729
+00:35:48,852 --> 00:35:51,436
+Enfin. Une lueur de compréhension.
+
+730
+00:35:52,100 --> 00:35:53,100
+C'est si...
+
+731
+00:35:54,142 --> 00:35:56,439
+imprévisible et New Age et...
+
+732
+00:35:56,884 --> 00:35:57,890
+merveilleux.
+
+733
+00:36:20,502 --> 00:36:21,766
+OK ! J'ai saisi.
+
+734
+00:36:22,051 --> 00:36:23,225
+L'univers parle.
+
+735
+00:36:25,429 --> 00:36:26,462
+J'entends.
+
+736
+00:36:40,396 --> 00:36:42,357
+Le mec a dit qu'il allait
+réparer le pneu crevé.
+
+737
+00:36:42,477 --> 00:36:45,157
+- Que fait-elle sur le camion ?
+- Du corail et des pétales de roses.
+
+738
+00:36:45,277 --> 00:36:49,085
+Hodgins a trouvé du corail et des roses
+sur les pneus de Portia Frampton.
+
+739
+00:36:49,245 --> 00:36:51,954
+Qui mettrait une voiture
+avec un pneu crevé sur un camion ?
+
+740
+00:36:52,095 --> 00:36:53,519
+Vous la réparez. C'est tout.
+
+741
+00:36:53,648 --> 00:36:55,883
+S'il y avait eu une roue de secours,
+je l'aurais réparée.
+
+742
+00:36:56,044 --> 00:36:58,436
+Vous avez probablement cassé un essieu.
+Merci, Cam.
+
+743
+00:36:58,556 --> 00:36:59,804
+C'était très utile.
+
+744
+00:36:59,964 --> 00:37:02,348
+Super, maintenant je dois
+appeler l'agent Pritchard
+
+745
+00:37:02,508 --> 00:37:04,067
+et lui demander de nous emmener.
+
+746
+00:37:04,187 --> 00:37:07,033
+L'Angleterre n'est pas bonne pour ma
+dignité personnelle, tout ça à cause...
+
+747
+00:37:07,719 --> 00:37:09,021
+d'un pneu crevé. Attendez.
+
+748
+00:37:09,401 --> 00:37:11,623
+Ne reniflez pas ça.
+Vous ne savez pas où ça a traîné.
+
+749
+00:37:11,743 --> 00:37:15,172
+Si, je le sais. C'est du corail écrasé
+et ça sent comme des roses.
+
+750
+00:37:16,830 --> 00:37:18,614
+Où a-t-on ramassé du corail écrasé ?
+
+751
+00:37:18,774 --> 00:37:21,571
+Sur la route privée et l'allée
+de la propriété Bonham.
+
+752
+00:37:21,931 --> 00:37:24,011
+Portia Frampton roulait
+vers la propriété Bonham
+
+753
+00:37:24,131 --> 00:37:25,288
+juste avant de mourir.
+
+754
+00:37:25,448 --> 00:37:27,832
+Et les nobles ont dit qu'elle
+n'était jamais venue à la maison.
+
+755
+00:37:28,426 --> 00:37:29,458
+Ils mentaient.
+
+756
+00:37:38,460 --> 00:37:41,746
+Vous pensez que le Duc d'Innesford est
+le père biologique de Portia Frampton ?
+
+757
+00:37:41,889 --> 00:37:45,308
+Lui et sa mère présentent
+des symptômes de la maladie de VHL.
+
+758
+00:37:45,469 --> 00:37:48,144
+Nous sommes debout sur du corail.
+Voici des rosiers,
+
+759
+00:37:48,752 --> 00:37:51,494
+et ça c'est un scooter qui irait
+à merveille à l'arrière d'un 4x4.
+
+760
+00:37:51,661 --> 00:37:53,566
+Super. Que font les renforts ?
+
+761
+00:37:53,726 --> 00:37:55,245
+Je n'ai pas demandé de renforts.
+
+762
+00:37:55,365 --> 00:37:57,094
+Très bien. Dans ce cas...
+
+763
+00:37:58,410 --> 00:38:00,933
+Je veux une arme. Je suis une très
+bonne tireuse et j'ai déjà tué.
+
+764
+00:38:01,053 --> 00:38:03,575
+- Ça ne m'a pas tracassée autant que ça.
+- Quand même un peu.
+
+765
+00:38:03,736 --> 00:38:05,494
+Oui, mais pas autant que je le pensais.
+
+766
+00:38:05,655 --> 00:38:07,129
+Je vais attendre dans la voiture.
+
+767
+00:38:07,249 --> 00:38:09,679
+- Absurde, il n'y aura aucune fusillade.
+- Pourquoi ça ?
+
+768
+00:38:09,799 --> 00:38:12,126
+Nous n'aurons pas besoin d'armes,
+car nous avons la lettre.
+
+769
+00:38:12,286 --> 00:38:15,421
+- Nous ignorons ce qu'elle raconte.
+- Mais ça, ils l'ignorent.
+
+770
+00:38:16,672 --> 00:38:18,716
+- Bien joué, Pritch.
+- Comment l'avez-vous appelée ?
+
+771
+00:38:19,027 --> 00:38:21,773
+"Pritch", il m'a appelée "Pritch."
+Le diminutif de "Pritchard".
+
+772
+00:38:21,909 --> 00:38:23,721
+Pouvez-vous ranger cette arme ?
+
+773
+00:38:24,188 --> 00:38:26,474
+Bien. C'est juste que je le sens pas.
+
+774
+00:38:26,869 --> 00:38:30,067
+J'ai une lettre adressée à Portia
+venant de sa mère.
+
+775
+00:38:30,187 --> 00:38:33,173
+- Elle est morte voilà 14 ans.
+- Elle l'a écrite sur son lit de mort.
+
+776
+00:38:33,392 --> 00:38:34,607
+Sur son lit de mort ?
+
+777
+00:38:34,768 --> 00:38:36,734
+Vous savez ce que ça signifie.
+Révélations.
+
+778
+00:38:36,894 --> 00:38:38,027
+Grandes révélations.
+
+779
+00:38:39,029 --> 00:38:42,545
+Le Dr Brennan va nous
+la lire à haute voix.
+
+780
+00:38:43,558 --> 00:38:44,358
+Quoi ?
+
+781
+00:38:47,791 --> 00:38:49,872
+"Ma très chère fille Portia..."
+
+782
+00:38:55,920 --> 00:38:59,028
+Avons-nous mentionné que c'est daté du
+21e anniversaire de Portia Frampton ?
+
+783
+00:38:59,640 --> 00:39:01,008
+Reprenons depuis le début.
+
+784
+00:39:01,889 --> 00:39:04,160
+"Ma très chère fille Portia..."
+
+785
+00:39:05,772 --> 00:39:07,682
+Passez à la partie sur son père.
+
+786
+00:39:07,842 --> 00:39:09,433
+Attendez. Un moment, s'il vous plaît.
+
+787
+00:39:09,992 --> 00:39:11,612
+- Peux-tu nous laisser ?
+- Pourquoi ?
+
+788
+00:39:11,732 --> 00:39:13,521
+- Que se passe-t-il ?
+- Fais-moi confiance.
+
+789
+00:39:13,879 --> 00:39:16,517
+Ce n'est pas une bonne façon pour Harry
+de découvrir certaines vérités.
+
+790
+00:39:16,637 --> 00:39:18,317
+S'il te plaît, Harry. Aie confiance.
+
+791
+00:39:23,649 --> 00:39:25,449
+Ça doit être une sacrée lettre.
+
+792
+00:39:25,609 --> 00:39:27,819
+Vous devez me croire,
+je n'avais aucune idée de ceci
+
+793
+00:39:27,939 --> 00:39:29,787
+avant que Portia me lise la lettre.
+
+794
+00:39:29,947 --> 00:39:32,495
+Quoi ? Vous avez rencontré Portia, ici ?
+
+795
+00:39:35,183 --> 00:39:36,502
+Qu'est-ce qu'elle raconte ?
+
+796
+00:39:36,662 --> 00:39:40,006
+Elle raconte que le Duc était
+le père biologique de Portia.
+
+797
+00:39:40,496 --> 00:39:42,299
+Remarquablement répugnant.
+
+798
+00:39:43,586 --> 00:39:45,644
+Vous n'imaginez quand même pas
+
+799
+00:39:45,764 --> 00:39:48,780
+que Gerard a tué Portia
+pour garder le secret.
+
+800
+00:39:49,945 --> 00:39:51,017
+Et pourquoi pas ?
+
+801
+00:39:51,482 --> 00:39:53,102
+Portia m'a demandé si j'étais son père.
+
+802
+00:39:53,262 --> 00:39:55,938
+J'ai admis que c'était
+plus que probable.
+
+803
+00:39:56,099 --> 00:39:58,774
+Nacre.
+Il s'agit sûrement de l'arme du crime.
+
+804
+00:39:59,620 --> 00:40:02,737
+Ce n'est pas le moment
+où nous appelons un avocat ?
+
+805
+00:40:02,897 --> 00:40:05,614
+Je n'ai pas tué Portia, mère.
+Merci de ta confiance.
+
+806
+00:40:06,108 --> 00:40:08,031
+Je me vois dans l'obligation
+de vous demander
+
+807
+00:40:08,151 --> 00:40:10,369
+de m'accompagner à Scotland Yard,
+votre grâce.
+
+808
+00:40:10,530 --> 00:40:12,999
+- Elle lui demande ?
+- C'est un pays poli.
+
+809
+00:40:14,283 --> 00:40:16,042
+Ça ne sera pas nécessaire.
+
+810
+00:40:16,703 --> 00:40:17,710
+C'était moi.
+
+811
+00:40:17,870 --> 00:40:19,587
+- Jamison !
+- Le majordome ?
+
+812
+00:40:19,748 --> 00:40:22,298
+Vous avez ordonné à votre majordome
+de tuer Portia Frampton ?
+
+813
+00:40:22,458 --> 00:40:24,216
+Le Duc n'a absolument
+rien à voir avec ça.
+
+814
+00:40:24,517 --> 00:40:25,885
+Si Jamison se confesse,
+
+815
+00:40:26,167 --> 00:40:28,721
+Harry n'aura jamais à apprendre
+que Portia était sa sœur.
+
+816
+00:40:29,200 --> 00:40:31,603
+Nous vous fournirons
+les meilleurs représentants.
+
+817
+00:40:31,723 --> 00:40:33,171
+Merci, madame.
+
+818
+00:40:44,644 --> 00:40:47,844
+Vous voulez me faire croire qu'aucun
+d'entre vous n'a trouvé ça étrange ?
+
+819
+00:40:48,275 --> 00:40:50,614
+D'accord, le majordome l'a fait.
+C'était le majordome !
+
+820
+00:40:50,734 --> 00:40:53,369
+Pritchard sera durant des heures
+dans la salle d'interrogatoire avec lui,
+
+821
+00:40:53,489 --> 00:40:55,331
+mais nous ne saurons
+jamais toute la vérité.
+
+822
+00:40:55,491 --> 00:40:57,500
+Vous dites qu'il pourrait
+juste protéger le Duc ?
+
+823
+00:40:57,660 --> 00:40:59,696
+C'est tout à fait concevable, oui.
+
+824
+00:41:00,470 --> 00:41:03,589
+Je pense que je vais essayer de vous
+attirer à Oxford avec moi, ce soir.
+
+825
+00:41:03,820 --> 00:41:07,593
+Vous savez que je suis armé et
+que je meurs d'envie de m'en servir.
+
+826
+00:41:07,753 --> 00:41:09,066
+Je peux gérer ça.
+
+827
+00:41:10,564 --> 00:41:14,183
+Vous savez, c'est l'arme de James Bond.
+C'est un Walther PPK, à ce propos.
+
+828
+00:41:16,595 --> 00:41:18,564
+Je trouve que vous êtes marrant.
+
+829
+00:41:19,223 --> 00:41:21,560
+Diantre, nous y voilà.
+Je crois savoir où ça nous mène.
+
+830
+00:41:21,680 --> 00:41:23,567
+Ça dérangerait Booth
+si je couchais avec vous.
+
+831
+00:41:24,419 --> 00:41:27,368
+Rationnellement parlant, si vous deviez
+avoir une opération du cerveau,
+
+832
+00:41:27,647 --> 00:41:30,950
+par exemple, vous voudriez un chirurgien
+qui a déjà pratiqué l'opération.
+
+833
+00:41:31,110 --> 00:41:33,382
+Vous savez, quelqu'un qui est
+le meilleur dans son domaine.
+
+834
+00:41:33,502 --> 00:41:35,704
+Je ne vois pas pourquoi le sexe
+devrait être différent.
+
+835
+00:41:35,864 --> 00:41:37,792
+Rationnellement parlant,
+vous avez raison.
+
+836
+00:41:37,912 --> 00:41:40,312
+Bien. Alors, on est bon.
+On peut y aller.
+
+837
+00:41:41,073 --> 00:41:43,505
+Regardez l'ouverture du pont.
+On dit que ça porte chance.
+
+838
+00:41:44,911 --> 00:41:47,138
+Ça devrait le tenir occupé
+durant des heures.
+
+839
+00:41:48,188 --> 00:41:49,306
+Le bon sens dit que
+
+840
+00:41:49,426 --> 00:41:52,054
+vous ne devez offenser votre partenaire
+pour une heure d'amusement.
+
+841
+00:41:52,926 --> 00:41:55,526
+Une heure ? Quoi ? Une seule heure ?
+Vous me sous-estimez, Dr Brennan.
+
+842
+00:42:00,913 --> 00:42:03,913
+C'est sans aucun doute le coup de grâce,
+non ?
+
+843
+00:42:05,457 --> 00:42:08,138
+Je vous appellerai à nouveau
+avant que vous partiez.
+
+844
+00:42:08,918 --> 00:42:11,782
+Qui sait ? Vous pourriez être
+dans un état d'esprit plus rationnel.
+
+845
+00:42:27,563 --> 00:42:29,172
+Pourquoi vous me regardez comme ça ?
+
+846
+00:42:29,292 --> 00:42:31,335
+Je suis là pour vous aider
+à choisir un gars.
+
+847
+00:42:35,293 --> 00:42:36,331
+Laissez tomber.
+
+848
+00:42:36,451 --> 00:42:39,517
+- Je suis là pour vous porter chance.
+- Je ne crois pas en la chance.
+
+849
+00:42:39,679 --> 00:42:41,552
+Comment ça vous ne croyez
+pas en la chance ?
+
+850
+00:42:41,672 --> 00:42:44,648
+Comment expliquez-vous de bonnes choses
+arrivant de nulle part ?
+
+851
+00:42:45,789 --> 00:42:47,193
+Définissez "bonnes choses".
+
+852
+00:42:47,353 --> 00:42:49,569
+Vous savez, de bonnes choses.
+De l'argent à la banque,
+
+853
+00:42:49,689 --> 00:42:52,082
+- le parking de Doris Day.
+- Le parking de Doris Day ?
+
+854
+00:42:52,202 --> 00:42:54,211
+Une grande part de tarte,
+ç'en est aussi.
+
+855
+00:42:54,331 --> 00:42:56,643
+J'appelle ça une réponse
+visuelle solipsistique
+
+856
+00:42:56,763 --> 00:42:58,410
+à la nature aléatoire de l'univers.
+
+857
+00:42:58,530 --> 00:43:01,259
+Aubaine, veine. Appelez ça comme vous
+voulez. C'est toujours de la chance.
+
+858
+00:43:01,379 --> 00:43:04,521
+Vous avez de la chance que je comprenne
+les choses étranges que vous racontez.
+
+859
+00:43:04,641 --> 00:43:06,695
+Vous êtes d'accord avec moi,
+c'était de la chance.
+
+860
+00:43:06,815 --> 00:43:08,943
+- Vous étiez d'accord, à l'instant.
+- Sûrement pas !
+
+861
+00:43:30,062 --> 00:43:31,260
+On va déjeuner ?
+
+862
+00:43:31,380 --> 00:43:33,360
+On m'a dit de cataloguer
+les restes non identifiés
+
+863
+00:43:33,480 --> 00:43:34,889
+durant l'absence du Dr Brennan.
+
+864
+00:43:35,009 --> 00:43:37,032
+Et on vous a dit de faire ça
+sans manger ?
+
+865
+00:43:37,152 --> 00:43:39,817
+Le Dr Brennan a été claire,
+tout doit être fait avant son retour.
+
+866
+00:43:39,937 --> 00:43:41,038
+Allez, Clark.
+
+867
+00:43:41,199 --> 00:43:43,624
+Les papiers du divorce sont signés,
+et le mariage peut reprendre,
+
+868
+00:43:43,784 --> 00:43:45,174
+et nous allons tous le fêter.
+
+869
+00:43:45,294 --> 00:43:47,131
+Je suis sûr qu'il a ressenti
+votre invitation
+
+870
+00:43:47,251 --> 00:43:50,233
+comme une tentative polie,
+mais non sincère de ne pas l'exclure.
+
+871
+00:43:50,707 --> 00:43:52,925
+Nous essayions juste
+de répandre le bonheur ici.
+
+872
+00:43:58,696 --> 00:44:00,641
+Je voulais juste te
+dire au revoir, Angela.
+
+873
+00:44:00,801 --> 00:44:02,127
+Je dois aller à l'aéroport.
+
+874
+00:44:02,962 --> 00:44:03,885
+Merci.
+
+875
+00:44:04,156 --> 00:44:05,312
+C'est gentil.
+
+876
+00:44:05,694 --> 00:44:08,691
+Et merci pour le divorce.
+J'ai vraiment apprécié.
+
+877
+00:44:08,852 --> 00:44:10,819
+Ton bonheur est tout ce qui m'importe.
+
+878
+00:44:11,066 --> 00:44:14,907
+Et si, dans un jour, une semaine ou un
+an, tu veux que je revienne dans ta vie.
+
+879
+00:44:15,140 --> 00:44:16,739
+- Je serai là.
+- D'accord.
+
+880
+00:44:16,859 --> 00:44:18,993
+Nous avons votre numéro,
+alors bon voyage.
+
+881
+00:44:19,950 --> 00:44:21,064
+Chérissez-la.
+
+882
+00:44:23,115 --> 00:44:23,936
+Promis.
+
+883
+00:44:24,783 --> 00:44:27,376
+Tout ceci n'est pas extrêmement gênant ?
+
+884
+00:44:27,536 --> 00:44:28,711
+C'est triste.
+
+885
+00:44:28,871 --> 00:44:31,005
+C'est en fait un étalage
+d'émotions contradictoires.
+
+886
+00:44:31,280 --> 00:44:34,174
+Que Reich appelait "la bataille
+pour la puissance orgastique"...
+
+887
+00:44:34,335 --> 00:44:36,260
+- Peut-être plus tard.
+- Bien sûr.
+
+888
+00:44:37,920 --> 00:44:39,963
+Voulez-vous que je vous conduise
+à l'aéroport ?
+
+889
+00:44:40,405 --> 00:44:41,682
+Ça serait vraiment sympa.
+
+890
+00:44:42,369 --> 00:44:44,098
+- Eh bien, merci, Cam.
+- De rien.
+
+891
+00:44:45,028 --> 00:44:48,522
+Honnêtement les gars, je n'ai pas
+à participer au moindre truc.
+
+892
+00:44:55,049 --> 00:44:56,838
+Alors, Wexler
+ne vous a pas encore appelée ?
+
+893
+00:44:56,958 --> 00:44:59,608
+Ian est le meilleur
+anthropologiste d'Angleterre.
+
+894
+00:45:00,027 --> 00:45:01,647
+C'est un homme très occupé, Booth.
+
+895
+00:45:01,767 --> 00:45:04,217
+Occupé à essayer de vous mettre
+dans un lit durant deux semaines.
+
+896
+00:45:04,337 --> 00:45:07,041
+Il aurait pu appeler. On va avoir besoin
+d'un autre taxi pour vos affaires.
+
+897
+00:45:07,201 --> 00:45:11,086
+J'ai reçu beaucoup de cadeaux
+de la part des étudiants d'Oxford.
+
+898
+00:45:12,241 --> 00:45:14,732
+- Non. Ne touchez pas à celui-là.
+- Pourquoi ? C'est quoi ?
+
+899
+00:45:14,852 --> 00:45:17,147
+Pourquoi ? Car vos étudiants
+vous ont donné vos cadeaux,
+
+900
+00:45:17,267 --> 00:45:19,803
+et les flics de Scotland Yard
+m'ont donné un petit quelque chose
+
+901
+00:45:19,964 --> 00:45:21,972
+en guise de remerciement.
+
+902
+00:45:22,346 --> 00:45:24,808
+- C'est quoi ça ?
+- C'est un officier BobbleHead.
+
+903
+00:45:25,260 --> 00:45:28,174
+- C'est tout ce que vous avez eu ?
+- Ç'en est un très joli. Regardez.
+
+904
+00:45:28,764 --> 00:45:31,649
+- Quoi encore, les bijoux de la reine ?
+- Le portier va nous aider.
+
+905
+00:45:31,809 --> 00:45:33,980
+Il est habillé comme je l'ai jamais été.
+Il va se salir.
+
+906
+00:45:34,100 --> 00:45:35,202
+Vous savez quoi ?
+
+907
+00:45:35,330 --> 00:45:37,962
+Il n'y a aucune règle qui dit
+que vous ne pouvez pas l'appeler.
+
+908
+00:45:38,082 --> 00:45:39,997
+De plus, un gars
+qui ne veut pas vous parler
+
+909
+00:45:40,117 --> 00:45:42,951
+car vous avez décidé de ne pas coucher
+avec lui, ne peut pas être aussi bon.
+
+910
+00:45:43,112 --> 00:45:45,329
+- Quoi, au lit ?
+- Non, en tant que personne.
+
+911
+00:45:45,489 --> 00:45:47,673
+- Je pense que Ian serait bon au lit.
+- OK, suivant !
+
+912
+00:45:47,793 --> 00:45:50,987
+Que diriez-vous d'un peu d'aide ?
+Je dois aller à l'aéroport. Allez.
+
+913
+00:45:56,115 --> 00:45:59,339
+- Désolée qu'ils aient annulé ton vol.
+- Pas moi.
+
+914
+00:45:59,822 --> 00:46:02,094
+Moi non plus.
+J'essayais juste d'être polie.
+
+915
+00:46:05,485 --> 00:46:07,420
+Tu sais, il se fait tard.
+
+916
+00:46:07,540 --> 00:46:10,020
+Laisse-moi commander un petit-déj
+avant que tu ailles travailler.
+
+917
+00:46:10,181 --> 00:46:12,555
+Une partie de jambe
+en l'air stupéfiante et un petit-déj ?
+
+918
+00:46:12,746 --> 00:46:14,548
+Je peux mourir en femme comblée.
+
+919
+00:46:21,525 --> 00:46:24,980
+Je suis content de rentrer, mais je
+trouve que l'Amérique a abandonné trop
+
+920
+00:46:25,100 --> 00:46:28,288
+- de trucs anglais en 1776.
+- Comme quoi ?
+
+921
+00:46:28,448 --> 00:46:30,499
+Eh bien, vous savez, comme, la royauté.
+
+922
+00:46:30,659 --> 00:46:32,584
+Un titre sans importance,
+sans vrai pouvoir.
+
+923
+00:46:32,745 --> 00:46:35,138
+Quoi, vous n'avez jamais rêvé
+d'être une princesse étant petite ?
+
+924
+00:46:35,258 --> 00:46:37,840
+Même maintenant ?
+Un château, des douves,
+
+925
+00:46:38,001 --> 00:46:39,871
+des chevaliers en armure brillante.
+
+926
+00:46:41,378 --> 00:46:43,971
+Je risque ma vie pour le gouvernement
+des États-Unis, tous les jours.
+
+927
+00:46:44,132 --> 00:46:48,131
+Je me demande si je peux obtenir
+du Congrès le titre de... chevalier ?
+
+928
+00:46:48,635 --> 00:46:51,228
+Sir Seeley Booth. Ça sonne bien.
+
+929
+00:46:51,388 --> 00:46:53,943
+J'ai obtenu la reconnaissance
+par mon intelligence et mes talents,
+
+930
+00:46:54,063 --> 00:46:56,325
+ce qui a permis ma réussite.
+Je n'ai pas besoin de titre.
+
+931
+00:46:56,445 --> 00:46:58,208
+Quoi ? Qu'est-ce qui ne va pas ?
+
+932
+00:46:59,717 --> 00:47:01,113
+C'est le Dr Wexler.
+
+933
+00:47:04,162 --> 00:47:05,927
+La reconstitution
+et l'analyse de la moelle
+
+934
+00:47:06,047 --> 00:47:08,820
+indiquent que le sujet vivait aux
+alentours des côtes de Caroline du Nord.
+
+935
+00:47:08,940 --> 00:47:10,706
+On devrait jeter un œil à la Jamaïque.
+
+936
+00:47:10,826 --> 00:47:12,666
+Aucune preuve ne conduit aux Caraïbes.
+
+937
+00:47:12,826 --> 00:47:14,164
+Pour notre mariage.
+
+938
+00:47:14,651 --> 00:47:16,295
+Bien sûr. À quoi je pensais ?
+
+939
+00:47:16,456 --> 00:47:19,590
+- J'étais concentré sur mon travail.
+- Un jour aussi tu tomberas amoureux.
+
+940
+00:47:19,750 --> 00:47:21,400
+Oui, mais pour l'instant, je suis seul
+
+941
+00:47:21,520 --> 00:47:23,383
+et heureux de sortir avec
+de nombreuses femmes
+
+942
+00:47:23,503 --> 00:47:25,925
+ainsi je peux me concentrer sur
+mon travail et ne pas être viré.
+
+943
+00:47:26,045 --> 00:47:28,432
+Je connais aussi
+cette petite île au large du Maine.
+
+944
+00:47:28,805 --> 00:47:31,229
+- Bien sûr, tu la connais.
+- Désolée du retard. J'ai raté quoi ?
+
+945
+00:47:31,349 --> 00:47:33,854
+Nous nous décidions entre le Maine
+et la Jamaïque pour le mariage.
+
+946
+00:47:34,014 --> 00:47:36,857
+- L'ex d'Angela a bien décollé ?
+- Pardon ?
+
+947
+00:47:37,277 --> 00:47:39,856
+- Vous l'avez emmené à l'aéroport ?
+- Décollé.
+
+948
+00:47:40,677 --> 00:47:43,363
+Bien sûr.
+Oui, il a décollé et est parti.
+
+949
+00:47:43,523 --> 00:47:45,073
+- Complètement parti.
+- Super.
+
+950
+00:47:45,233 --> 00:47:47,717
+- Merci d'avoir fait ça.
+- Pas de problème.
+
+951
+00:47:49,887 --> 00:47:52,456
+Que ce soit le Maine ou la Jamaïque,
+ça sera parfait.
+
+952
+00:47:53,492 --> 00:47:54,500
+Je devrais...
+
+953
+00:47:55,402 --> 00:47:56,259
+À plus.
+
+954
+00:48:20,567 --> 00:48:22,861
+- Ian vous disait les meilleurs.
+- Que s'est-il passé ?
+
+955
+00:48:24,344 --> 00:48:26,240
+Pourquoi lui donnez-vous une arme ?
+On s'en va.
+
+956
+00:48:26,400 --> 00:48:29,535
+Je crois que l'inspecteur Pritchard
+nous demande de rester, Bones.
+
+957
+00:48:30,578 --> 00:48:32,776
+Vous voulez que je jette un œil
+au corps ?
+
+958
+00:48:34,768 --> 00:48:36,966
+Vous pensez que c'est Ian ?
+
+959
+00:48:43,226 --> 00:48:44,896
+Vous êtes prête pour ça ?
+
+960
+00:48:55,129 --> 00:48:58,405
+C'est l'appartement de Ian Wexler.
+C'est le lit de Ian Wexler.
+
+961
+00:49:08,901 --> 00:49:12,172
+Les marqueurs correspondent
+à l'âge et la carrure de Ian.
+
+962
+00:49:12,405 --> 00:49:15,372
+Bien sûr, il me faut l'accès à un labo
+pour donner une conclusion définitive.
+
+963
+00:49:15,572 --> 00:49:16,958
+Désolé, Bones. Et Pritchard,
+
+964
+00:49:17,078 --> 00:49:20,422
+je ne peux qu'imaginer comme
+c'est difficile de perdre un partenaire.
+
+965
+00:49:20,788 --> 00:49:23,839
+Selon la criminelle, il y aurait eu
+une explosion de gaz.
+
+966
+00:49:24,180 --> 00:49:28,157
+- Ouais, on dirait qu'il buvait.
+- Il aimait prendre un verre ou deux.
+
+967
+00:49:29,873 --> 00:49:30,854
+Cigarette.
+
+968
+00:49:33,232 --> 00:49:34,712
+Il fumait ?
+
+969
+00:49:36,147 --> 00:49:37,686
+Pas que je sache.
+
+970
+00:49:41,650 --> 00:49:44,818
+On dirait qu'il a mis la bouilloire
+sur le gaz avant d'allumer la cigarette.
+
+971
+00:49:44,978 --> 00:49:48,821
+La veilleuse est soufflée.
+Fuite de gaz, et tout explose.
+
+972
+00:49:49,832 --> 00:49:51,378
+Pas d'eau dans la bouilloire.
+
+973
+00:49:54,089 --> 00:49:56,272
+Une eau en train de bouillir
+a tendance à s'évaporer.
+
+974
+00:49:56,565 --> 00:49:59,791
+Écoutez, on ne suspecte pas
+un acte criminel. On veut seulement
+
+975
+00:49:59,952 --> 00:50:02,628
+que le Dr Brennan nous donne
+une identification définitive.
+
+976
+00:50:02,950 --> 00:50:05,411
+L'eau ne s'évapore pas
+si le feu n'est pas allumé.
+
+977
+00:50:08,226 --> 00:50:11,305
+Même la résolution britannique prend
+un coup quand on perd un partenaire.
+
+978
+00:50:14,716 --> 00:50:16,961
+Il y a un trauma évident à l'os frontal.
+
+979
+00:50:17,081 --> 00:50:19,019
+Ça arrive quand le plafond
+s'effondre sur vous.
+
+980
+00:50:19,179 --> 00:50:21,450
+Non, c'était avant l'incendie.
+
+981
+00:50:24,510 --> 00:50:27,110
+Ça n'était pas un accident, Inspecteur.
+
+982
+00:50:41,043 --> 00:50:43,446
+Vous vouliez me voir ?
+La vache, ça c'est cool.
+
+983
+00:50:43,566 --> 00:50:45,509
+Ça n'est pas pour ça
+que vous êtes là, Dr Sweets.
+
+984
+00:50:45,680 --> 00:50:49,101
+Bien sûr. Mais c'est incroyable
+que tous nos espoirs et désirs,
+
+985
+00:50:49,221 --> 00:50:53,105
+fantasmes, douleurs et plaisirs,
+résident tous dans ces 1,4 kg de tissu.
+
+986
+00:50:53,471 --> 00:50:57,354
+Ouais, une partie de ce petit diable
+m'a fait coucher avec l'ex d'Angela.
+
+987
+00:50:57,474 --> 00:51:01,019
+- Vous avez couché avec l'ex d'Angela ?
+- Un peu de discrétion, s'il vous plaît.
+
+988
+00:51:01,179 --> 00:51:03,013
+Je pourrais vous dire la même chose.
+
+989
+00:51:03,133 --> 00:51:04,757
+Ça s'est passé, voilà. Je...
+
+990
+00:51:04,877 --> 00:51:07,640
+Son vol a été annulé. J'étais garée
+devant l'hôtel de l'aéroport.
+
+991
+00:51:07,760 --> 00:51:09,528
+Il a pris une chambre,
+et j'ai voulu voir
+
+992
+00:51:09,688 --> 00:51:11,983
+si tout ce ramdam était fondé.
+
+993
+00:51:12,399 --> 00:51:15,283
+- Et alors ?
+- Oui. Ramdam bien mérité.
+
+994
+00:51:15,846 --> 00:51:17,180
+Pourquoi, exactement ?
+
+995
+00:51:17,605 --> 00:51:20,286
+Vous êtes ici comme psy, Dr Sweets,
+pas comme invité à Loveline.
+
+996
+00:51:20,406 --> 00:51:21,498
+Oui. Bien. Désolé.
+
+997
+00:51:21,659 --> 00:51:24,596
+Dois-je le dire à Angela ? On est amies,
+je ne veux pas qu'elle l'apprenne
+
+998
+00:51:24,716 --> 00:51:26,795
+d'une autre façon qui ferait croire
+que je le cache.
+
+999
+00:51:26,956 --> 00:51:28,999
+Ce que vous aimeriez,
+car vous vous sentez coupable.
+
+1000
+00:51:29,119 --> 00:51:30,654
+Oui. Bien. Continuez.
+
+1001
+00:51:30,774 --> 00:51:32,551
+- Mais il est parti, maintenant.
+- Presque.
+
+1002
+00:51:32,711 --> 00:51:34,795
+- Presque ?
+- Il n'y a pas autant de vols pour Fidji
+
+1003
+00:51:34,915 --> 00:51:35,971
+que vous le pensez.
+
+1004
+00:51:36,131 --> 00:51:38,890
+- Donc ça pourrait ressurgir.
+- Oui. Je le revois ce soir.
+
+1005
+00:51:39,892 --> 00:51:42,102
+- Je ne voulais pas dire comme ça.
+- Moi non plus.
+
+1006
+00:51:42,705 --> 00:51:43,555
+C'est ça.
+
+1007
+00:51:44,055 --> 00:51:46,356
+Bon, il est naturel que vous ressentiez
+
+1008
+00:51:46,516 --> 00:51:48,233
+de la culpabilité et de l'anxiété,
+
+1009
+00:51:48,394 --> 00:51:50,694
+- qui, d'ailleurs, est centralisée ici.
+- Dr Sweets.
+
+1010
+00:51:50,854 --> 00:51:52,112
+Ouais. Vous pensez
+
+1011
+00:51:52,272 --> 00:51:54,990
+que vous n'avez pas
+droit au plaisir, car il vient
+
+1012
+00:51:55,150 --> 00:51:57,993
+- aux dépens de vos amis.
+- Oui. Vous êtes bon.
+
+1013
+00:51:58,154 --> 00:52:00,931
+Mais il part bientôt,
+donc je pourrais ne rien dire
+
+1014
+00:52:01,051 --> 00:52:03,566
+- et espérer que tout s'envole.
+- Mais vous porteriez toujours
+
+1015
+00:52:03,686 --> 00:52:05,624
+cette angoisse chaque fois
+que vous voyez Angela.
+
+1016
+00:52:05,786 --> 00:52:09,399
+Angela a l'esprit ouvert par nature.
+Elle est heureuse avec Hodgins.
+
+1017
+00:52:09,692 --> 00:52:12,300
+Je crois que clarifier les choses
+serait bon pour toutes les deux.
+
+1018
+00:52:12,420 --> 00:52:14,760
+D'accord. Bien sûr. Merci.
+
+1019
+00:52:15,377 --> 00:52:18,088
+Je peux toucher le cerveau,
+juste une fois, comme récompense ?
+
+1020
+00:52:19,670 --> 00:52:20,920
+Juste une fois.
+
+1021
+00:52:23,470 --> 00:52:24,394
+Spongieux.
+
+1022
+00:52:26,307 --> 00:52:27,981
+Je viens juste d'avoir Brennan.
+
+1023
+00:52:28,142 --> 00:52:29,983
+Son ami Wexler a été tué
+dans un incendie.
+
+1024
+00:52:31,699 --> 00:52:34,029
+Scotland Yard veut qu'elle aide
+pour l'enquête.
+
+1025
+00:52:34,190 --> 00:52:36,531
+Ils envoient le corps
+au labo de Wexler à Oxford.
+
+1026
+00:52:36,691 --> 00:52:38,554
+Brennan utilisera la liaison vidéo
+et internet
+
+1027
+00:52:38,674 --> 00:52:40,743
+pour envoyer les photos et les radios,
+
+1028
+00:52:40,904 --> 00:52:43,038
+- tout ce qu'il nous faut.
+- J'avertis Hodgins et Clark.
+
+1029
+00:52:49,670 --> 00:52:53,406
+Nous n'avons pas encore confirmé
+sans l'ombre d'un doute...
+
+1030
+00:52:53,726 --> 00:52:54,830
+que les...
+
+1031
+00:52:55,627 --> 00:52:58,790
+restes humains trouvés
+dans l'appartement du Dr Ian Wexler...
+
+1032
+00:52:59,881 --> 00:53:02,046
+Mais... il y a toujours
+une possibilité...
+
+1033
+00:53:02,676 --> 00:53:04,854
+Vous voyez, dans des affaires
+comme celle-ci, les...
+
+1034
+00:53:05,422 --> 00:53:07,678
+Mes conclusions préliminaires sont
+
+1035
+00:53:07,798 --> 00:53:11,270
+que les restes en question
+sont bien ceux de Ian Wexler.
+
+1036
+00:53:12,766 --> 00:53:16,024
+Je suis certaine que cette supposition
+sera confirmée plus tard, ce jour.
+
+1037
+00:53:16,144 --> 00:53:18,119
+La cause de la mort
+n'est pas encore déterminée
+
+1038
+00:53:18,239 --> 00:53:20,118
+mais nous n'écartons pas
+la piste criminelle.
+
+1039
+00:53:20,590 --> 00:53:23,745
+Beaucoup d'entre vous étaient proches,
+très proches, du Dr Wexler,
+
+1040
+00:53:23,905 --> 00:53:27,040
+et nous apprécierons toute information
+que vous pourrez nous fournir.
+
+1041
+00:53:27,278 --> 00:53:28,190
+Merci.
+
+1042
+00:53:33,915 --> 00:53:35,924
+On devrait commencer
+par parler à Cyril et Nancy.
+
+1043
+00:53:36,285 --> 00:53:37,698
+Je vous rappelle, agent Booth,
+
+1044
+00:53:37,818 --> 00:53:40,692
+qu'il y a une procédure bien définie
+et que je dirige cette enquête.
+
+1045
+00:53:40,812 --> 00:53:43,434
+Pourquoi lui parlez-vous comme ça ?
+Vous nous avez demandé de rester.
+
+1046
+00:53:43,554 --> 00:53:46,698
+- Je trouve important d'être claire.
+- Vous lui avez donné une arme, et tout.
+
+1047
+00:53:46,818 --> 00:53:48,103
+Bones, ça va.
+
+1048
+00:53:49,264 --> 00:53:52,064
+Je comprends, Pritch, on est juste là
+pour aider, quoi que vous ayez besoin.
+
+1049
+00:53:53,278 --> 00:53:54,118
+Merci.
+
+1050
+00:53:59,526 --> 00:54:01,958
+On a vu le Dr Wexler, avant-hier soir.
+Il avait l'air bien.
+
+1051
+00:54:02,078 --> 00:54:04,990
+Il allait sortir prendre un verre.
+Frampton le rendait dingue.
+
+1052
+00:54:05,110 --> 00:54:07,330
+- Pourquoi ?
+- Il essayait de fermer la fouille.
+
+1053
+00:54:07,490 --> 00:54:09,509
+Pour pouvoir construire
+un de ses complexes.
+
+1054
+00:54:09,629 --> 00:54:12,377
+- Que va-t-il arriver à la fouille ?
+- Cette fichue fouille attendra, Cyril.
+
+1055
+00:54:12,537 --> 00:54:13,836
+Le Dr Wexler est mort.
+
+1056
+00:54:13,998 --> 00:54:16,715
+Le Dr Wexler voudrait
+qu'on finisse le boulot. Tu le sais.
+
+1057
+00:54:16,875 --> 00:54:18,925
+Il va falloir qu'on parle de nouveau
+avec vous,
+
+1058
+00:54:19,086 --> 00:54:21,344
+quand le Dr Brennan
+aura confirmé la cause de la mort.
+
+1059
+00:54:24,447 --> 00:54:28,355
+Légalement, le corps doit rester ici,
+mais on a numérisé toutes les radios.
+
+1060
+00:54:28,475 --> 00:54:30,283
+Je vais faire faire des moulages des os
+
+1061
+00:54:30,403 --> 00:54:32,252
+et vous les envoyer dès que c'est fini.
+
+1062
+00:54:32,433 --> 00:54:35,251
+Le feu occulte substantiellement
+ce que l'on peut glaner sur ces images.
+
+1063
+00:54:35,371 --> 00:54:37,731
+- Vous pouvez zoomer sur son pied ?
+- Bien sûr.
+
+1064
+00:54:40,454 --> 00:54:42,595
+Je vois de la terre
+sur ce qui reste des chaussettes.
+
+1065
+00:54:42,958 --> 00:54:45,577
+<i>Je peux avoir un accès direct
+aux particules ?</i>
+
+1066
+00:54:45,737 --> 00:54:48,955
+Dès que l'inspecteur Pritchard
+obtient l'accord de Scotland Yard.
+
+1067
+00:54:49,310 --> 00:54:51,047
+Comment vas-tu, ma chérie ?
+
+1068
+00:54:51,167 --> 00:54:53,207
+Je m'efforce de trouver
+ce qui est arrivé à Ian.
+
+1069
+00:54:53,687 --> 00:54:55,295
+Les radios commencent à arriver.
+
+1070
+00:54:56,165 --> 00:54:58,926
+Je vois la fracture d'écrasement que
+vous avez mentionnée sur l'os frontal.
+
+1071
+00:54:59,046 --> 00:55:01,339
+On dirait qu'elle a été faite
+par un objet petit, comme un...
+
+1072
+00:55:01,459 --> 00:55:02,784
+marteau à panne ronde.
+
+1073
+00:55:02,904 --> 00:55:04,721
+Il y a assez de tissu
+pour un examen toxico ?
+
+1074
+00:55:04,881 --> 00:55:06,848
+C'est en cours.
+On vous mailera les résultats.
+
+1075
+00:55:07,008 --> 00:55:10,395
+<i>- Qu'y a-t-il au bout de ce fémur ?
+- Une sorte de plastique</i>
+
+1076
+00:55:10,515 --> 00:55:12,235
+qui devait se trouver dans sa poche.
+
+1077
+00:55:12,355 --> 00:55:14,146
+Envoie-moi des photos
+haute résolution.
+
+1078
+00:55:14,308 --> 00:55:17,524
+- <i>Je vois si je peux accélérer tout ça.</i>
+- Merci. Appelez s'il y a du nouveau.
+
+1079
+00:55:17,685 --> 00:55:19,069
+Brennan, attends.
+
+1080
+00:55:19,571 --> 00:55:22,683
+Grayson a signé les papiers du divorce,
+le mariage est de nouveau d'actualité.
+
+1081
+00:55:22,803 --> 00:55:23,907
+<i>Félicitations.</i>
+
+1082
+00:55:24,067 --> 00:55:27,452
+Est-ce que c'est mal, de féliciter
+quelqu'un pour un divorce ?
+
+1083
+00:55:27,612 --> 00:55:30,079
+- <i>Dur à croire que c'est fini ?</i>
+- Oui, difficile à croire.
+
+1084
+00:55:30,240 --> 00:55:31,665
+Bon, à plus tard.
+
+1085
+00:55:33,763 --> 00:55:36,483
+Dr Temperance Brennan,
+reprise d'analyse.
+
+1086
+00:55:36,715 --> 00:55:40,340
+Le matériau fondu
+dans le fémur antérieur ventral
+
+1087
+00:55:40,500 --> 00:55:41,731
+apparaît être
+
+1088
+00:55:42,011 --> 00:55:44,019
+du plastique, partiellement fondu.
+
+1089
+00:55:53,099 --> 00:55:55,347
+<i>- J'ai trouvé quelque chose.
+- Qu'est-ce que c'est ?</i>
+
+1090
+00:55:55,467 --> 00:55:59,227
+Où Ian aurait-il eu un jeton de poker
+marqué HGC ?
+
+1091
+00:56:03,051 --> 00:56:04,158
+Mon Dieu.
+
+1092
+00:56:04,490 --> 00:56:07,462
+Avant-hier soir, le Dr Wexler
+payait des verres à ses amis
+
+1093
+00:56:07,582 --> 00:56:09,810
+et jouait comme s'il
+ne se souciait de rien.
+
+1094
+00:56:09,930 --> 00:56:12,497
+- Etait-il avec une femme ?
+- Non, c'est un club de gentlemen.
+
+1095
+00:56:12,657 --> 00:56:15,364
+Je n'ai pas vu de scène, ni de barre,
+ni de danseurs, ni rien...
+
+1096
+00:56:15,484 --> 00:56:19,421
+Non, un club pour gentlemen anglais
+est pour les vrais gentlemen anglais.
+
+1097
+00:56:19,857 --> 00:56:21,464
+Comment vous a semblé le Dr Wexler ?
+
+1098
+00:56:21,625 --> 00:56:23,675
+- Vernis.
+- Ça veut dire quoi ?
+
+1099
+00:56:23,835 --> 00:56:25,775
+Je crois que vous dites
+"rouler sur l'or".
+
+1100
+00:56:25,962 --> 00:56:27,386
+C'est exact, il, euh...
+
+1101
+00:56:27,547 --> 00:56:30,214
+- Il a payé pour toute la table.
+- Combien il devait ?
+
+1102
+00:56:30,334 --> 00:56:33,226
+On s'approche des zones chatouilleuses
+de la confidentialité, là.
+
+1103
+00:56:33,386 --> 00:56:35,019
+C'est un club de gentlemen, après tout.
+
+1104
+00:56:35,181 --> 00:56:38,398
+Scotland Yard garantira
+la discrétion du FBI.
+
+1105
+00:56:38,559 --> 00:56:39,931
+N'est-ce pas, agent Booth ?
+
+1106
+00:56:40,353 --> 00:56:41,460
+Ouais, c'est ça.
+
+1107
+00:56:42,425 --> 00:56:43,558
+Plus de 5000 livres.
+
+1108
+00:56:43,678 --> 00:56:45,196
+Il a tout payé en liquide.
+
+1109
+00:56:45,356 --> 00:56:47,615
+- Où il a trouvé cet argent ?
+- Je n'en ai aucune idée.
+
+1110
+00:56:47,775 --> 00:56:49,025
+S'il vous plaît.
+
+1111
+00:56:49,170 --> 00:56:51,577
+Écoutez, j'ai, euh, pris
+
+1112
+00:56:52,131 --> 00:56:54,330
+cela, diriez-vous, comme précaution,
+bien que
+
+1113
+00:56:54,490 --> 00:56:56,750
+le Dr Wexler ait dit
+connaître ces messieurs, et...
+
+1114
+00:56:56,910 --> 00:56:58,083
+que tout allait bien.
+
+1115
+00:57:00,330 --> 00:57:02,472
+Ça a été pris par la caméra de sécurité.
+
+1116
+00:57:02,867 --> 00:57:04,338
+Joli tatouage.
+
+1117
+00:57:09,588 --> 00:57:12,682
+Et le gars avec le tatouage
+le fait sortir.
+
+1118
+00:57:17,263 --> 00:57:19,772
+Si j'avais su qu'ils le tueraient,
+j'aurais fait quelque chose.
+
+1119
+00:57:19,933 --> 00:57:21,453
+Vous en faites pas, mon vieux.
+
+1120
+00:57:21,573 --> 00:57:23,837
+Je suis sûr que vous avez fait
+du mieux que vous pouviez.
+
+1121
+00:57:27,103 --> 00:57:29,153
+L'examen toxico montre
+qu'il a passé une sacrée nuit
+
+1122
+00:57:29,273 --> 00:57:31,038
+avec ses amis M. Scotch et M. Merlot.
+
+1123
+00:57:31,158 --> 00:57:33,371
+Le taux d'alcool dans le sang
+était de 0,18.
+
+1124
+00:57:33,491 --> 00:57:36,062
+Pas de drogues, d'aucune sorte ou autre,
+
+1125
+00:57:36,334 --> 00:57:38,326
+et pas de trace de nicotine.
+
+1126
+00:57:38,705 --> 00:57:40,665
+Alors que faisait
+la cigarette dans sa main ?
+
+1127
+00:57:40,785 --> 00:57:43,432
+Mise là pour justifier l'explosion,
+j'imagine.
+
+1128
+00:57:43,953 --> 00:57:45,380
+Qu'avez-vous trouvé, M. Edison ?
+
+1129
+00:57:46,821 --> 00:57:48,176
+Si les moulages sont exacts,
+
+1130
+00:57:48,336 --> 00:57:51,638
+la croissance osseuse formait une
+surface irrégulière sur les omoplates
+
+1131
+00:57:51,798 --> 00:57:53,971
+ainsi que sur les épicondyles latéraux
+droit et gauche.
+
+1132
+00:57:54,091 --> 00:57:55,235
+Ce qui signifie ?
+
+1133
+00:57:55,355 --> 00:57:58,007
+La victime avait une bursite causée
+par un mouvement répétitif énergique.
+
+1134
+00:57:58,465 --> 00:58:01,022
+La seule fois où j'ai vu ça, c'était
+pendant l'autopsie d'un barreur.
+
+1135
+00:58:01,182 --> 00:58:02,564
+C'est quoi ça, un poisson ?
+
+1136
+00:58:02,726 --> 00:58:04,567
+C'est un membre d'une équipe d'aviron.
+
+1137
+00:58:04,727 --> 00:58:07,487
+J'ai également examiné la fracture
+de l'os frontal.
+
+1138
+00:58:07,647 --> 00:58:09,456
+C'était le résultat d'un coup de tête.
+
+1139
+00:58:10,108 --> 00:58:11,132
+C'est clair.
+
+1140
+00:58:11,702 --> 00:58:13,419
+J'envoie vos résultats au Dr Brennan.
+
+1141
+00:58:13,539 --> 00:58:14,369
+Merci.
+
+1142
+00:58:14,788 --> 00:58:16,290
+Sur quoi travaillez-vous, Angela ?
+
+1143
+00:58:16,410 --> 00:58:20,125
+J'agrandis les photos du corps
+pour Clark et Hodgins,
+
+1144
+00:58:20,287 --> 00:58:22,644
+- en essayant de garder la qualité.
+- Excellent.
+
+1145
+00:58:24,949 --> 00:58:26,042
+Autre chose.
+
+1146
+00:58:26,406 --> 00:58:28,633
+J'ai couché avec votre mari...
+ex-mari.
+
+1147
+00:58:29,194 --> 00:58:29,926
+Quoi ?
+
+1148
+00:58:30,086 --> 00:58:31,288
+- Bye bye.
+- Restez là.
+
+1149
+00:58:31,629 --> 00:58:33,058
+M. Edison, il me faut un témoin.
+
+1150
+00:58:33,178 --> 00:58:35,493
+Vous pouvez sûrement trouver
+quelqu'un de plus ancien que moi.
+
+1151
+00:58:35,613 --> 00:58:38,416
+- Vous êtes l'un de nous ou pas ?
+- Non, je ne suis pas "l'un de nous".
+
+1152
+00:58:38,678 --> 00:58:40,490
+Vous le ferez quand même.
+
+1153
+00:58:41,517 --> 00:58:44,691
+Angela, j'ai couché avec lui,
+et je me sens mal.
+
+1154
+00:58:45,407 --> 00:58:46,638
+Att... Comment ?
+
+1155
+00:58:46,758 --> 00:58:48,361
+Est... enfin, quand ?
+
+1156
+00:58:48,522 --> 00:58:49,521
+Seigneur.
+
+1157
+00:58:49,641 --> 00:58:52,365
+Le vol de Grayson a été annulé,
+et une chose en entraînant une autre...
+
+1158
+00:58:52,525 --> 00:58:56,161
+Il est très attirant, alors...
+nous avons passé la nuit ensemble.
+
+1159
+00:58:56,321 --> 00:58:57,694
+Je suis désolée.
+
+1160
+00:59:00,382 --> 00:59:01,583
+C'est pas grave.
+
+1161
+00:59:03,377 --> 00:59:04,168
+Vraiment ?
+
+1162
+00:59:04,919 --> 00:59:06,629
+Oui, bien sûr. Pourquoi ça le serait ?
+
+1163
+00:59:07,824 --> 00:59:09,120
+On est divorcés, alors...
+
+1164
+00:59:09,942 --> 00:59:12,051
+Enfin, j'ai eu de lui
+ce que je voulais, donc...
+
+1165
+00:59:12,211 --> 00:59:13,868
+Je suppose que vous aussi, du coup.
+
+1166
+00:59:13,988 --> 00:59:15,880
+Ben... Oui.
+
+1167
+00:59:16,818 --> 00:59:18,640
+Je peux y aller maintenant,
+s'il vous plaît ?
+
+1168
+00:59:18,801 --> 00:59:19,998
+Angela, je...
+
+1169
+00:59:20,314 --> 00:59:22,118
+Vous êtes une personne surprenante.
+
+1170
+00:59:22,238 --> 00:59:23,645
+Pourquoi tu es surprenante ?
+
+1171
+00:59:23,807 --> 00:59:26,524
+J'ai couché avec Grayson,
+et Angela dit que ça n'est pas grave.
+
+1172
+00:59:26,684 --> 00:59:28,151
+Bien sûr que non.
+
+1173
+00:59:28,805 --> 00:59:31,404
+Pourquoi ça me ferait quelque chose ?
+Je vais me marier avec toi.
+
+1174
+00:59:31,883 --> 00:59:34,324
+Je ne vois pas de faille
+dans ta logique.
+
+1175
+00:59:34,484 --> 00:59:36,004
+Et d'ici demain, il sera parti.
+
+1176
+00:59:36,357 --> 00:59:38,017
+Il est... toujours là ?
+
+1177
+00:59:39,443 --> 00:59:40,813
+Ça a dû bien se passer.
+
+1178
+00:59:41,631 --> 00:59:42,822
+C'est pour moi, ça ?
+
+1179
+00:59:42,942 --> 00:59:46,036
+Oui, ce sont les résultats préliminaires
+de l'analyse des particules et insectes.
+
+1180
+00:59:46,156 --> 00:59:48,755
+Donc, j'ai trouvé
+de l'algae microphytobenthos,
+
+1181
+00:59:48,915 --> 00:59:51,257
+des diatomées épipsammiques
+et épipeliques,
+
+1182
+00:59:51,417 --> 00:59:53,718
+ainsi qu'un Chironomus riparius,
+ou moucheron,
+
+1183
+00:59:53,878 --> 00:59:55,887
+tous étaient
+sur les lambeaux de vêtements.
+
+1184
+00:59:56,047 --> 00:59:58,263
+Bon, t'es excité,
+donc ça doit vouloir dire quelque chose.
+
+1185
+00:59:58,424 --> 01:00:00,499
+Les taux et sédiments sur l'algue
+indiquent
+
+1186
+01:00:00,619 --> 01:00:02,726
+que la victime était
+près de Henley-on-Thames dans les
+
+1187
+01:00:02,888 --> 01:00:04,847
+24 h précédant sa mort.
+
+1188
+01:00:05,303 --> 01:00:07,858
+C'est là que se déroule
+la Régate royale de Henley.
+
+1189
+01:00:08,181 --> 01:00:08,900
+Aviron.
+
+1190
+01:00:12,146 --> 01:00:14,502
+Pourquoi faire ça avec moi
+et pas avec l'inspecteur Pritchard ?
+
+1191
+01:00:14,622 --> 01:00:16,796
+Enfin, Bones, vous et moi,
+on est la vraie équipe.
+
+1192
+01:00:16,916 --> 01:00:18,909
+Bon, d'accord, elle a du mal
+à surmonter ça.
+
+1193
+01:00:19,071 --> 01:00:20,915
+Ce serait aussi mon cas
+si vous étiez tuée.
+
+1194
+01:00:21,035 --> 01:00:22,579
+Oui, vous êtes un sentimental.
+
+1195
+01:00:22,741 --> 01:00:25,323
+Excusez-moi,
+le type au hangar principal m'a dit
+
+1196
+01:00:25,443 --> 01:00:28,456
+que le Dr Wexler
+était un gus de votre équipe.
+
+1197
+01:00:28,576 --> 01:00:29,295
+Gus ?
+
+1198
+01:00:29,455 --> 01:00:31,339
+Ouais, voyez, je me sens
+comme à la maison.
+
+1199
+01:00:33,193 --> 01:00:35,230
+FBI. Agent spécial Booth.
+
+1200
+01:00:35,350 --> 01:00:36,971
+J'ai quelques questions concernant...
+
+1201
+01:00:37,893 --> 01:00:40,014
+- Je parle.
+- Je crois que vous arrivez un peu tard.
+
+1202
+01:00:40,175 --> 01:00:42,354
+Si vous cherchez l'Amérique,
+dirigez-vous vers la côte,
+
+1203
+01:00:42,593 --> 01:00:45,088
+traversez la grosse mare,
+il y aura des Yankees pour parler,
+
+1204
+01:00:45,208 --> 01:00:47,689
+- d'accord ?
+- Non, pas d'accord. Désolé, mon pote.
+
+1205
+01:00:50,393 --> 01:00:52,193
+Nous travaillons avec Scotland Yard.
+
+1206
+01:00:52,353 --> 01:00:54,984
+Je suis le Dr Brennan.
+Ian était un de mes amis.
+
+1207
+01:00:55,104 --> 01:00:57,030
+Ce type avait la tête
+grosse comme un melon.
+
+1208
+01:00:57,191 --> 01:00:59,409
+Vous êtes la poulette américaine
+dont parlait Wexler ?
+
+1209
+01:00:59,569 --> 01:01:01,919
+Je suis surpris que sa copine flic
+le surveille pas mieux.
+
+1210
+01:01:02,039 --> 01:01:04,831
+Ouais, tous les deux ils ont l'air...
+d'être plus que des collègues.
+
+1211
+01:01:05,166 --> 01:01:08,700
+L'inspecteur Pritchard et le Dr Wexler
+avaient une relation intime ?
+
+1212
+01:01:09,579 --> 01:01:12,409
+Ian n'est pas vraiment du genre fidèle,
+donc s'il vous a promis quelque chose...
+
+1213
+01:01:12,529 --> 01:01:13,755
+Il est mort. Assassiné.
+
+1214
+01:01:13,917 --> 01:01:15,257
+- Non !
+- Quoi ?
+
+1215
+01:01:15,591 --> 01:01:17,135
+On avait une course cet après-midi.
+
+1216
+01:01:17,600 --> 01:01:18,969
+Je pensais qu'on le verrait.
+
+1217
+01:01:19,089 --> 01:01:21,096
+Vous avez un tatouage très particulier.
+
+1218
+01:01:21,257 --> 01:01:24,266
+Vous n'étiez pas au Highgate Club
+avant-hier soir par hasard ?
+
+1219
+01:01:24,428 --> 01:01:26,479
+Attendez.
+Vous pensez qu'on a tué Wex ?
+
+1220
+01:01:26,599 --> 01:01:28,562
+Vous l'avez traîné hors du club,
+n'est-ce pas ?
+
+1221
+01:01:28,724 --> 01:01:30,085
+C'est des conneries.
+
+1222
+01:01:30,205 --> 01:01:31,481
+On avait une course.
+
+1223
+01:01:31,601 --> 01:01:34,107
+Si on ne faisait pas décuver Wex,
+c'était pas bon pour nous.
+
+1224
+01:01:34,227 --> 01:01:36,379
+Son rythme est complètement
+fichu en l'air par l'alcool.
+
+1225
+01:01:36,499 --> 01:01:37,738
+Vous l'avez frappé ?
+
+1226
+01:01:37,899 --> 01:01:39,853
+Non, on l'a traîné jusqu'à un lit
+dans le hangar
+
+1227
+01:01:39,973 --> 01:01:41,909
+et on l'a gavé de café, le matin.
+
+1228
+01:01:42,070 --> 01:01:44,480
+- Son os frontal était abîmé.
+- Son front.
+
+1229
+01:01:44,600 --> 01:01:46,998
+Vous lui avez peut-être donné
+un bon coup de boule, comme là ?
+
+1230
+01:01:47,118 --> 01:01:48,722
+Non, on n'a pas fait ça à Wex.
+
+1231
+01:01:49,395 --> 01:01:51,960
+Je vais vous dire qui c'est...
+un gars de la Queen's Light Guards.
+
+1232
+01:01:52,121 --> 01:01:53,289
+C'est quoi son nom ?
+
+1233
+01:01:54,040 --> 01:01:55,298
+Jasper Ferry.
+
+1234
+01:02:07,223 --> 01:02:09,355
+Booth, il ne nous parlera pas.
+C'est une tradition.
+
+1235
+01:02:09,475 --> 01:02:11,731
+Je sais, Bones,
+mais je crois que je l'ai presque eu.
+
+1236
+01:02:11,891 --> 01:02:14,484
+Y a un peu de sueur qui coule
+sur le côté de son visage.
+
+1237
+01:02:14,686 --> 01:02:15,817
+Si vous vous en prenez
+
+1238
+01:02:15,979 --> 01:02:18,528
+à l'un des gardes de la Reine,
+j'ai bien peur de devoir vous arrêter.
+
+1239
+01:02:18,689 --> 01:02:20,560
+Calmos. Je fais rien de mal, là.
+
+1240
+01:02:20,680 --> 01:02:22,908
+J'attends juste que le Lieutenant Ferry
+finisse sa garde.
+
+1241
+01:02:23,069 --> 01:02:24,786
+Il n'a pas tué Ian.
+
+1242
+01:02:24,946 --> 01:02:26,163
+Comment vous le savez ?
+
+1243
+01:02:26,364 --> 01:02:29,334
+Mes collègues du Jeffersonian
+ont découvert des preuves irréfutables.
+
+1244
+01:02:29,576 --> 01:02:31,958
+J'imagine que vous avez appris
+que deux des équipiers de Wexler
+
+1245
+01:02:32,119 --> 01:02:33,795
+de Henley-on-Thames l'ont enlevé
+
+1246
+01:02:33,956 --> 01:02:35,421
+du club pour le faire décuver.
+
+1247
+01:02:35,581 --> 01:02:37,214
+Puis ils vous ont parlé de sa dispute
+
+1248
+01:02:37,452 --> 01:02:39,549
+et de sa bagarre
+avec le lieutenant Jasper Ferry
+
+1249
+01:02:39,710 --> 01:02:42,200
+que Wexler a perdue après
+un coup de tête bien mérité.
+
+1250
+01:02:42,320 --> 01:02:44,713
+Pourquoi tout le monde donne
+des coups de boule, ici ?
+
+1251
+01:02:44,833 --> 01:02:46,599
+Pourquoi pas
+un bon coup dans la mâchoire ?
+
+1252
+01:02:46,719 --> 01:02:48,303
+Bien mérité ?
+Pourquoi bien mérité ?
+
+1253
+01:02:49,716 --> 01:02:51,920
+Ian couchait avec la sœur
+du lieutenant Jasper Ferry.
+
+1254
+01:02:53,229 --> 01:02:54,908
+Comment vous l'avez compris ?
+
+1255
+01:02:55,521 --> 01:02:58,513
+Une technique révolutionnaire
+qui consiste à poser une série
+
+1256
+01:02:58,688 --> 01:03:00,376
+de questions aux amis de la victime.
+
+1257
+01:03:00,496 --> 01:03:04,033
+Néanmoins, je suis très impressionnée
+que vos scientifiques en déduisent
+
+1258
+01:03:04,193 --> 01:03:06,353
+presque autant de quelques particules.
+
+1259
+01:03:06,529 --> 01:03:07,879
+Presque autant.
+
+1260
+01:03:09,444 --> 01:03:10,614
+Presque autant ?
+
+1261
+01:03:11,357 --> 01:03:13,840
+Écoutez, je suis navré pour votre sœur.
+
+1262
+01:03:15,769 --> 01:03:18,505
+Je dois vraiment vous remercier.
+C'était un excellent conseil.
+
+1263
+01:03:18,625 --> 01:03:20,746
+Je vous en prie.
+C'est toujours mieux d'être honnête.
+
+1264
+01:03:20,866 --> 01:03:23,592
+Je peux vous dire, j'ai eu du mal
+à vous prendre au sérieux, au début.
+
+1265
+01:03:23,712 --> 01:03:25,804
+Vous n'avez même pas l'air
+assez vieux pour conduire,
+
+1266
+01:03:25,924 --> 01:03:28,680
+alors je me disais, comment pourrait-il
+faire des observations pertinentes ?
+
+1267
+01:03:28,800 --> 01:03:31,003
+- J'ai deux doctorats...
+- Mais ils ne vous enseignent pas
+
+1268
+01:03:31,123 --> 01:03:33,235
+les sujets liés au sexe,
+et vous êtes si jeune, j'ai...
+
+1269
+01:03:33,355 --> 01:03:35,071
+- Compris, Dr Saroyan.
+- Je voulais...
+
+1270
+01:03:35,191 --> 01:03:36,405
+Être honnête, je sais.
+
+1271
+01:03:36,525 --> 01:03:38,484
+Je vous suis seulement
+reconnaissante, Dr Sweets.
+
+1272
+01:03:38,604 --> 01:03:39,604
+C'est tout.
+
+1273
+01:03:41,354 --> 01:03:43,128
+Scotland Yard était intéressé par ces
+
+1274
+01:03:43,248 --> 01:03:46,117
+autres particules que vous avez trouvées
+et qui ne proviennent pas de Henley.
+
+1275
+01:03:46,278 --> 01:03:48,152
+OK, mais... OK.
+
+1276
+01:03:48,627 --> 01:03:52,172
+Bon, et Angela, je me demandais quand
+vous auriez fini d'agrandir ces photos.
+
+1277
+01:03:52,292 --> 01:03:53,439
+Clark en a besoin.
+
+1278
+01:03:53,559 --> 01:03:55,258
+Vous les aurez quand j'aurai fini.
+
+1279
+01:03:55,378 --> 01:03:57,171
+Qu'est-ce que vous croyez qu'on fait ?
+
+1280
+01:03:57,291 --> 01:03:59,088
+Qu'on fuit nos responsabilités ou quoi ?
+
+1281
+01:03:59,248 --> 01:04:02,425
+Vous savez, on a toujours fait
+un excellent travail ici,
+
+1282
+01:04:02,586 --> 01:04:06,155
+même avant que vous n'arriviez,
+alors contrôlez-vous, OK ?
+
+1283
+01:04:10,171 --> 01:04:13,294
+Je crois qu'il reste peut-être encore
+quelques problèmes non résolus.
+
+1284
+01:04:17,412 --> 01:04:19,611
+On continue d'interroger les étudiantes.
+
+1285
+01:04:19,731 --> 01:04:22,126
+Il semble qu'elles s'accusent
+les unes les autres,
+
+1286
+01:04:22,246 --> 01:04:25,295
+chacune pensant être spéciale pour Ian.
+
+1287
+01:04:25,415 --> 01:04:27,248
+C'est ce que vous pensez, aussi ?
+
+1288
+01:04:28,474 --> 01:04:30,620
+Vous avez vous-même posé
+quelques questions, je vois.
+
+1289
+01:04:30,780 --> 01:04:32,914
+Apparemment, vous couchiez avec
+le Dr Wexler.
+
+1290
+01:04:33,104 --> 01:04:36,083
+Vous ne pensez pas que vous auriez
+dû nous en parler, inspecteur ?
+
+1291
+01:04:37,045 --> 01:04:38,255
+Je vous en prie.
+
+1292
+01:04:39,533 --> 01:04:42,043
+Je suis Anglaise et policier,
+avant d'être une femme.
+
+1293
+01:04:42,163 --> 01:04:44,541
+- Un miracle qu'on l'ait découvert.
+- Ça fait combien de temps ?
+
+1294
+01:04:44,661 --> 01:04:45,842
+C'est hors de propos.
+
+1295
+01:04:46,003 --> 01:04:48,137
+Ce que vous voulez vraiment savoir
+c'est si partager Ian
+
+1296
+01:04:48,297 --> 01:04:50,222
+avec d'autres femmes m'a donné
+envie de le tuer.
+
+1297
+01:04:50,384 --> 01:04:52,985
+- C'est le cas ?
+- Toutes ces belles jeunes étudiantes.
+
+1298
+01:04:53,105 --> 01:04:54,393
+Ce qui rendait Ian
+
+1299
+01:04:54,554 --> 01:04:57,522
+tellement, tellement doué au lit,
+c'était toute cette pratique.
+
+1300
+01:04:59,543 --> 01:05:01,259
+Désolée. C'était gênant ?
+
+1301
+01:05:01,379 --> 01:05:03,547
+Je croyais les Américains
+tous crus et directs.
+
+1302
+01:05:03,667 --> 01:05:07,657
+Et je croyais les Anglais tous réprimés
+et frustrés sexuellement.
+
+1303
+01:05:08,794 --> 01:05:10,370
+On a trouvé quelque chose.
+Occupée ?
+
+1304
+01:05:10,490 --> 01:05:11,993
+Non, non, le moment est parfait.
+
+1305
+01:05:12,155 --> 01:05:15,138
+En admettant que le moulage soit exact,
+la victime a été poignardée
+
+1306
+01:05:15,258 --> 01:05:17,650
+entre la sixième et la septième
+vertèbre thoracique.
+
+1307
+01:05:17,770 --> 01:05:19,627
+Ce qui a dû perforer le poumon
+et le cœur.
+
+1308
+01:05:19,915 --> 01:05:22,338
+- Tout à fait.
+- C'est vraiment une blessure profonde.
+
+1309
+01:05:22,499 --> 01:05:24,799
+- Bones, qu'y a-t-il ?
+- Ian a été poignardé à mort.
+
+1310
+01:05:26,882 --> 01:05:28,761
+- Et l'arme ?
+- Je ne sais pas.
+
+1311
+01:05:28,921 --> 01:05:30,991
+Ils ont peut-être trouvé
+quelque chose sur les lieux.
+
+1312
+01:05:31,111 --> 01:05:32,540
+Beau travail, Clark. Merci.
+
+1313
+01:05:33,457 --> 01:05:34,933
+Avez-vous trouvé une arme chez Ian
+
+1314
+01:05:35,189 --> 01:05:37,264
+qui pourrait avoir été utilisée
+pour le poignarder ?
+
+1315
+01:05:37,384 --> 01:05:39,175
+Non, et j'étais là-bas tout le temps.
+
+1316
+01:05:42,465 --> 01:05:43,734
+Vous doutez de moi.
+
+1317
+01:05:44,773 --> 01:05:45,570
+Oui.
+
+1318
+01:05:46,647 --> 01:05:48,030
+Pas vous ?
+
+1319
+01:05:55,067 --> 01:05:56,781
+Inspecteur Prichard, je veux seul...
+
+1320
+01:05:56,901 --> 01:05:59,146
+Je ne suis pas du genre jalouse
+
+1321
+01:05:59,266 --> 01:06:02,453
+et vous êtes naïve si vous pensez
+que ma vie sexuelle se limitait à Ian,
+
+1322
+01:06:02,573 --> 01:06:04,063
+comme pour vous, j'en suis sûre.
+
+1323
+01:06:04,183 --> 01:06:06,146
+Mais je n'ai pas couché avec Ian.
+
+1324
+01:06:06,266 --> 01:06:07,607
+- Non ?
+- Non.
+
+1325
+01:06:07,727 --> 01:06:09,969
+Pourquoi ? Vous étiez clairement
+attirés l'un par l'autre.
+
+1326
+01:06:10,129 --> 01:06:12,802
+Oui, j'ai remarqué plusieurs réponses
+physiologiques en sa présence,
+
+1327
+01:06:12,965 --> 01:06:16,183
+qui ne pouvaient être expliquées que
+par une attraction sexuelle.
+
+1328
+01:06:16,343 --> 01:06:19,188
+- Pourquoi n'avoir pas couché avec lui ?
+- À cause de Booth.
+
+1329
+01:06:19,308 --> 01:06:22,522
+Oh... Vous savez, je suspectais que
+vous étiez plus que des collègues.
+
+1330
+01:06:22,684 --> 01:06:23,830
+Non, c'est incorrect.
+
+1331
+01:06:23,950 --> 01:06:25,870
+Il m'a conseillé
+de ne pas coucher avec Ian, car
+
+1332
+01:06:25,990 --> 01:06:28,497
+il voulait pas que je sois un autre
+trophée à son tableau de chasse.
+
+1333
+01:06:28,617 --> 01:06:30,868
+En fait, je voyais plutôt ça comme
+l'ascension de l'Everest.
+
+1334
+01:06:30,988 --> 01:06:34,410
+Bien sûr, ça a déjà été fait avant,
+mais l'expérience reste incroyable.
+
+1335
+01:06:35,226 --> 01:06:36,870
+Vous avez un gros appétit sexuel
+
+1336
+01:06:37,031 --> 01:06:39,840
+et vous n'êtes pas bloquée
+par la morale sociale.
+
+1337
+01:06:40,121 --> 01:06:41,459
+Je peux comprendre ça.
+
+1338
+01:06:41,619 --> 01:06:42,619
+Merci.
+
+1339
+01:06:42,739 --> 01:06:45,416
+Pourquoi ne pas nous avoir dit que vous
+aviez une relation avec Wexler ?
+
+1340
+01:06:45,536 --> 01:06:47,345
+Je craignais qu'on me retire l'affaire.
+
+1341
+01:06:47,465 --> 01:06:49,368
+Si l'agent Booth était assassiné,
+
+1342
+01:06:49,488 --> 01:06:51,934
+ne feriez-vous pas tout ce qui
+est en votre pouvoir
+
+1343
+01:06:52,054 --> 01:06:53,521
+pour trouver le meurtrier ?
+
+1344
+01:06:53,641 --> 01:06:55,348
+Oui. Mais je ne couche pas avec Booth.
+
+1345
+01:06:57,270 --> 01:06:59,185
+Avez-vous caché d'autres informations ?
+
+1346
+01:06:59,345 --> 01:07:01,270
+Bon sang, pourquoi ferais-je cela ?
+
+1347
+01:07:01,430 --> 01:07:03,518
+Parce que vous nous avez appelés
+pour parler,
+
+1348
+01:07:03,638 --> 01:07:05,489
+puis Clark nous a donné la cause
+de la mort,
+
+1349
+01:07:05,609 --> 01:07:07,443
+puis on vous a en gros
+accusée de meurtre.
+
+1350
+01:07:07,604 --> 01:07:11,419
+Pendant que Booth allait chercher
+notre voiture, je vous ai suivie,
+
+1351
+01:07:11,539 --> 01:07:15,150
+et nous avons commencé à parler
+d'escalade et du sexe avec Ian et...
+
+1352
+01:07:15,270 --> 01:07:17,462
+Merci, Dr Brennan.
+Je crois que j'ai compris.
+
+1353
+01:07:20,816 --> 01:07:22,840
+Vous avez absolument raison.
+
+1354
+01:07:23,584 --> 01:07:25,418
+J'ai oublié de vous donner ça.
+
+1355
+01:07:29,639 --> 01:07:32,587
+C'est une ordonnance libératoire
+pour le site de l'immeuble Frampton.
+
+1356
+01:07:32,707 --> 01:07:36,208
+Il a été certifié que le site
+n'a aucune importance historique.
+
+1357
+01:07:36,423 --> 01:07:39,463
+Signé et daté "Dr Ian Wexler",
+
+1358
+01:07:39,583 --> 01:07:41,307
+juste avant sa mort.
+
+1359
+01:07:42,018 --> 01:07:45,213
+Ce document pourrait valoir des millions
+de dollars à Frampton.
+
+1360
+01:07:45,333 --> 01:07:48,076
+Bien, je suggère que l'agent Booth
+et vous demandiez à M. Frampton
+
+1361
+01:07:48,196 --> 01:07:50,653
+s'il a forcé Ian à signer ça
+avant de le tuer.
+
+1362
+01:07:50,966 --> 01:07:52,020
+D'accord.
+
+1363
+01:07:53,684 --> 01:07:55,613
+Un mot de sagesse, Dr Brennan.
+
+1364
+01:07:56,530 --> 01:07:59,120
+Je vous encourage à ne pas renoncer
+à l'Everest.
+
+1365
+01:08:00,246 --> 01:08:02,081
+Mais c'est trop tard. Ian est mort.
+
+1366
+01:08:02,894 --> 01:08:04,340
+Oui, bien sûr.
+
+1367
+01:08:04,460 --> 01:08:07,420
+De qui d'autre pourrais-je parler
+à part Ian ?
+
+1368
+01:08:12,081 --> 01:08:13,759
+Moi, tuer Wexler ?
+
+1369
+01:08:13,919 --> 01:08:16,594
+D'après les journaux, le pauvre bougre
+est mort dans un incendie.
+
+1370
+01:08:16,756 --> 01:08:18,931
+Ce n'était pas la cause du décès.
+Il a été poignardé.
+
+1371
+01:08:19,091 --> 01:08:22,143
+Nous savons que le Dr Wexler
+s'opposait à votre dernier projet.
+
+1372
+01:08:22,337 --> 01:08:24,899
+Il cherchait si le site
+avait une valeur historique.
+
+1373
+01:08:25,019 --> 01:08:26,105
+C'est la loi.
+
+1374
+01:08:26,416 --> 01:08:28,023
+Rien ne se dresse sur votre route.
+
+1375
+01:08:28,183 --> 01:08:29,900
+Tout se dresse sur ma route,
+agent Booth.
+
+1376
+01:08:30,060 --> 01:08:32,528
+Les groupes environnementaux,
+les sociétés historiques.
+
+1377
+01:08:32,689 --> 01:08:35,523
+Il y a même
+un groupe préservationniste radical.
+
+1378
+01:08:36,317 --> 01:08:39,064
+Ils me menacent,
+car je veux améliorer la ville.
+
+1379
+01:08:41,671 --> 01:08:43,205
+Sauveurs de l'Antiquité.
+
+1380
+01:08:43,365 --> 01:08:46,446
+J'aimerais avoir une machine à remonter
+le temps, prendre tous ces fous,
+
+1381
+01:08:46,566 --> 01:08:48,044
+et les renvoyer
+
+1382
+01:08:48,204 --> 01:08:51,964
+où il n'y a ni air conditionné, ni TV
+et où ils peuvent voir leur amour mourir
+
+1383
+01:08:52,124 --> 01:08:54,843
+à cause de la grippe et de la peste,
+car il n'y a pas de médecine,
+
+1384
+01:08:54,963 --> 01:08:57,136
+on verra à quel point ils aiment
+le bon vieux temps.
+
+1385
+01:08:57,706 --> 01:09:01,015
+Bien. Le Dr Wexler a signé l'ordonnance
+
+1386
+01:09:01,469 --> 01:09:03,380
+pour que la construction commence.
+C'est ça ?
+
+1387
+01:09:04,677 --> 01:09:06,227
+Bien sûr qu'il a fait.
+
+1388
+01:09:06,759 --> 01:09:09,940
+Il a passé 2 ans à fouiller la boue
+et il n'a obtenu que des saletés.
+
+1389
+01:09:10,100 --> 01:09:12,046
+Nous avons noté
+que c'est très récemment
+
+1390
+01:09:12,166 --> 01:09:13,986
+que le Dr Wexler a donné son accord.
+
+1391
+01:09:14,146 --> 01:09:15,583
+Donc la véritable question est :
+
+1392
+01:09:15,703 --> 01:09:18,073
+jusqu'où avez-vous dû aller
+avec lui ?
+
+1393
+01:09:20,089 --> 01:09:21,258
+Je vois.
+
+1394
+01:09:22,081 --> 01:09:25,736
+Oui, donc j'étais tellement inspiré
+
+1395
+01:09:25,908 --> 01:09:29,210
+par le meurtre sadique de ma fille
+
+1396
+01:09:29,370 --> 01:09:32,025
+que j'ai voulu essayer moi-même.
+
+1397
+01:09:33,495 --> 01:09:36,550
+S'il n'y a rien de plus,
+je vais aller me saouler.
+
+1398
+01:09:40,577 --> 01:09:43,787
+J'ai trouvé quelque chose
+de très étrange sur la victime,
+
+1399
+01:09:43,907 --> 01:09:45,476
+du fulminate de mercure.
+
+1400
+01:09:45,636 --> 01:09:48,145
+Je pensais que Cam allait nous envoyer
+tous les résultats.
+
+1401
+01:09:48,305 --> 01:09:50,440
+Je suis un adulte.
+J'ai pas besoin d'intermédiaire.
+
+1402
+01:09:50,560 --> 01:09:52,814
+Avec ce taux de mercure, j'ai cru
+à un empoisonnement, mais
+
+1403
+01:09:52,934 --> 01:09:54,843
+les résultats toxicos disent
+le contraire.
+
+1404
+01:09:54,963 --> 01:09:56,987
+- Et ça ne vient pas de Henley ?
+- Non.
+
+1405
+01:09:57,147 --> 01:10:00,517
+J'ai aussi trouvé des phyllosilicates
+et de l'acide carbonique.
+
+1406
+01:10:00,637 --> 01:10:02,454
+Mais je ne suis pas sûr
+d'où ils viennent.
+
+1407
+01:10:02,574 --> 01:10:04,954
+Pouvez-vous me faire envoyer
+plus d'échantillons des restes
+
+1408
+01:10:05,115 --> 01:10:07,131
+et de l'endroit
+où le corps a été trouvé ?
+
+1409
+01:10:07,251 --> 01:10:08,048
+Bien sûr.
+
+1410
+01:10:08,168 --> 01:10:12,019
+Mais Scotland Yard dit que toutes les
+requêtes doivent venir du Dr Saroyan.
+
+1411
+01:10:12,272 --> 01:10:13,329
+Bien.
+
+1412
+01:10:13,449 --> 01:10:15,756
+Bien sûr, rien n'est possible sans elle.
+
+1413
+01:10:16,572 --> 01:10:19,009
+- Tout va bien, Hodgins ?
+- Oui. Bien sûr. Très bien.
+
+1414
+01:10:19,170 --> 01:10:22,052
+Je vais faire envoyer la demande
+par notre chef toute-puissante.
+
+1415
+01:10:26,859 --> 01:10:28,255
+Merci à vous tous d'être venus.
+
+1416
+01:10:28,375 --> 01:10:30,770
+- Cam a dit qu'on le devait.
+- Ou qu'on perdrait notre job.
+
+1417
+01:10:30,932 --> 01:10:32,064
+Pour insubordination.
+
+1418
+01:10:32,224 --> 01:10:35,109
+J'avais un peu l'espoir que vous
+soyez venus de votre propre chef
+
+1419
+01:10:35,269 --> 01:10:37,324
+avec l'envie d'améliorer
+une situation tendue.
+
+1420
+01:10:37,444 --> 01:10:39,704
+Pouvez-vous juste lui dire
+de pas être aussi autoritaire ?
+
+1421
+01:10:39,824 --> 01:10:42,157
+- Je suis votre chef.
+- Vous devez vraiment réaliser
+
+1422
+01:10:42,317 --> 01:10:45,034
+que le Dr Saroyan n'a rien fait
+qui mérite votre colère.
+
+1423
+01:10:45,195 --> 01:10:47,141
+- Merci.
+- En tant que chef.
+
+1424
+01:10:47,432 --> 01:10:50,351
+Mais en sexualisant sa relation
+avec M. Barasa...
+
+1425
+01:10:50,471 --> 01:10:52,526
+Il n'y a pas une meilleure façon
+de dire ça ?
+
+1426
+01:10:52,646 --> 01:10:54,086
+Tout le reste sonne encore pire.
+
+1427
+01:10:54,246 --> 01:10:57,298
+Elle vous a fait affronter
+des sentiments irrésolus
+
+1428
+01:10:57,459 --> 01:11:01,217
+liés à l'impact de M. Barasa
+sur vos vies et votre relation.
+
+1429
+01:11:01,378 --> 01:11:04,221
+Angela et moi nous aimons
+et nous allons nous marier.
+
+1430
+01:11:05,533 --> 01:11:06,329
+Je sais.
+
+1431
+01:11:06,449 --> 01:11:08,190
+Pourquoi pensiez-vous
+que j'en doutais ?
+
+1432
+01:11:08,310 --> 01:11:11,765
+Écoutez, Mini-Psy, n'allez pas créer
+des problèmes où il n'y en a pas, OK ?
+
+1433
+01:11:11,885 --> 01:11:14,940
+Par contre, la prochaine fois que vous
+conduisez quelqu'un à l'aéroport,
+
+1434
+01:11:15,101 --> 01:11:16,974
+laissez-le s'envoler d'ici, OK ?
+
+1435
+01:11:17,094 --> 01:11:19,737
+Tout ceci aurait été bien plus facile
+si je n'avais rien dit.
+
+1436
+01:11:20,427 --> 01:11:22,564
+Non, c'est absurde. Vous êtes tous amis.
+
+1437
+01:11:22,831 --> 01:11:25,409
+Maintenant que vous voyez
+la situation telle qu'elle est,
+
+1438
+01:11:25,570 --> 01:11:27,540
+vous saurez la surmonter.
+N'est-ce pas ?
+
+1439
+01:11:27,660 --> 01:11:29,371
+Je crois que Papa veut qu'on s'excuse.
+
+1440
+01:11:31,719 --> 01:11:33,395
+Je m'excuse d'avoir...
+
+1441
+01:11:34,849 --> 01:11:36,295
+couché avec cette personne.
+
+1442
+01:11:36,857 --> 01:11:39,532
+Je m'excuse de m'être énervée
+contre vous après...
+
+1443
+01:11:39,652 --> 01:11:41,967
+vous avoir, en quelque sorte,
+permis de coucher avec lui.
+
+1444
+01:11:42,990 --> 01:11:43,972
+Seigneur.
+
+1445
+01:11:44,668 --> 01:11:46,107
+Donc maintenant tout va bien ?
+
+1446
+01:11:46,227 --> 01:11:49,462
+C'est le résultat d'une communication
+ouverte et honnête
+
+1447
+01:11:49,582 --> 01:11:51,602
+avec un médiateur hautement diplômé.
+
+1448
+01:11:53,003 --> 01:11:53,729
+Bien.
+
+1449
+01:11:54,221 --> 01:11:57,259
+Je suis désolé d'être si grincheux,
+
+1450
+01:11:57,379 --> 01:12:00,828
+ce qui est dans ma personnalité,
+donc ça semble stupide de s'excuser...
+
+1451
+01:12:00,948 --> 01:12:03,395
+- Hodgins, pourrais-tu juste...
+- Je m'excuse.
+
+1452
+01:12:14,135 --> 01:12:15,647
+Le Dr Wexler n'a jamais dit un mot
+
+1453
+01:12:15,767 --> 01:12:17,895
+sur son accord
+pour les immeubles Frampton.
+
+1454
+01:12:18,015 --> 01:12:21,048
+Il a signé une ordonnance selon laquelle
+le lieu n'a aucune valeur historique.
+
+1455
+01:12:21,697 --> 01:12:23,179
+Je suis stupéfait, je vous le dis.
+
+1456
+01:12:23,299 --> 01:12:24,717
+L'ordonnance doit être un faux.
+
+1457
+01:12:24,879 --> 01:12:26,641
+Après deux ans, vous n'avez rien trouvé.
+
+1458
+01:12:26,761 --> 01:12:28,454
+Je pense que c'est un temps
+raisonnable.
+
+1459
+01:12:28,574 --> 01:12:30,516
+Ça dit que nous devons
+être partis dans 2 jours.
+
+1460
+01:12:31,167 --> 01:12:33,301
+Mais le Dr Wexler était certain
+qu'on était proches.
+
+1461
+01:12:33,436 --> 01:12:35,964
+On a trouvé un site antérieur
+à l'âge de bronze à 600 m au sud.
+
+1462
+01:12:36,084 --> 01:12:38,482
+- C'est sa signature, non ?
+- Peu importe, il aurait pas fait ça.
+
+1463
+01:12:38,643 --> 01:12:40,211
+Agent Booth, Dr Brennan.
+
+1464
+01:12:40,812 --> 01:12:42,861
+J'ai eu ça de notre expert-comptable.
+
+1465
+01:12:43,762 --> 01:12:45,781
+Regardez ça.
+Des chèques à l'ordre de Wexler.
+
+1466
+01:12:46,142 --> 01:12:48,648
+Dix d'entre eux viennent d'une société
+appartenant à Frampton.
+
+1467
+01:12:49,027 --> 01:12:52,014
+Il semble que 25000 livres
+soient le prix pour acheter
+
+1468
+01:12:52,134 --> 01:12:53,998
+un anthropologue judiciaire fauché.
+
+1469
+01:12:54,159 --> 01:12:57,562
+- Voilà comment il a réglé ses dettes.
+- Payé par Frampton pour sortir du site.
+
+1470
+01:13:04,421 --> 01:13:07,543
+Ils ont trouvé des traces de fulminate
+de mercure sur les extrémités,
+
+1471
+01:13:07,663 --> 01:13:09,836
+avec une plus grande concentration
+sur les rotules
+
+1472
+01:13:09,956 --> 01:13:11,988
+et encore plus là où il a été poignardé.
+
+1473
+01:13:12,108 --> 01:13:13,726
+Donc c'était sur l'arme du crime.
+
+1474
+01:13:13,886 --> 01:13:15,166
+Ouais, ça en a l'air.
+
+1475
+01:13:15,286 --> 01:13:17,563
+- Une idée sur le type d'arme ?
+- Pas encore.
+
+1476
+01:13:17,723 --> 01:13:20,065
+Ce qui a ponctionné l'os était rugueux,
+comme un bâton.
+
+1477
+01:13:20,479 --> 01:13:23,740
+J'ai essayé des couteaux, des poinçons,
+des pioches, mais rien ne correspond.
+
+1478
+01:13:24,316 --> 01:13:26,029
+Qui utiliserait du fulminate
+de mercure ?
+
+1479
+01:13:26,149 --> 01:13:29,830
+C'est utilisé pour les néons,
+les batteries, par les taxidermistes
+
+1480
+01:13:29,950 --> 01:13:32,619
+et dans les tanneries,
+et pour la fabrication d'explosifs.
+
+1481
+01:13:32,779 --> 01:13:35,539
+Frampton a différentes entreprises.
+L'une d'elles l'utilise peut-être.
+
+1482
+01:13:35,699 --> 01:13:38,169
+- Je vais voir ce qu'il a.
+- Je vais étudier les instruments
+
+1483
+01:13:38,289 --> 01:13:40,793
+retrouvés sur les lieux, qui pourraient
+être utilisés comme arme.
+
+1484
+01:13:42,831 --> 01:13:44,320
+Regardez ça, Bones, hein ?
+
+1485
+01:13:44,440 --> 01:13:46,930
+Je dis pas qu'on devrait
+avoir un roi
+
+1486
+01:13:47,050 --> 01:13:49,324
+ou une reine ou la décapitation
+et tout le tintouin.
+
+1487
+01:13:49,444 --> 01:13:52,416
+Je dis juste qu'appeler quelqu'un comme,
+
+1488
+01:13:52,536 --> 01:13:55,184
+"Sir Seeley Booth",
+ça, c'est civilisé.
+
+1489
+01:13:55,344 --> 01:13:57,603
+Qu'est-ce qui vous fait penser
+que vous seriez adoubé ?
+
+1490
+01:13:57,763 --> 01:13:59,579
+Allez. Soyez sérieuse, d'accord ?
+
+1491
+01:13:59,699 --> 01:14:00,754
+S'il vous plaît.
+
+1492
+01:14:00,874 --> 01:14:02,606
+Voyez-vous ça.
+Vous avez l'air détendus.
+
+1493
+01:14:02,726 --> 01:14:04,449
+Je dois vous dire, je m'y fais.
+
+1494
+01:14:04,569 --> 01:14:08,135
+Ma tête est un peu plus claire,
+aussi chaotiques que soient les Anglais.
+
+1495
+01:14:08,255 --> 01:14:11,200
+Alors, Pritch, dites-moi,
+j'ai tout pour être chevalier, hein ?
+
+1496
+01:14:11,360 --> 01:14:13,831
+- Ça n'est pas votre première pinte ?
+- Non.
+
+1497
+01:14:13,951 --> 01:14:15,792
+Vous avez des informations
+sur l'affaire ?
+
+1498
+01:14:15,912 --> 01:14:17,806
+J'ai enquêté
+sur les Sauveurs de l'Antiquité.
+
+1499
+01:14:17,926 --> 01:14:20,909
+L'an dernier, on les a suspectés d'avoir
+fait sauter une nouvelle construction
+
+1500
+01:14:21,029 --> 01:14:23,383
+sur le site d'une église du 13e siècle
+à Bayswater,
+
+1501
+01:14:23,503 --> 01:14:24,882
+ils ont tout détruit.
+
+1502
+01:14:25,002 --> 01:14:26,552
+Fulminate de mercure.
+
+1503
+01:14:26,779 --> 01:14:29,570
+- Je vous demande pardon ?
+- Utilisé dans l'explosif industriel.
+
+1504
+01:14:29,690 --> 01:14:32,137
+Le résidu pouvait se trouver sur les
+poseurs de bombes et s'être
+
+1505
+01:14:32,297 --> 01:14:33,823
+transféré à la blessure de Ian.
+
+1506
+01:14:33,943 --> 01:14:37,767
+Seuls deux des membres du groupe ont été
+poursuivis, les autres ont été relâchés.
+
+1507
+01:14:38,130 --> 01:14:39,852
+Regardez qui ils ont laissé filer.
+
+1508
+01:14:40,013 --> 01:14:41,146
+Cyril.
+
+1509
+01:14:41,306 --> 01:14:45,096
+Qui pouvait être très en colère
+que Wexler ait vendu la fouille.
+
+1510
+01:14:46,912 --> 01:14:49,020
+Je te le dis, Vera.
+On ne peut plus rien faire pour ça.
+
+1511
+01:14:49,140 --> 01:14:51,902
+C'est fermé. Une semaine, peut-être
+dix jours pour nettoyer, et c'est fini.
+
+1512
+01:14:52,022 --> 01:14:53,761
+C'est si soudain, après deux ans.
+
+1513
+01:14:53,881 --> 01:14:56,129
+Vera, le Dr Brennan
+veut vous voir au labo.
+
+1514
+01:14:56,249 --> 01:14:57,798
+- Quoi, pas moi ?
+- Non, Cyril.
+
+1515
+01:14:57,918 --> 01:14:59,777
+Le Dr Brennan veut
+que tu nous parles de ça.
+
+1516
+01:14:59,897 --> 01:15:02,042
+Les Sauveurs de l'Antiquité.
+Pitié.
+
+1517
+01:15:02,202 --> 01:15:04,335
+Où étais-tu la nuit où le Dr Ian Wexler
+a été tué ?
+
+1518
+01:15:04,496 --> 01:15:06,346
+- Vous n'êtes pas sérieuse.
+- Cyril s'aperçoit
+
+1519
+01:15:06,466 --> 01:15:08,261
+que son professeur
+est corrompu et le tue.
+
+1520
+01:15:08,381 --> 01:15:11,593
+- Au Pays de Galles, chez mes parents.
+- Cyril a quitté les Sauveurs.
+
+1521
+01:15:11,753 --> 01:15:14,679
+C'était surtout pour rencontrer
+des filles. Je suis pas un fanatique.
+
+1522
+01:15:16,100 --> 01:15:17,894
+Appelez ma mère, demandez-lui.
+
+1523
+01:15:18,014 --> 01:15:19,892
+On a mangé des anguilles,
+mon plat préféré.
+
+1524
+01:15:30,993 --> 01:15:33,152
+Vous croyez qu'on a fabriqué
+un Frankenstein, ici ?
+
+1525
+01:15:33,272 --> 01:15:36,092
+Frankenstein était le médecin,
+pas le monstre.
+
+1526
+01:15:36,212 --> 01:15:38,778
+Ouais, sinon ça serait pas logique.
+
+1527
+01:15:38,898 --> 01:15:41,652
+- Bones, je connais ce regard.
+- Moi aussi.
+
+1528
+01:15:41,772 --> 01:15:45,516
+Quand Ian faisait ça, ça signifiait
+que les choses se compliquaient.
+
+1529
+01:15:45,636 --> 01:15:47,378
+Clark a reçu les derniers moulages.
+
+1530
+01:15:47,540 --> 01:15:50,962
+Et en finissant de reconstituer
+le squelette,
+
+1531
+01:15:51,082 --> 01:15:52,509
+il a trouvé un os en trop.
+
+1532
+01:15:52,669 --> 01:15:54,419
+- Wexler avait un os en trop ?
+- Non, non.
+
+1533
+01:15:54,539 --> 01:15:56,867
+C'est le morceau d'un fémur brisé
+sur quelqu'un d'autre
+
+1534
+01:15:56,987 --> 01:15:59,589
+que les internes d'ici
+n'ont pas identifié.
+
+1535
+01:15:59,709 --> 01:16:02,811
+Chaque morceau d'os qu'on a ici a été
+trouvé et répertorié sur les lieux.
+
+1536
+01:16:03,520 --> 01:16:06,148
+Peut-être qu'il s'y accrochait.
+Il aimait les os, alors...
+
+1537
+01:16:06,308 --> 01:16:07,900
+Je crois que c'est l'arme du crime.
+
+1538
+01:16:09,444 --> 01:16:10,444
+Sérieusement ?
+
+1539
+01:16:10,604 --> 01:16:13,405
+Le point d'entrée de la blessure
+se situe entre T-6
+
+1540
+01:16:13,566 --> 01:16:15,657
+et T-7, s'étendant approximativement
+
+1541
+01:16:15,819 --> 01:16:18,285
+sur 22 cm à travers
+le cœur et les poumons.
+
+1542
+01:16:18,445 --> 01:16:21,121
+Le tueur a poignardé Ian
+avec un os ?
+
+1543
+01:16:21,281 --> 01:16:23,832
+Vivez par les os,
+mourez par les os, c'est...
+
+1544
+01:16:24,619 --> 01:16:25,459
+Désolé.
+
+1545
+01:16:26,137 --> 01:16:28,606
+Il me semble que si nous trouvons
+l'origine de l'os, alors...
+
+1546
+01:16:28,726 --> 01:16:30,087
+nous trouverons le meurtrier.
+
+1547
+01:16:30,249 --> 01:16:31,847
+C'est là que le mercure entre en jeu.
+
+1548
+01:16:31,967 --> 01:16:35,057
+Cet os montre des taux très hauts
+de fulminate de mercure.
+
+1549
+01:16:35,177 --> 01:16:36,929
+- Ça veut dire quoi, Bones ?
+- Rien.
+
+1550
+01:16:37,089 --> 01:16:38,137
+Très utile.
+
+1551
+01:16:38,299 --> 01:16:40,432
+Je suis plus intéressée par le fait
+qu'il soit ossifié.
+
+1552
+01:16:40,601 --> 01:16:42,433
+Ça signifie
+qu'il s'est changé en pierre.
+
+1553
+01:16:42,595 --> 01:16:44,780
+Non, non, non, commencez pas
+à m'expliquer des trucs.
+
+1554
+01:16:44,900 --> 01:16:47,066
+Bon, et ça veut dire quoi, ça ?
+
+1555
+01:16:47,186 --> 01:16:49,691
+Ça veut dire qu'il a plus de 2000 ans.
+
+1556
+01:16:49,851 --> 01:16:52,944
+J'étais déjà contente de comprendre
+le mot "ossifié".
+
+1557
+01:16:53,105 --> 01:16:56,573
+2000 ans situent cet os définitivement
+dans l'âge de bronze.
+
+1558
+01:16:56,733 --> 01:16:58,598
+- Le site.
+- Oh, mon Dieu, que...
+
+1559
+01:16:58,718 --> 01:17:02,444
+Donc ce seul os aurait empêché Frampton
+de construire ses gratte-ciel.
+
+1560
+01:17:02,564 --> 01:17:03,288
+Oui.
+
+1561
+01:17:03,626 --> 01:17:05,971
+Le meurtrier l'a peut-être utilisé
+pour tuer Ian comme...
+
+1562
+01:17:06,091 --> 01:17:09,294
+une sorte de vengeance symbolique
+pour avoir signé l'ordonnance.
+
+1563
+01:17:09,455 --> 01:17:11,360
+- C'est logique.
+- Non, ça ne l'est pas.
+
+1564
+01:17:11,480 --> 01:17:14,590
+On ne tue pas symboliquement quelqu'un
+avec un os, pas même en Angleterre.
+
+1565
+01:17:14,752 --> 01:17:16,134
+Et alors quoi, agent Booth ?
+
+1566
+01:17:16,295 --> 01:17:18,845
+Vous avez l'incendie, la cigarette.
+Tout s'est fait dans la panique.
+
+1567
+01:17:19,005 --> 01:17:21,363
+Le tueur n'a pas agi symboliquement.
+
+1568
+01:17:21,483 --> 01:17:22,975
+Il a agi par fureur.
+
+1569
+01:17:29,626 --> 01:17:33,485
+- Sweets est vraiment bon.
+- Ouais, c'est clair.
+
+1570
+01:17:34,093 --> 01:17:37,030
+Enfin, tu comprenais que t'étais pas
+vraiment en colère contre Cam ?
+
+1571
+01:17:37,190 --> 01:17:40,366
+Non, j'étais vraiment
+en colère contre elle.
+
+1572
+01:17:40,486 --> 01:17:43,846
+On couche pas avec quelqu'un pour croire
+que tout va bien aller après.
+
+1573
+01:17:43,966 --> 01:17:46,191
+Pas quand il est censé être parti
+et hors de nos vies,
+
+1574
+01:17:46,311 --> 01:17:48,584
+- ça, ça va pas.
+- Non, c'est clair que non.
+
+1575
+01:17:49,147 --> 01:17:49,960
+Pourquoi ?
+
+1576
+01:17:50,120 --> 01:17:51,287
+Tu es divorcée.
+
+1577
+01:17:51,455 --> 01:17:53,649
+Pourquoi ça ne te plaît pas
+que Cam ait couché avec lui ?
+
+1578
+01:17:54,238 --> 01:17:57,092
+Pour la même raison que ça
+ne te plaît pas qu'il soit encore ici.
+
+1579
+01:17:57,716 --> 01:17:59,740
+Mais tout est fini avec lui,
+qu'est-ce...
+
+1580
+01:18:00,068 --> 01:18:02,857
+Pourquoi tu t'inquiètes
+d'avec qui il couche ?
+
+1581
+01:18:02,977 --> 01:18:05,150
+Pourquoi ça t'inquiète qu'il soit
+encore ici ?
+
+1582
+01:18:05,270 --> 01:18:06,309
+Je m'en fiche.
+
+1583
+01:18:06,475 --> 01:18:07,737
+Apparemment pas.
+
+1584
+01:18:08,463 --> 01:18:11,106
+Si tu avais 100 % confiance en moi,
+ça t'embêterait pas.
+
+1585
+01:18:11,448 --> 01:18:12,705
+Mais ça t'embête.
+
+1586
+01:18:12,825 --> 01:18:15,705
+Si tu étais certaine à 100 %
+de ne plus vouloir de lui,
+
+1587
+01:18:15,825 --> 01:18:18,196
+tu te ficherais que Cam couche avec lui.
+
+1588
+01:18:24,740 --> 01:18:26,590
+Tu ne me fais pas confiance.
+
+1589
+01:18:29,594 --> 01:18:32,803
+Si tu dis ça, ça veut dire
+que tu ne me fais pas confiance.
+
+1590
+01:18:33,539 --> 01:18:36,173
+Comment deux personnes qui se font
+pas confiance peuvent se marier ?
+
+1591
+01:18:36,333 --> 01:18:38,133
+Je croyais qu'on se faisait confiance.
+
+1592
+01:18:38,527 --> 01:18:39,634
+Ouais, moi aussi.
+
+1593
+01:18:42,588 --> 01:18:45,515
+Deux personnes qui se font pas confiance
+ne devraient même pas être ensemble.
+
+1594
+01:18:45,800 --> 01:18:47,184
+Tu le penses vraiment ?
+
+1595
+01:18:48,076 --> 01:18:49,157
+Pas toi ?
+
+1596
+01:18:50,853 --> 01:18:52,226
+Ouais, je... oui.
+
+1597
+01:18:52,346 --> 01:18:54,568
+Enfin, je le pense, mais...
+
+1598
+01:18:58,221 --> 01:19:00,228
+Oh, mon Dieu.
+
+1599
+01:19:00,956 --> 01:19:02,031
+Ouais.
+
+1600
+01:19:03,231 --> 01:19:04,618
+Je sais pas ce qui s'est passé.
+
+1601
+01:19:06,283 --> 01:19:07,531
+Moi non plus.
+
+1602
+01:19:10,442 --> 01:19:12,042
+Mais je sais que c'est arrivé.
+
+1603
+01:19:14,204 --> 01:19:15,087
+Je vais...
+
+1604
+01:19:15,563 --> 01:19:16,844
+Je vais m'en aller.
+
+1605
+01:19:19,876 --> 01:19:22,434
+Tu sais, tout ce que tu avais à faire,
+c'était me faire confiance.
+
+1606
+01:19:23,943 --> 01:19:25,931
+C'est toi qui pars.
+
+1607
+01:19:27,216 --> 01:19:29,399
+C'est toi qui ne m'arrêtes pas.
+
+1608
+01:19:46,903 --> 01:19:49,425
+Le Dr Wexler nous aurait parlé
+d'une trouvaille de cette importance.
+
+1609
+01:19:49,545 --> 01:19:51,664
+À moins qu'il ait voulu garder l'argent.
+
+1610
+01:19:51,784 --> 01:19:52,916
+Pourquoi on est là ?
+
+1611
+01:19:53,097 --> 01:19:56,538
+Ça a été une ferme, une étable,
+pendant plus de 200 ans.
+
+1612
+01:19:56,658 --> 01:19:58,978
+Aux 18e et 19e siècles. Et alors ?
+
+1613
+01:19:59,098 --> 01:20:02,670
+Pas de mercure, mais au 17e siècle,
+il y avait une auberge
+
+1614
+01:20:02,951 --> 01:20:06,138
+par là et une tannerie ici.
+
+1615
+01:20:06,298 --> 01:20:08,734
+Une des plus anciennes tanneries
+de Kensington.
+
+1616
+01:20:08,854 --> 01:20:10,103
+- Bon sang.
+- Quoi ?
+
+1617
+01:20:10,223 --> 01:20:12,878
+Le fulminate de mercure est utilisé
+en tannerie.
+
+1618
+01:20:12,998 --> 01:20:15,061
+La tannerie a fonctionné
+pendant plus de 100 ans.
+
+1619
+01:20:15,181 --> 01:20:17,914
+Le mercure a dû s'infiltrer dans le sol
+et contaminer ce qui s'y trouvait.
+
+1620
+01:20:18,034 --> 01:20:20,986
+- Pourquoi cet endroit est recouvert ?
+- Tu gérais cette partie de la fouille.
+
+1621
+01:20:21,147 --> 01:20:23,863
+On n'a rien trouvé ici. Dr Wexler nous
+a dit de passer à autre chose.
+
+1622
+01:20:24,277 --> 01:20:26,695
+- Booth, aidez-moi s'il vous plaît.
+- Ouais, j'y suis.
+
+1623
+01:20:33,019 --> 01:20:35,500
+Le sol devrait être meuble
+à cause de l'excavation.
+
+1624
+01:20:35,660 --> 01:20:38,378
+- Ça a été rebouché.
+- Et recouvert de palettes.
+
+1625
+01:20:38,538 --> 01:20:41,288
+- Vera, qu'est-ce qui se passe ?
+- Rien, je te l'ai dit.
+
+1626
+01:20:41,408 --> 01:20:43,408
+Le Dr Wexler nous a dit
+de passer à autre chose.
+
+1627
+01:20:43,533 --> 01:20:45,147
+Un autre fragment d'os fossilisé.
+
+1628
+01:20:45,453 --> 01:20:46,928
+C'est un site de l'âge de bronze.
+
+1629
+01:20:47,088 --> 01:20:49,092
+C'est toute votre vie.
+Pourquoi l'avoir dissimulé ?
+
+1630
+01:20:49,212 --> 01:20:50,583
+J'ai rien fait.
+
+1631
+01:20:50,703 --> 01:20:51,730
+Dis-leur, Cyril.
+
+1632
+01:20:52,220 --> 01:20:55,479
+On a travaillé deux ans ensemble
+espérant faire cette découverte.
+
+1633
+01:20:55,599 --> 01:20:57,135
+L'os n'avait pas de tête.
+
+1634
+01:20:57,255 --> 01:20:59,649
+Sa paume devrait être égratignée
+si elle l'a poignardé.
+
+1635
+01:21:01,688 --> 01:21:03,538
+Vous êtes très, très bons, vous deux.
+
+1636
+01:21:04,368 --> 01:21:05,601
+On est les meilleurs.
+
+1637
+01:21:06,281 --> 01:21:07,491
+Bon travail.
+
+1638
+01:21:07,651 --> 01:21:08,867
+Allez, debout Vera.
+
+1639
+01:21:09,027 --> 01:21:11,211
+- Je peux avoir des menottes ?
+- Vous ne comprenez pas
+
+1640
+01:21:11,331 --> 01:21:12,621
+ce que Ian voulait faire.
+
+1641
+01:21:12,781 --> 01:21:14,658
+Vous avez tué Wexler
+pour garder l'argent ?
+
+1642
+01:21:14,778 --> 01:21:16,917
+Ian voulait rendre l'argent.
+Vous ne comprenez pas ?
+
+1643
+01:21:17,077 --> 01:21:18,919
+- Pas du tout.
+- Moi si, j'en ai peur.
+
+1644
+01:21:19,079 --> 01:21:20,613
+C'est tout Ian.
+
+1645
+01:21:21,245 --> 01:21:24,132
+Il a joyeusement accepté le pot-de-vin,
+alors qu'il n'y avait rien à acheter,
+
+1646
+01:21:24,292 --> 01:21:28,233
+mais quand ils ont trouvé quelque chose,
+ses principes ont repris le dessus...
+
+1647
+01:21:28,353 --> 01:21:29,888
+et il a voulu rendre l'argent.
+
+1648
+01:21:33,134 --> 01:21:35,954
+- Ça aurait ruiné sa carrière.
+- Ouais et la mienne aussi, vous voyez ?
+
+1649
+01:21:36,074 --> 01:21:37,437
+Il n'y a jamais pensé.
+
+1650
+01:21:37,597 --> 01:21:39,981
+Donc Ian était
+quelqu'un de bien finalement ?
+
+1651
+01:21:40,949 --> 01:21:42,684
+Quelqu'un d'assez bien...
+
+1652
+01:21:43,226 --> 01:21:45,402
+On s'en contentait.
+
+1653
+01:21:53,804 --> 01:21:55,956
+<i>Techniquement, vous n'avez pas joint
+Temperance Brennan,</i>
+
+1654
+01:21:56,076 --> 01:21:58,404
+<i>mais si vous laissez un message
+vous la joindrez elle, moi...</i>
+
+1655
+01:21:59,140 --> 01:22:00,335
+<i>Temperance Brennan.</i>
+
+1656
+01:22:00,725 --> 01:22:03,155
+Salut chérie, c'est moi.
+
+1657
+01:22:04,151 --> 01:22:06,744
+Hodgins et moi, on a rompu et...
+
+1658
+01:22:06,864 --> 01:22:09,919
+Je ne saurai vraiment pourquoi
+que lorsque je t'aurai parlé, alors...
+
+1659
+01:22:10,039 --> 01:22:12,848
+Je vais rester au lit jusqu'à ton retour
+et alors on pourra...
+
+1660
+01:22:20,182 --> 01:22:20,981
+Angela ?
+
+1661
+01:22:22,238 --> 01:22:23,487
+Oh, mon Dieu.
+
+1662
+01:22:24,309 --> 01:22:25,558
+Encore toi.
+
+1663
+01:22:26,665 --> 01:22:29,720
+J'ai appris que tu avais rompu
+avec le petit homme en colère.
+
+1664
+01:22:29,840 --> 01:22:33,285
+Avant de partir, j'ai voulu
+te le demander encore une fois.
+
+1665
+01:22:33,949 --> 01:22:34,866
+Non.
+
+1666
+01:22:35,530 --> 01:22:37,506
+Personne ne m'a.
+
+1667
+01:22:38,201 --> 01:22:39,495
+Je n'appartiens à personne.
+
+1668
+01:22:40,983 --> 01:22:42,100
+Je comprends.
+
+1669
+01:22:42,991 --> 01:22:45,711
+Tu peux me conduire à l'aéroport ?
+
+1670
+01:22:46,027 --> 01:22:48,617
+C'est une sorte de code pour vous,
+c'est ça ?
+
+1671
+01:22:49,948 --> 01:22:51,308
+Je devrais peut-être l'amener.
+
+1672
+01:22:51,428 --> 01:22:53,759
+Non, je l'accompagne.
+
+1673
+01:22:54,992 --> 01:22:56,295
+Qu'est que c'est ?
+
+1674
+01:22:56,415 --> 01:22:57,490
+Écoutez, ça a été...
+
+1675
+01:22:57,759 --> 01:22:59,603
+très intéressant de travailler ici...
+
+1676
+01:22:59,788 --> 01:23:02,667
+Mais je suis un homme de science
+et cet endroit est juste...
+
+1677
+01:23:02,787 --> 01:23:04,149
+Très mélodramatique.
+
+1678
+01:23:04,310 --> 01:23:05,521
+Bien dit.
+
+1679
+01:23:05,884 --> 01:23:07,944
+Je veux travailler
+dans un labo normal.
+
+1680
+01:23:09,758 --> 01:23:12,991
+- Alors, je vous emmène ou pas ?
+- Oui, vous l'emmenez.
+
+1681
+01:23:29,869 --> 01:23:33,179
+Wexler était un personnage
+à la Robin des bois.
+
+1682
+01:23:33,299 --> 01:23:34,789
+Il volait les riches.
+
+1683
+01:23:35,089 --> 01:23:37,681
+J'ai refusé l'opportunité de coucher
+avec Robin des bois ?
+
+1684
+01:23:37,801 --> 01:23:40,018
+On fait parfois de drôles de choix.
+
+1685
+01:23:40,528 --> 01:23:42,187
+Salut, Pritch.
+
+1686
+01:23:42,347 --> 01:23:43,647
+"Cheerio"*, partenaire.
+
+1687
+01:23:44,559 --> 01:23:46,156
+"Bonjour" va très bien.
+
+1688
+01:23:46,976 --> 01:23:48,652
+Au nom de Sa Majesté,
+
+1689
+01:23:48,812 --> 01:23:52,614
+la Reine d'Angleterre,
+je vous fais, Sir Seeley Booth...
+
+1690
+01:23:54,187 --> 01:23:56,021
+Chevalier du Royaume.
+
+1691
+01:24:02,187 --> 01:24:03,862
+"Chevalier Junior Officiel"
+
+1692
+01:24:04,194 --> 01:24:05,586
+Regardez ça.
+
+1693
+01:24:06,234 --> 01:24:08,088
+Attendez,
+ça vient d'un magasin de jouets.
+
+1694
+01:24:08,384 --> 01:24:10,740
+Ça ne veut pas dire
+que vous n'êtes pas Sir Galaad.
+
+1695
+01:24:12,132 --> 01:24:13,080
+Merci.
+
+1696
+01:24:15,579 --> 01:24:16,845
+Je suis désolée pour Ian.
+
+1697
+01:24:18,614 --> 01:24:19,856
+Moi aussi.
+
+1698
+01:24:20,922 --> 01:24:23,394
+Ce fut un honneur
+de travailler avec vous deux.
+
+1699
+01:24:24,638 --> 01:24:25,642
+Pareil pour nous.
+
+1700
+01:24:28,612 --> 01:24:30,818
+Si vous avez besoin
+que je vous accompagne à l'aéroport...
+
+1701
+01:24:30,979 --> 01:24:32,821
+Bones nous a commandé une limousine.
+
+1702
+01:24:33,334 --> 01:24:34,322
+Bien sûr.
+
+1703
+01:24:34,482 --> 01:24:36,419
+Mais si vous venez un jour
+dans les colonies...
+
+1704
+01:24:39,850 --> 01:24:41,162
+Ce serait génial.
+
+1705
+01:24:45,383 --> 01:24:46,583
+Elle vous apprécie.
+
+1706
+01:24:46,948 --> 01:24:47,711
+Non.
+
+1707
+01:24:47,871 --> 01:24:51,047
+Si. Et elle est très attirée
+par le sexe.
+
+1708
+01:24:51,207 --> 01:24:53,795
+Arrêtez avec ça.
+
+1709
+01:24:54,923 --> 01:24:56,656
+Cet endroit va me manquer.
+
+1710
+01:25:00,103 --> 01:25:02,016
+Ce n'est certainement pas une gargote.
+
+1711
+01:25:04,722 --> 01:25:07,174
+Allons. On devrait partir
+avant que quelqu'un d'autre ne soit tué.
+
+1712
+01:25:07,294 --> 01:25:09,607
+Ouais, vous avez raison, allons-y.
+
+1713
+01:25:11,588 --> 01:25:13,138
+Vous prenez mon bras ?
+
+1714
+01:25:13,390 --> 01:25:14,486
+Merci.
+
+1715
+01:25:14,829 --> 01:25:16,051
+Merci, Sir Seeley.
+
+1716
+01:25:16,171 --> 01:25:17,171
+Oui.
+
+1717
+01:25:17,612 --> 01:25:20,600
+Tout le plaisir est pour moi,
+Lady Temperance.
+
+1718
+01:25:21,976 --> 01:25:23,423
+On dirait un Australien.
+
+1719
+01:25:23,543 --> 01:25:25,154
+Je n'avais pas l'accent australien.
+
+1720
+01:25:27,160 --> 01:25:31,129
+Sous-titre : <i>A²S Team</i>
+--==All-about-Subs.fr==--
+

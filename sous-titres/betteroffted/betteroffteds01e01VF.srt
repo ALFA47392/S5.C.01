@@ -1,0 +1,1683 @@
+1
+00:00:01,325 --> 00:00:02,675
+<i>Veridian Dynamics.</i>
+
+2
+00:00:03,253 --> 00:00:07,004
+<i>Chaque jour, un de nos produits
+rend votre vie meilleure.</i>
+
+3
+00:00:07,853 --> 00:00:09,680
+<i>Du courant : on en fait.</i>
+
+4
+00:00:10,888 --> 00:00:13,110
+<i>De la technologie : on en fait.</i>
+
+5
+00:00:14,201 --> 00:00:14,994
+<i>Ça...</i>
+
+6
+00:00:15,504 --> 00:00:17,099
+<i>non, on n'en fait pas.</i>
+
+7
+00:00:17,595 --> 00:00:19,525
+<i>Quoique... on a fait un mouton.</i>
+
+8
+00:00:20,293 --> 00:00:21,427
+<i>Des médicaments.</i>
+
+9
+00:00:21,890 --> 00:00:23,230
+<i>Des moteurs d'avions.</i>
+
+10
+00:00:24,023 --> 00:00:25,456
+<i>Et quoi que soit ce truc.</i>
+
+11
+00:00:25,952 --> 00:00:27,359
+<i>Toutes sortes de trucs.</i>
+
+12
+00:00:30,501 --> 00:00:31,697
+<i>Veridian Dynamics.</i>
+
+13
+00:00:31,865 --> 00:00:35,660
+<i>Chaque jour, un de nos produits
+rend votre vie meilleure.</i>
+
+14
+00:00:38,286 --> 00:00:39,330
+<i>En principe.</i>
+
+15
+00:00:40,593 --> 00:00:42,148
+<i>Veridian Dynamics.</i>
+
+16
+00:00:42,273 --> 00:00:43,083
+<i>La vie.</i>
+
+17
+00:00:43,323 --> 00:00:44,262
+<i>En mieux.</i>
+
+18
+00:00:45,870 --> 00:00:48,336
+- BETTER OFF TED -
+- 1x01 Pilot -
+
+19
+00:00:51,279 --> 00:00:53,415
+J'ai le meilleur boulot au monde.
+
+20
+00:00:54,425 --> 00:00:57,942
+On veut faire un métal dur comme
+l'acier, souple comme le caoutchouc,
+
+21
+00:00:58,067 --> 00:01:00,393
+- et comestible.
+- On peut le faire.
+
+22
+00:01:02,258 --> 00:01:04,540
+Je dirige le service
+Recherche et Développement
+
+23
+00:01:04,665 --> 00:01:08,138
+d'une des plus grosses compagnies
+américaines : Veridian Dynamics.
+
+24
+00:01:09,573 --> 00:01:10,778
+Veronica dirige.
+
+25
+00:01:10,946 --> 00:01:14,562
+On veut une souris qui puisse
+supporter des températures de 90 °C.
+
+26
+00:01:15,177 --> 00:01:16,242
+On peut le faire.
+
+27
+00:01:17,445 --> 00:01:19,036
+Souris d'ordi ou vivante ?
+
+28
+00:01:20,532 --> 00:01:21,582
+Je reviens.
+
+29
+00:01:22,591 --> 00:01:25,700
+Chaque jour, une nouveauté
+attend d'être découverte.
+
+30
+00:01:26,245 --> 00:01:28,224
+- Souris d'ordi.
+- Encore plus facile.
+
+31
+00:01:29,281 --> 00:01:30,612
+On fait de tout :
+
+32
+00:01:30,866 --> 00:01:32,795
+produits industriels, biomédecine,
+
+33
+00:01:32,920 --> 00:01:34,902
+cryogénie, technologie militaire.
+
+34
+00:01:35,925 --> 00:01:38,073
+On veut faire d'une citrouille
+une arme.
+
+35
+00:01:38,407 --> 00:01:39,519
+Ainsi soit-il.
+
+36
+00:01:40,471 --> 00:01:41,461
+Parce que ?
+
+37
+00:01:42,192 --> 00:01:45,207
+Un pays avec qui on commerce
+fait pousser beaucoup de citrouilles
+
+38
+00:01:45,332 --> 00:01:47,595
+et apprécierait
+une utilisation subsidiaire.
+
+39
+00:01:47,720 --> 00:01:50,025
+Comme tuer leurs ennemis
+pour moins cher.
+
+40
+00:01:50,194 --> 00:01:52,921
+Enfin, la citrouille va se rendre utile
+hors d'Halloween.
+
+41
+00:01:54,380 --> 00:01:55,187
+Tarte.
+
+42
+00:01:56,027 --> 00:01:57,366
+Halloween et les tartes.
+
+43
+00:02:01,946 --> 00:02:05,222
+Je suis chez Veridian depuis 3 ans.
+L'an dernier, j'ai été promu.
+
+44
+00:02:05,347 --> 00:02:08,043
+Je dirige des gens parmi
+les plus intelligents du monde.
+
+45
+00:02:10,846 --> 00:02:11,888
+Et voilà.
+
+46
+00:02:14,002 --> 00:02:15,077
+Écoutez tous.
+
+47
+00:02:15,457 --> 00:02:18,104
+On doit changer
+ce simple récipient festif
+
+48
+00:02:18,229 --> 00:02:19,360
+en un vrai tueur.
+
+49
+00:02:19,485 --> 00:02:21,640
+J'ai demandé au Dr Bhamba
+d'observer la nature,
+
+50
+00:02:21,808 --> 00:02:24,560
+car la nature
+est une fantastique tueuse.
+
+51
+00:02:26,266 --> 00:02:27,267
+Dr Bhamba.
+
+52
+00:02:27,901 --> 00:02:28,787
+Merci.
+
+53
+00:02:29,121 --> 00:02:33,056
+La nature annihile la citrouille
+avec une moisissure pulvérulente,
+
+54
+00:02:33,323 --> 00:02:36,694
+qu'on peut faire muter pour attaquer
+la structure cellulaire humaine,
+
+55
+00:02:37,095 --> 00:02:40,552
+causant chez l'ennemi la croissance
+d'une magnifique gangue duveteuse
+
+56
+00:02:40,677 --> 00:02:41,743
+qui le tue...
+
+57
+00:02:42,818 --> 00:02:44,789
+- de moisi.
+- Oh, mon Dieu !
+
+58
+00:02:45,170 --> 00:02:48,475
+- Des spores en uniformes !
+- On a saisi l'idée.
+
+59
+00:02:48,796 --> 00:02:51,693
+Cindy, Lester, Jerry,
+vous assisterez le Dr Bhamba.
+
+60
+00:02:52,251 --> 00:02:53,960
+Les autres, merci bien.
+
+61
+00:02:55,662 --> 00:02:56,396
+Ted,
+
+62
+00:02:56,733 --> 00:02:59,512
+l'atelier des drones espions
+a sorti ce tissu à bas prix.
+
+63
+00:02:59,910 --> 00:03:01,317
+Trouve-lui un autre usage.
+
+64
+00:03:01,442 --> 00:03:03,017
+Bonne texture,
+
+65
+00:03:03,142 --> 00:03:05,392
+couleur...
+Une viande pour petit déj' ?
+
+66
+00:03:06,124 --> 00:03:08,479
+Sérieux ?
+On veut se lancer dans ce secteur.
+
+67
+00:03:10,336 --> 00:03:11,732
+Tu dois te relaxer.
+
+68
+00:03:12,394 --> 00:03:13,735
+Et si j'étais trop drôle ?
+
+69
+00:03:13,860 --> 00:03:16,162
+Si j'avais fait semblant
+de ne pas comprendre ?
+
+70
+00:03:20,012 --> 00:03:21,069
+<i>Voici Lem.</i>
+
+71
+00:03:22,994 --> 00:03:24,300
+<i>C'est un génie.</i>
+
+72
+00:03:26,681 --> 00:03:27,671
+<i>Sérieux !</i>
+
+73
+00:03:30,921 --> 00:03:33,738
+<i>Depuis 10 ans,
+Lem fait équipe avec...</i>
+
+74
+00:03:34,424 --> 00:03:36,424
+<i>Phil,</i>
+<i>qui est aussi un génie.</i>
+
+75
+00:03:39,448 --> 00:03:42,502
+J'enrage, pour le papier toilette.
+Pourquoi l'avoir éloigné ainsi ?
+
+76
+00:03:42,627 --> 00:03:44,180
+La proximité est si efficiente.
+
+77
+00:03:44,305 --> 00:03:47,327
+Ils pensent que s'il est plus loin,
+on en utilisera moins.
+
+78
+00:03:47,452 --> 00:03:49,552
+Ils ont tué mon plaisir
+d'aller aux toilettes.
+
+79
+00:03:49,677 --> 00:03:52,850
+D'étrange fonction humaine,
+c'est devenu carrément stressant.
+
+80
+00:03:52,975 --> 00:03:55,334
+Enlève simplement le rouleau
+du distributeur
+
+81
+00:03:55,459 --> 00:03:57,570
+et emmène-le avec toi
+avant de t'asseoir.
+
+82
+00:03:57,738 --> 00:04:00,558
+- C'est ce que je fais.
+- Quoi ? C'est anormal, Phil !
+
+83
+00:04:00,683 --> 00:04:02,095
+Ça devient normal...
+
+84
+00:04:02,220 --> 00:04:03,520
+à la longue.
+
+85
+00:04:04,359 --> 00:04:05,517
+Comme le reste.
+
+86
+00:04:05,642 --> 00:04:08,699
+Tu peux te faire à leurs conneries,
+si tu veux. Tu es comme ça.
+
+87
+00:04:08,824 --> 00:04:11,072
+Je suis différent.
+Je suis un rebelle !
+
+88
+00:04:11,357 --> 00:04:12,764
+Je lutte contre ces trucs.
+
+89
+00:04:13,454 --> 00:04:15,638
+- Pas du tout.
+- Ferme-la, Phil.
+
+90
+00:04:16,165 --> 00:04:18,101
+Je le ferais si je pensais gagner.
+
+91
+00:04:18,746 --> 00:04:20,696
+Rappelle-toi ce truc,
+la semaine passée,
+
+92
+00:04:20,821 --> 00:04:24,429
+que tu pensais pouvoir vaincre,
+mais tu as renoncé. Tu t'en souviens ?
+
+93
+00:04:25,077 --> 00:04:28,058
+- Avec le sandwich ?
+- J'aurais dû lutter, pour ça.
+
+94
+00:04:28,374 --> 00:04:30,336
+- Il me semble.
+- Les gars !
+
+95
+00:04:30,461 --> 00:04:33,439
+Voyez si on peut faire de ce tissu
+une ligne de sièges de bureau.
+
+96
+00:04:33,726 --> 00:04:35,299
+C'est très solide, et...
+
+97
+00:04:35,424 --> 00:04:38,235
+- sombre.
+- Je combats pas assez l'injustice ?
+
+98
+00:04:39,193 --> 00:04:40,694
+Tu parles du sandwich ?
+
+99
+00:04:41,239 --> 00:04:43,574
+Je crois que, d'instinct,
+tu le savais perdu.
+
+100
+00:04:44,065 --> 00:04:45,486
+Ta maman est forte.
+
+101
+00:04:45,611 --> 00:04:47,786
+Elle a tué une chauve-souris
+avec son <i>Voici</i>.
+
+102
+00:04:48,774 --> 00:04:51,376
+Ça, c'est fort, mais...
+ce qu'elle ne peut pas faire ?
+
+103
+00:04:51,758 --> 00:04:54,385
+Créer quelque chose
+à partir de rien,
+
+104
+00:04:55,003 --> 00:04:56,128
+comme toi.
+
+105
+00:04:56,421 --> 00:04:57,922
+Fabrique-moi un fauteuil.
+
+106
+00:05:01,828 --> 00:05:03,819
+- Il est meilleur que toi.
+- En effet.
+
+107
+00:05:04,263 --> 00:05:06,619
+<i>L'étape suivante, pour un produit,
+c'est les tests.</i>
+
+108
+00:05:10,434 --> 00:05:12,759
+<i>Tester est l'une des missions
+de Linda.</i>
+
+109
+00:05:13,377 --> 00:05:16,109
+Les gens se tortillent.
+Le tissu n'est pas confortable.
+
+110
+00:05:16,234 --> 00:05:17,792
+Se tortillent-ils, ou...
+
+111
+00:05:18,242 --> 00:05:21,893
+aiment-ils tant ça qu'ils veulent
+y frotter tout leur corps ?
+
+112
+00:05:23,073 --> 00:05:26,843
+Tu es un magicien de légende,
+en Recherche et Développement,
+
+113
+00:05:26,968 --> 00:05:28,807
+mais cette chaise ? Non !
+
+114
+00:05:31,050 --> 00:05:33,720
+"Ne jamais abandonner",
+comme je dis toujours à ma fille.
+
+115
+00:05:33,845 --> 00:05:36,396
+Elle me dit d'arrêter,
+mais je ne peux pas,
+
+116
+00:05:36,521 --> 00:05:38,416
+parce que ce serait abandonner.
+
+117
+00:05:41,625 --> 00:05:43,295
+Regarde ces chiffres.
+
+118
+00:05:44,017 --> 00:05:45,317
+Tu m'as fait peur.
+
+119
+00:05:45,904 --> 00:05:48,129
+- C'est quoi, toute cette crème ?
+- Rien.
+
+120
+00:05:48,254 --> 00:05:50,037
+Elle est à moi.
+Ça roule ?
+
+121
+00:05:51,160 --> 00:05:53,560
+La productivité augmente,
+avec cette chaise.
+
+122
+00:05:58,512 --> 00:05:59,568
+J'aime la crème.
+
+123
+00:05:59,693 --> 00:06:03,436
+Ça fait 6 mois que je bosse ici.
+Il y a une règle pour ça que j'ignore ?
+
+124
+00:06:10,163 --> 00:06:11,779
+Les gens ne sont pas à l'aise,
+
+125
+00:06:11,904 --> 00:06:14,707
+ils ne rêvassent pas.
+Ils deviennent plus productifs.
+
+126
+00:06:15,389 --> 00:06:17,205
+Et plus emplis de haine.
+
+127
+00:06:21,722 --> 00:06:23,617
+<i>Et plus le tissu gratte...</i>
+
+128
+00:06:24,571 --> 00:06:26,315
+<i>moins les gens sont à l'aise</i>
+
+129
+00:06:26,440 --> 00:06:28,321
+<i>et plus ils travaillent dur.</i>
+
+130
+00:06:29,850 --> 00:06:31,121
+Enlevez-moi ça !
+
+131
+00:06:31,246 --> 00:06:34,103
+- Enlevez-moi ça !
+- <i>Jusqu'au point où...</i>
+
+132
+00:06:34,228 --> 00:06:35,482
+<i>ils deviennent fous.</i>
+
+133
+00:06:49,537 --> 00:06:51,517
+<i>Le Maitre de la Concentration</i>
+
+134
+00:06:54,806 --> 00:06:56,635
+<i>Plus d'un million de commandes</i>
+
+135
+00:06:56,760 --> 00:06:58,956
+Est-ce mal de créer
+une citrouille mortelle
+
+136
+00:06:59,363 --> 00:07:01,947
+ou une chaise urticante
+qui fait travailler davantage ? 
+
+137
+00:07:02,072 --> 00:07:04,375
+Le boulot ne concerne pas
+le bien et le mal.
+
+138
+00:07:04,500 --> 00:07:06,725
+Il s'agit de réussite...
+ou d'échec.
+
+139
+00:07:07,879 --> 00:07:10,441
+Ton service utilise trop
+de dosettes de crème.
+
+140
+00:07:10,566 --> 00:07:11,578
+C'est grave ?
+
+141
+00:07:11,703 --> 00:07:13,861
+Sans être "Katrina",
+ça reste un problème.
+
+142
+00:07:14,323 --> 00:07:16,248
+Ted, on a eu un accident...
+Salut !
+
+143
+00:07:16,373 --> 00:07:18,392
+- Veronica, ce n'est rien.
+- Phil.
+
+144
+00:07:18,517 --> 00:07:20,272
+C'est pour toi que je suis là.
+
+145
+00:07:21,999 --> 00:07:23,942
+- Vraiment ?
+- Oui. Tu peux partir.
+
+146
+00:07:24,110 --> 00:07:26,862
+- Mais...
+- Je dois parler de toi, pas avec toi.
+
+147
+00:07:27,227 --> 00:07:28,048
+Désolé.
+
+148
+00:07:30,411 --> 00:07:31,909
+On veut congeler Phil.
+
+149
+00:07:33,160 --> 00:07:34,713
+- Pardon ?
+- Phil.
+
+150
+00:07:34,838 --> 00:07:36,869
+La société veut le cryogéniser.
+
+151
+00:07:36,994 --> 00:07:39,917
+Juste pour un an, pour voir
+si on peut. On y croit.
+
+152
+00:07:40,208 --> 00:07:43,771
+- Vous "croyez" que c'est possible ?
+- En effet, M. Négativité.
+
+153
+00:07:44,747 --> 00:07:46,861
+On développe un produit qui permet
+
+154
+00:07:46,986 --> 00:07:50,159
+de congeler rapidement les tissus
+animaux sans qu'ils explosent.
+
+155
+00:07:50,344 --> 00:07:52,155
+Et, en croisant les doigts,
+
+156
+00:07:52,573 --> 00:07:54,056
+on est prêts pour les humains.
+
+157
+00:07:55,313 --> 00:07:57,872
+Ton argumentaire craint.
+Et pourquoi Phil ?
+
+158
+00:07:58,271 --> 00:08:00,622
+Relations publiques.
+Ils voulaient un employé.
+
+159
+00:08:00,747 --> 00:08:03,187
+Dans l'improbable éventualité
+où ça tournerait mal,
+
+160
+00:08:03,312 --> 00:08:05,652
+il y a des gens ici, tu sais,
+qui sont plus...
+
+161
+00:08:06,002 --> 00:08:06,944
+précieux.
+
+162
+00:08:07,374 --> 00:08:10,619
+Dis-lui bien tout ça,
+quand tu essaieras de le faire accepter.
+
+163
+00:08:12,367 --> 00:08:15,619
+- Je vois où ça nous mène.
+- Tes gars feraient tout, pour toi.
+
+164
+00:08:16,273 --> 00:08:17,296
+Ils ont de la...
+
+165
+00:08:17,999 --> 00:08:20,196
+C'est quoi, déjà,
+ce truc de sous-fifres ?
+
+166
+00:08:20,484 --> 00:08:21,634
+... loyauté !
+
+167
+00:08:22,711 --> 00:08:24,837
+Ça compte, pour nous.
+Tu dois réussir.
+
+168
+00:08:26,920 --> 00:08:28,087
+J'essaierai.
+
+169
+00:08:28,692 --> 00:08:31,101
+Mais Phil craint le froid
+et il est claustrophobe,
+
+170
+00:08:31,226 --> 00:08:33,053
+cette mission n'est pas pour lui.
+
+171
+00:08:33,550 --> 00:08:35,680
+Au départ, ils ont suggéré Lem,
+mais...
+
+172
+00:08:35,805 --> 00:08:38,183
+congeler le black ?
+Ils ne sont pas débiles.
+
+173
+00:08:41,439 --> 00:08:44,041
+Si Phil doit faire un truc
+potentiellement dangereux,
+
+174
+00:08:44,166 --> 00:08:46,216
+il faut que ce soit
+potentiellement sûr.
+
+175
+00:08:46,341 --> 00:08:48,252
+Linda doit donc
+vérifier les données.
+
+176
+00:08:48,542 --> 00:08:51,175
+Non, le zèbre
+et le grille-pain sont amis...
+
+177
+00:08:52,740 --> 00:08:53,900
+Je dois y aller.
+
+178
+00:08:54,237 --> 00:08:56,771
+Ça rendrait le grille-pain méchant.
+C'est pas un sociopathe !
+
+179
+00:08:56,896 --> 00:08:58,829
+Il veut juste plus griller de pain !
+
+180
+00:09:00,641 --> 00:09:01,915
+Nouvelle chemise ?
+
+181
+00:09:02,462 --> 00:09:04,960
+C'est cool. Faisons
+comme si cet appel était normal.
+
+182
+00:09:06,012 --> 00:09:09,247
+J'essaie d'écrire un livre pour enfants.
+Mon illustrateur ne pige pas...
+
+183
+00:09:09,372 --> 00:09:10,422
+le concept.
+
+184
+00:09:10,759 --> 00:09:14,566
+Qu'y a-t-il d'incompréhensible ?
+Un grille-pain qui veut plus griller.
+
+185
+00:09:14,914 --> 00:09:16,597
+Et, bien sûr, un zèbre...
+
+186
+00:09:18,976 --> 00:09:21,679
+Faire la même chose chaque jour.
+Faire plaisir aux gens.
+
+187
+00:09:21,804 --> 00:09:23,026
+Un jour, tu te dis :
+
+188
+00:09:23,151 --> 00:09:26,231
+"Griller du pain, ça ouvre des portes,
+mais je veux plus."
+
+189
+00:09:26,399 --> 00:09:29,355
+"Donc, je m'enfuis.
+Je ne sais pas comment. Je suis...
+
+190
+00:09:29,480 --> 00:09:31,945
+branché à un mur,
+j'ai pas de jambes, mais ça ira".
+
+191
+00:09:32,070 --> 00:09:34,305
+T'as trop pigé le grille-pain !
+
+192
+00:09:34,430 --> 00:09:36,867
+Son rapport d'amour/haine
+avec la prise de courant.
+
+193
+00:09:37,035 --> 00:09:38,744
+Qui a tout le pouvoir.
+
+194
+00:09:40,890 --> 00:09:43,384
+- C'est ridicule.
+- Tu as ri.
+
+195
+00:09:48,421 --> 00:09:50,901
+Tu voulais savoir, pour Phil ?
+Ça devrait aller...
+
+196
+00:09:51,026 --> 00:09:54,084
+s'il passe les -20 °C
+sans que ses yeux n'explosent.
+
+197
+00:09:54,209 --> 00:09:56,086
+Ce serait le 1er signe de problèmes.
+
+198
+00:09:59,264 --> 00:10:02,570
+Quelle grande compagnie, pas vrai ?
+Congeler ses employés.
+
+199
+00:10:02,871 --> 00:10:04,937
+"Employé".
+Ils n'en congèlent qu'un.
+
+200
+00:10:05,543 --> 00:10:06,756
+Pour l'instant.
+
+201
+00:10:07,783 --> 00:10:10,996
+Tu sais qu'ils nous envoient la facture
+des appels non liés au boulot ?
+
+202
+00:10:11,121 --> 00:10:13,591
+Pas pour qu'on paye.
+Ils veulent juste qu'on sache
+
+203
+00:10:13,716 --> 00:10:16,742
+qu'ils savent qu'on les passe.
+Une société peut-elle être salope ?
+
+204
+00:10:18,276 --> 00:10:20,572
+- C'est pour ça que tu voles la crème ?
+- Oui.
+
+205
+00:10:21,694 --> 00:10:23,121
+Comme acte de révolte.
+
+206
+00:10:23,887 --> 00:10:26,324
+J'ai aussi gravé
+"mettez votre scrotum ici"
+
+207
+00:10:26,449 --> 00:10:28,209
+sur la table du déjeuner, mais,
+
+208
+00:10:28,334 --> 00:10:30,254
+tu sais, tout le monde fait ça.
+
+209
+00:10:36,347 --> 00:10:39,476
+- Tu as le meilleur bureau.
+- Ouais, et on les a tous essayés.
+
+210
+00:10:39,601 --> 00:10:40,767
+Pas chez Cindy.
+
+211
+00:10:41,627 --> 00:10:42,586
+Jamais !
+
+212
+00:10:43,295 --> 00:10:45,033
+J'y suis allé. Deux fois.
+
+213
+00:10:45,610 --> 00:10:47,104
+Encore mieux la 2nde fois.
+
+214
+00:10:47,272 --> 00:10:50,514
+Je vais tellement y aller aussi...
+un jour... deux fois, moi aussi.
+
+215
+00:10:52,068 --> 00:10:54,458
+On a ouï dire qu'on allait
+faire un truc à Phil ?
+
+216
+00:10:54,583 --> 00:10:57,114
+J'aimerais tellement
+que ce soit un bon truc.
+
+217
+00:10:59,454 --> 00:11:01,702
+Pourquoi me congeler ?
+J'ai rien fait !
+
+218
+00:11:02,153 --> 00:11:04,788
+Phil, c'est pas une punition,
+c'est un honneur !
+
+219
+00:11:05,392 --> 00:11:07,641
+Tu as été choisi
+pour être un pionnier !
+
+220
+00:11:07,766 --> 00:11:10,264
+Pour aller là où personne
+n'est encore allé...
+
+221
+00:11:10,618 --> 00:11:11,545
+ni revenu !
+
+222
+00:11:14,395 --> 00:11:15,474
+Je sais pas.
+
+223
+00:11:16,991 --> 00:11:19,641
+Je peux demander à ma femme ?
+Je serai toujours payé ?
+
+224
+00:11:19,766 --> 00:11:22,079
+- Elle voudra savoir.
+- Bien entendu !
+
+225
+00:11:22,405 --> 00:11:25,055
+Je présume.
+Techniquement, c'est du travail.
+
+226
+00:11:25,680 --> 00:11:26,815
+Je vérifierai.
+
+227
+00:11:28,661 --> 00:11:30,131
+Tu dois pas congeler Phil.
+
+228
+00:11:30,256 --> 00:11:32,566
+<i>Voici ma fille Rose.
+Elle sait tout.</i>
+
+229
+00:11:33,006 --> 00:11:36,028
+Chérie, c'est excitant ! Ce sera
+une grande avancée de la science.
+
+230
+00:11:36,196 --> 00:11:38,697
+- J'aime bien Phil.
+- Peut-être encore plus congelé.
+
+231
+00:11:39,722 --> 00:11:41,491
+Je l'aime à la température
+où il est.
+
+232
+00:11:42,411 --> 00:11:44,079
+Il est venu à mon anniversaire.
+
+233
+00:11:44,204 --> 00:11:47,318
+C'est mal de congeler quelqu'un
+qui était à l'anniversaire de sa fille.
+
+234
+00:11:48,998 --> 00:11:50,809
+- Tu as fait tes maths ?
+- Oui.
+
+235
+00:11:50,934 --> 00:11:53,253
+- 6 fois 8 ?
+- Oui, ça en faisait partie.
+
+236
+00:11:55,030 --> 00:11:58,530
+Tu le ferais ? Tu ferais une chose
+pareille, en m'abandonnant ?
+
+237
+00:12:00,675 --> 00:12:03,451
+Quand Rose a eu 4 ans,
+sa maman est partie sauver le monde.
+
+238
+00:12:03,805 --> 00:12:07,142
+Ça a été dur, pour Rose.
+Et pas terrible pour le monde, non plus.
+
+239
+00:12:10,598 --> 00:12:13,009
+Je ne t'abandonnerai jamais.
+Jamais !
+
+240
+00:12:13,935 --> 00:12:16,661
+Je sais. On en a parlé.
+Tu es un papa génial.
+
+241
+00:12:17,213 --> 00:12:20,181
+C'est mal de demander à Phil
+de faire ce que tu ne ferais pas.
+
+242
+00:12:21,519 --> 00:12:22,556
+C'est vrai.
+
+243
+00:12:22,681 --> 00:12:25,702
+Comme toujours, car bêtement,
+je t'ai expliqué le bien et le mal.
+
+244
+00:12:26,012 --> 00:12:28,617
+Dis-leur non ! Ils ne peuvent
+obliger les employés
+
+245
+00:12:28,742 --> 00:12:30,766
+à subir des expériences sur l'homme.
+
+246
+00:12:30,891 --> 00:12:33,335
+- Ils ont perdu ce procès-là.
+- Je veux le faire.
+
+247
+00:12:34,086 --> 00:12:35,870
+Quoi ? Phil, c'est dingue.
+
+248
+00:12:36,604 --> 00:12:39,100
+Merci. Tu vois ?
+Je suis pas le seul !
+
+249
+00:12:39,787 --> 00:12:43,089
+- Ce n'est que pour un an, Lem.
+- Je resterai immobile,
+
+250
+00:12:43,214 --> 00:12:45,764
+ainsi je ne risquerai pas
+de continuer ma vie sans toi.
+
+251
+00:12:46,376 --> 00:12:47,641
+- Abruti.
+- Écoute,
+
+252
+00:12:47,809 --> 00:12:51,195
+j'ai peut-être été un peu trop
+convainquant, hier, et j'avais...
+
+253
+00:12:52,821 --> 00:12:53,592
+tort.
+
+254
+00:12:54,081 --> 00:12:57,103
+Tu avais raison. C'est ma chance
+de devenir un pionnier !
+
+255
+00:12:57,228 --> 00:12:59,781
+Ma femme a trouvé ça excitant,
+ce qui me surprend,
+
+256
+00:12:59,906 --> 00:13:03,525
+vu qu'elle est en général une personne
+profondément et incessamment négative.
+
+257
+00:13:03,951 --> 00:13:05,064
+Mme Abruti.
+
+258
+00:13:05,810 --> 00:13:08,161
+Au moins, j'en ai une.
+Qui tu as, toi, Lem ?
+
+259
+00:13:09,203 --> 00:13:10,580
+Pourquoi t'es méchant ?
+
+260
+00:13:12,458 --> 00:13:14,458
+<i>Et donc...</i>
+<i>Ils ont congelé Phil.</i>
+
+261
+00:13:14,583 --> 00:13:15,884
+Ce que je fais...
+
+262
+00:13:16,501 --> 00:13:18,120
+je le fais pour la science.
+
+263
+00:13:18,472 --> 00:13:20,922
+Je ne le fais pas
+pour votre intérêt.
+
+264
+00:13:21,435 --> 00:13:24,159
+Je ne demande que votre respect.
+
+265
+00:13:25,979 --> 00:13:27,879
+Respect en tant que scientifique,
+
+266
+00:13:28,613 --> 00:13:30,100
+respect en tant qu'ami...
+
+267
+00:13:33,354 --> 00:13:36,461
+respect en tant qu'homme.
+Oh, mon Dieu ! Je crois que ça y est !
+
+268
+00:13:43,077 --> 00:13:45,452
+J'ai jamais vu un homme
+exploser de l'intérieur.
+
+269
+00:13:45,628 --> 00:13:48,817
+Un lapin, une anguille, une chèvre,
+un âne et un renne,
+
+270
+00:13:48,942 --> 00:13:50,176
+mais c'est tout.
+
+271
+00:13:51,002 --> 00:13:51,920
+Je file.
+
+272
+00:13:57,715 --> 00:13:59,148
+Ceci est normal.
+
+273
+00:13:59,573 --> 00:14:01,381
+Toutes les compagnies font ça.
+
+274
+00:14:01,798 --> 00:14:02,591
+Hein ?
+
+275
+00:14:05,246 --> 00:14:06,970
+On dirait pas que Phil a mal ?
+
+276
+00:14:08,624 --> 00:14:10,791
+Ça craint de devoir
+rester comme ça un an.
+
+277
+00:14:14,172 --> 00:14:16,595
+Je te crois pas folle,
+de voler la crème.
+
+278
+00:14:22,637 --> 00:14:25,864
+Regardez bien. -20 °C, c'est là
+que les yeux peuvent exploser.
+
+279
+00:14:59,278 --> 00:15:01,786
+Il est comme ça depuis 3 jours.
+Ils lui ont promis
+
+280
+00:15:01,911 --> 00:15:04,324
+qu'il resterait au labo
+avec ses amis, donc ça va.
+
+281
+00:15:04,753 --> 00:15:05,888
+Hein, mon pote ?
+
+282
+00:15:07,228 --> 00:15:08,127
+Flippant.
+
+283
+00:15:08,960 --> 00:15:11,503
+- Ils le déplacent, demain.
+- Quoi ? Où ça ?
+
+284
+00:15:11,628 --> 00:15:14,621
+À la cave, je crois. Mais j'ai aussi
+entendu parler de l'Inde.
+
+285
+00:15:34,093 --> 00:15:36,051
+Salut. Non, je peux parler...
+
+286
+00:15:38,555 --> 00:15:40,188
+Phil a dégelé ? Comment ?
+
+287
+00:15:40,641 --> 00:15:41,898
+C'est technique.
+
+288
+00:15:57,499 --> 00:15:59,340
+- Il va bien ?
+- Ça ira.
+
+289
+00:15:59,810 --> 00:16:00,860
+Il a juste...
+
+290
+00:16:01,697 --> 00:16:03,131
+un truc anormal.
+
+291
+00:16:03,256 --> 00:16:06,540
+Puis, on a essayé le méthylthiazole 4,
+qu'on croyait être...
+
+292
+00:16:11,698 --> 00:16:14,810
+Ce truc avec Phil, quand il a
+cet air stupide et qu'il hurle...
+
+293
+00:16:14,935 --> 00:16:16,349
+ils trouvent ça gênant.
+
+294
+00:16:16,517 --> 00:16:19,019
+Ils n'auraient pas dû
+vitrifier son cerveau.
+
+295
+00:16:19,436 --> 00:16:23,106
+On va pas jouer à qui a eu tort.
+Il faut que tu le vires.
+
+296
+00:16:23,613 --> 00:16:24,416
+Quoi ?
+
+297
+00:16:39,186 --> 00:16:40,187
+As-tu...
+
+298
+00:16:40,312 --> 00:16:41,658
+essayé de m'éviter...
+
+299
+00:16:41,783 --> 00:16:42,715
+depuis...
+
+300
+00:16:43,311 --> 00:16:45,012
+que tu as tenu ma main ?
+
+301
+00:16:48,196 --> 00:16:50,977
+Et je n'ai pas tenu ta main, je...
+
+302
+00:16:51,354 --> 00:16:53,895
+me suis tenu à ta main,
+quand tu m'as tenu la main.
+
+303
+00:16:56,686 --> 00:16:59,726
+On va la jouer comme ça ?
+Comme des idiots ?
+
+304
+00:17:01,054 --> 00:17:03,318
+Je sais pas comment c'est arrivé.
+
+305
+00:17:03,819 --> 00:17:04,507
+Si.
+
+306
+00:17:04,985 --> 00:17:06,651
+J'étais là, debout, comme ça,
+
+307
+00:17:06,776 --> 00:17:09,277
+et tu as pris ma main, comme ça...
+
+308
+00:17:10,748 --> 00:17:11,905
+et voilà.
+
+309
+00:17:14,779 --> 00:17:16,279
+- Linda.
+- Ted...
+
+310
+00:17:17,828 --> 00:17:19,412
+J'ai eu ma liaison de bureau.
+
+311
+00:17:20,511 --> 00:17:22,598
+- Quoi ?
+- T'as droit qu'à une fois,
+
+312
+00:17:23,000 --> 00:17:25,794
+ou tu es celui qui baise à tout va.
+J'ai eu mon tour, il y a un an.
+
+313
+00:17:25,962 --> 00:17:28,357
+C'était une excellente présentation.
+
+314
+00:17:28,482 --> 00:17:30,389
+Tout ce que tu as dit était si...
+
+315
+00:17:30,514 --> 00:17:32,258
+concis et exactement...
+
+316
+00:17:33,687 --> 00:17:35,303
+Je crois qu'on devrait baiser.
+
+317
+00:17:36,597 --> 00:17:37,765
+Si tu veux.
+
+318
+00:17:39,760 --> 00:17:40,782
+Regarde-moi.
+
+319
+00:17:40,907 --> 00:17:43,455
+Je suis si nerveuse.
+Je tremble comme une feuille.
+
+320
+00:17:44,600 --> 00:17:47,190
+- Non, pas du tout.
+- Non. C'est un problème ?
+
+321
+00:17:47,358 --> 00:17:50,308
+Je suis jamais nerveuse.
+J'essaie. Ça veut pas venir.
+
+322
+00:17:50,813 --> 00:17:52,454
+Je crois que ça me rend...
+
+323
+00:17:53,173 --> 00:17:54,184
+vulnérable.
+
+324
+00:17:55,423 --> 00:17:57,325
+Non, tu n'es pas vulnérable.
+
+325
+00:17:59,094 --> 00:17:59,813
+Bon.
+
+326
+00:18:00,300 --> 00:18:01,329
+Où on en était ?
+
+327
+00:18:13,422 --> 00:18:14,508
+Ted, ça va.
+
+328
+00:18:14,633 --> 00:18:17,993
+Vraiment. Je m'en fous.
+Je bosse pour toi. Ce serait...
+
+329
+00:18:21,465 --> 00:18:24,686
+En plus, seul un idiot
+coucherait avec son patron.
+
+330
+00:18:33,184 --> 00:18:34,215
+Jolie fille.
+
+331
+00:18:36,005 --> 00:18:38,857
+Bien qu'elle passe beaucoup
+d'appels non liés au travail.
+
+332
+00:18:39,809 --> 00:18:41,894
+Ce qui la rend bien moins attirante.
+
+333
+00:18:43,294 --> 00:18:46,207
+À propos de Phil, je crois
+qu'on ne devrait rien précipiter.
+
+334
+00:18:47,357 --> 00:18:48,339
+C'est vrai.
+
+335
+00:18:48,464 --> 00:18:52,028
+Attends la fermeture, vendredi.
+Ce sera plus facile pour la paye.
+
+336
+00:18:57,393 --> 00:18:59,258
+- Tu blagues, hein ?
+- Non.
+
+337
+00:18:59,681 --> 00:19:01,389
+Ils veulent que tu vires Phil ?
+
+338
+00:19:01,756 --> 00:19:03,788
+C'est ce que je suis supposé faire.
+
+339
+00:19:05,441 --> 00:19:07,645
+Les adultes pensent-ils
+au bien et au mal ?
+
+340
+00:19:10,238 --> 00:19:11,847
+Tu as brossé tes dents ?
+
+341
+00:19:13,107 --> 00:19:14,731
+Ne change pas de sujet !
+
+342
+00:19:24,288 --> 00:19:25,663
+- Bonjour.
+- Salut !
+
+343
+00:19:26,143 --> 00:19:27,264
+Surprise ?
+
+344
+00:19:27,389 --> 00:19:30,168
+Je ne voulais pas vous faire sursauter.
+Je suis amicale.
+
+345
+00:19:31,630 --> 00:19:33,171
+Vous connaissez mon nom.
+
+346
+00:19:33,689 --> 00:19:35,375
+Bien sûr, que je le connais.
+
+347
+00:19:35,636 --> 00:19:37,482
+J'en sais beaucoup, sur vous.
+
+348
+00:19:38,125 --> 00:19:38,988
+Linda...
+
+349
+00:19:39,392 --> 00:19:40,416
+Katherine...
+
+350
+00:19:40,648 --> 00:19:41,523
+Zword...
+
+351
+00:19:41,648 --> 00:19:42,913
+ning... ling.
+
+352
+00:19:44,888 --> 00:19:45,853
+Zwordling.
+
+353
+00:19:46,255 --> 00:19:48,906
+Vous connaissez votre nom
+mieux que moi. Youpi !
+
+354
+00:19:50,106 --> 00:19:52,861
+Ted, je ne peux t'autoriser
+à coucher avec Linda.
+
+355
+00:19:52,986 --> 00:19:54,733
+- Quoi ?
+- Ça m'embêterait.
+
+356
+00:19:54,858 --> 00:19:57,570
+- Et puis, j'en ai pas fini avec toi.
+- Les amis !
+
+357
+00:19:58,873 --> 00:20:02,492
+Salut, Phil. J'ai su que tes yeux
+reclignaient. Contente pour toi !
+
+358
+00:20:03,346 --> 00:20:06,079
+- Pourquoi est-il encore là ?
+- Je ne le vire pas.
+
+359
+00:20:06,532 --> 00:20:09,624
+- Mais ils veulent que tu le vires.
+- Rien à faire. C'est mal.
+
+360
+00:20:09,792 --> 00:20:13,795
+Et donc, tu leur dis non ?
+Un choix de carrière intéressant.
+
+361
+00:20:14,365 --> 00:20:16,004
+Il ne mérite pas d'être viré.
+
+362
+00:20:16,129 --> 00:20:19,133
+Il est intelligent et travailleur.
+Il nous a laissés le congeler !
+
+363
+00:20:19,563 --> 00:20:22,657
+Il est le dernier à mériter d'être viré
+et je le soutiendrai.
+
+364
+00:20:25,423 --> 00:20:27,141
+Mec, tu ne m'aides pas, là.
+
+365
+00:20:28,251 --> 00:20:29,951
+OK, je leur parlerai.
+
+366
+00:20:30,265 --> 00:20:32,443
+Ce que tu fais
+va blesser leurs sentiments.
+
+367
+00:20:32,568 --> 00:20:35,233
+Quand ils sont blessés,
+ils blessent ceux qu'ils aiment.
+
+368
+00:20:36,569 --> 00:20:40,238
+- Et ils t'adorent, Ted.
+- Peut-être que je devrais leur parler.
+
+369
+00:20:40,843 --> 00:20:43,240
+Ils ne veulent pas te parler
+quand tu es comme ça.
+
+370
+00:20:45,703 --> 00:20:47,620
+Synchro : RoBoT
+Team better off ted
+
+371
+00:20:48,129 --> 00:20:49,546
+www.sub-way.fr
+

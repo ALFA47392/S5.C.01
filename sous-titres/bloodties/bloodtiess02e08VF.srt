@@ -1,0 +1,3594 @@
+1
+00:00:09,638 --> 00:00:11,200
+Merci d'être venue, Mlle Nelson.
+
+2
+00:00:12,649 --> 00:00:15,591
+Quand le "Chasseur de têtes" veut
+vous parler, comment lui dire non ?
+
+3
+00:00:17,349 --> 00:00:19,066
+Je dois vous parler de mon affaire.
+
+4
+00:00:21,506 --> 00:00:23,480
+Vous avez décapité une fille.
+
+5
+00:00:24,598 --> 00:00:27,500
+Vous avez caché sa tête et
+ensuite vous avez avoué.
+
+6
+00:00:29,026 --> 00:00:31,358
+Donc à moins que vous me disiez
+où se trouve la tête,
+
+7
+00:00:31,478 --> 00:00:32,868
+on n'a rien d'autre à se dire.
+
+8
+00:00:32,988 --> 00:00:34,268
+Je n'ai pas tué cette fille.
+
+9
+00:00:34,388 --> 00:00:37,182
+D'accord. Alors avouer n'était
+probablement pas une bonne idée.
+
+10
+00:00:37,657 --> 00:00:38,801
+Il y a autre chose.
+
+11
+00:00:40,913 --> 00:00:43,902
+Écoutez, si vous voulez faire appel,
+vous devriez voir avec votre avocat.
+
+12
+00:00:44,349 --> 00:00:46,800
+Je pense que vous êtes la seule
+qui puisse s'en charger.
+
+13
+00:00:47,149 --> 00:00:48,586
+Je ne suis plus flic.
+
+14
+00:00:48,706 --> 00:00:49,854
+Je sais.
+
+15
+00:00:49,974 --> 00:00:51,552
+J'ai vu votre pub dans le journal.
+
+16
+00:00:52,549 --> 00:00:54,200
+"Aucune affaire n'est trop étrange."
+
+17
+00:00:55,678 --> 00:00:57,773
+C'est amusant comme
+les choses se mettent en place.
+
+18
+00:00:59,278 --> 00:01:00,537
+J'en ai pour une minute.
+
+19
+00:01:04,300 --> 00:01:06,916
+"Amusant" n'est pas exactement
+le mot que j'aurais utilisé.
+
+20
+00:01:09,585 --> 00:01:10,708
+Je suis médium.
+
+21
+00:01:12,120 --> 00:01:13,786
+Je suis allergique au lactose.
+
+22
+00:01:14,154 --> 00:01:15,230
+Écoutez, j'ai avoué
+
+23
+00:01:15,350 --> 00:01:18,500
+parce que j'étais incapable de faire
+la différence entre mes propres pensées
+
+24
+00:01:18,620 --> 00:01:19,689
+et mes visions.
+
+25
+00:01:20,294 --> 00:01:21,733
+Je l'ai vue se faire tuer,
+
+26
+00:01:22,083 --> 00:01:23,384
+mais je n'y étais pas.
+
+27
+00:01:23,856 --> 00:01:25,816
+Ce n'était pas moi.
+Je le sais maintenant.
+
+28
+00:01:27,928 --> 00:01:29,580
+Comment pouvez-vous en être sûr ?
+
+29
+00:01:31,464 --> 00:01:32,745
+La voix dans ma tête :
+
+30
+00:01:33,513 --> 00:01:35,480
+elle s'est arrêtée quand
+je suis allé en prison.
+
+31
+00:01:36,120 --> 00:01:37,257
+Il y a quelques jours,
+
+32
+00:01:37,377 --> 00:01:38,623
+elle est revenue.
+
+33
+00:01:39,556 --> 00:01:41,695
+Mais cette fois, je sais que
+ce n'est pas la mienne.
+
+34
+00:01:41,815 --> 00:01:43,843
+Les voix intérieures n'ont jamais
+été ma spécialité.
+
+35
+00:01:43,963 --> 00:01:46,740
+Écoutez, vous ne comprenez pas !
+Le tueur va encore frapper !
+
+36
+00:01:47,256 --> 00:01:49,100
+Il a déjà choisi sa prochaine victime.
+
+37
+00:02:13,201 --> 00:02:15,464
+Blood Ties
+Saison 2 Épisode 08
+
+38
+00:02:15,584 --> 00:02:17,442
+Traduction :
+Vivie31, Abricot92 et jganakin
+
+39
+00:02:17,562 --> 00:02:19,251
+Relecture/resynchro :
+Val64 et jganakin
+
+40
+00:02:19,371 --> 00:02:20,954
+Blood Team
+
+41
+00:02:21,074 --> 00:02:23,070
+"The good, the bad and the ugly"
+
+42
+00:02:23,400 --> 00:02:24,570
+<i>Vous ne comprenez pas !</i>
+
+43
+00:02:24,690 --> 00:02:26,279
+<i>Le tueur va encore frapper !</i>
+
+44
+00:02:26,399 --> 00:02:28,266
+<i>Il a déjà choisi sa prochaine victime.</i>
+
+45
+00:02:32,100 --> 00:02:33,200
+<i>Qui est-ce ?</i>
+
+46
+00:02:34,900 --> 00:02:36,044
+<i>Je ne sais pas.</i>
+
+47
+00:02:38,306 --> 00:02:39,624
+<i>Elle sera belle.</i>
+
+48
+00:02:40,189 --> 00:02:41,440
+<i>Elle sera jeune.</i>
+
+49
+00:02:43,184 --> 00:02:44,609
+<i>Ça ne s'est pas encore produit.</i>
+
+50
+00:02:44,729 --> 00:02:47,000
+<i>Je ne peux pas le voir,
+je peux juste le sentir...</i>
+
+51
+00:02:48,663 --> 00:02:49,678
+Bon sang !
+
+52
+00:02:50,206 --> 00:02:52,359
+Perkins ne t'a pas choisie
+au hasard, n'est-ce pas ?
+
+53
+00:02:53,139 --> 00:02:55,628
+Il parle d'un meurtre, Mike.
+As-tu l'intention de l'ignorer ?
+
+54
+00:02:55,900 --> 00:02:58,008
+{\pos(192,215)}Non. Non.
+Ce sont les divagations psychiques{\pos}
+
+55
+00:02:58,128 --> 00:03:00,301
+{\pos(192,215)}d'un assassin condamné
+que je vais ignorer.{\pos}
+
+56
+00:03:01,023 --> 00:03:02,375
+Qu'importe ce qu'il est,
+
+57
+00:03:02,568 --> 00:03:04,578
+il dit qu'il va y avoir
+un autre meurtre.
+
+58
+00:03:04,698 --> 00:03:06,364
+En fait, celui-là va dans la catégorie
+
+59
+00:03:06,484 --> 00:03:08,390
+des "meurtres qui n'ont pas
+encore été commis."
+
+60
+00:03:08,510 --> 00:03:11,214
+La division pré-crime est au fond
+du couloir, si tu es intéressée.
+
+61
+00:03:11,969 --> 00:03:14,359
+Tu sais, il disait que l'endroit
+lui était familier.
+
+62
+00:03:14,479 --> 00:03:16,026
+Que tu allais le reconnaître.
+
+63
+00:03:16,634 --> 00:03:19,001
+Peut-être que c'est une référence
+à la première affaire...
+
+64
+00:03:20,400 --> 00:03:21,446
+Vicki !
+
+65
+00:03:21,566 --> 00:03:26,299
+Il a très bien pu tout orchestrer de
+l'intérieur pour paraître innocent.
+
+66
+00:03:26,550 --> 00:03:28,748
+Tu sais, travailler avec quelqu'un
+de l'extérieur
+
+67
+00:03:28,868 --> 00:03:30,882
+qui ferait croire
+à l'existence d'un imitateur.
+
+68
+00:03:31,002 --> 00:03:32,341
+J'ai encore toutes mes notes.
+
+69
+00:03:32,461 --> 00:03:34,810
+Tu peux ressortir les fichiers.
+Enfin, on connait ça par cœur.
+
+70
+00:03:34,930 --> 00:03:36,200
+Vicki, non.
+
+71
+00:03:36,653 --> 00:03:40,472
+On ne va pas rouvrir chaque affaire
+résolue pour accuser le croque-mitaine.
+
+72
+00:03:40,675 --> 00:03:41,755
+Le croque-mitaine ?
+
+73
+00:03:41,875 --> 00:03:43,343
+Ce n'est pas son mode opératoire.
+
+74
+00:03:43,805 --> 00:03:46,402
+Écoute, je crois connaître un
+certain inspecteur à la crim'
+
+75
+00:03:46,522 --> 00:03:49,156
+qui a eu plusieurs fois affaire
+au croque-mitaine ces derniers temps.
+
+76
+00:03:49,276 --> 00:03:52,147
+Très bien. C'est vrai, je l'admets.
+
+77
+00:03:52,700 --> 00:03:56,083
+Mais tu en fais l'explication par défaut
+pour chaque affaire qui se présente.
+
+78
+00:03:56,203 --> 00:03:57,281
+Grosse différence.
+
+79
+00:03:57,401 --> 00:03:58,550
+Non, non, non, non.
+
+80
+00:03:58,670 --> 00:04:01,421
+Sherlock Holmes disait : "Quand on a
+éliminé toute autre possibilité,
+
+81
+00:04:01,541 --> 00:04:05,054
+celle qui reste, même si elle semble
+fort improbable, doit être la bonne."
+
+82
+00:04:05,465 --> 00:04:07,799
+OK, que dis-tu du rasoir d’Occam :
+
+83
+00:04:07,919 --> 00:04:10,415
+"La solution la plus simple
+tend à être la bonne."
+
+84
+00:04:10,535 --> 00:04:12,101
+C'est un imitateur.
+
+85
+00:04:12,374 --> 00:04:14,448
+Que ce soit un imitateur,
+
+86
+00:04:14,962 --> 00:04:18,300
+qu'il orchestre tout ça depuis
+la prison ou qu'il soit médium,
+
+87
+00:04:18,568 --> 00:04:19,921
+si une autre fille meurt,
+
+88
+00:04:20,041 --> 00:04:21,514
+ne viens pas me voir en pleurant.
+
+89
+00:04:33,000 --> 00:04:34,897
+"Le suspect sortit un...
+
+90
+00:04:35,075 --> 00:04:36,128
+sanglot
+
+91
+00:04:36,248 --> 00:04:37,344
+de son ulcère" ?
+
+92
+00:04:37,464 --> 00:04:38,537
+Quoi ?
+
+93
+00:04:40,953 --> 00:04:41,962
+Un pistolet...
+
+94
+00:04:42,082 --> 00:04:43,699
+Il sortit un pistolet de son blouson.
+
+95
+00:04:43,819 --> 00:04:46,499
+Comment peux-tu accomplir des rituels
+ésotériques dans des langues mortes
+
+96
+00:04:46,619 --> 00:04:48,150
+et ne pas pouvoir me relire ?
+
+97
+00:04:48,270 --> 00:04:51,300
+La langue morte de Beothuk n'arrive pas
+à la cheville de ton écriture.
+
+98
+00:04:58,698 --> 00:04:59,901
+Toujours pas de réponse.
+
+99
+00:05:00,021 --> 00:05:01,418
+Il est probablement au travail.
+
+100
+00:05:01,999 --> 00:05:04,216
+Oui, ou il est en train de
+s'enfuir vers la frontière.
+
+101
+00:05:04,854 --> 00:05:08,499
+Vicki, nous avons un van noir vide
+et une plaque d'immatriculation.
+
+102
+00:05:08,702 --> 00:05:11,237
+Non, nous avons un spacieux van noir
+
+103
+00:05:11,494 --> 00:05:14,019
+garé à 200m d'où a été
+retrouvé le cadavre.
+
+104
+00:05:14,571 --> 00:05:16,480
+Je veux dire, il doit
+savoir quelque chose.
+
+105
+00:05:16,816 --> 00:05:18,425
+Il pourrait être notre homme.
+
+106
+00:05:20,200 --> 00:05:21,964
+Une autre de tes intuitions, hein ?
+
+107
+00:05:22,186 --> 00:05:23,216
+Oui.
+
+108
+00:05:23,720 --> 00:05:26,237
+Et si nous allions du côté
+de sa maison, jeter un œil ?
+
+109
+00:05:26,762 --> 00:05:30,367
+Enfin, s'il a pris la tête, peut-être
+la garde-t-il  chez lui, comme trophée.
+
+110
+00:05:30,690 --> 00:05:33,401
+Aucun juge ne nous donnera de mandat
+
+111
+00:05:33,521 --> 00:05:35,332
+en se basant sur ce qu'on a.
+
+112
+00:05:36,399 --> 00:05:38,173
+Où est ton sens de l'aventure ?
+
+113
+00:05:38,819 --> 00:05:40,697
+Tu sais, c'est marrant que tu...
+
+114
+00:05:40,817 --> 00:05:42,552
+mentionnes ce mot parce que...
+
+115
+00:05:43,198 --> 00:05:45,923
+dernièrement, j'ai eu
+ma dose d'aventure.
+
+116
+00:05:46,696 --> 00:05:48,303
+- Vraiment ?
+- Oh, oui.
+
+117
+00:05:48,423 --> 00:05:50,170
+Tu ne veux pas que
+je vienne ce week-end ?
+
+118
+00:05:50,402 --> 00:05:52,690
+Inspecteur Celluci ?
+Inspecteur Nelson ?
+
+119
+00:05:53,319 --> 00:05:54,900
+Oui, que peut-on faire pour vous ?
+
+120
+00:05:55,700 --> 00:05:57,093
+Mon nom est Charles Perkins.
+
+121
+00:05:57,272 --> 00:05:58,738
+Vous m'avez laissé des messages.
+
+122
+00:06:01,820 --> 00:06:04,400
+Oui, votre véhicule a été vu
+près d'une scène de crime.
+
+123
+00:06:05,937 --> 00:06:07,103
+Vraiment ?
+
+124
+00:06:07,346 --> 00:06:09,513
+Jeudi après-midi,
+sur Rosedale Valley Road.
+
+125
+00:06:09,749 --> 00:06:11,365
+Vous étiez garé là, pourquoi ?
+
+126
+00:06:13,549 --> 00:06:14,700
+J'étais là.
+
+127
+00:06:16,120 --> 00:06:18,445
+Répondez à la question, M. Perkins.
+Que faisiez-vous ?
+
+128
+00:06:19,128 --> 00:06:20,408
+Cette fille...
+
+129
+00:06:21,700 --> 00:06:23,300
+elle a été décapitée...
+
+130
+00:06:23,914 --> 00:06:25,072
+Tout le monde sait ça.
+
+131
+00:06:26,792 --> 00:06:28,065
+avec une faucille.
+
+132
+00:06:30,278 --> 00:06:31,900
+Je suis celui que vous recherchez.
+
+133
+00:06:34,907 --> 00:06:36,029
+J'ai tué cette fille.
+
+134
+00:06:37,778 --> 00:06:39,794
+Avez-vous été prise
+de malaises, dernièrement ?
+
+135
+00:06:41,000 --> 00:06:42,623
+Des malaises ? Non.
+
+136
+00:06:42,743 --> 00:06:44,594
+Des migraines ou des vertiges ?
+
+137
+00:06:45,800 --> 00:06:47,137
+Non, et non.
+
+138
+00:06:47,257 --> 00:06:48,392
+Et toi ?
+
+139
+00:06:48,512 --> 00:06:50,745
+Des rêves étranges, des hallucinations,
+
+140
+00:06:50,931 --> 00:06:52,562
+un sentiment de peur omniprésent ?
+
+141
+00:06:53,385 --> 00:06:54,858
+Pas plus que d'habitude.
+
+142
+00:06:56,777 --> 00:06:57,979
+Et vos marques ?
+
+143
+00:06:58,099 --> 00:06:59,652
+Sont-elles devenues incandescentes ?
+
+144
+00:07:00,327 --> 00:07:01,602
+Vous savez quoi ? Hum...
+
+145
+00:07:01,722 --> 00:07:03,927
+Je pense que vous avez beaucoup
+à faire tous les deux.
+
+146
+00:07:04,370 --> 00:07:06,250
+Oui. Non, pas de marques incandescentes.
+
+147
+00:07:07,841 --> 00:07:09,350
+Mais il y a quelques jours,
+
+148
+00:07:09,470 --> 00:07:11,981
+ma tête a fait un tour sur elle-même,
+j'ai tenu des propos incohérents
+
+149
+00:07:12,161 --> 00:07:14,101
+et j'ai vomi un truc
+genre soupe aux pois.
+
+150
+00:07:14,863 --> 00:07:16,007
+Tout va très bien !
+
+151
+00:07:16,265 --> 00:07:17,663
+Vous me le diriez, sinon ?
+
+152
+00:07:17,783 --> 00:07:20,063
+Tout va bien, Henry.
+Tout ira très bien.
+
+153
+00:07:20,183 --> 00:07:21,591
+Vous ne pouvez pas l'affirmer.
+
+154
+00:07:22,040 --> 00:07:24,501
+Le rituel que vous avez effectué...
+C'était très dangereux.
+
+155
+00:07:24,621 --> 00:07:25,702
+Henry,
+
+156
+00:07:26,017 --> 00:07:27,898
+je ne sais pas
+ce que vous voulez entendre.
+
+157
+00:07:28,018 --> 00:07:30,674
+OK ? J'ai pas trouvé de carte
+"Désolée de vous avoir poignardé,
+
+158
+00:07:30,794 --> 00:07:33,720
+d'avoir bu votre sang de vampire
+et effectué un rituel de magie noire".
+
+159
+00:07:34,862 --> 00:07:36,971
+OK ? Mais j'apprécie votre inquiétude.
+
+160
+00:07:37,193 --> 00:07:38,209
+Croyez-moi,
+
+161
+00:07:38,602 --> 00:07:40,604
+mon intérêt est purement égoïste.
+
+162
+00:07:40,724 --> 00:07:41,731
+OK...
+
+163
+00:07:41,851 --> 00:07:45,042
+Très bien. Si vous devez être là
+et faire votre truc de démon-gardien,
+
+164
+00:07:45,162 --> 00:07:47,100
+pourriez-vous au moins
+vous rendre utile ?
+
+165
+00:07:48,655 --> 00:07:51,038
+Il y a 4 ans, Charles Perkins
+a avoué un meurtre
+
+166
+00:07:51,158 --> 00:07:52,799
+et ce matin, il essaie de se rétracter.
+
+167
+00:07:52,919 --> 00:07:56,329
+Il dit avoir confondu ses
+visions psychiques avec la réalité
+
+168
+00:07:56,449 --> 00:07:58,354
+et s'être convaincu
+d'avoir commis le meurtre.
+
+169
+00:07:58,700 --> 00:07:59,899
+C'est commode.
+
+170
+00:08:00,286 --> 00:08:03,060
+Oui, il affirme que
+le vrai tueur va encore frapper,
+
+171
+00:08:03,245 --> 00:08:06,900
+qu'il sait où le corps va être retrouvé
+et que l'endroit lui est familier.
+
+172
+00:08:07,328 --> 00:08:09,481
+Mais il n'arrive pas
+à mettre le doigt dessus.
+
+173
+00:08:11,690 --> 00:08:13,656
+Il y a plusieurs références
+dans son témoignage
+
+174
+00:08:13,776 --> 00:08:16,490
+à des rêves qu'il aurait eu d'une zone
+boisée près d'une piste pour chevaux.
+
+175
+00:08:16,610 --> 00:08:17,834
+Vous venez avec moi ?
+
+176
+00:08:28,200 --> 00:08:30,887
+La victime a été retrouvée nue,
+sans papiers d'identité.
+
+177
+00:08:31,600 --> 00:08:34,443
+Assurez-vous que le sous-bois
+soit complètement bouclé.
+
+178
+00:08:34,563 --> 00:08:36,868
+Je ne veux pas que la presse
+vienne y mettre son nez, OK ?
+
+179
+00:08:37,434 --> 00:08:38,457
+Juste, heu...
+
+180
+00:08:39,329 --> 00:08:40,631
+Donnez-moi juste une minute.
+
+181
+00:08:41,156 --> 00:08:42,830
+On devrait arrêter
+de se voir comme ça.
+
+182
+00:08:43,438 --> 00:08:45,090
+Je n'arrive pas à croire que tu sois là.
+
+183
+00:08:45,210 --> 00:08:46,327
+Tu veux me toucher ?
+
+184
+00:08:47,200 --> 00:08:50,101
+T'as compris ? Tu sais,
+comme tu ne crois pas... mais tu ...
+
+185
+00:08:50,221 --> 00:08:51,553
+- Oui, j'ai saisi.
+- Oui.
+
+186
+00:08:52,464 --> 00:08:54,559
+Alors, c'est exactement
+comme je l'avais dit ?
+
+187
+00:08:55,713 --> 00:08:58,094
+C'est une scène de crime.
+Personne n'entre.
+
+188
+00:08:58,475 --> 00:08:59,491
+OK...
+
+189
+00:08:59,611 --> 00:09:02,178
+Je veux juste savoir
+s'il y a une fille décapitée là-bas.
+
+190
+00:09:02,298 --> 00:09:04,908
+- C'est tout ce que je demande.
+- Tu sais ce qui est triste, Vick ?
+
+191
+00:09:07,300 --> 00:09:09,423
+- La fin du film "Lassie" ?
+- Plus triste encore.
+
+192
+00:09:10,240 --> 00:09:12,752
+Non, il n'y a rien de plus
+triste que la fin de "Lassie."
+
+193
+00:09:12,872 --> 00:09:15,668
+Que tu penses pouvoir toujours débarquer
+
+194
+00:09:15,788 --> 00:09:17,401
+et obtenir tout ce que tu veux.
+
+195
+00:09:18,271 --> 00:09:19,987
+Eh bien, tu sais quoi ?
+Pas cette fois.
+
+196
+00:09:25,300 --> 00:09:27,400
+Il y a pas mal de différences
+qui me font croire
+
+197
+00:09:27,520 --> 00:09:29,401
+que la théorie
+de l'imitateur est valable.
+
+198
+00:09:30,478 --> 00:09:32,100
+Reste de ton côté de la bande jaune.
+
+199
+00:09:37,786 --> 00:09:38,822
+C'est une fille.
+
+200
+00:09:39,720 --> 00:09:41,900
+- Est-elle, heu...
+- Très.
+
+201
+00:09:42,556 --> 00:09:44,165
+Celui qui l'a tuée a pris un souvenir.
+
+202
+00:09:46,200 --> 00:09:48,700
+Merci de partager avec moi
+une autre référence à Anne Boleyn*.
+
+203
+00:09:48,820 --> 00:09:50,518
+(*Reine d'Angleterre décapitée en 1536)
+
+204
+00:09:50,897 --> 00:09:51,912
+Merci.
+
+205
+00:09:53,116 --> 00:09:56,343
+Depuis la nouvelle du meurtre, je suis
+inondée d'appels de parents inquiets
+
+206
+00:09:56,463 --> 00:09:58,704
+de tous les enfants disparus
+ou fugueurs de la ville.
+
+207
+00:10:00,291 --> 00:10:01,614
+L'avez-vous identifiée ?
+
+208
+00:10:02,920 --> 00:10:05,000
+Il n'y a pas de tête pour
+l'analyse dentaire et...
+
+209
+00:10:05,120 --> 00:10:06,701
+ses empreintes ne sont pas fichées.
+
+210
+00:10:07,178 --> 00:10:08,294
+Ça va être difficile.
+
+211
+00:10:08,599 --> 00:10:10,700
+- Une autre inconnue.
+- J'en ai bien peur.
+
+212
+00:10:11,953 --> 00:10:13,980
+Vous pensez que ça pourrait être
+le même tueur ?
+
+213
+00:10:14,710 --> 00:10:16,219
+J'essaie encore de le déterminer.
+
+214
+00:10:16,676 --> 00:10:19,699
+À part une série de marques
+d'hésitation sur le premier corps,
+
+215
+00:10:19,819 --> 00:10:21,403
+les similitudes sont frappantes.
+
+216
+00:10:24,171 --> 00:10:25,551
+Des similitudes, vous dites.
+
+217
+00:10:26,794 --> 00:10:27,917
+"Frappantes",
+
+218
+00:10:28,037 --> 00:10:29,047
+vous dites,
+
+219
+00:10:29,167 --> 00:10:31,115
+comme provoquées par le même tueur.
+
+220
+00:10:31,235 --> 00:10:33,070
+Tu sais, ce n'est pas
+une preuve suffisante.
+
+221
+00:10:33,190 --> 00:10:35,676
+Il y a deux meurtres,
+pratiquement identiques.
+
+222
+00:10:35,796 --> 00:10:37,843
+Vicki, c'était une affaire
+très médiatisée !
+
+223
+00:10:37,963 --> 00:10:40,689
+OK ? Les photos de la scène
+de crime ont circulé sur Internet.
+
+224
+00:10:40,809 --> 00:10:42,720
+OK ? C'est un imitateur,
+purement et simplement.
+
+225
+00:10:42,840 --> 00:10:44,889
+Ou un tueur qui a eu
+4 ans pour peaufiner son talent.
+
+226
+00:10:45,009 --> 00:10:46,877
+- Oh, veux-tu bien... ?!
+- Ça suffit ! Stop !
+
+227
+00:10:48,291 --> 00:10:49,937
+Si vous avez quelque chose
+à régler,
+
+228
+00:10:50,057 --> 00:10:51,867
+je préfèrerais que vous
+le fassiez ailleurs.
+
+229
+00:11:07,500 --> 00:11:11,400
+<i>Je l'ai vue marcher le long de la rue
+et je me suis arrêté à côté d'elle.</i>
+
+230
+00:11:12,099 --> 00:11:14,702
+<i>Nous avons discuté pendant
+une minute et...</i>
+
+231
+00:11:15,694 --> 00:11:18,518
+ensuite je lui ai demandé
+si elle voulait venir chez moi,
+
+232
+00:11:18,787 --> 00:11:20,067
+pour parler encore un peu.
+
+233
+00:11:20,575 --> 00:11:21,740
+Elle a répondu non.
+
+234
+00:11:24,256 --> 00:11:25,466
+Alors, je l'ai enlevée.
+
+235
+00:11:25,586 --> 00:11:26,965
+L'aviez-vous déjà vue avant ?
+
+236
+00:11:29,013 --> 00:11:31,380
+J'ai besoin que vous répondiez
+à haute voix, s'il vous plaît.
+
+237
+00:11:32,562 --> 00:11:33,608
+Non.
+
+238
+00:11:33,728 --> 00:11:35,115
+Non, je ne l'avais jamais vue.
+
+239
+00:11:35,444 --> 00:11:37,159
+Qu'avez-vous fait après
+l'avoir enlevée ?
+
+240
+00:11:37,692 --> 00:11:39,015
+J'ai conduit jusqu'au parc.
+
+241
+00:11:39,653 --> 00:11:42,192
+On s'est assis dans le fond du van
+pendant un petit moment,
+
+242
+00:11:43,428 --> 00:11:45,616
+et puis quelque chose m'a dit
+de lui couper la gorge.
+
+243
+00:11:46,657 --> 00:11:47,665
+Quelque chose ?
+
+244
+00:11:48,814 --> 00:11:49,800
+Quelqu'un.
+
+245
+00:11:50,300 --> 00:11:51,800
+Quoi ? Comme...
+
+246
+00:11:52,866 --> 00:11:54,401
+une voix dans votre tête ?
+
+247
+00:11:55,156 --> 00:11:56,172
+Oui.
+
+248
+00:11:56,292 --> 00:11:57,516
+C'est exactement ça.
+
+249
+00:11:58,991 --> 00:12:01,609
+On va faire une petite pause.
+On revient.
+
+250
+00:12:10,152 --> 00:12:11,578
+Il avoue de plein gré.
+
+251
+00:12:11,698 --> 00:12:13,799
+Pourquoi lui offres-tu
+de plaider la folie ?
+
+252
+00:12:13,919 --> 00:12:15,223
+Quoi ? Je ne lui offre rien.
+
+253
+00:12:15,343 --> 00:12:17,224
+Il est juste un peu vague
+sur certains détails.
+
+254
+00:12:17,344 --> 00:12:19,776
+En plus, il n'y a aucune preuve.
+Il n'y a pas de sang dans le van.
+
+255
+00:12:19,896 --> 00:12:21,834
+C'est normal qu'il y ait
+quelques incohérences.
+
+256
+00:12:22,690 --> 00:12:25,680
+On le tient sur certains
+des points clé.
+
+257
+00:12:25,980 --> 00:12:29,180
+Enfin, son véhicule était sur la scène
+du crime. Il connaît l'arme utilisée.
+
+258
+00:12:29,300 --> 00:12:30,899
+OK, et si ses souvenirs sont faux ?
+
+259
+00:12:31,019 --> 00:12:33,867
+OK ? Des gens font ça tout le temps,
+pour la notoriété, pour la gloire,
+
+260
+00:12:33,987 --> 00:12:35,992
+pour une culpabilité
+refoulée ou je ne sais quoi.
+
+261
+00:12:38,228 --> 00:12:39,287
+Ce n'est pas faux.
+
+262
+00:12:39,407 --> 00:12:40,664
+- D'accord ?
+- D'accord.
+
+263
+00:12:40,784 --> 00:12:42,745
+Tu vois, voilà pourquoi
+on forme une bonne équipe.
+
+264
+00:12:42,865 --> 00:12:43,875
+Je me trompe ?
+
+265
+00:12:43,995 --> 00:12:45,342
+Non, pas du tout.
+
+266
+00:12:48,058 --> 00:12:49,395
+OK, on devrait...
+
+267
+00:12:49,687 --> 00:12:51,348
+y retourner et tirer tout ça au clair.
+
+268
+00:12:51,468 --> 00:12:52,721
+- Très bien.
+- Très bien.
+
+269
+00:12:59,230 --> 00:13:01,825
+Je croyais que vous aviez dit qu'il
+avait avoué de son plein gré.
+
+270
+00:13:02,019 --> 00:13:03,026
+En effet.
+
+271
+00:13:03,146 --> 00:13:06,323
+Enfin, il y avait quelques incohérences
+dans son récit, mais...
+
+272
+00:13:06,792 --> 00:13:09,452
+le procureur a pensé qu'on avait
+assez pour le faire condamner.
+
+273
+00:13:09,572 --> 00:13:10,942
+Ce que vous avez encouragé.
+
+274
+00:13:13,097 --> 00:13:15,914
+Il n'était pas dingue, si c'est là
+que vous voulez en venir.
+
+275
+00:13:16,158 --> 00:13:19,222
+Et on en revient au célèbre
+instinct de Vicki Nelson.
+
+276
+00:13:19,992 --> 00:13:23,269
+D'accord. Alors, vous croyez qu'il était
+coupable et que c'est un imitateur.
+
+277
+00:13:23,598 --> 00:13:25,348
+Je crois qu'on dois le découvrir.
+
+278
+00:13:26,413 --> 00:13:27,808
+Une idée ?
+
+279
+00:13:29,948 --> 00:13:32,061
+Oui. Merci. Merci pour votre temps.
+
+280
+00:13:33,000 --> 00:13:36,597
+Le gardien dit que Perkins n'a reçu
+qu'un seul visiteur en 4 ans de prison.
+
+281
+00:13:37,000 --> 00:13:39,493
+- Sa mère ?
+- Non, son frère, il y a trois ans.
+
+282
+00:13:39,905 --> 00:13:41,757
+Pas une seule âme en 3 ans ?
+
+283
+00:13:41,877 --> 00:13:44,115
+Ni appels, ni e-mails, rien.
+
+284
+00:13:44,400 --> 00:13:45,416
+J'y crois pas.
+
+285
+00:13:45,536 --> 00:13:47,848
+Enfin, personne allant en prison
+ne reste solitaire.
+
+286
+00:13:48,112 --> 00:13:50,967
+Peut-être un ex co-détenu
+l'aidant de l'extérieur ?
+
+287
+00:13:51,277 --> 00:13:52,462
+Jouant les imitateurs ?
+
+288
+00:13:52,582 --> 00:13:54,134
+Non, il n'a jamais eu d'ami,
+
+289
+00:13:54,254 --> 00:13:55,683
+il ne s'en remet qu'à lui-même.
+
+290
+00:13:55,899 --> 00:13:57,599
+Il vit vraiment en hermite.
+
+291
+00:13:58,283 --> 00:14:00,289
+Eh bien, ça m'étonnerait que
+Charles et son frère
+
+292
+00:14:00,409 --> 00:14:02,755
+aient attendu autant pour sortir
+le coup de l'imitateur.
+
+293
+00:14:03,017 --> 00:14:05,800
+Rien n'évite la suspicion
+mieux que la patience.
+
+294
+00:14:06,736 --> 00:14:09,188
+Que dirais-tu d'avoir une petite
+discussion avec son frère ?
+
+295
+00:14:09,554 --> 00:14:11,309
+Elle a été décapitée, n'est-ce pas ?
+
+296
+00:14:15,719 --> 00:14:16,835
+Vous n'avez aucune idée
+
+297
+00:14:16,955 --> 00:14:19,167
+de ce que c'est d'être maudit
+avec ce genre de chose.
+
+298
+00:14:22,063 --> 00:14:23,958
+La police n'avale pas
+votre histoire, Charles.
+
+299
+00:14:25,300 --> 00:14:27,499
+Ils pensent que
+vous travaillez avec l'imitateur.
+
+300
+00:14:27,619 --> 00:14:29,482
+Mais vous leur avez dit
+qu'ils se trompaient.
+
+301
+00:14:29,602 --> 00:14:32,409
+Mon seul but est de trouver
+et d'arrêter quiconque ...
+
+302
+00:14:32,529 --> 00:14:34,039
+commet ces meurtres.
+
+303
+00:14:37,355 --> 00:14:40,051
+Un hôpital fermé avec
+du personnel d'entretien...
+
+304
+00:14:40,252 --> 00:14:42,812
+La bureaucratie gouvernementale
+dans ce qu'elle fait de mieux.
+
+305
+00:14:51,541 --> 00:14:53,099
+Eh bien, c'est vraiment propre.
+
+306
+00:14:53,903 --> 00:14:55,033
+Tu m'en diras tant.
+
+307
+00:15:01,826 --> 00:15:04,222
+Ça doit être le meilleur travail
+de concierge du coin.
+
+308
+00:15:04,780 --> 00:15:05,862
+Oui, enfin,
+
+309
+00:15:05,982 --> 00:15:07,063
+ça m'occupe.
+
+310
+00:15:07,300 --> 00:15:09,080
+Kelly Perkins,
+vous vous souvenez de moi ?
+
+311
+00:15:11,213 --> 00:15:13,115
+Oh. Je me disais bien
+que je vous connaissais.
+
+312
+00:15:13,235 --> 00:15:14,690
+Inspecteur Cellucci, c'est ça ?
+
+313
+00:15:14,810 --> 00:15:15,839
+C'est ça.
+
+314
+00:15:16,040 --> 00:15:17,679
+Je vois que vous avez
+une nouvelle partenaire.
+
+315
+00:15:17,799 --> 00:15:19,057
+Inspecteur Lam.
+
+316
+00:15:19,600 --> 00:15:21,337
+On aimerait vous poser
+quelques questions.
+
+317
+00:15:22,045 --> 00:15:23,287
+Je vous en prie.
+
+318
+00:15:24,021 --> 00:15:25,700
+Où étiez-vous jeudi soir ?
+
+319
+00:15:26,400 --> 00:15:28,301
+Jeudi... Le jeudi, je vais
+au club littéraire.
+
+320
+00:15:28,862 --> 00:15:30,808
+Oui, on a parlé de <i>Finnegan's Wake</i>.
+
+321
+00:15:31,001 --> 00:15:32,030
+J'ai détesté.
+
+322
+00:15:32,898 --> 00:15:34,480
+C'est si aléatoire, chaotique.
+
+323
+00:15:34,719 --> 00:15:37,465
+Enfin, tout n'a plus besoin d'avoir
+un sens maintenant, si ?
+
+324
+00:15:37,680 --> 00:15:38,703
+Non.
+
+325
+00:15:39,677 --> 00:15:40,694
+Tout va bien ?
+
+326
+00:15:40,814 --> 00:15:42,115
+Il y a eu un autre meurtre.
+
+327
+00:15:42,830 --> 00:15:44,641
+Ça ressemble beaucoup
+au travail de Charles.
+
+328
+00:15:44,761 --> 00:15:46,935
+On pense que
+c'est l'œuvre d'un imitateur.
+
+329
+00:15:47,632 --> 00:15:49,979
+Enfin, Charles pourrait travailler
+avec quelqu'un dehors
+
+330
+00:15:50,099 --> 00:15:51,529
+pour le faire paraître innocent.
+
+331
+00:15:52,108 --> 00:15:53,220
+Bien, c'est possible,
+
+332
+00:15:53,340 --> 00:15:56,057
+mais je ne peux imaginer quequ'un
+faisant une chose si horrible.
+
+333
+00:15:56,264 --> 00:15:57,895
+Mais vous êtes allé le voir en prison.
+
+334
+00:15:58,297 --> 00:15:59,312
+Une seule fois.
+
+335
+00:15:59,432 --> 00:16:02,303
+C'est impressionnant comme 2 frères
+peuvent devenir différents avec l'âge.
+
+336
+00:16:02,423 --> 00:16:04,012
+Comment était Charles, enfant ?
+
+337
+00:16:05,190 --> 00:16:07,599
+Eh bien, il était toujours
+le plus rationnel, je crois.
+
+338
+00:16:07,719 --> 00:16:10,125
+Il trouvait toujours la juste mesure
+dans chaque situation.
+
+339
+00:16:10,821 --> 00:16:12,296
+Vous voyez, sauf avec notre mère.
+
+340
+00:16:12,416 --> 00:16:13,721
+Ah, elle était...
+
+341
+00:16:13,900 --> 00:16:15,700
+- docteur, c'est ça ?
+- Psychiatre.
+
+342
+00:16:17,205 --> 00:16:18,508
+Vous savez ce qu'on dit :
+
+343
+00:16:18,628 --> 00:16:21,242
+"Les enfants du cordonnier sont souvent
+les plus mal chaussés."
+
+344
+00:16:22,139 --> 00:16:23,713
+Tout ce qu'on faisait était
+
+345
+00:16:24,001 --> 00:16:26,799
+sur-intellectualisé et analysé à mort.
+
+346
+00:16:27,116 --> 00:16:29,340
+Mais, en ce qui me concerne,
+le passé est le passé.
+
+347
+00:16:30,514 --> 00:16:31,930
+Charles n'a jamais été d'accord.
+
+348
+00:16:32,721 --> 00:16:34,323
+Vous parlez toujours à votre mère ?
+
+349
+00:16:36,400 --> 00:16:38,544
+Eh bien, je ne lui en veux plus,
+
+350
+00:16:39,252 --> 00:16:41,963
+mais je ne sors certainement pas
+de mon chemin pour aller la voir.
+
+351
+00:16:43,498 --> 00:16:45,226
+Vous pensez que votre mère nous...
+
+352
+00:16:45,415 --> 00:16:46,953
+parlerait de Charles ?
+
+353
+00:16:47,468 --> 00:16:49,235
+Vous savez, vous devriez
+voir ça avec elle.
+
+354
+00:16:49,355 --> 00:16:50,400
+Je devrais faire ça.
+
+355
+00:16:50,520 --> 00:16:51,623
+Merci pour votre temps.
+
+356
+00:16:54,992 --> 00:16:57,044
+Je vous ai dit que
+je n'ai jamais tué cette fille.
+
+357
+00:16:57,850 --> 00:16:58,972
+Vous me croyez.
+
+358
+00:17:01,349 --> 00:17:03,394
+Quoi qu'il en soit, pourquoi
+m'avez-vous appelée ?
+
+359
+00:17:03,716 --> 00:17:05,047
+Parce que vous étiez la seule
+
+360
+00:17:05,167 --> 00:17:06,713
+à ne pas penser que j'étais dingue.
+
+361
+00:17:08,557 --> 00:17:09,938
+Ça ne suffit pas, Charles.
+
+362
+00:17:10,826 --> 00:17:12,308
+Il me faut plus pour avancer.
+
+363
+00:17:12,428 --> 00:17:13,708
+Je vous ai dit que je ne...
+
+364
+00:17:15,320 --> 00:17:16,371
+Charles ?
+
+365
+00:17:16,607 --> 00:17:18,188
+Gardien ! Gardien !
+
+366
+00:17:19,929 --> 00:17:20,958
+Charles... ?
+
+367
+00:17:22,100 --> 00:17:23,128
+Celluci...
+
+368
+00:17:23,414 --> 00:17:24,673
+Il est sur la bonne piste.
+
+369
+00:17:27,312 --> 00:17:28,772
+"Celluci est sur la bonne piste."
+
+370
+00:17:28,892 --> 00:17:30,456
+Bordel, qu'est-ce que ça veut dire ?
+
+371
+00:17:30,576 --> 00:17:33,476
+Peut-être que l'inspecteur Celluci
+va identifier l'assassin.
+
+372
+00:17:33,820 --> 00:17:36,073
+Ouais, peut-être y a-t-il un imitateur.
+
+373
+00:17:36,300 --> 00:17:38,083
+Serait-ce si horrible...
+
+374
+00:17:38,271 --> 00:17:40,166
+si l'inspecteur Cellucci avait raison ?
+
+375
+00:17:40,887 --> 00:17:43,083
+OK. Vous savez quoi ?
+J'ai compris : vous êtes fâché.
+
+376
+00:17:43,203 --> 00:17:44,456
+Je ne dirais pas "fâché,"
+
+377
+00:17:44,576 --> 00:17:46,500
+plutôt consterné, outré, indigné...
+
+378
+00:17:46,800 --> 00:17:48,951
+Alors, pourriez-vous au moins
+feindre l'intérêt ?
+
+379
+00:17:49,200 --> 00:17:50,873
+Henry, s'il vous plaît, concentrez-vous.
+
+380
+00:17:51,213 --> 00:17:52,300
+Je suis concentré.
+
+381
+00:17:52,496 --> 00:17:53,926
+Tout le reste n'est que bruit.
+
+382
+00:17:54,046 --> 00:17:55,072
+Vous savez quoi ?
+
+383
+00:17:55,192 --> 00:17:56,244
+J'aime le bruit.
+
+384
+00:17:56,364 --> 00:17:58,191
+Et je suis plus intéressé
+par les résultats.
+
+385
+00:17:58,311 --> 00:18:00,814
+On doit découvrir
+ce qu'a appris l'inspecteur Celluci.
+
+386
+00:18:01,178 --> 00:18:04,103
+Ça pourrait être difficile : il ne
+me parle pas vraiment en ce moment.
+
+387
+00:18:04,223 --> 00:18:05,599
+Pourquoi n'essaierais-je pas ?
+
+388
+00:18:06,293 --> 00:18:08,088
+Ouais, s'il me tient à l'écart,
+
+389
+00:18:08,804 --> 00:18:10,206
+il ne va pas vous parler.
+
+390
+00:18:10,600 --> 00:18:12,237
+N'en soyez pas si sûre.
+
+391
+00:18:12,733 --> 00:18:15,874
+Ouais, ouais, car
+vous deux êtes <i>si</i> proches...
+
+392
+00:18:15,994 --> 00:18:18,548
+On semble avoir plus en commun
+chaque jour qui passe.
+
+393
+00:18:18,776 --> 00:18:20,160
+Ouais, c'est tout bonnement
+
+394
+00:18:20,280 --> 00:18:21,683
+génial, Henry.
+
+395
+00:18:26,747 --> 00:18:28,091
+Rebecca Perkins,
+
+396
+00:18:28,606 --> 00:18:30,094
+docteur en psychiatrie.
+
+397
+00:18:30,433 --> 00:18:33,205
+Elle a été profileuse pour la police
+dans plusieurs grosses affaires
+
+398
+00:18:33,325 --> 00:18:34,336
+dans les années 80.
+
+399
+00:18:34,456 --> 00:18:36,099
+Ouais, et elle a un casier.
+
+400
+00:18:36,534 --> 00:18:38,930
+Elle volait du matériel médical
+à la clinique.
+
+401
+00:18:39,885 --> 00:18:41,473
+Les médecins se soignent eux-même.
+
+402
+00:18:41,846 --> 00:18:43,166
+Combien de temps en prison ?
+
+403
+00:18:43,286 --> 00:18:45,829
+Elle était dehors avant que l'encre
+de ses empreintes ne soit sec.
+
+404
+00:18:45,949 --> 00:18:47,642
+Libérée sur parole
+avec perte de sa licence.
+
+405
+00:18:47,762 --> 00:18:51,400
+Tu sais, certains devraient vraiment être
+punis pour leurs crimes dans ce pays.
+
+406
+00:18:52,207 --> 00:18:54,497
+Ça aurait été une mauvaise
+publicité pour tout procureur
+
+407
+00:18:54,617 --> 00:18:56,699
+ayant remporté une affaire
+avec elle comme expert.
+
+408
+00:18:56,909 --> 00:18:58,125
+Où est-elle, maintenant ?
+
+409
+00:18:59,227 --> 00:19:00,599
+Forest Hill Village.
+
+410
+00:19:01,062 --> 00:19:04,489
+Elle dirige une petite clinique
+alternative de consulatations chez elle.
+
+411
+00:19:04,609 --> 00:19:05,842
+Comment est-ce possible ?
+
+412
+00:19:05,962 --> 00:19:07,996
+Eh bien, pas besoin de licence
+pour dire à quelqu'un
+
+413
+00:19:08,116 --> 00:19:09,591
+pourquoi papa ne l'aime plus.
+
+414
+00:19:10,120 --> 00:19:13,234
+J'espère que sa matinée est libre. Je
+suggère qu'on lui rende visite demain.
+
+415
+00:19:13,732 --> 00:19:15,466
+Tu m'y retrouves ou
+tu passes me prendre ?
+
+416
+00:19:15,586 --> 00:19:16,721
+Non, je te chopperai.
+
+417
+00:19:17,036 --> 00:19:18,431
+Des promesses, des promesses...
+
+418
+00:19:19,006 --> 00:19:20,623
+- Bonne nuit.
+- Bonne nuit, Kate.
+
+419
+00:19:29,220 --> 00:19:30,959
+Vous épiez dans l'ombre
+depuis longtemps ?
+
+420
+00:19:31,079 --> 00:19:33,300
+Assez pour voir le fantastique
+Cellucci en action.
+
+421
+00:19:34,213 --> 00:19:36,993
+- Y a-t-il un but à cette visite ?
+- Eh bien, j'apporte un cadeau :
+
+422
+00:19:37,113 --> 00:19:38,281
+Charles Perkins.
+
+423
+00:19:38,474 --> 00:19:39,870
+Non merci, j'en ai déjà un.
+
+424
+00:19:39,990 --> 00:19:41,578
+Vicki l'a vu aujourd'hui à la prison.
+
+425
+00:19:41,928 --> 00:19:43,772
+Perkins dit que
+vous êtes sur la bonne piste.
+
+426
+00:19:44,300 --> 00:19:47,450
+Bien, corrigez-moi si j'ai tort, mais
+quand quelqu'un qui n'est pas medium
+
+427
+00:19:47,570 --> 00:19:50,516
+prédit le futur, on appelle
+généralement ça deviner. J'ai raison ?
+
+428
+00:19:50,709 --> 00:19:51,834
+Qu'est-ce que c'est ?
+
+429
+00:19:52,036 --> 00:19:53,431
+Cette piste que vous suivez ?
+
+430
+00:19:54,114 --> 00:19:55,401
+Oh, vous êtes incroyable.
+
+431
+00:19:55,834 --> 00:19:57,272
+Je ne vais pas vous le dire.
+
+432
+00:19:57,479 --> 00:19:59,052
+C'est une information confidentielle.
+
+433
+00:19:59,260 --> 00:20:00,361
+Stop!
+
+434
+00:20:03,577 --> 00:20:06,100
+Inspecteur Celluci,
+je vous ai posé une question.
+
+435
+00:20:29,771 --> 00:20:30,837
+Bonjour ?
+
+436
+00:20:31,177 --> 00:20:32,436
+Mme Perkins ?
+
+437
+00:20:32,556 --> 00:20:33,759
+Il n'y a personne ici.
+
+438
+00:20:34,862 --> 00:20:36,171
+Les lampes sont débranchées.
+
+439
+00:20:36,393 --> 00:20:37,430
+Étrange.
+
+440
+00:20:38,920 --> 00:20:41,881
+Vous n'auriez pas dû "vampiriser"
+Mike pour cette information.
+
+441
+00:20:42,363 --> 00:20:45,374
+Alors je suppose que vous ne voulez
+pas savoir ce que Mike a dit sur vous.
+
+442
+00:20:45,753 --> 00:20:47,120
+Qu'a-t-il dit sur moi ?
+
+443
+00:20:48,267 --> 00:20:51,736
+L'inspecteur Celluci ne se souviendra
+de ma visite que comme un vague rêve.
+
+444
+00:20:51,856 --> 00:20:53,558
+Eh bien, ça ne rend pas ça plus correct.
+
+445
+00:20:53,780 --> 00:20:56,955
+Vous vous attendez à ce que je croie que
+vous ne préférez pas avoir l'avatage.
+
+446
+00:21:01,777 --> 00:21:03,257
+Kelly, 10 ans,
+
+447
+00:21:03,377 --> 00:21:04,623
+Charles, 8 ans,
+
+448
+00:21:04,844 --> 00:21:06,282
+Sydney,  6 ans.
+
+449
+00:21:06,670 --> 00:21:07,707
+Qui est Sydney ?
+
+450
+00:21:07,907 --> 00:21:09,330
+C'est le plus jeune des frères.
+
+451
+00:21:10,284 --> 00:21:11,607
+Voilà Charles à 15 ans,
+
+452
+00:21:11,822 --> 00:21:13,216
+Kelly à 17...
+
+453
+00:21:15,149 --> 00:21:16,699
+Sydney à 13 ans ?!
+
+454
+00:21:17,058 --> 00:21:18,399
+Sydney est un grand gaillard.
+
+455
+00:21:18,672 --> 00:21:19,759
+Ouais, sans blague.
+
+456
+00:21:21,130 --> 00:21:22,882
+En voilà un qui a bien
+mangé ses céréales.
+
+457
+00:21:27,915 --> 00:21:28,932
+Eh bien...
+
+458
+00:21:29,052 --> 00:21:30,811
+Bonjour, Dr Freud.
+
+459
+00:21:47,820 --> 00:21:50,816
+Vous savez, Rebecca Perkins
+a perdu sa licence il y a des années.
+
+460
+00:21:51,813 --> 00:21:54,300
+Elle a apparemment pratiqué
+sur un tout autre terrain.
+
+461
+00:21:55,485 --> 00:21:56,600
+Sydney Perkins?
+
+462
+00:21:59,989 --> 00:22:04,699
+"Le subjet Sydney développe une
+résistance au mélange cocaïne-kétamine."
+
+463
+00:22:04,903 --> 00:22:07,820
+"L'isolation du subjet Kelly couplée avec
+la progestérone crée..."
+
+464
+00:22:07,940 --> 00:22:08,988
+Progestérone ?!
+
+465
+00:22:09,108 --> 00:22:12,423
+C'est un castrant chimique utilisé
+sur les délinquants sexuels.
+
+466
+00:22:14,672 --> 00:22:15,988
+"Le subjet Charles
+
+467
+00:22:16,108 --> 00:22:19,535
+montre de légers signes d'amélioration
+après l'avoir placé sous...
+
+468
+00:22:19,821 --> 00:22:22,400
+un anti-dépresseur à base de pinidol."
+
+469
+00:22:22,998 --> 00:22:24,321
+Que fait-elle ici ?
+
+470
+00:22:24,622 --> 00:22:26,216
+Elle torture ses propres enfants.
+
+471
+00:22:28,727 --> 00:22:30,373
+Je croyais qu'il n'y avait personne.
+
+472
+00:22:30,493 --> 00:22:32,059
+Personne avec un rythme cardiaque.
+
+473
+00:22:42,207 --> 00:22:43,244
+Mme Perkins ?
+
+474
+00:22:46,000 --> 00:22:47,300
+Morte, ça, c'est sûr.
+
+475
+00:22:54,647 --> 00:22:56,664
+Jusqu'à ce que tu appelles,
+
+476
+00:22:57,236 --> 00:23:00,250
+j'essayais de découvrir comment
+j'avais pu rêver d'Henry Fitzroy
+
+477
+00:23:00,370 --> 00:23:02,687
+qui n'impliquait pas
+un maillet et un pieu.
+
+478
+00:23:03,456 --> 00:23:06,409
+Si tu veux prendre un siège,
+on peut discuter de ton rêve.
+
+479
+00:23:06,600 --> 00:23:09,816
+Il a utilisé un de ses tours psychiques
+sur moi pour avoir cette adresse, non ?
+
+480
+00:23:10,591 --> 00:23:12,495
+Tu devrais poser la question à Henry.
+
+481
+00:23:12,615 --> 00:23:13,641
+C'est <i>ton</i> vampire.
+
+482
+00:23:13,761 --> 00:23:15,780
+Non, non, non, non.
+C'est pas "mon" vampire.
+
+483
+00:23:15,900 --> 00:23:18,281
+De plus, je ne sais honnêtement pas
+ce qu'il a fait.
+
+484
+00:23:18,401 --> 00:23:19,730
+Mais tu aurais pu deviner.
+
+485
+00:23:20,521 --> 00:23:23,868
+Écoute, Mike, tu te rappelles de Sydney
+Perkins, le fils aux besoins spéciaux ?
+
+486
+00:23:23,988 --> 00:23:25,645
+Je le crois impliqué dans les meurtres.
+
+487
+00:23:25,765 --> 00:23:27,906
+Alors, peut-on discuter de
+ce qu'Henry a fait ou non
+
+488
+00:23:28,026 --> 00:23:30,380
+après que tu aies lancé un avis
+de recherche sur Sydney ?
+
+489
+00:23:30,500 --> 00:23:31,765
+Il n'y aura pas d'après.
+
+490
+00:23:32,881 --> 00:23:33,882
+Officier !
+
+491
+00:23:34,002 --> 00:23:35,005
+Mike !
+
+492
+00:23:35,125 --> 00:23:36,924
+Escortez cette femme
+hors de ma scène de crime.
+
+493
+00:23:37,044 --> 00:23:38,689
+Si elle pose problème, arrêtez-la.
+
+494
+00:23:39,525 --> 00:23:40,848
+Tu te fous de moi ?
+
+495
+00:23:56,625 --> 00:23:57,655
+C'était génial.
+
+496
+00:23:57,775 --> 00:23:59,414
+Toi et Mike devriez
+vous disputer plus souvent
+
+497
+00:23:59,534 --> 00:24:00,998
+car j'adore travailler sous couverture.
+
+498
+00:24:01,118 --> 00:24:03,616
+T'as trouvé quelque chose sur ce corps
+chez Rebecca Perkins ?
+
+499
+00:24:03,736 --> 00:24:05,211
+Tu veux dire <i>les</i> corps ?
+
+500
+00:24:05,634 --> 00:24:07,079
+Le corps était celui de Rebecca.
+
+501
+00:24:07,452 --> 00:24:09,197
+La tête appartenait à quelqu'un d'autre.
+
+502
+00:24:09,600 --> 00:24:12,202
+Le Dr Mohadevan l'a identifiée
+comme Allison Cohen.
+
+503
+00:24:12,387 --> 00:24:14,899
+C'est à coup sûr la première victime,
+ADN à l'appui.
+
+504
+00:24:15,164 --> 00:24:17,311
+Ça devrait apporter un peu
+de réconfort aux parents.
+
+505
+00:24:17,431 --> 00:24:20,693
+Bien, mais peut-on trouver un quelconque
+lien entre elle et les frères Perkins ?
+
+506
+00:24:21,700 --> 00:24:24,665
+Il y a 4 ans, Allison Cohen
+vivait à Carlton.
+
+507
+00:24:24,785 --> 00:24:27,040
+Les frères ne vivaient pas
+encore avec leur chère mère ?
+
+508
+00:24:27,160 --> 00:24:29,192
+Ouais, peut-être que
+le lien vient de plus loin.
+
+509
+00:24:29,312 --> 00:24:31,194
+Tu as l'adresse de ses parents ?
+
+510
+00:24:31,314 --> 00:24:33,381
+Si elle est toujours sur
+la liste des personnes disparues,
+
+511
+00:24:33,501 --> 00:24:35,639
+la famille vit peut-être
+toujours à la même adresse.
+
+512
+00:24:38,535 --> 00:24:40,309
+769, Dunvegan Road.
+
+513
+00:24:41,104 --> 00:24:43,094
+D'accord. Bien, les Perkins
+vivaient sur Heath.
+
+514
+00:24:43,214 --> 00:24:44,502
+Même quartier.
+
+515
+00:24:44,751 --> 00:24:46,721
+Alors peut-être sont-ils allés
+à la même école.
+
+516
+00:24:46,841 --> 00:24:50,415
+Allison Cohen était inscrite à l'école
+élémentaire Sir Wilfred Laurier.
+
+517
+00:24:51,071 --> 00:24:52,373
+Tout comme Sydney.
+
+518
+00:24:56,084 --> 00:24:57,321
+Regarde ces notes.
+
+519
+00:24:57,441 --> 00:24:59,622
+C'était pas le plus intelligent
+de la famille, hein ?
+
+520
+00:25:01,285 --> 00:25:02,737
+Il n'était pas censé l'être.
+
+521
+00:25:04,071 --> 00:25:05,487
+Que veux-tu dire ?
+
+522
+00:25:06,449 --> 00:25:08,409
+Ce sont les carnets de note
+du bon docteur.
+
+523
+00:25:08,800 --> 00:25:11,781
+Il y a 4 ans, elle est apparue
+comme une mère surprotectrice.
+
+524
+00:25:12,313 --> 00:25:15,517
+Elle essayait en fait de protéger
+l'intégrité de son expérience.
+
+525
+00:25:15,800 --> 00:25:16,823
+Son expérience ?
+
+526
+00:25:16,943 --> 00:25:19,599
+Ouais, elle essayait d'isoler les trois
+sections de la personnalité :
+
+527
+00:25:19,719 --> 00:25:21,623
+L'égo (moi), le sur-moi
+et l'inconscient.
+
+528
+00:25:22,162 --> 00:25:24,236
+Elle utilisait ses propres enfants
+comme rats de labo.
+
+529
+00:25:24,356 --> 00:25:25,362
+Mais pourquoi ?
+
+530
+00:25:25,482 --> 00:25:28,195
+Elle voulait trouver un moyen
+de contrôler l'agressivité infantile.
+
+531
+00:25:28,315 --> 00:25:30,409
+Elle croyais que
+si elle pouvait isoler l'inconscient,
+
+532
+00:25:30,529 --> 00:25:32,183
+elle pourrait bloquer son développement.
+
+533
+00:25:32,303 --> 00:25:34,414
+Alors, ça veut dire
+qu'elle a créé notre assassin ?
+
+534
+00:25:34,534 --> 00:25:36,844
+Ouais, et ça veut dire que
+Charles Perkins est innocent.
+
+535
+00:25:40,392 --> 00:25:41,944
+Je peux sentir que vous êtes fâchée.
+
+536
+00:25:42,984 --> 00:25:45,045
+Quelque chose s'est produit,
+concernant l'affaire.
+
+537
+00:25:45,237 --> 00:25:46,788
+Perspicace, pas médium.
+
+538
+00:25:47,634 --> 00:25:51,337
+Que savez-vous de la théorie de Freud
+concernant la structure de la psychée ?
+
+539
+00:25:52,763 --> 00:25:54,615
+En quoi cela a-t-il
+un rapport avec tout ça ?
+
+540
+00:25:54,735 --> 00:25:57,018
+Suiv... Suivez-moi, juste une minute.
+
+541
+00:25:59,062 --> 00:26:02,745
+Vous voyez, Freud croyait que la psychée
+était divisée en 3 sections :
+
+542
+00:26:03,062 --> 00:26:04,470
+Le "moi" ou l'égo :
+
+543
+00:26:04,885 --> 00:26:06,199
+le centre émotionel,
+
+544
+00:26:06,692 --> 00:26:08,699
+le "sur-moi" : la moralité sociale,
+
+545
+00:26:08,819 --> 00:26:09,930
+et l'inconscient :
+
+546
+00:26:10,050 --> 00:26:11,618
+le desir insconscient.
+
+547
+00:26:12,921 --> 00:26:13,944
+Alors ?
+
+548
+00:26:14,842 --> 00:26:17,216
+Je suis au courant des petites
+expériences de votre mère.
+
+549
+00:26:17,984 --> 00:26:19,786
+Vous étiez sensé être
+l'égo, n'est-ce pas ?
+
+550
+00:26:20,077 --> 00:26:22,508
+Kelly était le sur-moi
+et Sydney était l'inconscient.
+
+551
+00:26:24,456 --> 00:26:27,087
+Ce qu'elle a fait à kelly et
+moi était déjà assez mauvais,
+
+552
+00:26:27,700 --> 00:26:28,815
+mais Sydney...
+
+553
+00:26:29,584 --> 00:26:31,638
+Je peux encore
+l'entendre crier la nuit.
+
+554
+00:26:31,758 --> 00:26:34,495
+C'est parce que vous pouvez
+réellement l'entendre crier la nuit.
+
+555
+00:26:34,805 --> 00:26:37,745
+Je crois que l'expérience de votre mère
+vous a affecté, vous et vos frères.
+
+556
+00:26:37,865 --> 00:26:40,498
+Je pense qu'elle a accidentellement
+créé un lien psychique
+
+557
+00:26:40,738 --> 00:26:42,932
+entre vous, Sydney et Kelly.
+
+558
+00:26:43,492 --> 00:26:46,453
+Écoutez, on est peut-être bousillés
+mais nous ne sommes pas des tueurs.
+
+559
+00:26:46,782 --> 00:26:49,656
+Cette victime sans lien apparent
+d'il y a 4 ans, Allison Cohen...
+
+560
+00:26:50,078 --> 00:26:51,809
+Elle allait à l'école avec Sydney.
+
+561
+00:26:53,254 --> 00:26:54,567
+Je pense que Sydney l'a tuée
+
+562
+00:26:54,687 --> 00:26:56,744
+et que vous y avez assisté
+à travers ses yeux.
+
+563
+00:26:56,864 --> 00:26:57,902
+Vous vous trompez.
+
+564
+00:26:58,022 --> 00:27:01,500
+Votre mère à réduit l'esprit
+de Sydney à de purs pulsions et besoins.
+
+565
+00:27:02,876 --> 00:27:05,230
+Allison allait à l'école avec lui.
+Il l'a peut être vue là...
+
+566
+00:27:05,350 --> 00:27:06,330
+Non !
+
+567
+00:27:07,295 --> 00:27:10,157
+Sydney va continuer à tuer à moins
+que vous ne m'aidiez à l'arrêter.
+
+568
+00:27:14,800 --> 00:27:16,508
+Alors vous êtes aussi coupable que lui.
+
+569
+00:27:33,700 --> 00:27:36,302
+Il doit y avoir un point commun
+entre les victimes de Sydney.
+
+570
+00:27:37,100 --> 00:27:39,517
+Si on arrive à découvrir le modèle,
+on pourra trouver Sydney.
+
+571
+00:27:39,637 --> 00:27:41,687
+S'il est devenu une sorte
+de monstre sans conscience,
+
+572
+00:27:41,807 --> 00:27:43,260
+il n'y aura pas de modèle.
+
+573
+00:27:43,486 --> 00:27:44,548
+Tuer la mère,
+
+574
+00:27:44,668 --> 00:27:45,928
+je peux le comprendre.
+
+575
+00:27:46,173 --> 00:27:49,041
+Enfin, après tout ce qu'elle a fait,
+j'aurais presque fait de même.
+
+576
+00:27:49,620 --> 00:27:51,976
+Comment peux-tu penser
+à ces choses-là en permanence ?
+
+577
+00:27:53,649 --> 00:27:54,700
+L'habitude.
+
+578
+00:27:56,200 --> 00:27:57,450
+Tu sais, rentre chez toi.
+
+579
+00:27:57,686 --> 00:27:58,852
+Dors un peu.
+
+580
+00:27:59,261 --> 00:28:01,892
+Comme ça, au moins l'une
+d'entre nous sera cohérente demain.
+
+581
+00:28:05,092 --> 00:28:06,906
+En quoi le mobile importe-t-il ?
+
+582
+00:28:07,471 --> 00:28:08,987
+Elles sont déjà mortes.
+
+583
+00:28:09,200 --> 00:28:11,895
+Vous savez quoi ?
+Votre entrée façon "batman" est périmée.
+
+584
+00:28:13,377 --> 00:28:16,331
+On doit comprendre pourquoi
+Sydney tue car ainsi, peut-être
+
+585
+00:28:16,451 --> 00:28:18,893
+aura-t-on une chance
+de deviner qui est sa prochaine cible.
+
+586
+00:28:19,013 --> 00:28:21,506
+Si Charles Perkins est un
+des tiers d'une personne entière
+
+587
+00:28:21,626 --> 00:28:23,477
+et qu'un autre des tiers
+a commis ce meurtre,
+
+588
+00:28:23,597 --> 00:28:25,499
+alors il est coupable...
+Affaire classée.
+
+589
+00:28:25,700 --> 00:28:27,486
+J'aimerais que ce soit aussi simple,
+
+590
+00:28:27,606 --> 00:28:29,400
+mais on n'a pas
+des procédures pour rien.
+
+591
+00:28:30,133 --> 00:28:33,406
+Venant d'une femme qui a volé
+mon sang pour un rituel de magie...
+
+592
+00:28:33,651 --> 00:28:35,085
+Très bien ! OK.
+
+593
+00:28:35,205 --> 00:28:36,834
+Vous voulez parler de ça ? Génial !
+
+594
+00:28:37,027 --> 00:28:39,144
+J'essayais de vous sauver la vie !
+
+595
+00:28:39,330 --> 00:28:40,682
+Je préférerais être mort...
+
+596
+00:28:40,946 --> 00:28:43,063
+plutôt que de vous voir
+séduite par la magie noire.
+
+597
+00:28:44,029 --> 00:28:47,347
+Oh, j'ai compris... Vous essayez de
+me protéger de moi-même ?!
+
+598
+00:28:47,632 --> 00:28:48,661
+Non.
+
+599
+00:28:50,870 --> 00:28:52,680
+Vous êtes la seule qui puisse le faire.
+
+600
+00:28:53,200 --> 00:28:55,080
+Je voulais vous protéger du mal.
+
+601
+00:28:56,405 --> 00:28:58,429
+Je ne peux pas
+vous protéger de vous-même.
+
+602
+00:28:58,651 --> 00:28:59,809
+Bonne nuit, Coreen.
+
+603
+00:29:05,050 --> 00:29:06,294
+Je suis restée...
+
+604
+00:29:08,706 --> 00:29:10,231
+J'ai pensé que tu voudrais
+peut-être parler.
+
+605
+00:29:10,351 --> 00:29:11,286
+Merci...
+
+606
+00:29:11,808 --> 00:29:12,823
+Merci.
+
+607
+00:29:14,149 --> 00:29:16,600
+Tu sais quoi ? On doit
+vraiment trouver Sydney Perkins.
+
+608
+00:29:18,262 --> 00:29:21,838
+Je peux pirater ses relevés de téléphone
+pour voir s'il a contacté Kelly...
+
+609
+00:29:22,068 --> 00:29:24,701
+Ouais, sauf que je ne pense pas
+qu'il ait besoin de téléphone...
+
+610
+00:29:24,821 --> 00:29:26,015
+pour parler à Kelly.
+
+611
+00:29:26,135 --> 00:29:27,437
+Qu'est ce que tu cherches ?
+
+612
+00:29:27,557 --> 00:29:28,672
+Ses aveux.
+
+613
+00:29:30,221 --> 00:29:31,308
+Les voilà.
+
+614
+00:29:35,628 --> 00:29:36,687
+C'est bon ?
+
+615
+00:29:37,942 --> 00:29:39,572
+Oui, c'est bon, Charles,
+
+616
+00:29:40,353 --> 00:29:41,698
+vous vous en êtes bien sorti.
+
+617
+00:29:44,334 --> 00:29:46,158
+Je pense qu'il manque quelque chose :
+
+618
+00:29:46,479 --> 00:29:47,538
+un mobile.
+
+619
+00:29:49,184 --> 00:29:52,031
+Vous ne nous avez toujours pas dit
+pourquoi vous l'avez tuée, Charles.
+
+620
+00:29:52,905 --> 00:29:54,007
+Comme ça.
+
+621
+00:29:54,271 --> 00:29:55,816
+Comme ça ?
+
+622
+00:29:56,654 --> 00:29:59,366
+Vous ne pouvez même pas me regarder
+dans les yeux et vous vous attendez
+
+623
+00:29:59,486 --> 00:30:01,989
+à ce que je crois que vous aviez
+les couilles pour faire ça ?
+
+624
+00:30:04,789 --> 00:30:06,391
+Je pense qu'il invente.
+
+625
+00:30:06,734 --> 00:30:08,000
+Qui l'a tuée, Charles ?
+
+626
+00:30:08,384 --> 00:30:09,780
+- Moi.
+- Pourquoi ?
+
+627
+00:30:09,900 --> 00:30:11,695
+PARCE QUE J'EN AVAIS ENVIE !
+
+628
+00:30:11,815 --> 00:30:14,248
+Elle créait des pulsions
+horribles chez moi.
+
+629
+00:30:15,664 --> 00:30:17,137
+Ça devait s'arrêter.
+
+630
+00:30:19,000 --> 00:30:21,030
+On dirait qu'il a des petits problèmes.
+
+631
+00:30:21,500 --> 00:30:23,700
+Je pense que ces garçons ont
+des tas de problèmes.
+
+632
+00:30:26,961 --> 00:30:29,293
+Il y en a un parlant de ces pulsions,
+
+633
+00:30:29,922 --> 00:30:30,952
+n'est-ce pas ?
+
+634
+00:30:31,171 --> 00:30:32,630
+Puis un autre...
+
+635
+00:30:32,902 --> 00:30:34,289
+le jugeant pour ça.
+
+636
+00:30:37,048 --> 00:30:39,265
+Sydney Perkins n'a pas agit seul.
+
+637
+00:30:39,515 --> 00:30:41,699
+D'accord, s'il prend contact avec vous,
+
+638
+00:30:41,819 --> 00:30:43,830
+je veux être sûr que
+vous m'appelliez immédiat...
+
+639
+00:30:45,577 --> 00:30:47,766
+Excusez-moi.
+Je reviens tout de suite.
+
+640
+00:30:49,401 --> 00:30:51,490
+Non ! Je ne veux pas l'entendre !
+Pas aujourd'hui !
+
+641
+00:30:51,610 --> 00:30:53,478
+- Je dois te parler de Sydney Perkins.
+- Non.
+
+642
+00:30:53,598 --> 00:30:55,257
+Vous avez des nouvelles de mon frère ?
+
+643
+00:30:56,291 --> 00:30:58,093
+- Kelly ?
+- Mlle Nelson.
+
+644
+00:30:58,658 --> 00:30:59,895
+Ça faisait longtemps.
+
+645
+00:31:01,026 --> 00:31:02,234
+Ça, c'est sûr.
+
+646
+00:31:02,821 --> 00:31:04,524
+He, je te fous dehors, tu te souviens ?
+
+647
+00:31:04,644 --> 00:31:05,736
+Que fait-il là ?
+
+648
+00:31:06,059 --> 00:31:07,826
+On a trouvé des indices chez la psy.
+
+649
+00:31:08,019 --> 00:31:10,987
+On a l'arme du crime, des empreintes.
+On n'a plus qu'à retrouver Sydney.
+
+650
+00:31:11,107 --> 00:31:12,712
+Non, Sydney n'est pas le tueur.
+
+651
+00:31:13,258 --> 00:31:15,540
+Écoute, il est en quelque sorte
+le tueur mais Kelly aussi.
+
+652
+00:31:15,660 --> 00:31:18,276
+Les deux sont impliqués.
+Ils sont en contact.
+
+653
+00:31:18,396 --> 00:31:20,362
+Comment ? Avec ses propres
+pouvoirs psychiques ?
+
+654
+00:31:20,482 --> 00:31:23,157
+- C'est plus compliqué que ça.
+- Oh, bien sûr...
+
+655
+00:31:23,277 --> 00:31:26,699
+Mike, le psy dérangé qu'était leur mère
+a fait des expériences sur eux.
+
+656
+00:31:27,033 --> 00:31:29,173
+Alors, c'est quoi ?
+De la science folle maintenant ?
+
+657
+00:31:29,293 --> 00:31:30,988
+Non, je ne sais comment,
+
+658
+00:31:31,108 --> 00:31:33,206
+ces gars-là ont fini par développer
+une sorte de...
+
+659
+00:31:33,389 --> 00:31:36,199
+lien symbiotique, d'accord ?
+Kelly est impliqué.
+
+660
+00:31:36,396 --> 00:31:39,195
+J'ai vérifié son alibi.
+Il est clair, d'accord ?
+
+661
+00:31:39,315 --> 00:31:40,330
+Laisse tomber !
+
+662
+00:33:42,192 --> 00:33:44,280
+Vous réalisez que vous êtes
+entrée par effraction ?
+
+663
+00:33:44,516 --> 00:33:45,668
+Restez ou vous êtes, Kelly.
+
+664
+00:33:45,788 --> 00:33:46,797
+Kelly ?
+
+665
+00:33:47,285 --> 00:33:48,336
+Je suis Sydney.
+
+666
+00:33:52,000 --> 00:33:53,686
+Maintenant, tuons-la.
+
+667
+00:33:54,022 --> 00:33:55,209
+Pas encore.
+
+668
+00:33:55,963 --> 00:33:58,051
+On doit d'abord
+découvrir ce qu'elle sait.
+
+669
+00:33:59,432 --> 00:34:01,206
+Je m'excuse pour mon frère.
+
+670
+00:34:01,864 --> 00:34:03,222
+Il est un peu grossier.
+
+671
+00:34:03,460 --> 00:34:05,836
+Vous pouvez toujours vous faire
+pardonner en me laissant partir.
+
+672
+00:34:05,956 --> 00:34:08,172
+Oh non, vous voyez,
+ça ne va pas être possible.
+
+673
+00:34:09,698 --> 00:34:10,878
+Alors euh...
+
+674
+00:34:11,171 --> 00:34:13,460
+Comment avez-vous tué
+votre "grand" grand frère, hein ?
+
+675
+00:34:14,111 --> 00:34:15,799
+Visiblement pas par la force brutale.
+
+676
+00:34:16,379 --> 00:34:19,299
+Regardez-vous en train de
+me pousser à faire une erreur.
+
+677
+00:34:19,669 --> 00:34:20,770
+Belle tentative.
+
+678
+00:34:21,969 --> 00:34:23,493
+Je n'ai pas d'égo
+
+679
+00:34:23,613 --> 00:34:24,622
+à meurtrir...
+
+680
+00:34:24,742 --> 00:34:25,760
+pour l'instant.
+
+681
+00:34:25,880 --> 00:34:27,354
+Vous voyez, Sydney n'est pas mort.
+
+682
+00:34:27,474 --> 00:34:29,180
+Il est là, avec moi, maintenant.
+
+683
+00:34:29,300 --> 00:34:31,400
+Oh ! Finis-en !
+
+684
+00:34:32,628 --> 00:34:34,194
+Ne m'interromps pas !
+
+685
+00:34:38,991 --> 00:34:40,701
+Vous voyez, nous ne pouvons pas être
+
+686
+00:34:40,821 --> 00:34:41,831
+trois.
+
+687
+00:34:42,992 --> 00:34:44,437
+Nous ne pouvons pas être deux.
+
+688
+00:34:44,935 --> 00:34:46,700
+Nous devons n'être qu'un.
+
+689
+00:34:48,120 --> 00:34:49,493
+L'intégration
+
+690
+00:34:49,750 --> 00:34:51,052
+est la seule solution.
+
+691
+00:34:51,960 --> 00:34:54,227
+C'est pour ça que vous avez
+recommencé à tuer, non ?
+
+692
+00:34:55,235 --> 00:34:57,502
+Pour pouvoir lever
+la condamnation de votre frère.
+
+693
+00:34:58,056 --> 00:35:00,287
+Le faire relâcher pour pouvoir...
+
+694
+00:35:00,588 --> 00:35:01,853
+l'intégrer.
+
+695
+00:35:02,764 --> 00:35:03,801
+Exactement.
+
+696
+00:35:04,100 --> 00:35:05,799
+Vous ne pensiez pas vous faire attraper.
+
+697
+00:35:05,919 --> 00:35:07,738
+Qui a dit que
+vous nous aviez attrappés ?
+
+698
+00:35:22,300 --> 00:35:24,151
+Fait quelque chose, Sydney !
+
+699
+00:35:49,500 --> 00:35:50,700
+Il a avoué.
+
+700
+00:35:52,057 --> 00:35:53,251
+C'est du bon travail.
+
+701
+00:35:55,176 --> 00:35:56,857
+A quel propos ?
+
+702
+00:35:57,415 --> 00:35:59,775
+Garder les choses en dehors
+de notre lieu de travail ?
+
+703
+00:36:00,269 --> 00:36:03,230
+Tu vois, c'est pour ça qu'on doit
+ramener cette paperasse à la maison,
+
+704
+00:36:03,934 --> 00:36:05,185
+on finira là-bas.
+
+705
+00:36:07,005 --> 00:36:10,189
+Ça veut dire que je dois résoudre une
+affaire chaque fois que j'ai envie de...
+
+706
+00:36:10,309 --> 00:36:11,310
+Non.
+
+707
+00:36:12,449 --> 00:36:14,573
+Mais tu dois admettre que
+ça ne fait pas de mal.
+
+708
+00:36:18,214 --> 00:36:19,730
+Il y a toujours... hum...
+
+709
+00:36:20,334 --> 00:36:22,923
+Il y a quelque chose qui
+cloche dans cette affaire, tu sais ?
+
+710
+00:36:24,000 --> 00:36:25,104
+Non... Ça va.
+
+711
+00:36:25,641 --> 00:36:28,299
+Mon préssentiment a payé,
+on a le bon type.
+
+712
+00:36:28,419 --> 00:36:30,925
+Ouais... Tu vois, tu souris maintenant,
+
+713
+00:36:31,190 --> 00:36:32,770
+mais dans 4 ans...
+
+714
+00:36:32,992 --> 00:36:34,900
+Le tueur va te faire aller droit dans une impasse
+
+715
+00:36:36,535 --> 00:36:38,644
+Tu vas te retrouver
+toute seule dans cet asile.
+
+716
+00:36:40,114 --> 00:36:41,344
+C'est exactement ça.
+
+717
+00:36:42,184 --> 00:36:44,366
+Tes intuitions vont finir
+par te faire tuer.
+
+718
+00:36:44,656 --> 00:36:47,116
+Non, mes intuitions me gardent
+en vie, au contraire.
+
+719
+00:36:47,321 --> 00:36:48,579
+Tu ne veux jamais écouter.
+
+720
+00:36:49,756 --> 00:36:51,794
+Tu veux toujours tout faire à ta façon.
+
+721
+00:36:52,830 --> 00:36:54,032
+Oui...
+
+722
+00:36:55,956 --> 00:36:58,200
+Parce que tu es toujours
+là pour me ramener.
+
+723
+00:37:02,600 --> 00:37:04,044
+Je ne suis pas là, maintenant.
+
+724
+00:37:29,692 --> 00:37:31,066
+Vous ne vous sentez pas bien ?
+
+725
+00:37:33,048 --> 00:37:34,543
+Quelqu'un m'a mis KO
+
+726
+00:37:34,965 --> 00:37:36,195
+Pauvre bébé.
+
+727
+00:37:38,349 --> 00:37:40,087
+Vicki Nelson est venue me voir.
+
+728
+00:37:42,178 --> 00:37:44,431
+Elle m'a raconté une drôle
+d'histoire à votre sujet.
+
+729
+00:37:46,000 --> 00:37:48,816
+Je ne peux pas vous forcer à croire
+ce que vous ne voulez pas croire.
+
+730
+00:37:49,199 --> 00:37:51,008
+Vous n'êtes pas medium, Charles.
+
+731
+00:37:51,826 --> 00:37:54,399
+Vous utilisez un imitateur comme
+excuse pour sortir de prison
+
+732
+00:37:54,519 --> 00:37:56,699
+ou Vicki pour brouiller l'enquête.
+
+733
+00:37:56,898 --> 00:37:58,164
+Enfin, admettez le.
+
+734
+00:37:58,284 --> 00:37:59,929
+Je ne mentirai pas pour vous satisfaire.
+
+735
+00:38:00,049 --> 00:38:02,800
+Des gens sont morts et tout ce
+qui vous importe, c'est vous-même.
+
+736
+00:38:03,440 --> 00:38:04,634
+Je suis en prison
+
+737
+00:38:04,754 --> 00:38:06,410
+pour un meurtre que quelqu'un d'autre...
+
+738
+00:38:06,530 --> 00:38:07,814
+quelqu'un d'autre a commis
+
+739
+00:38:07,934 --> 00:38:09,151
+parce que je pensais
+
+740
+00:38:09,271 --> 00:38:11,023
+que j'en étais le coupable.
+
+741
+00:38:18,513 --> 00:38:20,100
+Sydney va encore tuer.
+
+742
+00:38:20,551 --> 00:38:21,830
+Je le sens.
+
+743
+00:38:22,407 --> 00:38:23,573
+Vraiment ?
+
+744
+00:38:24,256 --> 00:38:25,493
+Et ça arrivera quand ?
+
+745
+00:38:25,737 --> 00:38:26,838
+Très bientôt.
+
+746
+00:38:26,958 --> 00:38:28,043
+Kelly est avec lui
+
+747
+00:38:28,229 --> 00:38:29,287
+ainsi que...
+
+748
+00:38:29,898 --> 00:38:30,921
+Ainsi que qui ?
+
+749
+00:38:31,336 --> 00:38:32,600
+Mlle... Mlle Nelson.
+
+750
+00:38:36,300 --> 00:38:37,320
+Vicki ?
+
+751
+00:38:37,599 --> 00:38:40,553
+Pouvez-vous... Pouvez-vous
+vous permettre de ne pas me croire ?
+
+752
+00:38:50,249 --> 00:38:51,479
+Inspecteur Celluci ?
+
+753
+00:38:52,463 --> 00:38:53,909
+Vicki est peut-être en danger.
+
+754
+00:38:54,029 --> 00:38:55,922
+Je serais plus surpris
+si elle ne l'était pas.
+
+755
+00:38:56,689 --> 00:38:58,280
+Je suis à 1h30 de la ville.
+
+756
+00:38:58,400 --> 00:38:59,814
+Allez-vous m'aider ou pas ?
+
+757
+00:39:00,115 --> 00:39:01,137
+Où est-elle ?
+
+758
+00:39:01,387 --> 00:39:03,196
+<i>Essayez l'institut
+pour enfants "Riverview."</i>
+
+759
+00:39:03,316 --> 00:39:04,844
+au 450 rue Carswell.
+
+760
+00:39:05,044 --> 00:39:07,101
+Kelly Perkins en est le concierge.
+
+761
+00:39:07,295 --> 00:39:09,204
+Je ne l'avais jamais
+réalisé avant, inspecteur,
+
+762
+00:39:09,324 --> 00:39:10,985
+mais nous avons quelque chose en commun.
+
+763
+00:39:11,467 --> 00:39:13,154
+<i>Elle nous rend tous les deux dingues.</i>
+
+764
+00:39:14,643 --> 00:39:15,773
+En permanence.
+
+765
+00:39:17,628 --> 00:39:19,300
+Encore une chose, Fitzroy :
+
+766
+00:39:20,712 --> 00:39:22,580
+n'essayez plus d'entrer dans ma tête.
+
+767
+00:39:22,798 --> 00:39:24,221
+Croyez-moi, inspecteur,
+
+768
+00:39:24,750 --> 00:39:27,074
+c'est bien le dernier endroit
+où je veuille aller.
+
+769
+00:39:38,279 --> 00:39:40,267
+Vous devriez appeller
+la hot-psy-line de votre pote
+
+770
+00:39:40,387 --> 00:39:41,773
+pour nous donner du temps !
+
+771
+00:39:44,963 --> 00:39:46,280
+Il me rejette.
+
+772
+00:39:46,400 --> 00:39:47,451
+Oh, pour...
+
+773
+00:39:50,400 --> 00:39:52,180
+Vous êtes connecté
+à vos frères, pas vrai ?
+
+774
+00:39:52,549 --> 00:39:55,533
+Donc ce que vous ressentez, ils le
+ressentent, c'est ça ? Et vice-versa ?
+
+775
+00:40:00,056 --> 00:40:01,751
+Reste en dehors de ça, Charles !
+
+776
+00:40:04,063 --> 00:40:05,093
+Plus fort.
+
+777
+00:40:05,565 --> 00:40:06,566
+Plus fort !
+
+778
+00:40:15,247 --> 00:40:16,262
+Sydney !
+
+779
+00:40:16,672 --> 00:40:17,702
+Tue-la !
+
+780
+00:40:28,735 --> 00:40:29,751
+Vicki !
+
+781
+00:40:31,263 --> 00:40:34,195
+Vous voyez, je vous avais dit que
+je pouvais me débrouiller toute seule.
+
+782
+00:40:35,399 --> 00:40:36,765
+On doit vous faire sortir de là.
+
+783
+00:40:39,907 --> 00:40:42,596
+Je suis désolée pour tout ce truc...
+
+784
+00:40:42,716 --> 00:40:45,478
+de boire votre sang et
+de rituel de magie noire.
+
+785
+00:40:45,598 --> 00:40:47,020
+- Vraiment.
+- Excuses acceptées.
+
+786
+00:40:47,897 --> 00:40:49,561
+Je ne peux pas continuer comme ça.
+
+787
+00:40:49,681 --> 00:40:50,694
+Moi non plus.
+
+788
+00:40:54,192 --> 00:40:56,000
+Où sont mes lunettes ?
+
+789
+00:40:57,406 --> 00:40:59,330
+Je suis sûr que
+vous en avez une autre paire.
+
+790
+00:41:01,628 --> 00:41:02,965
+Ils sont morts tous les deux.
+
+791
+00:41:03,900 --> 00:41:06,109
+Kelly a empoisonné Sydney
+il y a deux jours.
+
+792
+00:41:07,700 --> 00:41:09,339
+La manière dont il l'a tué a causé
+
+793
+00:41:09,459 --> 00:41:12,281
+une rupture psychique et
+une séparation de personnalités.
+
+794
+00:41:15,142 --> 00:41:17,116
+Kelly et Sydney sont devenus
+une seule personne.
+
+795
+00:41:17,500 --> 00:41:19,200
+D'une certaine façon, oui.
+
+796
+00:41:22,150 --> 00:41:23,651
+Que va-t-il se passer maintenant ?
+
+797
+00:41:25,000 --> 00:41:28,639
+Les preuves à l'institut vont vous
+disculper du meurtre d'Allison Cohen.
+
+798
+00:41:28,759 --> 00:41:29,888
+Vous serez libéré.
+
+799
+00:41:32,700 --> 00:41:33,900
+Donc je suis libre ?
+
+800
+00:41:34,300 --> 00:41:36,001
+Pas tout de suite, mais bientôt.
+
+801
+00:41:42,000 --> 00:41:43,300
+Merci, Mlle Nelson.
+
+802
+00:41:46,163 --> 00:41:48,080
+Hé, Charles, j'ai encore une question.
+
+803
+00:41:49,549 --> 00:41:51,744
+Si Kelly a senti les coups que
+Celluci vous donnait,
+
+804
+00:41:52,200 --> 00:41:54,301
+comment n'avez-vous pas senti
+la mort de Sydney ?
+
+805
+00:41:55,285 --> 00:41:56,894
+Parce que Sydney n'est pas mort.
+
+806
+00:41:57,263 --> 00:41:58,887
+Il s'est intégré à l'esprit de Kelly.
+
+807
+00:42:02,521 --> 00:42:03,800
+Au revoir, inspecteur.
+
+808
+00:42:10,400 --> 00:42:11,900
+À bientôt, les garçons...
+
+809
+00:42:12,595 --> 00:42:14,525
+Traduction :
+Vivie31, Abricot92 et jganakin
+
+810
+00:42:14,645 --> 00:42:16,320
+Relecture/resynchro :
+Val64 et jganakin
+
+811
+00:42:16,521 --> 00:42:17,972
+Version 1.01
+
+812
+00:42:18,165 --> 00:42:19,960
+Blood Team
+
+813
+00:42:20,196 --> 00:42:22,320
+www.seriessub.com
+

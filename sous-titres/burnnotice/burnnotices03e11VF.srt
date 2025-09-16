@@ -1,0 +1,3246 @@
+1
+00:00:00,396 --> 00:00:01,834
+<i>Mon nom est Michael Westen.</i>
+
+2
+00:00:02,002 --> 00:00:04,262
+<i>J'étais agent secret
+jusqu'à ce que...</i>
+
+3
+00:00:04,713 --> 00:00:07,131
+<i>On a une Burn Notice sur vous.
+Vous êtes sur liste noire.</i>
+
+4
+00:00:07,697 --> 00:00:09,901
+<i>Une fois grillé,
+vous n'avez plus rien...</i>
+
+5
+00:00:10,026 --> 00:00:12,219
+<i>Plus d'argent, de réputation,
+un CV vierge.</i>
+
+6
+00:00:12,387 --> 00:00:14,680
+<i>Vous êtes coincé dans la ville
+où ils vous ont largué.</i>
+
+7
+00:00:14,805 --> 00:00:16,181
+- Je suis où ?
+- Miami.
+
+8
+00:00:16,966 --> 00:00:19,123
+<i>Vous faites le 1er boulot
+qui se présente.</i>
+
+9
+00:00:20,020 --> 00:00:22,563
+<i>Vous comptez sur ceux</i>
+<i>qui vous parlent encore...</i>
+
+10
+00:00:23,166 --> 00:00:25,524
+- <i>Une ex folle de la gâchette.</i>
+- On les bute ?
+
+11
+00:00:25,801 --> 00:00:28,402
+<i>Un vieil ami
+qui mouchardait sur vous au FBI.</i>
+
+12
+00:00:28,570 --> 00:00:30,780
+Ah, les agents secrets...
+Tous des petites salopes.
+
+13
+00:00:31,120 --> 00:00:32,894
+- <i>La famille...</i>
+- Encore ta mère ?
+
+14
+00:00:33,019 --> 00:00:35,409
+- <i>... si vous êtes désespéré.</i>
+- On a besoin de toi.
+
+15
+00:00:35,849 --> 00:00:38,037
+<i>En gros, tant que vous êtes grillé,</i>
+
+16
+00:00:38,422 --> 00:00:39,914
+<i>vous n'allez nulle part.</i>
+
+17
+00:00:47,704 --> 00:00:49,269
+<i>Dans le monde du renseignement,</i>
+
+18
+00:00:49,394 --> 00:00:52,510
+<i>donner rendez-vous près d'une piscine
+est un signe de paix.</i>
+
+19
+00:00:53,188 --> 00:00:56,514
+<i>Celui que vous rencontrez
+vous offre plusieurs portes de sortie,</i>
+
+20
+00:00:56,755 --> 00:00:58,140
+<i>comme se mêler à une foule</i>
+
+21
+00:00:58,886 --> 00:01:01,268
+<i>et la quasi-certitude
+que personne ne dissimule</i>
+
+22
+00:01:01,511 --> 00:01:03,339
+<i>une arme dans son maillot de bain.</i>
+
+23
+00:01:03,730 --> 00:01:06,190
+<i>Mais si vous rencontrez
+le genre de personne qui arrange</i>
+
+24
+00:01:06,358 --> 00:01:09,797
+<i>des coups d'État pour vivre,
+c'est une bonne idée d'avoir du renfort.</i>
+
+25
+00:01:09,922 --> 00:01:11,122
+Du champagne ?
+
+26
+00:01:15,701 --> 00:01:18,994
+Pourquoi on vient dans de tels endroits
+que pour faire de la surveillance ?
+
+27
+00:01:19,689 --> 00:01:23,089
+Je vois personne qui semble là
+uniquement pour une rencontre.
+
+28
+00:01:23,584 --> 00:01:26,233
+Pourquoi tu veux rencontrer Gilroy ?
+Il paraît aussi mauvais
+
+29
+00:01:26,358 --> 00:01:28,643
+- que ceux qui t'ont grillé.
+- Il est pire.
+
+30
+00:01:28,922 --> 00:01:31,203
+A priori, ils vendaient pas
+des secrets nucléaires
+
+31
+00:01:31,328 --> 00:01:32,964
+à quiconque sait signer un chèque.
+
+32
+00:01:33,089 --> 00:01:36,053
+Pour un bon prix,
+Gilroy est capable de tout.
+
+33
+00:01:36,500 --> 00:01:40,069
+Ce qui fait que ce rendez-vous
+n'est pas une bonne idée, à mon avis.
+
+34
+00:01:40,194 --> 00:01:42,225
+S'il est à Miami,
+c'est qu'il prévoit un coup.
+
+35
+00:01:42,350 --> 00:01:45,629
+- Je dois découvrir quoi.
+- Gilroy a tué ton contact à la CIA.
+
+36
+00:01:45,754 --> 00:01:47,509
+C'est bien pour ça, Fi.
+
+37
+00:01:48,995 --> 00:01:51,193
+C'est un psychopathe en freelance.
+
+38
+00:01:51,361 --> 00:01:54,286
+Et moi seul suis en position
+de pouvoir y remédier.
+
+39
+00:01:56,198 --> 00:01:57,199
+Surveille-nous.
+
+40
+00:02:16,055 --> 00:02:18,554
+GILROY
+PSYCHOPATHE EN FREELANCE
+
+41
+00:02:22,192 --> 00:02:24,390
+On dit que les yeux
+sont le reflet de l'âme,
+
+42
+00:02:24,515 --> 00:02:25,895
+mais pour moi, les mains...
+
+43
+00:02:26,178 --> 00:02:27,730
+en disent bien plus.
+
+44
+00:02:27,898 --> 00:02:28,898
+Et vous...
+
+45
+00:02:29,733 --> 00:02:31,733
+Vous avez les mains
+d'un travailleur.
+
+46
+00:02:32,032 --> 00:02:33,749
+J'ai jamais eu peur de les salir.
+
+47
+00:02:33,874 --> 00:02:35,340
+C'est ce que j'ai entendu.
+
+48
+00:02:36,246 --> 00:02:38,380
+L'homme de la Compagnie
+qui tourne mal.
+
+49
+00:02:38,806 --> 00:02:40,868
+Je dois avouer,
+je vous trouve fascinant.
+
+50
+00:02:41,036 --> 00:02:43,788
+- Vous dites ça à toutes les filles.
+- Seulement celles que j'aime.
+
+51
+00:02:43,956 --> 00:02:45,623
+- Je suis flatté.
+- Vous pouvez.
+
+52
+00:02:45,791 --> 00:02:48,282
+La plupart des gens m'ennuient,
+surtout les Américains.
+
+53
+00:02:48,407 --> 00:02:51,524
+Toujours rendre compte à sa hiérarchie,
+ou écrire un rapport.
+
+54
+00:02:51,743 --> 00:02:53,088
+Tout doit être à sa place.
+
+55
+00:02:53,577 --> 00:02:55,630
+Malgré vos discours
+d'individualisme farouche,
+
+56
+00:02:55,755 --> 00:02:58,274
+d'après mon expérience,
+c'est une nation de moutons,
+
+57
+00:02:58,728 --> 00:03:00,763
+à part vous-même, bien sûr.
+
+58
+00:03:00,931 --> 00:03:01,820
+Bien sûr.
+
+59
+00:03:01,945 --> 00:03:03,808
+Et vous ?
+Comment vous aimez travailler ?
+
+60
+00:03:03,976 --> 00:03:06,811
+Je vois une opportunité, je la saisis.
+C'est plus simple, plus amusant.
+
+61
+00:03:06,979 --> 00:03:08,395
+On semble se ressembler.
+
+62
+00:03:08,563 --> 00:03:10,353
+Un associé m'a déjà dit ça.
+
+63
+00:03:10,478 --> 00:03:11,482
+Tom Strickler.
+
+64
+00:03:11,650 --> 00:03:13,098
+Vous le connaissez, non ?
+
+65
+00:03:13,223 --> 00:03:14,273
+C'est vrai.
+
+66
+00:03:14,545 --> 00:03:15,569
+Vous l'avez tué.
+
+67
+00:03:16,725 --> 00:03:18,025
+Je suis curieux.
+
+68
+00:03:18,280 --> 00:03:20,091
+Qu'est-ce qui vous a poussé à...
+
+69
+00:03:21,400 --> 00:03:23,340
+Je faisais le taf.
+Il encaissait le fric.
+
+70
+00:03:23,465 --> 00:03:25,454
+J'ai juste décidé
+d'éliminer l'intermédiaire.
+
+71
+00:03:25,622 --> 00:03:27,222
+Et vous l'avez éliminé.
+
+72
+00:03:27,819 --> 00:03:30,079
+Malheureusement,
+ça a rendu un agent de la CIA
+
+73
+00:03:30,204 --> 00:03:32,315
+curieux des affaires de Strickler.
+
+74
+00:03:32,440 --> 00:03:34,713
+Et comme j'étais
+en affaires avec Strickler...
+
+75
+00:03:34,983 --> 00:03:37,466
+Vous vous êtes arrangé
+pour qu'il passe par une fenêtre.
+
+76
+00:03:39,496 --> 00:03:42,471
+J'ai remarqué que vous étiez venu
+sur les lieux. Pourquoi ?
+
+77
+00:03:42,639 --> 00:03:45,562
+Ce n'était pas que votre problème.
+J'étais aussi en affaires avec lui.
+
+78
+00:03:45,687 --> 00:03:48,060
+On a beaucoup en commun.
+Pourquoi ne pas collaborer ?
+
+79
+00:03:48,228 --> 00:03:49,228
+C'est tentant.
+
+80
+00:03:49,549 --> 00:03:51,110
+Mais vous étiez un boyscout.
+
+81
+00:03:51,235 --> 00:03:53,899
+Et le projet sur lequel je travaille
+n'est pas pour les boyscouts.
+
+82
+00:03:54,067 --> 00:03:56,839
+J'ai déjà vécu tout ça,
+et je sais où ça vous mène.
+
+83
+00:03:56,964 --> 00:03:58,939
+C'est pour ça
+que j'ai changé de méthode.
+
+84
+00:03:59,064 --> 00:04:00,739
+50 % d'avance.
+
+85
+00:04:03,690 --> 00:04:06,996
+Je ne suis pas sûr d'être prêt à ça.
+Je dois encore mieux vous connaître,
+
+86
+00:04:07,615 --> 00:04:09,290
+je dois tout connaître de vous...
+
+87
+00:04:09,458 --> 00:04:11,500
+Et de votre amie là-haut.
+
+88
+00:04:23,055 --> 00:04:24,638
+Le champagne est pour moi.
+
+89
+00:04:27,267 --> 00:04:29,059
+Yogurt Team
+
+90
+00:04:42,293 --> 00:04:43,843
+Qu'est-ce qui se passe ?
+
+91
+00:04:44,045 --> 00:04:45,095
+Je déménage.
+
+92
+00:04:45,539 --> 00:04:46,910
+- T'as un appart.
+- Ouais.
+
+93
+00:04:47,035 --> 00:04:48,829
+Je vais chez Mlle Reynolds
+et sa mère.
+
+94
+00:04:48,997 --> 00:04:50,873
+Elle est pas un peu énervée
+à cause...
+
+95
+00:04:51,041 --> 00:04:54,077
+L'histoire de la voiture défoncée ?
+Bien sûr,
+
+96
+00:04:54,202 --> 00:04:56,420
+mais il arrive qu'une perte
+rapproche les gens.
+
+97
+00:04:57,547 --> 00:05:00,136
+J'espère que ta mère me laissera garder
+certains de ces trucs.
+
+98
+00:05:00,261 --> 00:05:01,782
+Ça part dans un garde-meubles.
+
+99
+00:05:01,907 --> 00:05:03,886
+Il se peut
+que des trucs t'intéressent.
+
+100
+00:05:04,128 --> 00:05:05,012
+Regarde ça.
+
+101
+00:05:05,180 --> 00:05:06,947
+Ça serait génial chez toi.
+
+102
+00:05:07,808 --> 00:05:08,808
+Ou pas.
+
+103
+00:05:09,267 --> 00:05:10,559
+Comment ça s'est passé ?
+
+104
+00:05:10,727 --> 00:05:13,228
+Gilroy bossera pas avec moi
+tant qu'il sera pas sûr.
+
+105
+00:05:13,632 --> 00:05:15,914
+Ta foutue Burn Notice
+va dans ce sens.
+
+106
+00:05:16,039 --> 00:05:17,704
+Il est prudent.
+Il enquête sur moi.
+
+107
+00:05:17,829 --> 00:05:20,436
+Il va regarder mon dossier,
+garder un œil sur moi.
+
+108
+00:05:20,561 --> 00:05:22,488
+Je dois m'assurer
+qu'il aime ce qu'il voit.
+
+109
+00:05:22,656 --> 00:05:24,525
+Mais jouer un franc-tireur,
+
+110
+00:05:24,650 --> 00:05:27,117
+après ce que t'as fait
+pour blanchir ton nom... T'es sûr ?
+
+111
+00:05:27,285 --> 00:05:29,390
+Je suis déjà hors jeu.
+Et si c'est nécessaire
+
+112
+00:05:29,515 --> 00:05:32,040
+pour approcher Gilroy,
+j'ai pas trop le choix.
+
+113
+00:05:33,048 --> 00:05:35,334
+Tu as de la visite.
+Un ancien ami à toi.
+
+114
+00:05:46,596 --> 00:05:47,429
+Mack.
+
+115
+00:05:48,360 --> 00:05:49,360
+Salut.
+
+116
+00:05:50,476 --> 00:05:51,513
+Ça fait un bail.
+
+117
+00:05:51,638 --> 00:05:54,436
+MACK
+VIEIL AMI DE SAM
+
+118
+00:05:56,789 --> 00:05:57,889
+C'est bon.
+
+119
+00:05:58,657 --> 00:05:59,751
+Je l'ai mérité.
+
+120
+00:05:59,876 --> 00:06:02,736
+MACK
+ANCIEN AMI DE SAM
+
+121
+00:06:05,407 --> 00:06:06,407
+Du calme.
+
+122
+00:06:07,363 --> 00:06:08,951
+Celui-là aussi, je présume.
+
+123
+00:06:09,421 --> 00:06:10,661
+D'accord, écoute...
+
+124
+00:06:12,207 --> 00:06:14,915
+Je sais qu'on a eu nos différends,
+mais j'ai besoin d'aide.
+
+125
+00:06:16,038 --> 00:06:17,626
+Je peux te payer une bière ?
+
+126
+00:06:18,641 --> 00:06:19,641
+S'il te plaît.
+
+127
+00:06:19,921 --> 00:06:21,721
+Je suis pas d'humeur à ça.
+
+128
+00:06:27,944 --> 00:06:29,044
+Qui est-ce ?
+
+129
+00:06:30,108 --> 00:06:32,496
+On a servi ensemble
+lorsque j'étais un SEAL.
+
+130
+00:06:32,621 --> 00:06:35,978
+- T'as pas l'air ravi de le revoir.
+- On a eu quelques désaccords.
+
+131
+00:06:37,508 --> 00:06:39,058
+Tu veux m'en parler ?
+
+132
+00:06:42,024 --> 00:06:43,474
+Désolé, Mike. Je...
+
+133
+00:06:45,817 --> 00:06:48,199
+Je vais peut-être le laisser
+me payer une bière.
+
+134
+00:06:49,139 --> 00:06:50,239
+Ça va aller.
+
+135
+00:06:58,609 --> 00:07:01,128
+Tu as reparlé
+à certains des gars de l'unité ?
+
+136
+00:07:01,680 --> 00:07:03,213
+Les SEALs ont fait leur chemin.
+
+137
+00:07:03,381 --> 00:07:05,632
+Arrête de bavarder.
+Pourquoi t'es là ?
+
+138
+00:07:09,705 --> 00:07:10,705
+D'accord.
+
+139
+00:07:12,521 --> 00:07:13,821
+Voilà le problème.
+
+140
+00:07:14,704 --> 00:07:16,991
+Après la Marine,
+je suis entré à la police de Houston.
+
+141
+00:07:17,116 --> 00:07:19,146
+Au service
+des enlèvements d'enfants.
+
+142
+00:07:19,564 --> 00:07:21,315
+En général, c'est la même histoire.
+
+143
+00:07:21,649 --> 00:07:25,645
+Des parents séparés enlèvent un gamin
+pour une raison stupide.
+
+144
+00:07:27,197 --> 00:07:28,793
+Mais de temps en temps,
+
+145
+00:07:29,860 --> 00:07:33,285
+tu tombes sur un prédateur.
+Et celui-ci est le pire que j'aie vu.
+
+146
+00:07:33,724 --> 00:07:34,995
+Il s'appelle Rincon.
+
+147
+00:07:35,163 --> 00:07:39,041
+J'ai monté tout un dossier,
+assez pour qu'il prenne 3 fois perpète.
+
+148
+00:07:39,209 --> 00:07:41,675
+On est allé chez lui pour l'arrêter,
+on a défoncé la porte,
+
+149
+00:07:41,800 --> 00:07:43,712
+et tout a explosé.
+
+150
+00:07:44,257 --> 00:07:46,715
+J'ai perdu deux de mes meilleurs hommes
+ce jour-là.
+
+151
+00:07:48,231 --> 00:07:49,093
+Désolé.
+
+152
+00:07:49,261 --> 00:07:50,760
+Il y a eu un rapport.
+
+153
+00:07:50,929 --> 00:07:54,807
+Je n'aurais pas supervisé l'équipe
+correctement. Mais c'est faux.
+
+154
+00:07:54,975 --> 00:07:56,350
+Ils m'ont suspendu.
+
+155
+00:07:56,518 --> 00:07:59,019
+- Il lui est arrivé quoi ?
+- Ils ont trouvé des restes.
+
+156
+00:07:59,187 --> 00:08:00,588
+Rien de concluant.
+
+157
+00:08:00,713 --> 00:08:02,373
+L'officier n'a pas voulu admettre
+
+158
+00:08:02,498 --> 00:08:04,900
+qu'il se soit échappé,
+donc ils ont clos l'affaire.
+
+159
+00:08:05,409 --> 00:08:07,569
+- Et tu penses qu'il est vivant ?
+- J'en suis sûr.
+
+160
+00:08:07,737 --> 00:08:10,243
+Rincon savait qu'il allait tomber,
+donc il a simulé sa mort,
+
+161
+00:08:10,368 --> 00:08:12,241
+et j'ai retrouvé
+ce fils de pute à Miami.
+
+162
+00:08:12,569 --> 00:08:14,827
+Tu l'arrêtes, et tu blanchis ton nom.
+C'est l'idée ?
+
+163
+00:08:18,163 --> 00:08:21,126
+Si je tombe,
+toutes mes affaires partent en fumée,
+
+164
+00:08:21,251 --> 00:08:23,127
+et plein de pourris s'en sortent.
+
+165
+00:08:28,817 --> 00:08:29,675
+Désolé.
+
+166
+00:08:30,791 --> 00:08:32,136
+J'aurais pas dû demander.
+
+167
+00:08:33,805 --> 00:08:35,556
+Donc ça serait un boulot pour deux ?
+
+168
+00:08:37,289 --> 00:08:39,143
+Ou pour un 3e,
+si tu connais quelqu'un.
+
+169
+00:08:39,311 --> 00:08:41,770
+Je connais, mais je l'appellerais pas
+"le 3e homme".
+
+170
+00:08:42,324 --> 00:08:43,324
+Merci.
+
+171
+00:08:47,017 --> 00:08:48,975
+- Pour notre querelle...
+- N'en parlons pas.
+
+172
+00:08:49,100 --> 00:08:50,362
+On fait ça, tu rentres.
+
+173
+00:08:50,530 --> 00:08:52,364
+- C'est tout.
+- Ça marche.
+
+174
+00:09:00,332 --> 00:09:02,207
+- Je peux t'aider ?
+- Tu vas bien ?
+
+175
+00:09:04,169 --> 00:09:05,836
+Quel coup bas donné à ton ami.
+
+176
+00:09:06,375 --> 00:09:08,422
+Il mérite plus que ça, crois-moi.
+
+177
+00:09:08,590 --> 00:09:09,840
+Il s'est passé quoi ?
+
+178
+00:09:10,212 --> 00:09:11,550
+Rien qui te regarde.
+
+179
+00:09:12,800 --> 00:09:14,057
+Ça me regarde,
+
+180
+00:09:14,182 --> 00:09:16,741
+car je t'avais jamais vu
+comme ça avant.
+
+181
+00:09:16,866 --> 00:09:19,766
+Et tu fais un job avec lui.
+Peux-tu lui faire confiance ?
+
+182
+00:09:19,934 --> 00:09:22,297
+Nos problèmes sont pas professionnels,
+mais personnels,
+
+183
+00:09:22,422 --> 00:09:24,688
+c'est pourquoi
+je veux que tu restes à l'écart.
+
+184
+00:09:48,401 --> 00:09:50,505
+Comment savoir
+si Rincon va se montrer ?
+
+185
+00:09:51,508 --> 00:09:53,780
+Rincon importait de la drogue
+depuis Mexico,
+
+186
+00:09:53,905 --> 00:09:56,531
+et j'ai gardé la trace
+de ses anciens contacts.
+
+187
+00:09:56,978 --> 00:09:58,528
+J'ai intercepté un appel,
+
+188
+00:09:59,190 --> 00:10:01,228
+il a rendez-vous ici aujourd'hui.
+
+189
+00:10:01,353 --> 00:10:03,018
+Pourquoi tu vois pas le procureur ?
+
+190
+00:10:03,411 --> 00:10:05,604
+Ils sont assez malins
+pour ne pas nommer le gars.
+
+191
+00:10:05,772 --> 00:10:08,322
+Et l'écoute
+n'est pas vraiment légale.
+
+192
+00:10:10,363 --> 00:10:11,963
+<i>Notre invité est arrivé.</i>
+
+193
+00:10:13,051 --> 00:10:15,697
+<i>Il ressemble encore plus
+à un prédateur d'enfants</i>
+
+194
+00:10:15,865 --> 00:10:18,181
+<i>et tueur de flics que sur sa photo.</i>
+
+195
+00:10:18,388 --> 00:10:21,328
+RINCON
+PRÉDATEUR D'ENFANTS ET TUEUR DE FLICS
+
+196
+00:10:24,770 --> 00:10:25,770
+Très bien.
+
+197
+00:10:27,374 --> 00:10:28,574
+Tu bouges pas.
+
+198
+00:10:28,699 --> 00:10:30,045
+Faut pas l'effrayer.
+
+199
+00:10:35,093 --> 00:10:39,054
+<i>La surveillance de voisinage
+est une bonne idée dans les banlieues.</i>
+
+200
+00:10:39,331 --> 00:10:42,391
+<i>Mais vous la voyez plus en action
+au cœur des villes.</i>
+
+201
+00:10:42,684 --> 00:10:44,768
+<i>Seulement,
+ça ne protège pas du crime.</i>
+
+202
+00:10:45,716 --> 00:10:47,521
+<i>Ça protège des flics.</i>
+
+203
+00:10:48,231 --> 00:10:50,357
+<i>Tout comme la police
+a des chiens antidrogue,</i>
+
+204
+00:10:50,961 --> 00:10:54,069
+<i>certains quartiers
+ont des enfants antiflics.</i>
+
+205
+00:10:54,873 --> 00:10:56,280
+<i>Quand l'alarme est donnée,</i>
+
+206
+00:10:56,448 --> 00:10:59,074
+<i>l'activité criminelle s'arrête
+tel un pique-nique sous la pluie.</i>
+
+207
+00:11:01,077 --> 00:11:03,620
+<i>Et les fugitifs
+courent comme des lapins.</i>
+
+208
+00:11:09,519 --> 00:11:10,519
+Chewing-gum ?
+
+209
+00:11:11,253 --> 00:11:12,212
+<i>Policia</i> ?
+
+210
+00:11:15,580 --> 00:11:17,320
+- Il croit qu'on est flics.
+- Ça pue.
+
+211
+00:11:17,445 --> 00:11:19,761
+Si Rincon croit
+que les flics sont là, il va se barrer.
+
+212
+00:11:21,321 --> 00:11:23,934
+On a qu'à leur montrer
+qu'on est pas flics.
+
+213
+00:11:30,249 --> 00:11:31,523
+Vous matez quoi ?
+
+214
+00:11:33,026 --> 00:11:34,526
+Tu veux te magner, sœurette ?
+
+215
+00:11:34,694 --> 00:11:36,194
+Arrête de me distraire !
+
+216
+00:11:45,955 --> 00:11:48,985
+- Vous avez volé cette caisse ?
+- Tu voulais qu'on fasse quoi ?
+
+217
+00:11:49,110 --> 00:11:51,626
+On devait prouver qu'on était pas flics.
+T'as vu le quartier.
+
+218
+00:11:51,794 --> 00:11:53,544
+C'est une zone défendue aux <i>gringos</i>.
+
+219
+00:11:54,714 --> 00:11:57,444
+Je sais que t'es préoccupé
+par l'affaire Gilroy.
+
+220
+00:11:57,967 --> 00:11:59,469
+Il devient fatigant.
+
+221
+00:11:59,816 --> 00:12:03,513
+Si Michael a du temps pour Gilroy,
+il a du temps pour un prédateur.
+
+222
+00:12:05,987 --> 00:12:07,707
+Quel est le problème ?
+
+223
+00:12:07,832 --> 00:12:10,812
+On ne se fond pas dans le voisinage
+où se cache Rincon.
+
+224
+00:12:10,980 --> 00:12:14,691
+Au premier mouvement, les locaux
+ont crié aux flics, et il s'est barré.
+
+225
+00:12:14,859 --> 00:12:16,399
+Une fois sorti des ruelles...
+
+226
+00:12:16,524 --> 00:12:19,446
+Si tu fais un pas dans l'avenue,
+t'as comme un projecteur sur toi.
+
+227
+00:12:19,614 --> 00:12:21,468
+Est-il possible
+que Rincon ressurgisse ?
+
+228
+00:12:21,593 --> 00:12:23,075
+Non, c'est notre seule chance.
+
+229
+00:12:23,243 --> 00:12:25,660
+- C'est fini à moins...
+- Il est encore dans le coin.
+
+230
+00:12:25,828 --> 00:12:27,245
+Si on ne peut l'observer...
+
+231
+00:12:27,413 --> 00:12:29,498
+Quelqu'un du quartier
+le fera pour nous,
+
+232
+00:12:30,205 --> 00:12:32,949
+quelqu'un qui sait tout du coin,
+que Rincon ne verra pas venir.
+
+233
+00:12:33,074 --> 00:12:36,046
+Mike a raison. Le gang local
+connaît le quartier comme personne.
+
+234
+00:12:36,214 --> 00:12:39,758
+Quelqu'un au sommet doit avoir
+des yeux et des oreilles partout.
+
+235
+00:12:39,926 --> 00:12:41,899
+- Il pourra trouver Rincon.
+- Minute, tu dis
+
+236
+00:12:42,024 --> 00:12:43,970
+qu'on va se faire aider
+d'un gang du coin ?
+
+237
+00:12:44,500 --> 00:12:45,597
+Tu as mieux ?
+
+238
+00:12:55,257 --> 00:12:58,568
+Mon pote m'a filé quelques dossiers
+sur le quartier.
+
+239
+00:12:58,736 --> 00:13:01,363
+Le leader du gang local
+s'appelle Omar Hernandez.
+
+240
+00:13:01,531 --> 00:13:03,205
+Sa bande contrôle le quartier.
+
+241
+00:13:03,825 --> 00:13:05,757
+Il a commencé
+par les trucs classiques.
+
+242
+00:13:05,882 --> 00:13:07,786
+Vols de voiture, trafic d'armes.
+
+243
+00:13:07,911 --> 00:13:09,663
+C'est quoi, son business,
+maintenant ?
+
+244
+00:13:09,978 --> 00:13:12,791
+Il doit revendre de la drogue.
+Ses gars surveillent la police.
+
+245
+00:13:12,959 --> 00:13:14,875
+Il deale,
+mais pas le genre habituel.
+
+246
+00:13:15,000 --> 00:13:18,700
+Tu as aspirine, antirhume,
+aliments pour bébés.
+
+247
+00:13:19,337 --> 00:13:22,829
+Omar est le suspect nº 1 dans une série
+de cambriolages d'entrepôts.
+
+248
+00:13:22,954 --> 00:13:24,928
+Tu vois,
+les <i>bodegas </i>servent de devanture.
+
+249
+00:13:25,096 --> 00:13:27,222
+On a un vrai Robin des Bois.
+
+250
+00:13:27,390 --> 00:13:29,055
+Il sait prendre soin des affaires.
+
+251
+00:13:29,180 --> 00:13:32,146
+Sa dernière arrestation
+est pour le passage à tabac d'un type
+
+252
+00:13:32,271 --> 00:13:34,104
+qui cognait sa copine.
+
+253
+00:13:34,272 --> 00:13:35,662
+Quoi, tu défends ce gars ?
+
+254
+00:13:35,787 --> 00:13:38,650
+Tu crois que le voisinage
+est protégé par les flics ?
+
+255
+00:13:38,818 --> 00:13:41,903
+C'est un voyou. Le convaincre
+de trouver Rincon sera pas simple.
+
+256
+00:13:42,217 --> 00:13:44,367
+Je vais être très convaincant.
+
+257
+00:13:49,996 --> 00:13:52,938
+<i>Dans une armée,
+la hiérarchie est alertée</i>
+
+258
+00:13:53,063 --> 00:13:54,708
+<i>lors d'événements inhabituels.</i>
+
+259
+00:13:54,967 --> 00:13:56,501
+<i>Des chars réunis à la frontière,</i>
+
+260
+00:13:57,044 --> 00:13:59,489
+<i>le piratage d'un ordinateur central,</i>
+
+261
+00:13:59,614 --> 00:14:01,714
+<i>les assassinats de personnes clés.</i>
+
+262
+00:14:02,465 --> 00:14:05,117
+<i>La hiérarchie d'un gang de rue
+n'est pas différente.</i>
+
+263
+00:14:05,242 --> 00:14:06,845
+<i>Se montrer dans une voiture volée</i>
+
+264
+00:14:07,116 --> 00:14:10,432
+<i>et faire une entrée fracassante
+enverra un message au plus haut.</i>
+
+265
+00:14:11,497 --> 00:14:12,817
+Je recherche Omar.
+
+266
+00:14:13,822 --> 00:14:15,312
+On recherchait cette caisse.
+
+267
+00:14:17,051 --> 00:14:18,206
+Vous l'avez trouvée.
+
+268
+00:14:20,719 --> 00:14:23,195
+Désolé.
+On connaît pas d'Omar.
+
+269
+00:14:27,605 --> 00:14:29,805
+Je vais attendre Omar ici.
+
+270
+00:14:50,890 --> 00:14:53,090
+Voilà le roi du quartier.
+
+271
+00:14:53,215 --> 00:14:55,517
+OMAR
+ROI DU QUARTIER
+
+272
+00:15:08,977 --> 00:15:10,109
+Sympa, le costard.
+
+273
+00:15:11,692 --> 00:15:13,078
+T'es qui, le diable ?
+
+274
+00:15:13,246 --> 00:15:14,746
+Appelle-moi comme tu veux,
+
+275
+00:15:14,914 --> 00:15:16,464
+mais mon nom est Louis.
+
+276
+00:15:17,859 --> 00:15:19,429
+Dérouille-le, Omar.
+
+277
+00:15:23,684 --> 00:15:24,965
+Que veux-tu, Louis ?
+
+278
+00:15:25,271 --> 00:15:28,321
+Un certain Rincon
+se cache dans ton quartier.
+
+279
+00:15:28,988 --> 00:15:30,303
+Tu vas me le trouver.
+
+280
+00:15:30,471 --> 00:15:31,471
+Pourquoi ça ?
+
+281
+00:15:31,819 --> 00:15:34,319
+Son boulot
+est de blesser des enfants,
+
+282
+00:15:35,703 --> 00:15:39,187
+- quand le tien est de les protéger.
+- T'en sais beaucoup sur moi.
+
+283
+00:15:39,355 --> 00:15:40,730
+Je sais rien de toi.
+
+284
+00:15:41,246 --> 00:15:42,649
+Tu sais l'essentiel.
+
+285
+00:15:45,236 --> 00:15:48,776
+<i>Tu parles bizarrement.
+T'utilises des mots, mais tu dis rien.</i>
+
+286
+00:15:48,901 --> 00:15:50,365
+<i>Je sais ce que je dis.</i>
+
+287
+00:15:51,909 --> 00:15:54,411
+Laisse-moi répondre.
+Je protège mes gens.
+
+288
+00:15:54,579 --> 00:15:56,913
+Je m'occupe d'eux.
+Si c'était pas pour moi ou mon clan,
+
+289
+00:15:57,081 --> 00:16:00,292
+les gangs du coin
+se fusilleraient au milieu de la rue,
+
+290
+00:16:00,460 --> 00:16:02,711
+et des petits enfants
+auraient la dalle.
+
+291
+00:16:02,879 --> 00:16:06,214
+J'ai pas le temps de jouer au diable
+ou à ce que tu crois être.
+
+292
+00:16:07,227 --> 00:16:08,925
+Le diable veut l'âme de Rincon.
+
+293
+00:16:09,636 --> 00:16:11,136
+Je veux juste l'homme.
+
+294
+00:16:12,205 --> 00:16:14,931
+Plus vite tu me l'apportes,
+plus vite je disparais.
+
+295
+00:16:15,155 --> 00:16:15,974
+Ou quoi ?
+
+296
+00:16:17,032 --> 00:16:18,032
+Ou ça.
+
+297
+00:16:31,097 --> 00:16:32,137
+Il s'est tiré !
+
+298
+00:16:39,504 --> 00:16:40,752
+C'est lui, le méchant ?
+
+299
+00:16:41,000 --> 00:16:42,517
+Non, lui, c'est plutôt...
+
+300
+00:16:42,642 --> 00:16:44,628
+celui qui est censé
+lui courir après.
+
+301
+00:16:44,796 --> 00:16:46,671
+J'ai placé un mouchard
+sur sa voiture.
+
+302
+00:16:48,784 --> 00:16:50,414
+Pourquoi vous n'êtes pas avec Sam ?
+
+303
+00:16:50,539 --> 00:16:53,639
+Votre fils et Sam
+ont des méthodes singulières.
+
+304
+00:16:53,892 --> 00:16:57,557
+Sam a pensé que c'était mieux
+si je supervisais d'ici.
+
+305
+00:16:57,725 --> 00:16:58,975
+Il s'est passé quoi ?
+
+306
+00:16:59,303 --> 00:17:03,063
+Avec tout le respect que je vous dois,
+ça ne vous regarde pas.
+
+307
+00:17:04,919 --> 00:17:07,587
+Eh bien, maintenant, ça me regarde.
+
+308
+00:17:08,193 --> 00:17:09,903
+C'est le meilleur ami de mon fils.
+
+309
+00:17:11,022 --> 00:17:13,490
+Et figurez-vous,
+c'est aussi le mien.
+
+310
+00:17:15,169 --> 00:17:17,263
+Le fait est
+que je m'inquiète pour lui.
+
+311
+00:17:17,388 --> 00:17:18,738
+Il n'est plus le même,
+
+312
+00:17:19,040 --> 00:17:20,540
+avec l'alcool...
+
+313
+00:17:21,707 --> 00:17:23,750
+Vous savez, il a toujours aimé ça.
+
+314
+00:17:23,972 --> 00:17:26,002
+Justement, il ne boit plus !
+
+315
+00:17:29,966 --> 00:17:30,924
+Bon, écoutez.
+
+316
+00:17:31,171 --> 00:17:32,425
+Il a été marié...
+
+317
+00:17:36,168 --> 00:17:37,701
+Vous avez flirté avec sa femme ?
+
+318
+00:17:38,553 --> 00:17:39,766
+C'est pas si simple.
+
+319
+00:17:41,696 --> 00:17:42,811
+Comme toujours.
+
+320
+00:17:53,965 --> 00:17:55,031
+Quoi de neuf ?
+
+321
+00:17:55,199 --> 00:17:57,516
+Omar a parlé à propos d'un taré
+
+322
+00:17:57,641 --> 00:17:59,953
+pour qui il doit trouver Rincon,
+c'est tout.
+
+323
+00:18:05,663 --> 00:18:07,464
+C'est qui, la star, là ?
+
+324
+00:18:07,817 --> 00:18:09,426
+Felipe Vega.
+
+325
+00:18:11,132 --> 00:18:13,550
+- Ils bossent ensemble ?
+- Non. Lui, il voit plus gros.
+
+326
+00:18:13,718 --> 00:18:14,843
+Northside 13.
+
+327
+00:18:14,968 --> 00:18:16,761
+Ils ont rodé dans le coin.
+
+328
+00:18:16,929 --> 00:18:17,947
+Prudent...
+
+329
+00:18:18,072 --> 00:18:19,347
+Et sans pitié.
+
+330
+00:18:19,515 --> 00:18:23,143
+Sa bande collectionne les scalps,
+surtout des rivaux, on dirait.
+
+331
+00:18:24,591 --> 00:18:27,480
+VEGA
+COLLECTEUR DE SCALPS
+
+332
+00:18:27,648 --> 00:18:29,123
+<i>J'aime bien le quartier.</i>
+
+333
+00:18:30,067 --> 00:18:31,367
+Tout est nickel.
+
+334
+00:18:31,769 --> 00:18:33,519
+Tout le monde a l'air content.
+
+335
+00:18:34,614 --> 00:18:36,698
+- Nouvelle caisse ?
+- Pas tellement...
+
+336
+00:18:38,298 --> 00:18:40,048
+Omar, te fous pas de moi.
+
+337
+00:18:40,539 --> 00:18:42,539
+Je sais que ça roule pour toi.
+
+338
+00:18:43,202 --> 00:18:44,752
+Il y a du boulot ici.
+
+339
+00:18:45,490 --> 00:18:46,666
+T'as ma cargaison ?
+
+340
+00:18:48,500 --> 00:18:50,754
+Tout ce que j'ai est déjà réservé.
+
+341
+00:18:50,922 --> 00:18:52,672
+Je te lâcherai pas, tu piges ?
+
+342
+00:18:52,840 --> 00:18:54,174
+Et moi, j'ai pas ton truc.
+
+343
+00:18:54,342 --> 00:18:56,843
+- <i>Garde ton butin de la dernière fois.</i>
+- <i>Quoi ?</i>
+
+344
+00:18:57,011 --> 00:18:58,904
+<i>Comme si
+j'avais volé quelque chose !</i>
+
+345
+00:18:59,197 --> 00:19:00,638
+<i>On va tirer ça au clair.</i>
+
+346
+00:19:00,806 --> 00:19:03,266
+Ça, c'était pour la protection.
+
+347
+00:19:03,572 --> 00:19:06,322
+Tu sais jamais
+qui peut débarquer et t'emmerder.
+
+348
+00:19:10,243 --> 00:19:11,543
+Tu vois ?
+
+349
+00:19:20,676 --> 00:19:22,035
+<i>Y a un problème ?</i>
+
+350
+00:19:22,954 --> 00:19:25,404
+C'est bon, t'auras ta cargaison.
+Tire-toi.
+
+351
+00:19:25,529 --> 00:19:26,664
+Pardon ?
+
+352
+00:19:26,832 --> 00:19:28,208
+Tu vas trop loin, Omar...
+
+353
+00:19:28,376 --> 00:19:30,426
+Mets ce qu'il faut dans le van.
+
+354
+00:19:30,844 --> 00:19:33,254
+La bonne dope, ce qui est recherché.
+
+355
+00:19:33,422 --> 00:19:35,256
+Mes gars la récupéreront
+à ton entrepôt
+
+356
+00:19:35,424 --> 00:19:36,574
+sur la 26e.
+
+357
+00:19:37,863 --> 00:19:38,718
+Et, Omar...
+
+358
+00:19:40,429 --> 00:19:42,347
+N'essaie plus de me doubler.
+
+359
+00:19:44,478 --> 00:19:46,518
+Tu n'as pas l'air
+d'être son plus gros souci.
+
+360
+00:19:46,686 --> 00:19:48,937
+Je vais devoir le devenir alors.
+
+361
+00:19:49,105 --> 00:19:52,122
+- Tu penses à quoi ?
+- Si ce van que Vega veut, disparaît,
+
+362
+00:19:52,247 --> 00:19:54,567
+Omar devra négocier
+avec ceux qui l'ont pris.
+
+363
+00:19:54,735 --> 00:19:55,735
+Et ce sera toi.
+
+364
+00:19:57,239 --> 00:19:59,447
+Bien, on va donc faire un tour
+à l'entrepôt d'Omar.
+
+365
+00:20:01,502 --> 00:20:03,879
+<i>Parce que les entrepôts
+stockent des marchandises</i>
+
+366
+00:20:04,004 --> 00:20:05,870
+<i>et non des gens, leur construction</i>
+
+367
+00:20:06,038 --> 00:20:07,872
+<i>est bon marché.
+Souvent, les toits</i>
+
+368
+00:20:08,040 --> 00:20:10,500
+<i>sont juste en contreplaqué
+et carreaux d'asphalte.</i>
+
+369
+00:20:10,832 --> 00:20:11,960
+<i>Utilisez un embout</i>
+
+370
+00:20:12,128 --> 00:20:14,796
+<i>de scie cloche silencieuse
+et vous pourrez percer</i>
+
+371
+00:20:14,964 --> 00:20:17,334
+<i>à travers un toit
+sans attirer l'attention.</i>
+
+372
+00:20:31,915 --> 00:20:33,314
+<i>Pour un plus gros trou,</i>
+
+373
+00:20:33,482 --> 00:20:34,649
+<i>un peu de C-4</i>
+
+374
+00:20:34,817 --> 00:20:37,798
+<i>sur les charnières de la porte
+fera l'affaire.</i>
+
+375
+00:20:44,994 --> 00:20:45,965
+C'est prêt.
+
+376
+00:20:46,305 --> 00:20:47,993
+Tu pourras déambuler.
+
+377
+00:20:50,793 --> 00:20:51,967
+<i>On a de la visite.</i>
+
+378
+00:20:52,613 --> 00:20:53,501
+C'est Gilroy
+
+379
+00:20:54,088 --> 00:20:55,545
+dans une Maserati à l'écart.
+
+380
+00:20:56,644 --> 00:20:59,327
+- Qu'est-ce qu'il fiche là ?
+- Il veut m'observer.
+
+381
+00:20:59,452 --> 00:21:01,634
+Je vais devoir faire
+bonne impression.
+
+382
+00:21:18,319 --> 00:21:20,361
+<i>Dominer un champ de bataille
+ne se résume pas</i>
+
+383
+00:21:20,529 --> 00:21:22,484
+<i>qu'à la puissance de feu.</i>
+
+384
+00:21:22,781 --> 00:21:26,743
+<i>Parfois, des coups de semonce
+suffisent à faire passer le message.</i>
+
+385
+00:21:33,501 --> 00:21:36,294
+<i>Des balles en caoutchouc
+tirées d'un sniper silencieux</i>
+
+386
+00:21:36,462 --> 00:21:38,046
+<i>ne tueront pas votre ennemi.</i>
+
+387
+00:21:44,678 --> 00:21:47,889
+<i>Mais il réfléchira à deux fois
+avant d'engager le combat.</i>
+
+388
+00:21:50,882 --> 00:21:52,770
+- Tu veux quoi ?
+- Je suis là pour le van.
+
+389
+00:21:52,895 --> 00:21:54,042
+Quel van ?
+
+390
+00:22:06,325 --> 00:22:07,241
+Celui-là.
+
+391
+00:22:30,814 --> 00:22:34,435
+<i>Se vendre à un ennemi
+peut s'apparenter à se faire recruter</i>
+
+392
+00:22:34,603 --> 00:22:36,104
+<i>par une équipe.
+Vous semblez</i>
+
+393
+00:22:36,272 --> 00:22:39,816
+<i>bon sur le papier, mais au final,
+il vous faudra faire vos preuves.</i>
+
+394
+00:22:45,430 --> 00:22:47,199
+Bordel, pourquoi vous me suivez ?
+
+395
+00:22:47,324 --> 00:22:50,015
+Je suis juste curieux
+sur la destination de ce van.
+
+396
+00:22:50,140 --> 00:22:51,782
+Je vous l'ai dit, j'observe.
+
+397
+00:22:51,907 --> 00:22:53,621
+Vous pouvez faire ça sans bousiller
+
+398
+00:22:53,789 --> 00:22:55,748
+- mes missions.
+- Je devais vous voir agir.
+
+399
+00:22:56,295 --> 00:22:58,489
+Et vous êtes à la hauteur
+de votre réputation.
+
+400
+00:22:58,614 --> 00:22:59,554
+Quel panache.
+
+401
+00:23:00,536 --> 00:23:02,171
+J'adore le costume, quelle marque ?
+
+402
+00:23:02,339 --> 00:23:04,660
+Vous êtes si confiant
+que je ne vous tuerai pas ici.
+
+403
+00:23:04,785 --> 00:23:05,785
+Le soyez pas.
+
+404
+00:23:06,177 --> 00:23:08,165
+Les balles en caoutchouc
+ne m'effraient pas.
+
+405
+00:23:08,290 --> 00:23:10,596
+Vous avez été si gentil
+avec les gars de l'entrepôt.
+
+406
+00:23:12,992 --> 00:23:14,380
+Autant que je le devais.
+
+407
+00:23:14,505 --> 00:23:16,686
+Je ne peux pas avoir
+un détective fouinant partout.
+
+408
+00:23:17,395 --> 00:23:18,354
+Très juste.
+
+409
+00:23:18,522 --> 00:23:21,028
+C'est ça, le but de votre filature ?
+Complimenter mon costume
+
+410
+00:23:21,153 --> 00:23:22,817
+et me poser des questions débiles ?
+
+411
+00:23:22,985 --> 00:23:25,192
+Je suis venu voir
+si on pourrait collaborer
+
+412
+00:23:25,317 --> 00:23:26,779
+et le résultat est positif.
+
+413
+00:23:26,947 --> 00:23:28,865
+Ravi de savoir
+que mon travail vous plaît.
+
+414
+00:23:29,694 --> 00:23:32,096
+J'ai un petit projet
+qui pourrait vous intéresser.
+
+415
+00:23:32,221 --> 00:23:33,374
+Je reste en contact.
+
+416
+00:23:36,974 --> 00:23:38,082
+Au fait,
+
+417
+00:23:38,250 --> 00:23:40,848
+- le van est pour qui ?
+- Je ne déballe jamais rien.
+
+418
+00:23:43,214 --> 00:23:44,320
+Bon à savoir.
+
+419
+00:23:47,384 --> 00:23:50,208
+- Je t'ai appelé sans arrêt.
+- J'ai jeté mon téléphone.
+
+420
+00:23:50,333 --> 00:23:53,306
+Je pense que Gilroy l'a utilisé
+pour trianguler ma position.
+
+421
+00:23:53,726 --> 00:23:54,582
+Il est bon.
+
+422
+00:23:54,934 --> 00:23:56,350
+Ce téléphone avait 2 jours.
+
+423
+00:23:56,518 --> 00:23:57,810
+Que voulait-il ?
+
+424
+00:23:57,978 --> 00:24:00,095
+Vérifier si j'étais le même monstre
+que lui.
+
+425
+00:24:00,220 --> 00:24:01,897
+Apparemment, c'est le cas.
+
+426
+00:24:02,066 --> 00:24:03,104
+C'est faux.
+
+427
+00:24:04,535 --> 00:24:06,069
+Mais en simulant suffisamment...
+
+428
+00:24:07,404 --> 00:24:08,905
+Ne t'inquiète pas pour moi.
+
+429
+00:24:09,073 --> 00:24:11,561
+Je sais que tu veux le stopper
+quoi qu'il fasse,
+
+430
+00:24:11,686 --> 00:24:13,785
+mais on pourrait pas
+juste le tuer et avancer ?
+
+431
+00:24:13,953 --> 00:24:15,753
+Gilroy a été embauché.
+
+432
+00:24:15,940 --> 00:24:19,123
+Il est la surface d'un sale iceberg.
+Ça ne s'arrête pas à lui.
+
+433
+00:24:21,585 --> 00:24:23,377
+- <i>Mikey est là ?</i>
+- Il est là.
+
+434
+00:24:25,798 --> 00:24:27,048
+Il te cherchait aussi.
+
+435
+00:24:30,832 --> 00:24:33,726
+<i>J'ai surveillé les retombées
+de ta descente à l'entrepôt.</i>
+
+436
+00:24:33,851 --> 00:24:36,077
+<i>Omar est paniqué
+à propos de son van disparu.</i>
+
+437
+00:24:36,202 --> 00:24:38,810
+C'est le moment de lui demander
+de l'aide pour trouver Rincon.
+
+438
+00:24:39,484 --> 00:24:41,434
+<i>Il est à la </i>botanica<i> sur la 17e.</i>
+
+439
+00:24:48,251 --> 00:24:51,197
+Je veux le van ! Maintenant !
+Où il est ?
+
+440
+00:24:51,365 --> 00:24:53,006
+Je peux te dire où il sera.
+
+441
+00:24:53,131 --> 00:24:55,660
+Dans ton allée
+quand tu me livreras Rincon.
+
+442
+00:24:55,829 --> 00:24:57,119
+Tu m'intimides pas.
+
+443
+00:24:57,288 --> 00:25:00,370
+Tu as des petits tours amusants,
+mais tu restes de chair et de sang.
+
+444
+00:25:00,542 --> 00:25:02,542
+Et crois-moi,
+je saurai te faire saigner.
+
+445
+00:25:03,076 --> 00:25:05,061
+Tu me touches
+et tout ton monde s'écroule.
+
+446
+00:25:05,186 --> 00:25:06,587
+Je ne parle pas que du van.
+
+447
+00:25:06,755 --> 00:25:10,591
+Mais aussi de ta maison sur la 18e rue,
+de tes magasins sur River Drive,
+
+448
+00:25:10,759 --> 00:25:11,759
+toi.
+
+449
+00:25:12,006 --> 00:25:14,888
+Tu n'auras nulle part où te cacher.
+
+450
+00:25:15,699 --> 00:25:17,385
+Tu me trouves Rincon,
+
+451
+00:25:18,230 --> 00:25:19,642
+et je disparais.
+
+452
+00:25:20,515 --> 00:25:22,023
+J'ai besoin de quelques heures.
+
+453
+00:25:34,087 --> 00:25:36,171
+Tu n'emportes pas
+mes statuettes au moins ?
+
+454
+00:25:36,296 --> 00:25:38,184
+Non, Maddy. Elles restent là.
+
+455
+00:25:38,309 --> 00:25:41,207
+Bien, car tu as détruit la moitié
+de ma collection "hiver enchanté"
+
+456
+00:25:41,332 --> 00:25:44,375
+- quand tout a explosé.
+- Je pensais qu'on avait dépassé ça.
+
+457
+00:25:44,660 --> 00:25:46,919
+Oui, je te faisais juste marcher.
+
+458
+00:25:47,460 --> 00:25:48,462
+En fait,
+
+459
+00:25:48,696 --> 00:25:50,457
+je pensais les remplacer,
+
+460
+00:25:50,582 --> 00:25:52,717
+donc peu importe ce que tu en fais.
+
+461
+00:25:53,379 --> 00:25:54,552
+Vraiment,
+
+462
+00:25:54,720 --> 00:25:56,470
+pourquoi je t'en garderais rancune ?
+
+463
+00:25:56,779 --> 00:25:57,972
+Tu as parlé à Mack ?
+
+464
+00:26:02,432 --> 00:26:06,355
+Ton mariage était fini depuis des années
+avant qu'il ne s'adresse à ta femme.
+
+465
+00:26:06,523 --> 00:26:07,887
+Il y a un code, Madeline.
+
+466
+00:26:08,012 --> 00:26:10,359
+Tu ne t'assois pas
+dans le canoë d'un autre, point.
+
+467
+00:26:10,527 --> 00:26:12,361
+On ne parle pas d'un bateau, Sam.
+
+468
+00:26:12,529 --> 00:26:15,448
+Et je ne parle pas non plus
+de ces statuettes de patineurs.
+
+469
+00:26:15,616 --> 00:26:16,824
+Elle est plus à toi.
+
+470
+00:26:17,244 --> 00:26:20,745
+Sa vie aurait dû rester misérable ?
+Il a bien pris soin d'elle.
+
+471
+00:26:24,557 --> 00:26:26,707
+Et je t'ai dit
+de rester en dehors de ça.
+
+472
+00:26:28,102 --> 00:26:29,503
+Tu le prends comme ça ? OK.
+
+473
+00:26:29,671 --> 00:26:32,221
+Tu me dois toujours
+une statuette de patineur.
+
+474
+00:26:34,927 --> 00:26:38,008
+<i>La meilleure défense n'est pas toujours
+une démonstration de force.</i>
+
+475
+00:26:38,133 --> 00:26:41,326
+<i>Gardez un adversaire dans l'ignorance
+de vos capacités,</i>
+
+476
+00:26:41,451 --> 00:26:43,642
+<i>et il devra craindre le pire.</i>
+
+477
+00:26:43,767 --> 00:26:44,817
+Bordel !
+
+478
+00:26:48,101 --> 00:26:49,649
+On a cherché ton gars.
+
+479
+00:26:49,817 --> 00:26:51,167
+Tu as trouvé Rincon.
+
+480
+00:26:51,443 --> 00:26:53,735
+Oui.
+Tu sais comment il est protégé ?
+
+481
+00:26:53,905 --> 00:26:56,355
+Tu as eu trois heures
+pour me trouver Rincon,
+
+482
+00:26:56,584 --> 00:26:57,990
+et ne cherche pas d'excuses.
+
+483
+00:26:58,355 --> 00:26:59,997
+Tu t'es cru malin, hein ?
+
+484
+00:27:00,122 --> 00:27:01,977
+Voler ce van que Vega voulait ?
+
+485
+00:27:02,275 --> 00:27:03,325
+Devine quoi.
+
+486
+00:27:03,625 --> 00:27:05,331
+C'est lui qui protège Rincon.
+
+487
+00:27:05,499 --> 00:27:06,874
+Ils sont en affaires.
+
+488
+00:27:07,042 --> 00:27:09,293
+Rincon fournit Vega en drogues
+depuis des années.
+
+489
+00:27:09,461 --> 00:27:12,213
+- Tu crois qu'il va lâcher ce filon ?
+- Laisse-moi m'en inquiéter.
+
+490
+00:27:12,381 --> 00:27:13,970
+C'est à moi de m'en inquiéter.
+
+491
+00:27:14,095 --> 00:27:16,175
+On est quasiment en guerre
+avec Vega.
+
+492
+00:27:16,344 --> 00:27:17,593
+S'il l'apprend...
+
+493
+00:27:17,880 --> 00:27:19,887
+Je n'ai pas peur de mourir, OK ?
+
+494
+00:27:20,561 --> 00:27:21,681
+Mais mes gars...
+
+495
+00:27:21,849 --> 00:27:23,730
+Vega les traquera tous.
+
+496
+00:27:24,000 --> 00:27:26,250
+Si tu me donnes pas ce que je veux,
+
+497
+00:27:26,977 --> 00:27:29,063
+Vega sera le dernier de tes soucis.
+
+498
+00:27:35,904 --> 00:27:39,699
+Rincon se cache dans un chantier
+abandonné sur la 15e, au 402.
+
+499
+00:27:39,996 --> 00:27:42,125
+Il a des gars de Vega avec lui.
+
+500
+00:27:43,514 --> 00:27:44,537
+Magne-toi.
+
+501
+00:27:46,473 --> 00:27:48,499
+Et prie que Vega ne l'apprenne pas !
+
+502
+00:28:03,307 --> 00:28:05,647
+<i>Pour extraire une cible
+hautement gardée,</i>
+
+503
+00:28:05,772 --> 00:28:08,185
+<i>il est important de choisir
+le bon point d'entrée.</i>
+
+504
+00:28:08,654 --> 00:28:10,563
+<i>Les gardes surveillent
+fenêtres et portes.</i>
+
+505
+00:28:13,375 --> 00:28:16,068
+<i>Donc arriver à travers le mur commun
+à l'appartement voisin</i>
+
+506
+00:28:16,416 --> 00:28:17,945
+<i>assure l'effet de surprise,</i>
+
+507
+00:28:18,490 --> 00:28:20,072
+<i>sans parler de la douche</i>
+
+508
+00:28:20,240 --> 00:28:21,449
+<i>de débris.</i>
+
+509
+00:28:25,037 --> 00:28:27,788
+- Qu'est-ce qu'il y a ?
+- C'est trop calme là-dedans.
+
+510
+00:28:31,566 --> 00:28:33,458
+Et à l'extérieur aussi.
+
+511
+00:28:34,534 --> 00:28:35,379
+<i>Bien sûr,</i>
+
+512
+00:28:35,547 --> 00:28:39,197
+<i>l'effet de surprise ne compte pas
+si on vous tend un piège.</i>
+
+513
+00:28:39,587 --> 00:28:41,552
+On dirait que Vega
+veut casser l'ambiance.
+
+514
+00:28:46,099 --> 00:28:48,601
+On a du monde
+qui monte les escaliers.
+
+515
+00:28:48,769 --> 00:28:50,978
+J'espère que tu as apporté
+assez de corde, Sam.
+
+516
+00:28:51,146 --> 00:28:54,106
+<i>La traditionnelle descente en rappel
+nécessite les deux mains,</i>
+
+517
+00:28:54,940 --> 00:28:57,443
+<i>ce qui est gênant
+quand on est pris pour cible.</i>
+
+518
+00:28:57,611 --> 00:29:01,364
+<i>D'où un entraînement en rappel
+à toute épreuve des Forces spéciales.</i>
+
+519
+00:29:23,637 --> 00:29:24,720
+À terre !
+
+520
+00:29:49,164 --> 00:29:50,980
+C'était un putain de piège.
+
+521
+00:29:51,411 --> 00:29:54,154
+- Omar a failli nous faire tuer.
+- Ça n'a aucun sens.
+
+522
+00:29:54,279 --> 00:29:55,700
+Il hait Vega. Calme-toi.
+
+523
+00:29:55,825 --> 00:29:57,837
+Pas question. Omar nous a trahis.
+
+524
+00:29:58,005 --> 00:30:00,605
+C'est marrant,
+toi parlant de trahison.
+
+525
+00:30:01,225 --> 00:30:02,758
+Battez-vous pour de bon
+
+526
+00:30:02,926 --> 00:30:05,386
+ou bouclez-la. Écoutez plutôt ça.
+
+527
+00:30:06,263 --> 00:30:09,220
+J'écoutais le micro dans la voiture
+d'Omar. Vega a aussi tenté de le tuer.
+
+528
+00:30:11,147 --> 00:30:12,785
+<i>Merde !</i>
+<i>À terre !</i>
+
+529
+00:30:12,910 --> 00:30:14,520
+<i>Mon Dieu, Omar, tu saignes !</i>
+
+530
+00:30:14,688 --> 00:30:15,938
+<i>Fonce, fonce !</i>
+
+531
+00:30:16,063 --> 00:30:18,941
+Il a été touché au bras. J'espère
+avoir moins crié la dernière fois.
+
+532
+00:30:19,109 --> 00:30:21,861
+Vega a découvert
+qu'Omar cherchait Rincon.
+
+533
+00:30:22,029 --> 00:30:23,697
+Il a failli mourir à cause de nous.
+
+534
+00:30:23,822 --> 00:30:26,407
+Et Vega ne s'arrêtera
+qu'une fois le boulot fini.
+
+535
+00:30:26,575 --> 00:30:29,326
+Je me surprends à dire ça
+à propos d'un gangster,
+
+536
+00:30:29,494 --> 00:30:31,832
+mais on doit donner un coup de main
+à Omar.
+
+537
+00:30:47,305 --> 00:30:48,971
+Mec, t'es couillu de te pointer ici.
+
+538
+00:30:49,745 --> 00:30:51,515
+Tu devrais pas viser tes amis.
+
+539
+00:30:51,683 --> 00:30:53,642
+- On est potes ?
+- On peut l'être.
+
+540
+00:30:53,810 --> 00:30:55,644
+Mec, t'as failli nous faire buter !
+
+541
+00:30:55,812 --> 00:30:57,855
+Des sbires de Vega
+sont à nos trousses !
+
+542
+00:30:58,054 --> 00:30:59,982
+Il va retourner tout le quartier.
+
+543
+00:31:00,150 --> 00:31:01,734
+J'aurais dû te buter la 1re fois.
+
+544
+00:31:01,902 --> 00:31:04,358
+Si tu me tues,
+ton problème avec Vega reste le même.
+
+545
+00:31:04,483 --> 00:31:07,323
+Tu me tues pas,
+Vega aura un problème avec moi.
+
+546
+00:31:07,741 --> 00:31:09,366
+Tu sais pas de quoi tu causes.
+
+547
+00:31:09,534 --> 00:31:10,740
+Vega et Rincon...
+
+548
+00:31:10,865 --> 00:31:13,162
+Ils vont retourner Miami
+jusqu'à te retrouver.
+
+549
+00:31:13,330 --> 00:31:16,665
+Pourquoi je leur épargnerais pas ça ?
+Amène-moi à eux.
+
+550
+00:31:16,833 --> 00:31:19,001
+J'y mettrai un terme pour nous deux.
+
+551
+00:31:19,169 --> 00:31:20,419
+Mec, t'es taré.
+
+552
+00:31:20,785 --> 00:31:21,885
+Écoute-moi.
+
+553
+00:31:22,255 --> 00:31:23,255
+À l'intérieur.
+
+554
+00:31:25,393 --> 00:31:27,009
+- Maintenant.
+- Attends, attends.
+
+555
+00:31:30,875 --> 00:31:31,875
+D'accord.
+
+556
+00:31:33,395 --> 00:31:34,808
+Mais ne fais rien.
+
+557
+00:31:42,651 --> 00:31:44,851
+Je te livre à lui.
+C'est pas assez ?
+
+558
+00:31:45,110 --> 00:31:46,946
+Je dois aussi
+lui lâcher mon quartier ?
+
+559
+00:31:47,114 --> 00:31:49,064
+Vega doit croire qu'il a gagné.
+
+560
+00:31:49,395 --> 00:31:51,180
+Je suis pas sûr de ce coup.
+
+561
+00:31:51,305 --> 00:31:54,328
+Il va vouloir une rencontre
+sur mes terres, pour se la raconter.
+
+562
+00:31:54,496 --> 00:31:55,796
+C'est ce que tu veux.
+
+563
+00:31:55,945 --> 00:31:58,209
+Il a juste des sbires armés
+pour lui.
+
+564
+00:31:58,334 --> 00:32:00,292
+Tu as tout un quartier à ta botte.
+
+565
+00:32:00,460 --> 00:32:01,669
+Et une fois rentré ?
+
+566
+00:32:01,837 --> 00:32:05,089
+Vega aura sécurisé un max le lieu.
+Il laissera entrer personne d'autre.
+
+567
+00:32:05,257 --> 00:32:07,383
+Ça sera que toi et moi.
+
+568
+00:32:07,551 --> 00:32:09,169
+Si tout se passe bien,
+
+569
+00:32:09,294 --> 00:32:11,011
+toi et moi ferons l'affaire.
+
+570
+00:32:11,187 --> 00:32:12,687
+Je pars avec Rincon.
+
+571
+00:32:13,005 --> 00:32:14,265
+Toi avec Vega.
+
+572
+00:32:14,433 --> 00:32:16,392
+T'es prêt à y mettre un terme,
+ou pas ?
+
+573
+00:32:19,437 --> 00:32:20,437
+Je suis prêt.
+
+574
+00:32:21,075 --> 00:32:24,325
+<i>Le camouflage est d'habitude associé
+à la guerre dans la jungle.</i>
+
+575
+00:32:24,735 --> 00:32:27,960
+<i>Mais c'est tout aussi important
+en milieu urbain.</i>
+
+576
+00:32:28,085 --> 00:32:29,460
+<i>Tu attires l'attention</i>
+
+577
+00:32:29,585 --> 00:32:31,740
+<i>avec un barrage pare-balle
+sur le trottoir</i>
+
+578
+00:32:32,065 --> 00:32:34,915
+<i>ou en trimballant une charge explosive
+dans la rue.</i>
+
+579
+00:32:35,328 --> 00:32:38,664
+<i>Mais des stands de fruits
+faits de bandes de pneus en acier</i>
+
+580
+00:32:39,791 --> 00:32:41,959
+<i>et des chariots de glace
+chargés d'explosifs</i>
+
+581
+00:32:42,443 --> 00:32:43,780
+<i>se fondent dans le décor.</i>
+
+582
+00:32:43,905 --> 00:32:46,414
+<i>Bien sûr, l'ultime cheval de Troie</i>
+
+583
+00:32:46,539 --> 00:32:49,258
+- <i>est un prisonnier enchaîné.</i>
+- Où est-ce que tu cachais ça ?
+
+584
+00:33:02,189 --> 00:33:05,251
+<i>Un ennemi parano
+pourrait s'aventurer à fouiller un otage</i>
+
+585
+00:33:05,376 --> 00:33:07,076
+<i>portant des menottes,</i>
+
+586
+00:33:07,715 --> 00:33:10,870
+<i>mais les gens ne vérifient pas
+si l'un des maillons des menottes</i>
+
+587
+00:33:10,995 --> 00:33:12,573
+<i>est fait en polystyrène...</i>
+
+588
+00:33:13,784 --> 00:33:16,134
+<i>Ou s'il y a un micro
+dans la serrure.</i>
+
+589
+00:33:36,306 --> 00:33:37,306
+Il a rien.
+
+590
+00:33:37,474 --> 00:33:39,266
+Bienvenue dans mon quartier, Omar.
+
+591
+00:33:39,434 --> 00:33:42,484
+Tout le monde disait
+que les gens de ton quartier
+
+592
+00:33:42,825 --> 00:33:44,225
+étaient si loyaux.
+
+593
+00:33:44,925 --> 00:33:46,148
+J'en vois aucun ici.
+
+594
+00:33:46,804 --> 00:33:47,804
+Tu sais,
+
+595
+00:33:47,995 --> 00:33:50,610
+quand t'as commencé
+à fourrer ton nez dans mes affaires,
+
+596
+00:33:50,735 --> 00:33:54,448
+je me suis dit que tu mijotais un truc.
+Alors j'ai chopé un de tes gars.
+
+597
+00:33:54,616 --> 00:33:56,466
+Une heure avec mon couteau,
+
+598
+00:33:57,385 --> 00:33:59,370
+et il a craché le morceau.
+
+599
+00:33:59,538 --> 00:34:01,588
+Voilà ce que la loyauté t'apporte.
+
+600
+00:34:02,290 --> 00:34:03,290
+Une heure.
+
+601
+00:34:03,956 --> 00:34:06,126
+- Ouais, tu dois avoir raison.
+- Tu me déçois.
+
+602
+00:34:06,294 --> 00:34:07,535
+Tout le monde disait,
+
+603
+00:34:08,035 --> 00:34:10,585
+"Ça sera le chant du cygne d'Omar !"
+
+604
+00:34:12,295 --> 00:34:14,051
+Une égratignure sur ton bras,
+
+605
+00:34:14,219 --> 00:34:16,178
+et tu viens pleurnicher
+comme une chienne
+
+606
+00:34:16,346 --> 00:34:17,638
+pour me lécher le fion.
+
+607
+00:34:17,895 --> 00:34:20,933
+Je pense qu'il y a juste un malentendu,
+c'est tout.
+
+608
+00:34:21,101 --> 00:34:22,351
+Un malentendu ?
+
+609
+00:34:23,935 --> 00:34:25,035
+Ça me plaît.
+
+610
+00:34:26,115 --> 00:34:28,421
+Réglons ce malentendu sur-le-champ.
+
+611
+00:34:28,546 --> 00:34:29,775
+Amène-moi l'inconnu !
+
+612
+00:34:33,015 --> 00:34:34,015
+<i>Vamanos.</i>
+
+613
+00:34:40,620 --> 00:34:41,720
+On est quittes ?
+
+614
+00:34:42,215 --> 00:34:43,215
+Quittes ?
+
+615
+00:34:44,175 --> 00:34:46,475
+Quittes ?
+Tu crois qu'un taré en costard
+
+616
+00:34:47,175 --> 00:34:48,644
+équilibre la balance ?
+
+617
+00:34:48,769 --> 00:34:50,212
+Je vais te dire un truc.
+
+618
+00:34:50,380 --> 00:34:52,798
+Dans mon royaume, la paix a un prix.
+
+619
+00:34:52,966 --> 00:34:53,966
+Aujourd'hui,
+
+620
+00:34:54,245 --> 00:34:55,902
+je prendrai ton quartier.
+
+621
+00:34:56,027 --> 00:34:56,927
+Demain,
+
+622
+00:34:57,095 --> 00:34:58,345
+je prendrai ta femme.
+
+623
+00:34:58,625 --> 00:35:01,125
+C'est un nouveau monde, Omar.
+Fais-t'y.
+
+624
+00:35:01,391 --> 00:35:02,933
+Amène ces <i>putos </i>à l'intérieur.
+
+625
+00:35:03,101 --> 00:35:04,101
+Avance.
+
+626
+00:35:04,226 --> 00:35:06,478
+Vous autres, restez dehors.
+S'ils en veulent,
+
+627
+00:35:06,987 --> 00:35:07,987
+butez-les.
+
+628
+00:35:24,025 --> 00:35:25,025
+Alors...
+
+629
+00:35:25,755 --> 00:35:26,855
+t'es qui ?
+
+630
+00:35:31,087 --> 00:35:33,756
+Je t'ai posé une question.
+Tu es qui ?
+
+631
+00:35:34,215 --> 00:35:36,115
+Tu le sauras bien assez tôt.
+
+632
+00:35:43,275 --> 00:35:44,391
+T'es un flic ?
+
+633
+00:35:45,615 --> 00:35:46,615
+Un flic ?
+
+634
+00:35:47,035 --> 00:35:48,270
+T'es pas si veinard.
+
+635
+00:35:53,785 --> 00:35:54,785
+Réponds.
+
+636
+00:35:55,645 --> 00:35:56,445
+Dis-moi,
+
+637
+00:35:56,855 --> 00:35:59,531
+quel genre d'homme me cherche
+habillé comme ça ?
+
+638
+00:35:59,875 --> 00:36:01,074
+Quel genre ?
+
+639
+00:36:01,295 --> 00:36:03,795
+Quel genre d'homme abuse d'enfants ?
+
+640
+00:36:06,206 --> 00:36:09,806
+C'est la salope avec ses inculpations
+contre moi qui t'envoie ?
+
+641
+00:36:13,125 --> 00:36:14,922
+Elle se plaignait toujours
+de sa gosse.
+
+642
+00:36:19,275 --> 00:36:21,000
+Dis-moi qui tu es,
+
+643
+00:36:21,905 --> 00:36:23,905
+ou je rendrai ça si douloureux
+
+644
+00:36:24,735 --> 00:36:26,768
+que tu imploreras mon pardon,
+
+645
+00:36:26,893 --> 00:36:29,228
+et il n'y en aura pas.
+
+646
+00:36:29,396 --> 00:36:31,396
+Tu sais pas ce qu'est la douleur.
+
+647
+00:36:34,335 --> 00:36:35,485
+Mais tu le sauras,
+
+648
+00:36:36,194 --> 00:36:37,194
+promis.
+
+649
+00:36:39,505 --> 00:36:40,955
+Ne les regarde pas.
+
+650
+00:36:41,157 --> 00:36:43,257
+Ils verront qui tu es vraiment.
+
+651
+00:36:46,275 --> 00:36:47,275
+Lâche.
+
+652
+00:36:50,535 --> 00:36:51,585
+Va au diable.
+
+653
+00:36:51,835 --> 00:36:52,985
+Viens avec moi.
+
+654
+00:37:28,621 --> 00:37:30,521
+Bienvenue dans mon quartier.
+
+655
+00:37:37,464 --> 00:37:38,672
+Je te l'avais promis.
+
+656
+00:37:40,175 --> 00:37:41,317
+C'est l'heure.
+
+657
+00:37:44,179 --> 00:37:47,109
+La police de Miami
+reconduit Rincon à Houston.
+
+658
+00:37:47,535 --> 00:37:50,221
+Il est chanceux
+que ce ne soit pas dans un cercueil.
+
+659
+00:37:50,765 --> 00:37:54,021
+Toi et tes amis
+avez de drôles de méthodes,
+
+660
+00:37:54,445 --> 00:37:56,172
+mais j'ai pas à me plaindre.
+
+661
+00:37:57,785 --> 00:37:59,035
+Merci, Sam.
+
+662
+00:38:06,285 --> 00:38:07,385
+Pour Amanda.
+
+663
+00:38:08,504 --> 00:38:09,703
+Je voulais te dire...
+
+664
+00:38:13,405 --> 00:38:14,750
+Merci de t'occuper d'elle.
+
+665
+00:38:16,645 --> 00:38:18,837
+J'ai jamais été doué pour ça.
+Je suppose...
+
+666
+00:38:19,575 --> 00:38:21,214
+que les missions passaient d'abord.
+
+667
+00:38:23,615 --> 00:38:25,552
+Pour ce que ça vaut,
+elle m'a aussi quitté.
+
+668
+00:38:28,045 --> 00:38:29,514
+Elle ne t'a jamais oublié.
+
+669
+00:38:30,504 --> 00:38:31,308
+Normal ?
+
+670
+00:38:34,475 --> 00:38:36,897
+- Si tu as besoin d'un truc...
+- Je te tiens au courant.
+
+671
+00:38:44,450 --> 00:38:45,739
+Une bière, ça te dit ?
+
+672
+00:38:46,390 --> 00:38:47,240
+Viens.
+
+673
+00:38:49,805 --> 00:38:52,745
+Beaucoup de gens
+parlent du gars en costard.
+
+674
+00:38:53,745 --> 00:38:55,403
+Je sais pas quoi leur raconter.
+
+675
+00:38:55,545 --> 00:38:59,145
+Je suis juste le gars qui t'a aidé
+à remonter sur le trône, rien de plus.
+
+676
+00:39:01,368 --> 00:39:03,203
+J'ai toujours du mal à te saisir.
+
+677
+00:39:03,865 --> 00:39:05,291
+Honnêtement, Omar...
+
+678
+00:39:06,655 --> 00:39:07,805
+T'embête pas.
+
+679
+00:39:26,485 --> 00:39:28,271
+- Merci d'être venue.
+- La ferme.
+
+680
+00:39:28,396 --> 00:39:29,992
+J'ai quelque chose à dire.
+
+681
+00:39:30,325 --> 00:39:32,934
+Tu as besoin de mon soutien
+lors de tes rendez-vous avec Gilroy,
+
+682
+00:39:33,059 --> 00:39:35,664
+alors tu vas m'écouter
+ici et maintenant,
+
+683
+00:39:35,832 --> 00:39:38,052
+dans une de ces chambres
+encore une fois gaspillées.
+
+684
+00:39:38,177 --> 00:39:40,282
+<i>Tu</i> vas te faire descendre.
+
+685
+00:39:40,703 --> 00:39:41,795
+Te retrouver mort.
+
+686
+00:39:45,955 --> 00:39:47,052
+Je suis encore là.
+
+687
+00:39:47,177 --> 00:39:50,830
+Tu sais, j'ai plus de munitions
+que nécessaire dans cette valise.
+
+688
+00:39:51,295 --> 00:39:54,224
+Tu veux te taire,
+ou tu veux que je m'en serve ?
+
+689
+00:39:58,521 --> 00:40:00,388
+Sam n'est pas d'accord avec moi.
+
+690
+00:40:01,085 --> 00:40:02,910
+Et je ne voulais pas
+inquiéter ta mère.
+
+691
+00:40:03,035 --> 00:40:06,236
+Autrement, ça aurait été
+une intervention à grande échelle.
+
+692
+00:40:07,675 --> 00:40:08,675
+Tu...
+
+693
+00:40:08,800 --> 00:40:09,700
+bosses...
+
+694
+00:40:09,825 --> 00:40:11,116
+trop.
+
+695
+00:40:13,575 --> 00:40:16,121
+Ça m'a plu que tu retrouves Rincon.
+
+696
+00:40:16,785 --> 00:40:20,042
+Et peut-être qu'une part de moi
+comprend ce que tu fais avec Gilroy.
+
+697
+00:40:20,210 --> 00:40:23,360
+Mais tu peux pas faire ça
+toute la journée, toute la semaine.
+
+698
+00:40:23,485 --> 00:40:26,548
+Tu peux pas continuer à brûler
+la chandelle par les deux bouts !
+
+699
+00:40:26,905 --> 00:40:30,484
+Comment peux-tu rester concentré
+quand tu t'éreintes de la sorte ?
+
+700
+00:40:31,225 --> 00:40:32,345
+Il te faut vivre...
+
+701
+00:40:33,345 --> 00:40:36,645
+Ou tu vas te retrouver mort.
+C'est la base du bon sens.
+
+702
+00:40:37,445 --> 00:40:38,602
+Tu as fini ?
+
+703
+00:40:40,795 --> 00:40:41,795
+Oui.
+
+704
+00:40:42,065 --> 00:40:43,065
+Bien.
+
+705
+00:40:58,695 --> 00:41:00,040
+Tu me veux où ?
+
+706
+00:41:05,075 --> 00:41:06,475
+Pourquoi pas là ?
+
+707
+00:41:08,591 --> 00:41:09,591
+Gilroy...
+
+708
+00:41:09,916 --> 00:41:10,917
+a dit
+
+709
+00:41:11,042 --> 00:41:12,692
+qu'il appellerait ici...
+
+710
+00:41:15,344 --> 00:41:17,944
+pour le lieu et l'heure
+du rendez-vous.
+
+711
+00:41:18,351 --> 00:41:20,371
+Il a dit qu'il appellerait
+
+712
+00:41:21,475 --> 00:41:22,825
+demain matin.
+
+713
+00:41:27,016 --> 00:41:28,985
+- Tu m'as appelé pour...
+- Comme j'ai dit,
+
+714
+00:41:29,895 --> 00:41:31,196
+je suis encore là.
+
+715
+00:41:56,925 --> 00:41:58,475
+<i>Bonjour, Westen.</i>
+
+716
+00:42:00,685 --> 00:42:02,686
+- Vous êtes matinal.
+- <i>Tout comme vous.</i>
+
+717
+00:42:03,215 --> 00:42:05,915
+<i>Surprenant,
+vu votre agenda dernièrement.</i>
+
+718
+00:42:06,816 --> 00:42:09,982
+Ne soyez pas coincé. J'ai eu vent
+d'une certaine passation de pouvoir
+
+719
+00:42:10,107 --> 00:42:11,936
+dans un quartier de Little Dominica
+
+720
+00:42:12,061 --> 00:42:14,640
+et qu'un certain individu
+a facilité le processus.
+
+721
+00:42:14,765 --> 00:42:16,145
+Je ne saurais dire.
+
+722
+00:42:16,270 --> 00:42:18,451
+<i>Vous ne déballerez rien,
+n'est-ce pas ?</i>
+
+723
+00:42:18,619 --> 00:42:20,453
+Étant levés,
+on pourrait donc se voir ?
+
+724
+00:42:20,621 --> 00:42:22,071
+J'adorerais, mais...
+
+725
+00:42:22,665 --> 00:42:24,917
+<i>Mais vous avez un rendez-vous
+plus urgent ?</i>
+
+726
+00:42:25,945 --> 00:42:27,395
+On peut dire ça.
+
+727
+00:42:27,655 --> 00:42:29,064
+<i>Ne me faites pas languir.</i>
+
+728
+00:42:29,189 --> 00:42:31,089
+- Alors on est en affaires ?
+- <i>Absolument.</i>
+
+729
+00:42:31,257 --> 00:42:33,207
+Et il y a beaucoup à abattre.
+

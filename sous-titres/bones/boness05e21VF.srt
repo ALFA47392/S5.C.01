@@ -1,0 +1,3244 @@
+1
+00:00:17,669 --> 00:00:18,695
+À l'aide !
+
+2
+00:00:19,955 --> 00:00:20,965
+Aidez-moi !
+
+3
+00:01:37,402 --> 00:01:38,402
+À l'aide !
+
+4
+00:01:52,753 --> 00:01:54,196
+<i>Le procès du Fossoyeur</i>
+
+5
+00:01:54,364 --> 00:01:57,158
+<i>débute enfin aujourd'hui
+par une revue des preuves.</i>
+
+6
+00:01:57,326 --> 00:02:00,241
+<i>La prévenue, l'éminent
+procureur fédéral Heather Taffet,</i>
+
+7
+00:02:00,366 --> 00:02:02,219
+<i>assurera sa propre défense</i>
+
+8
+00:02:02,344 --> 00:02:05,339
+<i>contre de multiples accusations
+dont enlèvement et meurtre.</i>
+
+9
+00:02:05,464 --> 00:02:07,418
+<i>L'une concerne un garçon de 10 ans,</i>
+
+10
+00:02:07,586 --> 00:02:08,785
+<i>Terrence Gilroy,</i>
+
+11
+00:02:09,007 --> 00:02:10,546
+<i>qui n'a jamais été retrouvé.</i>
+
+12
+00:02:10,714 --> 00:02:13,597
+<i>On attend le témoignage
+de 3 victimes d'enlèvement :</i>
+
+13
+00:02:13,722 --> 00:02:16,469
+<i>Seeley Booth, agent du FBI,</i>
+
+14
+00:02:16,637 --> 00:02:19,889
+<i>ainsi que les scientifiques
+Jack Hodgins et Temperance Brennan</i>
+
+15
+00:02:20,379 --> 00:02:21,432
+<i>du Jeffers...</i>
+
+16
+00:02:26,706 --> 00:02:27,480
+Ça va ?
+
+17
+00:02:27,773 --> 00:02:29,227
+Pourquoi ça n'irait pas ?
+
+18
+00:02:29,352 --> 00:02:32,359
+On va être confrontés à celle
+qui a essayé de nous tuer.
+
+19
+00:02:32,626 --> 00:02:33,944
+Et vous. Ça va ?
+
+20
+00:02:34,259 --> 00:02:36,109
+Oui. Je vérifiais juste.
+
+21
+00:02:36,234 --> 00:02:38,364
+Je veux être sûr que vous n'avez
+besoin de rien.
+
+22
+00:02:38,489 --> 00:02:40,726
+- C'est une affaire comme une autre.
+- OK !
+
+23
+00:02:40,851 --> 00:02:42,430
+- Papa !
+- Max ?
+
+24
+00:02:42,829 --> 00:02:44,117
+Que fais-tu ici ?
+
+25
+00:02:44,242 --> 00:02:46,227
+Tu peux avoir besoin
+du soutien de quelqu'un
+
+26
+00:02:46,352 --> 00:02:47,875
+qui connaît bien le système.
+
+27
+00:02:48,257 --> 00:02:50,127
+Pourquoi vous me traitez
+comme une enfant ?
+
+28
+00:02:50,964 --> 00:02:54,298
+Je veux pas que tu aies de faux espoirs.
+C'est pas gagné.
+
+29
+00:02:54,466 --> 00:02:56,342
+C'est pour ça qu'on a Caroline.
+
+30
+00:02:56,510 --> 00:02:58,344
+On a 5 affaires,
+plusieurs victimes :
+
+31
+00:02:58,512 --> 00:03:00,513
+Bones, Hodgins, le petit garçon...
+
+32
+00:03:00,681 --> 00:03:02,473
+Dont le corps
+n'a jamais été retrouvé.
+
+33
+00:03:02,641 --> 00:03:04,767
+Votre procureur est désespéré.
+
+34
+00:03:04,935 --> 00:03:06,352
+Elle sait ce qu'elle fait.
+
+35
+00:03:06,520 --> 00:03:08,729
+Je croyais que tu nous soutenais.
+
+36
+00:03:22,494 --> 00:03:23,911
+Prêtes à jouer dans les règles ?
+
+37
+00:03:24,079 --> 00:03:26,121
+- Toujours, Votre Honneur.
+- Votre Honneur,
+
+38
+00:03:26,289 --> 00:03:29,588
+puisque j'assure ma défense,
+je requiers qu'on enlève mes chaînes.
+
+39
+00:03:29,713 --> 00:03:33,420
+C'est seulement une revue de preuves.
+Il n'y a pas de jury à influencer.
+
+40
+00:03:33,746 --> 00:03:36,507
+Et je me sens plus en sécurité
+la sachant enchaînée.
+
+41
+00:03:36,675 --> 00:03:38,968
+Épargnez-nous les effets de manche,
+Mlle Julian.
+
+42
+00:03:39,708 --> 00:03:42,763
+Lors du procès, nous reconsidérerons
+votre requête, Mlle Taffet.
+
+43
+00:03:42,931 --> 00:03:43,973
+Premier témoin.
+
+44
+00:03:44,571 --> 00:03:47,911
+Les brûlures relevées sur la victime
+correspondent
+
+45
+00:03:48,036 --> 00:03:51,532
+aux blessures qu'infligerait
+un Taser de 3 millions de Volts.
+
+46
+00:03:51,657 --> 00:03:54,309
+Le Taser a été trouvé
+dans le box de la suspecte.
+
+47
+00:03:54,657 --> 00:03:57,938
+Il correspond à celui
+utilisé pour m'attaquer...
+
+48
+00:03:58,215 --> 00:04:02,116
+Les chaussures coquées de la suspecte
+ont été trouvées dans ce même box.
+
+49
+00:04:02,284 --> 00:04:06,231
+Ce box a été découvert à partir
+d'informations obtenues illégalement,
+
+50
+00:04:06,356 --> 00:04:07,194
+non ?
+
+51
+00:04:07,319 --> 00:04:09,283
+Nous ne le savions pas,
+Votre Honneur.
+
+52
+00:04:09,408 --> 00:04:11,639
+Nous avions un mandat
+pour fouiller ce box.
+
+53
+00:04:11,764 --> 00:04:15,619
+Une piste donnée par le frère de l'agent
+Booth ne vous a pas parue suspecte ?
+
+54
+00:04:15,744 --> 00:04:18,132
+C'était un officier
+de la sécurité intérieure.
+
+55
+00:04:18,300 --> 00:04:20,916
+Nous n'avions aucune raison
+de mettre en cause ses informations.
+
+56
+00:04:21,261 --> 00:04:24,013
+- Le mandat a été obtenu légalement.
+- C'est faux, Votre Honneur.
+
+57
+00:04:24,181 --> 00:04:26,757
+Les preuves trouvées dans ce box
+doivent être rejetées.
+
+58
+00:04:26,882 --> 00:04:29,268
+Ce mandat n'était
+même pas nécessaire.
+
+59
+00:04:29,436 --> 00:04:31,597
+En cas de danger imminent,
+
+60
+00:04:31,722 --> 00:04:35,636
+les forces de l'ordre avaient le devoir
+de fouiller ce box, même sans mandat.
+
+61
+00:04:35,894 --> 00:04:38,485
+- L'agent Booth était en danger.
+- Le danger imminent
+
+62
+00:04:38,653 --> 00:04:41,906
+s'applique seulement
+en cas de menaces significatives
+
+63
+00:04:42,074 --> 00:04:44,491
+- ou de lutte sur place.
+- Désolé, Mlle Julian,
+
+64
+00:04:44,659 --> 00:04:46,677
+mais même si l'intension
+était bonne,
+
+65
+00:04:47,006 --> 00:04:48,996
+le mandat a été obtenu illégalement.
+
+66
+00:04:49,164 --> 00:04:53,160
+Aussi, toutes les preuves trouvées
+lors de cette saisie sont rejetées.
+
+67
+00:04:53,502 --> 00:04:56,253
+- Merci, Votre Honneur.
+- Ce n'est pas une faveur personnelle.
+
+68
+00:04:56,421 --> 00:04:57,727
+La loi m'y oblige.
+
+69
+00:04:57,852 --> 00:04:59,965
+Je demande l'abandon des charges.
+
+70
+00:05:00,133 --> 00:05:02,343
+Vous aimeriez, hein ?
+Il nous reste des particules
+
+71
+00:05:02,511 --> 00:05:03,886
+de la scène de crime,
+
+72
+00:05:04,054 --> 00:05:06,889
+- la demande de rançon...
+- C'est une perte de temps
+
+73
+00:05:07,057 --> 00:05:08,641
+et d'argent pour le contribuable.
+
+74
+00:05:08,809 --> 00:05:11,602
+Si je perds, j'enverrai à tous
+une lettre d'excuse.
+
+75
+00:05:11,882 --> 00:05:14,214
+Il ne vous reste pas grand-chose,
+Mlle Julian.
+
+76
+00:05:15,304 --> 00:05:17,191
+Voulez-vous vraiment continuer ?
+
+77
+00:05:33,610 --> 00:05:34,750
+Oui, Votre Honneur.
+
+78
+00:05:37,532 --> 00:05:39,838
+Les charges sont maintenues.
+Il y aura procès.
+
+79
+00:05:40,006 --> 00:05:41,507
+La séance est levée.
+
+80
+00:05:45,292 --> 00:05:47,262
+Si vous êtes aussi brillante,
+
+81
+00:05:47,430 --> 00:05:50,307
+comment avez-vous pu manquer
+un simple numéro ?
+
+82
+00:05:53,548 --> 00:05:55,187
+Ça va ?
+Que vous a-t-elle dit ?
+
+83
+00:05:55,355 --> 00:05:57,398
+Que j'ai manqué une preuve.
+
+84
+00:05:58,441 --> 00:06:00,484
+Elle pense
+que je ne la trouverai pas.
+
+85
+00:06:03,572 --> 00:06:07,566
+Bones - Saison 5 Épisode 21
+"The Boy with the Answer"
+
+86
+00:06:08,076 --> 00:06:10,744
+Synchro : JoJo13, Kujathemas,
+Dark_Chii
+
+87
+00:06:10,912 --> 00:06:13,900
+Trad : Hélie, Rhum1, Mag31,
+tofsi, vertchoux
+
+88
+00:06:14,025 --> 00:06:17,334
+Relecture : tofsi, Mag31,
+ShalimarFox
+
+89
+00:06:30,599 --> 00:06:33,392
+Sous-titre : A²S Team
+--==All-about-Subs.fr==--
+
+90
+00:06:39,679 --> 00:06:41,817
+Booth apporte
+son dossier d'arrestation
+
+91
+00:06:41,985 --> 00:06:44,144
+et ses dossiers de procureur.
+
+92
+00:06:44,800 --> 00:06:48,128
+Je rassemble toutes les données
+associées à Taffet :
+
+93
+00:06:48,253 --> 00:06:51,035
+numéros de sécu, dates de naissances,
+tests sanguins.
+
+94
+00:06:51,203 --> 00:06:53,151
+- Âges des victimes ?
+- Je les ai.
+
+95
+00:06:53,276 --> 00:06:56,428
+J'utilise un algorithme récursif
+qui analyse
+
+96
+00:06:56,553 --> 00:06:58,350
+et croise les données.
+
+97
+00:06:58,475 --> 00:07:02,087
+Comme elles sont liées, on verra
+s'il y a des incohérences.
+
+98
+00:07:02,255 --> 00:07:04,276
+Taffet se fout encore de nous.
+
+99
+00:07:04,401 --> 00:07:05,966
+<i>Je ne suis pas d'accord</i>.
+
+100
+00:07:06,134 --> 00:07:08,635
+Sa pathologie est cohérente,
+tout ça est un jeu pour elle.
+
+101
+00:07:08,803 --> 00:07:12,135
+Elle a gagné la 1ère manche.
+Elle corse le jeu en vous provoquant.
+
+102
+00:07:12,260 --> 00:07:15,055
+Ou elle sait qu'il y a quelque chose
+dans nos échantillons,
+
+103
+00:07:15,180 --> 00:07:16,852
+elle essaye de nous distraire.
+
+104
+00:07:17,020 --> 00:07:19,021
+Vous les avez déjà analysés
+cent fois.
+
+105
+00:07:19,189 --> 00:07:21,814
+- Je dois abandonner ?
+- Non, bien sûr.
+
+106
+00:07:22,130 --> 00:07:24,544
+Je comprends ce besoin
+de s'accrocher à tout...
+
+107
+00:07:24,669 --> 00:07:27,362
+- "S'accrocher" ? Je suis cinglé ?
+- Mais non.
+
+108
+00:07:27,530 --> 00:07:31,200
+Allez-y, Dr Hodgins.
+Réétudiez ces échantillons. Au cas où.
+
+109
+00:07:38,680 --> 00:07:40,375
+Il fait encore des cauchemars.
+
+110
+00:07:40,543 --> 00:07:43,253
+- Il se réveille en sueur.
+- J'ai manqué de tact.
+
+111
+00:07:43,421 --> 00:07:45,535
+C'est dur pour vous aussi.
+Si vous avez...
+
+112
+00:07:45,660 --> 00:07:49,343
+Ça va.
+Et les poids et tailles des victimes ?
+
+113
+00:07:49,820 --> 00:07:51,804
+Bonne idée. Je vais vérifier.
+
+114
+00:08:02,098 --> 00:08:04,399
+Voici les documents
+que vous avez demandés.
+
+115
+00:08:04,567 --> 00:08:06,669
+J'avais jamais vu autant de nombres.
+
+116
+00:08:07,112 --> 00:08:09,488
+- Merci. Ça va ?
+- Parce que
+
+117
+00:08:09,656 --> 00:08:12,616
+ça pourrait ruiner ma carrière ?
+Je suis jolie. Facile de trouver un job.
+
+118
+00:08:12,784 --> 00:08:15,296
+Ils vont trouver un truc.
+Comme toujours, OK ?
+
+119
+00:08:15,589 --> 00:08:16,870
+Tu le penses vraiment ?
+
+120
+00:08:17,312 --> 00:08:19,498
+Ils m'ont sauvé, non ?
+C'était impossible.
+
+121
+00:08:20,511 --> 00:08:22,163
+C'est pas faux.
+
+122
+00:08:22,600 --> 00:08:25,256
+- Comment va votre petite amie ?
+- Elle va bien.
+
+123
+00:08:25,672 --> 00:08:27,214
+C'est pas ma petite amie.
+
+124
+00:08:27,903 --> 00:08:29,758
+Et ces regards entre vous... ?
+
+125
+00:08:30,413 --> 00:08:31,230
+Non.
+
+126
+00:08:31,866 --> 00:08:32,594
+Mouais.
+
+127
+00:08:32,762 --> 00:08:34,721
+Soyez plus convaincant à la barre.
+
+128
+00:08:35,194 --> 00:08:38,016
+Angela doit analyser tout ça
+au plus vite.
+
+129
+00:08:38,323 --> 00:08:40,972
+Le juge ne laissera pas plus
+d'un jour.
+
+130
+00:08:43,338 --> 00:08:44,745
+<i>Si je n'ai pas l'argent</i>
+
+131
+00:08:44,870 --> 00:08:48,522
+<i>sur le compte numéroté avant 20h,
+votre fils mourra.</i>
+
+132
+00:08:49,455 --> 00:08:51,869
+<i>C'est mon dernier appel.</i>
+
+133
+00:08:52,127 --> 00:08:54,717
+<i>Il n'y aura pas d'autre contact.</i>
+
+134
+00:08:55,244 --> 00:08:56,685
+Où sont les nombres ?
+
+135
+00:08:57,342 --> 00:08:58,579
+J'ai fait chou blanc.
+
+136
+00:08:58,747 --> 00:09:00,793
+Brennan et Booth
+rassemblent un autre paquet.
+
+137
+00:09:00,918 --> 00:09:03,667
+Là, j'essaie d'identifier
+la voix de Taffet sur ces cassettes.
+
+138
+00:09:03,835 --> 00:09:06,430
+- Alors ?
+- Elle a utilisé une bande inversée,
+
+139
+00:09:06,555 --> 00:09:09,418
+qui divise l'onde
+en centaines de parties,
+
+140
+00:09:09,543 --> 00:09:12,367
+chacune étant brouillée
+par différentes fréquences.
+
+141
+00:09:12,492 --> 00:09:15,095
+Tu m'as pas demandé pour
+mes résultats d'échantillons.
+
+142
+00:09:15,263 --> 00:09:16,096
+Alors ?
+
+143
+00:09:16,264 --> 00:09:19,516
+Non, rien. Sweets avait raison.
+Tu le savais.
+
+144
+00:09:23,654 --> 00:09:25,767
+J'arrive à peine à me concentrer.
+
+145
+00:09:31,714 --> 00:09:33,197
+Tu m'as épousée les idées claires.
+
+146
+00:09:36,082 --> 00:09:38,379
+Je me sens pas
+de le dire aux autres.
+
+147
+00:09:40,065 --> 00:09:42,206
+C'est comme si j'étais
+toujours enfermé.
+
+148
+00:09:44,655 --> 00:09:46,869
+En la voyant, je ressens cette...
+
+149
+00:09:47,877 --> 00:09:49,963
+colère, cette impuissance qui...
+
+150
+00:09:50,131 --> 00:09:51,627
+Je sais, je sais.
+
+151
+00:09:52,765 --> 00:09:54,051
+Quand j'étais enseveli,
+
+152
+00:09:55,364 --> 00:09:57,304
+je pensais ne jamais te revoir.
+
+153
+00:09:59,391 --> 00:10:01,141
+Et là, elle se met encore
+entre nous.
+
+154
+00:10:01,998 --> 00:10:03,053
+Mais non.
+
+155
+00:10:04,558 --> 00:10:05,562
+Regarde-moi.
+
+156
+00:10:06,637 --> 00:10:07,650
+C'est faux.
+
+157
+00:10:08,993 --> 00:10:10,628
+Rien ne peut nous séparer.
+
+158
+00:10:24,541 --> 00:10:26,795
+Vous bossez depuis des heures.
+Il faut manger.
+
+159
+00:10:26,920 --> 00:10:28,041
+Juste un moment.
+
+160
+00:10:28,709 --> 00:10:31,850
+Quand elle était procureur,
+tous ses documents avaient des numéros
+
+161
+00:10:31,975 --> 00:10:33,810
+pour les affaires, les criminels,
+
+162
+00:10:33,935 --> 00:10:35,476
+et il y a les codes postaux.
+
+163
+00:10:35,601 --> 00:10:39,465
+C'est super, mais ça ne servira à rien
+si vous mourez de faim.
+
+164
+00:10:40,447 --> 00:10:42,262
+Elle s'est moquée de moi, Booth.
+
+165
+00:10:42,387 --> 00:10:43,767
+Elle ne doit pas gagner.
+
+166
+00:10:44,727 --> 00:10:45,560
+Non.
+
+167
+00:10:45,728 --> 00:10:46,817
+Vous l'espérez.
+
+168
+00:10:47,314 --> 00:10:49,856
+Elle est peut-être immorale,
+mais brillante.
+
+169
+00:10:50,123 --> 00:10:51,190
+Moins que vous.
+
+170
+00:10:51,315 --> 00:10:53,667
+Et si elle était plus logique
+en étant glaciale ?
+
+171
+00:10:53,792 --> 00:10:55,786
+Et si cela lui donne
+un avantage sur moi ?
+
+172
+00:10:55,911 --> 00:10:58,907
+Maintenant vous préfèreriez être
+une psychopathe ?
+
+173
+00:11:00,401 --> 00:11:01,559
+Peut-être...
+
+174
+00:11:02,426 --> 00:11:06,239
+que j'ai perdu l'avantage
+en m'attachant à trop de personnes.
+
+175
+00:11:08,913 --> 00:11:12,129
+Ces liens compromettent
+ma réflexion logique.
+
+176
+00:11:12,695 --> 00:11:14,295
+Vous ne le pensez pas.
+
+177
+00:11:17,212 --> 00:11:18,412
+On s'y remet ?
+
+178
+00:11:19,788 --> 00:11:20,578
+Oui.
+
+179
+00:11:24,994 --> 00:11:26,018
+Salt Lake City ?
+
+180
+00:11:26,500 --> 00:11:27,311
+Quoi ?
+
+181
+00:11:27,479 --> 00:11:30,076
+Quand ils ont arrêté Taffet,
+elle a utilisé son coup de fil
+
+182
+00:11:30,640 --> 00:11:32,190
+à la prison là-bas.
+
+183
+00:11:32,358 --> 00:11:33,671
+Indicatif 801.
+
+184
+00:11:34,178 --> 00:11:36,778
+Elle se défend seule,
+elle n'a pas dû joindre d'avocat.
+
+185
+00:11:37,507 --> 00:11:39,294
+Elle a appelé qui, là-bas ?
+
+186
+00:11:43,610 --> 00:11:45,376
+<i>Larry's Pizza, j'écoute ?</i>
+
+187
+00:11:51,002 --> 00:11:54,362
+Aucun employé de la pizzeria
+n'est lié à Taffet et...
+
+188
+00:11:55,290 --> 00:11:57,235
+aucun n'a de casier judiciaire.
+
+189
+00:11:57,360 --> 00:12:00,344
+Elle raccroché après dix secondes.
+
+190
+00:12:00,512 --> 00:12:01,970
+Elle n'a pas réessayé.
+
+191
+00:12:02,138 --> 00:12:03,972
+Angela associe le numéro
+
+192
+00:12:04,140 --> 00:12:06,850
+avec le programme de séquençage.
+C'est ce numéro.
+
+193
+00:12:07,018 --> 00:12:08,935
+Booth, ça doit être celui-là.
+
+194
+00:12:16,553 --> 00:12:19,154
+Avec ce programme, je cherche
+
+195
+00:12:19,322 --> 00:12:21,250
+un lien avec les victimes.
+
+196
+00:12:21,866 --> 00:12:23,537
+Mais c'est sans résultat.
+
+197
+00:12:36,715 --> 00:12:40,544
+C'est pas vrai. Ces numéros,
+ce sont des coordonnées GPS.
+
+198
+00:12:49,779 --> 00:12:50,929
+Sortez de là.
+
+199
+00:13:12,588 --> 00:13:13,861
+C'est le gamin ?
+
+200
+00:13:23,078 --> 00:13:27,050
+Terrence Gilroy a eu
+une fracture du cubitus à huit ans.
+
+201
+00:13:33,241 --> 00:13:34,862
+C'est lui qu'elle a kidnappé.
+
+202
+00:13:36,843 --> 00:13:38,412
+J'appelle les parents.
+
+203
+00:13:38,537 --> 00:13:40,536
+Pourquoi nous avoir conduit ici,
+Booth ?
+
+204
+00:13:41,654 --> 00:13:43,627
+Pourquoi voulait-elle
+qu'on le trouve ?
+
+205
+00:13:56,085 --> 00:13:57,085
+Pas touche !
+
+206
+00:13:57,761 --> 00:13:59,295
+On ne touche à rien.
+
+207
+00:13:59,916 --> 00:14:00,898
+Comment ça ?
+
+208
+00:14:01,023 --> 00:14:03,686
+C'est notre seul espoir
+de trouver des preuves.
+
+209
+00:14:03,811 --> 00:14:05,804
+Pas en y touchant.
+Vous ne pouvez pas
+
+210
+00:14:05,929 --> 00:14:09,779
+être expert dans une affaire
+dont vous êtes la victime.
+
+211
+00:14:09,904 --> 00:14:11,844
+On n'est pas les victimes
+dans celle-là.
+
+212
+00:14:12,143 --> 00:14:14,394
+On a rempli une plainte
+avec sept accusations.
+
+213
+00:14:14,810 --> 00:14:17,822
+Depuis le début du procès,
+Brennan et vous êtes liés à tout.
+
+214
+00:14:17,947 --> 00:14:20,525
+C'est pour ça qu'elle voulait
+qu'on le trouve.
+
+215
+00:14:20,693 --> 00:14:24,446
+Elle sait qu'on est les seuls
+à pouvoir la relier au crime.
+
+216
+00:14:24,614 --> 00:14:25,822
+On a les mains liées.
+
+217
+00:14:27,673 --> 00:14:29,284
+Pas si vous lâchez notre dossier.
+
+218
+00:14:30,953 --> 00:14:31,824
+Pardon ?
+
+219
+00:14:32,163 --> 00:14:34,203
+Si Caroline ne plaide plus
+pour nous,
+
+220
+00:14:34,328 --> 00:14:37,334
+on pourra témoigner
+comme experts dans cette affaire.
+
+221
+00:14:37,502 --> 00:14:39,419
+- Vous feriez ça ?
+- Non.
+
+222
+00:14:39,587 --> 00:14:41,162
+Non. Caroline...
+
+223
+00:14:41,476 --> 00:14:44,508
+doit suivre notre dossier.
+Taffet a voulu nous tuer.
+
+224
+00:14:44,676 --> 00:14:46,154
+On n'a plus aucune preuve.
+
+225
+00:14:46,279 --> 00:14:50,138
+La chose à faire est de continuer
+avec de nouvelles preuves.
+
+226
+00:14:50,306 --> 00:14:51,533
+Vous plaisantez ?
+
+227
+00:14:51,936 --> 00:14:55,143
+C'est si facile pour vous
+d'oublier ce qu'il s'est passé ?
+
+228
+00:14:55,311 --> 00:14:57,345
+Je ne l'oublierai jamais,
+
+229
+00:14:57,851 --> 00:15:00,023
+ni pour Booth, ou ce garçon.
+
+230
+00:15:00,191 --> 00:15:02,651
+Il n'y a pas que vous qui souffrez,
+Dr Hodgins.
+
+231
+00:15:02,921 --> 00:15:06,446
+Mais vos émotions ne sont d'aucune aide
+pour condamner Taffet.
+
+232
+00:15:16,385 --> 00:15:17,885
+Ne vous plantez pas.
+
+233
+00:15:21,801 --> 00:15:24,138
+Je vais faire retirer les charges.
+
+234
+00:15:24,793 --> 00:15:26,341
+Après, c'est à vous.
+
+235
+00:15:45,907 --> 00:15:48,666
+L'enfant a été vu pour la dernière fois
+au Rockland Mall le 23 juin.
+
+236
+00:15:48,791 --> 00:15:51,513
+Je vais vérifier les relevés
+de carte bleue de Taffet ce jour-là.
+
+237
+00:15:51,638 --> 00:15:53,999
+Caroline dit
+que vous ne pouvez pas témoigner
+
+238
+00:15:54,124 --> 00:15:55,787
+si elle plaide votre affaire.
+
+239
+00:15:56,943 --> 00:15:58,987
+Je lui ai dit
+d'abandonner les charges aussi.
+
+240
+00:16:01,530 --> 00:16:02,961
+Vous ferez pas ça seule.
+
+241
+00:16:06,436 --> 00:16:09,634
+Elle voit le juge demain matin à 10 h,
+puis on s'en occupera.
+
+242
+00:16:10,471 --> 00:16:11,510
+Merci, Booth.
+
+243
+00:16:11,845 --> 00:16:13,823
+C'est ce qu'on fait
+entre partenaires.
+
+244
+00:16:14,825 --> 00:16:15,838
+Compris ?
+
+245
+00:16:18,039 --> 00:16:20,726
+Si Taffet est acquittée
+de cette accusation,
+
+246
+00:16:20,897 --> 00:16:22,301
+on ne pourra plus la juger.
+
+247
+00:16:23,988 --> 00:16:26,485
+C'est pour ça qu'elle voulait
+qu'on retrouve le garçon.
+
+248
+00:16:26,892 --> 00:16:28,236
+Elle est arrogante...
+
+249
+00:16:28,588 --> 00:16:30,824
+comme l'a dit Sweets.
+Elle vous a mal jugée.
+
+250
+00:16:32,040 --> 00:16:34,040
+Je fais des cauchemars, Booth.
+
+251
+00:16:36,811 --> 00:16:38,660
+Hodgins se vide de son sang...
+
+252
+00:16:40,163 --> 00:16:41,451
+vous vous noyez...
+
+253
+00:16:44,935 --> 00:16:46,588
+et je ne peux aider personne.
+
+254
+00:16:47,546 --> 00:16:48,590
+Écoutez.
+
+255
+00:16:49,025 --> 00:16:51,385
+Elle n'aura jamais le dessus.
+N'oubliez pas.
+
+256
+00:16:52,652 --> 00:16:54,220
+D'accord ? Je le promets.
+
+257
+00:17:06,072 --> 00:17:08,335
+Ce sont des fractures perimortem,
+
+258
+00:17:08,460 --> 00:17:11,112
+bilatérales sur les 5e,
+6e et 7e côtes
+
+259
+00:17:11,280 --> 00:17:13,615
+sur la ligne axillaire postérieure.
+
+260
+00:17:13,783 --> 00:17:15,825
+Des blessures
+sur les grandes cornes,
+
+261
+00:17:15,993 --> 00:17:19,204
+sur la gauche de la thyroïde
+et le cartilage cricoïde.
+
+262
+00:17:19,372 --> 00:17:21,994
+J'ai déjà vu ces lésions
+sur des victimes d'étranglement.
+
+263
+00:17:22,119 --> 00:17:24,901
+Il devait se débattre
+et Taffet tentait de le maîtriser.
+
+264
+00:17:25,026 --> 00:17:26,878
+Taffet utilise un Taser.
+
+265
+00:17:27,046 --> 00:17:29,256
+Trois millions de volts.
+C'est assez pour assommer
+
+266
+00:17:29,381 --> 00:17:30,890
+un garçonnet quelques heures.
+
+267
+00:17:31,015 --> 00:17:33,852
+Il n'était pas inconscient.
+Ce sont des lésions défensives,
+
+268
+00:17:33,977 --> 00:17:36,845
+indiquant que le garçon ne se laissait
+pas mettre dans le congélateur
+
+269
+00:17:37,014 --> 00:17:38,351
+les bras tendus.
+
+270
+00:17:38,476 --> 00:17:40,448
+Je prends des échantillons
+sous ses ongles.
+
+271
+00:17:40,573 --> 00:17:42,519
+Il l'a peut-être griffée
+dans la lutte.
+
+272
+00:17:42,687 --> 00:17:44,558
+Elle sait que les détails de ce cas
+
+273
+00:17:44,683 --> 00:17:47,392
+ne concordent pas
+avec les autres crimes,
+
+274
+00:17:47,517 --> 00:17:49,526
+lui accordant un doute raisonnable.
+
+275
+00:17:58,160 --> 00:18:01,808
+Le relevé de la carte de crédit montre
+que l'accusée était au Rockland Mall
+
+276
+00:18:01,933 --> 00:18:03,998
+le jour où Terrence Gilroy
+a été enlevé.
+
+277
+00:18:05,786 --> 00:18:09,483
+L'équipe du Jeffersonian a découvert
+que le numéro composé par Taffet
+
+278
+00:18:11,144 --> 00:18:13,212
+correspond aux coordonnées GPS
+
+279
+00:18:13,613 --> 00:18:15,272
+où le garçon a été enterré.
+
+280
+00:18:17,441 --> 00:18:19,641
+Même procédé, même enregistrement,
+
+281
+00:18:20,557 --> 00:18:22,934
+mêmes demandes
+que pour les autres enlèvements.
+
+282
+00:18:23,102 --> 00:18:26,104
+Avez-vous la preuve que le petit Gilroy
+a été enlevé au Rockland Mall ?
+
+283
+00:18:26,272 --> 00:18:29,339
+- C'est le dernier lieu où il a été vu.
+- Donc, non.
+
+284
+00:18:30,286 --> 00:18:33,653
+Personne d'autre que moi n'y faisait
+ses courses ce jour-là ?
+
+285
+00:18:33,821 --> 00:18:34,571
+Si...
+
+286
+00:18:34,739 --> 00:18:37,157
+Et pour l'appel
+que j'aurais soi-disant passé,
+
+287
+00:18:37,325 --> 00:18:40,660
+le numéro n'a-t-il pas pu être mis
+dans mon dossier par erreur ?
+
+288
+00:18:40,785 --> 00:18:41,619
+Objection.
+
+289
+00:18:41,787 --> 00:18:43,188
+- Spéculation.
+- Accordée.
+
+290
+00:18:43,539 --> 00:18:46,624
+Saviez-vous que j'ai été arrêtée
+par un officier de Salt Lake ?
+
+291
+00:18:49,211 --> 00:18:50,879
+Répondez, agent Booth.
+
+292
+00:18:52,340 --> 00:18:54,048
+N'est-il pas plus vraisemblable
+
+293
+00:18:54,216 --> 00:18:56,259
+qu'il ait téléphoné et que le numéro
+
+294
+00:18:56,427 --> 00:18:58,553
+ait été mis dans mon dossier
+par erreur ?
+
+295
+00:18:58,721 --> 00:19:00,680
+Objection. Spéculation, encore.
+
+296
+00:19:00,848 --> 00:19:03,475
+C'est un doute raisonnable,
+vraiment raisonnable.
+
+297
+00:19:03,643 --> 00:19:05,143
+- Votre Honneur...
+- Rejetée.
+
+298
+00:19:05,311 --> 00:19:06,936
+Plus de questions, Votre Honneur.
+
+299
+00:19:23,350 --> 00:19:25,261
+Tu sais que Taffet vous manipule ?
+
+300
+00:19:25,719 --> 00:19:26,723
+Ça va.
+
+301
+00:19:26,848 --> 00:19:29,459
+- Non, vous étiez sur la défensive.
+- On a le garçon.
+
+302
+00:19:29,627 --> 00:19:31,753
+- Parce qu'elle le voulait.
+- Tout psychopathe
+
+303
+00:19:31,921 --> 00:19:33,963
+finit par aller trop loin
+et se vendre.
+
+304
+00:19:34,391 --> 00:19:36,649
+Pas sans blesser
+des tas d'innocents.
+
+305
+00:19:39,011 --> 00:19:39,844
+À plus.
+
+306
+00:19:50,895 --> 00:19:52,816
+Navrée de vous déranger.
+Je peux ?
+
+307
+00:19:53,106 --> 00:19:53,996
+Bien sûr.
+
+308
+00:20:00,428 --> 00:20:03,010
+- Comment ça va ?
+- Je ne sais pas trop.
+
+309
+00:20:03,135 --> 00:20:04,536
+D'où ma venue.
+
+310
+00:20:06,178 --> 00:20:07,876
+Je suis inquiète.
+
+311
+00:20:10,584 --> 00:20:12,669
+Cette affaire mine tout le monde.
+
+312
+00:20:12,837 --> 00:20:15,572
+- Vous aussi ?
+- Oui, moi aussi.
+
+313
+00:20:16,388 --> 00:20:18,406
+C'est une situation très stressante.
+
+314
+00:20:19,213 --> 00:20:20,454
+Vous le ressentez.
+
+315
+00:20:20,579 --> 00:20:22,974
+On dirait que tout part en vrille.
+
+316
+00:20:23,099 --> 00:20:26,641
+On cherche tous une preuve
+pour boucler Taffet.
+
+317
+00:20:26,809 --> 00:20:29,894
+Mais on a toujours les mains vides.
+On dirait qu'elle nous manipule.
+
+318
+00:20:30,062 --> 00:20:31,436
+Je devrais pouvoir
+
+319
+00:20:32,044 --> 00:20:34,606
+les rassembler,
+les garder concentrés.
+
+320
+00:20:36,023 --> 00:20:37,735
+Vous voulez un résultat garanti.
+
+321
+00:20:41,786 --> 00:20:43,421
+J'aimerais pouvoir.
+
+322
+00:20:44,586 --> 00:20:46,919
+On savait que ce serait
+une bataille difficile.
+
+323
+00:20:47,044 --> 00:20:48,329
+Y croyions-nous ?
+
+324
+00:20:48,497 --> 00:20:51,329
+On sait tous sa culpabilité.
+Dans un sens,
+
+325
+00:20:51,885 --> 00:20:55,142
+on s'est dit que dans un monde juste,
+elle devait payer.
+
+326
+00:20:57,271 --> 00:20:59,844
+Ça implique un monde juste,
+malheureusement.
+
+327
+00:21:01,888 --> 00:21:02,888
+C'est...
+
+328
+00:21:04,117 --> 00:21:06,163
+mon équipe qu'elle a blessé,
+mes amis.
+
+329
+00:21:06,288 --> 00:21:07,288
+J'aimerais...
+
+330
+00:21:09,341 --> 00:21:10,841
+faire quelque chose.
+
+331
+00:21:15,006 --> 00:21:16,006
+Je sais.
+
+332
+00:21:57,983 --> 00:22:00,186
+Vous pensiez
+que je vous suivrais pas ?
+
+333
+00:22:09,362 --> 00:22:10,870
+C'est ça que vous voulez ?
+
+334
+00:22:11,038 --> 00:22:13,704
+- Je crois pas au système.
+- Ratez-la et l'affaire est compromise,
+
+335
+00:22:13,829 --> 00:22:15,793
+- Taffet est dehors.
+- Je ne rate pas.
+
+336
+00:22:22,045 --> 00:22:24,676
+Quand apprendrez-vous
+à ne pas vous frotter à moi ?
+
+337
+00:22:24,990 --> 00:22:27,558
+Vous faites une grosse erreur.
+Tempe est en danger.
+
+338
+00:22:30,386 --> 00:22:31,182
+Venez.
+
+339
+00:22:34,176 --> 00:22:36,832
+- Il a voulu la tuer ?
+- Son fusil était pointé sur elle,
+
+340
+00:22:36,957 --> 00:22:39,852
+- alors faites la conclusion.
+- Pourquoi ferait-il ça ?
+
+341
+00:22:39,977 --> 00:22:42,219
+Vous protéger.
+Un criminel comme Max
+
+342
+00:22:42,344 --> 00:22:44,404
+ne fait apparemment pas confiance
+au système.
+
+343
+00:22:44,869 --> 00:22:45,925
+Désolée, Booth.
+
+344
+00:22:46,050 --> 00:22:49,450
+- J'aimerais qu'il soit différent.
+- Moi aussi. Il m'a frappé à l'oeil.
+
+345
+00:22:51,498 --> 00:22:53,033
+- Brennan.
+- Chérie.
+
+346
+00:22:53,701 --> 00:22:56,708
+- Tu dois me faire sortir.
+- Quoi ? Non, Papa.
+
+347
+00:22:57,241 --> 00:22:58,559
+Je le faisais pour toi.
+
+348
+00:22:58,684 --> 00:23:01,237
+<i>Tu ne peux pas tuer
+des gens pour moi.</i>
+
+349
+00:23:01,589 --> 00:23:03,423
+Offre-moi un pull,
+comme un père normal.
+
+350
+00:23:03,591 --> 00:23:06,050
+- Laissez-la, Max.
+- Booth dit que tu ne sortiras pas
+
+351
+00:23:06,218 --> 00:23:07,677
+avant la fin du procès.
+
+352
+00:23:07,845 --> 00:23:08,803
+<i>Je dois y aller.</i>
+
+353
+00:23:08,928 --> 00:23:11,048
+J'ai mal au dos.
+Tu connais les lits ici.
+
+354
+00:23:11,173 --> 00:23:12,357
+<i>Au revoir, Papa.</i>
+
+355
+00:23:14,464 --> 00:23:15,518
+Désolé, Bones.
+
+356
+00:23:16,204 --> 00:23:18,682
+Vous n'aviez sûrement pas envie
+de gérer ça en plus.
+
+357
+00:23:20,534 --> 00:23:22,161
+J'aurais aimé qu'il le fasse.
+
+358
+00:23:22,484 --> 00:23:24,402
+Pas votre bon côté,
+alors concentrons-nous.
+
+359
+00:23:26,297 --> 00:23:28,023
+Du nouveau sur le garçon ?
+
+360
+00:23:28,240 --> 00:23:30,459
+J'ai obtenu des détails
+sur l'agresseur
+
+361
+00:23:30,584 --> 00:23:33,411
+par les fractures sur le squelette,
+ça correspond à Taffet.
+
+362
+00:23:33,579 --> 00:23:35,974
+Je prépare une présentation
+pour la cour.
+
+363
+00:23:36,223 --> 00:23:39,487
+- Le gamin s'est bien battu, non ?
+- On a des preuves d'une longue lutte.
+
+364
+00:23:39,612 --> 00:23:41,836
+- Oui.
+- Il n'y a pas été de mains mortes.
+
+365
+00:23:42,182 --> 00:23:45,026
+Parker fait la même chose.
+
+366
+00:23:45,151 --> 00:23:46,841
+Il mordrait son oreille et fuirait.
+
+367
+00:23:48,945 --> 00:23:50,705
+- Il la mordrait ?
+- Oui.
+
+368
+00:23:51,328 --> 00:23:53,056
+À cet âge, c'est leur truc.
+
+369
+00:23:54,683 --> 00:23:55,641
+Ils mordent.
+
+370
+00:23:56,980 --> 00:23:58,603
+Je dois retourner au labo.
+
+371
+00:24:07,060 --> 00:24:08,780
+S'il la mordue, il doit y avoir
+
+372
+00:24:08,948 --> 00:24:11,282
+des preuves sur le maxillaire,
+la mandibule ou les dents.
+
+373
+00:24:11,901 --> 00:24:15,286
+Les dents ont été lavées.
+Taffet a dû les essuyer.
+
+374
+00:24:15,454 --> 00:24:17,618
+La deuxième prémolaire gauche
+est ébréchée.
+
+375
+00:24:17,743 --> 00:24:20,041
+Il pourrait y avoir des traces
+dans l'abrasion,
+
+376
+00:24:20,750 --> 00:24:22,824
+des tissus de Heather Taffet.
+
+377
+00:24:22,951 --> 00:24:26,047
+La salive contient de l'amylase
+qui aurait désintégré ces tissus.
+
+378
+00:24:26,440 --> 00:24:29,478
+Pas si c'était enfoncé entre les dents
+ou sous la gencive.
+
+379
+00:24:37,495 --> 00:24:38,976
+<i>Si je n'ai pas l'argent</i>
+
+380
+00:24:39,144 --> 00:24:42,469
+<i>sur le compte numéroté avant 20 h,
+votre fils mourra.</i>
+
+381
+00:24:43,389 --> 00:24:44,496
+<i>C'est mon der...</i>
+
+382
+00:24:44,621 --> 00:24:48,407
+Ce cryptage est fait
+selon un code bien particulier.
+
+383
+00:24:48,532 --> 00:24:52,366
+Les fréquences individuelles entre
+les clics sont inversées et recombinées.
+
+384
+00:24:52,710 --> 00:24:54,033
+J'ai utilisé un programme
+
+385
+00:24:54,201 --> 00:24:57,537
+qui décrypte chacun des 423 segments
+séparément
+
+386
+00:24:57,705 --> 00:24:59,341
+jusqu'à avoir une voix claire.
+
+387
+00:25:00,665 --> 00:25:02,073
+<i>Si je n'ai pas l'argent</i>
+
+388
+00:25:02,198 --> 00:25:05,920
+<i>sur le compte numéroté avant 20 h,
+votre fils mourra.</i>
+
+389
+00:25:06,736 --> 00:25:08,619
+<i>C'est mon dernier appel.</i>
+
+390
+00:25:09,551 --> 00:25:12,218
+- <i>Il n'y aura pas d'autre...</i>
+- Vous avez réussi, Angela.
+
+391
+00:25:12,682 --> 00:25:13,695
+C'est Taffet.
+
+392
+00:25:13,820 --> 00:25:15,692
+J'aimerais la voir contredire ça.
+
+393
+00:25:18,288 --> 00:25:19,673
+<i>Si je n'ai pas l'argent</i>
+
+394
+00:25:19,798 --> 00:25:23,261
+<i>sur le compte numéroté avant 20 h,
+votre fils mourra.</i>
+
+395
+00:25:24,186 --> 00:25:26,174
+<i>C'est mon dernier appel.</i>
+
+396
+00:25:26,942 --> 00:25:29,042
+<i>Il n'y aura pas d'autre contact.</i>
+
+397
+00:25:29,831 --> 00:25:33,322
+D'après votre expérience,
+Mlle Montenegro, à qui est cette voix ?
+
+398
+00:25:35,034 --> 00:25:38,494
+Les caractéristiques vocales
+et la fréquence correspondent
+
+399
+00:25:38,662 --> 00:25:40,930
+aux enregistrements non cryptés
+de sa voix.
+
+400
+00:25:41,055 --> 00:25:43,207
+Merci. Pas d'autre question.
+
+401
+00:25:44,395 --> 00:25:47,170
+C'était très impressionant,
+Mlle Montenegro.
+
+402
+00:25:47,338 --> 00:25:49,672
+Pouvez-vous énoncer vos diplômes
+à la cour ?
+
+403
+00:25:49,955 --> 00:25:52,255
+J'ai un diplôme des Beaux-Arts
+de l'Université du Texas
+
+404
+00:25:52,380 --> 00:25:54,051
+et une formation en Informatique.
+
+405
+00:25:54,317 --> 00:25:57,722
+J'ai aussi étudié l'illustration
+biomédicale à l'Université Américaine.
+
+406
+00:25:57,890 --> 00:26:00,989
+Mais vous n'êtes pas diplômée
+en Ingénierie du Son, vrai ?
+
+407
+00:26:01,686 --> 00:26:02,404
+Non.
+
+408
+00:26:02,660 --> 00:26:06,105
+Objection. Mlle Montenegro a
+de nombreux talents
+
+409
+00:26:06,273 --> 00:26:08,707
+acquis dans son travail
+de reconstitution judiciaire.
+
+410
+00:26:08,901 --> 00:26:12,236
+Le SDF de ma rue a du talent
+avec les machines temporelles.
+
+411
+00:26:12,537 --> 00:26:14,722
+Je ne l'appellerai pourtant pas
+pour témoigner.
+
+412
+00:26:14,847 --> 00:26:16,036
+Ça suffit.
+
+413
+00:26:16,241 --> 00:26:17,627
+D'autres questions ?
+
+414
+00:26:17,752 --> 00:26:20,203
+Oui, Votre Honneur.
+Je voudrais apporter comme preuve
+
+415
+00:26:20,469 --> 00:26:22,538
+la pièce 461B,
+
+416
+00:26:22,706 --> 00:26:25,333
+qui est une déconstruction
+de la même bande
+
+417
+00:26:25,842 --> 00:26:28,211
+réalisée par l'agent spécial
+Graham Steele du FBI,
+
+418
+00:26:28,379 --> 00:26:29,837
+qui a un doctorat
+
+419
+00:26:30,005 --> 00:26:33,507
+en Analyse Sonore
+de l'Université de Pennsylvanie.
+
+420
+00:26:35,112 --> 00:26:36,695
+<i>Si je n'ai pas l'argent</i>
+
+421
+00:26:36,820 --> 00:26:39,764
+<i>sur le compte numéroté avant 20 h,
+votre fils...</i>
+
+422
+00:26:39,932 --> 00:26:41,106
+Ce n'est pas moi.
+
+423
+00:26:41,231 --> 00:26:44,524
+Il a visiblement manipulé
+la hauteur et le timbre de la voix.
+
+424
+00:26:44,649 --> 00:26:46,479
+C'est pas ce que vous avez fait ?
+
+425
+00:26:46,684 --> 00:26:48,189
+Ces ondes sonores ont
+
+426
+00:26:48,357 --> 00:26:50,595
+un spectre de modulation de fréquence
+masqué.
+
+427
+00:26:51,098 --> 00:26:52,506
+Comme une empreinte.
+
+428
+00:26:52,631 --> 00:26:54,237
+Quel que soit le jargon technique,
+
+429
+00:26:54,784 --> 00:26:58,449
+il paraît clair que quiconque,
+même sans aucune qualification,
+
+430
+00:26:58,617 --> 00:27:00,382
+peut convertir une voix
+en une autre.
+
+431
+00:27:00,507 --> 00:27:02,411
+Objection !
+L'avocat palabre.
+
+432
+00:27:02,579 --> 00:27:04,288
+- Accordée.
+- Désolée, Votre Honneur.
+
+433
+00:27:04,456 --> 00:27:06,006
+Pas d'autre question.
+
+434
+00:27:24,202 --> 00:27:26,352
+- Bones, prête pour la cour ?
+- Oui.
+
+435
+00:27:26,520 --> 00:27:28,190
+J'ai une présentation vidéo
+
+436
+00:27:28,315 --> 00:27:30,898
+qui montre que la victime a subi
+des fractures aux côtes
+
+437
+00:27:31,066 --> 00:27:33,609
+et une fracture
+de l'épicondyle latéral du...
+
+438
+00:27:33,777 --> 00:27:36,153
+Et si on évitait
+les trucs scientifiques ?
+
+439
+00:27:36,913 --> 00:27:39,413
+La science nous donne
+la taille de l'assaillant.
+
+440
+00:27:39,538 --> 00:27:41,664
+162 centimètres...
+la taille de Taffet.
+
+441
+00:27:41,789 --> 00:27:44,619
+C'est bien et tout,
+mais Taffet s'en donne à coeur joie,
+
+442
+00:27:44,744 --> 00:27:46,870
+en rejetant
+tout le baratin technique.
+
+443
+00:27:47,578 --> 00:27:49,500
+Et le jury semble l'apprécier
+pour ça.
+
+444
+00:27:50,243 --> 00:27:51,585
+Mais ce sont les faits.
+
+445
+00:27:51,872 --> 00:27:54,510
+C'est la façon
+de présenter les faits
+
+446
+00:27:54,715 --> 00:27:56,424
+qui fait gagner ou perdre.
+
+447
+00:27:56,980 --> 00:27:58,780
+Bones, le jury doit savoir
+
+448
+00:27:59,197 --> 00:28:00,842
+ce qu'a enduré ce garçon.
+
+449
+00:28:03,879 --> 00:28:05,679
+J'ai déjà témoigné, Booth.
+
+450
+00:28:05,851 --> 00:28:06,809
+Je serai bien.
+
+451
+00:28:06,977 --> 00:28:08,015
+Allons-y.
+
+452
+00:28:13,069 --> 00:28:14,150
+Terrence Gilroy
+
+453
+00:28:14,318 --> 00:28:17,629
+a eu la grande corne de l'hyoïde
+compressée,
+
+454
+00:28:17,905 --> 00:28:19,572
+ce qui indique que l'assaillant
+
+455
+00:28:19,986 --> 00:28:22,658
+a étranglé le garçon
+d'une seule main...
+
+456
+00:28:22,826 --> 00:28:24,846
+la main dominante gauche
+dans ce cas.
+
+457
+00:28:25,250 --> 00:28:27,955
+Je voudrais présenter
+des échantillons d'écrits
+
+458
+00:28:28,123 --> 00:28:30,422
+confirmant que l'accusée
+est gauchère.
+
+459
+00:28:30,547 --> 00:28:32,501
+Pas d'objection, tant qu'il est noté
+
+460
+00:28:32,669 --> 00:28:35,432
+que 8 % de la population
+est gauchère.
+
+461
+00:28:35,823 --> 00:28:37,381
+Dont vous, Votre Honneur.
+
+462
+00:28:40,753 --> 00:28:41,552
+Allez-y.
+
+463
+00:28:42,513 --> 00:28:44,976
+La victime a subi une fracture
+
+464
+00:28:45,101 --> 00:28:48,267
+de l'épicondyle latéral
+et de la partie distale
+
+465
+00:28:48,435 --> 00:28:50,478
+de la diaphyse de l'humérus gauche.
+
+466
+00:28:54,239 --> 00:28:55,399
+Pour être claire,
+
+467
+00:28:55,567 --> 00:28:58,540
+les os de Terrence Gilroy
+n'ont pu être brisés
+
+468
+00:28:58,665 --> 00:29:00,759
+que par quelqu'un agenouillé sur lui
+
+469
+00:29:00,884 --> 00:29:03,657
+pendant qu'on le poussait
+dans le congélateur.
+
+470
+00:29:03,923 --> 00:29:06,126
+Les lignes de fractures radiales
+montrent
+
+471
+00:29:06,251 --> 00:29:10,240
+que l'assaillant pesait
+entre 57 et 61 kg...
+
+472
+00:29:10,749 --> 00:29:12,124
+le poids de l'accusée.
+
+473
+00:29:12,292 --> 00:29:13,777
+Objection. Spéculation.
+
+474
+00:29:13,902 --> 00:29:15,711
+Doutez-vous de mes qualifications ?
+
+475
+00:29:15,879 --> 00:29:18,386
+Car vous ne trouverez pas
+d'anthropologue judiciaire
+
+476
+00:29:18,511 --> 00:29:21,384
+plus expérimenté ou respecté
+dans le monde.
+
+477
+00:29:21,552 --> 00:29:24,652
+Donc j'aimerais ne pas être interrompue
+avant la fin de mon témoignage.
+
+478
+00:29:24,777 --> 00:29:25,827
+Dr Brennan,
+
+479
+00:29:26,838 --> 00:29:28,265
+c'est moi qui décide ici.
+
+480
+00:29:30,444 --> 00:29:31,268
+Rejetée.
+
+481
+00:29:31,933 --> 00:29:32,812
+Continuez.
+
+482
+00:29:33,135 --> 00:29:35,981
+Puisque ces fractures ont été causées
+par les genoux de l'assaillant
+
+483
+00:29:36,149 --> 00:29:38,502
+et que les fissures
+des rotules de l'enfant
+
+484
+00:29:38,627 --> 00:29:40,820
+sont dues aux pointes
+
+485
+00:29:40,988 --> 00:29:43,965
+de grosses bottes,
+on peut déterminer la longueur du tibia.
+
+486
+00:29:44,090 --> 00:29:46,700
+Et quelle information
+peut-on en tirer ?
+
+487
+00:29:47,103 --> 00:29:50,651
+Ça nous donne la taille de l'assaillant,
+qui est 1,62 mètre.
+
+488
+00:29:51,387 --> 00:29:53,290
+La même taille que l'accusée.
+
+489
+00:29:53,608 --> 00:29:55,894
+Il est clair
+d'après cette preuve circonstancielle
+
+490
+00:29:56,019 --> 00:29:58,539
+et ces faits
+que l'enfant a été attaqué
+
+491
+00:29:58,664 --> 00:30:00,423
+avec sadisme par Mlle Taffet.
+
+492
+00:30:00,591 --> 00:30:01,591
+Objection.
+
+493
+00:30:01,716 --> 00:30:03,968
+C'est au jury de le déterminer,
+pas au témoin.
+
+494
+00:30:04,965 --> 00:30:06,679
+L'assaillant de 1,62 m...
+
+495
+00:30:08,188 --> 00:30:09,807
+a écrasé la poitrine du garçon,
+
+496
+00:30:10,548 --> 00:30:11,559
+l'a étouffé
+
+497
+00:30:12,156 --> 00:30:15,688
+et finalement l'a laissé mourir
+dans la torture en l'enterrant vivant.
+
+498
+00:30:15,856 --> 00:30:17,301
+Objection. Spéculation.
+
+499
+00:30:17,524 --> 00:30:19,859
+- Elle ne peut parler du ressenti.
+- J'ai été enterrée vivante.
+
+500
+00:30:25,352 --> 00:30:28,309
+Ce qui me rend capable de commenter
+cette horreur.
+
+501
+00:30:28,434 --> 00:30:30,625
+Objection, Votre Honneur.
+C'est du spectacle.
+
+502
+00:30:30,750 --> 00:30:32,997
+À moins que le témoin
+n'ait d'autres faits...
+
+503
+00:30:33,165 --> 00:30:34,074
+Accordée.
+
+504
+00:30:35,161 --> 00:30:37,710
+Avez-vous d'autres questions
+pour le Dr Brennan, Mlle Julian ?
+
+505
+00:30:37,878 --> 00:30:40,983
+Non, Votre Honneur.
+J'ai appris tout ce dont j'avais besoin.
+
+506
+00:30:41,610 --> 00:30:42,715
+C'est à vous.
+
+507
+00:30:46,622 --> 00:30:50,014
+Dr Brennan, ne pensez-vous pas
+que le choc d'avoir été enlevée
+
+508
+00:30:50,182 --> 00:30:51,849
+vous empêche d'être objective ?
+
+509
+00:30:52,017 --> 00:30:53,142
+Objection.
+
+510
+00:30:53,310 --> 00:30:56,854
+Elle témoigne en tant qu'experte,
+pas comme victime.
+
+511
+00:30:57,022 --> 00:31:00,115
+- Elle a dit avoir été enterrée vivante.
+- Effectivement, Mlle Julian.
+
+512
+00:31:00,984 --> 00:31:01,901
+Rejetée.
+
+513
+00:31:02,210 --> 00:31:03,944
+Il est naturel que vous vouliez
+
+514
+00:31:04,112 --> 00:31:07,239
+construire les faits tels
+qu'ils vous apportent de la paix.
+
+515
+00:31:07,407 --> 00:31:08,676
+J'aime pas vos allusions.
+
+516
+00:31:08,801 --> 00:31:11,146
+Je ne laisse pas mes émotions
+brouiller mes conclusions.
+
+517
+00:31:11,328 --> 00:31:12,800
+Pas volontairement, bien sûr.
+
+518
+00:31:12,996 --> 00:31:15,832
+- Allez-vous poser une question ?
+- Oui. Pardon.
+
+519
+00:31:15,957 --> 00:31:19,251
+Dr Brennan, vous êtes suivie
+par un psychologue du FBI, c'est vrai ?
+
+520
+00:31:19,419 --> 00:31:21,170
+Ça n'a rien à voir avec...
+
+521
+00:31:21,338 --> 00:31:23,720
+Un oui ou non suffit, Dr Brennan.
+
+522
+00:31:23,922 --> 00:31:26,651
+Êtes-vous suivie
+par un psychologue du FBI ?
+
+523
+00:31:28,399 --> 00:31:30,531
+- Oui, mais...
+- Merci. Pas d'autre question.
+
+524
+00:31:30,656 --> 00:31:34,109
+Ça n'a rien à voir avec l'affaire.
+Mes conclusions sont fondées.
+
+525
+00:31:34,726 --> 00:31:37,458
+- Vous devriez vous calmer.
+- Mes conclusions sont fondées.
+
+526
+00:31:48,759 --> 00:31:49,823
+Un acarien ?
+
+527
+00:31:49,991 --> 00:31:53,035
+- Donc ce morpion va nous sauver ?
+- Ne l'appelle pas morpion.
+
+528
+00:31:53,203 --> 00:31:55,916
+C'est insultant.
+On a réexaminé les dents du garçon
+
+529
+00:31:56,041 --> 00:31:59,137
+et on l'a trouvé coincé entre la canine
+et l'incisive droite.
+
+530
+00:31:59,376 --> 00:32:01,844
+Les acariens mangent
+les cellules mortes de la peau.
+
+531
+00:32:01,969 --> 00:32:03,775
+Et l'estomac de celui-ci est plein.
+
+532
+00:32:03,900 --> 00:32:05,256
+Si le petit a mordu Taffet,
+
+533
+00:32:05,424 --> 00:32:07,380
+les cellules sont sûrement
+les siennes.
+
+534
+00:32:07,505 --> 00:32:11,027
+Il doit en rester peu,
+mais assez pour nous donner l'ADN.
+
+535
+00:32:13,966 --> 00:32:16,093
+C'est un <i>Dermatophagoides farinae</i>.
+
+536
+00:32:16,218 --> 00:32:19,144
+Pour ceux ici ne parlant pas l'insecte,
+c'est quoi exactement ?
+
+537
+00:32:19,312 --> 00:32:20,437
+Un acarien...
+
+538
+00:32:20,605 --> 00:32:24,048
+un insecte qu'on trouve sur les habits,
+mais qui se nourrit
+
+539
+00:32:24,173 --> 00:32:26,527
+des cellules de celui
+portant ces habits.
+
+540
+00:32:26,695 --> 00:32:28,810
+Et où a-t-on trouvé cet acarien ?
+
+541
+00:32:28,989 --> 00:32:30,932
+Entre les dents de Terrence Gilroy.
+
+542
+00:32:31,241 --> 00:32:33,033
+Il y a été transféré quand le garçon
+
+543
+00:32:33,201 --> 00:32:35,160
+a mordu la personne
+qui l'a kidnappé.
+
+544
+00:32:36,144 --> 00:32:37,997
+Comment savez-vous ça ?
+
+545
+00:32:38,165 --> 00:32:41,404
+L'acarien contient
+des cellules épithéliales de femme.
+
+546
+00:32:41,877 --> 00:32:43,502
+On a extrait ces cellules
+
+547
+00:32:43,670 --> 00:32:46,234
+et on les a comparées
+à plusieurs bases de données ADN.
+
+548
+00:32:46,647 --> 00:32:48,382
+Les cellules sont à Heather Taffet.
+
+549
+00:32:50,877 --> 00:32:52,219
+Rien d'autre.
+
+550
+00:32:52,983 --> 00:32:54,221
+À vous, Mlle Taffet.
+
+551
+00:32:55,157 --> 00:32:57,762
+Il semble
+que vous avez négligé d'inclure
+
+552
+00:32:57,887 --> 00:33:00,625
+un échantillon que j'aurais pu tester
+indépendamment.
+
+553
+00:33:00,750 --> 00:33:04,064
+Il n'y avait pas assez de cellules,
+le test a détruit l'échantillon,
+
+554
+00:33:04,232 --> 00:33:07,693
+mais les procédures et résultats
+figurent tous dans notre rapport.
+
+555
+00:33:08,078 --> 00:33:10,365
+Que je comprenne bien.
+
+556
+00:33:10,490 --> 00:33:12,961
+J'ai accès à vos notes,
+mais je ne peux pas examiner
+
+557
+00:33:13,086 --> 00:33:15,656
+la preuve en elle-même,
+car vous l'avez détruite ?
+
+558
+00:33:15,827 --> 00:33:18,387
+Votre Honneur, Californie
+contre Trombetta,
+
+559
+00:33:18,580 --> 00:33:20,636
+la Cour Suprême a établi
+que l'accusation
+
+560
+00:33:20,761 --> 00:33:22,818
+pouvait détruire un échantillon
+pour un test ADN
+
+561
+00:33:22,943 --> 00:33:25,502
+- car il n'y avait pas mauvaise foi.
+- Mauvaise foi ?
+
+562
+00:33:25,670 --> 00:33:29,057
+Les motivations de chaque employé
+du Jeffersonian sont suspectes
+
+563
+00:33:29,182 --> 00:33:32,551
+et leur seule preuve physique a disparu,
+en admettant qu'elle ait existé.
+
+564
+00:33:32,719 --> 00:33:35,804
+J'en ai marre
+de vos insinuations sournoises.
+
+565
+00:33:36,172 --> 00:33:38,474
+- Pareil.
+- Assez, Mme Julian.
+
+566
+00:33:38,642 --> 00:33:41,018
+Votre Honneur, j'aimerais
+demander une motion
+
+567
+00:33:41,186 --> 00:33:43,534
+pour que cette preuve ADN
+soit écartée.
+
+568
+00:33:43,659 --> 00:33:45,722
+Le protocole a été respecté,
+Mme Taffet.
+
+569
+00:33:46,105 --> 00:33:48,202
+C'est au jury de décider
+comment cette preuve
+
+570
+00:33:48,327 --> 00:33:50,861
+influencera le verdict.
+Motion refusée.
+
+571
+00:34:01,475 --> 00:34:03,868
+Vous avez vu sa tête ?
+Elle n'a rien vu venir.
+
+572
+00:34:03,993 --> 00:34:05,468
+La conclusion de Caroline
+
+573
+00:34:06,165 --> 00:34:07,731
+va déchirer.
+
+574
+00:34:07,856 --> 00:34:09,231
+Bon, voilà.
+
+575
+00:34:10,175 --> 00:34:11,560
+C'est fini, hein ?
+
+576
+00:34:14,318 --> 00:34:16,870
+Ça va, Bones ?
+Votre équipe l'a démolie.
+
+577
+00:34:17,583 --> 00:34:18,962
+Je suis fatiguée.
+
+578
+00:34:20,183 --> 00:34:21,684
+C'était une affaire difficile.
+
+579
+00:34:23,063 --> 00:34:24,713
+C'est pas seulement ça.
+
+580
+00:34:27,287 --> 00:34:28,561
+Je suis fatiguée...
+
+581
+00:34:29,658 --> 00:34:30,587
+de tout ça.
+
+582
+00:34:30,712 --> 00:34:32,913
+D'être confrontée aux meurtres,
+
+583
+00:34:33,994 --> 00:34:36,688
+aux victimes, à la tristesse
+et à la douleur.
+
+584
+00:34:37,530 --> 00:34:39,025
+C'est notre boulot.
+
+585
+00:34:39,579 --> 00:34:41,249
+On coince les méchants,
+
+586
+00:34:41,374 --> 00:34:43,122
+on contribue à un monde meilleur.
+
+587
+00:34:43,915 --> 00:34:46,917
+C'est <i>votre</i> boulot
+et je me suis retrouvée dedans.
+
+588
+00:34:47,085 --> 00:34:50,318
+Vous vous occupiez des morts
+bien avant que j'arrive.
+
+589
+00:34:50,677 --> 00:34:52,798
+Comme chercheur, anthropologue.
+
+590
+00:34:53,737 --> 00:34:56,102
+C'est ma façon de contribuer
+à un monde meilleur.
+
+591
+00:34:56,227 --> 00:34:57,886
+Oui, vous y contribuez.
+
+592
+00:34:59,419 --> 00:35:00,774
+Allez, on trinque.
+
+593
+00:35:01,993 --> 00:35:03,058
+Vous avez peur.
+
+594
+00:35:04,254 --> 00:35:05,269
+Et demain,
+
+595
+00:35:05,437 --> 00:35:07,538
+on aura gagné, et tout sera parfait.
+
+596
+00:35:08,062 --> 00:35:09,189
+Ça va aller. 
+
+597
+00:35:20,075 --> 00:35:22,290
+Nous sommes ici pour rendre justice
+
+598
+00:35:22,415 --> 00:35:24,329
+à cet enfant de dix ans
+
+599
+00:35:25,063 --> 00:35:27,794
+qui a été enlevé, violemment battu
+
+600
+00:35:27,919 --> 00:35:30,419
+et enterré vivant
+par Heather Taffet.
+
+601
+00:35:30,722 --> 00:35:33,436
+Mme Taffet a été aperçue
+sur les lieux de l'enlèvement.
+
+602
+00:35:33,715 --> 00:35:35,883
+Sa taille correspond à celle
+de l'assaillant.
+
+603
+00:35:36,209 --> 00:35:37,676
+Elle est gauchère.
+
+604
+00:35:37,844 --> 00:35:40,675
+Sa voix a été identifiée
+sur les demandes de rançon.
+
+605
+00:35:40,931 --> 00:35:42,931
+Tout cela paraît raisonnable, hein ?
+
+606
+00:35:43,291 --> 00:35:44,820
+Ces soi-disant faits
+
+607
+00:35:45,393 --> 00:35:47,814
+ont été réunis
+par des personnes elles-mêmes
+
+608
+00:35:47,939 --> 00:35:51,523
+victimes d'un odieux criminel
+qui n'a jamais été arrêté.
+
+609
+00:35:52,114 --> 00:35:54,842
+- Ils cherchent un bouc émissaire.
+- Mais seule Mme Taffet
+
+610
+00:35:55,127 --> 00:35:58,418
+peut correspondre à l'ADN
+trouvé dans la bouche de l'enfant.
+
+611
+00:35:58,811 --> 00:36:02,785
+Cette preuve nous est offerte
+dans la mort par ce courageux enfant.
+
+612
+00:36:02,953 --> 00:36:06,599
+Encore une fois, les seules personnes
+à avoir vu cette particule
+
+613
+00:36:06,724 --> 00:36:09,427
+et à avoir touché les soi-disantes
+
+614
+00:36:09,797 --> 00:36:11,310
+cellules épithéliales
+
+615
+00:36:11,878 --> 00:36:13,504
+sont deux victimes d'enlèvement...
+
+616
+00:36:13,831 --> 00:36:16,256
+un théoricien de la conspiration
+
+617
+00:36:16,424 --> 00:36:18,592
+et une anthropologue traumatisée,
+
+618
+00:36:18,760 --> 00:36:20,719
+actuellement suivie
+par un psychologue.
+
+619
+00:36:21,126 --> 00:36:22,638
+Et le Dr Saroyan,
+
+620
+00:36:23,064 --> 00:36:25,933
+qui n'a pas pu faire son travail
+sans détruire la preuve,
+
+621
+00:36:26,101 --> 00:36:29,019
+m'empêchant ainsi de mettre en place
+une défense.
+
+622
+00:36:29,187 --> 00:36:32,919
+Elle n'a aucune défense,
+à part calomnier ces experts.
+
+623
+00:36:33,316 --> 00:36:36,549
+Ils vous ont dit ce que Heather Taffet
+a fait à cet enfant.
+
+624
+00:36:37,418 --> 00:36:38,445
+La loi est claire.
+
+625
+00:36:38,852 --> 00:36:42,115
+On ne peut pas condamner une personne
+sur la base d'insinuations,
+
+626
+00:36:43,218 --> 00:36:45,160
+ni d'accusations infondées.
+
+627
+00:36:45,851 --> 00:36:47,190
+Je pleure cet enfant.
+
+628
+00:36:47,461 --> 00:36:51,250
+Aucun enfant ne devrait souffrir ainsi,
+et celui qui a fait ça...
+
+629
+00:36:51,499 --> 00:36:53,756
+ne devrait pas avoir le droit
+
+630
+00:36:53,881 --> 00:36:56,116
+de se promener librement.
+
+631
+00:36:56,972 --> 00:36:59,312
+Pour cet enfant, pour la justice,
+
+632
+00:36:59,845 --> 00:37:01,343
+vous devez prononcer le verdict...
+
+633
+00:37:01,511 --> 00:37:02,970
+Non coupable.
+
+634
+00:37:03,138 --> 00:37:05,579
+Je sers clairement
+de bouc émissaire.
+
+635
+00:37:06,785 --> 00:37:08,185
+Je suis innocente.
+
+636
+00:37:11,134 --> 00:37:11,993
+Merci.
+
+637
+00:37:18,135 --> 00:37:21,613
+- Caroline a cassé la baraque.
+- Taffet était aussi très convaincante.
+
+638
+00:37:21,781 --> 00:37:24,032
+Dites, Hodgins,
+ça vous arrive d'être optimiste ?
+
+639
+00:37:24,308 --> 00:37:25,450
+Vous avez raison.
+
+640
+00:37:25,922 --> 00:37:27,972
+Quoi qu'il arrive, j'ai Angela.
+
+641
+00:37:29,742 --> 00:37:30,622
+C'est bon.
+
+642
+00:37:31,448 --> 00:37:32,825
+Ça m'est égal, Angie.
+
+643
+00:37:32,950 --> 00:37:36,764
+Taffet ne va plus faire la loi.
+Tout le monde doit le savoir.
+
+644
+00:37:37,231 --> 00:37:39,292
+Angela et moi, on s'est mariés.
+
+645
+00:37:40,948 --> 00:37:41,948
+Quoi ?
+
+646
+00:37:44,619 --> 00:37:46,805
+- Quand ça ?
+- En prison.
+
+647
+00:37:46,973 --> 00:37:49,516
+Hodgins voulait attendre
+que ce soit fini,
+
+648
+00:37:49,641 --> 00:37:52,019
+pour que tout le monde
+puisse se réjouir.
+
+649
+00:37:52,187 --> 00:37:54,902
+- Tu crains encore d'être enceinte ?
+- Non. Non, c'est...
+
+650
+00:37:56,243 --> 00:37:57,319
+c'est l'amour.
+
+651
+00:38:00,946 --> 00:38:02,696
+Pourquoi l'avoir caché ?
+
+652
+00:38:03,151 --> 00:38:06,265
+J'avais du mal à faire face
+à cause du procès.
+
+653
+00:38:06,390 --> 00:38:08,182
+Puis je me suis dit...
+après tout.
+
+654
+00:38:09,673 --> 00:38:10,871
+Le jury est revenu.
+
+655
+00:38:28,371 --> 00:38:30,849
+Que l'accusée se lève
+pour la lecture du verdict.
+
+656
+00:38:35,939 --> 00:38:37,116
+En premier lieu,
+
+657
+00:38:37,709 --> 00:38:39,316
+pour l'enlèvement
+de Terrence Gilroy,
+
+658
+00:38:40,604 --> 00:38:42,945
+le jury déclare l'accusée,
+Heather Taffet,
+
+659
+00:38:44,126 --> 00:38:45,152
+coupable.
+
+660
+00:38:45,698 --> 00:38:47,426
+Du calme ou je vous fais sortir.
+
+661
+00:38:48,263 --> 00:38:49,513
+En second lieu,
+
+662
+00:38:50,598 --> 00:38:52,584
+le meurtre de Terrence Gilroy,
+
+663
+00:38:53,006 --> 00:38:54,924
+le jury déclare l'accusée...
+
+664
+00:38:56,600 --> 00:38:57,600
+coupable.
+
+665
+00:38:59,327 --> 00:39:01,880
+L'accusée reste en détention
+jusqu'à la décision de la peine.
+
+666
+00:39:02,711 --> 00:39:03,840
+Procès ajourné.
+
+667
+00:39:13,558 --> 00:39:14,893
+Ce n'est pas fini.
+
+668
+00:39:45,189 --> 00:39:47,184
+Je me suis absenté quelques jours.
+
+669
+00:39:47,309 --> 00:39:49,552
+Je savais que Tempe
+maîtrisait la situation.
+
+670
+00:39:49,677 --> 00:39:50,836
+Elle se débrouille.
+
+671
+00:39:50,961 --> 00:39:53,171
+Levons nos verres.
+Aux fouines.
+
+672
+00:39:53,296 --> 00:39:55,183
+- À Booth.
+- Et à Caroline.
+
+673
+00:39:56,806 --> 00:39:58,854
+Pas une minute,
+je n'ai douté de vous.
+
+674
+00:39:59,342 --> 00:40:00,522
+Allez.
+
+675
+00:40:00,968 --> 00:40:01,968
+Pitié.
+
+676
+00:40:03,480 --> 00:40:05,327
+N'oublions pas l'heureux couple.
+
+677
+00:40:07,087 --> 00:40:08,113
+Meilleurs voeux
+
+678
+00:40:08,281 --> 00:40:10,824
+pour une adaptation réussie
+aux obligations familiales
+
+679
+00:40:10,992 --> 00:40:14,494
+et la mise en commun
+de vos biens matériels et financiers.
+
+680
+00:40:16,525 --> 00:40:17,330
+Quoi ?
+
+681
+00:40:30,591 --> 00:40:31,891
+Je vais rentrer.
+
+682
+00:40:32,549 --> 00:40:34,514
+Un vrai lit
+va sûrement te faire du bien.
+
+683
+00:40:35,503 --> 00:40:37,684
+Pardon d'avoir douté de toi.
+
+684
+00:40:38,302 --> 00:40:41,353
+Sweets dirait qu'inconsciemment,
+tu voulais que Booth t'arrête
+
+685
+00:40:41,478 --> 00:40:44,566
+pour qu'on ne soit plus séparés.
+
+686
+00:40:47,528 --> 00:40:48,904
+Il est futé, ce Sweets.
+
+687
+00:40:49,493 --> 00:40:50,778
+Je t'aime, chérie.
+
+688
+00:40:51,085 --> 00:40:53,654
+C'est gentil
+de me laisser encore régler !
+
+689
+00:40:53,779 --> 00:40:56,202
+C'est votre faute. On m'a volé
+mon portefeuille en prison.
+
+690
+00:40:57,574 --> 00:40:59,915
+J'en reviens pas
+qu'ils se soient mariés.
+
+691
+00:41:00,193 --> 00:41:01,193
+Moi non plus.
+
+692
+00:41:04,295 --> 00:41:06,795
+J'ai l'impression
+que tout est en train de changer.
+
+693
+00:41:07,731 --> 00:41:09,015
+Non, pas tout.
+
+694
+00:41:09,367 --> 00:41:11,176
+On est toujours partenaires.
+
+695
+00:41:11,648 --> 00:41:12,648
+Pas vrai ?
+
+696
+00:41:13,275 --> 00:41:15,016
+Et Taffet...
+Elle est à l'ombre.
+
+697
+00:41:15,141 --> 00:41:16,807
+Vous êtes soulagée, non ?
+
+698
+00:41:17,101 --> 00:41:19,888
+Vous étiez à deux doigts de mourir.
+Ça peut se reproduire.
+
+699
+00:41:20,013 --> 00:41:22,432
+- Et si je n'arrivais pas à temps ?
+- Ça n'arrivera plus.
+
+700
+00:41:24,266 --> 00:41:26,730
+J'envie votre capacité à préférer
+
+701
+00:41:27,093 --> 00:41:29,527
+l'optimisme à la réalité.
+
+702
+00:41:30,863 --> 00:41:32,914
+Vous avez peut-être besoin
+de vacances.
+
+703
+00:41:33,542 --> 00:41:35,547
+Allez à la plage.
+Faites-vous bronzer.
+
+704
+00:41:37,037 --> 00:41:38,955
+J'ai besoin de plus que ça.
+
+705
+00:41:41,786 --> 00:41:44,358
+Ne prenez pas de décision
+sur l'avenir maintenant.
+
+706
+00:41:44,483 --> 00:41:46,628
+- Je dis juste...
+- Comme quand le dentiste
+
+707
+00:41:46,946 --> 00:41:49,406
+vous anesthésie et vous dit
+de ne pas travailler sur des machines,
+
+708
+00:41:49,531 --> 00:41:51,591
+ni de prendre de décision importante
+avant 24 h ?
+
+709
+00:41:52,295 --> 00:41:55,011
+Cette affaire
+était plus grosse qu'une carie.
+
+710
+00:41:55,408 --> 00:41:57,887
+Allons prendre
+un autre verre à l'intérieur.
+
+711
+00:41:58,012 --> 00:42:00,456
+Je suis fatiguée.
+Je vais rentrer.
+
+712
+00:42:01,144 --> 00:42:02,326
+D'accord. Allez.
+
+713
+00:42:02,625 --> 00:42:04,364
+On va vous appeler un taxi.
+
+714
+00:42:05,032 --> 00:42:06,439
+La journée a été longue.
+
+715
+00:42:07,186 --> 00:42:08,793
+Allez, montez, d'accord ?
+
+716
+00:42:10,236 --> 00:42:11,778
+On se voit demain ?
+
+717
+00:42:13,149 --> 00:42:16,862
+Sous-titre : A²S Team
+--== All-about-Subs.fr ==--
+

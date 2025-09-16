@@ -1,0 +1,3390 @@
+1
+00:00:17,669 --> 00:00:18,695
+Help me!
+
+2
+00:00:19,955 --> 00:00:20,965
+Help me!
+
+3
+00:00:21,932 --> 00:00:22,943
+Hodgins?
+
+4
+00:00:31,156 --> 00:00:32,179
+Dr. Brennan!
+
+5
+00:01:37,402 --> 00:01:38,402
+Help!
+
+6
+00:01:52,753 --> 00:01:54,196
+<i>The Gravedigger case</i>
+
+7
+00:01:54,364 --> 00:01:57,158
+<i>finally begins today
+with an evidentiary hearing.</i>
+
+8
+00:01:57,326 --> 00:02:00,241
+<i>The defendant, prominent
+federal prosecutor Heather Taffet,</i>
+
+9
+00:02:00,366 --> 00:02:04,206
+<i>will be defending herself
+against multiple charges of kidnapping</i>
+
+10
+00:02:04,374 --> 00:02:05,339
+<i>and murder.</i>
+
+11
+00:02:05,464 --> 00:02:07,418
+<i>One charge involves ten-year-old</i>
+
+12
+00:02:07,586 --> 00:02:08,882
+<i>Terrence Gilroy,</i>
+
+13
+00:02:09,007 --> 00:02:10,546
+<i>who has never been found.</i>
+
+14
+00:02:10,714 --> 00:02:13,597
+<i>Testimony is expected
+from three kidnapping victims:</i>
+
+15
+00:02:13,722 --> 00:02:16,469
+<i>Seely Booth, an agent with the FBI,</i>
+
+16
+00:02:16,637 --> 00:02:18,512
+<i>as well as scientist Jack Hodgins</i>
+
+17
+00:02:18,680 --> 00:02:19,889
+<i>and Temperance Brennan</i>
+
+18
+00:02:20,379 --> 00:02:21,432
+<i>of the Jeffers...</i>
+
+19
+00:02:26,684 --> 00:02:27,480
+You okay?
+
+20
+00:02:27,773 --> 00:02:29,227
+Of course. Why wouldn't I be?
+
+21
+00:02:29,352 --> 00:02:32,359
+We're about to come head to head with
+the woman who tried to kill both of us.
+
+22
+00:02:32,527 --> 00:02:33,944
+So are you. Aren't you okay?
+
+23
+00:02:34,112 --> 00:02:36,906
+Sure. Yeah. I'm just checkin' in.
+I just want to make sure you're okay
+
+24
+00:02:37,031 --> 00:02:39,158
+- and if you need anything.
+- It's just another case.
+
+25
+00:02:39,676 --> 00:02:41,243
+- Right.
+- Dad!
+
+26
+00:02:41,668 --> 00:02:42,661
+Max?
+
+27
+00:02:42,829 --> 00:02:44,117
+What are you doing here?
+
+28
+00:02:44,242 --> 00:02:46,252
+I thought you should have
+a support from somebody
+
+29
+00:02:46,377 --> 00:02:47,875
+who's been through the system.
+
+30
+00:02:48,257 --> 00:02:50,127
+Why is everyone treating me
+like a child?
+
+31
+00:02:50,964 --> 00:02:54,298
+Because I don't want you to get your
+hopes up. This is far from a slam dunk.
+
+32
+00:02:54,466 --> 00:02:56,342
+That's exactly why Caroline is here.
+
+33
+00:02:56,510 --> 00:02:58,344
+We have five cases, multiple counts:
+
+34
+00:02:58,512 --> 00:03:00,513
+Bones, Hodgins,
+the ten-year-old boy...
+
+35
+00:03:00,681 --> 00:03:02,473
+Whose body has never been found.
+
+36
+00:03:02,641 --> 00:03:04,767
+Your prosecutor's getting desperate.
+
+37
+00:03:04,935 --> 00:03:06,352
+She knows what she's doing.
+
+38
+00:03:06,520 --> 00:03:08,729
+I thought you were here for support,
+Dad.
+
+39
+00:03:22,494 --> 00:03:23,911
+You all ready to play nice?
+
+40
+00:03:24,079 --> 00:03:26,121
+- Always, Your Honor.
+- Your Honor, since
+
+41
+00:03:26,289 --> 00:03:29,588
+I'm representing myself, I'd like
+to request that my shackles be removed.
+
+42
+00:03:29,713 --> 00:03:33,420
+This is only an evidentiary hearing.
+There's no jury to prejudice.
+
+43
+00:03:33,746 --> 00:03:36,507
+And frankly, I feel a bit more secure
+with her in chains.
+
+44
+00:03:36,675 --> 00:03:38,968
+Spare us the dramatic flourishes,
+Ms. Julian.
+
+45
+00:03:39,708 --> 00:03:42,763
+When we go to trial,
+we can revisit the request, Ms. Taffet.
+
+46
+00:03:42,931 --> 00:03:43,973
+First witness.
+
+47
+00:03:44,571 --> 00:03:47,911
+Burn marks were found on the victims
+that were consistent
+
+48
+00:03:48,036 --> 00:03:51,532
+with injuries one would sustain
+from a three-million volt stun gun.
+
+49
+00:03:51,657 --> 00:03:54,309
+The stun gun was found
+in the suspect storage locker.
+
+50
+00:03:54,657 --> 00:03:57,938
+It matches the stun gun
+that was used in the attack on me...
+
+51
+00:03:58,215 --> 00:04:02,116
+The suspect's steel-toed boots
+were also found in the storage locker.
+
+52
+00:04:02,284 --> 00:04:06,231
+This storage locker was found
+with information obtained illegally,
+
+53
+00:04:06,356 --> 00:04:07,194
+wasn't it?
+
+54
+00:04:07,319 --> 00:04:09,283
+We didn't know that at the time,
+Your Honor.
+
+55
+00:04:09,408 --> 00:04:11,639
+We obtained a legal warrant
+to search the locker.
+
+56
+00:04:11,764 --> 00:04:15,619
+The fact that Agent Booth's brother gave
+you the lead didn't make you suspicious?
+
+57
+00:04:15,744 --> 00:04:18,132
+He was an officer assigned
+to Homeland Security.
+
+58
+00:04:18,300 --> 00:04:20,916
+We had no reason to question
+the information he provid.
+
+59
+00:04:21,261 --> 00:04:24,013
+- The warrant was obtained legally.
+- That's irrelevant, Your Honor.
+
+60
+00:04:24,181 --> 00:04:26,757
+Everything found in that storage locker
+should be dismissed.
+
+61
+00:04:26,882 --> 00:04:29,268
+I submit that a warrant
+wasn't even necessary.
+
+62
+00:04:29,436 --> 00:04:31,597
+Under precedent of imminent danger,
+
+63
+00:04:31,722 --> 00:04:35,636
+law authority had the duty to enter that
+storage locker without a valid warrant.
+
+64
+00:04:35,894 --> 00:04:38,485
+- Agent Booth's life was in danger.
+- Imminent danger
+
+65
+00:04:38,653 --> 00:04:41,906
+applies only if law enforcement hears
+a violent threat
+
+66
+00:04:42,074 --> 00:04:44,491
+- or struggle at the scene.
+- I'm sorry, Ms. Julian,
+
+67
+00:04:44,659 --> 00:04:46,677
+but no matter how pure
+the intention,
+
+68
+00:04:47,006 --> 00:04:48,996
+the warrant was obtained illegally.
+
+69
+00:04:49,164 --> 00:04:52,124
+Therefore, any and all evidence gathered
+during the search and seizure
+
+70
+00:04:52,292 --> 00:04:53,334
+is inadmissible.
+
+71
+00:04:53,502 --> 00:04:56,253
+- Thank you, Your Honor.
+- This was not a personal favor.
+
+72
+00:04:56,421 --> 00:04:57,801
+I am restrained by the law.
+
+73
+00:04:57,926 --> 00:04:59,965
+I'd like to move
+that all charges be dropped.
+
+74
+00:05:00,133 --> 00:05:02,343
+You'd like that, wouldn't you?
+We still have dirt
+
+75
+00:05:02,511 --> 00:05:03,886
+samples from the crime scene,
+
+76
+00:05:04,054 --> 00:05:06,889
+- the ransom tapes...
+- This is a waste of the court's time
+
+77
+00:05:07,057 --> 00:05:08,641
+and the taxpayers' money.
+
+78
+00:05:08,809 --> 00:05:11,602
+If I lose, I'll send everyone.
+
+79
+00:05:11,882 --> 00:05:14,214
+You aren't left with much,
+Ms. Julian.
+
+80
+00:05:15,304 --> 00:05:17,191
+Are you sure you want to proceed?
+
+81
+00:05:33,688 --> 00:05:34,750
+Yes, Your Honor.
+
+82
+00:05:37,532 --> 00:05:39,838
+The charges stand.
+We're going to trial.
+
+83
+00:05:40,006 --> 00:05:41,507
+Court is adjourned.
+
+84
+00:05:45,292 --> 00:05:47,262
+If you're so brilliant, Dr. Brennan,
+
+85
+00:05:47,430 --> 00:05:50,307
+why couldn't you find something
+as simple as the number?
+
+86
+00:05:53,395 --> 00:05:55,187
+You all right?
+What'd she say to you?
+
+87
+00:05:55,355 --> 00:05:57,398
+- She says I missed some evidence.
+- Evidence?
+
+88
+00:05:58,441 --> 00:06:00,484
+She doesn't think I can find it.
+
+89
+00:06:03,572 --> 00:06:07,576
+Bones - Season 5 Episode 21
+"The Boy with the Answer"
+
+90
+00:06:09,077 --> 00:06:12,204
+Synchro: JoJo13, Kujathemas,
+Dark_Chii
+
+91
+00:06:28,221 --> 00:06:31,682
+Subtitle: A²S Team
+--==All-about-Subs.fr==--
+
+92
+00:06:39,679 --> 00:06:41,817
+Booth is getting her arrest records,
+as well
+
+93
+00:06:41,985 --> 00:06:44,144
+as old case files
+from when she was a prosecutor.
+
+94
+00:06:44,800 --> 00:06:48,128
+I'm pulling every record
+we have so far associated with Taffet:
+
+95
+00:06:48,253 --> 00:06:51,035
+social security numbers, birth dates,
+blood test results.
+
+96
+00:06:51,203 --> 00:06:53,151
+- Ages of the victims?
+- Got those.
+
+97
+00:06:53,276 --> 00:06:56,428
+I'm using a recursive search algorithm
+which analyzes
+
+98
+00:06:56,553 --> 00:06:58,350
+and cross-references the data.
+
+99
+00:06:58,475 --> 00:07:02,087
+Since they're related, any
+inconsistencies can raise a red flag.
+
+100
+00:07:02,255 --> 00:07:04,276
+I think Taffet is just messing
+with us again.
+
+101
+00:07:04,401 --> 00:07:05,966
+No, I have to disagree.
+
+102
+00:07:06,134 --> 00:07:08,635
+her pathology is consistent,
+this is all a game to her.
+
+103
+00:07:08,803 --> 00:07:12,135
+She won the first round, she's upping
+the stakes by challenging Dr. Brennan.
+
+104
+00:07:12,260 --> 00:07:15,055
+Maybe she knows there's something
+in the soil samples we already have,
+
+105
+00:07:15,180 --> 00:07:16,852
+she's just trying to distract us.
+
+106
+00:07:17,020 --> 00:07:19,021
+You analyzed those soil samples
+a hundred times.
+
+107
+00:07:19,189 --> 00:07:21,814
+- Are you telling me to give up?
+- No, of course not.
+
+108
+00:07:22,130 --> 00:07:24,544
+But I mean, I understand the need
+to cling to anything...
+
+109
+00:07:24,669 --> 00:07:27,362
+"Cling"? Okay, so I'm crazy now.
+That's not what I meant.
+
+110
+00:07:27,530 --> 00:07:31,200
+Go, Dr. Hodgins. Look at the soil again.
+You might find something.
+
+111
+00:07:38,680 --> 00:07:40,375
+You know, he still gets nightmares.
+
+112
+00:07:40,543 --> 00:07:43,253
+- Says he wakes up in a sweat.
+- I should have been more sensitive.
+
+113
+00:07:43,421 --> 00:07:45,484
+This must be difficult for you, too.
+If you need...
+
+114
+00:07:45,609 --> 00:07:49,343
+I'm fine. What about the weight
+and size of the victim's remains?
+
+115
+00:07:49,820 --> 00:07:51,804
+Yeah, it's a good idea.
+I'll check it out.
+
+116
+00:08:02,098 --> 00:08:04,399
+Here are the first set of documents
+you asked for.
+
+117
+00:08:04,567 --> 00:08:06,669
+More numbers than I've ever seen
+in my life.
+
+118
+00:08:07,112 --> 00:08:09,488
+- Thanks. You okay?
+- You mean because
+
+119
+00:08:09,656 --> 00:08:12,616
+this case is a career killer? I'm cute.
+I can always find a job.
+
+120
+00:08:12,784 --> 00:08:15,296
+They're gonna come up with something.
+They always do, right?
+
+121
+00:08:15,556 --> 00:08:16,870
+Do you really believe that?
+
+122
+00:08:17,312 --> 00:08:19,498
+They saved my life, remember?
+That was impossible.
+
+123
+00:08:20,511 --> 00:08:22,163
+I'll give you that one.
+
+124
+00:08:22,600 --> 00:08:25,256
+- How's your girlfriend holding up?
+- She's fine.
+
+125
+00:08:25,549 --> 00:08:27,214
+She's not my girlfriend.
+
+126
+00:08:27,834 --> 00:08:29,758
+So those little looks
+between you...?
+
+127
+00:08:30,413 --> 00:08:31,413
+Nothing.
+
+128
+00:08:31,866 --> 00:08:32,594
+Right.
+
+129
+00:08:32,762 --> 00:08:34,721
+I hope you're more believable
+on the stand.
+
+130
+00:08:35,194 --> 00:08:38,016
+Have Angela run these numbers
+as quickly as she can.
+
+131
+00:08:38,323 --> 00:08:40,972
+The judge isn't gonna give me
+more than a day.
+
+132
+00:08:43,338 --> 00:08:44,745
+<i>If I don't receive the money</i>
+
+133
+00:08:44,870 --> 00:08:46,901
+<i>in the numbered account
+within eight hours,</i>
+
+134
+00:08:47,026 --> 00:08:48,553
+<i>your child will die.</i>
+
+135
+00:08:49,455 --> 00:08:51,869
+<i>This is the last time
+you will hear from me.</i>
+
+136
+00:08:52,127 --> 00:08:54,717
+<i>There will be
+no further communications.</i>
+
+137
+00:08:55,244 --> 00:08:56,685
+What happened to the numbers?
+
+138
+00:08:57,342 --> 00:08:58,579
+Well, I came up dry.
+
+139
+00:08:58,747 --> 00:09:00,793
+Brennan and Booth
+are compiling another set.
+
+140
+00:09:00,918 --> 00:09:03,667
+But until then, I'm trying to drag
+Taffet's voice from these ransom tapes.
+
+141
+00:09:03,835 --> 00:09:06,430
+- Any luck?
+- She used a variable band inversion,
+
+142
+00:09:06,555 --> 00:09:09,418
+so the wave is broken up
+into hundreds of small sections,
+
+143
+00:09:09,543 --> 00:09:12,367
+each section scrambled
+with different frequency sequencing.
+
+144
+00:09:12,492 --> 00:09:15,095
+You didn't ask me if I found
+anything new in the soil samples.
+
+145
+00:09:15,263 --> 00:09:16,096
+Did you?
+
+146
+00:09:16,264 --> 00:09:19,516
+No, of course not. Sweets was right.
+You knew that.
+
+147
+00:09:23,611 --> 00:09:25,767
+I'm barely keeping it together here,
+Ang.
+
+148
+00:09:31,617 --> 00:09:33,197
+You were sane enough to marry me.
+
+149
+00:09:36,082 --> 00:09:38,379
+But I don't feel strong enough
+to tell anybody yet.
+
+150
+00:09:40,026 --> 00:09:42,206
+I feel like she's still
+got me locked up, you know?
+
+151
+00:09:44,655 --> 00:09:46,869
+When I see her, there's just this,
+
+152
+00:09:47,877 --> 00:09:49,963
+anger, kind of helplessness that...
+
+153
+00:09:50,131 --> 00:09:51,627
+I know, I know.
+
+154
+00:09:52,649 --> 00:09:54,051
+When I was buried in that car,
+
+155
+00:09:55,260 --> 00:09:57,304
+I didn't think
+I was ever gonna see you again.
+
+156
+00:09:59,391 --> 00:10:01,141
+Now I feel like
+she's still in between us.
+
+157
+00:10:01,998 --> 00:10:03,053
+She's not.
+
+158
+00:10:04,558 --> 00:10:05,562
+Look at me.
+
+159
+00:10:06,637 --> 00:10:07,650
+She's not.
+
+160
+00:10:08,993 --> 00:10:10,628
+Nobody can get between us.
+
+161
+00:10:24,541 --> 00:10:26,795
+You've been at it for hours.
+You gotta eat something.
+
+162
+00:10:26,920 --> 00:10:28,011
+In a little while.
+
+163
+00:10:28,709 --> 00:10:31,850
+Her old court documents from
+when she was a prosecutor have
+
+164
+00:10:31,975 --> 00:10:33,810
+case numbers, criminal code numbers,
+
+165
+00:10:33,935 --> 00:10:36,260
+- and then there are zip codes.
+- That's great and all,
+
+166
+00:10:36,428 --> 00:10:39,465
+but you know, it's not gonna be any good
+if you starve yourself to death.
+
+167
+00:10:40,447 --> 00:10:42,262
+She was laughing at me, Booth.
+
+168
+00:10:42,387 --> 00:10:43,767
+I can't let her win.
+
+169
+00:10:44,727 --> 00:10:45,560
+She won't.
+
+170
+00:10:45,728 --> 00:10:46,739
+You hope.
+
+171
+00:10:47,314 --> 00:10:49,856
+She may be amoral,
+but she is brilliant.
+
+172
+00:10:50,024 --> 00:10:51,190
+You're more brilliant.
+
+173
+00:10:51,315 --> 00:10:53,667
+What if her dispassion
+makes her more logical?
+
+174
+00:10:53,792 --> 00:10:55,786
+What if that gives her
+an advantage over me?
+
+175
+00:10:55,911 --> 00:10:58,907
+Wait. Now you're upset because
+you're not more like a psychopath?
+
+176
+00:11:00,401 --> 00:11:01,559
+I just think...
+
+177
+00:11:02,340 --> 00:11:03,880
+maybe I've lost my advantage
+
+178
+00:11:04,005 --> 00:11:06,498
+because of all the people
+I'm involved with now.
+
+179
+00:11:08,913 --> 00:11:12,129
+All of the relationships,
+they complicate logical thought.
+
+180
+00:11:12,695 --> 00:11:13,940
+You don't mean that.
+
+181
+00:11:17,168 --> 00:11:18,659
+Could we please just work?
+
+182
+00:11:19,788 --> 00:11:20,801
+Sure.
+
+183
+00:11:25,004 --> 00:11:26,018
+Salt Lake City?
+
+184
+00:11:26,500 --> 00:11:27,311
+What?
+
+185
+00:11:27,479 --> 00:11:30,076
+When they arrested Taffet,
+she used her one phone call
+
+186
+00:11:30,640 --> 00:11:32,190
+from jail to Salt Lake City.
+
+187
+00:11:32,358 --> 00:11:33,671
+Area code 801.
+
+188
+00:11:34,178 --> 00:11:36,778
+Well, she's representing herself,
+so it couldn't be to a lawyer.
+
+189
+00:11:37,441 --> 00:11:39,294
+Who would she call inalt Lake City?
+
+190
+00:11:43,610 --> 00:11:45,376
+<i>Larry's Pizza, how may I heIp you?</i>
+
+191
+00:11:51,002 --> 00:11:54,362
+None of the employees at the pizza place
+have a connection to Taffet, and...
+
+192
+00:11:55,266 --> 00:11:57,235
+None of them here have
+any criminal records.
+
+193
+00:11:57,360 --> 00:12:00,344
+Well, the phone records show
+that Taffet hung up after ten seconds.
+
+194
+00:12:00,512 --> 00:12:01,970
+She didn't request another call.
+
+195
+00:12:02,138 --> 00:12:03,972
+Angela's matching the number
+
+196
+00:12:04,140 --> 00:12:06,850
+with a numerical sequencing program.
+This is the number.
+
+197
+00:12:07,018 --> 00:12:08,935
+Booth, this has to be the number.
+
+198
+00:12:16,553 --> 00:12:19,154
+So, I'm running a numerical
+sequencing program to see
+
+199
+00:12:19,322 --> 00:12:21,250
+if there's a match
+with any of our victims.
+
+200
+00:12:21,866 --> 00:12:23,537
+But I'm coming up with nothing.
+
+201
+00:12:36,715 --> 00:12:38,965
+Oh, my God.
+The number is
+
+202
+00:12:39,133 --> 00:12:40,565
+a GPS location.
+
+203
+00:12:49,779 --> 00:12:51,068
+Let's go, everybody out.
+
+204
+00:13:12,588 --> 00:13:13,861
+It's the kid, isn't it?
+
+205
+00:13:22,882 --> 00:13:24,219
+Terrence Gilroy had
+
+206
+00:13:24,387 --> 00:13:27,528
+a remodeled right ulna from
+a break when he was eight.
+
+207
+00:13:33,241 --> 00:13:34,862
+This is the boy she kidnapped.
+
+208
+00:13:36,843 --> 00:13:38,412
+I'm going to call the parents.
+
+209
+00:13:38,537 --> 00:13:40,433
+Why did she lead us here, Booth?
+
+210
+00:13:41,654 --> 00:13:43,548
+Why did she want us to find him?
+
+211
+00:13:56,085 --> 00:13:57,085
+Hands off!
+
+212
+00:13:57,761 --> 00:13:59,295
+No one touches a thing.
+
+213
+00:13:59,865 --> 00:14:02,064
+- What are you talking about?
+- It's our chance to get
+
+214
+00:14:02,189 --> 00:14:04,759
+- some hard evidence they can't dismiss.
+- Not if you touch it.
+
+215
+00:14:04,927 --> 00:14:07,999
+You can't act as an expert
+witness in a case
+
+216
+00:14:08,124 --> 00:14:09,878
+when you are also a victim.
+
+217
+00:14:10,003 --> 00:14:11,975
+We aren't victims in this crime.
+
+218
+00:14:12,143 --> 00:14:14,394
+We filed one complaint
+with seven counts.
+
+219
+00:14:14,810 --> 00:14:17,822
+Since the trial started, you and Brennan
+are linked to all the crimes.
+
+220
+00:14:17,947 --> 00:14:20,525
+That's why Taffet wanted us
+to find the boy.
+
+221
+00:14:20,693 --> 00:14:22,237
+She knows we're the only people
+
+222
+00:14:22,362 --> 00:14:24,446
+who have the skills
+to connect her to the crime.
+
+223
+00:14:24,614 --> 00:14:25,822
+Now our hands are tied.
+
+224
+00:14:27,673 --> 00:14:29,284
+Not if you drop our case.
+
+225
+00:14:30,953 --> 00:14:31,995
+Excuse me?
+
+226
+00:14:32,163 --> 00:14:34,203
+If Caroline doesn't prosecute
+our kidnappings,
+
+227
+00:14:34,328 --> 00:14:37,334
+we'd be free to testify
+as expert witnesses in the boy's case.
+
+228
+00:14:37,502 --> 00:14:39,419
+- You'd be willing to do that?
+- No.
+
+229
+00:14:39,587 --> 00:14:41,351
+No. Caroline...
+
+230
+00:14:41,476 --> 00:14:44,508
+has to prosecute our case.
+Taffet tried to kill us.
+
+231
+00:14:44,676 --> 00:14:46,154
+Our evidence has been throw out.
+
+232
+00:14:46,279 --> 00:14:50,138
+The ratial thing to do is to pursue
+a case with fresh, untainted evidence.
+
+233
+00:14:50,306 --> 00:14:51,533
+Are you kidding me?
+
+234
+00:14:51,936 --> 00:14:55,143
+Is it really that easy for you
+to forget what happened to us?
+
+235
+00:14:55,311 --> 00:14:57,345
+I will never forget
+what happened to us,
+
+236
+00:14:57,851 --> 00:15:00,023
+or to Booth, or this boy.
+
+237
+00:15:00,191 --> 00:15:02,651
+You are not the only one suffering,
+Dr. Hodgins.
+
+238
+00:15:02,819 --> 00:15:06,446
+But your emotions have no relevance,
+not if we want to convict Taffet.
+
+239
+00:15:16,385 --> 00:15:17,442
+This better work.
+
+240
+00:15:21,671 --> 00:15:24,286
+I'll have the charges
+dismissed in the morning.
+
+241
+00:15:24,793 --> 00:15:26,341
+You can start right after that.
+
+242
+00:15:45,907 --> 00:15:48,666
+So the Gilroy kid was last seen
+at the Rockland Mall on June 23.
+
+243
+00:15:48,791 --> 00:15:51,513
+I'm gonna check all Taffet's credit
+card records for that day, too.
+
+244
+00:15:51,638 --> 00:15:53,999
+Caroline said you can't give
+expert testimony
+
+245
+00:15:54,124 --> 00:15:55,787
+if she's prosecuting your case.
+
+246
+00:15:56,943 --> 00:15:58,987
+I told Caroline
+to drop my charges, too.
+
+247
+00:16:01,335 --> 00:16:02,961
+I'm not gonna let you do this alone.
+
+248
+00:16:06,436 --> 00:16:09,634
+She's gonna see the judge tomorrow
+at 10:00, then we can dive in on this.
+
+249
+00:16:10,471 --> 00:16:11,511
+Thanks, Booth.
+
+250
+00:16:11,679 --> 00:16:13,598
+We're partners, it's what we do.
+
+251
+00:16:14,825 --> 00:16:15,838
+Right?
+
+252
+00:16:18,039 --> 00:16:20,729
+If Taffet is acquitted
+on this count,
+
+253
+00:16:20,897 --> 00:16:22,338
+she can never be tried again.
+
+254
+00:16:23,988 --> 00:16:26,066
+Maybe that's why she wanted us
+to find the boy.
+
+255
+00:16:26,892 --> 00:16:28,236
+Well, she's arrogant...
+
+256
+00:16:28,404 --> 00:16:30,824
+like Sweets said.
+And she's misjudging you.
+
+257
+00:16:32,040 --> 00:16:33,719
+I have nightmares, Booth.
+
+258
+00:16:36,811 --> 00:16:38,660
+Hodgins is bleeding...
+
+259
+00:16:40,163 --> 00:16:41,451
+you're drowning...
+
+260
+00:16:44,935 --> 00:16:46,421
+I can't help anyone.
+
+261
+00:16:47,546 --> 00:16:48,590
+You know what?
+
+262
+00:16:49,025 --> 00:16:51,385
+She's never gonna get the better of you.
+Just know that.
+
+263
+00:16:52,553 --> 00:16:54,220
+All right? I promise, okay?
+
+264
+00:17:06,072 --> 00:17:08,335
+These are perimortem fractures,
+
+265
+00:17:08,460 --> 00:17:11,112
+bilaterally on the fifth,
+sixth and seventh ribs
+
+266
+00:17:11,280 --> 00:17:13,615
+on the posterior axillary lines.
+
+267
+00:17:13,783 --> 00:17:15,825
+And injuries to the greater cornu
+
+268
+00:17:15,993 --> 00:17:19,204
+and the left lateral thyroid
+and cricoid cartilages.
+
+269
+00:17:19,372 --> 00:17:22,066
+I see injuries like this
+in victims who've been strangled.
+
+270
+00:17:22,191 --> 00:17:24,901
+Perhaps he struggled,
+and Taffet was trying to subdue him.
+
+271
+00:17:25,026 --> 00:17:26,878
+Taffet Tasered all her victims.
+
+272
+00:17:27,046 --> 00:17:29,365
+Three million volts.
+That should be enough to knock out
+
+273
+00:17:29,490 --> 00:17:32,175
+- a ten-year-old boy for a few hours.
+- He wasn't unconscious.
+
+274
+00:17:32,343 --> 00:17:33,852
+These are defensive wounds,
+
+275
+00:17:33,977 --> 00:17:36,846
+consistent with the boy
+resisting being placed in the freezer
+
+276
+00:17:37,014 --> 00:17:38,351
+arms outstretched.
+
+277
+00:17:38,476 --> 00:17:40,355
+I'll take samples
+from under his fingernails.
+
+278
+00:17:40,480 --> 00:17:42,519
+Maybe he scratched her
+during the struggle.
+
+279
+00:17:42,687 --> 00:17:44,558
+Maybe she knew the facts
+in this case
+
+280
+00:17:44,683 --> 00:17:47,392
+wouldn't be consistent
+with the other crimes,
+
+281
+00:17:47,517 --> 00:17:49,526
+and would give her reasonable doubt.
+
+282
+00:17:58,160 --> 00:18:00,020
+We have evidence from
+credit card charges
+
+283
+00:18:00,145 --> 00:18:01,880
+the defendant was at
+the Rockland Mall
+
+284
+00:18:02,005 --> 00:18:03,998
+on the day that Terrence Gilroy
+was abducted.
+
+285
+00:18:05,580 --> 00:18:07,386
+The team at the Jeffersonian
+discovered
+
+286
+00:18:07,511 --> 00:18:09,146
+that the number Taffet called,
+
+287
+00:18:11,144 --> 00:18:13,488
+turned out to be
+the same GPS coordinates
+
+288
+00:18:13,613 --> 00:18:15,263
+as to where the boy was buried.
+
+289
+00:18:17,441 --> 00:18:19,352
+The same M.O., same ransom tape,
+
+290
+00:18:20,557 --> 00:18:22,934
+the same demands
+as the other kidnappings.
+
+291
+00:18:23,102 --> 00:18:26,104
+Do you have any evidence the Gilroy boy
+was abducted from the mall?
+
+292
+00:18:26,272 --> 00:18:28,034
+It was the last place he was seen.
+
+293
+00:18:28,159 --> 00:18:29,332
+So, no.
+
+294
+00:18:29,984 --> 00:18:30,942
+Did anyone else
+
+295
+00:18:31,110 --> 00:18:33,653
+make any purchases at the mall that day,
+or was it just me?
+
+296
+00:18:33,821 --> 00:18:34,571
+No.
+
+297
+00:18:34,739 --> 00:18:37,157
+As for the phone call
+that I allegedly made,
+
+298
+00:18:37,325 --> 00:18:40,660
+is it possible that the number
+was placed in my file by mistake?
+
+299
+00:18:40,785 --> 00:18:41,619
+Objection.
+
+300
+00:18:41,787 --> 00:18:43,371
+- Conjecture.
+- Sustained.
+
+301
+00:18:43,539 --> 00:18:46,624
+Did you know that the officer on duty
+when I was arrested was from Salt Lake?
+
+302
+00:18:49,211 --> 00:18:50,879
+Answer the question, Agent Booth.
+
+303
+00:18:52,340 --> 00:18:54,048
+Isn't it more likely
+
+304
+00:18:54,216 --> 00:18:56,259
+that he made that call,
+and the number
+
+305
+00:18:56,427 --> 00:18:58,553
+was placed in my file by mistake?
+
+306
+00:18:58,721 --> 00:19:00,680
+Objection. Conjecture again.
+
+307
+00:19:00,848 --> 00:19:03,475
+I thought it was reasonable doubt.
+Very reasonable.
+
+308
+00:19:03,643 --> 00:19:05,143
+- Your Honor...
+- Withdrawn.
+
+309
+00:19:05,311 --> 00:19:06,936
+No further questions, Your Honor.
+
+310
+00:19:23,350 --> 00:19:25,261
+You know that Taffet's
+playing you, right?
+
+311
+00:19:25,719 --> 00:19:26,723
+We're fine.
+
+312
+00:19:26,848 --> 00:19:29,459
+- No, she's got you all on defense.
+- We got the boy, all right?
+
+313
+00:19:29,627 --> 00:19:31,753
+It's because she wanted you to.
+Every psycho takes
+
+314
+00:19:31,921 --> 00:19:33,963
+one step too far and hangs themself.
+
+315
+00:19:34,391 --> 00:19:36,649
+Not before a lot of innocent people
+get hurt.
+
+316
+00:19:39,011 --> 00:19:39,844
+See you.
+
+317
+00:19:50,826 --> 00:19:52,816
+Sorry to bother you.
+You have a minute?
+
+318
+00:19:52,984 --> 00:19:53,996
+Yeah, sure.
+
+319
+00:20:00,428 --> 00:20:03,010
+- How's it going?
+- I don't know, actually.
+
+320
+00:20:03,135 --> 00:20:04,536
+That's why I'm here.
+
+321
+00:20:06,178 --> 00:20:08,206
+I'm worried.
+
+322
+00:20:10,584 --> 00:20:12,669
+This case is taking
+its toll on everyone.
+
+323
+00:20:12,837 --> 00:20:15,922
+- Including you?
+- Including me, yes.
+
+324
+00:20:16,388 --> 00:20:18,221
+It's a very stressful situation.
+
+325
+00:20:19,175 --> 00:20:20,454
+You're not immune to that.
+
+326
+00:20:20,579 --> 00:20:22,974
+I feel like everything's fraying
+around the edges.
+
+327
+00:20:23,099 --> 00:20:25,195
+We're all searching
+for some piece of evidence
+
+328
+00:20:25,320 --> 00:20:26,641
+that can put Taffet away.
+
+329
+00:20:26,809 --> 00:20:29,894
+But we keep coming up empty.
+Everyone feels manipulated by her.
+
+330
+00:20:30,062 --> 00:20:31,436
+And I should be able
+
+331
+00:20:32,044 --> 00:20:34,606
+to pull everyone together
+keep them on track.
+
+332
+00:20:35,964 --> 00:20:37,735
+You want to guarantee the outcome.
+
+333
+00:20:41,786 --> 00:20:43,421
+I wish that were possible.
+
+334
+00:20:44,373 --> 00:20:46,919
+But you know, we knew this was
+going to be an uphill battle.
+
+335
+00:20:47,044 --> 00:20:48,329
+But did we believe that?
+
+336
+00:20:48,497 --> 00:20:49,906
+We all knew she was guil.
+
+337
+00:20:50,031 --> 00:20:51,393
+So someplace,
+
+338
+00:20:51,885 --> 00:20:55,142
+we assumed that in a just world
+she'd pay for what she did.
+
+339
+00:20:57,271 --> 00:20:59,529
+That assumes a just world,
+I'm afraid.
+
+340
+00:21:01,888 --> 00:21:02,888
+These...
+
+341
+00:21:04,117 --> 00:21:06,163
+are my people she hurt, my friends.
+
+342
+00:21:06,288 --> 00:21:07,288
+I should...
+
+343
+00:21:09,341 --> 00:21:10,643
+be able to do something.
+
+344
+00:21:15,006 --> 00:21:16,006
+I know.
+
+345
+00:21:57,405 --> 00:21:59,651
+You didn't think
+I was going to follow you?
+
+346
+00:22:09,457 --> 00:22:10,870
+Max, is this what you want?
+
+347
+00:22:11,038 --> 00:22:13,704
+- Don't trust the system.
+- You miss, you compromise the case,
+
+348
+00:22:13,829 --> 00:22:15,587
+- Taffet walks.
+- I don't miss!
+
+349
+00:22:22,045 --> 00:22:24,676
+When are you gonna learn to
+stop messing with me, huh?
+
+350
+00:22:24,990 --> 00:22:27,558
+You're making a big mistake.
+Tempe could die.
+
+351
+00:22:30,386 --> 00:22:31,891
+Yeah, come on.
+
+352
+00:22:34,176 --> 00:22:36,832
+- He tried to kill her?
+- He had a rifle pointed right at her,
+
+353
+00:22:36,957 --> 00:22:39,852
+- so you do the math.
+- Why? Why would he do that?
+
+354
+00:22:39,977 --> 00:22:42,219
+To protect you.
+And a career criminal like Max...
+
+355
+00:22:42,344 --> 00:22:44,404
+he obviously doesn't
+trust the legal system.
+
+356
+00:22:44,869 --> 00:22:45,925
+I'm sorry, Booth.
+
+357
+00:22:46,050 --> 00:22:49,450
+- I wish he were different.
+- Me, too. He socked me in the eye, too.
+
+358
+00:22:51,498 --> 00:22:53,033
+- Brennan.
+- Hey, honey.
+
+359
+00:22:53,701 --> 00:22:56,708
+- I need you to bail me out.
+- What?! No, Dad.
+
+360
+00:22:57,241 --> 00:22:58,559
+I was doing it for you.
+
+361
+00:22:58,684 --> 00:23:01,421
+<i>No, I don't want you
+to kill people for me.</i>
+
+362
+00:23:01,589 --> 00:23:03,423
+Buy me a sweater,
+like a regular dad.
+
+363
+00:23:03,591 --> 00:23:06,050
+- Leave her alone, Max.
+- Booth says you're not getting out
+
+364
+00:23:06,218 --> 00:23:07,677
+until after the trial is over.
+
+365
+00:23:07,930 --> 00:23:08,959
+I have to go.
+
+366
+00:23:09,084 --> 00:23:11,048
+I've got a bad back. You know
+the beds in jail.
+
+367
+00:23:11,173 --> 00:23:12,357
+<i>Good-bye, Dad.</i>
+
+368
+00:23:14,464 --> 00:23:15,518
+I'm sorry, Bones.
+
+369
+00:23:16,310 --> 00:23:18,685
+I'm sure this is the last thing
+you want to deal with.
+
+370
+00:23:20,604 --> 00:23:22,316
+Part of me wishes he'd done it.
+
+371
+00:23:22,484 --> 00:23:24,986
+Not the good part, so let just keep
+our eye on the ball.
+
+372
+00:23:26,297 --> 00:23:28,023
+So, any news about the boy?
+
+373
+00:23:28,240 --> 00:23:30,459
+I'm getting an accurate
+recreation of the assailant
+
+374
+00:23:30,584 --> 00:23:33,411
+from the fracture patterns on
+his remains, and it matchs for Taffet.
+
+375
+00:23:33,579 --> 00:23:35,884
+I'm putting a presentation
+together for court.
+
+376
+00:23:36,223 --> 00:23:39,487
+- The kid put up a good fight, huh?
+- There's evidence of strong resistance.
+
+377
+00:23:39,612 --> 00:23:41,836
+- Yes.
+- Yeah, at least he didn't go easy.
+
+378
+00:23:42,182 --> 00:23:45,026
+Parker... he'd do the same thing.
+
+379
+00:23:45,151 --> 00:23:46,841
+Probably bite her ear off and run.
+
+380
+00:23:48,945 --> 00:23:50,705
+- He'd bite her?
+- Yeah.
+
+381
+00:23:51,152 --> 00:23:53,056
+Ten-year-olds...
+it's kind of their thing.
+
+382
+00:23:54,683 --> 00:23:55,641
+They bite.
+
+383
+00:23:57,080 --> 00:23:58,567
+I have to get back to the lab.
+
+384
+00:24:07,060 --> 00:24:08,780
+If the boy bit her, there should be
+
+385
+00:24:08,948 --> 00:24:11,282
+some evidence on his maxilla,
+mandible or his teeth.
+
+386
+00:24:11,901 --> 00:24:15,286
+The teeth seem to have been cleaned.
+Taffet probably wiped them off.
+
+387
+00:24:15,454 --> 00:24:17,528
+Second left premolar is chipped.
+
+388
+00:24:17,865 --> 00:24:20,041
+There might be some trace
+in the abrasion,
+
+389
+00:24:20,812 --> 00:24:22,824
+maybe some tissue
+from Heather Taffet.
+
+390
+00:24:22,951 --> 00:24:26,047
+Saliva contains amylase that would
+have broken down any bits of tissue.
+
+391
+00:24:26,440 --> 00:24:29,413
+Not if it were imbedded between
+the teeth or under the gum line.
+
+392
+00:24:37,495 --> 00:24:38,976
+<i>If I don't receive the money</i>
+
+393
+00:24:39,144 --> 00:24:41,354
+<i>in the numbered account
+within eight hours,</i>
+
+394
+00:24:41,522 --> 00:24:42,795
+<i>your child will die.</i>
+
+395
+00:24:43,368 --> 00:24:44,496
+<i>This is the last...</i>
+
+396
+00:24:44,621 --> 00:24:46,317
+Okay, this encryption is
+
+397
+00:24:46,485 --> 00:24:48,407
+a rolling code split
+band voice inversion.
+
+398
+00:24:48,532 --> 00:24:52,366
+Individual frequencies between
+the clicks are inverted and recombined.
+
+399
+00:24:52,790 --> 00:24:54,033
+I applied software
+
+400
+00:24:54,201 --> 00:24:57,537
+that decrypts each of
+the 423 separate segments
+
+401
+00:24:57,705 --> 00:24:59,241
+until the voice becomes clear.
+
+402
+00:25:00,665 --> 00:25:02,073
+<i>If I don't receive the money</i>
+
+403
+00:25:02,198 --> 00:25:04,252
+<i>in the numbered account
+within eight hours,</i>
+
+404
+00:25:04,420 --> 00:25:05,833
+<i>your child will die.</i>
+
+405
+00:25:06,736 --> 00:25:08,866
+<i>This is the last time
+you will hear from me.</i>
+
+406
+00:25:09,551 --> 00:25:12,218
+- <i>There will be no further...</i>
+- You did it, Angela.
+
+407
+00:25:12,682 --> 00:25:13,695
+It's Taffet.
+
+408
+00:25:13,820 --> 00:25:15,628
+Like to see her
+explain away that one.
+
+409
+00:25:18,288 --> 00:25:20,540
+<i>If I don't receive the money
+in the numbered account</i>
+
+410
+00:25:20,665 --> 00:25:23,261
+<i>within eight hours,
+your child will die.</i>
+
+411
+00:25:24,186 --> 00:25:26,174
+<i>This is the last time
+you will hear from me.</i>
+
+412
+00:25:26,942 --> 00:25:29,318
+<i>There will be
+no further communications.</i>
+
+413
+00:25:29,831 --> 00:25:32,196
+And in your expert
+opinion, Ms. Montenegro,
+
+414
+00:25:32,442 --> 00:25:34,866
+- whose voice is that?
+- It's Heather Taffet.
+
+415
+00:25:35,034 --> 00:25:38,494
+The frequency and vocal patterns
+are an exact match when compared
+
+416
+00:25:38,662 --> 00:25:40,930
+to unencrypted recordings
+of her voice.
+
+417
+00:25:41,055 --> 00:25:43,207
+Thank you.
+No further questions.
+
+418
+00:25:44,259 --> 00:25:45,468
+That was very
+
+419
+00:25:45,593 --> 00:25:47,170
+impressive, Ms. Montenegro.
+
+420
+00:25:47,338 --> 00:25:49,672
+Could you share your credentials
+with the court?
+
+421
+00:25:49,955 --> 00:25:52,255
+I have a Bachelor of Fine Arts
+from the University of Texas
+
+422
+00:25:52,380 --> 00:25:54,051
+with a Minor in Computer Science.
+
+423
+00:25:54,360 --> 00:25:56,345
+And I've also studied
+biomedical illustration
+
+424
+00:25:56,513 --> 00:25:57,722
+at American University.
+
+425
+00:25:57,890 --> 00:26:00,989
+But you do not have a degree
+in sound engineering, is that correct?
+
+426
+00:26:01,815 --> 00:26:02,476
+No.
+
+427
+00:26:02,660 --> 00:26:04,478
+Objection. Ms. Montenegro has
+
+428
+00:26:04,646 --> 00:26:06,105
+numerous patents pending from
+
+429
+00:26:06,273 --> 00:26:08,707
+her work in auditory
+forensic reconstruction.
+
+430
+00:26:08,901 --> 00:26:12,236
+One homeless man has a patent pending
+for a time machine.
+
+431
+00:26:12,404 --> 00:26:14,722
+That doesn't mean I'm going
+to ask him to testify.
+
+432
+00:26:14,847 --> 00:26:16,036
+Enough, Ms. Taffet.
+
+433
+00:26:16,241 --> 00:26:17,627
+Do you have anything else?
+
+434
+00:26:17,752 --> 00:26:20,203
+Yes, Your Honor.
+I'd like to introduce into evidence
+
+435
+00:26:20,469 --> 00:26:22,538
+item 461B,
+
+436
+00:26:22,706 --> 00:26:25,333
+which is a deconstruction
+of the same ransom tape
+
+437
+00:26:25,842 --> 00:26:28,211
+by former FBI Special
+Agent Graham Steele,
+
+438
+00:26:28,379 --> 00:26:29,837
+who has a PhD
+
+439
+00:26:30,005 --> 00:26:33,507
+in Forensic Auditory Analysis
+from the University of Pennsylvania.
+
+440
+00:26:34,866 --> 00:26:37,595
+<i>If I don't receive the money
+in the numbered account</i>
+
+441
+00:26:37,763 --> 00:26:39,764
+<i>within eight hours,
+your child will die.</i>
+
+442
+00:26:39,932 --> 00:26:41,032
+That isn't me.
+
+443
+00:26:41,157 --> 00:26:43,809
+He obviously manipulated
+the pitch and the timbre
+
+444
+00:26:43,977 --> 00:26:46,479
+- of the voice.
+- Isn't that what you did?
+
+445
+00:26:46,684 --> 00:26:48,189
+Those sound waves have
+
+446
+00:26:48,357 --> 00:26:50,447
+an underlying pattern
+of frequency modulation.
+
+447
+00:26:51,098 --> 00:26:52,506
+Like a fingerprint.
+
+448
+00:26:52,631 --> 00:26:54,237
+Whatever the technical jargon,
+
+449
+00:26:54,784 --> 00:26:56,280
+it seems clear that anyone,
+
+450
+00:26:56,448 --> 00:26:58,449
+even someone without
+any credentials,
+
+451
+00:26:58,617 --> 00:27:00,382
+can make one voice
+sound like another.
+
+452
+00:27:00,507 --> 00:27:02,411
+Objection!
+Counsel is making speeches.
+
+453
+00:27:02,579 --> 00:27:04,288
+- Sustained.
+- I'm sorry, Your Honor.
+
+454
+00:27:04,456 --> 00:27:05,752
+No further questions.
+
+455
+00:27:24,154 --> 00:27:26,352
+- Hey, Bones, you ready for court?
+- Yes.
+
+456
+00:27:26,520 --> 00:27:28,190
+I have a video presentation
+
+457
+00:27:28,315 --> 00:27:30,898
+which shows the victim
+sustained rib fractures
+
+458
+00:27:31,066 --> 00:27:33,609
+and a fracture of the lateral
+epicondyle of the left distal...
+
+459
+00:27:33,777 --> 00:27:36,153
+What do you say we ease up
+on the scientific stuff, okay?
+
+460
+00:27:36,913 --> 00:27:39,413
+The science gives us
+the height of the assailant.
+
+461
+00:27:39,538 --> 00:27:41,664
+162 centimeters...
+Taffet's height.
+
+462
+00:27:41,789 --> 00:27:44,619
+That's good and all,
+but Taffet's kind of had a field day,
+
+463
+00:27:44,744 --> 00:27:46,776
+trashing the whole
+technical goobledy stuff.
+
+464
+00:27:47,458 --> 00:27:49,500
+And the jury seems
+to like her for it.
+
+465
+00:27:50,287 --> 00:27:51,585
+But those are the facts.
+
+466
+00:27:51,872 --> 00:27:54,510
+It's how you present the facts that
+
+467
+00:27:54,715 --> 00:27:56,424
+win or lose a case.
+
+468
+00:27:56,980 --> 00:27:58,652
+Bones, the jury needs to know
+
+469
+00:27:59,197 --> 00:28:00,842
+what that little boy went through.
+
+470
+00:28:03,879 --> 00:28:05,460
+I've testified before, Booth.
+
+471
+00:28:05,851 --> 00:28:06,809
+I'll be fine.
+
+472
+00:28:06,977 --> 00:28:08,015
+We should go.
+
+473
+00:28:13,069 --> 00:28:14,150
+Terrence Gilroy's
+
+474
+00:28:14,318 --> 00:28:17,629
+left greater cornu of
+the hyoid was compressed,
+
+475
+00:28:17,905 --> 00:28:19,572
+indicating that the assailant
+
+476
+00:28:19,986 --> 00:28:22,658
+strangled the young boy
+using only one hand...
+
+477
+00:28:22,826 --> 00:28:24,846
+the dominant left hand,
+in this case.
+
+478
+00:28:25,250 --> 00:28:27,955
+I'd like to submit writing samples
+
+479
+00:28:28,123 --> 00:28:30,504
+which confirm that the defendant
+is left-handed.
+
+480
+00:28:30,629 --> 00:28:32,501
+No objection, as long
+as it's also noted
+
+481
+00:28:32,669 --> 00:28:35,432
+that eight percent of the general
+population is also left-handed.
+
+482
+00:28:35,823 --> 00:28:37,381
+Including you, Your Honor.
+
+483
+00:28:40,753 --> 00:28:41,552
+Continue.
+
+484
+00:28:42,513 --> 00:28:44,976
+The victim sustained a fracture
+
+485
+00:28:45,101 --> 00:28:48,267
+of the lateral epicondyle
+and the shaft
+
+486
+00:28:48,435 --> 00:28:50,478
+of the left distal humerus.
+
+487
+00:28:54,264 --> 00:28:55,399
+I can be clearer.
+
+488
+00:28:55,567 --> 00:28:58,540
+Terrence Gilroy's bones
+could only have been broken
+
+489
+00:28:58,665 --> 00:29:00,759
+by someone kneeling on top of him
+
+490
+00:29:00,884 --> 00:29:03,657
+as they pushed him into the freezer.
+
+491
+00:29:04,014 --> 00:29:05,968
+The radiating fracture lines show
+
+492
+00:29:06,093 --> 00:29:07,828
+that this assailant
+had to be between
+
+493
+00:29:07,996 --> 00:29:10,365
+125 and 135 pounds...
+
+494
+00:29:10,749 --> 00:29:12,124
+the weight of the defendant.
+
+495
+00:29:12,292 --> 00:29:13,855
+Objection. This is speculation.
+
+496
+00:29:13,980 --> 00:29:15,711
+Are you questioning
+my qualifications?
+
+497
+00:29:15,879 --> 00:29:17,254
+Because you will not find
+
+498
+00:29:17,422 --> 00:29:20,049
+a more experienced or respected
+forensic anthropologist
+
+499
+00:29:20,288 --> 00:29:22,847
+anywhere in the world.
+So I'd appreciate not being interrupted
+
+500
+00:29:22,972 --> 00:29:24,726
+until I finish testifying.
+
+501
+00:29:24,851 --> 00:29:25,968
+Dr. Brennan,
+
+502
+00:29:26,838 --> 00:29:28,265
+I'll make the rulings here.
+
+503
+00:29:30,444 --> 00:29:31,268
+Overruled.
+
+504
+00:29:31,989 --> 00:29:32,812
+Continue.
+
+505
+00:29:33,135 --> 00:29:35,981
+Since these broken bones were
+caused by the assailant's knees
+
+506
+00:29:36,149 --> 00:29:38,328
+and the chipping
+on the boy's kneecaps
+
+507
+00:29:38,627 --> 00:29:40,820
+was caused by the toes of
+
+508
+00:29:40,988 --> 00:29:43,965
+her heavy boots,
+we can determine the length of her shin.
+
+509
+00:29:44,090 --> 00:29:46,700
+And what is the significance
+of the shin length?
+
+510
+00:29:47,103 --> 00:29:48,941
+It gives us the height
+of the assailant,
+
+511
+00:29:49,066 --> 00:29:50,797
+which is five feet, four inches.
+
+512
+00:29:51,387 --> 00:29:53,290
+The same height as the defendant.
+
+513
+00:29:53,676 --> 00:29:55,894
+It is clear from
+the circumstantial evidence
+
+514
+00:29:56,045 --> 00:29:58,539
+and these facts
+that this child was attacked
+
+515
+00:29:58,664 --> 00:30:00,423
+with vicious cruelty by Ms. Taffet.
+
+516
+00:30:00,591 --> 00:30:01,591
+Objection.
+
+517
+00:30:01,716 --> 00:30:03,968
+The jury makes that
+determination, not the witness.
+
+518
+00:30:04,965 --> 00:30:06,679
+The five-foot-four assailant...
+
+519
+00:30:08,188 --> 00:30:09,625
+crushed the boy's chest,
+
+520
+00:30:10,548 --> 00:30:11,559
+choked him,
+
+521
+00:30:12,156 --> 00:30:14,310
+and finally caused him
+a torturous death
+
+522
+00:30:14,435 --> 00:30:15,688
+by burying him alive.
+
+523
+00:30:15,856 --> 00:30:17,301
+Objection.
+Speculation.
+
+524
+00:30:17,524 --> 00:30:19,859
+- She can't know what the witness felt.
+- I was buried alive.
+
+525
+00:30:25,415 --> 00:30:28,309
+Which makes me uniquely qualified
+to comment on its horror.
+
+526
+00:30:28,434 --> 00:30:30,625
+Objection, Your Honor.
+This is grandstanding.
+
+527
+00:30:30,750 --> 00:30:32,997
+Unless the witness has
+any additional facts...
+
+528
+00:30:33,165 --> 00:30:34,165
+Sustained.
+
+529
+00:30:35,161 --> 00:30:37,710
+Do you have any further questions
+for Dr. Brennan, Ms. Julian?
+
+530
+00:30:37,878 --> 00:30:40,983
+No, Your Honor.
+I learned everything I need to know.
+
+531
+00:30:41,610 --> 00:30:42,715
+Your witness.
+
+532
+00:30:46,622 --> 00:30:50,014
+Dr. Brennan, don't you think
+your trauma as a kidnapping victim
+
+533
+00:30:50,182 --> 00:30:51,849
+prevents you from being objective?
+
+534
+00:30:52,017 --> 00:30:53,142
+Objection.
+
+535
+00:30:53,310 --> 00:30:56,854
+She is testifying as
+an expert witness, not a victim.
+
+536
+00:30:57,022 --> 00:30:59,820
+- She brought up being buried alive.
+- She did, Ms. Julian.
+
+537
+00:31:00,901 --> 00:31:01,901
+Overruled.
+
+538
+00:31:02,210 --> 00:31:03,944
+It's only natural
+that you would want
+
+539
+00:31:04,112 --> 00:31:07,239
+to construct facts that would
+give you some closure and peace.
+
+540
+00:31:07,407 --> 00:31:08,676
+I resent your implication.
+
+541
+00:31:08,801 --> 00:31:11,146
+I do not let my emotions
+cloud my findings.
+
+542
+00:31:11,328 --> 00:31:12,800
+Not intentionally, of course.
+
+543
+00:31:12,996 --> 00:31:15,080
+- Is there a question coming?
+- Yes.
+
+544
+00:31:15,248 --> 00:31:15,956
+Sorry.
+
+545
+00:31:16,081 --> 00:31:19,251
+Dr. Brennan, you are currently seeing
+an FBI psychologist, are you not?
+
+546
+00:31:19,419 --> 00:31:21,170
+That has nothing to do with...
+
+547
+00:31:21,338 --> 00:31:23,720
+A yes or no is all that's required,
+Dr. Brennan.
+
+548
+00:31:23,998 --> 00:31:26,651
+Are you currently seeing an FBI
+psychologist?
+
+549
+00:31:28,303 --> 00:31:30,531
+- Yes, but...
+- Thank you. No further questions.
+
+550
+00:31:30,656 --> 00:31:32,455
+That has
+nothing to do with this case.
+
+551
+00:31:32,580 --> 00:31:34,089
+My findings are sound.
+
+552
+00:31:34,726 --> 00:31:37,270
+- You may step down, Dr. Brennan.
+- My findings are sound.
+
+553
+00:31:48,759 --> 00:31:49,823
+A dust mite?
+
+554
+00:31:49,991 --> 00:31:53,035
+- So that little bug is gonna save us?
+- Don't call him a bug.
+
+555
+00:31:53,203 --> 00:31:55,916
+Sounds insulting.
+We reexamined the boy's teeth and
+
+556
+00:31:56,041 --> 00:31:59,137
+found it wedged between
+the right lateral incisor and canine.
+
+557
+00:31:59,376 --> 00:32:01,601
+Dust mites eat
+dead human skin cells.
+
+558
+00:32:01,726 --> 00:32:03,775
+And this one's stomach sac is full.
+
+559
+00:32:03,900 --> 00:32:05,256
+If the boy bit Taffet,
+
+560
+00:32:05,424 --> 00:32:07,223
+the skin cells are probably hers.
+
+561
+00:32:07,505 --> 00:32:11,027
+Whatever's left is gonna be small, but
+there might be enough to give us DNA.
+
+562
+00:32:13,966 --> 00:32:16,093
+This is a Dermatophagoides farinae.
+
+563
+00:32:16,218 --> 00:32:19,144
+For those of us who don't
+speak insect, what is that, exactly?
+
+564
+00:32:19,312 --> 00:32:20,437
+It's a dust mite...
+
+565
+00:32:20,605 --> 00:32:24,219
+an insect found on clothes,
+but it also feeds on
+
+566
+00:32:24,344 --> 00:32:26,527
+the cells of the person
+wearing those clothes.
+
+567
+00:32:26,695 --> 00:32:28,810
+And where was this dust mite found?
+
+568
+00:32:28,989 --> 00:32:30,932
+Between Terrence Gilroy's teeth.
+
+569
+00:32:31,241 --> 00:32:33,033
+It was transferred
+there when the boy
+
+570
+00:32:33,201 --> 00:32:35,071
+bit the person who kidnapped him.
+
+571
+00:32:36,144 --> 00:32:37,997
+And how do we know that?
+
+572
+00:32:38,165 --> 00:32:41,404
+The dust mite contained
+human female epithelial cells.
+
+573
+00:32:41,877 --> 00:32:43,502
+We extracted those cells
+
+574
+00:32:43,670 --> 00:32:46,095
+and ran them through
+several DNA databases.
+
+575
+00:32:46,647 --> 00:32:48,382
+The cells belonged
+to Heather Taffet.
+
+576
+00:32:50,877 --> 00:32:52,219
+Nothing further.
+
+577
+00:32:52,913 --> 00:32:54,221
+Your witness, Ms. Taffet.
+
+578
+00:32:55,157 --> 00:32:57,762
+It seems that you have
+neglected to include
+
+579
+00:32:57,887 --> 00:33:00,625
+a sample of the evidence that I
+could have tested independently.
+
+580
+00:33:00,750 --> 00:33:04,064
+Since there was so few cells in the mite
+the testing destroyed the sample,
+
+581
+00:33:04,232 --> 00:33:07,693
+but the procedures and results are
+all contained in our documentation.
+
+582
+00:33:08,078 --> 00:33:10,365
+Let me get this right.
+
+583
+00:33:10,490 --> 00:33:12,961
+I have access to your notes,
+but I can't examine
+
+584
+00:33:13,086 --> 00:33:15,659
+the actual evidence
+because you destroyed it?
+
+585
+00:33:15,827 --> 00:33:18,387
+Your Honor, in California
+versus Trombetta,
+
+586
+00:33:18,580 --> 00:33:20,636
+the Supreme Court ruled
+that the prosecution
+
+587
+00:33:20,761 --> 00:33:22,818
+could destroy a sample
+to test for DNA
+
+588
+00:33:22,943 --> 00:33:25,502
+- because there was no bad faith.
+- Bad faith?
+
+589
+00:33:25,670 --> 00:33:29,057
+The motives of every single person
+at the Jeffersonian are suspect,
+
+590
+00:33:29,182 --> 00:33:31,383
+and now their only physical
+evidence is gone...
+
+591
+00:33:31,551 --> 00:33:33,886
+- if it existed at all.
+- I've just about had it with
+
+592
+00:33:34,054 --> 00:33:35,804
+your unsubstantiated allegations.
+
+593
+00:33:36,172 --> 00:33:38,474
+- As have I.
+- That's enough, Ms. Julian.
+
+594
+00:33:38,642 --> 00:33:41,018
+Your Honor, I would
+like to file a motion to have
+
+595
+00:33:41,186 --> 00:33:43,534
+this unverifiable
+DNA evidence dismissed.
+
+596
+00:33:43,659 --> 00:33:45,531
+Protocol has been followed,
+Ms. Taffet.
+
+597
+00:33:46,047 --> 00:33:48,086
+It's up to the jury
+to decide how the evidence
+
+598
+00:33:48,211 --> 00:33:50,861
+will figure in the outcome of this case.
+Your motion is denied.
+
+599
+00:34:01,475 --> 00:34:03,868
+Did you see Taffet's face?
+She was completely blindsided.
+
+600
+00:34:03,993 --> 00:34:05,375
+Caroline's closing...
+
+601
+00:34:06,165 --> 00:34:07,731
+it's going to kill.
+
+602
+00:34:07,856 --> 00:34:09,338
+All right, so here we go.
+
+603
+00:34:10,175 --> 00:34:11,560
+That's it, huh?
+
+604
+00:34:13,936 --> 00:34:16,870
+Are you okay, Bones?
+Your team just nailed Taffet.
+
+605
+00:34:17,583 --> 00:34:18,962
+I'm just tired.
+
+606
+00:34:20,183 --> 00:34:21,684
+It's been a tough case.
+
+607
+00:34:23,063 --> 00:34:24,435
+It's not just the case.
+
+608
+00:34:27,111 --> 00:34:28,107
+I'm tired of...
+
+609
+00:34:29,658 --> 00:34:30,587
+of all of it.
+
+610
+00:34:30,712 --> 00:34:32,913
+I'm tired of dealing with murders
+
+611
+00:34:33,994 --> 00:34:36,688
+and victims and sadness and pain.
+
+612
+00:34:37,530 --> 00:34:39,025
+That's what we do.
+
+613
+00:34:39,579 --> 00:34:41,249
+All right?
+We catch the bad people,
+
+614
+00:34:41,374 --> 00:34:43,122
+and we make the world
+a better place.
+
+615
+00:34:43,915 --> 00:34:46,917
+That's what you do, and somehow,
+I got caught up into it.
+
+616
+00:34:47,085 --> 00:34:50,318
+You were dealing with dead people
+long before we got together.
+
+617
+00:34:50,677 --> 00:34:52,798
+As a researcher, an anthropologist.
+
+618
+00:34:53,827 --> 00:34:56,102
+That's how I can make
+the world a better place.
+
+619
+00:34:56,227 --> 00:34:57,886
+And you do. Come on.
+
+620
+00:34:59,419 --> 00:35:00,774
+Cheers to that, all right?
+
+621
+00:35:02,046 --> 00:35:03,058
+You're anxious.
+
+622
+00:35:04,254 --> 00:35:05,269
+And tomorrow,
+
+623
+00:35:05,437 --> 00:35:07,538
+when we have won,
+everything will be perfect.
+
+624
+00:35:08,062 --> 00:35:09,189
+It'll be fine.
+
+625
+00:35:20,075 --> 00:35:22,290
+We are here to seek justice
+
+626
+00:35:22,415 --> 00:35:24,329
+for this ten years old boy
+
+627
+00:35:25,063 --> 00:35:27,882
+who was kidnapped, brutally beaten
+
+628
+00:35:28,007 --> 00:35:30,419
+and buried alive by Heather Taffet.
+
+629
+00:35:30,722 --> 00:35:33,436
+Taffet was seen
+where this child was abducted.
+
+630
+00:35:33,715 --> 00:35:35,883
+She matches the size
+of the assailant.
+
+631
+00:35:36,209 --> 00:35:37,676
+She's left-handed.
+
+632
+00:35:37,844 --> 00:35:40,675
+Her voice was discovered
+on the ransom tapes.
+
+633
+00:35:40,931 --> 00:35:42,931
+It all sounds very reasonable,
+doesn't it?
+
+634
+00:35:43,291 --> 00:35:44,820
+These so-called facts
+
+635
+00:35:45,393 --> 00:35:47,814
+were compiled by people
+who themselves
+
+636
+00:35:47,939 --> 00:35:51,523
+were victims of a vicious criminal
+who has not yet been caught.
+
+637
+00:35:52,114 --> 00:35:54,683
+- They need a scapegoat.
+- But only Heather Taffet
+
+638
+00:35:55,127 --> 00:35:58,418
+could have the DNA that was
+found in this child's mouth.
+
+639
+00:35:58,860 --> 00:36:02,785
+That evidence was delivered
+to us in death by this brave boy.
+
+640
+00:36:02,953 --> 00:36:06,599
+And yet, the only people
+who saw that dust mite,
+
+641
+00:36:06,724 --> 00:36:09,427
+the only people who touched
+the alleged
+
+642
+00:36:09,797 --> 00:36:11,310
+epithelial cells
+
+643
+00:36:11,938 --> 00:36:13,504
+were two kidnap victims...
+
+644
+00:36:13,831 --> 00:36:16,256
+one a known conspiracy theorist,
+
+645
+00:36:16,424 --> 00:36:18,592
+the other a traumatized
+anthropologist
+
+646
+00:36:18,760 --> 00:36:20,719
+who's currently being
+treated by a psychologist.
+
+647
+00:36:21,126 --> 00:36:22,638
+And Dr. Saroyan,
+
+648
+00:36:23,064 --> 00:36:25,933
+who couldn't perform her job
+without destroying the evidence,
+
+649
+00:36:26,101 --> 00:36:29,019
+conveniently preventing me
+from mounting a defense.
+
+650
+00:36:29,187 --> 00:36:31,647
+Because she has no defense,
+except slandering
+
+651
+00:36:31,815 --> 00:36:33,148
+these experts.
+
+652
+00:36:33,316 --> 00:36:36,549
+They have told you what
+Heather Taffet did to that boy.
+
+653
+00:36:37,329 --> 00:36:38,445
+The law is clear.
+
+654
+00:36:38,852 --> 00:36:42,115
+You cannot convict a person
+based on innuendo
+
+655
+00:36:43,218 --> 00:36:45,160
+or groundless accusations.
+
+656
+00:36:45,646 --> 00:36:47,190
+I weep for that boy.
+
+657
+00:36:47,461 --> 00:36:51,250
+No child should suffer like that,
+and whoever did this...
+
+658
+00:36:51,499 --> 00:36:53,756
+should never be allowed to
+
+659
+00:36:53,881 --> 00:36:56,116
+walk among decent people again.
+
+660
+00:36:56,972 --> 00:36:59,312
+For that boy, for justice,
+
+661
+00:37:00,016 --> 00:37:02,956
+- you must return a verdict of...
+- Not guilty.
+
+662
+00:37:03,138 --> 00:37:05,579
+Because it's clear
+that I am a scapegoat.
+
+663
+00:37:06,785 --> 00:37:07,785
+I am innocent.
+
+664
+00:37:11,134 --> 00:37:12,134
+Thank you.
+
+665
+00:37:18,135 --> 00:37:19,889
+Caroline nailed it in there.
+
+666
+00:37:20,014 --> 00:37:22,531
+- Taffet was pretty convincing.
+- You know what, Hodgins?
+
+667
+00:37:22,699 --> 00:37:25,450
+- You ever see the bright side?
+- You know what? You're right.
+
+668
+00:37:25,922 --> 00:37:28,614
+Because no matter what happens
+in there, I've got Angela.
+
+669
+00:37:29,742 --> 00:37:30,622
+It's okay.
+
+670
+00:37:31,224 --> 00:37:32,526
+I don't care, Angie.
+
+671
+00:37:32,651 --> 00:37:35,419
+Taffet's not going to make
+the rules anymore.
+
+672
+00:37:35,587 --> 00:37:36,920
+I want everybody to know.
+
+673
+00:37:37,231 --> 00:37:39,298
+Angela and I are married.
+
+674
+00:37:40,948 --> 00:37:41,948
+What?
+
+675
+00:37:44,304 --> 00:37:46,805
+- When, Ang?
+- In jail.
+
+676
+00:37:46,973 --> 00:37:49,516
+Hodgins wanted to wait
+until this was over,
+
+677
+00:37:49,641 --> 00:37:52,019
+so everybody could be happy for us.
+
+678
+00:37:52,187 --> 00:37:54,902
+- This isn't another pregnancy scare?
+- No. No, this is...
+
+679
+00:37:56,243 --> 00:37:57,243
+this is love.
+
+680
+00:38:00,946 --> 00:38:02,696
+Why were you hiding this from us?
+
+681
+00:38:03,151 --> 00:38:06,265
+I was having trouble dealing
+with things because of the trial.
+
+682
+00:38:06,390 --> 00:38:08,104
+Then I thought...
+screw it.
+
+683
+00:38:09,673 --> 00:38:10,871
+The jury's back.
+
+684
+00:38:28,371 --> 00:38:30,849
+The defendant will rise
+for the reading of the verdict.
+
+685
+00:38:35,939 --> 00:38:37,026
+In count one,
+
+686
+00:38:37,688 --> 00:38:39,316
+the kidnapping of Terrence Gilroy,
+
+687
+00:38:40,604 --> 00:38:42,945
+the jury finds the defendant,
+Heather Taffet,
+
+688
+00:38:44,152 --> 00:38:45,152
+guilty.
+
+689
+00:38:45,698 --> 00:38:47,319
+Order, or I will clear the court.
+
+690
+00:38:48,181 --> 00:38:49,263
+In count two,
+
+691
+00:38:50,433 --> 00:38:52,584
+the murder of Terrence Gilroy,
+
+692
+00:38:53,006 --> 00:38:54,924
+the jury finds the defendant...
+
+693
+00:38:56,600 --> 00:38:57,668
+guilty.
+
+694
+00:38:59,327 --> 00:39:01,880
+The defendant is remanded into
+custody until sentencing.
+
+695
+00:39:02,711 --> 00:39:03,840
+We are adjourned.
+
+696
+00:39:13,558 --> 00:39:14,893
+This isn't over.
+
+697
+00:39:45,189 --> 00:39:47,184
+I was out of town
+for a couple of days.
+
+698
+00:39:47,309 --> 00:39:49,377
+I knew Tempe had
+everything under control.
+
+699
+00:39:49,677 --> 00:39:50,836
+She didn't need me.
+
+700
+00:39:50,961 --> 00:39:53,171
+Let's raise our glasses here.
+To the squints.
+
+701
+00:39:53,296 --> 00:39:55,183
+- To Booth.
+- And Caroline.
+
+702
+00:39:56,806 --> 00:39:58,854
+I never doubted any
+of you, not for a minute.
+
+703
+00:39:59,342 --> 00:40:00,522
+Come on.
+
+704
+00:40:00,968 --> 00:40:01,968
+Please.
+
+705
+00:40:03,480 --> 00:40:05,239
+Let's not forget the happy couple.
+
+706
+00:40:07,087 --> 00:40:08,113
+Best wishes
+
+707
+00:40:08,281 --> 00:40:10,824
+for a successful blending
+of familial obligations,
+
+708
+00:40:10,992 --> 00:40:14,494
+as well as monetary
+and property consolidation.
+
+709
+00:40:16,525 --> 00:40:17,330
+What?
+
+710
+00:40:29,936 --> 00:40:31,547
+I guess I'll go home.
+
+711
+00:40:32,587 --> 00:40:34,514
+A real bed is probably
+going to feel good.
+
+712
+00:40:35,503 --> 00:40:37,684
+I'm sorry that I doubted you.
+
+713
+00:40:38,302 --> 00:40:41,353
+Sweets would say that subconsciously
+you wanted Booth to catch you
+
+714
+00:40:41,478 --> 00:40:44,566
+so you and I wouldn't have
+to be separated again.
+
+715
+00:40:47,528 --> 00:40:48,904
+Smart guy, that Sweets.
+
+716
+00:40:49,493 --> 00:40:50,778
+I love you, honey.
+
+717
+00:40:51,085 --> 00:40:53,654
+Thanks for leaving me with
+the bill again. That's nice of you.
+
+718
+00:40:53,779 --> 00:40:56,202
+Your fault, Booth.
+My wallet got stolen in jail.
+
+719
+00:40:57,574 --> 00:40:59,915
+Can't believe they
+actually got hitched.
+
+720
+00:41:00,193 --> 00:41:01,193
+I know.
+
+721
+00:41:04,295 --> 00:41:06,795
+I have this sense that
+everything's changing.
+
+722
+00:41:07,731 --> 00:41:09,015
+Not everything.
+
+723
+00:41:09,367 --> 00:41:11,176
+Look... we're still partners.
+
+724
+00:41:11,648 --> 00:41:12,648
+Right?
+
+725
+00:41:13,290 --> 00:41:14,896
+And Taffet...
+she's put away.
+
+726
+00:41:15,021 --> 00:41:16,807
+You're feeling good
+about that, right?
+
+727
+00:41:17,101 --> 00:41:19,888
+You almost died, Booth.
+That can happen again.
+
+728
+00:41:20,013 --> 00:41:22,437
+- What if, I can't get to you?
+- It's not going to happen.
+
+729
+00:41:24,266 --> 00:41:26,730
+I envy your ability to
+
+730
+00:41:27,029 --> 00:41:29,527
+substitute optimism for reality.
+
+731
+00:41:30,863 --> 00:41:32,914
+Maybe you just need
+to take some time off.
+
+732
+00:41:33,542 --> 00:41:35,547
+Go to a beach.
+Lay in the sun.
+
+733
+00:41:37,037 --> 00:41:38,955
+I might need more
+than a little time.
+
+734
+00:41:41,786 --> 00:41:44,209
+Don't make any decisions
+about your future right now.
+
+735
+00:41:44,483 --> 00:41:46,628
+You know when
+a dentist gives you anesthetic
+
+736
+00:41:47,087 --> 00:41:49,249
+and tells you not to operate
+any heavy machinery
+
+737
+00:41:49,374 --> 00:41:51,591
+or make any important decisions
+within 24 hours?
+
+738
+00:41:52,278 --> 00:41:53,218
+This case
+
+739
+00:41:53,386 --> 00:41:55,011
+was bigger than a root canal.
+
+740
+00:41:55,408 --> 00:41:57,887
+Let's just go back inside
+and have one more drink.
+
+741
+00:41:58,012 --> 00:42:00,456
+I'm tired, Booth.
+I'm going to go home.
+
+742
+00:42:01,144 --> 00:42:02,326
+All right. Come on.
+
+743
+00:42:02,625 --> 00:42:04,364
+We'll get you in the cab.
+
+744
+00:42:05,032 --> 00:42:07,041
+I know, it's been a long, long day.
+
+745
+00:42:07,166 --> 00:42:08,858
+All right, get in there, all right?
+
+746
+00:42:10,236 --> 00:42:11,778
+I'll see you tomorrow, right?
+
+747
+00:42:13,149 --> 00:42:16,862
+Sous-titre : A²S Team
+--== All-about-Subs.fr ==--
+
