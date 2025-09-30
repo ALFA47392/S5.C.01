@@ -1,0 +1,2226 @@
+1
+00:01:28,839 --> 00:01:32,635
+L'équipe du DSR devrait être ici. Appelle l'A.P.O.
+
+2
+00:01:39,350 --> 00:01:41,226
+On a M. Bristow en ligne satellite.
+
+3
+00:01:42,227 --> 00:01:43,520
+Jack, qu'est ce qui se passe pour vous?
+
+4
+00:01:43,604 --> 00:01:45,856
+On est au point de rendez-vous. On attend toujours l'équipe du DSR.
+
+5
+00:01:45,940 --> 00:01:47,816
+On leur donne encore 5 minutes, et on y va.
+
+6
+00:01:47,900 --> 00:01:49,526
+On a avancé avec les Russes?
+
+7
+00:01:49,568 --> 00:01:51,111
+Non, la directrice Chase est à Washington.
+
+8
+00:01:51,195 --> 00:01:52,988
+Ils ont monté une coalition pour faire pression sur les Russes
+
+9
+00:01:53,072 --> 00:01:54,823
+Pour qu'ils annulent leur frappe aérienne, mais pour le moment, non.
+
+10
+00:01:54,907 --> 00:01:58,160
+Ils comprennent bien que de détruire le dispositif avec des explosifs traditionnels
+
+11
+00:01:58,700 --> 00:02:01,748
+va faire se répandre tant de toxines que Tchernobyl sera une petite blague en comparaison?
+
+12
+00:02:01,787 --> 00:02:03,662
+Ouais, leur position officielle est qu'ils n'y croient pas,
+
+13
+00:02:03,707 --> 00:02:06,464
+Ce qui vous laisse environ deux heures pour désactiver le dispositif.
+
+14
+00:02:06,627 --> 00:02:10,256
+Papa, On a un signal d'un transpondeur de l'équipe du DSR.
+
+15
+00:02:10,339 --> 00:02:11,632
+Ils sont à quelques rues.
+
+16
+00:02:11,715 --> 00:02:12,800
+On vous tient au courant.
+
+17
+00:02:13,634 --> 00:02:17,012
+Les russes utilisent le réseau satellite Milsat pour guider les bombes, n'est-ce pas?
+
+18
+00:02:17,137 --> 00:02:18,931
+Si je peux le hacker, je pourrai l'arrêter.
+
+19
+00:02:19,014 --> 00:02:21,016
+Et enfreindre des milliers de lois internationales?
+
+20
+00:02:21,100 --> 00:02:23,394
+On parle de la fin du monde. Je ne me soucie pas d'un tribunal.
+
+21
+00:02:24,436 --> 00:02:26,563
+C'est un bon argument. Vas-y, vas-y.
+
+22
+00:02:33,988 --> 00:02:36,949
+- Ca fonctionne.
+- Vous avez prévenu nos cellules?
+
+23
+00:02:36,991 --> 00:02:39,034
+- On est dans les temps.
+- Bien.
+
+24
+00:02:44,498 --> 00:02:47,167
+Tu vas bientôt la revoir.
+
+25
+00:02:48,961 --> 00:02:52,214
+Je connais Nadia. Elle va nous rendre fiers.
+
+26
+00:03:08,480 --> 00:03:10,024
+Le signal vient d'ici.
+
+27
+00:03:21,952 --> 00:03:22,953
+On ferait mieux de continuer.
+
+28
+00:03:28,584 --> 00:03:29,418
+Montrez-vous!
+
+29
+00:03:48,020 --> 00:03:49,063
+Brodien.
+
+30
+00:03:49,772 --> 00:03:51,148
+Bristow?
+
+31
+00:03:52,274 --> 00:03:53,692
+Oh mon Dieu.
+
+32
+00:03:54,693 --> 00:03:55,778
+Qu'est ce que tu --
+
+33
+00:03:56,695 --> 00:03:58,405
+Je croyais que tu étais suspendue.
+
+34
+00:03:58,530 --> 00:04:00,532
+Eh bien, ne crois pas tout ce que tu entends.
+
+35
+00:04:00,616 --> 00:04:01,742
+Qu'est ce qui s'est passé ici?
+
+36
+00:04:02,034 --> 00:04:04,787
+Euh, Ben disons que ces sédatifs --
+
+37
+00:04:05,245 --> 00:04:06,747
+ils ne vont pas vous aider.
+
+38
+00:04:07,373 --> 00:04:08,666
+Pas pour les infectés.
+
+39
+00:04:11,877 --> 00:04:13,337
+Ils sont comme enragés.
+
+40
+00:04:13,754 --> 00:04:14,880
+Ils se déplacent en groupes.
+
+41
+00:04:15,005 --> 00:04:17,258
+Ca a pris une seule nuit pour mettre en pièces mon équipe entière.
+
+42
+00:04:17,800 --> 00:04:18,926
+Tu es le dernier vivant?
+
+43
+00:04:19,051 --> 00:04:20,427
+Ouais.
+
+44
+00:04:21,553 --> 00:04:25,182
+Je ne sais pas combien il y en a là dehors -- cent, peut-être mille.
+
+45
+00:04:25,224 --> 00:04:26,475
+Et le reste? Où ils sont?
+
+46
+00:04:26,600 --> 00:04:28,102
+Morts si on a de la chance.
+
+47
+00:04:28,352 --> 00:04:32,273
+Quand il ne reste plus personne à tuer, ils se tournent les uns contre les autres.
+
+48
+00:04:32,314 --> 00:04:33,983
+La réserve d'eau municipale était infectée.
+
+49
+00:04:34,066 --> 00:04:38,028
+Et le dispositif émet une basse fréquence inaudible sur tous les spectres.
+
+50
+00:04:38,112 --> 00:04:39,780
+N'importe qui à portée
+
+51
+00:04:39,905 --> 00:04:42,574
+qui a bu l'eau est physiologiquement atteint.
+
+52
+00:04:43,075 --> 00:04:44,201
+On va simplement leur tirer dessus?
+
+53
+00:04:44,285 --> 00:04:45,035
+Oui.
+
+54
+00:04:45,411 --> 00:04:46,829
+Je veux dire, c'est eux ou nous.
+
+55
+00:04:47,246 --> 00:04:50,249
+Ils sont déjà morts de toutes façons. On met fin à leurs souffrances.
+
+56
+00:04:50,833 --> 00:04:51,709
+Il n'y a pas de remède.
+
+57
+00:04:52,501 --> 00:04:55,087
+Une fois infecté, on ne peut pas inverser les symptômes.
+
+58
+00:04:55,170 --> 00:04:56,589
+Que sais-tu sur le dispositif?
+
+59
+00:04:56,672 --> 00:04:57,381
+Euh...
+
+60
+00:05:00,259 --> 00:05:01,468
+D'après ce que je peux dire,
+
+61
+00:05:02,886 --> 00:05:04,763
+le centre est, euh,
+
+62
+00:05:04,847 --> 00:05:07,933
+à 6 Km au Nord-Ouest du bâtiment Oransky -- Juste là.
+
+63
+00:05:08,934 --> 00:05:11,770
+Dans ce cas, le centre de contrôle du dispositif doit être situé sur le toit.
+
+64
+00:05:11,895 --> 00:05:14,857
+J'ai désactivé l'alimentation en énergie de la ville. le dispositif continue de fonctionner.
+
+65
+00:05:14,898 --> 00:05:17,318
+Irina sait comment l'arrêter sans risques.
+
+66
+00:05:17,985 --> 00:05:19,612
+Irina?
+
+67
+00:05:21,405 --> 00:05:22,489
+Irina Derevko?
+
+68
+00:05:23,365 --> 00:05:26,660
+Le dispositif a été modifié pour tourner sur une source d'énergie interne.
+
+69
+00:05:27,328 --> 00:05:29,413
+On doit aller sur le toit de cet immeuble.
+
+70
+00:05:30,831 --> 00:05:33,626
+Ok, euh, bien, mais on ne peut pas conduire.
+
+71
+00:05:33,792 --> 00:05:35,461
+Toutes les routes sont coupées.
+
+72
+00:05:35,502 --> 00:05:37,046
+On peut aller en ville par les tunnels du métro.
+
+73
+00:05:37,129 --> 00:05:39,715
+C'est direct vers le bâtiment Oransky.
+
+74
+00:05:39,798 --> 00:05:43,218
+Il doit y avoir un système d'alimentation d'urgence pour alimenter les rames.
+
+75
+00:05:43,260 --> 00:05:45,095
+Ces tunnels sont très sombres.
+
+76
+00:05:45,220 --> 00:05:46,680
+Et il n'y a qu'une issue.
+
+77
+00:05:47,932 --> 00:05:49,725
+Je n'ai pas dit que j'étais impatiente de le faire.
+
+78
+00:05:51,226 --> 00:05:53,187
+Ok. Allons-y.
+
+79
+00:05:58,943 --> 00:06:00,235
+Ils sont là.
+
+80
+00:06:02,488 --> 00:06:06,241
+Moins de deux heures avant que les russes ne lancent leurs frappes.
+
+81
+00:06:06,367 --> 00:06:07,868
+Rien ne peut nous arrêter.
+
+82
+00:06:07,993 --> 00:06:11,038
+Peu importe, On doit éliminer toutes les possibilités.
+
+83
+00:06:12,498 --> 00:06:13,874
+Je vais diriger l'équipe d'assaut.
+
+84
+00:06:15,501 --> 00:06:16,627
+Nadia.
+
+85
+00:06:18,379 --> 00:06:19,213
+Quoi, Nadia?
+
+86
+00:06:19,672 --> 00:06:20,673
+Ramène-la.
+
+87
+00:06:21,590 --> 00:06:23,634
+Laisse-lui le choix de nous rejoindre.
+
+88
+00:06:24,218 --> 00:06:25,719
+J'allais le faire.
+
+89
+00:06:27,888 --> 00:06:29,014
+Allons-y.
+
+90
+00:06:34,270 --> 00:06:35,479
+Merde.
+
+91
+00:06:36,355 --> 00:06:38,607
+C'est trop sécurisé. Je ne peux pas entrer de l'extérieur.
+
+92
+00:06:38,691 --> 00:06:40,693
+Sans un code d'accès valide, ça ne marchera pas.
+
+93
+00:06:40,734 --> 00:06:41,777
+Alors trouve un code d'accès.
+
+94
+00:06:41,860 --> 00:06:45,447
+Seuls les officiels militaires russes ont des codes d'accès à ça. D'où le mot "accès".
+
+95
+00:06:45,531 --> 00:06:47,992
+On a déjà surmonté pire. Aller. Il doit bien y avoir un moyen.
+
+96
+00:06:49,118 --> 00:06:50,369
+Que ferait Jack dans cette situation?
+
+97
+00:06:50,452 --> 00:06:52,288
+Jack est le roi pour ce genre de trucs.
+
+98
+00:06:52,454 --> 00:06:54,123
+Eh bien, il commencerait certainement par jeter des regards noirs,
+
+99
+00:06:54,206 --> 00:06:58,669
+Et ensuite il ferait chanter ou torturerait quelqu'un. Non?
+
+100
+00:07:00,796 --> 00:07:01,839
+Tu  es un génie.
+
+101
+00:07:02,548 --> 00:07:04,383
+Toi, Eric Weiss, est un génie.
+
+102
+00:07:08,137 --> 00:07:10,014
+Je  croyais que Sloane avait rendu l'index Blackwell à Langley.
+
+103
+00:07:10,097 --> 00:07:11,473
+Il ne l'a pas fait. C'est compliqué.
+
+104
+00:07:11,515 --> 00:07:12,850
+Pas vraiment. Sloane est mauvais --
+
+105
+00:07:12,891 --> 00:07:15,561
+pourquoi il s'accrocherait à des trucs pour faire chanter les officiels du monde entier?
+
+106
+00:07:15,728 --> 00:07:18,772
+Ok, voilà. Député à la défense russe Karkov.
+
+107
+00:07:19,189 --> 00:07:22,276
+On a trouvé le bon, il va prier pour nous donner le code.
+
+108
+00:07:22,359 --> 00:07:23,819
+Je  crois que nous avons trouvé notre passion.
+
+109
+00:07:23,902 --> 00:07:26,071
+- Que fait ce gars?
+- Voyons ça.
+
+110
+00:07:27,281 --> 00:07:29,783
+-  Ooh. C'est un...
+- Whoa, bonjour.
+
+111
+00:07:29,825 --> 00:07:33,037
+- J'espère que non.
+- Wow.
+
+112
+00:07:34,204 --> 00:07:36,707
+Jack, on a trouvé un ministre russe dans l'index Blackwell
+
+113
+00:07:36,874 --> 00:07:39,710
+qui peut nous donner accès au Milsat. On vous tient au courant.
+
+114
+00:07:39,835 --> 00:07:42,838
+Reçu. Marshall et Weiss travaillent sur les russes.
+
+115
+00:07:42,963 --> 00:07:44,632
+Une bande d'indisciplinés, tes compatriotes.
+
+116
+00:07:44,715 --> 00:07:46,216
+On aime contrôler notre destin.
+
+117
+00:07:46,258 --> 00:07:49,345
+Tu n'as jamais accordé grande importance à ça, n'est-ce pas? Le sort. Le destin.
+
+118
+00:07:49,428 --> 00:07:53,724
+A peu près autant de foi qu'en les horoscopes, ou les petites prédictions surprises.
+
+119
+00:07:55,893 --> 00:07:56,810
+Regarde.
+
+120
+00:08:00,522 --> 00:08:01,398
+Rambaldi a écrit,
+
+121
+00:08:01,523 --> 00:08:05,736
+"quand des chevaux rouge sang seront dans les rues et que les anges tomberont du ciel,
+
+122
+00:08:06,820 --> 00:08:09,031
+l'élue et le Passager s'affronteront."
+
+123
+00:08:11,742 --> 00:08:13,452
+"Et seul une des deux en sortira vivante."
+
+124
+00:08:15,871 --> 00:08:18,624
+Tu y crois vraiment, n'est-ce pas?
+
+125
+00:08:21,043 --> 00:08:24,421
+Quand je verrai des anges tomber du ciel, je commencerai à m'inquiéter.
+
+126
+00:08:25,756 --> 00:08:29,802
+C'est juste que je ne peux pas me débarrasser du sentiment qu'une des mes filles va mourir ce soir.
+
+127
+00:08:34,723 --> 00:08:35,683
+Voilà.
+
+128
+00:08:40,980 --> 00:08:43,774
+Hé,  Brodien, on dirait que cette oreille a guéri plutôt bien.
+
+129
+00:08:43,941 --> 00:08:44,942
+Ouais.
+
+130
+00:08:46,110 --> 00:08:48,153
+Et si tu projettes de me faire d'autres blessures,
+
+131
+00:08:48,654 --> 00:08:50,739
+vas-y, dis-le-moi tout de suite. Ok?
+
+132
+00:09:11,760 --> 00:09:12,761
+Brodien?
+
+133
+00:09:13,679 --> 00:09:15,264
+Tiens bon.
+
+134
+00:09:20,644 --> 00:09:21,270
+Vas-y.
+
+135
+00:09:22,730 --> 00:09:23,439
+Fini ça.
+
+136
+00:09:35,659 --> 00:09:36,577
+On doit y aller.
+
+137
+00:09:38,746 --> 00:09:39,580
+Maintenant!
+
+138
+00:10:28,564 --> 00:10:29,607
+On a trouvé la salle des commandes.
+
+139
+00:10:29,690 --> 00:10:31,525
+On va mettre les feux au vert tout le long de la ligne.
+
+140
+00:10:32,693 --> 00:10:36,322
+Ca ne devrait prendre que quelques minutes de rediriger l'alimentation aux roues motrices.
+
+141
+00:10:36,364 --> 00:10:37,656
+Et pour les freins?
+
+142
+00:10:37,698 --> 00:10:38,908
+Les griffes de secours sont serrées.
+
+143
+00:10:38,949 --> 00:10:40,868
+Ca a du arriver quand l'alimentation a été coupée.
+
+144
+00:10:40,950 --> 00:10:43,248
+Mais si on coupe les tuyaux hydrauliques,
+
+145
+00:10:43,287 --> 00:10:45,532
+elles devraient s'ouvrir, mais on n'aura plus de frein manuel.
+
+146
+00:10:45,627 --> 00:10:48,914
+On peut préparer l'aiguillage à la station Oransky pour déclencher un freinage d'urgence.
+
+147
+00:10:49,168 --> 00:10:51,337
+Bien. Soyez prudentes.
+
+148
+00:10:57,051 --> 00:10:58,386
+Tu ne devrais pas attendre.
+
+149
+00:10:59,595 --> 00:11:00,304
+Quoi?
+
+150
+00:11:00,721 --> 00:11:01,889
+J'ai vu la bague.
+
+151
+00:11:04,684 --> 00:11:06,394
+Ouais, vous savez quoi? Vous avez tué mon père.
+
+152
+00:11:06,811 --> 00:11:08,896
+A mon avis, je n'ai pas besoin de votre bénédiction.
+
+153
+00:11:09,438 --> 00:11:11,315
+Malgré ça, Tu peux l'avoir.
+
+154
+00:11:11,732 --> 00:11:13,567
+Ainsi que quelques conseils.
+
+155
+00:11:14,568 --> 00:11:16,320
+Des conseils de mariage de votre part. Magnifique.
+
+156
+00:11:16,570 --> 00:11:18,406
+Comme quoi, ne trahis pas ta femme?
+
+157
+00:11:19,198 --> 00:11:20,366
+Ouais, ça en serait un.
+
+158
+00:11:21,784 --> 00:11:25,204
+Mais même entre un mari et sa femme, certains secrets sont acceptables.
+
+159
+00:11:26,163 --> 00:11:29,375
+Cependant, tes activités ne le sont pas.
+
+160
+00:11:31,877 --> 00:11:33,170
+De quoi vous parlez?
+
+161
+00:11:33,379 --> 00:11:35,881
+Tu n'es pas aussi couvert que tu voudrais le croire.
+
+162
+00:11:37,133 --> 00:11:39,176
+Prends ma vie comme une leçon.
+
+163
+00:11:39,844 --> 00:11:44,390
+Si tu ne veux pas finir comme Jack et moi, dis la vérité à Sydney.
+
+164
+00:12:00,114 --> 00:12:01,407
+Ca ne marche pas.
+
+165
+00:12:01,532 --> 00:12:02,908
+Ils sont aux deux bouts de la plate-forme.
+
+166
+00:12:03,451 --> 00:12:05,995
+Peut-être que lorsque la rame est en gare, ils fonctionnent manuellement --
+
+167
+00:12:06,120 --> 00:12:07,288
+On peut le faire nous.
+
+168
+00:12:07,413 --> 00:12:07,955
+Ok.
+
+169
+00:12:13,252 --> 00:12:14,378
+Tu le ressens encore, aussi?
+
+170
+00:12:15,421 --> 00:12:17,381
+Comme si quelque chose de terrible allait arriver.
+
+171
+00:12:17,423 --> 00:12:18,049
+Je sais.
+
+172
+00:12:21,635 --> 00:12:23,220
+Vaughn m'a demandée en mariage.
+
+173
+00:12:23,763 --> 00:12:24,764
+Sydney...
+
+174
+00:12:26,390 --> 00:12:27,892
+c'est fantastique.
+
+175
+00:12:28,309 --> 00:12:31,020
+Je suis sûre qu'il y a plein de mariées qui veulent tuer leur demoiselle d'honneur.
+
+176
+00:12:31,896 --> 00:12:33,230
+Je n'en fais pas partie.
+
+177
+00:12:34,398 --> 00:12:35,316
+Ok.
+
+178
+00:12:36,317 --> 00:12:37,777
+Je prends le levier de devant.
+
+179
+00:12:41,447 --> 00:12:45,451
+*Puis-je parler au député Karkov?
+
+180
+00:12:45,951 --> 00:12:46,827
+*Patientez s'il vous plait.
+
+181
+00:12:49,997 --> 00:12:52,416
+*Ici le député Karkov. A qui ai-je l'honneur?
+
+182
+00:12:55,753 --> 00:12:59,298
+*Attentif écoutez.
+
+183
+00:12:59,924 --> 00:13:02,676
+*On a besoin de votre code...
+
+184
+00:13:02,843 --> 00:13:03,928
+*réseau Milsat.
+
+185
+00:13:04,011 --> 00:13:05,096
+*Qui que vous soyez...
+
+186
+00:13:05,179 --> 00:13:07,306
+*votre russe est épouvantable.
+
+187
+00:13:07,598 --> 00:13:09,934
+Peu importe! J'ai fait ce programme en 5 minutes, espèce de pervers!
+
+188
+00:13:10,017 --> 00:13:11,519
+Je vais être plus clair.
+
+189
+00:13:11,602 --> 00:13:14,522
+On a besoin de votre code d'accès Milsat. Vous nous le donnez,
+
+190
+00:13:14,563 --> 00:13:18,192
+ou tous les grands journaux auront les photos de tuva d'ici demain matin.
+
+191
+00:13:18,693 --> 00:13:20,820
+"A," Je ne sais pas de quoi vous parlez.
+
+192
+00:13:20,986 --> 00:13:23,155
+"B," Je suis en train de tracer cet appel.
+
+193
+00:13:23,280 --> 00:13:24,699
+Super. J'ai hâte de vous rencontrer.
+
+194
+00:13:24,782 --> 00:13:26,617
+Pendant que je vous ai en ligne, laissez moi vous demander --
+
+195
+00:13:26,742 --> 00:13:29,245
+à quoi servent les ballons verts?
+
+196
+00:13:33,499 --> 00:13:38,379
+Alpha-5-7-2-8-1-1-black.
+
+197
+00:13:38,879 --> 00:13:41,882
+Bien, je serai clair. Si jamais ces photos --
+
+198
+00:13:41,966 --> 00:13:45,928
+Oh, bien sûr, monsieur le député. Ou dois-je vous appeler "cowboy"?
+
+199
+00:13:47,179 --> 00:13:48,139
+Je les ai!
+
+200
+00:14:08,242 --> 00:14:08,993
+Da.
+
+201
+00:14:09,952 --> 00:14:11,871
+*Dieu merci. Qu'est ce qui se passe là-bas?
+
+202
+00:14:11,996 --> 00:14:14,290
+*J'ai regardé les informations et ils disent que--
+
+203
+00:14:14,707 --> 00:14:16,876
+*Je suis désolé. Leonid est mort.
+
+204
+00:14:25,009 --> 00:14:26,927
+- Ok, le code est bon. On y est.
+- Bien.
+
+205
+00:14:27,344 --> 00:14:28,596
+Ok.
+
+206
+00:14:30,681 --> 00:14:33,893
+- Attends une seconde. C'est bizarre.
+- Quoi? Qu'est ce qui est bizarre?
+
+207
+00:14:33,934 --> 00:14:35,936
+Eh bien, il y a un signal qui vient de Sovogda.
+
+208
+00:14:36,354 --> 00:14:39,690
+Quelqu'un essaie d'envoyer une communication cryptée au réseau russe.
+
+209
+00:14:39,774 --> 00:14:42,193
+Ca pourrait être Elena, mais pourquoi elle émettrait sur un réseau fermé?
+
+210
+00:14:42,318 --> 00:14:43,444
+- Je ne sais pas.
+- Tu peux trouver?
+
+211
+00:14:43,527 --> 00:14:44,403
+Laisse moi voir ça.
+
+212
+00:14:46,322 --> 00:14:48,324
+Jack, on a coupé les freins.
+
+213
+00:14:48,407 --> 00:14:50,409
+Dès que tu rétablis le courant, on peut y aller.
+
+214
+00:14:50,701 --> 00:14:52,536
+J'y suis presque. Un instant.
+
+215
+00:15:14,684 --> 00:15:15,768
+Tu as besoin d'aide?
+
+216
+00:15:16,102 --> 00:15:17,353
+Non, Juste une minute.
+
+217
+00:15:24,902 --> 00:15:25,986
+Où est Nadia?
+
+218
+00:15:26,153 --> 00:15:27,988
+- Elle n'est pas encore là?
+- Non.
+
+219
+00:15:31,492 --> 00:15:32,660
+Les gars, les voilà!
+
+220
+00:15:32,868 --> 00:15:35,788
+- Nadia, Sors d'ici!
+- Je l'ai!
+
+221
+00:15:38,457 --> 00:15:39,959
+Nadia! Vaughn!
+
+222
+00:15:45,756 --> 00:15:47,425
+Nadia! Nadia!
+
+223
+00:15:54,849 --> 00:15:56,225
+Papa, arrête la rame!
+
+224
+00:15:56,600 --> 00:15:57,685
+Sydney, on ne peut pas!
+
+225
+00:15:57,810 --> 00:15:58,936
+Arrête la putain de rame!
+
+226
+00:16:00,479 --> 00:16:01,313
+N adia!
+
+227
+00:16:03,357 --> 00:16:04,191
+Sydney!
+
+228
+00:16:04,650 --> 00:16:05,776
+Viens là, viens là!
+
+229
+00:16:15,911 --> 00:16:17,204
+Non!
+
+230
+00:16:20,624 --> 00:16:21,375
+Syd...
+
+231
+00:16:41,312 --> 00:16:42,646
+Ta sœur est en vie.
+
+232
+00:16:56,369 --> 00:16:58,120
+Attention ! On arrive à la station!
+
+233
+00:17:27,149 --> 00:17:30,069
+Ce sont les hommes d'Elena, envoyés pour vous tuer.
+
+234
+00:17:30,778 --> 00:17:32,530
+Je suppose que tu espères un merci.
+
+235
+00:17:32,697 --> 00:17:34,281
+Il n'y a pas le temps pour les sarcasmes, Jack.
+
+236
+00:17:34,782 --> 00:17:37,493
+Les hommes d'Elena ont déjà préparé le monde avec l'eau.
+
+237
+00:17:37,785 --> 00:17:40,579
+Personne d'autre ne peut l'arrêter si on ne la trouve pas dans les prochaines heures.
+
+238
+00:17:40,663 --> 00:17:45,209
+Attends. Tu espères qu'on va croire que tu es venu ici pour nous aider? Allons!
+
+239
+00:17:45,292 --> 00:17:47,503
+Je ne t'ai jamais rien caché de ça, Sydney.
+
+240
+00:17:47,586 --> 00:17:48,963
+Je me suis allié à Elena
+
+241
+00:17:49,046 --> 00:17:51,716
+afin de mettre fin à son plan, pour endosser le risque moi-même.
+
+242
+00:17:52,091 --> 00:17:55,177
+Mais elle a construit des engins sécurisés, et je n'ai pas eu assez de temps.
+
+243
+00:17:55,636 --> 00:17:56,929
+J'en ai assez entendu, Arvin.
+
+244
+00:17:57,054 --> 00:17:58,556
+Jack, j'ai fait partie de l'opération.
+
+245
+00:17:58,639 --> 00:18:00,808
+Si vous voulez arrêter Elena, voilà comment on va faire.
+
+246
+00:18:00,975 --> 00:18:05,021
+Elle s'est réfugiée dans une vieille installation du C.O.G. sous le bâtiment Oransky.
+
+247
+00:18:05,062 --> 00:18:07,815
+Sydney, Vaughn, ouvrez une ligne avec l'A.P.O. On va avoir besoin de Marshall.
+
+248
+00:18:07,940 --> 00:18:10,985
+Jack, tu prends position. Irina, pardonne-moi, mais on n'a pas le temps pour rire.
+
+249
+00:18:13,612 --> 00:18:16,032
+Tu n'es plus responsable de cette équipe.
+
+250
+00:18:18,075 --> 00:18:19,535
+Jack, on a peut-être fait un pas en avant.
+
+251
+00:18:19,660 --> 00:18:21,328
+Marshall a trouvé un signal venant de la ville.
+
+252
+00:18:21,412 --> 00:18:24,915
+On pense qu'Elena essaye d'envoyer quelque chose au réseau Milsat.
+
+253
+00:18:24,999 --> 00:18:26,459
+On sait pourquoi?
+
+254
+00:18:26,542 --> 00:18:29,754
+J'ai décodé le signal -- Ce sont des basses fréquences non audibles par les humains,
+
+255
+00:18:29,795 --> 00:18:32,006
+la même fréquence que celle du dispositif de Mueller.
+
+256
+00:18:32,089 --> 00:18:35,176
+Elle utilise le réseau satellite russe pour émettre cette fréquence dans le monde entier.
+
+257
+00:18:35,426 --> 00:18:38,179
+Si elle réussit, les effets qu'on voit vont arriver partout,
+
+258
+00:18:38,262 --> 00:18:40,473
+partout où l'eau a été contaminée. C'est son objectif.
+
+259
+00:18:40,598 --> 00:18:43,476
+Je sais qu'on vous a dit qu'il y avait encore deux heures avant la frappe aérienne,
+
+260
+00:18:43,684 --> 00:18:45,853
+mais dès que les russes codent ces bombes,
+
+261
+00:18:45,936 --> 00:18:47,980
+Le réseau satellite, il va être mis en ligne.
+
+262
+00:18:48,064 --> 00:18:50,900
+Et dès que ça arrive, ce signal -- il va être émis.
+
+263
+00:18:51,192 --> 00:18:54,945
+Elle est très rusée -- Elle comptait sur cette frappe russe depuis le début. C'est ce qu'elle veut.
+
+264
+00:18:55,029 --> 00:18:56,197
+Combien de temps on a?
+
+265
+00:18:56,322 --> 00:18:57,406
+40 minutes, environ.
+
+266
+00:18:57,490 --> 00:19:00,326
+On doit aller sur le toit de cet immeuble et arrêter ce dispositif.
+
+267
+00:19:00,618 --> 00:19:03,496
+Tu peux nous envoyer des renseignements sur le bâtiment -- des scans thermiques?
+
+268
+00:19:04,038 --> 00:19:06,791
+Ok, laissez-moi un instant.
+
+269
+00:19:08,667 --> 00:19:11,087
+Le dispositif de Mueller créé trop d'interférences.
+
+270
+00:19:11,128 --> 00:19:13,672
+Le mieux que je puisse faire sont les plans du bâtiment. Je les envoie.
+
+271
+00:19:17,593 --> 00:19:18,469
+Reçu.
+
+272
+00:19:19,011 --> 00:19:21,389
+Appelle  Chase --  Washington doit être tenu au courant
+
+273
+00:19:21,472 --> 00:19:24,141
+pour qu'ils puissent préparer les responsables des affaires étrangères.
+
+274
+00:19:24,350 --> 00:19:26,060
+- Bonne chance.
+- Ouais, de même.
+
+275
+00:19:26,310 --> 00:19:28,354
+Notre meilleure chance est l'entrée Nord-Ouest.
+
+276
+00:19:28,437 --> 00:19:30,272
+On peu approcher par la ruelle sans être vus.
+
+277
+00:19:30,356 --> 00:19:33,317
+Si elle a prévu ça, toutes ses défenses seront là.
+
+278
+00:19:34,193 --> 00:19:36,529
+Tu vas nous aider à entrer dans le bâtiment et à aller sur le toit.
+
+279
+00:19:36,654 --> 00:19:39,115
+- On a 40 minutes.
+- Bien sûr.
+
+280
+00:19:39,156 --> 00:19:42,118
+Si on échoue, Je te mets personnellement une balle dans le crâne.
+
+281
+00:19:42,910 --> 00:19:44,286
+Tu n'en auras pas besoin.
+
+282
+00:19:45,287 --> 00:19:47,540
+Je peux vous emmener sur le toit. Ce n'est pas un problème --
+
+283
+00:19:47,623 --> 00:19:49,375
+Elena l'a laissé sans gardes.
+
+284
+00:19:49,458 --> 00:19:53,462
+Une fois que vous aurez désactivé le dispositif, les toxines à l'intérieur vont
+
+285
+00:19:54,004 --> 00:19:55,715
+se répandre dans l'atmosphère.
+
+286
+00:19:55,840 --> 00:19:58,676
+Ce  dont vous parlez est une mission suicide.
+
+287
+00:19:58,801 --> 00:20:00,386
+Amène-moi juste sur ce toit.
+
+288
+00:20:00,845 --> 00:20:03,848
+Je peux couper le fil du relais -- inverser l'ionisation.
+
+289
+00:20:03,931 --> 00:20:06,559
+A part l'impact, l'eau sera inoffensive.
+
+290
+00:20:06,851 --> 00:20:11,897
+Je t'y amène, mais ta sœur a changé le schéma des fils. c'est une de ses précautions.
+
+291
+00:20:11,981 --> 00:20:13,232
+Dans ce cas...
+
+292
+00:20:14,066 --> 00:20:15,860
+mène-moi à ma sœur.
+
+293
+00:20:15,943 --> 00:20:17,278
+D'accord.
+
+294
+00:20:18,779 --> 00:20:19,864
+Où est Nadia?
+
+295
+00:20:24,535 --> 00:20:26,203
+Tu me reçois?
+
+296
+00:20:27,204 --> 00:20:28,497
+Est-ce que quelqu'un m'entend?
+
+297
+00:20:29,248 --> 00:20:30,124
+Sydney!
+
+298
+00:20:58,652 --> 00:20:59,487
+Eh oh?
+
+299
+00:21:00,404 --> 00:21:01,447
+Il y a quelqu'un ici?
+
+300
+00:21:02,490 --> 00:21:03,657
+Aide-moi!
+
+301
+00:21:05,701 --> 00:21:06,577
+S'il vous plait.
+
+302
+00:21:13,417 --> 00:21:14,877
+Ne me faites pas de mal!
+
+303
+00:21:17,046 --> 00:21:18,297
+Qu'est ce qui vous est arrivé?
+
+304
+00:21:18,464 --> 00:21:20,966
+Ma jambe -- Je crois qu'elle est cassée.
+
+305
+00:21:22,301 --> 00:21:23,844
+Dieu merci. Ca fait des heures que je suis là.
+
+306
+00:21:25,388 --> 00:21:28,224
+C'était risqué de sortir comme vous l'avez fait.
+
+307
+00:21:29,266 --> 00:21:31,060
+Comment saviez vous que je n'étais pas l'un d'entre eux?
+
+308
+00:21:31,435 --> 00:21:32,520
+Parce que...
+
+309
+00:21:33,771 --> 00:21:35,564
+...Je sais qui vous êtes.
+
+310
+00:21:52,454 --> 00:21:53,663
+Mon cœur.
+
+311
+00:21:54,623 --> 00:21:56,541
+Je suis navrée que ça ait dû être ainsi.
+
+312
+00:21:57,250 --> 00:22:00,420
+J'espère que tu comprends. Je n'ai jamais voulu te faire du mal.
+
+313
+00:22:01,630 --> 00:22:04,758
+Je n'ai jamais voulu d'enfant à moi, Nadia.
+
+314
+00:22:05,342 --> 00:22:06,760
+Et  alors tu es arrivée.
+
+315
+00:22:08,720 --> 00:22:13,433
+Et depuis ce moment, peu importe à quelle distance j'étais de toi,
+
+316
+00:22:14,601 --> 00:22:17,979
+J'ai toujours pensé à toi comme à ma fille.
+
+317
+00:22:18,813 --> 00:22:19,856
+Ne me touche pas.
+
+318
+00:22:22,275 --> 00:22:23,527
+Tu as le choix.
+
+319
+00:22:24,903 --> 00:22:28,240
+Tu peux suivre ta colère et me haïr...
+
+320
+00:22:29,783 --> 00:22:32,827
+...ou tu peux me rejoindre.
+
+321
+00:22:33,828 --> 00:22:35,413
+Le déluge a commencé.
+
+322
+00:22:35,872 --> 00:22:38,250
+Seuls quelques privilégiés survivront.
+
+323
+00:22:42,337 --> 00:22:43,463
+La voilà.
+
+324
+00:22:45,298 --> 00:22:46,550
+Je la vois --
+
+325
+00:22:47,884 --> 00:22:48,927
+ta mère.
+
+326
+00:22:52,681 --> 00:22:55,267
+Elle me regardait comme ça.
+
+327
+00:22:56,935 --> 00:23:01,523
+Il est temps que tu accepte la vie que tu as devant toi.
+
+328
+00:23:03,483 --> 00:23:09,364
+Je sais que ce n'est pas facile. La grandeur ne l'est jamais.
+
+329
+00:23:18,665 --> 00:23:19,916
+Tu as raison.
+
+330
+00:23:23,670 --> 00:23:24,838
+Je vois mon avenir.
+
+331
+00:23:28,091 --> 00:23:31,011
+Dans deux minutes, je me vois te tuer.
+
+332
+00:23:36,975 --> 00:23:39,644
+La seule raison pour laquelle tu me veux à tes côtés
+
+333
+00:23:40,437 --> 00:23:44,566
+c'est que tu crois que je serai celle qui arrêtera Sydney Bristow.
+
+334
+00:23:45,650 --> 00:23:47,110
+Mais c'est ma sœur.
+
+335
+00:23:52,616 --> 00:23:54,367
+Et tu n'es rien pour moi.
+
+336
+00:23:55,952 --> 00:23:58,955
+Je suis désolée que tu le prennes comme ça.
+
+337
+00:24:18,266 --> 00:24:19,226
+Qu'est ce que c'est?
+
+338
+00:24:21,436 --> 00:24:22,979
+Ne t'en fais pas, chérie.
+
+339
+00:24:23,688 --> 00:24:25,607
+C'est seulement de l'eau du robinet.
+
+340
+00:24:27,484 --> 00:24:29,486
+Je ne trahirai jamais ma sœur.
+
+341
+00:24:31,613 --> 00:24:32,739
+On verra.
+
+342
+00:24:46,586 --> 00:24:47,379
+Syd.
+
+343
+00:24:48,255 --> 00:24:49,297
+J'ai oublié quelque chose?
+
+344
+00:24:49,381 --> 00:24:52,300
+Ouais -- moi. Je viens avec toi.
+
+345
+00:24:53,051 --> 00:24:54,261
+Mon père a changé les plans?
+
+346
+00:24:54,344 --> 00:24:56,221
+Non, moi je l'ai fait. Je viens avec toi sur le toit.
+
+347
+00:24:56,638 --> 00:24:59,849
+C'est un job pour un. Ma mère me communiquera les instructions de câblage.
+
+348
+00:24:59,933 --> 00:25:01,476
+- Je peux désamorcer le dispositif.
+- Je sais que tu peux.
+
+349
+00:25:01,518 --> 00:25:04,980
+Mais tu ne peux pas t'échapper de la vague d'eau que ça va faire.
+
+350
+00:25:05,063 --> 00:25:06,189
+Et comment tu vas m'aider?
+
+351
+00:25:06,273 --> 00:25:07,524
+On trouvera quelque chose.
+
+352
+00:25:07,983 --> 00:25:09,985
+Tu courras plus vite si je te poursuis.
+
+353
+00:25:10,819 --> 00:25:11,862
+Ca ira.
+
+354
+00:25:12,487 --> 00:25:13,655
+Et ils ont besoin de toi au bunker.
+
+355
+00:25:13,697 --> 00:25:15,991
+- Syd...
+- Si on n'a pas Elena...
+
+356
+00:25:16,867 --> 00:25:18,076
+Ne le dis pas.
+
+357
+00:25:23,081 --> 00:25:24,416
+On se voit dans quelques minutes.
+
+358
+00:25:26,334 --> 00:25:26,835
+Ok.
+
+359
+00:25:31,756 --> 00:25:33,717
+Juste au cas où, oui.
+
+360
+00:25:34,342 --> 00:25:36,303
+- Oui?
+- Oui, je veux t'épouser.
+
+361
+00:25:50,817 --> 00:25:51,943
+Elle est parfaite.
+
+362
+00:25:53,820 --> 00:25:54,779
+Toi aussi.
+
+363
+00:26:05,582 --> 00:26:06,374
+Vas.
+
+364
+00:26:07,584 --> 00:26:09,294
+- On se voit tout de suite.
+- Je sais.
+
+365
+00:26:32,901 --> 00:26:36,821
+C'est ça, un virus informatique polymorphe capable d'infecter un chiffrement de niveau militaire.
+
+366
+00:26:36,905 --> 00:26:39,866
+Vous pensez pouvoir gérer ça? Pas 10 minutes -- J'en ai besoin maintenant!
+
+367
+00:26:39,991 --> 00:26:41,993
+Faites-le, c'est tout, ok? Merci.
+
+368
+00:26:42,744 --> 00:26:43,662
+On est proche?
+
+369
+00:26:44,079 --> 00:26:46,373
+Ca n'aide pas trop comme question là, ok?
+
+370
+00:26:46,957 --> 00:26:48,083
+Ne t'en veux pas.
+
+371
+00:26:48,166 --> 00:26:50,627
+Ce réseau satellite a été fait pour résister à une troisième guerre mondiale.
+
+372
+00:26:54,714 --> 00:26:56,883
+Je viens d'avoir un coup de fil de mon pote aux services secrets.
+
+373
+00:26:56,967 --> 00:26:59,302
+Ils commencent le protocole de "continuité du gouvernement".
+
+374
+00:26:59,469 --> 00:27:01,263
+Le  président, son cabinet, leurs familles --
+
+375
+00:27:01,346 --> 00:27:03,223
+tous évacués dans des centres de commandement souterrains.
+
+376
+00:27:05,058 --> 00:27:07,477
+Quelque part dans mon esprit, je m'étais fait des illusions,
+
+377
+00:27:07,561 --> 00:27:09,479
+mais je pensais peut-être être sur la liste.
+
+378
+00:27:09,688 --> 00:27:10,689
+Ouais.
+
+379
+00:27:11,523 --> 00:27:13,149
+C'est un peu comme de retourner à la fac.
+
+380
+00:27:13,441 --> 00:27:15,694
+Les gens cool font une fête, et je ne suis pas invité.
+
+381
+00:27:19,072 --> 00:27:20,365
+Ok, il reste encore du temps.
+
+382
+00:27:20,448 --> 00:27:21,950
+N'abandonnons pas tout de suite.
+
+383
+00:27:25,370 --> 00:27:30,041
+Hé, chérie. Coucou. Euh... non, je n'ai pas beaucoup de temps. Je --
+
+384
+00:27:31,334 --> 00:27:33,003
+Je voulais juste te dire que je t'aime.
+
+385
+00:27:33,420 --> 00:27:34,963
+Je ne te le dis pas assez souvent.
+
+386
+00:27:37,382 --> 00:27:39,509
+Non, je n'ai pas bu. Je --
+
+387
+00:27:40,176 --> 00:27:41,970
+Je rentrerai tôt ce soir, ok?
+
+388
+00:27:43,138 --> 00:27:44,139
+Bye.
+
+389
+00:27:47,934 --> 00:27:50,145
+Les bombardiers russes roulent vers la piste de décollage.
+
+390
+00:27:50,270 --> 00:27:51,646
+Tu as envoyé le signal?
+
+391
+00:27:52,063 --> 00:27:55,483
+Une fois Milsat en ligne, le signal sera émis partout.
+
+392
+00:27:57,444 --> 00:27:58,528
+Sloane revient.
+
+393
+00:28:13,210 --> 00:28:14,294
+Hello, sœurette.
+
+394
+00:28:18,006 --> 00:28:20,842
+Depuis que tu as 11 ans, je rêve de faire une chose.
+
+395
+00:28:20,884 --> 00:28:21,343
+Tu --
+
+396
+00:28:23,053 --> 00:28:23,637
+Maintenant.
+
+397
+00:28:37,526 --> 00:28:39,110
+On ne peut pas annuler le signal d'ici.
+
+398
+00:28:39,319 --> 00:28:40,862
+Trouve la salle de relais et détruis-la.
+
+399
+00:29:19,609 --> 00:29:20,360
+Nadia!
+
+400
+00:29:22,445 --> 00:29:23,572
+Nadia, c'est moi.
+
+401
+00:29:24,447 --> 00:29:25,282
+C'est Sydney.
+
+402
+00:29:27,367 --> 00:29:28,285
+Je ne veux pas te faire de mal.
+
+403
+00:29:32,080 --> 00:29:33,039
+Sydney, qu'est ce qui se passe?
+
+404
+00:29:33,206 --> 00:29:35,667
+C'est Nadia -- elle garde le dispositif. Elle est infectée.
+
+405
+00:29:36,459 --> 00:29:37,878
+C'est toi qui as fait tout ça.
+
+406
+00:29:38,128 --> 00:29:39,462
+Tu dois la tuer.
+
+407
+00:29:39,880 --> 00:29:40,922
+Non, papa.
+
+408
+00:29:41,756 --> 00:29:42,966
+C'est ma sœur.
+
+409
+00:29:43,300 --> 00:29:44,217
+Ecoute-moi.
+
+410
+00:29:44,676 --> 00:29:46,177
+Ce n'est plus ta sœur.
+
+411
+00:29:46,428 --> 00:29:47,512
+Mais maman...
+
+412
+00:29:50,223 --> 00:29:51,266
+Je sais.
+
+413
+00:29:55,898 --> 00:29:59,526
+S'il te plait, Nadia. S'il te plait, laisse-moi t'aider.
+
+414
+00:30:06,158 --> 00:30:08,202
+- Sydney?
+- Sydney, qu'est ce qui se passe?
+
+415
+00:30:10,204 --> 00:30:11,413
+Nadia, arrête.
+
+416
+00:30:40,651 --> 00:30:42,819
+Le relais est détruit. Vérifiez la force du signal.
+
+417
+00:30:43,070 --> 00:30:45,489
+Pas bon, Vaughn. Le signal émet toujours.
+
+418
+00:30:45,572 --> 00:30:47,282
+J'ai planifié ça depuis cinq ans.
+
+419
+00:30:47,616 --> 00:30:51,036
+Tu ne crois pas que j'ai pensé à tout?
+
+420
+00:30:52,829 --> 00:30:55,582
+- Vaughn? Est-ce que Sloane est avec toi?
+- Non. Il n'est pas avec toi?
+
+421
+00:30:55,707 --> 00:30:57,834
+- Va sur le toit maintenant.
+- J'y vais.
+
+422
+00:31:34,705 --> 00:31:36,290
+Ok, maman, J'ai enlevé le panneau.
+
+423
+00:31:36,874 --> 00:31:38,292
+Tu vois la carte mère?
+
+424
+00:31:38,584 --> 00:31:40,377
+Je vois beaucoup de cartes.
+
+425
+00:31:40,502 --> 00:31:42,212
+C'est celle la plus proche de l'alimentation.
+
+426
+00:31:42,546 --> 00:31:45,215
+Suit le fil de terre. Il devrait te mener à la bobine.
+
+427
+00:31:45,549 --> 00:31:46,174
+Je l'ai.
+
+428
+00:31:51,722 --> 00:31:52,556
+Ok, Je suis là.
+
+429
+00:31:53,974 --> 00:31:56,435
+Il devrait y avoir deux fils -- un noir, un jaune.
+
+430
+00:31:56,560 --> 00:31:57,269
+Non.
+
+431
+00:31:57,394 --> 00:31:59,855
+Elle les a changés. Un fil est bleu. L'autre blanc.
+
+432
+00:32:00,105 --> 00:32:01,231
+Attends, Sydney.
+
+433
+00:32:05,194 --> 00:32:07,321
+Je te donne une chance de faire le bon choix.
+
+434
+00:32:08,739 --> 00:32:10,657
+Pas que tu aies été bonne à ça pour l'instant.
+
+435
+00:32:11,825 --> 00:32:12,618
+Quel fil?
+
+436
+00:32:13,243 --> 00:32:14,244
+Ca ne sert à rien.
+
+437
+00:32:14,745 --> 00:32:15,913
+Dans quelques minutes,
+
+438
+00:32:16,079 --> 00:32:19,416
+quand le signal émettra, le monde sera changé.
+
+439
+00:32:20,500 --> 00:32:22,878
+Peu importe comment tu prévois de me torturer,
+
+440
+00:32:23,003 --> 00:32:26,256
+Je tiendrai au moins ce temps.
+
+441
+00:32:27,049 --> 00:32:28,425
+Je ne vais pas te torturer.
+
+442
+00:32:30,010 --> 00:32:31,220
+Je vais le laisser le faire.
+
+443
+00:32:31,970 --> 00:32:33,805
+Et il ne tient vraiment pas à toi,
+
+444
+00:32:34,014 --> 00:32:36,225
+Surtout depuis que tu l'as piégé pour qu'il me tue.
+
+445
+00:32:37,267 --> 00:32:39,269
+Une chose que tu devrais savoir sur Jack --
+
+446
+00:32:39,436 --> 00:32:41,813
+Il déteste être le pantin de quelqu'un.
+
+447
+00:32:42,773 --> 00:32:45,275
+J'espère en fait que tu ne nous diras pas ce qu'on veut savoir.
+
+448
+00:32:48,779 --> 00:32:52,199
+Il y a une chance sur deux pour que Sydney coupe le bon fil.
+
+449
+00:32:55,160 --> 00:32:56,912
+Je suis prêt à prendre ce risque...
+
+450
+00:32:58,872 --> 00:33:02,000
+si ça veut dire que je peux rester ici et te regarder te changer en bête.
+
+451
+00:33:03,377 --> 00:33:05,379
+Tu n'es pas un joueur, Jack.
+
+452
+00:33:05,504 --> 00:33:08,590
+Je ne l'étais pas, mais ça a été une année assez intéressante pour moi.
+
+453
+00:33:09,675 --> 00:33:12,386
+Ca m'a fait réévaluer certains aspects de ma vie.
+
+454
+00:33:13,845 --> 00:33:17,266
+J'essaie de m'amuser un peu plus ces jours-ci.
+
+455
+00:33:20,185 --> 00:33:20,978
+Attends.
+
+456
+00:33:21,854 --> 00:33:25,524
+Comment je sais que tu ne me feras pas la piqûre de toutes façons?
+
+457
+00:33:26,775 --> 00:33:27,317
+Tu ne sais pas.
+
+458
+00:33:31,905 --> 00:33:35,033
+Le blanc. Dites-lui de couper le fil blanc.
+
+459
+00:33:37,744 --> 00:33:41,164
+Sydney, coupe le fil bleu. Et ensuite, cours le plus vite possible.
+
+460
+00:33:41,248 --> 00:33:42,958
+Tu as 15 secondes avant que la boule n'explose.
+
+461
+00:33:43,041 --> 00:33:44,835
+Reçu. Je coupe le fil bleu.
+
+462
+00:33:52,843 --> 00:33:54,052
+Nadi-- Nadia.
+
+463
+00:34:21,580 --> 00:34:22,789
+Je n'avais pas le choix.
+
+464
+00:34:30,505 --> 00:34:31,465
+Sydney, on doit y aller.
+
+465
+00:34:34,134 --> 00:34:35,177
+Emmène-la à l'ascenseur.
+
+466
+00:34:40,265 --> 00:34:41,183
+Elle respire encore.
+
+467
+00:34:45,437 --> 00:34:46,480
+Sydney, allons-y.
+
+468
+00:35:03,830 --> 00:35:04,790
+Elle saigne.
+
+469
+00:35:06,166 --> 00:35:07,167
+Fait pression dessus.
+
+470
+00:35:15,467 --> 00:35:16,677
+Le dispositif s'effondre.
+
+471
+00:36:01,992 --> 00:36:04,327
+Raptor, tu me reçois? Aller. Phœnix.
+
+472
+00:36:05,203 --> 00:36:08,623
+Raptor, Phœnix, vous me recevez? Aller. Quelqu'un?
+
+473
+00:36:08,707 --> 00:36:10,250
+Attends. J'essaye une autre fréquence.
+
+474
+00:36:11,793 --> 00:36:12,919
+- Quelque chose?
+- Rien.
+
+475
+00:36:13,753 --> 00:36:15,422
+Ok, et qu'en est-il du bâtiment?
+
+476
+00:36:18,258 --> 00:36:20,176
+Il n'est plus là.
+
+477
+00:36:25,974 --> 00:36:28,727
+3-9-alpha-2-4. On est sortis du bunker dans la rue.
+
+478
+00:36:28,810 --> 00:36:31,521
+Demandons évacuation immédiate. Besoin d'assistance médicale. Lançons la fumée maintenant.
+
+479
+00:36:36,943 --> 00:36:38,320
+L'hélico devrait être là d'ici quelques minutes.
+
+480
+00:36:41,072 --> 00:36:42,782
+On sait tous les deux comment c'est supposé se dérouler.
+
+481
+00:36:44,075 --> 00:36:46,620
+Tu me ramène en Amérique, me remets à tes supérieurs.
+
+482
+00:36:49,289 --> 00:36:51,833
+A pied, tu devrais pouvoir atteindre la frontière d'ici l'aube.
+
+483
+00:36:53,168 --> 00:36:55,128
+Et pour l'agence? Qu'est-ce que tu leur diras?
+
+484
+00:36:55,712 --> 00:36:56,838
+Oh, Je crois qu'ils savent --
+
+485
+00:36:58,131 --> 00:37:01,301
+personne ne peut capturer Irina Derevko pour très longtemps.
+
+486
+00:37:20,445 --> 00:37:21,571
+Prends soin de ta sœur.
+
+487
+00:37:22,238 --> 00:37:23,114
+Je le ferai.
+
+488
+00:37:26,159 --> 00:37:28,954
+Il y a trois ans, quand je t'ai dit que tu étais l'élue,
+
+489
+00:37:29,621 --> 00:37:31,581
+que seule toi pourrais arrêter le mal absolu,
+
+490
+00:37:32,707 --> 00:37:35,794
+je sais que ton esprit a dû être submergé et embrouillé.
+
+491
+00:37:37,671 --> 00:37:42,968
+Mais là, tu dois reconnaître que c'est juste ce que tu as fait.
+
+492
+00:37:47,097 --> 00:37:48,223
+Je suis si fière de toi.
+
+493
+00:37:55,438 --> 00:37:56,314
+Merci.
+
+494
+00:38:00,694 --> 00:38:01,444
+Sydney?
+
+495
+00:38:04,364 --> 00:38:06,408
+Tu ne me verras peut-être pas le jour de ton mariage...
+
+496
+00:38:09,577 --> 00:38:10,912
+Mais je te verrai.
+
+497
+00:38:57,417 --> 00:38:59,711
+- Nadia. Est-elle --
+- Ses signaux vitaux sont stables.
+
+498
+00:38:59,919 --> 00:39:03,131
+Ils la maintiennent endormie jusqu'à qu'on trouve un antidote à son état.
+
+499
+00:39:04,591 --> 00:39:07,719
+Et les survivants? Les russes doivent faire des tests --
+
+500
+00:39:07,802 --> 00:39:09,512
+Il n'y a pas de survivants.
+
+501
+00:39:10,096 --> 00:39:14,017
+les militaires russes ont exécuté tous les civils restant à Sovogda.
+
+502
+00:39:14,643 --> 00:39:15,435
+Bien sûr.
+
+503
+00:39:16,019 --> 00:39:19,856
+Sinon, ça contredirait leur annonce d'une explosion chimique.
+
+504
+00:39:23,568 --> 00:39:24,819
+C'est à cause de moi...
+
+505
+00:39:26,154 --> 00:39:27,489
+à cause de mes choix.
+
+506
+00:39:30,700 --> 00:39:33,495
+J'ai fait du mal à la personne la plus précieuse dans ma vie.
+
+507
+00:39:34,788 --> 00:39:36,164
+On va la sauver.
+
+508
+00:39:37,207 --> 00:39:39,334
+Quoi que ça coûte, on trouvera un remède.
+
+509
+00:39:43,630 --> 00:39:44,673
+Merci.
+
+510
+00:39:45,548 --> 00:39:47,175
+J'ai arrangé une visite pour que tu voies Nadia.
+
+511
+00:39:48,593 --> 00:39:49,844
+Sydney.
+
+512
+00:39:52,180 --> 00:39:53,682
+Je ne pensais jamais être capable de dire ça,
+
+513
+00:39:55,433 --> 00:39:58,186
+mais je crois que tu essayais de faire ce qui était bien.
+
+514
+00:39:59,980 --> 00:40:01,022
+Merci.
+
+515
+00:40:32,345 --> 00:40:34,139
+- J'ai pensé à quelque chose.
+- Ah oui?
+
+516
+00:40:36,766 --> 00:40:38,810
+Et si on envoyait tous ces grands trucs de mariage en l'air?
+
+517
+00:40:40,270 --> 00:40:41,646
+Et si on le faisait juste sur la plage?
+
+518
+00:40:42,731 --> 00:40:44,107
+- La plage?
+- Qu'est ce que tu en penses?
+
+519
+00:40:44,482 --> 00:40:47,235
+En nu-pieds sur la plage, tu dois être super-sexy.
+
+520
+00:40:47,736 --> 00:40:48,903
+Oh, mais attends. Et pour ton père?
+
+521
+00:40:48,987 --> 00:40:51,364
+Il ne semble pas être du genre à aimer le sable entre ses orteils.
+
+522
+00:40:51,448 --> 00:40:52,032
+C'est vrai.
+
+523
+00:40:52,991 --> 00:40:55,285
+Alors... on ne l'invite pas.
+
+524
+00:40:56,369 --> 00:40:57,454
+Ton père?
+
+525
+00:40:57,621 --> 00:40:59,956
+Et si on n’invite personne? on part juste?
+
+526
+00:41:00,957 --> 00:41:01,875
+Tu es sérieuse?
+
+527
+00:41:02,667 --> 00:41:03,752
+J'aimerais beaucoup.
+
+528
+00:41:05,170 --> 00:41:07,172
+Ok. Alors on va s'enfuir.
+
+529
+00:41:13,678 --> 00:41:15,472
+Je t'ai dit que je t'aimais?
+
+530
+00:41:17,599 --> 00:41:19,517
+Ouais. Vas-y, dis-le-moi encore.
+
+531
+00:41:19,684 --> 00:41:20,644
+Je t'aime.
+
+532
+00:41:22,270 --> 00:41:23,438
+Je t'aime aussi.
+
+533
+00:41:24,356 --> 00:41:25,899
+Je sais. Redis-le.
+
+534
+00:41:28,777 --> 00:41:30,195
+Je t'aime, Syd.
+
+535
+00:41:30,487 --> 00:41:31,780
+C'est pourquoi je dois te dire quelque chose.
+
+536
+00:41:33,114 --> 00:41:35,116
+Qu'il n'y ait plus de secrets entre nous.
+
+537
+00:41:35,283 --> 00:41:35,909
+Ok.
+
+538
+00:41:36,910 --> 00:41:40,038
+Quoi que ce soit, je peux le gérer. Ne me dis juste pas que tu es un méchant.
+
+539
+00:41:43,416 --> 00:41:44,793
+Tu n'es pas un méchant, si?
+
+540
+00:41:44,876 --> 00:41:46,336
+Je suppose que ça dépend à qui tu demandes.
+
+541
+00:41:46,419 --> 00:41:47,212
+Vaughn...
+
+542
+00:41:47,879 --> 00:41:49,172
+Ca fait un long moment.
+
+543
+00:41:49,422 --> 00:41:50,548
+Avant qu'on se rencontre.
+
+544
+00:41:51,007 --> 00:41:52,384
+En fait, c'est la raison pour laquelle on s'est rencontrés.
+
+545
+00:41:53,510 --> 00:41:56,346
+Ce n'est pas par accident que tu es venue me voir moi
+
+546
+00:41:56,429 --> 00:41:58,682
+quand tu es entrée à la CIA avec ton histoire sur le SD-6.
+
+547
+00:41:58,807 --> 00:41:59,975
+Attends. Je ne comprends pas.
+
+548
+00:42:00,100 --> 00:42:02,936
+Vaughn, qu'est ce que tu es en train de me dire?
+
+549
+00:42:03,979 --> 00:42:06,106
+Eh bien, pour commencer, je ne m'appelle pas Michael Vaughn.
+
+550
+00:42:10,276 --> 00:42:13,113
+Traduction: Alucardo
+Synchro: Travis
+Transcript: RaceMan
+www.forom.com
+

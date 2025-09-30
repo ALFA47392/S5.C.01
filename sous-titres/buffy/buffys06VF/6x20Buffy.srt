@@ -1,0 +1,1961 @@
+1
+00:00:00,560 --> 00:00:03,800
+-{\i1}Précédemment dans Buffy, The Vampire Slayer...{\i0}
+-Pourquoi ne veux-tu plus coucher avec moi ?
+
+2
+00:00:03,900 --> 00:00:05,430
+Parce que je ne t'aime pas.
+
+3
+00:00:05,970 --> 00:00:09,100
+-Fermé.
+-Ne t'y habitues pas trop.
+
+4
+00:00:11,410 --> 00:00:12,640
+Dis bonne nuit, garce.
+
+5
+00:00:16,710 --> 00:00:18,250
+"Bonne nuit, garce".
+
+6
+00:00:20,380 --> 00:00:22,080
+Je vais te le faire sentir.
+
+7
+00:00:26,190 --> 00:00:28,260
+Demande moi encore pourquoi je ne t'aimerai jamais.
+
+8
+00:00:28,360 --> 00:00:31,230
+Dors confortablement, Tueuse, je reviendrai.
+
+9
+00:00:31,390 --> 00:00:34,800
+Et à ce moment là, les choses vont changer.
+
+10
+00:00:39,600 --> 00:00:43,100
+Tu penses pouvoir me faire ça ?
+Tu crois que je te laisserai t'en tirer ?
+
+11
+00:01:25,080 --> 00:01:27,050
+Elle est derrière, par là.
+
+12
+00:01:31,650 --> 00:01:32,720
+On lui a tirée dessus ?
+
+13
+00:01:32,820 --> 00:01:34,360
+-A la poitrine…
+-Un accident ?
+
+14
+00:01:34,460 --> 00:01:37,060
+On a voulu la tuer.
+
+15
+00:01:55,110 --> 00:01:57,910
+S’il te plait, allez !
+
+16
+00:02:13,130 --> 00:02:18,600
+{\i1}Osiris, je te l’ordonne, ramène là !
+
+17
+00:02:23,140 --> 00:02:25,440
+Le poul est faible. Y’a du sang dans les poumons.
+
+18
+00:02:25,540 --> 00:02:28,640
+-Ça veut dire quoi ?
+-Vous devez reculer.
+
+19
+00:02:28,710 --> 00:02:30,680
+Si vous voulez qu’on agisse, on a besoin d’espace.
+
+20
+00:02:48,860 --> 00:02:52,200
+{\i1}Entends moi, Gardien des Ténèbres !
+
+21
+00:02:52,330 --> 00:02:53,370
+Sorcière !
+
+22
+00:02:53,470 --> 00:02:56,400
+Comment oses-tu invoquer Osiris pour cette tâche ?
+
+23
+00:02:56,570 --> 00:02:59,310
+Je vous en supplie, ramenez là.
+
+24
+00:02:59,410 --> 00:03:03,610
+Tu ne peux pas aller contre les lois de la nature.
+
+25
+00:03:04,450 --> 00:03:06,920
+Comment ? En quoi ceci est naturel ?
+
+26
+00:03:07,020 --> 00:03:10,990
+C’est une mort humaine, par un moyen humain.
+
+27
+00:03:11,120 --> 00:03:15,190
+Tu as ramené quelqu’un tué par une force mystique,
+
+28
+00:03:15,260 --> 00:03:17,490
+ce n’est pas le cas ici.
+
+29
+00:03:17,960 --> 00:03:21,730
+Elle est emmenée par l’{\i1}Ordre naturel.
+
+30
+00:03:21,830 --> 00:03:23,430
+C’est fini.
+
+31
+00:03:24,100 --> 00:03:26,000
+Il doit y avoir un moyen.
+
+32
+00:03:26,170 --> 00:03:27,770
+C’est fini !
+
+33
+00:04:23,790 --> 00:04:26,030
+VILLAINS
+
+34
+00:04:29,330 --> 00:04:32,170
+Vous nous recevez ? Femme blanche, 21 ans,
+
+35
+00:04:32,270 --> 00:04:36,400
+-BPB à la poitrine.
+-Ca va aller, ils t’emmènent à l’hôpital.
+
+36
+00:04:36,870 --> 00:04:39,470
+-Mon Dieu, tu vas bien ?
+-Comment c’est arrivé ?
+
+37
+00:04:39,870 --> 00:04:41,640
+Warren, il avait une arme.
+
+38
+00:04:42,310 --> 00:04:44,880
+C’est allé si vite, j’ai rien pu faire.
+
+39
+00:04:51,450 --> 00:04:53,420
+On doit y aller, vous venez avec nous ou pas ?
+
+40
+00:05:04,370 --> 00:05:08,270
+-Tu crois que ma tante va m’amener mon discman ?
+-C’est de ça que tu t’inquiètes ?
+
+41
+00:05:08,370 --> 00:05:10,070
+Amusement de voyage ?
+
+42
+00:05:10,140 --> 00:05:11,710
+On est en prison.
+
+43
+00:05:12,370 --> 00:05:14,640
+En garde à vue, on n’a même pas encore été inculpé.
+
+44
+00:05:14,980 --> 00:05:16,380
+Merci, Dragnet.
+
+45
+00:05:16,850 --> 00:05:19,710
+Peu importe le nom, ils nous ont, compris ?
+
+46
+00:05:19,810 --> 00:05:21,320
+On va plonger.
+
+47
+00:05:22,820 --> 00:05:24,590
+Ce mec m’a reluqué.
+
+48
+00:05:25,720 --> 00:05:28,160
+Je crois qu’il veut que je sois son compagnon de chambre.
+
+49
+00:05:28,920 --> 00:05:32,030
+Ne te lance pas des fleurs, je l’ai entendu parler à l’agent.
+
+50
+00:05:32,190 --> 00:05:35,300
+-Il est là pour une contravention.
+-Ça ne veut rien dire,
+
+51
+00:05:35,360 --> 00:05:36,970
+la prison te transforme.
+
+52
+00:05:37,300 --> 00:05:40,540
+J’ai entendu dire qu’il aimaient les petits avec des petites mains comme leurs copines.
+
+53
+00:05:40,640 --> 00:05:44,970
+Tu dois te calmer. On est pas dans {\i1}Oz{\i0}. C’est plutôt {\i1}Mayberry.
+
+54
+00:05:45,370 --> 00:05:48,180
+De plus, Warren va trouver un moyen de nous sortir de là.
+
+55
+00:05:48,280 --> 00:05:50,850
+Je suis sûr qu’il va pointer son cul d’une minute à l’autre.
+
+56
+00:05:50,950 --> 00:05:53,050
+Oui, il va venir avec un plan.
+
+57
+00:05:53,110 --> 00:05:56,580
+Comme dans {\i1}Wargames{\i0}. Tu te souviens du décodeur que Matthew Broderick utilisait ?
+
+58
+00:05:56,790 --> 00:06:01,390
+C’était trop fort, celui qu’il avait fait avec des ciseaux et un magnétophone ?
+
+59
+00:06:01,460 --> 00:06:06,560
+"Ferris" Matthew me manque.
+"Broadway" Matthew, je le trouve froid.
+
+60
+00:06:06,660 --> 00:06:07,960
+Vraiment ? Je…
+
+61
+00:06:08,230 --> 00:06:09,400
+Ferme la.
+
+62
+00:06:12,330 --> 00:06:15,340
+C’est pas un film, personne ne viendra nous chercher,
+
+63
+00:06:15,370 --> 00:06:17,470
+ni ta tante qui veut pas nous répondre.
+
+64
+00:06:17,540 --> 00:06:18,740
+Elle doit être absente.
+
+65
+00:06:18,810 --> 00:06:21,610
+Elle s’en fout !
+
+66
+00:06:22,240 --> 00:06:25,710
+-Elle ou ton associé criminel Warren.
+-Ne dis pas ça.
+
+67
+00:06:26,250 --> 00:06:28,820
+Comment ça mon "associé criminel", on est tous ensemble.
+
+68
+00:06:28,880 --> 00:06:30,490
+Comment ça "comment ça" ?
+
+69
+00:06:30,590 --> 00:06:34,790
+-Vous alliez vous envoler et me laisser tenir les sacs.
+-Même pas vrai.
+
+70
+00:06:34,920 --> 00:06:36,990
+J’allais te porter.
+
+71
+00:06:37,090 --> 00:06:41,930
+Vous alliez me piéger et puis Warren t’aurais baisé à ton tour.
+
+72
+00:06:42,030 --> 00:06:45,730
+-C’est tellement pas vrai.
+-Bien sûr.
+
+73
+00:06:47,140 --> 00:06:50,070
+C’est un gentil meurtrier qui n’a qu’une parole.
+
+74
+00:06:51,040 --> 00:06:52,670
+Tu te trompes.
+
+75
+00:06:53,140 --> 00:06:54,880
+Il vient nous aider.
+
+76
+00:06:55,140 --> 00:06:58,550
+Il est dehors en ce moment même trouvant un plan pour nous sortir.
+
+77
+00:07:01,780 --> 00:07:03,250
+Un Whisky, tout de suite.
+
+78
+00:07:03,420 --> 00:07:05,420
+Et je paye la tournée.
+
+79
+00:07:05,690 --> 00:07:07,690
+Je me sens d’humeur dépensière.
+
+80
+00:07:15,360 --> 00:07:18,730
+-Tu dois pas voir beaucoup d’humains…
+-Je regarde mon programme.
+
+81
+00:07:21,270 --> 00:07:23,340
+Je veux pas interrompre ton moment de solitude.
+
+82
+00:07:23,440 --> 00:07:27,040
+Tu veux même pas payer un verre à celui qui a tué la Tueuse ?
+
+83
+00:07:28,140 --> 00:07:31,050
+-De quoi ?
+-Je m’en suis occupée moi-même.
+
+84
+00:07:31,210 --> 00:07:33,110
+Je dirigeais une organisation.
+
+85
+00:07:33,250 --> 00:07:35,750
+Le Trio.Tu as dû en entendre parler.
+
+86
+00:07:39,950 --> 00:07:42,420
+Pas important. Je les ai largués.
+
+87
+00:07:43,360 --> 00:07:47,160
+Je me suis dit que sans Buffy, les choses allaient changer ici.
+
+88
+00:07:47,260 --> 00:07:50,330
+J’ai besoin d’un vrai gang, pas 2-3 débutants.
+
+89
+00:07:50,500 --> 00:07:52,370
+Et tu as tué la Tueuse ?
+
+90
+00:07:52,570 --> 00:07:54,240
+Avec ces mains.
+
+91
+00:07:54,940 --> 00:07:56,600
+Tu es un Sorcier ?
+
+92
+00:07:56,670 --> 00:07:57,840
+Marrant que t’en parles…
+
+93
+00:07:57,910 --> 00:07:59,940
+j’ai exploré tout l’art noir,
+
+94
+00:08:00,010 --> 00:08:01,880
+sorcellerie, démonologie…
+
+95
+00:08:02,010 --> 00:08:04,010
+nommez les, je les aurais déjà tenter.
+
+96
+00:08:04,110 --> 00:08:06,450
+Mais vous savez ce qui marche vraiment bien ?
+
+97
+00:08:08,750 --> 00:08:09,950
+Un flingue.
+
+98
+00:08:10,790 --> 00:08:14,520
+-Tu as tué la Tueuse avec un flingue ?
+-Dans son propre jardin.
+
+99
+00:08:15,890 --> 00:08:17,860
+Ne sous-estimez pas la science, mes amis.
+
+100
+00:08:17,990 --> 00:08:20,660
+Le bon vieux {\i1}"métal + propulsion"{\i0}.
+
+101
+00:08:23,930 --> 00:08:26,530
+-Ça va être génial.
+-Ça va être pour le mieux.
+
+102
+00:08:26,600 --> 00:08:28,400
+La ville est à nous !
+
+103
+00:08:29,100 --> 00:08:30,810
+A nous peut être.
+
+104
+00:08:30,940 --> 00:08:33,110
+Toi, tu es baisé.
+
+105
+00:08:36,440 --> 00:08:38,380
+Le {\i1}"bon vieux métal + propulsion"{\i0}, super.
+
+106
+00:08:38,480 --> 00:08:40,780
+Mais j’espère que tu as bien visé.
+
+107
+00:08:44,650 --> 00:08:47,260
+C’est pas le rire maléfique de la victoire, hein ?
+
+108
+00:08:47,320 --> 00:08:50,890
+Plutôt le rire maléfique de "tu es un homme mort".
+
+109
+00:08:54,630 --> 00:08:56,230
+Où est la blague ?
+
+110
+00:08:56,700 --> 00:08:58,630
+On vient de regarder les infos.
+
+111
+00:08:58,730 --> 00:09:02,070
+-Une fille s’est fait tirée dessus…
+-Dans son jardin.
+
+112
+00:09:02,140 --> 00:09:05,370
+Elle a survécu. Elle est à l’hôpital.
+
+113
+00:09:07,210 --> 00:09:12,410
+La Tueuse guérit vite, vraiment vite.
+
+114
+00:09:13,380 --> 00:09:17,020
+J’allais te manger moi-même pendant les pubs,
+
+115
+00:09:17,190 --> 00:09:20,720
+mais je pense que ça sera plus marrant de laisser la Tueuse t’attraper.
+
+116
+00:09:21,120 --> 00:09:23,530
+Tu ferais mieux de prendre de l’avance, l’ami.
+
+117
+00:09:23,560 --> 00:09:27,130
+Car cette fille va venir te chercher. Et pas qu’un peu.
+
+118
+00:09:39,440 --> 00:09:41,840
+Où sont les livres de magie noire ?
+
+119
+00:09:42,110 --> 00:09:44,210
+Quelque chose de terrible s’est passée je sais.
+
+120
+00:09:44,280 --> 00:09:46,110
+-Tu n’as pas à…
+-J’ai besoin de pouvoir.
+
+121
+00:09:46,180 --> 00:09:47,880
+Pas avec ces livres, je peux pas te laisser.
+
+122
+00:09:47,950 --> 00:09:48,850
+Stop.
+
+123
+00:10:29,690 --> 00:10:31,060
+C’est mieux.
+
+124
+00:10:59,520 --> 00:11:00,960
+La porte était…
+
+125
+00:11:11,100 --> 00:11:13,000
+-Qui est le suivant ?
+-Moi.
+
+126
+00:11:18,440 --> 00:11:19,610
+Tu es nouveau.
+
+127
+00:11:19,870 --> 00:11:23,680
+J’ai l’argent, on peut passer les parlotes ?
+
+128
+00:11:35,190 --> 00:11:40,400
+-Comment tu m’as trouvé ?
+-J’ai parlé à un de tes gars, un habitué.
+
+129
+00:11:40,530 --> 00:11:42,530
+Il m’a montré le chemin pour 20$.
+
+130
+00:11:42,630 --> 00:11:45,900
+La plupart de mes clients te le montre pour 5$.
+
+131
+00:11:46,170 --> 00:11:47,940
+Je m’en souviendrai.
+
+132
+00:11:48,140 --> 00:11:53,070
+J’ai un problème là. J’ai essayé de nous rendre à tous une faveur, en éliminant la Tueuse.
+
+133
+00:11:53,170 --> 00:11:57,110
+Mais j’ai l’impression que ça a raté.
+
+134
+00:11:57,810 --> 00:12:02,320
+-Tuer la Tueuse, c’est du sérieux pour un enfant.
+-Je ne suis pas un enfant.
+
+135
+00:12:03,720 --> 00:12:08,420
+J’avais mes propres hommes… le Trio.
+Tu as dû entendre parler de nous.
+
+136
+00:12:08,660 --> 00:12:11,730
+Exact, vous étiez un groupe, non ?
+
+137
+00:12:11,830 --> 00:12:14,160
+J’ai visité les mondes souterrains.
+
+138
+00:12:14,230 --> 00:12:15,600
+On était maléfique.
+
+139
+00:12:15,730 --> 00:12:18,100
+Mon truc, c’était les robots.
+
+140
+00:12:20,170 --> 00:12:22,370
+Tu n’as pas entendu parler du rayon réfrigérant…
+
+141
+00:12:22,640 --> 00:12:23,770
+Désolé.
+
+142
+00:12:24,910 --> 00:12:27,240
+Alors, pourquoi tes hommes ne t’aident pas ?
+
+143
+00:12:27,310 --> 00:12:30,980
+Je pensais que l’argent suffisait, pas qu’on était admis sur entretien.
+
+144
+00:12:31,050 --> 00:12:34,150
+J’ai besoin de protection, j’ai la Tueuse aux basques.
+
+145
+00:12:34,850 --> 00:12:37,520
+La Tueuse est le moindre de tes problèmes.
+
+146
+00:12:38,050 --> 00:12:40,390
+C’est vrai, parlons des problèmes d’acné !
+
+147
+00:12:40,460 --> 00:12:43,560
+Sur l’échelle des problèmes, elle est au top.
+
+148
+00:12:43,660 --> 00:12:46,060
+Si j’étais toi je me soucierais de la sorcière.
+
+149
+00:12:46,330 --> 00:12:48,530
+La sorcière ? Quelle sorcière ?
+
+150
+00:12:48,630 --> 00:12:51,900
+Willow, la copine de la Tueuse.
+
+151
+00:12:52,500 --> 00:12:56,640
+Elle a un nouveau pouvoir, n’importe qui du milieu peut la sentir.
+
+152
+00:12:57,010 --> 00:13:04,610
+Elle va détruire cette ville, en commençant avec toi.
+
+153
+00:13:04,980 --> 00:13:07,250
+Qu’est-ce que je lui ai fait ?
+
+154
+00:13:08,380 --> 00:13:13,820
+-J’ai tiré sur son amie.
+-Je sens la mort.
+
+155
+00:13:13,890 --> 00:13:16,590
+Mais la Tueuse est vivante et elle guérit !
+
+156
+00:13:16,690 --> 00:13:20,000
+Peut être que quelqu’un est plus refroidi que ça.
+
+157
+00:13:20,300 --> 00:13:23,260
+C’est pour ça que la sorcière veut ta peau.
+
+158
+00:13:24,930 --> 00:13:28,040
+Elle sent ta présence en ce moment même, mec.
+
+159
+00:13:28,170 --> 00:13:30,970
+C’est juste une question de temps avant qu’elle ne te trouve.
+
+160
+00:13:32,370 --> 00:13:37,050
+Prends ça et je peux en avoir plus, donne moi juste quelque chose.
+
+161
+00:13:41,220 --> 00:13:44,120
+-Pour se cacher ou se battre ? 
+-Les deux.
+
+162
+00:13:44,750 --> 00:13:47,490
+J’ai encore quelques trucs mais c’est pas assez.
+
+163
+00:13:47,520 --> 00:13:50,860
+J’ai besoin d’une couverture, et d’une grande puissance de feu.
+
+164
+00:13:53,290 --> 00:13:56,560
+Je ne peux rien garantir. Pas cette fois.
+
+165
+00:13:59,530 --> 00:14:02,070
+Elle est en furie.
+
+166
+00:14:02,840 --> 00:14:05,270
+Je n’ai jamais rien ressenti de tel.
+
+167
+00:14:07,080 --> 00:14:11,210
+Merci du tuyau, Nostradamus. Aidez moi, ok ?
+
+168
+00:14:27,360 --> 00:14:28,900
+-Faut arrêter cette hémorragie.
+-Où ?
+
+169
+00:14:29,000 --> 00:14:31,400
+-Près du ventricule gauche.
+-Le cœur ralentit.
+
+170
+00:14:40,010 --> 00:14:42,140
+-On doit arrêter l’hémorragie.
+-Le cœur …
+
+171
+00:14:44,510 --> 00:14:45,780
+Que se passe-t-il ?
+
+172
+00:14:49,580 --> 00:14:50,920
+Partez.
+
+173
+00:14:57,530 --> 00:14:58,660
+Maintenant.
+
+174
+00:15:03,000 --> 00:15:05,070
+Que fais-tu ? Elle va mourir.
+
+175
+00:15:06,700 --> 00:15:08,040
+Mais non.
+
+176
+00:15:35,460 --> 00:15:37,230
+C’est tellement petit.
+
+177
+00:15:54,520 --> 00:15:56,250
+Que s’est-il passé ?
+
+178
+00:16:00,960 --> 00:16:03,560
+-Mon Dieu, tu vas bien ?
+-Bien sûr.
+
+179
+00:16:04,130 --> 00:16:05,790
+Comment j’ai atterri ici ?
+
+180
+00:16:07,830 --> 00:16:09,330
+Tu dois arrêter de faire ça.
+
+181
+00:16:09,430 --> 00:16:12,770
+C’est marrant une ou deux fois peut être…
+
+182
+00:16:16,970 --> 00:16:18,370
+Qu’est-ce qui va pas ?
+
+183
+00:16:19,210 --> 00:16:21,910
+Je t’expliquerai, mais on doit y aller.
+
+184
+00:16:22,540 --> 00:16:25,310
+-Pourquoi ?
+-Il est temps de trouver Warren.
+
+185
+00:16:31,290 --> 00:16:35,590
+-J’arriverai à la frontière ?
+-Faudra changer de bus. Tout est écrit.
+
+186
+00:16:57,280 --> 00:16:59,310
+-Plus vite.
+-Je vais aussi vite que je peux.
+
+187
+00:17:01,020 --> 00:17:04,720
+-Willow, arrête ! Si tu voulais conduire…
+-On doit s’arrêter, je n’aime pas ça.
+
+188
+00:17:04,890 --> 00:17:08,120
+-On est proche, je le sens.
+-Et on l’attrapera et il ira en prison.
+
+189
+00:17:08,190 --> 00:17:10,460
+Je trouve que se faire tirer dessus est très motivant,
+
+190
+00:17:10,590 --> 00:17:13,500
+-mais tu utilises la magie.
+-Sans magie, tu serais morte.
+
+191
+00:17:14,860 --> 00:17:17,430
+Peut être, mais ce n’est pas bien.
+
+192
+00:17:17,600 --> 00:17:20,600
+-C’est pas comme on le voulait.
+-Parfois, on a pas le choix.
+
+193
+00:17:20,740 --> 00:17:22,770
+Je crois que Buffy est mieux placée ce coup ci.
+
+194
+00:17:22,900 --> 00:17:25,010
+C’est elle qui s’est pris la balle.
+
+195
+00:17:25,140 --> 00:17:27,810
+Will, tu as le choix. Ce n’est pas bon pour toi.
+
+196
+00:17:27,910 --> 00:17:29,640
+Tu as décidé d’arrêter pour une raison.
+
+197
+00:17:29,710 --> 00:17:31,150
+Tu nous as promis.
+
+198
+00:17:31,280 --> 00:17:35,350
+Je peux demander qu’est-ce que c’est que ce relookage ? Tes cheveux…
+
+199
+00:17:35,450 --> 00:17:38,120
+-Tourne à droite, fonce !
+-Où ?
+
+200
+00:17:38,220 --> 00:17:39,850
+Par là, maintenant !
+
+201
+00:17:40,590 --> 00:17:42,090
+-Will…
+-{\i1}Tourne{\i0}.
+
+202
+00:17:47,060 --> 00:17:49,960
+Bien ! Votre Altesse veut conduire ? Vas-y !
+
+203
+00:18:02,580 --> 00:18:04,250
+-Attends !
+-Reculez !
+
+204
+00:18:34,710 --> 00:18:35,840
+Sors !
+
+205
+00:18:45,490 --> 00:18:48,390
+S’il te plait ! Je ferai n’importe quoi.
+
+206
+00:19:02,400 --> 00:19:03,910
+C’est un robot.
+
+207
+00:19:05,510 --> 00:19:07,510
+Je pouvais sentir son essence.
+
+208
+00:19:09,680 --> 00:19:11,080
+Il m’a piégée.
+
+209
+00:19:11,680 --> 00:19:14,220
+-On le trouvera autrement.
+-Et après ?
+
+210
+00:19:14,280 --> 00:19:16,820
+-Et après, on le tuera.
+-Tu dois te calmer.
+
+211
+00:19:16,890 --> 00:19:18,350
+Me calmer ?
+
+212
+00:19:18,820 --> 00:19:20,790
+Tu es fâchée, moi aussi.
+
+213
+00:19:20,890 --> 00:19:23,790
+-Il n’a pas d’excuse, mais…
+-Il a tué Tara.
+
+214
+00:19:25,460 --> 00:19:28,130
+Quand il t’a tirée dessus, il l’a touchée aussi.
+
+215
+00:19:28,330 --> 00:19:30,530
+A l’étage, dans ma chambre.
+
+216
+00:19:31,700 --> 00:19:34,140
+C’était le dernier tir qui a tout changé.
+
+217
+00:19:34,300 --> 00:19:37,310
+-Elle est morte ?
+-Elle est morte.
+
+218
+00:19:37,370 --> 00:19:39,670
+Et maintenant il est mort aussi.
+
+219
+00:19:44,180 --> 00:19:45,480
+Pourquoi tu ne nous as rien dit ?
+
+220
+00:19:45,750 --> 00:19:48,620
+-J’étais occupée.
+-S’il te plait, arrête.
+
+221
+00:19:51,290 --> 00:19:53,490
+On t’aime, toi et Tara.
+
+222
+00:19:53,590 --> 00:19:56,360
+Mais on ne tue pas d’humain, ce n’est pas la solution.
+
+223
+00:19:56,520 --> 00:19:58,360
+Comment peux-tu dire ça ?
+
+224
+00:19:58,560 --> 00:20:01,760
+-Tara est morte.
+-Je sais.
+
+225
+00:20:02,160 --> 00:20:07,270
+Et je ne comprends rien.
+
+226
+00:20:08,770 --> 00:20:12,540
+Comment c’est arrivé et ce que tu dois ressentir.
+
+227
+00:20:13,240 --> 00:20:16,510
+Si tu fais ça, tu laisseras Warren te détruire également.
+
+228
+00:20:17,410 --> 00:20:19,210
+Tu l’as dit toi-même.
+
+229
+00:20:19,450 --> 00:20:22,020
+La magie est trop forte, tu n’en reviendras pas.
+
+230
+00:20:23,250 --> 00:20:25,150
+Je ne reviendrai pas.
+
+231
+00:20:25,420 --> 00:20:28,890
+-On s’en sortira ensemble.
+-Non, pas avec ta méthode !
+
+232
+00:20:29,360 --> 00:20:32,660
+On ne parle plus. C’est fini.
+
+233
+00:21:06,590 --> 00:21:08,830
+Peut être qu’elle est allée à l’hôpital pour te trouver.
+
+234
+00:21:08,930 --> 00:21:11,470
+Je suis partie il y a des heures, elle devrait être rentrer.
+
+235
+00:21:33,360 --> 00:21:35,920
+Je ne voulais pas la laisser seule.
+
+236
+00:21:36,830 --> 00:21:40,230
+Ma puce, viens.
+
+237
+00:21:40,830 --> 00:21:43,060
+On doit sortir, ok ?
+
+238
+00:21:43,500 --> 00:21:45,030
+Dawn, ma puce
+
+239
+00:21:45,470 --> 00:21:47,600
+sois forte pour moi, ok ?
+
+240
+00:21:48,640 --> 00:21:51,110
+Dawn, on doit descendre.
+
+241
+00:21:52,940 --> 00:21:55,840
+Je ne comprends pas.
+
+242
+00:22:01,680 --> 00:22:03,690
+Moi non plus.
+
+243
+00:22:22,200 --> 00:22:24,010
+Signez ici.
+
+244
+00:22:31,150 --> 00:22:33,650
+Appelez ce numéro demain. On en saura plus.
+
+245
+00:22:38,820 --> 00:22:40,160
+Mes condoléances.
+
+246
+00:22:58,570 --> 00:23:03,180
+-Voilà.
+-La police aussi est partie ?
+
+247
+00:23:04,080 --> 00:23:07,080
+Ils reviennent demain avec leur joli ruban jaune.
+
+248
+00:23:12,850 --> 00:23:14,520
+On doit trouver Willow.
+
+249
+00:23:14,760 --> 00:23:17,690
+Elle est tombée du wagon pour de bon.
+
+250
+00:23:18,990 --> 00:23:22,300
+-Warren est mort si elle le trouve.
+-Bien.
+
+251
+00:23:23,870 --> 00:23:25,770
+Dawn, ne dis pas ça.
+
+252
+00:23:26,500 --> 00:23:28,070
+Pourquoi pas ?
+
+253
+00:23:30,010 --> 00:23:31,940
+Je le ferais moi même si je le pouvais.
+
+254
+00:23:33,170 --> 00:23:35,540
+Parce que ce n’est pas réellement ce que tu penses.
+
+255
+00:23:35,780 --> 00:23:37,280
+Si.
+
+256
+00:23:38,080 --> 00:23:39,980
+Et tu devrais penser de même.
+
+257
+00:23:40,680 --> 00:23:43,850
+Il a tué Tara et il a failli te tuer.
+
+258
+00:23:44,750 --> 00:23:46,690
+Il doit payer.
+
+259
+00:23:47,560 --> 00:23:49,360
+{\i1}La vérité sort de la bouche des enfants.
+
+260
+00:23:52,790 --> 00:23:58,000
+Je dis juste qu’il est aussi mauvais que certains vampires que tu as réduits en poussière.
+
+261
+00:23:59,630 --> 00:24:03,200
+Etre la Tueuse ne me donne pas le droit de tuer.
+
+262
+00:24:03,810 --> 00:24:06,940
+-Warren est humain.
+-Et alors ?
+
+263
+00:24:07,610 --> 00:24:11,980
+Alors le monde humain a ses propres règles concernant les gens comme lui.
+
+264
+00:24:12,150 --> 00:24:15,020
+On sait tous à quel point ces règles fonctionnent.
+
+265
+00:24:15,150 --> 00:24:17,290
+Parfois oui,
+
+266
+00:24:17,690 --> 00:24:19,820
+parfois non.
+
+267
+00:24:21,890 --> 00:24:24,290
+On ne peut pas contrôler l’univers.
+
+268
+00:24:25,160 --> 00:24:31,230
+Si on le pouvait, la magie ne transformerait pas Willow ainsi.
+
+269
+00:24:31,630 --> 00:24:36,170
+Et on serait capable de ramener Tara.
+
+270
+00:24:36,970 --> 00:24:38,810
+Et maman.
+
+271
+00:24:41,310 --> 00:24:43,950
+Notre champ d’action est limité.
+
+272
+00:24:44,050 --> 00:24:45,750
+Et c’est tant mieux.
+
+273
+00:24:45,810 --> 00:24:47,650
+Willow ne veut pas croire cela.
+
+274
+00:24:47,750 --> 00:24:50,020
+Et maintenant elle joue avec des forces qui lui veulent du mal.
+
+275
+00:24:50,120 --> 00:24:51,420
+A nous tous.
+
+276
+00:24:52,190 --> 00:24:54,690
+C’est juste que…
+
+277
+00:24:55,220 --> 00:24:58,260
+j’ai eu du sang sur les mains toute la journée.
+
+278
+00:25:00,630 --> 00:25:02,630
+Du sang de gens que j’aime.
+
+279
+00:25:03,700 --> 00:25:08,070
+Je sais. Et ça doit s’arrêter.
+
+280
+00:25:09,800 --> 00:25:13,210
+Warren aura ce qu’il mérite, je le promets.
+
+281
+00:25:14,210 --> 00:25:17,410
+Mais je ne laisserai pas Willow se détruire.
+
+282
+00:25:22,720 --> 00:25:26,250
+Où allons nous ? Elle peut être n’importe où.
+
+283
+00:25:28,020 --> 00:25:29,690
+Je sais pas.
+
+284
+00:25:31,090 --> 00:25:34,130
+Le magasin ? Un sort pour la localiser.
+
+285
+00:25:34,230 --> 00:25:38,300
+-Je peux y aller moi-même.
+-Non, ça va. J’irai.
+
+286
+00:25:39,770 --> 00:25:41,940
+Dawn ne peut pas rester ici seule.
+
+287
+00:25:42,070 --> 00:25:45,310
+Laisse moi venir avec toi. Je le veux.
+
+288
+00:25:45,570 --> 00:25:48,180
+Chérie, c’est trop dangereux.
+
+289
+00:25:48,510 --> 00:25:53,950
+-Mais c’est Willow ! Elle a besoin de nous.
+-Oui.
+
+290
+00:25:54,050 --> 00:25:57,320
+Et tu l’aideras. Enormément.
+
+291
+00:25:57,490 --> 00:26:00,720
+Mais d’abord on doit la ramener en un seul morceau.
+
+292
+00:26:02,060 --> 00:26:04,990
+Je suis sérieuse.
+
+293
+00:26:05,490 --> 00:26:09,260
+Tu as vécu plus de choses que quiconque.
+
+294
+00:26:09,400 --> 00:26:11,830
+Tu devrais être dans un endroit où tu te sens en sécurité.
+
+295
+00:26:14,340 --> 00:26:17,070
+Bien. Je veux allez chez Spike.
+
+296
+00:26:21,710 --> 00:26:23,710
+-D’accord.
+-Quoi ?
+
+297
+00:26:24,280 --> 00:26:25,980
+Pas d’accord, tu rigoles ?
+
+298
+00:26:26,050 --> 00:26:28,220
+-Apres ce qu’il a…
+-Xander !
+
+299
+00:26:30,320 --> 00:26:31,890
+Je vais chercher les vestes.
+
+300
+00:26:34,760 --> 00:26:38,390
+-Tu vas pas laisser Dawn à {\i1}M.Tentative de Viol{\i0}…
+Il ne lui fera rien.
+
+301
+00:26:38,460 --> 00:26:40,330
+Il ne peut physiquement pas.
+
+302
+00:26:40,460 --> 00:26:42,060
+De plus, il ne ferait pas ça.
+
+303
+00:26:42,160 --> 00:26:46,000
+Après l’autre nuit, savoir de quoi il est capable c’est la loterie.
+
+304
+00:26:46,400 --> 00:26:48,370
+Dawn se sent en sécurité avec lui.
+
+305
+00:26:48,470 --> 00:26:52,970
+On n’a pas le choix, maintenant il est tout ce qu’on a.
+
+306
+00:27:15,530 --> 00:27:18,770
+{\i1}Sang de la victime, entends moi.
+
+307
+00:27:18,900 --> 00:27:21,170
+{\i1}Guide moi vers celui qui a tué Tara.
+
+308
+00:27:35,420 --> 00:27:39,320
+-{\i1}John, et si vous arrêtiez ces idioties ?
+-Restez où vous êtes.
+
+309
+00:27:47,400 --> 00:27:49,200
+D’où tu sors ?
+
+310
+00:27:49,360 --> 00:27:52,130
+Clem, désolée, je voulais pas te faire sursauter.
+
+311
+00:27:52,270 --> 00:27:56,100
+C’est rien, j’ai juste eu la trouille.
+
+312
+00:27:57,540 --> 00:27:59,770
+Je t’ai fait éparpiller tes céréales.
+
+313
+00:27:59,870 --> 00:28:02,910
+T’en fais pas, ça pend déjà assez comme ça.
+
+314
+00:28:05,680 --> 00:28:07,320
+Je peux vous servir quelque chose ?
+
+315
+00:28:07,380 --> 00:28:10,950
+-J’allais me concocter quelque chose.
+-On cherche Spike, en fait.
+
+316
+00:28:11,350 --> 00:28:12,950
+Il ne t’a rien dit ?
+
+317
+00:28:13,660 --> 00:28:16,860
+-Me dire quoi ?
+-Il a quitté la ville.
+
+318
+00:28:20,530 --> 00:28:22,230
+Il est parti comme ça ?
+
+319
+00:28:22,330 --> 00:28:23,800
+C’est pour ça que je suis ici.
+
+320
+00:28:23,900 --> 00:28:28,100
+Un endroit comme ça reste vide quelques jours…, il est perdu.
+
+321
+00:28:28,200 --> 00:28:30,810
+En plus, chez moi j’ai pas la télé.
+
+322
+00:28:31,470 --> 00:28:35,040
+Je suis surpris qu’il ne t’ait rien dit.
+Il est parti en vitesse on dirait.
+
+323
+00:28:36,140 --> 00:28:40,850
+Vous voulez rien, vous êtes sûres ? J’ai des Bugles et de la Livewurst…
+
+324
+00:28:40,950 --> 00:28:42,980
+Ça ira, merci.
+
+325
+00:28:44,420 --> 00:28:47,190
+Mais tu pourrais nous rendre un service.
+
+326
+00:28:47,420 --> 00:28:50,890
+Est-ce que Dawn peut rester ici quelques temps ?
+
+327
+00:28:51,030 --> 00:28:54,900
+J’ai un truc à faire et je veux pas qu’elle soit seule.
+
+328
+00:28:55,900 --> 00:28:57,500
+Je vois toujours pas pourquoi…
+
+329
+00:28:58,500 --> 00:29:00,140
+On en a déjà parlé.
+
+330
+00:29:01,440 --> 00:29:03,770
+-Alors ?
+-Pas de problème.
+
+331
+00:29:04,010 --> 00:29:05,710
+Ça me fera de la compagnie.
+
+332
+00:29:05,870 --> 00:29:09,140
+-Tu aimes le Parcheesi ?
+-Bien sûr.
+
+333
+00:29:09,380 --> 00:29:13,780
+Ou on peut louer des vidéos, je meurs d’envie de voir {\i1}The wedding planner.
+
+334
+00:29:13,950 --> 00:29:15,720
+Dans les 2 cas, ça me va.
+
+335
+00:29:17,490 --> 00:29:19,520
+Tu peux avoir la chaise confortable.
+
+336
+00:29:20,420 --> 00:29:22,160
+Je reviens dès que je peux.
+
+337
+00:29:22,660 --> 00:29:23,660
+Je le promets.
+
+338
+00:29:33,700 --> 00:29:35,770
+Il a dit quand il rentrerait ?
+
+339
+00:29:36,440 --> 00:29:39,440
+Non, seulement qu’il risquerait d’être absent longtemps.
+
+340
+00:29:50,320 --> 00:29:52,390
+{\i1}Tu ne peux pas rentrer. C’est très dangereux.
+
+341
+00:29:52,490 --> 00:29:53,820
+Je te demande pas la permission, mon pote.
+
+342
+00:29:53,890 --> 00:29:56,620
+{\i1}Arrête toi ! Tu vas mourir !
+
+343
+00:30:39,670 --> 00:30:42,400
+Tu me cherches, vampire ?
+
+344
+00:30:45,010 --> 00:30:50,050
+-C’est toi qui a dessiné sur les murs ? Beau travail.
+-Réponds moi.
+
+345
+00:30:52,310 --> 00:30:54,520
+Oui, je te cherche.
+
+346
+00:30:55,750 --> 00:30:58,590
+Au sujet d’une femme.
+
+347
+00:31:00,420 --> 00:31:02,390
+La Tueuse.
+
+348
+00:31:04,490 --> 00:31:07,160
+Cette garce pense être mieux que moi.
+
+349
+00:31:08,430 --> 00:31:12,530
+Depuis que j’ai cette puce dans la tête, plus rien ne va.
+
+350
+00:31:12,930 --> 00:31:15,170
+Tout part en enfer…
+
+351
+00:31:15,400 --> 00:31:20,280
+Et tu veux redevenir toi-même ?
+
+352
+00:31:26,110 --> 00:31:30,550
+-Quoi ?
+-Regarde ce à quoi elle t’a réduit.
+
+353
+00:31:30,890 --> 00:31:35,790
+-C’est cette satanée puce…
+-Tu étais un soldat légendaire
+
+354
+00:31:35,890 --> 00:31:39,930
+et tu l’as laissée te castrer.
+
+355
+00:31:40,060 --> 00:31:46,770
+Et tu as l’audace de ramper ici pour demander restauration ?
+
+356
+00:31:47,000 --> 00:31:52,610
+-Je suis toujours un combattant.
+-Tu es une excuse pathétique pour un démon.
+
+357
+00:31:52,740 --> 00:31:56,680
+Je vais te montrer ce qui est pathétique.
+
+358
+00:31:56,910 --> 00:31:59,050
+Donne moi tout ce que tu as.
+
+359
+00:32:01,120 --> 00:32:08,190
+Tu ne supporteras pas les épreuves nécessaires pour accéder à ta demande.
+
+360
+00:32:08,590 --> 00:32:10,460
+Fais de ton mieux.
+
+361
+00:32:11,290 --> 00:32:16,130
+Mais quand je gagnerai, je voudrai ce que je suis venu chercher.
+
+362
+00:32:18,170 --> 00:32:20,870
+Cette garce va voir le changement.
+
+363
+00:32:25,370 --> 00:32:29,140
+Tu vas mieux ? Tu peux parler ?
+
+364
+00:32:29,810 --> 00:32:31,480
+Ça s’estompe.
+
+365
+00:32:32,350 --> 00:32:35,080
+Willow était là et elle m’a jouée un sort.
+
+366
+00:32:35,350 --> 00:32:38,920
+Elle a foncé sur les livres de magie noire et les a engloutis.
+
+367
+00:32:41,060 --> 00:32:43,530
+-Quelque chose de terrible s’est produit.
+-Je sais.
+
+368
+00:32:44,590 --> 00:32:46,160
+Tara…
+
+369
+00:32:47,100 --> 00:32:49,060
+Willow est avide de sang pour de bon.
+
+370
+00:32:49,130 --> 00:32:51,770
+On doit la trouver avant qu’elle ne trouve Warren.
+
+371
+00:32:51,900 --> 00:32:54,970
+Tu peux faire quelque chose ?
+Un sort de localisation ?
+
+372
+00:32:55,070 --> 00:32:56,970
+Pas besoin de sort,
+
+373
+00:32:57,040 --> 00:32:59,110
+je peux la sentir.
+
+374
+00:32:59,210 --> 00:33:01,210
+-Tu peux…
+-...la sentir.
+
+375
+00:33:01,440 --> 00:33:04,850
+Sa soif de vengeance est submergeante.
+
+376
+00:33:05,010 --> 00:33:08,260
+Ce sont les restes de tes jours en tant que démon ?
+
+377
+00:33:08,300 --> 00:33:09,580
+Tu peux la sentir ?
+
+378
+00:33:09,980 --> 00:33:12,350
+Ce ne sont pas des restes.
+
+379
+00:33:22,160 --> 00:33:25,430
+-Quand ?
+-A ton avis ?
+
+380
+00:33:25,800 --> 00:33:27,400
+Tout le monde va bien ?
+
+381
+00:33:27,500 --> 00:33:30,310
+-Willow…
+-S’est gonflée à bloc et s’est envolée.
+
+382
+00:33:31,510 --> 00:33:34,610
+Anya disait qu’elle savait où Willow était.
+
+383
+00:33:34,710 --> 00:33:36,950
+-Un sort ?
+-Pas exactement,
+
+384
+00:33:37,050 --> 00:33:40,450
+il semblerait qu’Anya ait repris du service.
+
+385
+00:33:42,920 --> 00:33:45,220
+Comme ça, Willow est déchaînée ?
+
+386
+00:33:45,320 --> 00:33:48,790
+Pourquoi ne vas-tu pas la voir ?
+C’est pas ton truc ?
+
+387
+00:33:48,920 --> 00:33:51,390
+Normalement, je devrais.
+
+388
+00:33:51,530 --> 00:33:53,900
+Mais elle ne veut pas de moi.
+
+389
+00:33:54,430 --> 00:33:56,560
+Elle veut le faire elle-même.
+
+390
+00:33:59,500 --> 00:34:03,710
+On a pas beaucoup de temps. Dans quel camp es-tu ?
+
+391
+00:34:06,310 --> 00:34:08,610
+Si tu sais où elle est, tu peux nous aider.
+
+392
+00:34:12,480 --> 00:34:16,690
+Je vais aider. Mais j’aide Willow.
+
+393
+00:34:17,620 --> 00:34:19,950
+Elle est proche de lui, il est dans la forêt.
+
+394
+00:34:47,020 --> 00:34:49,380
+Cours toute la nuit, Warren.
+
+395
+00:34:49,450 --> 00:34:50,850
+Je te trouverai quand m…
+
+396
+00:35:10,270 --> 00:35:12,410
+La hache ne suffira pas.
+
+397
+00:35:36,670 --> 00:35:37,600
+{\i1}Gèle.
+
+398
+00:35:50,010 --> 00:35:52,810
+Mignon, c’est mignon comme tour.
+
+399
+00:35:57,920 --> 00:35:59,790
+C’était un accident, tu sais ?
+
+400
+00:36:02,660 --> 00:36:06,560
+Au lieu de tuer ma meilleure amie, tu as tué ma petite amie ?
+
+401
+00:36:06,660 --> 00:36:08,830
+C’était pas personnel.
+
+402
+00:36:10,730 --> 00:36:12,470
+Et bien ça, ça l’est.
+
+403
+00:36:18,740 --> 00:36:19,640
+{\i1}Capture.
+
+404
+00:36:56,080 --> 00:36:57,650
+C'est mignon comme tour.
+
+405
+00:36:58,110 --> 00:37:00,420
+Tu l’as vraiment cherché, tu le sais ?
+
+406
+00:37:00,520 --> 00:37:03,020
+Je l'ai cherché ?
+
+407
+00:37:03,180 --> 00:37:07,790
+Je m’en sortirai, quand ce sera fait, tu supplieras pour rejoindre ta petite amie.
+
+408
+00:37:09,290 --> 00:37:11,260
+Ce n’était pas ta première.
+
+409
+00:37:11,530 --> 00:37:14,300
+-Ma première qui ?
+-Tara.
+
+410
+00:37:14,430 --> 00:37:17,070
+Ce n’ést pas la première fille que tu tues.
+
+411
+00:37:17,300 --> 00:37:19,400
+-Je ne sais pas de quoi tu parles…
+-{\i1}Révèle.
+
+412
+00:37:19,870 --> 00:37:22,400
+J’aurais dû t’étrangler pendant ton sommeil.
+
+413
+00:37:23,140 --> 00:37:25,370
+A l’époque où on partageait le lit.
+
+414
+00:37:25,540 --> 00:37:28,080
+J’aurais dû rendre un service au monde.
+
+415
+00:37:30,410 --> 00:37:33,420
+-C’est un piège.
+-Pourquoi, Warren ?
+
+416
+00:37:33,580 --> 00:37:35,920
+Tu aurais pu me laisser partir.
+
+417
+00:37:36,690 --> 00:37:39,120
+Fais la taire, fais la partir.
+
+418
+00:37:39,250 --> 00:37:42,120
+-C’était pas la peine d’aller jusque là
+-Je suis sérieux !
+
+419
+00:37:42,390 --> 00:37:45,390
+Comment pouvais tu dire que tu m’aimais et me faire ça ?
+
+420
+00:37:45,530 --> 00:37:47,600
+Car tu le méritais, salope !
+
+421
+00:37:49,560 --> 00:37:52,300
+-Car tu as aimé ça.
+-Ferme là.
+
+422
+00:37:52,400 --> 00:37:54,600
+Tu n’avais jamais ressenti avoir de pouvoir avec elle,
+
+423
+00:37:54,700 --> 00:37:56,200
+jusqu’à ce que tu la tues.
+
+424
+00:37:56,300 --> 00:37:58,840
+Les femmes, vous êtes toutes les mêmes, à vous torturer l’esprit.
+
+425
+00:37:58,970 --> 00:38:02,940
+Tu as pris ton pied, mais l’effet s’estompe.
+
+426
+00:38:03,040 --> 00:38:05,950
+C’est pour ça que tu cours après la Tueuse.
+
+427
+00:38:05,980 --> 00:38:07,750
+Elle est ton fantasme, n’est-ce pas ?
+
+428
+00:38:07,850 --> 00:38:10,890
+T’as fini ? Ou on continue d'exprimer nos sentiments ?
+
+429
+00:38:11,990 --> 00:38:14,220
+Que se passe-t-il ? Tu la sens ?
+
+430
+00:38:14,390 --> 00:38:16,420
+Elle est puissante. Pas loin.
+
+431
+00:38:16,490 --> 00:38:19,030
+-Et Warren ? Il est…
+-Toujours vivant.
+
+432
+00:38:19,130 --> 00:38:20,560
+Elle n’a pas fini.
+
+433
+00:38:22,460 --> 00:38:25,570
+Au secours ! Quelqu’un !
+
+434
+00:38:27,140 --> 00:38:30,140
+Quel est le problème ? Je croyais que tu voulais parler ?
+
+435
+00:38:38,380 --> 00:38:40,080
+Je vais parler.
+
+436
+00:38:43,390 --> 00:38:44,820
+Que fais tu ?
+
+437
+00:38:45,990 --> 00:38:48,560
+Je suis désolé, ok ? Je suis désolé.
+
+438
+00:38:53,730 --> 00:38:56,230
+Tu veux savoir ce que c’est que de se prendre une balle ? Une vraie ?
+
+439
+00:38:58,630 --> 00:39:00,970
+C’est pas comme dans les B.D.
+
+440
+00:39:03,510 --> 00:39:07,140
+Je pense que tu en as besoin de le sentir.
+
+441
+00:39:08,310 --> 00:39:13,520
+-Mon Dieu, arrête.
+-Ça va faire un trou avant d’atteindre tes organes.
+
+442
+00:39:13,620 --> 00:39:16,720
+Tes poumons vont éclater, tu auras l’impression de te noyer.
+
+443
+00:39:17,490 --> 00:39:21,520
+Quand ça atteindra la colonne vertébrale, ça détruira ton système nerveux.
+
+444
+00:39:22,460 --> 00:39:23,690
+{\i1}Silence.
+
+445
+00:39:26,130 --> 00:39:29,600
+La douleur sera insupportable, mais tu ne pourras pas bouger.
+
+446
+00:39:30,600 --> 00:39:34,440
+Les balles vont généralement plus vite, bien sûr.
+
+447
+00:39:34,740 --> 00:39:40,580
+Mais l’agonie, elle semble durer l’éternité.
+
+448
+00:39:43,780 --> 00:39:45,310
+C’est quelque chose, hein ?
+
+449
+00:39:46,250 --> 00:39:48,120
+Un tout petit bout de métal,
+
+450
+00:39:48,850 --> 00:39:51,190
+qui détruit tout.
+
+451
+00:39:55,720 --> 00:39:57,590
+Il te déchire de l’intérieur.
+
+452
+00:39:58,860 --> 00:40:00,930
+Il éloigne la lumière,
+
+453
+00:40:01,430 --> 00:40:03,500
+de moi,
+
+454
+00:40:03,870 --> 00:40:06,170
+du monde.
+
+455
+00:40:08,200 --> 00:40:11,910
+Maintenant la seule personne qui devrait être ici est partie.
+
+456
+00:40:12,040 --> 00:40:15,440
+Tandis qu’un déchet comme toi peut vivre.
+
+457
+00:40:17,250 --> 00:40:23,080
+Un tout petit bout de métal. Tu peux le sentir maintenant ?
+
+458
+00:40:27,020 --> 00:40:28,220
+Par là.
+
+459
+00:40:30,960 --> 00:40:34,760
+J’ai dit : peux-tu le sentir ?
+
+460
+00:40:36,160 --> 00:40:38,130
+Par pitié ! Mon Dieu !
+
+461
+00:40:38,730 --> 00:40:40,770
+J’ai eu tort, je comprends maintenant.
+
+462
+00:40:40,870 --> 00:40:47,280
+Je mérite la prison, mais tu n’es pas une mauvaise personne.
+
+463
+00:40:47,380 --> 00:40:48,940
+Pas comme moi.
+
+464
+00:40:52,010 --> 00:40:54,980
+Quand tu seras arrêtée, tu les perdras eux aussi.
+
+465
+00:40:55,080 --> 00:40:59,190
+Tes amis, tu ne veux pas ça.
+
+466
+00:40:59,490 --> 00:41:03,160
+-Je sais que tu souffres…
+-Je m’ennuie…
+
+467
+00:41:09,800 --> 00:41:13,970
+-Mon Dieu.
+-Qu’est-ce que tu as fait ?
+
+468
+00:41:16,000 --> 00:41:17,870
+Willow, qu’est-ce que tu as fait ?
+
+469
+00:41:22,840 --> 00:41:24,250
+Un de moins…
+
+470
+00:41:41,860 --> 00:41:50,270
+Traduction, adaptation : Kidi.
+Sous-titrage : Kidi.
+

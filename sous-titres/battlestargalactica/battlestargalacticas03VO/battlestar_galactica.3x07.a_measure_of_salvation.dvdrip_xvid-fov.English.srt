@@ -1,0 +1,2177 @@
+1
+00:00:20,960 --> 00:00:23,269
+<i>Previously on "Battlestar Galactica":</i>
+
+2
+00:00:23,360 --> 00:00:26,432
+Some people in the fleet
+believe that the legend of Earth
+
+3
+00:00:26,520 --> 00:00:29,318
+held perhaps the greatest promise
+for our survival.
+
+4
+00:00:29,400 --> 00:00:32,153
+- Do you know how to find it?
+- Not really, no.
+
+5
+00:00:32,240 --> 00:00:35,437
+There was a hope - my hope -
+that if you knew the way to Earth
+
+6
+00:00:35,520 --> 00:00:38,114
+it would justify
+keeping you alive a little longer.
+
+7
+00:00:38,200 --> 00:00:41,397
+Now, when l say
+that l do not know exactly where Earth is,
+
+8
+00:00:41,480 --> 00:00:45,109
+that is not to say l do not know
+a great deal about its probable location.
+
+9
+00:00:45,200 --> 00:00:47,873
+<i>(Doral) A baseship -
+<i>the one investigating pulsars</i>
+
+10
+00:00:47,960 --> 00:00:50,190
+<i>and the Lion nebula,</i>
+<i>we've lost contact.</i>
+
+11
+00:00:50,280 --> 00:00:52,714
+<i>(Number Six)</i>
+<i>The baseship, it's infected.</i>
+
+12
+00:00:52,800 --> 00:00:56,839
+If an infected Cylon dies and carries
+this disease into a resurrection ship,
+
+13
+00:00:56,920 --> 00:00:59,832
+it could spread,
+potentially infecting our entire race.
+
+14
+00:00:59,920 --> 00:01:04,436
+If one of us is resurrected...
+the disease will follow.
+
+15
+00:01:04,520 --> 00:01:07,796
+Then no Cylon can board that ship
+without risking infection.
+
+16
+00:01:07,880 --> 00:01:12,112
+l'll go. Yes, l'll go.
+l can go to the baseship.
+
+17
+00:01:12,200 --> 00:01:15,033
+<i>l can make observations about Cylons,</i>
+<i>their condition,</i>
+
+18
+00:01:15,120 --> 00:01:19,671
+<i>bring back information about this disease</i>
+<i>which now threatens all of you.</i>
+
+19
+00:01:19,760 --> 00:01:23,878
+- <i>(Baltar) Do you know what this is?</i>
+- It must be some kind of... beacon.
+
+20
+00:01:23,960 --> 00:01:26,633
+It must have been left here
+by the thirteenth tribe.
+
+21
+00:01:26,720 --> 00:01:31,350
+The beacon carried the disease, left by
+some humans like you to destroy us.
+
+22
+00:01:31,440 --> 00:01:34,159
+You noticed nothing suspicious
+on the infected ship?
+
+23
+00:01:34,240 --> 00:01:36,549
+Nothing whatsoever.
+
+24
+00:01:36,640 --> 00:01:39,916
+l am just as baffled as you are.
+
+25
+00:01:45,600 --> 00:01:50,355
+Just like the scriptures say... There it is.
+The Lion's Head nebula and blinking eye.
+
+26
+00:01:51,800 --> 00:01:54,189
+Holy crap! It's the road to Earth!
+
+27
+00:02:02,640 --> 00:02:05,791
+<i>(Apollo) This is combat.</i>
+<i>Prepped and ready. Plan A.</i>
+
+28
+00:02:05,880 --> 00:02:07,836
+<i>We are approaching the baseship.</i>
+
+29
+00:02:18,640 --> 00:02:20,596
+<i>(Sharon)</i> This is so wrong.
+
+30
+00:02:20,680 --> 00:02:22,636
+What the hell happened here?
+
+31
+00:02:22,720 --> 00:02:25,917
+<i>(Sharon)</i> Whatever this is,
+it's something new.
+
+32
+00:02:31,240 --> 00:02:32,275
+Go.
+
+33
+00:02:32,880 --> 00:02:35,394
+Apollo, <i>Galactica.</i> You are cleared hot.
+
+34
+00:02:36,000 --> 00:02:38,355
+<i>(Apollo) Roger that, "Galactica".</i>
+
+35
+00:02:38,440 --> 00:02:40,431
+We're in close now,
+and by the look of it,
+
+36
+00:02:40,520 --> 00:02:43,637
+that ship's in no condition
+to put up a fight.
+
+37
+00:02:43,720 --> 00:02:46,280
+Never seen anything like this.
+Shall we proceed?
+
+38
+00:02:46,360 --> 00:02:47,998
+Hang on, guys.
+
+39
+00:02:48,080 --> 00:02:50,435
+<i>(Helo) Use extreme caution, Apollo.</i>
+
+40
+00:03:15,440 --> 00:03:17,829
+<i>(Apollo) Set perimeter.</i>
+<i>Weapons tight, everyone.</i>
+
+41
+00:03:38,120 --> 00:03:40,998
+<i>Galactica,</i> Apollo. We're in.
+
+42
+00:03:52,440 --> 00:03:54,112
+<i>Galactica,</i> no sign of life.
+
+43
+00:03:54,200 --> 00:03:57,749
+<i>Ship appears</i>
+<i>to be abandoned and powering down.</i>
+
+44
+00:04:14,720 --> 00:04:17,280
+What the hell?
+
+45
+00:04:18,600 --> 00:04:20,591
+<i>(coughing)</i>
+
+46
+00:04:28,160 --> 00:04:29,957
+<i>(Racetrack)</i> Gods, what happened?
+
+47
+00:04:30,040 --> 00:04:34,670
+<i>(Mathias)</i> l don't know, but their frakking
+resurrection ship is gonna overheat.
+
+48
+00:04:43,400 --> 00:04:46,278
+<i>Galactica,</i> Apollo.
+We've reached the control centre.
+
+49
+00:04:46,360 --> 00:04:48,635
+<i>30, maybe 40, dead skin-jobs.</i>
+
+50
+00:04:49,520 --> 00:04:52,114
+Mathias, set a perimeter!
+
+51
+00:04:52,200 --> 00:04:54,555
+Sharon. Athena!
+
+52
+00:04:54,640 --> 00:04:57,029
+See what you can pick up
+with the computers.
+
+53
+00:04:57,120 --> 00:05:00,510
+Three fire teams, each doorway. Go.
+
+54
+00:05:05,360 --> 00:05:07,430
+OK, l'm gonna try
+to call up the database.
+
+55
+00:05:07,520 --> 00:05:10,432
+If l get a connection,
+put the SSR leads in the water.
+
+56
+00:05:10,520 --> 00:05:13,796
+Reduce the error-correction levels
+for higher throughput.
+
+57
+00:05:21,000 --> 00:05:24,515
+- <i>(Racetrack)</i> You sure you wanna do that?
+- It's how it works.
+
+58
+00:05:31,720 --> 00:05:33,517
+<i>(gasps)</i>
+
+59
+00:05:33,600 --> 00:05:36,239
+You OK?
+
+60
+00:05:37,680 --> 00:05:40,433
+Yeah, the data points
+are almost completely corroded.
+
+61
+00:05:40,520 --> 00:05:44,035
+l don't know if l'm gonna
+get much out of here, but let's try.
+
+62
+00:05:52,000 --> 00:05:54,355
+What is going on?
+
+63
+00:06:00,200 --> 00:06:02,589
+Frak me! This one's alive!
+
+64
+00:06:02,680 --> 00:06:05,240
+We've got a live one over here!
+
+65
+00:06:05,320 --> 00:06:07,197
+<i>(Mathias)</i> Cover the Major!
+
+66
+00:06:07,280 --> 00:06:09,111
+<i>(Apollo)</i> They're alive!
+
+67
+00:06:09,200 --> 00:06:11,760
+<i>Galactica,</i> Apollo. We got, uh...
+
+68
+00:06:11,840 --> 00:06:15,719
+one, two, three, four...
+five living skin-jobs down here.
+
+69
+00:06:15,800 --> 00:06:18,917
+l say again, five... five living.
+
+70
+00:06:19,000 --> 00:06:23,471
+- <i>(Helo) Are you taking fire?</i>
+- Negative. They seem in pretty bad shape.
+
+71
+00:06:23,560 --> 00:06:25,710
+Don't take chances.
+If they make a move...
+
+72
+00:06:25,800 --> 00:06:27,836
+<i>Oh, you can trust me on that one.</i>
+
+73
+00:06:29,520 --> 00:06:32,034
+Major, what do we do?
+Should we take 'em out?
+
+74
+00:06:32,120 --> 00:06:34,588
+<i>(Apollo)</i> Hold your fire, hold your fire!
+
+75
+00:06:38,160 --> 00:06:42,073
+- <i>(Mathias)</i> Keep away from the frakkers!
+- l said, hold your fire!
+
+76
+00:06:42,160 --> 00:06:44,310
+<i>(Cylons moan)</i>
+
+77
+00:06:44,400 --> 00:06:46,470
+<i>(Cylons cough)</i>
+
+78
+00:06:46,560 --> 00:06:49,358
+<i>(Cylon)</i> Grant us strength...
+<i>(Cylon</i> #2)...wisdom...
+
+79
+00:06:49,440 --> 00:06:52,796
+- <i>(Apollo)</i> What are they doing?
+- <i>(Cylon #3)...and</i> above all...
+
+80
+00:06:52,880 --> 00:06:54,757
+Hey, Athena, what are you doing?
+
+81
+00:06:54,840 --> 00:06:55,989
+Athena!
+
+82
+00:06:56,080 --> 00:06:57,832
+What are you doing? Athena!
+
+83
+00:07:06,200 --> 00:07:08,430
+Traitor.
+
+84
+00:07:11,320 --> 00:07:13,390
+<i>(Number Six)</i> Save yourself.
+
+85
+00:07:13,480 --> 00:07:14,959
+From what?
+
+86
+00:07:15,040 --> 00:07:16,871
+Get away from us.
+
+87
+00:07:16,960 --> 00:07:18,712
+What happened here?
+
+88
+00:07:18,800 --> 00:07:21,189
+<i>(Number Six)</i> The beacon.
+
+89
+00:07:21,280 --> 00:07:25,114
+<i>(faltering)</i> We brought it... on board.
+
+90
+00:07:26,640 --> 00:07:28,676
+It carried a disease.
+
+91
+00:07:30,360 --> 00:07:32,476
+We're infected.
+
+92
+00:07:33,520 --> 00:07:34,999
+Infected?
+
+93
+00:07:35,080 --> 00:07:38,038
+- Son of a bitch!
+- OK, OK, OK! Settle down!
+
+94
+00:07:38,120 --> 00:07:41,715
+Keep back!
+Watch the doorways. Get the doorways!
+
+95
+00:07:45,240 --> 00:07:50,394
+<i>Galactica,</i> Apollo.
+We have a situation down here.
+
+96
+00:07:52,720 --> 00:07:56,030
+The Cylons have been
+infected with... a disease.
+
+97
+00:07:57,000 --> 00:08:00,197
+<i>We have all been exposed.</i>
+
+98
+00:08:00,280 --> 00:08:02,555
+<i>We've all been exposed.</i>
+
+99
+00:08:59,840 --> 00:09:02,308
+<i>(Cottle) They'll come aboard</i>
+<i>under quarantine.</i>
+
+100
+00:09:02,400 --> 00:09:05,472
+Clear a path from the hangar
+to sickbay, and sterilise it.
+
+101
+00:09:05,560 --> 00:09:08,393
+- And the Raptors, after they're in.
+- l'll handle that.
+
+102
+00:09:08,480 --> 00:09:11,472
+- How long in quarantine?
+- l won't know till the blood work.
+
+103
+00:09:11,560 --> 00:09:13,835
+Could be days, weeks.
+There's no way to tell.
+
+104
+00:09:13,920 --> 00:09:16,070
+They picked up this disease
+from a beacon?
+
+105
+00:09:16,160 --> 00:09:17,752
+According to the Cylons.
+
+106
+00:09:17,840 --> 00:09:21,879
+Good to have the source of the pathogen.
+Can you bring it aboard <i>Galactica?</i>
+
+107
+00:09:21,960 --> 00:09:24,713
+No, too dangerous.
+l want to limit our exposure.
+
+108
+00:09:24,800 --> 00:09:27,314
+- <i>(Cottle)</i> What about the prisoners?
+- Prisoners?
+
+109
+00:09:27,400 --> 00:09:30,710
+The disease is advanced in their systems,
+so it'll give me an idea
+
+110
+00:09:30,800 --> 00:09:32,995
+of what to expect as it progresses.
+
+111
+00:09:33,080 --> 00:09:37,198
+And when they die, it'll tell me
+how long our people have to live.
+
+112
+00:09:37,280 --> 00:09:40,636
+- How many prisoners?
+- How many you got?
+
+113
+00:09:46,640 --> 00:09:49,313
+<i>(Helo) Apollo, "Galactica". Alpha check.</i>
+
+114
+00:09:49,400 --> 00:09:54,269
+<i>Galactica,</i> we have you in visual range.
+Approaching starboard hangar.
+
+115
+00:09:54,360 --> 00:09:56,920
+<i>(Helo) Apollo, what was that?</i>
+
+116
+00:09:58,520 --> 00:10:01,592
+<i>(Gaeta)</i> Massive energy discharge
+from the baseship.
+
+117
+00:10:03,480 --> 00:10:06,870
+- It exploded, sir.
+- Are you all right out there?
+
+118
+00:10:06,960 --> 00:10:09,394
+Uh, yeah, affirmative.
+We're still here.
+
+119
+00:10:09,480 --> 00:10:13,189
+- <i>What the hell happened?</i>
+- Baseship exploded. Self-destructed.
+
+120
+00:10:13,280 --> 00:10:14,952
+You're lucky you got out.
+
+121
+00:10:15,040 --> 00:10:16,758
+<i>Roger that.</i>
+
+122
+00:10:45,720 --> 00:10:49,156
+- <i>(Baltar)</i> Nothing the matter, l trust?
+- We have some questions.
+
+123
+00:10:49,240 --> 00:10:53,358
+How long have you
+planned to betray us, Gaius?
+
+124
+00:10:54,720 --> 00:10:57,439
+Funny.
+
+125
+00:11:02,440 --> 00:11:05,910
+- You're joking, of course.
+- You're making this harder on yourself.
+
+126
+00:11:06,000 --> 00:11:11,632
+Wait a minute. l have been more than
+very accommodating since l arrived here.
+
+127
+00:11:11,720 --> 00:11:15,952
+l helped you find Sharon's baby.
+l've helped you with a map towards Earth.
+
+128
+00:11:16,040 --> 00:11:19,237
+We know about the beacon, Gaius.
+You knew it was out there.
+
+129
+00:11:19,320 --> 00:11:21,709
+You knew it contained a deadly virus.
+
+130
+00:11:21,800 --> 00:11:24,109
+No, l didn't. l didn't.
+
+131
+00:11:24,200 --> 00:11:26,839
+Was the virus created by <i>Galactica?</i>
+
+132
+00:11:26,920 --> 00:11:30,037
+<i>(Number Three)</i> Have you been in contact
+since you've been on board?
+
+133
+00:11:30,120 --> 00:11:33,396
+Or did you plan this
+before the evacuation of New Caprica?
+
+134
+00:11:38,480 --> 00:11:41,916
+This is the
+most profound misunderstanding.
+
+135
+00:11:42,000 --> 00:11:46,551
+Uh, l had nothing to do
+with the virus or the beacon.
+
+136
+00:11:46,640 --> 00:11:48,119
+Yes.
+
+137
+00:11:48,200 --> 00:11:51,112
+Yes, l did discover it
+on the baseship,
+
+138
+00:11:51,200 --> 00:11:53,919
+and l should have told you sooner,
+and l didn't.
+
+139
+00:11:54,000 --> 00:11:57,788
+because l thought, you'd try and link me,
+you know, to the virus,
+
+140
+00:11:57,880 --> 00:12:00,030
+which is, hello,
+what's going on right now.
+
+141
+00:12:00,120 --> 00:12:03,476
+l was wrong. It was a mistake,
+and l fully admit my responsibility.
+
+142
+00:12:03,560 --> 00:12:07,633
+It will never happen again.
+And l hope you'll accept my most, uh,
+
+143
+00:12:07,720 --> 00:12:11,110
+yeah, my most humble apology.
+
+144
+00:12:15,600 --> 00:12:20,913
+On a brighter note, l have a working
+theory as to where this beacon may...
+
+145
+00:12:21,000 --> 00:12:23,070
+<i>(clunking footsteps)</i>
+
+146
+00:12:28,120 --> 00:12:30,111
+l'm sorry, Gaius.
+
+147
+00:12:30,200 --> 00:12:34,716
+Things would have been so much simpler
+had you only told the truth.
+
+148
+00:12:36,800 --> 00:12:40,839
+We think you know more about this virus,
+and we intend to find out.
+
+149
+00:13:04,400 --> 00:13:07,392
+Relax. Have a drink.
+
+150
+00:13:08,480 --> 00:13:10,471
+l can't.
+
+151
+00:13:12,600 --> 00:13:15,717
+The pain. The pain.
+
+152
+00:13:15,800 --> 00:13:18,917
+It's all in your head, Gaius.
+Pain, pleasure...
+
+153
+00:13:19,000 --> 00:13:21,798
+they're just neural impulses
+sent to the brain.
+
+154
+00:13:21,880 --> 00:13:24,917
+You decide how to interpret them.
+
+155
+00:13:25,000 --> 00:13:26,797
+They can be pleasant...
+
+156
+00:13:26,880 --> 00:13:28,996
+or unpleasant.
+
+157
+00:13:29,080 --> 00:13:31,548
+<i>(high-pitched electronic whine)</i>
+
+158
+00:13:46,760 --> 00:13:48,239
+No!
+
+159
+00:13:48,320 --> 00:13:50,390
+No, please!
+
+160
+00:13:51,640 --> 00:13:54,154
+Please! No!
+
+161
+00:13:58,760 --> 00:14:01,320
+<i>(pitch lowers)</i>
+
+162
+00:14:06,320 --> 00:14:09,312
+- l want it to stop, Gaius.
+- <i>(whining stops)</i>
+
+163
+00:14:09,400 --> 00:14:11,436
+l don't want you to feel this pain.
+
+164
+00:14:11,520 --> 00:14:14,751
+And neither does Caprica. Do you?
+
+165
+00:14:14,840 --> 00:14:16,751
+No.
+
+166
+00:14:18,560 --> 00:14:20,949
+l love you.
+
+167
+00:14:28,720 --> 00:14:32,838
+- You feel anything yet?
+- Yeah, l feel sick. Sick of you buggin' me.
+
+168
+00:14:32,920 --> 00:14:36,959
+- <i>You</i> didn't touch any infected skin-jobs.
+- It's not my fault you're clumsy.
+
+169
+00:14:37,040 --> 00:14:40,589
+- You can kiss my infected ass.
+- You can kiss it, but it's not infected.
+
+170
+00:14:40,680 --> 00:14:45,356
+l got your blood work back. Humans are
+immune to the virus. You're all healthy.
+
+171
+00:14:45,440 --> 00:14:48,955
+All right, people. Nice job.
+Let's get outta here.
+
+172
+00:14:49,640 --> 00:14:52,473
+No. You stay put for a while.
+
+173
+00:14:59,520 --> 00:15:01,670
+Yeah!
+
+174
+00:15:04,240 --> 00:15:06,435
+No, no, no, no, no.
+Please tell me she's OK.
+
+175
+00:15:06,520 --> 00:15:09,159
+- l haven't done her blood work yet.
+- What?
+
+176
+00:15:09,240 --> 00:15:12,277
+Oh, l see.
+She can wait because of who she isn't.
+
+177
+00:15:12,720 --> 00:15:13,835
+Sharon.
+
+178
+00:15:16,720 --> 00:15:20,030
+You're gonna be OK. l promise.
+
+179
+00:15:25,280 --> 00:15:29,751
+You come for me, godsdamn it.
+You come for me the second you know.
+
+180
+00:16:11,000 --> 00:16:13,468
+Take him. He's the furthest gone.
+
+181
+00:16:15,320 --> 00:16:17,231
+No, no, no, no.
+
+182
+00:16:17,320 --> 00:16:20,630
+No, no, no.
+
+183
+00:16:26,000 --> 00:16:29,436
+- <i>(Roslin)</i> You can keep the Cylons alive?
+- l can't cure them, but yes.
+
+184
+00:16:29,520 --> 00:16:31,795
+- How long?
+- Indefinitely.
+
+185
+00:16:32,400 --> 00:16:36,871
+l identified the virus.
+We know it as lymphocytic encephalitis.
+
+186
+00:16:36,960 --> 00:16:39,076
+The disease is carried by rats, mostly.
+
+187
+00:16:39,160 --> 00:16:42,630
+But a couple of hundred years ago,
+humans developed an immunity.
+
+188
+00:16:42,720 --> 00:16:44,711
+Now l can create a simple vaccine
+
+189
+00:16:44,800 --> 00:16:48,429
+that will dramatically reverse
+the effect of the virus on the Cylons.
+
+190
+00:16:48,520 --> 00:16:51,239
+But, uh, they have
+an antibody in their blood
+
+191
+00:16:51,320 --> 00:16:53,834
+which breaks down
+the RNA of the vaccine.
+
+192
+00:16:53,920 --> 00:16:58,755
+So they will need regular, close-interval
+injections of the vaccine, or they will die.
+
+193
+00:16:58,840 --> 00:17:03,152
+Can l ask the ugly question here?
+Is there a reason to keep them alive?
+
+194
+00:17:03,240 --> 00:17:06,232
+We could interrogate them
+for intelligence.
+
+195
+00:17:06,320 --> 00:17:09,756
+l agree.
+We have a lot of unanswered questions.
+
+196
+00:17:09,840 --> 00:17:11,671
+OK. But they're not gonna talk.
+
+197
+00:17:11,760 --> 00:17:16,515
+They might if we dangled the vaccine.
+They don't know it's a stopgap, not a cure.
+
+198
+00:17:18,000 --> 00:17:21,913
+They prayed on the infected ship.
+Karl's wife said it was something called
+
+199
+00:17:22,000 --> 00:17:24,958
+"The prayer to the cloud of unknowing",
+whatever that is.
+
+200
+00:17:25,040 --> 00:17:28,396
+Anyway, the point is,
+she said they only use it
+
+201
+00:17:28,480 --> 00:17:30,789
+when they're facing
+a death that is final.
+
+202
+00:17:30,880 --> 00:17:33,713
+No possibility of downloading.
+They're ready to die.
+
+203
+00:17:33,800 --> 00:17:38,999
+Maybe, but it doesn't mean one of them
+won't jump at a second chance.
+
+204
+00:17:51,640 --> 00:17:53,676
+It infected everything -
+
+205
+00:17:55,600 --> 00:17:57,431
+baseship,
+
+206
+00:17:57,520 --> 00:17:59,954
+Centurions,
+
+207
+00:18:00,040 --> 00:18:01,632
+Raiders -
+
+208
+00:18:01,720 --> 00:18:07,317
+until we were finally abandoned...
+by the other Cylon ships.
+
+209
+00:18:07,400 --> 00:18:10,039
+Why?
+
+210
+00:18:10,120 --> 00:18:13,999
+Why not just put you under quarantine
+until they found a cure?
+
+211
+00:18:14,080 --> 00:18:17,709
+Fear... of spreading the disease.
+
+212
+00:18:20,760 --> 00:18:26,471
+They told us that there was a bioelectric
+feedback component to the pathogen.
+
+213
+00:18:27,480 --> 00:18:30,199
+It corrupts how our brains
+manage our immune systems.
+
+214
+00:18:30,280 --> 00:18:32,669
+<i>(chokes)</i>
+
+215
+00:18:35,000 --> 00:18:37,389
+If one of us dies...
+
+216
+00:18:37,480 --> 00:18:39,516
+and is resurrected,
+
+217
+00:18:39,600 --> 00:18:41,556
+the disease will follow,
+
+218
+00:18:41,640 --> 00:18:46,236
+infecting the resurrection ship
+and... and the fleet.
+
+219
+00:18:46,320 --> 00:18:49,118
+Why were you in this area
+in the first place?
+
+220
+00:18:50,600 --> 00:18:52,113
+We were sent.
+
+221
+00:18:52,200 --> 00:18:57,433
+We were sent here
+to look for the Lion nebula.
+
+222
+00:18:58,920 --> 00:19:03,277
+Baltar...
+said it would point the way to Earth.
+
+223
+00:19:03,360 --> 00:19:06,909
+- What did you just say?
+- Baltar... Baltar's alive?
+
+224
+00:19:07,440 --> 00:19:11,035
+Baltar... is on our baseship.
+
+225
+00:19:12,800 --> 00:19:15,951
+He's helping us find Earth.
+
+226
+00:19:16,040 --> 00:19:18,554
+He's using our navigation charts,
+
+227
+00:19:18,640 --> 00:19:20,870
+along with our map of Kobol.
+
+228
+00:19:21,360 --> 00:19:23,999
+He's leading them to Earth.
+
+229
+00:19:27,760 --> 00:19:30,479
+We... want...
+
+230
+00:19:31,560 --> 00:19:33,949
+a new beginning.
+
+231
+00:19:35,840 --> 00:19:37,956
+Much like you.
+
+232
+00:19:41,840 --> 00:19:44,957
+l gave you i-information.
+
+233
+00:19:45,040 --> 00:19:47,998
+She said that there...
+there was a cure.
+
+234
+00:19:49,040 --> 00:19:52,749
+Doc Cottle will be...
+giving you the medicine.
+
+235
+00:19:52,840 --> 00:19:55,400
+- Take him back to the infirmary.
+- <i>(man)</i> Yes, sir.
+
+236
+00:20:16,720 --> 00:20:18,950
+<i>(Apollo sniggers)</i>
+
+237
+00:20:20,720 --> 00:20:23,109
+What the hell's so funny?
+
+238
+00:20:26,000 --> 00:20:29,879
+l think l just thought of a way
+to solve all of our problems...
+
+239
+00:20:31,160 --> 00:20:34,357
+to get rid of the Cylon threat
+for once and for all.
+
+240
+00:20:34,440 --> 00:20:36,510
+We can wipe 'em out.
+
+241
+00:20:36,600 --> 00:20:39,592
+We can destroy the entire Cylon race.
+
+242
+00:20:48,080 --> 00:20:51,629
+We jump to an area
+we know the Cylons use as a supply line -
+
+243
+00:20:51,720 --> 00:20:53,312
+NCD2539.
+
+244
+00:20:53,400 --> 00:20:57,598
+We stay there, exposed.
+We look as if we're spoiling for a fight.
+
+245
+00:20:57,680 --> 00:21:01,389
+They'll send a fleet. Where there's a fleet,
+there's a resurrection ship.
+
+246
+00:21:01,480 --> 00:21:05,155
+And once the resurrection ship
+is within our reach,
+
+247
+00:21:05,240 --> 00:21:07,879
+we execute our infected prisoners.
+
+248
+00:21:07,960 --> 00:21:12,715
+We bug out. The prisoners download
+into the ship, and with them, the virus.
+
+249
+00:21:12,800 --> 00:21:15,155
+You sure the virus
+will download to a new body?
+
+250
+00:21:15,240 --> 00:21:17,993
+The Cylons are sure of it.
+
+251
+00:21:18,080 --> 00:21:23,108
+They left their wounded out here to die
+alone, with no hope of being rescued.
+
+252
+00:21:23,200 --> 00:21:24,553
+Tells me all l need to know.
+
+253
+00:21:24,640 --> 00:21:29,509
+And once the virus is in the resurrection
+ship... there will be no stopping it.
+
+254
+00:21:29,600 --> 00:21:32,398
+Rescuers become
+carriers of the plague.
+
+255
+00:21:32,480 --> 00:21:36,678
+The Cylons themselves
+don't believe that they'll develop a cure.
+
+256
+00:21:39,280 --> 00:21:41,635
+Oh, my gods.
+
+257
+00:21:41,720 --> 00:21:44,917
+- This could be the end of the Cylons.
+- Forever.
+
+258
+00:21:45,000 --> 00:21:49,198
+Genocide?
+So, that's what we're about now?
+
+259
+00:21:49,280 --> 00:21:51,157
+They're not human.
+
+260
+00:21:51,240 --> 00:21:56,155
+They were built, not born. No fathers,
+no mothers, no sons, no daughters.
+
+261
+00:21:56,240 --> 00:21:58,231
+l had a daughter.
+l held her in my arms.
+
+262
+00:21:58,320 --> 00:22:00,629
+And she was half-human.
+These are things.
+
+263
+00:22:00,720 --> 00:22:03,871
+Dangerous things.
+This is our one chance to be rid of them.
+
+264
+00:22:03,960 --> 00:22:07,635
+You can rationalise it any way you want.
+We do this,
+
+265
+00:22:07,720 --> 00:22:11,474
+we wipe out their race,
+then we're no different than they are.
+
+266
+00:22:11,560 --> 00:22:13,835
+<i>(Roslin)</i> Captain, l respectfully disagree.
+
+267
+00:22:13,920 --> 00:22:19,233
+The Cylons struck first in this war and, not
+content with the annihilation of billions,
+
+268
+00:22:19,320 --> 00:22:22,710
+they pursued us relentlessly
+through the galaxies to wipe us out.
+
+269
+00:22:22,800 --> 00:22:25,519
+They tried to live with us
+on New Caprica.
+
+270
+00:22:25,600 --> 00:22:29,036
+- What did you say?
+- They tried to live with us.
+
+271
+00:22:29,120 --> 00:22:33,398
+You weren't on New Caprica. To my
+recollection, you didn't set foot there.
+
+272
+00:22:33,480 --> 00:22:35,630
+So out of respect
+for the men and women
+
+273
+00:22:35,720 --> 00:22:41,590
+who suffered through that snake pit,
+l'm gonna pretend l didn't hear that.
+
+274
+00:22:41,680 --> 00:22:44,319
+You would serve your fleet well
+if you'd remember
+
+275
+00:22:44,400 --> 00:22:47,312
+that Cylons are a threat
+to the survival of humans.
+
+276
+00:22:47,400 --> 00:22:50,278
+l'm talking about right and wrong.
+
+277
+00:22:50,360 --> 00:22:53,830
+l'm talking about
+losing a piece of our souls.
+
+278
+00:22:54,360 --> 00:22:56,430
+But no one wants to hear that, right?
+
+279
+00:22:56,520 --> 00:22:58,829
+Let's keep it on me.
+
+280
+00:22:58,920 --> 00:23:01,992
+Yeah, l'm married to a Cylon...
+
+281
+00:23:02,080 --> 00:23:05,152
+who walked through hell for all of us
+how many times?
+
+282
+00:23:05,240 --> 00:23:07,913
+And she's not half anything,
+
+283
+00:23:08,000 --> 00:23:11,993
+OK. How do we know there aren't
+others like her? She made a choice.
+
+284
+00:23:12,800 --> 00:23:15,155
+She's a person.
+They're a race of people.
+
+285
+00:23:15,240 --> 00:23:19,279
+Wiping them out with a biological weapon
+is a crime against...
+
+286
+00:23:19,360 --> 00:23:21,874
+is a crime against humanity.
+
+287
+00:23:21,960 --> 00:23:25,077
+But they're not human.
+They're programmed.
+
+288
+00:23:27,360 --> 00:23:30,079
+We will take your input
+under advisement.
+
+289
+00:23:30,160 --> 00:23:31,832
+Thank you both.
+
+290
+00:23:31,920 --> 00:23:34,195
+Thank you, ma'am.
+
+291
+00:23:37,240 --> 00:23:38,229
+Dismissed.
+
+292
+00:23:56,960 --> 00:23:58,951
+<i>(electronic whine)</i>
+
+293
+00:24:03,880 --> 00:24:05,871
+<i>(pitch heightens)</i>
+
+294
+00:24:14,000 --> 00:24:16,958
+l can help you.
+l can guide you through the torment,
+
+295
+00:24:17,040 --> 00:24:19,508
+but you'll have to do the work.
+
+296
+00:24:21,320 --> 00:24:23,675
+l'll do anything. Anything!
+
+297
+00:24:23,760 --> 00:24:27,036
+Then tell us what we want to know.
+
+298
+00:24:27,120 --> 00:24:29,554
+How was the virus invented?
+
+299
+00:24:29,640 --> 00:24:31,915
+Did they make a cure?
+
+300
+00:24:33,880 --> 00:24:36,440
+<i>(Number Six) Look at me. Look at me.</i>
+
+301
+00:24:37,040 --> 00:24:41,511
+When you make love to me, Gaius,
+you don't always think about me.
+
+302
+00:24:41,600 --> 00:24:43,989
+Your mind wanders. l know that.
+
+303
+00:24:44,080 --> 00:24:47,595
+You think of equations,
+puzzles, your laundry.
+
+304
+00:24:49,680 --> 00:24:52,797
+It's the nature of the mind
+to disconnect from the body
+
+305
+00:24:52,880 --> 00:24:55,348
+and journey on its own.
+
+306
+00:24:57,280 --> 00:24:59,669
+Separate your mind from your body.
+
+307
+00:24:59,760 --> 00:25:02,354
+Keep your mind in that room.
+
+308
+00:25:02,440 --> 00:25:04,271
+Use your intellect against her.
+
+309
+00:25:04,800 --> 00:25:06,279
+Reason,
+
+310
+00:25:06,360 --> 00:25:07,588
+logic,
+
+311
+00:25:07,680 --> 00:25:10,035
+analysis.
+
+312
+00:25:10,120 --> 00:25:11,838
+Find the holes in her psyche.
+
+313
+00:25:11,920 --> 00:25:13,558
+l can't. Pain...
+
+314
+00:25:13,640 --> 00:25:16,234
+Pain's only in your body,
+
+315
+00:25:16,320 --> 00:25:19,471
+so keep your body here with me.
+
+316
+00:25:20,480 --> 00:25:24,678
+Don't worry. l'll take care of it.
+
+317
+00:25:24,760 --> 00:25:26,751
+<i>(whining slows)</i>
+
+318
+00:25:29,320 --> 00:25:33,598
+<i>(Number Three)</i> You see, Gaius,
+this is what the absence of pain feels like.
+
+319
+00:25:42,280 --> 00:25:43,872
+It's easy to forget.
+
+320
+00:25:43,960 --> 00:25:48,636
+l had nothing to do with the virus.
+It was a coincidence.
+
+321
+00:25:48,720 --> 00:25:51,996
+There's no such thing
+as coincidence.
+
+322
+00:25:52,080 --> 00:25:55,834
+God wills the universe
+according to his design.
+
+323
+00:25:55,920 --> 00:25:58,957
+<i>(Number Six)</i> Now, focus on her...
+
+324
+00:25:59,040 --> 00:26:01,190
+as a Cylon, not a woman.
+
+325
+00:26:02,080 --> 00:26:05,789
+Be a scientist.
+Examine her faith.
+
+326
+00:26:06,800 --> 00:26:09,439
+What's your analysis, Doctor?
+
+327
+00:26:13,440 --> 00:26:15,112
+l'm a scientist.
+
+328
+00:26:17,960 --> 00:26:21,077
+And as a scientist,
+
+329
+00:26:21,160 --> 00:26:25,119
+l believe that if God exists
+our knowledge of him is imperfect. Why?
+
+330
+00:26:25,200 --> 00:26:27,953
+The stories and myths
+we have are the products of men,
+
+331
+00:26:28,040 --> 00:26:30,235
+the passage of time.
+
+332
+00:26:30,320 --> 00:26:34,154
+The religion you practise is based
+on a theory, impossible to prove,
+
+333
+00:26:34,240 --> 00:26:39,030
+yet you bestow it with absolutes like,
+"There is no such thing as coincidence."
+
+334
+00:26:39,120 --> 00:26:41,076
+It's called faith.
+
+335
+00:26:41,160 --> 00:26:45,119
+Absolute belief in God's will
+means there's a reason for everything.
+
+336
+00:26:45,200 --> 00:26:46,997
+Everything!
+
+337
+00:26:47,080 --> 00:26:49,355
+And yet...
+
+338
+00:26:49,440 --> 00:26:54,560
+you can't help but ask yourself how
+God can allow death and destruction,
+
+339
+00:26:54,640 --> 00:26:56,710
+and then despise yourself for asking.
+
+340
+00:26:56,800 --> 00:27:00,236
+But the truth is, if we knew God's will,
+we'd all be gods, wouldn't we?
+
+341
+00:27:00,320 --> 00:27:02,436
+l can see it in your eyes, D'Anna.
+
+342
+00:27:02,520 --> 00:27:04,590
+You're frustrated.
+You're conflicted.
+
+343
+00:27:04,680 --> 00:27:08,355
+Let me help you.
+Let me help you change.
+
+344
+00:27:08,440 --> 00:27:12,035
+Find a way
+to reconcile your faith with fact.
+
+345
+00:27:12,120 --> 00:27:14,350
+Find a way
+towards a rational universe.
+
+346
+00:27:14,440 --> 00:27:18,353
+l don't know what your game is,
+but it's not going to work.
+
+347
+00:27:20,120 --> 00:27:23,954
+You intentionally led one
+of our ships to that beacon, didn't you?
+
+348
+00:27:26,400 --> 00:27:28,391
+Give your body to me.
+
+349
+00:27:28,920 --> 00:27:31,753
+Only your mind is there.
+
+350
+00:27:31,840 --> 00:27:35,150
+Feel me. Feel this
+where she wants you to feel pain.
+
+351
+00:27:36,400 --> 00:27:39,392
+Look at me. Look at me, Gaius.
+
+352
+00:27:39,480 --> 00:27:42,199
+Do you want me to believe
+you're worth saving?
+
+353
+00:27:42,280 --> 00:27:43,508
+Do you?
+
+354
+00:27:43,600 --> 00:27:45,636
+Do you? Say it.
+
+355
+00:27:51,960 --> 00:27:55,316
+l want you to believe in me.
+
+356
+00:27:55,400 --> 00:27:59,075
+Don't stop! Don't stop!
+
+357
+00:27:59,160 --> 00:28:01,355
+Please, please, don't stop.
+
+358
+00:28:01,440 --> 00:28:04,000
+You have to believe in me.
+You're all l have left.
+
+359
+00:28:04,080 --> 00:28:06,196
+<i>(moans)</i>
+
+360
+00:28:06,280 --> 00:28:08,475
+Now tell me you believe in me.
+
+361
+00:28:08,560 --> 00:28:10,676
+Tell me you believe in my strength.
+
+362
+00:28:12,640 --> 00:28:15,108
+l believe in you!
+
+363
+00:28:15,320 --> 00:28:17,675
+l believe in you.
+
+364
+00:28:17,760 --> 00:28:20,149
+l love you.
+
+365
+00:28:20,240 --> 00:28:22,913
+l love you with all my heart.
+
+366
+00:28:29,720 --> 00:28:32,109
+l love you with all my heart.
+
+367
+00:29:04,440 --> 00:29:06,237
+How?
+
+368
+00:29:06,320 --> 00:29:09,756
+Cottle said it had something to do
+with carrying a half-human child.
+
+369
+00:29:09,840 --> 00:29:13,071
+How the foetal cells
+enter the maternal circulatory system,
+
+370
+00:29:13,160 --> 00:29:17,950
+causing the mother to create antibodies.
+Whatever. l'm immune!
+
+371
+00:29:18,040 --> 00:29:20,349
+Oh, my gods.
+
+372
+00:29:27,800 --> 00:29:31,076
+Our baby... saved my life.
+
+373
+00:29:32,920 --> 00:29:35,798
+She's gone forever,
+and she saved my life.
+
+374
+00:29:35,880 --> 00:29:37,598
+Hera kept us together.
+
+375
+00:29:40,920 --> 00:29:44,071
+- To share this.
+- This?
+
+376
+00:29:44,160 --> 00:29:48,119
+You mean us?
+Together? You mean us?
+
+377
+00:29:48,200 --> 00:29:50,953
+Them. Them.
+
+378
+00:29:51,040 --> 00:29:53,031
+l mean them.
+
+379
+00:29:53,120 --> 00:29:55,156
+Who's "them?"
+
+380
+00:30:05,840 --> 00:30:09,276
+They're gonna execute
+the infected prisoners.
+
+381
+00:30:09,360 --> 00:30:14,992
+But not until we jump into a Cylon region
+with a resurrection ship present.
+
+382
+00:30:18,600 --> 00:30:21,319
+The infection's
+gonna spread everywhere.
+
+383
+00:30:35,760 --> 00:30:38,399
+- There's a point l'd like to make.
+- Mm-hm?
+
+384
+00:30:40,000 --> 00:30:43,879
+The law forbids me
+to use biological weapons
+
+385
+00:30:43,960 --> 00:30:45,791
+without a presidential order.
+
+386
+00:30:45,880 --> 00:30:48,269
+Which means
+you're passing the buck.
+
+387
+00:30:48,360 --> 00:30:51,113
+On this one, yes.
+
+388
+00:30:51,800 --> 00:30:54,678
+Helo's right on one thing.
+
+389
+00:30:55,480 --> 00:30:57,596
+We start destroying entire races,
+
+390
+00:30:57,680 --> 00:31:00,353
+even mechanical races,
+
+391
+00:31:00,440 --> 00:31:04,353
+we're liable to tear off
+a piece of man's soul.
+
+392
+00:31:04,440 --> 00:31:07,238
+The Cylons are coming to Earth.
+
+393
+00:31:07,320 --> 00:31:10,392
+If they find us,
+they are coming for us.
+
+394
+00:31:10,480 --> 00:31:14,189
+Those are the stakes.
+They always have been, Bill.
+
+395
+00:31:18,600 --> 00:31:22,275
+We're talking about
+the genocide of your entire race.
+
+396
+00:31:26,080 --> 00:31:27,911
+Yeah.
+
+397
+00:31:28,000 --> 00:31:31,276
+You think l don't know that?
+
+398
+00:31:31,360 --> 00:31:35,114
+l made a choice...
+to wear a uniform,
+
+399
+00:31:37,120 --> 00:31:38,758
+to be a person.
+
+400
+00:31:38,840 --> 00:31:42,037
+You were a person
+before you put on that uniform.
+
+401
+00:31:42,120 --> 00:31:44,793
+OK? You were a person
+before l fell in love with you.
+
+402
+00:31:44,880 --> 00:31:48,589
+- You don't have to prove that.
+- l have to prove it every day.
+
+403
+00:31:50,080 --> 00:31:52,275
+Let me tell you something, Helo.
+
+404
+00:31:53,600 --> 00:31:56,239
+My people may die.
+
+405
+00:31:56,320 --> 00:31:59,118
+My entire race may be wiped out.
+
+406
+00:32:04,280 --> 00:32:07,113
+But this Cylon will keep her word,
+
+407
+00:32:07,200 --> 00:32:10,954
+even if it means
+she's the last Cylon left in the universe.
+
+408
+00:32:14,760 --> 00:32:17,274
+Can a human being do that?
+
+409
+00:32:22,960 --> 00:32:26,191
+Posterity really
+doesn't look too kindly on genocide.
+
+410
+00:32:26,280 --> 00:32:30,159
+<i>(Roslin)</i> You're assuming
+that posterity will define this as genocide.
+
+411
+00:32:30,240 --> 00:32:34,358
+If they do, at least there'll be
+someone alive to hate us for it.
+
+412
+00:32:36,880 --> 00:32:40,077
+The Cylons are our mistake,
+we created them.
+
+413
+00:32:42,480 --> 00:32:47,315
+All right, Admiral. As president, l have
+determined the Cylons be made extinct.
+
+414
+00:32:47,400 --> 00:32:51,234
+The use of biological weapons
+is authorised.
+
+415
+00:32:53,920 --> 00:32:55,638
+So say we all.
+
+416
+00:32:58,360 --> 00:33:01,079
+So say we all.
+
+417
+00:33:12,600 --> 00:33:15,512
+Jump complete.
+DRADIS is clear. No Cylons, sir.
+
+418
+00:33:15,600 --> 00:33:19,673
+They'll be here soon enough.
+Get our birds in the air.
+
+419
+00:33:19,760 --> 00:33:21,671
+Commence Viper
+and nav Raptor launch.
+
+420
+00:33:24,400 --> 00:33:26,595
+Let's do this, Racetrack.
+
+421
+00:34:03,040 --> 00:34:05,838
+<i>(shouting)</i>
+
+422
+00:34:05,920 --> 00:34:09,037
+Move 'em back. Go.
+Move, move. Come on.
+
+423
+00:34:16,640 --> 00:34:19,108
+CAP is away.
+Nav bird has them on DRADIS.
+
+424
+00:34:36,240 --> 00:34:41,234
+DRADIS contact. A pair of Cylon Raiders.
+Keeping their distance for now.
+
+425
+00:34:41,320 --> 00:34:45,154
+Didn't take 'em that long.
+They're just scouts.
+
+426
+00:34:45,240 --> 00:34:47,879
+They'll jump away
+and report back to their fleet.
+
+427
+00:34:47,960 --> 00:34:49,678
+Let's see if they take our bait.
+
+428
+00:34:54,440 --> 00:34:57,796
+Got it.
+There's a resurrection ship with them.
+
+429
+00:34:57,880 --> 00:35:00,872
+<i>(Adama)</i> Then it's time
+to execute our Cylon prisoners.
+
+430
+00:35:00,960 --> 00:35:03,235
+Call it in.
+
+431
+00:35:06,080 --> 00:35:08,435
+Terminate the prisoners.
+
+432
+00:35:13,400 --> 00:35:15,709
+- Head shots, OK?
+- Yes, sir.
+
+433
+00:35:15,800 --> 00:35:16,994
+Let's do it.
+
+434
+00:35:23,600 --> 00:35:27,593
+All right, let's see if we can't frak up
+some toasters on this joy ride, people.
+
+435
+00:35:37,800 --> 00:35:39,631
+<i>(Hotdog) l'm notching like hell!</i>
+
+436
+00:35:39,720 --> 00:35:44,555
+Hotdog, Starbuck. Quit your bitchin'
+and continue to cover as fragged.
+
+437
+00:35:53,920 --> 00:35:56,036
+Out of the way.
+
+438
+00:36:06,400 --> 00:36:10,313
+Frak! They're already dead.
+They're... they're already dead.
+
+439
+00:36:13,760 --> 00:36:15,512
+Sir, you should hear this.
+
+440
+00:36:15,600 --> 00:36:17,955
+<i>(Apollo) They were dead</i>
+<i>before the ship was in range.</i>
+
+441
+00:36:18,040 --> 00:36:22,079
+<i>They didn't download the disease.</i>
+<i>We've missed our window.</i>
+
+442
+00:36:25,240 --> 00:36:27,196
+<i>(Starbuck) A baseship just jumped in.</i>
+
+443
+00:36:27,280 --> 00:36:30,670
+Call our birds in.
+Spool up. Let's get the hell outta here.
+
+444
+00:36:30,760 --> 00:36:32,318
+Commence FTL.
+
+445
+00:36:32,400 --> 00:36:36,837
+Sir, we lost time. We're gonna take
+significant fire while we spool up.
+
+446
+00:36:48,880 --> 00:36:52,156
+Continue jump.
+Take us back to our fleet.
+
+447
+00:36:52,240 --> 00:36:53,798
+Yes, sir.
+
+448
+00:37:05,960 --> 00:37:07,916
+They'll be coming for me.
+
+449
+00:37:08,000 --> 00:37:09,991
+You or me.
+
+450
+00:37:13,080 --> 00:37:16,356
+Seems like they're
+always coming for one of us...
+
+451
+00:37:19,720 --> 00:37:22,029
+l'm not a traitor.
+
+452
+00:37:22,120 --> 00:37:25,078
+l love my people.
+l love this ship.
+
+453
+00:37:27,400 --> 00:37:32,155
+Besides you, the first thing l wanna see
+on any morning are the lights in that CIC.
+
+454
+00:37:35,120 --> 00:37:37,759
+l did what l thought was right.
+
+455
+00:37:37,840 --> 00:37:41,628
+If it was a mistake, fine.
+l can live with that.
+
+456
+00:37:48,160 --> 00:37:51,391
+It's you l can't live without.
+
+457
+00:38:05,960 --> 00:38:08,269
+l'll always love you, Helo.
+
+458
+00:38:15,280 --> 00:38:17,157
+Mm. No, thanks.
+
+459
+00:38:26,920 --> 00:38:29,434
+The prisoners died of asphyxiation.
+
+460
+00:38:30,680 --> 00:38:34,958
+The air-purification system was reversed.
+It sucked the oxygen out.
+
+461
+00:38:35,520 --> 00:38:41,993
+When this happens, the deadbolts
+are automatically activated on the door.
+
+462
+00:38:43,040 --> 00:38:45,554
+- Someone did this manually.
+- Someone?
+
+463
+00:38:46,960 --> 00:38:51,033
+Seems to me
+there's only one or two likely suspects.
+
+464
+00:38:51,120 --> 00:38:55,636
+- Who will head the investigation?
+- No one. l'm closing the book on this.
+
+465
+00:38:55,720 --> 00:38:58,314
+How convenient.
+
+466
+00:39:06,920 --> 00:39:09,673
+Cottle's report on the virus.
+
+467
+00:39:09,760 --> 00:39:14,880
+He thinks that it was simply
+an accidental contamination
+
+468
+00:39:14,960 --> 00:39:18,669
+of the beacon we abandoned
+on the sick baseship.
+
+469
+00:39:19,680 --> 00:39:21,910
+Somebody sneezed, maybe.
+
+470
+00:39:22,000 --> 00:39:26,152
+Yeah, an entire race
+almost wiped out
+
+471
+00:39:26,240 --> 00:39:29,516
+because someone
+forgot to wipe their nose.
+
+472
+00:39:36,520 --> 00:39:38,750
+According to Cottle,
+
+473
+00:39:38,840 --> 00:39:42,913
+the virus was an exact match
+
+474
+00:39:43,000 --> 00:39:46,675
+to one reported
+over 3,000 years ago.
+
+475
+00:39:46,760 --> 00:39:50,036
+Right around the time
+that the thirteenth colony left Kobol.
+
+476
+00:39:50,120 --> 00:39:52,554
+That beacon...
+
+477
+00:39:52,640 --> 00:39:54,710
+was a signpost to Earth.
+
+478
+00:39:54,800 --> 00:39:57,553
+l think we're on the right trail, Laura.
+
+479
+00:39:57,640 --> 00:39:59,915
+Yes, we are on the right trail, Bill.
+
+480
+00:40:02,480 --> 00:40:05,119
+So are the Cylons.
+
+481
+00:40:55,160 --> 00:40:57,230
+New scenery.
+
+482
+00:40:57,320 --> 00:40:59,629
+Whoa. Argh!
+

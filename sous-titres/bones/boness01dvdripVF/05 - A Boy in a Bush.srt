@@ -1,0 +1,2698 @@
+1
+00:00:03,798 --> 00:00:08,542
+En 1938, le directeur du FBI,
+John Edgar Hoover,
+
+2
+00:00:08,676 --> 00:00:13,965
+écrivit au directeur de l'institut Jefferson,
+le professeur Daniel Payne,
+
+3
+00:00:14,096 --> 00:00:18,887
+pour lui demander d'étudier
+des ossements irréfutablement humains.
+
+4
+00:00:19,016 --> 00:00:21,174
+Voilà la conclusion de l'Institut.
+
+5
+00:00:23,853 --> 00:00:27,137
+Malgré cette divergence d'opinion,
+le FBI et l'Institut
+
+6
+00:00:27,272 --> 00:00:32,098
+ont construit une relation d'entraide,
+malgré de légères tensions,
+
+7
+00:00:32,233 --> 00:00:34,723
+relation qui perdure encore.
+
+8
+00:00:34,860 --> 00:00:36,899
+Merci.
+
+9
+00:00:40,030 --> 00:00:44,109
+Merci, Dr Brennan.
+Avez-vous des questions ?
+
+10
+00:00:44,241 --> 00:00:49,945
+- Combien vous a rapporté votre livre ?
+- Je ne sais pas. J'ai un agent...
+
+11
+00:00:50,078 --> 00:00:53,778
+Ce n'est pas une question
+digne d'une future anthropologue.
+
+12
+00:00:54,915 --> 00:00:57,583
+Quand avez-vous engagé votre agent ?
+
+13
+00:00:57,708 --> 00:01:01,539
+Le Dr Brennan est avant tout
+une éminente anthropologue judiciaire,
+
+14
+00:01:01,669 --> 00:01:03,578
+pas une romancière.
+
+15
+00:01:03,712 --> 00:01:06,831
+J'ai une question
+sur le rôle du FBI dans votre livre.
+
+16
+00:01:06,964 --> 00:01:10,961
+Qui vous a inspiré le brillant
+et perspicace agent Andy Lister ?
+
+17
+00:01:11,092 --> 00:01:13,380
+C'est pas vrai.
+
+18
+00:01:13,510 --> 00:01:16,546
+- Je suis sûr que c'est moi.
+- Que faites-vous ici ?
+
+19
+00:01:16,679 --> 00:01:21,138
+Le commissariat a reçu un appel anonyme
+indiquant qu'il y avait un corps
+
+20
+00:01:21,265 --> 00:01:24,182
+derrière un centre commercial de banlieue.
+
+21
+00:01:24,309 --> 00:01:29,349
+J'ai étudié les banlieues à l'université.
+Cette notion de communauté,
+
+22
+00:01:29,479 --> 00:01:33,178
+d'utopie moderne régie par
+ses propres codes, est fascinante.
+
+23
+00:01:33,315 --> 00:01:35,188
+Fascinante chez qui ?
+
+24
+00:01:35,316 --> 00:01:37,557
+Pour qui.
+
+25
+00:01:37,693 --> 00:01:39,566
+- J'hallucine.
+- Quoi ?
+
+26
+00:01:39,694 --> 00:01:42,065
+- C'est un cadeau de mon éditeur.
+- Pardon ?
+
+27
+00:01:42,196 --> 00:01:45,398
+Mon livre se vend bien.
+C'est une bonne voiture.
+
+28
+00:01:45,531 --> 00:01:50,654
+- C'est un cadeau ? Et vous la garez en biais ?
+- Il m'a dit de toujours faire comme ça.
+
+29
+00:01:50,785 --> 00:01:54,448
+- Il a tort. C'est ridicule.
+- Je vais conduire.
+
+30
+00:01:54,579 --> 00:01:58,657
+- On ne peut pas prendre cette voiture.
+- Pourquoi ?
+
+31
+00:01:58,790 --> 00:02:02,537
+Ça minimiserait l'impact
+de la présence du FBI,
+
+32
+00:02:02,667 --> 00:02:04,790
+surtout si vous vous garez en biais.
+
+33
+00:02:04,919 --> 00:02:09,129
+Pourquoi le FBI participe-t-il
+à la recherche de ce corps ?
+
+34
+00:02:09,255 --> 00:02:12,006
+Parce que ce garçon
+a été porté disparu.
+
+35
+00:02:14,050 --> 00:02:16,374
+- C'est un enfant.
+- Oui.
+
+36
+00:02:18,761 --> 00:02:21,298
+On a reçu l'appel il y a deux heures.
+
+37
+00:02:21,430 --> 00:02:24,299
+- On n'a rien trouvé.
+- C'est peut-être une blague.
+
+38
+00:02:24,432 --> 00:02:29,306
+Venez tout de suite.
+Il y a un corps de gamin décomposé
+
+39
+00:02:29,435 --> 00:02:32,933
+dans le champ derrière le centre
+Clayton Hills. Venez vite !
+
+40
+00:02:33,062 --> 00:02:34,888
+- Je vois.
+- Et son nom ?
+
+41
+00:02:35,022 --> 00:02:37,393
+Les ados viennent faire des bêtises.
+
+42
+00:02:37,523 --> 00:02:40,974
+Les ados et préados
+veulent avoir leur propre espace
+
+43
+00:02:41,109 --> 00:02:45,319
+et établir leur propre société
+pour contrer l'influence parentale.
+
+44
+00:02:45,445 --> 00:02:48,895
+- Puis-je faire une observation ?
+- Allez-y.
+
+45
+00:02:49,031 --> 00:02:53,656
+Dans votre livre, les flics sont
+en une seule dimension. Pourquoi ?
+
+46
+00:02:53,784 --> 00:02:59,618
+- Vous voulez dire qu'ils sont plats ?
+- L'unidimensionnalité n'est qu'une théorie.
+
+47
+00:02:59,746 --> 00:03:01,572
+Je vois.
+
+48
+00:03:01,706 --> 00:03:04,326
+J'ai hâte de lire votre prochain livre.
+
+49
+00:03:06,167 --> 00:03:07,910
+Tu as ramené la lunette thermique ?
+
+50
+00:03:08,043 --> 00:03:12,122
+On n'en a pas besoin.
+Ça me donne une allure de Grand Gazou.
+
+51
+00:03:12,254 --> 00:03:15,041
+Je ne comprends pas,
+mais on en a besoin.
+
+52
+00:03:20,593 --> 00:03:24,424
+Comment ça va, Dark ?
+Quoi de neuf sur Saturne ?
+
+53
+00:03:25,263 --> 00:03:28,049
+<i>Vous n'avez pas vu
+La guerre des étoiles ?</i>
+
+54
+00:03:28,182 --> 00:03:32,889
+- Quand j'avais sept ans. Arrêtez.
+- On pourrait se dépêcher ? J'étouffe.
+
+55
+00:03:33,018 --> 00:03:38,390
+Je devrais pouvoir discerner l'empreinte
+thermique d'un corps en décomposition.
+
+56
+00:03:38,522 --> 00:03:41,972
+- Ils font la fête ici ?
+- Les banlieues sont si homogènes
+
+57
+00:03:42,107 --> 00:03:45,689
+que les adolescents se rebellent
+de manière prévisible.
+
+58
+00:03:45,818 --> 00:03:49,316
+Ils jouent les pyromanes,
+se droguent, se conduisent mal.
+
+59
+00:03:49,445 --> 00:03:52,611
+Et ils enlèvent des enfants de six ans ?
+
+60
+00:03:52,739 --> 00:03:56,403
+C'est très extrême. Les ados
+ont plutôt tendance à se soûler
+
+61
+00:03:56,533 --> 00:03:59,652
+et à écouter de la musique injurieuse
+à un volume élevé.
+
+62
+00:04:00,536 --> 00:04:03,738
+Je vois quelque chose.
+
+63
+00:04:03,872 --> 00:04:06,326
+- La vache !
+- Qu'est-ce qu'il y a ?
+
+64
+00:04:08,333 --> 00:04:10,325
+Pourquoi tu t'arrêtes ?
+
+65
+00:04:10,459 --> 00:04:13,128
+Vous pouvez allumer votre torche
+
+66
+00:04:13,253 --> 00:04:14,877
+et éclairer ce buisson.
+
+67
+00:04:59,408 --> 00:05:04,862
+Avant de parler de la macération,
+avez-vous des remarques générales ? Zack ?
+
+68
+00:05:04,995 --> 00:05:08,777
+La fusion épiphysaire indique
+un âge d'environ 6 à 10 ans,
+
+69
+00:05:08,914 --> 00:05:14,120
+- mais la stature suggère un âge moindre.
+- Bien. Je suis d'accord. Cause du décès ?
+
+70
+00:05:14,251 --> 00:05:16,706
+Contusion thoracique.
+
+71
+00:05:18,504 --> 00:05:20,496
+Tout va bien ?
+
+72
+00:05:20,630 --> 00:05:24,080
+Il est si petit. C'est tout.
+
+73
+00:05:24,216 --> 00:05:26,788
+Continue. Ça va aller.
+
+74
+00:05:26,926 --> 00:05:31,919
+Le corps a été attaqué par des animaux,
+surtout des chiens et des rongeurs.
+
+75
+00:05:32,054 --> 00:05:35,885
+Malgré la putréfaction avancée,
+la mort ne remonte qu'à 36 à 48 h.
+
+76
+00:05:36,015 --> 00:05:38,505
+On a trouvé ces vêtements près du corps.
+
+77
+00:05:38,642 --> 00:05:41,428
+Ils sont intacts. Qu'en concluez-vous ?
+
+78
+00:05:41,560 --> 00:05:47,762
+- Il ne les portait pas à sa mort.
+- Il a pu subir une agression sexuelle.
+
+79
+00:05:47,898 --> 00:05:49,937
+J'ai terminé.
+
+80
+00:05:53,902 --> 00:05:56,570
+On dirait que c'est lui.
+
+81
+00:05:58,071 --> 00:06:00,193
+Ce sont bien ses vêtements.
+
+82
+00:06:00,323 --> 00:06:02,943
+Il s'agit de Charles Gregory Sanders.
+
+83
+00:06:03,450 --> 00:06:08,157
+De la part du FBI, je vous présente
+toutes mes condoléances.
+
+84
+00:06:08,286 --> 00:06:12,662
+J'ai quelques questions à vous poser,
+si vous le permettez.
+
+85
+00:06:13,831 --> 00:06:15,823
+Vous avez deux autres fils ?
+
+86
+00:06:15,958 --> 00:06:18,911
+Adoptifs,
+mais je ne fais pas de différence.
+
+87
+00:06:19,043 --> 00:06:23,502
+Shawn et David Cook. Ils sont frères.
+Je suis leur voisine.
+
+88
+00:06:23,630 --> 00:06:26,298
+Charlie était votre fils biologique ?
+
+89
+00:06:26,423 --> 00:06:27,881
+Oui.
+
+90
+00:06:28,007 --> 00:06:32,467
+- Charlie était de moi.
+- Et M. Sanders ?
+
+91
+00:06:32,594 --> 00:06:35,843
+On a divorcé juste avant
+la naissance de Charlie.
+
+92
+00:06:35,971 --> 00:06:39,303
+- Il vit à l'étranger.
+- Il ne leur envoie pas d'argent.
+
+93
+00:06:39,432 --> 00:06:43,724
+Et vous avez les moyens de vivre ici ?
+
+94
+00:06:45,144 --> 00:06:49,970
+La D.D.A.S.S. ne m'aurait pas laissé
+adopter ces enfants si je travaillais.
+
+95
+00:06:50,105 --> 00:06:54,315
+Je vis d'un fonds créé par
+mes parents il y a longtemps.
+
+96
+00:06:54,441 --> 00:06:59,564
+Le jour de la disparition de Charlie,
+vos trois enfants sont allés au parc ?
+
+97
+00:06:59,695 --> 00:07:03,359
+Ce n'est pas un quartier dangereux.
+Ils vont à l'école seuls.
+
+98
+00:07:03,489 --> 00:07:06,524
+On veille tous les uns sur les autres.
+
+99
+00:07:06,658 --> 00:07:09,195
+Nous sommes proches de nos voisins.
+
+100
+00:07:09,326 --> 00:07:12,741
+- Maman ?
+- Je suis ici. Voici mon fils, Skyler.
+
+101
+00:07:12,870 --> 00:07:15,656
+Papa m'a dit de les ramener.
+On a du travail.
+
+102
+00:07:15,789 --> 00:07:20,828
+- Il n'y a rien à faire ici.
+- Notre console ne marche plus.
+
+103
+00:07:20,959 --> 00:07:26,164
+Shawn, David, voici l'agent Booth.
+Il va trouver ce qui est arrivé à Charlie.
+
+104
+00:07:26,295 --> 00:07:31,964
+- Comment vous allez faire ?
+- Au FBI, on résout toujours tout.
+
+105
+00:07:32,091 --> 00:07:38,257
+Les garçons, si votre maman le veut bien,
+je pourrais réparer votre console.
+
+106
+00:07:46,600 --> 00:07:49,173
+Voici des invitations à un banquet.
+
+107
+00:07:49,311 --> 00:07:51,931
+Vous nous avez réunis pour ça ?
+
+108
+00:07:52,062 --> 00:07:56,936
+Ce n'est pas une invitation, mais
+une convocation. Les donateurs seront là.
+
+109
+00:07:57,066 --> 00:08:00,019
+Serrons-leur la main
+et léchons-leur les bottes.
+
+110
+00:08:00,151 --> 00:08:03,732
+Je n'aime pas ça non plus,
+mais ils financent nos recherches
+
+111
+00:08:03,862 --> 00:08:07,940
+et tout ce qu'ils veulent un échange,
+c'est rencontrer les chercheurs.
+
+112
+00:08:08,073 --> 00:08:10,230
+- Je ne peux pas venir.
+- Moi non plus.
+
+113
+00:08:10,366 --> 00:08:14,694
+- J'ai un rancard.
+- Vous ne connaissez même pas la date.
+
+114
+00:08:15,286 --> 00:08:18,819
+- Oui, M. Addy ?
+- Ils vont servir quel genre de cuisine ?
+
+115
+00:08:18,955 --> 00:08:23,082
+Ce n'est pas une simple convocation.
+C'est une assignation.
+
+116
+00:08:23,208 --> 00:08:26,291
+Comme au tribunal,
+vous risquez gros en refusant.
+
+117
+00:08:26,418 --> 00:08:29,868
+- Vous n'allez pas nous renvoyer ?
+- Non.
+
+118
+00:08:30,004 --> 00:08:33,703
+Mais je peux vous forcer
+à prendre la navette tous les jours.
+
+119
+00:08:33,840 --> 00:08:37,836
+- La navette pue les pieds.
+- Je renonce. Comptez sur moi.
+
+120
+00:08:37,967 --> 00:08:41,216
+- Après tout, c'est une fête.
+- Il faut venir en costume ?
+
+121
+00:08:41,345 --> 00:08:44,048
+Tenue correcte exigée.
+On y va en limousine.
+
+122
+00:08:44,180 --> 00:08:47,382
+Pas moi. Je n'ai peur
+ni du parking ni des odeurs.
+
+123
+00:08:47,515 --> 00:08:50,266
+Je fais le trajet avec toi.
+Pense un peu à moi.
+
+124
+00:08:50,392 --> 00:08:53,974
+Réfléchissez aux conséquences.
+Je suis votre supérieur,
+
+125
+00:08:54,103 --> 00:08:56,854
+et je vous ordonne
+de venir à ce banquet.
+
+126
+00:09:03,818 --> 00:09:08,893
+- Vous êtes sûr de vous ?
+- Oui. Je sais tout réparer.
+
+127
+00:09:09,029 --> 00:09:11,982
+Vous avez une petite amie ?
+
+128
+00:09:12,115 --> 00:09:14,237
+- Moi, oui.
+- Elle s'appelle Leila.
+
+129
+00:09:14,366 --> 00:09:18,576
+- Leila.
+- Vous ne nous parlez pas de Charlie ?
+
+130
+00:09:18,702 --> 00:09:22,568
+Alors, pauvres mortels,
+qui veut me combattre en premier ?
+
+131
+00:09:22,705 --> 00:09:24,993
+Moi.
+
+132
+00:09:32,878 --> 00:09:37,704
+- Tu vas nettoyer le squelette ?
+- Oui. Je fais chauffer l'eau.
+
+133
+00:09:38,382 --> 00:09:39,295
+Tout va bien ?
+
+134
+00:09:41,342 --> 00:09:44,425
+Je n'ai jamais travaillé
+sur un corps aussi petit.
+
+135
+00:09:44,552 --> 00:09:49,592
+C'est une observation exacte, Zack,
+mais ça ne fait pas avancer l'enquête.
+
+136
+00:09:49,723 --> 00:09:51,346
+Pardon, Dr Brennan.
+
+137
+00:09:54,100 --> 00:09:57,682
+J'ai travaillé à Waco,
+dans la ferme des davidiens.
+
+138
+00:09:58,270 --> 00:10:03,607
+J'ai participé à l'identification
+des enfants qui ont péri dans l'incendie.
+
+139
+00:10:03,732 --> 00:10:05,770
+Il y en avait 17.
+
+140
+00:10:05,900 --> 00:10:08,271
+Dois-je comprendre qu'on s'y habitue ?
+
+141
+00:10:08,401 --> 00:10:13,560
+Non. Tu ne t'y habitueras jamais.
+Nous sommes des êtres sociaux.
+
+142
+00:10:13,697 --> 00:10:18,156
+Notre ADN nous pousse à protéger
+nos enfants, y compris les uns des autres.
+
+143
+00:10:18,283 --> 00:10:20,607
+Donc, ça va toujours me miner ?
+
+144
+00:10:20,743 --> 00:10:24,525
+Ça m'aide de ne pas
+m'impliquer émotionnellement.
+
+145
+00:10:24,662 --> 00:10:27,946
+Laisse ton cœur au placard.
+
+146
+00:10:29,790 --> 00:10:33,621
+Je ne comprends pas bien
+les métaphores, Dr Brennan.
+
+147
+00:10:34,710 --> 00:10:38,160
+- Concentre-toi sur les détails.
+- Ça, je sais faire.
+
+148
+00:10:39,755 --> 00:10:41,664
+Pas de traumatisme crânien.
+
+149
+00:10:41,798 --> 00:10:46,672
+Pas de fractures multiples. Charlie
+n'a été ni roué de coups, ni démembré.
+
+150
+00:10:46,801 --> 00:10:50,798
+Évite d'appeler la victime par son nom.
+
+151
+00:10:50,929 --> 00:10:56,348
+On a des fractures en bois vert
+sur les côtes quatre, cinq, six et sept.
+
+152
+00:10:56,474 --> 00:11:00,387
+Le sternum est cassé
+du sommet à l'appendice xiphoïde.
+
+153
+00:11:00,519 --> 00:11:02,143
+Ça nous indique quoi ?
+
+154
+00:11:02,270 --> 00:11:05,353
+Qu'il a été frappé avec un objet contondant.
+
+155
+00:11:05,480 --> 00:11:09,975
+Es-tu sûr d'avoir tiré toutes
+les informations possibles à ce stade ?
+
+156
+00:11:10,108 --> 00:11:13,310
+J'ai tout examiné au moins trois fois.
+
+157
+00:11:13,444 --> 00:11:15,602
+Renifle la bouche.
+
+158
+00:11:19,281 --> 00:11:23,573
+Sens-tu autre chose que
+l'odeur de décomposition normale ?
+
+159
+00:11:23,701 --> 00:11:28,361
+Il y a un produit chimique
+utilisé pour endormir l'enfant.
+
+160
+00:11:28,495 --> 00:11:35,030
+Fais des prélèvements sur la mâchoire,
+les sinus et ce qui reste de l'œsophage.
+
+161
+00:11:37,251 --> 00:11:39,955
+C'est toujours plus dur avec les enfants.
+
+162
+00:11:49,801 --> 00:11:52,421
+- David !
+- Ce n'est rien, Mme Sanders.
+
+163
+00:11:52,553 --> 00:11:55,636
+- J'en ai une.
+- Elle est jolie ?
+
+164
+00:11:55,763 --> 00:11:57,589
+Non. C'est un thon.
+
+165
+00:11:58,140 --> 00:12:00,808
+Elle a un œil de verre et des chicots.
+
+166
+00:12:01,642 --> 00:12:04,808
+Leila était avec vous
+quand Charlie a disparu ?
+
+167
+00:12:04,936 --> 00:12:09,015
+Oui. On a fait des jeux vidéo
+au centre commercial.
+
+168
+00:12:09,147 --> 00:12:14,650
+- Avant d'aller au parc avec Charlie ?
+- Vous n'êtes pas allés au centre.
+
+169
+00:12:16,777 --> 00:12:18,401
+Shawn ?
+
+170
+00:12:19,779 --> 00:12:23,526
+- Shawn ne sait rien, maman.
+- Tu as retrouvé Leila au centre ?
+
+171
+00:12:24,574 --> 00:12:27,657
+Tu as laissé Charlie et Shawn au parc.
+
+172
+00:12:28,868 --> 00:12:32,651
+Juste un instant,
+et puis ils nous ont rejoints au centre.
+
+173
+00:12:32,787 --> 00:12:36,914
+Shawn a lâché sa main une seconde,
+et Charlie avait disparu.
+
+174
+00:12:37,040 --> 00:12:40,289
+On est tout de suite rentrés à la maison.
+
+175
+00:12:40,417 --> 00:12:44,200
+Charlie n'a pas disparu dans le parc,
+mais au centre commercial.
+
+176
+00:12:44,337 --> 00:12:46,661
+On l'a cherché au mauvais endroit.
+
+177
+00:12:46,797 --> 00:12:49,796
+Allez, fiston. Dépêche-toi.
+
+178
+00:13:02,807 --> 00:13:05,380
+Qu'est-ce que c'est que cet élastique ?
+
+179
+00:13:05,517 --> 00:13:11,719
+L'oxyde de méthyle vaporisé
+va s'accrocher à ce que Charlie a aspiré.
+
+180
+00:13:14,064 --> 00:13:15,937
+C'est pour maîtriser ta colère ?
+
+181
+00:13:16,066 --> 00:13:21,355
+Ce qui est important, c'est la maîtrise.
+Et je maîtrise parfaitement ma colère.
+
+182
+00:13:21,486 --> 00:13:25,434
+On va avoir du rouge en cas de chalcogène
+ou du bleu en cas d'halogène.
+
+183
+00:13:25,572 --> 00:13:27,611
+Je comprends que tu aies la rage,
+
+184
+00:13:27,740 --> 00:13:31,357
+que tu en veuilles au gouvernement
+à cause des complots.
+
+185
+00:13:31,492 --> 00:13:36,616
+Que tu sois furieux de devoir
+manipuler une mâchoire d'enfant.
+
+186
+00:13:36,746 --> 00:13:42,284
+Mais je ne comprends pas que
+tu t'énerves autant pour un banquet.
+
+187
+00:13:42,416 --> 00:13:45,701
+C'est un halogène.
+Je vais prélever ces particules
+
+188
+00:13:45,835 --> 00:13:49,452
+et utiliser le spectromètre de masse
+pour les identifier.
+
+189
+00:13:49,588 --> 00:13:52,541
+La colère est une peur intériorisée.
+
+190
+00:14:08,558 --> 00:14:11,677
+Je n'ai retenu que celles
+couvrant les couloirs.
+
+191
+00:14:11,810 --> 00:14:15,392
+10 000 personnes passent là chaque jour.
+Comment on va le voir ?
+
+192
+00:14:15,521 --> 00:14:20,347
+Angela a conçu un logiciel reconstituant
+la corpulence à partir du squelette.
+
+193
+00:14:20,483 --> 00:14:22,890
+Endomorphisme, ectomorphisme, etc.
+
+194
+00:14:23,026 --> 00:14:25,812
+Je lui fais scanner
+les images en deux dimensions.
+
+195
+00:14:25,945 --> 00:14:31,566
+Je cherche des masses corporelles proches
+de celles de Charlie, Shawn et David.
+
+196
+00:14:31,698 --> 00:14:35,825
+- Voilà David.
+- Vous en êtes une, en fait.
+
+197
+00:14:35,951 --> 00:14:38,620
+- Quoi ?
+- Une intello. On ne dirait pas,
+
+198
+00:14:38,745 --> 00:14:41,661
+vous agissez normalement,
+mais vous en êtes une.
+
+199
+00:14:41,788 --> 00:14:45,536
+La reconnaissance des masses,
+c'était une idée de Brennan.
+
+200
+00:14:45,666 --> 00:14:47,990
+Je suis tout à fait normale.
+
+201
+00:14:48,126 --> 00:14:51,659
+Vous l'étiez peut-être
+avant de bosser ici, mais là...
+
+202
+00:14:52,545 --> 00:14:54,833
+Voilà Charlie.
+
+203
+00:14:56,965 --> 00:15:00,913
+- C'est bien lui.
+- Quelle horreur.
+
+204
+00:15:01,051 --> 00:15:03,671
+Ange ? Tout va bien ?
+
+205
+00:15:03,803 --> 00:15:09,140
+Ce sont sûrement les dernières images
+qu'on a de ce garçon en vie.
+
+206
+00:15:11,558 --> 00:15:14,842
+Pourquoi est-il seul ?
+Personne ne le surveille ?
+
+207
+00:15:16,728 --> 00:15:20,890
+Pardon. On a une résolution
+de 640 sur 480 pixels.
+
+208
+00:15:21,022 --> 00:15:24,805
+Il n'est pas seul. Quelqu'un l'appelle.
+Vous pouvez zoomer ?
+
+209
+00:15:24,942 --> 00:15:30,361
+Moins il y a de pixels dans une image,
+plus elle devient floue en zoomant.
+
+210
+00:15:30,487 --> 00:15:32,942
+Là, je faisais intello ?
+
+211
+00:15:33,072 --> 00:15:36,985
+- Tu peux l'améliorer ?
+- Je ne parierais pas Colin Farrell dessus.
+
+212
+00:15:37,116 --> 00:15:40,531
+- Il est drôle.
+- Le comique, c'est Will Ferrell.
+
+213
+00:15:40,660 --> 00:15:42,617
+Colin, c'est le beau gosse.
+
+214
+00:15:42,745 --> 00:15:47,571
+Ce gosse allait voir quelqu'un.
+Il n'essayait pas de s'enfuir.
+
+215
+00:15:47,706 --> 00:15:52,248
+Je vais considérer leur voisin, Skyler,
+comme suspect.
+
+216
+00:15:52,376 --> 00:15:57,416
+J'ai une vue d'un autre angle,
+mais notre ravisseur y est encore caché.
+
+217
+00:16:01,716 --> 00:16:03,340
+Qui est-ce ?
+
+218
+00:16:15,558 --> 00:16:17,431
+Tu veux quitter l'Institut ?
+
+219
+00:16:20,228 --> 00:16:22,303
+Je ne suis pas comme ça.
+
+220
+00:16:23,105 --> 00:16:26,223
+- Comment ?
+- Comme toi.
+
+221
+00:16:26,732 --> 00:16:31,606
+Je ne ressens pas
+un profond besoin de justice.
+
+222
+00:16:31,735 --> 00:16:34,308
+J'aime m'amuser.
+
+223
+00:16:34,445 --> 00:16:36,402
+On s'amuse de temps en temps.
+
+224
+00:16:36,530 --> 00:16:40,229
+Les blagues sur les squelettes,
+ce n'est pas génial.
+
+225
+00:16:41,492 --> 00:16:46,732
+- C'est plus difficile pour toi.
+- Non.
+
+226
+00:16:48,204 --> 00:16:50,576
+Pourquoi tu dis ça ?
+
+227
+00:16:50,706 --> 00:16:52,745
+Tu observes leur visage.
+
+228
+00:16:52,874 --> 00:16:56,040
+Nous, on examine le corps.
+C'est plus médical.
+
+229
+00:16:56,168 --> 00:16:59,666
+Mais pour toi, c'est personnel.
+
+230
+00:16:59,795 --> 00:17:05,084
+- Quand on voit le corps d'un enfant...
+- Ne le prends pas mal,
+
+231
+00:17:05,215 --> 00:17:10,552
+mais je ne suis pas d'humeur à écouter
+l'une de tes leçons d'anthropologie.
+
+232
+00:17:11,053 --> 00:17:14,255
+Je n'avais jamais gardé un boulot
+aussi longtemps.
+
+233
+00:17:14,388 --> 00:17:16,629
+Je m'accroche grâce à toi.
+
+234
+00:17:18,182 --> 00:17:21,597
+Si tu veux plus de temps libre
+pour tes propres dessins...
+
+235
+00:17:21,726 --> 00:17:24,347
+Je vais y réfléchir, ok ?
+
+236
+00:17:25,395 --> 00:17:29,439
+Je suis une artiste.
+Avant, je dessinais des types nus.
+
+237
+00:17:30,315 --> 00:17:32,437
+Maintenant, je dessine des morts.
+
+238
+00:17:35,193 --> 00:17:38,027
+Ne prends pas de décision
+sans m'en parler.
+
+239
+00:17:38,154 --> 00:17:40,359
+Bien sûr.
+
+240
+00:17:56,457 --> 00:18:00,121
+- Angela risque de démissionner.
+- Ça ne m'étonne pas.
+
+241
+00:18:00,251 --> 00:18:03,251
+- Pourquoi ?
+- C'est un être humain.
+
+242
+00:18:03,378 --> 00:18:07,955
+Désolé, Bones. Mais Angela
+n'a pas reçu la même formation
+
+243
+00:18:08,090 --> 00:18:11,209
+que vous autres
+sur la planète Vulcain.
+
+244
+00:18:11,342 --> 00:18:13,713
+- Je ne comprends pas.
+- Elle est sensible.
+
+245
+00:18:13,844 --> 00:18:15,717
+- Qui ça ?
+- Angela.
+
+246
+00:18:15,845 --> 00:18:20,221
+Elle aime les chiots, les chatons,
+les canetons, les cocktails,
+
+247
+00:18:20,348 --> 00:18:22,340
+et les soirées en boîte.
+
+248
+00:18:23,850 --> 00:18:28,594
+Je sais. C'est ma meilleure amie. Angela
+n'est pas la seule à aimer les chiots.
+
+249
+00:18:28,728 --> 00:18:33,436
+- Je ne les ai jamais trouvés mignons.
+- Elle est plus sensible.
+
+250
+00:18:33,565 --> 00:18:38,355
+On a comparé les jambes de Charlie
+à celles des enfants de son âge.
+
+251
+00:18:38,485 --> 00:18:41,022
+Enfin, les jambes de la victime.
+
+252
+00:18:43,696 --> 00:18:47,859
+Concentrez-vous sur les détails.
+
+253
+00:18:49,408 --> 00:18:52,574
+- Bonne idée.
+- On a trouvé des anomalies.
+
+254
+00:18:52,702 --> 00:18:54,990
+Elles sont arquées et très courtes.
+
+255
+00:18:55,121 --> 00:18:59,580
+- Les articulations semblent bloquées.
+- Charlie était infirme ?
+
+256
+00:18:59,707 --> 00:19:03,999
+- La victime était handicapée.
+- Sa mère ne m'a pas prévenu.
+
+257
+00:19:04,126 --> 00:19:07,957
+Il y a deux fractures sur les côtes.
+Ce ne devrait pas être le cas.
+
+258
+00:19:08,087 --> 00:19:13,293
+- Comment l'expliquer ?
+- Je l'attribue à sa maladie.
+
+259
+00:19:13,424 --> 00:19:19,840
+- Oui. De quelle maladie s'agit-il ?
+- Une scoliose, une colonne tordue.
+
+260
+00:19:23,222 --> 00:19:25,095
+C'est plus grave que ça.
+
+261
+00:19:25,224 --> 00:19:29,551
+On a de multiples lésions calcifiées
+sur les vertèbres thoraciques.
+
+262
+00:19:29,685 --> 00:19:35,436
+Et vu la petite taille de Charlie
+et la longueur inégale de ses jambes...
+
+263
+00:19:35,564 --> 00:19:39,181
+Margaret Sanders n'est peut-être pas
+sa mère biologique.
+
+264
+00:19:39,316 --> 00:19:40,478
+Pardon ?
+
+265
+00:19:40,609 --> 00:19:43,644
+Recherche une hypophosphatémie familiale
+
+266
+00:19:43,777 --> 00:19:45,650
+ou un syndrome de Coffin-Lowry.
+
+267
+00:19:45,779 --> 00:19:47,735
+Hé, attendez.
+
+268
+00:19:47,863 --> 00:19:51,196
+Expliquez-moi pourquoi
+ce ne serait pas sa mère.
+
+269
+00:19:51,324 --> 00:19:54,739
+Je vais chercher
+des troubles génétiques héréditaires
+
+270
+00:19:54,868 --> 00:19:56,860
+transmis par la mère.
+
+271
+00:19:56,994 --> 00:20:02,117
+Si Charlie en souffre, ça voudra dire
+que Margaret Sanders n'est pas sa mère.
+
+272
+00:20:08,001 --> 00:20:13,753
+- Comment osez-vous dire ça ?
+- Charlie souffrait d'hypophosphatémie.
+
+273
+00:20:13,880 --> 00:20:16,833
+- Sa mère en serait atteinte.
+- Vous ne l'êtes pas.
+
+274
+00:20:16,966 --> 00:20:19,538
+Ne dites pas que
+je n'étais pas sa vraie mère.
+
+275
+00:20:19,676 --> 00:20:25,593
+Mme Sanders, vous n'êtes pas
+la mère biologique de Charlie.
+
+276
+00:20:25,721 --> 00:20:28,009
+Dites-nous ce qui s'est passé.
+
+277
+00:20:29,891 --> 00:20:34,468
+Je suis stérile.
+C'est pour ça que mon mari m'a quittée.
+
+278
+00:20:34,602 --> 00:20:38,184
+- J'ai donc adopté des enfants.
+- Shawn et David Cook.
+
+279
+00:20:38,313 --> 00:20:40,352
+Et Charlie.
+
+280
+00:20:41,357 --> 00:20:43,645
+En réalité, il s'appelait Nathan.
+
+281
+00:20:43,775 --> 00:20:46,063
+Je l'ai adopté bébé, à Pittsburgh.
+
+282
+00:20:46,193 --> 00:20:48,232
+Dix jours après sa naissance.
+
+283
+00:20:49,612 --> 00:20:55,529
+Sa mère avait été arrêtée pour possession
+de drogue et la D.D.A.S.S. me l'a confié.
+
+284
+00:20:55,658 --> 00:21:00,235
+Au bout de trois semaines,
+sa mère a été relâchée.
+
+285
+00:21:00,369 --> 00:21:02,942
+- Vous l'avez quand même gardé ?
+- Non.
+
+286
+00:21:03,079 --> 00:21:07,028
+Je le lui ai rendu,
+mais ça m'a anéantie.
+
+287
+00:21:08,458 --> 00:21:10,699
+Je suis restée en contact avec lui.
+
+288
+00:21:11,793 --> 00:21:14,793
+Je lui ai acheté
+du lait maternel, une poussette.
+
+289
+00:21:15,671 --> 00:21:18,754
+Je voulais m'assurer que tout allait bien.
+
+290
+00:21:18,881 --> 00:21:21,751
+Quel était son nom complet, Mme Sanders ?
+
+291
+00:21:23,092 --> 00:21:25,168
+Nathan Downey.
+
+292
+00:21:25,302 --> 00:21:28,586
+Sa mère était une toxicomane
+du nom de Jeanine.
+
+293
+00:21:29,680 --> 00:21:34,174
+Le jour de Noël, je l'ai trouvée morte
+dans sa cuisine, une seringue dans le bras,
+
+294
+00:21:34,308 --> 00:21:37,723
+et pendant ce temps,
+Charlie pleurait à l'étage.
+
+295
+00:21:37,852 --> 00:21:40,721
+- Je suis donc montée.
+- Et vous l'avez emmené.
+
+296
+00:21:40,854 --> 00:21:43,973
+Je l'ai regardé droit dans les yeux
+et lui ai promis
+
+297
+00:21:44,106 --> 00:21:47,805
+de ne plus jamais l'abandonner.
+
+298
+00:21:47,942 --> 00:21:50,266
+Il s'est arrêté de pleurer.
+
+299
+00:21:50,402 --> 00:21:54,268
+Tous les jours, je pensais que
+la D.D.A.S.S. viendrait me voir.
+
+300
+00:21:54,404 --> 00:21:58,816
+Il se serait retrouvé dans
+une famille adoptive de toute façon.
+
+301
+00:21:59,825 --> 00:22:03,239
+J'étais censée le protéger
+
+302
+00:22:03,369 --> 00:22:05,028
+et l'aimer.
+
+303
+00:22:06,287 --> 00:22:08,991
+Mais maintenant, il est mort.
+
+304
+00:22:14,292 --> 00:22:17,292
+- J'étais obligé de l'arrêter.
+- Elle n'a pas menti.
+
+305
+00:22:17,419 --> 00:22:19,043
+Elle a enlevé cet enfant.
+
+306
+00:22:19,171 --> 00:22:24,625
+Margaret a obéi à un réflexe anthropologique
+face à un orphelin.
+
+307
+00:22:24,758 --> 00:22:28,706
+On n'est pas dans un documentaire.
+On est dans une vraie banlieue.
+
+308
+00:22:28,844 --> 00:22:34,761
+- Elle n'a pas tué cet enfant. Elle l'aimait.
+- Il est tombé malade. Ça l'a contrariée.
+
+309
+00:22:34,889 --> 00:22:40,807
+Je suis sûr que vous connaissez une dizaine
+de sociétés qui tuent leur progéniture.
+
+310
+00:22:40,935 --> 00:22:43,010
+Et Shawn et David Cook ?
+
+311
+00:22:43,145 --> 00:22:45,551
+- Où vont-ils aller ?
+- Dans une autre famille.
+
+312
+00:22:45,688 --> 00:22:48,557
+Connaissez-vous le système d'adoption ?
+
+313
+00:22:48,690 --> 00:22:50,563
+Et vous ?
+Que voulez-vous ?
+
+314
+00:22:50,691 --> 00:22:53,726
+Les enlever,
+comme elle l'a fait avec Charlie ?
+
+315
+00:22:53,860 --> 00:22:57,691
+Je veux que vous les rendiez
+à Margaret Sanders.
+
+316
+00:22:57,821 --> 00:22:59,018
+Impossible.
+
+317
+00:23:08,244 --> 00:23:11,446
+Le logiciel est perturbé par l'élargissement.
+
+318
+00:23:11,580 --> 00:23:13,951
+Tu connais très bien Hodgins.
+
+319
+00:23:14,081 --> 00:23:17,081
+Pourquoi est-ce que ce banquet
+l'énerve autant ?
+
+320
+00:23:17,208 --> 00:23:20,078
+- Qu'est-ce qui te fait dire ça ?
+- Dès qu'on en parle,
+
+321
+00:23:20,210 --> 00:23:22,914
+il fait claquer l'élastique sur son poignet.
+
+322
+00:23:23,046 --> 00:23:26,295
+Non, pourquoi tu penses
+que je le connais bien ?
+
+323
+00:23:26,423 --> 00:23:29,292
+- Vous êtes colocs.
+- Je vis dans son garage.
+
+324
+00:23:29,425 --> 00:23:31,168
+- Vous vous voyez souvent.
+- Non.
+
+325
+00:23:31,301 --> 00:23:35,084
+- Il t'emmène au travail.
+- Je ne suis jamais entré dans sa résidence.
+
+326
+00:23:35,220 --> 00:23:38,054
+- Sa résidence ?
+- Elle est au bout de l'allée,
+
+327
+00:23:38,180 --> 00:23:40,671
+de l'autre côté des courts de tennis.
+
+328
+00:23:40,807 --> 00:23:43,926
+Bon. Vous avez identifié le ravisseur ?
+
+329
+00:23:44,059 --> 00:23:49,348
+Pas moyen d'améliorer cette image.
+Décris-lui le garage d'Hodgins.
+
+330
+00:23:49,480 --> 00:23:53,428
+Il y a une chambre, un salon, une cuisine,
+une autre chambre, un bureau...
+
+331
+00:23:53,566 --> 00:23:57,609
+- C'est un grand garage. Le ravisseur ?
+- Il a combien de voitures ?
+
+332
+00:23:57,735 --> 00:24:01,648
+Les vieilles autos comprises, une douzaine.
+Plus un bateau.
+
+333
+00:24:01,779 --> 00:24:05,776
+Zack n'a jamais vu sa résidence.
+Elle est derrière les courts de tennis.
+
+334
+00:24:05,907 --> 00:24:09,820
+- Il est de la fameuse famille Hodgins ?
+- Quelle famille ?
+
+335
+00:24:09,951 --> 00:24:14,113
+- Vous savez, le groupe de cantilever.
+- Bien sûr.
+
+336
+00:24:14,246 --> 00:24:17,246
+Il gagne plus d'argent que l'Europe entière.
+
+337
+00:24:17,373 --> 00:24:21,665
+Attendez. Ce sont eux qui donnent
+le plus d'argent à l'Institut.
+
+338
+00:24:22,334 --> 00:24:24,871
+On dirait qu'Hodgins est votre patron.
+
+339
+00:24:27,796 --> 00:24:30,630
+Vous parlez de quoi
+en venant au travail ?
+
+340
+00:24:30,757 --> 00:24:34,373
+La plupart du temps, je dors.
+Et Hodgins engueule la radio.
+
+341
+00:24:34,509 --> 00:24:37,758
+Si vous ne distinguez pas le visage,
+examinez son reflet.
+
+342
+00:24:37,886 --> 00:24:39,428
+Ça, c'est une bonne idée.
+
+343
+00:24:39,554 --> 00:24:45,139
+Ç'aurait été sympa
+si vous n'aviez pas eu l'air aussi surpris.
+
+344
+00:24:49,727 --> 00:24:55,645
+D'après le spectromètre de masse,
+la bouche de Charlie contient du fluor.
+
+345
+00:24:55,773 --> 00:24:58,180
+- Je connais cette expression.
+- Pardon ?
+
+346
+00:24:58,316 --> 00:25:03,439
+Tu es en train d'écrire un livre.
+Tu as toujours l'air éberluée.
+
+347
+00:25:03,570 --> 00:25:07,233
+- Je vais de nouveau être dedans ?
+- Il y a beaucoup de fluor ?
+
+348
+00:25:07,364 --> 00:25:10,482
+- Plus que dans du dentifrice.
+- Fais une liste...
+
+349
+00:25:10,616 --> 00:25:14,695
+de tout ce qui contient
+une dose aussi élevée de fluor.
+
+350
+00:25:14,827 --> 00:25:16,902
+Tu as vraiment le temps d'écrire ?
+
+351
+00:25:17,037 --> 00:25:19,657
+- Il m'a offert une voiture.
+- Qui ça ?
+
+352
+00:25:19,789 --> 00:25:23,370
+Mon éditeur. Du coup,
+je me sens obligée d'écrire un livre.
+
+353
+00:25:23,499 --> 00:25:30,081
+Dis non à la coercition. N'écris pas de livre.
+Moi, je ne vais pas au banquet.
+
+354
+00:25:33,798 --> 00:25:36,204
+Angela a le visage du ravisseur.
+
+355
+00:25:41,428 --> 00:25:45,969
+J'ai pris les deux caméras.
+Celle-ci offrait un meilleur reflet.
+
+356
+00:25:46,097 --> 00:25:48,670
+- Celui de la porte.
+- Regardez.
+
+357
+00:25:50,434 --> 00:25:51,762
+Le visage du ravisseur.
+
+358
+00:25:51,893 --> 00:25:56,304
+L'ordinateur interprète les espaces
+entre les zones blanches et noires
+
+359
+00:25:56,438 --> 00:25:58,762
+et reconstitue les parties manquantes.
+
+360
+00:25:58,897 --> 00:26:03,309
+- On ne dirait pas un adulte.
+- Je repolarise l'image.
+
+361
+00:26:07,862 --> 00:26:11,644
+- Shawn Cook.
+- Le frère adoptif de la victime.
+
+362
+00:26:17,368 --> 00:26:21,316
+- Où as-tu emmené Charlie ?
+- Au centre commercial.
+
+363
+00:26:21,454 --> 00:26:26,577
+Je sais que tu l'y as emmené,
+mais j'ai une photo de toi
+
+364
+00:26:26,707 --> 00:26:29,376
+en train d'en sortir avec lui.
+
+365
+00:26:32,127 --> 00:26:35,827
+- Vous voyez souvent ce genre de cas ?
+- Au tribunal pour enfants,
+
+366
+00:26:35,963 --> 00:26:38,916
+les enfants meurtriers ne sont pas rares.
+
+367
+00:26:39,382 --> 00:26:40,840
+Où l'as-tu emmené, Shawn ?
+
+368
+00:26:42,426 --> 00:26:46,374
+- Quand pourrai-je voir Margaret ?
+- Quand tu m'auras répondu.
+
+369
+00:26:46,512 --> 00:26:49,216
+Il a le droit de lui mentir comme ça ?
+
+370
+00:26:49,347 --> 00:26:51,635
+On recherche un tueur d'enfant.
+
+371
+00:26:51,765 --> 00:26:55,465
+Son avocat ne dit rien,
+et je ne vais pas m'en plaindre.
+
+372
+00:26:55,601 --> 00:26:59,016
+À quoi bon lui donner un avocat
+s'il ne le défend pas ?
+
+373
+00:26:59,145 --> 00:27:03,188
+J'ai l'impression que vous ne savez pas
+comment vous positionner.
+
+374
+00:27:04,107 --> 00:27:05,482
+Shawn.
+
+375
+00:27:06,358 --> 00:27:08,895
+- Tu sais ce que c'est ?
+- Une cicatrice ?
+
+376
+00:27:09,027 --> 00:27:10,189
+Oui.
+
+377
+00:27:10,319 --> 00:27:14,446
+Je me la suis faite en jouant au soldat
+avec mon frère Jared.
+
+378
+00:27:14,572 --> 00:27:17,691
+- Ça vous a fait mal ?
+- Oui.
+
+379
+00:27:17,824 --> 00:27:19,781
+Mais c'était un accident.
+
+380
+00:27:19,909 --> 00:27:22,150
+Tu as des cicatrices ?
+
+381
+00:27:26,580 --> 00:27:28,702
+Mon père m'a brûlé avec une cigarette.
+
+382
+00:27:29,748 --> 00:27:32,499
+Il n'aurait pas dû.
+
+383
+00:27:33,543 --> 00:27:38,666
+Margaret ne me fait pas
+ce genre de chose. Je l'aime.
+
+384
+00:27:38,796 --> 00:27:44,002
+J'aimerais savoir s'il est arrivé
+un accident à Charlie.
+
+385
+00:27:47,510 --> 00:27:49,798
+On devrait faire une pause.
+
+386
+00:27:49,928 --> 00:27:51,091
+Shawn.
+
+387
+00:27:51,221 --> 00:27:54,505
+- Il n'est pas assez agressif.
+- Les orphelins sont démunis.
+
+388
+00:27:54,640 --> 00:28:00,427
+On les traite comme des moins que rien,
+et vous voudriez qu'il soit plus agressif ?
+
+389
+00:28:00,560 --> 00:28:06,976
+Vous rendez-vous compte que ce garçon
+en a peut-être battu un autre à mort ?
+
+390
+00:28:21,657 --> 00:28:26,898
+- On se connaît depuis combien de temps ?
+- Se connaît-on jamais vraiment ?
+
+391
+00:28:27,036 --> 00:28:29,740
+Tu ne m'as jamais invitée chez toi.
+
+392
+00:28:29,871 --> 00:28:34,745
+- Je ne te pensais pas intéressée.
+- Je croyais qu'on était tous amis.
+
+393
+00:28:34,874 --> 00:28:37,791
+J'ignore quoi ?
+Zack est un extraterrestre ?
+
+394
+00:28:37,918 --> 00:28:40,159
+Je t'en prie, tout le monde le sait.
+
+395
+00:28:41,587 --> 00:28:43,496
+Tu es riche.
+
+396
+00:28:43,630 --> 00:28:46,832
+Tu es à la tête du groupe de cantilever.
+
+397
+00:28:46,966 --> 00:28:49,420
+Inutile de le nier, je suis au courant.
+
+398
+00:28:50,134 --> 00:28:52,292
+- Qui d'autre le sait ?
+- Zack.
+
+399
+00:28:52,427 --> 00:28:53,802
+Booth.
+
+400
+00:28:53,928 --> 00:28:56,253
+N'en parle pas à Brennan.
+
+401
+00:28:56,388 --> 00:28:59,092
+Pourquoi nous cacher
+que tu es notre patron ?
+
+402
+00:28:59,224 --> 00:29:05,011
+Je ne veux être le patron de personne.
+Respecte mon choix.
+
+403
+00:29:10,564 --> 00:29:14,395
+- Angela ne va pas bien ?
+- C'est le stress de l'enquête.
+
+404
+00:29:14,984 --> 00:29:18,517
+On trouve du fluor
+dans le dentifrice, le thé,
+
+405
+00:29:18,653 --> 00:29:23,112
+ainsi que dans l'eau,
+ce qui provoque des troubles cérébraux...
+
+406
+00:29:23,239 --> 00:29:27,532
+Ça n'a rien à voir avec notre enquête.
+
+407
+00:29:28,284 --> 00:29:32,411
+Le taux trouvé sur la victime
+peut provenir de diluants, de cire
+
+408
+00:29:32,537 --> 00:29:34,529
+ou d'autres produits industriels.
+
+409
+00:29:35,664 --> 00:29:38,285
+Angela t'a-t-elle parlé
+de démissionner ?
+
+410
+00:29:38,416 --> 00:29:40,455
+Non.
+
+411
+00:29:40,584 --> 00:29:43,952
+Mais on se connaît assez mal.
+
+412
+00:29:53,592 --> 00:29:54,790
+Bones.
+
+413
+00:29:54,927 --> 00:30:00,761
+Je voulais vous prévenir que Shawn et David
+ont été placés dans un foyer.
+
+414
+00:30:00,889 --> 00:30:06,178
+J'ai fait mon possible
+pour qu'ils restent ensemble.
+
+415
+00:30:06,309 --> 00:30:09,392
+- C'est gentil. Merci.
+- Je n'ai pas pu faire mieux.
+
+416
+00:30:09,520 --> 00:30:13,267
+- Je comprends.
+- Je pense que non.
+
+417
+00:30:13,397 --> 00:30:19,350
+Quand vous n'aimez pas une règle,
+vous l'ignorez. Je ne marche pas comme ça.
+
+418
+00:30:19,484 --> 00:30:21,856
+- Si vous voulez le faire...
+- Faire quoi ?
+
+419
+00:30:21,986 --> 00:30:25,188
+Enquêter avec moi,
+en-dehors du laboratoire.
+
+420
+00:30:25,322 --> 00:30:29,152
+Si vous voulez le faire, vous devez
+me promettre de respecter la loi.
+
+421
+00:30:29,282 --> 00:30:33,777
+Même si je ne respecte pas la loi,
+au moins, vous, je vous respecte.
+
+422
+00:30:37,079 --> 00:30:40,245
+Ça me suffit.
+C'est plutôt inattendu, mais...
+
+423
+00:30:40,373 --> 00:30:43,243
+Vous l'avez cassé.
+
+424
+00:30:43,375 --> 00:30:45,746
+Je vous en rachèterai un.
+
+425
+00:30:45,877 --> 00:30:48,711
+La victime est morte
+d'un trauma thoracique
+
+426
+00:30:48,837 --> 00:30:51,956
+mais ses côtes comportent
+deux fractures, pas une.
+
+427
+00:30:52,089 --> 00:30:55,623
+Il avait les os fragiles
+à cause de sa maladie.
+
+428
+00:30:55,758 --> 00:30:57,833
+Il y a une autre explication.
+
+429
+00:30:57,968 --> 00:31:01,087
+- Laquelle ?
+- Une compression.
+
+430
+00:31:01,220 --> 00:31:03,212
+Charlie a été écrasé ?
+
+431
+00:31:03,346 --> 00:31:06,430
+On a des fractures
+des vertèbres et du sternum.
+
+432
+00:31:06,557 --> 00:31:10,683
+Shawn ne pesait que 15 kilos de plus
+que Charlie. Il n'a pas pu l'écraser.
+
+433
+00:31:10,810 --> 00:31:14,260
+Étudions diverses hypothèses
+avec l'Angelator.
+
+434
+00:31:17,356 --> 00:31:22,479
+J'ai informé Zack que s'il dévoile
+mon identité, il sera viré.
+
+435
+00:31:22,609 --> 00:31:26,308
+- Je ne peux pas vous menacer.
+- Dommage.
+
+436
+00:31:26,445 --> 00:31:30,986
+Ce que j'aime dans la vie, c'est venir ici
+étudier la terre et les insectes.
+
+437
+00:31:31,115 --> 00:31:34,031
+Ma famille règne secrètement
+sur la planète.
+
+438
+00:31:34,158 --> 00:31:38,486
+Un mélange de paranoïa
+et de folie des grandeurs !
+
+439
+00:31:38,619 --> 00:31:44,821
+Vous appelez ça de la paranoïa.
+Pour moi, c'est le quotidien. Écoutez-moi.
+
+440
+00:31:45,749 --> 00:31:48,120
+Je ne veux pas me rendre à ce banquet
+
+441
+00:31:48,251 --> 00:31:52,911
+car le reste de l'élite dirigeante
+en fera toute une histoire.
+
+442
+00:31:53,046 --> 00:31:58,797
+Mon secret sera dévoilé
+et cette vie que j'adore détruite.
+
+443
+00:31:59,300 --> 00:32:05,667
+Je vous supplie de me laisser être
+Jack Hodgins, le type du labo.
+
+444
+00:32:13,142 --> 00:32:17,055
+Charlie mesurait 1 mètre
+et pesait 26 kilos.
+
+445
+00:32:17,186 --> 00:32:21,930
+- Et Shawn ?
+- Shawn Cook mesure 1,4 m pour 31 kilos.
+
+446
+00:32:22,064 --> 00:32:25,100
+Son frère David mesure 1,75 m.
+
+447
+00:32:25,233 --> 00:32:28,233
+Et il pèse 68 kilos.
+
+448
+00:32:28,360 --> 00:32:32,107
+J'ai attribué la fracture du sternum
+à un objet contondant
+
+449
+00:32:32,238 --> 00:32:36,068
+parce qu'elle formait une ligne.
+Mais quand Booth a cassé mon crayon,
+
+450
+00:32:36,199 --> 00:32:40,277
+je me suis aperçu qu'elle pouvait
+résulter d'une compression.
+
+451
+00:32:40,410 --> 00:32:43,575
+Hodgins n'a trouvé
+aucun signe d'écrasement.
+
+452
+00:32:43,704 --> 00:32:49,325
+Il a dû être écrasé par un poids suffisant
+pour empêcher l'air de pénétrer les poumons.
+
+453
+00:32:49,457 --> 00:32:54,331
+La pression prolongée a cassé
+le sternum en deux et fracturé les côtes.
+
+454
+00:33:00,840 --> 00:33:03,295
+Pardon.
+
+455
+00:33:04,842 --> 00:33:08,506
+J'ai entré plusieurs variables,
+la taille de Charlie
+
+456
+00:33:08,637 --> 00:33:14,340
+et la pression nécessaire pour casser
+son sternum de cette manière.
+
+457
+00:33:14,474 --> 00:33:17,972
+- Ça a donné quoi ?
+- 86,2 kilos.
+
+458
+00:33:19,143 --> 00:33:21,716
+- Et en livres ?
+- 190 livres.
+
+459
+00:33:24,188 --> 00:33:27,141
+Ça exclut donc les Cook
+et Margaret Sanders.
+
+460
+00:33:27,274 --> 00:33:31,140
+Leur petit voisin, Skyler,
+doit peser dans les 160 livres.
+
+461
+00:33:31,276 --> 00:33:36,316
+- Ce n'est donc pas lui.
+- Il faut chercher un adulte.
+
+462
+00:33:36,446 --> 00:33:40,443
+Demandez à Shawn où il a emmené Charlie
+après avoir quitté le centre.
+
+463
+00:33:40,574 --> 00:33:42,981
+Il refuse de me parler.
+
+464
+00:33:43,117 --> 00:33:44,860
+- Je peux l'interroger.
+- Non.
+
+465
+00:33:44,994 --> 00:33:48,077
+Le contact humain
+n'est pas votre point fort,
+
+466
+00:33:48,204 --> 00:33:51,987
+et il se fiche bien des faits
+que vous pourrez lui présenter.
+
+467
+00:33:52,123 --> 00:33:56,167
+Faites-moi confiance, pour une fois.
+On cherche un meurtrier.
+
+468
+00:33:56,293 --> 00:34:00,289
+- Laissez-moi vous aider.
+- Vous parlez souvent à des enfants ?
+
+469
+00:34:00,420 --> 00:34:01,618
+Je sais quoi lui dire.
+
+470
+00:34:04,340 --> 00:34:10,127
+- Tu te souviens de moi, Shawn ?
+- Vous êtes la dame intelligente.
+
+471
+00:34:10,260 --> 00:34:12,133
+Oui, je suis plutôt futée.
+
+472
+00:34:12,261 --> 00:34:16,388
+- Et très modeste.
+- Croyez-moi, là, ce n'est rien.
+
+473
+00:34:16,514 --> 00:34:20,511
+Assez futée pour savoir
+que tu n'as pas tué Charlie.
+
+474
+00:34:20,642 --> 00:34:23,512
+Tu n'as pas à me répondre, Shawn.
+
+475
+00:34:23,644 --> 00:34:25,683
+Contente-toi de m'écouter.
+
+476
+00:34:27,230 --> 00:34:32,186
+Ils te donnent un sac poubelle
+en guise de valise,
+
+477
+00:34:32,316 --> 00:34:35,601
+comme si tes affaires
+n'avaient aucune valeur.
+
+478
+00:34:35,735 --> 00:34:41,487
+Et puis tu dois aller à l'école dans
+des vêtements qui sentent le sac poubelle.
+
+479
+00:34:41,614 --> 00:34:45,527
+Tous les autres enfants
+devinent que je suis un orphelin.
+
+480
+00:34:48,577 --> 00:34:51,197
+Comment vous le savez ?
+
+481
+00:34:51,329 --> 00:34:54,494
+Ils te changent sans arrêt de famille,
+
+482
+00:34:54,622 --> 00:34:57,195
+mais tu ne te sens jamais chez toi.
+
+483
+00:34:58,166 --> 00:35:01,534
+Les parents adoptifs
+sont parfois gentils.
+
+484
+00:35:02,753 --> 00:35:04,958
+- Comme Margaret ?
+- Oui.
+
+485
+00:35:05,088 --> 00:35:09,795
+Mais tu es parfois séparé de ton frère.
+
+486
+00:35:09,924 --> 00:35:12,497
+Ça devait être agréable chez Margaret,
+
+487
+00:35:12,634 --> 00:35:14,673
+de vivre avec David.
+
+488
+00:35:18,221 --> 00:35:20,546
+On avait des lits superposés.
+
+489
+00:35:20,681 --> 00:35:24,049
+La nuit, je savais que David était là
+
+490
+00:35:24,183 --> 00:35:27,349
+et qu'il veillait sur moi.
+
+491
+00:35:27,477 --> 00:35:29,718
+Margaret est gentille.
+
+492
+00:35:31,105 --> 00:35:35,599
+Tu ferais presque n'importe quoi
+pour rester chez Margaret, non ?
+
+493
+00:35:36,692 --> 00:35:40,984
+L'homme à qui tu as amené Charlie,
+celui qui lui a fait du mal,
+
+494
+00:35:41,111 --> 00:35:43,150
+il le sait bien.
+
+495
+00:35:43,279 --> 00:35:45,983
+Tu ignorais qu'il allait faire du mal à Charlie,
+
+496
+00:35:46,114 --> 00:35:50,277
+et après, il t'a dit
+que Margaret allait t'en vouloir.
+
+497
+00:35:50,409 --> 00:35:54,820
+Il t'a menti. Je peux faire en sorte
+que tu retournes vivre chez Margaret.
+
+498
+00:35:54,954 --> 00:35:58,617
+Comment ? Vous travaillez dans un musée.
+
+499
+00:35:58,748 --> 00:36:01,701
+J'ai un ami au FBI.
+
+500
+00:36:01,833 --> 00:36:05,876
+Il s'arrangera pour que David et toi
+retourniez vivre chez Margaret.
+
+501
+00:36:06,002 --> 00:36:09,335
+- Vous ne pouvez pas le lui promettre.
+- Si.
+
+502
+00:36:09,463 --> 00:36:13,162
+- Mon ami fera ce qu'il faut.
+- C'est pas vrai.
+
+503
+00:36:13,299 --> 00:36:17,426
+Mais tu dois me dire
+qui a fait du mal à Charlie.
+
+504
+00:36:17,552 --> 00:36:20,836
+Il va falloir que vous m'aidiez
+à tenir sa promesse.
+
+505
+00:36:20,971 --> 00:36:23,212
+- Je ne peux pas...
+- Mme Johnson.
+
+506
+00:36:23,347 --> 00:36:27,296
+Nos deux bureaux vont devoir
+y travailler ensemble.
+
+507
+00:36:27,433 --> 00:36:31,382
+Et si Margaret ne veut plus de moi ?
+
+508
+00:36:31,519 --> 00:36:33,725
+Charlie était son vrai fils.
+
+509
+00:36:33,854 --> 00:36:36,724
+Charlie non plus n'était pas
+son fils biologique.
+
+510
+00:36:36,856 --> 00:36:42,311
+Il était comme toi, un enfant
+que Margaret avait choisi d'aimer.
+
+511
+00:36:45,070 --> 00:36:49,979
+Cet homme ne devrait pas pouvoir
+vous retirer tous les trois à Margaret,
+
+512
+00:36:50,115 --> 00:36:52,735
+qu'en dis-tu ?
+
+513
+00:36:52,866 --> 00:36:56,400
+On devrait l'arrêter, tous les deux.
+
+514
+00:37:16,757 --> 00:37:19,591
+Elle a réussi. Il lui a donné son nom.
+
+515
+00:37:37,354 --> 00:37:43,141
+Edward Nelson, je vous arrête pour le viol
+et le meurtre de Charlie Sanders.
+
+516
+00:37:43,274 --> 00:37:48,859
+Si vous n'avez pas d'avocat,
+un vous sera commis d'office.
+
+517
+00:38:56,155 --> 00:39:00,152
+- Les garçons !
+- Maman !
+
+518
+00:39:00,283 --> 00:39:03,366
+- On va de nouveau former une famille ?
+- Et comment.
+
+519
+00:39:15,585 --> 00:39:17,126
+On le tient.
+
+520
+00:39:17,252 --> 00:39:21,960
+Son insecticide anti-termites
+correspond au taux de fluor.
+
+521
+00:39:22,089 --> 00:39:24,211
+Le père de Skyler a tout avoué.
+
+522
+00:39:24,340 --> 00:39:27,542
+Il a dit que la mort de Charlie
+était un accident ?
+
+523
+00:39:27,676 --> 00:39:32,502
+Il n'a pas violé Shawn.
+Il s'est servi de lui pour approcher Charlie.
+
+524
+00:39:32,637 --> 00:39:36,468
+Il a emmené Charlie dans le champ.
+Des ados sont passés par là,
+
+525
+00:39:36,598 --> 00:39:41,259
+alors il l'a écrasé pour le faire taire.
+Shawn a alors rejoint son frère.
+
+526
+00:39:41,393 --> 00:39:44,642
+Charlie était petit et fragile,
+son sternum a lâché.
+
+527
+00:39:44,770 --> 00:39:47,936
+- Il a violé d'autres enfants ?
+- Oui.
+
+528
+00:39:48,064 --> 00:39:50,270
+Sûrement son fils.
+
+529
+00:39:50,399 --> 00:39:53,518
+Vous en avez informé la D.D.A.S.S. ?
+
+530
+00:39:53,651 --> 00:39:56,817
+Ils pourront peut-être aider ce gamin.
+
+531
+00:39:58,238 --> 00:40:00,810
+- Je vous présente mes excuses.
+- Pourquoi ?
+
+532
+00:40:01,323 --> 00:40:04,856
+Vous connaissez personnellement
+le système d'adoption.
+
+533
+00:40:10,162 --> 00:40:13,744
+J'ai vécu en foyer jusqu'à ce que
+mon grand-père m'accueille.
+
+534
+00:40:14,623 --> 00:40:18,489
+Quand vous lui avez dit
+qu'on le séparait de son frère,
+
+535
+00:40:18,626 --> 00:40:22,243
+j'ai eu l'impression que
+vous ne parliez pas de David Cook.
+
+536
+00:40:22,378 --> 00:40:29,125
+Je vous raconterai tout ça un autre jour.
+Là, je dois me préparer pour une fête.
+
+537
+00:40:30,842 --> 00:40:31,838
+D'accord.
+
+538
+00:40:31,968 --> 00:40:34,458
+Ma portière passager est cabossée
+
+539
+00:40:34,595 --> 00:40:37,595
+parce que vous m'avez dit
+de ne pas me garer en biais.
+
+540
+00:40:39,306 --> 00:40:41,132
+C'est de la pure méchanceté.
+
+541
+00:40:43,517 --> 00:40:44,466
+Vous êtes méchant.
+
+542
+00:40:46,144 --> 00:40:48,183
+Pardon.
+
+543
+00:40:55,066 --> 00:40:58,730
+- Vous n'êtes pas habillé.
+- Je ne viens pas, Dr Goodman.
+
+544
+00:40:58,860 --> 00:41:01,148
+Oh que si.
+
+545
+00:41:01,279 --> 00:41:04,195
+Les donateurs porteront
+des badges à leur nom.
+
+546
+00:41:04,322 --> 00:41:07,856
+- De quoi va-t-on leur parler ?
+- De votre travail, bien sûr.
+
+547
+00:41:07,991 --> 00:41:11,442
+Zack retire la chair des cadavres.
+
+548
+00:41:11,577 --> 00:41:14,862
+Hodgins dissèque les insectes
+qui ont mangé les corps.
+
+549
+00:41:14,996 --> 00:41:20,451
+- Ne parle pas de moi, je ne viens pas.
+- Et vous alors, que faites-vous ?
+
+550
+00:41:20,583 --> 00:41:22,622
+Je dessine des masques funèbres.
+
+551
+00:41:22,751 --> 00:41:26,582
+- C'est vraiment ce que vous pensez ?
+- Pas vous ?
+
+552
+00:41:26,712 --> 00:41:29,665
+Vous avez la meilleure tâche,
+Mlle Montenegro.
+
+553
+00:41:29,797 --> 00:41:33,082
+Vous discernez l'humanité
+dans des cadavres dévastés.
+
+554
+00:41:33,216 --> 00:41:37,047
+Vous rendez aux victimes
+leur visage, leur identité.
+
+555
+00:41:37,177 --> 00:41:41,174
+Vous nous rappelez pourquoi
+nous faisons ce travail.
+
+556
+00:41:42,180 --> 00:41:44,967
+Parce que nous chérissons la vie.
+
+557
+00:41:49,560 --> 00:41:51,885
+- Allons bon !
+- Que s'est-il passé ?
+
+558
+00:41:52,020 --> 00:41:57,143
+Angela avait besoin d'entendre son travail
+décrit par une voix afro-américaine.
+
+559
+00:41:57,274 --> 00:42:00,108
+- M. Addy.
+- On a besoin d'Hodgins ce soir.
+
+560
+00:42:00,234 --> 00:42:03,649
+Le FBI veut savoir ce que c'est
+d'ici demain matin.
+
+561
+00:42:04,403 --> 00:42:08,447
+- Je m'en occupe.
+- Attendez. De quelle affaire s'agit-il ?
+
+562
+00:42:08,573 --> 00:42:12,237
+- Je suis au courant ?
+- Booth m'en a parlé tout à l'heure.
+
+563
+00:42:13,910 --> 00:42:16,115
+Je te fais confiance.
+
+564
+00:42:16,244 --> 00:42:19,446
+Très bien.
+Vous êtes excusé, Dr Hodgins.
+
+565
+00:42:20,581 --> 00:42:23,450
+La limousine nous attend.
+
+566
+00:42:23,583 --> 00:42:25,621
+Merci.
+
+567
+00:42:31,254 --> 00:42:32,452
+Vous êtes jolie.
+
+568
+00:42:35,132 --> 00:42:37,704
+Non, vous êtes plus que ça.
+Vous êtes...
+
+569
+00:42:39,593 --> 00:42:41,751
+très...
+
+570
+00:42:43,054 --> 00:42:44,132
+Merci.
+
+571
+00:42:45,472 --> 00:42:48,637
+- Vous saviez que je le ferais ?
+- Quoi ?
+
+572
+00:42:48,766 --> 00:42:50,841
+Rendre Shawn et David
+à Margaret Sanders.
+
+573
+00:42:51,976 --> 00:42:53,802
+J'ai peut-être menti.
+
+574
+00:42:54,561 --> 00:42:56,103
+Pour arrêter le coupable.
+
+575
+00:42:56,646 --> 00:42:58,472
+C'est vous qui me l'avez appris.
+
+576
+00:42:59,481 --> 00:43:01,556
+La fin justifie les moyens.
+
+577
+00:43:07,945 --> 00:43:10,649
+Je savais que vous m'aideriez.
+
+578
+00:43:11,155 --> 00:43:14,819
+- Que vous ne me feriez pas mentir.
+- Comment le saviez-vous ?
+
+579
+00:43:15,908 --> 00:43:17,865
+Vous voulez aller au paradis.
+
+580
+00:43:18,410 --> 00:43:21,992
+- Vous n'y croyez pas.
+- Mais vous si.
+
+581
+00:43:54,850 --> 00:43:58,598
+ 

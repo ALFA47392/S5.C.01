@@ -1,0 +1,1916 @@
+1
+00:01:31,400 --> 001:35.1,,P0
+ ce que vous voulez
+
+2
+00:01:35,800 --> 001:37.4,,P0
+: Marked=0,0:01:35.80,01:37.47,Previously,2,0000,0000,0000, j’ai toujours voulu un poney
+
+3
+00:01:38,540 --> 001:42.7,,P0
+: Marked=0,0:01:38.54,01:42.75,Previously,3,0000,0000,0000, mais vous ne parliez pas à moi n’est ce pas ? autant pour moi
+
+4
+00:01:43,280 --> 001:44.5,,P0
+: Marked=0,0:01:43.28,01:44.51,Previously,4,0000,0000,0000, tant que je suis là ...
+
+5
+00:01:47,450 --> 001:49.1,,P0
+: Marked=0,0:01:47.45,01:49.12,Previously,5,0000,0000,0000, de vrais voleurs
+
+6
+00:01:49,890 --> 001:52.6,,P0
+: Marked=0,0:01:49.89,01:52.62,Previously,6,0000,0000,0000, ça faisait longtemps que je n’en avais pas rencontrés
+
+7
+00:01:52,820 --> 001:58.0,,P0
+ et de l’horreur … mais c’est juste un vol à l’ancienne
+
+8
+00:01:58,960 --> 002:03.1,,P0
+ heu... mais certainement pas pour vous
+
+9
+00:02:03,600 --> 002:06.0,,P0
+ partez, maintenant
+
+10
+00:02:12,080 --> 002:13.8,,P0
+: Marked=0,0:02:12.08,02:13.82,Previously,10,0000,0000,0000, pas très mignon pour vous non plus hein ?
+
+11
+00:02:13,980 --> 002:16.5,,P0
+ ça sera marrant
+
+12
+00:02:25,360 --> 002:27.1,,P0
+: Marked=0,0:02:25.36,02:27.16,Previously,12,0000,0000,0000, mais qu’est-ce que tu fais ?
+
+13
+00:02:27,500 --> 002:28.8,,P0
+: Marked=0,0:02:27.50,02:28.87,Previously,13,0000,0000,0000, je pensais que c’était des démons
+
+14
+00:02:29,470 --> 002:32.1,,P0
+ observateur de choc
+
+15
+00:02:32,900 --> 002:35.6,,P0
+: Marked=0,0:02:32.90,02:35.64,Previously,15,0000,0000,0000, -rappelle moi de ne plus t’aider  
+-encore plus souvent ?
+
+16
+00:02:35,940 --> 002:38.7,,P0
+: Marked=0,0:02:35.94,02:38.74,Previously,16,0000,0000,0000, un peu de sympathie pour l’homme à la migraine s’il te plait
+
+17
+00:02:39,580 --> 002:41.6,,P0
+: Marked=0,0:02:39.58,02:41.68,Previously,17,0000,0000,0000, c’est ce qui arrive quand tu attaques un humain
+
+18
+00:02:41,880 --> 002:47.9,,P0
+ on se dit qu’ils auraient pu me laisser attaquer les criminels
+
+19
+00:02:48,190 --> 002:50.7,,P0
+: Marked=0,0:02:48.19,02:50.76,Previously,19,0000,0000,0000, oui car les voleurs méritent d’être mangés
+
+20
+00:02:51,590 --> 002:53.8,,P0
+: Marked=0,0:02:51.59,02:53.80,Previously,20,0000,0000,0000, tu devras te contenter de combattre des démons pour t’éclater
+
+21
+00:02:54,300 --> 002:56.3,,P0
+: Marked=0,0:02:54.30,02:56.33,Previously,21,0000,0000,0000, il y a d’autres manières de s’éclater
+
+22
+00:02:57,530 --> 003:00.2,,P0
+: Marked=0,0:02:57.53,03:00.24,Previously,22,0000,0000,0000, et à cela je réponds un énorme "à plus tard"
+
+23
+00:03:07,010 --> 003:10.7,,P0
+ il est tard. Est-ce qu’on peut en parler un autre jour ?
+
+24
+00:03:12,150 --> 003:14.8,,P0
+: Marked=0,0:03:12.15,03:14.89,Previously,24,0000,0000,0000, tu veux qu’on s’embrasse directement c’est cela ?
+
+25
+00:03:15,690 --> 003:19.7,,P0
+ une fois ...
+-deux fois
+
+26
+00:03:20,730 --> 003:21.9,,P0
+: Marked=0,0:03:20.73,03:21.96,Previously,26,0000,0000,0000, mais pas une troisième
+
+27
+00:03:23,900 --> 003:29.6,,P0
+ tu fais mariner la tension 2-3 jours et bam !!
+
+28
+00:03:29,770 --> 003:31.7,,P0
+: Marked=0,0:03:29.77,03:31.74,Previously,28,0000,0000,0000, tu deviens la Reine des glaces
+
+29
+00:03:32,010 --> 003:34.3,,P0
+: Marked=0,0:03:32.01,03:34.31,Previously,29,0000,0000,0000, t’as besoin de plus de métaphores pour ton petit mix ?
+
+30
+00:03:35,110 --> 003:38.8,,P0
+: Marked=0,0:03:35.11,03:38.82,Previously,30,0000,0000,0000, c’est juste une question de temps avant que tu ne réalises que je suis le seul pour toi
+
+31
+00:03:39,220 --> 003:40.7,,P0
+: Marked=0,0:03:39.22,03:40.72,Previously,31,0000,0000,0000, tu n’as personne d’autre
+
+32
+00:04:08,250 --> 004:12.2,,P0
+: Marked=0,0:04:08.25,04:12.25,Previously,32,0000,0000,0000, qu’est-ce qui ne va pas Amy ? tu te sens seule ?
+
+33
+00:04:14,590 --> 004:22.4,,P0
+ que tu aimeras, avec qui tu resteras, tu t’attacheras à lui
+
+34
+00:04:22,500 --> 004:25.2,,P0
+: Marked=0,0:04:22.50,04:25.27,Previously,34,0000,0000,0000, et un jour il te quittera sans raison valable
+
+35
+00:04:25,770 --> 004:27.1,,P0
+: Marked=0,0:04:25.77,04:27.11,Previously,35,0000,0000,0000, ça serait pas marrant ?
+
+36
+00:04:28,670 --> 004:30.5,,P0
+ je rigole
+
+37
+00:04:32,280 --> 004:40.5,,P0
+: Marked=0,0:04:32.28,04:40.52,Previously,37,0000,0000,0000, je te jure si je trouvais comment te faire revenir... quelque soit le moyen
+
+38
+00:04:42,320 --> 004:43.3,,P0
+: Marked=0,0:04:42.32,04:43.32,Previously,38,0000,0000,0000, "révéler"
+
+39
+00:06:02,380 --> 006:05.7,,P0
+: Marked=0,0:06:02.38,06:05.72,Previously,39,0000,0000,0000, SMASHED
+
+40
+00:06:21,270 --> 006:24.9,,P0
+ qu’est-ce que tu fais ? 
+-on n'est pas à Langley ici, c’est Sunnydale
+
+41
+00:06:25,210 --> 006:28.3,,P0
+: Marked=0,0:06:25.21,06:28.35,Previously,41,0000,0000,0000, on ne sait jamais quels nouveaux trucs ils peuvent avoir. Mieux vaut prévenir que ...
+
+42
+00:06:28,480 --> 006:31.4,,P0
+: Marked=0,0:06:28.48,06:31.45,Previously,42,0000,0000,0000, le système de sécurité ici est un homme dénommé Rusty (=rouillé)
+
+43
+00:06:37,530 --> 006:41.5,,P0
+ cool
+
+44
+00:06:42,100 --> 006:44.4,,P0
+: Marked=0,0:06:42.10,06:44.40,Previously,44,0000,0000,0000, bon on arrête de déconner maintenant
+
+45
+00:06:49,770 --> 006:52.7,,P0
+: Marked=0,0:06:49.77,06:52.78,Previously,45,0000,0000,0000, pourquoi il fait toujours les trucs cool ?
+
+46
+00:06:53,210 --> 006:56.1,,P0
+: Marked=0,0:06:53.21,06:56.11,Previously,46,0000,0000,0000, -parce que je suis allergique au méthane et que tu as peur du feu 
+-je sais
+
+47
+00:06:56,310 --> 006:59.7,,P0
+ c’est lui qui nous a réunis tu te souviens ?
+
+48
+00:07:09,730 --> 007:11.8,,P0
+: Marked=0,0:07:09.73,07:11.80,Previously,48,0000,0000,0000, -je l’ai 
+-c’est magnifique
+
+49
+00:07:12,100 --> 007:16.5,,P0
+ la première partie de notre plan est maintenant achevée, dégageons
+
+50
+00:07:17,440 --> 007:18.8,,P0
+: Marked=0,0:07:17.44,07:18.87,Previously,50,0000,0000,0000, qu’est ce que vous faites là ?
+
+51
+00:07:19,540 --> 007:21.5,,P0
+: Marked=0,0:07:19.54,07:21.54,Previously,51,0000,0000,0000, on fait partie du groupe de visite
+
+52
+00:07:22,410 --> 007:24.9,,P0
+: Marked=0,0:07:22.41,07:24.95,Previously,52,0000,0000,0000, le groupe "prends le rayon réfrigérant" de visite
+
+53
+00:07:25,080 --> 007:26.2,,P0
+: Marked=0,0:07:25.08,07:26.22,Previously,53,0000,0000,0000, on a dû être séparé
+
+54
+00:07:26,480 --> 007:28.3,,P0
+: Marked=0,0:07:26.48,07:28.39,Previously,54,0000,0000,0000, le musée a fermé il y a cinq heures
+
+55
+00:07:28,650 --> 007:33.3,,P0
+: Marked=0,0:07:28.65,07:33.36,Previously,55,0000,0000,0000, vraiment ? on a du perdre la notion du temps
+
+56
+00:07:33,460 --> 007:36.5,,P0
+: Marked=0,0:07:33.46,07:36.59,Previously,56,0000,0000,0000, je suppose qu’il est temps que nous « prends le rayon réfrigérant » dégageons
+
+57
+00:07:42,070 --> 007:44.2,,P0
+ Rusty.
+
+58
+00:07:44,700 --> 007:48.2,,P0
+ bibliothèques, Hall des présidents de Disney : pas ennuyeux
+
+59
+00:07:48,710 --> 007:51.5,,P0
+: Marked=0,0:07:48.71,07:51.51,Previously,59,0000,0000,0000, mais surtout : au revoir
+
+60
+00:07:56,350 --> 007:58.0,,P0
+: Marked=0,0:07:56.35,07:58.02,Previously,60,0000,0000,0000, mec c’est trop génial !!
+
+61
+00:08:00,260 --> 008:02.5,,P0
+: Marked=0,0:08:00.26,08:02.59,Previously,61,0000,0000,0000, le rayon réfrigérant marche totalement
+
+62
+00:08:02,690 --> 008:05.1,,P0
+: Marked=0,0:08:02.69,08:05.16,Previously,62,0000,0000,0000, pas tout à fait
+
+63
+00:08:05,600 --> 008:08.2,,P0
+ c’est juste un prototype, mais bientôt ...
+
+64
+00:08:08,330 --> 008:12.8,,P0
+: Marked=0,0:08:08.33,08:12.87,Previously,64,0000,0000,0000, c’est génial tout ça mais en attendant ... tu sais ... aïe
+
+65
+00:08:13,070 --> 008:18.8,,P0
+: Marked=0,0:08:13.07,08:18.84,Previously,65,0000,0000,0000, -t’es une grosse mauviette 
+-on peut rentrer ? car je ne sens pas vraiment mes doigts
+
+66
+00:08:19,480 --> 008:21.4,,P0
+: Marked=0,0:08:19.48,08:21.45,Previously,66,0000,0000,0000, c’est bon on y va
+
+67
+00:08:24,180 --> 008:25.9,,P0
+: Marked=0,0:08:24.18,08:25.95,Previously,67,0000,0000,0000, -il va ... 
+-ça va aller
+
+68
+00:08:26,150 --> 008:29.6,,P0
+ personne n’aura eu mal
+
+69
+00:08:29,820 --> 008:32.3,,P0
+: Marked=0,0:08:29.82,08:32.33,Previously,69,0000,0000,0000, -il va nous dénoncer ? 
+-et dire quoi ?
+
+70
+00:08:32,430 --> 008:35.6,,P0
+: Marked=0,0:08:32.43,08:35.66,Previously,70,0000,0000,0000, deux mecs et un mime m’ont eu avec leur rayon réfrigérant ? peu probable
+
+71
+00:08:46,010 --> 008:50.2,,P0
+: Marked=0,0:08:46.01,08:50.21,Previously,71,0000,0000,0000, -tiens un chocolat chaud 
+-non merci
+
+72
+00:08:51,080 --> 008:54.1,,P0
+: Marked=0,0:08:51.08,08:54.15,Previously,72,0000,0000,0000, j’ai toujours un peu mal au coeur
+
+73
+00:08:56,290 --> 008:57.5,,P0
+: Marked=0,0:08:56.29,08:57.56,Previously,73,0000,0000,0000, peut être plus tard
+
+74
+00:09:03,060 --> 009:08.3,,P0
+ tout va bien
+
+75
+00:09:09,840 --> 009:11.0,,P0
+: Marked=0,0:09:09.84,09:11.01,Previously,75,0000,0000,0000, ça va ?
+
+76
+00:09:11,970 --> 009:16.1,,P0
+ juste ... tu sais
+
+77
+00:09:17,080 --> 009:18.7,,P0
+: Marked=0,0:09:17.08,09:18.71,Previously,77,0000,0000,0000, tout a l’air bizarre
+
+78
+00:09:19,550 --> 009:23.4,,P0
+: Marked=0,0:09:19.55,09:23.45,Previously,78,0000,0000,0000, c’est comme si j’avais été en cage pendant des semaines
+
+79
+00:09:25,160 --> 009:27.7,,P0
+: Marked=0,0:09:25.16,09:27.79,Previously,79,0000,0000,0000, mais je vais aller bien n’est-ce pas ?
+
+80
+00:09:27,930 --> 009:31.2,,P0
+: Marked=0,0:09:27.93,09:31.26,Previously,80,0000,0000,0000, je peux toujours reprendre le rythme comme ...
+
+81
+00:09:31,460 --> 009:34.9,,P0
+: Marked=0,0:09:31.46,09:34.93,Previously,81,0000,0000,0000, le bal de promo approche et j’espérais que Larry m’y invite
+
+82
+00:09:35,100 --> 009:37.3,,P0
+: Marked=0,0:09:35.10,09:37.34,Previously,82,0000,0000,0000, on aurait tellement fait fur...
+
+83
+00:09:42,880 --> 009:46.2,,P0
+ si ?
+
+84
+00:09:49,380 --> 009:51.4,,P0
+: Marked=0,0:09:49.38,09:51.49,Previously,84,0000,0000,0000, trois choses dont nous devons discuter :
+
+85
+00:09:52,420 --> 009:54.8,,P0
+: Marked=0,0:09:52.42,09:54.86,Previously,85,0000,0000,0000, un : Larry est homo
+
+86
+00:09:55,160 --> 009:57.8,,P0
+: Marked=0,0:09:55.16,09:57.89,Previously,86,0000,0000,0000, deux : Larry est mort
+
+87
+00:09:58,360 --> 010:03.0,,P0
+: Marked=0,0:09:58.36,10:03.00,Previously,87,0000,0000,0000, trois : le lycée est plus ou moins fini
+
+88
+00:10:06,040 --> 010:08.1,,P0
+: Marked=0,0:10:06.04,10:08.11,Previously,88,0000,0000,0000, combien de temps je suis restée en cage ?
+
+89
+00:10:10,310 --> 010:11.7,,P0
+: Marked=0,0:10:10.31,10:11.78,Previously,89,0000,0000,0000, combien de temps ?
+
+90
+00:10:19,220 --> 010:20.3,,P0
+: Marked=0,0:10:19.22,10:20.32,Previously,90,0000,0000,0000, Willow ?
+
+91
+00:10:28,060 --> 010:29.2,,P0
+: Marked=0,0:10:28.06,10:29.23,Previously,91,0000,0000,0000, comment ça va ?
+
+92
+00:10:35,610 --> 010:39.2,,P0
+: Marked=0,0:10:35.61,10:39.24,Previously,92,0000,0000,0000, je ne parade pas en barbe à papa mais ça va
+
+93
+00:10:41,180 --> 010:45.3,,P0
+: Marked=0,0:10:41.18,10:45.38,Previously,93,0000,0000,0000, -je peux te parler de quelque chose ? 
+-bien sûr
+
+94
+00:10:51,120 --> 010:58.0,,P0
+ parfois ils sont bons et parfois ils sont ...
+
+95
+00:10:58,430 --> 011:00.0,,P0
+: Marked=0,0:10:58.43,11:00.00,Previously,95,0000,0000,0000, moins bons
+
+96
+00:11:03,970 --> 011:05.5,,P0
+: Marked=0,0:11:03.97,11:05.57,Previously,96,0000,0000,0000, dernièrement j’ai ...
+
+97
+00:11:06,240 --> 011:07.2,,P0
+: Marked=0,0:11:06.24,11:07.28,Previously,97,0000,0000,0000, Tara hey !
+
+98
+00:11:09,110 --> 011:10.1,,P0
+: Marked=0,0:11:09.11,11:10.11,Previously,98,0000,0000,0000, Amy ?
+
+99
+00:11:10,750 --> 011:12.0,,P0
+: Marked=0,0:11:10.75,11:12.05,Previously,99,0000,0000,0000, tout le lycée ?
+
+100
+00:11:13,180 --> 011:15.2,,P0
+: Marked=0,0:11:13.18,11:15.28,Previously,100,0000,0000,0000, par un serpent géant ?
+
+101
+00:11:16,120 --> 011:17.3,,P0
+: Marked=0,0:11:16.12,11:17.35,Previously,101,0000,0000,0000, je m’y habitue
+
+102
+00:11:17,790 --> 011:18.8,,P0
+: Marked=0,0:11:17.79,11:18.82,Previously,102,0000,0000,0000, salut Buffy
+
+103
+00:11:22,330 --> 011:24.8,,P0
+: Marked=0,0:11:22.33,11:24.86,Previously,103,0000,0000,0000, qu’est-ce que tu es devenue ?
+
+104
+00:11:25,500 --> 011:28.4,,P0
+: Marked=0,0:11:25.50,11:28.43,Previously,104,0000,0000,0000, -un rat. Et toi ? 
+-morte
+
+105
+00:11:31,540 --> 011:34.5,,P0
+: Marked=0,0:11:31.54,11:34.54,Previously,105,0000,0000,0000, -je devrais vous laisser rattraper le temps perdu ... 
+-non non reste
+
+106
+00:11:35,810 --> 011:37.3,,P0
+: Marked=0,0:11:35.81,11:37.34,Previously,106,0000,0000,0000, tu as des gâteaux ?
+
+107
+00:11:37,740 --> 011:39.9,,P0
+ quel genre ?
+
+108
+00:11:40,180 --> 011:42.6,,P0
+ mais pas au fromage
+
+109
+00:11:43,720 --> 011:48.0,,P0
+ dans la cuisine je vais les chercher ... 
+-non j’y vais
+
+110
+00:11:48,220 --> 011:52.1,,P0
+: Marked=0,0:11:48.22,11:52.16,Previously,110,0000,0000,0000, au moins je devrais préparer le canapé pour toi
+
+111
+00:11:52,260 --> 011:54.8,,P0
+ tu devrais rester ici, tout le monde le fait
+
+112
+00:11:55,730 --> 011:56.9,,P0
+: Marked=0,0:11:55.73,11:56.90,Previously,112,0000,0000,0000, merci
+
+113
+00:12:03,240 --> 012:04.1,,P0
+: Marked=0,0:12:03.24,12:04.14,Previously,113,0000,0000,0000, je sais
+
+114
+00:12:06,010 --> 012:07.6,,P0
+: Marked=0,0:12:06.01,12:07.61,Previously,114,0000,0000,0000, elle va aller bien ?
+
+115
+00:12:08,850 --> 012:11.2,,P0
+ elle est un peu flippée
+
+116
+00:12:11,580 --> 012:13.1,,P0
+: Marked=0,0:12:11.58,12:13.19,Previously,116,0000,0000,0000, je le serais aussi
+
+117
+00:12:16,420 --> 012:19.9,,P0
+ j’ai fait ce qu’il fallait et ...
+
+118
+00:12:21,130 --> 012:25.4,,P0
+ d’avoir une autre copine qui fasse de la magie
+
+119
+00:12:28,500 --> 012:31.7,,P0
+: Marked=0,0:12:28.50,12:31.71,Previously,119,0000,0000,0000, de quoi tu voulais me parler ? tu avais l’air tellement sérieuse
+
+120
+00:12:34,780 --> 012:41.7,,P0
+ c’est bien plus fort que ce que je voulais dire
+
+121
+00:12:53,430 --> 012:55.9,,P0
+: Marked=0,0:12:53.43,12:55.97,Previously,121,0000,0000,0000, comment ça va ? tu as besoin de quelque chose ?
+
+122
+00:12:56,170 --> 012:58.6,,P0
+: Marked=0,0:12:56.17,12:58.67,Previously,122,0000,0000,0000, non merci. Les gâteaux sont bons
+
+123
+00:13:03,210 --> 013:06.0,,P0
+: Marked=0,0:13:03.21,13:06.05,Previously,123,0000,0000,0000, -je suis désolée pour ta mère 
+-merci
+
+124
+00:13:07,220 --> 013:09.6,,P0
+: Marked=0,0:13:07.22,13:09.62,Previously,124,0000,0000,0000, c’est dingue toutes les choses qui se sont passées pendant mon absence
+
+125
+00:13:09,790 --> 013:10.8,,P0
+: Marked=0,0:13:09.79,13:10.89,Previously,125,0000,0000,0000, sans blague
+
+126
+00:13:11,090 --> 013:13.0,,P0
+: Marked=0,0:13:11.09,13:13.02,Previously,126,0000,0000,0000, Snyder s’est fait mangé par un serpent
+
+127
+00:13:13,620 --> 013:15.2,,P0
+: Marked=0,0:13:13.62,13:15.26,Previously,127,0000,0000,0000, le lycée a été détruit
+
+128
+00:13:15,990 --> 013:18.3,,P0
+: Marked=0,0:13:15.99,13:18.33,Previously,128,0000,0000,0000, Gatorate a sorti un nouveau goût : bleu
+
+129
+00:13:18,860 --> 013:20.8,,P0
+: Marked=0,0:13:18.86,13:20.87,Previously,129,0000,0000,0000, tu vois ? j’ai la tête qui tourne
+
+130
+00:13:23,000 --> 013:29.0,,P0
+ Willow sort avec des filles, et tu as entendu pour Tom et Nicole ?
+
+131
+00:13:29,310 --> 013:30.9,,P0
+: Marked=0,0:13:29.31,13:30.94,Previously,131,0000,0000,0000, les gens sont congelés ?
+
+132
+00:13:32,110 --> 013:39.5,,P0
+: Marked=0,0:13:32.11,13:39.55,Previously,132,0000,0000,0000, "..est dans un état critique mais stable. La police poursuit son enquête sur le vol qui a conduit à la congélation d’un homme"
+
+133
+00:13:39,650 --> 013:43.2,,P0
+: Marked=0,0:13:39.65,13:43.23,Previously,133,0000,0000,0000, "en direct du musée Brian Moris pour K.O.U.S."
+
+134
+00:13:43,290 --> 013:44.1,,P0
+: Marked=0,0:13:43.29,13:44.16,Previously,134,0000,0000,0000, c’est bizarre
+
+135
+00:13:53,700 --> 013:54.4,,P0
+: Marked=0,0:13:53.70,13:54.47,Previously,135,0000,0000,0000, excusez moi
+
+136
+00:14:19,270 --> 014:20.2,,P0
+: Marked=0,0:14:19.27,14:20.24,Previously,136,0000,0000,0000, génial
+
+137
+00:14:20,500 --> 014:23.6,,P0
+: Marked=0,0:14:20.50,14:23.64,Previously,137,0000,0000,0000, regardez qui a décidé de se montrer
+
+138
+00:14:24,310 --> 014:25.8,,P0
+: Marked=0,0:14:24.31,14:25.88,Previously,138,0000,0000,0000, qu’est-ce que tu fais ici Spike ?
+
+139
+00:14:26,510 --> 014:28.7,,P0
+: Marked=0,0:14:26.51,14:28.78,Previously,139,0000,0000,0000, tu sais un homme a été congelé vivant là dedans
+
+140
+00:14:29,310 --> 014:30.5,,P0
+: Marked=0,0:14:29.31,14:30.58,Previously,140,0000,0000,0000, un peu de compassion
+
+141
+00:14:32,250 --> 014:34.7,,P0
+ tant qu’on est là tous les deux tu pourrais suivre...
+
+142
+00:14:35,190 --> 014:38.3,,P0
+: Marked=0,0:14:35.19,14:38.36,Previously,142,0000,0000,0000, -je veux dire en tant qu’équipe... 
+-ça ne finit jamais bien d’ailleurs n’est ce pas ?
+
+143
+00:14:38,560 --> 014:40.1,,P0
+: Marked=0,0:14:38.56,14:40.13,Previously,143,0000,0000,0000, ça a bien fini la dernière fois
+
+144
+00:14:40,660 --> 014:43.3,,P0
+: Marked=0,0:14:40.66,14:43.30,Previously,144,0000,0000,0000, tu as vraiment l’air de faire une fixation sur deux baisers Spike
+
+145
+00:14:43,660 --> 014:46.4,,P0
+: Marked=0,0:14:43.66,14:46.47,Previously,145,0000,0000,0000, et tu as vraiment l’air de les oublier rapidement
+
+146
+00:14:50,340 --> 014:52.6,,P0
+ je suis désolée
+
+147
+00:14:53,070 --> 014:55.8,,P0
+: Marked=0,0:14:53.07,14:55.81,Previously,147,0000,0000,0000, je suis désolée si tu pensais que ça voulait dire plus
+
+148
+00:14:56,580 --> 014:57.7,,P0
+: Marked=0,0:14:56.58,14:57.78,Previously,148,0000,0000,0000, mais ?
+
+149
+00:14:59,520 --> 015:04.6,,P0
+ tu sais que je pensais à Giles non ?
+
+150
+00:15:05,260 --> 015:07.9,,P0
+: Marked=0,0:15:05.26,15:07.96,Previously,150,0000,0000,0000, je me suis toujours posé des questions sur vous deux !
+
+151
+00:15:08,130 --> 015:11.7,,P0
+ t’es dégueulasse Spike !
+
+152
+00:15:13,100 --> 015:18.8,,P0
+ j’étais déprimée, ego vulnérable et mauvais choix de baiser
+
+153
+00:15:19,470 --> 015:22.4,,P0
+ tu dois laisser tomber
+
+154
+00:15:24,310 --> 015:26.7,,P0
+: Marked=0,0:15:24.31,15:26.78,Previously,154,0000,0000,0000, -ça a marché ? 
+-quoi ?
+
+155
+00:15:27,780 --> 015:29.6,,P0
+: Marked=0,0:15:27.78,15:29.62,Previously,155,0000,0000,0000, tu t’es convaincue ?
+
+156
+00:15:30,820 --> 015:32.3,,P0
+ arrête
+
+157
+00:15:33,560 --> 015:34.9,,P0
+: Marked=0,0:15:33.56,15:34.92,Previously,157,0000,0000,0000, un homme peut changer
+
+158
+00:15:35,920 --> 015:39.6,,P0
+ tu es une chose
+
+159
+00:15:40,600 --> 015:42.9,,P0
+: Marked=0,0:15:40.60,15:42.90,Previously,159,0000,0000,0000, -arrête de me fuir 
+-ne me touche pas !
+
+160
+00:15:57,150 --> 016:02.3,,P0
+ une chose maléfique et dégoûtante
+
+161
+00:16:20,840 --> 016:22.3,,P0
+: Marked=0,0:16:20.84,16:22.35,Previously,161,0000,0000,0000, regardez moi tout ça
+
+162
+00:16:41,840 --> 016:44.0,,P0
+ tu devrais crier
+
+163
+00:16:46,710 --> 016:50.2,,P0
+ certains l’oublie
+
+164
+00:16:52,250 --> 016:55.9,,P0
+ elle a oublié à qui elle a à faire
+
+165
+00:16:56,150 --> 017:00.5,,P0
+ ça doit être pareil pour moi ? car ce n’est pas le cas
+
+166
+00:17:00,660 --> 017:04.5,,P0
+ je suis dangereux
+
+167
+00:17:04,860 --> 017:06.1,,P0
+: Marked=0,0:17:04.86,17:06.13,Previously,167,0000,0000,0000, je suis maléfique
+
+168
+00:17:06,630 --> 017:09.5,,P0
+: Marked=0,0:17:06.63,17:09.50,Previously,168,0000,0000,0000, -je suis sûr que vous n’êtes pas maléfique 
+-si je le suis
+
+169
+00:17:10,170 --> 017:14.4,,P0
+ c’est ce que je fais, je tue
+
+170
+00:17:15,440 --> 017:17.7,,P0
+ peut être que ça fait longtemps
+
+171
+00:17:18,210 --> 017:20.7,,P0
+: Marked=0,0:17:18.21,17:20.71,Previously,171,0000,0000,0000, mais on oublie pas comment faire
+
+172
+00:17:20,880 --> 017:23.5,,P0
+: Marked=0,0:17:20.88,17:23.55,Previously,172,0000,0000,0000, on le fait juste
+
+173
+00:17:23,920 --> 017:27.1,,P0
+ ok ?
+
+174
+00:17:27,660 --> 017:28.8,,P0
+: Marked=0,0:17:27.66,17:28.89,Previously,174,0000,0000,0000, donc c’est parti
+
+175
+00:17:31,730 --> 017:33.9,,P0
+: Marked=0,0:17:31.73,17:33.90,Previously,175,0000,0000,0000, ça risque de faire un peu mal
+
+176
+00:17:41,640 --> 017:44.0,,P0
+: Marked=0,0:17:41.64,17:44.04,Previously,176,0000,0000,0000, mais qu’est-ce qui se passe ?
+
+177
+00:17:49,410 --> 017:51.6,,P0
+: Marked=0,0:17:49.41,17:51.62,Previously,177,0000,0000,0000, Mon Dieu c’est un grand milk-shake
+
+178
+00:17:51,780 --> 017:57.0,,P0
+: Marked=0,0:17:51.78,17:57.06,Previously,178,0000,0000,0000, je sais que ça fait parti de notre grande journée "film et milk-shake"
+
+179
+00:17:58,330 --> 018:00.6,,P0
+: Marked=0,0:17:58.33,18:00.63,Previously,179,0000,0000,0000, Mon Dieu c’est un grand milk-shake
+
+180
+00:18:00,860 --> 018:02.9,,P0
+: Marked=0,0:18:00.86,18:02.93,Previously,180,0000,0000,0000, ça aide à faire passer les Raisinettes
+
+181
+00:18:03,300 --> 018:08.6,,P0
+: Marked=0,0:18:03.30,18:08.64,Previously,181,0000,0000,0000, promets moi que tu mangeras quelque chose de vert ce soir.
+Vert feuille et pas vert gum
+
+182
+00:18:11,610 --> 018:12.9,,P0
+: Marked=0,0:18:11.61,18:12.98,Previously,182,0000,0000,0000, le film était sympa
+
+183
+00:18:14,180 --> 018:18.3,,P0
+: Marked=0,0:18:14.18,18:18.38,Previously,183,0000,0000,0000, c’était ironique quand tous ces gosses du centre ville ont appris à leur entraîneur une leçon mémorable
+
+184
+00:18:19,280 --> 018:21.5,,P0
+: Marked=0,0:18:19.28,18:21.59,Previously,184,0000,0000,0000, tu sais que je serai toujours là pour toi hein ?
+
+185
+00:18:22,820 --> 018:26.4,,P0
+: Marked=0,0:18:22.82,18:26.42,Previously,185,0000,0000,0000, ça avait plus d’impact quand je m’entraînais à dire ça à la maison
+
+186
+00:18:28,790 --> 018:29.9,,P0
+: Marked=0,0:18:28.79,18:29.96,Previously,186,0000,0000,0000, je sais
+
+187
+00:18:30,460 --> 018:32.8,,P0
+: Marked=0,0:18:30.46,18:32.83,Previously,187,0000,0000,0000, c’est juste que
+
+188
+00:18:32,970 --> 018:35.0,,P0
+: Marked=0,0:18:32.97,18:35.00,Previously,188,0000,0000,0000, je veux que tu saches que ...
+
+189
+00:18:35,240 --> 018:37.2,,P0
+: Marked=0,0:18:35.24,18:37.24,Previously,189,0000,0000,0000, mon déménagement n’a rien à voir avec toi ...
+
+190
+00:18:37,340 --> 018:39.6,,P0
+: Marked=0,0:18:37.34,18:39.67,Previously,190,0000,0000,0000, et que je t’aimerai toujours
+
+191
+00:18:41,210 --> 018:42.2,,P0
+: Marked=0,0:18:41.21,18:42.28,Previously,191,0000,0000,0000, je sais
+
+192
+00:18:46,210 --> 018:49.6,,P0
+: Marked=0,0:18:46.21,18:49.65,Previously,192,0000,0000,0000, -tu penses que vous vous réconcilierez ?  
+-j’aimerais le savoir
+
+193
+00:18:51,690 --> 018:54.9,,P0
+: Marked=0,0:18:51.69,18:54.93,Previously,193,0000,0000,0000, -mais tu l’aimes toujours 
+-beaucoup mais ...
+
+194
+00:18:56,760 --> 019:00.5,,P0
+: Marked=0,0:18:56.76,19:00.53,Previously,194,0000,0000,0000, parfois d’autres choses se mettent sur le chemin
+
+195
+00:19:02,230 --> 019:03.8,,P0
+: Marked=0,0:19:02.23,19:03.84,Previously,195,0000,0000,0000, je sais
+
+196
+00:19:05,540 --> 019:07.6,,P0
+: Marked=0,0:19:05.54,19:07.67,Previously,196,0000,0000,0000, elle va beaucoup mieux dernièrement
+
+197
+00:19:07,740 --> 019:12.1,,P0
+: Marked=0,0:19:07.74,19:12.15,Previously,197,0000,0000,0000, elle fait beaucoup plus attention ... au sujet des choses
+
+198
+00:19:13,550 --> 019:18.6,,P0
+ génial, c’est génial
+
+199
+00:19:21,790 --> 019:24.6,,P0
+ ils disent que le gardien va s’en sortir
+
+200
+00:19:24,860 --> 019:28.0,,P0
+: Marked=0,0:19:24.86,19:28.00,Previously,200,0000,0000,0000, ils ont utilisé des sèche-cheveux
+
+201
+00:19:28,660 --> 019:32.7,,P0
+ son système nerveux, son système respiratoire,
+
+202
+00:19:32,900 --> 019:34.4,,P0
+: Marked=0,0:19:32.90,19:34.47,Previously,202,0000,0000,0000, il est toujours inconscient
+
+203
+00:19:36,440 --> 019:41.9,,P0
+ le texte que je voulais, Giles est parti avec
+
+204
+00:19:42,280 --> 019:46.5,,P0
+: Marked=0,0:19:42.28,19:46.59,Previously,204,0000,0000,0000, il a ce truc : détenir un livre = c’est sa propriété
+
+205
+00:19:48,590 --> 019:50.9,,P0
+: Marked=0,0:19:48.59,19:50.99,Previously,205,0000,0000,0000, qu’est ce qu’on fait ? on devrait l’appeler ?
+
+206
+00:19:51,790 --> 019:54.1,,P0
+: Marked=0,0:19:51.79,19:54.16,Previously,206,0000,0000,0000, c’est le milieu de la nuit dernière là-bas
+
+207
+00:19:54,260 --> 019:57.2,,P0
+ quelqu’un se souvient comment ça marche ?
+
+208
+00:19:57,970 --> 020:00.7,,P0
+ personne ne panique, on va juste agir différemment
+
+209
+00:20:01,870 --> 020:04.3,,P0
+: Marked=0,0:20:01.87,20:04.34,Previously,209,0000,0000,0000, je ne pense pas qu’on ait besoin d’un sort ...
+
+210
+00:20:09,450 --> 020:12.9,,P0
+ l’équipement du petit hacker confirmé
+
+211
+00:20:13,180 --> 020:15.7,,P0
+ ça faisait longtemps que ne t’avais pas vu l’utiliser
+
+212
+00:20:19,120 --> 020:20.9,,P0
+: Marked=0,0:20:19.12,20:20.96,Previously,212,0000,0000,0000, je ne me souviens pas de ce passage
+
+213
+00:20:22,560 --> 020:25.9,,P0
+ ça va me prendre une seconde pour atteindre les fichiers
+
+214
+00:20:26,130 --> 020:28.7,,P0
+ "rapport interne de police"
+
+215
+00:20:29,370 --> 020:33.0,,P0
+ un gros
+
+216
+00:20:33,470 --> 020:35.8,,P0
+: Marked=0,0:20:33.47,20:35.84,Previously,216,0000,0000,0000, un prêt d'un musée anglais
+
+217
+00:20:37,780 --> 020:41.1,,P0
+: Marked=0,0:20:37.78,20:41.12,Previously,217,0000,0000,0000, ils cherchent toujours des infos sur les voleurs
+
+218
+00:20:42,720 --> 020:44.5,,P0
+ il est joli, il y a une photo
+
+219
+00:20:45,620 --> 020:50.4,,P0
+: Marked=0,0:20:45.62,20:50.49,Previously,219,0000,0000,0000, c’est un diamant super naturel ? style pouvoir de soins ou de chance ?
+
+220
+00:20:51,060 --> 020:54.2,,P0
+ les diamants sont excellents pour les malédictions
+
+221
+00:20:54,870 --> 020:56.5,,P0
+: Marked=0,0:20:54.87,20:56.57,Previously,221,0000,0000,0000, continuons à chercher
+
+222
+00:20:58,240 --> 021:05.6,,P0
+ je suis sûr que ça doit être fatiguant le truc que tu fais
+
+223
+00:21:08,480 --> 021:11.2,,P0
+ ça va qu’est ce qui ...
+
+224
+00:21:11,350 --> 021:13.8,,P0
+ c’est trop bizarre
+
+225
+00:21:14,060 --> 021:18.2,,P0
+: Marked=0,0:21:14.06,21:18.26,Previously,225,0000,0000,0000, tu es toute "la la la" avec la magie et la non parole comme si tout était normal
+
+226
+00:21:18,430 --> 021:22.3,,P0
+: Marked=0,0:21:18.43,21:22.30,Previously,226,0000,0000,0000, alors qu’on sait tous que Tara t’a plaquée et que tout le monde a peur de te dire quoi que ce soit
+
+227
+00:21:24,570 --> 021:25.7,,P0
+: Marked=0,0:21:24.57,21:25.70,Previously,227,0000,0000,0000, à part moi
+
+228
+00:21:26,970 --> 021:29.6,,P0
+: Marked=0,0:21:26.97,21:29.61,Previously,228,0000,0000,0000, c’est sur "ce truc que je fais" que tu chantais ?
+
+229
+00:21:30,370 --> 021:33.3,,P0
+ ça va, c’est dur
+
+230
+00:21:34,180 --> 021:35.9,,P0
+: Marked=0,0:21:34.18,21:35.98,Previously,230,0000,0000,0000, mais c’est mieux ainsi
+
+231
+00:21:36,620 --> 021:40.5,,P0
+: Marked=0,0:21:36.62,21:40.55,Previously,231,0000,0000,0000, les petits détails commençaient à prendre le dessus
+
+232
+00:21:40,820 --> 021:44.2,,P0
+ mais on avait un point de vue différent
+
+233
+00:21:44,460 --> 021:47.0,,P0
+: Marked=0,0:21:44.46,21:47.09,Previously,233,0000,0000,0000, et tout a été exagéré
+
+234
+00:21:47,760 --> 021:52.6,,P0
+ vraiment
+
+235
+00:21:54,640 --> 021:58.6,,P0
+ je ne veux pas laisser Amy toute seule dans la maison trop longtemps
+
+236
+00:21:59,380 --> 022:03.3,,P0
+ est ce qu’elle … ? comment elle s’adapte ?
+
+237
+00:22:04,050 --> 022:05.4,,P0
+: Marked=0,0:22:04.05,22:05.42,Previously,237,0000,0000,0000, c’est dur à dire
+
+238
+00:22:05,880 --> 022:07.5,,P0
+: Marked=0,0:22:05.88,22:07.58,Previously,238,0000,0000,0000, c’est beaucoup à encaisser
+
+239
+00:22:07,850 --> 022:10.7,,P0
+: Marked=0,0:22:07.85,22:10.72,Previously,239,0000,0000,0000, je continue de m’attendre à ce qu’elle fasse des trucs de rat
+
+240
+00:22:10,990 --> 022:15.9,,P0
+ déchirer le journal, laisser des petites crottes dans les coins
+
+241
+00:22:16,560 --> 022:19.6,,P0
+ ne la laissons pas seule dans la maison trop longtemps
+
+242
+00:22:21,770 --> 022:23.7,,P0
+: Marked=0,0:22:21.77,22:23.74,Previously,242,0000,0000,0000, je ne savais pas qu’il serait si étincelant
+
+243
+00:22:24,100 --> 022:25.6,,P0
+: Marked=0,0:22:24.10,22:25.61,Previously,243,0000,0000,0000, et si gros
+
+244
+00:22:26,170 --> 022:29.7,,P0
+: Marked=0,0:22:26.17,22:29.78,Previously,244,0000,0000,0000, et oui messieurs il s’avère que la taille fait tout
+
+245
+00:22:30,440 --> 022:31.7,,P0
+: Marked=0,0:22:30.44,22:31.71,Previously,245,0000,0000,0000, ne le prends pas mal
+
+246
+00:22:32,710 --> 022:34.4,,P0
+: Marked=0,0:22:32.71,22:34.45,Previously,246,0000,0000,0000, ça fait des couleurs avec la lumière
+
+247
+00:22:36,320 --> 022:39.4,,P0
+ je crois qu’on a fini la première partie, c’est le moment de la 2e phase
+
+248
+00:22:39,720 --> 022:41.2,,P0
+: Marked=0,0:22:39.72,22:41.29,Previously,248,0000,0000,0000, -le ****** ? 
+-check
+
+249
+00:22:50,770 --> 022:52.7,,P0
+ ça s’appelle frapper à la porte
+
+250
+00:22:53,100 --> 022:57.9,,P0
+ tu dois regarder ma puce
+
+251
+00:22:58,310 --> 023:03.6,,P0
+ la puce dans ma tête
+
+252
+00:23:03,750 --> 023:05.3,,P0
+: Marked=0,0:23:03.75,23:05.35,Previously,252,0000,0000,0000, on est un peu en plein milieu de quelque chose là
+
+253
+00:23:05,490 --> 023:08.5,,P0
+ mais maintenant c’est moi le chef
+
+254
+00:23:09,320 --> 023:13.3,,P0
+: Marked=0,0:23:09.32,23:13.33,Previously,254,0000,0000,0000, qu’est-ce que tu vas faire si on n’a pas vraiment envie ?
+
+255
+00:23:13,430 --> 023:14.6,,P0
+: Marked=0,0:23:13.43,23:14.60,Previously,255,0000,0000,0000, qu’est-ce que tu fais ?
+
+256
+00:23:15,460 --> 023:20.8,,P0
+: Marked=0,0:23:15.46,23:20.87,Previously,256,0000,0000,0000, examine ma puce sinon M.Fett ici présent sera le premier à mourir
+
+257
+00:23:21,070 --> 023:28.0,,P0
+ ne faisons rien de fou 
+-c’est une édition limitée de 1979 de Boba Fett
+
+258
+00:23:28,410 --> 023:30.5,,P0
+ calmos
+
+259
+00:23:31,420 --> 023:35.5,,P0
+ tu sais que tu ne veux pas faire ça
+
+260
+00:23:35,820 --> 023:38.5,,P0
+: Marked=0,0:23:35.82,23:38.56,Previously,260,0000,0000,0000, ce que je veux c’est des réponses
+
+261
+00:23:38,730 --> 023:44.3,,P0
+ mais tu ne veux pas blesser le Fett, car tu n’en reviendras pas si tu le fais
+
+262
+00:23:44,430 --> 023:47.2,,P0
+: Marked=0,0:23:44.43,23:47.24,Previously,262,0000,0000,0000, tu sais tu ne peux pas juste le faire et ensuite partir comme si de rien n’était
+
+263
+00:23:47,370 --> 023:49.2,,P0
+: Marked=0,0:23:47.37,23:49.24,Previously,263,0000,0000,0000, vraiment ? on va voir
+
+264
+00:23:49,340 --> 023:50.9,,P0
+ une seconde
+
+265
+00:23:52,370 --> 023:53.7,,P0
+ je pense que c’est Spike
+
+266
+00:23:53,980 --> 023:57.2,,P0
+ complètement capable d’arracher cette tête
+
+267
+00:23:57,650 --> 023:58.8,,P0
+: Marked=0,0:23:57.65,23:58.85,Previously,267,0000,0000,0000, je vais aller l’aider
+
+268
+00:23:59,020 --> 024:02.5,,P0
+: Marked=0,0:23:59.02,24:02.55,Previously,268,0000,0000,0000, tu es sûr qu’on peut lui faire confiance ? on a aussi des têtes
+
+269
+00:24:02,820 --> 024:07.9,,P0
+ il nous rendra l’appareil, avec Spike de notre coté on aura des infos sur Buffy
+
+270
+00:24:08,060 --> 024:11.4,,P0
+: Marked=0,0:24:08.06,24:11.43,Previously,270,0000,0000,0000, on peut être même trouver un moyen de la mettre hors circuit elle aussi
+
+271
+00:24:11,630 --> 024:13.6,,P0
+ est-ce qu’on peut lui faire confiance ?
+
+272
+00:24:13,870 --> 024:17.5,,P0
+: Marked=0,0:24:13.87,24:17.57,Previously,272,0000,0000,0000, bien sûr que non. Mais les alliances ne reposent pas sur la confiance
+
+273
+00:24:17,740 --> 024:21.3,,P0
+ on a besoin de lui, c’est comme ça que ça marche
+
+274
+00:24:22,540 --> 024:24.8,,P0
+ d’accord ?
+
+275
+00:24:27,680 --> 024:29.1,,P0
+: Marked=0,0:24:27.68,24:29.18,Previously,275,0000,0000,0000, fais ce que tu as à faire
+
+276
+00:24:31,790 --> 024:36.8,,P0
+ je vais jeter un œil à ta puce et on aura un marché
+
+277
+00:24:37,260 --> 024:40.9,,P0
+: Marked=0,0:24:37.26,24:40.93,Previously,277,0000,0000,0000, -on te gratte le dos … 
+-je ne gratte rien du tout
+
+278
+00:24:41,070 --> 024:44.9,,P0
+ ok ?
+
+279
+00:24:45,540 --> 024:48.0,,P0
+: Marked=0,0:24:45.54,24:48.01,Previously,279,0000,0000,0000, c’est parti
+
+280
+00:24:52,510 --> 024:55.7,,P0
+ tout va bien se passer
+
+281
+00:25:04,390 --> 025:08.1,,P0
+: Marked=0,0:25:04.39,25:08.10,Previously,281,0000,0000,0000, Dieu merci tu es de retour. Je ne pensais pas que tu serais absente si longtemps
+
+282
+00:25:08,260 --> 025:10.8,,P0
+: Marked=0,0:25:08.26,25:10.83,Previously,282,0000,0000,0000, -moi non plus je pensais … 
+-allons quelque part
+
+283
+00:25:11,800 --> 025:13.5,,P0
+: Marked=0,0:25:11.80,25:13.54,Previously,283,0000,0000,0000, tu ne veux pas aller voir ton père ?
+
+284
+00:25:13,640 --> 025:19.0,,P0
+ je ne peux pas, pas encore, trop de questions
+
+285
+00:25:19,540 --> 025:21.0,,P0
+: Marked=0,0:25:19.54,25:21.01,Previously,285,0000,0000,0000, à propos d’où tu étais
+
+286
+00:25:21,310 --> 025:24.0,,P0
+ plutôt comment c’est arrivé
+
+287
+00:25:25,650 --> 025:28.5,,P0
+: Marked=0,0:25:25.65,25:28.52,Previously,287,0000,0000,0000, j’aimerai connaître un moyen de lui faire oublier les trois dernières années
+
+288
+00:25:29,090 --> 025:30.9,,P0
+: Marked=0,0:25:29.09,25:30.99,Previously,288,0000,0000,0000, je peux faire ça
+
+289
+00:25:31,390 --> 025:35.5,,P0
+: Marked=0,0:25:31.39,25:35.50,Previously,289,0000,0000,0000, mais tu devrais écrire ton nom sur tes vêtements
+
+290
+00:25:37,230 --> 025:39.9,,P0
+: Marked=0,0:25:37.23,25:39.90,Previously,290,0000,0000,0000, je ne veux quand même pas le rencontrer maintenant
+
+291
+00:25:40,130 --> 025:43.2,,P0
+: Marked=0,0:25:40.13,25:43.20,Previously,291,0000,0000,0000, je pourrai m’ennuyer
+
+292
+00:25:45,310 --> 025:47.1,,P0
+ sortons d’ici
+
+293
+00:25:48,180 --> 025:50.3,,P0
+: Marked=0,0:25:48.18,25:50.38,Previously,293,0000,0000,0000, qu’est-ce que tu veux faire ?
+
+294
+00:25:51,810 --> 025:54.1,,P0
+ quelque chose de marrant
+
+295
+00:25:54,250 --> 025:56.9,,P0
+ tant qu’il n’y a pas de grande roue
+
+296
+00:25:57,520 --> 026:03.1,,P0
+: Marked=0,0:25:57.52,26:03.16,Previously,296,0000,0000,0000, ou peut tu préfèrerais rester à la maison toute la nuit
+
+297
+00:26:03,230 --> 026:05.6,,P0
+ comme à l’époque du lycée
+
+298
+00:26:06,300 --> 026:10.7,,P0
+ tu sais quoi ? je peux m’amuser
+
+299
+00:26:11,170 --> 026:14.4,,P0
+: Marked=0,0:26:11.17,26:14.44,Previously,299,0000,0000,0000, -je mérite de m’amuser 
+-tout à fait
+
+300
+00:26:15,080 --> 026:18.7,,P0
+ pas comme si je devais quelque chose à qui que ce soit
+
+301
+00:26:19,010 --> 026:20.8,,P0
+: Marked=0,0:26:19.01,26:20.88,Previously,301,0000,0000,0000, je suis totalement libre
+
+302
+00:26:21,150 --> 026:23.8,,P0
+: Marked=0,0:26:21.15,26:23.82,Previously,302,0000,0000,0000, allons rencontrer le fun
+
+303
+00:26:37,000 --> 026:38.6,,P0
+: Marked=0,0:26:37.00,26:38.64,Previously,303,0000,0000,0000, tu es anglais hein ?
+
+304
+00:26:42,140 --> 026:47.3,,P0
+: Marked=0,0:26:42.14,26:47.35,Previously,304,0000,0000,0000, j’ai vu tous les épisodes de "Dr Who". Pas "Red Dwarf" cependant …
+
+305
+00:26:48,580 --> 026:54.5,,P0
+ c’est pas encore sorti en DVD
+
+306
+00:26:55,520 --> 026:56.7,,P0
+: Marked=0,0:26:55.52,26:56.79,Previously,306,0000,0000,0000, Warren !!
+
+307
+00:26:56,890 --> 027:00.2,,P0
+: Marked=0,0:26:56.89,27:00.23,Previously,307,0000,0000,0000, -je suis là 
+-ça a été bien long
+
+308
+00:27:02,330 --> 027:04.5,,P0
+: Marked=0,0:27:02.33,27:04.53,Previously,308,0000,0000,0000, aide moi Spock je ne parle pas le nullos
+
+309
+00:27:07,270 --> 027:09.0,,P0
+: Marked=0,0:27:07.27,27:09.04,Previously,309,0000,0000,0000, ta puce fonctionne bien
+
+310
+00:27:11,380 --> 027:13.2,,P0
+: Marked=0,0:27:11.38,27:13.28,Previously,310,0000,0000,0000, -il doit y avoir quelque chose qui marche pas 
+-non
+
+311
+00:27:13,840 --> 027:16.5,,P0
+: Marked=0,0:27:13.84,27:16.58,Previously,311,0000,0000,0000, je ne sais pas ce que cette chose fait
+
+312
+00:27:17,480 --> 027:19.0,,P0
+: Marked=0,0:27:17.48,27:19.02,Previously,312,0000,0000,0000, j’aimerais bien
+
+313
+00:27:19,120 --> 027:21.5,,P0
+ ça marche bien
+
+314
+00:27:21,620 --> 027:26.2,,P0
+ ce qui est normal
+
+315
+00:27:29,230 --> 027:32.0,,P0
+ c’est tout ici
+
+316
+00:27:32,230 --> 027:36.1,,P0
+ c’est vrai. C’est pas vraiment dur de s’en rendre compte mais ...
+
+317
+00:27:41,340 --> 027:46.9,,P0
+ à qui ? je ne sais même pas ce qui est censé se passer
+
+318
+00:27:47,150 --> 027:49.4,,P0
+: Marked=0,0:27:47.15,27:49.49,Previously,318,0000,0000,0000, il se passe que les règles ont changé
+
+319
+00:27:50,490 --> 027:52.5,,P0
+: Marked=0,0:27:50.49,27:52.52,Previously,319,0000,0000,0000, tout est différent maintenant
+
+320
+00:27:54,790 --> 027:58.4,,P0
+ mais quelque chose cloche chez elle
+
+321
+00:28:08,980 --> 028:11.9,,P0
+: Marked=0,0:28:08.98,28:11.98,Previously,321,0000,0000,0000, ….. elle est partie chez Xander pour faire des recherches
+
+322
+00:28:12,350 --> 028:14.4,,P0
+: Marked=0,0:28:12.35,28:14.48,Previously,322,0000,0000,0000, je ferais mieux de rentrer
+
+323
+00:28:14,780 --> 028:17.2,,P0
+: Marked=0,0:28:14.78,28:17.22,Previously,323,0000,0000,0000, ou tu peux rester ici et les attendre
+
+324
+00:28:17,420 --> 028:20.7,,P0
+: Marked=0,0:28:17.42,28:20.76,Previously,324,0000,0000,0000, comme ça tu auras l’occasion de reparler à … tout le monde
+
+325
+00:28:21,390 --> 028:23.6,,P0
+: Marked=0,0:28:21.39,28:23.66,Previously,325,0000,0000,0000, je ne pense pas que ce soit une si bonne idée
+
+326
+00:28:24,590 --> 028:26.4,,P0
+ comme tu veux
+
+327
+00:28:27,300 --> 028:30.3,,P0
+ jusqu’à ce qu’ils rentrent
+
+328
+00:28:33,200 --> 028:36.4,,P0
+: Marked=0,0:28:33.20,28:36.44,Previously,328,0000,0000,0000, tu as remarqué comme il fait nuit plus tôt ces derniers temps ?
+
+329
+00:28:38,640 --> 028:41.0,,P0
+: Marked=0,0:28:38.64,28:41.01,Previously,329,0000,0000,0000, un chat qui parle
+
+330
+00:28:43,250 --> 028:46.6,,P0
+ je reste, mais jusqu’à ce qu’ils rentrent
+
+331
+00:28:46,790 --> 028:48.9,,P0
+: Marked=0,0:28:46.79,28:48.99,Previously,331,0000,0000,0000, et uniquement pour être sûr que tu n’es pas seule
+
+332
+00:28:49,060 --> 028:52.1,,P0
+: Marked=0,0:28:49.06,28:52.19,Previously,332,0000,0000,0000, ça n’a rien à voir avec quelqu’un d’autre
+
+333
+00:28:52,760 --> 028:55.9,,P0
+ c’est cool, c’est toi qui vois
+
+334
+00:29:10,780 --> 029:13.7,,P0
+ Xander fiancé, je n’arrivais pas à y croire non plus
+
+335
+00:29:14,820 --> 029:16.2,,P0
+: Marked=0,0:29:14.82,29:16.26,Previously,335,0000,0000,0000, c’est tellement bizarre
+
+336
+00:29:16,890 --> 029:19.4,,P0
+: Marked=0,0:29:16.89,29:19.43,Previously,336,0000,0000,0000, à quoi elle ressemble?
+
+337
+00:29:20,790 --> 029:24.4,,P0
+ qui a peur des lapins
+
+338
+00:29:24,830 --> 029:26.3,,P0
+: Marked=0,0:29:24.83,29:26.30,Previously,338,0000,0000,0000, c’est tellement son genre
+
+339
+00:29:46,320 --> 029:47.7,,P0
+: Marked=0,0:29:46.32,29:47.79,Previously,339,0000,0000,0000, allons-y alors
+
+340
+00:29:48,790 --> 029:51.1,,P0
+ tu viens avec nous ?
+
+341
+00:29:52,130 --> 029:55.0,,P0
+ vas-y, je garde nos verres
+
+342
+00:29:55,570 --> 029:58.8,,P0
+ mais si tu veux quelque chose un peu plus dans ton style
+
+343
+00:30:00,670 --> 030:03.7,,P0
+: Marked=0,0:30:00.67,30:03.71,Previously,343,0000,0000,0000, je suis sûr qu’on peut arranger ça
+
+344
+00:30:06,150 --> 030:07.6,,P0
+: Marked=0,0:30:06.15,30:07.68,Previously,344,0000,0000,0000, non vraiment non
+
+345
+00:30:15,620 --> 030:18.6,,P0
+ je suis … 
+-Willow
+
+346
+00:30:19,160 --> 030:21.3,,P0
+: Marked=0,0:30:19.16,30:21.36,Previously,346,0000,0000,0000, joli haut
+
+347
+00:30:21,770 --> 030:23.3,,P0
+ merci mais non
+
+348
+00:30:23,430 --> 030:24.9,,P0
+: Marked=0,0:30:23.43,30:24.90,Previously,348,0000,0000,0000, tu es sûr ?
+
+349
+00:30:26,070 --> 030:29.4,,P0
+: Marked=0,0:30:26.07,30:29.44,Previously,349,0000,0000,0000, -je ne suis pas … 
+-c’est cool
+
+350
+00:30:33,380 --> 030:34.5,,P0
+: Marked=0,0:30:33.38,30:34.55,Previously,350,0000,0000,0000, désolée
+
+351
+00:30:38,250 --> 030:39.4,,P0
+: Marked=0,0:30:38.25,30:39.42,Previously,351,0000,0000,0000, on y va ?
+
+352
+00:30:40,720 --> 030:41.6,,P0
+: Marked=0,0:30:40.72,30:41.66,Previously,352,0000,0000,0000, t’es sûr que ça va aller ?
+
+353
+00:30:41,860 --> 030:43.7,,P0
+ ça va très bien
+
+354
+00:31:08,050 --> 031:13.0,,P0
+: Marked=0,0:31:08.05,31:13.09,Previously,354,0000,0000,0000, pas la peine de me regarder comme ça. Tu vas aller direct dans mon œsophage
+
+355
+00:31:14,930 --> 031:17.7,,P0
+ j’ai été un peu retenue
+
+356
+00:31:18,270 --> 031:19.8,,P0
+: Marked=0,0:31:18.27,31:19.80,Previously,356,0000,0000,0000, c’est pas grave
+
+357
+00:31:22,370 --> 031:27.6,,P0
+ si les rats savaient danser, ils rongeraient sûrement moins
+
+358
+00:31:30,110 --> 031:32.2,,P0
+ on vient juste de commencer
+
+359
+00:31:34,050 --> 031:38.2,,P0
+: Marked=0,0:31:34.05,31:38.26,Previously,359,0000,0000,0000, -je pense que je vais laisser passer celle là 
+-tu peux pas nous chauffer comme ça et …
+
+360
+00:31:39,020 --> 031:40.0,,P0
+: Marked=0,0:31:39.02,31:40.09,Previously,360,0000,0000,0000, je pense qu’elle a dit non
+
+361
+00:31:40,720 --> 031:43.4,,P0
+ Ellen
+
+362
+00:31:48,330 --> 031:50.7,,P0
+: Marked=0,0:31:48.33,31:50.74,Previously,362,0000,0000,0000, -tu veux danser ? 
+-c’est tout
+
+363
+00:31:50,970 --> 031:53.9,,P0
+ une danse relaxante
+
+364
+00:32:03,620 --> 032:07.6,,P0
+: Marked=0,0:32:03.62,32:07.62,Previously,364,0000,0000,0000, -Mon Dieu 
+-je crois que je me sens effectivement plus relaxée
+
+365
+00:32:08,760 --> 032:12.1,,P0
+: Marked=0,0:32:08.76,32:12.10,Previously,365,0000,0000,0000, je l’ai ! voilà notre méchant juste là
+
+366
+00:32:15,300 --> 032:16.2,,P0
+: Marked=0,0:32:15.30,32:16.23,Previously,366,0000,0000,0000, quoi ?
+
+367
+00:32:16,670 --> 032:18.9,,P0
+: Marked=0,0:32:16.67,32:18.97,Previously,367,0000,0000,0000, c’est un manuel "Dungeons & Dragons" chéri
+
+368
+00:32:19,370 --> 032:20.6,,P0
+: Marked=0,0:32:19.37,32:20.67,Previously,368,0000,0000,0000, non mais ça pourrait …
+
+369
+00:32:25,810 --> 032:28.9,,P0
+ nous ne découvrirons pas cette chose car elle n’existe pas
+
+370
+00:32:29,080 --> 032:31.9,,P0
+: Marked=0,0:32:29.08,32:31.92,Previously,370,0000,0000,0000, ça n’existe pas les monstres glaciés qui mangent des diamants
+
+371
+00:32:32,920 --> 032:34.6,,P0
+: Marked=0,0:32:32.92,32:34.69,Previously,371,0000,0000,0000, peut être qu’il ne les mange pas
+
+372
+00:32:34,890 --> 032:37.9,,P0
+: Marked=0,0:32:34.89,32:37.93,Previously,372,0000,0000,0000, peut être qu’il les trouve juste jolis
+
+373
+00:32:40,660 --> 032:41.8,,P0
+: Marked=0,0:32:40.66,32:41.80,Previously,373,0000,0000,0000, on est nul
+
+374
+00:32:42,830 --> 032:45.5,,P0
+ où est Willow ?
+
+375
+00:32:46,170 --> 032:47.7,,P0
+: Marked=0,0:32:46.17,32:47.74,Previously,375,0000,0000,0000, sortie avec Amy je suppose
+
+376
+00:32:48,100 --> 032:50.4,,P0
+ quelqu’un de plus avec qui faire de la magie
+
+377
+00:32:50,710 --> 032:53.1,,P0
+: Marked=0,0:32:50.71,32:53.14,Previously,377,0000,0000,0000, au moins elle n’est pas seule en train de pleurer
+
+378
+00:32:53,410 --> 032:54.6,,P0
+: Marked=0,0:32:53.41,32:54.65,Previously,378,0000,0000,0000, c’est toujours ça
+
+379
+00:32:55,480 --> 032:59.1,,P0
+: Marked=0,0:32:55.48,32:59.18,Previously,379,0000,0000,0000, j’avoue ne pas tout savoir ce qui s’est passé entre elle et Tara …
+
+380
+00:32:59,280 --> 033:03.4,,P0
+: Marked=0,0:32:59.28,33:03.49,Previously,380,0000,0000,0000, Tara pense que Willow fait trop de magie … et elle n’est pas la seule à penser ça
+
+381
+00:33:03,790 --> 033:04.6,,P0
+: Marked=0,0:33:03.79,33:04.69,Previously,381,0000,0000,0000, je sais
+
+382
+00:33:04,990 --> 033:09.8,,P0
+ c’est Willow, c’est l’intello du groupe
+
+383
+00:33:10,060 --> 033:13.6,,P0
+: Marked=0,0:33:10.06,33:13.60,Previously,383,0000,0000,0000, c’est ceux là qu’il faut le plus surveiller. Les gens responsables
+
+384
+00:33:14,270 --> 033:17.4,,P0
+ elle pourrait devenir folle et commencer à tout ranger alphabétiquement
+
+385
+00:33:17,740 --> 033:22.8,,P0
+ les gens responsables sont tellement pris par le fait de tout le temps bien se tenir
+
+386
+00:33:22,980 --> 033:26.2,,P0
+ ils ne peuvent plus s’en passer
+
+387
+00:33:26,280 --> 033:27.9,,P0
+: Marked=0,0:33:26.28,33:27.92,Previously,387,0000,0000,0000, ça fait Kaboum
+
+388
+00:33:28,480 --> 033:32.0,,P0
+ plutôt Bam
+
+389
+00:33:32,590 --> 033:34.1,,P0
+: Marked=0,0:33:32.59,33:34.16,Previously,389,0000,0000,0000, c’est la nature humaine Buff
+
+390
+00:33:34,760 --> 033:38.0,,P0
+ bien plus qu’elle
+
+391
+00:33:38,560 --> 033:43.2,,P0
+: Marked=0,0:33:38.56,33:43.20,Previously,391,0000,0000,0000, et elle était surveillée avant que Tara ne parte … maintenant qu’elle n’est plus là
+
+392
+00:33:43,400 --> 033:47.3,,P0
+ juste se laisser allé là dedans, devenir sauvage
+
+393
+00:33:48,370 --> 033:50.3,,P0
+: Marked=0,0:33:48.37,33:50.38,Previously,393,0000,0000,0000, on doit la surveiller
+
+394
+00:33:50,880 --> 033:53.8,,P0
+ on la surveillera
+
+395
+00:33:54,280 --> 033:57.2,,P0
+ parfois …
+
+396
+00:34:03,730 --> 034:04.9,,P0
+ "Magic Box"
+
+397
+00:34:05,230 --> 034:06.8,,P0
+: Marked=0,0:34:05.23,34:06.83,Previously,397,0000,0000,0000, Tueuse
+
+398
+00:34:09,000 --> 034:14.5,,P0
+ dans 20 minutes, viens seule
+
+399
+00:34:19,340 --> 034:20.8,,P0
+ c’est moi
+
+400
+00:34:21,580 --> 034:25.3,,P0
+: Marked=0,0:34:21.58,34:25.35,Previously,400,0000,0000,0000, -tu m’appelles au téléphone ? 
+-contente  toi d’être là
+
+401
+00:34:25,890 --> 034:31.0,,P0
+: Marked=0,0:34:25.89,34:31.06,Previously,401,0000,0000,0000, pourquoi ? tu m’aides de nouveau ?
+tu as une piste sur ce monstre réfrigérant ?
+
+402
+00:34:31,430 --> 034:33.0,,P0
+ oui
+
+403
+00:34:33,630 --> 034:35.8,,P0
+: Marked=0,0:34:33.63,34:35.80,Previously,403,0000,0000,0000, je pensais que tu serais d’attaque pour un peu de grognements
+
+404
+00:34:36,400 --> 034:39.3,,P0
+: Marked=0,0:34:36.40,34:39.30,Previously,404,0000,0000,0000, quoi ? non ! pas de grognements
+
+405
+00:34:41,370 --> 034:44.9,,P0
+ mais si tu as une autre idée en tête …
+
+406
+00:34:45,040 --> 034:48.2,,P0
+ moi, un petit tombeau douillet avec une belle vue
+
+407
+00:34:53,620 --> 034:56.1,,P0
+ qu’est-ce que Capitaine Peroxyde voulait ?
+
+408
+00:34:56,250 --> 035:02.3,,P0
+ il voulait juste savoir si je voulais patrouiller, pour le monstre
+
+409
+00:35:02,830 --> 035:05.9,,P0
+: Marked=0,0:35:02.83,35:05.97,Previously,409,0000,0000,0000, mais je lui ai dit que … non
+
+410
+00:35:09,540 --> 035:12.6,,P0
+ je pense qu’il y a quelque chose sur cette chose
+
+411
+00:35:12,770 --> 035:15.7,,P0
+ on dirait qu’on a fait tous les livres
+
+412
+00:35:16,040 --> 035:20.1,,P0
+: Marked=0,0:35:16.04,35:20.18,Previously,412,0000,0000,0000, -même ceux qui ne sont pas ennuyeux à mourir 
+-on en a ?
+
+413
+00:35:20,220 --> 035:23.2,,P0
+: Marked=0,0:35:20.22,35:23.25,Previously,413,0000,0000,0000, je dis juste que toutes les choses qui se sont produites dernièrement …
+
+414
+00:35:23,420 --> 035:27.2,,P0
+ le hold-up de bijou … 
+-le bout de pull qui explose
+
+415
+00:35:27,520 --> 035:31.0,,P0
+: Marked=0,0:35:27.52,35:31.06,Previously,415,0000,0000,0000, -c’est moi ou tout ça semble vraiment … 
+-nase ?
+
+416
+00:35:32,200 --> 035:34.7,,P0
+: Marked=0,0:35:32.20,35:34.73,Previously,416,0000,0000,0000, j’aillais dire inhabituel mais ouais
+
+417
+00:35:36,740 --> 035:39.0,,P0
+ je vais aller patrouiller vite fait
+
+418
+00:35:39,140 --> 035:41.4,,P0
+: Marked=0,0:35:39.14,35:41.41,Previously,418,0000,0000,0000, et après une bonne nuit de sommeil on trouvera la solution demain
+
+419
+00:35:41,640 --> 035:43.7,,P0
+ je me souviens de l’optimisme
+
+420
+00:35:43,910 --> 035:45.8,,P0
+: Marked=0,0:35:43.91,35:45.88,Previously,420,0000,0000,0000, c’est parce que tu as 1000 ans
+
+421
+00:35:46,180 --> 035:47.4,,P0
+: Marked=0,0:35:46.18,35:47.41,Previously,421,0000,0000,0000, bonne nuit
+
+422
+00:35:54,390 --> 035:57.7,,P0
+: Marked=0,0:35:54.39,35:57.73,Previously,422,0000,0000,0000, -Tueuse 
+-et maintenant ma nuit est complète
+
+423
+00:35:57,830 --> 035:59.2,,P0
+: Marked=0,0:35:57.83,35:59.20,Previously,423,0000,0000,0000, tu n’es pas venue
+
+424
+00:35:59,460 --> 036:01.9,,P0
+ j’étais occupée à faire des choses
+
+425
+00:36:02,370 --> 036:04.1,,P0
+: Marked=0,0:36:02.37,36:04.13,Previously,425,0000,0000,0000, tu ne devrais pas être si effrontée chérie
+
+426
+00:36:04,270 --> 036:06.2,,P0
+ marcher derrière moi jusqu’à ce que j’en meure ?
+
+427
+00:36:06,370 --> 036:08.7,,P0
+: Marked=0,0:36:06.37,36:08.71,Previously,427,0000,0000,0000, je dis juste que les choses pourraient avoir changées
+
+428
+00:36:09,410 --> 036:11.1,,P0
+: Marked=0,0:36:09.41,36:11.14,Previously,428,0000,0000,0000, tu devrais faire attention
+
+429
+00:36:12,110 --> 036:13.2,,P0
+: Marked=0,0:36:12.11,36:13.28,Previously,429,0000,0000,0000, assez
+
+430
+00:36:15,750 --> 036:17.0,,P0
+: Marked=0,0:36:15.75,36:17.02,Previously,430,0000,0000,0000, dégage de là
+
+431
+00:36:17,850 --> 036:19.1,,P0
+: Marked=0,0:36:17.85,36:19.19,Previously,431,0000,0000,0000, ou quoi ?
+
+432
+00:36:31,300 --> 036:35.8,,P0
+ la douleur ! la douleur … est partie
+
+433
+00:36:36,940 --> 036:39.1,,P0
+: Marked=0,0:36:36.94,36:39.11,Previously,433,0000,0000,0000, devine ce que je viens de découvrir
+
+434
+00:36:40,080 --> 036:42.8,,P0
+ mon amour
+
+435
+00:36:43,710 --> 036:44.9,,P0
+: Marked=0,0:36:43.71,36:44.92,Previously,435,0000,0000,0000, comment ?
+
+436
+00:36:45,720 --> 036:49.1,,P0
+: Marked=0,0:36:45.72,36:49.19,Previously,436,0000,0000,0000, ne comprends tu pas ? ne vois tu pas ?
+
+437
+00:36:50,120 --> 036:52.0,,P0
+: Marked=0,0:36:50.12,36:52.09,Previously,437,0000,0000,0000, tu es revenue de travers
+
+438
+00:37:09,780 --> 037:12.6,,P0
+ tu as fait quelque chose à la puce
+
+439
+00:37:12,720 --> 037:15.0,,P0
+ ce n’est pas moi, c’est toi
+
+440
+00:37:15,180 --> 037:17.1,,P0
+: Marked=0,0:37:15.18,37:17.15,Previously,440,0000,0000,0000, juste toi en fait c’est ça qu’est marrant
+
+441
+00:37:17,550 --> 037:18.8,,P0
+: Marked=0,0:37:17.55,37:18.82,Previously,441,0000,0000,0000, tu es celle qui a changé
+
+442
+00:37:18,990 --> 037:20.8,,P0
+: Marked=0,0:37:18.99,37:20.86,Previously,442,0000,0000,0000, c’est pourquoi je n’ai pas mal
+
+443
+00:37:22,990 --> 037:25.3,,P0
+: Marked=0,0:37:22.99,37:25.36,Previously,443,0000,0000,0000, tu es revenue un peu moins humaine que tu ne l’étais
+
+444
+00:37:26,100 --> 037:27.4,,P0
+: Marked=0,0:37:26.10,37:27.40,Previously,444,0000,0000,0000, tu as tort
+
+445
+00:37:30,800 --> 037:32.6,,P0
+: Marked=0,0:37:30.80,37:32.64,Previously,445,0000,0000,0000, pourquoi es-tu aussi effrayée chérie ?
+
+446
+00:37:32,770 --> 037:34.9,,P0
+: Marked=0,0:37:32.77,37:34.97,Previously,446,0000,0000,0000, et pourquoi je peux … faire ça ?
+
+447
+00:37:40,550 --> 037:41.8,,P0
+: Marked=0,0:37:40.55,37:41.88,Previously,447,0000,0000,0000, tu as tort
+
+448
+00:38:12,250 --> 038:14.7,,P0
+: Marked=0,0:38:12.25,38:14.72,Previously,448,0000,0000,0000, cette musique n’est pas vraiment …
+
+449
+00:39:10,050 --> 039:12.0,,P0
+: Marked=0,0:39:10.05,39:12.09,Previously,449,0000,0000,0000, pauvre petite fille perdue
+
+450
+00:39:17,860 --> 039:20.7,,P0
+ elle n’a personne à aimer
+
+451
+00:39:25,340 --> 039:27.2,,P0
+: Marked=0,0:39:25.34,39:27.27,Previously,451,0000,0000,0000, moi ? je suis perdue ?
+
+452
+00:39:27,470 --> 039:29.2,,P0
+: Marked=0,0:39:27.47,39:29.24,Previously,452,0000,0000,0000, regarde toi espèce d’idiot
+
+453
+00:39:29,410 --> 039:33.1,,P0
+ peut pas être humain, peut pas être un vampire
+
+454
+00:39:33,610 --> 039:35.3,,P0
+: Marked=0,0:39:33.61,39:35.35,Previously,454,0000,0000,0000, où est-ce que tu t’intègres ?
+
+455
+00:39:40,520 --> 039:42.3,,P0
+: Marked=0,0:39:40.52,39:42.36,Previously,455,0000,0000,0000, ton boulot est de tuer la Tueuse
+
+456
+00:39:42,490 --> 039:46.7,,P0
+: Marked=0,0:39:42.49,39:46.70,Previously,456,0000,0000,0000, -mais tout ce que tu peux faire c’est me suivre et me faire les yeux doux 
+-je suis amoureux de toi
+
+457
+00:39:47,000 --> 039:49.8,,P0
+ admets le
+
+458
+00:39:50,270 --> 039:54.0,,P0
+: Marked=0,0:39:50.27,39:54.04,Previously,458,0000,0000,0000, tu m’aimes car tu aimes te faire tabasser
+
+459
+00:39:54,140 --> 039:55.9,,P0
+ qui est timbré ?
+
+460
+00:39:56,070 --> 039:57.8,,P0
+: Marked=0,0:39:56.07,39:57.84,Previously,460,0000,0000,0000, je suis un vampire !
+
+461
+00:39:59,610 --> 040:01.9,,P0
+: Marked=0,0:39:59.61,40:01.98,Previously,461,0000,0000,0000, je suis supposé être attiré par les choses maléfiques
+
+462
+00:40:10,420 --> 040:12.1,,P0
+: Marked=0,0:40:10.42,40:12.13,Previously,462,0000,0000,0000, quelle est ton excuse ?
+
+463
+00:40:28,210 --> 040:30.1,,P0
+: Marked=0,0:40:28.21,40:30.11,Previously,463,0000,0000,0000, on a fait tout ce qu’on pouvait
+
+464
+00:40:45,260 --> 040:48.6,,P0
+: Marked=0,0:40:45.26,40:48.60,Previously,464,0000,0000,0000, je me dis qu’il doit y avoir un endroit plus grand que ça
+
+465
+00:40:49,840 --> 040:53.4,,P0
+ il est bien trop tôt pour rentrer à la maison
+
+466
+00:40:59,780 --> 041:02.4,,P0
+: Marked=0,0:40:59.78,41:02.49,Previously,466,0000,0000,0000, je n’avais pas prévu de te faire mal … du moins pas autant
+
+467
+00:41:02,590 --> 041:04.4,,P0
+: Marked=0,0:41:02.59,41:04.42,Previously,467,0000,0000,0000, tu es encore loin de me faire mal
+
+468
+00:41:04,520 --> 041:06.1,,P0
+: Marked=0,0:41:04.52,41:06.16,Previously,468,0000,0000,0000, tu as peur de m’en laisser l’occasion ?
+
+469
+00:41:11,000 --> 041:12.3,,P0
+: Marked=0,0:41:11.00,41:12.30,Previously,469,0000,0000,0000, tu as peur que je …
+

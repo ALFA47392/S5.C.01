@@ -1,0 +1,4785 @@
+1
+00:00:01,970 --> 00:00:03,571
+Pourquoi le FBI colle-t'il
+toujours leurs morgues
+
+2
+00:00:03,638 --> 00:00:06,429
+dans le sous-sol le plus déprimant
+qu'il puisse trouver ?
+
+3
+00:00:06,464 --> 00:00:07,271
+Ne soyez pas si snob, Bones, okay ?
+
+4
+00:00:07,338 --> 00:00:08,785
+Tout le monde ne peut pas avoir
+
+5
+00:00:08,820 --> 00:00:11,004
+un labo qui vaut plusieurs millions de dollars,
+vous savez, avec des lucarnes...
+
+6
+00:00:11,071 --> 00:00:12,570
+C'est parce que, tout comme une société,
+
+7
+00:00:12,637 --> 00:00:14,654
+nous ressentons le besoin
+de cacher la mort.
+
+8
+00:00:14,689 --> 00:00:16,672
+Les personnes qui ont à faire avec la mort
+
+9
+00:00:16,707 --> 00:00:18,375
+sont considérées comme des monstres.
+
+10
+00:00:18,416 --> 00:00:19,630
+Ouais. J'ignore si c'est le fait du sous-sol,
+
+11
+00:00:19,702 --> 00:00:21,739
+mais ce type que vous allez rencontrer...
+Harry... il est un peu tordu.
+
+12
+00:00:21,766 --> 00:00:23,772
+Vous pensez probablement que j'éprouve
+une sorte de hâte quand je travaille,
+
+13
+00:00:23,834 --> 00:00:24,927
+que je suis émoustillée
+en quelque sorte.
+
+14
+00:00:24,956 --> 00:00:26,000
+Euh, choisissez vos mots, Bones,
+
+15
+00:00:26,077 --> 00:00:27,070
+choisissez vos mots.
+
+16
+00:00:31,208 --> 00:00:31,670
+Agent Booth.
+
+17
+00:00:31,738 --> 00:00:33,270
+Harry Tepper, voici le Dr. Temperance Brennan
+
+18
+00:00:33,336 --> 00:00:34,030
+du Jeffersonian.
+
+19
+00:00:34,107 --> 00:00:35,571
+Hmm, je l'ai lue.
+
+20
+00:00:36,075 --> 00:00:36,601
+Bonjour.
+
+21
+00:00:36,676 --> 00:00:37,671
+Elle est bonne.
+
+22
+00:00:38,226 --> 00:00:39,831
+J'ai aussi lu votre roman.
+
+23
+00:00:40,528 --> 00:00:42,301
+L'héroïne est très agressive.
+
+24
+00:00:42,378 --> 00:00:44,272
+Harry, vous voulez...?
+
+25
+00:00:48,115 --> 00:00:49,500
+Okay, tout le monde, voici Ted Macy.
+
+26
+00:00:49,576 --> 00:00:51,650
+Son corps a été trouvé au parc national.
+
+27
+00:00:51,696 --> 00:00:52,733
+Le coroner local l'a décrit comme étant
+
+28
+00:00:52,808 --> 00:00:54,432
+en quelque sorte une noyade accidentelle,
+
+29
+00:00:54,506 --> 00:00:55,773
+mais vous voyez, nous devons enquêter
+
+30
+00:00:55,847 --> 00:00:56,930
+sur toute mort survenue
+sur un terrain fédéral.
+
+31
+00:00:57,008 --> 00:00:58,572
+Durant mon examen,
+
+32
+00:00:58,635 --> 00:01:00,832
+j'ai découvert qu'il avait le larynx écrasé.
+
+33
+00:01:00,906 --> 00:01:02,070
+Ça ne m'as pas semblé accidentel.
+
+34
+00:01:02,076 --> 00:01:03,531
+C'est un corps
+
+35
+00:01:03,605 --> 00:01:04,833
+avec de la peau.
+
+36
+00:01:04,907 --> 00:01:05,671
+Elle est bonne.
+
+37
+00:01:05,737 --> 00:01:08,073
+Pourquoi suis-je ici ? Vous savez que
+je ne travaille pas avec de la peau.
+
+38
+00:01:08,076 --> 00:01:09,600
+Relax, Bones.
+
+39
+00:01:09,676 --> 00:01:11,251
+Je ne vous aie pas amenée ici
+pour que vous examiniez le corps.
+
+40
+00:01:11,286 --> 00:01:12,831
+Je veux que vous voyiez ce
+qu'ils ont trouvé dans la main.
+
+41
+00:01:13,585 --> 00:01:15,230
+Harry... l'os ?
+
+42
+00:01:21,085 --> 00:01:21,671
+Qu'est ce que c'est ?
+
+43
+00:01:22,547 --> 00:01:23,481
+C'est une phalange.
+
+44
+00:01:24,456 --> 00:01:25,402
+Un os de doigt.
+
+45
+00:01:25,448 --> 00:01:26,372
+Je pensais qu'elle savait ça.
+
+46
+00:01:26,438 --> 00:01:27,830
+Ouais, je pensais également
+
+47
+00:01:27,905 --> 00:01:28,972
+qu'un médecin légiste compétent
+
+48
+00:01:29,037 --> 00:01:30,603
+saurait ne pas compromettre une preuve.
+
+49
+00:01:30,678 --> 00:01:32,133
+Est-ce du Lysol IC ?
+
+50
+00:01:32,207 --> 00:01:33,802
+Nous l'utilisons pour décontaminer les restes.
+
+51
+00:01:33,875 --> 00:01:35,333
+Essayez-vous de briser
+
+52
+00:01:35,437 --> 00:01:37,312
+la surface périostique de l'os,
+
+53
+00:01:37,345 --> 00:01:38,871
+d'infliger des dégâts sur la moelle ?
+
+54
+00:01:38,906 --> 00:01:40,401
+Avez-vous dilué même ça ?
+
+55
+00:01:40,435 --> 00:01:41,022
+Bones...
+
+56
+00:01:41,056 --> 00:01:41,570
+Quoi ?!
+
+57
+00:01:41,616 --> 00:01:43,242
+Vous avez enlevé les particularités
+
+58
+00:01:43,277 --> 00:01:44,801
+et les oligo-élements qui auraient pu
+nous mener potentiellement
+
+59
+00:01:44,875 --> 00:01:46,230
+à son meurtrier.
+
+60
+00:01:46,305 --> 00:01:47,673
+Est-ce votre premier jour de travail ?
+
+61
+00:01:47,736 --> 00:01:50,252
+Dix-huit ans le mois prochain.
+
+62
+00:01:56,007 --> 00:01:57,473
+Elle est intense.
+
+63
+00:02:01,218 --> 00:02:01,831
+Amérindien.
+
+64
+00:02:01,906 --> 00:02:03,472
+Colon britannique.
+
+65
+00:02:03,536 --> 00:02:04,931
+Un révolutionnaire américain.
+
+66
+00:02:05,006 --> 00:02:06,020
+Eh, à quoi jouons-nous ?
+
+67
+00:02:06,068 --> 00:02:08,702
+Dr. Brennan, le destructeur de preuve est là.
+
+68
+00:02:08,777 --> 00:02:11,111
+D'accord, je suppose que c'est une plaisanterie,
+donc personne n'a été blessé.
+
+69
+00:02:11,148 --> 00:02:12,630
+Est-ce que Harry a vraiment esquinté cet os ?
+
+70
+00:02:12,708 --> 00:02:13,961
+Il a dissous toutes traces
+
+71
+00:02:13,996 --> 00:02:15,591
+de particules imprégnées sur la surface,
+
+72
+00:02:15,635 --> 00:02:17,401
+mais nous sommes toujours capables de sauver
+
+73
+00:02:17,475 --> 00:02:19,061
+quelques caractéristiques valables.
+
+74
+00:02:19,098 --> 00:02:19,372
+Comme quoi ?
+
+75
+00:02:19,438 --> 00:02:20,653
+Alternant des régions sclérotiques
+
+76
+00:02:20,697 --> 00:02:23,203
+et d'ostéoporomalacie
+sur la surface sous-périostée,
+
+77
+00:02:23,666 --> 00:02:25,852
+cela nous démontre que qui que ce soit
+
+78
+00:02:25,885 --> 00:02:28,031
+a souffert de syphilis tertiaire.
+
+79
+00:02:28,105 --> 00:02:29,802
+Syphilis tertiaire. Whoa.
+
+80
+00:02:29,875 --> 00:02:31,370
+Wow, c'est ce qui est de pire.
+
+81
+00:02:31,437 --> 00:02:33,932
+C'était  une maladie commune au 17e siècle.
+
+82
+00:02:33,977 --> 00:02:35,613
+De laquelle date cet os .
+
+83
+00:02:36,937 --> 00:02:37,291
+Que dîtes-vous ?
+
+84
+00:02:37,327 --> 00:02:40,173
+Nous avons fait une datation au radiocarbone.
+
+85
+00:02:40,235 --> 00:02:41,872
+Le doigt date de 300 ans.
+
+86
+00:02:41,936 --> 00:02:43,361
+C'est une découverte unique dans ce domaine.
+
+87
+00:02:43,406 --> 00:02:45,083
+Je vais changer pour un trappeur français.
+
+88
+00:02:45,125 --> 00:02:47,273
+Tu ne peux pas changer le tien.
+
+89
+00:02:47,338 --> 00:02:48,683
+Booth, où ont-ils trouvé la victime ?
+
+90
+00:02:48,725 --> 00:02:50,531
+Ils l'ont expédié d'une ville se trouvant
+
+91
+00:02:50,605 --> 00:02:51,970
+à côté d'une réserve fédérale
+en bord de mer :
+
+92
+00:02:52,037 --> 00:02:53,550
+Assateague Island.
+
+93
+00:02:53,596 --> 00:02:55,323
+C'est où se trouve Money Pit.
+
+94
+00:02:55,355 --> 00:02:56,432
+Money Pit ?
+
+95
+00:02:57,086 --> 00:02:57,830
+La légende dit que,
+
+96
+00:02:57,908 --> 00:03:01,491
+Assateague Island est l'endroit où
+Barbe Noire a enterré son trésor.
+
+97
+00:03:02,017 --> 00:03:02,660
+Pendant trois cents ans,
+
+98
+00:03:02,675 --> 00:03:04,101
+des gens ont essayé de le trouver.
+
+99
+00:03:04,147 --> 00:03:06,001
+Ils l'ont cherché jusqu'à quelque chose
+près comme 150 pieds,
+
+100
+00:03:06,078 --> 00:03:07,092
+mais ils n'ont rien trouvé.
+
+101
+00:03:07,126 --> 00:03:09,470
+A chaque fois qu'ils s'en rapprochent,
+ils déclenchent une explosion
+
+102
+00:03:09,535 --> 00:03:11,072
+ce qui inonde la fosse avec l'eau de mer.
+
+103
+00:03:11,135 --> 00:03:12,501
+- Ça les pièges.
+- Cool.
+
+104
+00:03:12,576 --> 00:03:14,503
+Le corps a été trouvé sur un site creusé.
+
+105
+00:03:14,577 --> 00:03:16,562
+C'est la première preuve concrète
+
+106
+00:03:16,598 --> 00:03:18,652
+que le trésor est plus qu'une légende.
+
+107
+00:03:19,115 --> 00:03:20,071
+Je parierai que c'est un des hommes
+
+108
+00:03:20,137 --> 00:03:21,403
+qui ont enterré le trésor.
+
+109
+00:03:21,478 --> 00:03:22,473
+Pure conjecture.
+
+110
+00:03:22,508 --> 00:03:23,633
+Pirate.
+
+111
+00:03:23,677 --> 00:03:24,472
+- Pirate ?
+- Pirate ?
+
+112
+00:03:24,535 --> 00:03:26,053
+C'est un pirate.
+
+113
+00:03:26,085 --> 00:03:27,230
+"Tu ne peux pas changer le tien".
+
+114
+00:03:27,307 --> 00:03:29,871
+Attendez ! Donc la victime trouve la preuve
+que le trésor existe.
+
+115
+00:03:30,436 --> 00:03:31,773
+Quelqu'un d'autre le veut
+entièrement pour lui.
+
+116
+00:03:32,386 --> 00:03:34,090
+Ça certainement...
+c'est un bon motif de meurtre.
+
+117
+00:03:34,125 --> 00:03:35,732
+Vous devez obtenir le droit de creuser le site
+pour voir ce que vous pouvez trouver d'autre.
+
+118
+00:03:35,737 --> 00:03:36,972
+Je serai heureux de vous aider.
+
+119
+00:03:37,038 --> 00:03:38,133
+C'est bon. Je-peux le gérer.
+
+120
+00:03:38,208 --> 00:03:39,431
+Allons mec, partage la fortune.
+
+121
+00:03:39,507 --> 00:03:42,870
+Nous cherchons des réponses,
+Jack, pas le trésor.
+
+122
+00:03:43,076 --> 00:03:44,762
+Pensez-vous vraiment que ce trésor
+existe là en bas ?
+
+123
+00:03:44,778 --> 00:03:45,230
+Qu'en pensez-vous ?
+
+124
+00:03:48,038 --> 00:03:49,871
+Pourquoi souriez-vous les gars ?
+
+125
+00:03:50,786 --> 00:03:52,432
+Pirates !
+
+126
+00:03:53,336 --> 00:03:55,462
+C'est un truc de mecs, chérie.
+
+127
+00:04:19,877 --> 00:04:21,603
+Alors, le type mort, Macy, dirigeait la fouille ?
+
+128
+00:04:22,458 --> 00:04:23,732
+Avec son associé, Hardewicke.
+
+129
+00:04:23,775 --> 00:04:25,802
+Ils  ont été engagés par quelqu'un
+qui a de l'argent à perdre.
+
+130
+00:04:26,137 --> 00:04:28,100
+Quoi, des gens feraient ça ?
+
+131
+00:04:28,147 --> 00:04:30,073
+Des gens sains d'esprit
+cherchent le trésor ?
+
+132
+00:04:30,277 --> 00:04:32,272
+Eh bien, ce n'est pas ce que
+font les archéologues ?
+
+133
+00:04:32,308 --> 00:04:34,970
+Les archéologues sont des scientifiques
+qui utilisent une preuve
+
+134
+00:04:35,007 --> 00:04:36,392
+sur laquelle baser leurs explorations,
+
+135
+00:04:36,425 --> 00:04:39,042
+pas sur un quelconque film de pirates
+qu'ils ont vu quand ils avaient 10 ans.
+
+136
+00:04:39,085 --> 00:04:41,613
+Ouais, eh bien, cet, euh, os vieux de 300 ans
+
+137
+00:04:41,645 --> 00:04:43,240
+que nous avons trouvé, euh,
+
+138
+00:04:43,288 --> 00:04:45,603
+change  les choses à présent,
+n'est-ce pas, compagnon ?
+
+139
+00:04:45,638 --> 00:04:47,880
+Que se passe-t'il là-bas ?
+C'est une scène de crime.
+
+140
+00:04:47,916 --> 00:04:50,692
+J'ai essayé de les arrêter, Monsieur.
+Mais Branson Rose est revenu.
+
+141
+00:04:50,727 --> 00:04:52,331
+Le Maire m'a dit de le laisser entrer.
+
+142
+00:04:52,378 --> 00:04:53,952
+Branson Rose, c'est lui qui finance la fouille ?
+
+143
+00:04:53,985 --> 00:04:55,083
+Il l'a fait pendant deux ans.
+
+144
+00:04:55,112 --> 00:04:56,519
+Mais j'ai entendu dire qu'il se retirait.
+
+145
+00:04:56,546 --> 00:04:57,452
+Très bien, merci.
+Je vais prendre le relais à présent.
+
+146
+00:04:57,494 --> 00:04:58,077
+Bien sûr.
+
+147
+00:04:58,115 --> 00:04:59,331
+Qui est Branson Rose ?
+
+148
+00:04:59,335 --> 00:05:00,701
+L'aventurier milliardaire.
+
+149
+00:05:01,146 --> 00:05:03,123
+Vous savez, il a fait fortune
+
+150
+00:05:03,158 --> 00:05:04,730
+en créant des avions pour l'armée.
+
+151
+00:05:04,765 --> 00:05:06,303
+Il possède la moitié du monde.
+
+152
+00:05:06,896 --> 00:05:08,072
+C'est le type qui a cette émission
+de télé-réalité
+
+153
+00:05:08,138 --> 00:05:09,242
+qui va partout dans le monde et...
+
+154
+00:05:10,118 --> 00:05:11,070
+Toujours pas de télé ?
+
+155
+00:05:11,608 --> 00:05:13,102
+Pourquoi je me donne du mal ?
+
+156
+00:05:14,335 --> 00:05:15,672
+Vous ne pouvez pas vous retirer
+maintenant, Mr. Rose.
+
+157
+00:05:15,738 --> 00:05:16,540
+Nous avons un contrat.
+
+158
+00:05:16,588 --> 00:05:17,903
+Donc vous pouvez me poursuivre en justice,
+mais je ne pense pas
+
+159
+00:05:17,946 --> 00:05:19,610
+que vous ayez les moyens d'assumer.
+
+160
+00:05:19,645 --> 00:05:21,273
+Mr. Rose, nous venons juste
+d'atteindre les 200 pieds !
+
+161
+00:05:21,317 --> 00:05:23,632
+A présent, vous retirez maintenant...
+
+162
+00:05:24,477 --> 00:05:25,621
+J'ai entendu ça pendant deux ans, Hardewicke.
+
+163
+00:05:25,675 --> 00:05:27,191
+Faîtes descendre vos ânes
+et embarquez mon équipement !
+
+164
+00:05:27,226 --> 00:05:27,843
+Excusez-moi ?
+
+165
+00:05:27,878 --> 00:05:29,382
+Mr. Rose, Macy... le savait.
+
+166
+00:05:29,426 --> 00:05:30,991
+Il l'a senti. Nous sommes proches !
+
+167
+00:05:31,037 --> 00:05:31,642
+Excusez-moi.
+
+168
+00:05:31,686 --> 00:05:33,172
+Deux ans, 2 millions de dollars.
+
+169
+00:05:33,238 --> 00:05:34,831
+Il n'y a rien là en bas, Giles.
+
+170
+00:05:34,908 --> 00:05:36,283
+Macy est mort pour rien.
+
+171
+00:05:36,316 --> 00:05:38,201
+FBI! Vous êtes tous en état d'arrestation !
+
+172
+00:05:39,885 --> 00:05:41,300
+Allons Bones, vous ne pouvez pas dire ça.
+
+173
+00:05:41,335 --> 00:05:42,743
+Je suis celui avec le badge.
+
+174
+00:05:42,788 --> 00:05:44,122
+Le FBI est impliqué maintenant ?
+
+175
+00:05:44,157 --> 00:05:45,500
+Oh, oui. Vous savez,
+un meurtre sur un terrain fédéral...
+
+176
+00:05:45,577 --> 00:05:47,302
+nous aimons, euh, fouiner un peu.
+
+177
+00:05:47,375 --> 00:05:48,283
+Un meurtre ?
+
+178
+00:05:48,328 --> 00:05:51,003
+Oui, un meurtre.
+
+179
+00:05:51,865 --> 00:05:53,533
+Vous avez dit que c'était un accident.
+
+180
+00:05:53,538 --> 00:05:54,970
+C'est ce que je pensais.
+
+181
+00:05:55,748 --> 00:05:57,702
+Oh, mon Dieu...
+
+182
+00:06:01,525 --> 00:06:03,530
+Il a trouvé quelque chose.
+
+183
+00:06:04,148 --> 00:06:05,712
+Ramenez mes affaires immédiatement !
+
+184
+00:06:07,218 --> 00:06:10,122
+Ce que Macy a trouvé valait la peine de le tuer ?
+
+185
+00:06:20,008 --> 00:06:25,002
+Traduction The Tick Tock Team :
+The Callie, NormaJean, Chba13  et Alspring
+BONES 1x18 "The Man With The Bone"
+NormaJean bienvenue dans la Team,
+et encore merci à Cassis22 pour son super travail, à bientôt !!!
+
+186
+00:06:44,976 --> 00:06:47,500
+En 1832, une équipe de six hommes
+à la recherche du trésor
+
+187
+00:06:47,576 --> 00:06:49,972
+ont été tués quand un puits
+qu'ils creusaient s'est effondré.
+
+188
+00:06:50,038 --> 00:06:52,731
+La malédiction de Barbe Noire, mec.
+
+189
+00:06:52,807 --> 00:06:53,832
+Une malédiction ?
+
+190
+00:06:53,908 --> 00:06:54,970
+Nous sommes des scientifiques.
+
+191
+00:06:55,036 --> 00:06:57,230
+Regarde ça. 1902.
+
+192
+00:06:57,307 --> 00:06:59,002
+Deux hommes ont disparu pendant le creusage.
+
+193
+00:06:59,077 --> 00:07:00,232
+On a jamais trouvé leurs corps.
+
+194
+00:07:00,626 --> 00:07:02,930
+Oh, c'est vraiment très maudit.
+
+195
+00:07:03,008 --> 00:07:05,132
+Alors tu crois aux pirates ?
+
+196
+00:07:05,206 --> 00:07:07,130
+Les pirates ne sont pas le Père Noël, Zack.
+
+197
+00:07:07,207 --> 00:07:08,300
+Ils ont existé.
+
+198
+00:07:08,345 --> 00:07:10,631
+Ils avaient des trésors,
+et ils les enterraient.
+
+199
+00:07:10,678 --> 00:07:12,931
+Tu sais, je mettais mis un bandeau sur l'oeil
+quand j'avais six ans.
+
+200
+00:07:13,006 --> 00:07:16,131
+Qui ne l'a pas fait, mon ami ?
+Qui ne l'a pas fait ?
+
+201
+00:07:16,205 --> 00:07:18,532
+Il est inutile de me mener comme un enfant.
+
+202
+00:07:18,566 --> 00:07:21,270
+Je préfèrerais qu'il n'y ait pas
+d'autre preuve compromise.
+
+203
+00:07:21,318 --> 00:07:23,331
+Vous serrez mon bras très solidement.
+
+204
+00:07:23,365 --> 00:07:24,040
+Désolée.
+
+205
+00:07:24,087 --> 00:07:25,630
+Non, non, c'est bien.
+
+206
+00:07:26,495 --> 00:07:28,270
+Vous pouvez le donner au Dr. Hodgins.
+
+207
+00:07:28,338 --> 00:07:29,403
+Qu'est ce que c'est ?
+
+208
+00:07:29,478 --> 00:07:31,533
+Le sol et l'eau recueillis
+
+209
+00:07:31,606 --> 00:07:33,192
+dans la gorge et les poumons de Ted Macy.
+
+210
+00:07:33,555 --> 00:07:35,341
+Il a été trouvé flottant dans son costume sec
+
+211
+00:07:35,375 --> 00:07:36,301
+en haut du puits.
+
+212
+00:07:36,338 --> 00:07:38,433
+Très bien, vous savez quoi ? Nous avons
+besoin que vous fassiez votre truc de terre.
+
+213
+00:07:38,477 --> 00:07:39,923
+Vous savez, faire correspondre
+la vase au crime,
+
+214
+00:07:40,555 --> 00:07:42,532
+s'assurer que c'est l'endroit où il a été tué.
+
+215
+00:07:42,606 --> 00:07:46,600
+J'aimerais voir les radios
+du squelette de la victime.
+
+216
+00:07:46,678 --> 00:07:47,453
+Autoritaire.
+
+217
+00:07:47,486 --> 00:07:49,331
+Ne commencez pas.
+
+218
+00:07:49,407 --> 00:07:50,483
+Dans l'intérêt d'être minutieux,
+
+219
+00:07:50,516 --> 00:07:52,543
+j'ai besoin de déterminer s'il est mort en haut
+
+220
+00:07:52,578 --> 00:07:54,572
+ou s'il est mort au fond
+et a flotté vers le haut.
+
+221
+00:07:54,637 --> 00:07:56,361
+J'ai besoin des échantillons
+de vase des deux niveaux.
+
+222
+00:07:56,405 --> 00:07:57,443
+Bon. Nous vous les ferons parvenir.
+
+223
+00:07:57,488 --> 00:07:58,500
+Non, non. Non.
+
+224
+00:07:58,545 --> 00:08:00,403
+Le sol a l'air d'être un mélange bizarre d'argile,
+
+225
+00:08:00,478 --> 00:08:02,732
+de feldspath plagioclase, de pyroxène...
+
+226
+00:08:02,807 --> 00:08:04,432
+Je ne me fierais vraiment pas à quelqu'un d'autre
+
+227
+00:08:04,505 --> 00:08:05,670
+pour récolter convenablement des échantillons.
+
+228
+00:08:05,738 --> 00:08:06,870
+Vous voulez juste chercher le trésor.
+
+229
+00:08:08,995 --> 00:08:11,450
+Je suis un scientifique sérieux
+
+230
+00:08:11,486 --> 00:08:14,370
+essayant de faire mon travail du mieux possible.
+
+231
+00:08:14,435 --> 00:08:17,431
+Ce puits est à 200 pieds de profondeur,
+vous savez.
+
+232
+00:08:17,508 --> 00:08:19,253
+Ça exige un plongeur expérimenté.
+
+233
+00:08:19,295 --> 00:08:20,923
+Je suis un plongeur de caverne certifié,
+
+234
+00:08:20,965 --> 00:08:22,973
+ce qui veut dire que je peux aller
+à plus de 200 pieds.
+
+235
+00:08:23,475 --> 00:08:24,783
+J'ai fait le Mayan Blue,
+
+236
+00:08:24,826 --> 00:08:26,042
+Dos Ojos, Tortuga...
+
+237
+00:08:26,088 --> 00:08:27,272
+Jamais plongé dans le Naharon ?
+
+238
+00:08:27,305 --> 00:08:28,043
+Une fois.
+
+239
+00:08:28,087 --> 00:08:30,103
+J'ai décrit Naharon.
+
+240
+00:08:30,175 --> 00:08:32,103
+Eh bien alors,
+comment pouvez-vous me dire non ?
+
+241
+00:08:33,175 --> 00:08:34,073
+D'accord...
+
+242
+00:08:34,105 --> 00:08:35,973
+mais juste pour recueillir
+des échantillons du sol.
+
+243
+00:08:36,018 --> 00:08:37,572
+Naturellement.
+
+244
+00:08:37,737 --> 00:08:39,672
+Alors, vous plongez, vous aussi ?
+
+245
+00:08:39,736 --> 00:08:42,590
+J'en ai le temps parce que
+je ne possède pas de télévision.
+
+246
+00:08:42,906 --> 00:08:44,763
+Vous portez un vêtement en caoutchouc, alors ?
+
+247
+00:08:50,705 --> 00:08:52,633
+Les accidents arrivent, vous savez.
+
+248
+00:08:52,715 --> 00:08:55,701
+Macy et moi étions préparés à ça,
+mais un meurtre ?
+
+249
+00:08:55,777 --> 00:08:57,272
+Un meurtre. Wow.
+
+250
+00:08:57,337 --> 00:08:59,273
+Si je peux faire quoi que ce soit
+pour aider. Okay?
+
+251
+00:08:59,337 --> 00:09:00,380
+Okay, nous en parlerons un peu plus tard.
+
+252
+00:09:00,427 --> 00:09:02,770
+Pour le moment, je veux que Hodgins
+descende dans ce puits.
+
+253
+00:09:02,837 --> 00:09:03,970
+Dane  McGinnis.
+
+254
+00:09:04,036 --> 00:09:05,731
+Il-Il est le meilleur que je connais.
+
+255
+00:09:05,805 --> 00:09:07,570
+Euh, il a travaillé pour nous
+pendant des années.
+
+256
+00:09:07,635 --> 00:09:11,302
+Agent Booth ? Etes-vous l'agent Booth ?
+
+257
+00:09:11,375 --> 00:09:13,072
+Vous allez devoir rester
+derrière la bande jaune.
+
+258
+00:09:13,138 --> 00:09:14,470
+Je suis Ney, le maire.
+
+259
+00:09:14,536 --> 00:09:16,101
+Vos hommes n'arrêtent pas de faire reculer
+
+260
+00:09:16,175 --> 00:09:17,510
+les touristes.
+
+261
+00:09:17,546 --> 00:09:19,600
+Le maire ? Waou.
+
+262
+00:09:19,675 --> 00:09:21,333
+J'espère  que vous n'étiez pas habillé
+comme ça quand vous avez été élu.
+
+263
+00:09:21,368 --> 00:09:23,110
+Le trésor de Barbe Noire
+permet de maintenir l'économie
+
+264
+00:09:23,158 --> 00:09:24,223
+de cette petite île à flot.
+
+265
+00:09:24,268 --> 00:09:25,220
+Le maire prend cette histoire
+
+266
+00:09:26,198 --> 00:09:27,530
+un peu trop au sérieux, parfois.
+
+267
+00:09:27,577 --> 00:09:28,831
+Hé, je n'ai pas honte.
+
+268
+00:09:28,875 --> 00:09:31,631
+Le tourisme a augmenté de 63%
+depuis mon élection,
+
+269
+00:09:31,676 --> 00:09:33,103
+et je pourrais le relancer encore
+
+270
+00:09:33,148 --> 00:09:34,723
+si les touristes pouvaient voir ça de plus près.
+
+271
+00:09:34,768 --> 00:09:36,701
+C'est une scène de crime,
+pas un spectacle.
+
+272
+00:09:36,778 --> 00:09:38,872
+La malédiction de Barbe Noire.
+
+273
+00:09:38,938 --> 00:09:40,923
+Macy aurait voulu donner quelque chose
+
+274
+00:09:40,968 --> 00:09:42,170
+à cette ville qu'il adore.
+
+275
+00:09:42,205 --> 00:09:44,733
+Frank, la police leur dit
+de ne pas prendre de photos.
+
+276
+00:09:44,805 --> 00:09:46,870
+C'est qui elle, hein ?
+La reine des pirates ?
+
+277
+00:09:46,905 --> 00:09:48,320
+C'est ça. Ma femme, Katie.
+
+278
+00:09:48,368 --> 00:09:49,103
+C'est ça. Super.
+
+279
+00:09:49,146 --> 00:09:50,532
+Ecoutez, dites à vos touristes
+
+280
+00:09:50,565 --> 00:09:52,172
+que cette mauvaise vue
+fait partie de la malédiction.
+
+281
+00:09:52,217 --> 00:09:54,420
+Pouvez-vous escorter
+le pirate et sa soubrette
+
+282
+00:09:54,468 --> 00:09:56,013
+derrière la bande jaune ? Merci.
+
+283
+00:09:57,646 --> 00:10:00,133
+Alors, ce Dane... il... a de l'expérience ?
+
+284
+00:10:00,205 --> 00:10:02,000
+J'ai travaillé avec beaucoup d'hommes.
+C'est le meilleur.
+
+285
+00:10:02,048 --> 00:10:03,033
+Très bien.
+
+286
+00:10:03,996 --> 00:10:05,940
+J'espère qu'il sait ce qu'il fait,
+
+287
+00:10:05,978 --> 00:10:08,071
+car c'est très étroit là-dessous.
+
+288
+00:10:08,138 --> 00:10:09,430
+A l'abordage, matelots !
+
+289
+00:10:09,505 --> 00:10:10,572
+Whoo !
+
+290
+00:10:15,606 --> 00:10:18,331
+Dane, préparons-le.
+
+291
+00:10:24,805 --> 00:10:25,800
+Tu penses que c'est un pirate ?
+
+292
+00:10:25,838 --> 00:10:29,303
+C'est un doigt de la main gauche
+d'un homme de 300 ans.
+
+293
+00:10:29,378 --> 00:10:31,170
+Je ne suis sûre que de ça, pour l'instant.
+
+294
+00:10:31,235 --> 00:10:32,201
+Qui vaut qu'on tue pour lui ?
+
+295
+00:10:33,195 --> 00:10:34,191
+Une fois, j'ai travaillé sur une affaire
+
+296
+00:10:34,236 --> 00:10:37,071
+où une femme a été tuée,
+démembrée et brûlée
+
+297
+00:10:37,136 --> 00:10:37,911
+parce que son amie pensait
+
+298
+00:10:37,946 --> 00:10:40,332
+qu'elle lui avait pris sa paire
+de chaussons préférés.
+
+299
+00:10:40,377 --> 00:10:41,110
+Adorable.
+
+300
+00:10:41,155 --> 00:10:42,560
+Ils ont peut-être raison.
+
+301
+00:10:42,606 --> 00:10:45,672
+Peut-être que cet homme est mort
+en enterrant ce trésor.
+
+302
+00:10:45,736 --> 00:10:50,203
+Ironique... voler tout cet argent
+et ne pas en profiter.
+
+303
+00:10:50,277 --> 00:10:52,270
+Alors tu crois qu'il y a un trésor ?
+
+304
+00:10:52,956 --> 00:10:55,833
+Je crois qu'il y a de l'avarice.
+
+305
+00:10:55,907 --> 00:10:58,171
+Et c'est ça la vraie malédiction.
+
+306
+00:11:03,278 --> 00:11:05,800
+Très bien, corde de sécurité, tuyau d'air.
+
+307
+00:11:06,257 --> 00:11:09,271
+L'un des deux pète, et vous ne remontez pas.
+
+308
+00:11:09,486 --> 00:11:11,581
+Il faudra retravailler ton discours d'encouragement, mec.
+
+309
+00:11:11,615 --> 00:11:13,893
+Vous savez, je veux pas être
+responsable d'un amateur
+
+310
+00:11:13,925 --> 00:11:16,100
+qui descend là-dedans parce qu'il se croit
+
+311
+00:11:16,137 --> 00:11:17,970
+meilleur qu'il ne l'est.
+
+312
+00:11:18,037 --> 00:11:19,773
+Vous voulez descendre, n'est-ce pas ?
+
+313
+00:11:19,998 --> 00:11:21,740
+C'est mon puits, ok ?
+
+314
+00:11:21,785 --> 00:11:23,860
+Je travaille dessus depuis 10 ans.
+
+315
+00:11:23,896 --> 00:11:26,790
+Mais les fédéraux...
+disent que c'est une scène de crime,
+
+316
+00:11:26,837 --> 00:11:28,333
+donc je ne peux pas aider.
+
+317
+00:11:28,408 --> 00:11:30,032
+Vous m'aidez moi.
+
+318
+00:11:30,105 --> 00:11:31,231
+Pourquoi a-t-il besoin du tuyau d'air ?
+
+319
+00:11:31,278 --> 00:11:32,332
+Pourquoi pas une bouteille d'oxygène ?
+
+320
+00:11:32,365 --> 00:11:36,003
+Parce qu'à environ 100 pieds
+de profondeur, le puits rétrécit.
+
+321
+00:11:36,785 --> 00:11:37,603
+Vous n'avez pas peur
+
+322
+00:11:37,676 --> 00:11:39,701
+d'être un peu écrasé, hein, Doc ?
+
+323
+00:11:39,778 --> 00:11:41,400
+Gants.
+
+324
+00:11:42,338 --> 00:11:43,330
+Allez-y doucement, ok ?
+
+325
+00:11:43,375 --> 00:11:44,330
+Il y a beaucoup de trucs
+
+326
+00:11:44,405 --> 00:11:46,201
+qui pourraient retenir le tuyau là-dessous.
+
+327
+00:11:46,277 --> 00:11:48,133
+Oui, j'ai vu les photos prises par Rose.
+
+328
+00:11:48,207 --> 00:11:48,822
+Rose.
+
+329
+00:11:48,856 --> 00:11:50,630
+Il n'est pas descendu aussi bas
+que ce que vous allez faire.
+
+330
+00:11:51,408 --> 00:11:51,960
+Personne ne l'a fait.
+
+331
+00:11:52,006 --> 00:11:53,531
+Il ne devrait peut-être pas essayer,
+vous ne croyez pas ?
+
+332
+00:11:53,566 --> 00:11:55,900
+Des gens sont morts en bas,
+et pas seulement Macy.
+
+333
+00:11:55,976 --> 00:11:57,032
+Je sais.
+
+334
+00:11:57,106 --> 00:11:58,431
+Mon frère en faisait partie.
+
+335
+00:12:00,955 --> 00:12:02,401
+Je vais descendre tout en bas.
+
+336
+00:12:02,475 --> 00:12:03,293
+Qu'est-ce qu'il y a à 200 pieds ?
+
+337
+00:12:03,328 --> 00:12:05,931
+On a touché les 200 pieds la semaine dernière.
+
+338
+00:12:06,005 --> 00:12:07,872
+Vous devrez me le dire.
+
+339
+00:12:07,936 --> 00:12:08,702
+Voilà, je suis prêt.
+
+340
+00:12:09,126 --> 00:12:10,801
+Ok.
+
+341
+00:12:44,087 --> 00:12:45,953
+Votre ami a intérêt à être
+aussi bon qu'il le dit.
+
+342
+00:12:45,995 --> 00:12:49,570
+Occupez-vous bien de lui, d'accord ?
+
+343
+00:12:55,887 --> 00:12:57,301
+Hodgins, vous me recevez ?
+
+344
+00:12:57,376 --> 00:12:59,303
+<i>Je vous reçois 5 sur 5.</i>
+
+345
+00:13:05,907 --> 00:13:07,872
+Whoa, whoa, whoa.
+
+346
+00:13:07,937 --> 00:13:08,672
+Hodgins ?
+
+347
+00:13:09,105 --> 00:13:10,332
+<i>Il  fait chaud.</i>
+
+348
+00:13:10,405 --> 00:13:11,901
+Il passe le premier palier.
+
+349
+00:13:11,976 --> 00:13:14,801
+C'est là où on a perdu le premier homme.
+
+350
+00:13:14,875 --> 00:13:17,923
+<i>Il y a du bois sous la couche de calcaire.</i>
+
+351
+00:13:17,955 --> 00:13:19,053
+Vous comprenez ce qu'il dit ?
+
+352
+00:13:19,096 --> 00:13:19,693
+Oh, oui.
+
+353
+00:13:19,725 --> 00:13:22,233
+Il passe le site du premier
+effondrement de la mine.
+
+354
+00:13:22,306 --> 00:13:24,401
+<i>C'est vraiment étroit ici.</i>
+
+355
+00:13:24,768 --> 00:13:26,603
+<i>Il y a beaucoup de débris.</i>
+
+356
+00:13:26,676 --> 00:13:28,470
+<i>Pas sûr de pouvoir me faufiler.</i>
+
+357
+00:13:28,796 --> 00:13:30,522
+Hé, ce mec nage comme un calmar (squid).
+
+358
+00:13:30,568 --> 00:13:32,252
+En fait, il nage comme un bigleux (squint).
+
+359
+00:13:32,296 --> 00:13:32,701
+Quoi ?
+
+360
+00:13:32,748 --> 00:13:33,640
+Peu importe.
+
+361
+00:13:33,688 --> 00:13:36,101
+<i>Ok, c'est bon maintenant.</i>
+
+362
+00:13:36,648 --> 00:13:37,903
+Bonne vue, aussi.
+
+363
+00:13:38,388 --> 00:13:40,161
+On n'obtient pas une aussi
+bonne résolution, nous.
+
+364
+00:13:40,198 --> 00:13:41,902
+Oui ben, c'est un ringard qui bosse
+pour le gouvernement.
+
+365
+00:13:41,936 --> 00:13:42,830
+Vous avez déjà trouvé quelque chose en bas ?
+
+366
+00:13:42,866 --> 00:13:43,501
+Pas encore.
+
+367
+00:13:43,838 --> 00:13:45,800
+10 ans de recherches infructueuses,
+et vous essayez toujours.
+
+368
+00:13:45,836 --> 00:13:47,833
+Tout est une question de recherche, mec.
+
+369
+00:13:47,906 --> 00:13:49,673
+Il est à 170 pieds.
+
+370
+00:13:52,977 --> 00:13:54,172
+180.
+
+371
+00:13:56,238 --> 00:13:57,333
+190.
+
+372
+00:13:57,407 --> 00:13:59,972
+Personne n'est descendu aussi profondément.
+
+373
+00:14:00,607 --> 00:14:02,000
+Il a atteint les 200.
+
+374
+00:14:02,485 --> 00:14:05,172
+<i>Je touche le sol. Je suis arrivé au fond.</i>
+
+375
+00:14:05,237 --> 00:14:08,671
+<i>La visibilité est étonnamment bonne.</i>
+
+376
+00:14:08,737 --> 00:14:11,423
+<i>Attendez un peu. Il-il y a un truc ici.</i>
+
+377
+00:14:12,675 --> 00:14:14,102
+<i>Putain...</i>
+
+378
+00:14:14,178 --> 00:14:15,621
+Qu'est-ce que c'est ?
+
+379
+00:14:15,657 --> 00:14:17,070
+Whoa, est-ce que c'est... ?
+
+380
+00:14:20,107 --> 00:14:21,200
+<i>Oh, mon Dieu.</i>
+
+381
+00:14:21,278 --> 00:14:22,472
+Est-ce que c'est... ?
+
+382
+00:14:29,786 --> 00:14:32,293
+C'est étonnant que tu aies trouvé
+le squelette complet.
+
+383
+00:14:32,337 --> 00:14:35,852
+Les dates du carbone 14
+correspondent à 300 ans.
+
+384
+00:14:35,887 --> 00:14:39,362
+Le sujet est un homme, dans les 20 ans,
+
+385
+00:14:39,406 --> 00:14:41,961
+environ 1 mètre...
+
+386
+00:14:41,996 --> 00:14:43,411
+67.
+
+387
+00:14:43,455 --> 00:14:45,701
+Les jambes sont arquées,
+ce qui est le résultat visible
+
+388
+00:14:45,747 --> 00:14:46,980
+d'un manque de calcium et de phosphate.
+
+389
+00:14:47,016 --> 00:14:48,190
+Il a souffert de rachitisme dans sa jeunesse,
+
+390
+00:14:48,225 --> 00:14:50,981
+mais le haut de son corps est
+étonnamment développé.
+
+391
+00:14:51,017 --> 00:14:54,141
+Séparation de l'épiphyse dans les os longs.
+
+392
+00:14:54,685 --> 00:14:58,930
+Le sternum creux forme un chapelet de scorbut
+
+393
+00:14:58,978 --> 00:15:00,023
+à la marge costochondrale.
+
+394
+00:15:00,067 --> 00:15:02,872
+Il a eu le scorbut,
+ainsi qu'une syphilis tertiaire.
+
+395
+00:15:02,918 --> 00:15:05,330
+Pourquoi tertiaire ? Est-ce qu'une bonne
+vieille syphilis ne suffit plus ?
+
+396
+00:15:05,367 --> 00:15:06,990
+Scorbut, syphilis.
+
+397
+00:15:08,586 --> 00:15:09,102
+Pirate.
+
+398
+00:15:09,176 --> 00:15:09,812
+Il y a
+
+399
+00:15:09,846 --> 00:15:12,180
+des preuves anthropologiques qui valident l'idée
+
+400
+00:15:12,218 --> 00:15:14,131
+que Barbe Noire a exécuté
+ceux qui ont enterré son trésor
+
+401
+00:15:14,167 --> 00:15:15,571
+après qu'ils ont eu fini de creuser.
+
+402
+00:15:15,638 --> 00:15:16,903
+Ok.
+
+403
+00:15:16,977 --> 00:15:19,171
+Disons... que c'est un pirate.
+
+404
+00:15:19,237 --> 00:15:19,972
+- Oui !
+- Oh !
+
+405
+00:15:20,037 --> 00:15:21,332
+Ce serait
+
+406
+00:15:21,407 --> 00:15:22,532
+une découverte extraordinaire.
+
+407
+00:15:22,576 --> 00:15:25,171
+Et... cela ouvrirait la véracité
+
+408
+00:15:25,235 --> 00:15:26,941
+de la thèse du trésor.
+
+409
+00:15:26,985 --> 00:15:29,230
+Il serait stupide d'écarter
+toute théorie à ce stade.
+
+410
+00:15:29,268 --> 00:15:30,260
+Mais on doit
+
+411
+00:15:30,308 --> 00:15:33,163
+découvrir pourquoi l'osséine
+n'est pas totalement décomposée
+
+412
+00:15:33,197 --> 00:15:34,593
+alors qu'elle est restée
+immergée si longtemps.
+
+413
+00:15:34,626 --> 00:15:35,912
+A environ 50 pieds dans le puits,
+
+414
+00:15:35,956 --> 00:15:38,503
+il y a une couche de mastic bleu,
+constitué de silicone et d'argile.
+
+415
+00:15:38,578 --> 00:15:40,612
+On a pu s'en servir
+pour former un joint étanche.
+
+416
+00:15:40,645 --> 00:15:42,573
+Ça expliquerait la condition des os.
+
+417
+00:15:42,608 --> 00:15:43,943
+J'ai pris des échantillons
+de la même argile bleue
+
+418
+00:15:43,977 --> 00:15:46,081
+entre 200 et 207 pieds.
+
+419
+00:15:46,127 --> 00:15:48,181
+Il y a quelque chose d'enterré là-dessous.
+
+420
+00:15:48,226 --> 00:15:50,262
+Et ces os reposaient juste dessus.
+
+421
+00:15:50,307 --> 00:15:52,601
+Macy a été tué à cause de
+quelque chose qu'il avait trouvé.
+
+422
+00:15:52,645 --> 00:15:54,131
+La vase dans sa gorge
+et ses poumons confirme
+
+423
+00:15:54,177 --> 00:15:56,131
+qu'il a été tué en haut du puits.
+
+424
+00:15:56,176 --> 00:15:58,100
+Après sa remontée avec le trésor.
+
+425
+00:15:58,498 --> 00:15:59,773
+Agent spécial Booth.
+
+426
+00:16:00,128 --> 00:16:02,760
+Je déteste avoir à interrompre
+votre investigation, agent Booth,
+
+427
+00:16:02,808 --> 00:16:05,050
+mais il y a un milliardaire énervé
+dans mon bureau,
+
+428
+00:16:05,097 --> 00:16:07,902
+et il refuse de partir.
+
+429
+00:16:08,508 --> 00:16:09,431
+C'est simple.
+
+430
+00:16:09,466 --> 00:16:11,092
+Vous avez quelque chose qui m'appartient,
+
+431
+00:16:11,137 --> 00:16:12,711
+et je ne partirai pas d'ici sans.
+
+432
+00:16:12,757 --> 00:16:14,543
+Hier encore, vous étiez pressé de partir.
+
+433
+00:16:14,576 --> 00:16:16,330
+Vous casser de cette île, réduire vos pertes.
+
+434
+00:16:16,378 --> 00:16:17,161
+Vous vous souvenez ?
+
+435
+00:16:17,195 --> 00:16:18,283
+Les choses peuvent changer en un jour.
+
+436
+00:16:18,317 --> 00:16:20,670
+Oui. Pour Ted Macy,
+beaucoup de choses ont changé.
+
+437
+00:16:20,708 --> 00:16:22,963
+Ecoutez, je suis désolé pour Ted,
+mais que je sois damné si
+
+438
+00:16:22,996 --> 00:16:25,302
+le gouvernement fédéral
+s'abat ici à la 11ème heure
+
+439
+00:16:25,347 --> 00:16:27,523
+et vole ce que j'essaie
+de trouver depuis deux ans.
+
+440
+00:16:27,556 --> 00:16:29,693
+Je ne comprends pas ce que
+ça a à voir avec le Jeffersonian.
+
+441
+00:16:29,735 --> 00:16:32,093
+Ces os m'appartiennent.
+
+442
+00:16:32,126 --> 00:16:33,893
+Ils ont été découvert sur mon site.
+
+443
+00:16:34,857 --> 00:16:39,791
+On m'a donné le permis de creuser à cet endroit
+et de garder ce que je trouverai.
+
+444
+00:16:40,455 --> 00:16:43,451
+Mes avocats m'ont assuré que
+vous n'aviez aucun droit sur ces os.
+
+445
+00:16:43,488 --> 00:16:45,703
+C'est évident, votre avocat veut
+vous envoyer devant le tribunal
+
+446
+00:16:45,745 --> 00:16:46,713
+pour une vingtaine d'années, et
+
+447
+00:16:46,755 --> 00:16:50,093
+s'acheter une belle résidence
+en Toscane, mais en vérité,
+
+448
+00:16:50,138 --> 00:16:51,412
+quand Ted Macy a été assassiné,
+
+449
+00:16:51,446 --> 00:16:54,033
+votre propriété est devenue notre preuve.
+
+450
+00:16:54,078 --> 00:16:56,651
+Et les choses resteront ainsi jusqu'à
+ce qu'on retrouve le meurtrier.
+
+451
+00:16:58,908 --> 00:17:00,693
+J'espérais faire un arrangement amiable.
+
+452
+00:17:00,736 --> 00:17:02,920
+Vraiment ? Parce que
+ça ne se voit pas pour l'instant.
+
+453
+00:17:02,956 --> 00:17:04,802
+Bah.
+
+454
+00:17:05,406 --> 00:17:06,672
+Ça va devenir une vraie galère.
+
+455
+00:17:06,708 --> 00:17:08,090
+Il a des amis très importants.
+
+456
+00:17:08,136 --> 00:17:09,450
+Je ne vois pas pourquoi il est si contrarié.
+
+457
+00:17:09,497 --> 00:17:10,781
+Ce n'est pas comme s'il avait besoin d'argent.
+
+458
+00:17:10,817 --> 00:17:13,051
+Mais ses partenaires en ont besoin, eux.
+
+459
+00:17:13,087 --> 00:17:16,001
+Macy et Hardewicke allaient
+diviser leurs découvertes.
+
+460
+00:17:16,037 --> 00:17:17,173
+Mais Macy est mort.
+
+461
+00:17:17,218 --> 00:17:21,490
+Exactement. Laissant Hardewicke avec
+une plus grosse part du gâteau.
+
+462
+00:17:22,316 --> 00:17:24,893
+Ça date de notre toute
+première fouille ensemble.
+
+463
+00:17:24,925 --> 00:17:27,453
+Oh, on a trouvé ce coffre enseveli
+
+464
+00:17:27,488 --> 00:17:29,520
+dans une inondation à Smith's Cove
+
+465
+00:17:29,557 --> 00:17:31,512
+en Nouvelle Angleterre.
+Il n'y avait pas de trésor,
+
+466
+00:17:31,558 --> 00:17:34,262
+mais vous savez, le simple fait de déterrer
+quelque chose d'aussi vieux,
+
+467
+00:17:34,306 --> 00:17:36,430
+qui avait une histoire... on était scotchés.
+
+468
+00:17:36,466 --> 00:17:37,121
+On n'a pas regardé en arrière.
+
+469
+00:17:37,156 --> 00:17:39,143
+Vous savez, j'ai jeté un coup d'oeil
+sur l'histoire de votre compagnie.
+
+470
+00:17:39,186 --> 00:17:40,693
+Les affaires ne roulaient pas très bien,
+
+471
+00:17:40,727 --> 00:17:42,363
+vu que vous n'avez pas
+trouvé de trésor là-bas.
+
+472
+00:17:42,405 --> 00:17:44,003
+Vous aviez de moins en moins de clients.
+
+473
+00:17:44,046 --> 00:17:45,670
+Oui, c'était difficile.
+
+474
+00:17:45,716 --> 00:17:48,082
+Branson Rose était presque
+votre dernière chance.
+
+475
+00:17:49,178 --> 00:17:51,980
+Il y aura toujours des gens
+à la recherche d'un trésor.
+
+476
+00:17:52,028 --> 00:17:52,760
+Vraiment ?
+
+477
+00:17:52,808 --> 00:17:53,482
+Oui.
+
+478
+00:17:53,515 --> 00:17:55,493
+Parce que, Branson Rose se retire,
+
+479
+00:17:55,537 --> 00:17:57,581
+il a une tonne de publicité,
+vous pourriez finir, vous savez...
+
+480
+00:17:57,627 --> 00:17:58,222
+par couler votre affaire.
+
+481
+00:17:58,256 --> 00:18:00,621
+Oui, mais Macy avait fini par trouver
+quelque chose, et on allait
+
+482
+00:18:00,667 --> 00:18:03,000
+partager la découverte avec Rose...
+50% pour lui, 50 pour nous.
+
+483
+00:18:03,038 --> 00:18:04,440
+Exactement.
+
+484
+00:18:05,507 --> 00:18:06,663
+Oh, je vois.
+
+485
+00:18:06,698 --> 00:18:10,702
+Il y en a plus pour moi
+si Macy n'est pas là, hein ?
+
+486
+00:18:10,775 --> 00:18:12,322
+Vous oubliez une chose.
+
+487
+00:18:12,356 --> 00:18:13,872
+Macy faisait presque partie de ma famille.
+
+488
+00:18:13,938 --> 00:18:14,482
+Vraiment ?
+
+489
+00:18:14,528 --> 00:18:16,212
+Regardez. Vous voyez ça ?
+
+490
+00:18:16,245 --> 00:18:18,890
+Je me suis fait ça en sortant
+Macy d'un trou en 93.
+
+491
+00:18:18,928 --> 00:18:21,530
+Et lui aussi a pleins de cicatrices
+à cause de moi.
+
+492
+00:18:21,575 --> 00:18:22,333
+Hmm. Comment vous êtes-vous fait
+
+493
+00:18:22,377 --> 00:18:25,101
+tous ces bleus autour de cette cicatrice ?
+
+494
+00:18:26,837 --> 00:18:28,233
+Le maire.
+
+495
+00:18:28,306 --> 00:18:29,860
+Que vient faire le maire dans tout ça ?
+
+496
+00:18:29,905 --> 00:18:32,092
+Sa femme. Vous l'avez vue, non ?
+
+497
+00:18:32,128 --> 00:18:34,460
+Macy était un peu en chaleur,
+si vous voyez ce que je veux dire.
+
+498
+00:18:34,505 --> 00:18:36,350
+Il couchait avec la reine des pirates ?
+
+499
+00:18:36,386 --> 00:18:38,692
+Le maire a eu des soupçons,
+il est passé la semaine dernière,
+
+500
+00:18:38,735 --> 00:18:40,271
+et finalement, j'ai pris pour Macy,
+
+501
+00:18:40,308 --> 00:18:42,522
+car il est comme mon frère,
+et je vais vous dire,
+
+502
+00:18:42,558 --> 00:18:44,693
+ce pirate tout malingre...
+il sait aussi frapper.
+
+503
+00:18:44,735 --> 00:18:48,500
+Heureusement qu'il n'a pas eu le temps
+de recharger son escopette. Charlie ?
+
+504
+00:18:48,578 --> 00:18:50,931
+Non. Descends ça. Laisse ça là.
+
+505
+00:18:50,967 --> 00:18:52,260
+Qu'est-ce que tu fais ?
+
+506
+00:18:57,376 --> 00:18:58,772
+Zack ?
+
+507
+00:18:58,838 --> 00:19:01,590
+Zack, les os... qu'as-tu fait des os ?
+
+508
+00:19:01,636 --> 00:19:02,512
+Rien, Dr. Brennan.
+
+509
+00:19:02,557 --> 00:19:05,262
+Je les ai laissés sur la table,
+comme vous l'aviez demandé.
+
+510
+00:19:07,926 --> 00:19:10,550
+Mais où sont mes os ?
+
+511
+00:19:11,975 --> 00:19:13,541
+Des os, ça ne disparaît pas comme ça.
+
+512
+00:19:13,575 --> 00:19:15,443
+Je croyais que ce labo était sécurisé.
+
+513
+00:19:15,477 --> 00:19:17,903
+Vous m'avez assuré que ce labo était sécurisé.
+
+514
+00:19:17,976 --> 00:19:19,972
+Je pourrais travailler à Stanford, vous savez.
+
+515
+00:19:20,036 --> 00:19:21,443
+Ça ne serait jamais arrivé à Stanford.
+
+516
+00:19:21,487 --> 00:19:23,631
+On dépense les 3/4 d'un million de dollars
+tous les ans pour la sécurité.
+
+517
+00:19:23,707 --> 00:19:25,142
+Ce n'est apparemment pas suffisant.
+
+518
+00:19:25,187 --> 00:19:26,403
+Je veux mes os.
+
+519
+00:19:26,438 --> 00:19:27,531
+Vous avez trouvé mes os ?!
+
+520
+00:19:27,576 --> 00:19:29,792
+Oh ! Vous devriez peut-être
+vous calmer un peu ?
+
+521
+00:19:29,825 --> 00:19:30,402
+Me calmer ?
+
+522
+00:19:30,477 --> 00:19:31,333
+Oui. Vous savez, prendre vos pilules.
+
+523
+00:19:31,376 --> 00:19:34,192
+Ecoutez, abruti, on a violé mon labo,
+
+524
+00:19:34,228 --> 00:19:35,322
+on a volé mes os,
+
+525
+00:19:35,355 --> 00:19:37,973
+donc je pense que je vais rester
+énervée encore un peu.
+
+526
+00:19:38,008 --> 00:19:40,042
+Chérie, tu devrais peut-être
+essayer de respirer.
+
+527
+00:19:40,077 --> 00:19:40,723
+De respirer.
+
+528
+00:19:40,757 --> 00:19:41,353
+De compter jusqu'à 10.
+
+529
+00:19:41,398 --> 00:19:41,912
+De compter jusqu'à 10...
+
+530
+00:19:41,958 --> 00:19:42,880
+De prendre un verre de Jack.
+
+531
+00:19:42,927 --> 00:19:44,281
+Un verre de Jack. Ecoutez, on fait
+
+532
+00:19:44,317 --> 00:19:45,633
+tout ce qu'on peut, ok ?
+
+533
+00:19:45,678 --> 00:19:46,272
+Je vous promets,
+
+534
+00:19:46,338 --> 00:19:47,582
+on va retrouver vos os,
+
+535
+00:19:47,627 --> 00:19:50,032
+mais laissez-nous faire notre travail.
+
+536
+00:19:51,087 --> 00:19:54,133
+Je suppose que je n'aidais pas beaucoup, hein ?
+
+537
+00:19:54,906 --> 00:19:56,640
+Je...
+
+538
+00:19:57,765 --> 00:19:58,821
+Je suis...
+
+539
+00:19:59,095 --> 00:20:00,331
+Désolée.
+
+540
+00:20:01,535 --> 00:20:02,703
+C'est bon.
+
+541
+00:20:02,775 --> 00:20:04,532
+Eh, regardez du bon côté.
+
+542
+00:20:04,567 --> 00:20:05,581
+Je veux dire,
+
+543
+00:20:05,617 --> 00:20:07,731
+ce vol peut être bon pour nous, hein ?
+
+544
+00:20:07,806 --> 00:20:10,021
+Celui qui a volé les os a
+sûrement quelque chose à voir
+
+545
+00:20:10,056 --> 00:20:11,373
+avec le meurtre. On se rapproche.
+
+546
+00:20:11,407 --> 00:20:13,093
+J'ai demandé à tout le personnel
+de sécurité de garde
+
+547
+00:20:13,138 --> 00:20:15,143
+de me faire un rapport à
+chaque minute de leur ronde.
+
+548
+00:20:15,187 --> 00:20:17,162
+Je veux aussi un rapport du personnel
+qui n'est pas de garde.
+
+549
+00:20:17,196 --> 00:20:19,001
+Ils n'ont pas tout pris.
+
+550
+00:20:19,078 --> 00:20:20,320
+Je croyais que tous les os étaient sur la table.
+
+551
+00:20:20,368 --> 00:20:21,541
+Tous les nouveaux. Mais j'examinais encore
+
+552
+00:20:21,586 --> 00:20:23,332
+le premier bout de doigt pour le scorbut,
+
+553
+00:20:23,408 --> 00:20:25,723
+donc il était dans ma salle.
+
+554
+00:20:26,837 --> 00:20:31,431
+Il y a quelque chose sur ses os
+qu'ils ne veulent pas qu'on trouve.
+
+555
+00:20:31,607 --> 00:20:33,232
+Tout le monde connaissait Macy.
+
+556
+00:20:33,306 --> 00:20:35,232
+Il a aidé Frank à être élu.
+
+557
+00:20:35,306 --> 00:20:37,930
+Donc, vous qualifiriez votre relation
+comme simplement amicale ?
+
+558
+00:20:38,858 --> 00:20:40,503
+Ouais. Amicale.
+
+559
+00:20:40,575 --> 00:20:41,591
+C'est une petite ville.
+
+560
+00:20:41,635 --> 00:20:42,620
+On est tous amis.
+
+561
+00:20:43,048 --> 00:20:46,022
+Eh bien, la personne qui a tué Macy
+n'était pas trop amicale.
+
+562
+00:20:46,056 --> 00:20:49,472
+Il ne blesserait pas une âme... Macy.
+
+563
+00:20:49,538 --> 00:20:51,212
+C'était un gentil garçon.
+
+564
+00:20:51,247 --> 00:20:52,892
+La façon dont vous parlez de lui,
+on dirait que
+
+565
+00:20:52,928 --> 00:20:55,190
+vous étiez plus que des amis.
+
+566
+00:20:57,617 --> 00:20:59,082
+Hardewicke vous l'a dit, pas vrai ?
+
+567
+00:20:59,125 --> 00:21:00,523
+Tel un saint.
+
+568
+00:21:00,557 --> 00:21:02,020
+A quel point étiez-vous impliqués
+tous les deux ?
+
+569
+00:21:02,057 --> 00:21:05,171
+C'était juste une de ces choses,
+vous savez.
+
+570
+00:21:05,218 --> 00:21:07,591
+Je n'allais pas quitter Frank
+ou quelque chose du genre.
+
+571
+00:21:07,637 --> 00:21:09,973
+Je suppose que je voulais voir
+à quoi cela ressemblait
+
+572
+00:21:10,018 --> 00:21:11,263
+d'être avec un vrai aventurier
+
+573
+00:21:11,295 --> 00:21:13,141
+plutôt qu'avec un type
+qui s'habille comme tel.
+
+574
+00:21:13,188 --> 00:21:16,251
+Donc, Frank en avait après Hardewicke
+quand il a pensé que c'était lui.
+
+575
+00:21:16,287 --> 00:21:17,893
+Vous pensez que Frank l'a tué ?
+
+576
+00:21:17,926 --> 00:21:19,013
+Vous avez vu Frank.
+
+577
+00:21:19,057 --> 00:21:21,672
+Ouais. Vous savez, il est un peu,
+euh, un peu instable.
+
+578
+00:21:21,706 --> 00:21:24,291
+Quand il il découvrira que quelqu'un
+s'est foutu de lui deux fois, je...
+
+579
+00:21:24,325 --> 00:21:26,273
+C'est vers Hardewicke et le type riche
+
+580
+00:21:26,305 --> 00:21:27,552
+que vous devriez regarder.
+
+581
+00:21:27,596 --> 00:21:29,270
+Macy a dit qu'ils se disputaient tous
+
+582
+00:21:29,318 --> 00:21:30,920
+sur l'argent qu'ils dépensaient.
+
+583
+00:21:30,955 --> 00:21:33,303
+Il a dit qu'Hardewicke n'appréciait pas
+tout le travail qu'il faisait,
+
+584
+00:21:33,338 --> 00:21:34,900
+qu'il voulait quitter la compagnie.
+
+585
+00:21:34,948 --> 00:21:36,753
+Eh bien, on a un oeil sur tout le monde.
+
+586
+00:21:36,968 --> 00:21:37,793
+Merci.
+
+587
+00:21:37,825 --> 00:21:38,583
+De rien.
+
+588
+00:21:38,628 --> 00:21:40,581
+Mais tout ça va ressortir.
+
+589
+00:21:42,828 --> 00:21:45,700
+Essayez juste de ne pas
+ruiner mon mariage, ok ?
+
+590
+00:21:45,735 --> 00:21:47,671
+J'ai commis une erreur.
+
+591
+00:21:47,706 --> 00:21:51,381
+Mais j'aime ce stupide pirate,
+et je ne veux pas le perdre.
+
+592
+00:21:51,425 --> 00:21:53,210
+Eh bien, merci de m'avoir parlé.
+
+593
+00:21:53,257 --> 00:21:54,932
+On reste en contact.
+
+594
+00:21:58,908 --> 00:22:00,920
+La surface périostique
+sur la phalange
+
+595
+00:22:00,966 --> 00:22:03,532
+n'a aucune particules incrustées
+que je peux récupérer.
+
+596
+00:22:03,576 --> 00:22:06,353
+Probablement que la solution que
+le médecin a uilisé a dissous tout
+
+597
+00:22:06,398 --> 00:22:09,371
+ce qui était logé dans
+les irrégularités de la surface.
+
+598
+00:22:09,418 --> 00:22:10,461
+Qui nettoierait un os
+
+599
+00:22:10,498 --> 00:22:12,540
+avant d'en extraire
+toute information disponible dessus ?
+
+600
+00:22:12,578 --> 00:22:14,903
+Tout le monde n'est pas
+aussi méticuleux que nous, Zack.
+
+601
+00:22:14,936 --> 00:22:16,581
+C'est tellement vrai,
+tellement vrai.
+
+602
+00:22:16,617 --> 00:22:18,931
+Je me demande
+s'il y avait de la poussière d'or dessus.
+
+603
+00:22:19,117 --> 00:22:21,523
+Peut-être que vous devriez commencer
+à travailler avec un perroquet sur l'épaule.
+
+604
+00:22:21,565 --> 00:22:22,723
+Vous n'êtes pas curieuse ?
+
+605
+00:22:22,756 --> 00:22:23,883
+Oui. En ce qui concerne les faits.
+
+606
+00:22:25,876 --> 00:22:27,633
+Il y a un petit trou
+
+607
+00:22:27,667 --> 00:22:30,972
+le long de la face distale
+articulaire du doigt.
+
+608
+00:22:31,348 --> 00:22:32,131
+Ça pourrait être un foramen,
+
+609
+00:22:32,166 --> 00:22:34,513
+mais ça pourrait être
+quelque chose d'autre, artificiel.
+
+610
+00:22:34,558 --> 00:22:35,562
+Une arme ?
+
+611
+00:22:35,597 --> 00:22:36,541
+Peut-être.
+
+612
+00:22:36,578 --> 00:22:39,971
+Vois si tu peux trouver
+de possibles correspondances.
+
+613
+00:22:40,037 --> 00:22:42,232
+Je me demande s'il y a
+des marques similaires sur Macy ?
+
+614
+00:22:42,267 --> 00:22:43,390
+Je me renseignerai.
+
+615
+00:22:43,425 --> 00:22:46,950
+Et ne quitte pas cet os des yeux.
+
+616
+00:22:51,858 --> 00:22:53,481
+Le Dr. Brennan croit que
+vous pourriez avoir négligé
+
+617
+00:22:53,526 --> 00:22:55,622
+l'utilisation d'une arme.
+
+618
+00:22:55,667 --> 00:22:58,101
+Il n'a pas été tué
+par une quelconque arme.
+
+619
+00:22:58,148 --> 00:22:59,521
+Il a été étranglé.
+
+620
+00:23:00,006 --> 00:23:02,601
+Le larynx est écrasé.
+
+621
+00:23:02,675 --> 00:23:03,163
+Il est plat.
+
+622
+00:23:03,195 --> 00:23:05,652
+Et le C2 tout comme le C4 sont fracturés.
+
+623
+00:23:05,696 --> 00:23:07,903
+Ça ne se serait pas produit
+s'il avait été simplement étranglé.
+
+624
+00:23:07,938 --> 00:23:11,041
+Si la victime a été secouée
+pendant qu'elle était étranglée..
+
+625
+00:23:11,078 --> 00:23:12,742
+Les fractures sont toutes
+de la gauche vers la droite,
+
+626
+00:23:12,775 --> 00:23:15,832
+selon un angle approximatif
+de 45° sur chaque os.
+
+627
+00:23:15,906 --> 00:23:16,843
+Cela signifie que la tête
+
+628
+00:23:16,877 --> 00:23:18,621
+a été secouée
+vers la gauche et redressée,
+
+629
+00:23:18,655 --> 00:23:21,350
+s'assurant ainsi que
+la moëlle épinière serait sectionnée.
+
+630
+00:23:21,387 --> 00:23:24,040
+Le larynx a été écrasé
+quand son cou a été brisé.
+
+631
+00:23:24,085 --> 00:23:26,453
+Je suis toujours ouvert
+à un rectificatif.
+
+632
+00:23:27,186 --> 00:23:29,032
+Pourquoi pensez-vous
+qu'il pourrait y avoir eu une arme ?
+
+633
+00:23:29,076 --> 00:23:32,403
+Avez-vous endommagé l'os ?
+Accroché ? Collé ? Ou autre ?
+
+634
+00:23:32,637 --> 00:23:34,203
+Vous êtes toujours en colère.
+
+635
+00:23:34,236 --> 00:23:37,431
+Ok. Non ! Je l'ai manipulé
+selon le protocole :
+
+636
+00:23:37,467 --> 00:23:40,442
+des gants en caoutchouc
+dans le dissolvant.
+
+637
+00:23:40,486 --> 00:23:43,932
+Quelque chose a endommagé cet os,
+et ça ne s'est pas produit il y a 300 ans...
+
+638
+00:23:47,576 --> 00:23:49,882
+Attendez une minute.
+
+639
+00:23:53,297 --> 00:23:55,312
+J'ai des alternatives sur ce
+qui pourrait avoir causé le trou.
+
+640
+00:23:55,346 --> 00:23:58,232
+Ceci... est une aiguille
+jetable d'acupuncture.
+
+641
+00:23:58,267 --> 00:24:00,540
+Il a été guéri de la mort ?
+
+642
+00:24:00,575 --> 00:24:03,811
+Ceci est un filament utilisé
+pour une angioplastie.
+
+643
+00:24:03,847 --> 00:24:05,640
+Donne-moi le fil.
+
+644
+00:24:12,205 --> 00:24:12,831
+Qu'est-ce que vous faites ?
+
+645
+00:24:12,875 --> 00:24:14,442
+Fluorescence atténuée.
+
+646
+00:24:14,646 --> 00:24:18,160
+Ça arrive seulement si les os
+ont été nettoyés et traités.
+
+647
+00:24:18,205 --> 00:24:22,100
+Ces os n'étaient pas dans le puits.
+Ils y ont été placés.
+
+648
+00:24:22,137 --> 00:24:24,193
+Quoi ?
+
+649
+00:24:24,976 --> 00:24:27,590
+Qui possède des os vieux de 300 ans ?
+
+650
+00:24:31,088 --> 00:24:33,921
+Je vous assure que tout ici
+est authentique, Dr. Brennan.
+
+651
+00:24:33,955 --> 00:24:36,762
+Je me suis occupé de cette exposition
+pour le Jeffersonian, en personne.
+
+652
+00:24:36,796 --> 00:24:38,651
+Pouvez-vous ouvrir
+la caisse, s'il vous plaît ?
+
+653
+00:24:40,527 --> 00:24:43,353
+C'est un superbe spécimen.
+
+654
+00:24:43,606 --> 00:24:45,350
+Trouvé en Jamaïque.
+
+655
+00:24:45,578 --> 00:24:47,631
+Nous croyons
+qu'il a navigué avec Henry Morgan.
+
+656
+00:24:47,678 --> 00:24:49,692
+Il n'a jamais été
+sur un bateau de sa vie.
+
+657
+00:24:49,735 --> 00:24:51,282
+C'est absurde.
+
+658
+00:24:52,087 --> 00:24:53,041
+Oh, mon Dieu !
+
+659
+00:24:53,085 --> 00:24:54,971
+Ces os sont artificiels.
+
+660
+00:24:55,016 --> 00:24:56,870
+C'est de l'acrylique, pas de l'os.
+
+661
+00:24:58,118 --> 00:25:00,791
+Vous pouvez voir
+sur le vrai os le trou
+
+662
+00:25:00,838 --> 00:25:01,973
+où le fil a été enfilé
+
+663
+00:25:02,007 --> 00:25:05,500
+quand les os ont été
+assemblés pour l'exposition.
+
+664
+00:25:05,575 --> 00:25:07,362
+Alors, où est le reste de mon marin ?
+
+665
+00:25:07,397 --> 00:25:09,631
+Il a été placé dans
+le puits sur l'Ile Assateague
+
+666
+00:25:09,666 --> 00:25:11,863
+pour que l'histoire
+du trésor entier semble réelle,
+
+667
+00:25:11,906 --> 00:25:13,142
+mais quelqu'un l'a découvert.
+
+668
+00:25:13,188 --> 00:25:14,341
+Qui ?
+
+669
+00:25:14,378 --> 00:25:16,500
+Un meurtrier.
+
+670
+00:25:20,688 --> 00:25:22,832
+Ok, laissez-moi voir
+si je comprends tout.
+
+671
+00:25:22,968 --> 00:25:28,103
+Pour commencer : Les os du pirate que vous
+avez découvert proviennent du Jeffersonian ?
+
+672
+00:25:28,138 --> 00:25:28,903
+Exact.
+
+673
+00:25:28,945 --> 00:25:31,413
+Des os vieux de 300 ans ont été volés
+de notre propre exposition pirate.
+
+674
+00:25:31,448 --> 00:25:33,863
+Et ont ensuite été découverts
+par nos propres chercheurs...
+
+675
+00:25:33,937 --> 00:25:34,731
+Le Dr. Hodgins
+
+676
+00:25:34,765 --> 00:25:37,601
+...qui les ont rapportés au Jeffersonian,
+
+677
+00:25:37,668 --> 00:25:38,883
+où ils ont été à nouveau volés ?
+
+678
+00:25:38,918 --> 00:25:40,431
+Re-volés, Monsieur.
+
+679
+00:25:40,467 --> 00:25:42,191
+Vous avez un problème
+de sécurité, Dr. Goodman.
+
+680
+00:25:42,236 --> 00:25:43,482
+Et quand j'aurai trouvé qui a fait ça,
+
+681
+00:25:43,518 --> 00:25:45,131
+vous aurez un problème de meurtre.
+
+682
+00:25:45,175 --> 00:25:46,723
+Mais je suis sur le coup, ok ?
+
+683
+00:25:46,755 --> 00:25:48,272
+Vous n'auriez pas dû venir ici, Monsieur.
+
+684
+00:25:48,307 --> 00:25:49,870
+C'est ce que je pensais,
+jusqu'à ce que je reçoive un coup de fil
+
+685
+00:25:49,917 --> 00:25:51,412
+de quelqu'un
+du Département de la Défense.
+
+686
+00:25:51,447 --> 00:25:54,800
+La Défense ? Qu'ont-ils à voir
+avec une enquête criminelle ?
+
+687
+00:25:54,837 --> 00:25:57,400
+Branson Rose a des amis haut-placés,
+
+688
+00:25:57,447 --> 00:25:59,203
+et ils n'aiment pas quand le gars
+
+689
+00:25:59,237 --> 00:26:00,962
+qui construit leurs
+bombardiers n'est pas content.
+
+690
+00:26:00,995 --> 00:26:02,613
+Ils ont peur qu'il les bombarde ?
+
+691
+00:26:02,656 --> 00:26:04,383
+C'est quoi, de l'humour louche ?
+
+692
+00:26:04,416 --> 00:26:06,080
+Parce que je ne ris pas.
+
+693
+00:26:06,117 --> 00:26:08,183
+La Défense n'a pas besoin
+de raison pour faire la guerre,
+
+694
+00:26:08,216 --> 00:26:10,222
+et je ne suis pas partant
+pour être leur prochaine cible.
+
+695
+00:26:10,268 --> 00:26:12,231
+Nous n'avons pas exclu
+Rose de la liste des suspects.
+
+696
+00:26:12,267 --> 00:26:13,071
+Bien sûr que non.
+
+697
+00:26:13,118 --> 00:26:14,691
+Vous êtes trop occupée avec vos os.
+
+698
+00:26:14,735 --> 00:26:16,473
+N'en faisons pas une affaire personnelle.
+
+699
+00:26:16,508 --> 00:26:18,352
+Rose veut continuer à jouer,
+
+700
+00:26:18,386 --> 00:26:21,610
+et ses puissants amis
+verront ce qu'il se passe,
+
+701
+00:26:21,655 --> 00:26:23,663
+à moins que nous ayons
+des réponses, et vite.
+
+702
+00:26:23,708 --> 00:26:26,820
+A ce stade, il apparaît que
+ces os volés vieux de 300 ans
+
+703
+00:26:26,857 --> 00:26:29,723
+sont déjà habitués, vous savez,
+à sortir du puits.
+
+704
+00:26:29,758 --> 00:26:30,833
+Sortir du puits ?
+
+705
+00:26:30,878 --> 00:26:32,710
+Ouais, vous savez, un investisseur
+dépense un million de dollars,
+
+706
+00:26:32,748 --> 00:26:35,520
+devient nerveux quand rien
+ne se produit et après, "voilà",
+
+707
+00:26:35,555 --> 00:26:38,300
+des os de pirate apparaissent, et la
+poule aux oeufs d'or commence...
+
+708
+00:26:38,367 --> 00:26:39,840
+...à pondre ses oeufs.
+
+709
+00:26:39,877 --> 00:26:42,800
+Ok, c'est une métaphore complexe, Booth.
+
+710
+00:26:42,836 --> 00:26:44,053
+C'est un canular, Dr. Brennan,
+
+711
+00:26:44,098 --> 00:26:45,362
+comme pour l'Homme de Piltdown*
+*(c'est un scandale scientifique)
+
+712
+00:26:45,397 --> 00:26:47,990
+Oh, j'ai compris. Pourquoi ne pas
+l'avoir dit clairement ?
+
+713
+00:26:48,025 --> 00:26:50,101
+En supposant que les os étaient volés...
+
+714
+00:26:50,135 --> 00:26:50,903
+Re-volés !
+
+715
+00:26:50,945 --> 00:26:53,323
+...re-volés, alors, vous n'auriez pas
+découvert qu'ils étaient faux,
+
+716
+00:26:53,357 --> 00:26:54,491
+comment avez-vous fait ?
+
+717
+00:26:54,538 --> 00:26:55,520
+Comment j'ai fait quoi ?
+
+718
+00:26:55,568 --> 00:26:56,481
+Grâce au doigt.
+
+719
+00:26:56,528 --> 00:26:58,162
+Ils n'ont pas pris le squelette entier.
+
+720
+00:26:58,198 --> 00:27:00,483
+Voudriez-vous, Dr. Brennan,
+nous expliquer le procédé ?
+
+721
+00:27:01,046 --> 00:27:02,343
+Merci non, vraiment pas.
+
+722
+00:27:02,755 --> 00:27:03,592
+Donc, qui suspectez-vous ?
+
+723
+00:27:03,637 --> 00:27:04,550
+L'associé.
+
+724
+00:27:04,586 --> 00:27:05,431
+Giles Hardewicke.
+
+725
+00:27:05,475 --> 00:27:06,861
+Accès, mobile, capacités...
+
+726
+00:27:06,896 --> 00:27:08,490
+Dr. Goodman, le FBI procurera
+
+727
+00:27:08,536 --> 00:27:10,060
+toute l'aide dont vous
+avez besoin pour résoudre
+
+728
+00:27:10,097 --> 00:27:11,893
+votre problème de sécurité au Jeffersonian.
+
+729
+00:27:11,936 --> 00:27:13,773
+Vous travaillez sous l'angle de l'associé.
+
+730
+00:27:18,665 --> 00:27:20,732
+Eh bien, mon père a travaillé
+sur un bateau de pêche,
+
+731
+00:27:20,805 --> 00:27:22,383
+son père avant lui.
+
+732
+00:27:22,878 --> 00:27:23,783
+Bon sang ! Mon frère et moi
+
+733
+00:27:23,826 --> 00:27:25,540
+on a jamais rien connu d'autre que la mer.
+
+734
+00:27:25,587 --> 00:27:28,730
+La chasse au trésor en est juste
+une conséquence, je suppose.
+
+735
+00:27:28,765 --> 00:27:30,142
+Des regrets ?
+
+736
+00:27:30,188 --> 00:27:32,173
+Bien sûr. Mon frère.
+
+737
+00:27:32,216 --> 00:27:33,921
+Ouais.
+
+738
+00:27:34,968 --> 00:27:36,930
+Ça et le fait
+qu'ils pourraient nous arrêter.
+
+739
+00:27:36,976 --> 00:27:39,793
+Eh, pas si nous trouvons
+quelque chose. Hein ?
+
+740
+00:27:40,988 --> 00:27:42,761
+Tu sais, je pensais que tu serais
+
+741
+00:27:42,798 --> 00:27:45,331
+juste un autre rigolo
+qui aurait lu quelques bouquins
+
+742
+00:27:45,405 --> 00:27:47,702
+à la recherche de
+quelque chose pour égayer
+
+743
+00:27:47,766 --> 00:27:48,530
+sa vie sédentaire et ennuyeuse.
+
+744
+00:27:48,576 --> 00:27:50,662
+Je vais te dire, je serais
+en bas dans ce puits, maintenant,
+
+745
+00:27:50,696 --> 00:27:52,740
+si le grand-frère n'avait pas
+besoin d'un minimum de temps
+
+746
+00:27:52,785 --> 00:27:53,611
+entre deux plongeons.
+
+747
+00:27:55,176 --> 00:27:58,142
+Tu... mérites d'être ici.
+
+748
+00:27:58,176 --> 00:27:59,701
+Vraiment.
+
+749
+00:27:59,765 --> 00:28:00,901
+Merci, mon vieux.
+
+750
+00:28:02,607 --> 00:28:04,712
+Je dois te dire que...
+
+751
+00:28:04,755 --> 00:28:06,830
+Les os ont été enterrés.
+
+752
+00:28:10,247 --> 00:28:11,421
+Tu ne sembles pas surpris.
+
+753
+00:28:11,466 --> 00:28:15,231
+Rien ne m'étonne désormais
+en dehors de ce... puits.
+
+754
+00:28:15,307 --> 00:28:17,661
+Non.
+
+755
+00:28:17,735 --> 00:28:20,660
+Je veux dire, si tu creuses
+assez profond, tu arriveras en enfer.
+
+756
+00:28:21,797 --> 00:28:22,850
+Donc, euh...
+
+757
+00:28:22,897 --> 00:28:26,041
+si tu ne trouves rien, tu vas nous arrêter ?
+
+758
+00:28:26,087 --> 00:28:27,561
+Eh, je ne suis pas le FBI.
+
+759
+00:28:27,596 --> 00:28:29,033
+Je suis juste un scientifique.
+
+760
+00:28:29,078 --> 00:28:30,442
+C'est une scène de crime.
+
+761
+00:28:30,476 --> 00:28:32,132
+Je suis surpris
+qu'ils te laissent y descendre.
+
+762
+00:28:32,177 --> 00:28:33,803
+Je suis un expert en
+organismes aquatiques, plantes,
+
+763
+00:28:33,835 --> 00:28:35,430
+et insectes... d'accord.
+
+764
+00:28:35,475 --> 00:28:37,201
+J'ai trois doctorats.
+
+765
+00:28:37,857 --> 00:28:40,112
+Quand tu as trois doctorats,
+et que tu dis au FBI
+
+766
+00:28:40,146 --> 00:28:41,951
+que tu as besoin de plus
+d'échantillons, qui va discuter ?
+
+767
+00:28:41,987 --> 00:28:45,730
+Un doctorat, oui, peut-être
+qu'ils discuteraient, mais trois ?
+
+768
+00:28:48,107 --> 00:28:50,333
+Tu veux descendre à nouveau, n'est-ce pas ?
+
+769
+00:28:54,267 --> 00:28:54,901
+J'aurais besoin de ton aide, vieux.
+
+770
+00:28:55,905 --> 00:28:57,643
+Folle la guêpe !
+
+771
+00:28:57,685 --> 00:29:01,031
+Eh, comme je l'ai dit,
+je suis le type aux insectes.
+
+772
+00:29:01,108 --> 00:29:03,103
+A la tienne !
+
+773
+00:29:04,605 --> 00:29:05,463
+Si vous avez perdu les os,
+
+774
+00:29:05,535 --> 00:29:06,321
+comment savez-vous qu'ils sont faux ?
+
+775
+00:29:06,356 --> 00:29:08,172
+Les voleurs n'ont pas tout pris.
+
+776
+00:29:08,217 --> 00:29:09,961
+Un coup de chance pour les gentils.
+
+777
+00:29:09,995 --> 00:29:11,970
+Nous découvrirons
+comment ces os ont été volés
+
+778
+00:29:12,017 --> 00:29:13,341
+au Jeffersonian.
+
+779
+00:29:13,857 --> 00:29:15,902
+Vous pensez toujours
+que je l'ai fait, pas vrai ?
+
+780
+00:29:15,948 --> 00:29:17,590
+Pourquoi alliez-vous quitter la compagnie ?
+
+781
+00:29:19,028 --> 00:29:20,720
+Laissez-moi deviner,
+Katie Ney vous a dit ça ?
+
+782
+00:29:20,767 --> 00:29:22,433
+Qu'est-ce qui vous fait
+penser que c'était Katie ?
+
+783
+00:29:22,478 --> 00:29:23,690
+Ça faisait partie
+
+784
+00:29:23,726 --> 00:29:27,221
+de la technique de séduction
+de Macy, et c'était très efficace.
+
+785
+00:29:27,268 --> 00:29:28,651
+"Je risque ma vie
+
+786
+00:29:28,686 --> 00:29:32,511
+ici-bas dans ce trou pendant que
+mon associé reste en sécurité en haut".
+
+787
+00:29:32,545 --> 00:29:36,341
+C'est la manière dont il se présentait :
+un explorateur héroïque...
+
+788
+00:29:36,378 --> 00:29:39,151
+Ce qu'il était, en fait,
+quand il approchait les dames.
+
+789
+00:29:39,197 --> 00:29:40,871
+Votre association était intacte ?
+
+790
+00:29:40,908 --> 00:29:43,163
+Jusqu'à ce que
+la mort nous sépare.
+
+791
+00:29:43,236 --> 00:29:43,890
+Je vais vous dire.
+
+792
+00:29:43,925 --> 00:29:46,383
+Je vais vous donner, les amis,
+un accès complet aux livres.
+
+793
+00:29:46,425 --> 00:29:48,770
+Vous n'avez même pas besoin
+d'un mandat de perquisition.
+
+794
+00:29:48,816 --> 00:29:53,151
+Il n'y a rien qui fasse que
+ma vie est meilleure sans Macy.
+
+795
+00:29:54,168 --> 00:29:57,002
+Comme je l'ai dit,
+il me manque.
+
+796
+00:30:00,046 --> 00:30:01,560
+Les os ont été volés deux fois...
+
+797
+00:30:01,607 --> 00:30:03,380
+la première fois de l'exposition Pirate,
+
+798
+00:30:03,428 --> 00:30:06,202
+la seconde de la Chambre des Os,
+ici, au Labo Médico-légal.
+
+799
+00:30:06,245 --> 00:30:08,031
+La sécurité au labo est importante,
+
+800
+00:30:08,077 --> 00:30:11,142
+donc la caméra marche en permanence,
+mais la caméra dans la rotonde
+
+801
+00:30:11,187 --> 00:30:12,632
+est en marche-arrêt,
+toutes les 3 secondes.
+
+802
+00:30:12,678 --> 00:30:14,723
+J'ai commencé avec le vol
+du labo car nous savons
+
+803
+00:30:14,757 --> 00:30:17,622
+que les os ont été volés
+entre 21h00 et 06h00 du matin.
+
+804
+00:30:19,307 --> 00:30:20,103
+Ok.
+
+805
+00:30:20,166 --> 00:30:22,800
+Regardez... ici.
+
+806
+00:30:23,715 --> 00:30:25,300
+Les os ont disparu.
+
+807
+00:30:25,365 --> 00:30:26,962
+Observez le time-code.
+
+808
+00:30:27,647 --> 00:30:28,412
+Qu'est-ce que c'est ?
+
+809
+00:30:28,866 --> 00:30:30,370
+La caméra a été coupée.
+
+810
+00:30:30,976 --> 00:30:34,461
+La caméra a été coupée
+pendant 1 minute et 46 secondes.
+
+811
+00:30:34,537 --> 00:30:36,932
+Ça prendrait beaucoup moins
+de temps que d'entrer dans la pièce,
+
+812
+00:30:36,968 --> 00:30:39,093
+rassembler les os et s'enfuir.
+
+813
+00:30:41,158 --> 00:30:42,161
+Maintenant...
+
+814
+00:30:42,938 --> 00:30:43,883
+Dr. Goodman ?
+
+815
+00:30:43,916 --> 00:30:44,852
+Oui ?
+
+816
+00:30:45,167 --> 00:30:47,752
+Pourrais-je demander,
+pourquoi nous menons l'enquête
+
+817
+00:30:47,797 --> 00:30:48,750
+à la place de la Sécurité ?
+
+818
+00:30:48,785 --> 00:30:50,931
+Nous ne devrions pas marcher trop vite ;
+ça pourrait éveiller les soupçons.
+
+819
+00:30:50,975 --> 00:30:51,953
+Ceux de notre voleur.
+
+820
+00:30:51,985 --> 00:30:53,793
+Je suis heureuse d'aider,
+mais nous avons
+
+821
+00:30:53,826 --> 00:30:55,560
+des professionnels de la sécurité qui...
+
+822
+00:30:55,598 --> 00:30:57,982
+Y a-t-il un moyen pour dire si
+ces cassettes ont été trafiquées ?
+
+823
+00:30:58,017 --> 00:30:58,900
+Oui.
+
+824
+00:30:58,945 --> 00:31:01,002
+Puisque ce sont des bandes
+physiquement magnétiques,
+
+825
+00:31:01,038 --> 00:31:02,472
+non stockées digitalement.
+
+826
+00:31:02,507 --> 00:31:04,111
+J'ai toujours aimé l'analogique.
+
+827
+00:31:04,156 --> 00:31:04,890
+Maintenant, je sais pourquoi.
+
+828
+00:31:04,928 --> 00:31:07,242
+La fait est que je suis
+seulement une amatrice là-dedans,
+
+829
+00:31:07,287 --> 00:31:09,813
+et je suis sûre que le Département de
+Sécurité est mieux équipé et formé...
+
+830
+00:31:09,847 --> 00:31:10,931
+Cet après-midi, Paul.
+
+831
+00:31:11,006 --> 00:31:12,583
+C'est mieux pour Susan et Laura.
+
+832
+00:31:12,618 --> 00:31:14,160
+J'espère que Johnny se sent mieux.
+
+833
+00:31:14,237 --> 00:31:15,800
+Ok, vous voulez pas en parler.
+
+834
+00:31:15,866 --> 00:31:16,930
+J'ai compris.
+
+835
+00:31:19,206 --> 00:31:20,031
+Monsieur ?
+
+836
+00:31:20,076 --> 00:31:22,602
+Enclenchez votre chronomètre,
+s'il vous plaît, Mlle Montenegro.
+
+837
+00:31:22,665 --> 00:31:25,160
+35.6 secondes.
+
+838
+00:31:25,238 --> 00:31:26,462
+Doublez ça pour un aller-retour.
+
+839
+00:31:26,507 --> 00:31:27,661
+Ça fait 1 minute 10 secondes,
+
+840
+00:31:27,705 --> 00:31:30,481
+en laissant approximativement
+30 secondes pour emballer les os et revenir.
+
+841
+00:31:30,516 --> 00:31:34,400
+Revenir où ?
+
+842
+00:31:34,465 --> 00:31:35,432
+Oh... ah.
+
+843
+00:31:35,505 --> 00:31:38,462
+Wow, vous devez penser
+que je suis une imbécile.
+
+844
+00:31:38,535 --> 00:31:40,410
+Je jouais pour la galerie.
+Je peux être comme ça.
+
+845
+00:31:40,458 --> 00:31:43,032
+Donc, nous découvrons quels gardes
+étaient de service pendant les deux vols
+
+846
+00:31:43,106 --> 00:31:46,361
+et nous aurons notre voleur.
+
+847
+00:31:46,397 --> 00:31:48,423
+Je n'ai pas vu le mal.
+
+848
+00:31:48,426 --> 00:31:50,400
+Dans le vol de restes humains ?
+
+849
+00:31:50,436 --> 00:31:52,341
+Après 300 ans, ce n'est pas comme
+
+850
+00:31:52,387 --> 00:31:54,530
+s'il avait une famille
+en deuil pour lui, dehors.
+
+851
+00:31:54,567 --> 00:31:56,190
+Pensez à moi comme un parent en deuil.
+
+852
+00:31:56,228 --> 00:31:58,222
+Un vol de grande envergure
+mon pote ; tu en as pour huit ans.
+
+853
+00:31:58,257 --> 00:31:59,362
+Si je ne vous tue pas.
+
+854
+00:31:59,407 --> 00:32:03,363
+Allez, qu'est-ce qu'un tas d'os
+comme ça peut bien valoir ?
+
+855
+00:32:03,405 --> 00:32:04,123
+Rien du tout.
+
+856
+00:32:04,155 --> 00:32:05,203
+Combien t'as obtenu pour eux ?
+
+857
+00:32:05,408 --> 00:32:06,762
+200 dollars.
+
+858
+00:32:06,795 --> 00:32:11,851
+Ouais. Donc, ce transfert
+à ta banque de 10 000 $,
+
+859
+00:32:11,896 --> 00:32:14,152
+c'est quoi, un héritage ?
+
+860
+00:32:16,406 --> 00:32:18,942
+Pour qui les avez-vous volés ?
+
+861
+00:32:20,806 --> 00:32:23,032
+On n'a pas vraiment fait
+le truc : " échangeons nos noms ".
+
+862
+00:32:23,106 --> 00:32:24,602
+Quelqu'un t'a approché ?
+
+863
+00:32:24,668 --> 00:32:25,432
+Ouais.
+
+864
+00:32:27,306 --> 00:32:28,812
+Voyons. Ok.
+
+865
+00:32:28,857 --> 00:32:30,330
+Lequel était-ce ?
+
+866
+00:32:30,407 --> 00:32:31,000
+Quelle fois ?
+
+867
+00:32:33,768 --> 00:32:34,862
+La première fois.
+
+868
+00:32:36,265 --> 00:32:37,831
+Lui...
+
+869
+00:32:37,867 --> 00:32:41,002
+mais... il avait meilleure mine.
+
+870
+00:32:41,066 --> 00:32:42,462
+Et la seconde fois ?
+
+871
+00:32:42,536 --> 00:32:44,832
+Hum... lui.
+
+872
+00:32:46,036 --> 00:32:47,902
+Ecoutez, les gars, je coopère, ok ?
+
+873
+00:32:47,907 --> 00:32:49,731
+Je rendrai l'argent.
+
+874
+00:32:49,777 --> 00:32:51,573
+Je démissionerai de mon job.
+
+875
+00:32:51,625 --> 00:32:53,071
+Pourquoi ne pas en rester là ?
+
+876
+00:32:53,108 --> 00:32:54,480
+Si on appelait le Procureur ?
+
+877
+00:32:54,526 --> 00:32:56,612
+Vous savez, vous avez besoin d'un
+meilleur processus de sélection au musée.
+
+878
+00:32:56,648 --> 00:32:59,702
+Ironique, considérant le fait
+que nous sous-traitons au FBI.
+
+879
+00:33:02,636 --> 00:33:04,530
+Vous pensez qu'il est dangereux ?
+
+880
+00:33:04,568 --> 00:33:06,433
+Vol, meutre, ouais.
+
+881
+00:33:06,875 --> 00:33:08,391
+La musique.
+
+882
+00:33:08,437 --> 00:33:09,832
+Shh. Il est en dessous.
+
+883
+00:33:09,866 --> 00:33:11,532
+Ce n'est pas de la musique,
+c'est de la cornemuse.
+
+884
+00:33:11,606 --> 00:33:12,900
+Whoa.
+
+885
+00:33:15,608 --> 00:33:16,880
+Mr. Hardewike.
+
+886
+00:33:23,418 --> 00:33:24,593
+Mr. Harde...
+
+887
+00:33:29,795 --> 00:33:31,800
+Peut-être cherchons nous quelqu'un d'autre.
+
+888
+00:33:35,978 --> 00:33:37,770
+Le larynx a été écrasé.
+
+889
+00:33:37,846 --> 00:33:39,913
+Est ce que vous allez donner la même
+cause de la mort à chaque fois ?
+
+890
+00:33:39,978 --> 00:33:41,561
+Va t'on avoir une nouvelle dispute à ce sujet ?
+
+891
+00:33:41,606 --> 00:33:42,791
+Je suis un mec plutôt ouvert, Harry,
+
+892
+00:33:42,837 --> 00:33:44,091
+Mais si vous continuez à pousser comme ça,
+
+893
+00:33:44,137 --> 00:33:45,623
+c'est moi qui vais vous malmener.
+
+894
+00:33:45,665 --> 00:33:48,293
+Comment savez vous que ça ne me plaira pas ?
+
+895
+00:33:51,185 --> 00:33:53,712
+Vous avez dit que Macy est mort
+suite à un écrasement du larynx.
+
+896
+00:33:53,776 --> 00:33:55,743
+Un écrasement du larynx est fatal,
+
+897
+00:33:55,817 --> 00:33:57,841
+ce qui résulte par la mort.
+
+898
+00:33:57,915 --> 00:33:59,041
+Vous aviez tort à ce moment là,
+
+899
+00:33:59,115 --> 00:34:00,541
+et vous avez tort maintenant.
+
+900
+00:34:00,586 --> 00:34:01,953
+Vous voyez ? Il aime ça.
+
+901
+00:34:01,985 --> 00:34:06,090
+J'ai besoin de voir ses radios,
+ainsi que celles de Macy.
+
+902
+00:34:09,475 --> 00:34:12,891
+Ce n'est pas toujours le fait de savoir
+qui a raison et qui a tort.
+
+903
+00:34:13,575 --> 00:34:16,611
+C'est la discution l'important.
+
+904
+00:34:16,676 --> 00:34:18,062
+Une conversation intense
+
+905
+00:34:18,095 --> 00:34:20,250
+peut être la plus merveilleuse
+forme de relation sexuelle.
+
+906
+00:34:20,297 --> 00:34:20,943
+Vous savez quoi ?
+
+907
+00:34:21,015 --> 00:34:22,370
+Ce type est un pervert.
+
+908
+00:34:22,447 --> 00:34:26,201
+Dommages entre le C2 et C4,
+avec un angle de 45 degrées,
+
+909
+00:34:26,248 --> 00:34:29,243
+exactement la même blessure que celle de Macy.
+
+910
+00:34:29,278 --> 00:34:31,972
+On lui a tordu le cou,
+
+911
+00:34:32,048 --> 00:34:35,272
+probablement pendant que l'autre main
+lui a écrasé le larynx.
+
+912
+00:34:35,346 --> 00:34:37,671
+Cela doit vraiment vous frustrer,
+le fait que j'ai raté ça.
+
+913
+00:34:37,746 --> 00:34:39,342
+C'est une technique des Forces Spéciales.
+
+914
+00:34:39,416 --> 00:34:40,712
+Eliminer une sentinelle, lui ecraser le larynx,
+
+915
+00:34:40,776 --> 00:34:41,972
+afin qu'il ne puisse pas crier.
+
+916
+00:34:42,047 --> 00:34:43,542
+Vous l'avez déjà fait ?
+
+917
+00:34:43,616 --> 00:34:45,641
+Non. Notre meurtrier
+fait partie des Forces Spéciales.
+
+918
+00:34:46,645 --> 00:34:48,572
+Votre bio sur internet dit
+que vous avez passé du temps
+
+919
+00:34:48,605 --> 00:34:50,271
+dans les Special Air Services (SAS).
+
+920
+00:34:50,318 --> 00:34:53,072
+Mr Rose a vécu une vie diverse et remplie.
+
+921
+00:34:53,148 --> 00:34:54,412
+Qu'avez-vous ressenti lorsque
+vous avez découvert
+
+922
+00:34:54,446 --> 00:34:56,112
+que le site de fouille avait été truqué ?
+
+923
+00:34:56,178 --> 00:34:57,610
+J'étais déçu, sans aucun doute.
+
+924
+00:34:57,675 --> 00:34:59,173
+Seulement déçu ?
+
+925
+00:34:59,247 --> 00:35:01,340
+Ecoutez, je n'étais certainement pas assez
+en colère pour tuer Ted Macy.
+
+926
+00:35:01,416 --> 00:35:02,973
+Maintenant, pouvons-nous aller
+droit au but, s'il vous plait ?
+
+927
+00:35:03,048 --> 00:35:04,642
+Qu'est-ce que les Special Air Services ?
+
+928
+00:35:04,716 --> 00:35:07,311
+Le SAS (Forces Spéciales Britannique) est
+largement reconnu comme étant l'une des meilleures
+
+929
+00:35:07,346 --> 00:35:09,910
+et des mieux entrainées unité
+de forces spéciales du monde.
+
+930
+00:35:09,977 --> 00:35:11,251
+Avez-vous fait du service actif ?
+
+931
+00:35:11,285 --> 00:35:14,610
+Mr. Rose n'est pas à l'aise
+pour discuter des détails.
+
+932
+00:35:14,677 --> 00:35:16,972
+Je n'aime pas exploiter mon rôle
+dans des opérations
+
+933
+00:35:17,017 --> 00:35:18,213
+qui ont coûtées leur vie à des hommes biens.
+
+934
+00:35:18,255 --> 00:35:20,233
+Maintenant, si tout ce qui vous intéresse
+est mon histoire,
+
+935
+00:35:20,266 --> 00:35:22,142
+il y a une biographie sur mon site web.
+
+936
+00:35:22,187 --> 00:35:23,352
+Bien. Nous voulons simplement savoir
+
+937
+00:35:23,395 --> 00:35:25,343
+si votre réputation est réelle, Monsieur.
+
+938
+00:35:25,417 --> 00:35:27,441
+Eh, nous n'aurons qu'à contacter le SAS.
+
+939
+00:35:27,485 --> 00:35:27,913
+Ils nous le diront.
+
+940
+00:35:29,187 --> 00:35:30,300
+Ecoutez...
+
+941
+00:35:30,348 --> 00:35:31,432
+Bien.
+
+942
+00:35:32,207 --> 00:35:34,443
+N'attendez pas une réponse rapide.
+
+943
+00:35:34,776 --> 00:35:36,042
+Whoa, Bones !
+
+944
+00:35:36,115 --> 00:35:37,041
+C'est une agression !
+
+945
+00:35:37,088 --> 00:35:39,860
+Est-ce que l'un des types des Forces Spéciales
+aurait pu arrêter ça ?
+
+946
+00:35:40,218 --> 00:35:41,251
+Je ne sais pas, vous l'avez eu
+
+947
+00:35:41,285 --> 00:35:42,480
+un peu par surprise tout de même.
+
+948
+00:35:42,517 --> 00:35:43,673
+Celui-ci ne sera pas par surprise.
+
+949
+00:35:43,745 --> 00:35:44,913
+Vous êtes prêt ?
+
+950
+00:35:44,977 --> 00:35:46,513
+Quoi ?
+
+951
+00:35:46,578 --> 00:35:47,561
+Ceci est une vulgaire agression !
+
+952
+00:35:47,598 --> 00:35:48,641
+Nous allons déposer une plainte !
+
+953
+00:35:48,687 --> 00:35:49,693
+Il n'y a aucune chance
+qu'il soit des Forces Spéciales.
+
+954
+00:35:49,727 --> 00:35:51,413
+C'est simplement de la relation
+publique merdique.
+
+955
+00:35:51,458 --> 00:35:53,271
+Très bien, plus de questions.
+
+956
+00:35:53,348 --> 00:35:54,773
+Je demande qu'elle soit arrêtée sur le champ !
+
+957
+00:35:54,848 --> 00:35:56,730
+La ferme, Kendall.
+
+958
+00:35:59,017 --> 00:36:00,330
+Est-ce que vous voulez dire
+à tous les journaux
+
+959
+00:36:00,365 --> 00:36:01,411
+que je traîne une femme en justice
+
+960
+00:36:01,477 --> 00:36:03,170
+pour m'avoir giflé ?
+
+961
+00:36:03,686 --> 00:36:04,971
+Vous n'allez pas avoir d'ennuis pour ça ?
+
+962
+00:36:05,478 --> 00:36:06,420
+3 degrées.
+
+963
+00:36:06,428 --> 00:36:07,601
+Nous faisons simplement quelques recherches.
+
+964
+00:36:08,668 --> 00:36:10,973
+Je te le dis, truqué ou non,
+
+965
+00:36:11,047 --> 00:36:13,012
+il y a quelque chose au fond de ce trou.
+
+966
+00:36:13,657 --> 00:36:15,870
+Je n'ai jamais pu aller jusqu'au fond.
+
+967
+00:36:15,948 --> 00:36:17,413
+Les os étaient posés sur du bois.
+
+968
+00:36:17,477 --> 00:36:19,061
+Je veux voir ce qui y a en dessous.
+
+969
+00:36:19,108 --> 00:36:21,150
+J'ai toujours cru que
+ce serait moi qui le découvrirait.
+
+970
+00:36:21,398 --> 00:36:23,723
+Eh. Tous pour un et un pour tous. Pas vrai ?
+
+971
+00:36:23,805 --> 00:36:26,671
+- Ça c'était les Trois Mousquetaires.
+- Ouais, ils m'ont toujours faits penser à des pirates.
+
+972
+00:36:27,786 --> 00:36:28,810
+Allons-y.
+
+973
+00:36:28,857 --> 00:36:29,850
+Allons-y.
+
+974
+00:36:36,576 --> 00:36:37,342
+Ok.
+
+975
+00:37:05,015 --> 00:37:07,543
+Central, 22705.
+
+976
+00:37:07,615 --> 00:37:10,313
+Nom de famille : McGinnis ; Prénom : Dane ;
+Initiale du 2ème prénom : P.
+
+977
+00:37:10,378 --> 00:37:12,570
+J'ai besoin de savoir dans
+quelle branche de l'armée il a servi.
+
+978
+00:37:12,646 --> 00:37:14,673
+<i>Bien reçu, 22705.</i>
+
+979
+00:37:14,745 --> 00:37:15,711
+<i>Restez en attente.</i>
+
+980
+00:37:15,776 --> 00:37:17,112
+Pourquoi Dane ?
+
+981
+00:37:17,177 --> 00:37:18,611
+Il a dit que Hodgins nageait
+comme un squid (Calmar).
+
+982
+00:37:18,677 --> 00:37:19,641
+Squint (Loucheur).
+(Terme utilisé pour décrire un intello)
+
+983
+00:37:19,717 --> 00:37:20,610
+Il a dû dire "squint".
+
+984
+00:37:20,678 --> 00:37:22,481
+Non, j'ai dit "squint," ok ?
+
+985
+00:37:22,486 --> 00:37:25,591
+Dane a dit "squid", c'est de cette façon
+que les militaires appellent les marins.
+
+986
+00:37:25,878 --> 00:37:27,543
+Est-ce que c'est ça qu'ils appellent un Hail Mary pass ?
+(Terme utilisé dans le football US pour désigner une
+passe faite dans les derniers instant d'une mi-temps ou du match)
+dans le but de marquer un Touch Down."
+
+987
+00:37:28,305 --> 00:37:29,362
+<i>Tu me reçois ?</i>
+
+988
+00:37:29,408 --> 00:37:30,431
+5 sur 5.
+
+989
+00:37:30,468 --> 00:37:32,570
+<i>Mec, la visibilité est faible aujourd'hui.</i>
+
+990
+00:37:32,645 --> 00:37:33,413
+Ouais.
+
+991
+00:37:33,445 --> 00:37:36,412
+D'habitude ça va mieux après
+le 1er niveau à 12 mètres.
+
+992
+00:37:36,476 --> 00:37:39,922
+Yo-ho-ho et une bouteille de rhum.
+
+993
+00:37:39,967 --> 00:37:43,371
+N'évoque pas les fantômes, Doc.
+
+994
+00:37:43,445 --> 00:37:44,781
+Il y en a déjà trop là en-bas
+
+995
+00:37:44,815 --> 00:37:46,313
+qui attendent de réclamer tes fesses.
+
+996
+00:37:46,375 --> 00:37:47,842
+Fantômes.
+
+997
+00:37:47,918 --> 00:37:49,892
+D'accord.
+
+998
+00:37:50,375 --> 00:37:52,510
+<i>22705, Central.</i>
+
+999
+00:37:52,575 --> 00:37:54,742
+<i>McGinnis, Dane, a servi dans la Navy.</i>
+
+1000
+00:37:54,816 --> 00:37:58,141
+<i>Grade : Maître Officier Marinier.
+Unité Navale Spéciale de la Guerre.</i>
+
+1001
+00:37:58,216 --> 00:37:59,672
+Oh, ouais. Il devait en faire partie.
+
+1002
+00:37:59,745 --> 00:38:01,210
+Quoi ?
+
+1003
+00:38:12,048 --> 00:38:13,042
+Ce type était un Navy Seal.
+
+1004
+00:38:13,606 --> 00:38:14,943
+Et alors. Vous étiez un guide.
+
+1005
+00:38:15,017 --> 00:38:15,621
+Un Ranger.
+
+1006
+00:38:15,657 --> 00:38:18,442
+J'étais un Ranger, Bones, ok ?
+
+1007
+00:38:18,515 --> 00:38:19,662
+Je n'étais pas un guide.
+
+1008
+00:38:19,707 --> 00:38:20,871
+Les guides, ils vous montrent
+des chutes d'eaux,
+
+1009
+00:38:20,948 --> 00:38:21,840
+ils vous vendent des cookies.
+
+1010
+00:38:21,916 --> 00:38:23,512
+J'étais un Ranger.
+
+1011
+00:38:23,747 --> 00:38:25,711
+Que fait-il près du puit ?
+
+1012
+00:38:27,776 --> 00:38:28,923
+Est-ce que les Rangers ont peur des SEALS ?
+
+1013
+00:38:28,957 --> 00:38:30,031
+Quoi ? Allons Bones, non.
+
+1014
+00:38:30,068 --> 00:38:32,101
+Les Rangers n'ont peur de personne.
+
+1015
+00:38:32,146 --> 00:38:33,790
+D'accord ?
+
+1016
+00:38:33,918 --> 00:38:34,870
+Les SEALS sont plutôt bons, pourtant.
+
+1017
+00:38:48,727 --> 00:38:49,570
+Eh, Dane.
+
+1018
+00:38:49,645 --> 00:38:51,471
+Eh. Quoi de neuf ?
+
+1019
+00:38:51,507 --> 00:38:52,990
+Nous savons que c'était vous.
+
+1020
+00:38:53,028 --> 00:38:54,192
+Bones, s'il vous plait...
+
+1021
+00:38:54,238 --> 00:38:55,371
+Pourquoi ? Vous avez une arme.
+
+1022
+00:38:55,407 --> 00:38:55,863
+Qu'est-ce qu'il a ?
+
+1023
+00:38:55,905 --> 00:38:57,421
+Il a quelqu'un dans le puits.
+
+1024
+00:38:57,468 --> 00:38:58,840
+<i>A quelle profondeur je suis ?</i>
+
+1025
+00:38:59,238 --> 00:39:00,351
+Est-ce que c'est Hodgins ?
+
+1026
+00:39:00,387 --> 00:39:01,470
+<i>Eh Dane !..</i>
+
+1027
+00:39:03,015 --> 00:39:04,603
+<i>Je n'arrive pas à lire la profondeur
+sur mon équipement.</i>
+
+1028
+00:39:08,446 --> 00:39:10,511
+<i>Eh, qu'est-ce qui se passe ?</i>
+
+1029
+00:39:10,576 --> 00:39:12,540
+<i>Est-ce qu'il y a quelqu'un là haut ?</i>
+
+1030
+00:39:12,615 --> 00:39:14,341
+<i>Pourquoi tu me réponds pas ?</i>
+
+1031
+00:39:14,416 --> 00:39:17,610
+Maître McGinnis, écartez-vous
+du tuyau d'arrivé d'air.
+
+1032
+00:39:17,675 --> 00:39:18,073
+Ouais ?
+
+1033
+00:39:18,115 --> 00:39:21,670
+Eh bien moi, j'ai besoin que vous jetiez
+votre arme dans le puits.
+
+1034
+00:39:21,746 --> 00:39:23,313
+Ensuite jetez-moi vos clés.
+
+1035
+00:39:23,375 --> 00:39:25,493
+Et enfin, menottez-vous à cette grue.
+
+1036
+00:39:25,538 --> 00:39:27,343
+Je prends votre voiture.
+
+1037
+00:39:27,507 --> 00:39:29,172
+Sinon, je vais couper ce tuyau,
+
+1038
+00:39:29,246 --> 00:39:30,440
+et votre ami va mourir.
+
+1039
+00:39:30,518 --> 00:39:31,570
+Oui, faîtes ça.
+
+1040
+00:39:31,645 --> 00:39:32,743
+Bones.
+
+1041
+00:39:32,815 --> 00:39:33,611
+Ça n'arrivera pas.
+
+1042
+00:39:33,835 --> 00:39:34,611
+<i>Est-ce que tu m'entends ?</i>
+
+1043
+00:39:36,948 --> 00:39:38,810
+<i>Je sens un courant marin très frais.</i>
+
+1044
+00:39:39,608 --> 00:39:42,513
+<i>Soit une source, ou bien
+un conduit d'eau marine.</i>
+
+1045
+00:39:42,575 --> 00:39:44,811
+<i>C'est de l'eau clair et propre,
+donc la visibilité est meilleure.</i>
+
+1046
+00:39:44,877 --> 00:39:46,870
+Vous avez tué 2 hommes. Je ne peux pas
+vous laisser partir comme ça.
+
+1047
+00:39:47,548 --> 00:39:49,940
+Ces types...
+
+1048
+00:39:50,015 --> 00:39:51,470
+mettant des faux os là-dedans,
+
+1049
+00:39:51,546 --> 00:39:53,811
+transformant tout ça en une escroquerie.
+
+1050
+00:39:53,877 --> 00:39:57,113
+Mon frère est mort là en bas
+en cherchant ce trésor.
+
+1051
+00:39:57,175 --> 00:39:59,073
+Beaucoup d'hommes biens sont morts.
+
+1052
+00:39:59,147 --> 00:40:01,271
+C'était leur vie.
+
+1053
+00:40:01,346 --> 00:40:02,670
+Ces types les ont déshonorés.
+
+1054
+00:40:02,746 --> 00:40:04,511
+<i>Dane, est-ce que tu peux m'entendre mec ?</i>
+
+1055
+00:40:04,578 --> 00:40:06,871
+<i>Je suis au fond.</i>
+
+1056
+00:40:06,946 --> 00:40:08,341
+Est-ce que vous êtes assez bon pour tirer
+
+1057
+00:40:08,376 --> 00:40:09,732
+avant que je coupe ce tuyau, Ranger ?
+
+1058
+00:40:09,746 --> 00:40:10,673
+Assez bon.
+
+1059
+00:40:10,745 --> 00:40:11,773
+Seulement assez bon ?
+
+1060
+00:40:11,847 --> 00:40:13,041
+S'il vous plait, je travaille.
+
+1061
+00:40:15,778 --> 00:40:20,372
+<i>J'ai besoin de plus de corde Dane.
+Qu'est-ce qui se passe ?</i>
+
+1062
+00:40:21,417 --> 00:40:22,931
+<i>Je vais prendre un échantillon.</i>
+
+1063
+00:40:23,007 --> 00:40:23,921
+<i>Je peux voir où</i>
+
+1064
+00:40:23,967 --> 00:40:26,562
+<i>les murs du puits se sont
+effondrés auparavant.</i>
+
+1065
+00:40:29,415 --> 00:40:30,473
+<i>Oh mon Dieu !</i>
+
+1066
+00:40:30,546 --> 00:40:32,671
+<i>Sainte...</i>
+
+1067
+00:40:33,917 --> 00:40:35,722
+<i>Est-ce que tu peux voir ça Dane ?</i>
+
+1068
+00:40:38,016 --> 00:40:38,520
+Qu'est-ce que c'est ?
+
+1069
+00:40:38,565 --> 00:40:40,411
+Regarde.
+
+1070
+00:40:40,145 --> 00:40:40,171
+Ouais.
+
+1071
+00:40:40,215 --> 00:40:41,771
+Je regarde et vous me tirez dessus.
+
+1072
+00:40:44,776 --> 00:40:45,812
+<i>Dane !</i>
+
+1073
+00:40:45,877 --> 00:40:47,113
+<i>Est-ce que tu peux voir ça mec ?!</i>
+
+1074
+00:40:47,156 --> 00:40:48,473
+C'est une pièce d'or.
+
+1075
+00:40:48,548 --> 00:40:50,332
+Ouais, c'est probablement un autre objet
+
+1076
+00:40:50,365 --> 00:40:52,070
+qu'ils ont volé de votre musée
+et qu'ils ont jeté là-dedans.
+
+1077
+00:40:52,147 --> 00:40:53,971
+<i>C'est réel !</i>
+
+1078
+00:40:54,047 --> 00:40:55,370
+<i>C'est un gros...!</i>
+
+1079
+00:40:58,646 --> 00:41:00,911
+Vous voulez la voir, vous allez devoir
+remonter Hodgins.
+
+1080
+00:41:01,986 --> 00:41:03,313
+S'il vous plait.
+
+1081
+00:41:03,378 --> 00:41:06,741
+Il est là en bas parce qu'il croit.
+
+1082
+00:41:06,815 --> 00:41:08,173
+Il n'est pas différent de vous,
+
+1083
+00:41:08,246 --> 00:41:10,010
+pas différent de votre frère.
+
+1084
+00:41:10,076 --> 00:41:11,270
+Remontez le.
+
+1085
+00:41:12,438 --> 00:41:14,042
+Faites le pour votre frère.
+
+1086
+00:41:27,067 --> 00:41:30,453
+Un demi-doublon d'or Breen de 984 original
+
+1087
+00:41:30,486 --> 00:41:33,732
+créé par Ephraim Brasher,
+gravé par Ephraim Brasher,
+
+1088
+00:41:33,775 --> 00:41:36,411
+et, retenez votre souffle,
+mesdames et messieurs,
+
+1089
+00:41:36,448 --> 00:41:38,673
+de 66 carats.
+
+1090
+00:41:38,706 --> 00:41:40,250
+Une vraie pièce d'or de pirate.
+
+1091
+00:41:40,296 --> 00:41:41,770
+Combien y en a t-il encore là en bas ?
+
+1092
+00:41:41,805 --> 00:41:44,342
+Branson Rose est d'accord pour laisser
+le musée faire l'authentification
+
+1093
+00:41:44,416 --> 00:41:45,942
+de tout le trésor lorsqu'ils le remonterons.
+
+1094
+00:41:46,015 --> 00:41:47,373
+Il n'y en aura plus.
+
+1095
+00:41:47,445 --> 00:41:48,643
+Qu'est-ce qui vous fait dire ça ?
+
+1096
+00:41:48,717 --> 00:41:50,270
+J'étais là-dessous.
+
+1097
+00:41:50,345 --> 00:41:52,241
+Il ne va pas l'abandonner si facilement.
+
+1098
+00:41:52,318 --> 00:41:53,201
+Mais le trésor a été localisé.
+
+1099
+00:41:53,235 --> 00:41:55,111
+Et je suis sûr qu'il avait été
+localisé auparavant.
+
+1100
+00:41:55,148 --> 00:41:57,111
+Je prends ça.
+
+1101
+00:42:02,166 --> 00:42:04,093
+Vous croyez qu'il est heureux
+d'être de retour à la maison ?
+
+1102
+00:42:04,127 --> 00:42:06,071
+Eh bien, c'est ce qu'il me semble.
+
+1103
+00:42:11,686 --> 00:42:12,442
+Hah.
+
+1104
+00:42:12,985 --> 00:42:14,071
+Il n'est pas heureux.
+
+1105
+00:42:14,145 --> 00:42:15,140
+Qu'est-ce que vous voulez dire ?
+
+1106
+00:42:15,215 --> 00:42:16,370
+Hodgins a raison.
+
+1107
+00:42:17,066 --> 00:42:17,840
+Il serait bien plus heureux
+
+1108
+00:42:17,916 --> 00:42:19,010
+au fond de ce puits.
+
+1109
+00:42:19,077 --> 00:42:20,241
+Avec les autres pirates.
+
+1110
+00:42:22,975 --> 00:42:23,872
+Arr !
+
+1111
+00:42:23,946 --> 00:42:25,272
+Arr, compagnon !
+
+1112
+00:42:25,345 --> 00:42:27,543
+Arr! Arr, compagnon !
+

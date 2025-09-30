@@ -1,0 +1,2428 @@
+1
+00:00:03,128 --> 00:00:04,373
+Previously on <i>Alias:</i>
+
+2
+00:00:04,462 --> 00:00:07,333
+Jack Bristow, this is Ariana Kane.
+
+3
+00:00:07,424 --> 00:00:10,211
+Ms Kane is the head
+of Alliance Counterintelligence.
+
+4
+00:00:10,301 --> 00:00:11,677
+She's here to investigate
+
+5
+00:00:11,761 --> 00:00:14,928
+the events leading up to
+my wife Emily's disappearance
+
+6
+00:00:15,015 --> 00:00:17,802
+and the subsequent attempts
+to blackmail me.
+
+7
+00:00:17,892 --> 00:00:19,885
+If Sloane gets ahold of
+that Echelon terminal,
+
+8
+00:00:19,978 --> 00:00:22,136
+well, the Alliance will be able
+to eavesdrop on corporations,
+
+9
+00:00:22,230 --> 00:00:24,388
+law enforcement, political campaigns.
+
+10
+00:00:24,482 --> 00:00:28,527
+The potential for blackmail
+and insider trading would be unlimited.
+
+11
+00:00:28,611 --> 00:00:33,108
+Gerard Cuvee, former leader
+of the People's Revolutionary Front.
+
+12
+00:00:33,199 --> 00:00:36,782
+One of Cuvee's men placed a call
+to a data-storage facility in London.
+
+13
+00:00:36,870 --> 00:00:39,787
+It's likely Cuvee duplicated
+the Echelon software
+
+14
+00:00:39,873 --> 00:00:42,280
+and had them stored
+in a secure server there.
+
+15
+00:00:42,375 --> 00:00:45,127
+- Sydney, you're going in with Marshall.
+- Wait a minute. What?
+
+16
+00:00:45,211 --> 00:00:49,161
+You're the only one qualified to hack
+the server without an electronic device.
+
+17
+00:00:49,257 --> 00:00:51,582
+Marshall has a photographic memory.
+
+18
+00:00:51,676 --> 00:00:54,463
+Once the files flash across the screen,
+he'll remember them.
+
+19
+00:00:54,554 --> 00:01:00,474
+- I can't just give SD-6 a fake Marshall.
+- No. But we can pull him out of SD-6.
+
+20
+00:01:01,936 --> 00:01:03,181
+Mom, I'll be home in a little while.
+
+21
+00:01:03,271 --> 00:01:06,272
+I'm just getting back from
+my big business trip in London.
+
+22
+00:01:11,279 --> 00:01:13,984
+What do you mean? We didn't pick up
+Marshall at the intercept point? Who did?
+
+23
+00:01:14,908 --> 00:01:17,315
+Please don't hurt me.
+
+24
+00:01:26,127 --> 00:01:28,084
+Some people think there's a conspiracy,
+
+25
+00:01:28,171 --> 00:01:30,709
+that the government
+eavesdrops on everyone.
+
+26
+00:01:30,799 --> 00:01:32,542
+It's no conspiracy.
+
+27
+00:01:32,634 --> 00:01:36,085
+Right now, satellites and
+ground-station antennas are listening in.
+
+28
+00:01:36,179 --> 00:01:38,551
+Faxes, Internet communications,
+phone calls,
+
+29
+00:01:38,640 --> 00:01:41,925
+all routed to high-speed voice
+and optical recognition computers.
+
+30
+00:01:42,018 --> 00:01:44,177
+They can analyse words,
+spoken and written,
+
+31
+00:01:44,270 --> 00:01:46,180
+in every common language on Earth.
+
+32
+00:01:46,272 --> 00:01:50,021
+- The system's called Echelon.
+- Yeah, I heard about Echelon.
+
+33
+00:01:50,110 --> 00:01:52,945
+I just don't understand how it's legal.
+
+34
+00:01:53,029 --> 00:01:55,816
+So what? It's just, like, a computer
+that listens to and reads everything?
+
+35
+00:01:55,907 --> 00:01:57,698
+Yeah, looking for key words.
+
+36
+00:01:57,784 --> 00:02:01,235
+The system scans
+two million conversations an hour.
+
+37
+00:02:01,329 --> 00:02:04,116
+Yeah. While shamelessly
+violating the Constitution.
+
+38
+00:02:04,207 --> 00:02:06,247
+The National Security Agency argues
+
+39
+00:02:06,334 --> 00:02:08,825
+it's one of its most important weapons
+against terrorists.
+
+40
+00:02:08,920 --> 00:02:11,755
+And they don't abuse the system.
+
+41
+00:02:11,840 --> 00:02:13,998
+Somehow that's unreassuring.
+
+42
+00:02:14,092 --> 00:02:16,583
+Well, there's this man,
+named Gerard Cuvee,
+
+43
+00:02:16,678 --> 00:02:18,421
+who figured out how to hack into Echelon.
+
+44
+00:02:18,513 --> 00:02:21,929
+He was able to pick up
+secure military communications.
+
+45
+00:02:22,017 --> 00:02:27,177
+Because of that, he was able to locate
+and destroy a US military lab in Dresden.
+
+46
+00:02:27,272 --> 00:02:30,855
+In London, we shut down
+Cuvee's access to Echelon.
+
+47
+00:02:30,942 --> 00:02:34,726
+And, thank God, kept it away from SD-6.
+
+48
+00:02:35,238 --> 00:02:37,646
+So you get Echelon,
+you become Big Brother.
+
+49
+00:02:37,741 --> 00:02:44,277
+The best thing about this mission - this guy
+that I work with, this sweetheart Marshall,
+
+50
+00:02:44,372 --> 00:02:48,785
+was pulled out of SD-6
+and taken into protective custody.
+
+51
+00:02:48,877 --> 00:02:51,581
+The CIA's gonna give him a life.
+
+52
+00:02:52,922 --> 00:02:54,998
+A real life.
+
+53
+00:02:56,301 --> 00:03:00,548
+I can't tell you what a relief it is
+knowing he's safe.
+
+54
+00:03:08,271 --> 00:03:12,483
+You took something
+that doesn't belong to you.
+
+55
+00:03:12,567 --> 00:03:15,354
+My employer would like it back.
+
+56
+00:03:15,445 --> 00:03:18,896
+Help me. Help, help, help, help.
+
+57
+00:03:29,584 --> 00:03:31,624
+No. Please. No. No. No.
+
+58
+00:03:39,302 --> 00:03:46,301
+Epoxy is a binary compound.
+You have just ingested the resin.
+
+59
+00:03:46,393 --> 00:03:49,927
+Alone, it's not toxic.
+
+60
+00:03:50,021 --> 00:03:57,483
+But in combination with a hardener,
+the epoxy cures,
+
+61
+00:03:58,279 --> 00:04:01,233
+passing from a liquid state,
+
+62
+00:04:03,159 --> 00:04:05,318
+through a gel state,
+
+63
+00:04:07,706 --> 00:04:10,706
+to a solid state.
+
+64
+00:04:13,962 --> 00:04:20,082
+This transformation
+will puncture your vital organs,
+
+65
+00:04:20,176 --> 00:04:24,388
+block your windpipe,
+causing you to suffocate.
+
+66
+00:04:27,142 --> 00:04:30,012
+So, let's start over.
+
+67
+00:04:30,979 --> 00:04:34,514
+The Echelon operating system -
+where is it?
+
+68
+00:04:39,237 --> 00:04:42,606
+She was the only light I knew
+
+69
+00:04:42,699 --> 00:04:45,700
+She was the real
+
+70
+00:04:48,204 --> 00:04:50,411
+What?
+
+71
+00:04:50,498 --> 00:04:53,120
+I have a crush on a guy at work.
+
+72
+00:04:53,209 --> 00:04:55,879
+Really? Who is he?
+
+73
+00:04:55,962 --> 00:05:00,174
+Someone in my department. We've worked
+together for about a year now.
+
+74
+00:05:00,258 --> 00:05:03,093
+You're kidding me.
+What's his name?
+
+75
+00:05:05,722 --> 00:05:07,798
+Michael.
+
+76
+00:05:08,308 --> 00:05:10,217
+He's...
+
+77
+00:05:12,562 --> 00:05:15,018
+I don't know how to describe him.
+
+78
+00:05:15,106 --> 00:05:18,226
+He's smart and he's funny.
+
+79
+00:05:19,152 --> 00:05:21,192
+He's so cute.
+
+80
+00:05:21,279 --> 00:05:23,770
+- Hot cute, not goofy cute?
+- Hot cute.
+
+81
+00:05:26,576 --> 00:05:29,743
+So why haven't I met this guy?
+
+82
+00:05:29,829 --> 00:05:31,952
+- He has a girlfriend.
+- Of course he has.
+
+83
+00:05:32,040 --> 00:05:33,949
+Which is ultimately irrelevant anyway.
+
+84
+00:05:34,042 --> 00:05:37,078
+The bank has a policy
+against co-workers dating.
+
+85
+00:05:37,170 --> 00:05:39,542
+- You know you could quit.
+- Francie.
+
+86
+00:05:39,631 --> 00:05:41,670
+- I don't know what kind of hold...
+- They don't have anything on me.
+
+87
+00:05:41,758 --> 00:05:44,427
+I just can't quit my job.
+
+88
+00:05:44,511 --> 00:05:48,259
+Thing is, I haven't heard you
+talk like this in forever.
+
+89
+00:05:48,348 --> 00:05:50,755
+No one in the free world
+works as hard as you.
+
+90
+00:05:50,850 --> 00:05:53,139
+I know it seems that way.
+
+91
+00:05:53,228 --> 00:05:57,522
+Maybe you and Michael are destined.
+Maybe he can quit.
+
+92
+00:05:59,150 --> 00:06:01,476
+I gotta go.
+
+93
+00:06:06,700 --> 00:06:08,739
+- What's wrong?
+- Marshall was abducted.
+
+94
+00:06:08,827 --> 00:06:09,609
+What?
+
+95
+00:06:09,703 --> 00:06:11,779
+Our plan was to intercept him
+on his way home from LAX.
+
+96
+00:06:11,871 --> 00:06:12,986
+I know what our plan was.
+
+97
+00:06:13,081 --> 00:06:17,542
+The extraction team was about to move in
+when they saw this.
+
+98
+00:06:17,627 --> 00:06:21,791
+We ran the plates on one of the SUVs.
+It was rented by Charles Williamson.
+
+99
+00:06:21,881 --> 00:06:25,630
+We put his photo ID
+through a facial-recognition database.
+
+100
+00:06:25,719 --> 00:06:29,551
+It matched a known associate
+of Gerard Cuvee.
+
+101
+00:06:29,639 --> 00:06:31,431
+What steps are being taken?
+
+102
+00:06:31,516 --> 00:06:34,517
+CIA has got one team radiating out from
+the abduction point
+
+103
+00:06:34,602 --> 00:06:36,595
+and another in London retracing his steps.
+
+104
+00:06:36,688 --> 00:06:41,564
+Our steps. The mission in London
+was my op. Marshall was my responsibility.
+
+105
+00:06:41,651 --> 00:06:44,818
+Before being captured,
+Marshall emailed Cuvee's copy
+
+106
+00:06:44,904 --> 00:06:47,146
+of the Echelon access program to SD-6.
+
+107
+00:06:47,240 --> 00:06:50,574
+We took away Cuvee's access to Echelon
+and gave it to SD-6?
+
+108
+00:06:50,660 --> 00:06:55,452
+Yes. But when SD-6 downloaded
+the program they discovered a problem.
+
+109
+00:06:55,790 --> 00:06:59,040
+Marshall's email
+was broken up into packets of data
+
+110
+00:06:59,127 --> 00:07:03,789
+and routed to SD-6 via Internet service
+providers around the world.
+
+111
+00:07:03,882 --> 00:07:09,552
+However, there was a malfunction and
+several data packets were not transmitted.
+
+112
+00:07:09,637 --> 00:07:12,722
+Without them, we cannot access Echelon.
+
+113
+00:07:12,807 --> 00:07:15,179
+Can we fill in the missing pieces?
+
+114
+00:07:15,268 --> 00:07:18,222
+I'm told it would take six months,
+and even then there's no guarantee.
+
+115
+00:07:18,313 --> 00:07:19,772
+Do we know where did the error occur?
+
+116
+00:07:19,856 --> 00:07:23,723
+A government-operated facility
+in Ho Chi Minh City.
+
+117
+00:07:23,818 --> 00:07:26,570
+I'm sending in Sydney and Dixon
+to retrieve them.
+
+118
+00:07:26,654 --> 00:07:30,320
+Who's leading the team
+to recover Marshall?
+
+119
+00:07:31,659 --> 00:07:34,660
+We've changed his access codes.
+
+120
+00:07:34,746 --> 00:07:38,826
+There is nothing that Marshall can tell
+Cuvee that could possibly hurt us.
+
+121
+00:07:38,917 --> 00:07:42,083
+He will be tortured.
+Most likely killed.
+
+122
+00:07:42,170 --> 00:07:45,171
+Oh, yes, I'm sure he will be.
+
+123
+00:07:45,256 --> 00:07:50,761
+I've already contacted SD-4. There'll be
+a replacement in Op Tech by morning.
+
+124
+00:07:51,596 --> 00:07:53,885
+That was the extent of his concern.
+
+125
+00:07:53,973 --> 00:07:57,224
+It was as if someone
+had overcooked his steak.
+
+126
+00:07:57,310 --> 00:07:59,137
+Well, you know what Cuvee's gonna do.
+
+127
+00:07:59,229 --> 00:08:02,099
+He's gonna try to get Marshall
+to reverse-engineer the software,
+
+128
+00:08:02,190 --> 00:08:03,139
+get back online.
+
+129
+00:08:03,233 --> 00:08:07,444
+Yes. But you need two things to get on
+Echelon: the software and an access point.
+
+130
+00:08:07,529 --> 00:08:10,648
+The software's like a map -
+it leads you to the doorway of the system.
+
+131
+00:08:10,740 --> 00:08:13,445
+The access point is the door.
+Most likely a satellite.
+
+132
+00:08:13,535 --> 00:08:17,484
+If we can find the door Cuvee went through
+and lock it, he won't get on.
+
+133
+00:08:17,580 --> 00:08:18,695
+Not even with Marshall's help.
+
+134
+00:08:18,790 --> 00:08:22,040
+The problem is, Diagnostics has run
+comprehensive systems analysis
+
+135
+00:08:22,127 --> 00:08:23,407
+and they can't find the breach.
+
+136
+00:08:23,503 --> 00:08:26,872
+Your mother thinks Cuvee may have used
+a Russian network to make contact.
+
+137
+00:08:26,965 --> 00:08:30,001
+- Their version of Echelon, called SORM.
+- She told you that?
+
+138
+00:08:30,093 --> 00:08:35,549
+I spoke with her. She thinks she can find
+the back door. But she has terms.
+
+139
+00:08:36,391 --> 00:08:39,475
+If you wanna know where Cuvee
+breached the system, it'll take time.
+
+140
+00:08:39,561 --> 00:08:44,187
+But I could do it - if I were given access
+to Echelon. No restrictions.
+
+141
+00:08:44,274 --> 00:08:47,025
+Kendall will never give that to you.
+
+142
+00:08:47,110 --> 00:08:50,728
+Then I would simply ask you
+to inform Mr Kendall
+
+143
+00:08:50,822 --> 00:08:56,777
+that the technicians he'll assign to do
+the job will discover it is like quicksand.
+
+144
+00:08:56,870 --> 00:08:59,740
+Your father was correct.
+I declined the offer.
+
+145
+00:08:59,831 --> 00:09:04,125
+Second only to Arvin Sloane, Irina Derevko
+is the last person I want having access to
+
+146
+00:09:04,210 --> 00:09:05,835
+the US Government's secure network.
+
+147
+00:09:05,920 --> 00:09:07,379
+She'd be watched.
+
+148
+00:09:07,464 --> 00:09:10,548
+I mean, if she tried anything unusual,
+we could just shut the system down.
+
+149
+00:09:10,633 --> 00:09:13,338
+Access to computers and
+telecommunications equipment
+
+150
+00:09:13,428 --> 00:09:16,215
+is specifically prohibited by
+your mother's immunity agreement.
+
+151
+00:09:16,306 --> 00:09:18,464
+- I think we might be wasting time.
+- Agent Bristow,
+
+152
+00:09:18,558 --> 00:09:22,057
+we hire qualified technicians around here.
+What do you say we give 'em a shot?
+
+153
+00:09:22,145 --> 00:09:24,102
+Your countermission is simple.
+
+154
+00:09:24,189 --> 00:09:28,056
+In Vietnam you'll download
+the data packets SD-6 is looking for
+
+155
+00:09:28,151 --> 00:09:30,903
+and switch it with this.
+It's corrupted data.
+
+156
+00:09:30,987 --> 00:09:34,771
+We'll have what SD-6 needs and
+they'll never be able to access Echelon.
+
+157
+00:09:34,866 --> 00:09:37,867
+And, Syd, we'll find Marshall.
+
+158
+00:09:44,209 --> 00:09:46,960
+I will ask you one more time.
+
+159
+00:09:47,045 --> 00:09:50,745
+Where is the Echelon software
+you took from us?
+
+160
+00:09:51,174 --> 00:09:54,673
+I swear on my mother's grave, I don't know.
+
+161
+00:09:56,012 --> 00:10:00,555
+And, though technically Mom's still alive,
+she has picked out her grave site...
+
+162
+00:10:00,642 --> 00:10:03,845
+Refusal to cooperate has a price.
+
+163
+00:10:05,814 --> 00:10:07,972
+No, no, no, no, no.
+
+164
+00:10:10,610 --> 00:10:13,231
+We can find your mother.
+
+165
+00:10:16,491 --> 00:10:19,278
+OK. OK.
+
+166
+00:10:19,953 --> 00:10:22,360
+OK, OK.
+
+167
+00:10:22,455 --> 00:10:24,993
+I sent the Echelon software to SD-6.
+
+168
+00:10:25,083 --> 00:10:31,038
+There's nothing I can do about that,
+I swear. But I saw the code. All of it.
+
+169
+00:10:31,131 --> 00:10:36,208
+And I have a photographic memory,
+so I can re-create it, I can rewrite it.
+
+170
+00:10:36,302 --> 00:10:40,881
+Just don't hurt my mother. Please.
+
+171
+00:10:40,974 --> 00:10:43,429
+You leave my mother alone.
+
+172
+00:10:44,436 --> 00:10:46,974
+We're off to a very good start.
+
+173
+00:11:02,704 --> 00:11:05,788
+- What are you doing?
+- Downgrading your network privileges.
+
+174
+00:11:05,874 --> 00:11:09,954
+Pending the outcome of my investigation,
+your security clearance has been revoked.
+
+175
+00:11:10,045 --> 00:11:11,669
+Get out of my office.
+
+176
+00:11:11,755 --> 00:11:14,542
+When Emily was killed,
+you claim you were in Taipei.
+
+177
+00:11:14,632 --> 00:11:15,795
+It is a fact, not a claim.
+
+178
+00:11:15,884 --> 00:11:19,584
+When a blackmailer stole $100 million
+of the Alliance's money
+
+179
+00:11:19,679 --> 00:11:21,506
+in exchange for pictures of that murder,
+you were...
+
+180
+00:11:21,598 --> 00:11:22,926
+On assignment in Istanbul.
+
+181
+00:11:23,016 --> 00:11:27,310
+Doing back-channel, unsupervised work
+you conveniently arranged for yourself.
+
+182
+00:11:27,395 --> 00:11:29,388
+I am a senior officer with discretion
+
+183
+00:11:29,481 --> 00:11:32,600
+to arrange and carry out assignments
+as I see fit.
+
+184
+00:11:32,692 --> 00:11:37,153
+- I will not be subject to a witch-hunt.
+- You have no protections here.
+
+185
+00:11:37,238 --> 00:11:42,280
+No civil rights or civil liberties
+or reasonable doubt.
+
+186
+00:11:42,369 --> 00:11:45,738
+- See that I'm not disturbed again.
+- Yes, ma'am.
+
+187
+00:12:04,140 --> 00:12:06,216
+Get everyone you can from Op Tech, now.
+
+188
+00:12:06,309 --> 00:12:09,144
+Notify assets in Istanbul,
+Taipei and Azerbaijan
+
+189
+00:12:09,229 --> 00:12:11,898
+we will need immediate assistance
+in forging hard evidence
+
+190
+00:12:11,981 --> 00:12:15,896
+of my being in each of those locations
+on specific days and times.
+
+191
+00:12:15,985 --> 00:12:20,315
+We have a situation. Ariana Kane -
+the head of Alliance Counterintelligence -
+
+192
+00:12:20,407 --> 00:12:23,324
+she's investigating me in connection
+with the murder of Emily Sloane.
+
+193
+00:12:23,410 --> 00:12:26,280
+She's checking your aliases, the places
+you've been? You're covered for that.
+
+194
+00:12:26,371 --> 00:12:29,740
+Yes - passport stamps, plane tickets -
+enough to withstand a cursory enquiry.
+
+195
+00:12:29,833 --> 00:12:32,999
+This is anything but cursory.
+
+196
+00:12:33,086 --> 00:12:37,000
+I did not kill Emily Sloane.
+But I do have secrets.
+
+197
+00:12:37,090 --> 00:12:39,961
+And the last thing I can afford,
+the last thing Sydney can afford,
+
+198
+00:12:40,051 --> 00:12:45,887
+is someone discovering
+that my loyalty does not lie with SD-6.
+
+199
+00:13:15,503 --> 00:13:20,664
+We got the prints for Istanbul.
+This goes with the car you rented in Taipei.
+
+200
+00:13:20,759 --> 00:13:23,510
+Have we backdated phoney charges
+through my credit card for these locations?
+
+201
+00:13:23,595 --> 00:13:25,552
+Restaurants, rental car agencies, hotels...
+
+202
+00:13:25,638 --> 00:13:28,805
+Room charges, they'll be on file
+with the respective concierges by morning.
+
+203
+00:13:28,892 --> 00:13:30,849
+Good.
+
+204
+00:13:31,811 --> 00:13:33,471
+- Bad time?
+- Yeah.
+
+205
+00:13:33,563 --> 00:13:36,019
+What else is new?
+You left word with Analysis
+
+206
+00:13:36,107 --> 00:13:38,942
+when Tippin's psych profile came back
+you wanted to be informed.
+
+207
+00:13:39,027 --> 00:13:42,443
+- Anything I should know?
+- Just run protocol and bring him in.
+
+208
+00:13:42,530 --> 00:13:45,531
+- You got it.
+- What about surveillance?
+
+209
+00:13:45,617 --> 00:13:48,404
+I thought about rotoscoping you
+out of some other surveillance feed,
+
+210
+00:13:48,495 --> 00:13:50,487
+but if they slow down the frame rate
+they'd know it was altered.
+
+211
+00:13:50,580 --> 00:13:52,205
+That's why we went with the greenscreen.
+
+212
+00:13:52,290 --> 00:13:55,706
+This is the original surveillance feed
+from the Istanbul Intercontinental.
+
+213
+00:13:55,794 --> 00:13:59,542
+This is the footage
+that we filmed earlier.
+
+214
+00:13:59,631 --> 00:14:02,916
+Use some subpixel masking and we get...
+
+215
+00:14:03,468 --> 00:14:06,469
+Look, I even gave you a shadow.
+
+216
+00:14:06,554 --> 00:14:09,555
+We've got your fingerprints on
+rental-car keys, on seat-belt buckles.
+
+217
+00:14:09,641 --> 00:14:11,515
+- Hair samples stitched into pillow cases.
+- Good.
+
+218
+00:14:11,601 --> 00:14:13,060
+- I want to review everything.
+- I think...
+
+219
+00:14:13,144 --> 00:14:16,181
+- Thinking isn't sufficient. I wanna know.
+- You're right.
+
+220
+00:14:16,272 --> 00:14:19,392
+I wanna see the plane tickets.
+
+221
+00:14:34,666 --> 00:14:38,995
+Nina Bailes, from Tech-Sky Industries.
+I'm here to see Mr Nguyen.
+
+222
+00:14:39,087 --> 00:14:44,461
+Accessing the system now.
+I should be in mid-presentation.
+
+223
+00:14:46,052 --> 00:14:48,009
+Thank you for giving Tech-Sky
+the opportunity
+
+224
+00:14:48,096 --> 00:14:52,141
+to talk with you about
+our microsatellite technology.
+
+225
+00:14:57,313 --> 00:15:01,394
+At your direction, the projector will emit
+a high-intensity pulsed strobe light
+
+226
+00:15:01,484 --> 00:15:04,569
+that flashes at the same frequency
+as human brain waves,
+
+227
+00:15:04,654 --> 00:15:07,145
+effectively rendering targets unconscious.
+
+228
+00:15:07,240 --> 00:15:10,574
+I can get the data packets and return,
+and they won't know I've been gone?
+
+229
+00:15:10,660 --> 00:15:13,412
+For three minutes
+they'll experience it like a daydream.
+
+230
+00:15:13,496 --> 00:15:17,197
+Any longer, they'll regain consciousness
+and you'll be found out.
+
+231
+00:15:17,292 --> 00:15:20,957
+Now, make sure
+you put these glasses on first.
+
+232
+00:15:21,046 --> 00:15:23,916
+They're time-synchronised with the pulses,
+so you'll be unaffected.
+
+233
+00:15:24,007 --> 00:15:27,292
+A small constellation of satellites
+in low-Earth orbit
+
+234
+00:15:27,385 --> 00:15:31,335
+is cheaper to launch and maintain
+than a traditional satellite network.
+
+235
+00:15:31,431 --> 00:15:35,559
+And if one microsat fails,
+the entire system need not be replaced.
+
+236
+00:15:35,643 --> 00:15:40,187
+What you're looking at
+is a typical Tech-Sky package.
+
+237
+00:15:41,191 --> 00:15:44,725
+OK, Syd, do your thing.
+I'm almost in.
+
+238
+00:15:49,783 --> 00:15:51,740
+OK, Syd, I'm in.
+
+239
+00:15:57,957 --> 00:16:00,080
+- La'an Nguyen. Is that right?
+- Right.
+
+240
+00:16:00,168 --> 00:16:04,166
+His ID will give you access
+to any room in the ministry.
+
+241
+00:16:09,094 --> 00:16:11,715
+The data packets are in the hard drive,
+which is located in the server room.
+
+242
+00:16:11,805 --> 00:16:16,265
+Two levels down, room 206.
+You've got three minutes.
+
+243
+00:16:26,820 --> 00:16:30,354
+Syd, you've got two minutes
+to find the right hard drive.
+
+244
+00:16:32,617 --> 00:16:34,444
+I'm not getting a positive signal.
+
+245
+00:16:34,536 --> 00:16:38,201
+Data packets aren't on drives one or two.
+Drive three's missing.
+
+246
+00:16:38,289 --> 00:16:43,414
+- Is there a serial number in the third bay?
+- 65733PY12.
+
+247
+00:16:43,503 --> 00:16:46,457
+- That hard drive is in for repairs.
+- Where?
+
+248
+00:16:47,549 --> 00:16:49,422
+Level one, room 147.
+
+249
+00:16:49,509 --> 00:16:51,300
+- I'm on my way.
+- No.
+
+250
+00:16:51,386 --> 00:16:55,253
+The repair room is just off the lobby.
+I'll go. Meet me at the extraction point.
+
+251
+00:16:55,348 --> 00:16:58,053
+Dixon, no.
+I'll make it.
+
+252
+00:16:59,936 --> 00:17:04,265
+Robert Milton.
+I'm here for the Tech-Sky presentation.
+
+253
+00:17:04,357 --> 00:17:05,816
+One moment, please.
+
+254
+00:17:05,900 --> 00:17:09,104
+I'm so late already.
+My boss is gonna kill me.
+
+255
+00:17:32,969 --> 00:17:37,927
+- I told you I could make it.
+- Start over there. Work toward me.
+
+256
+00:17:50,070 --> 00:17:52,027
+Got it.
+
+257
+00:17:54,032 --> 00:17:57,697
+OK. Let's get out of here.
+
+258
+00:17:59,537 --> 00:18:02,372
+Sydney. The guards'll be here any minute.
+
+259
+00:18:12,759 --> 00:18:17,551
+This is a great victory.
+You both should be very proud.
+
+260
+00:18:20,266 --> 00:18:24,395
+Thank you, sir.
+But our thoughts are with Marshall.
+
+261
+00:18:24,479 --> 00:18:27,848
+- Has there been any word?
+- No, I'm afraid not.
+
+262
+00:18:27,941 --> 00:18:32,235
+But our efforts continue.
+As do our prayers.
+
+263
+00:18:37,325 --> 00:18:41,193
+So now SD-6 has everything it needs
+to access Echelon.
+
+264
+00:18:41,287 --> 00:18:43,363
+Any idea on how long before
+it's up and running?
+
+265
+00:18:43,456 --> 00:18:46,126
+Midnight tomorrow at the latest.
+
+266
+00:18:46,209 --> 00:18:49,329
+You should have seen the look on
+Sloane's face when we got back.
+
+267
+00:18:49,421 --> 00:18:54,213
+I don't think I've ever seen him so happy
+about a mission.
+
+268
+00:18:54,300 --> 00:18:57,586
+He said he was praying for Marshall.
+
+269
+00:18:58,513 --> 00:19:01,086
+Listen, about Marshall.
+
+270
+00:19:01,891 --> 00:19:05,391
+One of our teams traced Cuvee's unit
+that abducted Marshall
+
+271
+00:19:05,478 --> 00:19:07,103
+to a safe house outside London.
+
+272
+00:19:10,775 --> 00:19:14,773
+By the time they got there
+it was abandoned.
+
+273
+00:19:16,573 --> 00:19:19,942
+It was wired with four pounds of C-4.
+
+274
+00:19:21,411 --> 00:19:24,246
+They never had a chance.
+
+275
+00:19:27,751 --> 00:19:29,245
+It gets worse.
+
+276
+00:19:29,336 --> 00:19:33,250
+In light of the tragedy, the director
+has ordered a halt in the search.
+
+277
+00:19:33,340 --> 00:19:36,755
+So for the moment Marshall's on his own.
+
+278
+00:19:40,138 --> 00:19:44,599
+You think maybe he could
+point that somewhere else?
+
+279
+00:19:50,732 --> 00:19:54,017
+All right, never mind. It was dumb.
+
+280
+00:19:58,239 --> 00:20:01,406
+You know Sydney's sleeping off
+another business trip?
+
+281
+00:20:01,493 --> 00:20:04,612
+- Yeah. To Dublin, I think.
+- Glasgow.
+
+282
+00:20:05,372 --> 00:20:09,369
+- Two more, I set a world record.
+- Will, I'm serious.
+
+283
+00:20:09,459 --> 00:20:12,543
+Last week it was Buenos Aires,
+before it was Tokyo.
+
+284
+00:20:12,629 --> 00:20:14,253
+I mean, it never ends.
+
+285
+00:20:14,339 --> 00:20:17,375
+Fran, you know how much
+that used to bug me, right?
+
+286
+00:20:17,467 --> 00:20:19,792
+I mean, I complained about it constantly.
+
+287
+00:20:19,886 --> 00:20:24,844
+But her job - you know, what she does -
+it's important to her.
+
+288
+00:20:24,933 --> 00:20:27,934
+I don't care.
+I'm still worried about her.
+
+289
+00:20:28,019 --> 00:20:33,725
+Ever since Danny died, all she does
+is work. Oh, but now there's this new guy.
+
+290
+00:20:33,817 --> 00:20:38,443
+You should've heard her talking about him.
+She sounded so happy.
+
+291
+00:20:38,530 --> 00:20:40,736
+- She told you about a guy?
+- Yeah.
+
+292
+00:20:40,824 --> 00:20:44,240
+Somebody from work - Michael something.
+You know him?
+
+293
+00:20:44,327 --> 00:20:46,154
+- Me? No.
+- No, of course not.
+
+294
+00:20:46,246 --> 00:20:49,412
+Cos the jerks at the bank
+where she slaves won't let them date,
+
+295
+00:20:49,499 --> 00:20:50,910
+cos it's against the rules.
+
+296
+00:20:51,001 --> 00:20:54,167
+- So they're not dating?
+- No. He's actually dating somebody else.
+
+297
+00:20:54,254 --> 00:20:56,460
+She's just pining.
+
+298
+00:20:56,548 --> 00:20:59,917
+Oh, you know what?
+The mailman left this for you.
+
+299
+00:21:00,677 --> 00:21:03,346
+Guess there's a package for you
+at the post office.
+
+300
+00:21:08,893 --> 00:21:10,969
+Hey, Will.
+
+301
+00:21:11,855 --> 00:21:14,476
+Got your psych report back.
+You did well.
+
+302
+00:21:14,566 --> 00:21:17,567
+- I'm not a sociopath?
+- Well, I didn't say that.
+
+303
+00:21:17,652 --> 00:21:20,274
+- Do I have a job?
+- Yes.
+
+304
+00:21:20,363 --> 00:21:23,198
+- A paying job?
+- Yes. As an analyst.
+
+305
+00:21:23,283 --> 00:21:26,533
+You'll be asked to review classified
+documents and file reports.
+
+306
+00:21:26,619 --> 00:21:30,071
+Think of it as writing articles,
+only now your source material is classified.
+
+307
+00:21:30,165 --> 00:21:32,490
+In fact, your cover is as a journalist.
+
+308
+00:21:32,584 --> 00:21:35,953
+What does that mean?
+Am I an agent? What?
+
+309
+00:21:36,046 --> 00:21:39,165
+Agents are field-trained. You're an analyst -
+you're desk-trained. You sit at a desk.
+
+310
+00:21:39,257 --> 00:21:40,288
+That's cool.
+
+311
+00:21:40,383 --> 00:21:43,384
+The Agency operates a monthly travel
+magazine called <i>Trade Roads. </i>
+
+312
+00:21:43,470 --> 00:21:46,424
+There's a small LA office.
+Go there when we page you.
+
+313
+00:21:46,514 --> 00:21:49,219
+The materials we'll need analysed
+will be there when you arrive.
+
+314
+00:21:49,309 --> 00:21:52,179
+But don't remove them from the building.
+
+315
+00:21:52,270 --> 00:21:54,476
+When you're done filling out
+the paperwork, just give it to Bill.
+
+316
+00:21:54,564 --> 00:21:57,482
+He'll make sure it's processed.
+
+317
+00:21:57,567 --> 00:22:00,521
+I get health insurance?
+
+318
+00:22:00,612 --> 00:22:03,019
+Welcome to the CIA.
+
+319
+00:22:04,240 --> 00:22:06,613
+Thank you.
+
+320
+00:22:06,701 --> 00:22:09,904
+Listen, obviously you're a good guy.
+
+321
+00:22:09,996 --> 00:22:13,412
+I can't tell you
+how much I appreciate this job,
+
+322
+00:22:13,500 --> 00:22:16,916
+and what I'm gonna say is inappropriate.
+
+323
+00:22:18,088 --> 00:22:20,709
+But Sydney cares about you.
+
+324
+00:22:20,799 --> 00:22:26,552
+And what you guys have - or don't have -
+means a great deal to her.
+
+325
+00:22:28,306 --> 00:22:31,509
+I wanna make sure you respect that.
+
+326
+00:22:52,080 --> 00:22:54,785
+I just got off the phone with the director -
+again -
+
+327
+00:22:54,874 --> 00:22:58,824
+and he asked me again if I knew
+we were in the intelligence business.
+
+328
+00:22:58,920 --> 00:23:03,665
+SD-6 is, by our best estimates, less than
+12 hours away from accessing Echelon,
+
+329
+00:23:03,758 --> 00:23:07,459
+which would give them
+all the intelligence capabilities of the CIA.
+
+330
+00:23:07,554 --> 00:23:11,468
+Our efforts to prevent Gerard Cuvee from
+reaccessing Echelon ended in tragedy -
+
+331
+00:23:11,558 --> 00:23:13,467
+four agents killed.
+
+332
+00:23:13,560 --> 00:23:17,807
+As far as we know, your SD-6
+Tech Ops officer Marshall Flinkman
+
+333
+00:23:17,897 --> 00:23:21,942
+could already have Cuvee
+up and running again.
+
+334
+00:23:23,236 --> 00:23:25,110
+As for Derevko's intel on SORM,
+
+335
+00:23:25,196 --> 00:23:31,531
+Infosec has been unsuccessful in their
+search for a back-door access point.
+
+336
+00:23:40,712 --> 00:23:43,464
+- What the hell just happened?
+- I had to shut down the system.
+
+337
+00:23:43,548 --> 00:23:47,297
+SORM detected I was mapping its network
+and spit out a virus.
+
+338
+00:23:47,385 --> 00:23:49,294
+My mother knew this would happen.
+
+339
+00:23:49,387 --> 00:23:53,052
+- That's the word she used - quicksand.
+- She might've set up the virus.
+
+340
+00:23:53,141 --> 00:23:56,058
+Why keep her here
+if you're not gonna use her?
+
+341
+00:23:56,144 --> 00:24:00,189
+You have said Derevko turned herself in
+as part of a plan, something we can't see.
+
+342
+00:24:00,273 --> 00:24:03,108
+If you were right, then giving her access
+to Echelon could only help that.
+
+343
+00:24:03,193 --> 00:24:07,404
+In this instance,
+I think she could be an asset.
+
+344
+00:24:09,574 --> 00:24:12,112
+They found it - quicksand.
+
+345
+00:24:12,202 --> 00:24:16,780
+I told your father my terms.
+Full access to the network, no restrictions.
+
+346
+00:24:16,873 --> 00:24:20,918
+Dad fought for you on this.
+Don't make him regret it.
+
+347
+00:25:09,592 --> 00:25:12,843
+I'll need to send an access code.
+
+348
+00:25:12,929 --> 00:25:16,013
+How will we know you're not signalling
+your organisation?
+
+349
+00:25:16,099 --> 00:25:18,507
+You won't.
+
+350
+00:25:23,481 --> 00:25:25,557
+Do it.
+
+351
+00:25:37,954 --> 00:25:42,082
+- Looks clean.
+- Slow it down 200 per cent.
+
+352
+00:25:45,211 --> 00:25:50,004
+Still good. If this was faked,
+it's the best job I've ever seen.
+
+353
+00:25:50,091 --> 00:25:53,709
+Is this the last of the surveillance feeds?
+
+354
+00:25:54,888 --> 00:25:58,802
+Karachi, Istanbul, Taipei.
+Yeah, that's it.
+
+355
+00:25:59,768 --> 00:26:02,223
+I think you should see this.
+
+356
+00:26:05,398 --> 00:26:09,728
+Yes, yes, we should have full access
+to Echelon in a matter of hours.
+
+357
+00:26:11,321 --> 00:26:13,148
+Forensic report.
+
+358
+00:26:13,239 --> 00:26:19,360
+OK, Alain. Yes, I'll let you know as soon as
+we're fully operational. Yes, absolutely. OK.
+
+359
+00:26:21,081 --> 00:26:24,829
+Brain matter was found in the barrel
+of one of Jack Bristow's service pistols.
+
+360
+00:26:24,918 --> 00:26:30,754
+According to the munitions log, he checked
+out a Glock 19 compact for one day,
+
+361
+00:26:30,840 --> 00:26:34,838
+reporting a single accidental discharge
+and no casualties.
+
+362
+00:26:36,721 --> 00:26:40,137
+I thought you were here to investigate
+the events surrounding my wife's death.
+
+363
+00:26:40,225 --> 00:26:44,057
+The day Bristow checked out this weapon,
+killed someone with it and covered it up
+
+364
+00:26:44,145 --> 00:26:47,479
+was the day your wife was murdered.
+
+365
+00:26:52,070 --> 00:26:54,478
+Do you have enough cells
+to do a DNA profile?
+
+366
+00:26:54,572 --> 00:26:56,945
+- Already being done.
+- Good.
+
+367
+00:26:57,033 --> 00:27:00,367
+Well, if it matches with Emily,
+I want you to let me know immediately.
+
+368
+00:27:00,453 --> 00:27:02,742
+Of course.
+
+369
+00:27:09,295 --> 00:27:12,499
+You guys like cherry PEZ?
+You know, those cherry PEZ -
+
+370
+00:27:12,590 --> 00:27:16,588
+the little candy that comes in
+the little superhero thing?
+
+371
+00:27:16,678 --> 00:27:19,845
+Yeah. I collect the dispensers.
+
+372
+00:27:19,931 --> 00:27:21,840
+I thought I had
+the largest collection in the world.
+
+373
+00:27:21,933 --> 00:27:25,183
+I actually wrote the <i>Guinness Book</i>
+<i>of World Records</i> about it.
+
+374
+00:27:25,270 --> 00:27:27,843
+They said that there was a girl in Australia,
+nine years old,
+
+375
+00:27:27,939 --> 00:27:29,314
+had a larger collection than me.
+
+376
+00:27:29,399 --> 00:27:34,227
+Which kinda sucked cos, well, she's
+so much younger than me, you know,
+
+377
+00:27:34,320 --> 00:27:38,365
+and I'm so much older than her.
+
+378
+00:27:38,450 --> 00:27:44,239
+I'm kinda hungry. You guys
+got some snacks or...? You probably...
+
+379
+00:27:50,795 --> 00:27:52,503
+I agree.
+
+380
+00:27:54,466 --> 00:27:57,965
+Something's wrong with my computer.
+I can't get online. Can you check it?
+
+381
+00:27:58,053 --> 00:28:00,378
+Someone has launched
+a "denial of service" attack on us.
+
+382
+00:28:00,472 --> 00:28:05,549
+We're getting pinged over and over.
+It's slowing down the network.
+
+383
+00:28:05,643 --> 00:28:09,226
+That's odd.
+They didn't spoof the origin IP.
+
+384
+00:28:09,314 --> 00:28:15,020
+How can someone be smart enough to
+hack in and forget to cover their tracks?
+
+385
+00:28:20,241 --> 00:28:21,700
+Whoa, whoa.
+
+386
+00:28:21,785 --> 00:28:23,493
+What's going on? What?
+
+387
+00:28:23,578 --> 00:28:28,074
+We have a firewall. You broke through it.
+I want to know why.
+
+388
+00:28:28,166 --> 00:28:32,413
+I was just trying to download an MP3
+off Audiogalaxy.
+
+389
+00:28:32,504 --> 00:28:35,255
+An MP3?
+You know, a music file?
+
+390
+00:28:36,424 --> 00:28:38,298
+This I am 75 per cent done with.
+
+391
+00:28:38,385 --> 00:28:43,296
+I just thought the rest of it
+would go a lot faster with some tunes.
+
+392
+00:28:43,390 --> 00:28:46,141
+I'm just gonna show you the MP3.
+
+393
+00:28:51,981 --> 00:28:54,389
+You like Sammy Hagar?
+
+394
+00:29:00,949 --> 00:29:03,866
+I'll go back to the program.
+
+395
+00:29:10,792 --> 00:29:12,831
+Come with me.
+
+396
+00:29:14,879 --> 00:29:16,837
+Marshall's in Mexico City?
+
+397
+00:29:16,923 --> 00:29:21,550
+He signalled us through the computer. We
+traced him through the IP address he used.
+
+398
+00:29:21,636 --> 00:29:22,917
+Uh-huh.
+
+399
+00:29:23,013 --> 00:29:26,097
+OK. I'll notify the extraction team at once.
+
+400
+00:29:26,182 --> 00:29:29,966
+We'd like your permission
+to conduct the operation ourselves.
+
+401
+00:29:30,061 --> 00:29:32,350
+Yes, of course.
+
+402
+00:29:39,362 --> 00:29:43,442
+- Are you making any progress here?
+- Like Echelon, SORM has access points.
+
+403
+00:29:43,533 --> 00:29:47,697
+If I can locate the directory,
+we will know if there's any access points.
+
+404
+00:29:47,787 --> 00:29:50,325
+That we could keep SD-6 and Cuvee
+off the system.
+
+405
+00:29:50,415 --> 00:29:53,285
+I'd like a coffee, please.
+
+406
+00:29:57,088 --> 00:29:59,460
+Cream or sugar?
+
+407
+00:30:02,010 --> 00:30:04,086
+- Black.
+- Thank you.
+
+408
+00:30:13,730 --> 00:30:15,888
+- Kane called a meeting.
+- Does she know anything?
+
+409
+00:30:15,982 --> 00:30:19,565
+Unclear, but I'm told she has two units from
+security section prepared to take me in.
+
+410
+00:30:19,652 --> 00:30:21,312
+I have to be ready for anything.
+
+411
+00:30:21,821 --> 00:30:24,277
+I have to admit I'm impressed.
+
+412
+00:30:24,366 --> 00:30:28,150
+I've rarely found a record
+as well-documented as yours.
+
+413
+00:30:28,244 --> 00:30:31,329
+You couldn't have been more thorough
+if you tried.
+
+414
+00:30:31,414 --> 00:30:34,084
+If I may ask, what is it you're looking for?
+
+415
+00:30:34,167 --> 00:30:38,663
+There are only two pieces of evidence
+I haven't been able to corroborate.
+
+416
+00:30:38,755 --> 00:30:41,376
+Help me with them,
+and we're finished.
+
+417
+00:30:41,466 --> 00:30:44,467
+Damn, she's got the place wired.
+
+418
+00:30:44,552 --> 00:30:47,257
+Jack, we make six agents
+from security section.
+
+419
+00:30:47,347 --> 00:30:50,182
+Every time you make a phone call
+on your STU,
+
+420
+00:30:50,266 --> 00:30:54,928
+the SIM card on your cellphone
+communicates with the local cell tower.
+
+421
+00:30:55,021 --> 00:30:58,188
+Those communications are recorded
+on the card's memory chip.
+
+422
+00:30:58,274 --> 00:31:01,026
+It's kind of like a minitravelogue.
+
+423
+00:31:01,361 --> 00:31:05,109
+We need the cell tower signal codes
+for Istanbul, Karachi and Taipei.
+
+424
+00:31:05,198 --> 00:31:07,487
+Jack, listen to me.
+What pocket is your phone in?
+
+425
+00:31:07,575 --> 00:31:11,869
+If it's in the left jacket pocket, hold up
+one finger. In the right pocket, hold up two.
+
+426
+00:31:11,955 --> 00:31:16,284
+- You two ready to order?
+- Not yet. Thanks.
+
+427
+00:31:16,835 --> 00:31:18,543
+You have my phone records.
+
+428
+00:31:18,628 --> 00:31:24,215
+Which, we both know, could easily
+be forged. So I'd like your phone.
+
+429
+00:31:27,012 --> 00:31:30,012
+You said there were two things.
+
+430
+00:31:30,682 --> 00:31:34,015
+Who is Stephen Haladki?
+
+431
+00:31:35,895 --> 00:31:39,264
+He was a CIA agent loyal to Irina Derevko.
+
+432
+00:31:39,357 --> 00:31:41,017
+Whom you murdered.
+
+433
+00:31:41,109 --> 00:31:45,937
+We found brain matter in a gun you fired
+on the day Emily was murdered.
+
+434
+00:31:46,031 --> 00:31:49,031
+I admit I thought DNA tests
+would prove you killed her,
+
+435
+00:31:49,117 --> 00:31:52,450
+but instead they prove you killed Haladki.
+
+436
+00:31:52,537 --> 00:31:56,617
+We had reliable intel that Derevko was
+accessing information through the CIA.
+
+437
+00:31:56,708 --> 00:31:59,993
+Her source turned out to be Haladki.
+
+438
+00:32:00,086 --> 00:32:03,253
+He was crucial to her operation
+and had to be removed.
+
+439
+00:32:03,340 --> 00:32:06,009
+I got the tower codes.
+
+440
+00:32:06,092 --> 00:32:10,304
+We can't wait for Bristow's phone.
+Give me yours.
+
+441
+00:32:10,388 --> 00:32:13,306
+Vaughn, give me your phone.
+
+442
+00:32:13,933 --> 00:32:15,677
+The card's been reprogrammed.
+
+443
+00:32:15,769 --> 00:32:19,054
+I'll stamp Jack's serial number on your
+SIM card. You'll have to switch them out.
+
+444
+00:32:19,147 --> 00:32:20,807
+Here you go.
+
+445
+00:32:20,899 --> 00:32:24,943
+If Haladki worked with Derevko,
+why hide his death from Sloane?
+
+446
+00:32:25,028 --> 00:32:29,524
+The death of a CIA agent
+draws unwanted attention and focus.
+
+447
+00:32:29,616 --> 00:32:34,906
+If that happens, the safest recourse
+is to say nothing. Ever.
+
+448
+00:32:43,546 --> 00:32:48,292
+- Are we through?
+- As soon as I get your SIM card.
+
+449
+00:32:48,385 --> 00:32:50,461
+Yes, of course.
+
+450
+00:32:55,642 --> 00:32:58,215
+I'll be in touch.
+
+451
+00:33:15,078 --> 00:33:17,284
+Move in on the package.
+
+452
+00:34:26,066 --> 00:34:30,609
+Are you ready to party?
+
+453
+00:34:34,991 --> 00:34:38,277
+- Syd, I'm ready to receive.
+- "Are we ready to party?"
+
+454
+00:34:38,370 --> 00:34:42,367
+I speak nine languages.
+Techno is not one of them.
+
+455
+00:34:52,300 --> 00:34:54,257
+I'll need cover
+
+456
+00:34:54,344 --> 00:34:56,004
+now.
+
+457
+00:35:03,186 --> 00:35:05,095
+Dixon, wish me luck.
+
+458
+00:35:23,707 --> 00:35:28,119
+I've piggybacked onto the surveillance
+feed. Are you getting a signal?
+
+459
+00:35:28,586 --> 00:35:30,828
+One second.
+
+460
+00:35:34,134 --> 00:35:36,625
+OK, Syd, I'm in.
+
+461
+00:35:39,097 --> 00:35:43,558
+He's in a storage room on the 47th floor.
+Take the eastern stairwell.
+
+462
+00:35:43,643 --> 00:35:45,766
+The room should be
+the second door on your left.
+
+463
+00:35:45,854 --> 00:35:48,605
+- Guards?
+- I make two.
+
+464
+00:35:48,690 --> 00:35:52,225
+I'll lock down the elevators,
+secure all access doors.
+
+465
+00:35:52,318 --> 00:35:56,482
+That should keep everyone else away,
+but, Syd, be careful.
+
+466
+00:35:58,950 --> 00:36:01,951
+Program's done. We'll be uplinked
+to Echelon in two minutes.
+
+467
+00:36:02,037 --> 00:36:03,151
+Excellent.
+
+468
+00:36:11,046 --> 00:36:16,918
+Tell your boss, or whatever,
+that I'm finished.
+
+469
+00:36:18,762 --> 00:36:21,217
+The program's written.
+
+470
+00:36:29,022 --> 00:36:34,063
+We estimated SD-6 would have Echelon
+operational by midnight. It's ten after.
+
+471
+00:36:34,152 --> 00:36:37,153
+The blue are Echelon access points,
+the red are SORM access points.
+
+472
+00:36:37,238 --> 00:36:38,816
+You said you would find
+ones that overlapped.
+
+473
+00:36:38,907 --> 00:36:40,864
+I said I'd find out if one overlapped.
+
+474
+00:36:40,950 --> 00:36:43,951
+- And if they don't?
+- Then I can't help you.
+
+475
+00:37:05,100 --> 00:37:06,558
+You know where you can go, you freak?
+
+476
+00:37:06,643 --> 00:37:07,971
+- Any idea?
+- Kill him.
+
+477
+00:37:08,061 --> 00:37:12,189
+Straight to hell, my friend.
+Straight to hell.
+
+478
+00:37:19,155 --> 00:37:21,563
+Kill his mother.
+
+479
+00:37:52,981 --> 00:37:55,223
+- Hi.
+- Wow.
+
+480
+00:37:55,942 --> 00:37:58,184
+Let's go.
+
+481
+00:37:59,070 --> 00:38:01,146
+Syd, we've got a problem.
+
+482
+00:38:01,239 --> 00:38:04,690
+I've been locked out.
+Their security system is operational.
+
+483
+00:38:04,784 --> 00:38:07,110
+Get out of there now.
+
+484
+00:38:17,797 --> 00:38:20,467
+Dixon, we're trapped.
+
+485
+00:38:20,550 --> 00:38:23,884
+- I'll get over to you now.
+- There's no time.
+
+486
+00:38:31,519 --> 00:38:33,726
+Come on.
+
+487
+00:38:34,981 --> 00:38:37,437
+- We're on the 47th floor.
+- Remember when we flew to London,
+
+488
+00:38:37,525 --> 00:38:40,396
+I said I compressed a high glide tactical
+parachute in the lining of my jacket?
+
+489
+00:38:40,487 --> 00:38:42,111
+Well, as luck would have it,
+this one's got it too,
+
+490
+00:38:42,197 --> 00:38:45,945
+along with a hyperextending tandem sling.
+Come here.
+
+491
+00:38:46,034 --> 00:38:47,742
+I got it.
+
+492
+00:38:49,037 --> 00:38:54,114
+My name is Marshall J Flinkman
+and I'm here to rescue you.
+
+493
+00:39:04,928 --> 00:39:08,712
+If this was some kind of manipulation...
+
+494
+00:39:14,479 --> 00:39:17,480
+The overlapping access point.
+
+495
+00:39:17,565 --> 00:39:19,854
+As promised.
+
+496
+00:39:20,902 --> 00:39:23,903
+Confirming a match with Echelon
+right now.
+
+497
+00:39:23,988 --> 00:39:28,532
+Close the access point
+and SD-6 will be shut out.
+
+498
+00:39:30,787 --> 00:39:33,112
+We have confirmation.
+
+499
+00:39:33,915 --> 00:39:35,789
+It's a match.
+
+500
+00:39:35,875 --> 00:39:41,000
+As promised, Alain,
+we have Echelon at our disposal.
+
+501
+00:39:46,970 --> 00:39:50,220
+I'm afraid something's happened.
+
+502
+00:39:54,561 --> 00:39:57,562
+So Marshall saved our lives.
+
+503
+00:39:57,647 --> 00:40:01,811
+How did I return the favour?
+By bringing him back to SD-6.
+
+504
+00:40:01,901 --> 00:40:05,650
+We had to, Syd. Bringing Marshall
+into the CIA didn't make sense any more,
+
+505
+00:40:05,739 --> 00:40:07,565
+not after Sloane got the Echelon program.
+
+506
+00:40:07,657 --> 00:40:10,326
+I know. It's just...
+
+507
+00:40:10,410 --> 00:40:13,197
+Marshall has no idea
+who he's really working for.
+
+508
+00:40:13,288 --> 00:40:16,205
+Here by my side
+
+509
+00:40:16,291 --> 00:40:19,043
+An angel
+
+510
+00:40:22,589 --> 00:40:25,459
+Here by my side
+
+511
+00:40:25,550 --> 00:40:28,041
+The devil
+
+512
+00:40:31,931 --> 00:40:36,593
+Never turn your back on me
+
+513
+00:40:38,146 --> 00:40:41,729
+It won't always be like this. Right?
+
+514
+00:40:44,194 --> 00:40:46,270
+It will end.
+
+515
+00:40:50,075 --> 00:40:52,198
+I should go.
+
+516
+00:41:03,380 --> 00:41:06,334
+Do not turn on the lights.
+
+517
+00:41:08,885 --> 00:41:11,210
+You shouldn't have run from her, Jack.
+
+518
+00:41:11,304 --> 00:41:14,091
+Kane needs someone to blame.
+
+519
+00:41:14,182 --> 00:41:19,389
+Since she can't find who really murdered
+Emily, she's decided to blame me.
+
+520
+00:41:23,692 --> 00:41:26,265
+I did not murder your wife.
+
+521
+00:41:26,361 --> 00:41:31,901
+But if I don't find the person who did,
+Kane will frame me for it.
+
+522
+00:41:31,991 --> 00:41:35,775
+I have some leads.
+I need you to pursue them for me.
+
+523
+00:41:38,415 --> 00:41:41,202
+Can I trust you to do that?
+
+524
+00:41:41,292 --> 00:41:42,751
+Of course.
+
+525
+00:41:42,836 --> 00:41:45,706
+This will stay between us.
+
+526
+00:42:08,862 --> 00:42:12,990
+- Hello?
+- Agent Kane, Arvin Sloane.
+
+527
+00:42:14,325 --> 00:42:17,576
+Jack Bristow just left my house.
+
+

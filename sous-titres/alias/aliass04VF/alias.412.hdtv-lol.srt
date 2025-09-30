@@ -1,0 +1,2076 @@
+1
+00:00:37,496 --> 00:00:38,497
+Laisse-la !
+
+2
+00:00:38,664 --> 00:00:39,790
+Retourne dans ton lit.
+
+3
+00:00:41,542 --> 00:00:42,459
+Laisse-la !
+
+4
+00:00:55,556 --> 00:00:57,140
+Si tu reviens, je te tuerai.
+
+5
+00:00:58,433 --> 00:00:59,309
+Qu'est-ce qu'il se passe ?
+
+6
+00:01:02,104 --> 00:01:03,939
+Dans mon bureau maintenant.
+
+7
+00:01:08,652 --> 00:01:10,821
+Où est Nadia ? Qu'est-il arrivé à Nadia ?
+
+8
+00:01:15,492 --> 00:01:18,287
+Elle est partie. Elle m'a sauvée et elle est partie.
+
+9
+00:01:41,685 --> 00:01:42,811
+- Salut.
+- Salut.
+
+10
+00:01:50,319 --> 00:01:54,865
+- Qu'est-ce qui se passe?
+- Rien.
+
+11
+00:01:55,780 --> 00:01:58,780
+Quand quelque chose me tracasse, je vais courir.
+
+12
+00:01:59,160 --> 00:02:02,120
+Tu y es allée deux fois en moins de 12 heures.
+
+13
+00:02:07,540 --> 00:02:08,210
+Allô ?
+
+14
+00:02:08,712 --> 00:02:09,588
+Hé, Vaughn.
+
+15
+00:02:09,963 --> 00:02:10,964
+Ouais, elle est juste là.
+
+16
+00:02:14,009 --> 00:02:14,218
+Merci.
+
+17
+00:02:16,887 --> 00:02:17,513
+Hé.
+
+18
+00:02:21,016 --> 00:02:23,018
+Bien sûr. Quand veux-tu qu'on se voit ?
+
+19
+00:02:23,560 --> 00:02:25,270
+Je suis sûr que c'est l'écriture de mon père.
+
+20
+00:02:25,562 --> 00:02:26,730
+Mais ces écrits...
+
+21
+00:02:27,689 --> 00:02:29,024
+- Je sais.
+- Je ne comprends pas.
+
+22
+00:02:29,149 --> 00:02:30,651
+C'est daté d'après sa mort.
+
+23
+00:02:30,984 --> 00:02:33,070
+Maintenant, tu en sais à peu près autant que moi.
+
+24
+00:02:33,153 --> 00:02:35,572
+Je veux dire, soit il n'est pas mort quand la CIA l'a dit,
+
+25
+00:02:35,656 --> 00:02:37,574
+en sachant ou non la vérité,
+
+26
+00:02:37,658 --> 00:02:39,576
+soit quelqu'un veut que je le croie toujours en vie.
+
+27
+00:02:39,660 --> 00:02:41,078
+Tu n'as rien d'autre que ça ?
+
+28
+00:02:41,161 --> 00:02:44,081
+J'ai retrouvé un gars...Murdoch. Son nom est là-dedans.
+
+29
+00:02:44,164 --> 00:02:47,334
+Il prétend avoir été sur une mission avec mon père en 1982.
+
+30
+00:02:48,335 --> 00:02:51,213
+Il dit que mon père lui a tiré dans le dos et l'a laissé pour mort.
+
+31
+00:02:51,296 --> 00:02:53,090
+Il traite mon père de traître.
+
+32
+00:02:54,091 --> 00:02:55,801
+Je ne sais pas quoi penser.
+
+33
+00:02:56,927 --> 00:02:58,053
+Qu'est-ce qu'on fait ?
+
+34
+00:02:58,220 --> 00:03:00,347
+Eh bien, il y a des noms de missions secrètes là-dedans.
+
+35
+00:03:00,430 --> 00:03:03,475
+Cherchons un peu plus. Je dois accéder à toutes les archives.
+
+36
+00:03:03,642 --> 00:03:05,060
+Alors, je pourrais faire une demande à Langley...
+
+37
+00:03:05,143 --> 00:03:06,895
+Mais si quelqu'un manigance tout ça de l'intérieur,
+
+38
+00:03:06,979 --> 00:03:10,065
+tu ne veux pas ton nom sur un rapport officiel. Je peux le faire.
+
+39
+00:03:11,400 --> 00:03:12,568
+Tu es sûre que ça ne t'embête pas ?
+
+40
+00:03:12,651 --> 00:03:13,360
+Vaughn.
+
+41
+00:03:14,945 --> 00:03:17,114
+Si ton père est en vie, on le trouvera.
+
+42
+00:03:17,531 --> 00:03:20,534
+Et sinon, on trouvera la personne qui fait ça.
+
+43
+00:03:25,080 --> 00:03:28,876
+L'Institut des Sciences de Biélorussie a développé un dispositif optique d'avant-garde.
+
+44
+00:03:28,959 --> 00:03:30,711
+Ca s'appelle un verre amplificateur.
+
+45
+00:03:31,003 --> 00:03:33,463
+Alors ce qui est génial avec ça...
+
+46
+00:03:33,505 --> 00:03:35,966
+eh bien, si je ne me trompe pas...
+
+47
+00:03:36,175 --> 00:03:37,801
+et ce n'est pas le cas...
+
+48
+00:03:37,968 --> 00:03:41,430
+ce qu'ils ont développé pourrait amplifier une impulsion laser par 10 000.
+
+49
+00:03:41,555 --> 00:03:42,306
+Même peut-être plus.
+
+50
+00:03:42,389 --> 00:03:45,309
+Ce qui veut dire que vous pourriez prendre un simple laser Al-Ga-As...
+
+51
+00:03:45,475 --> 00:03:47,853
+euh, je vais...
+
+52
+00:03:47,978 --> 00:03:51,523
+oh, vous savez un lecteur CD comporte un laser qui permet de...
+
+53
+00:03:51,565 --> 00:03:54,067
+eh bien, avec ce laser, amplifié dans cette lentille,
+
+54
+00:03:54,151 --> 00:03:55,944
+vous pourriez descendre un avion en vol.
+
+55
+00:03:56,028 --> 00:03:58,030
+Ou, vous voyez, vous prenez un tank, et vous le coupez en deux.
+
+56
+00:03:58,113 --> 00:03:59,531
+Ou vous pourriez même avoir un SUV...
+
+57
+00:03:59,615 --> 00:04:00,824
+Ok. On a saisi.
+
+58
+00:04:00,908 --> 00:04:02,242
+On a mis la main sur des infos qui montrent que
+
+59
+00:04:02,326 --> 00:04:04,369
+la faction de Jakarta veut la lentille
+
+60
+00:04:04,411 --> 00:04:06,788
+et ils ont embauché cet homme pour l'acquérir pour eux.
+
+61
+00:04:06,872 --> 00:04:10,209
+Il s'appelle Cesar Martinez. Il est argentin.
+
+62
+00:04:12,794 --> 00:04:13,378
+Hola.
+
+63
+00:04:14,546 --> 00:04:16,131
+Un café au lait, s'il vous plait.
+
+64
+00:04:16,465 --> 00:04:17,341
+Cinq pesos.
+
+65
+00:04:30,187 --> 00:04:31,688
+Vous allez devoir les payer.
+
+66
+00:04:35,526 --> 00:04:36,860
+Tu veux parier ?
+
+67
+00:04:55,128 --> 00:04:56,505
+Qu'est-ce que vous faites ?
+
+68
+00:04:56,630 --> 00:04:57,214
+Reculez !
+
+69
+00:04:57,339 --> 00:04:57,965
+A terre !
+
+70
+00:04:58,090 --> 00:04:58,632
+Maintenant.
+
+71
+00:04:58,674 --> 00:04:59,550
+Sur le sol !
+
+72
+00:05:06,723 --> 00:05:10,269
+Il y a quelques jours, j'ai demandé à Nadia de monter un profil sur lui.
+
+73
+00:05:10,519 --> 00:05:11,645
+Martinez est à son compte.
+
+74
+00:05:11,770 --> 00:05:14,314
+Pas d'engagements. Force disproportionnée... C'est sa façon de faire.
+
+75
+00:05:14,648 --> 00:05:18,610
+Il a fait sa réputation en tuant un ancien agent argentin des renseignements...
+
+76
+00:05:19,069 --> 00:05:20,028
+Roberto Fox.
+
+77
+00:05:23,115 --> 00:05:25,742
+Une idée de quand Martinez projette d'agir ?
+
+78
+00:05:25,826 --> 00:05:28,579
+Les signaux interceptés montrent qu'il prépare une équipe.
+
+79
+00:05:28,745 --> 00:05:29,997
+Ca devrait prendre trois jours, une semaine au plus.
+
+80
+00:05:30,038 --> 00:05:32,958
+L'Institut des Sciences inaugure une nouvelle aile
+
+81
+00:05:33,041 --> 00:05:35,002
+pour ses installations de recherche.
+
+82
+00:05:35,085 --> 00:05:38,755
+Donc votre mission est d'obtenir le verre amplificateur avant Martinez.
+
+83
+00:05:38,881 --> 00:05:39,923
+Sydney, tu t'en charges.
+
+84
+00:05:40,007 --> 00:05:42,759
+Agent Vaughn, Weiss, et Santos, vous serez en renfort.
+
+85
+00:05:42,968 --> 00:05:45,220
+C'est une opération de saisie.
+
+86
+00:05:45,804 --> 00:05:47,139
+Il y a des questions ?
+
+87
+00:05:49,892 --> 00:05:50,601
+Cesar !
+
+88
+00:05:53,395 --> 00:05:54,229
+Cesar !
+
+89
+00:05:57,191 --> 00:05:59,318
+Tu t'inquiétais pour moi ?
+
+90
+00:06:02,946 --> 00:06:04,406
+Ordures.
+
+91
+00:06:26,595 --> 00:06:27,095
+Hé.
+
+92
+00:06:33,685 --> 00:06:36,146
+Je le connaissais...Roberto.
+
+93
+00:06:36,271 --> 00:06:38,440
+L'homme que Cesar Martinez a tué.
+
+94
+00:06:38,607 --> 00:06:42,319
+Si cette mission est trop difficile, trop personnelle pour toi,
+
+95
+00:06:43,362 --> 00:06:45,572
+parle à ton père et demande lui de charger quelqu'un d'autre de ça.
+
+96
+00:06:45,697 --> 00:06:47,783
+C'est mon boulot. Je ferai en sorte que ça aille.
+
+97
+00:07:28,490 --> 00:07:30,325
+Hé. Mitchell a appris un nouveau mot.
+
+98
+00:07:30,534 --> 00:07:32,828
+- C'était quoi ?
+- Booshnot.
+
+99
+00:07:33,036 --> 00:07:35,455
+Particule Bêta en langage de Mitchell.
+
+100
+00:07:36,540 --> 00:07:39,626
+Euh,  sinon, voilà... Sydney m'a demandé de te donner ça.
+
+101
+00:07:40,043 --> 00:07:41,879
+Codes d'accès pour les archives des opérations.
+
+102
+00:07:42,004 --> 00:07:44,423
+Elle voulait que je te les donne pour que tu les lui donnes.
+
+103
+00:07:45,007 --> 00:07:46,550
+- Merci.
+- Pas de soucis.
+
+104
+00:07:50,554 --> 00:07:51,638
+Autre chose ?
+
+105
+00:07:51,930 --> 00:07:53,015
+Qu'est-ce, euh...
+
+106
+00:07:54,266 --> 00:07:55,726
+Qu'est-ce qui se passe ?
+
+107
+00:07:56,643 --> 00:07:57,561
+Rien.
+
+108
+00:07:59,396 --> 00:08:01,440
+Tu me mens. N'est-ce pas ? Aller.
+
+109
+00:08:01,565 --> 00:08:02,983
+Je suis plus intelligent que tu ne croies.
+
+110
+00:08:03,108 --> 00:08:04,234
+Je   te dirai plus tard.
+
+111
+00:08:04,651 --> 00:08:05,527
+Tu ne me fais pas confiance, c'est ça ?
+
+112
+00:08:05,694 --> 00:08:06,361
+Marshall.
+
+113
+00:08:06,445 --> 00:08:08,697
+Ouais, c'est de ma faute.
+
+114
+00:08:08,822 --> 00:08:12,659
+Je donne cette impression. Tout comme à la fac, au lycée, au collège...
+
+115
+00:08:12,951 --> 00:08:13,827
+Marshall.
+
+116
+00:08:14,661 --> 00:08:17,331
+On devrait déjeuner ensemble un jour.
+
+117
+00:08:17,831 --> 00:08:19,666
+Vraiment ? Ouais ?
+
+118
+00:08:20,334 --> 00:08:22,419
+Oh, mec, n'importe quand. Absolument. Je suis là.
+
+119
+00:08:22,503 --> 00:08:23,462
+Aujourd'hui ?
+
+120
+00:08:23,795 --> 00:08:24,588
+Non.
+
+121
+00:08:24,796 --> 00:08:25,964
+Non. C'est bien.
+
+122
+00:08:26,048 --> 00:08:29,593
+J'ai plein de choses à faire dans le, euh...
+
+123
+00:08:30,260 --> 00:08:31,762
+- Merci.
+- Oui.
+
+124
+00:08:31,845 --> 00:08:33,138
+A bientôt pour déjeuner alors.
+
+125
+00:08:34,515 --> 00:08:35,557
+Ca roule, man ?
+
+126
+00:08:55,661 --> 00:08:57,162
+Outrigger, comment ça va ?
+
+127
+00:09:02,042 --> 00:09:03,335
+10 secondes, Phœnix.
+
+128
+00:09:06,713 --> 00:09:07,881
+L'architecte vient juste d'arriver.
+
+129
+00:09:13,637 --> 00:09:15,264
+Il a le PDA dans sa veste.
+
+130
+00:09:16,098 --> 00:09:18,475
+Ok, parfait. Phœnix, tu vas devoir aller juste à côté de lui.
+
+131
+00:09:18,809 --> 00:09:19,768
+Cosy.
+
+132
+00:09:22,938 --> 00:09:25,399
+L'architecte est un malade de la sécurité.
+
+133
+00:09:25,440 --> 00:09:27,568
+Il a toujours des copies de ses fichiers de projets sur lui...
+
+134
+00:09:27,693 --> 00:09:29,319
+plans, schémas, esquisses même.
+
+135
+00:09:29,403 --> 00:09:31,697
+Donc ça devrait nous montrer dans quel labo est le verre.
+
+136
+00:09:31,780 --> 00:09:33,323
+Qu'est-ce qu'elle utilise pour cloner le PDA ?
+
+137
+00:09:33,407 --> 00:09:34,157
+C'est dans son sac.
+
+138
+00:09:34,241 --> 00:09:36,076
+Scans et clonages wi-fi basse fréquence.
+
+139
+00:09:36,159 --> 00:09:38,829
+Le truc, c'est que son rayon d'action, c'est seulement quelques mètres,
+
+140
+00:09:38,954 --> 00:09:40,956
+et c'est pour ça qu'elle doit, vous voyez, aller près de...
+
+141
+00:09:41,123 --> 00:09:42,791
+Oh, voilà.
+
+142
+00:09:44,501 --> 00:09:45,377
+Oh, super.
+
+143
+00:09:45,460 --> 00:09:46,962
+Syd...désolé, Phœnix,
+
+144
+00:09:47,080 --> 00:09:48,880
+c'est bien ce que je craignais.
+
+145
+00:09:48,920 --> 00:09:49,590
+C'est crypté.
+
+146
+00:09:49,630 --> 00:09:52,130
+Le PDA...il est protégé avec un logiciel de reconnaissance d'écriture,
+
+147
+00:09:52,301 --> 00:09:54,845
+donc place au charme.
+
+148
+00:09:59,558 --> 00:10:04,563
+Ce bâtiment est plus élégant que votre bibliothèque à Amsterdam.
+
+149
+00:10:04,688 --> 00:10:05,606
+Merci.
+
+150
+00:10:06,648 --> 00:10:08,025
+C'est embarrassant...
+
+151
+00:10:10,194 --> 00:10:12,446
+...mais je peux vous demander un autographe ?
+
+152
+00:10:13,614 --> 00:10:15,449
+Comment pourrais-je résister ?
+
+153
+00:10:20,662 --> 00:10:22,915
+Ca a l'aspect, la texture, la résistance du papier
+
+154
+00:10:23,040 --> 00:10:25,667
+mais c'est une couche microscopique de polymères non-conducteurs,
+
+155
+00:10:25,751 --> 00:10:27,002
+- et c'est pris en sandwich...
+- Marshall, ce n'est pas le moment.
+
+156
+00:10:28,086 --> 00:10:30,214
+Vaughn m'a invité à déjeuner.
+
+157
+00:10:35,594 --> 00:10:37,179
+Ok. Signature...
+
+158
+00:10:37,930 --> 00:10:39,097
+plus un mot de passe...
+
+159
+00:10:39,640 --> 00:10:42,684
+plus une recette secrète de chez Flinkman,
+
+160
+00:10:44,019 --> 00:10:45,687
+et...joli.
+
+161
+00:10:45,938 --> 00:10:48,649
+A genoux devant moi et pleurez, dieux du cryptage.
+
+162
+00:10:49,608 --> 00:10:52,361
+Peut-être voudriez-vous que je vous fasse visiter personnellement ?
+
+163
+00:10:52,444 --> 00:10:54,696
+Ce sera amusant.
+
+164
+00:10:55,572 --> 00:10:58,492
+Juste vous, moi et votre femme.
+
+165
+00:11:05,374 --> 00:11:09,211
+Ok, les plans et les protocoles de sécurité pour le bâtiment.
+
+166
+00:11:10,170 --> 00:11:11,672
+J'ai l'emplacement du verre.
+
+167
+00:11:11,713 --> 00:11:14,424
+Evergreen, on va avoir besoin de cette carte d'accès. A toi de jouer.
+
+168
+00:11:18,011 --> 00:11:19,805
+Quelqu'un voit le scientifique ?
+
+169
+00:11:20,973 --> 00:11:22,891
+Il se donne en spectacle, à l'est.
+
+170
+00:11:28,856 --> 00:11:31,316
+Qu'est-ce que j'ai fait ? Permettez-moi...
+
+171
+00:11:36,655 --> 00:11:37,781
+C'était facile.
+
+172
+00:11:50,210 --> 00:11:52,004
+Appelez un docteur. Maintenant.
+
+173
+00:11:56,884 --> 00:11:58,010
+Comment tu t'appelles ?
+
+174
+00:12:04,474 --> 00:12:06,268
+Je m'appelle Roberto Fox.
+
+175
+00:12:06,393 --> 00:12:07,936
+Tu as déjà entendu parler de moi ?
+
+176
+00:12:09,354 --> 00:12:11,273
+Non. Bien sur que non.
+
+177
+00:12:12,316 --> 00:12:14,443
+Tu es connue. Tu sais ?
+
+178
+00:12:15,527 --> 00:12:18,906
+On n'a pas ton nom. Juste ton CV.
+
+179
+00:12:19,615 --> 00:12:23,702
+Vol à l'étalage, cambriolage, vol par effraction, assaut...
+
+180
+00:12:25,871 --> 00:12:29,249
+...il y a plus de 130 crimes là.
+
+181
+00:12:29,416 --> 00:12:31,919
+Et la seule chose qui les lie, c'est ça.
+
+182
+00:12:36,173 --> 00:12:37,549
+130.
+
+183
+00:12:38,383 --> 00:12:41,595
+Quel nombre incroyable.
+
+184
+00:12:43,430 --> 00:12:45,516
+Et tu as quoi ? 17 ans ?
+
+185
+00:12:45,724 --> 00:12:47,267
+18 ?
+
+186
+00:12:50,854 --> 00:12:56,193
+Ton empreinte de doigt est sur tous ces lieux mais tu n'es pas dans le système.
+
+187
+00:12:56,276 --> 00:12:57,778
+Tu n'existes pas.
+
+188
+00:12:58,737 --> 00:13:00,072
+Jusqu'à maintenant.
+
+189
+00:13:01,782 --> 00:13:05,994
+Certains pensent que tu n'as plus de chance.
+
+190
+00:13:06,328 --> 00:13:11,500
+Mais je ne crois pas que quelqu'un puisse réussir si longtemps grâce à la chance.
+
+191
+00:13:13,460 --> 00:13:15,420
+Il faut du talent.
+
+192
+00:13:18,966 --> 00:13:22,010
+Je ne sais pas si quelqu'un te l'a déjà dit mais...
+
+193
+00:13:24,096 --> 00:13:25,973
+...tu es spéciale.
+
+194
+00:13:28,392 --> 00:13:31,144
+C'est pourquoi je suis là.
+
+195
+00:13:32,563 --> 00:13:35,440
+Je pense qu'on pourra prendre ce talent et l'utiliser pour t'aider.
+
+196
+00:13:35,607 --> 00:13:40,654
+Pour aider ton pays.
+
+197
+00:13:43,365 --> 00:13:45,701
+Je travaille pour le gouvernement.
+
+198
+00:13:49,204 --> 00:13:53,208
+Je suis là pour t'offrir une vie que tu ne peux pas imaginer.
+
+199
+00:14:04,595 --> 00:14:06,138
+Ok, Merlin, c'est parti.
+
+200
+00:14:06,847 --> 00:14:09,349
+Le  labo...il est au 15ème étage. Couloir Est.
+
+201
+00:14:23,238 --> 00:14:25,282
+Je pensais que je ne te reverrai plus.
+
+202
+00:14:25,532 --> 00:14:28,076
+Nadia, pourquoi tu ne m'as pas appelé plus tôt ?
+
+203
+00:14:30,412 --> 00:14:33,916
+Après ce qui s'est passé, j'avais peur que tu sois en colère.
+
+204
+00:14:34,082 --> 00:14:37,961
+En colère ? Je t'ai cherché partout.
+
+205
+00:14:40,088 --> 00:14:42,633
+Je suis désolée de m'être enfuis.
+
+206
+00:14:42,799 --> 00:14:44,843
+C'est moi qui suis désolée.
+
+207
+00:14:45,511 --> 00:14:49,806
+J'aurais dû te protéger. C'était mon rôle de te protéger.
+
+208
+00:14:55,145 --> 00:14:57,272
+Un homme est venu me voir.
+
+209
+00:14:57,606 --> 00:15:02,903
+Du gouvernement. Il m'a proposé un job. Pour partir d'ici.
+
+210
+00:15:05,614 --> 00:15:10,244
+C'est merveilleux... tu n'es pas censée être ici.
+
+211
+00:15:11,411 --> 00:15:15,916
+Je pense que les gens entrent dans nos vies pour une raison.
+
+212
+00:15:16,542 --> 00:15:22,840
+Si cet homme t'offre une chance pour un nouveau départ...
+
+213
+00:15:23,507 --> 00:15:24,633
+...tant mieux.
+
+214
+00:15:29,721 --> 00:15:30,764
+Martinez est ici.
+
+215
+00:15:31,056 --> 00:15:33,559
+Cesar Martinez est dans le bâtiment.
+
+216
+00:15:41,358 --> 00:15:42,693
+Quelqu'un voit ses renforts ?
+
+217
+00:15:43,610 --> 00:15:45,028
+Ne bouge pas, Evergreen.
+
+218
+00:15:45,112 --> 00:15:46,989
+Ca peut être une reconnaissance de sa part.
+
+219
+00:15:47,114 --> 00:15:49,783
+Si c'était le cas, on l'aurait su.
+
+220
+00:15:49,867 --> 00:15:50,993
+Il est passé à l'action.
+
+221
+00:15:52,286 --> 00:15:53,537
+- Comment le sais-tu ?
+- Croyez-moi.
+
+222
+00:15:53,704 --> 00:15:54,538
+On doit l'arrêter.
+
+223
+00:15:54,621 --> 00:15:57,040
+- Phœnix est presque entrée.
+- Vous ne comprenez pas.
+
+224
+00:16:05,340 --> 00:16:08,177
+Phœnix, abandonne. Six hostiles en chemin, armés.
+
+225
+00:16:08,260 --> 00:16:09,052
+Je peux le faire.
+
+226
+00:17:38,058 --> 00:17:39,643
+Pour qui tu travailles ?
+
+227
+00:17:40,894 --> 00:17:43,272
+Vous n'avez pas dit le mot magique.
+
+228
+00:17:55,742 --> 00:17:57,744
+Maintenant, vous allez de voir dire "s'il vous plait, vraiment".
+
+229
+00:17:58,120 --> 00:17:59,288
+Dernière chance.
+
+230
+00:18:00,873 --> 00:18:02,249
+Pour qui tu travailles ?
+
+231
+00:18:02,833 --> 00:18:04,251
+Elle travaille avec moi.
+
+232
+00:18:09,131 --> 00:18:09,965
+Nadia ?
+
+233
+00:18:13,844 --> 00:18:17,264
+Pose ton arme, Cesar. Pour qu'on puisse parler.
+
+234
+00:18:41,914 --> 00:18:43,415
+Attachez-les.
+
+235
+00:18:57,930 --> 00:18:59,932
+Ils nous ont enfermées dans le labo.
+
+236
+00:19:00,015 --> 00:19:02,059
+Le temps qu'on s'échappe, il était parti.
+
+237
+00:19:02,309 --> 00:19:04,811
+Quand je t'ai chargée d'une recherche sur Cesar Martinez,
+
+238
+00:19:04,895 --> 00:19:07,689
+pourquoi tu ne m'as pas dit que vous vous connaissiez ?
+
+239
+00:19:07,898 --> 00:19:09,650
+Il n'était pas sensé être là.
+
+240
+00:19:09,816 --> 00:19:11,527
+Je ne savais pas qu'on serait amené à se rencontrer.
+
+241
+00:19:12,027 --> 00:19:15,739
+Tu as sciemment omis des informations qui auraient pu restreindre les possibilités d'action.
+
+242
+00:19:16,490 --> 00:19:19,284
+J'ai suspendu des agents de terrain pour moins que ça, Nadia.
+
+243
+00:19:19,368 --> 00:19:22,120
+Le fait qu'elle connaisse Martinez est la seule chose qui m'a sauvé la vie.
+
+244
+00:19:23,330 --> 00:19:26,583
+L'histoire, Nadia... C'est quoi ?
+
+245
+00:19:27,251 --> 00:19:29,545
+On s'est rencontrés quand j'étais jeune.
+
+246
+00:19:29,628 --> 00:19:31,547
+Après l'orphelinat, j'étais toute seule,
+
+247
+00:19:31,672 --> 00:19:34,007
+et Cesar était un des gars avec qui je traînais.
+
+248
+00:19:35,676 --> 00:19:37,761
+On a eu des ennuis avec la police.
+
+249
+00:19:38,095 --> 00:19:39,805
+Nos chemins se sont séparés.
+
+250
+00:19:41,515 --> 00:19:43,392
+Pourquoi j'ai l'impression que tu ne me dis pas tout ?
+
+251
+00:19:44,226 --> 00:19:47,104
+Si tu veux que je sois devant un bureau après ça, très bien.
+
+252
+00:19:47,229 --> 00:19:49,106
+Mais c'est personnel maintenant.
+
+253
+00:19:49,481 --> 00:19:52,651
+S'il te plait, laisse-moi récupéré le verre à Cesar.
+
+254
+00:19:52,943 --> 00:19:55,112
+Je sais comment le contacter. Je peux le faire.
+
+255
+00:19:55,237 --> 00:19:58,156
+Elle était en relation avec lui. Elle peut l'utiliser.
+
+256
+00:19:59,533 --> 00:20:02,578
+Toi plus que tous devrais pouvoir comprendre ça.
+
+257
+00:20:04,162 --> 00:20:05,789
+Trouve Martinez.
+
+258
+00:20:05,873 --> 00:20:07,332
+Il a pris ça pour quelqu'un d'autre.
+
+259
+00:20:07,457 --> 00:20:09,418
+Trouve si on peut le racheter pour nous-même.
+
+260
+00:20:09,918 --> 00:20:12,045
+Sydney, toi et Weiss serez en renfort sur ce coup.
+
+261
+00:20:13,672 --> 00:20:15,424
+Laisse moi être clair, Nadia.
+
+262
+00:20:16,925 --> 00:20:19,011
+J'attends une totale transparence de ta part.
+
+263
+00:20:21,597 --> 00:20:27,394
+De l'hydrogène à l'électrique à ce que vous construisez là,
+
+264
+00:20:27,644 --> 00:20:30,731
+les principes de la construction de bombe sont les mêmes.
+
+265
+00:20:31,607 --> 00:20:33,025
+Comme l'a dit Albert Einstein...
+
+266
+00:20:33,192 --> 00:20:34,651
+Ne te fais pas sauter.
+
+267
+00:20:37,362 --> 00:20:39,823
+"Tout devrait être fait aussi simplement que possible...
+
+268
+00:20:39,865 --> 00:20:42,117
+mais pas plus simple que ça."
+
+269
+00:20:43,493 --> 00:20:44,995
+Désolé, Diego.
+
+270
+00:20:46,413 --> 00:20:47,247
+Tu es mort.
+
+271
+00:20:57,007 --> 00:21:00,135
+Le plomb devait être couplé avec l'auxiliaire.
+
+272
+00:21:00,344 --> 00:21:02,012
+C'est le choix le plus évident.
+
+273
+00:21:02,179 --> 00:21:04,306
+Tu t'es coupé de la source de courant.
+
+274
+00:21:04,640 --> 00:21:07,726
+Si je les connecte, je déclenche l'explosion.
+
+275
+00:21:08,185 --> 00:21:09,937
+Si j'avais fait ce que vous suggérez...
+
+276
+00:21:10,062 --> 00:21:13,774
+...je serais en train de jouer de la harpe au paradis avec Diego.
+
+277
+00:21:20,447 --> 00:21:24,159
+M. Martinez, asseyez-vous que je vous mette au courant.
+
+278
+00:21:27,371 --> 00:21:28,038
+Bueno.
+
+279
+00:21:44,179 --> 00:21:46,890
+Garder des informations de Sloane.
+
+280
+00:21:47,057 --> 00:21:48,267
+Ca m'importe peu, vraiment. Mais de moi ?
+
+281
+00:21:48,308 --> 00:21:50,686
+Toi et moi sommes sur le terrain ensemble.
+
+282
+00:21:50,727 --> 00:21:52,437
+J'ai besoin de savoir qu'il y a une relation de confiance.
+
+283
+00:21:52,521 --> 00:21:53,772
+Qu'est-ce que tu veux savoir ?
+
+284
+00:21:53,939 --> 00:21:55,649
+Qu'est-ce que Martinez t'a chuchoté ?
+
+285
+00:21:56,400 --> 00:21:58,569
+Je te l'ai dit. Il a dit : "Call me".
+
+286
+00:21:58,735 --> 00:22:00,237
+Sydney, c'est tout.
+
+287
+00:22:00,946 --> 00:22:02,531
+Tu me dis qu'il n'y a rien d'autre ?
+
+288
+00:22:02,906 --> 00:22:06,785
+Pour la dernière fois, je suis désolée de ne pas t'avoir parlé de Cesar.
+
+289
+00:22:07,119 --> 00:22:09,246
+Mais il n'y a rien d'autre que tu doives savoir.
+
+290
+00:22:26,305 --> 00:22:27,848
+Je suis plus fort que toi.
+
+291
+00:22:27,973 --> 00:22:29,308
+Je suis plus rapide.
+
+292
+00:22:32,060 --> 00:22:33,145
+Je suis plus grand.
+
+293
+00:22:35,480 --> 00:22:36,857
+Je suis plus intelligente.
+
+294
+00:22:38,025 --> 00:22:39,234
+Je suis plus mignon.
+
+295
+00:22:48,076 --> 00:22:49,286
+Embrasse-moi...
+
+296
+00:22:49,411 --> 00:22:50,579
+...et je te laisse partir.
+
+297
+00:22:53,332 --> 00:22:54,875
+Qu'est-ce que tu fous ?
+
+298
+00:22:58,462 --> 00:22:59,296
+C'était quoi ça ?
+
+299
+00:23:00,214 --> 00:23:01,632
+Je faisais ce dont vous parliez.
+
+300
+00:23:01,965 --> 00:23:03,217
+Vaincre  l'adversaire.
+
+301
+00:23:06,845 --> 00:23:10,724
+Dans ce travail, on ne peut pas se déconcentrer.
+
+302
+00:23:11,266 --> 00:23:13,060
+Tu dois être professionnel.
+
+303
+00:23:13,894 --> 00:23:15,395
+Ca te sauvera la vie.
+
+304
+00:23:15,562 --> 00:23:16,522
+Compris ?
+
+305
+00:23:17,731 --> 00:23:18,190
+Sí.
+
+306
+00:23:29,076 --> 00:23:30,035
+Comment ça va ?
+
+307
+00:23:30,285 --> 00:23:32,913
+J'ai comparé la liste de mon père avec les archives de la CIA,
+
+308
+00:23:33,080 --> 00:23:36,166
+et il y a encore des missions dont je ne peux pas attester l'existence.
+
+309
+00:23:38,085 --> 00:23:41,171
+Je suis fou de croire que ce vieux journal va m'aider à retrouver mon père ?
+
+310
+00:23:42,381 --> 00:23:44,508
+C'est celles que tu n'as pas pu trouver ?
+
+311
+00:23:44,633 --> 00:23:45,050
+Ouais.
+
+312
+00:23:47,761 --> 00:23:48,971
+Donnes moi un stylo.
+
+313
+00:23:49,638 --> 00:23:51,390
+Et si ce n'était pas des noms d'opérations ?
+
+314
+00:23:52,266 --> 00:23:53,183
+Qu'est-ce que tu fais ?
+
+315
+00:23:53,433 --> 00:23:55,602
+Chiffrement par substitution.
+
+316
+00:23:58,272 --> 00:23:59,773
+Ok, comment tu as vu ça ?
+
+317
+00:24:00,148 --> 00:24:03,443
+Mon père cryptait mes mots croisés quand j'étais petite.
+
+318
+00:24:03,819 --> 00:24:06,196
+La moindre de mes tares de gamine.
+
+319
+00:24:09,700 --> 00:24:10,617
+Essaie ça.
+
+320
+00:24:11,785 --> 00:24:12,744
+Quand est-ce que tu pars ?
+
+321
+00:24:12,870 --> 00:24:14,621
+Dans une demi-heure.
+
+322
+00:24:14,663 --> 00:24:16,248
+J'aimerais pouvoir rester.
+
+323
+00:24:16,957 --> 00:24:20,210
+Ouais, je, je sais.
+
+324
+00:24:55,495 --> 00:24:56,288
+Nadia.
+
+325
+00:25:01,043 --> 00:25:01,668
+Hola.
+
+326
+00:25:02,628 --> 00:25:03,128
+Hola.
+
+327
+00:25:05,839 --> 00:25:08,675
+Je n'étais pas sûre que tu lises encore El Diario.
+
+328
+00:25:09,968 --> 00:25:12,429
+Je vérifie tous nos anciens protocoles.
+
+329
+00:25:14,348 --> 00:25:15,182
+Vraiment ?
+
+330
+00:25:15,474 --> 00:25:18,101
+Oui. Tous les jours.
+
+331
+00:25:18,310 --> 00:25:19,394
+Juste au cas où.
+
+332
+00:25:20,312 --> 00:25:21,813
+Au cas où quoi ?
+
+333
+00:25:22,189 --> 00:25:25,234
+Au cas où tu aies des problèmes.
+
+334
+00:25:25,901 --> 00:25:27,903
+Et tu en as, n'est-ce pas ?
+
+335
+00:25:28,570 --> 00:25:29,947
+A cause de toi.
+
+336
+00:25:30,072 --> 00:25:32,866
+Tu ne peux pas m'en vouloir...
+
+337
+00:25:33,367 --> 00:25:34,785
+...pour la Biélorussie.
+
+338
+00:25:36,203 --> 00:25:40,791
+Mon équipe avait le verre. Tu me l'as volé, Cesar.
+
+339
+00:25:41,458 --> 00:25:44,378
+Tu as fait ton job. J'ai fait le mien.
+
+340
+00:25:45,337 --> 00:25:48,632
+Peut-être que tu auras plus de chance la prochaine fois.
+
+341
+00:25:51,426 --> 00:25:53,470
+Il n'y aura pas de prochaine fois.
+
+342
+00:25:53,595 --> 00:25:55,305
+Pas avec ces gens-là.
+
+343
+00:25:55,806 --> 00:25:57,224
+Tu comprends ?
+
+344
+00:25:58,517 --> 00:26:00,060
+Nadia...
+
+345
+00:26:01,228 --> 00:26:03,063
+Personne ne te connaît aussi bien que moi.
+
+346
+00:26:03,939 --> 00:26:05,774
+Ce qu'on a vécu...
+
+347
+00:26:06,233 --> 00:26:07,568
+Tu as peur.
+
+348
+00:26:08,735 --> 00:26:10,362
+Tu as besoin d'aide.
+
+349
+00:26:12,531 --> 00:26:13,657
+Laisse-moi t'aider.
+
+350
+00:26:16,910 --> 00:26:18,120
+Tu veux vraiment m'aider ?
+
+351
+00:26:18,954 --> 00:26:19,621
+Bien sûr.
+
+352
+00:26:21,206 --> 00:26:25,419
+Je dois apporter le verre à mes employeurs demain soir. Sinon...
+
+353
+00:26:30,507 --> 00:26:32,342
+Je dois le faire.
+
+354
+00:26:36,972 --> 00:26:38,473
+Alors le verre est à toi.
+
+355
+00:26:40,684 --> 00:26:41,977
+Juste comme ça ?
+
+356
+00:26:42,186 --> 00:26:43,020
+Juste comme ça.
+
+357
+00:26:45,147 --> 00:26:47,900
+Je suis sûr que mon acheteur comprendra.
+
+358
+00:26:48,400 --> 00:26:50,068
+Tu devras me payer bien entendu.
+
+359
+00:26:50,194 --> 00:26:52,070
+Bien sur.
+
+360
+00:26:52,196 --> 00:26:53,906
+Je vais t'emmener là où il est.
+
+361
+00:26:54,781 --> 00:26:57,993
+Quand je saurais que tu es seule.
+
+362
+00:27:00,162 --> 00:27:01,663
+Je ne comprends pas.
+
+363
+00:27:02,998 --> 00:27:04,791
+Laisse-moi deviner.
+
+364
+00:27:05,375 --> 00:27:08,378
+Tu as un traceur dans ton sac ?
+
+365
+00:27:09,379 --> 00:27:11,632
+On a appris les mêmes astuces.
+
+366
+00:27:11,882 --> 00:27:13,926
+Tu n'es pas venu ici sans renfort.
+
+367
+00:27:14,009 --> 00:27:16,345
+Evergreen, tu ne peux pas y aller sans com'.
+
+368
+00:27:16,887 --> 00:27:19,473
+Mais le sac, Cesar ? Je t'en prie.
+
+369
+00:27:19,806 --> 00:27:21,558
+C'est pour les débutants.
+
+370
+00:27:24,269 --> 00:27:26,104
+Evergreen, abandonne la mission.
+
+371
+00:27:29,566 --> 00:27:30,526
+Nadia...
+
+372
+00:27:32,653 --> 00:27:35,572
+Le verre est dans mon bureau.
+
+373
+00:27:36,490 --> 00:27:37,366
+C'est par-là.
+
+374
+00:27:48,001 --> 00:27:49,586
+Qu'est-ce qu'elle fout ?
+
+375
+00:28:29,168 --> 00:28:30,169
+Portugal.
+
+376
+00:28:32,421 --> 00:28:35,424
+Tu ne te demandes jamais comment ça aurait été ?
+
+377
+00:28:36,216 --> 00:28:38,302
+Si les choses avaient été...
+
+378
+00:28:38,927 --> 00:28:39,887
+...différentes.
+
+379
+00:28:50,355 --> 00:28:51,106
+Quoi ?
+
+380
+00:28:51,732 --> 00:28:52,900
+C'est amusant.
+
+381
+00:28:53,192 --> 00:28:57,571
+Toutes ces années où on volait ensemble, ça nous a séparés. Et maintenant...
+
+382
+00:29:00,199 --> 00:29:01,617
+Ok, je vais par-là.
+
+383
+00:29:01,742 --> 00:29:02,034
+Ok.
+
+384
+00:29:03,660 --> 00:29:06,747
+Je ne pourrais jamais suffisamment te remercier pour ce que tu fais.
+
+385
+00:29:07,080 --> 00:29:09,082
+Mais je ne peux pas rester ici.
+
+386
+00:29:09,291 --> 00:29:11,919
+Regarde-toi. Encore en train de respecter les règles de Roberto.
+
+387
+00:29:12,544 --> 00:29:16,131
+Ca m'a toujours aidé de ne pas mélanger travail et plaisir.
+
+388
+00:29:19,635 --> 00:29:20,427
+Par-là.
+
+389
+00:29:46,411 --> 00:29:47,120
+Syd.
+
+390
+00:29:48,539 --> 00:29:49,331
+Quelque chose ?
+
+391
+00:29:51,667 --> 00:29:52,459
+Ah, allez.
+
+392
+00:29:57,172 --> 00:29:58,215
+On y est presque.
+
+393
+00:30:01,426 --> 00:30:02,719
+Tu penses parfois à lui ?
+
+394
+00:30:04,513 --> 00:30:05,472
+A Roberto ?
+
+395
+00:30:06,807 --> 00:30:08,058
+Tous les jours.
+
+396
+00:30:10,060 --> 00:30:12,312
+Sans lui, je ne sais pas qui je serais aujourd'hui.
+
+397
+00:30:43,927 --> 00:30:45,596
+Diego t'attendra dans 3 heures.
+
+398
+00:30:46,847 --> 00:30:48,807
+Premier étage. Corridor de service.
+
+399
+00:30:49,183 --> 00:30:52,144
+Si Diego a le disque, la lampe aura un nœud.
+
+400
+00:30:54,021 --> 00:30:57,232
+Tu auras au plus 30 secondes pour faire la livraison.
+
+401
+00:30:58,942 --> 00:31:01,486
+Il est impératif que vous ne soyez pas vu ensemble.
+
+402
+00:31:01,570 --> 00:31:03,697
+On ne prendra pas de risques. Promis.
+
+403
+00:31:06,241 --> 00:31:07,159
+Autre chose ?
+
+404
+00:31:30,682 --> 00:31:32,100
+Un cadeau pour ta remise de diplôme.
+
+405
+00:31:52,496 --> 00:31:53,705
+De quoi j'ai l'air ?
+
+406
+00:31:56,917 --> 00:31:57,960
+Magnifique.
+
+407
+00:33:26,590 --> 00:33:27,549
+Diego ?
+
+408
+00:33:32,554 --> 00:33:33,514
+Diego.
+
+409
+00:33:35,682 --> 00:33:36,600
+Dios mío.
+
+410
+00:33:36,725 --> 00:33:38,060
+Le disque...
+
+411
+00:33:40,229 --> 00:33:41,688
+...ils ne l'ont pas trouvé.
+
+412
+00:33:48,153 --> 00:33:49,655
+Je dois appeler Roberto.
+
+413
+00:33:49,738 --> 00:33:50,405
+No !
+
+414
+00:33:52,199 --> 00:33:54,243
+Ce que Roberto m'a fait voler...
+
+415
+00:33:54,952 --> 00:33:57,037
+ce sont des documents du gouvernement.
+
+416
+00:33:57,829 --> 00:34:00,958
+Ce que tu dis n'a pas de sens. On travaille pour le gouvernement.
+
+417
+00:34:03,043 --> 00:34:04,294
+C'est ce qu'il...
+
+418
+00:34:05,838 --> 00:34:08,006
+...veut nous faire croire.
+
+419
+00:34:09,216 --> 00:34:10,092
+No.
+
+420
+00:34:10,175 --> 00:34:11,552
+Ce n'est pas possible.
+
+421
+00:34:12,135 --> 00:34:13,262
+Nadia...
+
+422
+00:34:14,137 --> 00:34:17,266
+- Roberto est corrompu.
+- Ce n'est pas vrai.
+
+423
+00:34:17,558 --> 00:34:20,018
+Il joue double jeu. C'est un criminel.
+
+424
+00:34:21,436 --> 00:34:21,979
+No.
+
+425
+00:34:23,772 --> 00:34:24,481
+No.
+
+426
+00:34:27,192 --> 00:34:29,152
+Ce n'est pas possible.
+
+427
+00:34:29,486 --> 00:34:30,696
+Il nous a utilisés.
+
+428
+00:34:33,156 --> 00:34:35,325
+Le disque...
+
+429
+00:34:35,450 --> 00:34:36,535
+Ce n'est pas vrai.
+
+430
+00:34:36,660 --> 00:34:38,203
+Diego, s'il te plait.
+
+431
+00:34:38,745 --> 00:34:40,747
+Diego. Diego.
+
+432
+00:34:41,456 --> 00:34:42,708
+Diego !
+
+433
+00:34:55,304 --> 00:34:56,680
+Tu viens toujours ici ?
+
+434
+00:34:56,847 --> 00:35:01,059
+Je ne suis jamais parti. Je l'ai acheté après la mort de Roberto.
+
+435
+00:35:01,310 --> 00:35:02,936
+C'était pas cher.
+
+436
+00:35:14,907 --> 00:35:16,783
+Mes meilleurs souvenirs sont ici.
+
+437
+00:35:18,535 --> 00:35:21,163
+L'entraînement, les leçons...
+
+438
+00:35:22,539 --> 00:35:23,290
+...avec toi.
+
+439
+00:35:24,875 --> 00:35:26,126
+Et bien sur, Roberto.
+
+440
+00:35:32,925 --> 00:35:34,718
+C'est ici que ma vie a commencé.
+
+441
+00:35:39,806 --> 00:35:41,099
+C'est triste, non ?
+
+442
+00:35:43,060 --> 00:35:45,854
+Que ça ait survécu à son utilité.
+
+443
+00:35:49,983 --> 00:35:51,610
+On peut prendre ce pourquoi on est venu ?
+
+444
+00:35:53,695 --> 00:35:54,446
+Bien sûr.
+
+445
+00:35:59,993 --> 00:36:01,703
+On l'a perdu ici à la Plaza Del Camino.
+
+446
+00:36:01,828 --> 00:36:03,622
+Ouais, Martinez a dit qu'il l'emmenait à son bureau
+
+447
+00:36:03,705 --> 00:36:05,249
+pour faire l'échange. Ca ne doit pas être loin.
+
+448
+00:36:05,374 --> 00:36:08,252
+Depuis que j'ai appris pour le passé de Nadia avec Martinez, j'ai fait quelques recherches.
+
+449
+00:36:08,418 --> 00:36:10,671
+Martinez est propriétaire de plusieurs choses,
+
+450
+00:36:10,754 --> 00:36:14,466
+dont le complexe d'entraînement de Roberto Fox.
+
+451
+00:36:16,593 --> 00:36:18,887
+Tu te souviens du bureau de Roberto, non ?
+
+452
+00:36:19,304 --> 00:36:20,389
+Bien sur.
+
+453
+00:36:20,806 --> 00:36:26,186
+Tu as dit que Roberto t'a fait telle que tu es aujourd'hui.
+
+454
+00:36:27,646 --> 00:36:28,605
+Je pense la même chose.
+
+455
+00:36:29,898 --> 00:36:31,400
+A une différence près.
+
+456
+00:36:32,317 --> 00:36:35,863
+C'est sa mort qui m'a fait.
+
+457
+00:36:38,657 --> 00:36:42,452
+Tuer un agent de haut niveau t'a donné une grande réputation.
+
+458
+00:36:46,248 --> 00:36:50,043
+Un cadavre et mon nom signifiait quelque chose.
+
+459
+00:36:51,587 --> 00:36:55,132
+Je devenais soudainement quelqu'un à craindre.
+
+460
+00:36:57,134 --> 00:36:59,136
+Mais en fait...
+
+461
+00:36:59,845 --> 00:37:01,555
+...je ne l'ai pas tué.
+
+462
+00:37:05,642 --> 00:37:11,815
+Roberto avait tant d'ennemis. Il aurait pu être tué par n'importe qui.
+
+463
+00:37:14,651 --> 00:37:16,653
+Je me suis toujours demandé...
+
+464
+00:37:20,699 --> 00:37:24,745
+...si c'était toi. Ton oeuvre.
+
+465
+00:37:26,288 --> 00:37:29,917
+Ton visage, Nadia.
+
+466
+00:37:31,668 --> 00:37:32,961
+Ca le confirme.
+
+467
+00:37:46,808 --> 00:37:48,018
+Que s'est-il passé ?
+
+468
+00:37:48,352 --> 00:37:50,145
+Diego est mort.
+
+469
+00:37:54,733 --> 00:37:56,485
+Je viens de lire le disque.
+
+470
+00:37:58,862 --> 00:38:00,948
+Comment as-tu pu faire ça ?
+
+471
+00:38:00,989 --> 00:38:02,074
+Nadia.
+
+472
+00:38:21,176 --> 00:38:25,138
+Tout ce qu'il nous a dit n'était que des mensonges, Cesar.
+
+473
+00:38:27,599 --> 00:38:30,185
+Il disait qu'on travaillait pour notre pays.
+
+474
+00:38:36,233 --> 00:38:40,112
+Tu te souviens de ce qu'étaient nos vies avant lui ?
+
+475
+00:38:41,280 --> 00:38:43,949
+On dormait dans les rues.
+
+476
+00:38:45,033 --> 00:38:48,287
+Roberto était un assassin. Un criminel.
+
+477
+00:38:49,037 --> 00:38:51,290
+Il a fait de nous des traîtres. Tu ne comprends pas ?
+
+478
+00:38:51,373 --> 00:38:54,001
+Qu'est-ce que ça peut faire ?
+
+479
+00:38:55,752 --> 00:38:57,421
+Sans lui...
+
+480
+00:38:59,047 --> 00:39:04,261
+...on pourrirait encore en prison ou on serait morts.
+
+481
+00:39:05,095 --> 00:39:06,471
+Il nous a sauvés.
+
+482
+00:39:08,098 --> 00:39:09,892
+Et tu l'as tué.
+
+483
+00:39:10,434 --> 00:39:13,228
+Et je le referais.
+
+484
+00:39:58,815 --> 00:39:59,650
+Nadia !
+
+485
+00:40:02,486 --> 00:40:03,070
+Nadia.
+
+486
+00:40:03,403 --> 00:40:04,780
+Ca va.
+
+487
+00:40:05,572 --> 00:40:06,698
+Il y a un coffre à l'intérieur.
+
+488
+00:40:06,823 --> 00:40:08,367
+Le verre amplificateur doit être dedans.
+
+489
+00:40:08,450 --> 00:40:09,493
+Ok, aller.
+
+490
+00:41:04,047 --> 00:41:06,258
+La première et seule fois que j'ai vu votre père,
+
+491
+00:41:06,425 --> 00:41:09,261
+il était couvert de sang et portait un bébé dans les bras.
+
+492
+00:41:09,344 --> 00:41:10,095
+Nadia.
+
+493
+00:41:10,304 --> 00:41:13,182
+Il l'a amené à l'orphelinat à Buenos Aires.
+
+494
+00:41:13,432 --> 00:41:15,309
+Il a dit qu'elle était en danger.
+
+495
+00:41:15,601 --> 00:41:18,061
+Il avait été touché à l'épaule.
+
+496
+00:41:18,437 --> 00:41:20,772
+Je savais ne pas poser trop de questions.
+
+497
+00:41:21,607 --> 00:41:23,901
+Votre père, il est resté quelques jours,
+
+498
+00:41:24,276 --> 00:41:27,112
+jusqu'à ce qu'il puisse voyager.
+
+499
+00:41:27,487 --> 00:41:29,656
+Un matin, je me suis réveillée et il était parti.
+
+500
+00:41:31,950 --> 00:41:33,285
+Je ne comprends pas.
+
+501
+00:41:33,368 --> 00:41:34,745
+S'il vous connaissait à Buenos Aires,
+
+502
+00:41:34,912 --> 00:41:39,124
+pourquoi il crypterait cette adresse dans son journal ?
+
+503
+00:41:39,249 --> 00:41:40,709
+Je ne sais pas.
+
+504
+00:41:42,127 --> 00:41:45,464
+Vous avez pensé qu'il pourrait être ici.
+
+505
+00:41:46,924 --> 00:41:48,342
+Je suis désolée.
+
+506
+00:41:49,551 --> 00:41:51,595
+J'aimerais en savoir plus.
+
+507
+00:41:52,137 --> 00:41:55,516
+Vous ne vous rappelez de rien ? Quelque chose qu'il a dit, peut-être un détail ?
+
+508
+00:41:58,519 --> 00:41:59,937
+Nightingale (rossignol).
+
+509
+00:42:00,854 --> 00:42:01,772
+Nightingale ?
+
+510
+00:42:02,272 --> 00:42:07,653
+Il était au téléphone, et quelque chose dans sa voix...
+
+511
+00:42:07,778 --> 00:42:09,488
+C'était important pour lui.
+
+512
+00:42:15,244 --> 00:42:17,162
+Je peux vous demander quelque chose ?
+
+513
+00:42:18,872 --> 00:42:19,623
+Bien sûr.
+
+514
+00:42:20,832 --> 00:42:24,127
+Nadia... Comment va-t-elle ?
+
+515
+00:42:24,628 --> 00:42:25,754
+Elle va bien.
+
+516
+00:42:30,008 --> 00:42:33,470
+Traduction: Alucardo et Travis
+Synchro/Transcript: RaceMan/Travis
+
+

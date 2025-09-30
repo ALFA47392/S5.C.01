@@ -1,0 +1,93 @@
+{
+  "24": {
+    "series_name": "24",
+    "language": "fr",
+    "file_count": 437,
+    "keywords_count": 150,
+    "output_file": "24.txt"
+  },
+  "90210": {
+    "series_name": "90210",
+    "language": "fr",
+    "file_count": 91,
+    "keywords_count": 150,
+    "output_file": "90210.txt"
+  },
+  "alias": {
+    "series_name": "alias",
+    "language": "fr",
+    "file_count": 213,
+    "keywords_count": 150,
+    "output_file": "alias.txt"
+  },
+  "angel": {
+    "series_name": "angel",
+    "language": "fr",
+    "file_count": 220,
+    "keywords_count": 150,
+    "output_file": "angel.txt"
+  },
+  "battlestargalactica": {
+    "series_name": "battlestargalactica",
+    "language": "fr",
+    "file_count": 199,
+    "keywords_count": 150,
+    "output_file": "battlestargalactica.txt"
+  },
+  "betteroffted": {
+    "series_name": "betteroffted",
+    "language": "fr",
+    "file_count": 48,
+    "keywords_count": 150,
+    "output_file": "betteroffted.txt"
+  },
+  "bionicwoman": {
+    "series_name": "bionicwoman",
+    "language": "fr",
+    "file_count": 16,
+    "keywords_count": 150,
+    "output_file": "bionicwoman.txt"
+  },
+  "blade": {
+    "series_name": "blade",
+    "language": "en",
+    "file_count": 13,
+    "keywords_count": 150,
+    "output_file": "blade.txt"
+  },
+  "bloodties": {
+    "series_name": "bloodties",
+    "language": "fr",
+    "file_count": 62,
+    "keywords_count": 150,
+    "output_file": "bloodties.txt"
+  },
+  "bones": {
+    "series_name": "bones",
+    "language": "en",
+    "file_count": 314,
+    "keywords_count": 150,
+    "output_file": "bones.txt"
+  },
+  "breakingbad": {
+    "series_name": "breakingbad",
+    "language": "fr",
+    "file_count": 66,
+    "keywords_count": 150,
+    "output_file": "breakingbad.txt"
+  },
+  "buffy": {
+    "series_name": "buffy",
+    "language": "fr",
+    "file_count": 424,
+    "keywords_count": 150,
+    "output_file": "buffy.txt"
+  },
+  "burnnotice": {
+    "series_name": "burnnotice",
+    "language": "fr",
+    "file_count": 104,
+    "keywords_count": 150,
+    "output_file": "burnnotice.txt"
+  }
+}

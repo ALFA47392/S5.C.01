@@ -1,0 +1,517 @@
+{1}{1}23.976
+{6}{75}The Cylons Were Created by Man
+{102}{146}They Evolved
+{180}{235}They Rebelled
+{263}{317}There Are Many Copies
+{411}{462}And They Have a Plan
+{509}{553}Prevoiusly on Battlestar Galactica
+{603}{630}24 Ships jumped away
+{630}{659}That's almost a third of the fleet.
+{659}{743}The gonna to follow the roslin to Kobol.|To their death.
+{813}{840}[Cally shot Sharon!]
+{840}{922}There are many copies.|You'll see her again.
+{940}{1037}One of those things, put two rounds|into my father's chest.
+{1037}{1119}We have found Kobol,|and when we retrieve the arrow,
+{1119}{1231} we WILL open the tomb of Athena,|and we will found road to Earth.
+{1227}{1355}What I need to know, is exactly|how to find the tomb of Athena.
+{1355}{1424}I can show you the path.|I don't know how long the path is
+{1424}{1484}or exactly where it leads to,|but I can tell you that you're going to
+{1484}{1524}have to move very, very quickly.
+{1615}{1702}I want to see all recon material on Kobol|immediately in my quarters.
+{1705}{1732}Kobol?
+{1732}{1842}I'm putting the fleet back together.|I'm putting our family back together again.
+{1868}{1925}The scriptures say some|of us will die on Kobol.
+{1950}{1994}Like a certain captain Apollo.
+{3765}{3793}This could be anywhere.
+{3825}{3896}If we only use information contained|within the Book of Pythia,
+{3903}{4025}which makes sense given the President's|identification for that particular gospel,
+{4025}{4145} then the Tomb of Athena is most|likely located somewhere...
+{4165}{4222}in the mountains to the west|of the City of the Gods.
+{4225}{4350}Let's assume she starts at the most easily|recognized landmark which is the opera house.
+{4365}{4475}They'd be setting down somewhere around|here in this meadow, then heading west.
+{4627}{4653}Are you okay?
+{4675}{4718}Yes.. I am.
+{4778}{4818}We got to get out of this ravine!
+{4840}{4901}I don't want us to get|caught in a flash flood.
+{4990}{5114}Raptor one went down right about here|just outside the ruins of the city
+{5114}{5178}Now, we never made it past, say, here.
+{5197}{5259}But we visually scouted the|approaches out to the mountains.
+{5470}{5490}Thanks.
+{5490}{5522}Any time.
+{5574}{5624}If this is all she's got to go|on I don't know how
+{5624}{5674}the hell that woman thinks|she's gonna find this tomb.
+{5685}{5752}Well, maybe she's seen it in a vision.
+{5820}{5997}I'm serious. She says she sees things.|Images, prophecies, whatever.
+{6042}{6134}The point is that she believes in them.|And so do the people that are with her.
+{6140}{6185}Sir, all due respect,|that terrain is so rugged,
+{6185}{6254}I can't imagine navigating it|without a map or a guide.
+{6400}{6454}Okay, you're king of the hill.
+{6465}{6499}Queen of the hill,|thank you very much.
+{6524}{6570}We should take shelter|until the storm passes.
+{6575}{6627}Sounds good. After that?
+{6655}{6682}Then we start the tough part.
+{6800}{6822}Let's go.
+{6950}{6982}The last rescue team,
+{6990}{7062}reported no sign of a cylon base ship|or a raider anywhere near Kobol.
+{7070}{7149}Well, we'll set the jump arrival coordinates|to the upper atmosphere.
+{7150}{7184}Just in case.
+{7190}{7225}Ah, sir, that's risky,
+{7225}{7307}and it's certainly not possible|with a ship of this size.
+{7310}{7357}I'll be going down in a raptor.
+{7363}{7390}What?
+{7420}{7474}I'm not gonna leave|the fleet undefended.
+{7489}{7536}And it's too risky to try|to take all of us.
+{7550}{7603}We'll send a search party|for frak's sake.
+{7657}{7750}"And zeus warned the|leaders of the 12 tribes
+{7760}{7840}that any return to kobol would|exact a price in blood."
+{7840}{7864}It certainly did for us.
+{7920}{7989}No more bloodshed. Enough loss.
+{7997}{8070}I'm only gonna take people who|are absolutely necessary.
+{8070}{8105}Don't try to argue with me, Saul.
+{8160}{8270}Truth is, I'm the only one that|can reach out to Roslin.
+{8310}{8352}It's always been between us anyway.
+{8360}{8433}We may have gone down separately,|but we're gonna come back together.
+{8454}{8485}Hopefully on our feet.
+{8530}{8610}But even in body bags, we're|gonna be coming back together.
+{8648}{8685}I'm going to contact the Astral Queen,
+{8685}{8734}see if they can pick us up|until the weather clears.
+{8734}{8758}You're not in charge here, Tom.
+{8758}{8824}All com traffic goes through me.|Try to remember that.
+{8935}{8976}How much longer do you|wanna wait, Tom?
+{9040}{9076}Just keep your eyes on him.
+{9190}{9340}Battlestar galactica|2x07 - Home, Part 2
+{9340}{9440}EN Titule stvoøil:|Lordhp <lordhp@centrum.cz>
+{9440}{9540}CZ Pøeklad:|Hopefully Winner will do that :-)
+{9670}{9735}47,855 Survivors
+{9750}{9822}In Search of a Home
+{9835}{9886}Called Earth
+{9886}{9925}           Earth
+{10235}{10296}Eleven O'Clock.|Twenty degrees elevation.
+{10296}{10349}There's a formation of|twin rocks up ahead.
+{10360}{10390}Yeah, I've got it.
+{10397}{10434}I think those are|the Gates of Hera.
+{10445}{10472}You think?
+{10490}{10582}I'm putting together a lot of pieces from|a lot of sources beyond your scriptures.
+{10603}{10681}If I'm right, that's the spot|where your god supposedly stood
+{10681}{10745}and watched Athena throw herself|down onto the rocks below
+{10758}{10823}out of despair over the|exodus of the 13 tribes.
+{10826}{10900}Supposedly? I thought the|cylons believed in the gods.
+{10900}{10930}Yeah, don't get her started.
+{10935}{11009}They believe in one true|god or something like that.
+{11013}{11055}And we don't worship false idols.
+{11060}{11100}You were quick enough|to come on this mission.
+{11111}{11210}Lead us all to some tomb only actually|mentioned in our false scriptures.
+{11210}{11256}We know more about your|religion than you do.
+{11309}{11418}Athena's Tomb, whoever,|whatever, she really was
+{11418}{11460}is probably up there.
+{11476}{11507}That part is true.
+{11512}{11578}Madam President, we won't make|it up there before nightfall.
+{11600}{11641}Let's go, see how far we get.
+{11790}{11825}This is a depressing place.
+{11931}{12008}Part of me is glad Sharon|never made it in here.
+{12182}{12240}You decided to brighten up|the place a little, did you?
+{12276}{12317}Our child will be born here.
+{12336}{12360}In this room.
+{12418}{12442}You're not listening.
+{12442}{12474}Oh, you noticed?
+{12504}{12538}No, I've had enough.
+{12553}{12605}Do you seriously expect|me to listen to you
+{12605}{12629}while you sit around stark naked,
+{12671}{12715}prattle on about this|mythical baby of ours?
+{12715}{12752}Mythical?
+{12752}{12785}Yes, mythical. It...
+{12817}{12894}do you have any notion of how|ridiculous you've become?
+{12894}{12965}The whole turn of our conversation|completely shot to pieces.
+{12965}{13033}I'm the father of a baby|who will be born to me,
+{13040}{13116}from my fantasy woman who|I see solely in my head.
+{13116}{13172}My fantasy woman, by the way,|who stopped being my fantasy.
+{13180}{13205}You're not my fantasy anymore.
+{13232}{13325}No, sadly, no.|You're nothing more than a common tease.
+{13337}{13372}I never said I would bear the child.
+{13372}{13488}Oh, wonderful. More doubletalk,|more mind games.
+{13488}{13525}All right then, who's it going to be?
+{13547}{13620}Who's going to bear|our secret love child?
+{13632}{13663}It's not starbuck is it?
+{13691}{13756}Careful, Gaius, you're in|dangerous territory now.
+{13782}{13816}Then I guess I'm really scared.
+{13838}{13891}So what's it gonna be this week?| What is it?
+{13910}{13943}Don't tell me, I'll guess.
+{14002}{14032}The ship's gonna blow up!
+{14050}{14129}No, damn, damn.|Done that one. Done that one.
+{14129}{14195}So it's gotta be someone else.|Somebo--me!
+{14214}{14265}Yes, of course, me!|I'm gonna explode!
+{14279}{14325}God is gonna make me|spontaneously combust
+{14325}{14400}in a great big ball of flame,|and then the whole crew of Galactica
+{14400}{14460}can celebrate on ambrosia.|Get really drunk.
+{14630}{14667}Okay. Enough.
+{14667}{14702}I can't do this anymore.
+{14730}{14756}You're right.
+{14778}{14810}Game's over. You win.
+{14864}{14885}Win?
+{14986}{15016}What did I win?
+{15025}{15049}You don't get it?
+{15087}{15107}Come on, gaius
+{15107}{15177}Wake up and smell the|psychosis already.
+{15177}{15261}I'm sorry, I don't know what|you're talking about.
+{15261}{15326}Okay, look.
+{15327}{15404}There is no cylon chip|implanted in your brain.
+{15426}{15462}I'm not real.
+{15462}{15547}You're not really getting secret|messages from the Cylons.
+{15584}{15619}You're just crazy.
+{15773}{15834}Very funny.|Hysterical.
+{15834}{15883}Do you, um, do you|write your own material?
+{15880}{15916}You don't believe me, do you?
+{15916}{15938}No, I don't.
+{16028}{16077}- That's great. I love it.|- Is it?
+{16078}{16118}Good. I've had enough of this. All right?
+{16118}{16154}So can we just stop playing this stupid game?
+{16151}{16181}Oh, I'm sorry.
+{16217}{16269}But it's the truth.|There is no chip.
+{16365}{16402}If there is no chip,
+{16436}{16518}then who... or what..
+{16518}{16572}are you, exactly?
+{16581}{16602}I'm you.
+{16651}{16706}I'm your subconscious|frakking with your mind.
+{16773}{16843}Okay.|Check it out.
+{16888}{16960}You helped the cylons commit|genocide against your own people,
+{16960}{17012}and your fragile little mind couldn't handle it.
+{17012}{17122}So poof, I appear and start|telling you how special you are.
+{17122}{17163}How god has chosen you.
+{17182}{17220}Yeah... right.
+{17348}{17398}Well, I don't know what|game you're playing anymore.
+{17443}{17538}But I don't like playing these stupid games.|So, uh, now you've had your fun.
+{17552}{17584}Why don't you get|yourself checked out?
+{17629}{17693}Go down to sick bay and get a brain scan.|That would settle it, wouldn't it?
+{17793}{17827}Go ahead. I dare you.
+{18042}{18079}[Raptor One]|[Destination: Kobol]
+{18079}{18112}How simple could it be?
+{18112}{18272}Okay. We're in the north-northwest continent,|quadrant c, sector 2, which...
+{18305}{18371}Oh, for frak's sake, let me see if I|can make heads or tails of it.
+{18371}{18439} Look, I marked the terrain as|best I could but we're not...
+{18478}{18528}topography's for pansies anyways.
+{18540}{18603}How you feeling? Diplomatic?
+{18609}{18671}I still don't think this is a|very good idea, commander.
+{18671}{18735}The last time she saw me,|she wasn't too happy with me.
+{18740}{18806}She trusts you, values your counsel.
+{18810}{18839}She'll listen to you.
+{18840}{18875}I doubt that very much.
+{18881}{18950}I'm her assistant. She doesn't put|any more stock in what I say than..
+{18950}{18993}She thinks you'll be president one day.
+{19062}{19088}'Scuse me?
+{19089}{19134}That's what she said to me once,
+{19157}{19270}that you reminded her of president|Adar when he ran for his first office.
+{19350}{19395}I don't really know how|to respond to that, sir.
+{19395}{19439}Don't let it go to your head.
+{19452}{19497}Adar was a moron.
+{19513}{19579}This is an intra-atmos entry.|You guys buckled in?
+{19589}{19610}Yeah
+{19929}{19977}Perimeter's clear.|No cylon presence.
+{19982}{20119}See? Nothing to worry about.|Having good luck already.
+{20853}{20978}Gives me the creeps, seeing him,|acting like that with her.
+{21011}{21041}He loves her.
+{21069}{21117}And, yeah, he knows|she's a machine.
+{21135}{21176}He doesn't care. He loves her anyway.
+{21232}{21307}Frak! How can one of us get|that roped in by one of them?
+{21312}{21359}You know, we should|keep an eye on him too.
+{21376}{21415}Helo's a friend of mine, all right?
+{21420}{21454}He's one of the good guys.
+{21480}{21568}Yeah? Sharon was a|friend of yours too.
+{21731}{21781}Feel like I'm back on Caprica.
+{21799}{21880}No thanks. I'm happy right here.
+{21909}{21943}Really?
+{21943}{21994}Yeah, actually.
+{22002}{22073}Just being with you and Kara|feels like I've come home.
+{22085}{22119}It's like I'm back in the fleet.
+{22124}{22201}But you were never in the fleet.|That was the other sharon.
+{22212}{22250}I know. I know that.
+{22288}{22333}But I remember all of it.
+{22350}{22380}Like getting my wings.
+{22392}{22445}My first trip aboard the Galactica.
+{22496}{22615}You know, the memory of being in|a uniform is so strong, is so potent,
+{22615}{22692}it's, like, I'm Sharon Valerii|and this is my family.
+{22792}{22902}- That's pretty weird, huh?|- That's okay. I like weird.
+{22984}{23032}Losing that priest really frakked her up.
+{23064}{23169}She's lost a lot of people.|Friends. Supporters.
+{23205}{23257}All she has left is her young prince.
+{23257}{23337}We're here. He's here.
+{23351}{23386}We know what we have to do.
+{23419}{23524}Terrain's rougher than we thought.|Don't know how far until we reach this tomb.
+{23529}{23572}Why are you backing out of this now?
+{23572}{23602}I'm not backing out of anything.
+{23602}{23670}Getting blood on your hands is|a lot harder than washing it off.
+{23700}{23740}Then let the cylon do it.
+{23775}{23844}What if the Cylon were to get a|weapon and shoot him herself?
+{23876}{23936}There would be a lot of confusion, stress, panic.
+{23957}{24023}And the cylon could find herself|getting shot real easy.
+{24064}{24127}How would you propose such|a thing might happen?
+{24155}{24228}This has to happen, Tom.|You know that.
+{24302}{24342}Not until we find the tomb.
+{24753}{24806}- How much further?|- Farther.
+{24823}{24891}- What?|- Farther describes actual distance.
+{24891}{24932} Further is more figurative.
+{24955}{24993}You're a dictionary now?
+{25016}{25051}I'm sorry I'm smarter than you.
+{25090}{25152}Well, that's okay.|The baby can have your brains
+{25152}{25207}- as long as he gets my looks.|- Yeah?
+{25207}{25254}That'd be a real blessing for her.
+{25264}{25351}Her? You know it's a girl?
+{25399}{25427}Yeah.
+{25487}{25585}So from what I could tell, the Cylons|have a plan for Caprica.
+{25603}{25680}They're cleaning up the bodies,|bringing in the heavy machinery
+{25680}{25738}- to fix the infrastructure.|- I understand.
+{25754}{25847}But they haven't killed everyone.|There's a resistance movement.
+{25864}{25945}Once we find the tomb and get the map,|I think our first order of business
+{25945}{26007}has to be planning a rescue|mission back to Caprica.
+{26047}{26128} Lieutenant, I hope you know how grateful|I am for everything you've done
+{26128}{26191}and what you've risked, but right|now I can't think about
+{26191}{26257}but finding that tomb. Thank you.
+{26550}{26658}- Comfy?|- Can't talk. Can't move.
+{26666}{26761}Then you certainly wouldn't|want me to do this.
+{26798}{26865}Oh, frak. I told you not to move.
+{26888}{26971} I'm so terribly sorry, Doctor. It...|it won't happen again.
+{26990}{27086}Great. Now I have to reset and|start from the beginning.
+{27086}{27134}Now he's gotta reset|and start all over again.
+{27277}{27336}- Why are you doing this to me?|- Come on, Gaius.
+{27336}{27401}Even back when you weren't nuts,|there was always that little voice in your head.
+{27411}{27466}That little voice helping you through|the rough times, remember?
+{27528}{27599}I'm just the latest version|of that little voice.
+{27621}{27678}I don't believe that|for one moment.
+{27713}{27781}- No. God has a plan for me.|- God's plan?
+{27826}{27895}Okay, yeah, yeah,|god has a plan.
+{27895}{27994}And there's a god and he talks|to Gaius Baltar. Okay.
+{27995}{28018}Oh, shut up, will you?
+{28134}{28181}Will you stop going crazy in there?
+{28225}{28267}I'm not crazy.
+{28406}{28469}Once you find this tomb, you know|he's going to have you killed, right?
+{28487}{28538}- He's not like that.|- He's a soldier.
+{28538}{28593}You're the enemy.|Nothing's going to change that.
+{28593}{28665}- Your twin, your copy or whatever|-  I know.
+{28666}{28749}The other sharon shot the old man.|I heard it about 1,000 times.
+{28752}{28793}Do you remember shooting him?
+{28849}{28880}It wasn't me.
+{28880}{28946}- Do you remember?|- No.
+{28978}{29070}I see. Well, what do you|think happened to her?
+{29070}{29165}I don't know. Probably threw|her in the brig or something.
+{29275}{29345}She was murdered,|by one of the crew,
+{29345}{29411}and everyone aboard galactica|just let it happen.
+{29457}{29531}Think I'm lying? Ask Lee.
+{29584}{29632}They're not going to|let your child be born.
+{29632}{29726}You think they're going to let you raise|a potential enemy right in their midst?
+{29776}{29871}You want to get off this planet alive,|you better start looking out for yourself.
+{30011}{30063}Psst! Starbuck!
+{30167}{30202}Lie low.
+{30964}{31014} Put down your weapon, Captain.
+{31727}{31817}- Commander.|- It's good to see you.
+{31838}{31873}Madame President.
+{32005}{32035}Billy..
+{32051}{32162}Billy, you have no idea what|it means to me to have you here.
+{32175}{32212}It's good to see you too.
+{33017}{33087}Oh, my gods.|Commander? Commander!
+{33260}{33298}She's with us, Commander.
+{33972}{33993}Why?
+{34113}{34173}- Commander, no! No!|- Get off, get off.
+{34200}{34245}I want you to die.
+{34355}{34427}Commander. Commander,|please don't. We need her.
+{34427}{34482}Commander! Commander,|you've got to let her go.
+{34482}{34511}Die.
+{34548}{34569}Sir!
+{34695}{34714}Dad?
+{34766}{34800}And you ask why?
+{35285}{35405} Nothing, nothing, more nothing.|Are you satisfied?
+{35523}{35616}Yes. Yes, I am. Thank you very|much, Doctor. Just...
+{35672}{35743}we're absolutely positive,|aren't we, that there's no...
+{35816}{35877}...unidentified objects?
+{35877}{35970}Well, you can obsess over these as| much as you like on your own time.
+{35971}{36072}Freakin' hypochondriac. One|on every bloody ship.
+{36148}{36240}You interfered with a military mission,|and you broke your word to me.
+{36275}{36352}It's the second part that|really bothers you, isn't it?
+{36363}{36420}Laura, I forgive you.
+{36505}{36653}Thank you, Bil. I didn't|ask for your forgiveness.
+{36703}{36738}Well, you have it anyway.
+{36832}{36885}I can't believe the old|man reacted like that.
+{36885}{36936}You know they killed|the other Sharon?
+{36969}{37074}- What?|- In cold blood. Not even a trial.
+{37143}{37181}Hi.
+{37314}{37349}Hi.
+{37404}{37448}Sharon?
+{37622}{37667}Hello, Chief.
+{37695}{37742}You know who I am.
+{37784}{37879}Yes. We haven't met, but...
+{37901}{37946}I remember you.
+{38377}{38434}It's good to see you.
+{38663}{38778}- So where does this leave us?|- Back to where we started.
+{38790}{38869}Under the yoke of president Roslin|and commander Adama.
+{38943}{38998}Not if we go back to the|ship with a map to earth.
+{39013}{39098}And a sad story of how many people were|killed down on Kobol by the Cylons.
+{39101}{39230}It's over. Let it go.|For now.
+{39484}{39590}Lieutenant thrace says that there|are survivors on the colonies.
+{39633}{39734}There are people fighting|against the Cylons every day.
+{39734}{39800}They're fighting for their|homes. Their future.
+{39815}{39860}I see.
+{39869}{39902}Does it give you pause?
+{39941}{40015}Maybe your impulse the day|the cylons attacked was right.
+{40015}{40066}Maybe we should have stayed|and fought for our homes.
+{40078}{40155}Maybe the President of the Colonies|should have stayed with her people.
+{40155}{40214}I didn't come here for this.
+{40231}{40354}I didn't come here to navel gaze.|Or to catalogue our mistakes.
+{40375}{40477}We made a decision to leave|the Colonies after the attack.
+{40490}{40540}We made the decision.
+{40556}{40622}It was the right one then,|it's the right one now.
+{40680}{40791}'Cause every moment of every|day since then... is a gift.
+{40801}{40841}From the gods.
+{40851}{40899}No, from you.
+{40931}{41015}For convincing me, that I should go.
+{41065}{41155}I would be dead.|My son would be dead.
+{41211}{41330}Whatever else the cost...|I won't second guess that outcome.
+{41746}{41845}I think it's time to go find|this... Tomb of yours.
+{41966}{42013}So Cally kills Sharon...
+{42023}{42079}And the old man gives her|30 days in the brig.
+{42100}{42140}30 days for murder.
+{42156}{42229}They don't see it as murder, Helo.|That's what I'm trying to tell you.
+{42229}{42272}That's what you're not hearing.
+{42281}{42359}To him, to the president,|to all of them.
+{42373}{42430}Cylons aren't people.
+{42510}{42554}I'm not a person to them.
+{42565}{42605}I'm a thing.
+{42668}{42775} I won't just stand by and let them kill|you like the other Sharon.
+{42776}{42808}Okay?
+{42869}{42928}I believe you, Helo. I do.
+{43189}{43313} But if we're gonna have any|future together, any at all...
+{43362}{43429}I'm gonna have to take|matters into my own hands.
+{43525}{43561}What are you talking about?
+{43603}{43638}Do you love me?
+{43646}{43672}Yes.
+{43683}{43718}Do you trust me?
+{43737}{43765}Yes.
+{43790}{43849}Then don't ask me what I have to do.
+{43849}{43890}Sharon, what the frak are you talking...
+{43934}{44027}Trust me. Trust us.
+{44164}{44221}Have you had a chance to think|about our conversation?
+{44221}{44250}I haven't thought about anything else.
+{44258}{44277}And?
+{44284}{44332}When we get to the entrance,|they'll be distracted.
+{44332}{44381}I'll take the father,|and you take the son.
+{44399}{44439}You should see this!
+{45445}{45507}Lieutenant Thrace, I hope|you have that arrow handy.
+{45856}{45937}I need you to know something. I'm Sharon,|but I'm a different Sharon.
+{45937}{45971}I know who I am.
+{45965}{46043}I don't have hidden protocols or programs|lying in wait to be activated.
+{46049}{46093}I make my own choices.|I make my own decisions.
+{46094}{46152}And I need you to know this is my choice.
+{46639}{46697}This is one of the old stallions.|It's not military issue.
+{46697}{46753}- Where the hell'd you get this?|- It's his.
+{47016}{47050}Take it easy.
+{47081}{47187}Just wanted... to see|you get your due.
+{47187}{47242}You never did listen to me.
+{47909}{47980}Stupid frakking thing couldn't|come with a handbook?
+{47984}{48063}No, because that would just be|too logical, wouldn't it?  
+{48100}{48191}"And the Arrow of Apollo will|open the Tomb of Athena."
+{48191}{48292}Yeah, well, unless anyone sees a|keyhole or whatever,
+{48292}{48365}then we're either in the wrong|place or we're just perfectly screwed.
+{48386}{48439}Okay, then why don't we just, uh...|Helo, c'mere.
+{48613}{48643}On three.|One.
+{48664}{48685}Two.
+{48685}{48705}Three.
+{48765}{48803}- There it is.|- Oh my gods.
+{49112}{49146}After you.
+{49329}{49377}- Helo, you stay out.|- Yes sir.
+{49377}{49412}-  Chief.|- Sir?
+{49441}{49479}Guard everybody.
+{49498}{49521}Sir.
+{49716}{49798}If the arrow didn't actually open the tomb,|how do we know this is the right place?
+{49810}{49838}We don't.
+{49858}{49895}But this is a tomb alright.
+{49905}{49978}The scriptures say you need|the arrow to find the map.
+{49983}{50017}These broken statues
+{50025}{50052}I recognize them.
+{50055}{50093}The Ram,
+{50105}{50131}Aerilon.
+{50151}{50245}Gemenon, the twins. These are the icons|of the 12 tribes, the 12 colonies.
+{50254}{50309} I mean, this is really where it all began.
+{50343}{50387}We all came from this place.
+{50400}{50442}This could be Picon, the fish.
+{50453}{50532}I guess this little lady|could be Virgon, right?
+{50569}{50616}The goat.. Caprica.
+{50613}{50650}Sagittaron.
+{50688}{50720}The archer.
+{50932}{50971}He's missing something.
+{52175}{52205}Where the hell are we?
+{52211}{52249}I don't know.
+{52315}{52371}Tomb of Athena, I think.
+{52375}{52431}I thought we were already in the tomb.
+{52443}{52477}I think that was the lobby.
+{52531}{52584}Again the ancient symbols.
+{52637}{52673}These patterns...
+{52696}{52804}were on the original flags of the 12 colonies,|back in the days when the colonies
+{52804}{52856}were called by their ancient names..
+{52886}{52916}Aries...
+{53014}{53050}Taurus...
+{53050}{53080}Gemini...
+{53103}{53132}Cancer...
+{53153}{53184}Leo...
+{53197}{53221}Libra...
+{53235}{53265}Virgo.
+{53285}{53355}The jewels match the constellations.
+{53374}{53405}This is the map..
+{53448}{53492}This is the map to Earth.
+{53506}{53547}Maybe.
+{53561}{53648}So is Earth in one of these constellations?
+{53832}{53873}We're standing on Earth.
+{53913}{54020}The scriptures say, that when the|13th tribe landed on Earth,
+{54037}{54113}they looked up into the heavens|and they saw their 12 brothers.
+{54126}{54161}Earth is the place...
+{54180}{54242}where you can look up in the sky
+{54261}{54354}and see the constellations of the 12 colonies.
+{54427}{54479}I don't know what good it's|gonna do us though.
+{54500}{54545}I mean, what are we supposed to do?
+{54554}{54660}Search the entire galaxy for|one particular star pattern?
+{54716}{54738}There.
+{54749}{54797}There in Scorpio. I've seen that before.
+{54842}{54887}It's the lagoon nebula.
+{54908}{54967}Astro body M8..
+{54968}{55022}That's a long way from here.
+{55033}{55070}Yeah.
+{55086}{55191} But at least now, we have..|a map and a direction.
+{55467}{55555}We have struggled,|since the attacks...
+{55605}{55656}Trying to rely on one another.
+{55683}{55769}Our strength, and our|only hope as a people,
+{55795}{55846}is to remain undivided.
+{55888}{55968}We haven't always done all|we could to insure that.
+{56001}{56088}Many people believe that the scriptures,
+{56088}{56122}the letters from the gods,
+{56141}{56216}will lead us to salvation.
+{56254}{56285}Maybe they will.
+{56350}{56440}But "the gods shall lift those|who lift each other."
+{56460}{56546}And so, to lift all of us,
+{56568}{56614}let me present once again
+{56623}{56669}the president of the colonies,
+{56684}{56711}Laura Roslin.
+{58690}{58724}I'm okay.
+{58770}{58824}I'm okay, really.
+{58848}{58877}Yeah.
+{59096}{59130}It's just...
+{59183}{59248}it's just I don't want our|baby born in this cell.
+{59415}{59449}Their child?
+{59457}{59502}I told you a child would arrive.
+{59508}{59573}Told you it would be born|right here in this room.
+{59604}{59647}How could you ever doubt me?
+{59718}{59762}Boomer is going to bear...
+{59807}{59839}our child?
+{59838}{59922}An honor for which she is hardly|deserving. But one doesn't question
+{59922}{59954}god's will.
+{60097}{60131}Well, you're not a chip.
+{60163}{60209}That we've established.
+{60212}{60239}Yes.
+{60314}{60376}But sharon being pregnant does|suggest that you are rather more
+{60376}{60438}than a simple manifestation of my subconscious.
+{60501}{60526}And I'm not...
+{60563}{60607}- Crazy?|- No.
+{60668}{60694}Then who...
+{60734}{60767}or what...
+{60789}{60829}are you,
+{60829}{60853}exactly?
+{60894}{60959}I'm an angel of god sent|here to protect you.
+{60965}{61018}To guide you, to love you.
+{61068}{61101}To what end?
+{61139}{61194}To the end of the human race.
+{61353}{61557}EN Titule: Lordhp|Pøeklad: <Kdo ví :-)>|Navštivte www.bsg-cz.net

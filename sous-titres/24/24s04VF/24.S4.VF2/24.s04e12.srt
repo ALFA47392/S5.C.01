@@ -1,0 +1,1896 @@
+1
+00:00:12,000 --> 00:00:13,827
+Précédemment dans <i>24 h chrono</i> :
+
+2
+00:00:14,378 --> 00:00:18,839
+5 réacteurs nucléaires vont entrer en fusion.
+Mon seul souci est d'empêcher ça.
+
+3
+00:00:18,966 --> 00:00:22,966
+Votre nom est sur le bail
+d'un immeuble utilisé pour l'attaque.
+
+4
+00:00:23,097 --> 00:00:27,427
+- Ça fait de vous un suspect majeur.
+- Je ne sais rien de cet immeuble.
+
+5
+00:00:27,561 --> 00:00:30,266
+Je ne vous crois pas.
+
+6
+00:00:33,359 --> 00:00:35,685
+Jack, ne fais pas ça.
+
+7
+00:00:35,821 --> 00:00:40,199
+Je ne connais pas cet immeuble,
+mais je peux me renseigner.
+
+8
+00:00:40,326 --> 00:00:44,111
+- Comment ?
+- Mes fichiers sont sur mon portable.
+
+9
+00:00:44,248 --> 00:00:46,157
+C'est Harris Barnes.
+
+10
+00:00:46,709 --> 00:00:50,707
+Interpol a fourni une liste
+d'étrangers ayant utilisé le nom.
+
+11
+00:00:50,839 --> 00:00:54,458
+- Qui l'a utilisé en dernier ?
+- Un certain Habib Marwan.
+
+12
+00:00:54,593 --> 00:00:57,298
+- On doit le trouver.
+- C'est déjà fait.
+
+13
+00:01:02,603 --> 00:01:04,181
+Ça va ?
+
+14
+00:01:04,314 --> 00:01:07,849
+J'ai surpris une conversation téléphonique.
+On a 15 mn.
+
+15
+00:01:07,984 --> 00:01:11,520
+Curtis et moi partons chercher le contrôleur.
+
+16
+00:01:17,037 --> 00:01:19,743
+Restez à terre.
+
+17
+00:01:20,917 --> 00:01:25,710
+Marwan se fait passer
+pour un agent de la CTU.
+
+18
+00:01:31,179 --> 00:01:33,587
+Curtis a le contrôleur.
+
+19
+00:01:33,724 --> 00:01:37,805
+Le contrôleur est connecté ?
+Envoie-le sur le canal 11.
+
+20
+00:01:44,028 --> 00:01:47,445
+Il commence à répondre. Ça fonctionne.
+
+21
+00:01:48,783 --> 00:01:52,735
+- La température chute dans les centrales.
+- Félicitations, Edgar.
+
+22
+00:01:53,248 --> 00:01:56,533
+Mme Driscoll, c'est votre fille, Maya.
+
+23
+00:02:19,697 --> 00:02:24,775
+Les faits suivants se déroulent
+entre 18 h et 19 h.
+
+24
+00:02:26,037 --> 00:02:27,947
+J'ai des infos.
+
+25
+00:02:28,081 --> 00:02:32,910
+L'homme qu'on cherche, Habib Marwan,
+travaille pour McLennan-Forster.
+
+26
+00:02:33,046 --> 00:02:35,252
+Mais ils ont fabriqué le contrôleur.
+
+27
+00:02:35,382 --> 00:02:40,259
+Il se fait appeler Harris Barnes.
+Son autorisation était valide.
+
+28
+00:02:40,388 --> 00:02:44,683
+Il a dû s'introduire dans la société
+pour utiliser leur technologie.
+
+29
+00:02:44,810 --> 00:02:48,096
+Dis-leur de bloquer
+les dossiers personnels de Marwan.
+
+30
+00:02:48,230 --> 00:02:50,983
+C'est fait. J'envoie une équipe de com ?
+
+31
+00:02:51,109 --> 00:02:54,561
+Non. On est plus près. Jack et moi y allons.
+
+32
+00:02:54,697 --> 00:02:57,449
+Marwan était dans le bâtiment
+il y a 15 minutes.
+
+33
+00:02:57,576 --> 00:03:01,443
+Je veux un périmètre de sécurité,
+des barrages routiers.
+
+34
+00:03:01,580 --> 00:03:07,418
+Marwan travaillait pour McLennan-Forster
+sous le nom d'emprunt Harris Barnes.
+
+35
+00:03:07,546 --> 00:03:11,378
+- On doit vérifier.
+- Je le fais. Ramène Paul et Audrey à la CTU.
+
+36
+00:03:11,509 --> 00:03:17,133
+Castle reste ici. Si Marwan est toujours
+dans le coin, nos équipes le coinceront.
+
+37
+00:03:17,266 --> 00:03:20,221
+- Curtis vous ramène à la CTU.
+- Et toi ?
+
+38
+00:03:20,353 --> 00:03:23,557
+- Je vais chez McLennan-Forster.
+- Pourquoi là-bas ?
+
+39
+00:03:23,691 --> 00:03:26,527
+L'homme qu'on cherche travaille là-bas.
+
+40
+00:03:26,653 --> 00:03:29,440
+Vous devez entrer
+dans leur système informatique ?
+
+41
+00:03:29,572 --> 00:03:31,649
+Je viens avec vous.
+
+42
+00:03:31,784 --> 00:03:34,073
+- Pourquoi ?
+- C'est nous qui le leur avons vendu.
+
+43
+00:03:34,703 --> 00:03:37,741
+Il est protégé par un encodage militaire.
+
+44
+00:03:37,874 --> 00:03:41,161
+Le personnel pourra nous aider sur place.
+
+45
+00:03:41,295 --> 00:03:45,293
+Je peux vous montrer des accès invisibles
+que personne ne connaît.
+
+46
+00:03:50,848 --> 00:03:55,760
+D'accord. Venez avec moi.
+Audrey, reste avec Curtis.
+
+47
+00:03:57,106 --> 00:03:59,978
+Je suis joignable sur mon mobile.
+
+48
+00:04:18,257 --> 00:04:20,297
+Attendez.
+
+49
+00:05:00,933 --> 00:05:03,389
+Au revoir, mon bébé.
+
+50
+00:05:10,945 --> 00:05:15,157
+Je mets tout le monde au courant.
+Merci, Nat.
+
+51
+00:05:15,743 --> 00:05:18,495
+Au courant de quoi ?
+
+52
+00:05:18,621 --> 00:05:22,751
+- La fille de Driscoll s'est suicidée.
+- Comment elle a fait ?
+
+53
+00:05:22,877 --> 00:05:26,626
+- Elle s'est ouvert les veines.
+- Elle était surveillée.
+
+54
+00:05:26,756 --> 00:05:29,628
+J'en sais rien. Je n'y étais pas.
+
+55
+00:05:29,760 --> 00:05:33,509
+Inutile d'être aussi agressive.
+
+56
+00:05:48,241 --> 00:05:50,483
+Excusez-moi, Monsieur le Ministre.
+
+57
+00:05:51,578 --> 00:05:54,912
+Où est Driscoll ?
+Le président va bientôt apparaître.
+
+58
+00:05:55,040 --> 00:05:59,953
+- Il vient de se passer une chose affreuse.
+- Quoi donc ?
+
+59
+00:06:00,088 --> 00:06:04,751
+Maya, la fille de Mme Driscoll, s'est suicidée
+dans notre clinique il y a 15 minutes.
+
+60
+00:06:04,886 --> 00:06:08,386
+Apparemment, le docteur est entré et elle...
+
+61
+00:06:11,018 --> 00:06:14,933
+Sarah vient de me mettre au courant.
+Je suis navré.
+
+62
+00:06:15,941 --> 00:06:18,515
+Merci, monsieur.
+
+63
+00:06:18,653 --> 00:06:21,820
+Retournez à votre poste, Sarah.
+
+64
+00:06:21,948 --> 00:06:25,199
+Erin, vous n'êtes pas tenue de rester ici.
+
+65
+00:06:25,327 --> 00:06:28,531
+Nous sommes toujours en situation de crise.
+
+66
+00:06:28,665 --> 00:06:33,826
+Habib Marwan est en liberté, et on ignore
+combien d'autres cellules il peut activer.
+
+67
+00:06:33,963 --> 00:06:37,582
+- Bon sang...
+- Nos systèmes sont en mode transitoire.
+
+68
+00:06:37,717 --> 00:06:41,253
+Ils requièrent mon attention constante.
+
+69
+00:06:42,557 --> 00:06:46,769
+Je ne suis pas dans le déni de la mort
+de ma fille, ni en état de choc.
+
+70
+00:06:46,895 --> 00:06:50,893
+Je peux occuper mon poste
+jusqu'à ce que vous trouviez un remplaçant.
+
+71
+00:06:51,025 --> 00:06:54,311
+Le président va apparaître.
+
+72
+00:06:54,446 --> 00:06:57,198
+Merci, William.
+
+73
+00:07:02,038 --> 00:07:07,034
+Je tiens à exprimer ma profonde gratitude
+pour ce que vous avez accompli jusqu'ici.
+
+74
+00:07:07,169 --> 00:07:11,879
+Reprendre le contrôle du dispositif
+a sauvé des milliers de vies américaines.
+
+75
+00:07:12,009 --> 00:07:17,764
+La Sûreté nucléaire a indiqué
+que la fusion de San Gabriel était maîtrisée.
+
+76
+00:07:17,891 --> 00:07:23,516
+Votre équipe vous a-t-elle informé que
+nous avons un nouveau problème à régler ?
+
+77
+00:07:23,648 --> 00:07:25,771
+C'est pour ça que je vous appelle.
+
+78
+00:07:25,901 --> 00:07:30,528
+L'homme responsable de l'attaque
+d'aujourd'hui court toujours.
+
+79
+00:07:30,656 --> 00:07:36,827
+Il s'appelle Habib Marwan, c'est un employé
+d'un important fabricant d'armes.
+
+80
+00:07:36,956 --> 00:07:39,198
+Oui, McLennan-Forster.
+
+81
+00:07:39,792 --> 00:07:46,508
+Ce Habib Marwan... Pensez-vous que
+la fusion des réacteurs était son but ultime ?
+
+82
+00:07:46,634 --> 00:07:50,003
+Tant qu'il est en liberté, ça n'est pas terminé.
+
+83
+00:07:50,138 --> 00:07:53,674
+Erin, où en sommes-nous
+sur l'arrestation de cet homme ?
+
+84
+00:07:53,809 --> 00:07:57,345
+Toutes nos équipes sont déployées
+dans ce but en ce moment.
+
+85
+00:07:57,481 --> 00:08:01,016
+J'en saurai plus
+quand j'aurai été briefée par mon personnel.
+
+86
+00:08:01,151 --> 00:08:04,568
+Mais Marwan est à Los Angeles,
+et nous le trouverons.
+
+87
+00:08:35,527 --> 00:08:40,949
+Marwan occupait chez McLennan-Forster
+un poste d'ingénieur en chef depuis 2 ans.
+
+88
+00:08:41,075 --> 00:08:44,860
+Son projet le plus récent
+était le développement du contrôleur.
+
+89
+00:08:44,996 --> 00:08:47,951
+- Et avant ?
+- On a reconstitué une chronologie.
+
+90
+00:08:48,083 --> 00:08:52,497
+Il a fait un 3e cycle en Angleterre
+et a travaillé pour une société de Londres.
+
+91
+00:08:52,630 --> 00:08:55,965
+On ne sait pas quand il s'est radicalisé.
+
+92
+00:08:56,093 --> 00:09:02,547
+Mais depuis qu'il est arrivé aux États-Unis,
+tout ce qu'il a fait était orienté sur ce projet.
+
+93
+00:09:02,684 --> 00:09:04,725
+Et ses autres fonctions ?
+
+94
+00:09:04,853 --> 00:09:07,938
+On est en train d'examiner son dossier.
+
+95
+00:09:08,066 --> 00:09:13,025
+Il a peut-être utilisé la société
+pour recruter des cellules en sommeil.
+
+96
+00:09:13,155 --> 00:09:18,151
+Ce qui pose un autre problème.
+80 °% de nos équipes cherchent Marwan.
+
+97
+00:09:18,286 --> 00:09:24,409
+Une partie des effectifs devrait peut-être
+essayer de dénicher ces autres cellules.
+
+98
+00:09:29,258 --> 00:09:35,215
+- Quelle était la question ?
+- Réduisons les effectifs qui traquent Marwan.
+
+99
+00:09:39,604 --> 00:09:45,359
+On pourrait prendre certains agents,
+mais en garder 60 °% pour chercher Marwan ?
+
+100
+00:09:45,487 --> 00:09:47,812
+Ça pourrait marcher ?
+
+101
+00:09:47,948 --> 00:09:50,903
+Oui, ça peut marcher.
+
+102
+00:10:00,672 --> 00:10:03,839
+- Edgar, relocalise le personnel.
+- Sur quelle base ?
+
+103
+00:10:03,967 --> 00:10:09,591
+Garde les personnes alertes, arrivées dans
+les 6 dernières heures, pour chercher Marwan.
+
+104
+00:10:09,724 --> 00:10:13,557
+- On fait comme si de rien n'était ?
+- Elle parle de Driscoll.
+
+105
+00:10:13,687 --> 00:10:15,395
+- Elle est déconcentrée. Elle doit partir.
+- Sa fille est morte. Elle a besoin de temps.
+
+106
+00:10:18,985 --> 00:10:22,271
+Depuis quand on se permet ce luxe ?
+
+107
+00:10:22,406 --> 00:10:26,452
+- Elle sait ce qui est en jeu.
+- Tu as raison. On n'a pas de temps.
+
+108
+00:10:26,578 --> 00:10:29,864
+Notre travail ne consiste pas
+à décider du sort d'Erin.
+
+109
+00:10:29,998 --> 00:10:34,958
+- Il faut le dire à M. Heller.
+- Pas encore. Remettons-nous au travail.
+
+110
+00:10:53,777 --> 00:10:57,278
+- Où es-tu ?
+- Curtis et moi sommes arrivés à la CTU.
+
+111
+00:10:57,407 --> 00:11:01,322
+Prends une équipe de sécurité,
+rentre à l'hôtel et repose-toi.
+
+112
+00:11:01,453 --> 00:11:04,075
+Mon père a encore besoin de moi.
+
+113
+00:11:04,206 --> 00:11:07,458
+- Vous êtes chez McLennan-Forster ?
+- Presque.
+
+114
+00:11:07,586 --> 00:11:11,536
+Tu peux me faire une promesse ?
+
+115
+00:11:11,674 --> 00:11:14,759
+Prends soin de Paul.
+
+116
+00:11:14,886 --> 00:11:17,674
+Il n'est pas comme toi.
+
+117
+00:11:19,141 --> 00:11:23,271
+Promets-moi que tu veilleras sur lui.
+
+118
+00:11:24,773 --> 00:11:27,265
+- D'accord.
+- Merci.
+
+119
+00:11:28,820 --> 00:11:31,490
+À plus tard.
+
+120
+00:11:40,459 --> 00:11:42,701
+Écoutez...
+
+121
+00:11:44,964 --> 00:11:47,538
+Je ne vous en veux pas.
+
+122
+00:11:47,676 --> 00:11:51,176
+Vous avez des raisons de m'en vouloir.
+
+123
+00:11:55,143 --> 00:12:00,351
+Vous ne m'avez pas volé ma femme.
+On était séparés. C'est honnête.
+
+124
+00:12:00,483 --> 00:12:04,814
+Mais je ne vous laisserai pas me la prendre.
+
+125
+00:12:04,947 --> 00:12:07,949
+Je ne crois pas que ça dépende de vous.
+
+126
+00:12:08,075 --> 00:12:11,410
+- Ni de moi.
+- Non, peut-être pas.
+
+127
+00:12:11,538 --> 00:12:17,993
+Mais elle a encore des sentiments pour moi,
+et je vais me battre pour que ça continue.
+
+128
+00:12:18,130 --> 00:12:21,831
+Faites ce que vous avez à faire.
+
+129
+00:12:36,401 --> 00:12:36,768
+Aucun de nos agents n'a pu
+retrouver la trace de Marwan.
+
+130
+00:12:41,158 --> 00:12:47,529
+Il semble s'être échappé, on peut donc penser
+qu'il va activer des cellules en sommeil.
+
+131
+00:12:47,665 --> 00:12:55,081
+Il va lancer une attaque immédiatement,
+faire peur en montrant qu'on est vulnérables.
+
+132
+00:12:55,216 --> 00:12:59,215
+Excusez-moi, je ne me sens pas très bien.
+
+133
+00:13:03,393 --> 00:13:06,478
+- Asseyez-vous.
+- Ça va ?
+
+134
+00:13:08,899 --> 00:13:11,937
+Erin Driscoll a besoin d'un médecin.
+
+135
+00:13:12,070 --> 00:13:15,570
+Je vais bien. Je n'ai besoin de personne.
+
+136
+00:13:17,952 --> 00:13:22,366
+J'ai juste eu un petit vertige, c'est tout.
+
+137
+00:13:24,251 --> 00:13:28,380
+Je n'ai pas besoin de vous.
+J'ai eu un vertige, mais ça va mieux.
+
+138
+00:13:28,506 --> 00:13:32,802
+Faites une pause. Mangez quelque chose.
+Accompagnez Mme Driscoll en bas.
+
+139
+00:13:32,929 --> 00:13:36,428
+Je gère la situation
+pendant que vous vous reposez.
+
+140
+00:13:36,558 --> 00:13:40,473
+C'est probablement une bonne idée.
+
+141
+00:13:49,740 --> 00:13:53,241
+Elle doit être relevée de ses fonctions.
+
+142
+00:13:56,291 --> 00:14:01,914
+Prévenez la Division de la situation
+et dites-leur d'envoyer quelqu'un.
+
+143
+00:14:02,047 --> 00:14:07,635
+J'ai dirigé la CTU pendant deux ans.
+Je peux m'en charger, à titre provisoire.
+
+144
+00:14:09,181 --> 00:14:15,185
+Non seulement vous ne travaillez pas ici,
+mais vous avez été absent longtemps.
+
+145
+00:14:15,313 --> 00:14:19,264
+- Vous ne maîtrisez pas le nouveau système.
+- Sauf votre respect...
+
+146
+00:14:19,402 --> 00:14:21,727
+Il ne vous faut pas un programmeur,
+
+147
+00:14:21,863 --> 00:14:24,780
+mais un preneur de décisions
+et un donneur d'ordres.
+
+148
+00:14:24,908 --> 00:14:28,609
+- Et vous en êtes capable ?
+- Absolument.
+
+149
+00:14:31,207 --> 00:14:38,421
+À compter de maintenant, vous êtes directeur
+par intérim de la CTU de Los Angeles.
+
+150
+00:14:39,593 --> 00:14:45,762
+Je veux quand même que le District
+envoie quelqu'un de permanent.
+
+151
+00:14:46,392 --> 00:14:48,017
+Je comprends.
+
+152
+00:14:56,070 --> 00:15:01,362
+- Je veux un résumé sur McLennan-Forster.
+- Je le termine à l'instant.
+
+153
+00:15:03,163 --> 00:15:09,368
+McLennan-Forster était un fabricant principal
+dans la conception du contrôleur.
+
+154
+00:15:09,504 --> 00:15:17,549
+Marwan, sous le nom de Harris Barnes,
+avait un accès illimité à ce projet.
+
+155
+00:15:17,764 --> 00:15:23,056
+- Et ses collaborateurs sur le projet ?
+- Pas fichés au FBI.
+
+156
+00:15:23,187 --> 00:15:27,601
+Un terroriste ayant un accès interne
+chez un fabricant d'armes.
+
+157
+00:15:27,734 --> 00:15:29,608
+Plus que ça.
+
+158
+00:15:29,736 --> 00:15:35,776
+McLennan-Forster forme aussi ses clients
+à l'utilisation des armes qu'il fabrique.
+
+159
+00:15:35,911 --> 00:15:38,118
+Des clients internationaux ?
+
+160
+00:15:38,247 --> 00:15:41,415
+Dans les Balkans, en Asie et au Moyen-Orient.
+
+161
+00:15:41,543 --> 00:15:43,785
+C'est une situation délicate.
+
+162
+00:15:43,921 --> 00:15:49,426
+En arrivant là-bas, Jack va devoir vérifier
+les dossiers et voir avec qui Marwan traitait.
+
+163
+00:15:49,553 --> 00:15:51,925
+Ça ne va pas être facile.
+
+164
+00:15:52,056 --> 00:15:56,268
+Ils seront réticents à donner
+des informations les incriminant.
+
+165
+00:15:56,394 --> 00:15:59,265
+Même si Marwan s'avère
+être le seul coupable.
+
+166
+00:16:02,694 --> 00:16:05,564
+MCLENNAN-FORSTER
+SIÈGE SOCIAL
+
+167
+00:16:06,239 --> 00:16:10,949
+- Il faut qu'on parle avant l'arrivée de la CTU.
+- Quel est le problème ?
+
+168
+00:16:11,078 --> 00:16:17,913
+Notre contrôleur n'a pas été volé et utilisé
+pour l'attaque terroriste par hasard.
+
+169
+00:16:19,088 --> 00:16:22,292
+Que voulez-vous dire par là ?
+
+170
+00:16:22,426 --> 00:16:26,293
+Toute l'opération, depuis l'enlèvement
+du ministre de la Défense,
+
+171
+00:16:26,430 --> 00:16:31,472
+jusqu'à la fusion de San Gabriel,
+a été organisée par l'un de nos employés.
+
+172
+00:16:34,732 --> 00:16:37,817
+- De quoi parlez-vous ?
+- L'un de nos ingénieurs,
+
+173
+00:16:37,944 --> 00:16:41,895
+un homme qui s'avère être
+un terroriste du nom de Habib Marwan,
+
+174
+00:16:42,032 --> 00:16:46,078
+dirigeait une organisation clandestine
+depuis notre société.
+
+175
+00:16:46,205 --> 00:16:49,455
+- Quand l'avez-vous appris ?
+- Ils viennent d'appeler.
+
+176
+00:16:49,583 --> 00:16:54,376
+L'un de nos employés, Harris Barnes,
+était en fait Habib Marwan.
+
+177
+00:16:58,469 --> 00:17:03,048
+- Qui d'autre est au courant ?
+- Seulement nous deux, et Conlon.
+
+178
+00:17:03,767 --> 00:17:07,433
+Messieurs. David Conlon,
+vice-président de la sécurité interne.
+
+179
+00:17:07,563 --> 00:17:11,693
+Jack Bauer, de la CTU.
+Voici Paul Raines.
+
+180
+00:17:11,819 --> 00:17:15,152
+- Que puis-je pour vous ?
+- Je dois parler à Gene McLennan.
+
+181
+00:17:15,281 --> 00:17:20,525
+Gene est en réunion, en ce moment.
+Il m'a demandé de vous renseigner.
+
+182
+00:17:20,662 --> 00:17:26,619
+C'est une question de sécurité nationale.
+Je dois parler à M. McLennan maintenant.
+
+183
+00:17:28,213 --> 00:17:31,084
+Je vais voir ce que je peux faire.
+
+184
+00:17:39,185 --> 00:17:42,887
+- Que se passe-t-il ?
+- Il y a un truc qui cloche.
+
+185
+00:17:45,234 --> 00:17:50,111
+Je ne peux pas cacher ça. Nous devons
+tout de suite le dire au gouvernement.
+
+186
+00:17:50,240 --> 00:17:56,778
+Si vous faites ça, ça signera très certainement
+l'arrêt de mort de votre société.
+
+187
+00:17:56,915 --> 00:18:00,961
+Vous êtes parti de rien.
+Tout ce que vous avez est lié à la société.
+
+188
+00:18:01,087 --> 00:18:06,165
+Votre nom serait associé à ce qui s'est passé
+aujourd'hui : terrorisme, trahison.
+
+189
+00:18:06,302 --> 00:18:09,054
+Vous voulez que je mente au gouvernement ?
+
+190
+00:18:09,179 --> 00:18:10,259
+Si j'avais su ça 24 heures plus tôt,
+j'aurais tout fait pour empêcher l'attaque.
+
+191
+00:18:14,103 --> 00:18:19,773
+Tout ce qu'on peut faire maintenant,
+c'est empêcher que la société coule,
+
+192
+00:18:19,901 --> 00:18:23,401
+ce qui arrivera si la CTU
+découvre la vérité sur Marwan.
+
+193
+00:18:23,531 --> 00:18:27,398
+La CTU va exiger le dossier.
+Ils découvriront la vérité.
+
+194
+00:18:27,535 --> 00:18:30,656
+Non. Je vous le promets.
+
+195
+00:18:30,789 --> 00:18:35,618
+Conlon et moi pouvons nous en charger,
+si vous nous le permettez.
+
+196
+00:18:39,300 --> 00:18:42,052
+Ça ne me plaît pas beaucoup.
+
+197
+00:18:42,178 --> 00:18:46,176
+Nous avons enfreint
+les règles de sécurité nationale.
+
+198
+00:18:46,308 --> 00:18:51,552
+Ça pourrait nous conduire en prison.
+Nous devons nous protéger.
+
+199
+00:18:54,985 --> 00:18:58,900
+- Un nombre de victimes à San Gabriel ?
+- Pas encore.
+
+200
+00:18:59,032 --> 00:19:02,698
+Quelle version du système de sécurité
+Datalink utilisez-vous ?
+
+201
+00:19:02,828 --> 00:19:04,157
+Pardon ?
+
+202
+00:19:04,288 --> 00:19:08,287
+Ma société fait des micrologiciels Datalink.
+On a installé le vôtre.
+
+203
+00:19:08,419 --> 00:19:11,253
+Avez-vous la version 3.4 ou 3.5 ?
+
+204
+00:19:11,380 --> 00:19:15,213
+3.5. Ça vous ira ?
+
+205
+00:19:20,934 --> 00:19:24,884
+Dave, entrez.
+John Reiss, responsable de la technologie.
+
+206
+00:19:25,021 --> 00:19:28,807
+- Vous nous avez aidés, pour le contrôleur.
+- Enchanté.
+
+207
+00:19:28,943 --> 00:19:32,609
+Gene McLennan.
+Désolé d'avoir été retenu.
+
+208
+00:19:32,739 --> 00:19:36,608
+- Merci de nous recevoir.
+- Que puis-je faire pour vous ?
+
+209
+00:19:36,745 --> 00:19:40,363
+L'un de vos employés, Harris Barnes,
+est en fait Habib Marwan,
+
+210
+00:19:40,499 --> 00:19:44,367
+l'un des terroristes responsables
+de l'attaque d'aujourd'hui.
+
+211
+00:19:44,504 --> 00:19:49,214
+Mettez votre système informatique hors ligne
+pour que Paul accède à ses fichiers.
+
+212
+00:19:52,013 --> 00:19:54,683
+On peut faire ça. N'est-ce pas, John ?
+
+213
+00:19:54,808 --> 00:19:57,844
+Absolument. Suivez-moi.
+
+214
+00:19:59,689 --> 00:20:02,560
+- Merci, monsieur.
+- Je vous en prie.
+
+215
+00:20:51,585 --> 00:20:54,788
+Vous devriez peut-être rentrer chez vous.
+
+216
+00:20:54,922 --> 00:20:57,460
+Ça me fait peur.
+
+217
+00:21:02,306 --> 00:21:07,646
+Quand ma femme, Susan, est morte,
+je ne l'ai pas accepté du tout.
+
+218
+00:21:07,771 --> 00:21:11,473
+En fait, je suis allé travailler le lendemain.
+
+219
+00:21:11,609 --> 00:21:15,275
+Je me souviens m'être dit : "C'est la vie."
+
+220
+00:21:15,405 --> 00:21:20,531
+"Arrête de t'apitoyer sur ton sort,
+remets-toi, et continue à vivre."
+
+221
+00:21:21,413 --> 00:21:25,162
+Quelques semaines plus tard,
+une vieille amie de Susan a appelé.
+
+222
+00:21:25,292 --> 00:21:28,792
+Elle ignorait qu'elle était morte.
+
+223
+00:21:30,257 --> 00:21:33,543
+Et quand je me suis entendu dire :
+
+224
+00:21:34,721 --> 00:21:38,386
+"Susan est décédée",
+
+225
+00:21:38,516 --> 00:21:41,803
+quand j'ai prononcé ces mots...
+
+226
+00:21:42,689 --> 00:21:45,061
+Ça m'est tombé dessus.
+
+227
+00:21:45,192 --> 00:21:50,020
+Toute la douleur que j'avais essayé
+de chasser de mon esprit m'a submergé.
+
+228
+00:21:52,033 --> 00:21:54,904
+On ne peut pas garder ça pour soi.
+
+229
+00:21:57,581 --> 00:22:03,586
+On pleure, on s'en prend à Dieu, à soi-même,
+puis on pleure encore un peu.
+
+230
+00:22:04,715 --> 00:22:10,470
+Et pendant ce temps, on laisse
+nos amis nous aider. C'est assez simple.
+
+231
+00:22:10,597 --> 00:22:13,303
+Mais très douloureux.
+
+232
+00:22:13,434 --> 00:22:17,729
+Et je suis vraiment désolé pour vous.
+
+233
+00:22:17,856 --> 00:22:18,971
+Papa, je voulais juste...
+
+234
+00:22:20,234 --> 00:22:23,520
+Désolée...
+
+235
+00:22:23,655 --> 00:22:26,906
+Je voulais te dire que j'étais rentrée.
+
+236
+00:22:33,834 --> 00:22:36,123
+Je vais rentrer chez moi.
+
+237
+00:22:36,253 --> 00:22:40,203
+Vous devriez aller vous assurer
+que votre fille va bien.
+
+238
+00:22:44,722 --> 00:22:48,423
+Si vous avez besoin de moi, je suis là.
+
+239
+00:22:58,363 --> 00:23:01,947
+Tony m'a dit que vous l'avez nommé
+responsable de la CTU ?
+
+240
+00:23:02,786 --> 00:23:06,831
+Ça n'a pas de sens.
+Je suis le directeur adjoint.
+
+241
+00:23:06,957 --> 00:23:10,908
+Tony a déjà dirigé la CTU, pas vous.
+
+242
+00:23:11,045 --> 00:23:16,005
+- Avec tout le respect que je vous dois...
+- C'est à titre provisoire.
+
+243
+00:23:16,135 --> 00:23:18,424
+Sachez que ça ne me plaît pas.
+
+244
+00:23:20,098 --> 00:23:22,471
+Des nouvelles de Bauer ?
+
+245
+00:23:22,601 --> 00:23:27,228
+Il est arrivé chez McLennan-Forster.
+Il appelle s'il trouve une piste.
+
+246
+00:23:33,740 --> 00:23:39,660
+C'était le poste de Marwan.
+Il est relié au sous-réseau des ingénieurs.
+
+247
+00:23:39,788 --> 00:23:43,870
+Peut-on accéder au reste du réseau
+depuis son compte ?
+
+248
+00:23:44,002 --> 00:23:47,169
+Je crois que c'est possible.
+
+249
+00:24:02,233 --> 00:24:09,316
+Une fenêtre vous montre ses dossiers,
+l'autre vous fait sortir du sous-réseau.
+
+250
+00:24:09,450 --> 00:24:12,404
+Appelez-moi si vous avez besoin d'aide.
+
+251
+00:24:12,537 --> 00:24:14,993
+Merci de votre aide.
+
+252
+00:24:22,507 --> 00:24:25,794
+On dirait qu'il connaît bien notre système.
+
+253
+00:24:25,927 --> 00:24:31,136
+Je vais pouvoir tout contrôler d'ici.
+Il ne trouvera rien.
+
+254
+00:24:31,851 --> 00:24:35,518
+Marwan a supprimé beaucoup de dossiers.
+
+255
+00:24:35,648 --> 00:24:38,650
+- Quand ?
+- La date de suppression n'apparaît pas.
+
+256
+00:24:38,776 --> 00:24:42,146
+Ils ont donc pu être détruits aujourd'hui.
+
+257
+00:24:42,281 --> 00:24:46,114
+Marwan n'était pas là, aujourd'hui.
+Il était à Rockland.
+
+258
+00:24:46,244 --> 00:24:49,530
+Quelqu'un d'autre a pu les supprimer.
+
+259
+00:24:51,167 --> 00:24:53,493
+Voilà.
+
+260
+00:24:53,628 --> 00:24:56,084
+Voyons ce que je peux trouver.
+
+261
+00:25:02,138 --> 00:25:05,223
+- J'ai dû lui ouvrir une interface de connexion.
+- Je vois.
+
+262
+00:25:05,350 --> 00:25:07,177
+Vont-ils trouver quelque chose ?
+
+263
+00:25:07,311 --> 00:25:12,769
+Tant que j'ai de l'avance sur eux, je devrais
+pouvoir effacer les fichiers compromettants.
+
+264
+00:25:12,901 --> 00:25:15,024
+J'arrive.
+
+265
+00:25:15,154 --> 00:25:18,274
+Et si vous ne gardez pas votre avance ?
+
+266
+00:25:18,408 --> 00:25:20,982
+- Il y a d'autres options.
+- Lesquelles ?
+
+267
+00:25:21,120 --> 00:25:23,955
+On déclenchera une IEM.
+
+268
+00:25:24,082 --> 00:25:27,167
+Une bombe à impulsion ?
+Vous avez perdu la tête ?
+
+269
+00:25:29,588 --> 00:25:34,465
+Ça détruira tout le matériel informatique.
+On sera paralysés électroniquement.
+
+270
+00:25:34,594 --> 00:25:36,801
+C'est le but.
+
+271
+00:25:51,740 --> 00:25:54,777
+Voici les instructions
+de cession de contrôle de com.
+
+272
+00:25:54,911 --> 00:26:01,958
+J'ai laissé le mot de passe d'origine.
+Vous pourrez le changer quand ce sera fini.
+
+273
+00:26:03,046 --> 00:26:06,746
+Voilà tous les codes d'accès
+de la CTU et de la Division.
+
+274
+00:26:08,886 --> 00:26:13,098
+Si mes effets personnels vous gênent,
+
+275
+00:26:13,224 --> 00:26:18,101
+faites-les emballer
+et rangez-les dans un placard.
+
+276
+00:26:35,042 --> 00:26:38,377
+Pour toute question, consultez Curtis.
+
+277
+00:26:39,089 --> 00:26:43,918
+Et s'il ne peut pas vous aider,
+vous pouvez m'appeler chez moi.
+
+278
+00:26:44,053 --> 00:26:45,678
+Merci.
+
+279
+00:27:30,735 --> 00:27:33,227
+Je peux avoir votre attention ?
+
+280
+00:27:34,865 --> 00:27:40,572
+Je remplace Erin Driscoll
+de façon purement provisoire.
+
+281
+00:27:40,705 --> 00:27:45,867
+Les protocoles restent les mêmes, mais
+je veux des rapports tous les quarts d'heure.
+
+282
+00:27:47,129 --> 00:27:53,668
+Je suis juste ici pour vous soutenir.
+Alors remettons-nous au travail.
+
+283
+00:27:56,308 --> 00:27:59,725
+- Des nouvelles de Jack ?
+- Ils sont sur les dossiers de Marwan.
+
+284
+00:27:59,854 --> 00:28:02,689
+- Des pistes prometteuses ?
+- Rien pour le moment.
+
+285
+00:28:02,815 --> 00:28:09,104
+Edgar, avant de partir, Erin m'a dit
+que je ne pouvais compter que sur toi.
+
+286
+00:28:10,324 --> 00:28:13,860
+- Elle a dit ça ?
+- Absolument.
+
+287
+00:28:13,996 --> 00:28:21,494
+Donc si tu tombes sur quelque chose que
+tu estimes important, tiens-moi au courant.
+
+288
+00:28:24,383 --> 00:28:28,216
+As-tu scanné toutes les images satellite
+autour du Rockland ?
+
+289
+00:28:28,347 --> 00:28:31,930
+Tout depuis le démontage du contrôleur.
+
+290
+00:28:32,059 --> 00:28:35,014
+Je veux que tu essaies
+avec différentes fréquences.
+
+291
+00:28:35,146 --> 00:28:38,516
+- Manuellement ?
+- C'est la seule façon de tout voir.
+
+292
+00:28:38,651 --> 00:28:42,815
+Je suis censé soutenir Jack et Paul
+chez McLennan-Forster.
+
+293
+00:28:42,948 --> 00:28:45,735
+Ça, c'est plus important.
+
+294
+00:28:45,868 --> 00:28:47,991
+Qu'est-ce qui est plus important ?
+
+295
+00:28:48,120 --> 00:28:50,908
+75 °% de nos hommes
+sont sur McLennan-Forster.
+
+296
+00:28:51,041 --> 00:28:53,117
+Il me faut Edgar pour pister Marwan.
+
+297
+00:28:53,252 --> 00:28:59,042
+Notre meilleure chance de trouver une piste
+se trouve dans les fichiers McLennan-Forster.
+
+298
+00:28:59,176 --> 00:29:05,511
+- Tu ne peux pas te passer d'un analyste ?
+- Pas d'Edgar. Mets quelqu'un d'autre dessus.
+
+299
+00:29:08,562 --> 00:29:13,106
+On cherche la même chose,
+ou tu veux juste asseoir ton autorité ?
+
+300
+00:29:13,234 --> 00:29:16,651
+Je n'ai pas à asseoir mon autorité.
+C'est déjà fait.
+
+301
+00:29:16,780 --> 00:29:21,075
+Si on arrêtait de perdre notre temps
+à nous chamailler ?
+
+302
+00:29:21,202 --> 00:29:26,245
+Je respecte ton opinion. Mais
+si on n'est pas d'accord, ce sera à ma façon.
+
+303
+00:29:26,375 --> 00:29:30,077
+OK. Mais on a besoin de plus d'hommes
+pour retrouver Marwan.
+
+304
+00:29:30,213 --> 00:29:33,000
+Prends des gars du traitement de l'image.
+Analyse les satellites avec eux.
+
+305
+00:29:41,977 --> 00:29:45,561
+Je ne serai plus là
+une fois que la crise sera passée.
+
+306
+00:29:45,691 --> 00:29:51,776
+En attendant, je veux la même chose que toi :
+je veux trouver Habib Marwan.
+
+307
+00:30:21,525 --> 00:30:24,526
+Tout va bien ?
+Il paraît que tu as eu un problème.
+
+308
+00:30:24,653 --> 00:30:30,278
+La CTU a trouvé le contrôleur avant que
+les autres centrales n'entrent en fusion.
+
+309
+00:30:30,411 --> 00:30:32,653
+Au moins, tu as pu t'en tirer.
+
+310
+00:30:32,788 --> 00:30:38,911
+Pour le moment. Mais ils vont essayer
+de me retrouver par tous les moyens.
+
+311
+00:30:39,046 --> 00:30:43,175
+- Est-ce que ça va affecter notre planning ?
+- Non. Tiens-toi prêt.
+
+312
+00:30:43,301 --> 00:30:46,636
+Assure-toi que tout est prêt
+à la base de l'armée de l'air.
+
+313
+00:30:46,764 --> 00:30:49,849
+J'ai vérifié avec tout le monde
+il y a 10 minutes.
+
+314
+00:30:49,977 --> 00:30:52,847
+On va atteindre notre but, Habib.
+
+315
+00:30:52,979 --> 00:30:56,895
+Quand tu auras fini,
+prends contact avec Prado.
+
+316
+00:30:57,027 --> 00:31:00,361
+- Il te fera sortir du pays.
+- Et toi ?
+
+317
+00:31:21,014 --> 00:31:23,054
+Vas-y.
+
+318
+00:31:50,508 --> 00:31:53,675
+- Bien.
+- Quoi ?
+
+319
+00:31:53,804 --> 00:31:57,221
+Je peux rétablir les fichiers
+depuis les répertoires vides.
+
+320
+00:32:07,695 --> 00:32:12,442
+Bon sang. Il essaie de rétablir
+les fichiers que j'ai effacés.
+
+321
+00:32:12,577 --> 00:32:15,151
+- Comment il fait ?
+- Je ne sais pas.
+
+322
+00:32:15,288 --> 00:32:19,452
+Il doit utiliser des accès invisibles
+laissés par le concepteur.
+
+323
+00:32:19,585 --> 00:32:22,871
+Il va voir qu'on a vendu
+des armes à des terroristes.
+
+324
+00:32:23,006 --> 00:32:28,760
+Pas forcément.
+Il faut utiliser la bombe à impulsion.
+
+325
+00:32:35,855 --> 00:32:37,682
+BOUCLIER ÉLECTROMAGNÉTIQUE
+
+326
+00:32:44,406 --> 00:32:48,357
+- Déclenchez-la.
+- Aucun test n'était prévu aujourd'hui.
+
+327
+00:32:48,495 --> 00:32:54,001
+- Ce n'est pas un test. Déclenchez-la.
+- La CTU saura qu'on cache quelque chose.
+
+328
+00:32:54,126 --> 00:32:59,170
+- Ils penseront que c'est Marwan.
+- Notre infrastructure va être endommagée.
+
+329
+00:32:59,299 --> 00:33:04,343
+C'est mieux que détruire toute la société.
+Ça prendra du temps, mais on reconstruira.
+
+330
+00:33:37,847 --> 00:33:42,308
+L'IEM a été activée.
+La porte du bouclier est ouverte.
+
+331
+00:33:43,186 --> 00:33:47,516
+Elle a été activée.
+Dans 10 minutes, elle sera chargée.
+
+332
+00:34:14,057 --> 00:34:18,186
+Edgar ? Les écoutes téléphoniques
+chez McLennan-Forster ne tiennent pas.
+
+333
+00:34:18,312 --> 00:34:21,647
+- Comment ça ?
+- La connexion est interrompue.
+
+334
+00:34:21,775 --> 00:34:26,272
+- Il y a un problème chez nous ?
+- Vérifie leur alimentation et leur ligne.
+
+335
+00:34:30,952 --> 00:34:34,820
+C'est dingue !
+L'amplitude n'arrête pas de fluctuer.
+
+336
+00:34:34,957 --> 00:34:38,576
+- Tu ne l'as pas vérifiée avant ?
+- Si. Ça allait tout à l'heure.
+
+337
+00:34:38,712 --> 00:34:41,583
+J'appelle Jack.
+
+338
+00:34:43,718 --> 00:34:47,419
+Bizarre.
+"Votre correspondant n'est pas joignable."
+
+339
+00:34:48,306 --> 00:34:50,976
+- McLennan-Forster.
+- Jack Bauer, je vous prie.
+
+340
+00:34:51,101 --> 00:34:54,803
+C'est un agent de la CTU,
+il travaille au poste de Harris Barnes.
+
+341
+00:34:58,819 --> 00:35:03,281
+- Que se passe-t-il ?
+- Plus de lignes chez McLennan-Forster.
+
+342
+00:35:03,408 --> 00:35:06,575
+On peut lui envoyer un message
+par le réseau ?
+
+343
+00:35:07,705 --> 00:35:13,211
+- Oui, les ordinateurs ne sont pas touchés.
+- Ouvre-moi une fenêtre.
+
+344
+00:35:24,851 --> 00:35:29,478
+- C'est quoi, ça ?
+- Je ne sais pas.
+
+345
+00:35:34,529 --> 00:35:36,771
+RECHERCHE DU RÉSEAU
+
+346
+00:35:36,907 --> 00:35:41,654
+Il y a un truc qui cloche.
+Vous pouvez passer cette fenêtre sur ce PC ?
+
+347
+00:35:41,789 --> 00:35:44,659
+Donnez-moi une adresse Ethernet.
+
+348
+00:35:46,795 --> 00:35:49,831
+6 EFF 3239.
+
+349
+00:35:53,010 --> 00:35:57,589
+- Jack, tu es là ? Tony.
+- Oui. Plus de fréquence radio.
+
+350
+00:35:58,850 --> 00:36:02,018
+À l'extérieur de votre immeuble non plus.
+
+351
+00:36:03,815 --> 00:36:06,353
+J'ai presque reconstruit les fichiers.
+
+352
+00:36:06,485 --> 00:36:08,727
+Le rayon est figé ?
+
+353
+00:36:10,114 --> 00:36:17,780
+- On reçoit des données des environs ?
+- Huit pâtés de maisons sont déjà affectés.
+
+354
+00:36:20,626 --> 00:36:22,751
+Non. Ça s'étend.
+
+355
+00:36:22,880 --> 00:36:26,712
+- Vous avez toujours une connexion ?
+- Oui, regardez ça.
+
+356
+00:36:28,053 --> 00:36:31,967
+C'est encodé. Imprimez tout. Vite !
+
+357
+00:36:37,439 --> 00:36:40,725
+- Ils ont quelque chose.
+- Quoi ?
+
+358
+00:36:41,318 --> 00:36:43,726
+Ça va s'éteindre quand ?
+
+359
+00:36:43,863 --> 00:36:46,401
+- Très bientôt.
+- Il imprime.
+
+360
+00:36:46,533 --> 00:36:49,784
+- Vous allez faire quoi ?
+- Je vais m'en charger.
+
+361
+00:36:50,622 --> 00:36:53,457
+J'arrive pas à y croire.
+
+362
+00:37:01,760 --> 00:37:04,216
+IEM ARMÉE
+
+363
+00:37:04,347 --> 00:37:06,506
+C'est une IEM.
+
+364
+00:37:06,641 --> 00:37:10,722
+McLennan-Forster développaient
+une arme non mortelle pour l'armée.
+
+365
+00:37:10,854 --> 00:37:13,476
+- C'est quoi ?
+- Une bombe électromagnétique.
+
+366
+00:37:13,608 --> 00:37:18,235
+Si elle se déclenche, tous les composants
+électriques des environs sont grillés.
+
+367
+00:37:18,363 --> 00:37:23,275
+Lumières, voitures, ordinateurs.
+Toute donnée électronique disparaît.
+
+368
+00:37:23,411 --> 00:37:28,370
+- On a combien de temps ?
+- Elle est encore en train de se charger.
+
+369
+00:37:29,085 --> 00:37:31,327
+Allez.
+
+370
+00:37:31,463 --> 00:37:34,797
+L'imprimante se met en route.
+
+371
+00:37:34,925 --> 00:37:37,333
+C'est une IEM. On a trouvé quelque chose,
+ils doivent le savoir.
+
+372
+00:37:44,270 --> 00:37:47,355
+On essaie d'identifier la source.
+
+373
+00:37:47,482 --> 00:37:50,567
+On a des hélicos dans les environs ?
+
+374
+00:37:51,445 --> 00:37:53,273
+Oui, un.
+
+375
+00:37:53,405 --> 00:37:59,944
+Il va s'écraser quand l'IEM se déclenchera.
+Fais-le sortir de cette zone tout de suite.
+
+376
+00:38:00,081 --> 00:38:03,451
+- Edgar, d'où ça vient ?
+- De chez McLennan-Forster.
+
+377
+00:38:03,585 --> 00:38:06,255
+CTU-3, vous me recevez ?
+
+378
+00:38:06,379 --> 00:38:08,753
+Vous me recevez ?
+
+379
+00:38:10,301 --> 00:38:12,971
+C'est bon, ça arrive.
+
+380
+00:38:15,725 --> 00:38:17,967
+L'IEM est au premier étage. Salle 12.
+
+381
+00:38:18,102 --> 00:38:20,095
+Je vais essayer de l'arrêter.
+
+382
+00:38:20,230 --> 00:38:23,600
+Prenez le tirage papier
+et retrouvez-moi devant le bâtiment.
+
+383
+00:38:27,029 --> 00:38:30,364
+Bauer est sorti en courant.
+Il doit savoir pour l'IEM.
+
+384
+00:38:30,492 --> 00:38:34,242
+L'agent de la CTU vient vers vous.
+Ne le laissez pas approcher.
+
+385
+00:38:34,372 --> 00:38:36,496
+M. Conlon, tout va bien ?
+
+386
+00:38:36,625 --> 00:38:40,457
+On a quelques problèmes d'électricité.
+
+387
+00:38:40,588 --> 00:38:42,913
+Jack vient de sortir vérifier.
+
+388
+00:38:43,049 --> 00:38:45,338
+- Vous imprimez ?
+- Comment le savez-vous ?
+
+389
+00:38:45,469 --> 00:38:49,550
+On faisait aussi des recherches
+dans le système. Pour vous aider.
+
+390
+00:38:51,393 --> 00:38:54,478
+Je peux jeter un coup d'œil ?
+
+391
+00:38:55,522 --> 00:38:58,394
+C'est dans l'imprimante.
+
+392
+00:39:39,492 --> 00:39:42,577
+Conlon, c'est Barnet. Vous me recevez ?
+
+393
+00:39:45,083 --> 00:39:48,120
+Rien au deuxième. Je passe au troisième.
+
+394
+00:40:32,557 --> 00:40:34,930
+Merde !
+
+395
+00:40:55,960 --> 00:40:58,832
+Ça va pas s'arrêter.
+
+396
+00:41:38,011 --> 00:41:41,713
+Vous ne pouvez pas vous échapper.
+Tout est verrouillé.
+
+397
+00:41:41,849 --> 00:41:43,889
+Où est l'impression ?
+
+398
+00:41:48,857 --> 00:41:50,731
+Où est-elle ?
+
+399
+00:42:06,671 --> 00:42:09,791
+- Un de nos hélicos s'est écrasé.
+- Envoie des secours.
+
+400
+00:42:09,925 --> 00:42:14,671
+Appelle toutes les équipes dans le périmètre.
+Il faut retrouver Jack et Paul.
+
+401
+00:42:21,230 --> 00:42:26,226
+Il y a eu une IEM chez McLennan-Forster.
+On pense que Jack et Paul y sont.
+
+402
+00:42:27,195 --> 00:42:31,859
+Manifestement, quelqu'un ne veut pas
+qu'on trouve les dossiers de Marwan.
+
+403
+00:42:31,994 --> 00:42:37,036
+Jack a pu récupérer des informations.
+Mais on ignore qui a déclenché la bombe.
+
+404
+00:42:37,167 --> 00:42:42,790
+La remplaçante de Mme Driscoll est arrivée.
+Elle vient de passer la sécurité.
+
+405
+00:42:43,924 --> 00:42:46,498
+- Ça a été rapide.
+- On a eu de la chance.
+
+406
+00:42:46,636 --> 00:42:52,391
+La Division avait quelqu'un de disponible.
+Compétente et connaissant déjà la CTU.
+
+407
+00:42:52,519 --> 00:42:55,140
+- Je comprends.
+- Merci de nous avoir dépannés.
+
+408
+00:42:55,271 --> 00:42:58,723
+J'aimerais que vous restiez
+pour aider Mme Dessler.
+
+409
+00:42:58,859 --> 00:43:01,018
+Qui ça ?
+
+410
+00:43:01,153 --> 00:43:04,773
+Michelle Dessler.
+Vous la connaissez ?
+
+411
+00:43:12,000 --> 00:43:15,584
+J'ai été marié avec elle.
+

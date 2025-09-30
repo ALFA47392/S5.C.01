@@ -1,0 +1,16 @@
+# Index des séries traitées
+# Format: nom_fichier.txt | nom_original | langue | mots-clés
+#
+24.txt | 24 | FR | 150
+90210.txt | 90210 | FR | 150
+alias.txt | alias | FR | 150
+angel.txt | angel | FR | 150
+battlestargalactica.txt | battlestargalactica | FR | 150
+betteroffted.txt | betteroffted | FR | 150
+bionicwoman.txt | bionicwoman | FR | 150
+blade.txt | blade | EN | 150
+bloodties.txt | bloodties | FR | 150
+bones.txt | bones | EN | 150
+breakingbad.txt | breakingbad | FR | 150
+buffy.txt | buffy | FR | 150
+burnnotice.txt | burnnotice | FR | 150

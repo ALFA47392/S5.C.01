@@ -1,0 +1,2567 @@
+1
+00:00:00,440 --> 00:00:01,497
+La voilà.
+
+2
+00:00:02,101 --> 00:00:03,120
+C'est ça.
+
+3
+00:00:03,276 --> 00:00:04,674
+La Nébuleuse Ionienne.
+
+4
+00:00:04,817 --> 00:00:07,701
+Qu'est-ce qu'on va y trouver,
+d'après vous ? Une balise ?
+
+5
+00:00:07,830 --> 00:00:09,051
+Un temple ?
+
+6
+00:00:09,136 --> 00:00:10,595
+Un panneau "Terre" ?
+
+7
+00:00:10,876 --> 00:00:13,665
+Combien de sauts avant
+de trouver la nébuleuse ?
+
+8
+00:00:13,856 --> 00:00:16,729
+Une douzaine, selon mes estimations.
+On se rapproche.
+
+9
+00:00:17,019 --> 00:00:18,809
+Toujours aucun signe des Cylons.
+
+10
+00:00:24,067 --> 00:00:26,545
+- En arrière, vous l'aviez presque.
+- Il avait quoi ?
+
+11
+00:00:26,715 --> 00:00:28,960
+Cette chanson.
+T'entends pas cette chanson ?
+
+12
+00:00:29,429 --> 00:00:32,413
+C'est dans ce putain de vaisseau.
+
+13
+00:00:33,802 --> 00:00:34,968
+C'est mon fils.
+
+14
+00:00:35,039 --> 00:00:38,118
+Je suis désolé pour votre perte,
+mais je n'y suis pour rien.
+
+15
+00:00:38,212 --> 00:00:41,194
+- Il est malade. Vous devez le bénir.
+- Le bénir ?
+
+16
+00:00:43,026 --> 00:00:46,244
+Vous affirmez que l'accusé,
+Gaius Baltar,
+
+17
+00:00:46,784 --> 00:00:50,719
+a ordonné votre exécution ainsi
+que celle de 200 autres personnes ?
+
+18
+00:00:50,805 --> 00:00:52,623
+C'est exactement ce que j'affirme.
+
+19
+00:00:52,737 --> 00:00:54,218
+C'est un arrêt de mort.
+
+20
+00:00:54,302 --> 00:00:58,216
+Vous avez vu les noms sur cette liste ?
+Vous savez ce qu'ils vont leur faire ?
+
+21
+00:00:58,298 --> 00:01:01,076
+Gaius Baltar a choisi
+de collaborer avec les Cylons
+
+22
+00:01:01,170 --> 00:01:04,194
+et a cherché activement
+à tuer ses propres citoyens.
+
+23
+00:01:04,701 --> 00:01:08,070
+Madame la Présidente, prenez-vous
+du Chamalla en ce moment ?
+
+24
+00:01:08,278 --> 00:01:10,953
+Ne répondez pas.
+J'arrête ce cirque, immédiatement.
+
+25
+00:01:11,041 --> 00:01:14,104
+Votre Honneur, si elle est droguée,
+ça discrédite son témoignage.
+
+26
+00:01:14,696 --> 00:01:18,934
+Je reprends du Chamalla
+parce que mon cancer est revenu.
+
+27
+00:01:21,225 --> 00:01:23,571
+Je te traite de menteur et de lâche.
+
+28
+00:01:23,992 --> 00:01:25,224
+Pour quoi ?
+
+29
+00:01:26,728 --> 00:01:29,655
+Cette ordure de traître de Gaius Baltar.
+
+30
+00:01:30,759 --> 00:01:33,001
+Il ne mérite même pas de procès.
+
+31
+00:01:33,798 --> 00:01:37,766
+Je ne servirai pas sous les ordres
+d'un homme qui doute de mon intégrité.
+
+32
+00:01:38,708 --> 00:01:41,827
+Et je ne veux pas,
+sous mon commandement, d'un officier
+
+33
+00:01:42,015 --> 00:01:43,783
+qui n'en a aucune.
+
+34
+00:01:46,950 --> 00:01:50,538
+BATTLESTAR GALACTICA
+Saison 3 - Épisode 20
+
+35
+00:01:51,595 --> 00:01:54,340
+{\pos(192,225)}" Crossroads " 2/2
+- =( season finale )= -
+
+36
+00:01:54,973 --> 00:01:59,049
+{\pos(192,225)}Sous-titres
+- = ( Team Lords of Kobol )= -
+
+37
+00:01:59,430 --> 00:02:03,665
+Transcript
+- =( www.sadgeezer.com )= -
+
+38
+00:02:04,263 --> 00:02:08,181
+{\pos(192,225)}Remerciements, insultes, critiques
+- =( www.seriestele.net )= -
+
+39
+00:02:08,363 --> 00:02:12,081
+{\a1}{\pos(10,225)}Ont participé à cet épisode :
+AspirantNemo, Axl1664, Bbsiocnarf,
+
+40
+00:02:12,271 --> 00:02:15,515
+{\a1}{\pos(10,225)}Dapitch666, Kaerned, Goufrach,
+Lama, Lovechange, NikoMagnus, The Cole
+
+41
+00:02:19,632 --> 00:02:21,030
+{\pos(192,225)}Et merde.
+
+42
+00:02:27,746 --> 00:02:28,958
+{\pos(192,225)}Oui ?
+
+43
+00:02:29,368 --> 00:02:32,066
+{\pos(192,225)}Engueulez-moi.
+Je ne veux pas sortir du lit.
+
+44
+00:02:32,765 --> 00:02:36,121
+<i>Vous n'appelez pas au bon numéro.
+J'envisageais plutôt d'y retourner.</i>
+
+45
+00:02:36,261 --> 00:02:37,530
+Vous vous sentez bien ?
+
+46
+00:02:38,072 --> 00:02:39,608
+Dixit la cancéreuse.
+
+47
+00:02:40,399 --> 00:02:42,281
+{\pos(192,225)}<i>Oui, ça va. Je viens de me couper.</i>
+
+48
+00:02:42,972 --> 00:02:43,985
+Et vous ?
+
+49
+00:02:45,109 --> 00:02:46,927
+{\pos(192,225)}Je ne veux pas les affronter.
+
+50
+00:02:47,337 --> 00:02:49,673
+{\pos(192,225)}<i>Je ne veux en affronter aucun.
+Je veux juste</i>
+
+51
+00:02:49,860 --> 00:02:52,164
+{\pos(192,225)}<i>rester au lit
+et dormir toute la journée.</i>
+
+52
+00:02:52,746 --> 00:02:54,732
+Je crois que ça ne saigne plus.
+
+53
+00:02:55,017 --> 00:02:58,518
+{\pos(192,225)}<i>Si vous voulez vous faire engueuler,
+je pense que je peux monter le son.</i>
+
+54
+00:02:58,645 --> 00:03:01,380
+D'accord. Mettez le paquet.
+
+55
+00:03:02,881 --> 00:03:04,421
+Sortez du lit !
+
+56
+00:03:05,150 --> 00:03:06,809
+Vous pouvez faire mieux.
+
+57
+00:03:07,907 --> 00:03:11,648
+{\pos(192,210)}Bougez votre gros cul
+de cette couchette, Roslin !
+
+58
+00:03:12,577 --> 00:03:15,787
+{\pos(192,210)}Oui, Monsieur.
+Tout ce que vous voudrez, Monsieur.
+
+59
+00:03:17,762 --> 00:03:18,982
+Merci.
+
+60
+00:03:21,437 --> 00:03:24,061
+{\pos(192,210)}Ne leur montrez pas que vous en bavez,
+Laura.
+
+61
+00:04:15,293 --> 00:04:16,613
+{\pos(192,210)}Viens là.
+
+62
+00:04:16,730 --> 00:04:18,176
+{\pos(192,210)}Je peux pas.
+
+63
+00:04:23,171 --> 00:04:24,221
+{\pos(192,210)}Viens là.
+
+64
+00:04:24,440 --> 00:04:27,986
+{\pos(192,210)}- Je dois rentrer sur le Colonial One.
+- Tu ne dois aller nulle part.
+
+65
+00:05:11,792 --> 00:05:14,171
+C'est quoi cette musique ? Bons Dieux.
+
+66
+00:05:15,429 --> 00:05:17,043
+Qu'est-ce que t'as dit ?
+
+67
+00:05:18,585 --> 00:05:19,781
+Frak.
+
+68
+00:05:23,346 --> 00:05:24,698
+Oui, j'arrive.
+
+69
+00:05:29,464 --> 00:05:31,679
+- Pourquoi t'as fermé ?
+- Désolé.
+
+70
+00:06:26,618 --> 00:06:28,843
+On devrait tenter un vice de procédure.
+
+71
+00:06:32,015 --> 00:06:33,077
+Quoi ?
+
+72
+00:06:34,661 --> 00:06:37,007
+De quoi il parle ? De quoi vous parlez ?
+
+73
+00:06:37,237 --> 00:06:38,972
+Vice de procédure ? Pourquoi ?
+
+74
+00:06:39,036 --> 00:06:41,308
+- Parce qu'on perd.
+- Pas de mon point de vue.
+
+75
+00:06:41,640 --> 00:06:43,558
+On s'en sort plutôt bien.
+
+76
+00:06:43,745 --> 00:06:45,900
+On est sur le point
+de balayer l'accusation.
+
+77
+00:06:45,973 --> 00:06:49,569
+On a renversé 2 de leurs témoins-clés.
+Que faut-il faire de plus, bons Dieux ?
+
+78
+00:06:49,721 --> 00:06:53,186
+Tout le monde, au tribunal, vous hait.
+Y compris les juges.
+
+79
+00:06:53,811 --> 00:06:57,077
+Vous n'avez pas entendu mon père
+vous traiter "d'ordure de traître",
+
+80
+00:06:57,192 --> 00:06:59,167
+un homme
+qui ne mérite même pas un procès.
+
+81
+00:06:59,532 --> 00:07:01,944
+Il a dit ça ? Il a vraiment dit ça ?
+
+82
+00:07:02,056 --> 00:07:05,181
+Oui, et je ne crois pas
+qu'il soit seul à le penser.
+
+83
+00:07:07,232 --> 00:07:08,586
+Je suis d'accord.
+
+84
+00:07:08,763 --> 00:07:10,759
+On marque des points, ça les emmerde.
+
+85
+00:07:11,141 --> 00:07:14,259
+Alors, c'est parce qu'on gagne
+qu'on perd, en fait.
+
+86
+00:07:14,859 --> 00:07:18,136
+Pervers, non ?
+C'est pour ça que j'aime ce que je fais.
+
+87
+00:07:18,183 --> 00:07:21,610
+"Invoquer un vice de procédure peut
+sembler sans intérêt pour les parties,
+
+88
+00:07:21,685 --> 00:07:24,498
+"mais peut en fait
+être une aubaine pour la défense.
+
+89
+00:07:24,706 --> 00:07:26,558
+"L'accusation a révélé son jeu.
+
+90
+00:07:26,642 --> 00:07:29,365
+"Lors de la révision, la défense a
+tous les avantages tactiques,
+
+91
+00:07:29,440 --> 00:07:32,351
+"et la probabilité d'acquittement
+augmente...
+
+92
+00:07:32,727 --> 00:07:34,054
+"de 25 %."
+
+93
+00:07:35,094 --> 00:07:36,310
+Joseph Adama.
+
+94
+00:07:36,357 --> 00:07:38,949
+"Tactiques et stratégies de procès",
+page 273.
+
+95
+00:07:39,137 --> 00:07:41,316
+Un homme intelligent, votre grand-père.
+
+96
+00:07:41,548 --> 00:07:43,722
+Je vois pourquoi
+vous voulez une révision.
+
+97
+00:07:44,003 --> 00:07:45,466
+Que voulez-vous dire ?
+
+98
+00:07:45,524 --> 00:07:48,368
+Ce serait un bon moyen de
+vous décharger de vos responsabilités,
+
+99
+00:07:48,441 --> 00:07:51,014
+de vous débarrasser de cette affaire.
+Vous reprenez votre vie.
+
+100
+00:07:51,050 --> 00:07:53,320
+Vous retournez où... vous retournez,
+
+101
+00:07:53,379 --> 00:07:56,251
+et je retourne en prison et je dois
+tout recommencer.
+
+102
+00:07:56,933 --> 00:07:59,251
+Je ne pourrais pas
+le supporter physiquement.
+
+103
+00:07:59,620 --> 00:08:02,412
+On ne joue plus.
+Pas de vice de procédure.
+
+104
+00:08:03,056 --> 00:08:04,765
+Il y aura un verdict.
+
+105
+00:08:15,036 --> 00:08:17,388
+<i>La journée d'hier à vu
+un retournement inattendu</i>
+
+106
+00:08:17,458 --> 00:08:20,880
+<i>dans le procès du Dr Gaius Baltar,
+quand le colonel Tigh a avoué...</i>
+
+107
+00:08:21,031 --> 00:08:24,391
+Avant de penser à piloter
+un de mes Raptors, les bleus,
+
+108
+00:08:24,454 --> 00:08:28,019
+vous devez en connaître les systèmes.
+Électronique, avionique,
+
+109
+00:08:28,604 --> 00:08:31,114
+navigation, contrôle moteur,
+
+110
+00:08:31,571 --> 00:08:35,206
+réglage et calibrage du dradis,
+fonctions de base FTL,
+
+111
+00:08:35,376 --> 00:08:38,181
+pilote automatique
+et systèmes de propulsions...
+
+112
+00:08:42,093 --> 00:08:44,088
+Le mieux,
+c'est de l'apprendre dans un Raptor.
+
+113
+00:08:44,175 --> 00:08:47,846
+En mettant les mains dans le cambouis...
+Allez, bougez-vous.
+
+114
+00:08:49,545 --> 00:08:50,775
+Allez.
+
+115
+00:08:55,956 --> 00:08:57,063
+Chef.
+
+116
+00:08:57,584 --> 00:08:58,687
+Salut, Sam.
+
+117
+00:09:02,101 --> 00:09:03,657
+Cette chanson que tu fredonnes,
+
+118
+00:09:03,774 --> 00:09:04,822
+c'est quoi ?
+
+119
+00:09:10,701 --> 00:09:13,594
+J'en sais rien.
+C'est quelque chose que j'arrive pas...
+
+120
+00:09:13,676 --> 00:09:15,424
+à me sortir de la tête.
+
+121
+00:09:15,671 --> 00:09:17,189
+Un moyen de sortir d'ici...
+
+122
+00:09:19,692 --> 00:09:21,381
+Je l'entends, moi aussi.
+
+123
+00:09:22,155 --> 00:09:25,292
+Partout.
+Sur le poste, tu sais, dans le bar.
+
+124
+00:09:29,724 --> 00:09:30,760
+Viens là.
+
+125
+00:09:37,485 --> 00:09:39,438
+Tu entends <i>cette</i> chanson.
+
+126
+00:09:39,522 --> 00:09:41,475
+Ouais, ça me fout les jetons.
+
+127
+00:09:42,618 --> 00:09:44,444
+Je l'entends partout,
+mais j'arrive pas...
+
+128
+00:09:44,574 --> 00:09:47,138
+mais je l'entends pas vraiment,
+tu vois ce que je veux dire ?
+
+129
+00:09:47,326 --> 00:09:49,676
+Ouais, comme si t'entendais
+qu'une partie de la mélodie
+
+130
+00:09:49,790 --> 00:09:52,618
+et puis ça s'en va.
+Comme un souvenir d'enfance.
+
+131
+00:09:54,470 --> 00:09:56,776
+- Exactement.
+- Hé, Anders !
+
+132
+00:09:57,097 --> 00:09:59,010
+T'as besoin d'une invitation, putain ?
+
+133
+00:10:00,410 --> 00:10:01,568
+Bouge ton cul !
+
+134
+00:10:01,880 --> 00:10:02,904
+D'accord.
+
+135
+00:10:03,486 --> 00:10:05,206
+Aucune raison de s'énerver.
+
+136
+00:10:12,883 --> 00:10:14,356
+Mes félicitations.
+
+137
+00:10:14,491 --> 00:10:17,635
+Vous avez survécu
+à votre première prise de Doloxan.
+
+138
+00:10:18,834 --> 00:10:21,382
+Ça se vérifie,
+le remède est pire que le mal.
+
+139
+00:10:21,497 --> 00:10:23,568
+La prochaine fois,
+prenez un livre ou du travail.
+
+140
+00:10:23,650 --> 00:10:26,990
+Ça vous occupera l'esprit et
+vous fera baisser la tension.
+
+141
+00:10:27,105 --> 00:10:30,613
+- Oui, d'accord.
+- Excusez-moi, j'ai d'autres patients.
+
+142
+00:10:30,731 --> 00:10:31,847
+Très bien, allez-y.
+
+143
+00:10:34,740 --> 00:10:36,010
+Par les Dieux.
+
+144
+00:10:45,546 --> 00:10:46,642
+Hera !
+
+145
+00:11:01,599 --> 00:11:03,289
+Qu'est-ce qui se passe ?
+
+146
+00:11:05,894 --> 00:11:08,788
+Vous pétez les plombs
+toutes les deux au même moment ?
+
+147
+00:11:11,771 --> 00:11:13,225
+Nous devons parler.
+
+148
+00:11:13,353 --> 00:11:15,478
+Enlevez-moi ça, s'il vous plaît.
+
+149
+00:11:15,702 --> 00:11:18,637
+Quelqu'un va me dire
+ce qu'il se passe, là ?
+
+150
+00:11:34,608 --> 00:11:35,811
+Sortez.
+
+151
+00:11:36,084 --> 00:11:39,338
+- Merci, tout ira bien. Fermez la porte.
+- Oui, Madame.
+
+152
+00:11:44,771 --> 00:11:47,003
+Je suis désolée pour les menottes.
+
+153
+00:11:50,413 --> 00:11:53,041
+Êtiez-vous avec nous, tout à l'heure,
+
+154
+00:11:53,487 --> 00:11:55,309
+dans le hall de l'opéra ?
+
+155
+00:11:59,219 --> 00:12:02,136
+Vu votre expression,
+je prends ça pour un oui.
+
+156
+00:12:03,098 --> 00:12:04,463
+J'y étais, moi aussi.
+
+157
+00:12:04,714 --> 00:12:06,056
+Et Hera aussi.
+
+158
+00:12:07,029 --> 00:12:08,786
+Ça ne devrait pas être possible.
+
+159
+00:12:10,855 --> 00:12:12,471
+Ajoutez ça à la liste.
+
+160
+00:12:14,553 --> 00:12:16,248
+Vouliez-vous atteindre Hera ?
+
+161
+00:12:17,608 --> 00:12:18,928
+Je ne sais pas.
+
+162
+00:12:21,151 --> 00:12:24,649
+Je savais seulement que je devais
+la protéger au péril de ma vie.
+
+163
+00:12:30,221 --> 00:12:33,120
+Je te le dis, Bill.
+Ils ont mis la musique dans le vaisseau.
+
+164
+00:12:33,296 --> 00:12:34,558
+Je l'entends.
+
+165
+00:12:37,574 --> 00:12:38,676
+Je te crois.
+
+166
+00:12:38,957 --> 00:12:41,299
+- Je vais m'en occuper.
+- Tu vas t'en occuper ?
+
+167
+00:12:41,505 --> 00:12:45,393
+Je te dis que les Cylons
+ont saboté notre vaisseau !
+
+168
+00:12:45,975 --> 00:12:48,263
+Un sabotage avec de la musique.
+
+169
+00:12:48,359 --> 00:12:51,419
+Je sais. Je n'arrive pas
+à le comprendre moi-même, mais...
+
+170
+00:12:51,647 --> 00:12:53,175
+Il règne une trop grande confusion.
+
+171
+00:12:54,818 --> 00:12:56,758
+Je te promets de m'en occuper.
+
+172
+00:12:57,121 --> 00:12:59,367
+Je dois aller au tribunal, maintenant.
+
+173
+00:13:01,960 --> 00:13:03,067
+OK.
+
+174
+00:13:07,943 --> 00:13:09,229
+Va au tribunal.
+
+175
+00:13:22,782 --> 00:13:25,579
+Il doit y avoir
+un moyen de sortir d'ici.
+
+176
+00:13:26,477 --> 00:13:28,864
+Reconnaissez-vous ce document,
+Lieutenant ?
+
+177
+00:13:31,789 --> 00:13:34,755
+Oui, en effet. C'est un arrêt de mort
+
+178
+00:13:35,421 --> 00:13:38,355
+émis par le bureau présidentiel,
+sur New Caprica.
+
+179
+00:13:39,506 --> 00:13:41,140
+Qui a signé ce document ?
+
+180
+00:13:42,313 --> 00:13:44,035
+Le Président Gaius Baltar.
+
+181
+00:13:46,240 --> 00:13:48,487
+Est-il possible que ça soit un faux ?
+
+182
+00:13:48,875 --> 00:13:49,947
+Non.
+
+183
+00:13:50,140 --> 00:13:52,814
+Comment savez-vous
+que ça n'est pas un faux ?
+
+184
+00:13:56,768 --> 00:13:58,508
+Parce que j'y étais, je l'ai vu signer.
+
+185
+00:13:58,631 --> 00:14:01,345
+Quoi ? De quoi parlez-vous ?
+Vous n'y étiez pas !
+
+186
+00:14:01,427 --> 00:14:03,757
+C'est un mensonge,
+une invention pure et simple.
+
+187
+00:14:03,897 --> 00:14:05,180
+Silence !
+
+188
+00:14:05,492 --> 00:14:07,020
+Je l'ai vu le signer.
+
+189
+00:14:08,103 --> 00:14:10,124
+Décrivez-nous la scène, voulez-vous ?
+
+190
+00:14:11,944 --> 00:14:15,542
+Les Cylons ont amené le document
+dans le bureau présidentiel.
+
+191
+00:14:17,386 --> 00:14:19,688
+Ils avaient déjà choisi les noms.
+
+192
+00:14:20,386 --> 00:14:23,292
+L'un d'entre eux,
+je crois que c'était une Trois,
+
+193
+00:14:23,667 --> 00:14:26,733
+a donné la liste au président et a dit :
+
+194
+00:14:27,770 --> 00:14:31,249
+"Voici les gens qui vont être exécutés.
+Signez ça, s'il vous plaît."
+
+195
+00:14:31,718 --> 00:14:34,307
+Il a regardé la liste.
+Il a vu tous les noms.
+
+196
+00:14:36,071 --> 00:14:38,979
+- Et il l'a signée.
+- A-t-il protesté ?
+
+197
+00:14:39,190 --> 00:14:43,239
+A-t-il discuté ?
+A-t-il résisté en quoi que ce soit ?
+
+198
+00:14:44,394 --> 00:14:45,476
+<i>Signez-le !</i>
+
+199
+00:14:46,116 --> 00:14:47,373
+Je ne le ferai pas.
+
+200
+00:14:47,869 --> 00:14:50,429
+Vous devrez soulager votre conscience
+d'une autre façon.
+
+201
+00:14:50,763 --> 00:14:52,790
+Signez ! De votre nom !
+
+202
+00:14:53,168 --> 00:14:54,449
+<i>Signez-le !</i>
+
+203
+00:14:56,879 --> 00:14:57,880
+Non.
+
+204
+00:14:58,390 --> 00:15:00,691
+- Il n'a jamais protesté.
+- Oh, Felix.
+
+205
+00:15:00,990 --> 00:15:03,175
+Felix, qu'est-ce que tu fais ?
+
+206
+00:15:03,551 --> 00:15:05,202
+Ôtez ça de ma vue !
+
+207
+00:15:05,795 --> 00:15:08,736
+- Gaius, on l'aura après.
+- Veuillez maîtriser votre client.
+
+208
+00:15:08,840 --> 00:15:10,284
+Ce n'est pas un secret.
+
+209
+00:15:10,378 --> 00:15:12,989
+Toute la flotte sait qu'il a voulu
+me poignarder dans le cou,
+
+210
+00:15:13,071 --> 00:15:14,189
+et tu as raté !
+
+211
+00:15:14,312 --> 00:15:15,559
+Maladroit !
+
+212
+00:15:16,187 --> 00:15:17,918
+- Désolé, votre Honneur.
+- Taisez-vous.
+
+213
+00:15:18,019 --> 00:15:19,512
+Pas d'autre question.
+
+214
+00:15:38,197 --> 00:15:39,919
+Le témoin est à vous.
+
+215
+00:15:44,035 --> 00:15:46,268
+- Pas de question.
+- Pardon ?
+
+216
+00:15:49,209 --> 00:15:52,214
+- Qu'est-ce que vous...
+- Le témoin peut se retirer.
+
+217
+00:15:52,411 --> 00:15:53,524
+Formidable.
+
+218
+00:15:55,521 --> 00:15:58,667
+- Qu'est-ce que vous foutez ?
+- C'est votre parole contre la sienne.
+
+219
+00:15:58,782 --> 00:16:02,321
+S'il est décidé à se parjurer,
+on ne pourra rien y changer.
+
+220
+00:16:02,456 --> 00:16:05,088
+Nous allons devoir
+adapter notre stratégie.
+
+221
+00:16:17,623 --> 00:16:20,382
+La défense est-elle prête
+à présenter sa plaidoirie ?
+
+222
+00:16:29,560 --> 00:16:30,829
+Votre Honneur...
+
+223
+00:16:31,460 --> 00:16:33,612
+à cet instant, s'il sied à la cour...
+
+224
+00:16:36,100 --> 00:16:38,044
+je voudrais faire une requête.
+
+225
+00:16:38,276 --> 00:16:40,877
+La défense souhaite
+dénoncer un vice de procédure.
+
+226
+00:16:41,382 --> 00:16:45,440
+Non, on ne veut pas de ça !
+Je ne veux pas de ça !
+
+227
+00:16:45,612 --> 00:16:46,807
+Gaius Baltar !
+
+228
+00:16:48,203 --> 00:16:50,214
+Calmez-vous, Dr Baltar.
+
+229
+00:16:50,537 --> 00:16:51,893
+Pour quel motif, Maître ?
+
+230
+00:16:52,186 --> 00:16:55,425
+L'un des membres du jury
+
+231
+00:16:55,737 --> 00:16:58,488
+a déjà préjugé de l'issue de ce procès
+
+232
+00:16:58,726 --> 00:17:01,142
+et établi la culpabilité
+
+233
+00:17:01,356 --> 00:17:02,956
+de l'accusé.
+
+234
+00:17:03,248 --> 00:17:05,707
+C'est une accusation très sérieuse,
+M. Lampkin.
+
+235
+00:17:06,780 --> 00:17:08,224
+Quel juge ?
+
+236
+00:17:09,395 --> 00:17:10,809
+Vous, Amiral.
+
+237
+00:17:13,804 --> 00:17:17,004
+Et pour le prouver,
+je vais faire une chose inhabituelle :
+
+238
+00:17:17,414 --> 00:17:20,429
+appeler M. Lee Adama à la barre.
+
+239
+00:17:23,736 --> 00:17:25,336
+Vous vous foutez de moi ?
+
+240
+00:17:25,373 --> 00:17:27,861
+Gaeta nous a coulés,
+c'est le seul moyen de gagner.
+
+241
+00:17:27,974 --> 00:17:30,110
+Je ne témoignerai pas contre mon père.
+
+242
+00:17:30,634 --> 00:17:32,158
+C'est votre choix.
+
+243
+00:17:32,226 --> 00:17:33,728
+D'une façon ou d'une autre,
+
+244
+00:17:34,074 --> 00:17:36,272
+- je vous appelle à la barre.
+- Votre Honneur,
+
+245
+00:17:36,328 --> 00:17:38,207
+ceci est totalement déplacé.
+
+246
+00:17:38,232 --> 00:17:40,930
+Un avocat de la défense
+ne peut être appelé à la barre.
+
+247
+00:17:40,973 --> 00:17:44,520
+Je peux vous citer de mémoire
+au moins sept précédents.
+
+248
+00:17:50,701 --> 00:17:52,156
+Appelez votre témoin, Maître.
+
+249
+00:17:52,618 --> 00:17:53,729
+Merci.
+
+250
+00:17:55,690 --> 00:17:56,758
+M. Adama.
+
+251
+00:18:12,821 --> 00:18:14,257
+M. Adama,
+
+252
+00:18:14,551 --> 00:18:19,059
+avez-vous rencontré votre père,
+l'Amiral Adama, il y a quatre jours ?
+
+253
+00:18:24,698 --> 00:18:25,710
+Oui.
+
+254
+00:18:26,090 --> 00:18:30,180
+À cette occasion,
+l'Amiral Adama a-t-il émis des doutes
+
+255
+00:18:30,479 --> 00:18:34,044
+sur le fait
+que l'accusé mérite un procès ?
+
+256
+00:18:39,470 --> 00:18:42,155
+Je ne cherche que la vérité, M. Adama.
+
+257
+00:18:43,454 --> 00:18:44,478
+Trouvons-la.
+
+258
+00:18:45,227 --> 00:18:46,251
+J'attends.
+
+259
+00:18:46,984 --> 00:18:48,570
+Répondez à la question.
+
+260
+00:18:51,360 --> 00:18:54,089
+Vous avez prêté serment
+en tant que membre de la Cour.
+
+261
+00:18:54,114 --> 00:18:55,712
+Si vous ne répondez pas à la question,
+
+262
+00:18:55,747 --> 00:18:59,321
+- vous entravez le système judiciaire.
+- Quel putain de système ?
+
+263
+00:18:59,373 --> 00:19:00,700
+M. Adama !
+
+264
+00:19:05,106 --> 00:19:06,423
+Désolé, votre Honneur.
+
+265
+00:19:07,119 --> 00:19:08,758
+Veuillez pardonner mon associé.
+
+266
+00:19:12,050 --> 00:19:13,475
+Très bien.
+
+267
+00:19:14,041 --> 00:19:15,894
+Je vais essayer autre chose.
+
+268
+00:19:18,997 --> 00:19:20,362
+Pensez-vous
+
+269
+00:19:20,938 --> 00:19:23,143
+que l'accusé mérite
+un procès équitable ?
+
+270
+00:19:31,104 --> 00:19:33,114
+À vrai dire, oui, je le pense.
+
+271
+00:19:33,679 --> 00:19:35,536
+- Pourquoi ?
+- Outre le fait
+
+272
+00:19:35,601 --> 00:19:39,643
+que chacun mérite un procès équitable,
+je pense qu'il n'est pas coupable des...
+
+273
+00:19:39,718 --> 00:19:42,994
+Votre Honneur,
+je me permets de réitérer mon objection.
+
+274
+00:19:43,014 --> 00:19:45,708
+Il ne peut témoigner ainsi.
+C'est totalement déplacé.
+
+275
+00:19:45,774 --> 00:19:48,260
+- Tout à fait.
+- Il peut argumenter en plaidant,
+
+276
+00:19:48,382 --> 00:19:51,704
+- mais pas à la barre.
+- Je suis d'accord avec l'accusation.
+
+277
+00:19:51,754 --> 00:19:52,765
+Merci.
+
+278
+00:19:53,570 --> 00:19:57,741
+Faites appel auprès de la présidente,
+si vous jugez que cela nous influence,
+
+279
+00:19:57,852 --> 00:19:59,452
+mais pour ma part...
+
+280
+00:20:00,525 --> 00:20:03,511
+je voudrais entendre
+les déclarations de ce témoin.
+
+281
+00:20:03,589 --> 00:20:05,072
+J'appuie cette demande.
+
+282
+00:20:06,945 --> 00:20:09,726
+- Continuez.
+- Merci, votre Honneur.
+
+283
+00:20:11,775 --> 00:20:12,972
+M. Adama ?
+
+284
+00:20:13,570 --> 00:20:15,779
+- M. Adama !
+- Oui.
+
+285
+00:20:18,212 --> 00:20:20,688
+Pourquoi pensez-vous que l'accusé,
+
+286
+00:20:21,072 --> 00:20:24,073
+Gaius Baltar, mérite d'être acquitté ?
+
+287
+00:20:26,999 --> 00:20:29,790
+Parce que les preuves
+n'étayent pas l'accusation.
+
+288
+00:20:30,941 --> 00:20:31,955
+Allons...
+
+289
+00:20:34,102 --> 00:20:36,161
+Est-ce que l'accusé a fait des erreurs ?
+
+290
+00:20:37,721 --> 00:20:39,165
+Oui, il en a faites.
+
+291
+00:20:39,726 --> 00:20:43,721
+De graves erreurs, mais a-t-il
+commis un crime, une trahison ? Non.
+
+292
+00:20:46,763 --> 00:20:48,499
+C'était une situation impossible.
+
+293
+00:20:48,551 --> 00:20:50,673
+À l'arrivée des Cylons,
+que pouvait-il faire ?
+
+294
+00:20:50,720 --> 00:20:52,353
+Qu'aurions-nous pu faire ?
+
+295
+00:20:53,072 --> 00:20:55,684
+Posez-vous la question,
+qu'auriez-vous fait ?
+
+296
+00:20:56,222 --> 00:20:57,831
+Qu'auriez-vous fait ?
+
+297
+00:20:59,751 --> 00:21:01,262
+S'il avait refusé de se rendre,
+
+298
+00:21:01,293 --> 00:21:04,290
+les Cylons auraient probablement
+atomisé la planète.
+
+299
+00:21:04,345 --> 00:21:07,870
+A-t-il collaboré avec les Cylons ?
+Certainement.
+
+300
+00:21:09,136 --> 00:21:10,905
+Comme des centaines d'autres.
+
+301
+00:21:12,813 --> 00:21:14,825
+Quelle est la différence
+entre lui et eux ?
+
+302
+00:21:17,958 --> 00:21:20,499
+La présidente a accordé
+une grâce générale.
+
+303
+00:21:21,075 --> 00:21:23,706
+Ils ont tous été pardonnés.
+Sans aucune question.
+
+304
+00:21:24,662 --> 00:21:25,851
+Le colonel Tigh.
+
+305
+00:21:27,075 --> 00:21:31,047
+Le colonel Tigh a tué des douzaines de
+gens dans des attaques-suicides. Gracié.
+
+306
+00:21:31,591 --> 00:21:35,553
+Le Lt Agathon et le Chef Tyrol ont tué
+un officier, sur le Pegasus.
+
+307
+00:21:35,583 --> 00:21:36,602
+Graciés.
+
+308
+00:21:37,241 --> 00:21:42,162
+L'Amiral a fomenté un coup d'état
+militaire contre la présidente.
+
+309
+00:21:42,972 --> 00:21:44,408
+Gracié.
+
+310
+00:21:45,800 --> 00:21:46,809
+Et moi ?
+
+311
+00:21:48,922 --> 00:21:51,383
+Eh bien, par où commencer ?
+
+312
+00:21:55,595 --> 00:21:58,053
+J'ai abattu un vaisseau
+de transport de civils.
+
+313
+00:21:58,513 --> 00:22:02,016
+L'Olympic Carrier.
+Plus de mille passagers à bord. Gracié.
+
+314
+00:22:02,034 --> 00:22:04,578
+J'ai pointé mon arme
+sur un officier supérieur,
+
+315
+00:22:04,605 --> 00:22:06,885
+commettant ainsi
+un acte de mutinerie. Gracié.
+
+316
+00:22:06,927 --> 00:22:10,176
+Et le jour même où Baltar
+s'est rendu aux Cylons,
+
+317
+00:22:10,248 --> 00:22:12,328
+moi, le commandant du Pegasus, j'ai fui.
+
+318
+00:22:12,364 --> 00:22:16,221
+J'ai laissé tout le monde sur cette
+planète, sans défense, pour des mois !
+
+319
+00:22:16,765 --> 00:22:20,374
+J'ai même essayé de convaincre
+l'Amiral de ne jamais revenir.
+
+320
+00:22:20,516 --> 00:22:22,916
+De tous vous abandonner pour de bon.
+
+321
+00:22:23,145 --> 00:22:26,690
+S'il m'avait écouté, personne
+ne se serait échappé de cette planète.
+
+322
+00:22:27,756 --> 00:22:29,105
+Je suis le lâche.
+
+323
+00:22:29,452 --> 00:22:30,855
+Je suis le traître.
+
+324
+00:22:31,841 --> 00:22:32,854
+J'ai été gracié.
+
+325
+00:22:35,581 --> 00:22:37,910
+Je trouve qu'on pardonne
+bien des erreurs.
+
+326
+00:22:39,302 --> 00:22:41,966
+Nous faisons nos propres lois désormais,
+notre propre justice.
+
+327
+00:22:42,007 --> 00:22:44,808
+Nous sommes inventifs,
+dès qu'il faut tirer les gens d'affaire.
+
+328
+00:22:44,855 --> 00:22:47,002
+Pour tout, du vol au meurtre.
+
+329
+00:22:47,063 --> 00:22:48,573
+Et il le faut,
+
+330
+00:22:48,763 --> 00:22:49,763
+parce que...
+
+331
+00:22:50,758 --> 00:22:53,297
+Parce que
+nous ne sommes plus une civilisation.
+
+332
+00:22:53,557 --> 00:22:55,117
+Nous sommes une meute.
+
+333
+00:22:55,613 --> 00:22:59,028
+Nous sommes en fuite et nous devons
+nous battre pour survivre.
+
+334
+00:22:59,384 --> 00:23:02,023
+Nous devons briser les règles,
+faire des entorses à la loi.
+
+335
+00:23:02,049 --> 00:23:04,069
+Nous devons improviser.
+
+336
+00:23:05,854 --> 00:23:07,873
+Mais pas cette fois, non.
+
+337
+00:23:08,749 --> 00:23:09,979
+Pas cette fois.
+
+338
+00:23:10,834 --> 00:23:12,499
+Pas pour Gaius Baltar.
+
+339
+00:23:13,543 --> 00:23:16,574
+Non, vous devez mourir.
+
+340
+00:23:16,912 --> 00:23:19,122
+Vous devez mourir, parce que...
+
+341
+00:23:19,332 --> 00:23:21,737
+parce qu'on ne vous aime pas beaucoup.
+
+342
+00:23:21,878 --> 00:23:24,728
+Parce que vous êtes arrogant.
+Parce que vous êtes faible.
+
+343
+00:23:24,914 --> 00:23:26,627
+Parce que vous êtes lâche.
+
+344
+00:23:27,929 --> 00:23:30,290
+Le peuple veut vous éjecter par un sas
+
+345
+00:23:30,373 --> 00:23:33,689
+parce que vous n'êtes pas mort
+en vous opposant aux Cylons.
+
+346
+00:23:33,841 --> 00:23:35,432
+C'est ça, la justice, désormais !
+
+347
+00:23:36,150 --> 00:23:38,308
+Vous auriez dû être tué sur New Caprica.
+
+348
+00:23:38,400 --> 00:23:41,471
+Puisque vous avez eu l'audace de vivre,
+nous allons vous exécuter.
+
+349
+00:23:41,553 --> 00:23:42,990
+C'est ça, la justice !
+
+350
+00:23:44,877 --> 00:23:45,877
+Non, non.
+
+351
+00:23:47,679 --> 00:23:49,043
+Silence !
+
+352
+00:23:57,286 --> 00:23:58,439
+Ce procès...
+
+353
+00:23:59,907 --> 00:24:02,967
+Ce procès est basé sur les sentiments,
+sur la colère...
+
+354
+00:24:04,374 --> 00:24:06,161
+l'amertume, la vengeance.
+
+355
+00:24:06,421 --> 00:24:08,826
+Mais par-dessus tout, sur la honte.
+
+356
+00:24:10,193 --> 00:24:11,670
+Sur la honte éprouvée
+
+357
+00:24:12,277 --> 00:24:15,778
+pour ce que nous avons fait aux nôtres,
+sur cette planète.
+
+358
+00:24:17,019 --> 00:24:18,617
+Et sur la culpabilité éprouvée
+
+359
+00:24:19,525 --> 00:24:21,045
+par ceux d'entre nous
+
+360
+00:24:21,295 --> 00:24:22,553
+qui ont fui.
+
+361
+00:24:24,361 --> 00:24:25,658
+Qui ont fui...
+
+362
+00:24:29,038 --> 00:24:33,492
+On essaye de décharger tous ces remords
+et toute cette honte sur un seul homme.
+
+363
+00:24:33,818 --> 00:24:38,082
+Pour ensuite l'éjecter par un sas
+et nous débarrasser de tout ça.
+
+364
+00:24:39,494 --> 00:24:41,747
+Pour qu'on arrive à se regarder en face.
+
+365
+00:24:42,950 --> 00:24:44,522
+Mais ça ne marchera pas.
+
+366
+00:24:46,388 --> 00:24:49,411
+Ça ne marchera pas.
+Ce n'est pas ça, la justice.
+
+367
+00:24:50,793 --> 00:24:51,794
+Pas pour moi.
+
+368
+00:24:54,686 --> 00:24:55,976
+Pas pour moi.
+
+369
+00:25:02,584 --> 00:25:03,935
+Pas d'autre question.
+
+370
+00:25:05,468 --> 00:25:09,198
+Je réitère mon objection sur
+le témoignage de l'avocat de la défense.
+
+371
+00:25:09,402 --> 00:25:11,330
+- Objection notée.
+- Merci.
+
+372
+00:25:11,796 --> 00:25:13,798
+Voulez-vous interroger le témoin ?
+
+373
+00:25:14,887 --> 00:25:17,642
+Je n'ai pas de question
+pour l'avocat de la défense.
+
+374
+00:25:18,172 --> 00:25:19,935
+Le témoin peut se retirer.
+
+375
+00:25:21,175 --> 00:25:23,676
+Voulez-vous appeler d'autres témoins ?
+
+376
+00:25:26,740 --> 00:25:27,989
+Votre Honneur,
+
+377
+00:25:28,124 --> 00:25:30,785
+je ne souhaite pas
+m'étendre sur ce sujet.
+
+378
+00:25:31,856 --> 00:25:33,412
+La défense a terminé.
+
+379
+00:25:34,825 --> 00:25:35,844
+Très bien.
+
+380
+00:25:36,239 --> 00:25:38,706
+Le jury se retire pour délibérer.
+
+381
+00:25:41,696 --> 00:25:44,103
+Quel grand moment pour la jurisprudence.
+
+382
+00:25:55,777 --> 00:25:57,036
+Bon travail.
+
+383
+00:26:04,672 --> 00:26:05,764
+La Cour !
+
+384
+00:26:26,045 --> 00:26:29,329
+Avant de lire le verdict,
+j'aimerais préciser une chose.
+
+385
+00:26:29,966 --> 00:26:31,932
+Comme tout ce qui est humain,
+
+386
+00:26:32,172 --> 00:26:34,376
+la justice est imparfaite.
+
+387
+00:26:35,786 --> 00:26:37,265
+Elle a ses défauts.
+
+388
+00:26:38,036 --> 00:26:42,713
+Mais ce sont ces imperfections
+qui nous distinguent des machines.
+
+389
+00:26:44,116 --> 00:26:47,135
+Et qui font peut-être de nous,
+une espèce digne d'être sauvée.
+
+390
+00:26:53,135 --> 00:26:54,884
+Accusé, levez-vous.
+
+391
+00:27:06,683 --> 00:27:07,984
+Gaius Baltar,
+
+392
+00:27:09,150 --> 00:27:12,283
+après avoir consciencieusement
+examiné les preuves, ce tribunal,
+
+393
+00:27:12,547 --> 00:27:14,654
+avec un vote de trois contre deux...
+
+394
+00:27:17,011 --> 00:27:18,665
+vous déclare non coupable.
+
+395
+00:27:33,086 --> 00:27:34,919
+- Vous avez gagné.
+- Joli travail.
+
+396
+00:27:38,697 --> 00:27:39,744
+Allons-y.
+
+397
+00:27:39,911 --> 00:27:41,976
+J'ai toujours su que je serai acquitté,
+
+398
+00:27:42,058 --> 00:27:44,632
+mais ce verdict
+ne doit pas faire oublier
+
+399
+00:27:44,714 --> 00:27:46,651
+que ce procès fut une mascarade !
+
+400
+00:27:46,772 --> 00:27:47,803
+Assassin !
+
+401
+00:27:48,933 --> 00:27:51,011
+Amiral, vous devez le faire sortir !
+
+402
+00:28:06,305 --> 00:28:08,805
+Attrapez-le. Faites-le sortir d'ici !
+Sortez-le !
+
+403
+00:28:14,010 --> 00:28:17,721
+Dès le début, j'ai su
+que si on arrivait à démontrer
+
+404
+00:28:18,134 --> 00:28:20,438
+la totale... Quel est ce mot ?
+
+405
+00:28:20,948 --> 00:28:23,846
+Hypocrisie. "Hypocrisie"
+est le mot que je cherchais.
+
+406
+00:28:23,970 --> 00:28:26,352
+... l'hypocrisie de l'accusation, alors
+
+407
+00:28:26,461 --> 00:28:29,953
+les juges n'auraient d'autre choix
+que de m'acquitter.
+
+408
+00:28:30,083 --> 00:28:33,780
+Votre confiance débordante
+nous a bien aidés durant la procédure.
+
+409
+00:28:33,862 --> 00:28:35,853
+Je tenais à vous remercier.
+
+410
+00:28:35,957 --> 00:28:36,997
+Sincèrement.
+
+411
+00:28:37,279 --> 00:28:41,245
+Du fond du cœur, je vous suis infiniment
+reconnaissant de ce que vous avez fait.
+
+412
+00:28:42,336 --> 00:28:43,702
+Personnellement,
+
+413
+00:28:43,830 --> 00:28:47,082
+ça ne m'aurait pas dérangé de voir
+l'Amiral se tortiller plus longtemps.
+
+414
+00:28:47,178 --> 00:28:48,588
+Écoutez-moi bien.
+
+415
+00:28:53,305 --> 00:28:55,176
+N'en faites pas trop, Docteur.
+
+416
+00:28:57,699 --> 00:28:58,770
+Compris.
+
+417
+00:29:00,205 --> 00:29:01,245
+Romo,
+
+418
+00:29:01,954 --> 00:29:04,064
+il faudrait qu'on parle.
+
+419
+00:29:04,190 --> 00:29:07,376
+Je pense faire une tournée
+de promotion du livre, dans la flotte.
+
+420
+00:29:07,476 --> 00:29:09,036
+Il y a les droits d'auteur.
+
+421
+00:29:09,144 --> 00:29:12,014
+Et aussi ma sécurité,
+où je vais vivre, ce que je vais faire.
+
+422
+00:29:12,117 --> 00:29:15,415
+Vu les liens très forts
+que nous avons tissés durant le procès,
+
+423
+00:29:15,516 --> 00:29:17,873
+je me disais : qui mieux que vous...
+
+424
+00:29:18,354 --> 00:29:22,148
+En fait, maintenant que le cadre légal
+de la flotte est en place,
+
+425
+00:29:22,302 --> 00:29:26,082
+mes talents, pas si négligeables,
+sont attendus ailleurs.
+
+426
+00:29:27,080 --> 00:29:30,098
+J'ai bien peur
+que ça soit la fin de notre voyage.
+
+427
+00:29:30,799 --> 00:29:32,587
+Attendez, que...
+
+428
+00:29:34,110 --> 00:29:36,676
+Et moi ?
+Attendez une minute, s'il vous plait.
+
+429
+00:29:37,688 --> 00:29:39,545
+Réfléchissez une seconde.
+
+430
+00:29:42,474 --> 00:29:45,469
+Où vais-je vivre ? Que vais-je faire ?
+Comment vais-je survivre ?
+
+431
+00:29:48,474 --> 00:29:52,665
+Bien que je n'aime pas utiliser
+de métaphores félines, Docteur...
+
+432
+00:29:54,818 --> 00:29:57,337
+Je pense que
+vous retomberez sur vos pattes.
+
+433
+00:29:59,588 --> 00:30:01,636
+Fermez la porte derrière vous.
+
+434
+00:30:10,027 --> 00:30:11,544
+Romo, une question.
+
+435
+00:30:12,784 --> 00:30:15,000
+Quand vous m'avez appelé à la barre,
+
+436
+00:30:15,835 --> 00:30:18,195
+vous saviez ce qui allait se passer ?
+
+437
+00:30:22,660 --> 00:30:25,555
+Je savais que vous étiez
+un homme honnête, M. Adama.
+
+438
+00:30:25,726 --> 00:30:27,791
+Contrairement à votre grand-père.
+
+439
+00:31:03,003 --> 00:31:04,825
+Gaius Baltar est innocent.
+
+440
+00:31:06,723 --> 00:31:09,304
+Le dire me donne la chair de poule.
+
+441
+00:31:12,851 --> 00:31:15,584
+Non coupable ne veut pas dire innocent.
+
+442
+00:31:18,424 --> 00:31:21,297
+Ça a dû être
+particulièrement difficile pour vous.
+
+443
+00:31:21,470 --> 00:31:23,058
+Vous ne pouviez pas...
+
+444
+00:31:23,266 --> 00:31:25,647
+convaincre les deux autres ?
+
+445
+00:31:31,308 --> 00:31:33,573
+Vous avez voté l'acquittement,
+n'est-ce pas ?
+
+446
+00:31:36,259 --> 00:31:38,016
+Je suis obligé d'admettre
+
+447
+00:31:38,593 --> 00:31:40,797
+que la défense
+a su présenter ses arguments.
+
+448
+00:31:41,041 --> 00:31:42,487
+Pas l'accusation.
+
+449
+00:31:46,987 --> 00:31:50,527
+Gaius Baltar est un traître.
+Nous le savons tous les deux.
+
+450
+00:31:51,975 --> 00:31:54,996
+Indépendamment de l'issue de ce procès.
+
+451
+00:31:59,732 --> 00:32:02,257
+Rien ne nous oblige à oublier.
+
+452
+00:32:02,607 --> 00:32:03,931
+Ni à pardonner.
+
+453
+00:32:08,685 --> 00:32:10,705
+Mais nous devons penser à l'avenir.
+
+454
+00:32:15,274 --> 00:32:16,283
+M. Gaeta.
+
+455
+00:32:17,014 --> 00:32:18,060
+Oui, Monsieur.
+
+456
+00:32:18,749 --> 00:32:20,429
+Préparez le saut.
+
+457
+00:32:20,831 --> 00:32:23,274
+Nous allons à la Nébuleuse Ionienne.
+
+458
+00:32:23,773 --> 00:32:24,792
+Oui, Monsieur.
+
+459
+00:32:38,693 --> 00:32:39,800
+Pardon.
+
+460
+00:32:41,708 --> 00:32:43,872
+Les coordonnées du saut sont transmises,
+Monsieur.
+
+461
+00:32:44,019 --> 00:32:46,905
+Tous les vaisseaux prêts à sauter
+en formation Delta.
+
+462
+00:32:46,998 --> 00:32:49,241
+- Commencez le saut.
+- À vos ordres.
+
+463
+00:32:49,434 --> 00:32:53,560
+Saut dans trois, deux, un...
+
+464
+00:32:53,945 --> 00:32:54,959
+Saut.
+
+465
+00:33:02,677 --> 00:33:04,060
+Saut terminé.
+
+466
+00:33:05,567 --> 00:33:07,428
+Tous les vaisseaux sont là, Monsieur.
+
+467
+00:33:07,583 --> 00:33:09,340
+Parfait, M. Gaeta.
+
+468
+00:33:10,023 --> 00:33:11,820
+Effectuez un scan dradis.
+
+469
+00:33:12,372 --> 00:33:14,281
+Voyons ce qu'il y a dehors.
+
+470
+00:33:32,919 --> 00:33:33,921
+Rapport de situation !
+
+471
+00:33:33,963 --> 00:33:37,304
+Fortes variations de puissance
+sur les senseurs. Je vérifie la flotte.
+
+472
+00:33:39,232 --> 00:33:41,010
+Gardes, bougez-vous !
+
+473
+00:33:54,801 --> 00:33:57,614
+Les bleus avec moi !
+
+474
+00:33:57,753 --> 00:33:59,916
+Trouvez des torches et allumez-les.
+
+475
+00:34:00,107 --> 00:34:01,810
+Et l'alimentation de secours ?
+
+476
+00:34:01,893 --> 00:34:04,804
+Elle est hors-service,
+on est sur batteries uniquement.
+
+477
+00:34:04,888 --> 00:34:07,002
+Parez au rallumage des moteurs.
+
+478
+00:34:09,806 --> 00:34:12,637
+Le CD6 doit se rassembler en bas,
+immédiatement.
+
+479
+00:34:33,099 --> 00:34:34,807
+Gaius. Ça va aller. Suivez-moi.
+
+480
+00:34:36,007 --> 00:34:38,656
+- Où m'emmenez-vous ?
+- Vers votre nouvelle vie.
+
+481
+00:34:39,537 --> 00:34:40,792
+Venez.
+
+482
+00:35:36,123 --> 00:35:40,274
+Allez, on rétablit le jus. Activez-vous,
+vous savez ce que vous avez à faire.
+
+483
+00:36:10,046 --> 00:36:12,300
+Il doit y avoir un moyen
+de sortir d'ici.
+
+484
+00:36:19,233 --> 00:36:21,209
+... dit le bouffon au voleur,
+
+485
+00:36:30,067 --> 00:36:32,184
+Il règne une trop grande confusion.
+
+486
+00:36:49,802 --> 00:36:51,361
+Je ne ressens aucun soulagement.
+
+487
+00:37:32,817 --> 00:37:33,836
+Chef.
+
+488
+00:37:39,005 --> 00:37:40,678
+C'est pas vrai.
+
+489
+00:37:44,591 --> 00:37:46,881
+S'il te plaît,
+dis-moi que c'est pas vrai.
+
+490
+00:37:54,476 --> 00:37:55,775
+Nous y voilà.
+
+491
+00:37:58,293 --> 00:37:59,894
+Après tout ce temps,
+
+492
+00:38:01,110 --> 00:38:03,262
+un verrou saute,
+
+493
+00:38:03,503 --> 00:38:04,638
+comme ça.
+
+494
+00:38:12,146 --> 00:38:13,477
+Pas possible.
+
+495
+00:38:15,079 --> 00:38:16,755
+J'y crois pas.
+
+496
+00:38:16,972 --> 00:38:18,974
+On me fera pas avaler ça. C'est...
+
+497
+00:38:19,173 --> 00:38:21,589
+C'est une blague. Allons ! On est pas...
+
+498
+00:38:29,746 --> 00:38:32,336
+Qu'est-ce que c'est ?
+Cette chanson, que je....
+
+499
+00:38:55,056 --> 00:38:57,667
+OK, ça suffit, bon sang !
+
+500
+00:39:04,417 --> 00:39:06,731
+Verrouillez ces foutues portes.
+
+501
+00:39:20,881 --> 00:39:22,736
+40 ans de service.
+
+502
+00:39:23,407 --> 00:39:24,827
+40 ans...
+
+503
+00:39:26,523 --> 00:39:27,925
+Deux guerres...
+
+504
+00:39:29,231 --> 00:39:30,468
+Le CIC.
+
+505
+00:39:31,697 --> 00:39:34,536
+L'emprisonnement sur New Caprica.
+
+506
+00:39:35,732 --> 00:39:36,824
+Ellen.
+
+507
+00:39:39,184 --> 00:39:40,577
+Par les Dieux.
+
+508
+00:39:43,157 --> 00:39:44,852
+Pourquoi Ellen ?
+
+509
+00:39:45,672 --> 00:39:46,938
+Non, non, non.
+
+510
+00:39:48,184 --> 00:39:49,679
+Pas après tout ça.
+
+511
+00:39:50,986 --> 00:39:52,989
+Pas après la résistance,
+
+512
+00:39:53,416 --> 00:39:54,996
+et l'occupation,
+
+513
+00:39:56,672 --> 00:40:00,642
+et voir mes amis mourir un par un
+pour en arriver à ça, putain ?
+
+514
+00:40:00,787 --> 00:40:02,990
+- Sam.
+- T'approche pas.
+
+515
+00:40:03,097 --> 00:40:05,631
+Vous tous, restez loin de moi.
+
+516
+00:40:05,714 --> 00:40:06,744
+Sam...
+
+517
+00:40:07,846 --> 00:40:09,215
+C'est vrai.
+
+518
+00:40:11,724 --> 00:40:13,453
+On est des Cylons.
+
+519
+00:40:15,918 --> 00:40:17,867
+Et on l'a toujours été.
+
+520
+00:40:27,415 --> 00:40:30,806
+- Amiral, que se passe-t-il ?
+- On dirait des surtensions.
+
+521
+00:40:30,949 --> 00:40:33,004
+Je veux un rapport d'avaries,
+immédiatement.
+
+522
+00:40:33,146 --> 00:40:35,135
+La coupure a touché
+toute la flotte, Amiral.
+
+523
+00:40:39,562 --> 00:40:42,311
+Et c'est revenu partout, simultanément.
+
+524
+00:40:42,490 --> 00:40:45,360
+- Amiral !
+- Contact dradis !
+
+525
+00:40:45,562 --> 00:40:47,871
+Une flotte cylon,
+sur trajectoire d'interception !
+
+526
+00:40:47,951 --> 00:40:50,554
+M. Gaeta, aux postes de combat,
+immédiatement. XO,
+
+527
+00:40:50,687 --> 00:40:52,927
+ordonnez à toute la flotte,
+un saut d'urgence.
+
+528
+00:40:53,010 --> 00:40:56,302
+Monsieur, tous les vaisseaux
+se sont arrêtés pendant la coupure.
+
+529
+00:40:56,371 --> 00:40:58,867
+Il faudra au moins 20 minutes
+pour faire chauffer les FTL.
+
+530
+00:40:58,974 --> 00:41:00,722
+On n'a pas 20 minutes.
+
+531
+00:41:01,565 --> 00:41:04,723
+<i>Postes de combat.
+Condition 1 sur tout le vaisseau.</i>
+
+532
+00:41:04,797 --> 00:41:07,834
+<i>Ce n'est pas un exercice.
+Tous les pilotes regagnent leur Viper.</i>
+
+533
+00:41:07,897 --> 00:41:11,172
+<i>Flotte cylon en approche.
+Je répète : postes de combat.</i>
+
+534
+00:41:11,235 --> 00:41:14,532
+<i>Condition 1 sur tout le vaisseau.
+Ce n'est pas un exercice.</i>
+
+535
+00:41:14,845 --> 00:41:15,893
+Par les Dieux.
+
+536
+00:41:16,340 --> 00:41:17,995
+Qu'est-ce qu'on va faire ?
+
+537
+00:41:19,610 --> 00:41:22,841
+Le vaisseau est attaqué.
+On fait notre boulot.
+
+538
+00:41:23,464 --> 00:41:25,306
+À vos postes !
+
+539
+00:41:26,254 --> 00:41:27,742
+À nos postes ?
+
+540
+00:41:29,013 --> 00:41:32,465
+Mon nom est Saul Tigh.
+Je suis officier de la flotte coloniale.
+
+541
+00:41:33,808 --> 00:41:35,547
+Quoi que je sois d'autre
+
+542
+00:41:36,411 --> 00:41:39,525
+et quoi que ça signifie,
+c'est cet homme que je veux être.
+
+543
+00:41:41,070 --> 00:41:42,803
+Si je meurs aujourd'hui,
+
+544
+00:41:43,432 --> 00:41:45,106
+c'est cet homme que je serai.
+
+545
+00:42:05,555 --> 00:42:07,967
+Je peux pas faire mon boulot
+sans mon Raptor.
+
+546
+00:42:08,125 --> 00:42:10,783
+Eh bien débrouille-toi...
+Où t'étais, bon sang ?!
+
+547
+00:42:10,888 --> 00:42:13,139
+Plus tard.
+Mettez-moi cet oiseau dans son tube !
+
+548
+00:42:13,243 --> 00:42:15,052
+Virez-moi cette échelle, allez !
+
+549
+00:42:15,140 --> 00:42:18,145
+Activez-vous, on est attaqués !
+Allez ! Allez !
+
+550
+00:42:42,339 --> 00:42:45,342
+- Armez et chargez les têtes nucléaires.
+- Oui, Monsieur.
+
+551
+00:42:55,113 --> 00:42:56,995
+Content de vous revoir, Colonel.
+
+552
+00:42:57,169 --> 00:43:00,134
+Content d'être ici, Amiral.
+Vous pouvez compter sur moi.
+
+553
+00:43:01,133 --> 00:43:02,696
+Je n'en ai jamais douté.
+
+554
+00:43:02,821 --> 00:43:05,275
+Je suis là, si vous avez besoin de moi,
+Mme la Présidente.
+
+555
+00:43:14,399 --> 00:43:17,981
+<i>Il doit y avoir un moyen de sortir d'ici</i>
+
+556
+00:43:18,324 --> 00:43:21,078
+<i>dit le bouffon au voleur</i>
+
+557
+00:43:22,400 --> 00:43:25,557
+<i>Il règne une trop grande confusion</i>
+
+558
+00:43:25,976 --> 00:43:29,305
+- Les Vipers d'alerte sont sortis.
+<i>- Je ne ressens aucun soulagement</i>
+
+559
+00:43:29,638 --> 00:43:33,377
+- Qui est dans le Viper 3 ?
+<i>- Les hommes d'affaires boivent mon vin</i>
+
+560
+00:43:33,856 --> 00:43:36,206
+<i>Les laboureurs creusent ma terre</i>
+
+561
+00:43:37,791 --> 00:43:40,593
+<i>Personne à l'horizon</i>
+
+562
+00:43:40,831 --> 00:43:44,024
+<i>ne sait ce que tout cela vaut</i>
+
+563
+00:43:48,673 --> 00:43:50,872
+Galactica, ici Apollo.
+Je suis dans le Viper 3.
+
+564
+00:43:51,163 --> 00:43:54,383
+J'ai un bandit à 10 heures.
+Je vais vérifier.
+
+565
+00:44:00,867 --> 00:44:04,244
+<i>Aucune raison de s'énerver</i>
+
+566
+00:44:04,599 --> 00:44:07,189
+<i>répondit gentiment le voleur</i>
+
+567
+00:44:08,899 --> 00:44:11,592
+- Où il est passé ?
+<i>- Beaucoup ici parmi nous</i>
+
+568
+00:44:11,727 --> 00:44:15,051
+- Où t'es passé bordel ?
+<i>- pensent que la vie n'est qu'une farce</i>
+
+569
+00:44:16,360 --> 00:44:19,616
+<i>Mais, toi et moi,
+nous sommes passés par là</i>
+
+570
+00:44:20,365 --> 00:44:23,048
+<i>et ce n'est pas notre destin</i>
+
+571
+00:44:24,567 --> 00:44:27,295
+- C'est quoi ce bordel ?
+<i>- Ne parlons plus à tort maintenant</i>
+
+572
+00:44:28,188 --> 00:44:30,738
+<i>Il commence à se faire tard</i>
+
+573
+00:44:56,707 --> 00:44:57,726
+Salut, Lee.
+
+574
+00:44:58,888 --> 00:45:02,119
+- Kara ?
+<i>- Flippe pas. C'est vraiment moi.</i>
+
+575
+00:45:05,482 --> 00:45:07,044
+Ça va aller.
+
+576
+00:45:09,913 --> 00:45:11,462
+J'ai vu la Terre.
+
+577
+00:45:13,702 --> 00:45:15,313
+Je sais où elle est.
+
+578
+00:45:15,745 --> 00:45:17,699
+Et je vais nous y conduire.
+
+579
+00:45:20,716 --> 00:45:24,373
+<i>Tout au long de la tour de guet</i>
+
+580
+00:45:28,595 --> 00:45:32,133
+<i>Tout au long de la tour de guet</i>
+
+581
+00:45:41,037 --> 00:45:44,352
+- =( Team Lords of Kobol )= -
+Rendez-vous pour la 4e saison !!!
+

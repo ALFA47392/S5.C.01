@@ -1,0 +1,2241 @@
+1
+00:00:05,463 --> 00:00:06,210
+OK, I'm in.
+
+2
+00:00:06,297 --> 00:00:09,215
+Agent Bristow works undercover
+with her father Jack Bristow,
+
+3
+00:00:09,300 --> 00:00:11,008
+also a double agent with CIA.
+
+4
+00:00:11,094 --> 00:00:12,422
+Get down.
+
+5
+00:00:12,512 --> 00:00:14,801
+I guess we'll just have
+to learn to trust each other.
+
+6
+00:00:14,889 --> 00:00:17,178
+Bristow's CIA contact: Michael Vaughn.
+
+7
+00:00:17,267 --> 00:00:19,141
+My guardian angel.
+
+8
+00:00:19,227 --> 00:00:23,806
+Her current assignment:
+to infiltrate and destroy SD-6,
+
+9
+00:00:23,898 --> 00:00:27,314
+a secret organisation
+dealing in espionage, extortion,
+
+10
+00:00:27,402 --> 00:00:29,608
+weapon sales, posing as the CIA.
+
+11
+00:00:29,696 --> 00:00:32,697
+SD-6 has made over $400 million
+in arms sales alone.
+
+12
+00:00:34,576 --> 00:00:38,739
+The sanctity of this agency requires
+the sacrifice of some personal freedoms.
+
+13
+00:00:38,830 --> 00:00:43,409
+This is not about cutting off an arm of the
+monster. This is about killing the monster.
+
+14
+00:00:43,501 --> 00:00:46,455
+Bristow's mother:
+formerly Russian intelligence,
+
+15
+00:00:46,546 --> 00:00:49,298
+recently turned herself in to the CIA.
+
+16
+00:00:49,382 --> 00:00:50,960
+Mom?
+
+17
+00:00:51,051 --> 00:00:56,341
+Intel indicates she may still be
+an enemy of the United States.
+
+18
+00:00:56,431 --> 00:01:01,223
+The true loyalty of Agent Bristow's
+mother remains unknown.
+
+19
+00:01:01,311 --> 00:01:02,390
+Previously on <i>Alias:</i>
+
+20
+00:01:02,479 --> 00:01:06,428
+- I'm Mr Sark, director of operations.
+- Who is your employer?
+
+21
+00:01:06,524 --> 00:01:11,732
+I'm afraid my employer's identity
+will have to remain confidential for now.
+
+22
+00:01:11,821 --> 00:01:16,448
+Tell your employer if he ever
+wastes my time like this again,
+
+23
+00:01:16,534 --> 00:01:20,235
+our next meeting will not be so cordial.
+
+24
+00:01:24,626 --> 00:01:27,164
+Under Proposition 36,
+you are to receive probation,
+
+25
+00:01:27,253 --> 00:01:30,836
+and are hereby ordered to complete
+a certified drug-treatment programme.
+
+26
+00:01:30,924 --> 00:01:34,838
+Arvin Sloane is a man
+of integrity and courage.
+
+27
+00:01:34,928 --> 00:01:39,257
+As the head of SD-6,
+he brilliantly executed Alliance policy.
+
+28
+00:01:39,349 --> 00:01:42,848
+Now, as the newest
+full partner of the Alliance,
+
+29
+00:01:42,936 --> 00:01:48,226
+I feel confident that he will play
+a major part in shaping that policy.
+
+30
+00:01:48,316 --> 00:01:50,641
+Welcome to the Alliance.
+
+31
+00:01:53,488 --> 00:01:55,362
+- You've agreed to see her?
+- Yes.
+
+32
+00:01:55,448 --> 00:01:58,449
+- She is the enemy.
+- And so is Sloane.
+
+33
+00:01:58,535 --> 00:02:01,785
+And if the devil herself wants to help me
+bring him down, fine by me.
+
+34
+00:02:01,871 --> 00:02:06,747
+You're smarter than this. Your mother
+wants you to think she's your ally.
+
+35
+00:02:06,835 --> 00:02:11,627
+The minute you start depending on her,
+she will gut you.
+
+36
+00:02:27,564 --> 00:02:29,521
+Freelancer requests covert entry.
+
+37
+00:02:29,607 --> 00:02:33,356
+That's a copy. Will notify Agent Vaughn.
+
+38
+00:02:36,656 --> 00:02:37,735
+No one's following.
+
+39
+00:02:37,824 --> 00:02:41,275
+Ident confirmed.
+Freelancer is approaching quadrant four.
+
+40
+00:02:41,369 --> 00:02:45,319
+SIGINT reporting clear,
+no suspect signals.
+
+41
+00:02:53,381 --> 00:02:56,216
+Agent Bristow, thank you for coming in.
+
+42
+00:02:57,385 --> 00:03:00,339
+I know you weren't wild about
+talking with your mother last week, but
+
+43
+00:03:00,430 --> 00:03:04,178
+I hope we can agree that the information
+she gave us made it worth your discomfort.
+
+44
+00:03:04,267 --> 00:03:06,972
+I thought so, until an hour ago.
+
+45
+00:03:07,645 --> 00:03:11,228
+- How was that?
+- I just came from a meeting with Sloane.
+
+46
+00:03:11,316 --> 00:03:14,934
+The camera I took from Fordson's vault,
+the camera we tried to keep from SD-6,
+
+47
+00:03:15,028 --> 00:03:16,522
+was an early prototype.
+
+48
+00:03:16,613 --> 00:03:20,657
+The real camera is scheduled to be
+launched into orbit 72 hours from now.
+
+49
+00:03:20,742 --> 00:03:22,236
+By whom?
+
+50
+00:03:22,327 --> 00:03:26,740
+The Asiatic Space Agency,
+founded after the fall of the Iron Curtain.
+
+51
+00:03:26,831 --> 00:03:30,247
+The ASA consists mainly
+of displaced Russian scientists.
+
+52
+00:03:30,335 --> 00:03:34,167
+Their latest client is an old friend of ours.
+
+53
+00:03:36,966 --> 00:03:38,129
+Sark.
+
+54
+00:03:38,218 --> 00:03:40,376
+What's his interest in launching a satellite?
+
+55
+00:03:40,470 --> 00:03:42,012
+That's the question.
+
+56
+00:03:42,097 --> 00:03:44,504
+The satellite is equipped with
+a terahertz imaging camera.
+
+57
+00:03:44,599 --> 00:03:48,893
+This camera is capable of seeing through
+solid matter up to a depth of 100 metres.
+
+58
+00:03:48,978 --> 00:03:53,475
+It is imperative that we find out
+what Mr Sark is looking for.
+
+59
+00:03:53,566 --> 00:03:55,725
+The launch site's in Sri Lanka.
+
+60
+00:03:55,819 --> 00:03:58,357
+Sloane wants us to infiltrate it,
+posing as corporate buyers.
+
+61
+00:03:58,446 --> 00:04:00,273
+Our mission is to hack into the satellite
+
+62
+00:04:00,365 --> 00:04:03,200
+so SD-6 can tap into Sark's feed
+and see what he sees.
+
+63
+00:04:03,284 --> 00:04:06,488
+I'll get technical services on that.
+We'll want to hack into that feed, too.
+
+64
+00:04:06,579 --> 00:04:07,908
+A fine preliminary step, Agent Vaughn,
+
+65
+00:04:07,997 --> 00:04:13,502
+but I will want to know what we're
+looking for before the satellite is launched.
+
+66
+00:04:16,006 --> 00:04:17,963
+You want me to talk to her again.
+
+67
+00:04:18,049 --> 00:04:20,256
+Mr Sark has assumed control
+of your mother's operation...
+
+68
+00:04:20,343 --> 00:04:21,374
+Please stop referring to her as my mother.
+
+69
+00:04:21,469 --> 00:04:23,960
+Therefore, Ms Derevko must know
+what he's looking for.
+
+70
+00:04:24,055 --> 00:04:25,086
+She's made it clear
+she will only speak with you.
+
+71
+00:04:25,181 --> 00:04:27,139
+Look, I talked to her before
+because I had to.
+
+72
+00:04:27,225 --> 00:04:29,218
+I have no intention of
+making this into a habit.
+
+73
+00:04:29,310 --> 00:04:32,146
+I assume you have
+an opinion on this, Agent Vaughn?
+
+74
+00:04:33,565 --> 00:04:39,152
+- I don't have an easy answer to that.
+- I'll take a complicated one.
+
+75
+00:04:40,196 --> 00:04:42,604
+I can't pretend to hide my bias here.
+
+76
+00:04:42,699 --> 00:04:47,693
+Irina Derevko betrayed this country
+and killed my father in the process.
+
+77
+00:04:47,787 --> 00:04:50,574
+On the other hand,
+she is a certifiable Rambaldi expert,
+
+78
+00:04:50,665 --> 00:04:53,915
+and probably knows more about the
+inner workings of global organised crime
+
+79
+00:04:54,002 --> 00:04:56,754
+than any other person in US custody.
+
+80
+00:04:58,882 --> 00:05:03,876
+Having said that, I believe Agent Bristow
+and I were effectively countering SD-6
+
+81
+00:05:03,970 --> 00:05:10,388
+before Derevko turned herself in,
+and I stand behind whatever she decides.
+
+82
+00:05:13,938 --> 00:05:18,019
+I do understand that you're caught
+in the middle of all this, Agent Bristow.
+
+83
+00:05:18,109 --> 00:05:20,435
+I can only offer my word.
+The sooner we know what she knows,
+
+84
+00:05:20,528 --> 00:05:24,147
+the sooner you'll never
+have to speak with her again.
+
+85
+00:05:24,240 --> 00:05:28,902
+We weren't scheduled to meet until
+Wednesday. Is everything all right?
+
+86
+00:05:30,163 --> 00:05:34,457
+- I'm here to talk about Sydney.
+- Good. What's on your mind?
+
+87
+00:05:36,544 --> 00:05:40,163
+I want your help in devising a strategy
+
+88
+00:05:40,256 --> 00:05:43,957
+to persuade Sydney
+not to interact with her mother.
+
+89
+00:05:44,052 --> 00:05:44,668
+Why?
+
+90
+00:05:44,761 --> 00:05:49,174
+Because Irina Derevko is an
+opportunistic sociopath, who will use
+
+91
+00:05:49,265 --> 00:05:53,643
+whatever inroads she can make
+with my daughter to get what she wants.
+
+92
+00:05:53,728 --> 00:05:56,563
+But have you considered that
+the more you keep her from her mother,
+
+93
+00:05:56,648 --> 00:05:59,221
+the more you're going
+to spark her interest?
+
+94
+00:05:59,317 --> 00:06:01,191
+Of course I have,
+
+95
+00:06:01,277 --> 00:06:05,655
+which is why I'm hoping to devise
+a strategy with the necessary subtlety.
+
+96
+00:06:07,367 --> 00:06:13,737
+Well, I'm sorry, but I am not in the habit of
+helping a father manipulate his daughter,
+
+97
+00:06:13,832 --> 00:06:16,786
+no matter how good his intentions may be.
+
+98
+00:06:16,876 --> 00:06:18,952
+I see.
+
+99
+00:06:20,296 --> 00:06:24,793
+And is your opinion here based on
+what's best for Sydney or for the agency?
+
+100
+00:06:24,884 --> 00:06:29,546
+Because the fact is, if Sydney doesn't
+talk to Laura, the CIA learns nothing.
+
+101
+00:06:29,639 --> 00:06:35,891
+So you still think of her as Laura,
+even though that was her alias?
+
+102
+00:06:57,834 --> 00:06:59,791
+Autocircadian meditation.
+
+103
+00:07:01,254 --> 00:07:06,379
+All the benefits of sleep
+in a fraction of the time.
+
+104
+00:07:08,011 --> 00:07:09,885
+I can teach it to you, Sydney.
+
+105
+00:07:09,971 --> 00:07:15,096
+I told you, when we speak
+you are to address me as Agent Bristow.
+
+106
+00:07:17,062 --> 00:07:21,605
+Mr Sark was one of your top operatives.
+He's now assumed control of your assets.
+
+107
+00:07:21,691 --> 00:07:22,770
+He's launching a satellite
+
+108
+00:07:22,859 --> 00:07:24,899
+with ground-penetrating
+surveillance capabilities,
+
+109
+00:07:24,986 --> 00:07:29,565
+but I doubt this is news to you.
+What's he looking for?
+
+110
+00:07:36,081 --> 00:07:41,870
+Do you remember when you were six
+years old and I sent you to piano lessons?
+
+111
+00:07:43,213 --> 00:07:44,921
+Your teacher was Ms Adams.
+
+112
+00:07:46,675 --> 00:07:48,252
+We are not having this conversation.
+
+113
+00:07:48,343 --> 00:07:51,628
+You asked me a question.
+I'm giving you an answer.
+
+114
+00:07:51,721 --> 00:07:57,226
+Do you remember the first thing
+Ms Adams taught you about music?
+
+115
+00:08:01,731 --> 00:08:05,515
+She said "Music is like math."
+
+116
+00:08:05,610 --> 00:08:08,018
+"If you can count, you can play."
+
+117
+00:08:08,988 --> 00:08:12,322
+Every musical note has
+a corresponding frequency -
+
+118
+00:08:12,409 --> 00:08:15,575
+middle C, for example,
+vibrates at 261 hertz -
+
+119
+00:08:15,662 --> 00:08:19,362
+which means any piece of music
+can be expressed as a series of numbers.
+
+120
+00:08:19,457 --> 00:08:25,163
+Sark is looking for a music box designed
+by Rambaldi. The box plays a unique tune.
+
+121
+00:08:25,255 --> 00:08:27,497
+Encoded within the tune
+there's an equation.
+
+122
+00:08:27,590 --> 00:08:30,627
+- For what?
+- Zero point energy.
+
+123
+00:08:30,719 --> 00:08:37,053
+A fuel source. The military applications
+alone would be unlimited.
+
+124
+00:08:37,142 --> 00:08:38,719
+From a music box?
+
+125
+00:08:38,810 --> 00:08:42,345
+Of course, the music won't play
+without the proper combination.
+
+126
+00:08:42,439 --> 00:08:47,729
+Sark was working on deciphering it, but
+I don't know whether he was successful.
+
+127
+00:08:50,947 --> 00:08:53,652
+Fine. Thank you.
+
+128
+00:08:53,742 --> 00:08:55,651
+Speaking of Ms Adams.
+
+129
+00:08:58,163 --> 00:09:01,282
+Just before I left,
+I remember her encouraging you
+
+130
+00:09:01,374 --> 00:09:04,957
+to try out for your school's
+Thanksgiving play.
+
+131
+00:09:07,589 --> 00:09:10,127
+You don't have to tell me
+if you don't want to,
+
+132
+00:09:10,216 --> 00:09:15,637
+but in the 20 years since I last saw you,
+I've often wondered,
+
+133
+00:09:18,266 --> 00:09:20,093
+what part did you play?
+
+134
+00:09:25,148 --> 00:09:27,224
+I don't remember.
+
+135
+00:09:28,234 --> 00:09:31,485
+That was around the time
+I was told my mother had died.
+
+136
+00:09:31,571 --> 00:09:33,647
+Everything else is a blur.
+
+137
+00:10:15,323 --> 00:10:19,784
+I read Vaughn's debrief.
+I know you saw your mother. You OK?
+
+138
+00:10:20,453 --> 00:10:22,410
+Seeing her again,
+
+139
+00:10:23,331 --> 00:10:30,461
+I'm realising there are these gaps in
+my memory from around the time she left.
+
+140
+00:10:31,256 --> 00:10:36,048
+Dad, do you remember a Thanksgiving
+play I was in that year in school?
+
+141
+00:10:36,136 --> 00:10:39,920
+Because I sorta do. I mean,
+I have an impression of it, but...
+
+142
+00:10:40,015 --> 00:10:44,059
+I can't remember,
+was I a pilgrim, or an Indian?
+
+143
+00:10:47,397 --> 00:10:48,560
+What?
+
+144
+00:10:49,941 --> 00:10:52,017
+You were neither.
+
+145
+00:10:53,778 --> 00:10:55,687
+You were a turkey.
+
+146
+00:10:55,780 --> 00:11:00,193
+You were the only turkey
+that was spared to celebrate the harvest.
+
+147
+00:11:07,334 --> 00:11:12,494
+I know you think it's dangerous for me
+to see Mom, but she's a means to an end.
+
+148
+00:11:12,589 --> 00:11:14,416
+I don't take anything
+she says at face value.
+
+149
+00:11:14,507 --> 00:11:17,177
+She won't expect you to.
+
+150
+00:11:17,260 --> 00:11:19,336
+Sydney...
+
+151
+00:11:24,976 --> 00:11:27,728
+I trust your judgement.
+
+152
+00:11:29,981 --> 00:11:32,057
+You're doing fine.
+
+153
+00:11:35,153 --> 00:11:38,439
+OK, once you get through
+the launch site to the exhaust ducts,
+
+154
+00:11:38,531 --> 00:11:41,735
+just press this button right here
+
+155
+00:11:41,826 --> 00:11:44,448
+and voilà.
+
+156
+00:11:45,914 --> 00:11:48,405
+- It's empty.
+- Oh, yeah, sorry, I totally forgot to tell you.
+
+157
+00:11:48,500 --> 00:11:52,332
+The real deal, not done yet, but tomorrow,
+when you open up this briefcase,
+
+158
+00:11:52,420 --> 00:11:56,667
+you will be looking at
+a high-performance hydraulic luge.
+
+159
+00:11:56,758 --> 00:11:58,336
+How fast can I go?
+
+160
+00:11:58,426 --> 00:12:00,502
+About 150, which should get you through
+
+161
+00:12:00,595 --> 00:12:04,593
+the launch facility's two-mile ducts
+in about 12 seconds.
+
+162
+00:12:04,683 --> 00:12:07,008
+Oh, you wanna make sure that you
+get out of there as fast as you can
+
+163
+00:12:07,102 --> 00:12:09,806
+after you're done wiring
+the circuit board into the satellite
+
+164
+00:12:09,896 --> 00:12:16,349
+because if you're stuck in the ducts when
+the rocket launches, then, well, boom.
+
+165
+00:12:16,903 --> 00:12:18,694
+Then I'd miss you.
+
+166
+00:12:26,079 --> 00:12:28,652
+- You wanted to see me?
+- Come in.
+
+167
+00:12:32,127 --> 00:12:34,618
+I have something to give you.
+
+168
+00:12:35,422 --> 00:12:37,960
+That's Emily's seed box.
+
+169
+00:12:38,049 --> 00:12:41,584
+The lithography's original, circa 1910.
+
+170
+00:12:41,678 --> 00:12:46,921
+Her mother gave it to her.
+Emily would have wanted you to have it.
+
+171
+00:12:48,560 --> 00:12:51,181
+Thank you.
+
+172
+00:12:51,271 --> 00:12:54,556
+I can't think of Emily
+without thinking of her garden.
+
+173
+00:12:54,649 --> 00:12:56,725
+Well, neither can I.
+
+174
+00:13:02,782 --> 00:13:04,574
+I miss her, too.
+
+175
+00:13:04,659 --> 00:13:08,609
+This office is where I feel
+most at home these days.
+
+176
+00:13:08,705 --> 00:13:13,166
+At the house...
+I don't know, I seem to be paralysed.
+
+177
+00:13:13,251 --> 00:13:18,293
+If a stranger were to come
+to the house for the first time,
+
+178
+00:13:18,381 --> 00:13:21,584
+they would think that Emily still lived there.
+
+179
+00:13:21,676 --> 00:13:25,756
+Her clothes are in the closet,
+her makeup on the vanity.
+
+180
+00:13:25,847 --> 00:13:29,845
+The only thing that betrays
+this pretence of normalcy is her garden.
+
+181
+00:13:29,934 --> 00:13:33,101
+Where roses once grew, they're gone now.
+
+182
+00:13:33,188 --> 00:13:36,473
+Her garden seems to have died with her.
+
+183
+00:13:40,028 --> 00:13:42,519
+It's not your fault.
+
+184
+00:13:55,460 --> 00:13:58,295
+Good luck in Sri Lanka.
+
+185
+00:14:02,217 --> 00:14:05,835
+Attach this circuit board to the satellite
+instead of the one you got from SD-6.
+
+186
+00:14:05,929 --> 00:14:09,879
+Now, it's an exact duplicate.
+They'll still be able to intercept Sark's feed,
+
+187
+00:14:09,974 --> 00:14:12,596
+but we've modified it
+so we can access the signal, too,
+
+188
+00:14:12,686 --> 00:14:14,808
+see what everyone else is seeing.
+
+189
+00:14:14,896 --> 00:14:20,566
+One more thing. We'd like to bring
+Will Tippin in for a follow-up on his debrief.
+
+190
+00:14:20,652 --> 00:14:21,850
+Why?
+
+191
+00:14:21,945 --> 00:14:25,029
+Derevko told us that Sark has been
+working on cracking a combination
+
+192
+00:14:25,115 --> 00:14:27,321
+- that would activate the music box.
+- Yeah?
+
+193
+00:14:27,409 --> 00:14:30,160
+And we've been reviewing
+Tippin's statement, and he reported
+
+194
+00:14:30,245 --> 00:14:32,321
+falling in and out of consciousness
+on the flight to Taipei
+
+195
+00:14:32,414 --> 00:14:34,952
+and vaguely remembers
+seeing Sark working at a laptop.
+
+196
+00:14:35,041 --> 00:14:36,868
+You're thinking what?
+Induced regression?
+
+197
+00:14:36,960 --> 00:14:38,584
+We have someone
+coming in from Langley.
+
+198
+00:14:38,670 --> 00:14:40,247
+So he can relive
+everything he went through?
+
+199
+00:14:40,338 --> 00:14:44,003
+If there were another option,
+Sydney, believe me, I'd take it.
+
+200
+00:14:44,092 --> 00:14:46,963
+Listen, Will, the CIA
+wants to meet with you again.
+
+201
+00:14:47,053 --> 00:14:51,300
+- Why?
+- They can tell you better than I can, but...
+
+202
+00:14:52,726 --> 00:14:55,929
+- Here's your SOP.
+- SOP?
+
+203
+00:14:56,021 --> 00:14:58,262
+Standard Operating Procedure for a meet.
+
+204
+00:14:58,356 --> 00:15:01,523
+- You're meeting with my handler.
+- Vaughn.
+
+205
+00:15:01,609 --> 00:15:07,114
+He's smart, professional.
+Won't waste your time.
+
+206
+00:15:08,491 --> 00:15:12,987
+Look, I'm sorry.
+You deserve to move on from this.
+
+207
+00:15:14,164 --> 00:15:15,539
+Hey, guys.
+
+208
+00:15:15,623 --> 00:15:17,699
+Hey.
+
+209
+00:15:19,711 --> 00:15:21,371
+- What are you doing?
+- What?
+
+210
+00:15:21,463 --> 00:15:23,918
+Will just went to his first NA meeting
+and you're waving a beer in his face?
+
+211
+00:15:24,007 --> 00:15:26,462
+- You're right, you're right. I'm sorry.
+- It's OK.
+
+212
+00:15:26,551 --> 00:15:29,256
+Can you come down to the restaurant
+tomorrow? I could really use you.
+
+213
+00:15:29,346 --> 00:15:29,926
+Sure.
+
+214
+00:15:30,013 --> 00:15:31,887
+All the flatware came in and
+the dishwasher's not hooked up,
+
+215
+00:15:31,973 --> 00:15:35,010
+so we have to wash everything by hand
+before the opening. You're coming, right?
+
+216
+00:15:35,101 --> 00:15:36,845
+- Are you kidding?
+- What time do you need me?
+
+217
+00:15:36,936 --> 00:15:39,688
+- Two, two-thirty?
+- I gotta go. I'm gonna miss my flight.
+
+218
+00:15:39,773 --> 00:15:43,557
+- Fancy client or boring seminar?
+- Boring client, and he's in Sri Lanka.
+
+219
+00:15:43,651 --> 00:15:47,186
+So we get to fly 15 hours both directions
+for a one-hour meeting.
+
+220
+00:15:47,280 --> 00:15:51,444
+Hey, thanks for letting me stay
+till I can afford a cheaper place.
+
+221
+00:16:51,469 --> 00:16:54,921
+OK, Syd. Sark's confirmed inside.
+You're a go.
+
+222
+00:16:55,849 --> 00:16:57,758
+Remember, the sooner
+you get on the phone line,
+
+223
+00:16:57,851 --> 00:17:00,472
+the more time I have
+to hack into their system.
+
+224
+00:17:01,479 --> 00:17:06,604
+Joanna Kelly from Euro-Teledyne.
+I have an appointment with Mr Vashko.
+
+225
+00:17:06,693 --> 00:17:09,314
+Mr Sark, welcome to our control centre.
+
+226
+00:17:09,404 --> 00:17:11,977
+Will you be the only observer
+from your company today?
+
+227
+00:17:12,073 --> 00:17:15,276
+I'm afraid my associates are preparing
+to lobby OPEC for drilling rights.
+
+228
+00:17:15,368 --> 00:17:18,073
+We are about to begin
+the final system checks.
+
+229
+00:17:18,163 --> 00:17:19,194
+Excellent.
+
+230
+00:17:26,212 --> 00:17:30,590
+Ms Kelley,
+welcome to ASA's launch facility.
+
+231
+00:17:30,675 --> 00:17:33,462
+Thank you. I look forward to the tour.
+
+232
+00:17:33,553 --> 00:17:35,593
+Would you mind if I made a call
+before we start?
+
+233
+00:17:35,680 --> 00:17:38,930
+I'm sorry, we do not allow
+mobile phone use during the launch.
+
+234
+00:17:39,017 --> 00:17:41,093
+It interferes with the radio signals,
+
+235
+00:17:41,186 --> 00:17:44,222
+but you're more than welcome
+to use one of our land lines.
+
+236
+00:17:44,314 --> 00:17:46,805
+Thank you.
+
+237
+00:17:53,823 --> 00:17:56,065
+Hi, darling. Just checking in.
+
+238
+00:17:56,159 --> 00:17:58,401
+OK, I'm into their local area network.
+
+239
+00:17:58,495 --> 00:18:01,282
+It'll take me a minute to access
+the security surveillance feed.
+
+240
+00:18:02,248 --> 00:18:03,908
+OK, I'm in.
+
+241
+00:18:04,542 --> 00:18:06,784
+Miss you, too. Kisses.
+
+242
+00:18:08,213 --> 00:18:11,498
+And in compliance with
+Kyoto environmental accords,
+
+243
+00:18:11,591 --> 00:18:15,803
+during launch we filter the rocket's
+exhaust through two-mile ducts.
+
+244
+00:18:15,887 --> 00:18:20,763
+I understand these ducts are capable of
+channelling over a million pounds of thrust.
+
+245
+00:18:20,850 --> 00:18:23,306
+You have done your homework.
+
+246
+00:18:23,395 --> 00:18:27,143
+I will take you to the VIP observation deck.
+
+247
+00:18:28,149 --> 00:18:30,521
+The view is spectacular.
+
+248
+00:18:36,825 --> 00:18:39,398
+My watch seems to have stopped.
+Do you have the time?
+
+249
+00:18:39,494 --> 00:18:40,774
+Oh, sure.
+
+250
+00:18:44,207 --> 00:18:46,780
+OK, Dixon.
+I'll be in the canal in two minutes.
+
+251
+00:18:46,876 --> 00:18:50,791
+Copy that, Syd. Ready to cut
+the surveillance feed on your signal.
+
+252
+00:18:50,880 --> 00:18:52,624
+Radio frequency system, check.
+
+253
+00:18:52,716 --> 00:18:54,625
+Activation of vehicle telemetry, check.
+
+254
+00:18:54,718 --> 00:18:56,176
+On-board power test, check.
+
+255
+00:18:56,261 --> 00:18:58,966
+Radar transponder and launch vehicle
+remote control, check.
+
+256
+00:20:00,909 --> 00:20:03,826
+- OK, Dixon, I'm in position.
+- Copy that, Syd.
+
+257
+00:20:03,912 --> 00:20:05,703
+The ground crew's left the launch deck.
+
+258
+00:20:05,789 --> 00:20:09,703
+I'm shutting down surveillance
+for five minutes, starting now.
+
+259
+00:20:12,212 --> 00:20:16,256
+We've lost CCTV to the launch deck.
+
+260
+00:20:26,851 --> 00:20:30,516
+- What's the problem?
+- I'll know shortly.
+
+261
+00:20:49,416 --> 00:20:50,791
+Dixon, how am I doing?
+
+262
+00:20:50,875 --> 00:20:54,375
+Three minutes, ten seconds
+until surveillance is restored, Syd.
+
+263
+00:20:55,922 --> 00:20:58,876
+Power surge.
+We'll be back online in three minutes.
+
+264
+00:20:58,967 --> 00:21:02,965
+I assure you, this in no way
+indicates a problem with the launch.
+
+265
+00:21:03,054 --> 00:21:05,510
+Is there any way onto the launch zone
+that isn't visible from here?
+
+266
+00:21:05,598 --> 00:21:07,390
+Just the exhaust ducts,
+
+267
+00:21:07,475 --> 00:21:12,718
+but our ground crews don't go
+anywhere near them during countdown.
+
+268
+00:21:12,814 --> 00:21:15,768
+- Move up the launch.
+- Pardon?
+
+269
+00:21:15,859 --> 00:21:19,691
+I'm splicing into the internal
+supply system now. Almost there.
+
+270
+00:21:19,779 --> 00:21:22,021
+You said yourself
+the cameras don't affect the launch.
+
+271
+00:21:22,115 --> 00:21:24,440
+Technically they don't, but if something
+were to go wrong, we'd want to study...
+
+272
+00:21:24,534 --> 00:21:26,776
+Then begin the final countdown.
+
+273
+00:21:26,870 --> 00:21:29,906
+Or should we abort altogether? I could
+spread the word amongst my colleagues
+
+274
+00:21:29,998 --> 00:21:35,502
+that the Asiatic Space Agency is nothing
+but the poor man's version of NASA.
+
+275
+00:21:38,673 --> 00:21:44,676
+Initiate the final countdown.
+We're advancing our timetable.
+
+276
+00:21:46,473 --> 00:21:49,639
+Sydney, get out of there.
+They've moved up the launch.
+
+277
+00:21:58,401 --> 00:22:02,019
+Dixon, I'm still wiring the circuit board.
+How much time do I have?
+
+278
+00:22:02,113 --> 00:22:03,821
+48 seconds and counting.
+
+279
+00:22:03,907 --> 00:22:05,021
+Switching to internal power.
+
+280
+00:22:05,116 --> 00:22:06,397
+Transferring control to on-board computer.
+
+281
+00:22:06,493 --> 00:22:07,903
+Tank pressurisation to launch...
+
+282
+00:22:07,994 --> 00:22:12,407
+Sydney, it's too dangerous. Abort.
+We're at 44 seconds and counting.
+
+283
+00:22:12,499 --> 00:22:15,203
+- Syd, get outta there.
+- No, I got it.
+
+284
+00:22:17,921 --> 00:22:20,756
+All systems green for launch in 30, 29,
+
+285
+00:22:20,840 --> 00:22:23,414
+28, 27...
+
+286
+00:22:36,439 --> 00:22:38,765
+Three, two...
+
+287
+00:22:52,205 --> 00:22:53,664
+Sydney.
+
+288
+00:23:00,505 --> 00:23:02,830
+I'm all right.
+
+289
+00:23:04,175 --> 00:23:08,220
+I'll meet you at the rendezvous
+in ten minutes.
+
+290
+00:23:18,982 --> 00:23:22,766
+- Did you enjoy the launch?
+- It was a thrill.
+
+291
+00:23:57,437 --> 00:23:59,595
+- Will, I'm Michael Vaughn.
+- Hey.
+
+292
+00:23:59,689 --> 00:24:01,349
+Sorry about the cloak-and-dagger routine,
+
+293
+00:24:01,441 --> 00:24:03,517
+but SD-6 may monitor you
+from time to time.
+
+294
+00:24:03,610 --> 00:24:04,855
+We had to make sure you weren't followed.
+
+295
+00:24:04,944 --> 00:24:07,020
+Sure, I get it.
+
+296
+00:24:08,073 --> 00:24:10,445
+- So, you're Vaughn?
+- You sound surprised.
+
+297
+00:24:10,533 --> 00:24:14,448
+No, I just thought you'd be, uh, older.
+
+298
+00:24:14,537 --> 00:24:16,495
+Ah.
+
+299
+00:24:16,581 --> 00:24:19,368
+Listen, we want to bring you in
+for a hypnotherapy session.
+
+300
+00:24:19,459 --> 00:24:22,994
+From your statement, we think you might
+be able to recall details from your captivity
+
+301
+00:24:23,088 --> 00:24:25,923
+that could help us.
+
+302
+00:24:26,007 --> 00:24:28,000
+- When?
+- There's a car waiting for us upstairs.
+
+303
+00:24:28,093 --> 00:24:30,050
+Now?
+
+304
+00:24:30,136 --> 00:24:32,806
+You know, I can't. I'm helping
+my friend get a restaurant ready.
+
+305
+00:24:32,889 --> 00:24:34,965
+Francie.
+
+306
+00:24:35,850 --> 00:24:37,890
+Right.
+
+307
+00:24:37,977 --> 00:24:40,054
+So, tomorrow, then?
+
+308
+00:24:41,064 --> 00:24:42,439
+Sure, OK.
+
+309
+00:24:42,524 --> 00:24:44,647
+OK, you'll get a call on your cellphone
+from a telemarketer,
+
+310
+00:24:44,734 --> 00:24:46,941
+asking if you're interested
+in consolidating your debt.
+
+311
+00:24:47,028 --> 00:24:53,991
+That will be your signal to meet back here.
+We'll have a car take you to our office.
+
+312
+00:24:55,995 --> 00:25:01,120
+So, every time that Sydney ran out the door
+after she got a wrong number,
+
+313
+00:25:01,209 --> 00:25:03,617
+- she was going to meet you?
+- It's standard protocol.
+
+314
+00:25:03,712 --> 00:25:09,335
+In case the line's tapped.
+It's a low-risk way to set up a meet.
+
+315
+00:25:10,385 --> 00:25:13,801
+Did you ever give her a picture frame?
+It was like an antique.
+
+316
+00:25:13,888 --> 00:25:17,340
+She said that it was
+from somebody at work and...
+
+317
+00:25:17,434 --> 00:25:20,933
+It was probably just another way
+to contact her, right?
+
+318
+00:25:21,021 --> 00:25:24,021
+Actually, no, that was just a gift.
+
+319
+00:25:31,031 --> 00:25:34,482
+- It's nice to meet you, Will.
+- You, too.
+
+320
+00:25:35,326 --> 00:25:39,704
+Congratulations are in order to both of you.
+Thanks to your efforts in Sri Lanka,
+
+321
+00:25:39,789 --> 00:25:45,413
+we were able to intercept the feed from the
+satellite launched by Mr Sark yesterday.
+
+322
+00:25:45,503 --> 00:25:50,379
+He's looking at a 20-square-mile
+area of Siberia. Marshall.
+
+323
+00:25:50,467 --> 00:25:55,757
+Right. Now, I know this looks like
+20 miles of frozen tundrosity, right?
+
+324
+00:25:55,847 --> 00:26:00,805
+Well, take a look at it
+through the terahertz imaging camera.
+
+325
+00:26:02,228 --> 00:26:03,888
+The symbol of Rambaldi.
+
+326
+00:26:03,980 --> 00:26:09,603
+Yeah, now, what the satellite's looking at
+are subglacial caverns, under the ice.
+
+327
+00:26:09,694 --> 00:26:12,648
+- Are you saying it's a natural formation?
+- Well, it beats me.
+
+328
+00:26:12,739 --> 00:26:18,078
+Without actual ice core samples, I can't
+say anything except, you know, wow.
+
+329
+00:26:18,161 --> 00:26:21,281
+You are now looking at an image
+with a ten-centimetre resolution.
+
+330
+00:26:21,373 --> 00:26:24,824
+And as you can see, in the centre of
+the cavern, there appears to be an object,
+
+331
+00:26:24,918 --> 00:26:26,827
+notably composed of metal.
+
+332
+00:26:26,920 --> 00:26:30,704
+We must acquire this object
+before Mr Sark does.
+
+333
+00:26:30,799 --> 00:26:33,669
+So, you will be accompanied
+by a support team.
+
+334
+00:26:33,760 --> 00:26:36,333
+They will establish a perimeter
+with Agent Dixon
+
+335
+00:26:36,429 --> 00:26:39,929
+to guard every possible
+entrance to the cavern.
+
+336
+00:26:40,016 --> 00:26:44,096
+Sydney, you're on point.
+The flight leaves in four hours.
+
+337
+00:26:44,187 --> 00:26:47,105
+That's all. You can go.
+
+338
+00:26:47,816 --> 00:26:50,567
+Jack, would you stay a minute, please?
+
+339
+00:26:58,326 --> 00:27:01,244
+I want to ask you for a favour, Jack.
+
+340
+00:27:02,872 --> 00:27:08,033
+I think I may have underestimated the
+effect that Emily's death would have on me.
+
+341
+00:27:08,128 --> 00:27:09,622
+You're entitled to your grief.
+
+342
+00:27:09,713 --> 00:27:15,169
+Not when it undermines my authority here,
+my standing within the Alliance.
+
+343
+00:27:17,679 --> 00:27:19,921
+I need you to monitor me, Jack.
+
+344
+00:27:20,015 --> 00:27:25,887
+I need you to pull me aside,
+if you think that I'm letting my cards show.
+
+345
+00:27:27,230 --> 00:27:29,306
+Of course.
+
+346
+00:27:33,903 --> 00:27:35,896
+The day before she...
+
+347
+00:27:41,536 --> 00:27:44,027
+The day before she passed,
+Emily reserved us a suite
+
+348
+00:27:44,122 --> 00:27:47,954
+at our favourite bed and breakfast
+in Sonoma.
+
+349
+00:27:49,753 --> 00:27:54,296
+Even in her last moments,
+she was planning our future.
+
+350
+00:27:57,677 --> 00:27:59,753
+I'm not a spiritual man.
+
+351
+00:28:01,723 --> 00:28:08,971
+But I feel lately her presence
+everywhere around me.
+
+352
+00:28:10,231 --> 00:28:15,189
+Trauma can bring about feelings
+of metaphysical familiarity.
+
+353
+00:28:15,278 --> 00:28:17,686
+Waking dreams, as it were.
+
+354
+00:28:17,781 --> 00:28:21,861
+On the other hand,
+who is to say she isn't with you?
+
+355
+00:28:27,207 --> 00:28:31,501
+I'm going to count backwards
+from three, and when I reach one,
+
+356
+00:28:31,586 --> 00:28:35,584
+I want you to lift your head
+and tell me where you are.
+
+357
+00:28:35,674 --> 00:28:39,837
+Three. Two. One.
+
+358
+00:28:44,015 --> 00:28:46,091
+Where are you?
+
+359
+00:28:50,271 --> 00:28:55,646
+I'm in a cargo plane,
+on the way to Taipei.
+
+360
+00:28:55,735 --> 00:29:00,943
+- Will, how are you feeling?
+- I'm afraid they're gonna kill me.
+
+361
+00:29:02,200 --> 00:29:04,821
+I'm afraid they're gonna get to Sydney.
+
+362
+00:29:04,911 --> 00:29:08,991
+They can't, Will.
+You're revisiting what's already happened.
+
+363
+00:29:09,082 --> 00:29:12,914
+This is just a memory.
+Now tell me what you see.
+
+364
+00:29:18,008 --> 00:29:20,545
+Sark, working on his laptop.
+
+365
+00:29:20,635 --> 00:29:22,295
+Can you see the screen?
+
+366
+00:29:25,640 --> 00:29:26,885
+No.
+
+367
+00:29:27,726 --> 00:29:29,350
+It's too far away.
+
+368
+00:29:29,436 --> 00:29:33,765
+In his statement, he said that he was
+picked up and carried off the plane.
+
+369
+00:29:33,857 --> 00:29:35,933
+So maybe he got closer.
+
+370
+00:29:39,154 --> 00:29:43,981
+Will, listen to me. I want you to think ahead
+to when the plane landed.
+
+371
+00:29:44,075 --> 00:29:48,536
+When you were getting off the plane.
+Can you do that?
+
+372
+00:29:48,621 --> 00:29:49,653
+Yes.
+
+373
+00:29:49,748 --> 00:29:52,203
+What do you see?
+
+374
+00:29:54,502 --> 00:29:58,417
+Oh, God, they're coming to get me.
+Please. Please, please don't kill me.
+
+375
+00:29:58,506 --> 00:30:00,131
+Please don't kill me.
+
+376
+00:30:00,216 --> 00:30:03,004
+- Wake him up.
+- It's all right.
+
+377
+00:30:03,094 --> 00:30:07,092
+- Don't kill me. Please don't kill me.
+- Will, tell me what's happening.
+
+378
+00:30:07,182 --> 00:30:11,262
+- They're carrying me off the plane.
+- Can you see Sark's computer?
+
+379
+00:30:11,353 --> 00:30:15,931
+- No. No, I'm passing too fast.
+- Go back and try again.
+
+380
+00:30:16,024 --> 00:30:21,149
+This time, when you pass the computer,
+I want you to stop.
+
+381
+00:30:27,494 --> 00:30:29,570
+Names. I see names.
+
+382
+00:30:29,662 --> 00:30:31,406
+Read them to me.
+
+383
+00:30:33,708 --> 00:30:35,250
+Dostoyevsky.
+
+384
+00:30:36,294 --> 00:30:38,619
+Nabokov.
+
+385
+00:30:38,713 --> 00:30:40,789
+Tolstoy.
+
+386
+00:30:42,550 --> 00:30:43,748
+Chekov.
+
+387
+00:30:48,932 --> 00:30:51,008
+That's good, Will.
+
+388
+00:30:51,101 --> 00:30:54,683
+Now, when you hear the tone,
+I want you to open your eyes.
+
+389
+00:30:54,771 --> 00:30:59,516
+And as soon as you do,
+you will feel rested and refreshed.
+
+390
+00:30:59,609 --> 00:31:03,192
+I need to check his vitals.
+Just give me a minute.
+
+391
+00:31:13,081 --> 00:31:14,955
+You OK?
+
+392
+00:31:15,041 --> 00:31:19,205
+I doubt the code that activates Rambaldi's
+music box is a list of Russian authors.
+
+393
+00:31:19,295 --> 00:31:22,332
+It must be some kind of cipher text.
+
+394
+00:31:22,424 --> 00:31:27,465
+Look, under normal circumstances,
+I would never ask this.
+
+395
+00:31:27,554 --> 00:31:30,389
+But your mother is the only person
+who can translate those names for us
+
+396
+00:31:30,473 --> 00:31:32,015
+by the time you leave.
+
+397
+00:31:32,100 --> 00:31:34,935
+If your mother will give us the code
+to activate the music box,
+
+398
+00:31:35,020 --> 00:31:37,012
+we want you to activate the box on-site.
+
+399
+00:31:37,105 --> 00:31:40,474
+You'll get it to play and we'll record
+the music through your comlink.
+
+400
+00:31:40,567 --> 00:31:43,687
+- Then you'll destroy it.
+- Agent Bristow?
+
+401
+00:32:02,630 --> 00:32:06,842
+Dostoyevsky, Nabokov, Tolstoy, Chekov.
+
+402
+00:32:06,926 --> 00:32:10,011
+We took these code words
+from Sark's computer.
+
+403
+00:32:10,096 --> 00:32:15,339
+- I want you to translate them for me.
+- Give me your pencil and paper.
+
+404
+00:32:15,435 --> 00:32:16,514
+No.
+
+405
+00:32:16,603 --> 00:32:20,553
+I can't decipher it without pencil and paper.
+
+406
+00:32:52,889 --> 00:32:59,259
+You know, you haven't yet asked me
+how I could shoot my own daughter.
+
+407
+00:32:59,354 --> 00:33:01,477
+No, I haven't.
+
+408
+00:33:10,448 --> 00:33:13,568
+I assume you wouldn't need
+this combination so urgently
+
+409
+00:33:13,660 --> 00:33:17,278
+if you didn't know
+where the music box was.
+
+410
+00:33:20,500 --> 00:33:23,287
+Sark won't hesitate to kill you.
+
+411
+00:33:25,422 --> 00:33:29,882
+And I don't wanna lose the chance
+to explain myself someday.
+
+412
+00:33:43,690 --> 00:33:46,263
+About the Thanksgiving play.
+
+413
+00:33:48,695 --> 00:33:50,355
+I was a turkey.
+
+414
+00:33:58,204 --> 00:33:59,580
+Thank you.
+
+415
+00:34:39,662 --> 00:34:42,533
+I'm not reading any inbound contact.
+
+416
+00:34:42,624 --> 00:34:44,782
+It looks good. We're all alone out here.
+
+417
+00:34:44,876 --> 00:34:47,628
+But keep your motion trackers on,
+and stay sharp.
+
+418
+00:34:47,712 --> 00:34:51,959
+Novak, you're guarding the southeast
+entrance. Cooper, you guard the north.
+
+419
+00:34:52,050 --> 00:34:54,089
+Stay on station.
+
+420
+00:34:54,177 --> 00:34:59,800
+Watch your step. If you fall through the ice,
+it'll freeze over in four seconds.
+
+421
+00:34:59,891 --> 00:35:01,967
+Good to know.
+
+422
+00:35:31,381 --> 00:35:33,587
+Yeah?
+
+423
+00:35:33,675 --> 00:35:36,166
+Hello? Hello?
+
+424
+00:35:47,105 --> 00:35:50,355
+- Yes, sir?
+- Would you get me security section?
+
+425
+00:35:50,442 --> 00:35:52,933
+I need a back-trace on a call I just received.
+
+426
+00:35:53,028 --> 00:35:55,104
+Just a moment.
+
+427
+00:35:57,907 --> 00:36:00,944
+Sir, the call came from
+the Barranca bed and breakfast
+
+428
+00:36:01,036 --> 00:36:03,740
+in Sonoma County, California.
+
+429
+00:36:10,045 --> 00:36:12,084
+Report contact.
+
+430
+00:36:12,172 --> 00:36:15,173
+Position one holding.
+Negative on contacts.
+
+431
+00:36:15,258 --> 00:36:19,635
+Position two holding. No contacts.
+I'm all alone out here.
+
+432
+00:36:19,721 --> 00:36:22,010
+Syd, how do you copy in there?
+
+433
+00:36:24,476 --> 00:36:26,552
+Gotcha five-by, Dixon.
+
+434
+00:37:06,851 --> 00:37:09,010
+Dixon, the ice in this tunnel
+looks a little shaky.
+
+435
+00:37:09,104 --> 00:37:10,930
+I'm gonna go radio silent
+till I pass through.
+
+436
+00:37:11,022 --> 00:37:13,976
+Copy that. Standing by.
+
+437
+00:37:49,185 --> 00:37:53,764
+I've had a picture of your face
+in my mind for 20 years.
+
+438
+00:37:56,609 --> 00:37:59,100
+I remember a loving husband.
+
+439
+00:38:00,655 --> 00:38:02,980
+A generous man.
+
+440
+00:38:03,074 --> 00:38:05,114
+A patriot.
+
+441
+00:38:06,870 --> 00:38:12,326
+I may have been under orders
+to fabricate a life with you,
+
+442
+00:38:13,168 --> 00:38:19,917
+but there were times when the illusion
+of our marriage was as powerful for me
+
+443
+00:38:20,008 --> 00:38:22,214
+as it was for you.
+
+444
+00:38:23,345 --> 00:38:26,262
+Especially when Sydney was born.
+
+445
+00:38:28,975 --> 00:38:32,510
+Looking at you now,
+
+446
+00:38:32,604 --> 00:38:36,815
+I see that illusion is finally gone.
+
+447
+00:38:41,154 --> 00:38:44,523
+I want to make something very clear to you.
+
+448
+00:38:45,575 --> 00:38:50,403
+There are people here who believe you can
+repay the debt you owe this country
+
+449
+00:38:50,497 --> 00:38:53,830
+through your continued cooperation.
+
+450
+00:38:55,251 --> 00:38:57,742
+I am not one of them.
+
+451
+00:38:57,837 --> 00:39:05,548
+And if Sydney in any way becomes
+victim to your endgame, I will kill you.
+
+452
+00:39:06,054 --> 00:39:09,387
+She's spent most of her life
+believing you were dead.
+
+453
+00:39:09,474 --> 00:39:16,093
+She'll get used to it again, no matter
+what bond you try to forge with her.
+
+454
+00:39:22,195 --> 00:39:28,233
+You haven't told her what you did
+to her after I disappeared, have you?
+
+455
+00:39:52,142 --> 00:39:54,715
+Base Ops, this is Freelancer.
+Do you copy?
+
+456
+00:39:54,811 --> 00:39:57,219
+Read you loud and clear, Freelancer.
+
+457
+00:39:57,313 --> 00:40:00,065
+I've found the music box.
+
+458
+00:40:01,693 --> 00:40:06,154
+It looks intact. Stand by. I'm gonna enter
+the code my mother gave me.
+
+459
+00:40:08,992 --> 00:40:12,076
+Cooper. Novak.
+I've got an inbound contact.
+
+460
+00:40:12,162 --> 00:40:14,949
+Northwest, 100 metres.
+Can you confirm?
+
+461
+00:40:15,040 --> 00:40:17,531
+- Got 'em on radar.
+- Ditto.
+
+462
+00:40:18,710 --> 00:40:22,542
+- But I don't see anyone.
+- The target has stopped.
+
+463
+00:40:23,798 --> 00:40:24,878
+Correction.
+
+464
+00:40:24,966 --> 00:40:30,340
+Reading four, four tangos,
+approaching from all directions.
+
+465
+00:40:30,430 --> 00:40:32,968
+- They're heading for the entrance.
+- I still don't see anyone.
+
+466
+00:40:33,058 --> 00:40:36,890
+Sydney, do you copy?
+
+467
+00:40:36,978 --> 00:40:38,057
+Sydney.
+
+468
+00:40:38,146 --> 00:40:42,523
+Three, one, one.
+Two, five, four.
+
+469
+00:40:52,535 --> 00:40:54,611
+We've got audio.
+
+470
+00:40:57,749 --> 00:41:00,916
+Talk to me, Cooper.
+Your tango is ten metres away.
+
+471
+00:41:01,002 --> 00:41:03,672
+- I don't see anything.
+- It's right on top of you.
+
+472
+00:41:03,755 --> 00:41:07,338
+I'm telling you, I'm all alone out here.
+
+473
+00:41:07,842 --> 00:41:10,677
+Cooper, do you copy?
+Talk to me, Cooper.
+
+474
+00:41:12,389 --> 00:41:18,723
+My contact's at two metres.
+It's gotta be an equipment malfunction.
+
+475
+00:41:18,812 --> 00:41:21,184
+Novak, they're under the ice.
+
+476
+00:41:22,232 --> 00:41:23,975
+Novak.
+
+477
+00:41:27,153 --> 00:41:28,813
+Do you copy, Sydney?
+
+478
+00:41:34,452 --> 00:41:36,694
+OK, that's it.
+Confirm you got the recording.
+
+479
+00:41:36,788 --> 00:41:38,827
+I'm ready to destroy the music box.
+
+480
+00:41:39,833 --> 00:41:43,166
+Affirmative. We got the recording.
+
+481
+00:41:43,253 --> 00:41:45,744
+Affirmative. I'm 10-7.
+
+482
+00:41:57,267 --> 00:42:00,470
+- Sydney, do you copy?
+- I read you, Dixon. What's wrong?
+
+483
+00:42:00,562 --> 00:42:03,765
+Get out of there. Sark's here.
+
+484
+00:42:06,067 --> 00:42:08,558
+Put the case down.
+
+485
+00:42:11,990 --> 00:42:14,481
+Slide it over.
+
+486
+00:42:20,790 --> 00:42:24,740
+It was you giving us
+problems at the launch.
+
+487
+00:42:25,879 --> 00:42:30,790
+I'd offer you passage back to civilisation,
+but my submersible only seats four.
+
+488
+00:42:30,884 --> 00:42:32,923
+It's the thought that counts.
+
+

@@ -1,0 +1,1802 @@
+1
+00:00:12,000 --> 00:00:13,958
+Précédemment dans <i>24 h chrono</i> :
+
+2
+00:00:19,051 --> 00:00:22,255
+- Baissez votre arme.
+- Reculez ou je la tue.
+
+3
+00:00:22,388 --> 00:00:24,381
+Je vais la tuer.
+
+4
+00:00:32,234 --> 00:00:35,734
+J'ai reconnu un des types à l'intérieur.
+
+5
+00:00:35,863 --> 00:00:38,485
+Je ne me souviens pas où
+mais je l'ai déjà vu.
+
+6
+00:00:38,909 --> 00:00:41,864
+Pourquoi ont-ils cru
+que tu cachais quelque chose ?
+
+7
+00:00:41,996 --> 00:00:46,624
+Je ne vais pas leur raconter ma vie privée
+si ça ne les regarde pas.
+
+8
+00:00:46,752 --> 00:00:49,291
+Tu penses que ça ne les regarde pas.
+
+9
+00:00:49,672 --> 00:00:55,344
+- Pourquoi t'es là ?
+- Ta mère dit que tu as tué la fille ?
+
+10
+00:00:55,471 --> 00:00:57,595
+Tu as besoin d'aide pour cacher le corps.
+
+11
+00:00:57,724 --> 00:01:01,390
+Il va tuer notre fils.
+
+12
+00:01:05,442 --> 00:01:10,022
+- J'ai tué la fille. Marwan le sait.
+- Ce n'est pas Marwan qui a donné l'ordre.
+
+13
+00:01:10,157 --> 00:01:13,277
+- Qui veut ma mort ?
+- Ton père.
+
+14
+00:01:15,079 --> 00:01:19,078
+Merci pour votre aide.
+On m'a dit que Maya était là.
+
+15
+00:01:19,210 --> 00:01:22,081
+On va lui faire un check-up.
+
+16
+00:01:22,213 --> 00:01:24,752
+Elle souffre de schizophrénie.
+
+17
+00:01:25,176 --> 00:01:31,097
+- Je veux qu'on se remette ensemble.
+- Je suis désolée. Je suis avec quelqu'un.
+
+18
+00:01:32,101 --> 00:01:35,969
+- Paul, je te présente Jack Bauer.
+- Enchanté.
+
+19
+00:01:36,440 --> 00:01:38,766
+Que transportait votre homme ?
+
+20
+00:01:38,901 --> 00:01:43,149
+- Un contrôleur de type Dobson.
+- Ça consiste en quoi ?
+
+21
+00:01:43,282 --> 00:01:48,159
+Ça permet de prendre le contrôle
+des centrales nucléaires à distance.
+
+22
+00:01:48,288 --> 00:01:51,325
+Peut-on arriver au résultat inverse
+avec le programme ?
+
+23
+00:01:51,459 --> 00:01:55,042
+- Arriver à une fusion ?
+- En théorie.
+
+24
+00:01:55,172 --> 00:01:58,921
+Combien de centrales dans le pays
+seraient vulnérables ?
+
+25
+00:01:59,052 --> 00:02:00,594
+Toutes.
+
+26
+00:02:02,890 --> 00:02:06,723
+Ils ont fait le lien avec la valise.
+
+27
+00:02:08,605 --> 00:02:14,360
+Les faits suivants se déroulent
+entre 13 h et 14 h.
+
+28
+00:02:24,542 --> 00:02:26,582
+Tu as les vidéos de la soirée ?
+
+29
+00:02:26,711 --> 00:02:32,051
+Non, le dîner était surveillé
+par une compagnie privée, Felsted Security.
+
+30
+00:02:32,177 --> 00:02:38,181
+Ils travaillent en système fermé,
+donc il faut que j'aille les chercher.
+
+31
+00:02:38,309 --> 00:02:42,522
+- Qu'en est-il de la liste des invités ?
+- Ils vont me l'envoyer.
+
+32
+00:02:42,648 --> 00:02:45,021
+Il faut faire vite.
+
+33
+00:02:45,902 --> 00:02:48,524
+- C'est urgent ?
+- Oui.
+
+34
+00:02:48,656 --> 00:02:52,701
+L'enlèvement n'a fait que masquer
+une attaque plus grande.
+
+35
+00:02:52,828 --> 00:02:58,036
+Le procès a servi à créer une surcharge
+sur Internet et à faire diversion.
+
+36
+00:02:58,168 --> 00:03:01,834
+- Il me faut un équipement tactique.
+- Dans quel but ?
+
+37
+00:03:01,964 --> 00:03:04,966
+Ils ont volé ce qu'on appelle un "contrôleur".
+
+38
+00:03:05,093 --> 00:03:11,347
+Ils ont pris le contrôle de 104 centrales
+nucléaires. Ce dispositif régule la chaleur.
+
+39
+00:03:11,476 --> 00:03:16,104
+Ils pourraient procéder
+à la fusion de chacune de ces centrales.
+
+40
+00:03:17,192 --> 00:03:20,644
+L'homme que tu as reconnu
+est notre seule piste.
+
+41
+00:03:20,779 --> 00:03:24,030
+Et si je venais avec toi
+pour regarder les vidéos ?
+
+42
+00:03:24,159 --> 00:03:28,371
+Après ce que tu as subi aujourd'hui,
+je ne veux pas t'imposer ça.
+
+43
+00:03:28,498 --> 00:03:32,793
+On risque une catastrophe nucléaire
+si on ne trouve pas ce contrôleur.
+
+44
+00:03:32,920 --> 00:03:33,584
+Il n'y a pas de temps à perdre.
+
+45
+00:03:40,012 --> 00:03:42,005
+Viens avec moi.
+
+46
+00:03:42,390 --> 00:03:45,096
+Il y a 104 centrales nucléaires aux États-Unis.
+
+47
+00:03:45,227 --> 00:03:49,724
+Des terroristes veulent utiliser
+les 104 réacteurs comme des armes.
+
+48
+00:03:49,858 --> 00:03:52,432
+Donnez-nous le scénario catastrophe.
+
+49
+00:03:52,570 --> 00:03:56,818
+Voici ce qui se passera
+en cas de fusion de l'un de ces réacteurs.
+
+50
+00:03:56,950 --> 00:04:02,575
+Le contrôleur arrête le système
+de refroidissement et le réacteur fond.
+
+51
+00:04:02,707 --> 00:04:07,703
+Dans un rayon de 15 km, les gens
+seront irradiés au plus haut degré.
+
+52
+00:04:07,839 --> 00:04:10,794
+La plupart mourront dans les deux jours.
+
+53
+00:04:10,926 --> 00:04:15,589
+La plus petite des 104 villes
+compte 75000 habitants.
+
+54
+00:04:15,724 --> 00:04:21,230
+Multiplié par 104, ça fait environ
+7,8 millions de victimes, au bas mot.
+
+55
+00:04:21,356 --> 00:04:24,144
+L'impact sur l'environnement
+sera désastreux.
+
+56
+00:04:24,276 --> 00:04:29,023
+Dans un rayon de 50 km, la zone
+sera inhabitable pendant au moins 5 ans.
+
+57
+00:04:29,157 --> 00:04:32,242
+Il n'y a pas de systèmes
+de sécurité multiples ?
+
+58
+00:04:32,370 --> 00:04:35,241
+Le contrôleur les a déjà désactivés.
+
+59
+00:04:35,373 --> 00:04:39,953
+Si nous ne retrouvons pas le contrôleur,
+combien de temps avons-nous ?
+
+60
+00:04:40,088 --> 00:04:44,917
+La première vague radioactive
+pourrait avoir lieu dans 3 heures.
+
+61
+00:04:45,052 --> 00:04:49,846
+Je veux que la com et la logistique
+se chargent de localiser le logiciel.
+
+62
+00:04:49,975 --> 00:04:55,849
+Et les autres : vous êtes là pour aider
+en collaborant avec les gens de la NRC.
+
+63
+00:04:55,983 --> 00:04:58,688
+- On part.
+- Vous allez où ?
+
+64
+00:04:58,820 --> 00:05:01,145
+Audrey nous a donné une piste.
+
+65
+00:05:01,281 --> 00:05:04,698
+- Quelle piste ?
+- J'ai reconnu quelqu'un, un Américain.
+
+66
+00:05:04,827 --> 00:05:07,117
+Je l'ai vu lors d'un dîner.
+
+67
+00:05:07,247 --> 00:05:10,866
+On va aller regarder les vidéos
+d'une société de surveillance.
+
+68
+00:05:11,002 --> 00:05:14,787
+Je ne veux pas qu'elle y aille.
+Pourquoi ne pas les visionner ici ?
+
+69
+00:05:14,923 --> 00:05:21,259
+Elles ne sont pas en ligne. Il faudrait
+qu'ils enregistrent 4 heures de vidéo.
+
+70
+00:05:21,390 --> 00:05:26,730
+Jack m'a mise au courant de la situation.
+Il faut suivre cette piste.
+
+71
+00:05:26,855 --> 00:05:30,640
+Audrey est la seule personne
+à pouvoir l'identifier.
+
+72
+00:05:30,777 --> 00:05:34,727
+En cas de pépin,
+c'est vous qui serez responsable.
+
+73
+00:05:34,865 --> 00:05:37,321
+Je comprends.
+
+74
+00:05:40,247 --> 00:05:42,952
+- C'est loin ?
+- Non. À Burbank.
+
+75
+00:05:45,879 --> 00:05:48,168
+- Je rassemble l'équipe.
+- On peut parler ?
+
+76
+00:05:48,299 --> 00:05:50,506
+- À mon retour.
+- Tu vas où ?
+
+77
+00:05:50,635 --> 00:05:54,254
+On suit une piste.
+On se reparle plus tard.
+
+78
+00:05:54,390 --> 00:05:56,015
+- Vous êtes combien ?
+- Quatre.
+
+79
+00:05:56,142 --> 00:06:00,971
+Soyez bien armés.
+On se retrouve au parking.
+
+80
+00:06:06,739 --> 00:06:10,654
+Je sais que tu es avec lui
+et ça ne me plaît pas.
+
+81
+00:06:10,785 --> 00:06:14,286
+- On n'est plus ensemble.
+- On essayait de recoller les morceaux.
+
+82
+00:06:14,415 --> 00:06:15,364
+Tu remettais toujours ça à plus tard
+et j'ai abandonné.
+
+83
+00:06:18,253 --> 00:06:21,587
+Nous ne sommes plus ensemble
+depuis 9 mois.
+
+84
+00:06:21,716 --> 00:06:25,584
+- Désolé de vous déranger.
+- C'est ma femme.
+
+85
+00:06:28,933 --> 00:06:32,979
+- Excusez-moi.
+- C'est ma femme.
+
+86
+00:06:33,898 --> 00:06:35,523
+Ne l'oubliez pas.
+
+87
+00:06:42,867 --> 00:06:44,445
+On doit y aller.
+
+88
+00:06:45,955 --> 00:06:49,371
+- Je suis désolée.
+- C'est pas grave.
+
+89
+00:06:57,594 --> 00:07:01,427
+Je dois donner ces dossiers à Bauer.
+
+90
+00:07:01,558 --> 00:07:05,473
+- Il vient de partir.
+- Je peux lui faire parvenir ?
+
+91
+00:07:05,604 --> 00:07:10,314
+Il est allé à Felsted Security
+pour regarder des vidéos.
+
+92
+00:07:10,444 --> 00:07:13,861
+- Je lui donnerai plus tard.
+- C'est ça.
+
+93
+00:07:25,212 --> 00:07:28,748
+DEMANDE DE RECHERCHE :
+FELSTED SECURITY
+
+94
+00:07:42,693 --> 00:07:46,312
+Jim, je dois vous parler.
+
+95
+00:07:46,447 --> 00:07:47,907
+Suivez-moi.
+
+96
+00:07:56,210 --> 00:07:59,461
+Vous étiez au courant
+pour Audrey et Jack Bauer ?
+
+97
+00:07:59,589 --> 00:08:02,259
+Je le sais depuis une heure.
+
+98
+00:08:02,384 --> 00:08:07,724
+Ils faisaient ça sous votre nez.
+Ce n'est pas très professionnel.
+
+99
+00:08:10,686 --> 00:08:13,308
+Je comprends ce que vous ressentez,
+
+100
+00:08:13,440 --> 00:08:17,937
+mais vous êtes séparés depuis presque un an.
+
+101
+00:08:18,071 --> 00:08:22,449
+C'est une grande fille.
+Elle fait ce qu'elle veut.
+
+102
+00:08:22,576 --> 00:08:26,990
+Ce qu'elle fait... c'est me briser le cœur.
+
+103
+00:08:51,029 --> 00:08:55,906
+- Qu'est-ce que tu fais là ?
+- Edgar m'a demandé de réinitialiser la 5.
+
+104
+00:08:56,035 --> 00:09:00,366
+- Je peux le faire.
+- C'est bon.
+
+105
+00:09:14,308 --> 00:09:17,345
+- Bauer et Audrey viennent de partir.
+- Où ça ?
+
+106
+00:09:17,479 --> 00:09:20,184
+Felsted Security.
+357 White Oak Boulevard.
+
+107
+00:09:20,316 --> 00:09:22,724
+- C'est à Burbank.
+- Bien.
+
+108
+00:09:22,861 --> 00:09:26,729
+- Fais le nécessaire.
+- Comment ça ?
+
+109
+00:09:26,866 --> 00:09:29,488
+- Je devrais déjà être partie.
+- Non.
+
+110
+00:09:29,619 --> 00:09:35,326
+Quand ils seront morts, la CTU saura
+qu'il y a un traître dans les locaux.
+
+111
+00:09:37,671 --> 00:09:42,001
+- Et je fais quoi ?
+- Tu détournes les soupçons.
+
+112
+00:09:44,471 --> 00:09:45,467
+D'accord.
+
+113
+00:09:51,438 --> 00:09:54,108
+Je me trouve à l'extérieur du périmètre.
+
+114
+00:09:54,233 --> 00:10:00,154
+Le Pentagone n'a fait aucun commentaire
+mais l'on sait qu'à 12 h 10
+
+115
+00:10:00,283 --> 00:10:05,789
+le ministre Heller et sa fille
+ont été libérés avec succès.
+
+116
+00:10:05,915 --> 00:10:12,453
+D'après les rumeurs, il y avait
+au moins 20 terroristes dans les locaux,
+
+117
+00:10:12,590 --> 00:10:14,963
+et aucun n'a survécu à l'assaut.
+
+118
+00:10:16,303 --> 00:10:20,218
+- On a perdu des données ?
+- L'essentiel a été téléchargé.
+
+119
+00:10:20,350 --> 00:10:22,390
+Alors nous sommes prêts.
+
+120
+00:10:23,979 --> 00:10:28,524
+- Le dispositif prend le contrôle des centrales.
+- Et notre fils ?
+
+121
+00:10:33,491 --> 00:10:37,110
+Il faut être forts.
+On le pleurera quand tout sera fini.
+
+122
+00:10:59,733 --> 00:11:02,818
+Behrooz, tout va bien ?
+
+123
+00:11:02,945 --> 00:11:06,611
+Tariq a essayé de me tuer.
+J'ai dû me défendre.
+
+124
+00:11:06,741 --> 00:11:09,280
+- Qu'as-tu fait ?
+- Je l'ai tué.
+
+125
+00:11:09,411 --> 00:11:12,164
+- Ne dis rien à papa.
+- Pourquoi ?
+
+126
+00:11:12,290 --> 00:11:17,119
+C'est lui qui a dit à Tariq de me tuer
+à cause de l'histoire avec Debbie.
+
+127
+00:11:17,255 --> 00:11:21,799
+C'est impossible.
+Ton père ne voudrait pas te faire de mal.
+
+128
+00:11:21,927 --> 00:11:26,887
+C'est vrai. Je ne sais pas quoi faire.
+Tu dois m'aider.
+
+129
+00:11:27,017 --> 00:11:31,431
+- Où es-tu ?
+- Près de la gare Metrolink sur Lassen.
+
+130
+00:11:31,564 --> 00:11:37,272
+Tu es dans la voiture de Tariq ?
+Cache-la. Je serai là d'ici 30 mn.
+
+131
+00:11:37,405 --> 00:11:39,445
+Fais vite.
+
+132
+00:11:45,916 --> 00:11:49,036
+- Qui était-ce ?
+- Rien d'important.
+
+133
+00:11:49,545 --> 00:11:51,585
+Menteuse.
+
+134
+00:11:52,507 --> 00:11:56,553
+- Behrooz a fait quoi ?
+- Non. Toi, tu as fait quoi ?
+
+135
+00:11:56,679 --> 00:12:01,758
+Behrooz n'était pas engagé.
+Il aurait fini par se rebeller contre nous.
+
+136
+00:12:01,894 --> 00:12:07,138
+Tu as demandé à Tariq de le tuer.
+De tuer notre propre fils.
+
+137
+00:12:14,410 --> 00:12:16,783
+- Où est Tariq ?
+- Behrooz l'a tué.
+
+138
+00:12:16,913 --> 00:12:20,864
+- C'est impossible.
+- Tu crois qu'il est faible ? Tu te trompes.
+
+139
+00:12:21,002 --> 00:12:26,246
+Rien ne nous empêchera
+d'accomplir notre mission.
+
+140
+00:12:26,383 --> 00:12:29,800
+Ni lui, ni toi.
+
+141
+00:12:29,930 --> 00:12:34,474
+- Où est-il ?
+- Que vas-tu faire ?
+
+142
+00:12:37,105 --> 00:12:40,641
+- Tu me fais mal.
+- Je pourrais aller plus loin.
+
+143
+00:12:40,777 --> 00:12:45,107
+Écoute-moi, femme.
+Tu vas faire ce que tu lui as dit.
+
+144
+00:12:45,241 --> 00:12:48,776
+Tu vas aller le chercher dans 30 mn.
+
+145
+00:13:29,588 --> 00:13:32,673
+Qu'est-ce que tu as dit à Paul ?
+
+146
+00:13:35,345 --> 00:13:39,296
+Que je demande le divorce
+dès que je rentre à Washington.
+
+147
+00:13:40,936 --> 00:13:44,021
+Tu es sûre de savoir ce que tu veux ?
+
+148
+00:13:47,527 --> 00:13:49,567
+Oui.
+
+149
+00:14:09,221 --> 00:14:11,547
+Du nouveau ?
+
+150
+00:14:11,683 --> 00:14:17,271
+On dirait que le contrôleur
+ne commande pas la totalité des réacteurs.
+
+151
+00:14:17,398 --> 00:14:19,688
+- Je peux t'aider ?
+- Touche pas à la cinq.
+
+152
+00:14:19,818 --> 00:14:22,736
+La 5 n'est pas en cours de réinitialisation ?
+
+153
+00:14:23,781 --> 00:14:26,071
+Curtis, venez voir.
+
+154
+00:14:27,912 --> 00:14:31,246
+- Je peux te dire deux mots ?
+- Je suis occupée.
+
+155
+00:14:31,374 --> 00:14:35,622
+Tu m'as menti au sujet de la 5,
+c'est pas Edgar qui t'a demandé ça.
+
+156
+00:14:35,755 --> 00:14:37,831
+- Oui, c'est vrai.
+- Pourquoi ?
+
+157
+00:14:39,927 --> 00:14:45,551
+J'avais un appel à passer. Comme c'est
+interdit, je voulais que ça passe inaperçu.
+
+158
+00:14:45,684 --> 00:14:48,769
+Pourquoi tu n'es pas sortie ?
+
+159
+00:14:50,565 --> 00:14:54,730
+Je voulais faire semblant de travailler.
+
+160
+00:14:54,862 --> 00:14:58,149
+Désolée. Je ne le referai plus.
+
+161
+00:15:14,887 --> 00:15:17,130
+C'est Marwan.
+
+162
+00:15:21,646 --> 00:15:27,353
+- Tariq s'est occupé de ton fils ?
+- S'il y avait eu un problème, il aurait appelé.
+
+163
+00:15:27,487 --> 00:15:30,654
+Le fait que nous parlions de ça
+est un problème.
+
+164
+00:15:30,782 --> 00:15:34,532
+Nous approchons du moment crucial.
+Je veux avoir l'esprit libre.
+
+165
+00:15:34,662 --> 00:15:39,290
+Je veillerai personnellement
+à ce que la situation soit réglée.
+
+166
+00:15:39,418 --> 00:15:42,705
+- Je compte sur toi.
+- Bien sûr.
+
+167
+00:15:49,014 --> 00:15:53,059
+Que dira Marwan s'il apprend
+que Behrooz a tué Tariq ?
+
+168
+00:15:53,186 --> 00:16:00,020
+Tariq n'est pas indispensable.
+Comme nous. Marwan le sait.
+
+169
+00:16:00,153 --> 00:16:04,021
+Il veut juste que Behrooz
+soit hors d'état de nuire.
+
+170
+00:16:05,701 --> 00:16:12,287
+Je ne pourrai plus jamais te regarder
+sans penser à ce que nous lui avons fait.
+
+171
+00:16:28,772 --> 00:16:30,812
+Je pense que j'y suis.
+
+172
+00:16:30,941 --> 00:16:34,442
+- J'ai une partie du code.
+- Et alors ?
+
+173
+00:16:34,571 --> 00:16:39,115
+- Je peux empêcher la fusion.
+- Que vous manque-t-il ?
+
+174
+00:16:39,244 --> 00:16:42,696
+L'accès au noyau, mais la NRC refuse.
+
+175
+00:16:42,831 --> 00:16:46,332
+- Pourquoi ?
+- Je pourrais lancer une réaction en chaîne.
+
+176
+00:16:46,461 --> 00:16:50,709
+Il faut que vous alliez voir Heller.
+Il peut faire fléchir la NRC.
+
+177
+00:16:50,842 --> 00:16:53,629
+- Aller voir Heller ?
+- Dans la salle de conférence.
+
+178
+00:16:53,762 --> 00:16:58,010
+Je ne peux pas. Je vais m'évanouir.
+Je fais de l'hypoglycémie.
+
+179
+00:16:58,142 --> 00:17:02,093
+- Il y aura juste Driscoll et Heller.
+- Driscoll sera là aussi ?
+
+180
+00:17:06,027 --> 00:17:09,065
+- Excusez-moi, M. le Ministre.
+- Qu'y a-t-il ?
+
+181
+00:17:09,198 --> 00:17:14,110
+Edgar Stiles, notre analyste, voudrait
+avoir accès aux noyaux des centrales.
+
+182
+00:17:14,246 --> 00:17:20,500
+Je pensais que personne ne devait toucher
+aux noyaux tant qu'ils étaient en ligne.
+
+183
+00:17:20,629 --> 00:17:24,960
+Je pourrais arriver à ne pas toucher
+aux en-têtes précompilés
+
+184
+00:17:25,093 --> 00:17:29,970
+pendant que je verrouille le code,
+mais les risques de déséquilibre...
+
+185
+00:17:30,099 --> 00:17:35,142
+Je ne comprends rien à ce que vous dites.
+Dites-moi quels seront les effets
+
+186
+00:17:35,273 --> 00:17:39,354
+si les noyaux sont déréglés
+du fait de votre manipulation.
+
+187
+00:17:39,486 --> 00:17:44,446
+Si je fais une erreur, je peux accélérer
+la fusion de certains réacteurs.
+
+188
+00:17:45,953 --> 00:17:52,787
+- On devrait laisser tomber.
+- Si ça marche, on reprend le contrôle ?
+
+189
+00:17:52,920 --> 00:17:56,503
+Edgar, pouvez-vous y arriver
+sans faire d'erreur ?
+
+190
+00:18:02,765 --> 00:18:06,467
+- Je peux y arriver.
+- Vous n'avez pas l'air sûr de vous.
+
+191
+00:18:07,480 --> 00:18:10,316
+Je suis un peu tendu, mais si je dis que
+je peux le faire, c'est que je peux le faire.
+
+192
+00:18:20,955 --> 00:18:24,657
+- Il s'enfuira dès qu'il te verra.
+- Il ne me verra pas.
+
+193
+00:18:24,793 --> 00:18:28,922
+Tu seras seule dans la voiture
+quand tu iras le chercher.
+
+194
+00:18:30,968 --> 00:18:34,338
+- C'est Behrooz.
+- Réponds.
+
+195
+00:18:37,643 --> 00:18:40,644
+- Tu seras bientôt là ?
+- Oui.
+
+196
+00:18:41,731 --> 00:18:46,441
+- Qu'as-tu dit à papa ?
+- Je suis partie sans rien dire.
+
+197
+00:18:46,946 --> 00:18:50,482
+Qu'est-ce qu'on va faire ?
+Où qu'on aille, il nous trouvera.
+
+198
+00:18:50,617 --> 00:18:53,489
+Je connais un endroit sûr.
+
+199
+00:18:56,124 --> 00:19:02,164
+Je viens seulement de comprendre
+la signification de nos actes.
+
+200
+00:19:02,299 --> 00:19:06,463
+C'est mal, maman.
+Je m'en aperçois maintenant.
+
+201
+00:19:06,596 --> 00:19:11,343
+N'y pense plus. Tu n'as plus rien à craindre.
+
+202
+00:19:11,477 --> 00:19:17,351
+Mais je n'arrête pas d'y penser.
+Je devrais peut-être tout dire à la police.
+
+203
+00:19:17,485 --> 00:19:19,561
+On en parlera tout à l'heure.
+
+204
+00:19:33,630 --> 00:19:36,086
+Tu as dit ce qu'il fallait.
+
+205
+00:20:09,216 --> 00:20:11,755
+- C'est qui ?
+- Ne t'occupe pas de ça.
+
+206
+00:20:11,886 --> 00:20:14,509
+Prends la deuxième sortie à Angeles Crests.
+
+207
+00:20:14,640 --> 00:20:18,057
+- Il va me demander pourquoi je m'arrête.
+- Peu importe.
+
+208
+00:20:18,186 --> 00:20:21,437
+- Je lui dis quoi ?
+- Ne lui dis rien.
+
+209
+00:20:21,565 --> 00:20:24,437
+On se rejoint là-bas.
+
+210
+00:20:53,647 --> 00:20:57,100
+- On avance bien.
+- Dites-moi tout.
+
+211
+00:20:57,235 --> 00:20:59,774
+On a réussi à désactiver 87 centrales.
+
+212
+00:20:59,905 --> 00:21:03,607
+- Et les 17 autres ?
+- Les terroristes ont bloqué l'accès.
+
+213
+00:21:03,743 --> 00:21:07,160
+- Nos tentatives n'ont rien donné.
+- Comment on va faire ?
+
+214
+00:21:07,290 --> 00:21:10,742
+On cherche un moyen.
+S'il en existe un, on va le trouver.
+
+215
+00:21:12,129 --> 00:21:14,288
+Je vous tiens au courant.
+
+216
+00:21:22,142 --> 00:21:24,051
+Ma chérie ?
+
+217
+00:21:25,062 --> 00:21:29,725
+- Comment vas-tu ?
+- Pas bien. Je veux voir le Dr Arnowitz.
+
+218
+00:21:29,860 --> 00:21:33,230
+- Pas aujourd'hui.
+- Pourquoi ?
+
+219
+00:21:33,364 --> 00:21:36,070
+Parce que je dois rester ici et toi aussi.
+
+220
+00:21:36,201 --> 00:21:39,119
+Alors reste avec moi.
+
+221
+00:21:41,207 --> 00:21:47,164
+Je ne serai pas longue, mais en attendant,
+tu dois me rendre un service.
+
+222
+00:21:47,298 --> 00:21:50,549
+Regarde-moi.
+
+223
+00:21:52,096 --> 00:21:55,382
+Il faut que tu coopères avec les médecins.
+
+224
+00:22:08,992 --> 00:22:12,445
+Je reviens vite. Promis.
+
+225
+00:22:22,134 --> 00:22:25,005
+Tenez, prenez ça.
+
+226
+00:22:29,894 --> 00:22:32,730
+Votre fils est enfermé
+depuis deux heures et demie.
+
+227
+00:22:32,856 --> 00:22:35,394
+- Il a dit quoi ?
+- Rien.
+
+228
+00:22:35,526 --> 00:22:40,189
+Vous avez torturé mon fils pendant
+tout ce temps sans aucun résultat ?
+
+229
+00:22:40,323 --> 00:22:43,528
+C'est vous qui l'avez voulu.
+
+230
+00:22:53,423 --> 00:22:56,508
+Laissez-nous seuls un instant.
+
+231
+00:23:01,392 --> 00:23:07,016
+Je suis désolé, mais nous devions
+nous assurer que tu ne nous cachais rien.
+
+232
+00:23:08,192 --> 00:23:11,811
+Je te déteste.
+Je ne veux plus jamais te revoir.
+
+233
+00:23:16,077 --> 00:23:21,914
+Tu dois comprendre que mon devoir
+est de protéger des millions de personnes.
+
+234
+00:23:23,002 --> 00:23:26,918
+Tu me tortures
+et tu voudrais ensuite que je te pardonne ?
+
+235
+00:23:29,385 --> 00:23:34,381
+Ça ne fait que renforcer
+l'idée que j'avais de toi.
+
+236
+00:23:36,102 --> 00:23:39,187
+Je peux partir ?
+
+237
+00:23:39,314 --> 00:23:40,513
+Oui.
+
+238
+00:24:04,721 --> 00:24:09,052
+- Oui, Paul ?
+- Audrey, tu as un instant ?
+
+239
+00:24:09,644 --> 00:24:14,224
+J'étais en train de penser à ce que ton père
+m'a dit : "C'est une grande fille."
+
+240
+00:24:14,359 --> 00:24:18,523
+- Je t'ai traitée comme une enfant.
+- Je ne pense pas.
+
+241
+00:24:18,656 --> 00:24:24,162
+Je dois respecter tes choix,
+respecter qui tu es et...
+
+242
+00:24:26,624 --> 00:24:29,376
+J'ai vraiment mal réagi à tout ça.
+
+243
+00:24:29,503 --> 00:24:33,418
+J'ai perdu de vue tout ce que j'aime chez toi.
+
+244
+00:24:36,011 --> 00:24:40,923
+Je comprends ce que tu dis,
+mais je ne sais pas comment y répondre.
+
+245
+00:24:41,059 --> 00:24:46,980
+Je voulais juste te dire
+que j'ai eu tort sur plusieurs points.
+
+246
+00:24:47,108 --> 00:24:53,397
+Avant de prendre une décision - que tu as
+le droit de prendre - laisse passer du temps.
+
+247
+00:24:53,533 --> 00:24:57,366
+J'ai le droit de te demander ça ?
+
+248
+00:24:57,496 --> 00:24:59,786
+Oui, tu as le droit.
+
+249
+00:25:03,629 --> 00:25:06,963
+- À plus tard.
+- C'est ça, à plus tard.
+
+250
+00:25:12,473 --> 00:25:16,603
+- C'est encore loin ?
+- Encore quelques kilomètres.
+
+251
+00:25:45,348 --> 00:25:48,018
+- On va où ?
+- On sort de la ville.
+
+252
+00:25:48,143 --> 00:25:53,483
+- Pourquoi papa voulait me tuer ?
+- Il ne faut plus y penser.
+
+253
+00:26:00,159 --> 00:26:02,911
+On a tué deux personnes aujourd'hui.
+
+254
+00:26:03,037 --> 00:26:06,158
+Je veux arrêter. J'ai trop peur.
+
+255
+00:26:10,755 --> 00:26:13,508
+Monte dans ce train.
+
+256
+00:26:13,634 --> 00:26:17,502
+- Quoi ?
+- Ton père nous suit.
+
+257
+00:26:17,639 --> 00:26:21,969
+C'était la seule façon de te sauver la vie. Sors.
+
+258
+00:26:24,439 --> 00:26:27,275
+Allez. Obéis-moi.
+
+259
+00:28:03,731 --> 00:28:08,061
+- L'affaire est réglée ?
+- Il y a un problème.
+
+260
+00:28:08,195 --> 00:28:11,695
+Ma femme et Behrooz nous ont trahis.
+
+261
+00:28:25,925 --> 00:28:29,592
+- Où sont-ils ?
+- Je ne sais pas mais Dina est blessée.
+
+262
+00:28:29,722 --> 00:28:36,557
+- Elle va devoir se faire soigner.
+- Et tu me demandes de t'aider ?
+
+263
+00:28:36,689 --> 00:28:40,189
+Je ne peux pas y arriver seul, Marwan.
+
+264
+00:28:41,278 --> 00:28:46,404
+J'ai honte de moi.
+Permets-moi de remettre de l'ordre.
+
+265
+00:28:46,535 --> 00:28:50,320
+- De quoi as-tu besoin ?
+- De contrôler les hôpitaux du coin.
+
+266
+00:28:50,456 --> 00:28:55,333
+J'ai besoin de chauffeurs
+et d'un accès aux fréquences de police.
+
+267
+00:28:55,463 --> 00:28:58,833
+Tu penses qu'elle peut nous dénoncer ?
+
+268
+00:28:58,967 --> 00:29:03,714
+Ils pourraient l'arrêter s'ils découvrent
+qu'elle a une blessure par balle.
+
+269
+00:29:10,398 --> 00:29:15,774
+Je t'ai dit que je voulais avoir l'esprit libre.
+
+270
+00:29:19,994 --> 00:29:25,072
+Occupe-toi de lui. Tu dois les arrêter
+pour les empêcher de nous nuire.
+
+271
+00:29:25,208 --> 00:29:27,332
+Merci.
+
+272
+00:29:31,300 --> 00:29:33,423
+Quoi qu'il arrive aujourd'hui,
+tu devras le payer.
+
+273
+00:29:38,809 --> 00:29:41,561
+Je le sais.
+
+274
+00:29:52,618 --> 00:29:55,110
+- Elle a vu les vidéos ?
+- On vient d'arriver.
+
+275
+00:29:55,246 --> 00:29:59,459
+- Je m'occupe de la liste des invités.
+- Ça va prendre du temps ?
+
+276
+00:29:59,585 --> 00:30:03,750
+Non. Quand elle l'aura identifié, ce sera prêt.
+
+277
+00:30:03,882 --> 00:30:08,213
+- Je vous tiens au courant.
+- Merci, Marcy.
+
+278
+00:30:08,346 --> 00:30:11,431
+On a la liste des invités au dîner.
+
+279
+00:30:11,559 --> 00:30:16,186
+Dès que tu l'auras identifié,
+on leur enverra et ils trouveront qui c'est.
+
+280
+00:30:16,315 --> 00:30:18,557
+Je suis armé.
+
+281
+00:30:19,944 --> 00:30:22,946
+- C'est Marianne Taylor.
+- Qu'y a-t-il ?
+
+282
+00:30:23,073 --> 00:30:26,941
+Curtis dit que dès qu'Audrey
+aura reconnu le type,
+
+283
+00:30:27,078 --> 00:30:31,243
+- il veut que l'info me soit envoyée.
+- Pourquoi il ne m'a pas appelé ?
+
+284
+00:30:32,001 --> 00:30:35,750
+Tout le monde cherche
+un moyen de fermer les centrales.
+
+285
+00:30:35,881 --> 00:30:38,752
+Ils vont pouvoir les contrôler à temps ?
+
+286
+00:30:38,885 --> 00:30:42,337
+- Je ne sais pas.
+- Tenez-moi au courant.
+
+287
+00:30:42,472 --> 00:30:46,139
+- Qu'y a-t-il ?
+- On n'a pas beaucoup de temps.
+
+288
+00:30:46,770 --> 00:30:50,934
+- Elle va mieux, elle s'est endormie.
+- C'est une bonne nouvelle.
+
+289
+00:30:59,160 --> 00:31:03,740
+Vous lui avez donné du Haldol ?
+Elle est allergique.
+
+290
+00:31:03,874 --> 00:31:06,746
+La date est erronée.
+Ce n'est pas le bon dossier.
+
+291
+00:31:08,380 --> 00:31:13,589
+- Elle a perdu connaissance.
+- Mary, une ampoule de norépinéphrine.
+
+292
+00:31:13,720 --> 00:31:16,473
+Comment avez-vous pu
+vous tromper de dossier ?
+
+293
+00:31:17,225 --> 00:31:19,384
+Reculez.
+
+294
+00:31:19,978 --> 00:31:23,146
+Il me faut l'ampoule, faites vite.
+
+295
+00:31:25,944 --> 00:31:28,483
+Mme Driscoll, le ministre Heller...
+
+296
+00:31:31,910 --> 00:31:32,859
+Qu'y a-t-il ?
+
+297
+00:31:36,165 --> 00:31:39,167
+- Le ministre Heller a besoin de vous.
+- Pour quoi ?
+
+298
+00:31:39,294 --> 00:31:45,085
+Il va contacter le président
+et il veut savoir où on en est.
+
+299
+00:31:45,218 --> 00:31:52,183
+Dites-lui qu'Edgar essaie de contrôler
+les noyaux et qu'on en saura plus dans 15 mn.
+
+300
+00:31:52,310 --> 00:31:56,938
+Si on arrête la fusion,
+il veut savoir si le système sera contaminé.
+
+301
+00:31:57,066 --> 00:32:01,694
+Il n'y aura pas de contamination.
+Il faudra 36 h pour réinitialiser les réacteurs.
+
+302
+00:32:01,822 --> 00:32:06,201
+- Vous vouliez savoir autre chose ?
+- Non, c'est tout.
+
+303
+00:32:14,797 --> 00:32:20,837
+Il y avait deux caméras : une dans
+la salle principale et une dans l'entrée.
+
+304
+00:32:20,972 --> 00:32:23,179
+Mettez les deux.
+
+305
+00:32:30,192 --> 00:32:34,060
+L'angle de la salle est trop grand.
+Regardons plutôt l'entrée.
+
+306
+00:32:34,197 --> 00:32:36,356
+- C'était à quelle heure ?
+- 18 h 39.
+
+307
+00:32:36,491 --> 00:32:40,988
+C'est trop tôt. Je l'ai vu à mon arrivée,
+un peu après 21 h.
+
+308
+00:32:55,181 --> 00:32:56,842
+Arrêtez.
+
+309
+00:32:59,228 --> 00:33:02,728
+Vous pouvez reculer de quelques images ?
+
+310
+00:33:07,030 --> 00:33:08,690
+Là.
+
+311
+00:33:10,826 --> 00:33:13,068
+Je pense que c'est lui.
+
+312
+00:33:14,164 --> 00:33:15,991
+Vous pouvez agrandir ?
+
+313
+00:33:17,877 --> 00:33:22,255
+- Ça ne va pas. Ce n'est pas assez clair.
+- Je vais voir ce que je peux faire.
+
+314
+00:33:30,059 --> 00:33:32,633
+Qui est censé être à ce poste ?
+
+315
+00:33:32,770 --> 00:33:36,983
+Mitchell. Il est peut-être allé
+fumer une cigarette.
+
+316
+00:33:38,486 --> 00:33:42,734
+La barrière est ouverte. Il n'y a personne.
+Craig, tu m'entends ?
+
+317
+00:33:47,622 --> 00:33:49,662
+- Il y a combien d'entrées ?
+- Deux.
+
+318
+00:33:49,792 --> 00:33:52,959
+Montrez-les-moi.
+Rick ?
+
+319
+00:33:56,342 --> 00:33:58,050
+Baisse-toi.
+
+320
+00:34:00,681 --> 00:34:02,305
+Tout va bien ?
+
+321
+00:34:03,100 --> 00:34:05,140
+Quelle merde.
+
+322
+00:34:09,024 --> 00:34:13,355
+Je vais appeler les secours
+mais je dois savoir où est l'original.
+
+323
+00:34:13,488 --> 00:34:17,321
+Le serveur principal.
+
+324
+00:34:17,452 --> 00:34:22,364
+- J'y accède comment ?
+- Sur la mémoire flash.
+
+325
+00:34:23,793 --> 00:34:26,748
+Regarde les écrans de contrôle.
+
+326
+00:34:30,259 --> 00:34:32,965
+Vous avez une carte mémoire ?
+
+327
+00:34:34,264 --> 00:34:38,595
+- Vous avez une carte ?
+- Dans ma poche.
+
+328
+00:34:51,870 --> 00:34:53,910
+Restez avec moi.
+
+329
+00:34:56,334 --> 00:34:59,419
+- Il est mort.
+- Ils arrivent.
+
+330
+00:35:00,881 --> 00:35:03,373
+- Ils nous encerclent.
+- On appelle la CTU ?
+
+331
+00:35:03,510 --> 00:35:08,552
+Non. Il y a une taupe à la CTU.
+On doit sortir d'ici.
+
+332
+00:35:26,080 --> 00:35:28,120
+Vas-y.
+
+333
+00:35:58,120 --> 00:36:00,659
+Il est chargé. J'ai enlevé la sécurité.
+
+334
+00:36:00,790 --> 00:36:04,290
+Tu peux y arriver. On va se couvrir.
+
+335
+00:36:06,088 --> 00:36:10,716
+- Tu as dit qu'il y avait une taupe à la CTU.
+- C'est le cas.
+
+336
+00:36:10,844 --> 00:36:13,680
+Alors tu appelles qui ?
+
+337
+00:36:15,225 --> 00:36:18,511
+La seule personne en qui j'ai confiance.
+
+338
+00:36:35,667 --> 00:36:39,120
+Si 17 centrales
+sont sur le point d'entrer en fusion,
+
+339
+00:36:39,339 --> 00:36:42,543
+je dois établir une stratégie d'évacuation.
+
+340
+00:36:42,676 --> 00:36:46,212
+J'ai déjà commencé à en parler
+avec la Garde nationale.
+
+341
+00:36:46,348 --> 00:36:53,063
+Ils se rendront dans les villes et procéderont
+à l'évacuation selon vos ordres.
+
+342
+00:36:53,189 --> 00:36:56,524
+Et dans le pire des cas,
+il nous reste 3 heures ?
+
+343
+00:36:56,652 --> 00:36:58,195
+C'est exact.
+
+344
+00:36:59,197 --> 00:37:02,649
+Pourrons-nous fermer
+les 17 autres centrales à temps ?
+
+345
+00:37:02,785 --> 00:37:06,155
+Pour l'instant,
+nous avons moins de 50 °% de chances.
+
+346
+00:37:06,289 --> 00:37:09,244
+Mais on essaie d'augmenter nos chances.
+
+347
+00:37:09,377 --> 00:37:12,047
+- Quand en saurez-vous plus ?
+- Dans 15 mn.
+
+348
+00:37:12,172 --> 00:37:14,165
+Tenez-moi au courant.
+
+349
+00:37:14,299 --> 00:37:18,594
+Contactons Jack et Audrey
+pour savoir où ils en sont.
+
+350
+00:37:26,356 --> 00:37:30,189
+M. le Ministre, voulez-vous
+vous reposer dans une salle ?
+
+351
+00:37:30,320 --> 00:37:33,025
+Vous avez eu une matinée chargée.
+
+352
+00:37:33,156 --> 00:37:36,443
+Je n'arriverai pas à me reposer, mais merci.
+
+353
+00:37:42,919 --> 00:37:46,123
+On m'a dit que votre fille était ici à la clinique.
+
+354
+00:37:46,256 --> 00:37:50,172
+- Ça ne m'empêchera pas de travailler.
+- Je n'en doute pas.
+
+355
+00:37:50,303 --> 00:37:53,388
+Je me demandais juste si tout allait bien.
+
+356
+00:37:55,977 --> 00:38:01,684
+Elle est comme ça depuis l'âge de 6 ans.
+Il y a des hauts et des bas.
+
+357
+00:38:01,818 --> 00:38:05,519
+- Aujourd'hui, c'est un bas.
+- Je suis désolé.
+
+358
+00:38:13,958 --> 00:38:16,746
+On va aller à droite.
+
+359
+00:38:26,056 --> 00:38:28,299
+Viens.
+
+360
+00:38:31,939 --> 00:38:33,979
+On peut y aller.
+
+361
+00:39:14,326 --> 00:39:19,238
+On va s'en sortir.
+Je vais aller prendre son arme. Couvre-moi.
+
+362
+00:39:19,374 --> 00:39:23,242
+Économise tes munitions.
+Espace les tirs.
+
+363
+00:39:41,068 --> 00:39:44,188
+- Audrey, baisse-toi.
+- J'ai plus rien.
+
+364
+00:39:48,535 --> 00:39:50,575
+Je suis à vide.
+
+365
+00:40:10,021 --> 00:40:13,521
+- C'est bon ?
+- Ça va. Avance.
+
+366
+00:40:32,549 --> 00:40:35,634
+- Edgar arrive à la fin.
+- Il est dans le noyau ?
+
+367
+00:40:35,762 --> 00:40:40,508
+Oui. S'il se trompe,
+il pourrait accélérer la fusion.
+
+368
+00:40:44,231 --> 00:40:49,226
+Cherche le code d'opération
+pour avoir accès à un load A.
+
+369
+00:40:49,362 --> 00:40:53,527
+- FF09.
+- Ça, c'est un jump A. Il me faut un load A.
+
+370
+00:40:57,664 --> 00:41:01,793
+- ABA1. Je crois que c'est bon.
+- Comment ça, "vous croyez" ?
+
+371
+00:41:01,919 --> 00:41:05,170
+- Je voudrais revérifier.
+- Ça prendra combien de temps ?
+
+372
+00:41:05,299 --> 00:41:07,458
+- Dix minutes ?
+- On n'a pas le temps.
+
+373
+00:41:07,593 --> 00:41:11,212
+- Je vais juste faire un survol.
+- Allez, Edgar.
+
+374
+00:41:22,779 --> 00:41:25,152
+EXÉCUTION
+
+375
+00:41:26,117 --> 00:41:29,700
+- J'espère que ça va marcher.
+- Moi aussi.
+
+376
+00:41:49,229 --> 00:41:51,803
+Il n'y a pas de réponse.
+
+377
+00:41:52,900 --> 00:41:54,181
+Allez.
+
+378
+00:42:05,208 --> 00:42:07,664
+C'est parti.
+
+379
+00:42:21,895 --> 00:42:25,597
+- Félicitations, Edgar.
+- Merci.
+
+380
+00:42:38,958 --> 00:42:42,542
+- J'y crois pas.
+- Que se passe-t-il ?
+
+381
+00:42:43,923 --> 00:42:47,672
+Pourquoi certains réacteurs
+ne se ferment pas ?
+
+382
+00:42:51,224 --> 00:42:53,762
+Edgar, répondez-moi.
+
+383
+00:42:56,147 --> 00:42:59,101
+Six réacteurs sont immunisés
+contre la séquence.
+
+384
+00:42:59,234 --> 00:43:03,399
+- Le contrôleur les commande déjà.
+- Ces centrales vont entrer en fusion ?
+
+385
+00:43:03,531 --> 00:43:06,449
+Les codes de fermeture ont été corrompus.
+
+386
+00:43:06,577 --> 00:43:11,869
+Contactez Bauer.
+Soit il trouve les gens qui ont le contrôleur,
+
+387
+00:43:12,000 --> 00:43:15,785
+soit on fait face à un holocauste nucléaire.
+

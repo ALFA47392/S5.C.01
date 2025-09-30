@@ -1,0 +1,2250 @@
+1
+00:00:18,605 --> 00:00:20,692
+Do you have a problem with all holidays?
+
+2
+00:00:20,786 --> 00:00:21,162
+No.
+
+3
+00:00:21,254 --> 00:00:23,153
+So you're fine with, let's say, Arbor Day?
+
+4
+00:00:23,244 --> 00:00:24,809
+I'm not that into celebrating, that's all.
+
+5
+00:00:24,901 --> 00:00:26,704
+- That's all? It's --
+- What's going on?
+
+6
+00:00:26,750 --> 00:00:29,125
+Your sister doesn't want to celebrate her own birthday.
+
+7
+00:00:29,171 --> 00:00:29,972
+When?
+
+8
+00:00:30,064 --> 00:00:31,629
+In two days -- you don't know about this either?
+
+9
+00:00:31,721 --> 00:00:32,502
+Get out!
+
+10
+00:00:32,548 --> 00:00:34,303
+I don't even know if it is my birthday.
+
+11
+00:00:34,440 --> 00:00:36,140
+In the orphanage, they just felt bad
+
+12
+00:00:36,240 --> 00:00:38,520
+because I was the only kid who didn't know when I was born.
+
+13
+00:00:38,610 --> 00:00:39,980
+So the sisters just picked a date.
+
+14
+00:00:40,080 --> 00:00:40,881
+Yeah, day after tomorrow.
+
+15
+00:00:40,973 --> 00:00:42,157
+We could go bowling and rent some lanes.
+
+16
+00:00:42,250 --> 00:00:43,288
+We've been through bowling.
+
+17
+00:00:43,380 --> 00:00:45,803
+Go-carts, though, could be really good.
+
+18
+00:00:45,895 --> 00:00:46,792
+Bar hopping.
+
+19
+00:00:46,884 --> 00:00:48,638
+Bar hopping, or a ragin' house party.
+
+20
+00:00:48,778 --> 00:00:49,830
+Whoo! What's up?
+
+21
+00:00:49,923 --> 00:00:52,298
+Thank you, but I don't want to do anything.
+
+22
+00:00:52,392 --> 00:00:53,573
+- Come on.
+- Hey, guys.
+
+23
+00:00:53,853 --> 00:00:55,131
+Are you guys planning a party?
+
+24
+00:00:55,223 --> 00:00:56,071
+There's no party.
+
+25
+00:00:56,163 --> 00:00:59,112
+'Cause I'm a really good DJ, if you need, uh...
+
+26
+00:00:59,718 --> 00:01:00,758
+Anyway, speaking of parties,
+
+27
+00:01:00,803 --> 00:01:03,319
+Sloane's having one in the briefing room now.
+
+28
+00:01:04,458 --> 00:01:08,028
+As most of you know, when the Alliance was dismantled four years ago,
+
+29
+00:01:08,103 --> 00:01:10,954
+the CIA came into possession of a multitude of artifacts,
+
+30
+00:01:11,047 --> 00:01:12,420
+files, and intels.
+
+31
+00:01:12,840 --> 00:01:16,055
+Among the items retrieved was the Blackwell index.
+
+32
+00:01:16,149 --> 00:01:18,569
+Blackwell? What is this, a worst-dressed list?
+
+33
+00:01:18,664 --> 00:01:20,801
+Damien Blackwell, head of the Gouse Crime Syndicate.
+
+34
+00:01:20,892 --> 00:01:23,458
+He's believed to have compiled incriminating information
+
+35
+00:01:23,550 --> 00:01:25,209
+on corporate heads, government officials,
+
+36
+00:01:25,349 --> 00:01:28,439
+common criminals -- essentially a master blackmail list
+
+37
+00:01:28,532 --> 00:01:30,477
+encoded into a mobile terminal.
+
+38
+00:01:32,531 --> 00:01:34,333
+The Alliance was never able to read the index
+
+39
+00:01:34,426 --> 00:01:36,132
+during the six months it was in their possession.
+
+40
+00:01:36,225 --> 00:01:39,267
+It was inciphered using 4,096-bit encryption.
+
+41
+00:01:39,360 --> 00:01:42,193
+Wow. I mean, even with current technology,
+
+42
+00:01:42,285 --> 00:01:44,278
+that would take like 20 years to decipher,
+
+43
+00:01:44,325 --> 00:01:47,224
+and that's with a supercomputer working on it 24/7.
+
+44
+00:01:47,270 --> 00:01:51,219
+Needless to say, the CIA was unsuccessful in its decryption efforts.
+
+45
+00:01:51,311 --> 00:01:52,588
+Why is this an issue now?
+
+46
+00:01:52,664 --> 00:01:56,088
+Last night the index was stolen from the CIA research station in Sarajevo.
+
+47
+00:02:01,411 --> 00:02:03,260
+Left three of our analysts dead.
+
+48
+00:02:04,193 --> 00:02:05,614
+No leads on who stole it?
+
+49
+00:02:05,707 --> 00:02:08,415
+No, it was a clean job. In and out within two minutes.
+
+50
+00:02:09,301 --> 00:02:10,817
+Why steal something you can't read?
+
+51
+00:02:10,910 --> 00:02:12,617
+The decoder disk has been located.
+
+52
+00:02:12,802 --> 00:02:16,226
+Two weeks ago, Damien Blackwell's concealed base of operation
+
+53
+00:02:16,272 --> 00:02:18,885
+was identified and raided by french authorities.
+
+54
+00:02:19,024 --> 00:02:21,684
+They seized most of his possessions as evidence,
+
+55
+00:02:21,823 --> 00:02:23,483
+including a mini disk.
+
+56
+00:02:23,947 --> 00:02:25,989
+We believe this to be the decoder.
+
+57
+00:02:26,081 --> 00:02:28,551
+Our only logical recourse is to go after the decoder.
+
+58
+00:02:28,643 --> 00:02:30,302
+Without it, the index is useless.
+
+59
+00:02:30,441 --> 00:02:31,434
+Do the french know what they have?
+
+60
+00:02:31,526 --> 00:02:35,188
+No. Of course we would rather obtain it through legal channels.
+
+61
+00:02:35,281 --> 00:02:37,512
+Unfortunately, that doesn't seem to be an option right now.
+
+62
+00:02:37,605 --> 00:02:40,028
+Wait a minute. You want us to steal the decoder from french police?
+
+63
+00:02:40,167 --> 00:02:42,351
+Right now it's being housed in the Paris prefecture.
+
+64
+00:02:42,489 --> 00:02:44,864
+Sydney, figure out a way to get yourself arrested.
+
+65
+00:03:21,246 --> 00:03:23,046
+- Hey.
+- Hey.
+
+66
+00:03:23,141 --> 00:03:25,800
+We got out of the briefing early. Did Sloane approve your trip?
+
+67
+00:03:25,892 --> 00:03:26,361
+Mm-hmm.
+
+68
+00:03:26,454 --> 00:03:27,637
+Any word on your uncle?
+
+69
+00:03:28,850 --> 00:03:30,366
+Yeah, I spoke to my mom this morning.
+
+70
+00:03:30,459 --> 00:03:32,117
+Apparently this last stroke hit him pretty hard.
+
+71
+00:03:32,209 --> 00:03:33,631
+He hasn't regained consciousness.
+
+72
+00:03:34,003 --> 00:03:35,329
+- That's awful.
+- Yeah.
+
+73
+00:03:37,007 --> 00:03:38,523
+Are you gonna be okay?
+
+74
+00:03:38,569 --> 00:03:39,420
+Yeah. I'm fine.
+
+75
+00:03:40,958 --> 00:03:42,283
+It's just that, you know, when my dad died,
+
+76
+00:03:42,329 --> 00:03:44,226
+my uncle made all these promises about
+
+77
+00:03:44,318 --> 00:03:47,695
+being there for me and my mother, and he wasn't -- ever.
+
+78
+00:03:49,374 --> 00:03:52,607
+I'm not sure how I feel about seeing him again, you know.
+
+79
+00:03:56,063 --> 00:03:57,721
+I wish I could go with you.
+
+80
+00:03:59,261 --> 00:04:00,839
+I know.
+
+81
+00:04:06,026 --> 00:04:07,645
+I'll call you when I land.
+
+82
+00:04:08,251 --> 00:04:09,460
+- Okay.
+- Okay.
+
+83
+00:04:18,332 --> 00:04:19,400
+Sydney.
+
+84
+00:04:21,548 --> 00:04:22,634
+We need to talk.
+
+85
+00:04:29,967 --> 00:04:32,246
+Okay, it's safe to talk here.
+
+86
+00:04:32,897 --> 00:04:33,507
+Okay.
+
+87
+00:04:33,834 --> 00:04:35,588
+I've been cross-checking Sloane's facts,
+
+88
+00:04:35,681 --> 00:04:37,150
+vetting the intel he's given us.
+
+89
+00:04:38,456 --> 00:04:40,592
+Director chase encouraged us to watch Sloane.
+
+90
+00:04:40,685 --> 00:04:41,962
+That's what I've been doing.
+
+91
+00:04:42,521 --> 00:04:44,896
+I'm not going to make the same mistake I did at SD-6,
+
+92
+00:04:44,989 --> 00:04:47,172
+blindly following that man's orders.
+
+93
+00:04:47,639 --> 00:04:49,726
+What has he done now?
+
+94
+00:04:50,519 --> 00:04:53,037
+Sloane just said he had no leads
+
+95
+00:04:53,084 --> 00:04:56,601
+on who stole the index out of that research station in Sarajevo.
+
+96
+00:04:56,694 --> 00:04:57,256
+Yeah?
+
+97
+00:04:59,123 --> 00:05:00,497
+Look familiar?
+
+98
+00:05:01,010 --> 00:05:04,911
+Miles Devereaux, former Alliance member. Head of operations, SD-3.
+
+99
+00:05:05,004 --> 00:05:10,048
+Sloane contacted him. 40 minutes after the Blackwell index was stolen.
+
+100
+00:05:10,141 --> 00:05:11,943
+Before  Langley had even discovered the theft.
+
+101
+00:05:12,035 --> 00:05:12,838
+How do you know?
+
+102
+00:05:13,303 --> 00:05:16,488
+I've got a tap on Sloane's home line.
+
+103
+00:05:16,582 --> 00:05:17,049
+Dixon --
+
+104
+00:05:17,142 --> 00:05:21,187
+The call was encrypted, but I traced it to a hotel in Sarajevo.
+
+105
+00:05:21,326 --> 00:05:23,272
+I hacked into the hotel's CCTV feed.
+
+106
+00:05:23,364 --> 00:05:24,976
+That's where I found this.
+
+107
+00:05:27,216 --> 00:05:29,209
+You think Sloane is working with Devereaux?
+
+108
+00:05:29,255 --> 00:05:32,612
+I think Sloane tasked us to steal the decoder for one reason --
+
+109
+00:05:32,798 --> 00:05:35,078
+so he and Devereaux could crack the index
+
+110
+00:05:35,169 --> 00:05:37,496
+and  retrieve the blackmail files for themselves.
+
+111
+00:05:37,590 --> 00:05:39,868
+That's why he lied about having no leads.
+
+112
+00:05:40,940 --> 00:05:43,316
+He's using us...
+
+113
+00:05:43,735 --> 00:05:44,822
+again.
+
+114
+00:05:46,736 --> 00:05:51,017
+And that's not something I'm gonna let him do.
+
+115
+00:06:25,873 --> 00:06:27,005
+So what you're telling me
+
+116
+00:06:27,099 --> 00:06:30,190
+is that you've been illegally tapping your superior's phone.
+
+117
+00:06:30,283 --> 00:06:32,990
+Keeping an eye on Sloane was a mandate,
+
+118
+00:06:33,176 --> 00:06:35,694
+one that you specifically charged me with.
+
+119
+00:06:36,440 --> 00:06:39,053
+I didn't condone breaking federal laws to do it.
+
+120
+00:06:39,146 --> 00:06:42,695
+Since SD-6, Sloane has wanted he Blackwell index.
+
+121
+00:06:43,067 --> 00:06:45,155
+And now he's coincidentally made contact
+
+122
+00:06:45,201 --> 00:06:48,482
+with Devereaux in Sarajevo minutes after the theft?
+
+123
+00:06:48,575 --> 00:06:50,806
+Perhaps he's pursuing information on who stole it.
+
+124
+00:06:50,899 --> 00:06:52,559
+By contacting a former Alliance member?
+
+125
+00:06:52,697 --> 00:06:54,785
+Sloane is free to contact old associates.
+
+126
+00:06:54,878 --> 00:06:57,778
+It's one of the reasons why he was appointed head of the task force.
+
+127
+00:06:57,916 --> 00:07:00,291
+He lied to us about having no leads.
+
+128
+00:07:00,431 --> 00:07:02,757
+Perhaps none of the leads proved useful.
+
+129
+00:07:05,138 --> 00:07:06,988
+Irrational explanations.
+
+130
+00:07:07,733 --> 00:07:10,777
+He tasked us to steal the decoder from police custody.
+
+131
+00:07:10,962 --> 00:07:13,431
+Does this add up for you? Are you listening to me?
+
+132
+00:07:13,711 --> 00:07:16,418
+I'm aware of the mission to retrieve the decoder, mr. Dixon.
+
+133
+00:07:16,464 --> 00:07:18,220
+I authorized it myself.
+
+134
+00:07:18,313 --> 00:07:20,210
+Now I appreciate your concern,
+
+135
+00:07:20,349 --> 00:07:23,087
+but these accusations are based on circumstantial evidence,
+
+136
+00:07:23,162 --> 00:07:25,299
+so unless you have something else to give me,
+
+137
+00:07:25,392 --> 00:07:28,911
+I would suggest you pull that phone tap.
+
+138
+00:07:30,544 --> 00:07:33,585
+I know you want him to be guilty. I've been there.
+
+139
+00:07:33,865 --> 00:07:35,571
+This is not about what he did to Diane.
+
+140
+00:07:35,664 --> 00:07:36,941
+Of course it is.
+
+141
+00:07:37,454 --> 00:07:38,923
+It is for me.
+
+142
+00:07:39,557 --> 00:07:42,550
+But you're the one who reminded me why we're here --
+
+143
+00:07:42,875 --> 00:07:44,344
+to do the right thing.
+
+144
+00:07:45,550 --> 00:07:47,880
+Maybe this time director Chase is right.
+
+145
+00:07:49,050 --> 00:07:51,040
+Maybe we should just let it go.
+
+146
+00:07:51,230 --> 00:07:53,460
+Chase refuses to see the truth.
+
+147
+00:07:54,301 --> 00:07:58,595
+Sydney, you know I never do this. I'm asking you for me.
+
+148
+00:07:58,887 --> 00:08:02,862
+Please, I need your help.
+
+149
+00:08:21,449 --> 00:08:23,586
+You don't have to stand in the dark, you know.
+
+150
+00:08:23,819 --> 00:08:26,240
+Oh, uh, I didn't want to, uh...
+
+151
+00:08:26,332 --> 00:08:28,706
+The light won't bother David.
+
+152
+00:08:29,639 --> 00:08:30,821
+You must be Bill.
+
+153
+00:08:32,782 --> 00:08:33,868
+Why would you say that?
+
+154
+00:08:33,914 --> 00:08:35,526
+Your uncle said you were coming to see him.
+
+155
+00:08:35,665 --> 00:08:38,356
+He used to talk about you a lot before he had the stroke.
+
+156
+00:08:38,448 --> 00:08:40,822
+Bill was my father. He's dead.
+
+157
+00:08:40,915 --> 00:08:42,765
+Oh. My mistake.
+
+158
+00:08:43,978 --> 00:08:46,496
+Older people get confused sometimes, you know,
+
+159
+00:08:46,589 --> 00:08:49,297
+and they get the past and the present mixed up.
+
+160
+00:08:50,184 --> 00:08:54,131
+- Was it recent?
+- No, he died in 1979.
+
+161
+00:08:54,971 --> 00:08:58,586
+- I'm Michael.
+- I'm Rosemary.
+
+162
+00:08:58,913 --> 00:08:59,855
+Nice to meet you.
+
+163
+00:08:59,901 --> 00:09:02,418
+I do the 3:00 and the 10:00 rounds in this wing.
+
+164
+00:09:02,512 --> 00:09:03,360
+Did you come a long way?
+
+165
+00:09:03,453 --> 00:09:06,637
+Los Angeles. I would have come to visit sooner, but...
+
+166
+00:09:07,570 --> 00:09:10,041
+Well, you're here now.
+
+167
+00:09:11,206 --> 00:09:13,104
+That's what's important.
+
+168
+00:09:18,847 --> 00:09:20,602
+I reviewed your recon analysis report.
+
+169
+00:09:20,742 --> 00:09:22,639
+Your extraction plan needs some work.
+
+170
+00:09:23,059 --> 00:09:24,097
+Really? I thought --
+
+171
+00:09:24,190 --> 00:09:25,945
+You're assuming that everything is going right.
+
+172
+00:09:26,038 --> 00:09:27,412
+No, I allowed for contingencies.
+
+173
+00:09:27,505 --> 00:09:29,355
+Exiting the building, if anything happens,
+
+174
+00:09:29,493 --> 00:09:31,725
+it's the perimeter that poses the greatest problem.
+
+175
+00:09:31,819 --> 00:09:33,142
+Okay, I'll work up a new scenario.
+
+176
+00:09:33,236 --> 00:09:35,848
+Good. You have all our resources at your disposal, Weiss.
+
+177
+00:09:35,940 --> 00:09:37,027
+Why don't you use them?
+
+178
+00:09:37,121 --> 00:09:39,876
+The last thing we need is an international incident.
+
+179
+00:09:39,969 --> 00:09:40,627
+Yes, sir.
+
+180
+00:09:40,719 --> 00:09:42,140
+Rest of the specs look great.
+
+181
+00:09:42,233 --> 00:09:42,985
+Well, thank you.
+
+182
+00:09:43,124 --> 00:09:45,500
+I take it you'll have no problem bringing Nadia up to speed.
+
+183
+00:09:45,593 --> 00:09:47,537
+Yeah. I already did last night.
+
+184
+00:09:48,331 --> 00:09:49,608
+Excuse me?
+
+185
+00:09:50,586 --> 00:09:54,250
+Uh, we were working. We work late. We actually like it.
+
+186
+00:09:54,344 --> 00:09:55,859
+There were other peop-- Jack was here.
+
+187
+00:09:55,953 --> 00:09:57,039
+Are you finished?
+
+188
+00:09:57,225 --> 00:09:59,027
+Have the report on my desk in an hour.
+
+189
+00:09:59,633 --> 00:10:00,624
+Impress me.
+
+190
+00:10:06,881 --> 00:10:09,018
+Jack, I didn't realize you were waiting.
+
+191
+00:10:11,819 --> 00:10:14,098
+I heard the forensic reports from Sarajevo were in.
+
+192
+00:10:14,237 --> 00:10:16,754
+I'm curious -- was Langley able to generate any new leads?
+
+193
+00:10:16,800 --> 00:10:17,697
+No.
+
+194
+00:10:17,976 --> 00:10:20,588
+They have nothing as far as the theft is concerned.
+
+195
+00:10:21,102 --> 00:10:22,998
+Then I'm assuming our agenda remains the same.
+
+196
+00:10:23,090 --> 00:10:25,132
+Oh, yes. We obtain the decoder.
+
+197
+00:10:25,271 --> 00:10:26,835
+I'll coordinate transport now.
+
+198
+00:10:27,114 --> 00:10:28,678
+Jack, one more thing.
+
+199
+00:10:28,817 --> 00:10:32,146
+Sydney was supposed to hand me her ops report 15 minutes ago.
+
+200
+00:10:32,471 --> 00:10:34,750
+Any  idea where she might be?
+
+201
+00:10:35,075 --> 00:10:38,880
+No. I imagine she's somewhere working out the details.
+
+202
+00:10:41,168 --> 00:10:43,065
+I used to meet Vaughn like this
+
+203
+00:10:43,203 --> 00:10:45,435
+when he was my handler at SD-6.
+
+204
+00:10:46,136 --> 00:10:47,603
+Must have been romantic.
+
+205
+00:10:50,123 --> 00:10:51,640
+Micro CD burner.
+
+206
+00:10:51,919 --> 00:10:52,720
+Where'd you get it?
+
+207
+00:10:52,812 --> 00:10:54,805
+I borrowed it from Marshall's office.
+
+208
+00:10:54,945 --> 00:10:55,984
+With a few adjustments,
+
+209
+00:10:56,077 --> 00:10:58,308
+it'll make a corrupted copy of the decoder disk.
+
+210
+00:10:58,400 --> 00:11:00,919
+That'll be what we give to Sloane. Keep the real one safe.
+
+211
+00:11:01,057 --> 00:11:03,718
+So if Sloane follows protocol and hands it over to the CIA...
+
+212
+00:11:03,857 --> 00:11:06,833
+No harm done. But if he tries using it, he'll be sorely disappointed.
+
+213
+00:11:07,017 --> 00:11:09,059
+We'll have to watch and see.
+
+214
+00:11:13,821 --> 00:11:14,622
+What?
+
+215
+00:11:15,322 --> 00:11:19,555
+I'm just now realizing how complicated your life was at SD-6.
+
+216
+00:11:21,142 --> 00:11:23,230
+I appreciate you doing this.
+
+217
+00:11:23,836 --> 00:11:25,782
+I know you have your reservations.
+
+218
+00:11:27,837 --> 00:11:31,497
+It's just that things are a little different now since Nadia.
+
+219
+00:11:31,964 --> 00:11:33,127
+He's her father.
+
+220
+00:11:35,600 --> 00:11:37,832
+I know this may seem weird,
+
+221
+00:11:39,605 --> 00:11:42,314
+but I hope for her sake that we're wrong.
+
+222
+00:12:40,557 --> 00:12:41,931
+You're under arrest.
+
+223
+00:12:56,622 --> 00:12:57,996
+It's about time.
+
+224
+00:12:58,180 --> 00:12:59,697
+Amanda Peterson, right?
+
+225
+00:13:00,723 --> 00:13:03,480
+My name is Richard Zachary, your legal counsel
+
+226
+00:13:03,665 --> 00:13:05,706
+appointed by the american embassy.
+
+227
+00:13:05,752 --> 00:13:06,486
+Great.
+
+228
+00:13:07,044 --> 00:13:10,564
+I see you've been enjoying your stay in Paris.
+
+229
+00:13:10,749 --> 00:13:11,884
+It's been swell.
+
+230
+00:13:20,011 --> 00:13:21,096
+Okay, got it.
+
+231
+00:13:21,188 --> 00:13:23,848
+Outrigger, looping the feed on your call.
+
+232
+00:13:23,939 --> 00:13:29,225
+Vandalism, resisting arrest, assaulting an officer.
+
+233
+00:13:29,598 --> 00:13:30,970
+These are serious charges.
+
+234
+00:13:31,064 --> 00:13:31,626
+So?
+
+235
+00:13:31,718 --> 00:13:34,808
+So let's see about getting you out of here.
+
+236
+00:13:40,739 --> 00:13:43,113
+- The CD burner.
+- Thanks, Dixon.
+
+237
+00:13:43,208 --> 00:13:43,865
+Good luck.
+
+238
+00:13:49,796 --> 00:13:50,833
+Phoenix signing in.
+
+239
+00:13:50,926 --> 00:13:53,159
+Copy. We have you. It's the third door on the left.
+
+240
+00:14:01,376 --> 00:14:03,369
+Make it quick. You're about to have company.
+
+241
+00:14:11,122 --> 00:14:11,873
+I'm in.
+
+242
+00:14:12,012 --> 00:14:14,007
+Okay, plot number 430.
+
+243
+00:14:42,259 --> 00:14:44,205
+Phoenix, report. Did you get the decoder?
+
+244
+00:14:44,298 --> 00:14:49,296
+Negative. Moving to check the rest of the inventory.
+
+245
+00:14:56,674 --> 00:14:58,332
+Phoenix, we lost visual.
+
+246
+00:14:59,388 --> 00:15:00,856
+Still searching for the decoder.
+
+247
+00:15:02,068 --> 00:15:03,299
+Phoenix, you've got incoming.
+
+248
+00:15:03,345 --> 00:15:05,241
+Get out of there now.
+
+249
+00:15:06,529 --> 00:15:09,094
+Okay. I just found the disk.
+
+250
+00:15:16,821 --> 00:15:19,348
+Outrigger, abort. Go to plan "B."
+
+251
+00:15:20,701 --> 00:15:21,789
+Copy that.
+
+252
+00:15:21,881 --> 00:15:23,635
+Phoenix, we're moving to alternate extraction.
+
+253
+00:15:23,727 --> 00:15:25,721
+Get to the roof immediately.
+
+254
+00:15:42,395 --> 00:15:44,960
+Base, plan "b" better be in effect!
+
+255
+00:16:13,123 --> 00:16:14,256
+I checked with Marshall.
+
+256
+00:16:14,350 --> 00:16:15,865
+The decoder's still in analysis.
+
+257
+00:16:15,959 --> 00:16:17,235
+Sloane's following protocol.
+
+258
+00:16:17,327 --> 00:16:19,512
+No. Since we got back from Paris,
+
+259
+00:16:19,605 --> 00:16:22,217
+he's made more than a dozen calls from a secure line in his home.
+
+260
+00:16:22,311 --> 00:16:23,541
+Were you able to trace the calls?
+
+261
+00:16:23,681 --> 00:16:25,054
+They were routed through relay stations,
+
+262
+00:16:25,146 --> 00:16:27,473
+but I narrowed them down to a number in Brussels.
+
+263
+00:16:27,567 --> 00:16:30,398
+Syd, we need to get into Sloane's house.
+
+264
+00:16:31,050 --> 00:16:33,329
+If we could copy the encryption key from his secure phone,
+
+265
+00:16:33,376 --> 00:16:36,179
+we could crack the calls to gain access to his conversations.
+
+266
+00:16:36,271 --> 00:16:37,265
+Yeah, but how?
+
+267
+00:16:39,038 --> 00:16:40,886
+Sydney, a word.
+
+268
+00:16:42,568 --> 00:16:43,606
+My office.
+
+269
+00:16:47,902 --> 00:16:50,515
+I'm sure I don't have to inform you of the consequences
+
+270
+00:16:50,607 --> 00:16:53,029
+had either of you been apprehended by the french police.
+
+271
+00:16:54,010 --> 00:16:55,430
+With all due respect, we weren't.
+
+272
+00:16:55,522 --> 00:16:58,469
+Sydney, you took a long time in the evidence room.
+
+273
+00:16:58,654 --> 00:17:00,075
+I assume you read my debrief.
+
+274
+00:17:00,215 --> 00:17:02,924
+The decoder disk was misfiled. I had to search the rest of the inventory.
+
+275
+00:17:03,045 --> 00:17:06,135
+During which time, Nadia and Weiss lost visual contact with you.
+
+276
+00:17:06,275 --> 00:17:07,075
+Was that my fault?
+
+277
+00:17:07,168 --> 00:17:09,734
+Once you were out of view of the security camera,
+
+278
+00:17:09,828 --> 00:17:12,630
+you just happened to be able to locate the decoder disk?
+
+279
+00:17:12,722 --> 00:17:13,809
+That's correct.
+
+280
+00:17:22,306 --> 00:17:23,584
+Perhaps I shouldn't,
+
+281
+00:17:25,713 --> 00:17:28,182
+but I expect better from you.
+
+282
+00:17:43,920 --> 00:17:46,629
+This might not be the best time, but I thought you should know.
+
+283
+00:17:47,422 --> 00:17:48,938
+Today's Nadia's birthday.
+
+284
+00:17:49,590 --> 00:17:51,154
+She says she doesn't want to celebrate,
+
+285
+00:17:51,248 --> 00:17:53,574
+but maybe she'd change her mind if the invitation came from you.
+
+286
+00:17:53,900 --> 00:17:56,131
+Actually, I didn't know when --
+
+287
+00:18:01,782 --> 00:18:03,820
+Well, what do you think she might like?
+
+288
+00:18:04,194 --> 00:18:05,518
+Something simple.
+
+289
+00:18:07,058 --> 00:18:08,955
+Family dinner, maybe.
+
+290
+00:18:09,048 --> 00:18:10,517
+At your house.
+
+291
+00:18:13,085 --> 00:18:14,505
+That's a good idea.
+
+292
+00:18:15,065 --> 00:18:15,913
+Thank you.
+
+293
+00:18:32,211 --> 00:18:34,158
+Think your uncle wants to listen to the game?
+
+294
+00:18:36,771 --> 00:18:39,671
+I don't know, I'm not sure he was much of a basketball fan.
+
+295
+00:18:40,931 --> 00:18:42,638
+Do you think he can hear it?
+
+296
+00:18:42,730 --> 00:18:43,960
+Well, you never know.
+
+297
+00:18:44,099 --> 00:18:45,377
+I've known people to come out of comas,
+
+298
+00:18:45,470 --> 00:18:47,034
+and when you ask them what did it,
+
+299
+00:18:47,499 --> 00:18:50,638
+lots of times they say that it was the sound of a loved one's voice
+
+300
+00:18:50,729 --> 00:18:52,532
+that  guided them back.
+
+301
+00:18:54,913 --> 00:18:56,906
+Patients' hands get so dry.
+
+302
+00:18:58,539 --> 00:19:00,294
+Were you and your uncle close?
+
+303
+00:19:00,807 --> 00:19:02,132
+No, not really.
+
+304
+00:19:02,224 --> 00:19:03,740
+Didn't see him much at all after my father died.
+
+305
+00:19:03,880 --> 00:19:05,825
+He must have been a good man, your father.
+
+306
+00:19:06,273 --> 00:19:08,503
+Sometimes he's all David would talk about.
+
+307
+00:19:11,305 --> 00:19:13,298
+Oh. You know what?
+
+308
+00:19:13,763 --> 00:19:15,947
+David was keeping something for him.
+
+309
+00:19:17,860 --> 00:19:18,900
+For who, my father?
+
+310
+00:19:18,993 --> 00:19:20,890
+I think so. Maybe he wasn't clear,
+
+311
+00:19:21,029 --> 00:19:24,215
+but he said it was for Bill when he came back.
+
+312
+00:19:27,529 --> 00:19:29,667
+I suppose you should have it.
+
+313
+00:19:53,887 --> 00:19:55,071
+What do you think?
+
+314
+00:19:59,926 --> 00:20:01,822
+It's pretty. It's perfect, actually.
+
+315
+00:20:01,916 --> 00:20:02,763
+Thanks.
+
+316
+00:20:02,857 --> 00:20:04,612
+Sure. You can borrow that necklace anytime.
+
+317
+00:20:04,844 --> 00:20:07,009
+I don't mean that. Well, that too.
+
+318
+00:20:07,988 --> 00:20:10,315
+I mean tonight, the party.
+
+319
+00:20:11,808 --> 00:20:12,752
+Really?
+
+320
+00:20:13,312 --> 00:20:17,975
+Because you seemed a little annoyed when I told your dad about your birthday.
+
+321
+00:20:18,067 --> 00:20:21,300
+I was, but the idea of being with family --
+
+322
+00:20:21,579 --> 00:20:23,286
+it feels better than I thought.
+
+323
+00:20:25,153 --> 00:20:26,716
+I'm so glad you didn't listen.
+
+324
+00:20:26,949 --> 00:20:28,082
+I usually don't.
+
+325
+00:20:29,671 --> 00:20:32,713
+You know, the fact that you're even willing to have dinner with my father --
+
+326
+00:20:32,805 --> 00:20:34,560
+it means so much.
+
+327
+00:20:36,101 --> 00:20:37,520
+I'm glad.
+
+328
+00:20:39,154 --> 00:20:40,385
+I'll get my coat.
+
+329
+00:20:50,096 --> 00:20:52,520
+I'm telling you, she was crazy in Paris.
+
+330
+00:20:52,892 --> 00:20:55,123
+I'm not kidding. I'm thinking about making my next car a hybrid.
+
+331
+00:20:55,215 --> 00:20:57,162
+You should. I have one.
+
+332
+00:20:58,281 --> 00:20:59,797
+What do you think, Arvin?
+
+333
+00:21:05,727 --> 00:21:07,577
+Uh, Mr. Sloane. Ahem.
+
+334
+00:21:08,276 --> 00:21:10,984
+Well, considering the rapidly growing demand for fuel
+
+335
+00:21:11,076 --> 00:21:12,784
+in nations like China and India,
+
+336
+00:21:12,877 --> 00:21:16,396
+not to mention the world's oil production is expected to peak
+
+337
+00:21:16,488 --> 00:21:19,292
+in the next five years and then sharply plummet,
+
+338
+00:21:19,479 --> 00:21:22,378
+I think it's pretty clear we're looking at an exponential rise
+
+339
+00:21:22,797 --> 00:21:24,504
+in global conflict,
+
+340
+00:21:24,642 --> 00:21:29,354
+along with an energy crisis of unfathomable proportions.
+
+341
+00:21:33,790 --> 00:21:37,261
+So, yes, I'd say a hybrid is an excellent idea.
+
+342
+00:21:41,556 --> 00:21:43,740
+That's what I thought.
+
+343
+00:21:43,833 --> 00:21:45,587
+How about a toast?
+
+344
+00:21:47,361 --> 00:21:49,383
+The chinese have a saying --
+
+345
+00:21:49,989 --> 00:21:52,792
+"one joy scatters a thousand griefs."
+
+346
+00:21:54,146 --> 00:21:56,805
+So it is in that spirit that I wish you, Nadia,
+
+347
+00:21:57,085 --> 00:21:59,746
+the same joy that you bring to me every day.
+
+348
+00:22:00,399 --> 00:22:03,440
+I never dreamed that something so precious would come into my life.
+
+349
+00:22:04,513 --> 00:22:06,649
+Because of you, I am a changed man.
+
+350
+00:22:12,813 --> 00:22:15,426
+- Happy birthday.
+- Thanks.
+
+351
+00:22:15,611 --> 00:22:18,940
+- Happy birthday.
+- Happy birthday.
+
+352
+00:22:27,112 --> 00:22:28,055
+Hello?
+
+353
+00:22:28,195 --> 00:22:30,236
+- It's me.
+- It's Vaughn.
+
+354
+00:22:30,329 --> 00:22:33,847
+No, I have a minute. Are you okay? How's your uncle?
+
+355
+00:22:46,303 --> 00:22:48,885
+Sloane's secure phone should be in his desk.
+
+356
+00:22:49,118 --> 00:22:50,585
+Okay, Dixon, stand by.
+
+357
+00:23:28,415 --> 00:23:30,073
+No, no, no, no. Unh-unh. Sit down.
+
+358
+00:23:30,167 --> 00:23:30,729
+Why?
+
+359
+00:23:30,868 --> 00:23:32,527
+Because you're not gonna lift a finger on your birthday.
+
+360
+00:23:32,620 --> 00:23:33,135
+Come on.
+
+361
+00:23:33,228 --> 00:23:35,889
+Well, I have something for you, so I'm going to get it.
+
+362
+00:23:41,959 --> 00:23:43,236
+Okay, I'm transmitting now.
+
+363
+00:23:43,330 --> 00:23:46,181
+Copy. I'm receiving the phone's encryption key.
+
+364
+00:23:52,438 --> 00:23:53,571
+Transmission good.
+
+365
+00:24:12,858 --> 00:24:13,945
+Nadia.
+
+366
+00:24:23,052 --> 00:24:25,520
+Birthday cake's ready.
+
+367
+00:24:28,397 --> 00:24:29,245
+Okay.
+
+368
+00:24:46,010 --> 00:24:46,811
+Nadia.
+
+369
+00:24:47,416 --> 00:24:48,027
+Thank you.
+
+370
+00:24:52,817 --> 00:24:53,953
+There she is.
+
+371
+00:24:54,232 --> 00:24:56,082
+- How's Vaughn?
+- He's okay.
+
+372
+00:24:57,295 --> 00:24:59,621
+I think it's hard for him.
+
+373
+00:24:59,854 --> 00:25:00,846
+It must be.
+
+374
+00:25:03,040 --> 00:25:04,222
+All right, don't worry.
+
+375
+00:25:04,315 --> 00:25:06,975
+I made them promise they would not sing to you.
+
+376
+00:25:07,488 --> 00:25:08,908
+This is a little something I whipped up.
+
+377
+00:25:09,141 --> 00:25:13,471
+Uh, chocolate icing, chocolate cake, chocolate mousse --
+
+378
+00:25:13,517 --> 00:25:15,653
+just for you. Happy birthday.
+
+379
+00:25:17,520 --> 00:25:19,467
+Come on, Nadia, make a wish.
+
+380
+00:25:29,692 --> 00:25:30,665
+Speech.
+
+381
+00:25:37,156 --> 00:25:40,245
+I had no idea what to expect from tonight.
+
+382
+00:25:41,739 --> 00:25:44,353
+I've never celebrated anything with family before.
+
+383
+00:25:45,798 --> 00:25:49,556
+And, um, I wasn't even sure I wanted to, but...
+
+384
+00:25:50,629 --> 00:25:52,575
+Sydney insisted.
+
+385
+00:26:02,101 --> 00:26:06,193
+Now I see what I've been missing all these years.
+
+386
+00:26:10,113 --> 00:26:14,539
+The chance to know my family for the kind of people they really are.
+
+387
+00:26:18,556 --> 00:26:19,499
+Hear, hear.
+
+388
+00:26:21,226 --> 00:26:22,264
+Happy birthday.
+
+389
+00:26:35,247 --> 00:26:36,189
+You used me!
+
+390
+00:26:36,283 --> 00:26:39,087
+You wanted to break into my father's office, and you used me to do it!
+
+391
+00:26:39,179 --> 00:26:40,505
+- Nadia, listen to me --
+- No!
+
+392
+00:26:40,550 --> 00:26:42,257
+Tonight was nothing but a ploy.
+
+393
+00:26:42,349 --> 00:26:43,198
+That's not true.
+
+394
+00:26:43,291 --> 00:26:45,189
+You just said you suspected my father.
+
+395
+00:26:45,281 --> 00:26:47,894
+I do, but for the first time in my life,
+
+396
+00:26:48,125 --> 00:26:49,928
+I don't want him to be guilty.
+
+397
+00:26:50,300 --> 00:26:53,104
+Nadia, I was trying to prove that he's innocent.
+
+398
+00:27:01,649 --> 00:27:03,166
+Hi. Is Sydney home?
+
+399
+00:27:03,258 --> 00:27:05,536
+Whatever you found out about my father,
+
+400
+00:27:05,675 --> 00:27:07,430
+I have a right to know.
+
+401
+00:28:31,962 --> 00:28:33,146
+Quite a coup,
+
+402
+00:28:33,378 --> 00:28:35,705
+stealing the decoder from police custody.
+
+403
+00:28:35,797 --> 00:28:38,743
+No less difficult that obtaining the index from the CIA.
+
+404
+00:28:39,069 --> 00:28:42,637
+It seems we're both blessed with unique talents.
+
+405
+00:28:42,916 --> 00:28:44,430
+The others have agreed.
+
+406
+00:28:44,663 --> 00:28:46,512
+They're leaving for Brussels in the morning.
+
+407
+00:28:46,885 --> 00:28:50,405
+It will be nice to have you back at the table, Arvin.
+
+408
+00:28:51,478 --> 00:28:53,613
+Sloane is reconstructing the Alliance.
+
+409
+00:28:54,126 --> 00:28:55,833
+Unless you require more evidence.
+
+410
+00:28:57,560 --> 00:28:58,933
+You've proved your point.
+
+411
+00:28:59,072 --> 00:29:01,160
+Do we have any idea where the meeting's taking place?
+
+412
+00:29:02,186 --> 00:29:04,515
+All we know is what you heard -- Brussels.
+
+413
+00:29:06,428 --> 00:29:07,324
+All right then.
+
+414
+00:29:08,957 --> 00:29:11,857
+We'll set up a mobile surveillance, track Sloane to the meeting.
+
+415
+00:29:11,949 --> 00:29:13,751
+Once he's led us there, we'll move in.
+
+416
+00:29:14,030 --> 00:29:15,355
+Who else knows about this?
+
+417
+00:29:15,448 --> 00:29:17,584
+Agents Sydney Bristow and Nadia Santos.
+
+418
+00:29:18,518 --> 00:29:20,797
+You've involved agent Santos in this matter?
+
+419
+00:29:20,935 --> 00:29:23,025
+It became necessary to do so,
+
+420
+00:29:23,722 --> 00:29:26,861
+but she's prepared to accept the truth about her father.
+
+421
+00:29:29,521 --> 00:29:31,609
+All right then. Let's do it.
+
+422
+00:29:46,741 --> 00:29:47,072
+I need the report.
+
+423
+00:29:47,209 --> 00:29:47,915
+Yeah.
+
+424
+00:29:48,848 --> 00:29:52,033
+I told you, I need the report on my desk by tomorrow.
+
+425
+00:29:52,080 --> 00:29:52,737
+That's it.
+
+426
+00:29:53,158 --> 00:29:55,434
+- You wanted to see me?
+- Your scarf.
+
+427
+00:29:56,461 --> 00:29:57,644
+You left this last night.
+
+428
+00:29:58,063 --> 00:29:58,816
+Thanks.
+
+429
+00:29:59,749 --> 00:30:01,121
+You seemed like you were in a hurry.
+
+430
+00:30:02,428 --> 00:30:03,372
+Is everything all right?
+
+431
+00:30:03,790 --> 00:30:05,116
+Um, yeah. Why?
+
+432
+00:30:05,957 --> 00:30:09,331
+Last night, I thought I detected some tension between you and your sister.
+
+433
+00:30:09,425 --> 00:30:11,227
+No, nothing like that.
+
+434
+00:30:11,785 --> 00:30:13,160
+I was just overwhelmed.
+
+435
+00:30:14,513 --> 00:30:17,220
+I still have to get used to being around family.
+
+436
+00:30:18,107 --> 00:30:20,529
+Oh, I see. Okay.
+
+437
+00:30:21,088 --> 00:30:22,748
+Well, if you ever need to talk,
+
+438
+00:30:22,887 --> 00:30:24,974
+just know that my door is always open.
+
+439
+00:30:25,114 --> 00:30:25,770
+Thank you.
+
+440
+00:30:28,992 --> 00:30:30,032
+Are you going somewhere?
+
+441
+00:30:30,171 --> 00:30:31,782
+Yeah. Just an overnight.
+
+442
+00:30:32,622 --> 00:30:34,615
+- Where to?
+- Brussels.
+
+443
+00:30:37,977 --> 00:30:40,666
+- Have a safe trip.
+- Thanks.
+
+444
+00:31:01,823 --> 00:31:03,243
+I should have told you sooner.
+
+445
+00:31:03,335 --> 00:31:04,566
+You don't need to protect me.
+
+446
+00:31:06,200 --> 00:31:07,095
+I know that.
+
+447
+00:31:09,382 --> 00:31:12,329
+It's just it's always been black and white where your father's concerned.
+
+448
+00:31:12,423 --> 00:31:13,842
+I'm not used to seeing the gray.
+
+449
+00:31:13,935 --> 00:31:15,450
+What if it was your father?
+
+450
+00:31:15,591 --> 00:31:17,678
+He's done his share of compromising things.
+
+451
+00:31:17,939 --> 00:31:19,742
+Would you work this hard to punish him?
+
+452
+00:31:34,669 --> 00:31:35,660
+Target's on the move.
+
+453
+00:31:35,754 --> 00:31:36,698
+Is the tracker hot?
+
+454
+00:31:36,884 --> 00:31:39,688
+He just got onto rue Voltaire, heading due north.
+
+455
+00:31:41,367 --> 00:31:43,169
+He's turning towards the river.
+
+456
+00:31:49,754 --> 00:31:50,792
+The dockyards.
+
+457
+00:32:09,567 --> 00:32:10,604
+Do you have a visual?
+
+458
+00:32:10,883 --> 00:32:12,781
+Sloane's approaching the building on foot.
+
+459
+00:32:13,480 --> 00:32:15,712
+Gentlemen, as promised...
+
+460
+00:32:16,937 --> 00:32:19,078
+the Blackwell index.
+
+461
+00:32:45,419 --> 00:32:46,410
+He went into the building.
+
+462
+00:32:46,531 --> 00:32:47,617
+All right, we need to move.
+
+463
+00:32:47,803 --> 00:32:49,224
+You'll monitor the perimeter.
+
+464
+00:33:03,094 --> 00:33:04,133
+You're late.
+
+465
+00:33:17,678 --> 00:33:18,812
+Evergreen, report.
+
+466
+00:33:19,071 --> 00:33:20,397
+All clear. You have go.
+
+467
+00:33:44,823 --> 00:33:46,370
+Where's Devereaux? Where is he?
+
+468
+00:33:46,416 --> 00:33:47,501
+You have no idea what you're doing.
+
+469
+00:33:47,547 --> 00:33:48,587
+Where's the Alliance meeting?
+
+470
+00:33:48,679 --> 00:33:50,462
+It's not here. It's in another building.
+
+471
+00:33:50,649 --> 00:33:52,289
+I am only surveilling.
+
+472
+00:33:58,594 --> 00:34:01,348
+So, we've heard rumors you've turned CIA.
+
+473
+00:34:01,534 --> 00:34:03,385
+Rumors were wrong.
+
+474
+00:34:06,046 --> 00:34:06,751
+Oh, my god.
+
+475
+00:34:18,284 --> 00:34:19,228
+It's good to be back.
+
+476
+00:34:26,325 --> 00:34:27,078
+Thank you.
+
+477
+00:34:27,217 --> 00:34:29,114
+If you knew the Alliance was regrouping,
+
+478
+00:34:29,208 --> 00:34:30,580
+why not alert the CIA?
+
+479
+00:34:30,907 --> 00:34:31,755
+You and I both know
+
+480
+00:34:31,848 --> 00:34:34,746
+that the CIA would never have allowed me to convene the Alliance leadership.
+
+481
+00:34:34,838 --> 00:34:36,070
+You're damn right.
+
+482
+00:34:36,208 --> 00:34:40,443
+I had to bait them into the open to I.D. the players, the infrastructure.
+
+483
+00:34:40,583 --> 00:34:41,765
+You should have come to me.
+
+484
+00:34:42,772 --> 00:34:43,765
+I went to Jack.
+
+485
+00:34:43,904 --> 00:34:45,515
+You sent my father to do your dirty work.
+
+486
+00:34:45,655 --> 00:34:47,886
+Your father demanded to go, Sydney.
+
+487
+00:34:48,025 --> 00:34:48,777
+He's lying.
+
+488
+00:34:48,917 --> 00:34:50,004
+No, Marcus, I'm not lying.
+
+489
+00:34:50,143 --> 00:34:52,899
+Like you, Jack would never trust me around the Blackwell index.
+
+490
+00:34:52,992 --> 00:34:56,845
+But he knew they would recognize him as my chief of operations at SD-6.
+
+491
+00:34:57,266 --> 00:35:00,593
+He insisted on delivering the decoder himself.
+
+492
+00:35:04,795 --> 00:35:06,215
+He doesn't have the real decoder.
+
+493
+00:35:06,308 --> 00:35:08,014
+Oh, no, you didn't.
+
+494
+00:35:27,163 --> 00:35:28,536
+What's going on, Jack?
+
+495
+00:35:34,681 --> 00:35:36,723
+I think the rumors are true.
+
+496
+00:35:37,096 --> 00:35:38,898
+I think this is a setup.
+
+497
+00:35:40,577 --> 00:35:42,189
+- Where is he?
+- Building 37.
+
+498
+00:35:44,056 --> 00:35:45,620
+Nadia, get to building 37!
+
+499
+00:36:04,255 --> 00:36:05,246
+Where's Sloane?
+
+500
+00:36:06,879 --> 00:36:07,872
+My guess?
+
+501
+00:36:08,711 --> 00:36:09,778
+Miles from here.
+
+502
+00:36:11,179 --> 00:36:12,551
+He knew the decoder was a fake.
+
+503
+00:36:12,690 --> 00:36:13,777
+He sold me out.
+
+504
+00:36:16,766 --> 00:36:19,475
+And when I find him, I'm going to kill the bastard --
+
+505
+00:36:21,761 --> 00:36:24,230
+just as soon as I'm done with you.
+
+506
+00:36:28,901 --> 00:36:30,035
+Where's Sloane?
+
+507
+00:36:41,430 --> 00:36:42,614
+Where is he?
+
+508
+00:37:02,976 --> 00:37:04,015
+Jack?
+
+509
+00:37:31,149 --> 00:37:31,950
+Dad.
+
+510
+00:37:35,358 --> 00:37:36,254
+I'm okay.
+
+511
+00:37:37,869 --> 00:37:38,670
+Really.
+
+512
+00:37:42,872 --> 00:37:43,912
+I'll wait in the car.
+
+513
+00:37:59,603 --> 00:38:00,451
+Thank you.
+
+514
+00:38:03,345 --> 00:38:06,294
+I'd like to think in the future you'll do the same for me.
+
+515
+00:38:26,701 --> 00:38:28,216
+David, it's Michael.
+
+516
+00:38:31,811 --> 00:38:33,852
+I found it -- dad's diary.
+
+517
+00:38:34,225 --> 00:38:37,553
+I don't understand. There are entries in here until 1982.
+
+518
+00:38:37,693 --> 00:38:40,783
+My father died in 1979.
+
+519
+00:38:40,967 --> 00:38:43,677
+Please, if you can hear me, I need you to wake up.
+
+520
+00:38:43,768 --> 00:38:44,952
+I need to know.
+
+521
+00:38:45,091 --> 00:38:46,989
+Have you seen him? Has he been here?
+
+522
+00:38:49,837 --> 00:38:51,619
+Is he alive?
+
+523
+00:38:55,587 --> 00:38:58,629
+Oh, I'm sorry. I didn't realize he had a visitor.
+
+524
+00:38:58,769 --> 00:38:59,712
+Everything okay?
+
+525
+00:38:59,805 --> 00:39:01,320
+Yeah, yeah, I'm fine. Thank you.
+
+526
+00:39:03,047 --> 00:39:05,613
+Oh, uh, wait. I need to talk to Rosemary.
+
+527
+00:39:05,984 --> 00:39:06,928
+I'm sorry. Who?
+
+528
+00:39:07,068 --> 00:39:10,300
+Uh, Rosemary. The nurse. She's been taking care of my uncle.
+
+529
+00:39:11,374 --> 00:39:13,032
+I don't recognize the name.
+
+530
+00:39:13,126 --> 00:39:17,121
+What? That's impossible. She covers the 3:00 and 10:00 rounds.
+
+531
+00:39:17,775 --> 00:39:21,246
+Sir, there are no 3:00 and 10:00 rounds.
+
+532
+00:39:22,085 --> 00:39:23,219
+I'm sorry.
+
+533
+00:39:37,882 --> 00:39:40,830
+I trust that you'll remove the tap on Sloane's phone.
+
+534
+00:39:40,923 --> 00:39:42,200
+Already done.
+
+535
+00:39:42,247 --> 00:39:44,240
+And the decoder disk. The real one.
+
+536
+00:39:44,286 --> 00:39:45,515
+It's been turned over.
+
+537
+00:39:45,840 --> 00:39:49,171
+Good. There's a lot of outside pressure on this task force.
+
+538
+00:39:49,262 --> 00:39:50,826
+I don't want it compromised from within.
+
+539
+00:39:50,919 --> 00:39:51,768
+I understand.
+
+540
+00:39:52,234 --> 00:39:53,559
+You know, Marcus,
+
+541
+00:39:54,585 --> 00:39:57,198
+when I asked you to keep an eye on Sloane, I meant it.
+
+542
+00:39:57,291 --> 00:39:59,045
+But there are limits.
+
+543
+00:39:59,977 --> 00:40:02,162
+That being said, neither Sloane nor I
+
+544
+00:40:02,254 --> 00:40:04,915
+are pursuing disciplinary actions at this time.
+
+545
+00:40:06,174 --> 00:40:07,834
+You're an asset to this team.
+
+546
+00:40:08,999 --> 00:40:12,281
+So if anything else comes up, be sure to call me.
+
+547
+00:40:12,700 --> 00:40:17,459
+- Anything?
+- Within reason.
+
+548
+00:40:21,568 --> 00:40:23,132
+That looks like it went well.
+
+549
+00:40:23,646 --> 00:40:24,589
+Yeah.
+
+550
+00:40:27,716 --> 00:40:29,088
+I'm glad it's over.
+
+551
+00:40:30,488 --> 00:40:31,623
+Is it?
+
+552
+00:40:34,471 --> 00:40:35,510
+We'll see.
+
+553
+00:41:11,097 --> 00:41:11,783
+Yes?
+
+554
+00:41:12,763 --> 00:41:13,516
+It's working.
+
+555
+00:41:15,056 --> 00:41:15,952
+Does it have what we need?
+
+556
+00:41:17,398 --> 00:41:18,533
+Oh, yes.
+
+557
+00:41:20,353 --> 00:41:21,582
+And more.
+
+557
+00:41:25,453 --> 00:41:27,782
+Transcript/Synchro: RaceMan/Travis
+www.forom.com

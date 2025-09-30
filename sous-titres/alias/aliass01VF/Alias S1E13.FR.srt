@@ -1,0 +1,2025 @@
+1
+00:00:03,521 --> 00:00:05,564
+<i>Je m'appelle Sydney Bristow.</i>
+
+2
+00:00:05,648 --> 00:00:10,736
+<i>Il y a 7 ans, on m'a recrutée
+au SD-6, branche secrète de la CIA.</i>
+
+3
+00:00:10,820 --> 00:00:14,406
+<i>J'ai juré de garder le secret,
+mais je racontai tout à mon fiancé.</i>
+
+4
+00:00:14,490 --> 00:00:17,952
+<i>Quand le chef du SD-6 l'a su,
+il ordonna son assassinat.</i>
+
+5
+00:00:19,078 --> 00:00:23,040
+<i>J'ai ainsi appris la vérité:
+Le SD-6 ne fait pas partie de la CIA.</i>
+
+6
+00:00:23,124 --> 00:00:26,335
+<i>Le SD-6 est une organisation
+de l'ennemi que je croyais combattre.</i>
+
+7
+00:00:26,418 --> 00:00:29,588
+<i>J'ai rejoint les seuls
+à pouvoir m'aider à les démanteler.</i>
+
+8
+00:00:29,672 --> 00:00:34,927
+<i>Je suis un agent double de la CIA.
+Mon contact est Michael Vaughn.</i>
+
+9
+00:00:36,220 --> 00:00:41,350
+<i>Une autre personne connaît la vérité.
+Un autre agent double du SD-6.</i>
+
+10
+00:00:41,434 --> 00:00:43,978
+<i>Quelqu'un que je connais à peine.</i>
+
+11
+00:00:44,061 --> 00:00:45,688
+<i>Mon père.</i>
+
+12
+00:00:47,148 --> 00:00:50,192
+Je ne veux plus de ce boulot.
+Je veux démissionner.
+
+13
+00:00:50,276 --> 00:00:52,611
+Vous participez
+au démantèlement du SD-6.
+
+14
+00:00:52,695 --> 00:00:55,114
+- Plus maintenant.
+- Sydney.
+
+15
+00:00:56,615 --> 00:00:59,160
+- Vous aimez le hockey? Les Kings?
+- Comment...?
+
+16
+00:00:59,243 --> 00:01:03,622
+Ils jouent contre les Islanders.
+On devrait y aller.
+
+17
+00:01:04,665 --> 00:01:05,958
+Vous ne pouvez pas.
+
+18
+00:01:06,041 --> 00:01:08,043
+- C'est du suicide.
+- Je ne pense pas.
+
+19
+00:01:08,127 --> 00:01:10,421
+C'est quoi, ta stratégie de sortie?
+
+20
+00:01:22,808 --> 00:01:24,018
+ANALYSE TERMINÉE
+
+21
+00:01:24,101 --> 00:01:25,060
+Cole.
+
+22
+00:01:33,152 --> 00:01:35,154
+Procédures de verrouillage
+d'urgence.
+
+23
+00:01:35,237 --> 00:01:39,116
+L'ascenseur retourne au SD-6.
+La porte s'ouvrira automatiquement.
+
+24
+00:01:41,202 --> 00:01:42,369
+Que voulez-vous?
+
+25
+00:01:42,453 --> 00:01:47,333
+Un petit quelque chose
+qui se trouve dans le coffre du SD-6.
+
+26
+00:01:47,416 --> 00:01:50,002
+Sloane a dû activer
+le dispositif de sécurité.
+
+27
+00:01:50,085 --> 00:01:54,590
+Il y a 250 kg de C4
+dans l'infrastructure du bâtiment.
+
+28
+00:01:54,673 --> 00:01:57,510
+<i>Ouvrir le coffre fera exploser le C4.</i>
+
+29
+00:01:57,593 --> 00:01:59,845
+Il faut brouiller
+les codes du coffre.
+
+30
+00:02:36,507 --> 00:02:39,635
+- Papa, qu'est-ce que tu fais là?
+- Reste où tu es.
+
+31
+00:02:39,718 --> 00:02:43,180
+- Non, papa. Ne fais pas ça.
+- Ne tirez pas! J'arrive!
+
+32
+00:02:43,806 --> 00:02:45,766
+Je sors!
+
+33
+00:03:02,533 --> 00:03:04,201
+Ça va?
+
+34
+00:03:05,369 --> 00:03:08,205
+Oui, à part ma blessure à la tête.
+
+35
+00:03:12,001 --> 00:03:15,546
+M. Le Client cool était en train
+de ramper dans les conduits.
+
+36
+00:03:15,629 --> 00:03:17,298
+Fais-le asseoir.
+
+37
+00:03:19,925 --> 00:03:22,219
+Il faut longtemps
+pour ouvrir le coffre?
+
+38
+00:03:22,303 --> 00:03:25,097
+Plus vite je m'y mets,
+plus vite je le saurai.
+
+39
+00:03:29,143 --> 00:03:31,896
+Je veux de bonnes nouvelles,
+ma belle.
+
+40
+00:03:31,979 --> 00:03:33,314
+Je sais.
+
+41
+00:03:34,482 --> 00:03:37,735
+Endo, Tchen, je vais
+dans la salle de conversation.
+
+42
+00:03:53,793 --> 00:03:58,255
+<i>Ce plan te conduira aux explosifs,
+placés en trois endroits.</i>
+
+43
+00:04:01,258 --> 00:04:04,428
+<i>Il faut tous les désamorcer</i>
+
+44
+00:04:04,512 --> 00:04:06,514
+<i>avant l'ouverture du coffre.</i>
+
+45
+00:04:09,225 --> 00:04:10,893
+<i>Bonne chance.</i>
+
+46
+00:04:29,161 --> 00:04:31,580
+Je peux envoyer un e-mail à Langley.
+
+47
+00:04:31,664 --> 00:04:33,707
+- On ne peut pas faire ça.
+- Ecoutez.
+
+48
+00:04:33,791 --> 00:04:35,960
+Il nous faut un démenti plausible.
+
+49
+00:04:36,043 --> 00:04:39,463
+- La CIA ne reconnaît pas le SD-6.
+- Je sais.
+
+50
+00:04:39,547 --> 00:04:43,467
+Mais on ne peut pas laisser ces gens
+obtenir ce qu'ils cherchent.
+
+51
+00:04:43,551 --> 00:04:45,636
+N'intervenez pas.
+
+52
+00:04:45,719 --> 00:04:49,098
+L'homme à la tête du groupe
+prétend être un ancien du SD-6.
+
+53
+00:04:49,181 --> 00:04:54,437
+Sloane l'a trahi en Tchétchénie.
+Il est en train d'interroger Sloane.
+
+54
+00:04:54,520 --> 00:04:57,565
+Ou peut-être de le tuer.
+Ensuite, ce sera notre tour.
+
+55
+00:04:58,941 --> 00:05:00,609
+Sydney est dans les conduits.
+
+56
+00:05:00,693 --> 00:05:03,779
+- Quoi?
+- Le blocage du coffre a été activé.
+
+57
+00:05:03,863 --> 00:05:07,741
+L'ouverture du coffre
+fera exploser les charges de C4
+
+58
+00:05:07,825 --> 00:05:10,870
+cachées au niveau intermédiaire
+du bâtiment.
+
+59
+00:05:10,953 --> 00:05:15,666
+Sydney peut les désamorcer, mais
+seulement s'il n'y a pas de surprise.
+
+60
+00:05:15,749 --> 00:05:18,878
+Raison de plus
+pour joindre Langley.
+
+61
+00:05:19,837 --> 00:05:24,133
+Jack, en temps normal,
+vous pouvez donner des ordres.
+
+62
+00:05:25,092 --> 00:05:27,678
+Mais nous ne sommes pas
+en temps normal.
+
+63
+00:06:17,812 --> 00:06:21,023
+<i>Les explosifs se trouvent
+derrière une plaque d'acier,</i>
+
+64
+00:06:21,107 --> 00:06:23,609
+<i>au bout des couloirs
+indiqués sur le plan.</i>
+
+65
+00:06:44,922 --> 00:06:46,215
+ANALYSE EN COURS
+
+66
+00:06:50,302 --> 00:06:54,515
+- On en a deux. Plus que dix.
+- Bien reçu.
+
+67
+00:06:58,102 --> 00:07:01,439
+Je ne sais pas
+comment vous vous sentez, là,
+
+68
+00:07:01,522 --> 00:07:03,774
+mais cette douleur,
+
+69
+00:07:03,858 --> 00:07:06,610
+c'est de la rigolade
+à côté de ce qui vous attend.
+
+70
+00:07:08,737 --> 00:07:10,823
+Vous me faites porter le chapeau,
+
+71
+00:07:10,948 --> 00:07:13,325
+mais vous connaissez la vérité.
+
+72
+00:07:13,409 --> 00:07:15,911
+Vos hommes sont morts
+par votre faute.
+
+73
+00:07:15,995 --> 00:07:19,248
+- L'hélicoptère était là.
+- L'un de mes hommes était blessé.
+
+74
+00:07:19,331 --> 00:07:21,959
+J'essayais de sauver Witney.
+Vous le saviez!
+
+75
+00:07:22,042 --> 00:07:24,753
+Aux dépens de tous les autres.
+
+76
+00:07:24,837 --> 00:07:28,299
+Ces hommes se croyaient
+en sécurité avec vous.
+
+77
+00:07:28,382 --> 00:07:31,802
+Ils ont mis leur vie
+entre vos mains.
+
+78
+00:07:31,886 --> 00:07:34,472
+Et vous les avez conduits
+à l'abattoir.
+
+79
+00:08:13,469 --> 00:08:18,140
+- Allez voir.
+- Entendu.
+
+80
+00:08:56,929 --> 00:08:58,681
+MARCUS DIX ON.
+AGENT DU SD-6.
+
+81
+00:08:58,764 --> 00:09:01,267
+EMPLO YÉ NO. 8736B
+SOMMES ATTAQUÉS. À L'AIDE.
+
+82
+00:09:12,570 --> 00:09:14,238
+Non.
+
+83
+00:09:32,465 --> 00:09:35,801
+Trois des moniteurs de sécurité
+sont brouillés.
+
+84
+00:09:36,635 --> 00:09:39,805
+<i>- Trouvez-en la cause.
+- A vos ordres.</i>
+
+85
+00:09:54,320 --> 00:09:59,700
+Ecoute ça. Le serveur de Langley
+vient de recevoir un e-mail du SD-6.
+
+86
+00:09:59,784 --> 00:10:02,745
+- De Jack?
+- Non, pas de Jack. De Dixon.
+
+87
+00:10:02,828 --> 00:10:04,705
+Dixon m'envoie un e-mail?
+
+88
+00:10:04,789 --> 00:10:09,418
+Il demande de l'aide à la CIA.
+C'est eux qui t'ont envoyé ça.
+
+89
+00:10:09,502 --> 00:10:12,129
+"Marcus Dixon. Agent du SD-6."
+
+90
+00:10:12,213 --> 00:10:15,174
+- "Sommes attaqués. A l'aide"?
+- Que se passe-t-il?
+
+91
+00:10:15,257 --> 00:10:17,426
+- Vaughn.
+- Pas maintenant!
+
+92
+00:10:17,510 --> 00:10:20,179
+- Nous avons un problème.
+- M. Vaughn.
+
+93
+00:10:20,262 --> 00:10:22,723
+Vous devriez jeter un œil.
+
+94
+00:10:22,807 --> 00:10:25,643
+Dure journée.
+Espérons que ça ne l'aggrave pas.
+
+95
+00:10:25,726 --> 00:10:29,688
+Je sais que j'ai été suspendu,
+mais ce message m'a été envoyé.
+
+96
+00:10:29,772 --> 00:10:32,650
+Permettez-vous que je le lise?
+
+97
+00:10:32,733 --> 00:10:35,861
+C'est mon affaire. Vaughn
+n'est plus le contact de Bristow.
+
+98
+00:10:38,280 --> 00:10:41,617
+- On a eu confirmation?
+- Avec un cadavre? Non.
+
+99
+00:10:41,700 --> 00:10:43,744
+C'est une question légitime.
+
+100
+00:10:44,411 --> 00:10:46,997
+- Non, monsieur.
+- Et les autorités locales?
+
+101
+00:10:47,081 --> 00:10:50,042
+Les pompiers, la police?
+Rien n'a été signalé?
+
+102
+00:10:50,126 --> 00:10:53,212
+En dehors
+d'un message désespéré d'un agent?
+
+103
+00:10:53,295 --> 00:10:55,756
+- Vous voulez envoyer une équipe?
+- Il faut agir.
+
+104
+00:10:55,840 --> 00:10:59,510
+Comme au parc de Denatir?
+Je crois que c'est un coup de Sloane.
+
+105
+00:10:59,593 --> 00:11:02,096
+- Quoi?
+- Je crois qu'il bluffe encore.
+
+106
+00:11:02,179 --> 00:11:04,515
+En envoyant la CIA au SD-6?
+
+107
+00:11:04,598 --> 00:11:06,308
+Sloane est comme ça.
+
+108
+00:11:06,392 --> 00:11:08,811
+- Que fait-il ici?
+- On va attendre.
+
+109
+00:11:08,894 --> 00:11:10,563
+- Mais, monsieur...
+- On attend!
+
+110
+00:11:10,646 --> 00:11:12,773
+C'est bien compris?
+
+111
+00:11:21,615 --> 00:11:24,118
+Retourne convaincre Devlin.
+
+112
+00:11:24,201 --> 00:11:26,287
+- Inutile.
+- Tu ne peux pas y aller seul.
+
+113
+00:11:26,370 --> 00:11:29,457
+Le gardien a dit à mon ami flic
+que la banque avait fermé tôt.
+
+114
+00:11:29,540 --> 00:11:31,459
+- C'est possible.
+- Je l'aurais su.
+
+115
+00:11:31,542 --> 00:11:35,379
+- Il y a peut-être eu effraction.
+- Si je ne reviens pas, je suis mort.
+
+116
+00:11:37,715 --> 00:11:39,383
+C'est bon à savoir.
+
+117
+00:12:06,619 --> 00:12:08,788
+<i>- Et de cinq.
+- Bien reçu, ma belle.</i>
+
+118
+00:12:10,664 --> 00:12:12,124
+Alors...
+
+119
+00:12:13,375 --> 00:12:15,002
+C'est presque fini.
+
+120
+00:12:51,831 --> 00:12:54,041
+Alpha 14, attends les ordres.
+
+121
+00:14:53,994 --> 00:14:57,498
+Je suis agent fédéral.
+Sortez de la voiture.
+
+122
+00:14:57,581 --> 00:14:58,749
+Pas de problème.
+
+123
+00:15:26,777 --> 00:15:30,114
+Avez-vous vu M. Weiss?
+J'ai un appel de M. Vaughn pour lui.
+
+124
+00:15:31,115 --> 00:15:32,992
+Passez-le-moi.
+
+125
+00:15:35,911 --> 00:15:38,247
+- Equipe d'intervention.
+- Où est Weiss?
+
+126
+00:15:38,330 --> 00:15:41,041
+- Parti acheter une pizza.
+- J'ai la confirmation.
+
+127
+00:15:41,125 --> 00:15:43,502
+<i>- Je suis au SD-6.
+- Vous êtes au SD-6?</i>
+
+128
+00:15:43,586 --> 00:15:46,380
+- Vous avez entendu?
+- Vous manquez au protocole.
+
+129
+00:15:46,464 --> 00:15:48,632
+- Le protocole!
+- Vous deviez attendre.
+
+130
+00:15:48,716 --> 00:15:53,220
+Il y a bien eu effraction.
+Dites à Bendis d'envoyer une équipe.
+
+131
+00:15:53,304 --> 00:15:55,848
+Ils peuvent entrer
+avec une carte magnétique.
+
+132
+00:15:55,931 --> 00:15:58,309
+- Vous êtes fini.
+- Faites ce que je vous dis!
+
+133
+00:16:07,193 --> 00:16:11,155
+<i>Tchen, que se passe-t-il?
+J'ai besoin de savoir.</i>
+
+134
+00:16:20,331 --> 00:16:23,542
+Dites-lui
+que vous cherchez toujours.
+
+135
+00:16:23,626 --> 00:16:25,920
+<i>- Tchen, où es-tu, bon sang?
+- Allez!</i>
+
+136
+00:16:26,003 --> 00:16:27,213
+Allez vous faire voir.
+
+137
+00:16:29,173 --> 00:16:31,926
+Je suis très déçue.
+
+138
+00:16:42,311 --> 00:16:45,106
+Etre reporter, ça craint.
+C'est clair?
+
+139
+00:16:45,189 --> 00:16:46,732
+- Oui.
+- Bonsoir.
+
+140
+00:16:46,816 --> 00:16:50,236
+- Bonsoir. Qu'est-ce que tu as bu?
+- Je ne sais pas.
+
+141
+00:16:50,319 --> 00:16:53,864
+La bouteille avait un cheval dessus.
+Ou un chien. Un chien-cheval.
+
+142
+00:16:53,948 --> 00:16:58,077
+Une créature mythique condamnée
+à vivre dans une bouteille.
+
+143
+00:16:58,160 --> 00:17:00,913
+Je t'ai dit que ma vie craint?
+
+144
+00:17:04,583 --> 00:17:08,295
+Les Riley te pardonnent.
+Le plan de table pour le mariage.
+
+145
+00:17:08,379 --> 00:17:12,258
+Mon Dieu, tout ça est si normal.
+Ta vie est si normale, Fran.
+
+146
+00:17:12,341 --> 00:17:16,053
+La vie de Sydney est normale,
+à part son obsession pour la banque,
+
+147
+00:17:16,137 --> 00:17:17,805
+mais ma vie à moi ne l'est pas.
+
+148
+00:17:17,888 --> 00:17:20,933
+Je travaille sur l'histoire
+d'un type qui est en prison.
+
+149
+00:17:21,016 --> 00:17:23,018
+Sa femme s'est suicidée.
+
+150
+00:17:23,102 --> 00:17:26,981
+C'est très suspect.
+Il a été victime d'un coup monté.
+
+151
+00:17:27,064 --> 00:17:29,525
+C'est un type bien,
+sans casier judiciaire.
+
+152
+00:17:29,608 --> 00:17:32,319
+Deux amendes pour excès de vitesse.
+
+153
+00:17:32,403 --> 00:17:34,405
+Il a déjà passé huit ans en prison.
+
+154
+00:17:34,572 --> 00:17:37,158
+Et il lui en reste huit.
+
+155
+00:17:37,241 --> 00:17:41,162
+Je suis allé le voir en espérant
+qu'il m'éclairerait sur les faits.
+
+156
+00:17:41,245 --> 00:17:45,291
+Je pourrais faire des recherches
+et écrire un article.
+
+157
+00:17:45,374 --> 00:17:49,670
+Mais... il avait peur.
+
+158
+00:17:49,753 --> 00:17:52,214
+Cette lueur dans ces yeux.
+Il avait l'air...
+
+159
+00:17:53,841 --> 00:17:55,050
+horrifié.
+
+160
+00:17:55,134 --> 00:17:59,722
+J'ai arrêté là. C'est sa vie,
+il prend ses propres décisions.
+
+161
+00:18:00,556 --> 00:18:02,391
+Puis sa fille est venue me voir.
+
+162
+00:18:02,475 --> 00:18:03,642
+- Sa fille?
+- Oui.
+
+163
+00:18:03,726 --> 00:18:07,980
+Et elle m'a supplié d'aider son père.
+
+164
+00:18:08,063 --> 00:18:10,232
+Elle était désespérée.
+
+165
+00:18:11,567 --> 00:18:13,319
+Puis j'ai reçu cette clé.
+
+166
+00:18:13,402 --> 00:18:15,863
+"Quai 19, numéro 305."
+Je ne sais pas.
+
+167
+00:18:15,946 --> 00:18:18,407
+- Qu'est-ce qu'il y a là-bas?
+- Je ne sais pas.
+
+168
+00:18:19,116 --> 00:18:22,578
+- Comment tu l'as obtenue?
+- Je ne veux pas te le dire.
+
+169
+00:18:22,995 --> 00:18:25,080
+- Pourquoi?
+- C'est très dangereux.
+
+170
+00:18:25,164 --> 00:18:26,832
+Bon.
+
+171
+00:18:27,082 --> 00:18:29,043
+Francie, je suis sérieux.
+
+172
+00:18:30,669 --> 00:18:35,007
+Si j'étais toi et si je savais
+que je pouvais aider quelqu'un,
+
+173
+00:18:35,090 --> 00:18:36,550
+je le ferais.
+
+174
+00:18:44,183 --> 00:18:46,894
+- Avez-vous vu Tchen?
+- Pas récemment.
+
+175
+00:18:46,977 --> 00:18:48,813
+Je suis une mère au supermarché.
+
+176
+00:18:48,896 --> 00:18:51,649
+Je ne sais pas
+si son talkie-walkie déconne...
+
+177
+00:18:51,732 --> 00:18:55,027
+Plus que sept. Le programme
+de décodage fonctionne.
+
+178
+00:18:55,111 --> 00:18:56,987
+Je vais le chercher.
+
+179
+00:18:57,780 --> 00:19:01,700
+Qui est plus fort que toi?
+Qui donc? Personne, ma belle!
+
+180
+00:19:15,965 --> 00:19:19,176
+- Que faites-vous là?
+- Dixon nous a contactés.
+
+181
+00:19:19,260 --> 00:19:23,139
+- Dixon vous a contactés?
+- Disant que le SD-6 était attaqué.
+
+182
+00:19:23,222 --> 00:19:27,393
+Ils sont sept et armés. Ce qu'ils
+cherchent est dans le coffre.
+
+183
+00:19:27,476 --> 00:19:29,478
+- J'en ai éliminé un.
+- Accent russe?
+
+184
+00:19:29,562 --> 00:19:32,857
+- Oui. Du K-directorat?
+- J'en doute.
+
+185
+00:19:32,940 --> 00:19:34,608
+- Qui alors?
+- Je ne sais pas.
+
+186
+00:19:34,692 --> 00:19:38,195
+Savez-vous désamorcer
+des charges de C4?
+
+187
+00:19:38,279 --> 00:19:41,866
+Il doit y en avoir 100 kg là-dedans.
+De quoi faire tout sauter.
+
+188
+00:19:41,949 --> 00:19:44,034
+Un dispositif de sécurité.
+Il y en a 3.
+
+189
+00:19:44,118 --> 00:19:47,121
+- Si on ouvre le coffre, ça saute.
+- Alors ils ne devraient pas.
+
+190
+00:19:47,204 --> 00:19:50,458
+- Vous parlez des intrus?
+- Quand auront-ils le code?
+
+191
+00:19:50,541 --> 00:19:52,710
+Bientôt. Savez-vous
+désamorcer une bombe?
+
+192
+00:19:52,793 --> 00:19:56,213
+- Je me suis arrêté à la théorie.
+- Qui apprend quoi que ce soit?
+
+193
+00:19:56,297 --> 00:19:59,592
+Allons-y doucement.
+Ceci est une charge de C4.
+
+194
+00:19:59,675 --> 00:20:02,178
+Je le sais
+parce qu'il y a écrit "C4" partout.
+
+195
+00:20:02,261 --> 00:20:06,140
+Il y a huit fils noirs et jaunes,
+six rouges, bleus et noirs.
+
+196
+00:20:06,223 --> 00:20:08,726
+- Lequel faut-il couper?
+- Peut-être aucun.
+
+197
+00:20:08,809 --> 00:20:10,853
+- Et ces prismes?
+- Je ne sais pas.
+
+198
+00:20:10,936 --> 00:20:13,981
+Il y a peut-être plus d'un fil
+relié au mécanisme.
+
+199
+00:20:14,064 --> 00:20:15,649
+- Cette tige, là.
+- Où ça?
+
+200
+00:20:15,733 --> 00:20:18,319
+- Là, derrière.
+- Qu'est-ce que c'est?
+
+201
+00:20:18,402 --> 00:20:21,238
+C'est un quartz.
+C'est un récepteur radio.
+
+202
+00:20:21,322 --> 00:20:24,033
+Il permet sans doute
+de faire détoner le C4.
+
+203
+00:20:24,116 --> 00:20:27,411
+Donc il suffit juste
+de retirer le quartz?
+
+204
+00:20:29,705 --> 00:20:32,082
+Attendez. Non.
+C'est trop facile.
+
+205
+00:20:32,166 --> 00:20:35,503
+- Y a-t-il un fil antisabotage?
+- Ou un dispositif secondaire?
+
+206
+00:20:44,386 --> 00:20:47,973
+Voilà à quoi servent les prismes.
+Pulvérisez encore.
+
+207
+00:20:49,475 --> 00:20:54,480
+Je crois pouvoir retirer le quartz
+sans toucher les lasers.
+
+208
+00:20:54,563 --> 00:20:57,274
+- Mes mains ne tremblent pas.
+- Les miennes non plus.
+
+209
+00:21:01,695 --> 00:21:03,572
+A trois, vous pulvérisez.
+
+210
+00:21:04,323 --> 00:21:06,033
+- Un.
+- Deux.
+
+211
+00:21:06,117 --> 00:21:07,785
+Trois.
+
+212
+00:21:17,086 --> 00:21:19,713
+- Et un de moins.
+- Dépêchons-nous.
+
+213
+00:21:34,562 --> 00:21:36,230
+Entrez là-dedans.
+
+214
+00:21:39,024 --> 00:21:40,693
+Là-bas.
+
+215
+00:21:46,574 --> 00:21:48,242
+Attachez-lui les mains.
+
+216
+00:21:57,251 --> 00:21:58,711
+Ne bougez pas!
+
+217
+00:21:58,794 --> 00:22:00,588
+Attachez-la, elle.
+
+218
+00:22:02,006 --> 00:22:03,215
+- Attendez.
+- Silence.
+
+219
+00:22:03,299 --> 00:22:05,634
+Je suis membre du SIS britannique!
+
+220
+00:22:05,718 --> 00:22:09,764
+Cela fait un an que je tente
+d'infiltrer le réseau de Cole.
+
+221
+00:22:09,847 --> 00:22:12,391
+- Cole?
+- McKenas Cole. Un ancien du SD-6.
+
+222
+00:22:12,475 --> 00:22:16,979
+Il travaille pour le Tiers.
+Un nouveau qui s'appelle l'Homme.
+
+223
+00:22:17,062 --> 00:22:20,524
+Cela fait trois ans que le SIS
+essaie d'identifier l'Homme.
+
+224
+00:22:20,608 --> 00:22:21,984
+- Cravate.
+- Ma cravate?
+
+225
+00:22:22,067 --> 00:22:25,696
+Si ça réussit, Cole me fera
+assez confiance pour me le dire.
+
+226
+00:22:25,780 --> 00:22:29,116
+- Que renferme le coffre?
+- Personne ne le sait.
+
+227
+00:22:29,200 --> 00:22:32,119
+Mais ça a un rapport
+avec un certain Rambaldi.
+
+228
+00:22:33,788 --> 00:22:37,333
+Si vous ne me libérez pas,
+Cole enverra quelqu'un.
+
+229
+00:22:37,416 --> 00:22:40,044
+Il saura que vous êtes ici
+et vous serez pincés.
+
+230
+00:22:40,127 --> 00:22:42,880
+Si vous mentez,
+vous veillerez à ce que ça arrive.
+
+231
+00:22:42,963 --> 00:22:46,175
+Quand ils me trouveront,
+je leur dirai que vous êtes seul.
+
+232
+00:23:03,818 --> 00:23:06,654
+QUAI 19
+NO. 305
+
+233
+00:23:49,113 --> 00:23:50,698
+RAPPORT DE PATHOLOGIE
+
+234
+00:23:54,785 --> 00:23:57,663
+RAPPORT D'ANALYSE
+TO XICOLOGIQUE
+
+235
+00:23:58,873 --> 00:24:00,499
+RAPPORT D'AUTOPSIE
+
+236
+00:24:10,301 --> 00:24:12,803
+Les autres charges de C4
+sont ici et ici.
+
+237
+00:24:12,887 --> 00:24:16,891
+- Ça fait une chacun.
+- Elles sont derrière des plaques.
+
+238
+00:24:16,974 --> 00:24:20,644
+- Vous les avez ôtées vous-même?
+- Trouvez un extincteur.
+
+239
+00:24:20,728 --> 00:24:23,647
+Le CO2 gèle les boulons.
+Gardez-en assez.
+
+240
+00:24:23,731 --> 00:24:25,149
+Tenez.
+
+241
+00:24:25,232 --> 00:24:27,318
+J'ai mémorisé le réseau des lasers.
+
+242
+00:24:28,319 --> 00:24:30,696
+Votre C4
+se trouve dans ce couloir.
+
+243
+00:24:30,780 --> 00:24:34,074
+Traversez le service technique.
+Il faudra courir.
+
+244
+00:24:34,158 --> 00:24:35,951
+On se retrouve dans l'entrepôt.
+
+245
+00:24:36,035 --> 00:24:38,245
+Ensuite on ira à ce match de hockey.
+
+246
+00:24:38,329 --> 00:24:40,498
+- Soyez prudente.
+- Vous aussi.
+
+247
+00:24:43,793 --> 00:24:47,463
+- Vous avez eu un appel de Vaughn?
+- Oui, maintenant que vous le dites.
+
+248
+00:24:47,546 --> 00:24:52,134
+- C'était pour moi. Qu'a-t-il dit?
+- J'entendais mal.
+
+249
+00:24:52,218 --> 00:24:55,012
+- Il a confirmé l'attaque?
+- Il n'était pas content.
+
+250
+00:24:55,096 --> 00:24:57,181
+Ça ne veut rien dire.
+
+251
+00:25:06,232 --> 00:25:09,360
+Tchen, Toni. Vous me recevez?
+
+252
+00:25:09,443 --> 00:25:12,571
+<i>- Cole, ici Endo.
+- Endo, il faut arrêter.</i>
+
+253
+00:25:12,655 --> 00:25:16,700
+Trouvez Toni, trouvez Tchen,
+trouvez le problème et réglez-le!
+
+254
+00:25:41,267 --> 00:25:44,270
+- Combien étaient-ils?
+- Une seule personne.
+
+255
+00:26:53,088 --> 00:26:54,673
+<i>Endo.</i>
+
+256
+00:26:54,757 --> 00:26:56,801
+Endo. Tchen. Répondez.
+
+257
+00:26:56,884 --> 00:26:59,303
+<i>D'où viennent ces coups de feu?</i>
+
+258
+00:26:59,386 --> 00:27:01,555
+Cole, Tchen est mort.
+
+259
+00:27:02,014 --> 00:27:03,641
+Qui l'a tué?
+
+260
+00:27:05,017 --> 00:27:06,060
+Moi.
+
+261
+00:27:08,562 --> 00:27:10,773
+Endo.
+
+262
+00:27:12,149 --> 00:27:13,275
+Endo!
+
+263
+00:27:20,324 --> 00:27:23,452
+<i>Cher intrus qui attaquez
+mes hommes,</i>
+
+264
+00:27:23,536 --> 00:27:26,372
+<i>je suppose
+que vous êtes un employé.</i>
+
+265
+00:27:26,455 --> 00:27:31,544
+<i>Je me trouve dans le bureau
+au goût minimaliste de Sloane.</i>
+
+266
+00:27:31,627 --> 00:27:36,090
+Si je ne vous ai pas en face de moi
+d'ici 20 secondes,
+
+267
+00:27:36,173 --> 00:27:39,176
+<i>je vais commencer
+à exécuter vos amis.</i>
+
+268
+00:27:39,260 --> 00:27:42,805
+<i>En commençant par celui
+que je crois être votre coéquipier.</i>
+
+269
+00:27:44,432 --> 00:27:45,891
+M. Jack Bristow.
+
+270
+00:28:17,965 --> 00:28:19,633
+Me voilà.
+
+271
+00:28:20,676 --> 00:28:24,722
+C'est vous, le gros dur
+qui tue mes hommes?
+
+272
+00:28:24,805 --> 00:28:27,850
+Je ne sais pas,
+j'imaginais un type moche.
+
+273
+00:28:27,933 --> 00:28:30,060
+<i>- Bon sang!
+- Entrez, fillette.</i>
+
+274
+00:28:40,529 --> 00:28:41,822
+Fouillez-la.
+
+275
+00:28:44,533 --> 00:28:46,202
+Et de près.
+
+276
+00:28:46,410 --> 00:28:49,121
+<i>Sept chiffres,
+plus que cinq à trouver.</i>
+
+277
+00:28:50,414 --> 00:28:54,293
+Si elle remue le petit doigt,
+descendez-la.
+
+278
+00:29:00,466 --> 00:29:03,969
+Faites bloquer les carrefours
+et appelez une ambulance.
+
+279
+00:29:04,053 --> 00:29:05,679
+- Un appel.
+- Plus tard.
+
+280
+00:29:05,763 --> 00:29:08,432
+C'est Vaughn. Sur la ligne 3.
+
+281
+00:29:08,516 --> 00:29:10,184
+- J'écoute.
+- Tu es où?
+
+282
+00:29:10,267 --> 00:29:13,771
+<i>- On arrive.
+- Cet endroit est relié à du C4.</i>
+
+283
+00:29:13,854 --> 00:29:17,399
+On a désamorcé deux charges.
+Sydney allait s'occuper de la 3e.
+
+284
+00:29:17,483 --> 00:29:19,652
+<i>- Sais-tu où elle est?
+- Je l'ignore.</i>
+
+285
+00:29:19,735 --> 00:29:23,989
+Ils les tiennent tous. Quand ils
+ouvriront le coffre, tout sautera.
+
+286
+00:29:24,073 --> 00:29:25,116
+<i>Quand ça?</i>
+
+287
+00:29:25,199 --> 00:29:27,076
+<i>- Bientôt. Fais vite.
+- Entendu.</i>
+
+288
+00:29:27,159 --> 00:29:28,244
+Que se passe-t-il?
+
+289
+00:29:28,327 --> 00:29:31,330
+Si Vaughn est perdu,
+je vous fais la peau.
+
+290
+00:29:31,413 --> 00:29:34,625
+- Je n'ai pas peur.
+- Il serait temps d'y songer.
+
+291
+00:29:44,593 --> 00:29:48,222
+Pour certains,
+c'est leurs chaussettes,
+
+292
+00:29:48,305 --> 00:29:55,938
+leur revolver et leurs balles,
+ou leur porte-bonheur,
+
+293
+00:29:56,021 --> 00:30:03,404
+mais moi, c'est une bouteille
+de champagne qui me porte chance.
+
+294
+00:30:03,487 --> 00:30:06,365
+J'en ai une avec moi...
+à chaque mission.
+
+295
+00:30:15,332 --> 00:30:17,501
+Vous en voulez?
+
+296
+00:30:32,224 --> 00:30:35,144
+Vous ne vous souvenez pas.
+Moi non plus, au départ.
+
+297
+00:30:36,520 --> 00:30:41,150
+Nous nous sommes déjà rencontrés.
+C'était il y a cinq ans environ.
+
+298
+00:30:41,233 --> 00:30:42,777
+Ici, au SD-6.
+
+299
+00:30:42,860 --> 00:30:45,821
+Ce qui était rare,
+car à l'époque j'étais free-lance.
+
+300
+00:30:45,905 --> 00:30:50,826
+Mais j'étais ici.
+Et je vous ai vue à la cafétéria.
+
+301
+00:30:50,910 --> 00:30:54,288
+Vous aviez des nattes
+et je vous ai invitée à sortir.
+
+302
+00:30:54,371 --> 00:30:59,126
+Je sais que je ne suis pas
+très subtil avec les femmes,
+
+303
+00:30:59,210 --> 00:31:03,714
+et j'ai sûrement dit
+quelque chose de très déplacé,
+
+304
+00:31:03,798 --> 00:31:07,301
+parce que vous m'avez dit que
+si jamais je vous parlais encore,
+
+305
+00:31:07,384 --> 00:31:09,011
+vous me péteriez les rotules.
+
+306
+00:31:13,390 --> 00:31:17,686
+Ce qui m'a fait
+tomber amoureux de vous.
+
+307
+00:31:17,770 --> 00:31:21,482
+J'ai pensé à vous
+pendant les cinq dernières années.
+
+308
+00:31:21,565 --> 00:31:26,403
+De temps à autre, je me dis: "Je me
+demande comment vont les nattes."
+
+309
+00:31:26,487 --> 00:31:31,492
+Et ce que j'ai retenu
+de cette rencontre à la cafétéria,
+
+310
+00:31:31,575 --> 00:31:37,081
+c'est que vous ne vouliez pas aller
+voir une comédie romantique,
+
+311
+00:31:37,164 --> 00:31:40,417
+vous asseoir dans ma Pontiac
+dans le parking,
+
+312
+00:31:40,501 --> 00:31:43,379
+et parler un peu avant que
+je ne fasse le premier pas.
+
+313
+00:31:44,630 --> 00:31:46,424
+Vous ne vouliez pas m'embrasser.
+
+314
+00:31:47,550 --> 00:31:50,469
+- Vous vous souvenez?
+- Non.
+
+315
+00:31:51,720 --> 00:31:54,432
+Mais je comprends
+pourquoi je n'ai pas voulu.
+
+316
+00:31:57,726 --> 00:31:59,812
+Vous faites de mauvais choix.
+
+317
+00:32:02,565 --> 00:32:04,775
+Vous ne vouliez pas m'embrasser,
+
+318
+00:32:04,859 --> 00:32:09,447
+mais travailler pour une ordure
+comme Sloane, ça ne vous gêne pas.
+
+319
+00:32:10,406 --> 00:32:13,117
+Laissez-moi
+vous parler un peu de lui.
+
+320
+00:32:13,200 --> 00:32:15,953
+Il va vous décevoir.
+
+321
+00:32:17,580 --> 00:32:21,250
+Un jour, et je prie Dieu
+pour être présent ce jour-là,
+
+322
+00:32:21,333 --> 00:32:24,170
+vous le détesterez.
+
+323
+00:32:27,923 --> 00:32:30,926
+Je suis ravi
+de vous revoir au bureau.
+
+324
+00:32:31,010 --> 00:32:33,637
+Je sais que vous ne vouliez pas
+m'embrasser,
+
+325
+00:32:33,721 --> 00:32:36,390
+mais quand j'ai bu
+au goulot de cette bouteille,
+
+326
+00:32:36,474 --> 00:32:40,686
+j'ai craché dedans,
+quelque chose de bien.
+
+327
+00:32:41,812 --> 00:32:43,230
+Au revoir.
+
+328
+00:32:48,235 --> 00:32:50,946
+- Je ne pensais pas vous voir.
+- Moi non plus.
+
+329
+00:32:51,030 --> 00:32:54,867
+Je ne me suis pas fait suivre.
+J'ai pris deux taxis et un bus.
+
+330
+00:32:54,950 --> 00:32:58,078
+J'ai porté ça tout le temps.
+Je ressemblais à Gabe Kaplan.
+
+331
+00:32:58,162 --> 00:33:00,206
+- Qui est-ce?
+- Peu importe.
+
+332
+00:33:00,289 --> 00:33:03,501
+- Vous êtes sûre de vous?
+- Vous savez bien que oui.
+
+333
+00:33:03,584 --> 00:33:05,461
+Très bien.
+
+334
+00:33:05,544 --> 00:33:08,589
+- Donnez ça à votre père.
+- Qu'est-ce que c'est?
+
+335
+00:33:08,672 --> 00:33:11,383
+- Ne le lisez pas.
+- Dites-moi ce que c'est.
+
+336
+00:33:11,467 --> 00:33:13,427
+C'est l'autopsie de votre mère.
+
+337
+00:33:13,511 --> 00:33:15,596
+Il y a des photos choquantes.
+
+338
+00:33:15,679 --> 00:33:17,681
+- Oui.
+- Vous comprenez?
+
+339
+00:33:17,765 --> 00:33:21,185
+Bon. Vous savez ce que vous
+m'avez dit à propos de partir,
+
+340
+00:33:21,268 --> 00:33:25,106
+eh bien si votre père est décidé
+à agir, vous devez le faire.
+
+341
+00:33:38,327 --> 00:33:42,706
+Vous vous souvenez de Griff?
+Le grand costaud?
+
+342
+00:33:42,790 --> 00:33:45,960
+Les hommes du MVD
+lui en ont fait baver.
+
+343
+00:33:48,087 --> 00:33:50,172
+Ils ont utilisé
+des sangles, des lames.
+
+344
+00:33:50,256 --> 00:33:56,887
+Des seringues de verre, de l'acide.
+Ils étaient très créatifs.
+
+345
+00:33:56,971 --> 00:34:00,683
+Mais il a tenu bon, du moins
+jusqu'à ce qu'ils ouvrent la boîte.
+
+346
+00:34:00,766 --> 00:34:04,812
+Son cœur a lâché
+au bout de trois aiguilles.
+
+347
+00:34:05,771 --> 00:34:07,440
+Ils vous en ont inséré combien?
+
+348
+00:34:07,523 --> 00:34:09,859
+Je veux vous entendre hurler.
+
+349
+00:34:11,277 --> 00:34:14,113
+Exactement... comme Griff.
+
+350
+00:34:18,117 --> 00:34:19,827
+Hurlez pour moi.
+
+351
+00:34:28,377 --> 00:34:30,212
+Ils vous ont brisé.
+
+352
+00:34:33,257 --> 00:34:36,093
+- Vous avez supplié.
+- C'est ce que vous dites!
+
+353
+00:34:36,177 --> 00:34:38,679
+- Plus qu'un chiffre.
+- "Je n'en peux plus."
+
+354
+00:34:38,763 --> 00:34:40,848
+- C'était comme ça.
+- Il m'en reste!
+
+355
+00:34:40,931 --> 00:34:42,475
+- Je sais.
+- Allons-y.
+
+356
+00:34:42,558 --> 00:34:44,393
+- Vous avez supplié.
+- C'est faux.
+
+357
+00:34:44,477 --> 00:34:46,395
+- Le coffre.
+- Pleuré comme un bébé.
+
+358
+00:34:46,479 --> 00:34:48,773
+- Ça n'était pas comme ça!
+- Un petit bébé.
+
+359
+00:34:48,856 --> 00:34:51,108
+- Nous...
+- Ça n'était pas comme ça!
+
+360
+00:34:51,192 --> 00:34:52,693
+- Allons-y!
+- Ferme-la!
+
+361
+00:34:52,777 --> 00:34:55,196
+- Allons-y!
+- Ferme-la!
+
+362
+00:35:07,124 --> 00:35:08,793
+Ma chérie!
+
+363
+00:35:25,601 --> 00:35:27,686
+Il faut que j'aille au coffre.
+
+364
+00:36:00,886 --> 00:36:03,806
+Chopper, tue-les tous.
+
+365
+00:36:06,142 --> 00:36:09,770
+Tous de ce côté.
+Debout contre le mur. Tout le monde!
+
+366
+00:36:10,729 --> 00:36:13,524
+Lisbonne. En juillet dernier.
+
+367
+00:36:14,316 --> 00:36:19,363
+- Tout de suite!
+- Debout contre le mur! Allez!
+
+368
+00:36:19,447 --> 00:36:23,325
+Ne me regardez pas comme ça.
+Debout contre le mur!
+
+369
+00:36:23,409 --> 00:36:26,120
+Vous l'avez entendu.
+Contre le mur.
+
+370
+00:36:26,203 --> 00:36:28,873
+Là-bas.
+
+371
+00:36:47,475 --> 00:36:50,144
+- Arrête le dispositif.
+- Seul Sloane le peut.
+
+372
+00:36:50,227 --> 00:36:52,146
+- Je vais au coffre.
+- Moi aussi.
+
+373
+00:36:52,229 --> 00:36:55,357
+- Tu viens de te faire opérer.
+- Je t'y retrouve.
+
+374
+00:36:58,068 --> 00:37:00,488
+Avez-vous activé
+le dispositif de sécurité?
+
+375
+00:37:00,571 --> 00:37:02,531
+- Oui.
+- On doit le désactiver.
+
+376
+00:37:02,615 --> 00:37:04,325
+- Ils sont ici?
+- Il en reste un.
+
+377
+00:37:04,408 --> 00:37:07,077
+- Ils n'auront pas le coffre.
+- Sydney les arrêtera.
+
+378
+00:37:07,161 --> 00:37:10,080
+- Elle est ici?
+- Comment désactiver le dispositif?
+
+379
+00:37:10,164 --> 00:37:13,334
+A partir d'un pavé numérique,
+mais il est biométrique.
+
+380
+00:37:13,417 --> 00:37:16,462
+On ne peut le désactiver
+sans mon empreinte digitale.
+
+381
+00:37:18,923 --> 00:37:22,843
+Il vous faudra des heures
+pour me détacher les mains.
+
+382
+00:37:22,927 --> 00:37:26,138
+Marshall a un dispositif
+pour obtenir les empreintes,
+
+383
+00:37:26,222 --> 00:37:28,182
+mais nous n'avons pas le temps.
+
+384
+00:37:28,265 --> 00:37:30,976
+Vous pourriez prendre...
+mon empreinte digitale.
+
+385
+00:37:31,060 --> 00:37:33,145
+Jack.
+
+386
+00:37:34,230 --> 00:37:36,398
+Celle de mon index droit.
+
+387
+00:37:39,318 --> 00:37:41,278
+Allez-y!
+
+388
+00:37:52,623 --> 00:37:54,500
+L'index droit.
+
+389
+00:38:12,935 --> 00:38:14,478
+ANALYSE TERMINÉE
+
+390
+00:38:15,771 --> 00:38:17,231
+Excellent!
+
+391
+00:38:24,196 --> 00:38:25,656
+Vous me cherchez?
+
+392
+00:38:30,619 --> 00:38:33,998
+Vous l'avez senti passer?
+Amateur de kick-boxing, hein?
+
+393
+00:38:34,081 --> 00:38:36,125
+J'adore les kick-boxeurs.
+
+394
+00:38:40,838 --> 00:38:44,467
+Moi aussi, je peux faire ça.
+
+395
+00:38:46,260 --> 00:38:47,720
+Montrez-moi vos talents.
+
+396
+00:38:57,396 --> 00:38:59,774
+L'ennui, avec les kick-boxeurs,
+
+397
+00:38:59,857 --> 00:39:02,276
+c'est qu'ils ne savent pas encaisser.
+
+398
+00:39:02,735 --> 00:39:04,987
+<i>Accès au système.</i>
+
+399
+00:39:07,531 --> 00:39:09,617
+Ça y est!
+
+400
+00:39:30,387 --> 00:39:31,472
+IDENTITÉ VÉRIFlÉE
+
+401
+00:39:34,225 --> 00:39:35,726
+BLOC AGE COFFRE DÉSACTIVÉ
+
+402
+00:40:40,166 --> 00:40:46,130
+Vous avez raison.
+Il faut que j'apprenne à encaisser.
+
+403
+00:40:54,138 --> 00:40:58,058
+- Que se passe-t-il en bas?
+- Tout est entre de bonnes mains.
+
+404
+00:40:58,142 --> 00:40:59,643
+On a eu de la chance.
+
+405
+00:40:59,727 --> 00:41:02,688
+Je vais faire sortir mes hommes.
+Le SD-6 ne saura rien.
+
+406
+00:41:02,772 --> 00:41:03,814
+Allez-y.
+
+407
+00:41:03,898 --> 00:41:06,776
+- Vous allez bien?
+- Oui.
+
+408
+00:41:07,818 --> 00:41:09,278
+Merci d'être venu.
+
+409
+00:41:10,738 --> 00:41:12,406
+Il avait ceci.
+
+410
+00:41:17,828 --> 00:41:19,246
+C'est quoi? Du parfum?
+
+411
+00:41:19,330 --> 00:41:23,209
+En tout cas, c'est nous qui l'avons
+maintenant, grâce à vous.
+
+412
+00:41:23,292 --> 00:41:25,586
+- Pas qu'à moi.
+- Grâce à vous.
+
+413
+00:41:25,669 --> 00:41:28,547
+- Ça a intérêt à être du bon parfum.
+- Je suis sérieux.
+
+414
+00:41:28,631 --> 00:41:30,674
+Pensez à ce que vous faites.
+
+415
+00:41:31,383 --> 00:41:35,554
+Le hockey peut bien attendre.
+Pas ce que vous faites ici.
+
+416
+00:41:35,638 --> 00:41:36,972
+Allons-y.
+
+417
+00:41:37,598 --> 00:41:40,518
+- D'accord. Au revoir.
+- Au revoir.
+
+418
+00:42:44,540 --> 00:42:47,543
+- Vous allez bien?
+- Personne ne va bien.
+
+419
+00:42:49,420 --> 00:42:52,339
+Ce qui s'est passé ici ce soir...
+
+420
+00:42:52,423 --> 00:42:54,842
+C'est inacceptable.
+
+421
+00:42:55,426 --> 00:42:59,513
+Nous allons retrouver
+ceux qui ont fait ça
+
+422
+00:42:59,597 --> 00:43:01,766
+et reprendre ce qu'ils ont pris.
+
+423
+00:43:03,726 --> 00:43:10,065
+Mais malgré tout,
+ce qui s'est passé a tout changé.
+
+424
+00:43:13,068 --> 00:43:17,156
+Monsieur, j'ai votre doigt.
+Les médecins arrivent.
+
+425
+00:43:17,656 --> 00:43:18,908
+Merci, Marshall.
+
+426
+00:43:18,991 --> 00:43:21,035
+Sloane m'a montré du doigt.
+
+427
+00:43:31,420 --> 00:43:33,506
+- Ça va?
+- Oui.
+
+428
+00:43:40,096 --> 00:43:41,138
+Ça va?
+
+429
+00:43:41,222 --> 00:43:45,935
+J'ai envoyé l'e-mail à Langley,
+mais il n'a pas dû passer.
+
+430
+00:43:46,018 --> 00:43:48,979
+Ça ne fait rien.
+Vous avez fait du bon travail.
+
+431
+00:44:00,741 --> 00:44:05,621
+Ce matin, avant tout ça...
+tu voulais parler à Sloane.
+
+432
+00:44:07,289 --> 00:44:08,833
+Que lui as-tu dit?
+
+433
+00:44:08,916 --> 00:44:11,127
+Je lui ai dit
+que je le verrais demain.
+
+434
+00:44:13,045 --> 00:44:14,922
+Merci.
+
+
