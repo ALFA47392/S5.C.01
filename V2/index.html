@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moteur de Recherche et Recommandation de Séries TV</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #1f2937 0%, #111827 100%);
+            min-height: 100vh;
+        }
+        .bg-gradient-primary {
+            background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+        }
+        .serie-card-poster {
+            height: 192px;
+        }
+        .tab-content {
+            transition: opacity 0.3s ease;
+        }
+    </style>
+</head>
+<body class="text-white">
+    <div class="container mx-auto p-4 md:p-8">
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400">
+                🎬 Moteur de Séries TV
+            </h1>
+            <p class="text-gray-400 mt-2">Recherche avancée par contenu (sous-titres) et recommandations.</p>
+        </header>
+
+        <div class="bg-gray-800 rounded-xl p-6 shadow-2xl mb-8">
+            <!-- ID Utilisateur (Affichage de l'état de connexion) -->
+            <div class="mb-4 p-3 bg-gray-700 rounded-lg flex items-center justify-between">
+                <label class="text-gray-400 text-sm font-semibold">Statut :</label>
+                <span id="authStatus" class="font-bold text-red-400">Déconnecté</span>
+                <input type="hidden" id="userIdInput" value="">
+                <button onclick="openLoginModal()" id="loginButton" class="bg-indigo-500 hover:bg-indigo-700 text-white text-xs font-bold py-1 px-3 rounded transition">
+                    Se connecter
+                </button>
+            </div>
+
+            <!-- Navigation par onglets -->
+            <div class="flex flex-wrap gap-3 mb-6">
+                <button class="tab-button px-4 py-2 rounded-lg text-sm font-semibold transition duration-200 bg-gray-700 text-gray-300 hover:bg-gray-600" data-tab="recherche">
+                    🔍 Recherche
+                </button>
+                <button class="tab-button px-4 py-2 rounded-lg text-sm font-semibold transition duration-200 bg-gray-700 text-gray-300 hover:bg-gray-600" data-tab="profil">
+                    👤 Reco. (Profil)
+                </button>
+                <button class="tab-button px-4 py-2 rounded-lg text-sm font-semibold transition duration-200 bg-gray-700 text-gray-300 hover:bg-gray-600" data-tab="vues">
+                    👀 Séries Vues
+                </button>
+                <button class="tab-button px-4 py-2 rounded-lg text-sm font-semibold transition duration-200 bg-gradient-primary text-white shadow-md" data-tab="toutes">
+                    📺 Toutes les séries
+                </button>
+            </div>
+            
+            <div id="tab-container">
+                <!-- Contenu de l'onglet RECHERCHE -->
+                <div id="recherche-input" class="tab-content hidden">
+                    <div class="flex flex-col md:flex-row gap-4">
+                        <input 
+                            type="text" 
+                            id="searchInput" 
+                            placeholder="Ex: crash avion île, meth, dragons..."
+                            class="flex-1 p-3 rounded-lg bg-gray-700 border border-gray-600 text-white placeholder-gray-400 focus:ring-indigo-500 focus:border-indigo-500"
+                            onkeypress="handleKeyPress(event)"
+                        >
+                        <button id="searchButton" onclick="rechercher()" class="bg-gradient-primary text-white px-6 py-3 rounded-lg font-bold shadow-lg hover:shadow-xl transition duration-300">
+                            Rechercher
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Contenu de l'onglet PROFIL -->
+                <div id="profil-input" class="tab-content hidden">
+                    <p id="profilMessage" class="text-red-400 mb-4"></p>
+                    <button onclick="recommanderProfil()" id="recoProfilButton" class="bg-gradient-primary text-white px-6 py-3 rounded-lg font-bold shadow-lg hover:shadow-xl transition duration-300 hidden">
+                        Obtenir Recommandations
+                    </button>
+                </div>
+
+                <!-- Contenu de l'onglet VUES -->
+                <div id="vues-input" class="tab-content hidden">
+                    <p class="text-gray-400 mb-4">Liste des séries que l'utilisateur a notées.</p>
+                </div>
+                
+                <!-- Conteneur pour l'onglet "Toutes les séries" -->
+                <div id="toutes-input" class="tab-content">
+                </div>
+            </div> 
+        </div>
+
+        <!-- Barre de statistiques -->
+        <div id="statsBar" class="bg-gray-800 rounded-xl p-4 shadow-lg mb-8 flex justify-around text-center text-sm">
+            <div class="stat-item">
+                <div id="nbSeries" class="text-xl font-bold text-indigo-400">?</div>
+                <div class="text-gray-400">Séries indexées</div>
+            </div>
+            <div class="stat-item">
+                <div id="nbResultats" class="text-xl font-bold text-purple-400">0</div>
+                <div class="text-gray-400">Résultats affichés</div>
+            </div>
+            <div class="stat-item">
+                <div id="tempsRecherche" class="text-xl font-bold text-green-400">-</div>
+                <div class="text-gray-400">Temps (ms)</div>
+            </div>
+        </div>
+        
+        <!-- Messages d'erreur et de chargement -->
+        <div id="errorMessage" class="hidden bg-red-600 text-white p-4 rounded-lg mb-4 font-semibold"></div>
+        <div id="loading" class="hidden text-center p-8 text-indigo-400 text-lg">Chargement...</div>
+        
+        <!-- Message initial déplacé EN DEHORS de #results -->
+        <p class="text-gray-400 text-center p-10" id="initialMessage">
+            Lancez l'API Python, puis effectuez une recherche ou explorez les séries.
+        </p>
+        
+        <div id="results" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        </div>
+    </div>
+
+    <!-- Modale de connexion (Login Modal) -->
+    <div id="loginModal" class="fixed inset-0 bg-black bg-opacity-75 hidden flex items-center justify-center z-50">
+        <div class="bg-gray-800 rounded-lg p-6 w-96 shadow-2xl">
+            <h2 class="text-xl font-bold mb-4 text-white">Connexion (Simulation)</h2>
+            <p class="text-gray-400 mb-4">Entrez un ID utilisateur pour simuler la connexion (ex: 1, 2, 3).</p>
+            <input 
+                type="number" 
+                id="loginUserIdInput" 
+                min="1"
+                placeholder="ID Utilisateur" 
+                class="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white mb-6"
+            >
+            <button onclick="closeLoginModal()" class="bg-gray-600 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition">Annuler</button>
+            <button onclick="performLogin()" class="bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700 transition ml-2">Connexion</button>
+        </div>
+    </div>
+
+    <!-- Modale de notation (Rating Modal) -->
+    <div id="ratingModal" class="fixed inset-0 bg-black bg-opacity-75 hidden flex items-center justify-center z-50">
+        <div class="bg-gray-800 rounded-lg p-6 w-96 shadow-2xl">
+            <h2 class="text-xl font-bold mb-4 text-white" id="modalTitle">Noter la Série</h2>
+            <p class="text-gray-400 mb-6">Attribuez une note de 1 à 5 étoiles :</p>
+            
+            <div id="starContainer" class="flex justify-center text-3xl space-x-2 cursor-pointer mb-6">
+                <!-- Stars will be generated here -->
+            </div>
+
+            <button onclick="closeModal()" class="bg-gray-600 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition">Annuler</button>
+            <button onclick="submitRating()" class="bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700 transition ml-2">Enregistrer</button>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:5001/api';
+        let currentTab = 'toutes';
+        let selectedRating = 0;
+        let selectedSerieId = null;
+        let loggedInUserId = null; // Stocke l'ID utilisateur connecté
+
+        // --- Fonctions d'Authentification ---
+
+        function updateAuthStatus(userId) {
+            const statusElement = document.getElementById('authStatus');
+            const loginButton = document.getElementById('loginButton');
+            const recoButton = document.getElementById('recoProfilButton');
+            const profilMessage = document.getElementById('profilMessage');
+
+            if (userId) {
+                statusElement.textContent = `Connecté (ID: ${userId})`;
+                statusElement.classList.remove('text-red-400');
+                statusElement.classList.add('text-green-400');
+                loginButton.textContent = 'Déconnexion';
+                loginButton.onclick = performLogout;
+                loggedInUserId = userId;
+                
+                // Mettre à jour l'onglet profil
+                profilMessage.textContent = 'Cliquez pour obtenir vos recommandations personnalisées.';
+                profilMessage.classList.remove('text-red-400');
+                recoButton.classList.remove('hidden');
+
+            } else {
+                statusElement.textContent = 'Déconnecté';
+                statusElement.classList.remove('text-green-400');
+                statusElement.classList.add('text-red-400');
+                loginButton.textContent = 'Se connecter';
+                loginButton.onclick = openLoginModal;
+                loggedInUserId = null;
+
+                // Mettre à jour l'onglet profil
+                profilMessage.textContent = 'Veuillez vous connecter pour obtenir des recommandations par profil.';
+                profilMessage.classList.add('text-red-400');
+                recoButton.classList.add('hidden');
+            }
+            document.getElementById('userIdInput').value = userId || '';
+        }
+
+        function openLoginModal() {
+            document.getElementById('loginModal').classList.remove('hidden');
+        }
+
+        function closeLoginModal() {
+            document.getElementById('loginModal').classList.add('hidden');
+        }
+
+        function performLogin() {
+            const userId = parseInt(document.getElementById('loginUserIdInput').value);
+            if (userId > 0) {
+                updateAuthStatus(userId);
+                closeLoginModal();
+                // Si l'utilisateur vient de se connecter et est sur vues, rafraîchir
+                if (currentTab === 'vues') {
+                    chargerSeriesVues();
+                }
+            } else {
+                alert("Veuillez entrer un ID utilisateur valide (nombre > 0).");
+            }
+        }
+
+        function performLogout() {
+            updateAuthStatus(null);
+            // Revenir à l'onglet toutes les séries
+            switchTab('toutes');
+        }
+
+        function getUserId() {
+            return loggedInUserId;
+        }
+
+
+        // --- Fonctions Utilitaires et de Contrôle ---
+
+        function updateStats(nbResultats = 0, tempsMs = '-', nbSeries = null) {
+            document.getElementById('nbResultats').textContent = nbResultats;
+            document.getElementById('tempsRecherche').textContent = tempsMs;
+            if (nbSeries !== null) {
+                document.getElementById('nbSeries').textContent = nbSeries;
+            }
+        }
+
+        function afficherChargement(afficher) {
+            document.getElementById('loading').classList.toggle('hidden', !afficher);
+            if (afficher) {
+                document.getElementById('results').innerHTML = '';
+                document.getElementById('initialMessage').classList.add('hidden');
+            }
+        }
+
+        function afficherErreur(message) {
+            const errorDiv = document.getElementById('errorMessage');
+            errorDiv.textContent = message;
+            errorDiv.classList.remove('hidden');
+            document.getElementById('results').innerHTML = '';
+            document.getElementById('initialMessage').classList.add('hidden');
+            updateStats(0, '-');
+        }
+
+        function cacherErreur() {
+            document.getElementById('errorMessage').classList.add('hidden');
+        }
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                if (currentTab === 'recherche') rechercher();
+                else if (currentTab === 'similarite') recommanderSimilarite();
+                else if (currentTab === 'profil') recommanderProfil();
+            }
+        }
+
+        function switchTab(tab) {
+            currentTab = tab;
+            
+            document.querySelectorAll('.tab-button').forEach(t => {
+                t.classList.remove('bg-gradient-primary', 'text-white', 'shadow-md');
+                t.classList.add('bg-gray-700', 'text-gray-300', 'hover:bg-gray-600');
+                
+                if (t.dataset.tab === tab) {
+                    t.classList.add('bg-gradient-primary', 'text-white', 'shadow-md');
+                    t.classList.remove('bg-gray-700', 'text-gray-300', 'hover:bg-gray-600');
+                }
+            });
+
+            document.querySelectorAll('.tab-content').forEach(element => {
+                element.classList.add('hidden'); 
+            });
+            
+            document.getElementById('results').innerHTML = '';
+            cacherErreur();
+            
+            const initialMsg = document.getElementById('initialMessage');
+            if (initialMsg) {
+                initialMsg.classList.add('hidden');
+            }
+
+            const targetInputId = tab + '-input';
+            const targetElement = document.getElementById(targetInputId);
+            if (targetElement) {
+                targetElement.classList.remove('hidden');
+            }
+            
+            if (tab === 'toutes') {
+                chargerToutesSeries(); 
+            } else if (tab === 'vues') {
+                if (!loggedInUserId) {
+                     afficherErreur("Veuillez vous connecter pour voir vos séries notées.");
+                } else {
+                     chargerSeriesVues();
+                }
+            } else if (tab === 'profil') {
+                 if (!loggedInUserId) {
+                     afficherErreur("Veuillez vous connecter pour obtenir des recommandations.");
+                 } else {
+                     // L'onglet profil est chargé, mais le calcul se fait au clic
+                     // (Pas d'appel API ici)
+                 }
+            } else {
+                fetchAPI(`series`)
+                    .then(data => updateStats(0, '-', data.nombre_series))
+                    .catch(() => updateStats(0, '-', 'Erreur'));
+            }
+            updateStats(0, '-');
+        }
+
+        // --- Fonctions de Notation (Modal) ---
+
+        function openModal(serieId, serieNom) {
+            if (!loggedInUserId) {
+                alert("Veuillez vous connecter pour noter une série.");
+                openLoginModal();
+                return;
+            }
+
+            // 🚨 SÉCURISATION: On s'assure que l'ID est bien un nombre 🚨
+            const safeSerieId = parseInt(serieId);
+            if (isNaN(safeSerieId) || safeSerieId <= 0) {
+                 alert("Erreur interne: ID de série invalide.");
+                 return;
+            }
+
+
+            selectedSerieId = safeSerieId;
+            selectedRating = 0;
+            document.getElementById('modalTitle').textContent = `Noter : ${serieNom}`;
+            
+            const starContainer = document.getElementById('starContainer');
+            starContainer.innerHTML = '';
+
+            for (let i = 1; i <= 5; i++) {
+                const star = document.createElement('span');
+                star.textContent = '★';
+                star.className = 'text-gray-500 hover:text-yellow-500 transition duration-150';
+                star.onclick = () => selectRating(i);
+                starContainer.appendChild(star);
+            }
+
+            document.getElementById('ratingModal').classList.remove('hidden');
+        }
+
+        function selectRating(rating) {
+            selectedRating = rating;
+            const stars = document.getElementById('starContainer').children;
+            for (let i = 0; i < 5; i++) {
+                stars[i].classList.toggle('text-yellow-500', i < rating);
+                stars[i].classList.toggle('text-gray-500', i >= rating);
+            }
+        }
+
+        function closeModal() {
+            document.getElementById('ratingModal').classList.add('hidden');
+            selectedSerieId = null;
+            selectedRating = 0;
+        }
+
+        async function submitRating() {
+            // 🚨 Vérification critique des données avant l'envoi
+            if (!selectedSerieId || selectedRating === 0 || !loggedInUserId) {
+                alert('Erreur: Veuillez sélectionner une note et être connecté.');
+                return;
+            }
+
+            const userId = loggedInUserId;
+            const dataToSend = { serie_id: selectedSerieId, note: selectedRating }; // Data object
+            
+            // 🚨 CONSOLE LOG CRITIQUE 🚨
+            console.log("Données JSON envoyées (POST /noter):", dataToSend);
+            
+            closeModal();
+            afficherChargement(true);
+            
+            try {
+                const response = await fetchAPI(`utilisateur/${userId}/noter`, {
+                    method: 'POST',
+                    body: JSON.stringify(dataToSend) // ENVOI DU JSON CORRECT
+                });
+
+                if (response.message) {
+                    alert(`Note enregistrée ! Note: ${selectedRating}/5 pour l'ID ${userId}`);
+                }
+            } catch (error) {
+                // L'erreur est déjà affichée par fetchAPI
+            } finally {
+                afficherChargement(false);
+                // Rafraîchir l'onglet vues si l'utilisateur y est
+                if (currentTab === 'vues') {
+                    chargerSeriesVues();
+                } else {
+                    switchTab(currentTab);
+                }
+            }
+        }
+
+        // --- Fonctions d'Interaction avec l'API Flask ---
+
+        async function fetchAPI(endpoint, options = {}) {
+            const isPost = options.method === 'POST';
+            
+            const defaultOptions = {
+                method: 'GET',
+                // Headers sont définis explicitement ici pour prioriser le Content-Type
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                ...options
+            };
+            
+            try {
+                const response = await fetch(`${API_URL}/${endpoint}`, defaultOptions);
+                const data = await response.json();
+
+                if (!response.ok) {
+                    const message = data.error || `Erreur HTTP ${response.status} sur ${endpoint}`;
+                    throw new Error(message);
+                }
+
+                return data;
+            } catch (error) {
+                // Si l'échec est dû à l'échec initial de l'API
+                if (endpoint === 'series') {
+                     afficherErreur(`ÉCHEC DE LA CONNEXION À L'API: Vérifiez que l'API Flask est lancée sur ${API_URL}`);
+                } else {
+                     afficherErreur('API: ' + error.message);
+                }
+                
+                throw error;
+            }
+        }
+
+        async function rechercher() {
+            const query = document.getElementById('searchInput').value.trim();
+            if (!query) {
+                afficherErreur('Veuillez entrer un terme de recherche');
+                return;
+            }
+
+            afficherChargement(true);
+            try {
+                const data = await fetchAPI(`recherche?q=${encodeURIComponent(query)}&limit=50`); 
+                updateStats(data.nombre_resultats, data.temps_recherche_ms);
+                afficherResultats(data.resultats, 'score', true); 
+            } catch (error) {
+            } finally {
+                afficherChargement(false);
+            }
+        }
+
+        async function recommanderSimilarite() {
+            const serieNom = document.getElementById('similariteInput').value.trim();
+            if (!serieNom) {
+                afficherErreur('Veuillez entrer le nom slug d\'une série de référence (ex: lostvf)');
+                return;
+            }
+
+            afficherChargement(true);
+            try {
+                const data = await fetchAPI(`recommandations/similarite?serie=${encodeURIComponent(serieNom)}&limit=10`);
+                updateStats(data.nombre_recommandations, data.temps_reco_ms);
+                afficherResultats(data.recommandations, 'score_similarite', false);
+            } catch (error) {
+            } finally {
+                afficherChargement(false);
+            }
+        }
+
+        async function recommanderProfil() {
+            const userId = getUserId();
+            if (!userId) {
+                 afficherErreur("Veuillez vous connecter pour utiliser la recommandation par profil.");
+                 return;
+            }
+            
+            afficherChargement(true);
+            try {
+                const vuesData = await fetchAPI(`utilisateur/${userId}/series`);
+                const seriesAimeesSlugs = vuesData.series.map(s => {
+                    return s.nom.toLowerCase().replace(/[^a-z0-9]/g, '');
+                });
+
+                if (seriesAimeesSlugs.length === 0) {
+                     afficherErreur("Vous devez noter au moins une série pour obtenir des recommandations par profil.");
+                     return;
+                }
+
+                const data = await fetchAPI(`recommandations/profil`, {
+                    method: 'POST',
+                    body: JSON.stringify({ series_aimees: seriesAimeesSlugs, limit: 10 })
+                });
+                
+                updateStats(data.nombre_recommandations, data.temps_reco_ms);
+                afficherResultats(data.recommandations, 'score_profil', false);
+
+            } catch (error) {
+            } finally {
+                afficherChargement(false);
+            }
+        }
+
+        async function chargerSeriesVues() {
+            const userId = getUserId();
+            if (!userId) return; // Devrait être géré par switchTab
+
+            afficherChargement(true);
+            try {
+                const data = await fetchAPI(`utilisateur/${userId}/series`);
+                updateStats(data.nombre_series, '-');
+                afficherResultats(data.series, 'note', false, true); 
+            } catch (error) {
+            } finally {
+                afficherChargement(false);
+            }
+        }
+
+        async function chargerToutesSeries() {
+            afficherChargement(true);
+            try {
+                const data = await fetchAPI(`series`);
+                updateStats(data.nombre_series, '-');
+                afficherResultats(data.series, 'N/A', false); 
+            } catch (error) {
+            } finally {
+                afficherChargement(false);
+            }
+        }
+
+        // --- Fonction de rendu des cartes de séries ---
+
+        function afficherResultats(series, scoreKey, isSearch, isVues = false) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+            document.getElementById('initialMessage').classList.add('hidden'); 
+
+            if (series.length === 0) {
+                resultsDiv.innerHTML = '<p class="text-gray-400 col-span-full text-center p-10">Aucun résultat trouvé.</p>';
+                return;
+            }
+
+            series.forEach(serie => {
+                const card = document.createElement('div');
+                card.className = 'bg-gray-700 rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition duration-300 transform hover:-translate-y-1 cursor-pointer relative';
+
+                const scoreValue = serie[scoreKey] !== undefined ? serie[scoreKey] : null;
+                const displayName = serie.nom || 'Nom Indisponible'; 
+                const firstChar = (displayName && displayName !== 'Nom Indisponible') ? displayName.substring(0, 1) : '?';
+                const serieId = serie.id; 
+
+                // HTML pour la note (affichée ou bouton de notation)
+                let noteHTML = '';
+                if (isVues) {
+                    noteHTML = `<span class="px-2 py-1 text-xs font-bold rounded-full bg-yellow-500 text-black absolute top-2 right-2">⭐ ${serie.note || 'N/A'}</span>`;
+                } else if (loggedInUserId) {
+                    // Bouton noter (clic sur la carte)
+                    card.onclick = () => openModal(serieId, displayName);
+                    noteHTML = `<button onclick="event.stopPropagation(); openModal(${serieId}, '${displayName.replace(/'/g, "\\'") }');" class="text-xs bg-indigo-500 hover:bg-indigo-700 text-white font-bold py-1 px-2 rounded absolute top-2 right-2">Noter</button>`;
+                }
+                
+                const scoreHTML = scoreValue !== null && scoreKey !== 'N/A'
+                    ? `<span class="px-2 py-1 text-xs font-bold rounded-full bg-indigo-500 text-white">${scoreKey.toUpperCase().replace('_', ' ')}: ${scoreValue.toFixed(4)}</span>`
+                    : `<span class="px-2 py-1 text-xs font-bold rounded-full bg-gray-500 text-white">N/A</span>`;
+
+                const posterHTML = serie.affiche_url 
+                    ? `<img src="${serie.affiche_url}" alt="${displayName}" class="w-full serie-card-poster object-cover object-top" onerror="this.onerror=null;this.src='https://placehold.co/600x400/1f2937/a855f7?text=Affiche+Manquante';">`
+                    : `<div class="w-full serie-card-poster flex items-center justify-center bg-gray-600 text-3xl font-bold text-gray-300 rounded-t-xl">${firstChar}</div>`;
+
+                card.innerHTML = `
+                    ${noteHTML}
+                    ${posterHTML}
+                    <div class="p-4">
+                        <div class="text-lg font-bold text-gray-100 truncate">${displayName}</div>
+                        <div class="text-sm text-gray-400 mt-1 flex justify-between items-center">
+                            ${scoreHTML}
+                            <span>${serie.langue_originale || 'Langue Inconnue'}</span>
+                        </div>
+                        ${isSearch && serie.details_score ? `
+                            <div class="mt-3 text-xs text-gray-400 border-t border-gray-600 pt-3">
+                                <span class="block text-indigo-400">TF-IDF: ${serie.details_score.tfidf.toFixed(4)}</span>
+                                <span class="block">Bonus Contexte: ${serie.details_score.contexte.toFixed(4)}</span>
+                            </div>
+                        ` : ''}
+                    </div>
+                `;
+
+                resultsDiv.appendChild(card);
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            // Initialisation de l'état de déconnexion par défaut
+            updateAuthStatus(null); 
+
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.addEventListener('click', (event) => switchTab(button.dataset.tab));
+            });
+
+            switchTab('toutes'); 
+        });
+    </script>
+</body>
+</html>
