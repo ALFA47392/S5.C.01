@@ -9,6 +9,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import psycopg2
 from psycopg2.extras import RealDictCursor
+import bcrypt # Import de bcrypt
 
 # Import des classes du moteur de recherche
 try:
@@ -69,6 +70,29 @@ def get_db_connection():
 
 
 # =======================
+# 🔹 Fonction d'aide pour le mapping BDD (POSITIONNÉE EN HAUT)
+# =======================
+
+def preparer_mapping_bdd() -> Dict[str, Any]:
+    """ Récupère toutes les séries de la BDD et les mappe par slug. """
+    conn = get_db_connection()
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT id, nom, resume, affiche_url, langue_originale
+        FROM series
+    """)
+    all_series_bdd = cur.fetchall()
+    cur.close()
+    conn.close()
+    
+    bdd_map = {}
+    for serie in all_series_bdd:
+        slug = aligner_nom_bdd(serie['nom'])
+        bdd_map[slug] = serie
+    return bdd_map
+
+
+# =======================
 # 🔹 Initialisation du moteur (avec cache)
 # =======================
 
@@ -120,32 +144,108 @@ def initialiser_moteur():
 
 initialiser_moteur()
 
-# =======================
-# 🔹 Fonction d'aide pour le mapping BDD
-# =======================
 
-def preparer_mapping_bdd() -> Dict[str, Any]:
-    """ Récupère toutes les séries de la BDD et les mappe par slug. """
-    conn = get_db_connection()
-    cur = conn.cursor()
-    cur.execute("""
-        SELECT id, nom, resume, affiche_url, langue_originale
-        FROM series
-    """)
-    all_series_bdd = cur.fetchall()
-    cur.close()
-    conn.close()
-    
-    bdd_map = {}
-    for serie in all_series_bdd:
-        slug = aligner_nom_bdd(serie['nom'])
-        bdd_map[slug] = serie
-    return bdd_map
+# ====================================================================
+# 🔹 0. AUTHENTIFICATION ET GESTION DES UTILISATEURS
+# ====================================================================
 
+@app.route('/api/utilisateur/inscription', methods=['POST'])
+def inscription():
+    """ Enregistre un nouvel utilisateur avec mot de passe haché. """
+    try:
+        data = request.get_json()
+        email = data.get('email')
+        password = data.get('password')
+        pseudo = data.get('pseudo', email.split('@')[0])
+        
+        if not email or not password:
+            return jsonify({"error": "Email et mot de passe requis"}), 400
 
-# =======================
+        # Hachage du mot de passe
+        hashed_password = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt())
+        
+        conn = get_db_connection()
+        cur = conn.cursor()
+        
+        # Insertion dans la table utilisateurs
+        cur.execute("""
+            INSERT INTO utilisateurs (pseudo, email, mdp_hash)
+            VALUES (%s, %s, %s)
+            RETURNING id
+        """, (pseudo, email, hashed_password.decode('utf-8')))
+        
+        user_id = cur.fetchone()['id']
+        conn.commit()
+        cur.close()
+        conn.close()
+        
+        return jsonify({
+            "message": "Inscription réussie",
+            "user_id": user_id,
+            "pseudo": pseudo
+        }), 201
+
+    except psycopg2.IntegrityError:
+        # Probablement un email unique violé
+        conn.rollback()
+        return jsonify({"error": "Cet email est déjà utilisé."}), 409
+    except Exception as e:
+        print(f"Erreur inscription: {e}", file=sys.stderr)
+        return jsonify({"error": "Erreur interne lors de l'inscription."}), 500
+
+@app.route('/api/utilisateur/connexion', methods=['POST'])
+def connexion():
+    """ Authentifie l'utilisateur et renvoie son ID. """
+    try:
+        data = request.get_json()
+        email = data.get('email')
+        password = data.get('password')
+        
+        if not email or not password:
+            return jsonify({"error": "Email et mot de passe requis"}), 400
+        
+        conn = get_db_connection()
+        cur = conn.cursor()
+        
+        # Récupérer l'utilisateur par email
+        cur.execute("""
+            SELECT id, mdp_hash, pseudo
+            FROM utilisateurs
+            WHERE email = %s
+        """, (email,))
+        
+        user = cur.fetchone()
+        cur.close()
+        conn.close()
+        
+        if user:
+            # Log pour le diagnostic
+            print(f"CONNEXION TENTATIVE: Utilisateur trouvé ID={user['id']}, Email={email}")
+            
+            # Vérification renforcée du mot de passe 
+            stored_hash = user['mdp_hash']
+            
+            # Assurer que le hachage stocké est une chaîne avant l'encodage
+            if isinstance(stored_hash, str) and bcrypt.checkpw(password.encode('utf-8'), stored_hash.encode('utf-8')):
+                return jsonify({
+                    "message": "Connexion réussie",
+                    "user_id": user['id'],
+                    "pseudo": user['pseudo']
+                }), 200
+            else:
+                # Log si la vérification échoue
+                print(f"CONNEXION ÉCHEC: Mot de passe incorrect pour ID={user['id']}")
+                return jsonify({"error": "Email ou mot de passe incorrect."}), 401
+        else:
+            return jsonify({"error": "Email ou mot de passe incorrect."}), 401
+            
+    except Exception as e:
+        print(f"Erreur connexion fatale: {e}", file=sys.stderr)
+        return jsonify({"error": "Erreur interne lors de la connexion."}), 500
+
+# ====================================================================
 # 🔹 1. RECHERCHE DE SÉRIES (TF-IDF + Bonus)
-# =======================
+# ====================================================================
 
 @app.route('/api/recherche', methods=['GET'])
 def rechercher_series():
@@ -371,7 +471,7 @@ def details_serie(serie_id):
         return jsonify({"error": str(e)}), 503
     except Exception as e:
         print(f"Erreur inattendue dans /api/series/<id>: {e}", file=sys.stderr)
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"error": f"Erreur interne du serveur. Détails: {type(e).__name__}"}), 500
 
 @app.route('/api/utilisateur/<int:user_id>/noter', methods=['POST'])
 def noter_serie(user_id):
@@ -395,30 +495,28 @@ def noter_serie(user_id):
         conn = get_db_connection()
         cur = conn.cursor()
         
-        # 1. Vérifier si une note existe déjà (Méthode propre : SELECT avant INSERT/UPDATE)
-        cur.execute("""
-            SELECT id FROM recommandations
-            WHERE id_utilisateur = %s AND id_series = %s
-        """, (user_id, serie_id))
-        
-        existing = cur.fetchone()
-        
-        if existing:
-            # 2. Mise à jour (UPDATE)
-            cur.execute("""
-                UPDATE recommandations
-                SET note = %s, commentaire = %s
-                WHERE id_utilisateur = %s AND id_series = %s
-            """, (note, commentaire, user_id, serie_id))
-            message = "Note mise à jour avec succès"
-        else:
-            # 3. Insertion (INSERT)
+        # 🚨 UTILISATION DE INSERT ... ON CONFLICT DO UPDATE 🚨
+        try:
             cur.execute("""
                 INSERT INTO recommandations (id_utilisateur, id_series, note, commentaire)
                 VALUES (%s, %s, %s, %s)
+                ON CONFLICT (id_utilisateur, id_series) 
+                DO UPDATE SET 
+                    note = EXCLUDED.note,
+                    commentaire = EXCLUDED.commentaire,
+                    date_notation = NOW()
             """, (user_id, serie_id, note, commentaire))
-            message = "Note enregistrée avec succès"
+            
+            message = "Note enregistrée ou mise à jour avec succès (Utilisation de ON CONFLICT)"
 
+        except psycopg2.IntegrityError as e:
+            # Cette erreur attrape uniquement les violations de clés étrangères (série ou utilisateur manquant)
+            conn.rollback() 
+            print(f"Erreur d'intégrité de la BDD (Vérifiez les IDs): {e}", file=sys.stderr)
+            
+            # Afficher l'erreur pour le frontend
+            return jsonify({"error": "Erreur critique: La série ou l'utilisateur n'existe pas dans la BDD."}), 409
+        
         conn.commit()
         cur.close()
         conn.close()
@@ -430,15 +528,10 @@ def noter_serie(user_id):
             "note": note
         })
     
-    except psycopg2.IntegrityError as e:
-        # 🚨 Cette erreur gère les clés étrangères manquantes 🚨
-        conn.rollback() 
-        print(f"Erreur d'intégrité de la BDD (Vérifiez les IDs des séries/utilisateurs): {e}", file=sys.stderr)
-        return jsonify({"error": "Erreur d'intégrité: La serie ou l'utilisateur n'existe pas."}), 409
-        
     except Exception as e:
-        print(f"Erreur dans noter_serie: {e}", file=sys.stderr)
+        print(f"Erreur fatale dans noter_serie (non BDD): {e}", file=sys.stderr)
         return jsonify({"error": str(e)}), 500
+
 @app.route('/api/utilisateur/<int:user_id>/series', methods=['GET'])
 def series_utilisateur(user_id):
     """Obtenir les séries notées par un utilisateur (pour l'onglet 'Séries Vues')"""

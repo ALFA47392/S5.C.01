@@ -48,6 +48,9 @@
                 <button class="tab-button px-4 py-2 rounded-lg text-sm font-semibold transition duration-200 bg-gray-700 text-gray-300 hover:bg-gray-600" data-tab="recherche">
                     🔍 Recherche
                 </button>
+                <button class="tab-button px-4 py-2 rounded-lg text-sm font-semibold transition duration-200 bg-gray-700 text-gray-300 hover:bg-gray-600" data-tab="similarite">
+                    ✨ Reco. (Simil.)
+                </button>
                 <button class="tab-button px-4 py-2 rounded-lg text-sm font-semibold transition duration-200 bg-gray-700 text-gray-300 hover:bg-gray-600" data-tab="profil">
                     👤 Reco. (Profil)
                 </button>
@@ -76,6 +79,22 @@
                     </div>
                 </div>
                 
+                <!-- Contenu de l'onglet SIMILARITÉ -->
+                <div id="similarite-input" class="tab-content hidden">
+                    <div class="flex flex-col md:flex-row gap-4">
+                        <input 
+                            type="text" 
+                            id="similariteInput" 
+                            placeholder="Nom de la série de référence (Slug ex: lostvf)"
+                            class="flex-1 p-3 rounded-lg bg-gray-700 border border-gray-600 text-white placeholder-gray-400 focus:ring-indigo-500 focus:border-indigo-500"
+                            onkeypress="handleKeyPress(event)"
+                        >
+                        <button onclick="recommanderSimilarite()" class="bg-gradient-primary text-white px-6 py-3 rounded-lg font-bold shadow-lg hover:shadow-xl transition duration-300">
+                            Trouver Similarités
+                        </button>
+                    </div>
+                </div>
+
                 <!-- Contenu de l'onglet PROFIL -->
                 <div id="profil-input" class="tab-content hidden">
                     <p id="profilMessage" class="text-red-400 mb-4"></p>
@@ -124,20 +143,61 @@
         </div>
     </div>
 
-    <!-- Modale de connexion (Login Modal) -->
+    <!-- Modale d'AUTHENTIFICATION (Login/Register Modal) -->
     <div id="loginModal" class="fixed inset-0 bg-black bg-opacity-75 hidden flex items-center justify-center z-50">
         <div class="bg-gray-800 rounded-lg p-6 w-96 shadow-2xl">
-            <h2 class="text-xl font-bold mb-4 text-white">Connexion (Simulation)</h2>
-            <p class="text-gray-400 mb-4">Entrez un ID utilisateur pour simuler la connexion (ex: 1, 2, 3).</p>
-            <input 
-                type="number" 
-                id="loginUserIdInput" 
-                min="1"
-                placeholder="ID Utilisateur" 
-                class="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white mb-6"
-            >
-            <button onclick="closeLoginModal()" class="bg-gray-600 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition">Annuler</button>
-            <button onclick="performLogin()" class="bg-indigo-600 text-white px-4 py-2 rounded-lg hover:bg-indigo-700 transition ml-2">Connexion</button>
+            <h2 class="text-2xl font-bold mb-4 text-white" id="authTitle">Connexion</h2>
+            
+            <!-- Formulaire de Connexion -->
+            <div id="loginForm" class="auth-form">
+                <p class="text-gray-400 mb-4">Connectez-vous pour noter les séries.</p>
+                <input 
+                    type="email" 
+                    id="loginEmailInput" 
+                    placeholder="Email" 
+                    class="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white mb-3"
+                >
+                <input 
+                    type="password" 
+                    id="loginPasswordInput" 
+                    placeholder="Mot de passe" 
+                    class="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white mb-6"
+                    onkeypress="if(event.key === 'Enter') performLogin()"
+                >
+                <p id="loginError" class="text-red-400 text-sm mb-4 hidden"></p>
+                
+                <button onclick="performLogin()" class="bg-indigo-600 text-white px-4 py-2 rounded-lg font-bold hover:bg-indigo-700 transition w-full mb-3">Connexion</button>
+                <button onclick="showRegisterForm()" class="text-indigo-400 text-sm w-full hover:text-indigo-300">Pas de compte ? S'inscrire</button>
+            </div>
+
+            <!-- Formulaire d'Inscription -->
+            <div id="registerForm" class="auth-form hidden">
+                <p class="text-gray-400 mb-4">Créez votre compte.</p>
+                <input 
+                    type="text" 
+                    id="registerPseudoInput" 
+                    placeholder="Pseudo (Optionnel)" 
+                    class="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white mb-3"
+                >
+                <input 
+                    type="email" 
+                    id="registerEmailInput" 
+                    placeholder="Email" 
+                    class="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white mb-3"
+                >
+                <input 
+                    type="password" 
+                    id="registerPasswordInput" 
+                    placeholder="Mot de passe" 
+                    class="w-full p-2 rounded bg-gray-700 border border-gray-600 text-white mb-6"
+                >
+                 <p id="registerError" class="text-red-400 text-sm mb-4 hidden"></p>
+
+                <button onclick="performRegister()" class="bg-purple-600 text-white px-4 py-2 rounded-lg font-bold hover:bg-purple-700 transition w-full mb-3">Créer le compte</button>
+                <button onclick="showLoginForm()" class="text-indigo-400 text-sm w-full hover:text-indigo-300">J'ai déjà un compte</button>
+            </div>
+
+            <button onclick="closeLoginModal()" class="bg-gray-600 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition w-full mt-4">Fermer</button>
         </div>
     </div>
 
@@ -161,18 +221,37 @@
         let currentTab = 'toutes';
         let selectedRating = 0;
         let selectedSerieId = null;
-        let loggedInUserId = null; // Stocke l'ID utilisateur connecté
+        let loggedInUserId = null; 
+        let loggedInPseudo = null;
 
-        // --- Fonctions d'Authentification ---
+        // --- Fonctions d'Authentification (Logique complète) ---
 
-        function updateAuthStatus(userId) {
+        function showLoginForm() {
+            document.getElementById('authTitle').textContent = 'Connexion';
+            document.getElementById('loginForm').classList.remove('hidden');
+            document.getElementById('registerForm').classList.add('hidden');
+            document.getElementById('loginError').classList.add('hidden');
+            document.getElementById('registerError').classList.add('hidden');
+        }
+
+        function showRegisterForm() {
+            document.getElementById('authTitle').textContent = 'Inscription';
+            document.getElementById('loginForm').classList.add('hidden');
+            document.getElementById('registerForm').classList.remove('hidden');
+            document.getElementById('loginError').classList.add('hidden');
+            document.getElementById('registerError').classList.add('hidden');
+        }
+
+        function updateAuthStatus(userId, pseudo = null) {
             const statusElement = document.getElementById('authStatus');
             const loginButton = document.getElementById('loginButton');
             const recoButton = document.getElementById('recoProfilButton');
             const profilMessage = document.getElementById('profilMessage');
+            
+            loggedInPseudo = pseudo;
 
             if (userId) {
-                statusElement.textContent = `Connecté (ID: ${userId})`;
+                statusElement.textContent = `Connecté (ID: ${userId} - ${pseudo || 'Utilisateur'})`;
                 statusElement.classList.remove('text-red-400');
                 statusElement.classList.add('text-green-400');
                 loginButton.textContent = 'Déconnexion';
@@ -197,10 +276,10 @@
                 profilMessage.classList.add('text-red-400');
                 recoButton.classList.add('hidden');
             }
-            document.getElementById('userIdInput').value = userId || '';
         }
 
         function openLoginModal() {
+            showLoginForm();
             document.getElementById('loginModal').classList.remove('hidden');
         }
 
@@ -208,26 +287,71 @@
             document.getElementById('loginModal').classList.add('hidden');
         }
 
-        function performLogin() {
-            const userId = parseInt(document.getElementById('loginUserIdInput').value);
-            if (userId > 0) {
-                updateAuthStatus(userId);
+        async function performLogin() {
+            const email = document.getElementById('loginEmailInput').value.trim();
+            const password = document.getElementById('loginPasswordInput').value.trim();
+            const errorElement = document.getElementById('loginError');
+            errorElement.classList.add('hidden');
+
+            if (!email || !password) {
+                errorElement.textContent = "Veuillez remplir tous les champs.";
+                errorElement.classList.remove('hidden');
+                return;
+            }
+
+            try {
+                const data = await fetchAPI('utilisateur/connexion', {
+                    method: 'POST',
+                    body: JSON.stringify({ email, password })
+                });
+
+                updateAuthStatus(data.user_id, data.pseudo);
                 closeLoginModal();
-                // Si l'utilisateur vient de se connecter et est sur vues, rafraîchir
-                if (currentTab === 'vues') {
-                    chargerSeriesVues();
-                }
-            } else {
-                alert("Veuillez entrer un ID utilisateur valide (nombre > 0).");
+                alert(`Connexion réussie ! Bienvenue, ${data.pseudo || data.user_id}.`);
+                if (currentTab === 'vues') chargerSeriesVues();
+
+            } catch (error) {
+                // L'erreur API contient déjà le message d'erreur
+                const message = error.message.replace('API: Error: ', '').replace('API: ', '');
+                errorElement.textContent = message;
+                errorElement.classList.remove('hidden');
+            }
+        }
+
+        async function performRegister() {
+            const pseudo = document.getElementById('registerPseudoInput').value.trim();
+            const email = document.getElementById('registerEmailInput').value.trim();
+            const password = document.getElementById('registerPasswordInput').value.trim();
+            const errorElement = document.getElementById('registerError');
+            errorElement.classList.add('hidden');
+
+            if (!email || !password) {
+                errorElement.textContent = "Email et mot de passe sont requis.";
+                errorElement.classList.remove('hidden');
+                return;
+            }
+
+            try {
+                const data = await fetchAPI('utilisateur/inscription', {
+                    method: 'POST',
+                    body: JSON.stringify({ pseudo, email, password })
+                });
+                
+                alert(`Inscription réussie ! Vous pouvez maintenant vous connecter avec ${email}.`);
+                showLoginForm();
+
+            } catch (error) {
+                const message = error.message.replace('API: Error: ', '').replace('API: ', '');
+                errorElement.textContent = message;
+                errorElement.classList.remove('hidden');
             }
         }
 
         function performLogout() {
             updateAuthStatus(null);
-            // Revenir à l'onglet toutes les séries
             switchTab('toutes');
         }
-
+        
         function getUserId() {
             return loggedInUserId;
         }
@@ -268,7 +392,7 @@
             if (event.key === 'Enter') {
                 if (currentTab === 'recherche') rechercher();
                 else if (currentTab === 'similarite') recommanderSimilarite();
-                else if (currentTab === 'profil') recommanderProfil();
+                // La recommandation profil n'a pas de champ texte, donc on l'ignore
             }
         }
 
@@ -335,7 +459,7 @@
                 return;
             }
 
-            // 🚨 SÉCURISATION: On s'assure que l'ID est bien un nombre 🚨
+            // SÉCURISATION: On s'assure que l'ID est bien un nombre
             const safeSerieId = parseInt(serieId);
             if (isNaN(safeSerieId) || safeSerieId <= 0) {
                  alert("Erreur interne: ID de série invalide.");
@@ -377,16 +501,14 @@
         }
 
         async function submitRating() {
-            // 🚨 Vérification critique des données avant l'envoi
             if (!selectedSerieId || selectedRating === 0 || !loggedInUserId) {
                 alert('Erreur: Veuillez sélectionner une note et être connecté.');
                 return;
             }
 
             const userId = loggedInUserId;
-            const dataToSend = { serie_id: selectedSerieId, note: selectedRating }; // Data object
+            const dataToSend = { serie_id: selectedSerieId, note: selectedRating }; 
             
-            // 🚨 CONSOLE LOG CRITIQUE 🚨
             console.log("Données JSON envoyées (POST /noter):", dataToSend);
             
             closeModal();
@@ -395,17 +517,15 @@
             try {
                 const response = await fetchAPI(`utilisateur/${userId}/noter`, {
                     method: 'POST',
-                    body: JSON.stringify(dataToSend) // ENVOI DU JSON CORRECT
+                    body: JSON.stringify(dataToSend) 
                 });
 
                 if (response.message) {
                     alert(`Note enregistrée ! Note: ${selectedRating}/5 pour l'ID ${userId}`);
                 }
             } catch (error) {
-                // L'erreur est déjà affichée par fetchAPI
             } finally {
                 afficherChargement(false);
-                // Rafraîchir l'onglet vues si l'utilisateur y est
                 if (currentTab === 'vues') {
                     chargerSeriesVues();
                 } else {
@@ -417,11 +537,8 @@
         // --- Fonctions d'Interaction avec l'API Flask ---
 
         async function fetchAPI(endpoint, options = {}) {
-            const isPost = options.method === 'POST';
-            
             const defaultOptions = {
                 method: 'GET',
-                // Headers sont définis explicitement ici pour prioriser le Content-Type
                 headers: {
                     'Content-Type': 'application/json',
                 },
@@ -430,16 +547,18 @@
             
             try {
                 const response = await fetch(`${API_URL}/${endpoint}`, defaultOptions);
-                const data = await response.json();
+                
+                // Tenter de lire la réponse comme JSON, même en cas d'erreur
+                const isJson = response.headers.get('content-type')?.includes('application/json');
+                const data = isJson ? await response.json() : await response.text();
 
                 if (!response.ok) {
-                    const message = data.error || `Erreur HTTP ${response.status} sur ${endpoint}`;
+                    const message = isJson && data.error ? data.error : `Erreur HTTP ${response.status} sur ${endpoint}`;
                     throw new Error(message);
                 }
 
                 return data;
             } catch (error) {
-                // Si l'échec est dû à l'échec initial de l'API
                 if (endpoint === 'series') {
                      afficherErreur(`ÉCHEC DE LA CONNEXION À L'API: Vérifiez que l'API Flask est lancée sur ${API_URL}`);
                 } else {
@@ -521,7 +640,7 @@
 
         async function chargerSeriesVues() {
             const userId = getUserId();
-            if (!userId) return; // Devrait être géré par switchTab
+            if (!userId) return; 
 
             afficherChargement(true);
             try {
@@ -610,12 +729,11 @@
         document.addEventListener('DOMContentLoaded', () => {
             // Initialisation de l'état de déconnexion par défaut
             updateAuthStatus(null); 
-
             document.querySelectorAll('.tab-button').forEach(button => {
                 button.addEventListener('click', (event) => switchTab(button.dataset.tab));
             });
-
             switchTab('toutes'); 
+            showLoginForm(); // Afficher Connexion par défaut à l'ouverture de la modale
         });
     </script>
 </body>
