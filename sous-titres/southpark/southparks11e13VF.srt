@@ -1,0 +1,798 @@
+[INFORMATION]
+[TITLE]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]0
+[CD TRACK]0
+[COMMENT]
+[END INFORMATION]
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]bd,[SIZE]24,[FONT]Tahoma
+00:00:06.51,00:00:09.86
+La NoLastName présente...
+
+00:00:10.25,00:00:14.05
+South Park - 1113[br]Guitar Queer-o
+
+00:00:14.52,00:00:16.78
+Trad by Bibi
+
+00:00:17.53,00:00:20.34
+Synchro by Sharo
+
+00:00:24.28,00:00:30.02
+Forum :[br]http://nolastname.c.la
+
+00:00:45.36,00:00:47.57
+Vous êtes bons les mecs !
+
+00:00:52.16,00:00:54.10
+Sharon, que font les garçons ?
+
+00:00:54.28,00:00:57.50
+Oh, Stan et Kyle ont achetés [br]un nouveau jeu vidéo
+
+00:00:57.54,00:00:59.17
+Ils savent jouer de [br]la guitare maintenant ?
+
+00:00:59.01,00:01:04.02
+Non non, ce sont juste des manettes. Ils appuient sur les boutons pour jouer le morceau dans le jeu.
+
+00:01:06.02,00:01:12.05
+Si ils passaient juste la moitié du temps qu'ils passent sur ce jeu à apprendre un vrai instrument, qui sait ce qu'ils pourraient faire…
+
+00:01:17.89,00:01:21.09
+Ecoutez cette foule virtuelle, [br]ils nous aiment !
+
+00:01:23.37,00:01:25.17
+Alors vous aimez cette musique les enfants ?
+
+00:01:25.17,00:01:26.70
+Ouais, c'est Guitar Hero !
+
+00:01:26.88,00:01:28.64
+Stan et Kyle sont vraiment bons !
+
+00:01:28.70,00:01:33.19
+Vous voulez voir quelque chose de vraiment cool ? [br]Mattez ça !
+
+00:01:57.75,00:02:00.50
+Papa, papa ! Tu fais quoi ?
+
+00:02:00.50,00:02:04.90
+Je peux jouer beaucoup de ces chansons [br]avec une vraie guitare. [br]Vous voulez que je vous apprenne ?
+
+00:02:06.68,00:02:09.02
+Heu, c'est nul Mr. March
+
+00:02:09.14,00:02:10.60
+Ouais, c'est stupide Papa
+
+00:02:10.60,00:02:13.53
+Mais….mais ça c'est du vrai !
+
+00:02:13.53,00:02:15.57
+Les vraies guitares, c'est pour les vieux !
+
+00:02:15.57,00:02:18.73
+Pardon monsieur mais on veut [br]voir Stan et Kyle jouer.
+
+00:02:22.93,00:02:25.59
+Ok, essayons de marquer [br]60 000 points cette fois
+
+00:02:45.93,00:02:48.32
+Vous êtes prêt ?
+
+00:03:14.15,00:03:16.94
+Partie terminée. [br]T'es naze !
+
+00:03:27.16,00:03:28.43
+Vous allez y arriver !
+
+00:03:28.59,00:03:30.98
+Allez Stan, 100 000 points !
+
+00:03:30.98,00:03:32.71
+Cartman, ta gueule on se concentre !
+
+00:03:40.54,00:03:42.35
+Vous l'avez fait !
+
+00:03:42.35,00:03:45.49
+Vous avez marqué 100 000 points !
+
+00:03:45.51,00:03:48.86
+Vous êtes des rockstars !
+
+00:03:48.88,00:03:51.08
+On est des vrais rockstars maintenant mec !
+
+00:03:51.26,00:03:55.21
+Vous n'êtes pas des rockstars, c'est juste une stupide manette !
+
+00:03:55.46,00:03:56.69
+Attendez
+
+00:03:58.19,00:03:59.85
+Stan March ?
+
+00:04:00.24,00:04:00.78
+Ouais ?
+
+00:04:00.78,00:04:03.40
+Je suis Charles Kinkade de [br]l'Agence de talents Kinkade.
+
+00:04:03.40,00:04:07.94
+J'ai entendu dire que vous veniez de [br]marquer 100 000 points sur Guitar Hero
+
+00:04:08.56,00:04:09.31
+Ouais c'est vrai
+
+00:04:09.74,00:04:12.79
+Et bien je suis impressionné et [br]j'aimerais être votre manager
+
+00:04:12.79,00:04:13.94
+Woaw, vraiment ?
+
+00:04:15.15,00:04:17.69
+Kyle, mec. Ce type veut [br]être notre manager !
+
+00:04:17.69,00:04:18.58
+Tu déconnes ?
+
+00:04:18.58,00:04:19.76
+C'est vrai ?
+
+00:04:19.76,00:04:24.16
+Marquer 100 000 points est impressionnant mais je pense qu'avec le bon " label " derrière vous.
+
+00:04:24.16,00:04:26.88
+Vous pourriez marquer 1 million de points.
+
+00:04:26.88,00:04:28.07
+Ca serait cool !
+
+00:04:28.07,00:04:31.16
+Alors, ça vous intéresse ?
+
+00:04:44.18,00:04:45.15
+Alors, qu'en pensez-vous ?
+
+00:04:45.15,00:04:47.70
+J'aime ça, ce sont ces garçons qui jouent ?
+
+00:04:47.75,00:04:55.47
+Non, c'est Kensas. Mais ces enfants ont marqués 100 000 points dessus en expert dans le mode coop.
+
+00:04:55.51,00:04:58.54
+Bordel, c'est super impressionnant
+
+00:04:59.93,00:05:02.90
+Ok, on les engage
+
+00:05:03.08,00:05:04.83
+Vous avez réussi les enfants !
+
+00:05:04.97,00:05:08.82
+Ecoutez les enfants, j'organise une grosse fête de stars dans mon super manoir ce soir.
+
+00:05:08.82,00:05:11.95
+Pourquoi ne viendriez vous pas [br]en tant que nouveaux artistes ?
+
+00:05:11.96,00:05:13.50
+Cool !
+
+00:05:24.84,00:05:26.54
+Woaw, c'est une grosse fête !
+
+00:05:26.54,00:05:29.61
+Toutes les plus grandes stars du Colorado sont là
+
+00:05:29.61,00:05:32.14
+Mec c'est Ron Zapolo du JT de " Channel 4 "
+
+00:05:32.14,00:05:37.11
+et regardes là-bas c'est ce type [br]de la pub pour les maisons !
+
+00:05:37.11,00:05:43.49
+Ecoutez tout le monde, voici Stan et Kyle qui viennent de marquer 100 000 points à Guitar Hero
+
+00:05:43.50,00:05:49.08
+Amusez vous bien, il y'a plus de cocaïne et de sexe à l'intérieur.
+
+00:05:49.08,00:05:53.70
+Mec, c'est Jay Korlo, le Quaterback des Denver Broncos
+
+00:05:53.70,00:05:54.55
+La vache !
+
+00:05:54.55,00:05:56.31
+Vous aimeriez lui parler ?
+
+00:05:56.32,00:05:57.69
+Vous rigolez ?
+
+00:05:58.06,00:06:02.52
+Jay, je voulais te présenter Stan et Kyle qui ont marqués 100 000 points à Guitar Hero
+
+00:06:02.52,00:06:04.94
+Vraiment ? Ravi de vous rencontrer les mecs
+
+00:06:04.94,00:06:08.72
+Je suis ravi aussi. Vous êtes nul mais mon père a dit que vous seriez peut être bon un jour !
+
+00:06:09.63,00:06:10.43
+Merci
+
+00:06:10.43,00:06:12.12
+Alex, vous avez vu ma femme quelque part ?
+
+00:06:12.13,00:06:15.99
+Vous connaissez Tom Shane de la pub pour la compagnie Tom Shane ?
+
+00:06:15.99,00:06:18.06
+Si on le connaît ? C'est une légende !
+
+00:06:18.07,00:06:23.19
+Souviens toi de ces enfants Tom, ils vont marquer 1 million de points à la salle d'arcade dans quelques semaines
+
+00:06:23.19,00:06:24.98
+Ca serait impressionnant
+
+00:06:25.32,00:06:29.88
+Mec, on l'a fait. On est super, extra cool !
+
+00:06:29.88,00:06:33.62
+Ouais, notre vie va enfin s'améliorer
+
+00:06:33.62,00:06:45.99
+Vous êtes bons !
+
+00:06:45.99,00:06:48.58
+Ok, bonne répétition les enfants
+
+00:06:48.58,00:06:51.42
+Mec, j'ai completement raté le milieu, t'as vu ?
+
+00:06:51.42,00:06:52.89
+Ouais, c'était super facile pourtant !
+
+00:06:52.89,00:06:59.11
+C'était très bien les enfants. Kyle, il y'a une manette qui t'irait mieux dans ma voiture.
+
+00:06:59.11,00:07:01.51
+Pourquoi n'y vas-tu pas avec [br]Jim pour qu'il t'aide à la trouver ?
+
+00:07:01.51,00:07:02.66
+Ok
+
+00:07:04.79,00:07:09.21
+Tu as un vrai potentiel Stan. [br]Je sais que tu peux arriver à 1 million.
+
+00:07:09.21,00:07:10.50
+Vraiment ? Ca serait cool
+
+00:07:10.51,00:07:16.57
+Je pense que TU peux le faire. Par contre ton ami ne fait que te ralentir
+
+00:07:16.57,00:07:17.77
+Vous voulez dire Kyle ?
+
+00:07:17.78,00:07:21.54
+Ecoutes tu y arrives beaucoup mieux que lui. Y'a pas de doute tu es le meilleur.
+
+00:07:21.54,00:07:26.35
+Je veux te faire jouer avec des gens qui pourront vraiment t'aider à t'améliorer.
+
+00:07:27.12,00:07:31.01
+Mais Kyle et moi avons toujours joué ensemble. On a acheté le jeu tout les deux
+
+00:07:31.42,00:07:35.69
+C'est louable mais tu sais où la loyauté te mène dans un jeu comme Guitar Hero ?
+
+00:07:35.97,00:07:36.90
+Nulle part.
+
+00:07:37.22,00:07:43.77
+Ecoute cette foule virtuelle. Je n'avais pas entendu de tels cris depuis longtemps.
+
+00:07:43.90,00:07:50.83
+Tu as la possibilité de marquer 1 million de points et je ne voudrais pas que tu gâches ça à cause de ton ami.
+
+00:07:53.98,00:08:00.16
+Tu va l'adorer Stan. C'est un des meilleurs joueurs que j'ai vu, excepté toi.
+
+00:08:00.47,00:08:05.72
+Ah Thad ! Stan March voici Thad Jarvis
+
+00:08:06.26,00:08:06.92
+Yop !
+
+00:08:07.94,00:08:12.02
+Thad a accompagné de très bons joueurs.[br] Pas vrai Thad ?
+
+00:08:12.03,00:08:13.83
+Yop
+
+00:08:13.83,00:08:18.32
+Il a même pas besoin d'une console pour jouer. Il peut jouer à Guitar Hero en acoustique
+
+00:08:18.32,00:08:21.08
+Est-ce qu'il peut jouer Buckethead en mode expert ?
+
+00:08:21.08,00:08:23.50
+Montres lui Thad
+
+00:08:25.99,00:08:26.96
+Admires
+
+00:08:38.03,00:08:39.80
+Plutôt impressionnant non ?
+
+00:08:39.80,00:08:42.96
+Ouais c'est pas mal mais il peut jouer " John the Fisherman " ?
+
+00:08:50.95,00:08:55.41
+Stan avec cet enfant pour t'accompagner, tu va écrire l'histoire de Guitar Hero
+
+00:08:57.93,00:08:59.85
+Hey, j'adore cette chanson !
+
+00:09:18.85,00:09:20.24
+Woaw, regardez les !
+
+00:09:23.11,00:09:24.05
+Hey les mecs, comment ça….
+
+00:09:27.27,00:09:28.06
+Kyle
+
+00:09:30.45,00:09:32.93
+Je croyais que tu étais malade
+
+00:09:36.17,00:09:37.05
+Qui c'est ?
+
+00:09:37.44,00:09:39.94
+Heu c'est Thad Jarvis
+
+00:09:39.94,00:09:41.31
+Yop
+
+00:09:42.48,00:09:44.82
+Qu'est-ce que tu fais Stan ?
+
+00:09:44.82,00:09:48.72
+Kyle j'allais te le dire. Mr. Kinkade pense que je devrais jouer avec Thad pendant quelques temps
+
+00:09:48.72,00:09:51.14
+Mais c'est notre jeu, on l'a acheté ensemble !
+
+00:09:51.14,00:09:54.80
+Je sais et c'est pour ça que je voulais te racheter ta part
+
+00:09:54.80,00:10:00.02
+Me racheter ma part ? Qu'est-ce qui te fait croire que tu es aussi fort ?
+
+00:10:00.02,00:10:01.50
+Ne rejette pas la faute sur moi Kyle !
+
+00:10:01.50,00:10:03.41
+La vache c'est génial
+
+00:10:04.42,00:10:07.79
+Tu es celui qui ne voulait pas jouer après minuit et qui nous a retardé parce qu'il était malade
+
+00:10:07.79,00:10:09.11
+Mais j'étais vraiment malade !
+
+00:10:09.11,00:10:13.58
+Ecoute, le fait est que je ne pourrais jamais battre le record avec toi. Tu le sais aussi bien que moi
+
+00:10:13.58,00:10:16.88
+Je pensais pas qu'on jouait juste pour le score…
+
+00:10:25.35,00:10:26.93
+Mec, ce jeu est super
+
+00:10:27.66,00:10:28.70
+Bon, on joue ok ?
+
+00:10:39.11,00:10:43.57
+Hey, t'es le mec à qui j'ai [br]vendu Guitar Hero II, ça te plaît ?
+
+00:10:43.57,00:10:46.57
+C'est sympa. Mais j'ai besoin de guides stratégiques.
+
+00:10:46.57,00:10:52.77
+Mon manager veut que je dépasse le million de points à la salle d'arcade devant tout le monde. Je stress
+
+00:10:52.77,00:10:55.62
+Ouais Guitar Hero peut être stressant.
+
+00:10:55.63,00:10:56.63
+Mais tu sais, plutôt que d'acheter des guides,
+
+00:10:56.63,00:11:03.57
+tu devrais peut être acheter un autre jeu pour te détendre
+
+00:11:03.57,00:11:04.82
+Hein ?
+
+00:11:04.82,00:11:08.18
+T'as déjà entendu parler de Heroin Hero ?
+
+00:11:08.18,00:11:09.76
+Heroin Hero ?
+
+00:11:09.76,00:11:10.76
+Cest beaucoup plus facile.
+
+00:11:10.76,00:11:14.35
+T'as juste à courir dans une forêt magique en t'injectant des doses d'heroïne pour essayer d'attraper le dragon.
+
+00:11:14.35,00:11:17.82
+On pourrait appeler ça le FPS ultime
+
+00:11:18.69,00:11:20.34
+Et y'a pas de score, pas de foule ?
+
+00:11:20.35,00:11:29.01
+Non, tu cours juste après le dragon sans jamais l'attraper. Tout ce que tu fais c'est chasser le dragon.
+
+00:11:39.11,00:11:40.99
+C'est trop bon !
+
+00:11:48.26,00:11:49.53
+Comment ils s'en sortent ?
+
+00:11:49.53,00:11:52.97
+Pas d'inquiétudes, ils seront prêt pour le grand jour
+
+00:11:52.97,00:11:56.06
+Ils ont plutôt intérêt. J'ai payé cher pour louer cet endroit
+
+00:12:01.60,00:12:04.05
+Mec qu'est-ce qui se passe ? Tu t'es entraîné ?
+
+00:12:04.05,00:12:06.44
+Oui je me suis entraîné. Fermes la et joue
+
+00:12:09.91,00:12:14.60
+Tu sais quoi ? Arrêtes tout. Je joue pas cette chanson. [br]Pourquoi t'as choisi cette chanson pourrie ?
+
+00:12:14.60,00:12:16.98
+C'est la chanson qu'on a décidé de jouer.
+
+00:12:16.98,00:12:19.90
+Bah j'ai changé d'avis. On joue " Cheap Trick "
+
+00:12:19.90,00:12:22.08
+Non j'ai horreur de cette merde
+
+00:12:22.08,00:12:25.89
+Ah ouais ? Bah t'es pas le leader Thad, [br]on joue ce que je veux !
+
+00:12:26.49,00:12:28.79
+Stan pourquoi es-tu si ronchon ?
+
+00:12:28.79,00:12:31.60
+On joue ce que je veux et je veux changer de chanson !
+
+00:12:31.60,00:12:39.46
+Et tu penses quoi de celle-ci ? [br]J'me casse, j'me casse, j'me casse…
+
+00:12:39.46,00:12:44.04
+Ca me dérange pas, j'ai pas besoin de toi [br]pour marquer 1 million de points !
+
+00:12:44.04,00:12:46.29
+Stan, qu'est-ce qui t'arrives ?
+
+00:12:46.29,00:12:47.71
+Je veux juste jouer en solo ok ?
+
+00:12:47.71,00:12:50.47
+Je peux pas me concentrer avec[br] tous ces connards autour de moi
+
+00:12:50.47,00:12:51.83
+Qu'est-ce que c'est ?
+
+00:12:53.35,00:12:54.01
+Raaah
+
+00:12:54.28,00:12:56.49
+Est-ce que tu joues à Heroin Hero ?
+
+00:12:56.49,00:12:57.75
+Juste un peu
+
+00:12:57.75,00:13:03.39
+Non, personne n'y joue " juste un peu ". Tu sais que tu n'attrapes jamais le dragon ?
+
+00:13:03.39,00:13:05.14
+Je sais mais ça me détend ok ?
+
+00:13:05.40,00:13:12.41
+T'as intérêt à te reprendre parce que maintenant tu va devoir dépasser le million tout seul
+
+00:13:12.63,00:13:13.61
+Aucun soucis
+
+00:13:33.67,00:13:35.43
+Casse toi mec on veut jouer
+
+00:13:35.44,00:13:36.38
+J'ai pas fini
+
+00:13:36.39,00:13:41.49
+Je te connais, t'es Kyle Brovloski, t'as pas ton propre jeu ?
+
+00:13:41.50,00:13:42.96
+Non, tu dois confondre
+
+00:13:42.96,00:13:45.75
+Mais ouais, c'est le mec qui a fait 100 000 points
+
+00:13:45.75,00:13:47.23
+Pourquoi est-ce que tu joues ici maintenant ?
+
+00:13:48.13,00:13:50.76
+Bon, vous n'avez qu'à jouer ok ? Laissez moi
+
+00:13:53.36,00:13:54.89
+Je peux avoir un freska s'il vous plaît ?
+
+00:13:58.79,00:14:03.46
+T'es bon à ce jeu, trop bon pour[br] jouer dans un endroit comme ça.
+
+00:14:04.37,00:14:09.80
+Bah, j'ai plus les moyens de jouer autre part.
+
+00:14:10.97,00:14:15.48
+Ecoute, j'aurais peut-être besoin de [br]personnel pour les soirées du weekend.
+
+00:14:15.48,00:14:21.00
+Tu rentres, tu bosses un peu et, [br]tu pourras peut être y jouer gratuitement
+
+00:14:21.01,00:14:24.63
+J'apprécie ce que vous essayez de faire Nick, [br]mais je ne veux pas de votre pitié
+
+00:14:24.64,00:14:29.15
+Ce n'est pas de la pitié, j'aide juste un enfant qui est sur la mauvaise pente
+
+00:14:31.65,00:14:32.56
+Merci Nick
+
+00:14:42.78,00:14:46.28
+Stan ? Oh mon dieu
+
+00:14:47.15,00:14:52.34
+Stan réveilles toi, tu joues dans 10 minutes, [br]tout le monde t'attend !
+
+00:14:52.51,00:14:54.18
+Le dragon, où est-il ?
+
+00:14:54.18,00:14:57.30
+Tu dois te resaisir
+
+00:14:58.89,00:15:00.52
+Bouges toi bordel !
+
+00:15:03.82,00:15:10.87
+Merci d'être venu à la salle d'arcade pour voir Stan March [br]dépasser le million et débloquer le mode SuperStar
+
+00:15:14.77,00:15:16.57
+Tu va assurer mec !
+
+00:15:17.75,00:15:19.09
+C'est quoi son problème ?
+
+00:15:19.09,00:15:21.52
+Il a passé 3 jours à jouer à Heroin Hero
+
+00:15:22.44,00:15:24.18
+Allez Stan, tu peux le faire !
+
+00:15:25.98,00:15:27.51
+Bordel il est défoncé
+
+00:15:27.51,00:15:40.98
+C'est nul à chier
+
+00:15:44.59,00:15:47.72
+Tu fais quoi ? La foule virtuelle te hue !
+
+00:15:50.44,00:15:52.22
+Venez, on s'arrache
+
+00:15:57.29,00:16:02.31
+La prochaine fois que vous m'amenez des talents, assurez vous qu'ils soient talentueux
+
+00:16:02.31,00:16:12.14
+T'as foiré ! Tu avais tout et t'as foiré ![br] Ecoute la foule, ils te haïssent !
+
+00:16:26.71,00:16:31.02
+Le voilà ! [br]Alors t'as dépassé le million ?
+
+00:16:31.02,00:16:35.26
+Non j'ai pas dépassé le million ni débloqué le mode superstar. [br]J'en ai marre de ce jeu ok ?
+
+00:16:35.26,00:16:40.45
+Tu déconnes ? Quand tu commences à jouer à Guitar Hero tu peux pas t'arrêter avant d'avoir atteint le sommet
+
+00:16:40.45,00:16:42.14
+Je veux juste me trouver un autre jeu
+
+00:16:42.87,00:16:48.81
+Tu as déjà joué à ce jeu ? [br]Tu es poursuivi par un dragon mais il ne t'attrape jamais
+
+00:16:48.81,00:16:51.57
+Je veux juste un... jeu de course.
+
+00:16:52.05,00:16:53.89
+Aucun souci
+
+00:17:00.23,00:17:03.24
+C'était les Spleen Diffs. [br]Et maintenant un hit que vous avez tous en mémoire
+
+00:17:03.24,00:17:08.14
+C'est la chanson sur laquelle deux CM1 [br]d'ici ont fait 100 000 points à Guitar Hero [br]
+
+00:17:09.90,00:17:14.39
+Je ne sais pas ce qu'il est advenu de ces enfants, [br]je suppose qu'ils ne jouent plus…[br]
+
+00:18:08.15,00:18:11.00
+Kyle je pourrais te parler cinq petites minutes ?
+
+00:18:11.95,00:18:13.09
+Qu'est-ce que tu veux ?
+
+00:18:13.09,00:18:14.92
+Ca ne prendra pas longtemps
+
+00:18:15.48,00:18:19.28
+Bordel…On fait une petite pause, [br]je reviens à cinq heures
+
+00:18:22.97,00:18:25.96
+Je t'ai écouté, [br]tu t'es vraiment amélioré
+
+00:18:26.25,00:18:29.98
+Oh merci, j'attendais impatiemment [br]ton avis sur mes capacités
+
+00:18:30.69,00:18:34.61
+Tu sais Kyle, le jeu et toujours chez moi,[br] peut-être qu'on pourrait aller y jouer.
+
+00:18:34.61,00:18:39.68
+Oh, tu viens me sauver des affres [br]de la médiocrité, merci monseigneur !
+
+00:18:40.55,00:18:41.60
+C'est pas du tout ça
+
+00:18:41.60,00:18:47.21
+Tu comprends pas ? Je peux jouer autant que je veux et j'ai des freskas gratuits, j'ai plus besoin de toi !
+
+00:18:48.63,00:18:50.91
+Je sais, mais moi j'ai besoin de toi
+
+00:18:50.91,00:18:57.91
+Je pensais m'amuser parce que j'étais engagé par [br]un manager et que j'allais à des fêtes " sexe et drogue "
+
+00:18:57.92,00:19:04.59
+mais j'ai compris que je m'amusais parce que j'étais... avec mon meilleur ami
+
+00:19:06.98,00:19:09.29
+C'était plutôt marrant hein ?
+
+00:19:11.05,00:19:11.69
+Ouais
+
+00:19:12.72,00:19:15.05
+De toute manière je ne pense pas [br]qu'on puisse battre le record ensemble
+
+00:19:15.51,00:19:19.98
+Je m'en fous, je veux juste jouer pour le fun
+
+00:19:20.35,00:19:24.99
+Je vois pas où est le fun si on n'essaie [br]pas de gagner une bonne fois pour toute !
+
+00:19:26.31,00:19:27.11
+Tu le penses ?
+
+00:19:27.11,00:19:30.63
+On peut le faire mec, j'ai été proche [br]d'1 million plusieurs fois en solo !
+
+00:19:30.70,00:19:31.67
+Alors on y va mec !
+
+00:19:31.68,00:19:33.70
+Attends, je suis censé jouer ici
+
+00:19:36.36,00:19:38.39
+Hé Nick ça te dérange si [br]je m'absente un moment ?
+
+00:19:38.39,00:19:43.89
+Vas-y gamin, on a plus besoin [br]de toi de toute manière
+
+00:19:43.89,00:19:45.22
+Merci Nick
+
+00:19:49.39,00:19:51.07
+Ok mec, allons y
+
+00:19:51.07,00:19:53.01
+Qu'es-ce que ?
+
+00:20:01.85,00:20:03.93
+Papa, lâche notre Xbox
+
+00:20:03.93,00:20:06.11
+Attends j'ai presque attrapé le dragon
+
+00:20:08.64,00:20:10.53
+Kyle et moi on veut jouer à Guitar Hero
+
+00:20:10.53,00:20:13.74
+Attends je vais l'avoir ! [br]Mince ! Où il est ?
+
+00:20:13.74,00:20:15.58
+Tu n'attrapes jamais le dragon Papa
+
+00:20:17.25,00:20:21.27
+Rallumes, je suis ton père. [br]Rallume ce putain de jeu !
+
+00:20:22.01,00:20:23.74
+Maman tu peux faire sortir Papa ?
+
+00:20:26.33,00:20:27.70
+Arrêtes de tricher Craig !
+
+00:20:27.70,00:20:28.80
+Je trichais pas
+
+00:20:28.80,00:20:30.60
+Mais tu m'as dribblé trou du cul !
+
+00:20:30.62,00:20:32.79
+Les amis, les amis !
+
+00:20:33.13,00:20:34.83
+Ils vont le faire !
+
+00:20:35.09,00:20:35.74
+Quoi ?
+
+00:20:35.74,00:20:40.39
+Stan et Kyle vont faire plus d'1 million de points et vont débloquer le mode superstar !
+
+00:20:40.39,00:20:43.82
+On y va !
+
+00:20:55.32,00:20:56.46
+Ils vont le faire !
+
+00:20:59.36,00:21:01.33
+Ils l'ont fait !
+
+00:21:01.33,00:21:03.20
+Oh mon dieu !
+
+00:21:03.20,00:21:09.56
+Vous avez joué assez longtemps pour [br]avoir 1 million de points : Félicitations !
+
+00:21:09.56,00:21:13.67
+VOUS ETES DES TAPETTES !
+
+00:21:20.77,00:21:21.51
+C'est tout ?
+
+00:21:22.75,00:21:25.29
+Fais chier ! Fait vraiment chier !
+
+00:21:32.54,00:21:34.35
+Butters, tu joues contre moi ?
+
+00:21:34.82,00:21:38.62
+Ok, mais c'est moi qui te trahit [br]après la fête " sexe et drogue "
+

@@ -1,0 +1,3446 @@
+1
+00:00:01,102 --> 00:00:03,387
+<i>Ici Gossip Girl,
+votre seule et unique source</i>
+
+2
+00:00:03,437 --> 00:00:06,051
+<i>dans la vie scandaleuse
+de l'élite de Manhattan.</i>
+
+3
+00:00:06,109 --> 00:00:08,161
+<i>Vous croirez jamais
+ce qu'il y a sur Gossip Girl !</i>
+
+4
+00:00:08,219 --> 00:00:10,097
+<i>Quelqu'un a vu Serena
+à la gare "Grand Central".</i>
+
+5
+00:00:10,155 --> 00:00:11,638
+Je pensais
+que ça allait entre nous.
+
+6
+00:00:11,688 --> 00:00:13,995
+Ça allait… avant que j'apprenne
+que t'as couché avec mon copain.
+
+7
+00:00:14,045 --> 00:00:15,225
+Je suis pas revenue pour toi.
+
+8
+00:00:15,275 --> 00:00:18,765
+Blair est ma meilleure amie
+et tu es son petit ami… et elle t'aime.
+
+9
+00:00:18,815 --> 00:00:20,454
+Tu sortirais avec un mec
+que tu connais pas ?
+
+10
+00:00:20,504 --> 00:00:22,007
+Tu peux pas être pire
+que ceux que je connais.
+
+11
+00:00:22,057 --> 00:00:23,824
+Si tu veux faire partie
+de ce monde, Jenny,
+
+12
+00:00:23,874 --> 00:00:26,500
+tu dois décider
+si tout ceci en vaut la peine.
+
+13
+00:00:26,550 --> 00:00:28,177
+- Laisse-moi ! Non !
+- Hé !
+
+14
+00:00:28,919 --> 00:00:30,617
+Elle, c'est ma petite soeur !
+
+15
+00:00:30,696 --> 00:00:33,734
+Bendel est intéressé
+par la mise en rayon de ma ligne.
+
+16
+00:00:33,784 --> 00:00:35,753
+Car plus de monde
+devrait être comme vous, mère.
+
+17
+00:00:35,803 --> 00:00:38,477
+Eleanor Waldorf s'apprête
+à rendre sa compagnie publique,
+
+18
+00:00:38,527 --> 00:00:41,132
+je la courtise depuis des mois
+pour qu'elle me laisse l'affaire.
+
+19
+00:00:41,182 --> 00:00:42,793
+- Donc tu devrais l'avoir.
+- Oui…
+
+20
+00:00:42,843 --> 00:00:44,253
+Si tu pouvais juste m'aider un peu…
+
+21
+00:00:44,303 --> 00:00:47,390
+<i>Répérés : S. et le garçon solitaire
+flirtant dans le Meatpacking*.</i>
+
+22
+00:00:47,440 --> 00:00:50,290
+<i>Les contraires s'attirent,
+mais pour combien de temps ?</i>
+
+23
+00:00:51,476 --> 00:00:55,011
+<font color="yellow">- Gossip Girl -</font>
+Épisode 6 - The Handmaidens Tale
+
+24
+00:00:55,061 --> 00:00:58,490
+Trad, Relecture, Synchro :
+<font color="red">Gossip Girl Team</font> - <font color="yellow">A²S</font>
+
+25
+00:00:58,540 --> 00:01:00,407
+Capture :
+<font color="yellow">¤ www.ragbear.com ¤</font>
+
+26
+00:01:00,457 --> 00:01:02,879
+Sous-titre A²S Team :
+<font color="yellow">¤ www.all-about-subs.fr ¤</font>
+
+27
+00:01:03,535 --> 00:01:05,817
+<i>Il y a bien longtemps,
+lorsque l'aristocratie européenne</i>
+
+28
+00:01:05,867 --> 00:01:07,342
+<i>se lassa des bals prestigieux,</i>
+
+29
+00:01:07,392 --> 00:01:10,659
+<i>elle s'inspira des sous-fifres
+et ajouta un peu de fantaisie.</i>
+
+30
+00:01:10,734 --> 00:01:13,655
+<i>Haute-Couture et petits fours composent
+un samedi soir ordinaire,</i>
+
+31
+00:01:13,765 --> 00:01:15,615
+<i>jusqu'à ce que vous y ajoutiez
+un masque…</i>
+
+32
+00:01:15,672 --> 00:01:18,512
+<i>Mais la préparation d'un bal
+est un événement en soi,</i>
+
+33
+00:01:18,628 --> 00:01:21,368
+<i>ce pourquoi
+les reines inventèrent les servantes.</i>
+
+34
+00:01:21,483 --> 00:01:22,666
+{\pos(192,210)}Livrez-moi les robes,
+
+35
+00:01:22,716 --> 00:01:25,478
+{\pos(192,210)}- et je prendrai ce qui est léger.
+- Laquelle est la vôtre ?
+
+36
+00:01:25,528 --> 00:01:27,978
+{\pos(192,230)}Non, je ne fais qu'aider Blair.
+
+37
+00:01:28,028 --> 00:01:29,927
+Mais bon, on verra !
+
+38
+00:01:29,985 --> 00:01:31,939
+Eh bien, je l'espère.
+
+39
+00:01:36,974 --> 00:01:40,095
+- Nous le mettrons sur la note de Blair.
+- Non, non.
+
+40
+00:01:40,145 --> 00:01:42,745
+Les filles de cette soirée sont
+mes meilleures clientes.
+
+41
+00:01:42,844 --> 00:01:44,867
+Pourquoi ne pas présenter
+mes derniers articles ?
+
+42
+00:01:44,917 --> 00:01:46,813
+{\pos(192,230)}Ramenez-le-moi après le bal.
+
+43
+00:01:46,863 --> 00:01:49,293
+{\pos(192,230)}Donc Kati m'a parlé
+de corsets faits main,
+
+44
+00:01:49,370 --> 00:01:51,205
+{\pos(192,230)}et il faut aussi une perruque ?
+
+45
+00:01:51,255 --> 00:01:54,077
+{\pos(192,230)}C'est un bal masqué.
+Tu dois dissimuler ton identité,
+
+46
+00:01:54,127 --> 00:01:57,164
+{\pos(192,230)}mais j'ai prévu
+quelque chose de spécial pour Nate.
+
+47
+00:01:57,376 --> 00:01:59,727
+C'est un jeu. Une chasse au trésor.
+
+48
+00:01:59,777 --> 00:02:01,456
+{\pos(192,230)}Nate débute la soirée avec un indice,
+
+49
+00:02:01,554 --> 00:02:04,647
+{\pos(192,230)}ça le conduit à une dame d'honneur qui
+lui donne un indice pour la suivante.
+
+50
+00:02:04,697 --> 00:02:06,150
+{\pos(192,210)}Attends. T'as des dames maintenant ?
+
+51
+00:02:06,200 --> 00:02:08,951
+{\pos(192,210)}S'il me trouve avant minuit,
+lorsque les masques tombent,
+
+52
+00:02:09,001 --> 00:02:11,459
+- il peut réclamer son prix.
+- Et quel est-il ?
+
+53
+00:02:13,720 --> 00:02:15,904
+{\pos(192,210)}Ouais, bien sûr. Désolée !
+
+54
+00:02:17,345 --> 00:02:18,947
+{\pos(192,230)}Je me suis juste dit…
+
+55
+00:02:19,062 --> 00:02:21,127
+{\pos(192,230)}qu'après tout ce qui c'était passé,
+
+56
+00:02:21,242 --> 00:02:24,069
+{\pos(192,230)}ou ne s'était pas passé…
+
+57
+00:02:24,682 --> 00:02:27,250
+{\pos(192,230)}je devrais trouver un moyen
+pour que ce soit spécial.
+
+58
+00:02:27,724 --> 00:02:30,288
+{\pos(192,230)}Eh bien, c'est très romantique, Blair.
+
+59
+00:02:30,476 --> 00:02:31,544
+Vraiment.
+
+60
+00:02:33,315 --> 00:02:35,592
+Écoute… Si tu ne veux pas
+que je vienne ce soir,
+
+61
+00:02:35,642 --> 00:02:37,645
+{\pos(192,210)}- je comprendrais parfaitement.
+- Quoi ?
+
+62
+00:02:37,695 --> 00:02:40,275
+{\pos(192,210)}Non. Je veux que tu viennes.
+
+63
+00:02:40,325 --> 00:02:43,256
+{\pos(192,210)}En fait, j'espérais
+que tu sois l'une de mes dames.
+
+64
+00:02:43,587 --> 00:02:45,718
+{\pos(192,210)}Tu pourrais donner
+le dernier indice à Nate ?
+
+65
+00:02:45,768 --> 00:02:47,700
+T'es sûre que c'est ce que tu veux ?
+
+66
+00:02:47,750 --> 00:02:50,047
+{\pos(192,210)}Ce soir,
+on recommence tout à zéro.
+
+67
+00:02:51,051 --> 00:02:54,153
+{\pos(192,210)}Je te fais confiance.
+Et à lui aussi.
+
+68
+00:02:55,627 --> 00:02:59,722
+{\pos(192,210)}Eh bien, dans ce cas je serai
+honorée de vous servir, ma Reine.
+
+69
+00:03:00,643 --> 00:03:02,530
+{\pos(192,210)}Et puis, en plus,
+tu amènes Dan, non ?
+
+70
+00:03:03,261 --> 00:03:06,620
+{\pos(192,210)}Un bal ? Tu as entendu ?
+Ta soeur, c'est Cendrillon.
+
+71
+00:03:07,222 --> 00:03:10,492
+{\pos(192,210)}Et laisse-moi deviner… Ta malfaisante
+demi-soeur est Blair Waldorf.
+
+72
+00:03:10,542 --> 00:03:13,338
+{\pos(192,210)}Blair m'a demandé de faire des trucs,
+mais je suis contente d'aider.
+
+73
+00:03:13,396 --> 00:03:15,328
+Et ta récompense,
+une invitation et une tenue ?
+
+74
+00:03:15,378 --> 00:03:17,486
+Et ça vaut le coup.
+Tout le monde déguisé,
+
+75
+00:03:17,582 --> 00:03:20,013
+{\pos(192,210)}dans une vieille salle de bal.
+Ça va être génial !
+
+76
+00:03:20,090 --> 00:03:22,694
+{\pos(192,210)}En fait, je suis même surprise
+que Serena ne t'en ait pas parlé.
+
+77
+00:03:22,752 --> 00:03:24,533
+{\pos(192,210)}Pourquoi ?
+On est sortis ensemble deux fois,
+
+78
+00:03:24,583 --> 00:03:26,720
+c'est pas comme si on devait
+tout faire ensemble.
+
+79
+00:03:26,770 --> 00:03:28,493
+{\pos(192,210)}D'accord, je vais déposer tout ça.
+
+80
+00:03:28,543 --> 00:03:32,266
+{\pos(192,210)}Fais-moi savoir si tu as besoin
+de moi pour te prendre un costume.
+
+81
+00:03:34,486 --> 00:03:37,108
+Quoi ?
+C'est un bal masqué.
+
+82
+00:03:37,158 --> 00:03:39,846
+Elle doit penser que j'irais jamais
+dans ce type de soirée. Ce qui…
+
+83
+00:03:39,904 --> 00:03:43,417
+- prouve qu'elle me connaît bien.
+- Je le connais. Un bal masqué ?
+
+84
+00:03:43,788 --> 00:03:46,112
+Dan ne voudra jamais aller
+dans une soirée de ce type,
+
+85
+00:03:46,162 --> 00:03:48,129
+{\pos(192,185)}où il devra porter
+un masque et un costume ?
+
+86
+00:03:48,179 --> 00:03:50,716
+{\pos(192,185)}Il t'apprécie.
+Il porterait un masque, un costume
+
+87
+00:03:50,766 --> 00:03:52,022
+et une des robes de ma mère,
+
+88
+00:03:52,072 --> 00:03:54,292
+si cela signifiait qu'il peut
+sortir avec toi. Allez !
+
+89
+00:03:54,350 --> 00:03:56,345
+{\pos(192,210)}De quoi t'as peur ?
+Qu'il ait déjà un rencard ?
+
+90
+00:03:56,395 --> 00:03:59,805
+{\pos(192,210)}- Je veux dire, c'est Dan Humphrey.
+- Ferme-la !
+
+91
+00:04:00,232 --> 00:04:01,276
+Je ne sais pas.
+
+92
+00:04:01,326 --> 00:04:03,726
+Un bal masqué vaut mieux
+qu'une soirée normale
+
+93
+00:04:03,776 --> 00:04:06,313
+car tous les gamins
+qu'il déteste à l'école…
+
+94
+00:04:06,363 --> 00:04:09,886
+- il ne les reconnaîtra même pas.
+- D'accord. Invite-le. J'insiste.
+
+95
+00:04:09,936 --> 00:04:11,310
+Je dis pas que j'irais pas.
+
+96
+00:04:11,360 --> 00:04:14,510
+Si Serena me le demandait,
+je ne la priverais pas de ma compagnie.
+
+97
+00:04:14,567 --> 00:04:15,907
+Non, ce serait trop cruel.
+
+98
+00:04:15,957 --> 00:04:18,650
+Mais elle ne m'a pas demandé, donc…
+
+99
+00:04:19,884 --> 00:04:22,434
+Si tu veux y aller avec elle,
+fais en sorte que ça arrive.
+
+100
+00:04:22,484 --> 00:04:25,209
+- Prends-toi par la main.
+- Ce truc commence dans quelques heures.
+
+101
+00:04:25,259 --> 00:04:28,398
+La séance des actes téméraires
+est officiellement ajournée.
+
+102
+00:04:28,886 --> 00:04:30,513
+C'est elle ?
+
+103
+00:04:32,436 --> 00:04:33,651
+Non, c'est Vanessa.
+
+104
+00:04:33,739 --> 00:04:34,810
+Vanessa ?
+
+105
+00:04:35,456 --> 00:04:36,629
+Ça fait longtemps.
+
+106
+00:04:37,153 --> 00:04:40,662
+- Tu vas répondre ?
+- Bien sûr, pourquoi je répondrais pas ?
+
+107
+00:04:41,029 --> 00:04:42,375
+Allô ? Vanessa.
+
+108
+00:04:42,425 --> 00:04:43,892
+Salut. Ouais, c'est moi.
+
+109
+00:04:43,942 --> 00:04:46,004
+Donc, comment ça va ?
+C'est comment le Vermont* ?
+
+110
+00:04:46,054 --> 00:04:49,215
+Tu as toujours mon livre
+"The crying of lot 49*" ?
+
+111
+00:04:50,809 --> 00:04:51,865
+Je ne sais pas.
+
+112
+00:04:51,915 --> 00:04:53,836
+<i>Eh bien, tu pourrais vérifier ?</i>
+
+113
+00:04:54,167 --> 00:04:56,456
+OK. Je ne t'ai pas parlé
+depuis près d'un an,
+
+114
+00:04:56,507 --> 00:04:58,522
+et tu appelles
+pour me demander un vieux bouquin ?
+
+115
+00:04:58,579 --> 00:05:00,486
+Tu sais, il peut être n'importe où.
+
+116
+00:05:00,853 --> 00:05:02,976
+Cherche du côté de la fenêtre.
+
+117
+00:05:05,091 --> 00:05:06,715
+- Vanessa !
+- Surprise !
+
+118
+00:05:06,811 --> 00:05:09,231
+Quoi ? Oh mon Dieu.
+
+119
+00:05:09,281 --> 00:05:10,549
+Comment ça va ?
+
+120
+00:05:10,599 --> 00:05:12,767
+J'y crois pas que tu sois ici !
+Que fais-tu là ?
+
+121
+00:05:12,864 --> 00:05:14,927
+Mes parents m'ont autorisée
+à vivre avec ma soeur,
+
+122
+00:05:14,977 --> 00:05:17,251
+- et finir mes études en ville.
+- Ce qui veut dire que…
+
+123
+00:05:17,301 --> 00:05:18,962
+Je suis de retour, pour de bon.
+
+124
+00:05:22,032 --> 00:05:23,799
+- C'est…
+- Génial, j'espère ?
+
+125
+00:05:23,849 --> 00:05:24,920
+Ouais !
+
+126
+00:05:25,207 --> 00:05:27,134
+Carrément, bien sûr.
+
+127
+00:05:27,184 --> 00:05:29,529
+C'est juste…
+Inattendu, tu sais.
+
+128
+00:05:29,586 --> 00:05:31,283
+Génialement inattendu !
+
+129
+00:05:33,899 --> 00:05:37,442
+Vas-y, réponds. Je suis affamée
+et je sens une odeur de gauffre.
+
+130
+00:05:38,719 --> 00:05:40,595
+<i>- Rufus.</i>
+<i>- Vanessa ?</i>
+
+131
+00:05:41,571 --> 00:05:43,015
+Serena, salut !
+
+132
+00:05:43,065 --> 00:05:44,642
+Hé, salut.
+
+133
+00:05:47,452 --> 00:05:49,439
+<i>Vas-y, lance-toi.</i>
+
+134
+00:05:51,085 --> 00:05:52,342
+Hé, je me demandais…
+
+135
+00:05:52,392 --> 00:05:54,121
+Est-ce que tu fais
+quelque chose ce soir ?
+
+136
+00:05:54,171 --> 00:05:56,436
+Ce soir ? Non, non.
+Rien, pourquoi ?
+
+137
+00:05:56,486 --> 00:06:00,425
+Bien, parce qu'il y a ce truc
+et tu vas trouver ça idiot, mais…
+
+138
+00:06:00,475 --> 00:06:01,684
+Demande toujours.
+
+139
+00:06:02,111 --> 00:06:04,999
+Même froides, elles sont super bonnes.
+
+140
+00:06:05,049 --> 00:06:08,187
+La cuisine de Rufus m'a manqué.
+
+141
+00:06:09,176 --> 00:06:10,264
+Qui est-ce ?
+
+142
+00:06:11,222 --> 00:06:13,428
+C'est… ma soeur.
+
+143
+00:06:13,478 --> 00:06:15,410
+<i>Mais tu étais en train
+de dire quelque chose.</i>
+
+144
+00:06:15,460 --> 00:06:18,325
+Salut Blair.
+Qu'est-ce que je fais de tout ça ?
+
+145
+00:06:18,375 --> 00:06:19,982
+Laisse ça ici, ça ira.
+
+146
+00:06:20,040 --> 00:06:22,160
+Je t'ai laissé une autre liste.
+
+147
+00:06:28,033 --> 00:06:30,117
+- Allô ?
+- Y a quelqu'un ?
+
+148
+00:06:31,756 --> 00:06:33,482
+Je suis désolée…
+
+149
+00:06:34,129 --> 00:06:36,791
+- Quoi ?
+- Tu me demandais quelque chose.
+
+150
+00:06:39,022 --> 00:06:40,103
+Non…
+
+151
+00:06:40,935 --> 00:06:43,198
+Non, laisse tomber.
+Merci. Passe une bonne journée.
+
+152
+00:06:43,248 --> 00:06:44,304
+OK.
+
+153
+00:06:45,374 --> 00:06:46,475
+Salut.
+
+154
+00:06:49,749 --> 00:06:52,039
+Donc, qu'est-ce qu'on fait ce soir ?
+
+155
+00:06:53,741 --> 00:06:55,579
+Je crois que j'ai besoin d'un cavalier.
+
+156
+00:06:58,965 --> 00:07:01,208
+Putain, Anne,
+je t'avais dit pas d'amidon !
+
+157
+00:07:01,258 --> 00:07:04,198
+Howard, on utilise
+la même lessive depuis 19 ans.
+
+158
+00:07:04,248 --> 00:07:06,567
+Tes chemises n'ont pas changé.
+
+159
+00:07:06,675 --> 00:07:08,423
+On sait tous les deux
+que ce n'est pas ça.
+
+160
+00:07:08,473 --> 00:07:11,688
+Désolé, mais j'ai besoin que tout soit
+parfait pour la soirée d'Eleanor.
+
+161
+00:07:11,738 --> 00:07:12,947
+Je peux pas me rater !
+
+162
+00:07:13,441 --> 00:07:15,570
+Eleanor sait que tu es la personne
+la plus qualifiée
+
+163
+00:07:15,620 --> 00:07:18,133
+pour mettre son entreprise en bourse.
+Elle va te choisir.
+
+164
+00:07:18,183 --> 00:07:20,470
+Montre-toi et sois toi-même.
+
+165
+00:07:20,826 --> 00:07:22,190
+Écoute, je t'appelle de mon bureau.
+
+166
+00:07:22,240 --> 00:07:24,565
+Je vais rejeter un oeil
+sur la proposition.
+
+167
+00:07:27,260 --> 00:07:28,351
+Salut maman.
+
+168
+00:07:28,937 --> 00:07:31,736
+- Nate.
+- Tout va bien avec papa ?
+
+169
+00:07:31,786 --> 00:07:34,781
+Juste du travail.
+Rien qui puisse t'inquiéter.
+
+170
+00:07:35,221 --> 00:07:36,309
+Bien sûr.
+
+171
+00:07:41,429 --> 00:07:43,038
+Mon Dieu ! J'adore New York,
+
+172
+00:07:43,088 --> 00:07:44,819
+il n'y avait qu'un cinéma
+à Woodburry,
+
+173
+00:07:44,869 --> 00:07:47,116
+et il ne diffusait
+que des films familiaux.
+
+174
+00:07:47,166 --> 00:07:49,324
+Baby-Sittor est passé
+pendant, genre, un an.
+
+175
+00:07:49,374 --> 00:07:52,174
+Et on disait que Vin Diesel ne savait
+pas jouer la comédie.
+
+176
+00:07:52,754 --> 00:07:54,878
+Je peux pas choisir.
+Je suis submergée par le choix.
+
+177
+00:07:54,928 --> 00:07:56,349
+Ce que tu veux.
+
+178
+00:07:56,399 --> 00:07:58,048
+Ouais, bien sûr, n'importe lequel.
+
+179
+00:07:58,622 --> 00:08:00,432
+Tu veux vraiment faire
+quelque chose, hein ?
+
+180
+00:08:00,482 --> 00:08:01,940
+Tu n'as rien de prévu ?
+
+181
+00:08:01,990 --> 00:08:04,481
+Grosse soirée avec les morveux
+héritiers de fonds
+
+182
+00:08:04,531 --> 00:08:06,066
+d'investissement de ton école hype ?
+
+183
+00:08:06,116 --> 00:08:07,729
+Ouais, la limousine nous attend au loft.
+
+184
+00:08:07,779 --> 00:08:10,745
+Cool. On peut lui lancer des oeufs.
+Peut-être même crever les pneus.
+
+185
+00:08:12,664 --> 00:08:15,273
+Donc, ça fait bizarre…
+De me retrouver ?
+
+186
+00:08:16,967 --> 00:08:19,284
+Non, pourquoi ça ferait bizarre ?
+
+187
+00:08:19,453 --> 00:08:22,675
+Parce que… tu m'as dit des choses,
+le soir où je suis partie…
+
+188
+00:08:22,725 --> 00:08:25,052
+Des choses que tu m'as
+immédiatement demandé de retirer.
+
+189
+00:08:25,102 --> 00:08:27,586
+Parce que j'étais
+sur le point de partir, mais…
+
+190
+00:08:27,671 --> 00:08:30,316
+- je suis là maintenant.
+- Ouais, et ça fait près d'un an.
+
+191
+00:08:30,470 --> 00:08:32,525
+Tu sais,
+il s'est passé beaucoup de choses.
+
+192
+00:08:32,583 --> 00:08:35,244
+Et j'espère bien que tu vas
+tout me raconter ce soir !
+
+193
+00:08:35,342 --> 00:08:37,714
+La dernière séance ? Angelica ?
+
+194
+00:08:37,888 --> 00:08:39,186
+N'importe quel film ?
+
+195
+00:08:39,236 --> 00:08:41,747
+- Sauf si c'est Baby-Sittor !
+- Sauf si c'est Baby-Sittor !
+
+196
+00:08:42,271 --> 00:08:44,274
+Très bien, je m'occupe des tickets.
+
+197
+00:08:44,393 --> 00:08:47,782
+- Heureuse d'être à la maison, Humphrey.
+- Heureux de t'avoir, Abrahams.
+
+198
+00:08:48,233 --> 00:08:50,239
+<i>Donc, que cherches-tu exactement ?</i>
+
+199
+00:08:50,471 --> 00:08:51,491
+Des indices.
+
+200
+00:08:51,917 --> 00:08:53,064
+De quoi ?
+
+201
+00:08:53,634 --> 00:08:56,291
+Le capitaine n'aime pas
+les chemises lavées à l'amidon ?
+
+202
+00:08:56,586 --> 00:08:58,978
+Je compatis totalement.
+Les cols grattent.
+
+203
+00:08:59,074 --> 00:09:01,803
+Tu lui as parlé de la disparition
+de ton argent pour l'université ?
+
+204
+00:09:01,862 --> 00:09:03,608
+Oui, il a dit
+qu'il déplaçait les comptes.
+
+205
+00:09:03,685 --> 00:09:06,305
+- Tout était revenu le lendemain.
+- Alors, pourquoi s'inquiéter ?
+
+206
+00:09:06,355 --> 00:09:08,294
+De mystérieuses
+transactions financières,
+
+207
+00:09:08,410 --> 00:09:11,499
+des parents en froid.
+Bienvenue dans l'Upper East Side.
+
+208
+00:09:22,446 --> 00:09:25,069
+"Chi Chi, va chercher la coke"
+Nathaniel, je suis choqué.
+
+209
+00:09:25,127 --> 00:09:26,960
+Je pensais que tu aimais
+seulement l'herbe.
+
+210
+00:09:27,018 --> 00:09:28,509
+Ce n'est pas à moi.
+
+211
+00:09:32,376 --> 00:09:34,779
+Pour qui se prend ce Dan Humphrey ?
+
+212
+00:09:35,242 --> 00:09:38,483
+Serena se montre forte, mais je vois
+à quel point elle est blessée.
+
+213
+00:09:38,598 --> 00:09:41,608
+- On doit l'aider à soigner son coeur.
+- Oui, mais ça arrive un peu tard.
+
+214
+00:09:41,690 --> 00:09:43,127
+Les meilleurs mecs sont déjà pris.
+
+215
+00:09:43,204 --> 00:09:45,939
+Plus d'excuses. Serena doit avoir
+le mec le plus sexy qui existe.
+
+216
+00:09:46,017 --> 00:09:47,521
+S'il a des projets, il les changera.
+
+217
+00:09:47,599 --> 00:09:49,181
+S'il a une copine, il la larguera.
+
+218
+00:09:49,277 --> 00:09:51,967
+Et s'il n'est pas en ville, il prendra
+un G5 et rentrera chez lui.
+
+219
+00:09:52,017 --> 00:09:53,020
+Arrangez-vous.
+
+220
+00:09:53,116 --> 00:09:55,812
+<i>- Est-ce que ça vous plaît ?
+- C'est remarquable.</i>
+
+221
+00:10:01,148 --> 00:10:02,866
+Est-ce un bang, mère ?
+
+222
+00:10:03,005 --> 00:10:05,423
+- Je t'en prie.
+- Je ne savais pas que tu te défonçais.
+
+223
+00:10:05,818 --> 00:10:08,271
+C'est un… narguilé
+et c'est mignon.
+
+224
+00:10:08,446 --> 00:10:11,288
+C'est parfait pour ma fête marocaine.
+
+225
+00:10:11,404 --> 00:10:13,217
+Pourquoi fêter ton accord avec Bendel
+
+226
+00:10:13,275 --> 00:10:15,855
+en transformant notre appartement
+de luxe en tanière à opium ?
+
+227
+00:10:15,905 --> 00:10:17,405
+Pourquoi pas ?
+
+228
+00:10:18,458 --> 00:10:19,778
+<i>Salut, c'est Blair.</i>
+
+229
+00:10:19,924 --> 00:10:21,695
+<i>Désolée de ne pouvoir
+répondre maintenant,</i>
+
+230
+00:10:21,745 --> 00:10:23,553
+<i>mais je me prépare pour le bal masqué.</i>
+
+231
+00:10:23,633 --> 00:10:27,182
+<i>On se voit ce soir, si tu me reconnais,
+mais tu n'y arriveras pas !</i>
+
+232
+00:10:27,356 --> 00:10:30,096
+Salut, Blair.
+C'est moi. Je…
+
+233
+00:10:31,137 --> 00:10:33,072
+J'ai vraiment besoin de te parler.
+
+234
+00:10:33,187 --> 00:10:35,792
+Il y a ce truc avec mon père,
+
+235
+00:10:35,946 --> 00:10:37,335
+et…
+
+236
+00:10:39,087 --> 00:10:41,788
+Tu sais, j'ai vraiment
+besoin de te parler.
+
+237
+00:10:41,845 --> 00:10:46,132
+Alors tu peux me rappeler
+dès que tu peux ? Merci.
+
+238
+00:10:50,801 --> 00:10:52,943
+- Eh bien, y a tout.
+- Merci beaucoup.
+
+239
+00:10:53,000 --> 00:10:54,731
+Je sais pas
+ce que j'aurais fait sans toi.
+
+240
+00:10:54,789 --> 00:10:56,591
+C'est bon, c'était amusant.
+
+241
+00:10:56,804 --> 00:10:59,640
+J'en suis ravie, ça fait partie
+de ton éducation.
+
+242
+00:11:00,701 --> 00:11:03,556
+Et on dirait que tu apprends.
+C'est un joli bracelet.
+
+243
+00:11:03,845 --> 00:11:06,757
+Vintage, c'est ça ?
+Les diamants semblent vrais.
+
+244
+00:11:07,245 --> 00:11:09,059
+Parce qu'ils le sont.
+
+245
+00:11:10,120 --> 00:11:12,107
+Le gars du magasin me l'a prêté.
+
+246
+00:11:12,705 --> 00:11:14,538
+Pourquoi est-ce qu'il ferait ça ?
+
+247
+00:11:17,118 --> 00:11:18,540
+Ma puce, tu pensais quand même pas
+
+248
+00:11:18,590 --> 00:11:20,861
+que tu pourrais venir
+à la fête ce soir ?
+
+249
+00:11:21,071 --> 00:11:23,678
+Je pensais que peut-être, oui.
+
+250
+00:11:23,791 --> 00:11:26,377
+Jenny, les premières années
+ne vont pas au bal masqué.
+
+251
+00:11:26,435 --> 00:11:27,915
+- C'est une tradition.
+- Je sais.
+
+252
+00:11:27,965 --> 00:11:30,577
+C'est juste qu'il y avait 5 robes.
+
+253
+00:11:31,164 --> 00:11:32,754
+On a toujours besoin
+d'une en réserve.
+
+254
+00:11:32,804 --> 00:11:35,003
+Imagine, si je me tâche
+ou si la fermeture se casse ?
+
+255
+00:11:35,100 --> 00:11:38,333
+Oui, bien sûr. Je m'en souviendrai.
+
+256
+00:11:39,934 --> 00:11:42,886
+- Amuse-toi bien ce soir.
+- Oui, et ne t'inquiète pas,
+
+257
+00:11:43,040 --> 00:11:44,835
+ton tour viendra. Promis.
+
+258
+00:11:44,912 --> 00:11:48,047
+Maintenant si tu veux bien m'excuser,
+je dois me préparer.
+
+259
+00:11:49,271 --> 00:11:50,897
+Penses-tu qu'Eleanor Waldorf
+
+260
+00:11:50,947 --> 00:11:54,508
+trouvera ça assez "Nuit à Tanger" ?
+
+261
+00:11:54,739 --> 00:11:56,146
+Peut-être, si tu amènes une chèvre.
+
+262
+00:11:56,196 --> 00:11:59,262
+- Eleanor fait toujours tout à fond.
+- En parlant de ça…
+
+263
+00:11:59,339 --> 00:12:02,111
+Oui, je sais. Ne m'en parle pas.
+Je pense pas que Mesdames Waldorf
+
+264
+00:12:02,161 --> 00:12:04,799
+ont déjà vu un thème
+qui ne leur plaise pas.
+
+265
+00:12:05,232 --> 00:12:06,775
+Tu y vas avec Dan ?
+
+266
+00:12:07,585 --> 00:12:10,205
+- Non, Dan a des trucs prévus.
+- Quels trucs ?
+
+267
+00:12:10,498 --> 00:12:12,327
+La question est "avec qui" ?
+
+268
+00:12:13,774 --> 00:12:15,279
+Je n'avais pas réalisé.
+
+269
+00:12:16,778 --> 00:12:18,742
+Eh bien, honnêtement,
+je suis soulagée.
+
+270
+00:12:18,823 --> 00:12:21,655
+Tu sais, à ton âge tu devrais
+explorer plusieurs possibilités.
+
+271
+00:12:21,771 --> 00:12:24,534
+Et à ton âge alors ?
+Tu as un partenaire sexy ce soir ?
+
+272
+00:12:24,689 --> 00:12:28,204
+Non, je t'en prie.
+Avec qui pourrais-je bien sortir ?
+
+273
+00:12:28,706 --> 00:12:30,789
+Tu sais quoi ?
+Je vais essayer ça
+
+274
+00:12:30,867 --> 00:12:33,857
+et voir si je peux trouver une chèvre.
+
+275
+00:12:40,991 --> 00:12:42,133
+<i>Bonjour. Serena ?</i>
+
+276
+00:12:42,183 --> 00:12:43,997
+<i>Kati Farkas m'a donné ton adresse.</i>
+
+277
+00:12:46,187 --> 00:12:47,717
+Oui, bonjour, qui es-tu ?
+
+278
+00:12:49,204 --> 00:12:52,696
+Eh bien, ce n'est pas Dan,
+mais il va faire l'affaire.
+
+279
+00:12:52,908 --> 00:12:54,259
+Jen, tu vas pas me croire,
+
+280
+00:12:54,316 --> 00:12:56,615
+mais Vanessa est revenue.
+
+281
+00:12:56,680 --> 00:12:57,904
+Donc, on va au cinéma ce soir,
+
+282
+00:12:57,954 --> 00:12:59,755
+et je ne sais pas
+si tu vas à ce bal ou pas,
+
+283
+00:12:59,852 --> 00:13:01,623
+mais je me demandais
+si tu voulais venir.
+
+284
+00:13:01,673 --> 00:13:04,537
+Alors, on prend
+les billets sur le net.
+
+285
+00:13:04,587 --> 00:13:05,948
+Rappelle-moi.
+
+286
+00:13:19,482 --> 00:13:21,608
+<i>Pourquoi est-ce que des amis
+de Serena V.D. Woodsen</i>
+
+287
+00:13:21,658 --> 00:13:23,495
+<i>doivent lui chercher un soupirant ?</i>
+
+288
+00:13:23,592 --> 00:13:26,003
+<i>Les fables sont-elles devenues
+si démodées</i>
+
+289
+00:13:26,100 --> 00:13:28,646
+<i>que les princesses doivent
+tout faire elles-mêmes ?</i>
+
+290
+00:13:28,722 --> 00:13:29,939
+<i>Traitez-nous d'old-school,</i>
+
+291
+00:13:30,016 --> 00:13:31,882
+<i>mais parfois,
+pour la fin du conte de fées</i>
+
+292
+00:13:31,932 --> 00:13:33,913
+<i>le chevalier doit se bouger les fesses</i>
+
+293
+00:13:33,971 --> 00:13:35,477
+<i>et monter sur sa selle.</i>
+
+294
+00:13:42,377 --> 00:13:43,957
+Alors… on fait quoi ce soir ?
+
+295
+00:13:47,277 --> 00:13:50,327
+Il n'est peut-être jamais trop tard
+pour un geste noble.
+
+296
+00:13:55,273 --> 00:13:56,687
+<i>Tu as un masque ?</i>
+
+297
+00:14:03,188 --> 00:14:04,905
+Nate, salut.
+
+298
+00:14:05,233 --> 00:14:07,374
+Qu'est-ce que tu fais ici ?
+Je croyais que tu…
+
+299
+00:14:07,432 --> 00:14:08,584
+Tu devrais pas te préparer ?
+
+300
+00:14:08,634 --> 00:14:11,510
+Je suis désolé de te déranger.
+C'est que…
+
+301
+00:14:11,569 --> 00:14:12,923
+t'as une minute ?
+
+302
+00:14:13,540 --> 00:14:15,045
+Oui, bien sûr. Entre.
+
+303
+00:14:15,199 --> 00:14:16,877
+- Merci.
+- Ouais.
+
+304
+00:14:20,234 --> 00:14:23,270
+Peut-être que c'est vieux.
+Tu sais, des restes des années 90,
+
+305
+00:14:23,382 --> 00:14:26,164
+d'une nuit au "Limelight"
+ou au "Tunnel". Nos parents ont fait
+
+306
+00:14:26,222 --> 00:14:27,364
+des trucs pires que nous.
+
+307
+00:14:27,414 --> 00:14:30,269
+C'est pas vieux
+et tout ça prend un sens.
+
+308
+00:14:33,408 --> 00:14:35,511
+Je crois qu'il a des problèmes d'argent.
+
+309
+00:14:35,858 --> 00:14:37,209
+Tu lui as demandé ?
+
+310
+00:14:37,421 --> 00:14:38,424
+Oui.
+
+311
+00:14:39,022 --> 00:14:41,627
+J'aurais aimé, tu sais,
+qu'il soit honnête envers moi.
+
+312
+00:14:41,733 --> 00:14:45,050
+On dirait que lui et ma mère ont fait un
+pacte secret pour agir tels des robots.
+
+313
+00:14:45,100 --> 00:14:46,886
+Je crois pas
+que ce pacte soit secret.
+
+314
+00:14:46,936 --> 00:14:48,657
+Je crois que nos parents l'ont
+tous signé.
+
+315
+00:14:48,707 --> 00:14:50,016
+Mais je ne suis plus un enfant.
+
+316
+00:14:50,093 --> 00:14:53,150
+Il n'a pas à m'exclure.
+
+317
+00:14:57,027 --> 00:14:59,986
+Écoute, si ce que tu penses est vrai,
+il doit être très effrayé.
+
+318
+00:15:00,083 --> 00:15:02,212
+Tu dois lui dire
+ce que tu ressens plus d'une fois
+
+319
+00:15:02,262 --> 00:15:04,597
+pour qu'il t'écoute vraiment, tu vois ?
+
+320
+00:15:05,806 --> 00:15:08,392
+Hé, n'abandonne pas, OK ?
+
+321
+00:15:13,145 --> 00:15:14,258
+Tu devrais sûrement partir.
+
+322
+00:15:14,354 --> 00:15:16,195
+Je dois me préparer
+et faire d'autres trucs.
+
+323
+00:15:16,245 --> 00:15:18,001
+Ouais, moi aussi.
+
+324
+00:15:18,198 --> 00:15:20,199
+Écoute, merci de m'avoir écouté.
+
+325
+00:15:20,249 --> 00:15:21,757
+C'est bon. Ne t'inquiète pas pour ça.
+
+326
+00:15:21,832 --> 00:15:24,412
+Chuck voulait juste sniffer
+et Blair avait éteint son portable.
+
+327
+00:15:24,470 --> 00:15:28,231
+- Donc… Ça signifie beaucoup pour moi.
+- Ouais, quand tu veux, Nate.
+
+328
+00:15:29,485 --> 00:15:31,243
+Je te vois ce soir, OK ?
+
+329
+00:15:31,339 --> 00:15:33,824
+D'accord. À plus tard. Bye.
+
+330
+00:15:38,420 --> 00:15:40,963
+Bonjour, y a quelqu'un ?
+
+331
+00:15:41,503 --> 00:15:43,221
+Salut, Dan et toi vous sortez ?
+
+332
+00:15:43,337 --> 00:15:45,903
+On va seulement au ciné.
+Et vous ?
+
+333
+00:15:46,019 --> 00:15:48,982
+Un homme Humphrey en veste de soirée ?
+Normalement je vous demanderais
+
+334
+00:15:49,032 --> 00:15:51,487
+- si vous avez un rencard mais…
+- Mais ma femme m'a quitté ?
+
+335
+00:15:51,537 --> 00:15:55,043
+Oui, que se passe-t-il avec Alison ?
+Dan dit qu'elle est encore dans le Nord.
+
+336
+00:15:55,101 --> 00:15:58,524
+- Je pensais que c'était que pour l'été.
+- Son mari aussi.
+
+337
+00:15:58,659 --> 00:16:01,360
+OK, on reviendra là-dessus plus tard.
+
+338
+00:16:01,418 --> 00:16:04,023
+- Un problème à la fois.
+- Oui, comme où sont mes clés ?
+
+339
+00:16:04,084 --> 00:16:06,042
+Pour quoi faire ?
+Utilisez la fenêtre de Dan.
+
+340
+00:16:06,092 --> 00:16:07,374
+Où est Dan au fait ?
+
+341
+00:16:07,451 --> 00:16:09,777
+Il devrait être de retour
+dans une minute.
+
+342
+00:16:11,464 --> 00:16:13,720
+Alors, Dan avait l'air content
+de te revoir.
+
+343
+00:16:13,836 --> 00:16:15,080
+Pourquoi ne le serait-il pas ?
+
+344
+00:16:15,140 --> 00:16:18,495
+Eh bien, si ça te dérange pas
+que je te dise ça,
+
+345
+00:16:18,610 --> 00:16:21,803
+quand tu es partie, tu lui as
+en quelque sorte brisé le coeur.
+
+346
+00:16:22,304 --> 00:16:24,514
+Je suis revenue, non ?
+
+347
+00:16:24,687 --> 00:16:27,351
+Je détestais être loin de la ville…
+
+348
+00:16:28,058 --> 00:16:29,910
+Loin de Dan.
+
+349
+00:16:30,064 --> 00:16:31,837
+Tu l'as dit à Dan ?
+
+350
+00:16:32,070 --> 00:16:35,504
+Non, pas encore,
+je veux le lui dire ce soir.
+
+351
+00:16:35,640 --> 00:16:38,244
+Avant ou après le film.
+Je n'en suis pas encore sûre.
+
+352
+00:16:38,345 --> 00:16:40,312
+Je dois choisir le bon moment.
+
+353
+00:16:40,621 --> 00:16:42,300
+C'est pas facile à dire.
+
+354
+00:16:46,087 --> 00:16:47,192
+Merci.
+
+355
+00:16:48,909 --> 00:16:50,626
+Tu sais, il y a eu…
+
+356
+00:16:51,012 --> 00:16:53,139
+beaucoup de changement
+depuis que tu es partie.
+
+357
+00:16:53,197 --> 00:16:54,376
+C'est ce qu'a dit Dan.
+
+358
+00:16:54,454 --> 00:16:56,074
+Mais vous avez toujours été proches.
+
+359
+00:16:56,168 --> 00:16:57,638
+Vous trouverez une solution.
+
+360
+00:16:58,275 --> 00:17:00,590
+- Souhaitez-moi bonne chance.
+- À moi aussi.
+
+361
+00:17:00,802 --> 00:17:03,117
+- Mais vous allez où alors ?
+- Juste à une fête.
+
+362
+00:17:03,194 --> 00:17:04,660
+Avec une amie ?
+
+363
+00:17:04,921 --> 00:17:08,238
+Je ne la qualifierais
+pas vraiment comme telle.
+
+364
+00:17:08,721 --> 00:17:09,898
+À plus.
+
+365
+00:17:14,739 --> 00:17:16,942
+- Allô ?
+- Hé. Où es-tu ?
+
+366
+00:17:17,036 --> 00:17:18,197
+Chez toi.
+
+367
+00:17:18,579 --> 00:17:21,438
+- T'es en avance.
+- Ouais, je pouvais plus attendre.
+
+368
+00:17:23,144 --> 00:17:25,880
+J'ai essayé de t'avoir
+avant que tu ne partes. Je m'en veux.
+
+369
+00:17:26,073 --> 00:17:27,250
+Parce que je suis en avance ?
+
+370
+00:17:27,346 --> 00:17:32,217
+Non, parce que… J'ai complètement perdu
+la notion du temps.
+
+371
+00:17:32,302 --> 00:17:34,964
+J'ai ce devoir sur l'histoire
+américaine à rendre lundi.
+
+372
+00:17:35,080 --> 00:17:37,048
+Alors, tu vois,
+je vais l'écrire toute la nuit.
+
+373
+00:17:37,163 --> 00:17:39,805
+Je vais me rattraper quand même. Promis.
+
+374
+00:17:40,345 --> 00:17:42,220
+Pierogi au Veselka ?*
+
+375
+00:17:42,374 --> 00:17:44,146
+Je t'appellerai demain.
+
+376
+00:17:51,970 --> 00:17:53,398
+Jenny, salut.
+
+377
+00:17:53,552 --> 00:17:54,776
+Salut.
+
+378
+00:17:57,642 --> 00:17:59,917
+Jenny, qu'est-ce qui va pas ?
+
+379
+00:18:12,389 --> 00:18:15,042
+Et c'est censé être
+un service que tu me rends ?
+
+380
+00:18:15,196 --> 00:18:17,905
+Rufus, observe. C'était quand
+la dernière fois où tu étais
+
+381
+00:18:17,955 --> 00:18:19,680
+avec l'élite
+de la musique ou de l'art ?
+
+382
+00:18:19,730 --> 00:18:21,948
+Présente-toi. Rafraichis
+ta carrière en dégradation.
+
+383
+00:18:22,006 --> 00:18:25,328
+Mets ta petite galerie triste
+sous le radar culturel.
+
+384
+00:18:25,378 --> 00:18:27,431
+Depuis quand es-tu
+la protectrice d'ex-rockstars ?
+
+385
+00:18:27,489 --> 00:18:29,392
+Depuis quand es-tu une star ?
+
+386
+00:18:30,125 --> 00:18:33,283
+Écoute, pars si tu veux.
+Vraiment. Alison piquerait une crise
+
+387
+00:18:33,333 --> 00:18:35,338
+si elle savait
+que tu m'accompagnes à cette fête.
+
+388
+00:18:35,388 --> 00:18:37,484
+Même si c'est pour ton bien.
+
+389
+00:18:37,581 --> 00:18:40,100
+En fait, je me fous de ce
+qu'Alison pense en ce moment.
+
+390
+00:18:40,150 --> 00:18:42,699
+Bien. Alors laisse-moi
+te présenter à notre hôtesse.
+
+391
+00:18:42,892 --> 00:18:44,047
+Eleanor.
+
+392
+00:18:44,203 --> 00:18:47,162
+C'est divin. On ferme les yeux,
+et voilà Marrakech.
+
+393
+00:18:47,239 --> 00:18:48,281
+Lily.
+
+394
+00:18:48,339 --> 00:18:51,195
+Je ne savais pas que tu
+ramènerais un rencard.
+
+395
+00:18:51,330 --> 00:18:54,287
+- Que c'est charmant.
+- Voici Rufus Humphrey.
+
+396
+00:18:54,557 --> 00:18:56,092
+Ce n'est pas un rencard.
+
+397
+00:18:56,208 --> 00:18:57,867
+Des amuse-gueules.
+C'est du couscous ?
+
+398
+00:18:57,983 --> 00:18:59,828
+Oui, je vous en prie.
+
+399
+00:19:01,526 --> 00:19:04,222
+- Bonsoir.
+- Bart ! Bonsoir.
+
+400
+00:19:04,442 --> 00:19:05,823
+Et son amie.
+
+401
+00:19:05,877 --> 00:19:07,317
+Bonsoir.
+
+402
+00:19:09,967 --> 00:19:12,578
+- Quelque chose t'a attiré l'oeil ?
+- J'aime bien sa robe.
+
+403
+00:19:12,655 --> 00:19:13,687
+Lily.
+
+404
+00:19:14,066 --> 00:19:15,502
+Bart.
+
+405
+00:19:15,657 --> 00:19:17,432
+- Bonsoir.
+- Salut.
+
+406
+00:19:17,547 --> 00:19:20,422
+- J'aimerais vous présenter Carissa.
+- Oui, bonsoir. Carissa.
+
+407
+00:19:20,576 --> 00:19:22,097
+Bonsoir.
+
+408
+00:19:22,284 --> 00:19:25,330
+- Bonsoir, Rufus.
+- Salut, Rufus.
+
+409
+00:19:25,735 --> 00:19:27,681
+Eh bien, ça fait vraiment
+plaisir de te voir.
+
+410
+00:19:27,758 --> 00:19:30,269
+- Heureuse de te voir.
+- Profitez bien.
+
+411
+00:19:30,710 --> 00:19:33,144
+- Vous aussi.
+- OK.
+
+412
+00:19:38,397 --> 00:19:40,809
+Toi et Bart Bass ?
+Tout d'un coup, tout ça prend un sens.
+
+413
+00:19:40,866 --> 00:19:43,452
+- Tu m'as invité pour le rendre jaloux.
+- Ne sois pas ridicule.
+
+414
+00:19:43,529 --> 00:19:45,555
+Je veux dire par là, c'est flatteur,
+
+415
+00:19:45,632 --> 00:19:47,480
+mais t'aurais pas pu faire
+un peu mieux ?
+
+416
+00:19:47,530 --> 00:19:49,696
+Pas pour un si petit préavis.
+
+417
+00:19:49,806 --> 00:19:52,877
+Eleanor ! Salamalikum.
+
+418
+00:19:54,147 --> 00:19:55,748
+Comment vas-tu ? C'est fantastique.
+
+419
+00:19:55,806 --> 00:19:57,253
+- Magnifique.
+- Dieu vous bénisse.
+
+420
+00:19:57,311 --> 00:19:59,434
+Alors, cette Blair te prenait
+pour son esclave.
+
+421
+00:19:59,550 --> 00:20:02,676
+- Non, j'étais son assistante.
+- Pour Jane Austen* c'est "esclave".
+
+422
+00:20:02,726 --> 00:20:04,696
+Elle n'a jamais dit
+que je pourrais aller au bal
+
+423
+00:20:04,754 --> 00:20:07,659
+- même si je faisais toutes ses courses.
+- Ne l'excuse pas.
+
+424
+00:20:07,709 --> 00:20:09,675
+Tu as fait tous ces trucs.
+Tu mérites d'y aller.
+
+425
+00:20:09,725 --> 00:20:11,855
+Je croyais que les bals masqués étaient
+prétentieux.
+
+426
+00:20:11,905 --> 00:20:13,825
+Juste l'avis d'une femme.
+
+427
+00:20:15,975 --> 00:20:18,791
+Mais si tu veux y aller,
+aucune Blair ne devrait t'en empêcher.
+
+428
+00:20:18,849 --> 00:20:20,755
+C'est pas juste Blair, j'ai pas de robe.
+
+429
+00:20:20,814 --> 00:20:23,140
+Mes amis bossent
+dans le service des costumes au B.A.M*.
+
+430
+00:20:23,250 --> 00:20:26,131
+- On peut en emprunter un. Ensuite ?
+- J'ai pas d'invitation.
+
+431
+00:20:26,208 --> 00:20:29,680
+Toutes les salles de bal ont
+une arrière-porte. Quoi d'autre ?
+
+432
+00:20:29,788 --> 00:20:31,763
+Si Blair me voyait,
+elle serait furieuse.
+
+433
+00:20:31,821 --> 00:20:34,476
+C'est à ça que le masque sert.
+
+434
+00:20:37,524 --> 00:20:39,594
+<i>À l'Upper East Side, les apparences</i>
+
+435
+00:20:39,671 --> 00:20:42,604
+<i>sont souvent décevantes.
+Des amis à la teinture de cheveux,</i>
+
+436
+00:20:42,662 --> 00:20:45,937
+<i>c'est souvent autre chose
+qui attire l'attention.</i>
+
+437
+00:21:04,354 --> 00:21:07,310
+- Le centre-ville est par là ?
+- C'est par là.
+
+438
+00:21:07,406 --> 00:21:10,540
+Et ce que tu entends de ce côté,
+c'est des voitures. Tu dois les éviter.
+
+439
+00:21:10,646 --> 00:21:13,048
+Tu verras mieux sans ça aussi.
+
+440
+00:21:13,145 --> 00:21:14,630
+C'est mieux.
+
+441
+00:21:16,105 --> 00:21:17,629
+Hé, c'est quoi ton nom ?
+
+442
+00:21:17,726 --> 00:21:19,430
+Jack Altman.
+
+443
+00:21:27,696 --> 00:21:29,750
+Bonsoir, Jack Altman.
+Je suis sorti prendre l'air.
+
+444
+00:21:29,800 --> 00:21:31,786
+Altman ? OK.
+
+445
+00:21:37,161 --> 00:21:38,916
+- Venez.
+- Merci.
+
+446
+00:21:42,100 --> 00:21:43,759
+Attends. Laisse-moi voir.
+
+447
+00:21:44,415 --> 00:21:48,186
+OK. Je sais que tu es moralement opposée
+à tout ça, mais…
+
+448
+00:21:48,236 --> 00:21:49,801
+On te déprogrammera plus tard.
+
+449
+00:21:49,851 --> 00:21:52,287
+Ça, c'est moche.
+
+450
+00:21:55,219 --> 00:21:57,600
+- Vas-y.
+- OK. Merci.
+
+451
+00:22:03,950 --> 00:22:06,266
+Merci beaucoup.
+
+452
+00:23:08,768 --> 00:23:11,045
+<i>Qu'a-t-on dit des apparences ?</i>
+
+453
+00:23:11,218 --> 00:23:14,727
+<i>Ah oui,
+qu'elles pouvaient être décevantes.</i>
+
+454
+00:23:19,071 --> 00:23:23,307
+<i>Mais la plupart du temps,
+on récolte ce que l'on sème.</i>
+
+455
+00:23:25,672 --> 00:23:27,998
+Hé. Vous avez vu la fille
+avec qui j'étais à l'instant ?
+
+456
+00:23:28,056 --> 00:23:31,295
+Quand j'ai pris son sac,
+j'ai aussi pris ses clés de maison.
+
+457
+00:23:48,228 --> 00:23:50,272
+Qu'est-ce que fait Nate ?
+
+458
+00:23:50,369 --> 00:23:51,950
+Il est supposé trouver Kati et Is.
+
+459
+00:23:52,028 --> 00:23:54,458
+- Il se fait tard, je me refroidis.
+- Tu es ravissante.
+
+460
+00:23:54,555 --> 00:23:57,096
+À sa place, je n'aurais pas
+besoin d'indice pour te trouver.
+
+461
+00:23:57,146 --> 00:24:00,310
+- Ou pour me ravir, j'en suis sûre.
+- Qui est-ce ?
+
+462
+00:24:00,368 --> 00:24:01,757
+Probablement une garce de Chapin*.
+
+463
+00:24:01,834 --> 00:24:03,378
+Une garce sexy de Chapin.
+
+464
+00:24:03,436 --> 00:24:06,773
+Oublie-la. Retrouve-moi Nate.
+Pointe-le dans la bonne direction.
+
+465
+00:24:06,831 --> 00:24:09,027
+Chaque chose en son temps.
+
+466
+00:24:12,986 --> 00:24:14,125
+Bonjour, bel ange.
+
+467
+00:24:14,202 --> 00:24:16,817
+Tu dois être ma chance de la soirée.
+
+468
+00:24:18,099 --> 00:24:19,885
+Avec un goût exquis.
+
+469
+00:24:20,116 --> 00:24:21,737
+Apparemment non.
+
+470
+00:24:21,814 --> 00:24:23,023
+Je suis en train de te parler.
+
+471
+00:24:23,073 --> 00:24:25,595
+Belle et méchante ?
+J'en ai des frissons.
+
+472
+00:24:25,692 --> 00:24:28,397
+Accorderiez-vous
+une danse à ce pauvre démon ?
+
+473
+00:24:31,451 --> 00:24:33,747
+Pourquoi pas s'évader de tout ça et…
+
+474
+00:24:33,979 --> 00:24:37,417
+se trouver un endroit
+calme pour parler ?
+
+475
+00:24:37,760 --> 00:24:39,786
+Je vais chercher du champagne.
+
+476
+00:24:39,882 --> 00:24:42,327
+Retrouve-moi dans 5 minutes.
+
+477
+00:24:45,591 --> 00:24:48,543
+Mettre une entreprise en bourse
+est une énorme responsabilité.
+
+478
+00:24:48,601 --> 00:24:51,051
+Rien de mieux que faire
+une première bonne impression.
+
+479
+00:24:51,128 --> 00:24:54,451
+- Tu me l'a appris, Eleanor.
+- Capitaine, tu sais que je t'adore,
+
+480
+00:24:54,511 --> 00:24:57,693
+mais tu n'as jamais fait
+de mode avant.
+
+481
+00:24:57,771 --> 00:25:00,625
+J'ai parlé avec des connaisseurs
+de Calvin et je dois dire,
+
+482
+00:25:00,702 --> 00:25:02,554
+la représentation est
+très impressionnante.
+
+483
+00:25:02,604 --> 00:25:04,651
+Assez parlé affaires, Howard.
+Tu l'ennuies.
+
+484
+00:25:04,751 --> 00:25:06,349
+Eleanor, j'ai réfléchi.
+
+485
+00:25:06,426 --> 00:25:08,181
+Quand Nate et Blair vont se fiancer,
+
+486
+00:25:08,394 --> 00:25:10,940
+elle devrait prendre
+la bague de ma grand-mère.
+
+487
+00:25:13,872 --> 00:25:16,220
+Celle que Cornelius
+Vanderbilt lui a offert ?
+
+488
+00:25:23,995 --> 00:25:27,195
+- Tu continues à l'espionner ?
+- Je n'espionne pas. Je veux juste…
+
+489
+00:25:27,658 --> 00:25:29,047
+Ne pas le perdre de vue.
+
+490
+00:25:29,105 --> 00:25:31,015
+Et bien, tant que tu le surveilles,
+il gagne.
+
+491
+00:25:31,131 --> 00:25:33,548
+Si tu veux rendre un homme jaloux,
+il n'y a qu'un moyen.
+
+492
+00:25:33,606 --> 00:25:35,696
+Rufus, je t'ai fait venir
+pour plusieurs raisons,
+
+493
+00:25:35,746 --> 00:25:38,177
+mais une leçon de romance n'est pas…
+
+494
+00:25:52,201 --> 00:25:54,457
+C'était…
+
+495
+00:25:55,180 --> 00:25:56,370
+Inattendu.
+
+496
+00:25:56,511 --> 00:25:58,231
+Donne-lui 20 minutes.
+
+497
+00:26:00,342 --> 00:26:01,547
+J'ai besoin d'un verre.
+
+498
+00:26:02,376 --> 00:26:04,734
+Et maintenant, à chaque fois
+qu'on voit leur yacht, on…
+
+499
+00:26:04,812 --> 00:26:07,387
+sonne la corne de brume
+et on les laisse s'énerver.
+
+500
+00:26:08,202 --> 00:26:12,316
+Ça suffirait même à donner l'envie
+de ne plus repasser son été à Newport.
+
+501
+00:26:12,413 --> 00:26:14,766
+Ça m'a l'air… horrible.
+
+502
+00:26:15,113 --> 00:26:17,177
+Ça l'est. C'est assez moche.
+
+503
+00:26:17,756 --> 00:26:19,090
+Si tu veux bien m'excuser,
+
+504
+00:26:19,187 --> 00:26:22,614
+- je crois que je vais y aller et…
+- Changer de cavalier ?
+
+505
+00:26:26,314 --> 00:26:28,428
+- Dan, qu'est-ce que tu fais ici ?
+- Je te sauve.
+
+506
+00:26:28,488 --> 00:26:31,847
+- J'ai pas besoin d'être sauvée.
+- Vraiment ? Car les yeux te sortent
+
+507
+00:26:31,904 --> 00:26:34,262
+- de la tête, ça se voit de loin.
+- Dan.
+
+508
+00:26:36,803 --> 00:26:39,705
+Blair nous envoie. Il se fait tard
+et elle trouve que tu es trop long.
+
+509
+00:26:39,755 --> 00:26:41,939
+Ta dame d'honneur est
+plus près que tu ne le penses,
+
+510
+00:26:41,997 --> 00:26:44,716
+sa coiffe est ornée de plumes
+noires et roses.
+
+511
+00:26:47,457 --> 00:26:48,769
+- C'est elle.
+- C'est moi.
+
+512
+00:26:48,846 --> 00:26:50,807
+Quoi ? Je suis désolé.
+
+513
+00:26:52,588 --> 00:26:53,669
+Retrouve Serena.
+
+514
+00:26:53,727 --> 00:26:55,289
+Elle te mènera à Blair.
+
+515
+00:26:55,367 --> 00:26:57,431
+Serena. OK.
+
+516
+00:27:08,178 --> 00:27:09,463
+Jouons à un jeu.
+
+517
+00:27:09,513 --> 00:27:12,345
+Au strip poker,
+mais j'ai pas mes cartes.
+
+518
+00:27:12,461 --> 00:27:14,939
+Et pourquoi pas à cache-cache ?
+
+519
+00:27:15,132 --> 00:27:17,234
+Tu te caches. Je te cherche.
+
+520
+00:27:17,331 --> 00:27:19,955
+Et comment tu vas me trouver ?
+Je n'ai pas de cailloux blancs.
+
+521
+00:27:20,141 --> 00:27:23,980
+Eh bien, tu peux laisser une piste…
+
+522
+00:27:25,333 --> 00:27:27,263
+Avec tes vêtements.
+
+523
+00:27:29,519 --> 00:27:32,206
+Je suis réellement mort
+et envoyé au paradis.
+
+524
+00:27:56,366 --> 00:27:58,063
+Ça va ?
+
+525
+00:28:02,616 --> 00:28:04,449
+Serena, attends.
+
+526
+00:28:04,702 --> 00:28:06,993
+- Que fais-tu réellement ici ?
+- Ce que je fais ici ?
+
+527
+00:28:07,043 --> 00:28:09,356
+J'ai parcouru la ville.
+J'ai loué un smoking.
+
+528
+00:28:09,411 --> 00:28:13,432
+J'ai pris ce masque à un gars bourré,
+juste pour ressembler à Robin.
+
+529
+00:28:13,529 --> 00:28:17,546
+J'ai tout fait pour atterrir ici,
+juste pour te voir. Ça compte pour moi.
+
+530
+00:28:18,401 --> 00:28:20,694
+Autant que ce matin, quand
+tu étais avec une autre fille
+
+531
+00:28:20,744 --> 00:28:21,980
+et que tu m'as menti.
+
+532
+00:28:22,115 --> 00:28:23,196
+Quoi ?
+
+533
+00:28:23,621 --> 00:28:25,104
+J'étais pas…
+En fait, si.
+
+534
+00:28:26,035 --> 00:28:27,627
+- En fait, si.
+- Ouais
+
+535
+00:28:27,727 --> 00:28:30,810
+- Mais je peux t'expliquer.
+- Continue. Dis-moi tout.
+
+536
+00:28:31,890 --> 00:28:34,506
+J'étais avec mon amie Vanessa.
+
+537
+00:28:34,616 --> 00:28:37,442
+On est très proches et elle a déménagé
+dans le Vermont l'an dernier,
+
+538
+00:28:37,492 --> 00:28:38,518
+et là, elle est revenue.
+
+539
+00:28:38,576 --> 00:28:41,331
+OK, alors pourquoi avoir menti
+et dit que c'était Jenny ?
+
+540
+00:28:42,334 --> 00:28:45,748
+Parce que je suis un imbécile.
+Je sais pas pourquoi…
+
+541
+00:28:46,423 --> 00:28:48,947
+Écoute, Vanessa et moi…
+
+542
+00:28:49,081 --> 00:28:52,406
+Notre relation est un peu compliquée,
+
+543
+00:28:52,541 --> 00:28:55,936
+ou plutôt elle l'était,
+avant que je te rencontre.
+
+544
+00:28:56,065 --> 00:28:58,677
+Et sincèrement, je voulais
+que rien ne t'empèche
+
+545
+00:28:58,847 --> 00:29:01,050
+de m'inviter à cette…
+
+546
+00:29:01,146 --> 00:29:03,468
+stupide soirée.
+
+547
+00:29:04,156 --> 00:29:06,458
+Eh bien, j'allais t'inviter.
+
+548
+00:29:07,146 --> 00:29:08,419
+Vraiment ?
+
+549
+00:29:08,632 --> 00:29:12,288
+Alors, pas intéressée
+par l'autre prétentieux ?
+
+550
+00:29:13,137 --> 00:29:16,227
+Tu dis que tu t'intéressais pas
+à une vieille amie Vanessa ?
+
+551
+00:29:20,314 --> 00:29:22,650
+C'est exactement ce que j'ai dit.
+
+552
+00:29:24,328 --> 00:29:27,772
+<i>Oh oui, l'autre partie
+qu'on adore dans un bal masqué ?</i>
+
+553
+00:29:27,868 --> 00:29:29,971
+<i>Quand les masques tombent</i>
+
+554
+00:29:30,087 --> 00:29:32,775
+<i>et que la vérité est dévoilée à tous.</i>
+
+555
+00:29:44,483 --> 00:29:46,611
+Tu m'excuses ? Je viens de voir
+la dernière personne
+
+556
+00:29:46,661 --> 00:29:47,761
+que je pensais trouver ici.
+
+557
+00:29:47,819 --> 00:29:50,797
+- Comment pourrais-je refuser ?
+- Je suis navré.
+
+558
+00:29:52,306 --> 00:29:54,699
+Vanessa.
+Vanessa. Hé.
+
+559
+00:29:54,853 --> 00:29:57,118
+C'est une surprise.
+
+560
+00:29:57,253 --> 00:30:00,247
+- Amusant. Je pourrais en dire autant.
+- Que fais-tu ici ?
+
+561
+00:30:00,297 --> 00:30:02,173
+J'écris un article
+sur l'histoire américaine.
+
+562
+00:30:02,262 --> 00:30:03,763
+Attends, non.
+C'est censé être toi.
+
+563
+00:30:03,813 --> 00:30:07,887
+- Depuis quand on se ment ?
+- J'ai omis de te dire toute la vérité,
+
+564
+00:30:07,945 --> 00:30:09,830
+ce qui ressemble
+bien plus à un mensonge,
+
+565
+00:30:09,880 --> 00:30:11,128
+- je le reconnais.
+- Humphrey.
+
+566
+00:30:11,225 --> 00:30:13,598
+Je comprends pas non plus, j'avoue,
+
+567
+00:30:13,694 --> 00:30:16,959
+mais qu'aurais-je pu dire ?
+Que j'ai loué un smoking,
+
+568
+00:30:17,017 --> 00:30:20,036
+pour aller à un bal masqué
+sans masque ni invitation,
+
+569
+00:30:20,123 --> 00:30:22,976
+pour rejoindre une fille qui n'a pas
+qu'un masque et une invitation,
+
+570
+00:30:23,026 --> 00:30:26,175
+- … mais un autre rencard ?
+- Au moins, c'est franc.
+
+571
+00:30:26,225 --> 00:30:29,915
+- Tu détestes ce monde.
+- Toi aussi, du moins je le pensais.
+
+572
+00:30:29,965 --> 00:30:31,194
+Que se passe-t-il au juste ?
+
+573
+00:30:31,271 --> 00:30:34,474
+M'as-tu suivi jusqu'ici
+pour prouver que je mentais ?
+
+574
+00:30:34,551 --> 00:30:36,673
+Oui, Dan, c'est pour ça que je suis ici.
+
+575
+00:30:36,750 --> 00:30:40,175
+Je t'ai traqué car tu m'obsèdes.
+Attends. C'est pas fini.
+
+576
+00:30:40,225 --> 00:30:42,191
+Ce n'est que pour toi
+si je suis revenue à N.Y.,
+
+577
+00:30:42,249 --> 00:30:44,785
+- je n'arrêtais pas de penser à toi.
+- OK, j'ai compris.
+
+578
+00:30:44,835 --> 00:30:48,021
+- Laisse tomber les sarcasmes.
+- Pourquoi pas toute la soirée ?
+
+579
+00:30:48,157 --> 00:30:49,912
+- Bye.
+- Attends, arrête.
+
+580
+00:30:51,205 --> 00:30:52,594
+Je suis désolé.
+
+581
+00:30:52,767 --> 00:30:56,211
+- Je suis désolé de t'avoir menti.
+- Tu disais que tu m'aimais.
+
+582
+00:31:02,563 --> 00:31:04,743
+T'aimais…
+
+583
+00:31:05,013 --> 00:31:09,219
+Au passé, d'une manière prépubère,
+comme on le dit à 16 ans.
+
+584
+00:31:09,354 --> 00:31:11,546
+Tu sais, les choses ont changé.
+
+585
+00:31:14,199 --> 00:31:15,684
+De toute évidence.
+
+586
+00:31:15,897 --> 00:31:18,497
+On dirait que quelqu'un
+t'a mis la main dessus.
+
+587
+00:31:20,585 --> 00:31:21,820
+Alors c'est…
+
+588
+00:31:21,902 --> 00:31:24,397
+Vanessa, ouais.
+Elle est…
+
+589
+00:31:25,023 --> 00:31:26,219
+Très belle.
+
+590
+00:31:27,197 --> 00:31:29,997
+Je dois la rattraper. Je suis désolé.
+
+591
+00:31:35,937 --> 00:31:37,538
+N'hésite pas à me trouver.
+
+592
+00:31:37,615 --> 00:31:39,995
+- J'ai trouvé ton pantalon.
+- Tu brûles,
+
+593
+00:31:40,045 --> 00:31:43,242
+ce qui est un exploit étant donné que
+tu es déjà chaude.
+
+594
+00:31:43,492 --> 00:31:46,597
+Tu ferais mieux d'espérer que
+ça ne se rafraîchisse pas.
+
+595
+00:31:46,753 --> 00:31:49,197
+Qu'est-ce que c'est censé vouloir dire ?
+
+596
+00:31:52,393 --> 00:31:55,280
+C'est quoi ce bordel ?
+Hé, mon téléphone est dans mon pantalon,
+
+597
+00:31:55,330 --> 00:31:57,897
+et je suis coincé ici, salope !
+
+598
+00:31:59,087 --> 00:32:00,540
+Vanessa !
+
+599
+00:32:00,617 --> 00:32:02,199
+Vanessa, s'il te plaît, attends.
+
+600
+00:32:02,257 --> 00:32:04,340
+Pourquoi tu n'attends pas ?
+Viens…
+
+601
+00:32:04,456 --> 00:32:07,176
+Parce que vous n'êtes pas Vanessa.
+Désolé.
+
+602
+00:32:07,485 --> 00:32:09,530
+Cas de méprise d'identité.
+
+603
+00:32:09,646 --> 00:32:12,573
+Qui ironiquement,
+n'implique pas de masque.
+
+604
+00:32:23,574 --> 00:32:25,021
+Lily.
+
+605
+00:32:25,406 --> 00:32:26,718
+Te voilà.
+
+606
+00:32:30,654 --> 00:32:31,809
+J'avais besoin d'un moment.
+
+607
+00:32:31,867 --> 00:32:34,057
+- Ce qui… vient de se passer.
+- Le baiser ?
+
+608
+00:32:34,153 --> 00:32:36,044
+- Oui, ça m'a rendue un peu…
+- Nostalgique ?
+
+609
+00:32:36,160 --> 00:32:39,748
+- Nauséeuse.
+- D'accord.
+
+610
+00:32:39,825 --> 00:32:42,810
+Non, je plaisante,
+en quelque sorte.
+
+611
+00:32:43,022 --> 00:32:44,254
+Je suis désolée, Rufus.
+
+612
+00:32:44,312 --> 00:32:48,118
+Je n'aurais peut-être pas dû
+te demander de venir.
+
+613
+00:32:50,240 --> 00:32:53,307
+Exact. Et…
+
+614
+00:32:53,501 --> 00:32:56,855
+Je suis désolé de t'avoir embrassée,
+mais je l'ai fait car ce mercenaire
+
+615
+00:32:56,975 --> 00:32:58,210
+en chemise blanche amidonnée…
+
+616
+00:32:58,277 --> 00:33:03,131
+Il n'apprécie pas tout ce que tu as
+de plus qu'un mannequin de 25 ans.
+
+617
+00:33:03,314 --> 00:33:05,825
+Parce que la beauté s'éteint,
+
+618
+00:33:06,189 --> 00:33:09,143
+bien que la tienne ait fait
+un remarquable travail pour tenir,
+
+619
+00:33:09,201 --> 00:33:12,597
+et à la longue, ça sera sa perte.
+
+620
+00:33:13,071 --> 00:33:16,219
+Et j'ai pensé qu'il devait savoir
+ce que ça fait de te perdre.
+
+621
+00:33:19,024 --> 00:33:21,235
+Parce que crois-moi,
+ce n'est pas drôle.
+
+622
+00:33:32,803 --> 00:33:34,694
+Je pense que ça a marché.
+
+623
+00:33:34,848 --> 00:33:37,185
+Lily, puis-je te parler un moment ?
+
+624
+00:33:37,571 --> 00:33:39,697
+Si vous voulez bien nous excuser.
+
+625
+00:33:45,066 --> 00:33:46,899
+Content d'aider.
+
+626
+00:33:47,917 --> 00:33:49,923
+<i>Elle ne représente rien.</i>
+
+627
+00:34:26,453 --> 00:34:28,742
+Jenny ? Hé.
+
+628
+00:34:28,884 --> 00:34:30,632
+Serena.
+
+629
+00:34:31,886 --> 00:34:33,501
+Écoute, tu ne m'as pas vue ici, OK ?
+
+630
+00:34:33,591 --> 00:34:36,227
+Ouais, ne t'inquiète pas pour ça.
+Une chose de plus…
+
+631
+00:34:36,285 --> 00:34:38,197
+que je prétendrai
+ne pas avoir vue.
+
+632
+00:34:38,247 --> 00:34:39,862
+Tout va bien ?
+
+633
+00:34:39,920 --> 00:34:43,589
+Je n'en suis pas sûre.
+Dan m'a surprise en arrivant ici.
+
+634
+00:34:43,639 --> 00:34:46,305
+- Allez, Dan !
+- Ouais, sauf qu'il m'a laissée en plan
+
+635
+00:34:46,363 --> 00:34:48,543
+en courant après une fille
+qui s'appelle Vanessa.
+
+636
+00:34:48,620 --> 00:34:52,350
+- Non, V. est la meilleure amie de Dan.
+- Ça avait l'air d'être un peu plus.
+
+637
+00:34:55,006 --> 00:34:57,746
+Il y a eu quelque chose entre eux,
+n'est ce pas ?
+
+638
+00:34:59,451 --> 00:35:00,872
+Bien sûr.
+
+639
+00:35:01,574 --> 00:35:04,718
+Mais, Dan n'a jamais aimé
+une fille comme il t'aime.
+
+640
+00:35:04,873 --> 00:35:07,593
+Vraiment. Allez. Il est à un bal masqué,
+
+641
+00:35:07,709 --> 00:35:10,743
+et je pense
+qu'il irait n'importe où avec toi…
+
+642
+00:35:11,419 --> 00:35:12,782
+À part peut-être aux Ice Capades*,
+
+643
+00:35:12,832 --> 00:35:15,397
+parce que ça lui fait vraiment peur
+depuis ses 5 ans.
+
+644
+00:35:18,455 --> 00:35:19,960
+Tu sais quoi ?
+
+645
+00:35:20,674 --> 00:35:23,218
+Je crois que je vais y aller
+et essayer de le trouver.
+
+646
+00:35:23,341 --> 00:35:26,191
+Je sais pas comment je vais trouver
+qui que ce soit. Ce stupide masque
+
+647
+00:35:26,241 --> 00:35:28,138
+n'arrête pas de me tomber sur les yeux.
+
+648
+00:35:28,234 --> 00:35:31,006
+Je te donnerais bien le mien,
+mais les masques tombent à minuit,
+
+649
+00:35:31,056 --> 00:35:33,442
+et j'ai besoin
+d'être déguisée pour sortir d'ici.
+
+650
+00:35:33,828 --> 00:35:35,897
+Tu sais quoi ? Tu veux échanger ?
+
+651
+00:35:36,066 --> 00:35:37,281
+Bien sûr.
+
+652
+00:35:37,435 --> 00:35:38,574
+Merci.
+
+653
+00:35:39,006 --> 00:35:40,947
+Et prends ça.
+Il fait si chaud ici,
+
+654
+00:35:41,005 --> 00:35:43,360
+et tu auras probablement froid dehors.
+
+655
+00:35:43,553 --> 00:35:45,197
+Tiens.
+
+656
+00:35:46,119 --> 00:35:47,957
+Tu t'es amusée ce soir ?
+
+657
+00:35:48,299 --> 00:35:50,252
+C'était tout ce que j'espérais.
+
+658
+00:35:50,730 --> 00:35:52,297
+Tant mieux.
+
+659
+00:35:53,294 --> 00:35:55,609
+- OK. Voyons.
+- Voilà.
+
+660
+00:35:55,745 --> 00:35:58,097
+- Merci.
+- Parfait.
+
+661
+00:36:02,343 --> 00:36:04,296
+Serena, ne dis rien
+et laisse-moi t'expliquer.
+
+662
+00:36:04,346 --> 00:36:05,710
+Oh, mon dieu.
+
+663
+00:36:06,964 --> 00:36:09,075
+J'ai essayé de faire au mieux,
+mais ça me tue.
+
+664
+00:36:09,125 --> 00:36:10,917
+On tient tous les deux à Blair, mais
+
+665
+00:36:10,967 --> 00:36:12,845
+le mieux pour moi est
+de lui dire la vérité.
+
+666
+00:36:12,895 --> 00:36:14,172
+Je ne t'ai pas oubliée
+
+667
+00:36:14,222 --> 00:36:17,197
+et je pensais pouvoir combattre ça,
+mais je ne peux pas.
+
+668
+00:36:18,644 --> 00:36:21,040
+Et si tu ne m'arrêtes pas,
+je vais t'embrasser.
+
+669
+00:36:26,016 --> 00:36:27,387
+Nate ?
+
+670
+00:36:29,213 --> 00:36:31,775
+Que fais-tu ? C'est presque minuit.
+Tu dois trouver Blair.
+
+671
+00:36:31,825 --> 00:36:34,568
+OK, peu importe. Oublie l'indice.
+Elle porte des bottes hautes
+
+672
+00:36:34,645 --> 00:36:38,097
+et une grosse couronne ancienne.
+Vas-y, OK ? Dépêche-toi.
+
+673
+00:36:42,709 --> 00:36:45,797
+Serena, as-tu vu Nate ? Hé !
+
+674
+00:36:56,023 --> 00:36:59,497
+- Jenny.
+- C'est minuit ! Les masquent tombent !
+
+675
+00:37:06,044 --> 00:37:07,182
+Serena.
+
+676
+00:37:07,260 --> 00:37:09,536
+Serena ! Serena, attends.
+
+677
+00:37:09,633 --> 00:37:12,197
+Je suis tellement désolé. Serena !
+
+678
+00:37:22,539 --> 00:37:24,340
+La petite Jenny Humphrey
+a réussi à me faire
+
+679
+00:37:24,390 --> 00:37:26,397
+enlever mon pantalon
+sans que j'apprécie ça.
+
+680
+00:37:26,455 --> 00:37:28,305
+Vraiment un exploit.
+
+681
+00:37:29,853 --> 00:37:32,346
+Heureusement à la fête quelqu'un
+a été aussi vicieux que toi,
+
+682
+00:37:32,396 --> 00:37:35,019
+ou tu serais encore sur le toit,
+et, non,
+
+683
+00:37:35,116 --> 00:37:38,352
+je ne veux pas savoir ce que tu as
+dû faire pour avoir ce smoking.
+
+684
+00:37:38,602 --> 00:37:40,391
+C'est moi.
+
+685
+00:37:40,441 --> 00:37:42,312
+À demain matin, Chuck.
+
+686
+00:37:43,869 --> 00:37:45,432
+Non, tu m'as pas trouvée avant minuit.
+
+687
+00:37:45,509 --> 00:37:47,997
+Pas de fin heureuse pour toi.
+
+688
+00:37:48,094 --> 00:37:50,108
+Blair, je suis désolé.
+
+689
+00:37:51,200 --> 00:37:54,603
+Tout ce que je voulais, c'était
+qu'on prenne un nouveau départ
+
+690
+00:37:55,174 --> 00:37:57,197
+et tu n'as même pas essayé.
+
+691
+00:38:12,757 --> 00:38:16,197
+Eh bien, au moins
+quelqu'un passe une bonne soirée.
+
+692
+00:38:22,040 --> 00:38:23,692
+- <i>Allô ?</i>
+- Serena. Hé.
+
+693
+00:38:23,742 --> 00:38:26,089
+S'il te plaît, veux-tu me parler ?
+
+694
+00:38:26,139 --> 00:38:28,777
+- Pourquoi m'as-tu fui ?
+- <i>Attends. De quoi tu parles ?</i>
+
+695
+00:38:28,835 --> 00:38:31,324
+<i>- C'est toi qui t'es enfui.</i>
+- Je ne pense pas.
+
+696
+00:38:31,439 --> 00:38:33,774
+Cheveux blonds, robe jaune,
+truc en fourrure noire.
+
+697
+00:38:33,832 --> 00:38:36,224
+Il n'y a qu'une seule
+Serena V.D. Woodsen.
+
+698
+00:38:36,378 --> 00:38:38,797
+<i>Ouais, non, pas ce soir.</i>
+
+699
+00:38:42,199 --> 00:38:44,197
+Laisse-moi dire…
+
+700
+00:38:44,417 --> 00:38:46,397
+Pour que tu en prennes note…
+
+701
+00:38:46,551 --> 00:38:48,171
+Tu me plais.
+
+702
+00:38:48,615 --> 00:38:50,053
+Seulement toi.
+
+703
+00:38:51,544 --> 00:38:56,174
+Ça tombe bien, parce que je ressens
+la même chose pour toi.
+
+704
+00:38:56,521 --> 00:38:59,082
+Je suis content
+que ce point soit éclairci.
+
+705
+00:39:04,882 --> 00:39:06,310
+Hé, tu sais.
+
+706
+00:39:06,387 --> 00:39:08,789
+Il paraît que les Ice Capades
+viennent en ville.
+
+707
+00:39:09,300 --> 00:39:12,097
+Si tu y vas, moi aussi.
+
+708
+00:39:24,847 --> 00:39:26,082
+Hé.
+
+709
+00:39:27,452 --> 00:39:29,297
+Vous veillez tard.
+
+710
+00:39:29,381 --> 00:39:30,712
+On célébrait.
+
+711
+00:39:30,847 --> 00:39:33,989
+Eleanor Waldorf a accepté
+de laisser la compagnie de ton père
+
+712
+00:39:34,039 --> 00:39:35,997
+s'occuper de l'entrée en bourse.
+
+713
+00:39:36,337 --> 00:39:38,489
+Félicitations.
+C'est une super nouvelle.
+
+714
+00:39:38,539 --> 00:39:40,735
+En effet, c'est pourquoi
+je cherchais un tire-bouchon
+
+715
+00:39:40,832 --> 00:39:43,186
+pour surprendre ton père
+avec une bouteille de Margaux.
+
+716
+00:39:43,301 --> 00:39:46,206
+C'est comme ça que j'ai trouvé ça.
+
+717
+00:39:51,916 --> 00:39:55,369
+Eh bien… qu'as-tu à dire
+pour ta défense, Nate ?
+
+718
+00:39:56,218 --> 00:39:58,322
+- Quoi ?
+- Eh bien, ce n'est pas à moi,
+
+719
+00:39:58,458 --> 00:40:00,172
+et ce n'est pas à ton père,
+
+720
+00:40:00,222 --> 00:40:03,397
+alors il ne reste qu'une seule personne
+dans cette maison.
+
+721
+00:40:08,877 --> 00:40:10,497
+Hé, tu es encore debout.
+
+722
+00:40:10,710 --> 00:40:13,621
+- Ouais, pas très fatiguée.
+- Moi si. Je suis épuisé.
+
+723
+00:40:13,698 --> 00:40:15,801
+J'ai fini par aller à ce bal, en fait.
+
+724
+00:40:15,878 --> 00:40:18,007
+- Vraiment ?
+- Ouais.
+
+725
+00:40:18,785 --> 00:40:20,540
+Ta nuit n'est pas terminée.
+
+726
+00:40:21,235 --> 00:40:23,497
+Quelqu'un est ici pour te voir.
+
+727
+00:40:30,998 --> 00:40:33,776
+Pierogi ?
+Je viens en paix.
+
+728
+00:40:34,432 --> 00:40:36,596
+Super.
+Parce que je suis affamé.
+
+729
+00:40:36,784 --> 00:40:38,993
+<font color="yellow">- Gossip Girl -</font>
+Épisode 6 - The Handmaidens Tales
+
+730
+00:40:39,043 --> 00:40:41,641
+Trad : <font color="red">
+*Florian*</font>, <font color="yellow">Do, Poupex & Zef-K</font>
+
+731
+00:40:41,691 --> 00:40:43,419
+Relecture : <font color="red">
+*Florian*</font> & <font color="green">Arkana 76360</font>
+
+732
+00:40:43,469 --> 00:40:45,483
+Synchro :<font color="red">
+*Florian*</font> & <font color="green">7844</font>
+
+733
+00:40:46,288 --> 00:40:47,870
+- Écoute…
+- Laisse tomber, Humphrey.
+
+734
+00:40:47,947 --> 00:40:50,220
+Tu n'as jamais su jouer les repentants.
+
+735
+00:40:50,723 --> 00:40:52,712
+En plus,
+c'est moi qui devrais m'excuser.
+
+736
+00:40:52,762 --> 00:40:55,336
+Non, vraiment, c'est moi.
+J'aurais dû te parler de Serena.
+
+737
+00:40:55,386 --> 00:40:58,342
+- Et j'aurais dû te le demander.
+- J'aurais pas dû mentir pour ce soir.
+
+738
+00:40:58,458 --> 00:41:01,197
+Et je n'aurais pas dû m'enfuir.
+
+739
+00:41:02,601 --> 00:41:04,338
+Écoute, si on doit rester amis,
+
+740
+00:41:04,878 --> 00:41:06,672
+on va devoir mettre les choses à plat.
+
+741
+00:41:08,177 --> 00:41:09,720
+Tu as raison,
+
+742
+00:41:09,778 --> 00:41:11,558
+et avoir une amie m'a manqué.
+
+743
+00:41:11,654 --> 00:41:13,487
+En être une m'a manqué.
+
+744
+00:41:13,639 --> 00:41:15,687
+On peut commencer doucement,
+avec les bases.
+
+745
+00:41:15,780 --> 00:41:18,581
+Comme, moins de mensonges,
+plus de nourriture ukrainienne.
+
+746
+00:41:18,658 --> 00:41:19,873
+Et tu me racontes
+
+747
+00:41:19,950 --> 00:41:22,052
+tout ce que j'ai manqué
+pendant que j'étais partie,
+
+748
+00:41:22,130 --> 00:41:24,062
+comme Serena.
+
+749
+00:41:27,995 --> 00:41:30,998
+Eh bien, elle est plutôt fantastique,
+
+750
+00:41:31,048 --> 00:41:33,029
+presque aussi bien que ce Pierogi.
+
+751
+00:41:33,097 --> 00:41:36,010
+Ouais, elle a cette folle de mère
+qui m'affronte tout le temps
+
+752
+00:41:36,087 --> 00:41:38,547
+et sa meilleure amie
+
+753
+00:41:38,720 --> 00:41:40,727
+que j'ai du mal à gérer.
+
+754
+00:41:40,843 --> 00:41:43,757
+Sa meilleure amie a un petit ami
+que j'ai aussi du mal à gérer.
+
+755
+00:41:43,873 --> 00:41:46,535
+<i>Tout est très difficile pour moi.</i>
+
+756
+00:41:47,617 --> 00:41:49,066
+Capture :
+<font color="yellow">¤ www.ragbear.com ¤</font>
+
+757
+00:41:49,116 --> 00:41:51,673
+Sous-titre A²S Team :
+<font color="yellow">¤ www.all-about-subs.fr ¤</font>
+

@@ -1,0 +1,3406 @@
+1
+00:00:32,915 --> 00:00:34,043
+I said no!
+
+2
+00:00:35,039 --> 00:00:36,504
+What's this guy doing?
+
+3
+00:00:37,193 --> 00:00:38,412
+Look out!
+
+4
+00:00:42,264 --> 00:00:43,510
+- Stay here!
+- No!
+
+5
+00:00:43,832 --> 00:00:44,901
+Stay here.
+
+6
+00:00:49,164 --> 00:00:50,365
+Son of a...
+
+7
+00:00:52,219 --> 00:00:54,262
+What the hell, man?
+What's wrong with...?
+
+8
+00:00:56,927 --> 00:00:58,231
+Open the door.
+
+9
+00:00:59,505 --> 00:01:01,102
+Open the door!
+Wake up!
+
+10
+00:01:01,380 --> 00:01:02,979
+Come on, man, open the door!
+
+11
+00:01:03,063 --> 00:01:03,938
+Wake up!
+
+12
+00:01:04,022 --> 00:01:05,364
+Open the door!
+
+13
+00:01:07,108 --> 00:01:08,609
+Get him out of the car!
+
+14
+00:01:09,774 --> 00:01:10,960
+It's gonna go!
+
+15
+00:01:17,667 --> 00:01:21,657
+.: Team UnderCovers :.
+
+16
+00:01:31,258 --> 00:01:33,727
+NCIS Los Angeles 1x20
+- Fame -
+
+17
+00:01:39,098 --> 00:01:41,309
+You know what young say
+they want to be when they grow up?
+
+18
+00:01:41,662 --> 00:01:43,639
+Probably not a Navy SEAL.
+
+19
+00:01:44,280 --> 00:01:47,468
+Not a teacher, not an astronaut
+or anything that requires effort.
+
+20
+00:01:48,018 --> 00:01:49,636
+All kids want to be is famous.
+
+21
+00:01:50,058 --> 00:01:51,593
+And girls just want to have fun.
+
+22
+00:01:51,635 --> 00:01:53,527
+15 minutes of fame is nothing new.
+
+23
+00:01:53,569 --> 00:01:54,828
+Morning, guys.
+
+24
+00:01:55,390 --> 00:01:56,410
+Morning, Nate.
+
+25
+00:01:56,738 --> 00:01:58,988
+- Good workout?
+- Yes, maxed out the delts...
+
+26
+00:01:59,030 --> 00:02:00,536
+feeling that.
+And my glutes...
+
+27
+00:02:01,062 --> 00:02:02,997
+keeping my glutes in shape.
+
+28
+00:02:03,459 --> 00:02:06,974
+A guy carves a ten-foot-tall human
+out of stone and buries it,
+
+29
+00:02:07,326 --> 00:02:10,004
+then he discovers a petrified giant.
+
+30
+00:02:10,338 --> 00:02:12,752
+The media has a frenzy,
+people come from all over.
+
+31
+00:02:12,794 --> 00:02:15,729
+A story of instant celebrity from...
+drum roll...
+
+32
+00:02:16,467 --> 00:02:17,786
+1868.
+
+33
+00:02:18,369 --> 00:02:20,014
+There's a sucker born every minute.
+
+34
+00:02:20,232 --> 00:02:23,150
+Actually, Barnum never even said
+the famous quotation
+
+35
+00:02:23,349 --> 00:02:26,701
+Barnum made a second stone giant.
+Then the guy who owned the first one
+
+36
+00:02:26,912 --> 00:02:29,398
+said people who saw Barnum's giant
+were suckers.
+
+37
+00:02:29,585 --> 00:02:32,608
+Yeah, so we celebrate Barnum
+for a quote he never said
+
+38
+00:02:32,796 --> 00:02:34,460
+about a phony replica of a
+
+39
+00:02:34,882 --> 00:02:36,197
+crackpot hoax.
+
+40
+00:02:40,917 --> 00:02:41,995
+Well, well.
+
+41
+00:02:43,894 --> 00:02:45,019
+Callen. Doc.
+
+42
+00:02:45,617 --> 00:02:47,011
+Sorry. Little sore in
+
+43
+00:02:47,292 --> 00:02:49,085
+- the delts.
+- But the glutes are good.
+
+44
+00:02:49,127 --> 00:02:50,796
+- You heard that?
+- I did.
+
+45
+00:02:52,172 --> 00:02:54,090
+- Sam.
+- That desk is taken, Deeks.
+
+46
+00:02:54,273 --> 00:02:55,668
+You can't sit there.
+
+47
+00:02:56,793 --> 00:02:57,635
+Excuse me.
+
+48
+00:03:00,660 --> 00:03:04,398
+Mr. Hanna,
+I asked Detective Deeks to sit there.
+
+49
+00:03:05,699 --> 00:03:07,316
+I did so politely.
+
+50
+00:03:08,404 --> 00:03:10,147
+Detective Deeks has been appointed
+
+51
+00:03:10,231 --> 00:03:12,177
+our LAPD liaison,
+
+52
+00:03:13,232 --> 00:03:14,685
+filling a chair that,
+
+53
+00:03:15,142 --> 00:03:16,185
+though taken,
+
+54
+00:03:16,227 --> 00:03:18,498
+has been vacant for some time.
+
+55
+00:03:18,815 --> 00:03:20,032
+Welcome aboard, Deeks.
+
+56
+00:03:20,302 --> 00:03:21,122
+Thanks.
+
+57
+00:03:21,943 --> 00:03:23,396
+So you're sort of a temp.
+
+58
+00:03:24,521 --> 00:03:26,079
+Temp. Yeah, I like that.
+
+59
+00:03:26,121 --> 00:03:28,749
+See, with cops, having
+a negative nickname's a good thing.
+
+60
+00:03:30,418 --> 00:03:33,170
+No time to waste.
+We have a case.
+
+61
+00:03:33,540 --> 00:03:35,181
+Deeks?
+Really?
+
+62
+00:03:35,924 --> 00:03:37,747
+Really.
+LAPD liaison.
+
+63
+00:03:37,887 --> 00:03:39,597
+That's the best they could do?
+
+64
+00:03:42,597 --> 00:03:43,535
+And...
+
+65
+00:03:44,765 --> 00:03:46,816
+- it's the best they can do.
+- Sorry.
+
+66
+00:03:47,227 --> 00:03:48,130
+Forgiven.
+
+67
+00:03:48,503 --> 00:03:49,562
+ What do you got?
+
+68
+00:03:51,311 --> 00:03:52,495
+Lieutenant Brian Roth
+
+69
+00:03:52,537 --> 00:03:55,943
+sailed a car off Mulholland early
+this morning with two bullets in him.
+
+70
+00:03:56,268 --> 00:03:58,776
+Eyewitness says he was still alive
+when he went over.
+
+71
+00:03:58,928 --> 00:03:59,702
+But...
+
+72
+00:04:00,709 --> 00:04:01,963
+he's not anymore.
+
+73
+00:04:02,200 --> 00:04:04,424
+- The car wasn't his.
+- Whose was it?
+
+74
+00:04:04,800 --> 00:04:06,287
+Belongs to Aubrey Darva.
+
+75
+00:04:06,371 --> 00:04:07,830
+The Aubrey Darva?
+
+76
+00:04:10,685 --> 00:04:13,461
+Aubrey's vying for the socialite tiara.
+Trying to out-Paris
+
+77
+00:04:13,545 --> 00:04:16,064
+Paris Hilton
+and out-Kim the Kardashians.
+
+78
+00:04:16,404 --> 00:04:19,451
+Photo on the right taken
+just last night. Posted on ZMZ.
+
+79
+00:04:20,084 --> 00:04:21,802
+Famous for being famous.
+
+80
+00:04:21,886 --> 00:04:23,638
+Welcome to Los Angeles.
+The point is,
+
+81
+00:04:23,722 --> 00:04:26,108
+she wouldn't be hanging out
+with a sailor. More likely,
+
+82
+00:04:26,150 --> 00:04:27,514
+this guy stole her car.
+
+83
+00:04:27,892 --> 00:04:29,978
+- Was it reported stolen?
+- No. Not yet.
+
+84
+00:04:30,212 --> 00:04:31,771
+Roth was at the top of his class
+
+85
+00:04:31,855 --> 00:04:33,681
+at Annapolis
+with a flawless service record.
+
+86
+00:04:33,723 --> 00:04:36,859
+- I wouldn't call him a nobody.
+- To her, he's a nobody. Not my opinion.
+
+87
+00:04:37,110 --> 00:04:39,676
+Let's get up there
+and tell the LAPD we're interested.
+
+88
+00:04:39,828 --> 00:04:41,656
+Good thing we have a liaison.
+
+89
+00:04:43,509 --> 00:04:44,646
+Good thing.
+
+90
+00:04:56,350 --> 00:04:57,343
+Okay, Eric,
+
+91
+00:04:57,597 --> 00:04:59,697
+as soon as you find out,
+let me know.
+
+92
+00:05:00,053 --> 00:05:01,937
+Time to do your liaison thing.
+
+93
+00:05:02,554 --> 00:05:04,470
+Yeah, about that liaise thing.
+
+94
+00:05:07,028 --> 00:05:08,766
+What's the wait?
+The car's coming up.
+
+95
+00:05:09,325 --> 00:05:11,310
+- He doesn't want to.
+- Doesn't want to what?
+
+96
+00:05:11,394 --> 00:05:13,437
+- Liaise.
+- Is that even a word?
+
+97
+00:05:13,749 --> 00:05:16,440
+Yes. A liaison liaises.
+
+98
+00:05:16,749 --> 00:05:18,717
+Well, maybe you can demonstrate.
+
+99
+00:05:22,432 --> 00:05:23,322
+Thanks.
+
+100
+00:05:25,877 --> 00:05:27,647
+- What was that about?
+- I don't know.
+
+101
+00:05:27,787 --> 00:05:30,553
+I feel like a mom dropping off her kid,
+first day of school.
+
+102
+00:05:32,099 --> 00:05:33,705
+Guys, how's it going?
+
+103
+00:05:34,291 --> 00:05:35,310
+Beat it.
+
+104
+00:05:36,904 --> 00:05:39,812
+Appreciate the help.
+Doesn't look like a very warm reception.
+
+105
+00:05:40,455 --> 00:05:41,257
+We done?
+
+106
+00:05:41,341 --> 00:05:43,968
+They told me... you don't need to know
+what they told me.
+
+107
+00:05:44,052 --> 00:05:45,219
+Is it our crime scene?
+
+108
+00:05:45,303 --> 00:05:46,887
+Conversation never got that far.
+
+109
+00:05:47,404 --> 00:05:48,575
+Leave it to me.
+
+110
+00:05:50,146 --> 00:05:53,810
+Undercover cops. I've pissed off
+more than my fair share of shields.
+
+111
+00:05:53,895 --> 00:05:56,564
+- Why'd they choose you as our liaison?
+- Hetty's request.
+
+112
+00:05:56,866 --> 00:05:57,874
+Thank you.
+
+113
+00:06:01,069 --> 00:06:02,839
+Our case, our crime scene.
+
+114
+00:06:03,624 --> 00:06:04,905
+You're okay, too, Deeks,
+
+115
+00:06:05,089 --> 00:06:06,355
+if you're with us.
+
+116
+00:06:06,706 --> 00:06:07,866
+Let's go, Temp.
+
+117
+00:06:13,444 --> 00:06:14,698
+Two gunshots...
+
+118
+00:06:14,839 --> 00:06:16,303
+shoulder, ribs.
+
+119
+00:06:16,690 --> 00:06:19,093
+This guy would've bled out
+even without the crash.
+
+120
+00:06:19,491 --> 00:06:21,096
+There's blood on the door handle.
+
+121
+00:06:21,753 --> 00:06:23,886
+Means he got shot
+before he got in the car.
+
+122
+00:06:24,237 --> 00:06:25,854
+Need to find that crime scene.
+
+123
+00:06:26,745 --> 00:06:29,555
+There's a door-stamp for Balm.
+That's the hottest club in Hollywood.
+
+124
+00:06:29,780 --> 00:06:31,889
+So Roth was there.
+Something happens
+
+125
+00:06:31,931 --> 00:06:34,018
+that puts him in Aubrey's car
+and gets him shot.
+
+126
+00:06:34,102 --> 00:06:36,928
+Balm isn't just socialite central
+for the Aubrey Darvas of the world.
+
+127
+00:06:36,970 --> 00:06:38,689
+A lot of bad guys
+hanging out there, too.
+
+128
+00:06:40,502 --> 00:06:43,652
+A nightclub called Balm.
+Need to see their security footage.
+
+129
+00:06:43,736 --> 00:06:45,154
+- <i>I'm on it.</i>
+- Nothing here.
+
+130
+00:06:45,238 --> 00:06:46,033
+Guys?
+
+131
+00:06:48,201 --> 00:06:49,209
+Shoes...
+
+132
+00:06:49,959 --> 00:06:50,908
+clutch...
+
+133
+00:06:52,267 --> 00:06:53,287
+cell phone.
+
+134
+00:06:53,471 --> 00:06:55,748
+- Things a girl does not leave behind.
+- And here...
+
+135
+00:06:56,109 --> 00:06:57,083
+pink fabric.
+
+136
+00:06:57,304 --> 00:06:59,794
+Remember that photo taken last night
+and posted on ZMZ?
+
+137
+00:07:00,372 --> 00:07:02,838
+Aubrey Darva.
+She wore a pink dress.
+
+138
+00:07:03,044 --> 00:07:03,839
+Find her.
+
+139
+00:07:17,807 --> 00:07:18,651
+Nice.
+
+140
+00:07:21,103 --> 00:07:22,775
+So, Aubrey's stepdad is Ben Darva.
+
+141
+00:07:22,859 --> 00:07:24,572
+Immigrated a penniless kid,
+
+142
+00:07:24,771 --> 00:07:26,165
+won a full ride to Harvard,
+
+143
+00:07:26,207 --> 00:07:29,348
+made billions in real estate,
+and married a socialite from Pasadena.
+
+144
+00:07:29,390 --> 00:07:31,973
+Aubrey is her kid, not his.
+Mother died a year ago.
+
+145
+00:07:32,113 --> 00:07:35,254
+- You vacation with these people?
+- No, I just I remember things.
+
+146
+00:07:36,718 --> 00:07:39,750
+- Hi. We're looking for Aubrey Darva.
+- Her father's by the pool.
+
+147
+00:07:42,341 --> 00:07:45,318
+Must be nice to have your morning
+latte next to your pool.
+
+148
+00:07:46,864 --> 00:07:47,755
+Mr. Darva,
+
+149
+00:07:47,967 --> 00:07:50,928
+I'm Detective Deeks, LAPD.
+This is Special Agent Kensi Blye.
+
+150
+00:07:53,347 --> 00:07:55,141
+You're having surveillance cameras?
+
+151
+00:07:55,714 --> 00:07:57,636
+Yeah, because of all the break-ins.
+
+152
+00:07:58,750 --> 00:08:00,543
+In the neighborhood
+over the last year.
+
+153
+00:08:01,199 --> 00:08:02,371
+No one is safe.
+
+154
+00:08:04,098 --> 00:08:06,318
+I'm assuming that's why you're here?
+
+155
+00:08:06,512 --> 00:08:08,903
+No. We're here
+because of your stepdaughter, Aubrey.
+
+156
+00:08:09,266 --> 00:08:11,323
+- Aubrey?
+- Did she come home last night?
+
+157
+00:08:11,970 --> 00:08:14,368
+Yes. She always comes home.
+It's part of our deal.
+
+158
+00:08:14,927 --> 00:08:16,556
+Could you check on her, please?
+
+159
+00:08:16,772 --> 00:08:17,915
+Sure. This way.
+
+160
+00:08:19,359 --> 00:08:20,566
+Part of your deal?
+
+161
+00:08:20,870 --> 00:08:23,706
+Yeah. Aubrey had a problem
+with drugs after her mother died.
+
+162
+00:08:23,870 --> 00:08:25,007
+But I trust her.
+
+163
+00:08:25,159 --> 00:08:27,151
+She's bouncing back.
+We have...
+
+164
+00:08:28,147 --> 00:08:30,593
+certain rules.
+It was her idea. Are you gonna
+
+165
+00:08:30,983 --> 00:08:32,636
+tell me what this is all about?
+
+166
+00:08:34,499 --> 00:08:36,866
+Her car was found at the bottom
+of a cliff this morning.
+
+167
+00:08:37,058 --> 00:08:38,434
+So someone stole her car.
+
+168
+00:08:39,012 --> 00:08:40,644
+That's what we're here to find out.
+
+169
+00:08:44,734 --> 00:08:46,855
+Aubrey,
+there are people here to see you.
+
+170
+00:08:54,880 --> 00:08:56,017
+We have a deal.
+
+171
+00:08:56,603 --> 00:08:57,997
+I don't understand.
+
+172
+00:09:00,399 --> 00:09:01,540
+What is this?
+
+173
+00:09:01,782 --> 00:09:03,042
+What haven't you told me?
+
+174
+00:09:04,045 --> 00:09:07,171
+I'm sorry, Mr. Darva, but the driver
+of the car had been in a shooting.
+
+175
+00:09:08,123 --> 00:09:09,295
+Oh, my God.
+
+176
+00:09:20,639 --> 00:09:22,091
+BOLO's out on Aubrey Darva?
+
+177
+00:09:22,133 --> 00:09:25,274
+Eric's checking a number she called
+every day for the last 6 months.
+
+178
+00:09:25,316 --> 00:09:27,348
+Perfect. Thanks.
+Got something...
+
+179
+00:09:27,699 --> 00:09:30,511
+Police report on the break-ins
+in the neighborhood. I have ten.
+
+180
+00:09:30,664 --> 00:09:32,679
+All high-end houses, all unsolved.
+
+181
+00:09:32,832 --> 00:09:35,117
+Nine of those addresses
+are in Aubrey's phone.
+
+182
+00:09:35,551 --> 00:09:36,784
+She knows the victims.
+
+183
+00:09:36,868 --> 00:09:39,963
+You think she's mixed-up with a break-in
+crew? Supplying them with targets?
+
+184
+00:09:40,005 --> 00:09:43,274
+She would know their habits, schedules,
+maybe even their security systems.
+
+185
+00:09:43,649 --> 00:09:45,829
+How does this tie
+in to Midshipman Roth?
+
+186
+00:09:46,051 --> 00:09:48,547
+Maybe Roth stumbles onto the ring
+tries to be a hero.
+
+187
+00:09:48,699 --> 00:09:51,465
+Or he's part of the ring, and infighting
+gets he and Aubrey popped.
+
+188
+00:09:51,617 --> 00:09:54,301
+- Except Aubrey doesn't need money.
+- That's not quite true.
+
+189
+00:09:54,488 --> 00:09:55,918
+She's been in drug rehab,
+
+190
+00:09:56,105 --> 00:09:59,462
+and her stepfather's tied
+her sizable allowance to her recovery.
+
+191
+00:09:59,802 --> 00:10:02,193
+Maybe she's relapsing,
+needs cash to buy drugs.
+
+192
+00:10:02,392 --> 00:10:04,770
+- You pulled her file?
+- Sure, but I knew that already.
+
+193
+00:10:05,799 --> 00:10:08,732
+What? I enjoy my juicy celebrity gossip
+as much as the next guy.
+
+194
+00:10:08,952 --> 00:10:12,236
+It's hard to believe a guy like Roth
+would be tied up in a break-in crew.
+
+195
+00:10:12,456 --> 00:10:14,822
+If he was, his shipmates would know.
+
+196
+00:10:15,917 --> 00:10:17,426
+Nice door stamp.
+
+197
+00:10:19,345 --> 00:10:20,953
+I'm here because I went to a club?
+
+198
+00:10:21,037 --> 00:10:23,056
+You're here
+because your buddy didn't come home.
+
+199
+00:10:23,710 --> 00:10:24,957
+Brian didn't come home?
+
+200
+00:10:25,528 --> 00:10:27,638
+<i>Maybe he's still with that girl.</i>
+
+201
+00:10:27,778 --> 00:10:28,669
+<i>Sorry.</i>
+
+202
+00:10:28,821 --> 00:10:29,712
+<i>He's dead?</i>
+
+203
+00:10:30,778 --> 00:10:32,114
+<i>I don't believe it.</i>
+
+204
+00:10:33,884 --> 00:10:36,040
+Roth was a guy
+who was gonna live forever.
+
+205
+00:10:37,463 --> 00:10:38,624
+Lieutenant Perfect.
+
+206
+00:10:38,905 --> 00:10:40,393
+What did you do yesterday?
+
+207
+00:10:41,249 --> 00:10:43,487
+We threw Brian a birthday bash.
+
+208
+00:10:43,932 --> 00:10:45,772
+His birthday's not till June.
+
+209
+00:10:46,141 --> 00:10:48,403
+L.A. beats a port call in Yemen
+for fun, okay?
+
+210
+00:10:48,960 --> 00:10:51,678
+We deploy in two weeks.
+Roth's a card nut, so...
+
+211
+00:10:52,130 --> 00:10:53,819
+we spent the afternoon
+playing poker.
+
+212
+00:10:54,003 --> 00:10:55,362
+Then we go to Balm, and
+
+213
+00:10:55,692 --> 00:10:57,323
+Brian hooks up with this hot babe.
+
+214
+00:10:57,408 --> 00:10:59,325
+I mean fantasy island hot.
+
+215
+00:11:00,021 --> 00:11:02,329
+- And he leaves with her.
+- That piss you off?
+
+216
+00:11:02,578 --> 00:11:03,613
+You kidding me?
+
+217
+00:11:03,870 --> 00:11:05,605
+I wanted to hear his stories.
+
+218
+00:11:05,647 --> 00:11:07,667
+I mean, ten months at sea,
+
+219
+00:11:07,854 --> 00:11:10,526
+you want to hear tales like
+that and know they're real.
+
+220
+00:11:11,287 --> 00:11:12,928
+I can't believe he's gone.
+
+221
+00:11:14,919 --> 00:11:16,818
+You see fantasy island in here?
+
+222
+00:11:19,360 --> 00:11:20,298
+That's her.
+
+223
+00:11:21,411 --> 00:11:22,473
+Is she famous?
+
+224
+00:11:23,017 --> 00:11:24,059
+Trying to be.
+
+225
+00:11:25,038 --> 00:11:26,268
+And she's missing.
+
+226
+00:11:27,889 --> 00:11:30,127
+- What do you know about that?
+- Nothing.
+
+227
+00:11:31,077 --> 00:11:33,275
+She and Roth left the club
+about 11:30.
+
+228
+00:11:33,770 --> 00:11:36,403
+- And Hadley and I headed back to base.
+- Right away?
+
+229
+00:11:39,628 --> 00:11:41,246
+See, that's funny.
+
+230
+00:11:41,691 --> 00:11:43,449
+Because if that was true,
+
+231
+00:11:43,491 --> 00:11:45,537
+you'd have made it
+to Point Mugu by 1:00 a.m.
+
+232
+00:11:45,758 --> 00:11:47,581
+But you didn't check in until 4:00.
+
+233
+00:11:48,274 --> 00:11:50,167
+We went for a swim in Santa Monica.
+
+234
+00:11:51,095 --> 00:11:52,736
+That Ferris wheel has great lights.
+
+235
+00:11:53,006 --> 00:11:54,296
+Were they still on?
+
+236
+00:11:57,166 --> 00:11:59,217
+You kind of walked into that.
+
+237
+00:12:00,722 --> 00:12:02,738
+Your buddy's dead,
+his girl's missing
+
+238
+00:12:02,780 --> 00:12:05,679
+and this hole in your timeline
+does not look good.
+
+239
+00:12:06,151 --> 00:12:08,506
+So, did you follow them
+from the club?
+
+240
+00:12:09,395 --> 00:12:12,106
+- Have you ever robbed a house?
+- No. What's that have to do?
+
+241
+00:12:12,190 --> 00:12:13,565
+Where's Aubrey Darva?
+
+242
+00:12:13,650 --> 00:12:16,094
+- I told you, I don't know.
+- Where'd you go after Balm?
+
+243
+00:12:21,122 --> 00:12:24,096
+Hadley's scared like something went down
+and Tyre told him to keep quiet.
+
+244
+00:12:24,138 --> 00:12:27,468
+Tyre is Roth's shipmate, not his friend.
+Never used his first name.
+
+245
+00:12:27,609 --> 00:12:30,621
+Thanks, Eric.
+The phone Aubrey calls every day
+
+246
+00:12:30,875 --> 00:12:33,627
+belongs to her rehab sponsor.
+I'll give him a call.
+
+247
+00:12:33,711 --> 00:12:35,212
+These aren't our shooters?
+
+248
+00:12:35,481 --> 00:12:38,152
+I doubt it. They both seem
+genuinely surprised Roth's dead.
+
+249
+00:12:38,761 --> 00:12:41,009
+There's nothing
+that doesn't belong here.
+
+250
+00:12:41,690 --> 00:12:43,951
+No stolen watches, no jewelry.
+
+251
+00:12:44,449 --> 00:12:46,098
+No thick wad of cash.
+
+252
+00:12:46,832 --> 00:12:50,253
+You don't go to Annapolis to blow it all
+by falling in with some break-in crew.
+
+253
+00:12:51,071 --> 00:12:52,813
+What are these guys hiding?
+
+254
+00:12:53,016 --> 00:12:55,342
+Maybe they know more about
+what happened to Aubrey.
+
+255
+00:12:56,994 --> 00:12:59,596
+The longer she's missing,
+less likely we find her alive.
+
+256
+00:13:00,815 --> 00:13:01,869
+What do you have?
+
+257
+00:13:02,420 --> 00:13:05,490
+This is the audio from the SOS system
+in Aubrey's Mercedes.
+
+258
+00:13:05,532 --> 00:13:08,080
+Picked up Roth saying something
+over and over.
+
+259
+00:13:08,353 --> 00:13:10,581
+His voice is super weak,
+but here's what I got.
+
+260
+00:13:16,749 --> 00:13:18,755
+Something, something, "king".
+
+261
+00:13:19,034 --> 00:13:20,393
+Definitely "king".
+
+262
+00:13:20,862 --> 00:13:23,302
+You don't waste your dying words.
+He's saying who shot him.
+
+263
+00:13:23,641 --> 00:13:26,090
+It sounds like "club".
+It's a "Club King".
+
+264
+00:13:26,260 --> 00:13:28,111
+"Club" could be "Balm".
+
+265
+00:13:28,849 --> 00:13:30,208
+"King" could be a person.
+
+266
+00:13:30,250 --> 00:13:31,650
+Or it could be a kingpin.
+
+267
+00:13:31,800 --> 00:13:33,352
+There's lots of those at Balm.
+
+268
+00:13:33,494 --> 00:13:36,190
+And Roth left with Aubrey.
+Maybe she was somebody else's girl.
+
+269
+00:13:36,377 --> 00:13:39,121
+Making jealousy a possible motive
+for shooting him.
+
+270
+00:13:39,851 --> 00:13:41,837
+Let me see the security footage
+from Balm.
+
+271
+00:13:41,879 --> 00:13:42,910
+There is none.
+
+272
+00:13:43,589 --> 00:13:46,450
+- They won't hand it over?
+- None to hand over. No cameras.
+
+273
+00:13:46,718 --> 00:13:50,081
+That's why it's so popular with the rich
+and infamous. Nobody's watching.
+
+274
+00:13:50,123 --> 00:13:52,972
+And forget about interviewing witnesses,
+even if something happened,
+
+275
+00:13:53,014 --> 00:13:55,876
+- everybody's looking the other way.
+- The clock's ticking for the girl.
+
+276
+00:13:56,171 --> 00:13:57,586
+If she's still alive.
+
+277
+00:13:58,128 --> 00:13:59,499
+Then we're going clubbing.
+
+278
+00:14:03,323 --> 00:14:05,608
+If some kingpin at the club
+had Roth shot,
+
+279
+00:14:05,650 --> 00:14:07,917
+it supports Nate's theory
+his bunkmates didn't do it.
+
+280
+00:14:07,959 --> 00:14:10,709
+They haven't told us where they went.
+We'll have to stay on them.
+
+281
+00:14:10,885 --> 00:14:12,476
+What do you say, Sam?
+
+282
+00:14:12,560 --> 00:14:16,110
+You want a swanky night in a hot club,
+or sweating Navy guys in a cold room?
+
+283
+00:14:17,008 --> 00:14:19,483
+This is a fantastic plan,
+but you don't just waltz
+
+284
+00:14:19,567 --> 00:14:20,981
+into Balm, okay?
+
+285
+00:14:21,023 --> 00:14:24,404
+I get in on a connection I've developed,
+maybe Kensi gets in 'cause she's hot.
+
+286
+00:14:24,489 --> 00:14:26,564
+Don't make it weird.
+But you...
+
+287
+00:14:26,606 --> 00:14:28,015
+- only one way in.
+- Money.
+
+288
+00:14:28,057 --> 00:14:30,244
+A lot of it. I'll arrange that,
+be ready to pay.
+
+289
+00:14:30,519 --> 00:14:32,538
+- How much?
+- Guys drop 30 grand a night.
+
+290
+00:14:35,047 --> 00:14:37,084
+Why don't you go ask Hetty for that?
+
+291
+00:14:38,092 --> 00:14:39,510
+I'll go do that.
+
+292
+00:14:43,755 --> 00:14:45,349
+I'll go. I'll go ask her.
+
+293
+00:14:57,409 --> 00:14:59,773
+What can I do for you, Mr. Deeks?
+
+294
+00:15:01,171 --> 00:15:03,479
+I've been sent to ask for funds
+to get into a nightclub
+
+295
+00:15:03,521 --> 00:15:05,870
+undercover
+in an attempt to identify Roth
+
+296
+00:15:05,912 --> 00:15:07,739
+and possibly Aubrey Darva's killer.
+
+297
+00:15:10,106 --> 00:15:12,309
+That's uncharacteristically
+formal speech.
+
+298
+00:15:12,351 --> 00:15:14,852
+You must be asking
+for a lot of money.
+
+299
+00:15:22,890 --> 00:15:24,665
+Listen, here's the deal, okay?
+
+300
+00:15:25,293 --> 00:15:28,562
+The only way I get us all in
+is if I sell Callen as a big spender.
+
+301
+00:15:28,604 --> 00:15:30,741
+He needs to flash
+one of those credit cards
+
+302
+00:15:30,783 --> 00:15:32,764
+with a no-questions-asked
+kind of limit.
+
+303
+00:15:39,515 --> 00:15:40,886
+How about this?
+
+304
+00:15:55,202 --> 00:15:57,170
+$50,000 limit.
+
+305
+00:15:57,212 --> 00:15:58,123
+However,
+
+306
+00:16:00,116 --> 00:16:04,109
+if more than $5,000 is charged
+to this card,
+
+307
+00:16:04,503 --> 00:16:07,116
+I will come for you
+with my letter opener.
+
+308
+00:16:07,158 --> 00:16:08,800
+Is that clear, Mr. Deeks?
+
+309
+00:16:10,346 --> 00:16:11,225
+Got it.
+
+310
+00:16:11,267 --> 00:16:12,271
+Wait. What?
+
+311
+00:16:12,424 --> 00:16:15,189
+You want me to sign this?
+
+312
+00:16:15,400 --> 00:16:18,494
+'Cause it's... it's Cal...
+It's Callen's card.
+
+313
+00:16:19,009 --> 00:16:20,779
+And you're the guarantor.
+
+314
+00:16:23,597 --> 00:16:24,804
+Your credit card.
+
+315
+00:16:25,852 --> 00:16:27,704
+$50,000 limit.
+
+316
+00:16:28,278 --> 00:16:30,610
+Backstopped in the name
+of Ivan Kolvak.
+
+317
+00:16:36,503 --> 00:16:37,663
+Wardrobe.
+
+318
+00:16:42,890 --> 00:16:45,462
+- There's a trick somewhere.
+- It's got to be a trick.
+
+319
+00:16:45,546 --> 00:16:47,631
+No trick. Just asked nicely.
+
+320
+00:16:50,166 --> 00:16:54,045
+Deeks talked you into handing over
+a card with a $50,000 limit?
+
+321
+00:16:54,847 --> 00:16:56,019
+Really?
+
+322
+00:16:56,886 --> 00:16:58,445
+Do you remember Rio?
+
+323
+00:16:58,487 --> 00:17:00,522
+That vicuña suit you wore.
+
+324
+00:17:01,378 --> 00:17:02,760
+It cost ten grand.
+
+325
+00:17:03,042 --> 00:17:04,671
+The cops hate Deeks.
+
+326
+00:17:05,754 --> 00:17:06,942
+In Miami,
+
+327
+00:17:07,208 --> 00:17:09,083
+you nearly scuttled
+
+328
+00:17:09,446 --> 00:17:12,575
+a Feretti yacht of an Omani Prince.
+
+329
+00:17:13,225 --> 00:17:15,487
+He's a lousy liaison, and
+
+330
+00:17:16,161 --> 00:17:18,537
+yet I get the sense
+he isn't temporary.
+
+331
+00:17:18,755 --> 00:17:22,212
+The repairs ale cost more
+than the limit on that credit card.
+
+332
+00:17:23,307 --> 00:17:26,003
+I'm not complaining
+that you gave him the money.
+
+333
+00:17:26,425 --> 00:17:27,983
+How could you, Mr. Callen?
+
+334
+00:17:28,311 --> 00:17:29,673
+I gave you the card.
+
+335
+00:17:30,433 --> 00:17:32,367
+You don't want him as a liaison.
+
+336
+00:17:33,838 --> 00:17:35,178
+You want him as an agent.
+
+337
+00:17:36,606 --> 00:17:39,184
+If they play Lady Gaga tonight
+
+338
+00:17:39,594 --> 00:17:41,657
+dance one for me, would you?
+
+339
+00:18:03,968 --> 00:18:05,333
+Ivan Kolvak and party.
+
+340
+00:18:05,611 --> 00:18:06,793
+Back of the line.
+
+341
+00:18:08,253 --> 00:18:10,330
+Sorry. We were told
+that we were on the list.
+
+342
+00:18:10,372 --> 00:18:11,506
+Not on the list.
+
+343
+00:18:12,349 --> 00:18:15,090
+- Back of the line.
+- No, it's okay, Jesse. They're with me.
+
+344
+00:18:15,360 --> 00:18:17,235
+You should have said something.
+
+345
+00:18:17,598 --> 00:18:19,331
+- All right, brother.
+- Thanks, man.
+
+346
+00:18:19,373 --> 00:18:21,125
+- Come on in.
+- Thanks.
+
+347
+00:18:32,221 --> 00:18:33,932
+- Tim, baby!
+- There she is.
+
+348
+00:18:35,256 --> 00:18:38,232
+- So, this is your friend...
+- Ivan Kolvak.
+
+349
+00:18:38,492 --> 00:18:40,963
+Dad runs the Russian oil business,
+you know.
+
+350
+00:18:41,825 --> 00:18:43,586
+Well, Ivan, I am Sapphire.
+
+351
+00:18:43,831 --> 00:18:45,540
+Anything you need, you ask me.
+
+352
+00:18:45,789 --> 00:18:48,293
+I have you at the best table
+in the house with a lot
+
+353
+00:18:48,378 --> 00:18:49,961
+of lovely ladies that are excited
+
+354
+00:18:50,046 --> 00:18:51,838
+- to meet you.
+- That's great.
+
+355
+00:18:51,922 --> 00:18:53,298
+You'd like to open a tab?
+
+356
+00:18:57,939 --> 00:18:59,193
+God, I love this job.
+
+357
+00:18:59,791 --> 00:19:00,892
+I can see why.
+
+358
+00:19:03,471 --> 00:19:05,268
+She looks like a high-class madam.
+
+359
+00:19:05,459 --> 00:19:07,360
+Except for sex is optional.
+
+360
+00:19:07,939 --> 00:19:09,554
+It's the scene.
+What can I say?
+
+361
+00:19:09,596 --> 00:19:11,225
+She called you Tim.
+
+362
+00:19:11,799 --> 00:19:12,859
+Been here before?
+
+363
+00:19:12,943 --> 00:19:14,638
+- Undercover.
+- Hers?
+
+364
+00:19:15,481 --> 00:19:17,489
+God, you're like a bull
+instead of a tiger.
+
+365
+00:19:18,243 --> 00:19:20,423
+You charge on in there.
+Thank you, darling
+
+366
+00:19:21,744 --> 00:19:22,787
+Ladies.
+
+367
+00:19:30,661 --> 00:19:32,067
+I don't believe it.
+
+368
+00:19:32,970 --> 00:19:35,215
+My twelve o'clock...
+Aubrey Darva
+
+369
+00:19:35,853 --> 00:19:36,942
+Alive.
+
+370
+00:19:42,051 --> 00:19:43,469
+And well enough to party.
+
+371
+00:19:55,566 --> 00:19:57,780
+Our victim just became our suspect.
+
+372
+00:19:59,210 --> 00:20:01,402
+This place is a who's who.
+
+373
+00:20:01,444 --> 00:20:02,755
+Of who's bad.
+
+374
+00:20:04,244 --> 00:20:06,763
+Aubrey was speaking
+to that scrawny guy over there.
+
+375
+00:20:06,805 --> 00:20:08,198
+Mr. Blood Diamond himself.
+
+376
+00:20:08,240 --> 00:20:11,081
+And now she's talking to A.J. Madjan,
+the mad Armenian.
+
+377
+00:20:11,570 --> 00:20:13,551
+Guy like
+that will kill over an insult.
+
+378
+00:20:13,593 --> 00:20:15,367
+Or a girl like Aubrey.
+
+379
+00:20:16,179 --> 00:20:19,566
+Any one of them could have passed
+as a club king to Roth.
+
+380
+00:20:20,450 --> 00:20:22,512
+The question is,
+what does Aubrey know?
+
+381
+00:20:23,508 --> 00:20:24,868
+Time to find out.
+
+382
+00:20:28,372 --> 00:20:31,222
+- I'm gonna call you Fern, okay?
+- Don't you dare call me Fern.
+
+383
+00:20:31,264 --> 00:20:33,703
+Fern, baby girl.
+It's been a long time.
+
+384
+00:20:33,745 --> 00:20:35,799
+- I'm not interested.
+- Come on. Trust me.
+
+385
+00:20:35,841 --> 00:20:38,932
+I got E, shabu, all the coke you can
+sink your pretty little face in.
+
+386
+00:20:38,974 --> 00:20:39,973
+I said no!
+
+387
+00:20:47,896 --> 00:20:49,956
+I don't believe
+the jerks in this place.
+
+388
+00:20:50,598 --> 00:20:52,998
+Sorry. I don't mean you.
+It's just...
+
+389
+00:20:53,574 --> 00:20:55,337
+Haven't been here since I...
+
+390
+00:20:56,935 --> 00:20:59,251
+You know, good job saying no.
+
+391
+00:21:02,090 --> 00:21:04,040
+He was a friend.
+Used to be.
+
+392
+00:21:05,787 --> 00:21:08,037
+You don't really need
+to know all this stuff.
+
+393
+00:21:08,079 --> 00:21:09,059
+It's okay.
+
+394
+00:21:09,253 --> 00:21:12,511
+You have to dump friends
+who don't get it
+
+395
+00:21:13,017 --> 00:21:14,765
+and make new ones who do.
+
+396
+00:21:16,574 --> 00:21:17,774
+I haven't made
+
+397
+00:21:18,143 --> 00:21:19,843
+a friend sober since...
+
+398
+00:21:21,208 --> 00:21:22,671
+since I was pretty young.
+
+399
+00:21:27,792 --> 00:21:28,742
+I'm Fern.
+
+400
+00:21:29,478 --> 00:21:30,328
+Aubrey.
+
+401
+00:21:32,876 --> 00:21:34,726
+I thought I recognized you.
+
+402
+00:21:35,292 --> 00:21:38,779
+"L.A. story" I guess. You go for coffee,
+and there's Zoe Saldana.
+
+403
+00:21:40,406 --> 00:21:41,800
+Can you tell I'm from Iowa?
+
+404
+00:21:41,884 --> 00:21:43,592
+No. No, no. I get it.
+
+405
+00:21:44,072 --> 00:21:45,822
+I saw Jeremy Piven today.
+
+406
+00:21:46,377 --> 00:21:49,409
+I don't know why,
+but that man just...
+
+407
+00:21:50,390 --> 00:21:51,643
+He does it for me.
+
+408
+00:21:52,495 --> 00:21:53,295
+Where?
+
+409
+00:21:53,416 --> 00:21:54,166
+When?
+
+410
+00:21:54,521 --> 00:21:57,421
+At the spa.
+A friend took me for my six months.
+
+411
+00:21:58,144 --> 00:21:59,494
+Six months clean.
+
+412
+00:22:01,044 --> 00:22:03,394
+You'll make it, Fern.
+Hang in there.
+
+413
+00:22:06,418 --> 00:22:08,318
+Fern... that was your doing?
+
+414
+00:22:08,670 --> 00:22:09,379
+Yep.
+
+415
+00:22:09,644 --> 00:22:11,494
+Kensi is going to kill you.
+
+416
+00:22:12,181 --> 00:22:15,120
+I tell you what, that Aubrey doesn't
+look like she killed anybody last night.
+
+417
+00:22:15,484 --> 00:22:19,334
+So either she doesn't know about Roth
+or her car, or she is ice-cold.
+
+418
+00:22:20,505 --> 00:22:23,216
+Sapphire said this stuff
+is a thousand dollars a bottle.
+
+419
+00:22:23,675 --> 00:22:24,475
+Right.
+
+420
+00:22:28,559 --> 00:22:30,682
+Hetty cut a side deal with you,
+didn't she?
+
+421
+00:22:30,766 --> 00:22:32,198
+That's how you got the card.
+
+422
+00:22:33,551 --> 00:22:34,301
+Yeah.
+
+423
+00:22:34,748 --> 00:22:36,548
+So, what's your limit, 15?
+
+424
+00:22:37,869 --> 00:22:38,578
+Ten?
+
+425
+00:22:40,484 --> 00:22:41,693
+Come on, five?
+
+426
+00:22:45,287 --> 00:22:49,200
+I'm supposed to look like I can spend
+50, and you're on the hook after five?
+
+427
+00:22:49,284 --> 00:22:51,563
+She threatened me
+with a letter opener.
+
+428
+00:22:53,180 --> 00:22:55,331
+I guess some people got
+to learn the hard way.
+
+429
+00:22:56,451 --> 00:22:57,951
+Why? What are you...
+
+430
+00:22:59,365 --> 00:23:01,405
+- We'll take two more bottles.
+- Okay.
+
+431
+00:23:01,447 --> 00:23:04,299
+No, she's... Okay, see you.
+Listen, no, no.
+
+432
+00:23:04,709 --> 00:23:06,593
+We're good. We're done.
+He was...
+
+433
+00:23:06,677 --> 00:23:08,627
+That was a joke.
+He's funny.
+
+434
+00:23:10,719 --> 00:23:11,973
+What do you have, Sam?
+
+435
+00:23:12,211 --> 00:23:14,620
+Hadley and Tyre...
+they're not our guys.
+
+436
+00:23:14,662 --> 00:23:17,259
+Spent most of their money
+and time with ladies on their laps.
+
+437
+00:23:17,301 --> 00:23:20,607
+Then the club's head geisha
+sent the girls to another table.
+
+438
+00:23:21,239 --> 00:23:23,489
+I'm looking at the head geisha now.
+
+439
+00:23:24,119 --> 00:23:25,653
+Where'd they go after?
+
+440
+00:23:25,926 --> 00:23:27,526
+<i>A house of ill repute.</i>
+
+441
+00:23:28,304 --> 00:23:30,784
+<i>- A cheap one.
+- Callen, interrupting here.</i>
+
+442
+00:23:30,868 --> 00:23:33,013
+- <i>I got something.</i>
+- What is it, Eric?
+
+443
+00:23:33,055 --> 00:23:35,512
+<i>Aubrey isn't the only
+common factor in the break-ins</i>.
+
+444
+00:23:35,554 --> 00:23:38,854
+<i>The more recent victims
+had credit card charges at Balm.</i>
+
+445
+00:23:38,896 --> 00:23:40,418
+Any activity on my card here?
+
+446
+00:23:40,502 --> 00:23:42,378
+Yeah,
+they looked at your credit limit.
+
+447
+00:23:43,390 --> 00:23:45,858
+That's a great way to figure out
+if someone's worth robbing.
+
+448
+00:23:46,662 --> 00:23:48,633
+Find out just how close they looked,
+Eric.
+
+449
+00:23:48,675 --> 00:23:49,725
+<i>Roger that.</i>
+
+450
+00:23:50,762 --> 00:23:53,059
+Sometimes I just get so
+
+451
+00:23:53,313 --> 00:23:54,808
+over being famous.
+
+452
+00:23:55,059 --> 00:23:57,009
+Do you ever date normal guys?
+
+453
+00:23:57,370 --> 00:23:59,670
+You know, I met this guy last night.
+
+454
+00:24:00,057 --> 00:24:01,307
+A Navy Officer.
+
+455
+00:24:02,746 --> 00:24:05,819
+- He didn't even know who I was.
+- He liked you for who you are.
+
+456
+00:24:05,935 --> 00:24:06,735
+Crazy?
+
+457
+00:24:08,114 --> 00:24:10,184
+- Can I talk to you?
+- No, Chaz!
+
+458
+00:24:10,226 --> 00:24:12,080
+I told you that I am not talking.
+
+459
+00:24:12,122 --> 00:24:13,660
+What's your problem?
+
+460
+00:24:14,072 --> 00:24:15,480
+It's not your damn business.
+
+461
+00:24:22,436 --> 00:24:25,086
+Guys? <i>Problem...
+someone's grabbed Aubrey.</i>
+
+462
+00:24:25,436 --> 00:24:27,758
+Stay with her, Kens.
+And don't break cover.
+
+463
+00:24:30,494 --> 00:24:32,707
+You think just
+because you're in rehab you can walk?
+
+464
+00:24:32,749 --> 00:24:35,255
+- You're in way too deep!
+- If I had known for a second what...
+
+465
+00:24:38,352 --> 00:24:39,822
+- Leave her alone.
+- Or what?
+
+466
+00:24:39,864 --> 00:24:41,855
+- Smile for the cops.
+- Take care of her.
+
+467
+00:24:46,735 --> 00:24:48,435
+Stay down on the ground!
+
+468
+00:24:48,477 --> 00:24:50,155
+Put your hands behind your head.
+Now!
+
+469
+00:24:53,310 --> 00:24:54,869
+Damn it! Callen?
+
+470
+00:24:55,077 --> 00:24:57,477
+<i>Had to break cover.
+I've lost Aubrey.</i>
+
+471
+00:24:58,299 --> 00:24:59,599
+I got her, Kens.
+
+472
+00:25:03,470 --> 00:25:05,120
+Deeks, south stairwell.
+
+473
+00:25:30,024 --> 00:25:30,987
+Stay back.
+
+474
+00:25:35,677 --> 00:25:37,477
+Drop the gun.
+Let her go.
+
+475
+00:25:41,290 --> 00:25:43,140
+No way, man.
+I'll pop her!
+
+476
+00:25:44,068 --> 00:25:45,126
+I got it, Callen.
+
+477
+00:25:45,641 --> 00:25:47,587
+I'm walking out of here. Now!
+
+478
+00:25:48,199 --> 00:25:49,881
+Need you to move now, Deeks.
+
+479
+00:25:59,995 --> 00:26:01,086
+You okay?
+
+480
+00:26:03,010 --> 00:26:06,660
+- You're not from Iowa, are you?
+- No. And my name's not Fern.
+
+481
+00:26:14,452 --> 00:26:15,302
+Chaz...
+
+482
+00:26:16,389 --> 00:26:17,939
+used to be my dealer.
+
+483
+00:26:18,637 --> 00:26:19,437
+But...
+
+484
+00:26:19,952 --> 00:26:21,287
+the blond guy, he...?
+
+485
+00:26:21,640 --> 00:26:22,690
+He's a cop.
+
+486
+00:26:23,638 --> 00:26:25,041
+You were very convincing.
+
+487
+00:26:25,971 --> 00:26:27,313
+He said you were in too deep.
+
+488
+00:26:28,889 --> 00:26:30,739
+Too deep into what, Aubrey?
+
+489
+00:26:33,260 --> 00:26:34,610
+Had to do with...
+
+490
+00:26:34,949 --> 00:26:37,049
+People getting robbed, didn't it?
+
+491
+00:26:37,514 --> 00:26:38,814
+People you know?
+
+492
+00:26:49,116 --> 00:26:51,316
+Aubrey, if your rehab is for real,
+
+493
+00:26:51,849 --> 00:26:54,449
+I'm sorry we had
+to use it to get to you.
+
+494
+00:26:55,134 --> 00:26:58,741
+It's one of the hardest parts
+of my job... but this is serious.
+
+495
+00:27:04,643 --> 00:27:06,693
+They asked me if I knew people.
+
+496
+00:27:07,833 --> 00:27:08,783
+If I did,
+
+497
+00:27:09,565 --> 00:27:11,847
+I'd tell them about their houses
+
+498
+00:27:12,378 --> 00:27:13,678
+and schedules...
+
+499
+00:27:14,829 --> 00:27:15,829
+et cetera.
+
+500
+00:27:16,205 --> 00:27:19,470
+So you were helping them rob
+your friends in exchange for drugs?
+
+501
+00:27:19,554 --> 00:27:22,354
+Chaz said
+that he sold the info to paparazzi.
+
+502
+00:27:23,833 --> 00:27:25,843
+I should have known better, but...
+
+503
+00:27:27,035 --> 00:27:28,481
+I wanted the drugs.
+
+504
+00:27:29,395 --> 00:27:30,695
+And one morning,
+
+505
+00:27:30,751 --> 00:27:33,474
+I'm on the bathroom floor throwing up,
+and I hear on the radio
+
+506
+00:27:33,516 --> 00:27:36,312
+that the Austins had been robbed,
+and I...
+
+507
+00:27:37,796 --> 00:27:39,196
+I put it together.
+
+508
+00:27:42,024 --> 00:27:43,524
+I'd hit rock bottom.
+
+509
+00:27:45,712 --> 00:27:47,012
+I got in the car
+
+510
+00:27:47,561 --> 00:27:49,974
+and checked into rehab,
+and I have not
+
+511
+00:27:50,519 --> 00:27:51,369
+used...
+
+512
+00:27:52,922 --> 00:27:55,512
+or told those guys a thing since.
+
+513
+00:27:56,899 --> 00:27:59,632
+All I'm saying is that Aubrey
+was between the suspect and Callen.
+
+514
+00:27:59,674 --> 00:28:01,645
+- He should've let me take the shot.
+- Yeah?
+
+515
+00:28:01,687 --> 00:28:03,598
+And your bullet goes through him
+into her.
+
+516
+00:28:03,713 --> 00:28:06,362
+Okay, but he only had,
+like, an inch of the guy's head showing.
+
+517
+00:28:06,404 --> 00:28:08,654
+Which he hit, now, didn't he, Temp?
+
+518
+00:28:11,023 --> 00:28:13,297
+Club used my credit card
+to get personal information.
+
+519
+00:28:13,339 --> 00:28:16,591
+Address, whether or not
+I made payments on alarm systems,
+
+520
+00:28:16,633 --> 00:28:19,297
+whole bunch of stuff. It's actually
+a pretty sophisticated search.
+
+521
+00:28:19,406 --> 00:28:22,456
+Okay, so Aubrey goes sober,
+stops providing intel.
+
+522
+00:28:22,554 --> 00:28:25,730
+So they start skimming info off
+the credit cards. Who ran the card?
+
+523
+00:28:25,772 --> 00:28:27,872
+That'd be your girlfriend, Sapphire.
+
+524
+00:28:29,030 --> 00:28:32,043
+Not my girlfriend. It's actually
+Tim's girlfriend, and sort of.
+
+525
+00:28:32,085 --> 00:28:35,129
+So are we arresting her,
+or should I do my "liaiser" thing?
+
+526
+00:28:36,591 --> 00:28:38,466
+We're solving Roth's murder, Deeks.
+
+527
+00:28:38,638 --> 00:28:40,385
+And that's definitely not a word.
+
+528
+00:28:44,331 --> 00:28:47,331
+So, you left the club with Brian Roth.
+Then what?
+
+529
+00:28:48,939 --> 00:28:50,339
+Drove to my house,
+
+530
+00:28:51,249 --> 00:28:52,499
+and we had sex.
+
+531
+00:28:55,034 --> 00:28:57,983
+He lifted you out of the car,
+your dress got caught on the car door.
+
+532
+00:28:58,123 --> 00:28:58,873
+Yeah.
+
+533
+00:29:00,327 --> 00:29:02,115
+How did you know about that?
+
+534
+00:29:02,394 --> 00:29:03,741
+What happened next?
+
+535
+00:29:05,024 --> 00:29:05,774
+We...
+
+536
+00:29:06,198 --> 00:29:07,298
+fell asleep.
+
+537
+00:29:08,049 --> 00:29:10,334
+He got up,
+I thought to go to the bathroom, but...
+
+538
+00:29:10,932 --> 00:29:14,502
+he was gone when my friend woke me up
+at 8:00 and took me to the spa.
+
+539
+00:29:15,618 --> 00:29:18,381
+- I never even looked for the car.
+- Did he leave a note?
+
+540
+00:29:18,595 --> 00:29:19,304
+No.
+
+541
+00:29:20,356 --> 00:29:21,506
+I was bummed.
+
+542
+00:29:23,345 --> 00:29:24,486
+I actually
+
+543
+00:29:25,124 --> 00:29:26,848
+hoped that he would be there.
+
+544
+00:29:30,597 --> 00:29:32,347
+Can you take me home now?
+
+545
+00:29:34,035 --> 00:29:37,835
+Aubrey puts Brian Roth at the Darva
+mansion until about 1:00 a.m.
+
+546
+00:29:37,912 --> 00:29:41,890
+- Then he drives off the cliff at 2:15.
+- With two bullets in him.
+
+547
+00:29:42,598 --> 00:29:44,948
+So he took a car,
+drove somewhere and got shot.
+
+548
+00:29:45,749 --> 00:29:47,326
+How far could he have gone, Eric?
+
+549
+00:29:49,789 --> 00:29:51,956
+Pretty far.
+No traffic that time of night.
+
+550
+00:29:52,040 --> 00:29:53,790
+Okay, so where did he go?
+
+551
+00:29:55,476 --> 00:29:58,526
+What the hell
+is he mixed-up in that got him shot?
+
+552
+00:29:58,682 --> 00:30:01,549
+Gambling debts?
+His buddies said he played poker.
+
+553
+00:30:02,977 --> 00:30:03,927
+They did.
+
+554
+00:30:05,085 --> 00:30:06,345
+I got to check something.
+
+555
+00:30:25,509 --> 00:30:27,241
+Aubrey, do you have two cell phones?
+
+556
+00:30:27,325 --> 00:30:28,034
+No.
+
+557
+00:30:30,370 --> 00:30:31,670
+Must be Brian's.
+
+558
+00:30:31,899 --> 00:30:33,149
+Battery's dead.
+
+559
+00:30:33,865 --> 00:30:35,562
+He didn't say anything to you?
+
+560
+00:30:35,604 --> 00:30:38,227
+Say he'd be right back,
+could he borrow your car?
+
+561
+00:30:38,269 --> 00:30:40,796
+He just snuck out, leaving his phone,
+and took your Mercedes?
+
+562
+00:30:41,309 --> 00:30:43,159
+Wait, he did say something.
+
+563
+00:30:44,106 --> 00:30:45,968
+He asked me
+if he could raid the fridge.
+
+564
+00:30:46,600 --> 00:30:48,855
+- The fridge?
+- It's in the main house.
+
+565
+00:31:02,678 --> 00:31:03,778
+Fresh paint.
+
+566
+00:31:08,263 --> 00:31:09,363
+Still tacky.
+
+567
+00:31:10,736 --> 00:31:11,486
+Okay.
+
+568
+00:31:11,938 --> 00:31:14,458
+So, if your blood
+is under that paint,
+
+569
+00:31:14,556 --> 00:31:16,427
+it means you were standing here.
+
+570
+00:31:16,653 --> 00:31:17,731
+You got shot.
+
+571
+00:31:18,792 --> 00:31:19,752
+Then what?
+
+572
+00:31:20,264 --> 00:31:22,698
+Roth didn't say, "Club King",
+he said, "King of Clubs".
+
+573
+00:31:22,740 --> 00:31:25,526
+- He got shot over a poker hand?
+- It's not a game, it's the deck.
+
+574
+00:31:25,568 --> 00:31:28,750
+A special deck issued to all the sailors
+and soldiers who went to Iraq.
+
+575
+00:31:28,792 --> 00:31:31,148
+Iraq war fugitive cards.
+Always my lucky deck.
+
+576
+00:31:31,190 --> 00:31:34,225
+Eric, King of Clubs,
+captured or killed or still at large?
+
+577
+00:31:35,807 --> 00:31:37,103
+Hassan Al-Jahiri.
+
+578
+00:31:37,567 --> 00:31:39,146
+One of Saddam's top Generals.
+
+579
+00:31:39,317 --> 00:31:41,774
+- Still at large.
+- He was there yesterday at the house.
+
+580
+00:31:43,151 --> 00:31:45,778
+Roth must have seen him
+and recognized him.
+
+581
+00:31:45,966 --> 00:31:47,601
+And got shot for it.
+
+582
+00:31:48,138 --> 00:31:50,449
+In the car, he wasn't just telling us
+who shot him...
+
+583
+00:31:50,533 --> 00:31:53,327
+He was trying to warn us,
+like a good soldier should.
+
+584
+00:31:53,411 --> 00:31:57,403
+Hey, it says here that Jahiri's been
+advising terrorists via the Internet.
+
+585
+00:31:57,526 --> 00:31:59,813
+He's providing military tactics
+for dozens of attacks
+
+586
+00:31:59,855 --> 00:32:02,563
+over the last few years
+from London to Malaysia.
+
+587
+00:32:02,605 --> 00:32:04,338
+This is one dangerous dude.
+
+588
+00:32:05,150 --> 00:32:06,173
+Okay.
+
+589
+00:32:07,458 --> 00:32:08,884
+Shooter stands here.
+
+590
+00:32:11,215 --> 00:32:13,691
+Let me see
+if he left me any casings.
+
+591
+00:32:36,448 --> 00:32:37,757
+Lost an earring.
+
+592
+00:32:49,009 --> 00:32:50,278
+Ben Darva's Persian.
+
+593
+00:32:50,320 --> 00:32:52,631
+An Iraqi General's
+a strange house guest.
+
+594
+00:32:52,673 --> 00:32:54,388
+Come on, Kensi, pick up.
+
+595
+00:32:54,472 --> 00:32:56,773
+My boyfriend jokes, and he says
+that I shouldn't go out
+
+596
+00:32:56,815 --> 00:32:59,727
+with two earrings because
+I always lose one of them, right?
+
+597
+00:33:00,309 --> 00:33:01,309
+Sorry.
+
+598
+00:33:01,618 --> 00:33:02,605
+That's him.
+
+599
+00:33:02,838 --> 00:33:03,898
+Hey, Ivan.
+
+600
+00:33:04,063 --> 00:33:05,620
+<i>Hey, Kensi, you've got company?</i>
+
+601
+00:33:05,662 --> 00:33:07,276
+Yeah, yeah, that's right.
+
+602
+00:33:07,360 --> 00:33:10,571
+Listen, Roth was shot at the house.
+
+603
+00:33:10,655 --> 00:33:13,407
+Oh, my God, I totally think so, too.
+
+604
+00:33:13,491 --> 00:33:16,673
+By Hassan Al-Jahiri,
+a former Iraqi General.
+
+605
+00:33:16,868 --> 00:33:19,611
+I'm gonna send you his photo
+and information now.
+
+606
+00:33:26,496 --> 00:33:29,590
+Oh, my God, that is hilarious.
+He is so right in my face.
+
+607
+00:33:31,047 --> 00:33:32,385
+Jahiri's in the room.
+
+608
+00:33:32,469 --> 00:33:33,511
+Kensi,
+
+609
+00:33:34,137 --> 00:33:35,116
+<i>Sit tight</i>.
+
+610
+00:33:35,889 --> 00:33:37,014
+I love you.
+
+611
+00:33:39,114 --> 00:33:41,811
+Notice how I didn't tell him
+anything about losing an earring?
+
+612
+00:33:42,943 --> 00:33:45,179
+- Do you have anything diet?
+- Fridge.
+
+613
+00:33:55,485 --> 00:33:56,521
+Nope.
+
+614
+00:33:57,222 --> 00:33:58,346
+No diet.
+
+615
+00:34:01,090 --> 00:34:02,981
+Eric, bring up Kensi's phone.
+
+616
+00:34:07,098 --> 00:34:08,587
+They're looking right at her.
+
+617
+00:34:08,853 --> 00:34:10,554
+Tell me she hasn't been made, Sam.
+
+618
+00:34:10,596 --> 00:34:14,034
+No. He's telling them to burn
+everything with blood on it.
+
+619
+00:34:14,747 --> 00:34:16,949
+Why hasn't she been made?
+You were there yesterday.
+
+620
+00:34:16,991 --> 00:34:18,975
+He must not have seen her, just me.
+
+621
+00:34:20,027 --> 00:34:22,143
+Let's go.
+Eric, brief Hetty.
+
+622
+00:34:23,339 --> 00:34:25,113
+Wait, shouldn't we send in SWAT?
+
+623
+00:34:25,155 --> 00:34:27,214
+We're 15 minutes out,
+SWAT takes at least 20.
+
+624
+00:34:27,256 --> 00:34:29,742
+Besides, we go in hot,
+it lowers her survival chances.
+
+625
+00:34:29,784 --> 00:34:32,153
+We got to get through
+that door without a battering ram.
+
+626
+00:34:35,584 --> 00:34:36,725
+Who are you?
+
+627
+00:34:36,937 --> 00:34:39,452
+Oh, I'm sorry. I'm Fern.
+Nice to meet you.
+
+628
+00:34:40,435 --> 00:34:42,368
+You still in the kitchen, Kensi?
+
+629
+00:34:44,332 --> 00:34:45,980
+- Oh, hi, uncle Steve.
+- Hey.
+
+630
+00:34:46,755 --> 00:34:48,371
+Well, is it...
+
+631
+00:34:48,977 --> 00:34:50,454
+Fern or Kensi?
+
+632
+00:34:51,035 --> 00:34:52,339
+It's Fern Kensi.
+
+633
+00:34:53,912 --> 00:34:55,621
+Aubrey's my sponsor.
+
+634
+00:34:55,663 --> 00:34:59,096
+Oh, oh, I wasn't supposed to say.
+I'm so sorry. I'm sorry. I'm sorry.
+
+635
+00:34:59,180 --> 00:35:01,869
+No. No, no, it's okay.
+He knows about rehab.
+
+636
+00:35:04,396 --> 00:35:05,436
+Well...
+
+637
+00:35:06,325 --> 00:35:07,772
+I lost another earring.
+
+638
+00:35:10,249 --> 00:35:11,484
+Pleasure to meet you.
+
+639
+00:35:12,309 --> 00:35:13,091
+Bye.
+
+640
+00:35:19,523 --> 00:35:22,273
+Both Darva and Jahiri went
+to Harvard.
+
+641
+00:35:22,788 --> 00:35:25,216
+- They were roommates.
+- Look at this, look at this.
+
+642
+00:35:25,258 --> 00:35:28,506
+From 1982. Iran and Iraq
+are at war with each other,
+
+643
+00:35:28,548 --> 00:35:31,244
+Darva was attacked
+by some Iraqi students, and...
+
+644
+00:35:32,117 --> 00:35:33,756
+Jahiri saved his life.
+
+645
+00:35:33,879 --> 00:35:37,718
+And now Darva's returning
+the favor by giving him shelter.
+
+646
+00:35:38,720 --> 00:35:41,133
+- What was that about?
+- Uncle Steve?
+
+647
+00:35:41,569 --> 00:35:44,364
+He's my dad's cousin or something.
+He lives in the main house.
+
+648
+00:35:45,037 --> 00:35:46,842
+You think that he shot Brian?
+
+649
+00:35:47,215 --> 00:35:49,590
+Can you get off the property
+without being seen?
+
+650
+00:35:49,632 --> 00:35:51,267
+Then go, and walk fast.
+
+651
+00:35:51,309 --> 00:35:53,467
+- Yeah, but why?
+- Aubrey, just go.
+
+652
+00:35:56,656 --> 00:35:57,972
+Are you kidding?
+
+653
+00:36:00,269 --> 00:36:02,201
+Oh, give me a break.
+
+654
+00:36:02,384 --> 00:36:05,280
+Guys, why is Kensi going back
+into the lion's den?
+
+655
+00:36:05,566 --> 00:36:08,264
+- Because it's her job.
+- She got Aubrey to safety,
+
+656
+00:36:08,306 --> 00:36:10,130
+now she's got
+to keep eyes on Jahiri.
+
+657
+00:36:10,172 --> 00:36:11,679
+He's a high-level target.
+
+658
+00:36:17,507 --> 00:36:19,999
+Oh, agent Blye.
+Have you found my daughter?
+
+659
+00:36:20,622 --> 00:36:21,754
+Agent Blye?
+
+660
+00:36:22,818 --> 00:36:23,887
+Agent Blye?
+
+661
+00:36:23,976 --> 00:36:25,766
+Aubrey's been missing, Hassan.
+
+662
+00:36:26,582 --> 00:36:28,065
+Aubrey is in her room.
+
+663
+00:36:29,725 --> 00:36:31,134
+And this woman...
+
+664
+00:36:33,096 --> 00:36:34,432
+is a liability.
+
+665
+00:36:38,604 --> 00:36:39,791
+We've lost her.
+
+666
+00:36:40,844 --> 00:36:42,286
+Where's Callen?
+
+667
+00:36:44,863 --> 00:36:46,049
+Closing fast.
+
+668
+00:36:47,288 --> 00:36:49,189
+What's this about?
+You can't do this.
+
+669
+00:36:49,231 --> 00:36:50,328
+It's too late.
+
+670
+00:36:50,764 --> 00:36:52,543
+You know he's going to kill me.
+
+671
+00:36:53,593 --> 00:36:55,857
+Just like he killed the man
+who died in Aubrey's car.
+
+672
+00:36:55,899 --> 00:36:57,423
+You've given him a safe place,
+
+673
+00:36:57,507 --> 00:36:59,893
+and in return, he's been running
+a terrorist operation.
+
+674
+00:36:59,935 --> 00:37:02,934
+No, Jahiri saved my life.
+
+675
+00:37:04,458 --> 00:37:05,973
+I won't let them hurt you.
+
+676
+00:37:06,057 --> 00:37:08,221
+- Good luck with that.
+- Hassan, please!
+
+677
+00:37:08,375 --> 00:37:10,266
+Little league bombing in Guam...
+
+678
+00:37:10,395 --> 00:37:11,424
+his plan.
+
+679
+00:37:11,466 --> 00:37:14,565
+A list of his military exploits
+is on my phone... go check.
+
+680
+00:37:14,649 --> 00:37:16,204
+Pretty big body count.
+
+681
+00:37:21,258 --> 00:37:22,540
+I owed you, Hassan.
+
+682
+00:37:23,335 --> 00:37:24,491
+But this?
+
+683
+00:37:24,776 --> 00:37:26,433
+I'm gonna call the police.
+
+684
+00:37:27,495 --> 00:37:28,245
+Ben.
+
+685
+00:37:30,792 --> 00:37:32,633
+Thank you for the hospitality.
+
+686
+00:37:46,213 --> 00:37:47,743
+Deeks, around back.
+
+687
+00:37:48,057 --> 00:37:49,262
+Get off me!
+
+688
+00:37:49,695 --> 00:37:50,816
+Get off me!
+
+689
+00:38:05,896 --> 00:38:07,647
+<i>I need to talk to your boss.</i>
+
+690
+00:38:11,900 --> 00:38:12,915
+Callen!
+
+691
+00:38:23,789 --> 00:38:24,843
+Turn over!
+
+692
+00:38:50,147 --> 00:38:51,489
+Oh, come on. What?
+
+693
+00:38:52,279 --> 00:38:55,265
+You got some sort of superman double
+back flip where you can dodge bullets?
+
+694
+00:38:55,307 --> 00:38:57,793
+I mean, you can't tell me
+I shouldn't have taken that shot.
+
+695
+00:38:58,656 --> 00:38:59,374
+No.
+
+696
+00:39:00,169 --> 00:39:01,422
+I'm glad you did.
+
+697
+00:39:10,107 --> 00:39:11,140
+May I?
+
+698
+00:39:11,316 --> 00:39:13,349
+Sure, Tim...
+just don't touch the doll.
+
+699
+00:39:15,090 --> 00:39:16,908
+So, Sapphire spilled her guts.
+
+700
+00:39:16,950 --> 00:39:19,042
+The break-in ring involved
+our dealer friends,
+
+701
+00:39:19,084 --> 00:39:21,891
+couple of ex-con B&E guys,
+and Sapphire's club girls
+
+702
+00:39:21,933 --> 00:39:25,066
+that she would use to keep
+the target "busy" at Balm
+
+703
+00:39:25,108 --> 00:39:27,364
+while the crew would break in
+and Rob their house.
+
+704
+00:39:27,448 --> 00:39:30,367
+That's pretty good PR
+for the PD on that bust.
+
+705
+00:39:30,451 --> 00:39:32,161
+Even got a compliment from my boss.
+
+706
+00:39:32,698 --> 00:39:34,413
+That makes you feel
+all gooey inside?
+
+707
+00:39:34,497 --> 00:39:36,399
+Like a warm chocolate chip cookie.
+
+708
+00:39:36,930 --> 00:39:39,752
+You one of those guys who needs
+external validation and coddling?
+
+709
+00:39:39,836 --> 00:39:41,003
+Only from you, Sam.
+
+710
+00:39:41,603 --> 00:39:43,124
+You want to coddle me?
+
+711
+00:39:51,463 --> 00:39:52,782
+How's your stepdad?
+
+712
+00:39:53,696 --> 00:39:55,872
+Uh, well, he just got out
+of surgery.
+
+713
+00:39:56,015 --> 00:39:57,969
+He is still under
+from the anesthesia,
+
+714
+00:39:58,011 --> 00:40:00,606
+- but they think he's going to be okay.
+- Good.
+
+715
+00:40:01,321 --> 00:40:02,700
+You guys are close?
+
+716
+00:40:03,243 --> 00:40:04,543
+Not really.
+
+717
+00:40:04,585 --> 00:40:07,654
+I kind of got dumped on him
+after my mom died.
+
+718
+00:40:08,126 --> 00:40:09,573
+What about your real dad?
+
+719
+00:40:11,826 --> 00:40:14,680
+My mom said
+that she would tell me one day.
+
+720
+00:40:16,024 --> 00:40:18,617
+You know, when I first met
+your stepfather...
+
+721
+00:40:20,363 --> 00:40:22,140
+he worried about you like...
+
+722
+00:40:22,479 --> 00:40:23,677
+like a real dad.
+
+723
+00:40:28,147 --> 00:40:31,036
+I've spent a lot of time
+looking for my real dad...
+
+724
+00:40:33,055 --> 00:40:34,144
+But...
+
+725
+00:40:36,485 --> 00:40:37,957
+Ben's sort of...
+
+726
+00:40:38,909 --> 00:40:40,573
+been that all along.
+
+727
+00:40:42,356 --> 00:40:43,524
+Hasn't he?
+
+728
+00:40:47,026 --> 00:40:50,155
+Bet you the first thing that he wants
+to see when he wakes up is you.
+
+729
+00:40:50,625 --> 00:40:52,347
+Just so he knows you're okay.
+
+730
+00:41:06,036 --> 00:41:08,742
+I haven't seen the bill,
+but if it's over five grand...
+
+731
+00:41:09,022 --> 00:41:10,134
+Go easy on him.
+
+732
+00:41:11,206 --> 00:41:11,958
+Why?
+
+733
+00:41:12,339 --> 00:41:15,650
+The cops hate Deeks.
+He's a lousy liaison.
+
+734
+00:41:15,748 --> 00:41:17,773
+That's not what you wanted him for.
+
+735
+00:41:20,000 --> 00:41:22,136
+You do your homework, don't you?
+
+736
+00:41:23,027 --> 00:41:24,481
+In choosing agents.
+
+737
+00:41:26,425 --> 00:41:28,455
+Deeks didn't end up in this building
+
+738
+00:41:28,497 --> 00:41:31,118
+because we needed some LAPD liaison.
+
+739
+00:41:32,096 --> 00:41:34,116
+You've been watching him
+for a while.
+
+740
+00:41:35,511 --> 00:41:38,559
+There is value in being patient.
+
+741
+00:41:40,223 --> 00:41:42,708
+So, how long did you watch me
+before I joined NCIS?
+
+742
+00:41:43,104 --> 00:41:45,832
+When did G. Callen become
+a blip on your radar?
+
+743
+00:41:46,876 --> 00:41:48,122
+Was it Kiev?
+
+744
+00:41:50,658 --> 00:41:51,743
+Houston?
+
+745
+00:41:54,059 --> 00:41:55,137
+Bogota.
+
+746
+00:41:57,627 --> 00:42:00,332
+Come on, don't tell me
+it was, uh, Jersey City?
+
+747
+00:42:00,825 --> 00:42:01,935
+Peking.
+
+748
+00:42:02,386 --> 00:42:04,196
+You mean, Beijing?
+
+749
+00:42:11,662 --> 00:42:13,108
+Tea, Mr. Callen.
+
+750
+00:42:16,631 --> 00:42:18,484
+It was Jersey City, wasn't it?
+
+751
+00:42:20,114 --> 00:42:21,680
+Gulls are coming in.
+
+752
+00:42:21,925 --> 00:42:25,420
+That means there's gonna be wicked swell
+on the bay by the morning.
+
+753
+00:42:28,069 --> 00:42:29,838
+- You're a surfer, huh?
+- Yeah.
+
+754
+00:42:30,760 --> 00:42:32,340
+Well, surf early.
+
+755
+00:42:32,899 --> 00:42:35,181
+I'm sure Hetty told you
+we start at 9:30.
+
+756
+00:42:37,717 --> 00:42:38,952
+Though...
+
+757
+00:42:39,472 --> 00:42:41,838
+after your liaising today,
+
+758
+00:42:42,435 --> 00:42:44,504
+I'm not sure why we'd have you back.
+
+759
+00:42:44,546 --> 00:42:46,396
+Yeah, I'm not coming in tomorrow.
+
+760
+00:42:48,982 --> 00:42:51,135
+LAPD op I been trying
+to set up for months...
+
+761
+00:42:51,177 --> 00:42:53,841
+All the pieces finally came
+together about an hour ago.
+
+762
+00:42:53,883 --> 00:42:55,499
+Going undercover tonight.
+
+763
+00:42:56,945 --> 00:42:58,058
+For how long?
+
+764
+00:42:58,312 --> 00:43:00,203
+I don't know, cover's pretty deep.
+
+765
+00:43:04,886 --> 00:43:06,311
+Don't worry, Fern.
+
+766
+00:43:07,376 --> 00:43:08,514
+I'll be back.
+
+767
+00:43:14,300 --> 00:43:15,356
+Yeah,...
+
+768
+00:43:15,398 --> 00:43:16,453
+maybe.
+
+769
+00:43:16,495 --> 00:43:18,504
+.: Team UnderCovers :.
+

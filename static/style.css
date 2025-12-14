@@ -1,0 +1,71 @@
+/* Styles personnalisés pour compléter Tailwind */
+body {
+    font-family: 'Inter', sans-serif;
+    background: #0d111c; /* Fond très sombre pour le thème cinéma */
+    color: #ffffff;
+    min-height: 100vh;
+}
+
+/* Dégradé de couleur signature pour les titres et boutons */
+.bg-gradient-pro {
+    background: linear-gradient(135deg, #1d4ed8 0%, #7c3aed 100%); /* Bleu vers Violet */
+}
+
+/* Couleur de fond des cartes (légèrement plus clair que le body) */
+.card-bg {
+    background-color: #161b22; 
+}
+
+/* Styles des champs de saisie */
+.input-bg {
+    background-color: #21262d; 
+    border-color: #30363d;
+}
+
+/* Format standard pour les affiches de séries */
+.serie-card-poster {
+    height: 250px; 
+    width: 100%;
+    object-fit: cover; /* Assure que l'image remplit la zone sans déformation */
+}
+
+/* Badges pour les scores et les notes */
+.score-badge {
+    background-color: #1d4ed8;
+    color: white;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+}
+
+/* Gestion de l'état actif des onglets de navigation */
+.tab-button.active {
+    background: linear-gradient(90deg, #1d4ed8, #7c3aed);
+    color: white;
+    box-shadow: 0 4px 10px rgba(124, 58, 237, 0.4);
+}
+.tab-button:not(.active) {
+    background-color: #21262d;
+    color: #a0aec0;
+    transition: all 0.2s;
+}
+
+/* Effet de texte en dégradé */
+.text-gradient-pro {
+    background: linear-gradient(90deg, #1d4ed8, #7c3aed);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+/* Ajustement responsive des modales */
+.modal-content {
+    max-width: 90%;
+    width: 600px;
+}
+@media (min-width: 768px) {
+    .modal-content {
+        max-width: 800px;
+    }
+}

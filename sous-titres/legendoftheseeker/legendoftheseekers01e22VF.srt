@@ -1,0 +1,2226 @@
+1
+00:00:01,595 --> 00:00:05,163
+Le sourcier
+détient les 3 boîtes d'Orden.
+
+2
+00:00:06,925 --> 00:00:08,633
+Et le Livre des Ombres Recensées.
+
+3
+00:00:12,837 --> 00:00:14,396
+Oui, Cara ?
+
+4
+00:00:16,401 --> 00:00:18,151
+Je regarde autour de moi,
+
+5
+00:00:19,074 --> 00:00:22,593
+et je ne vois aucun de nous
+ramper devant le sourcier,
+
+6
+00:00:23,158 --> 00:00:25,307
+le suppliant d'être commandé.
+
+7
+00:00:26,039 --> 00:00:28,736
+S'il a vraiment le pouvoir d'Orden,
+il l'aurait déjà utilisé.
+
+8
+00:00:29,910 --> 00:00:31,989
+Il a sûrement ses raisons,
+
+9
+00:00:32,273 --> 00:00:34,909
+mais je ne vais pas attendre
+de savoir pourquoi.
+
+10
+00:00:35,576 --> 00:00:37,553
+On le tue. Ce soir.
+
+11
+00:00:38,623 --> 00:00:40,923
+Si vous me l'aviez demandé plus tôt,
+
+12
+00:00:42,041 --> 00:00:43,459
+il serait déjà mort.
+
+13
+00:00:43,957 --> 00:00:45,507
+Dites-nous où il est.
+
+14
+00:00:47,053 --> 00:00:49,553
+Il a été vu
+pour la dernière fois hier,
+
+15
+00:00:49,921 --> 00:00:51,871
+quelque part à West Granthia.
+
+16
+00:00:53,207 --> 00:00:54,807
+Il est quelque part...
+
+17
+00:00:55,490 --> 00:00:57,601
+dans une province
+où se croisent deux rivières,
+
+18
+00:00:57,726 --> 00:01:00,685
+une chaîne de montagnes
+et 600 km de forêt ?
+
+19
+00:01:01,562 --> 00:01:05,231
+Pardonnez-moi, mais mes soeurs et moi
+sommes des mord-sith,
+
+20
+00:01:05,622 --> 00:01:07,122
+pas des magiciennes.
+
+21
+00:01:08,422 --> 00:01:10,122
+Comment le repère-t-on ?
+
+22
+00:01:14,447 --> 00:01:16,821
+Dis-moi, Cara,
+
+23
+00:01:19,140 --> 00:01:20,746
+comment faire
+
+24
+00:01:21,330 --> 00:01:25,585
+pour trouver une aiguille
+dans une meule de foin ?
+
+25
+00:01:26,445 --> 00:01:27,645
+Tu es prête ?
+
+26
+00:01:28,800 --> 00:01:32,216
+À risquer de détruire son âme ?
+Pourquoi ne serais-je pas prête ?
+
+27
+00:01:32,790 --> 00:01:34,940
+Je comprends ta peur, mon enfant,
+
+28
+00:01:35,913 --> 00:01:39,318
+mais il a trouvé le sens
+dans le Livre des Ombres Recensées,
+
+29
+00:01:39,443 --> 00:01:42,435
+et le Livre lui dit
+que seul le toucher d'une inquisitrice
+
+30
+00:01:42,603 --> 00:01:45,453
+peut tempérer
+le sombre pouvoir d'Orden.
+
+31
+00:01:46,441 --> 00:01:50,231
+Le sourcier ne serait asservi
+ni par l'amour, ni par le mal.
+
+32
+00:01:50,908 --> 00:01:54,153
+Il pourra finalement
+accomplir la prophétie,
+
+33
+00:01:54,748 --> 00:01:56,736
+et tuer Darken Rahl.
+
+34
+00:02:00,962 --> 00:02:02,012
+Et si...
+
+35
+00:02:03,336 --> 00:02:04,936
+Et si on se trompait ?
+
+36
+00:02:05,831 --> 00:02:07,334
+Et si c'était un piège ?
+
+37
+00:02:07,827 --> 00:02:10,045
+Tu as toujours cru en lui,
+
+38
+00:02:10,336 --> 00:02:13,786
+même avant de connaître son sourire,
+et le son de sa voix.
+
+39
+00:02:14,176 --> 00:02:17,052
+Et cette foi a été récompensée
+sans cesse.
+
+40
+00:02:18,597 --> 00:02:20,306
+Il n'est plus temps de la perdre.
+
+41
+00:02:28,731 --> 00:02:29,831
+Ça va aller.
+
+42
+00:04:00,556 --> 00:04:02,715
+Inutile de lutter, inquisitrice.
+
+43
+00:04:03,301 --> 00:04:04,910
+Votre sorcier est mort.
+
+44
+00:04:07,463 --> 00:04:08,688
+Et le sourcier
+
+45
+00:04:09,260 --> 00:04:10,332
+n'est plus.
+
+46
+00:04:15,395 --> 00:04:16,505
+1x22 - <i>Reckoning</i>
+
+47
+00:04:29,186 --> 00:04:32,486
+Un tel ornement
+autour d'un si joli cou.
+
+48
+00:04:32,830 --> 00:04:35,900
+Malheureusement, je ne peux risquer
+d'ôter le rada'han,
+
+49
+00:04:36,327 --> 00:04:39,127
+mais je peux le rendre
+digne de votre beauté.
+
+50
+00:04:46,981 --> 00:04:48,954
+Que me voulez-vous ?
+
+51
+00:04:49,563 --> 00:04:51,063
+Votre compréhension.
+
+52
+00:04:51,531 --> 00:04:55,231
+Je vous comprends parfaitement.
+Vous prenez ce que vous voulez.
+
+53
+00:04:55,462 --> 00:04:57,012
+C'est faux, Kahlan.
+
+54
+00:04:57,412 --> 00:05:00,112
+Si c'était le cas,
+
+55
+00:05:01,148 --> 00:05:02,927
+vous seriez déjà dans mon lit.
+
+56
+00:05:04,395 --> 00:05:07,806
+Ne vous inquiétez pas,
+je ne poserai pas un doigt sur vous.
+
+57
+00:05:09,089 --> 00:05:10,935
+Avant que vous ne m'y invitiez.
+
+58
+00:05:11,806 --> 00:05:14,019
+Alors, vous attendrez l'éternité.
+
+59
+00:05:14,945 --> 00:05:16,523
+Vous êtes vraiment égoïste.
+
+60
+00:05:17,301 --> 00:05:18,701
+En tant que reine,
+
+61
+00:05:19,361 --> 00:05:22,211
+vous pourriez apporter du confort
+aux malades,
+
+62
+00:05:23,184 --> 00:05:25,631
+reconstruire des villages rasés,
+
+63
+00:05:26,259 --> 00:05:29,119
+créer des foyers
+pour les enfants pauvres,
+
+64
+00:05:29,287 --> 00:05:31,537
+orphelins de cette terrible guerre.
+
+65
+00:05:31,718 --> 00:05:35,623
+Votre sourcier et ses partisans
+m'ont affronté.
+
+66
+00:05:39,795 --> 00:05:42,545
+Vous avez peur
+que même si Richard est mort,
+
+67
+00:05:43,980 --> 00:05:46,470
+les gens croient encore
+en tout ce qu'il représentait.
+
+68
+00:05:47,034 --> 00:05:49,056
+Ils vous blâmeront pour sa mort,
+
+69
+00:05:49,329 --> 00:05:53,022
+et continueront le combat.
+Si vous pensez que je les apaiserais,
+
+70
+00:05:53,147 --> 00:05:55,197
+vous êtes aussi fou que cruel.
+
+71
+00:05:55,484 --> 00:05:58,400
+En effet,
+je veux apaiser leur colère
+
+72
+00:06:00,235 --> 00:06:02,319
+à travers le pouvoir de votre amour.
+
+73
+00:06:04,163 --> 00:06:06,907
+Je préférerais mourir
+plutôt qu'être votre pantin.
+
+74
+00:06:08,926 --> 00:06:11,662
+Peut-être qu'un séjour
+dans un donjon froid et humide,
+
+75
+00:06:12,487 --> 00:06:15,799
+où votre amour et compassion
+ne servira à personne,
+
+76
+00:06:15,924 --> 00:06:17,674
+vous aidera à réfléchir.
+
+77
+00:06:22,421 --> 00:06:25,941
+Et si vous avez encore
+un brin d'espoir,
+
+78
+00:06:26,066 --> 00:06:27,011
+sachez ça :
+
+79
+00:06:27,749 --> 00:06:31,015
+mes sorciers ont examiné l'endroit
+où le sourcier a disparu.
+
+80
+00:06:32,004 --> 00:06:33,414
+Ils ont été unanimes.
+
+81
+00:06:33,539 --> 00:06:36,889
+Personne n'a pu survivre
+à une telle explosion de magie.
+
+82
+00:06:37,153 --> 00:06:38,753
+Vous n'avez pas gagné.
+
+83
+00:06:39,262 --> 00:06:41,650
+Vous avez encore
+de puissants ennemis.
+
+84
+00:06:42,560 --> 00:06:46,179
+Et je les anéantirai un par un.
+
+85
+00:07:10,470 --> 00:07:13,251
+Pourquoi l'appelles-tu
+quand tu m'as moi ?
+
+86
+00:07:20,246 --> 00:07:22,234
+Tu vas mourir, sourcier.
+
+87
+00:07:30,312 --> 00:07:31,312
+Reculez.
+
+88
+00:07:32,035 --> 00:07:33,943
+Ne me dites pas que la grande Shota
+
+89
+00:07:34,068 --> 00:07:36,663
+ne réalise pas
+que sa magie est inutile
+
+90
+00:07:37,242 --> 00:07:38,842
+contre les mord-sith.
+
+91
+00:07:51,305 --> 00:07:52,305
+Merci.
+
+92
+00:08:50,550 --> 00:08:51,822
+On sera des rois.
+
+93
+00:09:12,603 --> 00:09:15,595
+Où est la mère inquisitrice ?
+Le sorcier ?
+
+94
+00:09:16,570 --> 00:09:19,431
+Qui êtes-vous ?
+Où emportiez-vous les boîtes ?
+
+95
+00:09:19,809 --> 00:09:21,709
+Je ne sers d'autre maître...
+
+96
+00:09:23,178 --> 00:09:24,403
+que le Maître.
+
+97
+00:09:25,197 --> 00:09:26,347
+Quel maître ?
+
+98
+00:09:28,751 --> 00:09:30,510
+Maître Rahl.
+
+99
+00:09:35,779 --> 00:09:37,379
+Vous êtes le sourcier.
+
+100
+00:09:39,999 --> 00:09:42,249
+Je vous ai vu une fois à Brennidon.
+
+101
+00:09:42,666 --> 00:09:44,666
+Vous avez chassé les D'Harans.
+
+102
+00:09:45,503 --> 00:09:49,421
+Comment se fait-il
+que tu n'aies pas vieilli ?
+
+103
+00:09:50,348 --> 00:09:52,888
+- Pourquoi aurais-je vieilli ?
+- Je n'étais qu'un enfant,
+
+104
+00:09:53,013 --> 00:09:54,810
+ça fait presque 60 ans.
+
+105
+00:09:57,305 --> 00:10:00,330
+- De quoi parlez-vous ?
+- Vous avez disparu.
+
+106
+00:10:00,808 --> 00:10:02,976
+Et le père du maître
+proclama la victoire.
+
+107
+00:10:03,904 --> 00:10:05,270
+Le père du maître ?
+
+108
+00:10:05,870 --> 00:10:06,980
+Darken Rahl.
+
+109
+00:10:09,970 --> 00:10:13,252
+Le maître qu'ils servent
+est le fils de Darken Rahl ?
+
+110
+00:10:15,059 --> 00:10:18,992
+Il a envoyé ses partisans tuer
+ceux qui refusaient d'être confessés.
+
+111
+00:10:19,924 --> 00:10:22,424
+- C'est un inquisiteur ?
+- Et un tyran.
+
+112
+00:10:22,948 --> 00:10:24,539
+Pire que son père.
+
+113
+00:10:24,849 --> 00:10:26,949
+Rares sont ceux qui ont survécu,
+
+114
+00:10:27,527 --> 00:10:29,878
+qui ont réussi
+à se cacher si longtemps.
+
+115
+00:10:31,532 --> 00:10:33,832
+Kahlan Amnell, la mère inquisitrice,
+
+116
+00:10:34,421 --> 00:10:37,052
+- vous savez où elle est ?
+- La reine Kahlan ?
+
+117
+00:10:38,304 --> 00:10:39,304
+Reine ?
+
+118
+00:10:39,776 --> 00:10:41,265
+La mère du maître.
+
+119
+00:10:43,378 --> 00:10:45,435
+Elle est morte depuis longtemps.
+
+120
+00:10:53,256 --> 00:10:54,736
+Vous êtes de retour.
+
+121
+00:10:54,904 --> 00:10:56,649
+Vous pouvez tuer le maître.
+
+122
+00:10:56,774 --> 00:10:58,624
+Libérer les confessés.
+
+123
+00:11:02,838 --> 00:11:04,138
+Je vous en prie,
+
+124
+00:11:05,491 --> 00:11:06,941
+vous nous aiderez ?
+
+125
+00:11:11,986 --> 00:11:12,986
+Oui.
+
+126
+00:11:15,666 --> 00:11:16,866
+Inquisitrice ?
+
+127
+00:11:20,500 --> 00:11:21,850
+Tu m'entends ?
+
+128
+00:11:25,941 --> 00:11:26,941
+Shota ?
+
+129
+00:11:27,872 --> 00:11:29,522
+J'entends tes sanglots.
+
+130
+00:11:30,291 --> 00:11:31,841
+Pourquoi ces larmes ?
+
+131
+00:11:34,237 --> 00:11:35,787
+Le sourcier est mort.
+
+132
+00:11:37,908 --> 00:11:39,448
+Il n'est pas mort.
+
+133
+00:11:40,792 --> 00:11:41,892
+Où est-il ?
+
+134
+00:11:42,017 --> 00:11:44,286
+Un endroit bien plus lointain.
+
+135
+00:11:44,996 --> 00:11:46,455
+Il est dans le futur.
+
+136
+00:12:34,754 --> 00:12:36,352
+Darken Rahl est mort !
+
+137
+00:12:36,477 --> 00:12:38,924
+Ton intervention
+nous a projetés dans le futur.
+
+138
+00:12:40,806 --> 00:12:43,688
+La pierre qui t'a frappé
+t'a embrumé l'esprit.
+
+139
+00:12:43,813 --> 00:12:47,099
+Regarde, tout a changé.
+Tes soeurs ont disparu.
+
+140
+00:12:47,883 --> 00:12:49,476
+Ces fous qui nous ont attaqués,
+
+141
+00:12:50,528 --> 00:12:53,105
+ils servent un nouveau Rahl,
+un inquisiteur.
+
+142
+00:12:53,511 --> 00:12:56,233
+Ses partisans sont partout,
+tuant les non confessés.
+
+143
+00:12:57,100 --> 00:12:58,443
+Et s'il me veut vivant ?
+
+144
+00:12:59,095 --> 00:13:00,795
+S'il veut me confesser ?
+
+145
+00:13:01,337 --> 00:13:04,542
+À l'instar de Darken Rahl.
+Tu lui déplairais.
+
+146
+00:13:08,753 --> 00:13:09,753
+Debout.
+
+147
+00:13:12,404 --> 00:13:13,704
+Où allons-nous ?
+
+148
+00:13:13,979 --> 00:13:16,979
+Découvrir s'il y a de la vérité
+dans tes paroles.
+
+149
+00:13:23,997 --> 00:13:26,012
+Six doigts à l'ouest de la Lune,
+
+150
+00:13:27,694 --> 00:13:30,572
+les sept soeurs traversent
+la maison de l'agneau,
+
+151
+00:13:30,697 --> 00:13:32,853
+toutes les 627 révolutions.
+
+152
+00:13:38,516 --> 00:13:39,359
+C'est bon.
+
+153
+00:13:40,387 --> 00:13:41,487
+Où est-il ?
+
+154
+00:13:41,612 --> 00:13:42,529
+Pas où,
+
+155
+00:13:43,788 --> 00:13:45,288
+- quand.
+- Dis-moi.
+
+156
+00:13:45,807 --> 00:13:49,107
+Le sourcier réapparaîtra
+sur le site de sa disparition,
+
+157
+00:13:49,553 --> 00:13:51,602
+au lever de la deuxième pleine lune
+
+158
+00:13:51,727 --> 00:13:53,915
+dans la 58e année
+après sa disparition.
+
+159
+00:13:54,636 --> 00:13:56,282
+Cinquante-huit ans.
+
+160
+00:13:59,401 --> 00:14:00,922
+Je serai une vieille femme.
+
+161
+00:14:01,148 --> 00:14:03,467
+Rahl ne te laissera pas vivre
+si longtemps.
+
+162
+00:14:04,373 --> 00:14:06,425
+Si Richard a pu voyager
+vers le futur,
+
+163
+00:14:06,550 --> 00:14:08,850
+il doit y avoir un moyen de revenir.
+
+164
+00:14:09,625 --> 00:14:11,177
+Quoi de plus facile ?
+
+165
+00:14:11,864 --> 00:14:15,437
+Votre sourcier doit recréer
+la collision des mêmes magies.
+
+166
+00:14:15,925 --> 00:14:19,274
+Orden, confession et agiel
+l'ont envoyé dans le futur.
+
+167
+00:14:20,191 --> 00:14:21,791
+Richard est déterminé,
+
+168
+00:14:22,351 --> 00:14:25,001
+intelligent.
+Si quelqu'un peut le faire...
+
+169
+00:14:26,396 --> 00:14:29,596
+Comment trouvera-t-il une inquisitrice
+dans ce sombre futur ?
+
+170
+00:14:29,721 --> 00:14:31,071
+Il ira à Valeria,
+
+171
+00:14:31,738 --> 00:14:33,738
+mes soeurs seront peut-être là.
+
+172
+00:14:34,163 --> 00:14:36,750
+Daken Rahl a déjà réduit Valéria
+en cendre.
+
+173
+00:14:37,311 --> 00:14:40,253
+Il a chassé les dernières inquisitrices
+jusqu'à leur tombe.
+
+174
+00:14:40,421 --> 00:14:42,714
+Tu es la dernière, Kahlan Amnell.
+
+175
+00:14:44,323 --> 00:14:47,511
+Même si Richard trouve
+une inquisitrice,
+
+176
+00:14:47,941 --> 00:14:50,096
+même s'il a l'agiel d'une mord-sith,
+
+177
+00:14:52,190 --> 00:14:53,850
+il ne saurait pas quoi faire.
+
+178
+00:14:54,150 --> 00:14:56,200
+On peut lui envoyer un message.
+
+179
+00:14:56,806 --> 00:14:58,980
+Même sans le joug du rada'han,
+
+180
+00:14:59,244 --> 00:15:02,108
+même si le grand Zeddicus
+n'avait pas péri...
+
+181
+00:15:04,128 --> 00:15:06,821
+il n'y aurait pas
+de magie assez puissante
+
+182
+00:15:06,989 --> 00:15:10,075
+pour envoyer un message
+à travers le granit du temps.
+
+183
+00:15:16,524 --> 00:15:18,424
+La magie n'est pas le moyen.
+
+184
+00:15:19,669 --> 00:15:22,031
+Je suis heureux
+que vous ayez demandé à me voir.
+
+185
+00:15:22,156 --> 00:15:24,381
+Mon mépris ne s'effacera pas.
+
+186
+00:15:25,159 --> 00:15:26,159
+Peut-être.
+
+187
+00:15:27,813 --> 00:15:31,346
+La pleine amnistie des résistants,
+sans exception.
+
+188
+00:15:31,941 --> 00:15:33,932
+Vous serez garante
+de leur reddition.
+
+189
+00:15:35,380 --> 00:15:37,519
+Des lieux de guérison
+dans chaque province.
+
+190
+00:15:39,192 --> 00:15:41,773
+Un foyer pour chaque orphelin
+que vous avez fait.
+
+191
+00:15:42,917 --> 00:15:44,634
+Vous serez ma femme,
+
+192
+00:15:46,176 --> 00:15:47,776
+dans tous ses devoirs.
+
+193
+00:15:50,446 --> 00:15:52,200
+Tant que c'est respecté,
+
+194
+00:15:52,695 --> 00:15:55,595
+j'accepte toutes vos conditions,
+Kahlan Amnell.
+
+195
+00:16:01,573 --> 00:16:03,823
+Je serai donc votre reine.
+
+196
+00:16:07,257 --> 00:16:09,857
+Tu m'as rendu
+si heureux cette année.
+
+197
+00:16:11,523 --> 00:16:14,073
+Bien plus
+que je n'aurais pu l'imaginer.
+
+198
+00:16:16,507 --> 00:16:18,482
+Imagine la clameur du peuple
+
+199
+00:16:19,718 --> 00:16:23,618
+quand leur reine bien-aimée annoncera
+la naissance de notre enfant.
+
+200
+00:16:25,809 --> 00:16:27,359
+J'ai besoin de repos.
+
+201
+00:16:28,964 --> 00:16:29,964
+Bien sûr.
+
+202
+00:16:44,574 --> 00:16:45,575
+Alice,
+
+203
+00:16:46,308 --> 00:16:47,458
+écoute-moi.
+
+204
+00:16:49,673 --> 00:16:51,273
+Qu'y a-t-il, ma dame ?
+
+205
+00:16:51,640 --> 00:16:53,440
+Dès que le bébé sera né...
+
+206
+00:16:54,721 --> 00:16:57,921
+Dès qu'il aura une inquisitrice
+à plier à sa volonté,
+
+207
+00:17:01,949 --> 00:17:03,355
+le seigneur Rahl me tuera.
+
+208
+00:17:04,478 --> 00:17:05,982
+Je ne comprends pas.
+
+209
+00:17:06,814 --> 00:17:09,514
+Tu te souviens
+de notre première rencontre,
+
+210
+00:17:10,703 --> 00:17:13,703
+de notre discussion
+sur le bien-être de mon bébé,
+
+211
+00:17:14,172 --> 00:17:16,034
+- que j'ai scruté tes yeux ?
+- Oui.
+
+212
+00:17:16,955 --> 00:17:18,355
+Même avec ça,
+
+213
+00:17:19,194 --> 00:17:20,594
+sans mes pouvoirs,
+
+214
+00:17:21,868 --> 00:17:23,917
+je sais encore sonder les coeurs.
+
+215
+00:17:24,746 --> 00:17:27,746
+Et j'ai sondé les coeurs
+d'une centaine de filles.
+
+216
+00:17:28,370 --> 00:17:30,270
+Car je devais en trouver une
+
+217
+00:17:31,136 --> 00:17:32,236
+assez forte,
+
+218
+00:17:33,402 --> 00:17:34,502
+assez bonne,
+
+219
+00:17:35,468 --> 00:17:38,515
+et assez brave, pour porter
+le plus important secret de l'Histoire.
+
+220
+00:17:39,576 --> 00:17:41,176
+Vous me faites peur.
+
+221
+00:17:42,407 --> 00:17:44,407
+Mais m'aideras-tu quand même ?
+
+222
+00:17:46,156 --> 00:17:49,150
+Mes parents ont lutté toute leur vie
+pour la résistance.
+
+223
+00:17:50,084 --> 00:17:53,154
+Sans vous,
+ils seraient morts d'horrible façon.
+
+224
+00:17:54,790 --> 00:17:57,784
+Quoi que ce soit,
+la réponse est oui.
+
+225
+00:18:03,218 --> 00:18:04,791
+Le sourcier est vivant.
+
+226
+00:18:06,262 --> 00:18:09,687
+- Où est-il ?
+- Cinquante-sept ans dans le futur.
+
+227
+00:18:10,940 --> 00:18:14,290
+Il y a un moyen pour qu'il s'en sorte,
+mais il l'ignore.
+
+228
+00:18:15,454 --> 00:18:16,302
+Écoute.
+
+229
+00:18:18,629 --> 00:18:20,488
+Tu dois rester en vie,
+
+230
+00:18:21,408 --> 00:18:24,310
+peu importe le prix,
+peu importe qui tu dois blesser,
+
+231
+00:18:24,651 --> 00:18:28,655
+ou trahir, pour que tu dises au sourcier
+quoi faire pour remonter le temps.
+
+232
+00:18:30,321 --> 00:18:31,818
+Et il aura besoin
+
+233
+00:18:32,270 --> 00:18:33,720
+d'une inquisitrice.
+
+234
+00:18:35,802 --> 00:18:36,852
+Mon enfant.
+
+235
+00:18:39,605 --> 00:18:41,745
+C'est pourquoi j'ai accepté
+d'épouser Rahl.
+
+236
+00:18:45,562 --> 00:18:48,912
+Et peu importe le prix
+pour le convaincre de ta loyauté,
+
+237
+00:18:50,051 --> 00:18:51,588
+même si ça signifie me tuer
+
+238
+00:18:52,382 --> 00:18:55,582
+- de tes mains...
+- Ma dame, je ne pourrais jamais...
+
+239
+00:18:56,644 --> 00:18:57,552
+Tu peux.
+
+240
+00:18:58,082 --> 00:18:59,332
+Et tu le feras,
+
+241
+00:18:59,856 --> 00:19:02,515
+si c'est nécessaire
+pour rester près de cet enfant.
+
+242
+00:19:09,584 --> 00:19:12,034
+Tu dois lui dire qui était sa mère,
+
+243
+00:19:13,577 --> 00:19:15,487
+et quel héros était Richard Cypher.
+
+244
+00:19:17,234 --> 00:19:19,031
+Et lui enseigner le nécessaire
+
+245
+00:19:19,156 --> 00:19:22,050
+pour aider le sourcier
+à retourner dans son époque,
+
+246
+00:19:22,175 --> 00:19:24,375
+et sauver le monde de Darken Rahl.
+
+247
+00:19:25,795 --> 00:19:28,595
+Ma dame, je ne suis
+qu'une fille de forgeron.
+
+248
+00:19:30,112 --> 00:19:32,879
+Et le sourcier n'était
+qu'un fils de bûcheron.
+
+249
+00:19:36,300 --> 00:19:39,731
+Mes soeurs, j'ai ramené le sourcier.
+
+250
+00:20:01,005 --> 00:20:02,005
+Triana...
+
+251
+00:20:04,124 --> 00:20:06,204
+"Les forces du Maître
+nous ont encerclées.
+
+252
+00:20:06,700 --> 00:20:09,100
+"On n'a plus d'eau
+depuis deux jours.
+
+253
+00:20:09,864 --> 00:20:13,464
+"Aucun mot des autres temples.
+Ils doivent être tombés aussi.
+
+254
+00:20:13,879 --> 00:20:16,079
+"Alina ne passera pas la nuit.
+
+255
+00:20:17,351 --> 00:20:20,088
+"Je suis la dernière des mord-sith."
+
+256
+00:20:24,879 --> 00:20:28,959
+L'amour qu'avait Rahl pour tes soeurs
+n'est pas partagé par celui-ci.
+
+257
+00:20:29,273 --> 00:20:31,328
+- Je vais le tuer.
+- Amusant,
+
+258
+00:20:31,749 --> 00:20:33,857
+c'est ce que j'allais faire.
+
+259
+00:20:35,724 --> 00:20:37,068
+Tu sais où il est ?
+
+260
+00:20:37,303 --> 00:20:40,303
+Rahl ne dirige pas toujours
+du Palais du Peuple ?
+
+261
+00:20:41,090 --> 00:20:42,990
+Alors, c'est ma destination,
+
+262
+00:20:43,814 --> 00:20:45,451
+dès que je t'aurai tué.
+
+263
+00:20:46,729 --> 00:20:48,979
+Ça te prendra des semaines à pieds.
+
+264
+00:20:49,329 --> 00:20:51,047
+Ses brigands sont partout.
+
+265
+00:20:51,172 --> 00:20:53,722
+Même une mord-sith
+ne fait pas le poids.
+
+266
+00:20:54,075 --> 00:20:56,753
+Mais ensemble,
+on peut y arriver entier,
+
+267
+00:20:56,982 --> 00:20:59,363
+trouver le Maître, le tuer,
+
+268
+00:21:00,935 --> 00:21:03,177
+et trouver un moyen
+de revenir à notre époque.
+
+269
+00:21:08,339 --> 00:21:12,352
+- Donc, on travaille ensemble ?
+- Seulement jusqu'à la mort du Maître.
+
+270
+00:21:16,817 --> 00:21:19,735
+Voici le jeune Maître Rahl.
+
+271
+00:21:22,728 --> 00:21:23,728
+Un garçon.
+
+272
+00:21:24,488 --> 00:21:25,825
+Il est magnifique.
+
+273
+00:21:28,073 --> 00:21:29,073
+Partez.
+
+274
+00:21:29,482 --> 00:21:31,234
+Tous. Maintenant.
+
+275
+00:21:39,689 --> 00:21:41,174
+Ma soeur a eu un garçon.
+
+276
+00:21:41,815 --> 00:21:44,915
+Ce n'est jamais arrivé deux fois
+dans la même génération.
+
+277
+00:21:45,093 --> 00:21:47,554
+Vous avez usé de magie
+pour que ça arrive.
+
+278
+00:21:47,679 --> 00:21:50,353
+Mon amour,
+la seule magie à l'oeuvre ici,
+
+279
+00:21:51,282 --> 00:21:52,977
+est le miracle de la vie.
+
+280
+00:21:53,622 --> 00:21:55,072
+Vous êtes un idiot.
+
+281
+00:21:55,870 --> 00:21:58,720
+Vous savez ce que deviennent
+les inquisiteurs.
+
+282
+00:21:59,449 --> 00:22:02,532
+Vous croyez
+pouvoir contrôler cette cruauté,
+
+283
+00:22:02,909 --> 00:22:05,455
+cette cruauté, et l'utiliser
+pour vos sombres desseins ?
+
+284
+00:22:05,580 --> 00:22:08,047
+C'est à nous de déterminer le futur.
+
+285
+00:22:09,221 --> 00:22:10,727
+Et je n'ai aucun doute
+
+286
+00:22:10,852 --> 00:22:14,485
+qu'avec l'inspiration maternelle,
+il deviendra un grand roi.
+
+287
+00:22:14,610 --> 00:22:17,460
+Laissez-moi le tuer
+et vous donner un autre enfant.
+
+288
+00:22:18,261 --> 00:22:20,311
+Une fille qui adorera son père.
+
+289
+00:22:28,185 --> 00:22:29,485
+Il veut sa mère.
+
+290
+00:22:36,537 --> 00:22:37,787
+Pitié, Kahlan,
+
+291
+00:22:38,871 --> 00:22:41,121
+je n'ai jamais porté un bébé avant.
+
+292
+00:23:03,837 --> 00:23:06,592
+Regardez-le,
+il est si généreux avec ses jouets.
+
+293
+00:23:07,627 --> 00:23:10,527
+Peut-être que son père
+l'était aussi à cet âge.
+
+294
+00:23:10,788 --> 00:23:13,288
+Son père ne vous avait pas
+comme mère.
+
+295
+00:23:18,438 --> 00:23:19,272
+Viens ici.
+
+296
+00:23:23,876 --> 00:23:25,278
+Mon Nicolas.
+
+297
+00:23:25,984 --> 00:23:28,584
+Tu as une idée
+de combien tu es spécial ?
+
+298
+00:23:38,639 --> 00:23:41,939
+Ce n'est pas du faisan grillé,
+mais ça fera l'affaire.
+
+299
+00:23:44,089 --> 00:23:47,839
+Ne me dis pas qu'une puissante mord-sith
+a peur d'un petit ver ?
+
+300
+00:24:02,662 --> 00:24:04,162
+Très bien, Nicolas.
+
+301
+00:24:04,447 --> 00:24:07,497
+Qui était le Premier Sorcier
+du 4e Âge ?
+
+302
+00:24:09,289 --> 00:24:11,264
+Zeddicus Zu'l Zorander.
+
+303
+00:24:13,259 --> 00:24:15,995
+- Je le connaissais.
+- Il changeait des gens en grenouille ?
+
+304
+00:24:17,412 --> 00:24:18,412
+Ma dame.
+
+305
+00:24:27,622 --> 00:24:28,622
+Oui ?
+
+306
+00:24:28,915 --> 00:24:31,511
+Le général Egremont m'a ordonné
+de faire la valise de Nicolas.
+
+307
+00:24:32,681 --> 00:24:36,531
+Le seigneur Rahl l'envoie à Aydindril
+étudier avec ses sorciers.
+
+308
+00:24:39,261 --> 00:24:41,270
+Il sait que mon influence grandit.
+
+309
+00:24:44,099 --> 00:24:45,099
+Quand ?
+
+310
+00:24:46,004 --> 00:24:48,027
+- À l'aube.
+- L'aube ?
+
+311
+00:24:48,402 --> 00:24:50,952
+Vous devez lui dire
+ce qu'il doit faire,
+
+312
+00:24:51,492 --> 00:24:52,865
+avant qu'il soit trop tard.
+
+313
+00:24:54,041 --> 00:24:55,591
+S'il n'est pas prêt ?
+
+314
+00:24:56,564 --> 00:24:58,864
+Si son père réussit à le corrompre ?
+
+315
+00:25:00,448 --> 00:25:02,498
+Faites-vous confiance, ma dame.
+
+316
+00:25:02,840 --> 00:25:05,378
+En chaque bienfait
+que vous lui avez appris.
+
+317
+00:25:11,338 --> 00:25:12,338
+Nicolas ?
+
+318
+00:25:16,045 --> 00:25:17,682
+Je dois te dire quelque chose
+
+319
+00:25:18,629 --> 00:25:20,229
+de vraiment important.
+
+320
+00:25:20,667 --> 00:25:21,477
+Maître.
+
+321
+00:25:25,035 --> 00:25:27,335
+J'ai rapporté ce que vous demandiez.
+
+322
+00:25:29,039 --> 00:25:32,109
+- Ça vous plaît, maître ?
+- Oui, ça me plaît.
+
+323
+00:25:32,666 --> 00:25:33,966
+File maintenant.
+
+324
+00:25:42,038 --> 00:25:43,499
+Tu as confessé Ethan ?
+
+325
+00:25:45,744 --> 00:25:48,921
+- Pourquoi ?
+- Il ne voulait pas jouer avec moi.
+
+326
+00:25:53,563 --> 00:25:55,052
+Tu voulais me dire quoi ?
+
+327
+00:25:56,278 --> 00:25:57,428
+Simplement...
+
+328
+00:26:00,247 --> 00:26:02,297
+Simplement que je t'aime.
+
+329
+00:26:02,603 --> 00:26:04,253
+Je t'aime aussi, maman.
+
+330
+00:26:12,140 --> 00:26:13,946
+Il doit y avoir un autre moyen.
+
+331
+00:26:16,389 --> 00:26:19,082
+Je savais ce qui il était
+le jour de sa naissance.
+
+332
+00:26:19,207 --> 00:26:21,307
+J'aurais dû le faire ce jour-là.
+
+333
+00:26:24,721 --> 00:26:26,459
+Dès qu'ils trouveront le corps,
+
+334
+00:26:26,831 --> 00:26:28,581
+Rahl saura que c'est moi.
+
+335
+00:26:30,728 --> 00:26:32,678
+Ça ne dépend plus que de toi.
+
+336
+00:26:33,354 --> 00:26:34,554
+Reste en vie,
+
+337
+00:26:36,019 --> 00:26:37,303
+trouve le sourcier.
+
+338
+00:26:38,594 --> 00:26:40,344
+Mais sans inquisitrice...
+
+339
+00:26:41,690 --> 00:26:43,990
+Richard aura peut-être une solution.
+
+340
+00:26:46,076 --> 00:26:47,426
+Alice, dis-lui...
+
+341
+00:26:49,056 --> 00:26:52,318
+Dis-lui que son inquisitrice
+n'a jamais cessé de l'aimer.
+
+342
+00:26:54,284 --> 00:26:56,030
+Et s'il ne défait pas le sort,
+
+343
+00:26:57,263 --> 00:26:59,213
+s'il ne peut pas lui revenir,
+
+344
+00:26:59,759 --> 00:27:01,509
+alors, elle l'attendra
+
+345
+00:27:02,769 --> 00:27:04,369
+au royaume des morts.
+
+346
+00:27:05,374 --> 00:27:06,524
+Indéfiniment.
+
+347
+00:27:15,496 --> 00:27:17,843
+- On perd de la chaleur.
+- Comment ça ?
+
+348
+00:27:21,101 --> 00:27:23,099
+Essaye de ne pas être stupide.
+
+349
+00:27:40,126 --> 00:27:42,176
+Tu as sûrement pensé au fait
+
+350
+00:27:42,428 --> 00:27:44,537
+qu'avec tous ses confessés,
+
+351
+00:27:46,139 --> 00:27:49,489
+il est possible qu'on ne puisse pas
+atteindre le maître.
+
+352
+00:27:55,379 --> 00:27:57,049
+Ne t'inquiète pas, sourcier.
+
+353
+00:27:58,459 --> 00:28:01,149
+Je ne dirai pas
+à tes légions d'admirateurs
+
+354
+00:28:01,274 --> 00:28:03,174
+que tu as succombé au doute.
+
+355
+00:28:10,853 --> 00:28:11,953
+Et ensuite ?
+
+356
+00:28:15,425 --> 00:28:16,825
+Nous serons seuls.
+
+357
+00:28:18,271 --> 00:28:19,771
+Seulement nous deux.
+
+358
+00:28:22,638 --> 00:28:24,338
+Je ne sais pas pour toi,
+
+359
+00:28:26,092 --> 00:28:29,690
+mais j'ai besoin
+d'un peu de réconfort
+
+360
+00:28:31,438 --> 00:28:33,939
+dans ce lieu maudit.
+
+361
+00:28:42,497 --> 00:28:43,647
+Un problème ?
+
+362
+00:28:44,864 --> 00:28:46,614
+J'aime quelqu'un d'autre.
+
+363
+00:28:48,003 --> 00:28:49,503
+Qui a parlé d'amour.
+
+364
+00:28:51,285 --> 00:28:52,785
+Je parle de plaisir.
+
+365
+00:28:55,212 --> 00:28:56,212
+Désolé.
+
+366
+00:29:03,372 --> 00:29:04,450
+Regarde-toi.
+
+367
+00:29:04,944 --> 00:29:07,594
+Fidèle à une femme
+qui est morte depuis...
+
+368
+00:29:08,279 --> 00:29:09,379
+trente ans ?
+
+369
+00:29:56,015 --> 00:29:58,587
+Elle veut le tuer !
+Elle veut tuer mon maître !
+
+370
+00:30:15,731 --> 00:30:16,939
+Elle n'a rien fait.
+
+371
+00:30:17,870 --> 00:30:19,698
+Je suis la seule à blâmer.
+
+372
+00:30:19,823 --> 00:30:21,923
+Pourquoi essayait-elle de fuir
+
+373
+00:30:22,548 --> 00:30:26,489
+au moment précis où tu essayais
+de tuer notre fils endormi ?
+
+374
+00:30:38,239 --> 00:30:40,289
+En tant que mère de mon enfant,
+
+375
+00:30:41,157 --> 00:30:43,632
+et ce, malgré la monstruosité
+dont tu as fait preuve,
+
+376
+00:30:44,139 --> 00:30:45,926
+je t'accorderai une mort clémente.
+
+377
+00:30:46,966 --> 00:30:48,971
+Egremont, conduis-la au billot.
+
+378
+00:30:51,129 --> 00:30:52,429
+S'il vous plaît,
+
+379
+00:30:54,790 --> 00:30:56,270
+laissez-moi le faire.
+
+380
+00:31:04,345 --> 00:31:06,499
+Tout ce chemin pour rien.
+
+381
+00:31:07,116 --> 00:31:09,716
+Personne n'est venu ici
+depuis longtemps.
+
+382
+00:31:10,082 --> 00:31:11,882
+Je n'en serais pas si sûr.
+
+383
+00:31:19,175 --> 00:31:21,295
+Le temps est enfin venu ?
+
+384
+00:31:27,830 --> 00:31:29,630
+Quand la magie s'évanouit,
+
+385
+00:31:31,027 --> 00:31:33,408
+la précieuse jeunesse fait de même.
+
+386
+00:31:35,455 --> 00:31:36,894
+Que s'est-il passé ?
+
+387
+00:31:37,457 --> 00:31:39,207
+Le maître est devenu fou.
+
+388
+00:31:40,316 --> 00:31:42,666
+C'est ainsi avec les inquisiteurs.
+
+389
+00:31:45,345 --> 00:31:48,113
+Dans certains cas,
+avec les vieilles sorcières.
+
+390
+00:31:49,452 --> 00:31:53,327
+Il a détruit le palais,
+la barrière magique est tombée
+
+391
+00:31:53,495 --> 00:31:56,997
+- et j'ai été libérée du donjon.
+- Quand est-ce arrivé ?
+
+392
+00:31:58,022 --> 00:32:01,466
+Le temps est une anguille glissante,
+n'est-ce pas ?
+
+393
+00:32:04,778 --> 00:32:08,352
+La maison de l'agneau, quarante ans.
+
+394
+00:32:09,607 --> 00:32:12,157
+- Ou cinquante.
+- Pourquoi être restée ?
+
+395
+00:32:13,273 --> 00:32:15,373
+Je cherche la clef de tout ça.
+
+396
+00:32:16,744 --> 00:32:19,937
+- Elle doit être par ici.
+- Où est le maître ?
+
+397
+00:32:20,615 --> 00:32:23,215
+Il n'est pas ici.
+Il ne vient jamais ici.
+
+398
+00:32:23,919 --> 00:32:25,653
+Il a peur de sa mère.
+
+399
+00:32:28,478 --> 00:32:29,728
+Kahlan est là ?
+
+400
+00:32:33,327 --> 00:32:34,327
+Pas elle.
+
+401
+00:32:37,118 --> 00:32:38,585
+Son fantôme.
+
+402
+00:32:49,254 --> 00:32:51,176
+C'est toi et moi, maintenant.
+
+403
+00:32:55,549 --> 00:32:57,016
+C'est uniquement moi.
+
+404
+00:33:12,130 --> 00:33:14,116
+Je vous ai satisfait, maître ?
+
+405
+00:33:15,435 --> 00:33:17,385
+Tu m'as pleinement satisfait.
+
+406
+00:33:21,103 --> 00:33:23,125
+On doit pouvoir regagner
+notre époque.
+
+407
+00:33:25,820 --> 00:33:27,921
+C'est exactement ce qu'elle m'a dit.
+
+408
+00:33:28,831 --> 00:33:31,759
+- Que lui avez-vous dit ?
+- C'était très simple.
+
+409
+00:33:32,174 --> 00:33:33,575
+Tu dois simplement
+
+410
+00:33:33,986 --> 00:33:38,182
+combiner la magie d'Orden,
+de la confession et d'un Agiel.
+
+411
+00:33:39,395 --> 00:33:41,060
+De la bonne manière,
+
+412
+00:33:41,901 --> 00:33:43,812
+au bon moment.
+
+413
+00:33:44,468 --> 00:33:46,743
+Mais, même si tu as les boîtes,
+
+414
+00:33:47,787 --> 00:33:50,819
+même si cette traînée
+t'accorde son aide,
+
+415
+00:33:51,210 --> 00:33:54,031
+il te manque encore
+un élément essentiel :
+
+416
+00:33:55,992 --> 00:33:57,892
+le toucher de la confession.
+
+417
+00:34:00,474 --> 00:34:03,274
+C'est pourquoi
+elle a accepté d'épouser Rahl.
+
+418
+00:34:04,262 --> 00:34:07,419
+Ainsi, elle pourrait porter l'enfant
+qui t'aurait aidé.
+
+419
+00:34:07,802 --> 00:34:11,465
+À la place, elle donna naissance
+à une abomination.
+
+420
+00:34:17,077 --> 00:34:19,431
+Son enfant pourrait nous aider
+malgré tout.
+
+421
+00:34:20,681 --> 00:34:22,181
+- Un piège ?
+- Non.
+
+422
+00:34:23,168 --> 00:34:24,168
+La vérité.
+
+423
+00:34:24,458 --> 00:34:26,558
+Tu parles par énigmes, sourcier.
+
+424
+00:34:27,198 --> 00:34:28,348
+C'est simple.
+
+425
+00:34:28,630 --> 00:34:30,401
+Le maître va te confesser.
+
+426
+00:34:32,291 --> 00:34:34,341
+Sais-tu où on peut le trouver ?
+
+427
+00:34:38,054 --> 00:34:39,785
+Le maître sera très contrarié
+
+428
+00:34:39,954 --> 00:34:42,371
+si vous tuez
+la seule personne au monde
+
+429
+00:34:43,333 --> 00:34:46,783
+qui lui permettrait d'obtenir
+le pouvoir d'Orden.
+
+430
+00:34:50,383 --> 00:34:51,683
+Menez-moi à lui.
+
+431
+00:34:52,775 --> 00:34:53,775
+Maître ?
+
+432
+00:34:55,512 --> 00:34:56,712
+Vous êtes là ?
+
+433
+00:35:08,501 --> 00:35:10,093
+Ordonne, inquisiteur.
+
+434
+00:35:10,811 --> 00:35:14,561
+- Dis-moi la raison de ta présence.
+- Le sourcier est de retour.
+
+435
+00:35:14,836 --> 00:35:16,836
+Il a les trois boîtes d'Orden.
+
+436
+00:35:17,619 --> 00:35:19,669
+Il veut que vous le confessiez.
+
+437
+00:35:20,265 --> 00:35:21,966
+Pourquoi voudrait-il ça ?
+
+438
+00:35:22,091 --> 00:35:25,791
+Car si vous le faites au moment même
+où il assemble les boîtes
+
+439
+00:35:26,000 --> 00:35:28,925
+et qu'alors, il est frappé
+par l'Agiel d'une mord-sith,
+
+440
+00:35:29,050 --> 00:35:31,893
+il retournera à une époque
+précédant votre naissance
+
+441
+00:35:32,018 --> 00:35:33,763
+et tuera votre père.
+
+442
+00:35:34,686 --> 00:35:37,223
+Et ainsi, vous ne serez jamais.
+
+443
+00:35:37,745 --> 00:35:39,645
+J'ai anéanti les mord-sith.
+
+444
+00:35:40,183 --> 00:35:42,783
+Une d'elles a traversé le temps
+avec lui.
+
+445
+00:35:43,245 --> 00:35:45,241
+Ils prévoient de vous tuer.
+
+446
+00:35:45,915 --> 00:35:47,404
+Je vais donc les tuer.
+
+447
+00:35:47,529 --> 00:35:49,079
+Vous ne pourrez pas.
+
+448
+00:35:49,539 --> 00:35:52,535
+Le sourcier attendra avec les boîtes
+
+449
+00:35:52,660 --> 00:35:55,269
+au Crags of Blood, à la pleine lune.
+
+450
+00:35:55,394 --> 00:35:56,922
+Et il est le sourcier,
+
+451
+00:35:57,047 --> 00:35:59,943
+à l'instant
+où il sentira la moindre menace,
+
+452
+00:36:00,641 --> 00:36:02,645
+il assemblera les boîtes.
+
+453
+00:36:03,189 --> 00:36:05,239
+Et si vous ne le confessez pas,
+
+454
+00:36:05,752 --> 00:36:07,761
+il aura le pouvoir d'Orden
+
+455
+00:36:08,587 --> 00:36:10,751
+et aura également emprise sur vous.
+
+456
+00:36:12,057 --> 00:36:14,622
+Mais tu sais
+comment je peux le vaincre.
+
+457
+00:36:16,014 --> 00:36:17,569
+Si vous le confessez,
+
+458
+00:36:18,488 --> 00:36:22,293
+mais empêchez la mord-sith
+d'adjoindre sa magie à la sienne,
+
+459
+00:36:23,385 --> 00:36:26,875
+alors vous contrôlerez l'homme
+qui commande à Orden.
+
+460
+00:36:27,533 --> 00:36:31,243
+Votre pouvoir sera absolu
+et éternel.
+
+461
+00:36:41,446 --> 00:36:44,576
+La mort du maître est l'unique raison
+de notre alliance.
+
+462
+00:36:45,271 --> 00:36:46,912
+- Et ?
+- Si ça marche,
+
+463
+00:36:47,776 --> 00:36:50,249
+il sera effacé de l'Histoire.
+Il ne naîtra jamais.
+
+464
+00:36:51,898 --> 00:36:54,795
+Mais si tu retournes combattre
+aux côtés de son père,
+
+465
+00:36:55,355 --> 00:36:57,905
+ceci pourrait arriver
+une nouvelle fois.
+
+466
+00:36:59,629 --> 00:37:01,679
+Tu as vu l'héritage de Rahl.
+
+467
+00:37:02,740 --> 00:37:05,840
+Tu as vu ce qu'il peut arriver
+s'il est victorieux.
+
+468
+00:37:06,473 --> 00:37:09,226
+Un tel futur mérite-t-il
+qu'on combatte pour lui ?
+
+469
+00:37:19,590 --> 00:37:21,694
+Je vous attendais, maître Rahl.
+
+470
+00:37:22,115 --> 00:37:24,283
+Je suis un vieil ami de votre mère.
+
+471
+00:37:28,163 --> 00:37:29,830
+Trouvez la mord-sith.
+
+472
+00:38:24,619 --> 00:38:26,399
+C'est trop tard.
+
+473
+00:39:16,029 --> 00:39:17,479
+Tu nous as trahies.
+
+474
+00:39:19,541 --> 00:39:21,941
+J'ai agi ainsi
+pour tous nous sauver.
+
+475
+00:39:22,360 --> 00:39:24,027
+Le seigneur Rahl est mort.
+
+476
+00:39:24,328 --> 00:39:26,613
+Dorénavant, vous suivrez mes ordres.
+
+477
+00:39:38,559 --> 00:39:40,002
+On se reverra.
+
+478
+00:39:42,641 --> 00:39:44,141
+Dans un temps futur.
+
+479
+00:40:14,323 --> 00:40:16,997
+J'ai cru ne jamais te revoir.
+Aucun de vous.
+
+480
+00:40:18,320 --> 00:40:19,820
+De quoi parles-tu ?
+
+481
+00:40:23,129 --> 00:40:24,579
+Par où commencer ?
+
+482
+00:40:28,185 --> 00:40:31,474
+Je n'arrive pas à croire
+que j'ai épousé Rahl,
+
+483
+00:40:33,011 --> 00:40:34,361
+porté son enfant.
+
+484
+00:40:34,741 --> 00:40:37,591
+Avec mon retour,
+ce futur n'est jamais arrivé.
+
+485
+00:40:37,958 --> 00:40:39,513
+Ou n'arrivera jamais.
+
+486
+00:40:41,068 --> 00:40:42,118
+Quand même.
+
+487
+00:40:43,407 --> 00:40:46,905
+Tu m'as dit que tu donnerais ta vie
+pour le sourcier.
+
+488
+00:40:49,777 --> 00:40:51,369
+C'est ce que tu as fait.
+
+489
+00:40:51,494 --> 00:40:54,076
+Même quand
+tout espoir semblait perdu,
+
+490
+00:40:56,658 --> 00:40:58,758
+tu m'as aimé à travers le temps.
+
+491
+00:41:14,566 --> 00:41:16,640
+La magie d'Orden n'est plus,
+
+492
+00:41:18,885 --> 00:41:20,310
+Rahl est mort,
+
+493
+00:41:21,604 --> 00:41:24,106
+la prophétie a été accomplie.
+
+494
+00:41:28,996 --> 00:41:30,195
+C'est terminé ?
+
+495
+00:41:31,970 --> 00:41:34,987
+Le lien magique
+qui soumettait les servants de Rahl
+
+496
+00:41:35,112 --> 00:41:36,118
+est brisé.
+
+497
+00:41:37,439 --> 00:41:40,435
+Nous sommes à l'aube
+d'un nouvel âge.
+
+498
+00:41:40,776 --> 00:41:43,215
+Un âge de paix, d'harmonie,
+
+499
+00:41:44,251 --> 00:41:45,301
+de justice.
+
+500
+00:41:49,402 --> 00:41:52,502
+Il est également possible
+qu'avec le décès de Rahl,
+
+501
+00:41:53,650 --> 00:41:56,888
+un mal nouveau et inconnu s'élève
+pour combler le vide,
+
+502
+00:41:58,026 --> 00:42:00,176
+saisir les fragments du pouvoir.
+
+503
+00:42:07,621 --> 00:42:09,568
+Tu as fait
+tout ce qu'on te demandait,
+
+504
+00:42:10,674 --> 00:42:11,778
+et même plus.
+
+505
+00:42:12,663 --> 00:42:15,763
+Personne ne te blâmera
+si tu veux rentrer chez toi.
+
+506
+00:42:22,968 --> 00:42:24,166
+Je suis chez moi.
+
+507
+00:42:26,184 --> 00:42:27,334
+Ecarlate Crew
+
+508
+00:42:28,022 --> 00:42:29,972
+www.sub-way.fr
+www.u-sub.net
+

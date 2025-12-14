@@ -1,0 +1,2776 @@
+1
+00:00:04,345 --> 00:00:05,784
+- Où il est ?
+- Calmez-vous.
+
+2
+00:00:05,951 --> 00:00:08,541
+Me dites pas de me calmer.
+Je veux le voir. Où il est ?
+
+3
+00:00:09,771 --> 00:00:10,771
+Allez.
+
+4
+00:00:15,161 --> 00:00:17,767
+- Comment c'est arrivé ?
+- On enquête toujours.
+
+5
+00:00:17,934 --> 00:00:20,398
+- Ils l'ont trouvé hier dans une ruelle.
+- Qui l'a trouvé ?
+
+6
+00:00:20,565 --> 00:00:21,696
+Un appel anonyme.
+
+7
+00:00:21,863 --> 00:00:24,080
+- Mais c'était trop tard.
+- Vous êtes arrivé quand ?
+
+8
+00:00:24,247 --> 00:00:26,449
+Ce matin. Henry a appelé,
+j'ai pris le premier vol.
+
+9
+00:00:26,616 --> 00:00:28,995
+- Pourquoi on m'a rien dit...
+- Vous étiez déjà en route.
+
+10
+00:00:29,162 --> 00:00:30,862
+Ça n'aurait rien changé.
+
+11
+00:00:59,244 --> 00:01:00,494
+Je suis désolé.
+
+12
+00:01:07,690 --> 00:01:09,340
+On sait qui a fait ça ?
+
+13
+00:01:10,266 --> 00:01:13,166
+- Je cherche encore.
+- Mais vous avez une idée.
+
+14
+00:01:15,345 --> 00:01:17,202
+On devrait parler un peu plus tard.
+
+15
+00:01:19,005 --> 00:01:20,005
+Pourquoi ?
+
+16
+00:01:21,128 --> 00:01:22,578
+Que se passe-t-il ?
+
+17
+00:01:23,715 --> 00:01:24,965
+Qui a fait ça ?
+
+18
+00:01:26,834 --> 00:01:28,984
+C'est trop tôt pour être certain,
+
+19
+00:01:29,318 --> 00:01:32,300
+mais les preuves rassemblées
+semblent accuser Helen Magnus.
+
+20
+00:01:36,493 --> 00:01:37,843
+La Team Projet-SG
+
+21
+00:01:38,010 --> 00:01:39,182
+présente :
+
+22
+00:01:39,432 --> 00:01:42,394
+Sanctuary - Saison 2 Épisode 7
+Veritas (v. 1.00)
+
+23
+00:01:42,644 --> 00:01:46,898
+Synchro par : Arrow,
+nitrogenc, Salomon
+
+24
+00:01:47,148 --> 00:01:50,777
+Adaptation par : Arrow,
+nitrogenc, Salomon
+
+25
+00:02:04,048 --> 00:02:06,084
+http://projet-sg.net
+
+26
+00:02:16,729 --> 00:02:18,079
+Vous êtes dingue.
+
+27
+00:02:18,328 --> 00:02:20,877
+- Je n'y croyais pas non plus au début.
+- Au début ?
+
+28
+00:02:21,454 --> 00:02:24,454
+On a étudié les balles
+qu'on a retirées du corps.
+
+29
+00:02:24,831 --> 00:02:27,230
+- Elles viennent du 9 mm de Magnus.
+- Et alors ?
+
+30
+00:02:27,814 --> 00:02:31,359
+- Elle a de la poudre sur son manteau.
+- Ça prouve qu'elle a utilisé son arme.
+
+31
+00:02:32,394 --> 00:02:33,844
+Et il m'a contacté.
+
+32
+00:02:34,654 --> 00:02:35,904
+Qui ? Big Guy ?
+
+33
+00:02:36,322 --> 00:02:39,075
+Deux nuits avant sa mort.
+Il était inquiet pour Magnus.
+
+34
+00:02:40,042 --> 00:02:41,953
+Inquiet ?
+Inquiet à quel sujet ?
+
+35
+00:02:42,203 --> 00:02:44,247
+Elle perdait peu à peu pied.
+Mentalement.
+
+36
+00:02:47,527 --> 00:02:49,377
+J'ai jamais rien remarqué.
+
+37
+00:02:49,627 --> 00:02:50,837
+Elle le cachait.
+
+38
+00:02:51,260 --> 00:02:52,665
+Je suis psychiatre.
+
+39
+00:02:53,256 --> 00:02:54,799
+Je vous répète ses paroles.
+
+40
+00:02:55,255 --> 00:02:57,986
+Apparemment, c'est un problème
+qu'elle a depuis des années.
+
+41
+00:02:58,153 --> 00:03:00,430
+Il l'a découvert récemment,
+il en a pas parlé,
+
+42
+00:03:01,404 --> 00:03:03,911
+mais c'est devenu tel
+qu'il s'est décidé à agir.
+
+43
+00:03:05,151 --> 00:03:07,520
+C'est de la folie.
+On parle de Magnus.
+
+44
+00:03:07,770 --> 00:03:09,868
+Pourquoi il inventerait
+un truc comme ça ?
+
+45
+00:03:11,414 --> 00:03:13,359
+Will, je tiens à vous prévenir...
+
+46
+00:03:14,779 --> 00:03:16,946
+J'ai été obligé
+d'invoquer l'Article 9.
+
+47
+00:03:20,092 --> 00:03:21,092
+Attendez.
+
+48
+00:03:22,679 --> 00:03:23,661
+Où est-elle ?
+
+49
+00:03:24,686 --> 00:03:25,997
+En isolement de niveau 3.
+
+50
+00:03:26,247 --> 00:03:27,247
+Quoi ?
+
+51
+00:03:29,220 --> 00:03:32,387
+- Elle n'a rien fait !
+- Alors elle n'a rien à craindre !
+
+52
+00:03:42,477 --> 00:03:43,527
+Dieu merci.
+
+53
+00:03:48,536 --> 00:03:50,995
+- Vous allez bien ?
+- Comment je pourrais ?
+
+54
+00:03:51,162 --> 00:03:53,566
+Ils disent que j'ai tué
+un de mes amis les plus chers.
+
+55
+00:03:53,816 --> 00:03:54,859
+Comment ça ?
+
+56
+00:03:56,745 --> 00:03:59,364
+Je ne me rappelle de rien.
+Honnêtement, j'ai...
+
+57
+00:03:59,852 --> 00:04:02,405
+Je n'ai aucun souvenir
+de la semaine dernière.
+
+58
+00:04:03,560 --> 00:04:05,920
+Vous avez été blessée ?
+Exposée à quelque chose ?
+
+59
+00:04:06,087 --> 00:04:09,249
+Non, je vais bien physiquement.
+Les analyses sont négatives.
+
+60
+00:04:11,041 --> 00:04:12,544
+Quelqu'un m'a fait ça.
+
+61
+00:04:13,356 --> 00:04:15,672
+Quelqu'un a volontairement
+effacé mes souvenirs.
+
+62
+00:04:16,649 --> 00:04:19,050
+- Comment ?
+- Je ne sais pas ! Vous m'écoutez ?
+
+63
+00:04:22,045 --> 00:04:23,345
+Je suis désolée.
+
+64
+00:04:28,219 --> 00:04:29,727
+Je suis aussi perdue
+que vous.
+
+65
+00:04:33,171 --> 00:04:35,171
+Quelqu'un essaie de me piéger.
+
+66
+00:04:36,299 --> 00:04:39,028
+- On veut faire croire que j'ai tué...
+- Écoutez-moi.
+
+67
+00:04:41,559 --> 00:04:44,157
+On va découvrir la vérité,
+je vous le promets.
+
+68
+00:04:50,115 --> 00:04:52,365
+Il était un de mes plus vieux amis.
+
+69
+00:04:54,616 --> 00:04:56,066
+Vous devez m'aider.
+
+70
+00:04:56,396 --> 00:04:57,672
+S'il vous plaît ?
+
+71
+00:05:00,053 --> 00:05:01,053
+Bien sûr.
+
+72
+00:05:43,129 --> 00:05:45,329
+Te voilà. Je t'ai cherché partout.
+
+73
+00:05:50,252 --> 00:05:51,252
+Il est...
+
+74
+00:05:53,379 --> 00:05:55,429
+On l'a emmené il y a une heure.
+
+75
+00:05:57,942 --> 00:06:00,464
+Il a toujours dit
+qu'il voulait reposer ici,
+
+76
+00:06:00,631 --> 00:06:01,681
+en ce lieu.
+
+77
+00:06:03,568 --> 00:06:04,618
+C'est joli.
+
+78
+00:06:05,696 --> 00:06:07,321
+Tu as fait du bon boulot.
+
+79
+00:06:14,321 --> 00:06:15,621
+Will est revenu.
+
+80
+00:06:15,946 --> 00:06:18,544
+- Il veut nous voir.
+- Dis-lui d'attendre un peu.
+
+81
+00:06:19,449 --> 00:06:22,256
+Il dit que c'est important.
+Ça concerne l'Article 9.
+
+82
+00:06:24,826 --> 00:06:25,826
+Quoi ?
+
+83
+00:06:29,263 --> 00:06:31,219
+Declan ne croit pas
+qu'elle a fait ça.
+
+84
+00:06:31,386 --> 00:06:32,486
+Peu importe.
+
+85
+00:06:33,924 --> 00:06:35,525
+C'est quoi, l'Article 9 ?
+
+86
+00:06:37,365 --> 00:06:40,316
+D'après la charte du Sanctuaire,
+si on est soupçonné de méfaits
+
+87
+00:06:41,014 --> 00:06:43,932
+l'affaire est confiée aux responsables
+des autres Sanctuaires.
+
+88
+00:06:44,099 --> 00:06:46,728
+- C'est une règle de Magnus.
+- Qu'est-ce qu'on fait ?
+
+89
+00:06:46,895 --> 00:06:49,891
+On peut commencer par chercher
+qui est derrière tout ça.
+
+90
+00:06:50,328 --> 00:06:52,032
+Qu'est-ce que vous savez ?
+
+91
+00:06:53,926 --> 00:06:57,167
+Big Guy est venu me voir. Il allait voir
+quelqu'un dans la vieille ville.
+
+92
+00:06:57,334 --> 00:07:01,004
+Je suis allée la voir avant de dormir,
+mais son bureau était fermé.
+
+93
+00:07:01,254 --> 00:07:02,254
+Allons...
+
+94
+00:07:02,595 --> 00:07:04,549
+Il doit bien y avoir quelqu'un
+
+95
+00:07:05,258 --> 00:07:07,108
+pour prouver son innocence.
+
+96
+00:07:11,333 --> 00:07:14,100
+- Je vais voir la scène du crime.
+- Je viens avec toi.
+
+97
+00:07:15,021 --> 00:07:18,646
+Je vais regarder ses fichiers,
+chercher qui pourrait lui en vouloir.
+
+98
+00:07:18,896 --> 00:07:20,273
+Bonne idée.
+
+99
+00:07:23,829 --> 00:07:25,403
+Tu es le seul à pouvoir le faire.
+
+100
+00:07:26,714 --> 00:07:29,175
+Personne d'autre
+ne peut décrypter ses fichiers.
+
+101
+00:07:32,216 --> 00:07:33,216
+Merde...
+
+102
+00:07:42,080 --> 00:07:44,285
+C'est ici qu'ils ont trouvé
+son corps.
+
+103
+00:07:48,801 --> 00:07:50,301
+J'aurais dû être là.
+
+104
+00:07:51,277 --> 00:07:52,555
+Ça l'aurait sauvé ?
+
+105
+00:07:55,267 --> 00:07:56,267
+Je sais pas.
+
+106
+00:07:56,859 --> 00:07:58,429
+Viens, jetons un oeil.
+
+107
+00:07:58,596 --> 00:08:00,546
+Mets ta supervision en route.
+
+108
+00:08:08,808 --> 00:08:11,032
+T'as trouvé que Magnus
+agissait bizarrement ?
+
+109
+00:08:11,895 --> 00:08:15,545
+C'est à moi que tu demandes ça ?
+Elle est constamment bizarre.
+
+110
+00:08:18,825 --> 00:08:20,778
+D'après Declan, Big Guy lui a dit
+
+111
+00:08:20,945 --> 00:08:22,668
+qu'elle commençait à perdre pied.
+
+112
+00:08:23,114 --> 00:08:24,295
+Comme Amy Winehouse ?
+
+113
+00:08:25,766 --> 00:08:29,416
+Je sais pas si insulter les paparazzi
+est son genre de délire.
+
+114
+00:08:29,977 --> 00:08:31,552
+Plutôt des petits trucs.
+
+115
+00:08:37,541 --> 00:08:39,041
+C'est sûrement rien.
+
+116
+00:08:39,395 --> 00:08:42,691
+La semaine dernière, j'ai reçu un mail
+pour aller chercher un nouvel arrivant.
+
+117
+00:08:42,858 --> 00:08:45,858
+Je suis allée à l'adresse,
+mais il y avait rien.
+
+118
+00:08:46,952 --> 00:08:50,078
+- L'anormal était pas là ?
+- Non, le bâtiment était pas là.
+
+119
+00:08:50,245 --> 00:08:51,489
+L'adresse existait pas.
+
+120
+00:08:52,295 --> 00:08:54,575
+Il y a dû avoir erreur.
+Tu lui as demandé ?
+
+121
+00:08:54,825 --> 00:08:57,954
+Elle a nié avoir envoyé le mail.
+Et le lendemain, j'en ai reçu un autre,
+
+122
+00:08:58,204 --> 00:08:59,754
+avec la même demande.
+
+123
+00:09:00,662 --> 00:09:02,062
+C'était bizarre...
+
+124
+00:09:07,110 --> 00:09:09,465
+Et tu m'écoutes plus.
+
+125
+00:09:12,636 --> 00:09:13,636
+C'est quoi ?
+
+126
+00:09:21,226 --> 00:09:24,147
+Je savais que ta supervision
+trouverait quelque chose.
+
+127
+00:09:29,310 --> 00:09:33,012
+C'est une caméra de surveillance.
+Les flics en ont mis partout en ville.
+
+128
+00:09:33,179 --> 00:09:35,875
+Celle-là était braquée
+sur la scène du crime.
+
+129
+00:09:38,886 --> 00:09:40,255
+Pas de maintenance prévue.
+
+130
+00:09:40,422 --> 00:09:43,499
+- Elle aurait pas dû être enlevée.
+- Elle pourrait avoir tout filmé.
+
+131
+00:09:44,383 --> 00:09:46,953
+L'enregistrement est envoyé
+sur le serveur principal.
+
+132
+00:09:47,120 --> 00:09:49,272
+- Je peux y entrer et le récupérer.
+- Joli.
+
+133
+00:09:49,439 --> 00:09:52,133
+- La bonne nouvelle de la journée.
+- Je vais parler à mes contacts.
+
+134
+00:09:52,383 --> 00:09:54,245
+Quelqu'un sait peut-être
+quelque chose.
+
+135
+00:09:55,370 --> 00:09:58,102
+J'ai réussi à entrer
+dans l'ordinateur du doc.
+
+136
+00:09:58,269 --> 00:10:00,287
+- Je suis mal à l'aise...
+- T'as trouvé quoi ?
+
+137
+00:10:00,454 --> 00:10:02,059
+Je commence, mais j'ai trouvé ça.
+
+138
+00:10:04,561 --> 00:10:07,023
+- Des scanners du cerveau ?
+- De ces six dernières années.
+
+139
+00:10:07,273 --> 00:10:09,207
+Elle se scannait régulièrement.
+
+140
+00:10:09,374 --> 00:10:11,424
+Le plus récent a deux semaines.
+
+141
+00:10:14,113 --> 00:10:15,557
+Qu'est-ce qu'il y a ?
+
+142
+00:10:16,190 --> 00:10:17,640
+Trouve cette vidéo.
+
+143
+00:10:17,910 --> 00:10:18,910
+D'accord.
+
+144
+00:10:27,062 --> 00:10:29,670
+- Coment vous les avez eus ?
+- À votre avis ?
+
+145
+00:10:31,319 --> 00:10:32,402
+Bon sang.
+
+146
+00:10:34,775 --> 00:10:37,094
+- Me dites pas que vous y croyez.
+- Comment ça ?
+
+147
+00:10:37,344 --> 00:10:40,556
+Ces scanners montrent un modèle
+de détérioration sur plusieurs années.
+
+148
+00:10:41,454 --> 00:10:43,601
+Et aucun de nous l'aurait remarqué ?
+
+149
+00:10:43,851 --> 00:10:47,305
+Big Guy l'a remarqué.
+En parler est sûrement ce qui l'a tué.
+
+150
+00:10:47,472 --> 00:10:49,023
+Arrêtez ça. Arrêtez !
+
+151
+00:10:50,821 --> 00:10:52,471
+Magnus n'a pas fait ça.
+
+152
+00:10:52,698 --> 00:10:54,969
+Elle a été piégée.
+Quelqu'un a ajouté ces fichiers.
+
+153
+00:10:55,136 --> 00:10:56,136
+Qui ?
+
+154
+00:10:56,461 --> 00:10:58,456
+Qui avait accès à son ordinateur ?
+
+155
+00:10:59,420 --> 00:11:00,670
+Réfléchissez-y.
+
+156
+00:11:01,200 --> 00:11:04,664
+Pourquoi elle vous a fait venir ?
+Elle n'a jamais eu besoin d'aide.
+
+157
+00:11:05,112 --> 00:11:07,041
+Elle cherchait quelqu'un
+pour la remplacer.
+
+158
+00:11:07,451 --> 00:11:08,701
+C'est ridicule.
+
+159
+00:11:09,502 --> 00:11:12,538
+Alors proposez-moi une autre théorie
+qui soit crédible, j'en serais ravi.
+
+160
+00:11:12,705 --> 00:11:15,216
+- En attendant, partons des preuves.
+- C'est-à-dire ?
+
+161
+00:11:16,585 --> 00:11:20,096
+Les autres responsables m'ont chargé
+de recueillir les preuves contre elle.
+
+162
+00:11:20,346 --> 00:11:24,100
+- C'est quoi, une chasse aux sorcières ?
+- On veut la vérité, tout comme vous.
+
+163
+00:11:24,703 --> 00:11:26,727
+Après tout ce qu'elle a fait
+pour vous ?
+
+164
+00:11:29,394 --> 00:11:30,794
+Ce n'est pas tout.
+
+165
+00:11:32,875 --> 00:11:34,318
+Ils nous envoient une Triade.
+
+166
+00:11:34,925 --> 00:11:35,820
+Une Triade ?
+
+167
+00:11:36,148 --> 00:11:37,798
+Une équipe d'enquêteurs
+
+168
+00:11:38,082 --> 00:11:40,658
+toute désignée
+pour ce genre de situations.
+
+169
+00:11:41,333 --> 00:11:43,543
+<i>En quoi sont-ils "tout désignés" ?</i>
+
+170
+00:11:43,710 --> 00:11:45,293
+<i>Ce sont des télépathes.</i>
+
+171
+00:11:45,460 --> 00:11:47,248
+<i>Ils vont entrer dans ses pensées.</i>
+
+172
+00:11:53,900 --> 00:11:57,258
+- Je dois avouer, je me sens un peu...
+- Envahi, compromis.
+
+173
+00:11:57,976 --> 00:11:59,112
+C'est habituel.
+
+174
+00:11:59,279 --> 00:12:02,079
+Les gens deviennent nerveux
+au contact de notre talent.
+
+175
+00:12:02,466 --> 00:12:04,834
+Talent.
+C'est une façon de voir les choses.
+
+176
+00:12:05,001 --> 00:12:07,310
+- Je peux vous apporter...
+- Non, on a mangé en chemin.
+
+177
+00:12:08,965 --> 00:12:10,363
+Je suis désolée.
+
+178
+00:12:10,530 --> 00:12:12,011
+Quand on commence à enquêter,
+
+179
+00:12:12,178 --> 00:12:14,990
+c'est dur
+de ne pas lire les pensées.
+
+180
+00:12:15,157 --> 00:12:18,731
+Les premières émotions qu'on détecte
+sont en général les plus importantes.
+
+181
+00:12:22,659 --> 00:12:24,009
+Je pense à quoi ?
+
+182
+00:12:25,469 --> 00:12:27,330
+Que vous ne connaissez
+même pas mon nom.
+
+183
+00:12:27,657 --> 00:12:28,807
+Emma Correia.
+
+184
+00:12:30,748 --> 00:12:31,802
+Enchanté.
+
+185
+00:12:31,969 --> 00:12:35,036
+J'aurais souhaité que ce soit
+dans d'autres circonstances.
+
+186
+00:12:38,041 --> 00:12:40,557
+J'admire le Dr Magnus
+depuis des années.
+
+187
+00:12:40,724 --> 00:12:43,306
+- Quand l'avez-vous rencontrée ?
+- Jamais.
+
+188
+00:12:43,840 --> 00:12:45,383
+Son travail m'a sauvée.
+
+189
+00:12:45,550 --> 00:12:48,865
+Je ne me suis jamais sentie chez moi,
+à part dans le réseau de Sanctuaires.
+
+190
+00:12:49,032 --> 00:12:51,132
+Je vois ce que vous voulez dire.
+
+191
+00:12:52,112 --> 00:12:54,018
+Comment se passe votre enquête ?
+
+192
+00:12:55,540 --> 00:12:57,378
+Vous ne devriez pas déjà le savoir ?
+
+193
+00:12:58,415 --> 00:13:01,310
+En fait, non.
+Ce n'est pas une science exacte.
+
+194
+00:13:01,477 --> 00:13:02,698
+L'esprit est rusé,
+
+195
+00:13:02,865 --> 00:13:06,285
+cela requiert de l'attention,
+de la concentration et de la proximité,
+
+196
+00:13:06,786 --> 00:13:10,563
+et même là, les pensées d'une personne
+ne sont pas toujours à disposition.
+
+197
+00:13:10,730 --> 00:13:14,635
+- C'est pour ça que nous sommes trois.
+- C'est pas trop bruyant toutes ces...
+
+198
+00:13:14,918 --> 00:13:18,262
+Heureusement, on peut protéger
+nos pensées les uns des autres.
+
+199
+00:13:18,863 --> 00:13:21,175
+Ça nous aide à rester objectifs.
+
+200
+00:13:25,515 --> 00:13:27,473
+J'espère pouvoir aider Magnus
+à se souvenir.
+
+201
+00:13:27,834 --> 00:13:30,893
+On la questionnera cet après-midi.
+Vous pourrez venir.
+
+202
+00:13:31,675 --> 00:13:32,825
+Avec plaisir.
+
+203
+00:13:40,425 --> 00:13:42,175
+Je suis... flattée, Will.
+
+204
+00:13:47,019 --> 00:13:48,452
+Ça va être compliqué.
+
+205
+00:13:52,936 --> 00:13:55,622
+- Ça va m'énerver ?
+- Ouais, mauvaises nouvelles.
+
+206
+00:13:55,789 --> 00:13:57,628
+La vidéo que je cherchais ?
+
+207
+00:13:57,878 --> 00:14:00,073
+Supprimée
+de la base de données de la police.
+
+208
+00:14:00,240 --> 00:14:02,408
+Quelqu'un de la police
+en voudrait à Magnus ?
+
+209
+00:14:02,575 --> 00:14:04,468
+J'y ai pensé,
+donc j'ai creusé un peu.
+
+210
+00:14:04,718 --> 00:14:07,218
+Le chef l'a supprimée lui-même.
+
+211
+00:14:07,385 --> 00:14:08,385
+Le chef ?
+
+212
+00:14:09,445 --> 00:14:11,183
+Mais pourquoi ?
+Ils sont amis.
+
+213
+00:14:11,433 --> 00:14:14,854
+Tout à fait. Donc...
+je suis rentré dans sa boîte mail.
+
+214
+00:14:15,916 --> 00:14:18,441
+- Merde.
+- T'inquiète, c'est intraçable.
+
+215
+00:14:18,691 --> 00:14:20,272
+Regarde ce que j'ai trouvé.
+
+216
+00:14:21,045 --> 00:14:23,737
+C'est un e-mail
+demandant d'effacer la vidéo.
+
+217
+00:14:27,755 --> 00:14:29,155
+Envoyé par Magnus.
+
+218
+00:14:34,998 --> 00:14:37,460
+POUVEZ-VOUS
+EFFACER CET ENREGISTREMENT ?
+
+219
+00:14:55,015 --> 00:14:57,480
+Bon, Remy, t'as eu ton fric.
+T'as quoi pour moi ?
+
+220
+00:14:59,115 --> 00:15:01,415
+Ta patronne a été occupée
+dernièrement.
+
+221
+00:15:02,015 --> 00:15:03,095
+C'est-à-dire ?
+
+222
+00:15:03,985 --> 00:15:05,685
+J'ai pisté ce revendeur,
+
+223
+00:15:06,105 --> 00:15:09,867
+elle aurait acheté un paquet d'anormaux
+dangereux, la semaine dernière.
+
+224
+00:15:10,395 --> 00:15:12,328
+Dangereux ?
+Vraiment ?
+
+225
+00:15:13,755 --> 00:15:16,205
+D'après lui, elle en cherchait
+
+226
+00:15:16,575 --> 00:15:18,459
+du genre bizarre et effrayant,
+
+227
+00:15:18,709 --> 00:15:21,128
+- qu'elle seule voudrait.
+- Elle a acheté quoi ?
+
+228
+00:15:22,505 --> 00:15:23,755
+Il m'a pas dit.
+
+229
+00:15:24,245 --> 00:15:26,107
+Il va pas balancer ses clients.
+
+230
+00:15:26,495 --> 00:15:29,128
+Mais en tout cas, elle a payé cher.
+
+231
+00:15:29,295 --> 00:15:30,763
+Bien plus que d'ordinaire.
+
+232
+00:15:32,335 --> 00:15:33,685
+Ça a pas de sens.
+
+233
+00:15:34,085 --> 00:15:36,118
+Que ferait Magnus
+d'anormaux dangereux ?
+
+234
+00:15:36,285 --> 00:15:37,735
+Rien de bien légal.
+
+235
+00:15:56,845 --> 00:15:58,325
+Pouvons-nous commencer ?
+
+236
+00:16:02,765 --> 00:16:05,548
+Nous aimerions
+que vous ouvriez votre esprit,
+
+237
+00:16:05,798 --> 00:16:07,298
+pour nous y immiscer.
+
+238
+00:16:18,715 --> 00:16:21,981
+- Savez-vous pourquoi nous sommes ici ?
+- Vous êtes la Triade, Emma.
+
+239
+00:16:22,585 --> 00:16:24,066
+Vous venez m'interroger.
+
+240
+00:16:24,316 --> 00:16:25,943
+Il ne faut pas voir ça ainsi.
+
+241
+00:16:26,635 --> 00:16:28,035
+L'heure est grave,
+
+242
+00:16:29,530 --> 00:16:32,580
+mais, jusqu'à preuve du contraire,
+vous restez innocente.
+
+243
+00:16:32,991 --> 00:16:33,991
+Bien,
+
+244
+00:16:34,158 --> 00:16:36,370
+il y a trois nuits,
+il y a eu un incident.
+
+245
+00:16:37,867 --> 00:16:39,387
+Vous vous en souvenez ?
+
+246
+00:16:47,225 --> 00:16:49,515
+Un de vos amis les plus chers
+a été tué.
+
+247
+00:16:51,505 --> 00:16:52,828
+Je ne me souviens pas.
+
+248
+00:16:52,995 --> 00:16:56,348
+Vous souvenez-vous de la ruelle
+et d'avoir utilisé votre arme ?
+
+249
+00:16:56,598 --> 00:16:57,598
+Non, je...
+
+250
+00:16:58,985 --> 00:17:01,103
+Je ne sais pas ce qui s'est passé.
+
+251
+00:17:11,735 --> 00:17:13,699
+Comment vous entendez-vous
+avec l'équipe ?
+
+252
+00:17:21,485 --> 00:17:22,541
+Ce n'est pas moi.
+
+253
+00:17:23,145 --> 00:17:24,835
+Répondez juste aux questions.
+
+254
+00:17:27,245 --> 00:17:29,298
+Pourquoi suis-je traitée
+comme une criminelle ?
+
+255
+00:17:29,548 --> 00:17:31,383
+Cette enquête s'effectue en accord
+
+256
+00:17:31,633 --> 00:17:34,140
+- avec votre règlement...
+- On m'a piégée,
+
+257
+00:17:34,928 --> 00:17:37,622
+et vous êtes assis là,
+au lieu de chercher qui m'a piégée.
+
+258
+00:17:40,715 --> 00:17:42,478
+Vous êtes dans le coup, c'est ça ?
+
+259
+00:17:48,897 --> 00:17:50,235
+Que m'avez-vous fait ?
+
+260
+00:17:51,677 --> 00:17:53,656
+Laissez-moi tous tranquille !
+
+261
+00:17:54,335 --> 00:17:55,407
+Sortez d'ici !
+
+262
+00:17:55,705 --> 00:17:57,076
+Bon, on arrête là.
+
+263
+00:17:57,865 --> 00:17:59,465
+On verra ça plus tard.
+
+264
+00:18:06,545 --> 00:18:09,115
+Son esprit est chaotique, endommagé.
+
+265
+00:18:09,955 --> 00:18:13,669
+J'ai déjà vu ça avant.
+Des symptômes de démence.
+
+266
+00:18:13,836 --> 00:18:17,733
+On ne parvient pas à lire ses pensées,
+même en posant de simples questions.
+
+267
+00:18:17,900 --> 00:18:18,931
+Comment ça ?
+
+268
+00:18:19,865 --> 00:18:23,227
+Nous enquêtons grâce à la télépathie,
+mais pas seulement.
+
+269
+00:18:23,885 --> 00:18:26,288
+Nous allons devoir examiner
+les preuves concrètes
+
+270
+00:18:26,455 --> 00:18:28,774
+afin de comprendre
+pourquoi son esprit nous est fermé.
+
+271
+00:18:30,065 --> 00:18:32,565
+Navré, je sais
+que vous espériez mieux.
+
+272
+00:18:39,515 --> 00:18:40,795
+Tu voulais me voir ?
+
+273
+00:18:42,035 --> 00:18:44,535
+Le pare-feu a intercepté
+un e-mail sortant.
+
+274
+00:18:49,485 --> 00:18:50,504
+J'y crois pas.
+
+275
+00:19:00,575 --> 00:19:02,335
+Qu'est-ce que vous manigancez ?
+
+276
+00:19:02,805 --> 00:19:04,309
+- Pardon ?
+- Cet e-mail !
+
+277
+00:19:04,695 --> 00:19:07,648
+Adressé à la haute hiérarchie,
+demandant la direction de ce Sanctuaire.
+
+278
+00:19:07,815 --> 00:19:10,274
+- Vous lisez mes e-mails ?
+- Vous la discréditez,
+
+279
+00:19:10,524 --> 00:19:12,317
+avant le jugement,
+pour avoir sa place.
+
+280
+00:19:12,567 --> 00:19:15,276
+- Vous dépassez les bornes.
+- Je dépasse les bornes ?
+
+281
+00:19:15,443 --> 00:19:17,531
+Vous la faites tomber
+et je dépasse les bornes ?
+
+282
+00:19:17,781 --> 00:19:20,298
+Qu'est-ce qu'il se passera
+si elle est accusée ?
+
+283
+00:19:20,465 --> 00:19:22,768
+Des milliers de candidats
+convoitent sa place.
+
+284
+00:19:22,935 --> 00:19:25,414
+Croyez-moi, ils seront pas
+aussi agréables que moi.
+
+285
+00:19:25,664 --> 00:19:28,785
+Pour commencer, ils changeront
+toute l'équipe, vous y compris.
+
+286
+00:19:31,115 --> 00:19:32,338
+Et si dans un an,
+
+287
+00:19:32,505 --> 00:19:34,568
+elle retrouve la mémoire
+et est blanchie,
+
+288
+00:19:34,735 --> 00:19:38,248
+je me retirerais avec plaisir,
+et elle récupérera son poste.
+
+289
+00:19:38,415 --> 00:19:40,179
+Tous n'agiraient pas de la sorte.
+
+290
+00:19:40,429 --> 00:19:43,679
+Vous ignorez toute la politique
+qui se trame derrière.
+
+291
+00:19:44,486 --> 00:19:48,238
+Je veux une copie de toutes les preuves
+amassées jusqu'ici.
+
+292
+00:19:48,405 --> 00:19:50,610
+Vous pensez
+que j'ai inventé tout ça ?
+
+293
+00:19:51,625 --> 00:19:53,400
+- Allô ?
+- <i>C'est moi.</i>
+
+294
+00:19:53,808 --> 00:19:56,170
+J'ai trouvé où télécharger
+la vidéo de la ruelle.
+
+295
+00:19:56,337 --> 00:19:57,237
+<i>J'arrive.</i>
+
+296
+00:19:57,487 --> 00:19:59,498
+TÉLÉCHARGEMENT EN COURS
+MOINS DE 4 MINUTES
+
+297
+00:19:59,665 --> 00:20:01,825
+La police
+possède un serveur de secours.
+
+298
+00:20:02,075 --> 00:20:05,728
+Il est mis à jour tous les trois jours,
+donc par rapport au serveur principal...
+
+299
+00:20:05,895 --> 00:20:08,745
+C'est bon, j'ai compris.
+Qu'est-ce que tu as ?
+
+300
+00:20:13,545 --> 00:20:15,339
+Tu peux passer en accéléré ?
+
+301
+00:20:17,555 --> 00:20:18,555
+Là, voilà.
+
+302
+00:20:22,785 --> 00:20:24,306
+Il attend quelqu'un.
+
+303
+00:20:29,045 --> 00:20:30,045
+Là.
+
+304
+00:20:31,355 --> 00:20:32,773
+Bon sang, qui c'est ?
+
+305
+00:20:47,215 --> 00:20:49,039
+Allez, retourne-toi.
+
+306
+00:21:17,386 --> 00:21:18,193
+Entrez.
+
+307
+00:21:22,128 --> 00:21:23,128
+Scofield.
+
+308
+00:21:23,295 --> 00:21:24,395
+Asseyez-vous.
+
+309
+00:21:24,755 --> 00:21:26,155
+C'est bon, ça ira.
+
+310
+00:21:26,616 --> 00:21:28,996
+Sachez que mes collègues et moi
+avons étudié les preuves,
+
+311
+00:21:29,745 --> 00:21:31,403
+puis débattu de la situation.
+
+312
+00:21:32,125 --> 00:21:33,125
+Dites-moi tout.
+
+313
+00:21:33,835 --> 00:21:36,623
+Le Dr Magnus
+souffre d'une déficience mentale.
+
+314
+00:21:36,790 --> 00:21:39,988
+Elle a besoin de soins.
+Elle est un danger pour tous.
+
+315
+00:21:40,155 --> 00:21:42,217
+- Elle a été piégée.
+- Toujours obstiné ?
+
+316
+00:21:42,639 --> 00:21:43,969
+Vous avez vu la vidéo.
+
+317
+00:21:44,945 --> 00:21:46,695
+Je m'en fous de la vidéo.
+
+318
+00:21:47,364 --> 00:21:50,267
+Peu importe ce que disent les gens,
+télépathes ou pas.
+
+319
+00:21:52,761 --> 00:21:55,748
+Je comprends que vous n'aimiez pas
+nos méthodes, Dr Zimmerman,
+
+320
+00:21:55,915 --> 00:21:57,357
+mais elles sont fiables,
+
+321
+00:21:57,607 --> 00:22:00,855
+et ce n'est pas sans raison
+que le Dr Magnus nous a donné ce rôle.
+
+322
+00:22:01,245 --> 00:22:02,362
+Et maintenant ?
+
+323
+00:22:03,785 --> 00:22:05,035
+Pour l'instant,
+
+324
+00:22:05,255 --> 00:22:07,326
+Declan MacRae va être en charge
+
+325
+00:22:07,576 --> 00:22:08,776
+de ce Sanctuaire.
+
+326
+00:22:09,395 --> 00:22:12,745
+Je sais que vous le pensez lié
+à la situation de Magnus,
+
+327
+00:22:13,165 --> 00:22:14,917
+mais croyez-moi,
+ce n'est pas le cas.
+
+328
+00:22:15,665 --> 00:22:18,155
+Je l'ai questionné,
+et j'ai lu son esprit.
+
+329
+00:22:20,355 --> 00:22:22,355
+Tout le bien que ça a fait à Magnus.
+
+330
+00:22:26,555 --> 00:22:28,805
+Navré que vous soyez déçu, docteur,
+
+331
+00:22:29,555 --> 00:22:31,266
+mais c'est pour le bien de tous.
+
+332
+00:22:32,325 --> 00:22:34,519
+Le Dr Magnus sera transportée
+tôt demain matin.
+
+333
+00:22:35,295 --> 00:22:38,523
+Je vous suggère
+d'aller lui dire au revoir d'ici là.
+
+334
+00:22:41,902 --> 00:22:44,778
+- Empêchez-les de faire ça.
+- On s'efforce à vous faire sortir.
+
+335
+00:22:44,945 --> 00:22:48,038
+- Henry remue ciel et terre, Kate...
+- Vous ne saisissez pas.
+
+336
+00:22:48,205 --> 00:22:49,743
+Ils sont tous contre moi !
+
+337
+00:22:50,935 --> 00:22:52,388
+- Qui ?
+- Declan,
+
+338
+00:22:52,555 --> 00:22:54,373
+et l'autre, là, ce Scofield.
+
+339
+00:22:54,623 --> 00:22:56,291
+- Ils sont de mèche.
+- Comment ça ?
+
+340
+00:22:56,541 --> 00:22:57,935
+Ça saute aux yeux, non ?
+
+341
+00:22:58,315 --> 00:22:59,998
+Ils essaient de me tuer !
+
+342
+00:23:00,165 --> 00:23:01,165
+Regardez.
+
+343
+00:23:01,332 --> 00:23:03,840
+Regardez ça.
+C'est empoisonné.
+
+344
+00:23:04,255 --> 00:23:05,884
+Sentez.
+Sentez !
+
+345
+00:23:09,547 --> 00:23:11,076
+Ils vont tout détruire.
+
+346
+00:23:11,243 --> 00:23:12,528
+Ashley me l'a dit.
+
+347
+00:23:12,695 --> 00:23:14,838
+Ashley n'a rien à voir là-dedans.
+
+348
+00:23:15,005 --> 00:23:16,167
+Ils l'ont tuée.
+
+349
+00:23:16,334 --> 00:23:18,188
+- Ils ont tué ma fille !
+- Écoutez.
+
+350
+00:23:19,225 --> 00:23:21,525
+Vous êtes épuisée.
+Il faut vous reposer.
+
+351
+00:23:22,375 --> 00:23:23,888
+Je ne suis pas une enfant !
+
+352
+00:23:24,055 --> 00:23:26,947
+- Vous étiez censé m'aider.
+- J'essaie de vous aider.
+
+353
+00:23:30,385 --> 00:23:31,385
+Quoi ?
+
+354
+00:23:33,694 --> 00:23:34,955
+Vous êtes avec eux.
+
+355
+00:23:36,095 --> 00:23:39,030
+- Promis, je suis de votre côté.
+- Mensonge !
+
+356
+00:23:39,535 --> 00:23:41,435
+Pourquoi tout le monde me ment ?
+
+357
+00:24:23,325 --> 00:24:26,075
+Henry, sécurisez le périmètre
+tout de suite.
+
+358
+00:24:26,673 --> 00:24:27,973
+C'est trop tard.
+
+359
+00:24:28,945 --> 00:24:30,595
+Elle s'est déjà enfuie.
+
+360
+00:24:32,755 --> 00:24:34,608
+Fisher, prenez Collins
+et poursuivez-la.
+
+361
+00:24:34,775 --> 00:24:38,005
+- Qu'est-ce que vous faisiez ?
+- On était en train de parler.
+
+362
+00:24:44,425 --> 00:24:45,817
+Ça avance les fichiers ?
+
+363
+00:24:46,067 --> 00:24:47,652
+J'en suis qu'au début.
+
+364
+00:24:47,902 --> 00:24:50,088
+Declan veut un fichier bien précis.
+
+365
+00:24:50,255 --> 00:24:53,238
+Penses-y. Il savait exactement
+quoi faire pour discréditer Magnus,
+
+366
+00:24:53,405 --> 00:24:56,703
+et maintenant qu'elle est hors-jeu,
+il a le temps d'examiner ses fichiers.
+
+367
+00:24:56,953 --> 00:25:00,445
+- Mais les télépathes l'auraient su ?
+- Sauf si l'un d'eux est impliqué.
+
+368
+00:25:01,385 --> 00:25:02,918
+- Tu crois ?
+- L'un d'eux
+
+369
+00:25:03,168 --> 00:25:05,660
+pourrait empêcher les autres
+de lire son esprit.
+
+370
+00:25:06,585 --> 00:25:08,048
+Un criminel télépathe, super.
+
+371
+00:25:08,298 --> 00:25:09,174
+Je sais.
+
+372
+00:25:11,055 --> 00:25:12,594
+Dans 20 minutes, à la jetée.
+
+373
+00:25:13,475 --> 00:25:14,475
+Allô ?
+
+374
+00:25:34,485 --> 00:25:36,451
+Je devais t'éloigner des télépathes
+
+375
+00:25:36,701 --> 00:25:38,218
+avant de t'amener ici.
+
+376
+00:25:38,385 --> 00:25:39,485
+Où on est ?
+
+377
+00:25:40,125 --> 00:25:41,725
+Une usine de stockage,
+
+378
+00:25:42,255 --> 00:25:44,983
+qui appartenait à l'université
+avant sa fermeture.
+
+379
+00:25:46,025 --> 00:25:47,568
+Mon indic m'a assuré
+
+380
+00:25:47,735 --> 00:25:49,485
+qu'il l'avait vue dans le coin.
+
+381
+00:25:55,815 --> 00:25:57,015
+Vous êtes là ?
+
+382
+00:25:58,395 --> 00:25:59,724
+C'est Will et Kate.
+
+383
+00:26:03,103 --> 00:26:04,086
+Calmez-vous !
+
+384
+00:26:04,253 --> 00:26:06,481
+- Laissez-moi ! Reculez !
+- On vous veut pas de mal.
+
+385
+00:26:07,355 --> 00:26:08,805
+On veut vous aider.
+
+386
+00:26:10,805 --> 00:26:11,945
+Allons, Magnus.
+
+387
+00:26:13,255 --> 00:26:15,538
+Vous m'avez déjà frappé une fois,
+aujourd'hui.
+
+388
+00:26:15,705 --> 00:26:18,097
+Une fois par jour,
+vous pouvez pas aller au-delà.
+
+389
+00:26:35,905 --> 00:26:37,465
+Qu'est-ce qui m'arrive ?
+
+390
+00:26:39,475 --> 00:26:40,935
+Laissez-moi vous aider.
+
+391
+00:26:48,606 --> 00:26:49,941
+C'est impossible.
+
+392
+00:26:54,654 --> 00:26:55,954
+Qu'est-ce que...
+
+393
+00:26:58,955 --> 00:27:00,831
+Qu'est-ce qui prend
+autant de place...
+
+394
+00:27:01,345 --> 00:27:03,698
+ERREUR SYSTÈME N° 42
+
+395
+00:27:03,865 --> 00:27:04,865
+Allez.
+
+396
+00:27:08,755 --> 00:27:10,837
+DÉCODAGE EN COURS
+MOINS DE 15 SECONDES
+
+397
+00:27:18,065 --> 00:27:19,115
+Merde.
+
+398
+00:27:21,385 --> 00:27:22,891
+On peut pas la laisser ici.
+
+399
+00:27:24,025 --> 00:27:25,560
+Ni la ramener là-bas.
+
+400
+00:27:30,685 --> 00:27:31,942
+Henry, quoi de neuf ?
+
+401
+00:27:32,192 --> 00:27:35,070
+- Je suis tombé sur le Graal. Où tu es ?
+- <i>J'arrive...</i>
+
+402
+00:27:36,115 --> 00:27:37,558
+- Quoi ?
+- T'es parmi nous ?
+
+403
+00:27:37,725 --> 00:27:40,418
+Tu peux pas y retourner,
+nos Houdini liraient tes pensées,
+
+404
+00:27:40,585 --> 00:27:42,425
+et trouveraient où Magnus se cache.
+
+405
+00:27:43,035 --> 00:27:44,585
+<i>Qu'est-ce qu'il y a ?</i>
+
+406
+00:27:45,045 --> 00:27:46,045
+<i>Allô ?</i>
+
+407
+00:27:46,915 --> 00:27:48,708
+Henry, tu me rejoins au Pont Brisé ?
+
+408
+00:27:49,259 --> 00:27:51,628
+- Pourquoi ?
+- Je peux pas te le dire.
+
+409
+00:27:51,878 --> 00:27:53,797
+Bon, je sais pas ce qu'il y a.
+
+410
+00:27:54,047 --> 00:27:55,047
+Bien.
+
+411
+00:27:55,965 --> 00:27:56,965
+Facile.
+
+412
+00:28:05,391 --> 00:28:06,748
+TRANSFERT DES FICHIERS.
+
+413
+00:28:06,915 --> 00:28:08,065
+Allez, allez.
+
+414
+00:28:25,505 --> 00:28:29,040
+Je parcourais ses sauvegardes
+quand j'ai trouvé un répertoire caché
+
+415
+00:28:29,290 --> 00:28:32,178
+nommé "Grosse Bertha".
+J'ai essayé de l'ouvrir, j'ai trouvé ça.
+
+416
+00:28:33,165 --> 00:28:34,198
+C'est quoi ?
+
+417
+00:28:34,365 --> 00:28:35,968
+Une sorte de message crypté.
+
+418
+00:28:36,135 --> 00:28:38,622
+Un code de niveau CSIS,
+donc ça doit être important.
+
+419
+00:28:38,789 --> 00:28:42,468
+- C'est ce que cherche Declan ?
+- Je dirais que c'est probable.
+
+420
+00:28:42,635 --> 00:28:45,335
+"Grosse Bertha" ?
+Ça te dit quelque chose ?
+
+421
+00:28:47,255 --> 00:28:49,458
+Reste là-dessus.
+Tiens-moi au courant.
+
+422
+00:28:49,625 --> 00:28:51,015
+D'accord, ça marche.
+
+423
+00:29:01,825 --> 00:29:03,925
+- Comment ça s'est passé ?
+- Bien.
+
+424
+00:29:04,165 --> 00:29:06,469
+Henry pense avoir trouvé
+quelque chose, donc...
+
+425
+00:29:09,595 --> 00:29:11,416
+Baissez-le, Mlle Freelander.
+
+426
+00:29:11,666 --> 00:29:14,002
+- Maintenant !
+- Vous les avez amenés.
+
+427
+00:29:14,252 --> 00:29:16,358
+- Non, c'était pas moi.
+- En fait, si.
+
+428
+00:29:16,525 --> 00:29:19,215
+- Qu'est-ce qui se passe ?
+- Je vous retourne la question.
+
+429
+00:29:19,935 --> 00:29:22,992
+Vous êtes par la présente
+remise en détention provisoire.
+
+430
+00:29:23,678 --> 00:29:24,804
+Venez calmement.
+
+431
+00:29:28,182 --> 00:29:30,543
+- Lâchez-moi ! Laissez-moi !
+- Doucement !
+
+432
+00:29:30,710 --> 00:29:31,860
+Laissez-moi !
+
+433
+00:29:32,235 --> 00:29:33,813
+Elle est un risque croissant.
+
+434
+00:29:34,289 --> 00:29:35,940
+Il faut des mesures radicales.
+
+435
+00:29:36,190 --> 00:29:38,860
+Mettez-la dans la Cage.
+Sécurité maximale.
+
+436
+00:29:47,465 --> 00:29:49,704
+Vous avez fait une grosse erreur,
+mon pote.
+
+437
+00:29:51,015 --> 00:29:52,755
+Nous ne sommes pas l'ennemi.
+
+438
+00:29:55,415 --> 00:29:57,545
+Que savez-vous sur Grosse Bertha ?
+
+439
+00:30:01,007 --> 00:30:03,176
+Vous taire n'y changera rien,
+Dr Zimmerman.
+
+440
+00:30:03,426 --> 00:30:06,058
+- Vous ne pouvez contrôler vos pensées.
+- Arrête, Scofield.
+
+441
+00:30:06,225 --> 00:30:08,875
+Tu sais aussi bien que moi
+qu'il ne sait rien.
+
+442
+00:30:09,705 --> 00:30:11,768
+Je vous assure
+qu'il n'y a aucun complot.
+
+443
+00:30:12,018 --> 00:30:13,379
+Comment le savez-vous ?
+
+444
+00:30:14,115 --> 00:30:16,439
+Vous ne pouvez pas lire
+les pensées des autres, donc...
+
+445
+00:30:16,689 --> 00:30:18,233
+On peut lire les siennes.
+
+446
+00:30:18,625 --> 00:30:19,692
+Et les vôtres.
+
+447
+00:30:19,942 --> 00:30:23,071
+Protéger un fugitif est un crime grave
+selon la charte du Sanctuaire.
+
+448
+00:30:23,321 --> 00:30:24,890
+Vous voulez aussi m'enfermer ?
+
+449
+00:30:25,057 --> 00:30:26,057
+Allez-y.
+
+450
+00:30:32,215 --> 00:30:35,324
+Attendez, je voudrais m'excuser
+pour le comportement de Scofield.
+
+451
+00:30:35,491 --> 00:30:36,868
+Vous ne méritez pas ça.
+
+452
+00:30:37,035 --> 00:30:39,958
+L'apparition d'informations
+sur Grosse Bertha nous a ébranlés.
+
+453
+00:30:40,125 --> 00:30:41,965
+Qu'est-ce que c'est, Grosse Bertha ?
+
+454
+00:30:47,745 --> 00:30:48,895
+J'ai compris.
+
+455
+00:30:49,505 --> 00:30:52,155
+Vous découvrez
+toutes mes pensées intimes,
+
+456
+00:30:52,735 --> 00:30:55,588
+mais quand il faut me dire pourquoi
+je suis traité comme un criminel,
+
+457
+00:30:55,755 --> 00:30:58,355
+- c'est tout de suite impossible.
+- Très bien.
+
+458
+00:31:02,065 --> 00:31:04,718
+Mais ce que je vais vous dire
+est hautement confidentiel.
+
+459
+00:31:04,885 --> 00:31:07,935
+Seul une poignée de gens sur Terre
+le savent.
+
+460
+00:31:08,875 --> 00:31:09,875
+D'accord.
+
+461
+00:31:11,905 --> 00:31:15,909
+Beaucoup d'anormaux mortels résident
+au sein du réseau, comme vous le savez.
+
+462
+00:31:17,075 --> 00:31:21,079
+En général, ce n'est pas un problème,
+à condition de prendre des précautions.
+
+463
+00:31:21,875 --> 00:31:24,048
+Cependant, il existe des anormaux
+
+464
+00:31:24,298 --> 00:31:26,890
+si dangereux qu'on ne peut pas
+se risquer à les garder.
+
+465
+00:31:27,057 --> 00:31:28,428
+À quel point ?
+
+466
+00:31:28,595 --> 00:31:32,168
+Tremblements de terre, inondations,
+feux, toxines atmosphériques,
+
+467
+00:31:32,335 --> 00:31:35,977
+et croyez-moi,
+la liste des possibilités est sans fin.
+
+468
+00:31:37,015 --> 00:31:39,515
+Grosse Bertha
+était un de ces anormaux.
+
+469
+00:31:40,195 --> 00:31:42,848
+Elle pouvait changer
+la résonance magnétique de son corps
+
+470
+00:31:43,015 --> 00:31:45,445
+pour manipuler
+les plaques tectoniques.
+
+471
+00:31:45,695 --> 00:31:48,656
+Les dégâts qu'elle provoquait
+étaient inimaginables.
+
+472
+00:31:48,906 --> 00:31:51,575
+Le Dr Magnus l'a pistée, capturée,
+
+473
+00:31:51,742 --> 00:31:55,205
+et euthanasiée selon le protocole,
+ou du moins nous le pensions,
+
+474
+00:31:55,905 --> 00:31:57,582
+mais ces fichiers indiquent
+
+475
+00:31:57,832 --> 00:31:59,818
+que Grosse Bertha
+pourrait être en vie.
+
+476
+00:31:59,985 --> 00:32:03,171
+Vous pouvez comprendre
+à quel point tout ceci est dangereux.
+
+477
+00:32:03,421 --> 00:32:04,708
+Celui qui la contrôle
+
+478
+00:32:04,875 --> 00:32:08,384
+peut rançonner des gouvernements,
+ou raser des villes entières.
+
+479
+00:32:08,634 --> 00:32:10,088
+Je vais vous expliquer.
+
+480
+00:32:10,255 --> 00:32:12,518
+Je connais Magnus.
+Je travaille avec elle.
+
+481
+00:32:12,685 --> 00:32:14,933
+Elle ne relâcherait jamais
+une telle créature.
+
+482
+00:32:15,183 --> 00:32:18,533
+Il y a quelque temps,
+je vous aurais cru sans réfléchir,
+
+483
+00:32:19,845 --> 00:32:21,356
+mais j'en viens à douter.
+
+484
+00:32:33,990 --> 00:32:36,658
+- Je croyais que tu l'avais.
+- Je l'avais, c'est juste...
+
+485
+00:32:36,825 --> 00:32:39,735
+C'est pas pareil avec vous
+en train de me surveiller.
+
+486
+00:32:45,275 --> 00:32:46,275
+Voilà.
+
+487
+00:32:46,855 --> 00:32:48,638
+Le dossier sur Grosse Bertha.
+
+488
+00:32:48,805 --> 00:32:51,052
+Mon Dieu.
+Elle est vivante.
+
+489
+00:32:51,302 --> 00:32:53,930
+- Et Magnus est en train de la déplacer.
+- Vers où ?
+
+490
+00:32:54,562 --> 00:32:58,059
+Elle est dans un conteneur
+en mer d'Arabie d'après les coordonnées.
+
+491
+00:32:58,309 --> 00:32:59,477
+À quoi elle pense ?
+
+492
+00:32:59,727 --> 00:33:02,021
+Il faut envoyer
+une équipe de récupération.
+
+493
+00:33:02,385 --> 00:33:05,275
+Si elle tombe entre de mauvaises mains,
+ce serait un désastre.
+
+494
+00:33:06,984 --> 00:33:08,109
+Je m'en occupe.
+
+495
+00:33:11,255 --> 00:33:13,557
+Vous croyez toujours
+en son innocence ?
+
+496
+00:33:35,429 --> 00:33:37,015
+Il paraît que vous partez.
+
+497
+00:33:37,695 --> 00:33:39,339
+Je peux savoir pourquoi ?
+
+498
+00:33:40,605 --> 00:33:42,055
+Vous le savez déjà.
+
+499
+00:33:43,625 --> 00:33:45,698
+Vous pensez que rester ici va...
+
+500
+00:33:45,865 --> 00:33:48,818
+gêner votre capacité
+à disculper le Dr Magnus.
+
+501
+00:33:49,595 --> 00:33:51,245
+J'admire votre loyauté,
+
+502
+00:33:51,863 --> 00:33:54,628
+mais à un moment, il faut savoir
+mettre ses émotions de côté
+
+503
+00:33:54,795 --> 00:33:58,296
+- pour voir la logique de la situation.
+- Vous trouvez ça logique ?
+
+504
+00:33:59,315 --> 00:34:01,831
+Qu'elle abatte son ami de longue date
+de sang-froid,
+
+505
+00:34:02,585 --> 00:34:05,501
+qu'elle mente pendant des années
+sur la présence d'un anormal mortel,
+
+506
+00:34:05,751 --> 00:34:08,097
+et qu'elle l'envoie en croisière
+sur la côte africaine ?
+
+507
+00:34:08,264 --> 00:34:10,690
+- Vous trouvez ça logique ?
+- Elle est malade.
+
+508
+00:34:11,025 --> 00:34:13,642
+- Elle n'est pas elle-même.
+- J'avais oublié.
+
+509
+00:34:14,175 --> 00:34:16,262
+La fameuse dégénérescence
+du cerveau.
+
+510
+00:34:17,245 --> 00:34:18,790
+Je sais que vous souffrez.
+
+511
+00:34:19,435 --> 00:34:20,935
+Je ressens la même chose.
+
+512
+00:34:23,535 --> 00:34:25,099
+Alors pourquoi vous partez ?
+
+513
+00:34:28,225 --> 00:34:30,065
+Parce que notre travail est terminé.
+
+514
+00:34:30,665 --> 00:34:32,815
+Les preuves parlent d'elles-mêmes.
+
+515
+00:34:35,915 --> 00:34:39,665
+Au moins, on a trouvé Grosse Bertha
+avant qu'une catastrophe n'arrive.
+
+516
+00:34:45,965 --> 00:34:47,265
+Au revoir, Will.
+
+517
+00:34:48,545 --> 00:34:52,015
+Je suis désolée qu'on finisse
+dans des camps opposés.
+
+518
+00:35:34,915 --> 00:35:36,426
+Je sais pas si vous m'entendez.
+
+519
+00:35:38,105 --> 00:35:40,305
+Ou si vous vous en souciez encore.
+
+520
+00:35:43,685 --> 00:35:45,585
+Je suis venu dire au revoir.
+
+521
+00:35:49,095 --> 00:35:52,393
+Je suis désolé que ça soit arrivé,
+et de vous avoir abandonnée.
+
+522
+00:35:55,673 --> 00:35:58,360
+Je veux que vous sachiez
+que je vais rechercher la vérité,
+
+523
+00:35:58,527 --> 00:36:00,187
+aussi longtemps que possible.
+
+524
+00:36:00,985 --> 00:36:02,097
+Je veux juste...
+
+525
+00:36:03,415 --> 00:36:04,996
+Je ne peux plus le faire ici.
+
+526
+00:36:12,253 --> 00:36:13,953
+J'ai besoin d'aide ici !
+
+527
+00:36:19,255 --> 00:36:22,430
+On l'a mise dans un coma artificiel
+pour arrêter les crises.
+
+528
+00:36:22,835 --> 00:36:24,985
+J'ai peur que son état s'aggrave.
+
+529
+00:36:26,465 --> 00:36:27,815
+Ça n'est pas bon.
+
+530
+00:36:30,422 --> 00:36:31,272
+Désolé.
+
+531
+00:36:36,776 --> 00:36:38,458
+Hélas, il y a pire encore.
+
+532
+00:36:38,625 --> 00:36:41,045
+On a eu des nouvelles
+de l'équipe de récupération.
+
+533
+00:36:41,475 --> 00:36:43,743
+Le bateau a été attaqué
+par des mercenaires.
+
+534
+00:36:44,395 --> 00:36:47,645
+Le temps qu'elle l'atteigne,
+la cargaison avait disparu.
+
+535
+00:36:49,465 --> 00:36:51,025
+Grosse Bertha a disparu.
+
+536
+00:37:17,275 --> 00:37:19,175
+Tout ça n'a pas de sens.
+
+537
+00:37:57,662 --> 00:37:59,110
+<i>Ils nous envoient une Triade.</i>
+
+538
+00:37:59,554 --> 00:38:03,030
+<i>Quand on commence à enquêter,
+c'est dur de ne pas lire les pensées.</i>
+
+539
+00:38:03,280 --> 00:38:05,199
+<i>Un criminel télépathe, super.</i>
+
+540
+00:38:05,449 --> 00:38:08,035
+<i>Si elle tombe entre de mauvaises mains,
+ce serait un désastre.</i>
+
+541
+00:38:08,285 --> 00:38:11,873
+<i>Mais les preuves rassemblées
+semblent accuser Helen Magnus.</i>
+
+542
+00:38:13,885 --> 00:38:14,885
+Mon Dieu.
+
+543
+00:38:23,505 --> 00:38:25,970
+- Où est la Triade ?
+- Partie il y a des heures, pourquoi ?
+
+544
+00:38:26,220 --> 00:38:29,038
+Il faut faire un scanner
+de la tête de Magnus.
+
+545
+00:38:29,205 --> 00:38:30,433
+Big Guy est pas mort.
+
+546
+00:38:32,885 --> 00:38:34,898
+C'est impossible.
+Où est la détérioration ?
+
+547
+00:38:35,065 --> 00:38:37,528
+Il y en a jamais eu.
+Ces scanners étaient des faux.
+
+548
+00:38:37,695 --> 00:38:39,560
+- Pourquoi elle a craqué ?
+- Je sais pas,
+
+549
+00:38:39,727 --> 00:38:43,614
+mais je pense qu'elle l'a fait exprès
+pour cacher ses pensées à la Triade.
+
+550
+00:38:44,822 --> 00:38:47,082
+Tu es Magnus,
+et tu veux avoir ces symptômes.
+
+551
+00:38:47,249 --> 00:38:49,488
+- Tu fais quoi ?
+- Je te suis pas.
+
+552
+00:38:49,655 --> 00:38:52,948
+Est-ce qu'il existe un anormal
+qui provoque ce type de comportement ?
+
+553
+00:38:53,115 --> 00:38:54,998
+- Le cafard d'ozone.
+- T'es folle ?
+
+554
+00:38:55,249 --> 00:38:56,792
+La tache sombre sur le scanner.
+
+555
+00:38:57,042 --> 00:38:58,238
+C'est quoi ?
+
+556
+00:38:58,405 --> 00:39:01,297
+Un insecte qui va dans le cerveau
+et se loge dans l'hippocampe,
+
+557
+00:39:01,547 --> 00:39:03,215
+- mais ils sont...
+- Dangereux.
+
+558
+00:39:04,305 --> 00:39:07,053
+Le trafiquant qu'elle a rencontré.
+Ça fait quoi ?
+
+559
+00:39:07,304 --> 00:39:10,915
+Ça sécrète un fluide qui te fait planer,
+mais s'il reste trop longtemps...
+
+560
+00:39:11,082 --> 00:39:13,851
+Ça entraîne pertes de mémoire,
+paranoïa, et sensibilité à la lumière.
+
+561
+00:39:14,634 --> 00:39:16,500
+C'est pour ça
+qu'elle allait au sous-sol.
+
+562
+00:39:16,667 --> 00:39:19,190
+- On doit l'extraire.
+- Je vais préparer une salle.
+
+563
+00:39:20,995 --> 00:39:22,705
+Pourquoi elle aurait fait ça ?
+
+564
+00:39:24,175 --> 00:39:26,908
+Tu as toujours son e-mail
+de la semaine dernière ?
+
+565
+00:39:27,075 --> 00:39:28,075
+Je crois.
+
+566
+00:39:30,565 --> 00:39:31,565
+Le voilà.
+
+567
+00:39:34,725 --> 00:39:35,725
+Juste là.
+
+568
+00:39:36,635 --> 00:39:38,266
+Elle a mal écrit "récupérer".
+
+569
+00:39:38,728 --> 00:39:39,728
+Et alors ?
+
+570
+00:39:39,895 --> 00:39:42,725
+C'est une maniaque de l'orthographe.
+Elle se serait corrigée.
+
+571
+00:39:43,245 --> 00:39:46,648
+Il y a cinq minutes, je pensais pas
+qu'elle mettrait une bête dans sa tête.
+
+572
+00:39:50,525 --> 00:39:52,575
+- C'est quoi, ça ?
+- L'Afrique.
+
+573
+00:39:57,385 --> 00:39:59,635
+Je crois qu'on vient de trouver
+Grosse Bertha.
+
+574
+00:40:13,865 --> 00:40:19,655
+PORT DE DJIBOUTI, AFRIQUE DE L'EST
+
+575
+00:40:25,095 --> 00:40:28,455
+On a attaqué le bateau hier.
+Ils nous ont laissé la cargaison.
+
+576
+00:40:28,622 --> 00:40:31,118
+Bien. Il faut la déplacer
+vers notre lieu sécurisé
+
+577
+00:40:31,285 --> 00:40:33,337
+avant que le Sanctuaire
+ne l'ait localisée.
+
+578
+00:40:33,504 --> 00:40:35,485
+On a un camion
+prêt pour le transport.
+
+579
+00:40:39,005 --> 00:40:41,897
+Certaines choses sont trop puissantes
+pour être entre de mauvaises mains.
+
+580
+00:40:59,665 --> 00:41:01,283
+C'est une balise émettrice.
+
+581
+00:41:04,753 --> 00:41:06,004
+On bouge plus !
+
+582
+00:41:07,455 --> 00:41:08,755
+Ne bougez plus !
+
+583
+00:41:13,525 --> 00:41:14,775
+Allez, on y va.
+
+584
+00:41:21,625 --> 00:41:23,022
+Vous lisez mes pensées ?
+
+585
+00:41:26,166 --> 00:41:27,743
+Grosse Bertha est morte.
+
+586
+00:41:29,675 --> 00:41:32,573
+Je suis désolé qu'on finisse
+dans des camps opposés.
+
+587
+00:41:46,003 --> 00:41:47,748
+Que les choses soient claires.
+
+588
+00:41:47,915 --> 00:41:50,498
+Vous saviez qu'Emma était pas claire
+depuis le début ?
+
+589
+00:41:50,665 --> 00:41:52,328
+Depuis le début serait exagéré,
+
+590
+00:41:52,495 --> 00:41:55,098
+mais ces dernières années,
+j'ai remarqué des fuites
+
+591
+00:41:55,265 --> 00:41:56,971
+qui n'étaient pas liées à la Cabale.
+
+592
+00:41:57,485 --> 00:42:00,058
+Donc vous avez conçu
+ce plan démentiel
+
+593
+00:42:00,225 --> 00:42:01,968
+d'agiter Grosse Bertha devant elle.
+
+594
+00:42:02,135 --> 00:42:04,354
+D'utiliser un cafard d'ozone
+pour être hors-jeu.
+
+595
+00:42:04,606 --> 00:42:07,441
+De tuer Big Guy,
+ce dont je doute au final.
+
+596
+00:42:07,691 --> 00:42:09,944
+Et de rien nous dire,
+pour garder votre couverture.
+
+597
+00:42:10,320 --> 00:42:11,320
+Plutôt simple.
+
+598
+00:42:12,851 --> 00:42:14,031
+Enfantin, oui.
+
+599
+00:42:14,281 --> 00:42:16,367
+Avouez.
+C'est quoi, le truc avec Big Guy ?
+
+600
+00:42:17,225 --> 00:42:19,338
+La couche sous-cutanée
+du torse de son espèce
+
+601
+00:42:19,505 --> 00:42:21,468
+est 4 fois plus épaisse
+que chez l'homme.
+
+602
+00:42:21,635 --> 00:42:24,435
+- Les balles ont pas pénétré.
+- Mais Henry l'a examiné.
+
+603
+00:42:24,602 --> 00:42:26,752
+- Il était mort.
+- D'une certaine manière.
+
+604
+00:42:27,585 --> 00:42:30,554
+J'ai trempé les balles dans la sécrétion
+d'une grenouille chilienne.
+
+605
+00:42:30,721 --> 00:42:32,424
+Ça a permis de simuler sa mort.
+
+606
+00:42:32,674 --> 00:42:34,748
+Oh, mon Dieu, vous êtes folle.
+
+607
+00:42:34,915 --> 00:42:37,668
+Vous êtes folle à lier.
+J'aurais dû les laisser vous embarquer.
+
+608
+00:42:37,835 --> 00:42:40,307
+Balivernes.
+Je savais que vous comprendriez.
+
+609
+00:42:40,808 --> 00:42:43,495
+De plus, j'avais laissé
+des instructions pour tout arrêter
+
+610
+00:42:43,662 --> 00:42:45,646
+d'ici deux jours,
+si ça tournait mal.
+
+611
+00:42:48,205 --> 00:42:50,715
+En parlant de lui,
+il devrait pas être de retour ?
+
+612
+00:42:59,775 --> 00:43:01,728
+Si tu me refais un truc comme ça,
+
+613
+00:43:01,895 --> 00:43:03,288
+je te descends moi-même.
+
+614
+00:43:03,455 --> 00:43:04,575
+C'est compris ?
+
+615
+00:43:05,235 --> 00:43:06,235
+Compris.
+
+616
+00:43:09,515 --> 00:43:12,065
+Qu'est-ce que t'attends ?
+Allons manger.
+

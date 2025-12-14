@@ -1,0 +1,2425 @@
+1
+00:00:00,330 --> 00:00:03,294
+This is what <i>Destiny</i> intended
+from the moment it entered the system.
+
+2
+00:00:05,125 --> 00:00:08,924
+We are going to survive.
+We are going to make it home.
+
+3
+00:00:10,411 --> 00:00:12,206
+The ship came here for a reason.
+
+4
+00:00:13,439 --> 00:00:15,587
+<i>Destiny</i> is powered
+by the stars themselves.
+
+5
+00:00:17,091 --> 00:00:19,435
+He and Young are bumping heads.
+
+6
+00:00:19,645 --> 00:00:21,859
+Not sure which camp
+is the better choice.
+
+7
+00:00:22,079 --> 00:00:23,519
+We pretend nothing happened.
+
+8
+00:00:23,829 --> 00:00:25,979
+We need to be ready
+for the next encounter.
+
+9
+00:00:26,514 --> 00:00:27,735
+For the sake of the crew.
+
+10
+00:00:28,761 --> 00:00:30,071
+For the sake of the crew.
+
+11
+00:00:31,365 --> 00:00:33,691
+The convulsions have stopped,
+but he's unresponsive.
+
+12
+00:00:33,891 --> 00:00:35,742
+He's in a deep catatonic state.
+
+13
+00:00:36,001 --> 00:00:39,611
+<i>This is Scott, Sir.
+We are in a bit of a pickle down here.</i>
+
+14
+00:00:39,993 --> 00:00:43,345
+We haven't found any other sort of exit
+or access to ground level.
+
+15
+00:00:43,626 --> 00:00:46,164
+We've got less than half an hour.
+We're not going to make it.
+
+16
+00:00:46,982 --> 00:00:48,167
+They just jumped.
+
+17
+00:00:48,292 --> 00:00:50,042
+God be with you, Colonel.
+
+18
+00:00:50,916 --> 00:00:51,966
+All of you.
+
+19
+00:01:17,372 --> 00:01:18,572
+<i>Colonel Young?</i>
+
+20
+00:01:27,591 --> 00:01:28,671
+<i>We're all here.</i>
+
+21
+00:01:29,043 --> 00:01:30,243
+I'm on my way.
+
+22
+00:01:54,379 --> 00:01:56,704
+Dr. Rush has just confirmed
+
+23
+00:01:56,829 --> 00:01:59,267
+that our current FTL jump
+
+24
+00:01:59,392 --> 00:02:02,329
+will take us between galaxies.
+
+25
+00:02:03,426 --> 00:02:05,207
+Which means it could take some time
+
+26
+00:02:05,375 --> 00:02:07,835
+before we are able to make
+another Gate connection
+
+27
+00:02:08,003 --> 00:02:10,087
+to replenish our supplies.
+
+28
+00:02:11,289 --> 00:02:15,217
+Strict food and water rationing
+will be reinstated as of now.
+
+29
+00:02:15,720 --> 00:02:19,638
+It also means
+that any hope of rescuing
+
+30
+00:02:19,964 --> 00:02:22,141
+Chloe Armstrong, Eli Wallace,
+
+31
+00:02:22,309 --> 00:02:24,109
+or Lt. Matthew Scott is...
+
+32
+00:02:33,048 --> 00:02:36,864
+<i>Colonel Young, would you please join me
+in the control interface room?</i>
+
+33
+00:02:37,689 --> 00:02:39,189
+I'll be right there.
+
+34
+00:02:40,060 --> 00:02:41,160
+That is all.
+
+35
+00:02:59,964 --> 00:03:02,515
+I've figured out why the ship's been
+trying to conserve power.
+
+36
+00:03:04,019 --> 00:03:05,767
+We're going to fall short.
+
+37
+00:03:05,892 --> 00:03:06,936
+Short of what?
+
+38
+00:03:07,104 --> 00:03:08,562
+Our destination.
+
+39
+00:03:08,950 --> 00:03:12,191
+No matter how I do the sums,
+and how I try and conserve power,
+
+40
+00:03:12,824 --> 00:03:15,207
+<i>Destiny</i> won't make it
+across the void.
+
+41
+00:03:23,904 --> 00:03:31,043
+Projet-SG (1.00)
+www.projet-sg.com
+
+42
+00:03:35,549 --> 00:03:37,842
+We just passed through a star.
+We should be recharged.
+
+43
+00:03:37,967 --> 00:03:40,219
+Yes, we did,
+but like everything else on this ship,
+
+44
+00:03:40,728 --> 00:03:44,161
+<i>Destiny</i>'s FTL drive and power reserves
+are nowhere near 100%.
+
+45
+00:03:44,395 --> 00:03:47,852
+The database says the ship barely made
+the last intergalactic jumps.
+
+46
+00:03:48,020 --> 00:03:49,915
+Recent battle damage
+couldn't have helped.
+
+47
+00:03:50,522 --> 00:03:52,898
+But if the ship realizes that it can't,
+why is it trying?
+
+48
+00:03:53,693 --> 00:03:56,593
+It's programmed to follow
+a predetermined path.
+
+49
+00:03:57,125 --> 00:03:59,183
+Since we haven't managed
+to take control of the ship,
+
+50
+00:03:59,308 --> 00:04:01,688
+our presence is secondary to that.
+
+51
+00:04:02,304 --> 00:04:04,113
+<i>Destiny</i> will drift
+the rest of the way,
+
+52
+00:04:04,238 --> 00:04:06,488
+but our bones will be dust by then.
+
+53
+00:04:08,474 --> 00:04:09,674
+What do we do?
+
+54
+00:04:10,390 --> 00:04:11,959
+I'm open to suggestions.
+
+55
+00:04:13,037 --> 00:04:14,837
+How much will we fall short?
+
+56
+00:04:15,744 --> 00:04:17,427
+50,000 light years, give or take.
+
+57
+00:04:17,672 --> 00:04:19,008
+A few percent of the total.
+
+58
+00:04:20,719 --> 00:04:24,138
+What if we can increase
+the FTL drive's efficiency?
+
+59
+00:04:24,508 --> 00:04:26,307
+Work better
+with the same amount of power.
+
+60
+00:04:26,765 --> 00:04:28,748
+Five percent would do it, actually.
+
+61
+00:04:28,873 --> 00:04:30,519
+We don't know how the engines work.
+
+62
+00:04:31,688 --> 00:04:32,980
+We could make things worse.
+
+63
+00:04:33,148 --> 00:04:34,315
+Mr. Brody's right.
+
+64
+00:04:34,440 --> 00:04:36,765
+Am I the only one here who thinks
+we shouldn't screw around
+
+65
+00:04:36,890 --> 00:04:39,745
+with ancient drive technology
+without a clue about what we're doing?
+
+66
+00:04:40,489 --> 00:04:43,073
+We'll bring someone that does.
+I can think of two or three people.
+
+67
+00:04:43,241 --> 00:04:45,701
+- Who's the best?
+- Amanda Perry.
+
+68
+00:04:47,788 --> 00:04:49,079
+She was part of the team
+
+69
+00:04:49,247 --> 00:04:52,249
+helping to design
+the next generation of hyperdrives.
+
+70
+00:04:52,417 --> 00:04:54,168
+There's no one better qualified.
+
+71
+00:04:54,336 --> 00:04:57,129
+Let's make that happen.
+Let's get her on board.
+
+72
+00:04:59,840 --> 00:05:01,800
+For all her abilities,
+
+73
+00:05:02,895 --> 00:05:06,430
+there are certain disabilities
+of which you should be made aware.
+
+74
+00:05:06,895 --> 00:05:08,045
+For how long?
+
+75
+00:05:08,676 --> 00:05:10,476
+Potentially several weeks.
+
+76
+00:05:11,200 --> 00:05:15,397
+Of course, there'll be someone
+to assist with the day to day things.
+
+77
+00:05:16,035 --> 00:05:17,608
+She requires a respirator
+
+78
+00:05:17,985 --> 00:05:19,234
+in order to breathe.
+
+79
+00:05:19,998 --> 00:05:22,446
+Obviously, there's going to be
+some kind of adjustment.
+
+80
+00:05:22,803 --> 00:05:24,740
+Will I be able to see my family?
+
+81
+00:05:25,424 --> 00:05:26,861
+They've got clearance.
+
+82
+00:05:26,986 --> 00:05:28,539
+Then I'll do it, Sir.
+
+83
+00:05:47,178 --> 00:05:49,056
+Lieutenant? You all right?
+
+84
+00:05:50,012 --> 00:05:51,012
+Mandy...
+
+85
+00:06:04,369 --> 00:06:06,156
+God, I'm really here, aren't i?
+
+86
+00:06:07,733 --> 00:06:08,883
+You sure are.
+
+87
+00:06:10,416 --> 00:06:13,063
+It takes a moment
+to get used to the transfer.
+
+88
+00:06:14,147 --> 00:06:15,749
+You're telling me.
+
+89
+00:06:22,029 --> 00:06:24,520
+I'm sorry, Sir. I couldn't do it.
+
+90
+00:06:25,552 --> 00:06:27,052
+Just leave her. Leave her.
+
+91
+00:06:34,338 --> 00:06:37,354
+So Lieutenant James had trouble
+getting used to the ventilator.
+
+92
+00:06:38,875 --> 00:06:40,025
+I'll be fine.
+
+93
+00:06:45,116 --> 00:06:46,266
+Fix the ship.
+
+94
+00:06:52,479 --> 00:06:53,479
+Ms. Wray?
+
+95
+00:06:58,335 --> 00:07:00,481
+Take all the time you need
+to adjust.
+
+96
+00:07:00,702 --> 00:07:03,272
+This is Mary.
+She'll be your helper while you're here.
+
+97
+00:07:04,707 --> 00:07:07,955
+She'll also brief you on how to cope
+with your host's disabilities.
+
+98
+00:07:08,080 --> 00:07:10,679
+Afterwards, Dr. Strom
+was hoping to see you...
+
+99
+00:07:12,382 --> 00:07:13,766
+I'm going home.
+
+100
+00:07:24,719 --> 00:07:25,778
+I couldn't do it.
+
+101
+00:07:27,609 --> 00:07:29,209
+Yeah, I know. I heard.
+
+102
+00:07:30,865 --> 00:07:31,865
+It's okay.
+
+103
+00:07:33,165 --> 00:07:34,315
+No, it isn't.
+
+104
+00:07:35,474 --> 00:07:36,724
+I let him down.
+
+105
+00:07:37,220 --> 00:07:38,320
+The Colonel?
+
+106
+00:07:39,030 --> 00:07:41,330
+Listen, he's the last person that...
+
+107
+00:07:48,838 --> 00:07:50,138
+I recognize you.
+
+108
+00:07:53,123 --> 00:07:55,256
+As I was saying,
+this is the mess hall,
+
+109
+00:07:55,381 --> 00:07:57,684
+one of the places
+you probably want to try and avoid.
+
+110
+00:07:58,384 --> 00:07:59,394
+What are those?
+
+111
+00:08:01,127 --> 00:08:04,566
+They're a kind of fruit we collected
+from a planet we visited recently.
+
+112
+00:08:05,454 --> 00:08:07,027
+May I try one?
+
+113
+00:08:09,348 --> 00:08:10,548
+I'll warn you,
+
+114
+00:08:10,918 --> 00:08:13,193
+most people find
+these rather bitter.
+
+115
+00:08:21,340 --> 00:08:23,168
+Most people
+spit them right back out.
+
+116
+00:08:24,209 --> 00:08:28,048
+This is the first food I've been able
+to feed myself since I was nine.
+
+117
+00:08:29,391 --> 00:08:32,085
+<i>TJ, this is Young.
+Have you seen Rush?</i>
+
+118
+00:08:32,595 --> 00:08:34,228
+<i>He turned his damn radio off.</i>
+
+119
+00:08:34,716 --> 00:08:36,596
+I think I've gotten you in trouble.
+
+120
+00:08:39,881 --> 00:08:41,979
+They're on their way now, Sir.
+
+121
+00:08:53,291 --> 00:08:54,991
+I took my vacation time.
+
+122
+00:08:55,660 --> 00:08:56,660
+All of it?
+
+123
+00:08:57,781 --> 00:09:00,208
+We have a lot of lost time
+to make up for.
+
+124
+00:09:00,840 --> 00:09:02,249
+You got rid of the ugly chair.
+
+125
+00:09:15,316 --> 00:09:17,216
+You can do better than that.
+
+126
+00:09:28,235 --> 00:09:30,235
+Five or six percent would do it.
+
+127
+00:09:30,403 --> 00:09:31,668
+That's the thought.
+
+128
+00:09:31,793 --> 00:09:32,821
+The problem is
+
+129
+00:09:32,989 --> 00:09:35,851
+how to do that without any access
+to the ship's core systems.
+
+130
+00:09:35,976 --> 00:09:39,235
+Or for that matter, any knowledge
+of how they work in the first place.
+
+131
+00:09:40,652 --> 00:09:41,952
+I'm just saying.
+
+132
+00:09:42,361 --> 00:09:44,514
+Show her everything you've got.
+
+133
+00:10:00,811 --> 00:10:01,811
+Nicholas?
+
+134
+00:10:07,023 --> 00:10:08,023
+It's me again.
+
+135
+00:10:09,672 --> 00:10:11,122
+We came out of FTL.
+
+136
+00:10:12,355 --> 00:10:14,505
+Something's happened to the ship.
+
+137
+00:10:20,620 --> 00:10:22,694
+I promise to get to everyone,
+
+138
+00:10:23,152 --> 00:10:25,664
+but I need anyone
+who has a potential head injury
+
+139
+00:10:25,789 --> 00:10:28,001
+or internal trauma
+to move to the front of the line.
+
+140
+00:10:28,517 --> 00:10:29,667
+Don't be shy.
+
+141
+00:10:32,511 --> 00:10:33,761
+Put us to work.
+
+142
+00:10:34,005 --> 00:10:38,005
+Anyone who's shaky,
+don't take any chances.
+
+143
+00:10:38,255 --> 00:10:40,555
+- The quiet could be in the worst shape.
+- What about you?
+
+144
+00:10:42,122 --> 00:10:43,531
+I'm fine. Go.
+
+145
+00:10:45,849 --> 00:10:47,699
+Are we under attack or not?
+
+146
+00:10:49,048 --> 00:10:52,276
+- It was a malfunction.
+- No sign of any hostile ships in range.
+
+147
+00:10:52,444 --> 00:10:53,790
+Not that I can tell, anyway.
+
+148
+00:10:53,915 --> 00:10:57,447
+- What happened, then?
+- An explosion in the FTL drive.
+
+149
+00:10:58,158 --> 00:10:59,782
+- We're adrift.
+- Why?
+
+150
+00:10:59,907 --> 00:11:02,209
+- An overload?
+- It could be anything.
+
+151
+00:11:02,829 --> 00:11:05,247
+- Can we access the engine?
+- Not without a space suit.
+
+152
+00:11:05,834 --> 00:11:07,499
+Most of the ship's unpressurized.
+
+153
+00:11:07,667 --> 00:11:09,459
+Best to check the damage
+from outside.
+
+154
+00:11:09,627 --> 00:11:12,129
+- I can fly a kino pretty well.
+- Get to it.
+
+155
+00:11:12,297 --> 00:11:13,714
+You two monitor from here.
+
+156
+00:11:14,169 --> 00:11:15,799
+I'll use the stones to report this.
+
+157
+00:11:23,432 --> 00:11:25,309
+Mandy, are you sure
+you're all right?
+
+158
+00:11:25,477 --> 00:11:27,085
+For a second there,
+
+159
+00:11:27,366 --> 00:11:31,773
+I was back on Earth in a strange house,
+back in my own body again.
+
+160
+00:11:31,941 --> 00:11:35,537
+The link is temporarily severed
+when we go in and out of FTL.
+
+161
+00:11:35,662 --> 00:11:38,155
+I'm sorry, we weren't expecting
+that to happen.
+
+162
+00:11:39,218 --> 00:11:40,218
+I'm fine.
+
+163
+00:11:42,402 --> 00:11:45,162
+- What do you remember?
+- I was walking,
+
+164
+00:11:45,330 --> 00:11:48,874
+then I was somewhere else,
+and I don't know how I got there.
+
+165
+00:11:49,042 --> 00:11:50,897
+Then the explosion happened.
+
+166
+00:11:51,022 --> 00:11:52,627
+So the lapse happened before?
+
+167
+00:11:54,214 --> 00:11:56,977
+Sometimes concussions can cause
+short-term memory loss and confusion.
+
+168
+00:11:57,102 --> 00:12:00,093
+We'll keep you here tonight,
+make sure it's nothing more serious.
+
+169
+00:12:00,629 --> 00:12:03,375
+He was on the floor.
+I couldn't tell if he was hurt or not.
+
+170
+00:12:03,500 --> 00:12:05,223
+Put him over here, guys.
+
+171
+00:12:15,975 --> 00:12:17,027
+Franklin?
+
+172
+00:12:21,028 --> 00:12:23,432
+<i>This is Volker.
+Are you getting pictures?</i>
+
+173
+00:12:23,961 --> 00:12:25,261
+Yeah, we see it.
+
+174
+00:12:27,956 --> 00:12:30,656
+So is there anything
+I need to worry about?
+
+175
+00:12:32,575 --> 00:12:34,132
+I've been with Amanda a long time.
+
+176
+00:12:34,257 --> 00:12:35,837
+We'll monitor her blood pressure,
+
+177
+00:12:36,005 --> 00:12:37,964
+and there's a few other things
+I need to show you
+
+178
+00:12:38,132 --> 00:12:41,510
+that just come with the territory,
+and she'll be fine.
+
+179
+00:12:42,558 --> 00:12:45,158
+I'm sorry,
+it's just I'm new to all this.
+
+180
+00:12:47,175 --> 00:12:48,625
+You'll be fine too.
+
+181
+00:13:02,180 --> 00:13:04,741
+- What's happening?
+- Incoming wormhole.
+
+182
+00:13:05,401 --> 00:13:07,619
+<i>This is Rush.
+We have an incoming wormhole.</i>
+
+183
+00:13:07,787 --> 00:13:11,187
+<i>Sgt. Greer, meet me in the Gate room
+with a defense team.</i>
+
+184
+00:13:21,748 --> 00:13:23,371
+I need everybody out of here!
+
+185
+00:13:23,496 --> 00:13:25,679
+That won't be necessary, Sergeant.
+
+186
+00:13:33,521 --> 00:13:34,729
+Don't shoot!
+
+187
+00:13:34,897 --> 00:13:36,189
+- Stand down!
+- Told you.
+
+188
+00:13:41,339 --> 00:13:43,889
+I didn't expect
+to see you again either.
+
+189
+00:13:44,331 --> 00:13:46,307
+You weren't expecting to see us?
+
+190
+00:13:46,432 --> 00:13:49,264
+Didn't you guys figure out
+a way for us to dial in?
+
+191
+00:13:59,255 --> 00:14:00,805
+I joined a book club.
+
+192
+00:14:01,425 --> 00:14:03,265
+It's supposed to be all women,
+
+193
+00:14:03,551 --> 00:14:06,675
+but there are a few enlightened
+young men who stop by
+
+194
+00:14:06,800 --> 00:14:09,635
+and claim to have an interest
+in 19th century chick-lit.
+
+195
+00:14:14,103 --> 00:14:16,271
+Can we concentrate
+on eating right now?
+
+196
+00:14:16,439 --> 00:14:17,439
+Sorry.
+
+197
+00:14:18,015 --> 00:14:20,150
+You know what, why don't I do that?
+
+198
+00:14:21,055 --> 00:14:22,255
+We'll be fine.
+
+199
+00:14:24,105 --> 00:14:25,305
+One at a time.
+
+200
+00:14:25,945 --> 00:14:26,945
+Got it.
+
+201
+00:14:38,285 --> 00:14:41,115
+This isn't freaking you out, is it?
+
+202
+00:14:42,165 --> 00:14:43,265
+You're here.
+
+203
+00:14:43,485 --> 00:14:45,133
+That's all that matters.
+
+204
+00:14:48,675 --> 00:14:49,675
+Here.
+
+205
+00:14:50,135 --> 00:14:53,517
+We were pretty much resigned to the fact
+that we were stuck out there.
+
+206
+00:14:53,685 --> 00:14:55,602
+Talk about feeling
+like a third wheel.
+
+207
+00:14:57,275 --> 00:14:58,355
+On the second night,
+
+208
+00:14:58,523 --> 00:14:59,890
+the kino remote just lit up.
+
+209
+00:15:00,015 --> 00:15:02,734
+I guess I just thought you guys
+must've figured something out.
+
+210
+00:15:03,315 --> 00:15:04,565
+We dialed back,
+
+211
+00:15:05,165 --> 00:15:06,696
+- and here we are.
+- I didn't think
+
+212
+00:15:06,864 --> 00:15:08,705
+it was possible to miss this bucket.
+
+213
+00:15:09,075 --> 00:15:11,952
+Do you people realize
+you just scared the crap out of us?
+
+214
+00:15:12,120 --> 00:15:14,270
+- Sorry, sir.
+- You're forgiven.
+
+215
+00:15:14,995 --> 00:15:17,082
+- Are they going to live?
+- Looks like it.
+
+216
+00:15:17,250 --> 00:15:19,875
+- It couldn't have been all that bad.
+- That's good.
+
+217
+00:15:20,195 --> 00:15:23,713
+Because if we don't get the FTL drive
+fixed, that's where we'll all be going.
+
+218
+00:15:24,075 --> 00:15:25,382
+- Really?
+- Really, Eli.
+
+219
+00:15:25,550 --> 00:15:28,176
+I'm sorry, but I'm going to have
+to put you right back to work.
+
+220
+00:15:28,735 --> 00:15:29,885
+Welcome back.
+
+221
+00:15:40,465 --> 00:15:41,715
+How's he doing?
+
+222
+00:15:43,425 --> 00:15:44,425
+Same,
+
+223
+00:15:45,115 --> 00:15:47,610
+but something changed
+since we got stuck.
+
+224
+00:15:47,735 --> 00:15:49,656
+Doesn't he look different to you?
+
+225
+00:15:50,825 --> 00:15:51,825
+Maybe.
+
+226
+00:15:51,993 --> 00:15:54,300
+It's like he's in there,
+and he knows exactly what's going on,
+
+227
+00:15:54,425 --> 00:15:57,080
+but his brain and his body
+just aren't connected anymore.
+
+228
+00:15:58,125 --> 00:15:59,275
+I don't know.
+
+229
+00:15:59,635 --> 00:16:00,985
+I talked to Rush,
+
+230
+00:16:01,110 --> 00:16:03,545
+and he says I'm probably
+just imagining it.
+
+231
+00:16:04,985 --> 00:16:06,047
+Maybe I am.
+
+232
+00:16:06,535 --> 00:16:09,676
+I mean, I haven't slept
+in I don't even know...
+
+233
+00:16:10,135 --> 00:16:13,763
+- Why?
+- I keep having the same bad dream.
+
+234
+00:16:14,485 --> 00:16:16,933
+I am stuck in a dark room,
+
+235
+00:16:17,765 --> 00:16:19,015
+but I'm not me,
+
+236
+00:16:19,385 --> 00:16:20,885
+and I can't get out.
+
+237
+00:16:21,485 --> 00:16:22,731
+Are you claustrophobic?
+
+238
+00:16:23,815 --> 00:16:24,865
+Little bit.
+
+239
+00:16:25,105 --> 00:16:28,612
+Maybe it's some weird phantom memory
+from your switch with Dr. Perry.
+
+240
+00:16:31,925 --> 00:16:33,125
+Hey, math boy,
+
+241
+00:16:34,885 --> 00:16:37,037
+Got those calculations
+I was asking about?
+
+242
+00:16:39,565 --> 00:16:40,565
+Done.
+
+243
+00:16:43,055 --> 00:16:44,753
+Please don't call me that.
+
+244
+00:16:46,595 --> 00:16:48,295
+I know what that's like.
+
+245
+00:16:48,633 --> 00:16:52,510
+Nick called me "Little Miss Brilliant"
+a couple of times, and it stuck.
+
+246
+00:16:55,495 --> 00:16:56,495
+Nicholas.
+
+247
+00:16:59,101 --> 00:17:00,977
+We were colleagues back at SGC
+
+248
+00:17:01,145 --> 00:17:02,705
+a couple of years before Icarus.
+
+249
+00:17:03,022 --> 00:17:07,022
+He used to like to bounce ideas off
+of me when working on that ancient proof
+
+250
+00:17:07,235 --> 00:17:08,610
+that you ended up solving.
+
+251
+00:17:08,778 --> 00:17:10,678
+Congratulations, by the way.
+
+252
+00:17:13,655 --> 00:17:14,991
+Look where it got me.
+
+253
+00:17:15,605 --> 00:17:16,993
+I would do anything to be here.
+
+254
+00:17:18,696 --> 00:17:19,496
+Anyway,
+
+255
+00:17:19,664 --> 00:17:22,310
+after Nick's wife passed away,
+
+256
+00:17:22,435 --> 00:17:25,065
+we used to have these long talks
+
+257
+00:17:25,586 --> 00:17:28,155
+about his work and my work,
+
+258
+00:17:28,885 --> 00:17:29,905
+the Ancients,
+
+259
+00:17:30,132 --> 00:17:31,132
+ascension.
+
+260
+00:17:31,765 --> 00:17:33,468
+It was like he didn't even see
+the chair.
+
+261
+00:17:34,465 --> 00:17:36,780
+I tried calling him "Mr. Brilliant"
+a few times,
+
+262
+00:17:36,905 --> 00:17:39,265
+but I don't think
+he ever got the hint.
+
+263
+00:17:40,135 --> 00:17:41,435
+You had a thing?
+
+264
+00:17:41,852 --> 00:17:42,852
+For him?
+
+265
+00:17:44,025 --> 00:17:45,188
+What's wrong with that?
+
+266
+00:17:47,188 --> 00:17:48,864
+I just find it kind of surprising.
+
+267
+00:17:49,610 --> 00:17:53,110
+Why, because a disabled person
+can't have feelings for someone?
+
+268
+00:17:53,235 --> 00:17:55,485
+Because you were talking about him.
+
+269
+00:17:58,325 --> 00:17:59,285
+Thanks for this.
+
+270
+00:18:01,175 --> 00:18:02,175
+Sure...
+
+271
+00:18:14,745 --> 00:18:16,030
+You've got something?
+
+272
+00:18:16,155 --> 00:18:19,306
+Dr. Perry's concluded that the explosion
+may be to our advantage.
+
+273
+00:18:19,431 --> 00:18:20,140
+How?
+
+274
+00:18:21,125 --> 00:18:24,530
+There was an overload. One that probably
+shouldn't have happened
+
+275
+00:18:24,655 --> 00:18:27,981
+because the system is incredibly robust
+with more safeguards than I can count,
+
+276
+00:18:28,149 --> 00:18:29,858
+but it happened,
+
+277
+00:18:30,185 --> 00:18:31,651
+and as with most overloads,
+
+278
+00:18:31,819 --> 00:18:33,290
+It happened in the weakest link.
+
+279
+00:18:33,415 --> 00:18:35,736
+The FTL drive is made up
+of 16 separate modules.
+
+280
+00:18:36,095 --> 00:18:38,290
+The one that blew up
+was the weakest link
+
+281
+00:18:38,415 --> 00:18:41,560
+- because it was the least efficient.
+- The ship can fly on the other drives?
+
+282
+00:18:41,685 --> 00:18:43,429
+Even better than that.
+
+283
+00:18:43,685 --> 00:18:45,248
+Without the worn-out drive
+
+284
+00:18:45,416 --> 00:18:46,916
+bringing down overall efficiency,
+
+285
+00:18:47,545 --> 00:18:50,170
+<i>Destiny</i> should be able
+to make it across the void.
+
+286
+00:18:50,375 --> 00:18:51,463
+That's great work.
+
+287
+00:18:52,035 --> 00:18:53,800
+I wouldn't pat anyone
+on the back just yet.
+
+288
+00:18:53,925 --> 00:18:56,190
+We still need to isolate
+and bypass the damage.
+
+289
+00:18:56,315 --> 00:18:58,756
+With no access to the core systems,
+It has to be done manually.
+
+290
+00:18:59,171 --> 00:18:59,971
+Or...
+
+291
+00:19:00,385 --> 00:19:01,385
+Or what?
+
+292
+00:19:02,015 --> 00:19:03,705
+The robot we found.
+
+293
+00:19:04,385 --> 00:19:06,250
+We think it might be able
+to do some,
+
+294
+00:19:06,375 --> 00:19:08,115
+or maybe all of the repairs.
+
+295
+00:19:08,481 --> 00:19:11,983
+I've already programmed rudimentary
+instructions to begin the repairs.
+
+296
+00:19:13,640 --> 00:19:17,390
+Scott, this is Young. Eli and Dr. Perry
+have a shuttle mission to brief you on.
+
+297
+00:19:17,515 --> 00:19:19,515
+<i>Copy that, sir, I'm on my way.</i>
+
+298
+00:19:22,565 --> 00:19:23,965
+What are the odds?
+
+299
+00:19:24,355 --> 00:19:25,872
+That this is going to work?
+
+300
+00:19:26,785 --> 00:19:29,035
+Fair to middling.
+Time's an issue.
+
+301
+00:19:31,695 --> 00:19:33,395
+There is another option.
+
+302
+00:19:35,045 --> 00:19:36,045
+The Chair.
+
+303
+00:19:37,218 --> 00:19:39,636
+If we can gain access
+to the core systems, we can bypass
+
+304
+00:19:39,804 --> 00:19:41,716
+that damaged section
+in a single command.
+
+305
+00:19:42,185 --> 00:19:43,973
+Tell you what,
+if it comes right down to it,
+
+306
+00:19:44,141 --> 00:19:45,600
+I'll sit in the thing myself.
+
+307
+00:20:08,155 --> 00:20:09,955
+<i>Getting into position now.</i>
+
+308
+00:20:23,545 --> 00:20:24,889
+<i>Opening rear hatch.</i>
+
+309
+00:20:28,005 --> 00:20:29,355
+<i>Okay, we're good.</i>
+
+310
+00:20:30,275 --> 00:20:31,325
+Here we go.
+
+311
+00:20:41,035 --> 00:20:42,035
+Come in.
+
+312
+00:20:46,155 --> 00:20:47,745
+I'd like permission to join the team
+
+313
+00:20:47,913 --> 00:20:49,706
+going through the Stargate
+to the planet.
+
+314
+00:20:49,874 --> 00:20:51,040
+Scott's going.
+
+315
+00:20:51,975 --> 00:20:54,375
+He's a little busy
+flying the shuttle right now.
+
+316
+00:20:54,628 --> 00:20:56,129
+He's already on his way back.
+
+317
+00:20:58,555 --> 00:21:00,341
+So is this how it's going to be?
+
+318
+00:21:00,965 --> 00:21:02,218
+Maybe I'd like to see
+
+319
+00:21:02,386 --> 00:21:04,145
+where I might have
+to raise our child.
+
+320
+00:21:04,685 --> 00:21:06,785
+If the ship isn't fixed by then.
+
+321
+00:21:08,075 --> 00:21:09,975
+Maternal instincts, I guess.
+
+322
+00:21:14,385 --> 00:21:15,481
+Permission granted.
+
+323
+00:21:16,436 --> 00:21:17,436
+Thanks.
+
+324
+00:21:19,145 --> 00:21:20,445
+I'll be careful.
+
+325
+00:21:22,281 --> 00:21:25,560
+Lt. Scott found fresh water
+due East of the Stargate.
+
+326
+00:21:25,685 --> 00:21:26,910
+It'll be your first stop.
+
+327
+00:21:27,415 --> 00:21:29,390
+We should check out
+as much land as possible
+
+328
+00:21:29,515 --> 00:21:31,164
+in case we end up
+having to live there.
+
+329
+00:21:33,985 --> 00:21:34,985
+Send it.
+
+330
+00:21:40,257 --> 00:21:43,718
+You know, we just came from there.
+This is a waste of time.
+
+331
+00:21:44,075 --> 00:21:45,637
+It's standard procedure.
+
+332
+00:21:46,525 --> 00:21:49,349
+If you ask me, sometimes
+you military people are a little too...
+
+333
+00:21:50,535 --> 00:21:51,535
+Holy crap!
+
+334
+00:21:52,295 --> 00:21:54,979
+- Did you see that?
+- I saw. Shut it down.
+
+335
+00:21:57,945 --> 00:22:00,045
+Looks like they found your camp.
+
+336
+00:22:01,575 --> 00:22:03,821
+- Can they get through the Stargate?
+- Not without a remote.
+
+337
+00:22:03,989 --> 00:22:05,930
+Lucky we weren't still there,
+or they'd have one.
+
+338
+00:22:06,055 --> 00:22:07,492
+Either way, we're cut off.
+
+339
+00:22:08,994 --> 00:22:10,694
+We have to fix the ship.
+
+340
+00:24:13,235 --> 00:24:15,485
+You know, I could just
+go to the corner store.
+
+341
+00:24:15,996 --> 00:24:18,149
+We need a decent grocery shopping.
+
+342
+00:24:18,695 --> 00:24:20,541
+We're almost out of everything.
+
+343
+00:24:22,815 --> 00:24:25,365
+I shouldn't be long.
+I'll be right back.
+
+344
+00:24:30,235 --> 00:24:31,385
+I could've gone.
+
+345
+00:24:32,615 --> 00:24:34,472
+I wanted her
+to get out of the house.
+
+346
+00:24:36,141 --> 00:24:38,141
+Even if it's just for an hour.
+
+347
+00:24:47,425 --> 00:24:48,425
+That's it.
+
+348
+00:24:48,853 --> 00:24:50,760
+You've done it.
+That isolates the drive.
+
+349
+00:24:51,675 --> 00:24:53,240
+That was the easy part.
+
+350
+00:24:53,365 --> 00:24:55,645
+We'll start on the bypass
+in the morning, okay?
+
+351
+00:24:56,355 --> 00:24:58,866
+You guys don't do much for fun
+around here, do you?
+
+352
+00:25:01,825 --> 00:25:03,525
+There is Mr. Brody's still.
+
+353
+00:25:03,954 --> 00:25:04,961
+You have a still?
+
+354
+00:25:05,415 --> 00:25:06,565
+Come and see.
+
+355
+00:25:08,204 --> 00:25:11,225
+So I'm in a room, but I'm not me.
+
+356
+00:25:11,525 --> 00:25:12,825
+What do you see?
+
+357
+00:25:13,095 --> 00:25:14,595
+Nothing.
+Blackness,
+
+358
+00:25:15,125 --> 00:25:17,175
+But I know that I am not alone.
+
+359
+00:25:17,925 --> 00:25:19,675
+What if it isn't a dream?
+
+360
+00:25:20,185 --> 00:25:22,230
+- Thank you, Mr. Brody.
+- Cheers.
+
+361
+00:25:22,355 --> 00:25:24,305
+- Thanks.
+- Now, be careful.
+
+362
+00:25:24,755 --> 00:25:27,650
+This stuff has only
+one redeeming quality.
+
+363
+00:25:39,725 --> 00:25:42,025
+We make do with what we have, right?
+
+364
+00:25:44,845 --> 00:25:45,945
+Speaking of,
+
+365
+00:25:46,645 --> 00:25:49,005
+how are you managing
+without your coffee?
+
+366
+00:25:51,175 --> 00:25:52,175
+I must admit,
+
+367
+00:25:53,105 --> 00:25:56,095
+that's been one of the most difficult
+things about being stuck up here.
+
+368
+00:25:56,915 --> 00:25:57,915
+The hardships.
+
+369
+00:25:58,182 --> 00:26:01,135
+I think "insanity" is the proper word.
+There and back again.
+
+370
+00:26:01,535 --> 00:26:03,269
+I've even had dreams
+about the stuff.
+
+371
+00:26:03,437 --> 00:26:06,975
+For years after my accident,
+I had dreams that I could walk.
+
+372
+00:26:08,725 --> 00:26:10,775
+I remember you telling me that.
+
+373
+00:26:11,475 --> 00:26:14,305
+And then I get to do this,
+and it's...
+
+374
+00:26:15,175 --> 00:26:16,625
+It's all happening.
+
+375
+00:26:17,545 --> 00:26:19,695
+God, it's like a dream come true.
+
+376
+00:26:23,425 --> 00:26:25,565
+- But we have to fix your ship.
+- We do.
+
+377
+00:26:25,915 --> 00:26:27,915
+And then I'll have to wake up.
+
+378
+00:26:36,565 --> 00:26:37,565
+Sir?
+
+379
+00:26:40,307 --> 00:26:41,307
+I think...
+
+380
+00:26:44,195 --> 00:26:46,895
+I think I was the one
+who damaged the ship.
+
+381
+00:26:48,475 --> 00:26:52,300
+I'm starting to notice that redeeming
+quality you were talking about.
+
+382
+00:26:52,425 --> 00:26:55,005
+You'll have to ask yourself
+if it was worth it in the morning.
+
+383
+00:26:56,675 --> 00:26:58,925
+- Can I ask you something?
+- Sure.
+
+384
+00:27:00,328 --> 00:27:02,940
+After your wife passed away,
+
+385
+00:27:03,065 --> 00:27:05,625
+and we'd have those long talks,
+
+386
+00:27:07,375 --> 00:27:11,075
+did you have any clue
+how I felt about you?
+
+387
+00:27:12,315 --> 00:27:14,415
+I thought you felt sorry for me.
+
+388
+00:27:16,195 --> 00:27:18,636
+I guess I thought
+the same about you at first.
+
+389
+00:27:19,125 --> 00:27:22,181
+I thought you were absolutely brilliant.
+Remember I used to call you
+
+390
+00:27:22,349 --> 00:27:25,499
+- Little Miss Brilliant...
+- Just forget about that.
+
+391
+00:27:27,525 --> 00:27:29,516
+I could never be sorry about that.
+
+392
+00:27:32,415 --> 00:27:33,465
+Good night.
+
+393
+00:27:40,285 --> 00:27:42,026
+Would you like to come in?
+
+394
+00:28:30,918 --> 00:28:33,441
+I'm sorry, darling, I'm sorry.
+I can't do this.
+
+395
+00:28:33,566 --> 00:28:35,880
+- Why?
+- I just, I can't do this.
+
+396
+00:28:39,201 --> 00:28:40,201
+It's me.
+
+397
+00:28:41,439 --> 00:28:44,249
+I think we both know
+it's a bit more complicated than that.
+
+398
+00:28:44,681 --> 00:28:46,140
+The word is "insane".
+
+399
+00:28:48,185 --> 00:28:52,188
+But this is also
+a once in a lifetime chance for me.
+
+400
+00:28:57,445 --> 00:28:58,445
+Mandy...
+
+401
+00:29:00,064 --> 00:29:01,064
+You know,
+
+402
+00:29:01,813 --> 00:29:03,713
+probably better than anyone,
+
+403
+00:29:04,547 --> 00:29:07,055
+how I was when Gloria passed away.
+
+404
+00:29:09,407 --> 00:29:11,168
+I recently experienced
+
+405
+00:29:12,354 --> 00:29:15,045
+something that made me
+go through it all again.
+
+406
+00:29:16,361 --> 00:29:17,671
+More than a dream.
+
+407
+00:29:19,086 --> 00:29:21,086
+As real as this is to you now,
+
+408
+00:29:23,109 --> 00:29:24,741
+and I can tell myself
+
+409
+00:29:25,267 --> 00:29:26,855
+that it's been years
+
+410
+00:29:27,373 --> 00:29:28,533
+all I like.
+
+411
+00:29:32,118 --> 00:29:33,368
+But in my heart
+
+412
+00:29:35,343 --> 00:29:37,093
+It's just happened again.
+
+413
+00:29:57,339 --> 00:29:59,189
+Well, at least this time...
+
+414
+00:30:01,297 --> 00:30:02,497
+I can do this.
+
+415
+00:30:19,693 --> 00:30:20,484
+Sorry...
+
+416
+00:30:21,707 --> 00:30:22,757
+What is it?
+
+417
+00:30:23,864 --> 00:30:26,593
+The Colonel needs to see you
+in the interface room right away.
+
+418
+00:30:26,718 --> 00:30:29,160
+- Both of you.
+- Is everything all right?
+
+419
+00:30:29,685 --> 00:30:31,495
+No, it's about to hit the fan again.
+
+420
+00:30:33,304 --> 00:30:34,304
+Let's go.
+
+421
+00:30:47,179 --> 00:30:48,429
+You were gone for hours!
+
+422
+00:30:48,597 --> 00:30:49,805
+I know, I'm sorry.
+
+423
+00:30:50,296 --> 00:30:51,660
+I locked my keys in the car...
+
+424
+00:30:51,785 --> 00:30:54,226
+I thought you had gotten
+into an accident.
+
+425
+00:30:54,611 --> 00:30:57,367
+I imagined you being taken away
+by an ambulance!
+
+426
+00:30:59,565 --> 00:31:00,848
+Camile, I'm sorry!
+
+427
+00:31:00,973 --> 00:31:02,776
+My imagination just went...
+
+428
+00:31:05,878 --> 00:31:09,299
+I know what it's like to wait
+for someone you love to come home.
+
+429
+00:31:10,490 --> 00:31:11,640
+I'm here now.
+
+430
+00:31:13,556 --> 00:31:14,556
+I know.
+
+431
+00:31:21,004 --> 00:31:22,004
+Mary?
+
+432
+00:31:22,734 --> 00:31:24,507
+I don't know what's happening.
+
+433
+00:31:25,136 --> 00:31:26,742
+I'm just going to elevate her legs
+
+434
+00:31:26,867 --> 00:31:28,817
+above her heart to stabilize.
+
+435
+00:31:29,090 --> 00:31:30,998
+You're doing fine,
+just try and stay calm.
+
+436
+00:31:31,123 --> 00:31:32,723
+We were just talking,
+and then she...
+
+437
+00:31:33,346 --> 00:31:34,350
+I don't know.
+
+438
+00:31:34,933 --> 00:31:37,219
+- What's going on?
+- She's going to be okay.
+
+439
+00:31:39,981 --> 00:31:41,887
+Lieutenant James left the comm room
+
+440
+00:31:42,012 --> 00:31:43,609
+without wiping her imprint
+
+441
+00:31:43,777 --> 00:31:45,142
+off of the stone.
+
+442
+00:31:45,267 --> 00:31:47,655
+It got knocked onto the table,
+and nobody noticed.
+
+443
+00:31:47,823 --> 00:31:50,908
+We think that in that opportunity,
+an alien might have taken advantage,
+
+444
+00:31:51,076 --> 00:31:54,036
+used the stones,
+and sabotaged our FTL drive.
+
+445
+00:31:54,489 --> 00:31:57,022
+She told me she blacked out
+around the time of the explosion.
+
+446
+00:31:57,147 --> 00:31:59,875
+I thought it was
+post-concussion syndrome.
+
+447
+00:32:02,110 --> 00:32:03,254
+Mystery solved.
+
+448
+00:32:03,592 --> 00:32:05,297
+I don't see how it changes anything.
+
+449
+00:32:05,465 --> 00:32:07,165
+What part don't you get?
+
+450
+00:32:07,676 --> 00:32:10,074
+- They know we're here.
+- Yeah, they already did.
+
+451
+00:32:10,616 --> 00:32:14,557
+Without a tracking device, they can't
+know where we've dropped out of FTL.
+
+452
+00:32:15,020 --> 00:32:16,070
+He's right.
+
+453
+00:32:16,536 --> 00:32:20,340
+The void is unimaginably huge.
+They can't know our location.
+
+454
+00:32:20,465 --> 00:32:23,641
+Unless the alien
+who took over James's body
+
+455
+00:32:23,766 --> 00:32:25,442
+managed to broadcast it.
+
+456
+00:32:26,544 --> 00:32:28,571
+Like a subspace message, you mean.
+
+457
+00:32:29,082 --> 00:32:30,364
+Or the alien
+
+458
+00:32:30,532 --> 00:32:32,520
+figured out our position
+before the explosion
+
+459
+00:32:32,645 --> 00:32:34,159
+and took it back with them.
+
+460
+00:32:34,851 --> 00:32:37,251
+- How would it know how...
+- They sabotaged the ship.
+
+461
+00:32:37,376 --> 00:32:39,248
+How did they know how to do that?
+
+462
+00:32:39,770 --> 00:32:40,820
+He's right.
+
+463
+00:32:43,261 --> 00:32:44,496
+That's it, then.
+
+464
+00:32:46,221 --> 00:32:47,471
+They're coming.
+
+465
+00:32:48,441 --> 00:32:50,099
+I'm so sorry.
+
+466
+00:32:50,224 --> 00:32:51,601
+Don't be silly.
+
+467
+00:32:52,409 --> 00:32:54,159
+I brought this on myself.
+
+468
+00:32:57,218 --> 00:32:58,818
+Forgive the intrusion.
+
+469
+00:32:59,223 --> 00:33:00,273
+Come on in.
+
+470
+00:33:03,732 --> 00:33:05,524
+Colonel Young used the stones
+to report.
+
+471
+00:33:05,692 --> 00:33:09,028
+Dr. Perry may have to return to her body
+in the next several hours.
+
+472
+00:33:09,196 --> 00:33:11,475
+We think it's best that she returns
+to an Air Force facility.
+
+473
+00:33:11,740 --> 00:33:14,313
+- We'll say our goodbyes.
+- I'll wait outside.
+
+474
+00:33:41,126 --> 00:33:41,926
+Let's go!
+
+475
+00:33:46,326 --> 00:33:47,608
+This is Young.
+
+476
+00:33:47,950 --> 00:33:51,195
+<i>While repairs to the ship
+are still days from being complete,</i>
+
+477
+00:33:51,716 --> 00:33:53,308
+<i>despite our best efforts,</i>
+
+478
+00:33:53,433 --> 00:33:56,533
+<i>we believe an attack
+will happen at any moment.</i>
+
+479
+00:33:57,368 --> 00:34:00,468
+<i>Shields will not withstand
+a sustained bombardment.</i>
+
+480
+00:34:00,895 --> 00:34:04,338
+<i>This time, we will not
+be able to jump to FTL.</i>
+
+481
+00:34:05,419 --> 00:34:08,119
+<i>Neither can we escape
+through the Stargate.</i>
+
+482
+00:34:09,236 --> 00:34:12,780
+<i>Lieutenant Scott will be in charge
+of our ship's defenses.</i>
+
+483
+00:34:12,905 --> 00:34:15,205
+<i>Follow his orders as you would mine.</i>
+
+484
+00:34:16,388 --> 00:34:17,526
+<i>If boarded,</i>
+
+485
+00:34:17,651 --> 00:34:21,190
+<i>Sergeant Greer
+will coordinate the strike teams,</i>
+
+486
+00:34:22,297 --> 00:34:23,560
+<i>but everyone</i>
+
+487
+00:34:24,179 --> 00:34:27,093
+<i>will have to join in our defense.</i>
+
+488
+00:34:28,940 --> 00:34:30,890
+We'll give them a good fight.
+
+489
+00:34:40,243 --> 00:34:42,413
+When the time comes,
+don't wait too long.
+
+490
+00:34:49,994 --> 00:34:51,194
+It'll be okay.
+
+491
+00:34:56,419 --> 00:34:57,428
+I want you there
+
+492
+00:34:57,596 --> 00:34:59,196
+to talk me through it.
+
+493
+00:35:04,436 --> 00:35:05,686
+This is all my fault.
+
+494
+00:35:05,854 --> 00:35:07,085
+I panicked.
+
+495
+00:35:17,258 --> 00:35:18,574
+The Chair...
+
+496
+00:35:26,625 --> 00:35:27,864
+<i>They're here, Sir.</i>
+
+497
+00:35:27,989 --> 00:35:29,439
+Tell me what to do.
+
+498
+00:35:29,612 --> 00:35:32,880
+We've managed to isolate
+the damaged module from the rest.
+
+499
+00:35:33,048 --> 00:35:35,340
+Command the ship to enter FTL
+on the remaining drives...
+
+500
+00:35:35,508 --> 00:35:37,050
+How the hell do I do that?
+
+501
+00:35:38,713 --> 00:35:41,096
+First you have to sit in the Chair.
+
+502
+00:35:44,277 --> 00:35:45,354
+Wait!
+
+503
+00:35:45,479 --> 00:35:46,727
+Dr. Franklin just spoke.
+
+504
+00:35:46,895 --> 00:35:48,437
+Something about the Chair.
+
+505
+00:35:48,605 --> 00:35:49,783
+What about it?
+
+506
+00:35:50,191 --> 00:35:52,949
+That's all he said,
+but I think he knows what's going on,
+
+507
+00:35:53,074 --> 00:35:54,943
+and he was trying to say
+it should be him.
+
+508
+00:35:55,111 --> 00:35:56,111
+You can't know.
+
+509
+00:35:56,279 --> 00:35:58,197
+No, Sir, but I really think that...
+
+510
+00:35:59,324 --> 00:36:01,784
+- We're under attack. I'm gonna do this.
+- She might be right.
+
+511
+00:36:01,952 --> 00:36:03,793
+I can't ask a man
+to sacrifice his life.
+
+512
+00:36:03,918 --> 00:36:05,454
+He's already been through it.
+
+513
+00:36:05,622 --> 00:36:07,498
+His brain will have
+the time to heal.
+
+514
+00:36:07,666 --> 00:36:10,125
+- We don't have time for this!
+- Which is why it should be him.
+
+515
+00:36:10,293 --> 00:36:12,419
+At least give him the choice.
+
+516
+00:36:35,371 --> 00:36:36,944
+This ship is under attack.
+
+517
+00:36:37,112 --> 00:36:41,240
+If someone doesn't go back,
+sit in the Chair and help the repairs,
+
+518
+00:36:41,660 --> 00:36:43,116
+the ship's going to be taken.
+
+519
+00:36:44,794 --> 00:36:46,694
+We're all going to be taken.
+
+520
+00:36:57,900 --> 00:36:59,675
+Do you understand
+
+521
+00:36:59,843 --> 00:37:01,849
+what we are asking you to do?
+
+522
+00:37:15,436 --> 00:37:19,086
+Fire on the smallest ships.
+They're going to try and board us.
+
+523
+00:37:33,676 --> 00:37:35,239
+Go back to your team.
+
+524
+00:37:55,483 --> 00:37:57,024
+The temperature's dropping fast.
+
+525
+00:37:57,192 --> 00:37:58,396
+Any idea why?
+
+526
+00:37:58,902 --> 00:38:00,652
+I don't know.
+This is something new.
+
+527
+00:38:07,735 --> 00:38:08,735
+Go.
+
+528
+00:38:32,833 --> 00:38:34,102
+Something's happening.
+
+529
+00:38:55,344 --> 00:38:57,285
+Sergeant, keep an eye on that door.
+
+530
+00:39:02,710 --> 00:39:03,710
+Dammit!
+
+531
+00:39:04,676 --> 00:39:07,389
+<i>We're about to be boarded
+right on top of your position.</i>
+
+532
+00:39:07,514 --> 00:39:08,514
+Copy that.
+
+533
+00:39:15,148 --> 00:39:17,765
+- I thought you were...
+- The FTL drive is powering up.
+
+534
+00:39:45,652 --> 00:39:47,300
+Does this mean you fixed the ship?
+
+535
+00:39:48,219 --> 00:39:49,219
+Camile?
+
+536
+00:39:50,637 --> 00:39:52,514
+No, it's me again.
+
+537
+00:39:54,893 --> 00:39:56,143
+Don't you hate that?
+
+538
+00:39:57,314 --> 00:39:58,714
+What's our status?
+
+539
+00:39:59,561 --> 00:40:01,732
+The damaged section of the ship
+has been bypassed.
+
+540
+00:40:01,900 --> 00:40:04,109
+The FTL drive
+has increased efficiency.
+
+541
+00:40:04,893 --> 00:40:07,446
+It looks like
+we're going to make it across.
+
+542
+00:40:18,103 --> 00:40:19,103
+We did it.
+
+543
+00:40:19,542 --> 00:40:20,693
+Yes, we did.
+
+544
+00:40:22,120 --> 00:40:23,820
+And now it's time to go.
+
+545
+00:40:43,180 --> 00:40:45,192
+It's not a very nice thing to say,
+
+546
+00:40:45,777 --> 00:40:47,974
+but I do hope
+you need my help again.
+
+547
+00:40:48,799 --> 00:40:51,299
+I'm not above arranging that,
+you know.
+
+548
+00:41:40,456 --> 00:41:42,006
+Welcome back, Camile.
+
+549
+00:41:52,927 --> 00:41:54,124
+Anything happen?
+
+550
+00:41:54,249 --> 00:41:56,774
+You'd know better than I would.
+I was watching a closed door.
+
+551
+00:41:56,899 --> 00:41:58,932
+- Did it stay closed?
+- Yes, Sir.
+

@@ -1,0 +1,2716 @@
+1
+00:00:03,253 --> 00:00:05,630
+It's an "Agent Needs Assistance" alert.
+From Dom's phone.
+
+2
+00:00:05,798 --> 00:00:07,134
+Dom is missing, not dead.
+
+3
+00:00:07,259 --> 00:00:09,976
+Do whatever you have to do
+to find him.
+
+4
+00:00:10,101 --> 00:00:11,719
+I gave Moe a new life.
+
+5
+00:00:11,887 --> 00:00:13,554
+Everything you said to me is a lie.
+
+6
+00:00:13,806 --> 00:00:15,447
+- Good-bye, sir.
+- Moe...
+
+7
+00:01:15,864 --> 00:01:18,561
+.: Team UnderCovers :.
+
+8
+00:01:28,797 --> 00:01:31,344
+NCIS Los Angeles 1x21
+- Found -
+
+9
+00:02:01,172 --> 00:02:03,539
+<i>Kensi, we got something.
+How fast can you be here?</i>
+
+10
+00:02:03,891 --> 00:02:05,250
+<i>Can you translate this?</i>
+
+11
+00:02:09,492 --> 00:02:10,887
+<i>This should be translated.</i>
+
+12
+00:02:18,855 --> 00:02:22,594
+<i>G, we got a lead. You gotta get in here
+right away. A video just came in.</i>
+
+13
+00:02:22,805 --> 00:02:23,559
+When?
+
+14
+00:02:24,750 --> 00:02:25,950
+What do we know?
+
+15
+00:02:25,992 --> 00:02:28,439
+This appeared
+on a known jihadist Web site
+
+16
+00:02:28,815 --> 00:02:30,293
+less than an hour ago.
+
+17
+00:02:31,629 --> 00:02:33,363
+The evil empire of the West
+
+18
+00:02:33,778 --> 00:02:35,822
+hides behind its false words
+of peace
+
+19
+00:02:36,200 --> 00:02:37,817
+and its United Nations...
+
+20
+00:02:38,366 --> 00:02:39,797
+The infidel war machine
+
+21
+00:02:39,985 --> 00:02:41,965
+designed solely to deny Islam
+
+22
+00:02:42,106 --> 00:02:43,805
+and destroy the Muslim world.
+
+23
+00:02:43,975 --> 00:02:47,560
+If you do not release our falsely
+accused brother Ala a Din Keshwar
+
+24
+00:02:47,995 --> 00:02:49,669
+within 24 hours...
+
+25
+00:02:52,424 --> 00:02:53,881
+this man shall be executed.
+
+26
+00:03:01,472 --> 00:03:03,792
+Looks like it was uploaded
+at an Internet café
+
+27
+00:03:03,834 --> 00:03:06,310
+- in Rabat, Morocco.
+- Strip the hell out of that footage.
+
+28
+00:03:06,605 --> 00:03:08,550
+I want full audio
+and visual forensics...
+
+29
+00:03:08,691 --> 00:03:11,190
+voice analysis and the works.
+Identify what's in the room,
+
+30
+00:03:11,274 --> 00:03:13,276
+what's on their clothes,
+background noises.
+
+31
+00:03:13,589 --> 00:03:16,261
+Send copies to FBI, NSA,
+anyone who can help.
+
+32
+00:03:18,318 --> 00:03:21,033
+Kensi, find out who these people are.
+Where do they operate? Where
+
+33
+00:03:21,117 --> 00:03:22,640
+are they getting their funding?
+
+34
+00:03:22,682 --> 00:03:25,136
+Put together whatever you can
+about this Ala a Din Keshwar
+
+35
+00:03:25,178 --> 00:03:27,023
+- keep Director Vance in the loop.
+- Got it.
+
+36
+00:03:27,065 --> 00:03:29,545
+- What about Dom's parents?
+- What about them?
+
+37
+00:03:29,699 --> 00:03:31,117
+Shouldn't we contact them?
+
+38
+00:03:31,159 --> 00:03:33,629
+To tell what, "Your son's not dead,
+but he's about to be executed"?
+
+39
+00:03:33,755 --> 00:03:35,699
+At the very least,
+they could be praying.
+
+40
+00:03:35,741 --> 00:03:38,360
+- They need to know the truth.
+- I'll have Nate speak with them.
+
+41
+00:03:38,512 --> 00:03:42,263
+Hopefully, by the time we talk to them,
+he's been found safe and sound.
+
+42
+00:03:42,649 --> 00:03:44,181
+We need to secure a transport.
+
+43
+00:03:44,265 --> 00:03:47,500
+We can put together a basic outfit gear
+once we're on the ground overseas.
+
+44
+00:03:47,652 --> 00:03:51,147
+Overseas where? We don't even know
+where they took him.
+
+45
+00:03:51,596 --> 00:03:54,244
+Not yet, but as long as we're wheels up,
+we can land anywhere
+
+46
+00:03:54,286 --> 00:03:57,740
+in the Middle East or North Africa soon
+as we find out who this Ala a Din is,
+
+47
+00:03:57,782 --> 00:03:59,677
+who's got him,
+and where he's being held.
+
+48
+00:03:59,719 --> 00:04:02,104
+And what happens
+if we're halfway over the Atlantic,
+
+49
+00:04:02,257 --> 00:04:05,202
+and we discover that he's being held
+in the Philippines or Indonesia?
+
+50
+00:04:12,245 --> 00:04:14,976
+- They had him over two months, G.
+- But he looked strong.
+
+51
+00:04:18,133 --> 00:04:19,842
+He looked like he was hanging
+in there?
+
+52
+00:04:21,456 --> 00:04:24,538
+All this time and we still don't know
+who grabbed him, why they grabbed him,
+
+53
+00:04:24,726 --> 00:04:26,724
+or what they hoped to get out
+of a brand-new agent.
+
+54
+00:04:27,527 --> 00:04:29,894
+Maybe he was a hostage
+of opportunity.
+
+55
+00:04:30,140 --> 00:04:33,397
+They brought in Colombians
+to snatch him. They hired pros.
+
+56
+00:04:34,821 --> 00:04:36,720
+You think someone's trying
+to get to us?
+
+57
+00:04:37,589 --> 00:04:38,843
+If they have Dom,
+
+58
+00:04:39,171 --> 00:04:40,812
+they already have.
+
+59
+00:04:43,537 --> 00:04:45,447
+All you're giving me is excuses,
+
+60
+00:04:45,489 --> 00:04:47,828
+and I don't have time for it, Dick.
+
+61
+00:04:48,084 --> 00:04:49,103
+Monty,
+
+62
+00:04:49,724 --> 00:04:51,207
+you owe me and you know it.
+
+63
+00:04:51,291 --> 00:04:52,291
+Just man up.
+
+64
+00:04:52,375 --> 00:04:54,043
+<i>S'cusez, General.</i>
+
+65
+00:04:57,672 --> 00:05:00,091
+<i>Non, demain est trop tard.</i>
+
+66
+00:05:00,175 --> 00:05:01,293
+<i>Maintenant!</i>
+
+67
+00:05:02,719 --> 00:05:06,449
+Listen up, you flaccid,
+bureaucratic eunuchs.
+
+68
+00:05:06,639 --> 00:05:09,976
+I want full cooperation
+from each of your agencies
+
+69
+00:05:10,254 --> 00:05:12,061
+and unrestricted access
+
+70
+00:05:12,145 --> 00:05:13,583
+to Tunisian airspace,
+
+71
+00:05:13,625 --> 00:05:16,065
+or by God,
+my next call is to Fradkov,
+
+72
+00:05:16,404 --> 00:05:19,814
+and I will outsource
+this whole damn operation.
+
+73
+00:05:27,118 --> 00:05:28,452
+Feel better?
+
+74
+00:05:28,870 --> 00:05:30,329
+You've done this before.
+
+75
+00:05:30,413 --> 00:05:31,475
+Where are we?
+
+76
+00:05:31,517 --> 00:05:34,164
+We are playing catch-up
+in the dark with a ticking clock.
+
+77
+00:05:34,542 --> 00:05:36,544
+I may know someone who can help.
+
+78
+00:05:36,628 --> 00:05:39,258
+- So what are we waiting for?
+- I'm certain he can help.
+
+79
+00:05:39,464 --> 00:05:40,548
+I'm just not certain
+
+80
+00:05:40,753 --> 00:05:42,258
+that he'll want to,
+
+81
+00:05:42,886 --> 00:05:44,176
+but he owes me a favor...
+
+82
+00:05:44,421 --> 00:05:45,230
+or ten.
+
+83
+00:05:45,512 --> 00:05:46,971
+Maybe if you ask him nicely.
+
+84
+00:05:48,307 --> 00:05:50,349
+It seemed to work
+with the other men on the phone.
+
+85
+00:05:50,433 --> 00:05:54,105
+I doubt that any of them are gentle,
+and they're certainly not men.
+
+86
+00:05:55,863 --> 00:05:57,231
+So who is this contact?
+
+87
+00:06:05,883 --> 00:06:08,367
+What do you mean she didn't give you
+a name? What agency is he with?
+
+88
+00:06:08,409 --> 00:06:09,598
+She didn't say.
+
+89
+00:06:10,289 --> 00:06:11,566
+We're wasting time.
+
+90
+00:06:11,707 --> 00:06:14,123
+This guy could be
+with Animal Control for all I care.
+
+91
+00:06:14,379 --> 00:06:15,726
+I trust Hetty.
+
+92
+00:06:16,655 --> 00:06:18,294
+How is the Duchess of Deception?
+
+93
+00:06:19,643 --> 00:06:20,768
+She's well.
+
+94
+00:06:21,049 --> 00:06:22,214
+How do you know her?
+
+95
+00:06:23,346 --> 00:06:26,260
+She helped me out of a jam here
+and there back in the day.
+
+96
+00:06:26,344 --> 00:06:28,741
+- You know who we're up against?
+- Not really.
+
+97
+00:06:29,503 --> 00:06:32,975
+Ala a Din is a brand-new player.
+Nobody's even got a positive I.D on him.
+
+98
+00:06:33,299 --> 00:06:34,477
+Who's he work for?
+
+99
+00:06:34,561 --> 00:06:36,370
+We believe his group
+is called TAJ...
+
+100
+00:06:36,749 --> 00:06:38,226
+Talib al Jihadiya...
+
+101
+00:06:38,448 --> 00:06:41,108
+and they are working very hard
+to make a name for themselves.
+
+102
+00:06:41,952 --> 00:06:44,820
+Now, there were reports he was killed
+after a bombing in Pakistan.
+
+103
+00:06:45,163 --> 00:06:46,464
+TAJ denied it.
+
+104
+00:06:47,134 --> 00:06:48,927
+But the latest rumor is,
+
+105
+00:06:49,337 --> 00:06:50,627
+he's been captured
+
+106
+00:06:51,353 --> 00:06:52,870
+by one of our own agencies,
+
+107
+00:06:53,181 --> 00:06:54,705
+but nobody's copping to it.
+
+108
+00:06:55,384 --> 00:06:56,665
+Do you know who has him?
+
+109
+00:06:57,398 --> 00:07:00,151
+Defense Intelligence,
+Special Activities Division,
+
+110
+00:07:00,292 --> 00:07:02,378
+National Clandestine Service...
+take your pick.
+
+111
+00:07:02,659 --> 00:07:04,593
+Whoever's got him ain't sharing.
+
+112
+00:07:05,155 --> 00:07:06,884
+How we haven't heard any of this?
+
+113
+00:07:08,292 --> 00:07:09,512
+Nobody has.
+
+114
+00:07:11,433 --> 00:07:13,224
+My guess is, whoever's got him
+
+115
+00:07:13,308 --> 00:07:16,348
+is keeping his capture a secret, hoping
+to smoke out the rest of his group
+
+116
+00:07:17,692 --> 00:07:20,773
+because the guys with the biggest
+trophies get the most funding.
+
+117
+00:07:21,876 --> 00:07:24,044
+- Do you have any idea where he is now?
+- No.
+
+118
+00:07:25,075 --> 00:07:27,029
+This is all I've got
+on the TAJ terrorists.
+
+119
+00:07:27,469 --> 00:07:30,116
+They're thought to have training camps
+set up in Sudan, Eritrea,
+
+120
+00:07:30,645 --> 00:07:31,992
+possibly even Somalia,
+
+121
+00:07:32,180 --> 00:07:33,786
+but nothing's been confirmed yet.
+
+122
+00:07:34,758 --> 00:07:35,996
+I'm sorry about your man.
+
+123
+00:07:37,254 --> 00:07:38,916
+No one deserves to go out like that.
+
+124
+00:07:40,055 --> 00:07:41,403
+He's not dead yet.
+
+125
+00:07:44,579 --> 00:07:45,575
+Good luck.
+
+126
+00:07:47,058 --> 00:07:48,018
+And...
+
+127
+00:07:48,604 --> 00:07:52,073
+tell Hetty they still had her picture up
+in that bar in Velika Krusa.
+
+128
+00:07:53,339 --> 00:07:55,132
+She'll get a kick out of that.
+
+129
+00:08:00,146 --> 00:08:01,204
+No, there.
+
+130
+00:08:07,145 --> 00:08:09,008
+- The other one.
+- Can you stop hovering?
+
+131
+00:08:09,050 --> 00:08:10,332
+I'm just trying to help.
+
+132
+00:08:10,374 --> 00:08:12,575
+You aren't. It's a computer,
+it only takes one person.
+
+133
+00:08:12,659 --> 00:08:14,034
+Apparently not.
+
+134
+00:08:14,235 --> 00:08:17,163
+I haven't been able to find anything
+on this Ala a Din character.
+
+135
+00:08:17,247 --> 00:08:18,797
+- Neither can Eric.
+- Or you.
+
+136
+00:08:19,123 --> 00:08:21,574
+- Pointing fingers is not going to help.
+- Maybe this will.
+
+137
+00:08:21,834 --> 00:08:22,746
+What is it?
+
+138
+00:08:22,788 --> 00:08:25,055
+Information
+on suspected TAJ terrorists.
+
+139
+00:08:25,097 --> 00:08:27,049
+- See what you can dig out.
+- Where you get it?
+
+140
+00:08:27,091 --> 00:08:30,005
+- Couldn't tell you if I wanted to.
+- Okay, we've got video, no audio.
+
+141
+00:08:30,047 --> 00:08:32,469
+We haven't been able to find anything.
+I mean nothing.
+
+142
+00:08:32,553 --> 00:08:34,180
+Ala a Din must be an alias.
+
+143
+00:08:34,756 --> 00:08:37,016
+- How much time do we have?
+- 20 hours at the most.
+
+144
+00:08:37,100 --> 00:08:40,060
+We may be able to reset the deadline
+if we can give the terrorists
+
+145
+00:08:40,144 --> 00:08:42,948
+some indication they're making
+progress with their demands.
+
+146
+00:08:43,314 --> 00:08:44,356
+Stop the video.
+
+147
+00:08:45,245 --> 00:08:46,300
+Now zoom in.
+
+148
+00:08:49,452 --> 00:08:50,821
+Is that your friend Moe?
+
+149
+00:09:13,207 --> 00:09:14,153
+Thank you.
+
+150
+00:09:15,334 --> 00:09:18,599
+Moe's foster parents haven't heard
+from Moe since he fled back to Africa,
+
+151
+00:09:18,683 --> 00:09:20,461
+the same night
+that Dom was abducted.
+
+152
+00:09:20,503 --> 00:09:22,761
+Safar Jadallah recruited Moe
+and the other boys
+
+153
+00:09:22,803 --> 00:09:25,223
+from the Ethiopian Youth Center
+to become Jihadis.
+
+154
+00:09:25,411 --> 00:09:28,176
+- He's got to know something.
+- No, he's in Guantanamo Bay.
+
+155
+00:09:28,218 --> 00:09:30,871
+It'd take 8 hours to get him here.
+Let's question him there.
+
+156
+00:09:30,913 --> 00:09:32,691
+Okay, I'll give them a heads-up.
+
+157
+00:09:33,740 --> 00:09:35,159
+Moe's father was Janjaweed.
+
+158
+00:09:35,201 --> 00:09:37,409
+Sudanese government hired them
+to fight the rebels.
+
+159
+00:09:38,077 --> 00:09:39,718
+Only problem was, they were worse.
+
+160
+00:09:39,760 --> 00:09:41,393
+Hence, the nickname:
+
+161
+00:09:41,689 --> 00:09:44,083
+"devils on horseback with guns."
+
+162
+00:09:44,491 --> 00:09:47,920
+I killed Moe's father, saving
+some aid workers. Maybe it's payback.
+
+163
+00:09:48,739 --> 00:09:50,506
+If Moe is part of Ala a Din's group
+
+164
+00:09:50,590 --> 00:09:53,309
+and they have Dom,
+there's a good chance Dom is in Sudan.
+
+165
+00:09:53,672 --> 00:09:57,633
+There's also a good chance he's being
+held in Chad or Libya or Somalia.
+
+166
+00:09:58,324 --> 00:10:00,928
+If we can't track Moe's movements
+after he arrived in Chad,
+
+167
+00:10:00,970 --> 00:10:02,518
+we've no idea where he could be.
+
+168
+00:10:02,602 --> 00:10:05,466
+If we take a plane to Mamba Bay, Kenya,
+we'd be within striking distance.
+
+169
+00:10:05,508 --> 00:10:07,350
+We're better working
+the case from here,
+
+170
+00:10:07,392 --> 00:10:09,233
+using our time and resources
+to find Dom.
+
+171
+00:10:09,318 --> 00:10:12,653
+- We should be there. We owe it to Dom.
+- Let's just find him first, okay?
+
+172
+00:10:13,420 --> 00:10:16,824
+Having Moe involved, that's our first
+big break. We have a place to start.
+
+173
+00:10:17,617 --> 00:10:18,753
+The Youth Center.
+
+174
+00:10:26,384 --> 00:10:27,941
+- May I help you?
+- Federal agents
+
+175
+00:10:27,983 --> 00:10:30,004
+from the NCIS.
+
+176
+00:10:30,088 --> 00:10:32,548
+This is a Foreign Intelligence
+Surveillance Act warrant...
+
+177
+00:10:32,632 --> 00:10:35,050
+But you've already searched here before,
+two months ago.
+
+178
+00:10:35,134 --> 00:10:37,303
+Safar Jadallah
+has already been arrested.
+
+179
+00:10:37,387 --> 00:10:40,723
+We're interested in a terrorist
+organization, the Talib al Jihadiya.
+
+180
+00:10:41,926 --> 00:10:43,209
+We've got a runner.
+
+181
+00:10:46,491 --> 00:10:47,521
+Federal agent!
+
+182
+00:10:49,127 --> 00:10:49,912
+Stop!
+
+183
+00:11:16,435 --> 00:11:17,958
+Let me go!
+Let me go!
+
+184
+00:11:18,099 --> 00:11:19,095
+Leave me alone!
+
+185
+00:11:19,830 --> 00:11:21,250
+- Stay still!
+- Leave me alone!
+
+186
+00:11:21,292 --> 00:11:22,176
+Don't move!
+
+187
+00:11:26,269 --> 00:11:27,561
+Way to go, Flipper.
+
+188
+00:11:30,391 --> 00:11:32,107
+Think we can get something off it?
+
+189
+00:11:32,192 --> 00:11:33,734
+I sure as hell hope so.
+
+190
+00:12:06,058 --> 00:12:07,643
+I didn't order any room service.
+
+191
+00:13:02,416 --> 00:13:03,407
+Where is he?
+
+192
+00:13:03,491 --> 00:13:06,577
+- I don't even know who that is.
+- Mowadh Dusa,
+
+193
+00:13:06,661 --> 00:13:07,703
+he goes by Moe.
+
+194
+00:13:08,194 --> 00:13:09,830
+Used to hang out at the Youth Center
+
+195
+00:13:10,032 --> 00:13:13,834
+until he went back to Sudan to become
+a terrorist with Talib al-Jihadiya.
+
+196
+00:13:14,886 --> 00:13:16,023
+If you say so.
+
+197
+00:13:19,257 --> 00:13:20,224
+This man?
+
+198
+00:13:21,586 --> 00:13:24,094
+Special Agent Dominic Vail.
+He goes by Dom.
+
+199
+00:13:24,259 --> 00:13:26,508
+He was kidnapped
+and is being held by TAJ terrorists
+
+200
+00:13:26,550 --> 00:13:28,182
+who are threatening to execute him.
+
+201
+00:13:28,705 --> 00:13:31,916
+- I don't know anything about that.
+- Why did you run at the Youth Center?
+
+202
+00:13:31,958 --> 00:13:33,228
+I was late for a class.
+
+203
+00:13:33,312 --> 00:13:36,023
+- Why you threw your computer?
+- Slipped out of my hand.
+
+204
+00:13:36,107 --> 00:13:37,983
+And the knife
+you pulled on my partner?
+
+205
+00:13:38,067 --> 00:13:40,017
+<i>I was just trying to hand it
+over to him.</i>
+
+206
+00:13:41,053 --> 00:13:42,242
+He is smug.
+
+207
+00:13:42,284 --> 00:13:43,320
+<i>Can I go now?</i>
+
+208
+00:13:43,871 --> 00:13:45,532
+You know how I feel about smug.
+
+209
+00:13:45,875 --> 00:13:47,284
+No, it's good.
+
+210
+00:13:47,369 --> 00:13:49,077
+He thinks he's smarter than Callen.
+
+211
+00:13:50,774 --> 00:13:52,474
+So, what's the verdict?
+
+212
+00:13:52,915 --> 00:13:54,823
+Don't take your computer swimming.
+
+213
+00:13:56,938 --> 00:13:59,588
+To do this properly,
+I should flush it with distilled water,
+
+214
+00:13:59,672 --> 00:14:01,965
+and dry it out with a desiccant
+over several days.
+
+215
+00:14:02,007 --> 00:14:04,478
+I don't care about properly,
+I care about quickly.
+
+216
+00:14:04,520 --> 00:14:07,227
+There's information on that computer
+we need now.
+
+217
+00:14:07,269 --> 00:14:08,876
+I know.
+But if I power this up,
+
+218
+00:14:08,918 --> 00:14:10,731
+and there's moisture
+on the components,
+
+219
+00:14:10,773 --> 00:14:13,180
+I could fry the motherboard
+and cause a lethal short to the CPU.
+
+220
+00:14:13,394 --> 00:14:15,374
+But if we don't,
+we waste valuable time.
+
+221
+00:14:15,528 --> 00:14:17,837
+This computer may hold
+the only chance
+
+222
+00:14:17,879 --> 00:14:19,358
+we have of finding Dom
+
+223
+00:14:19,443 --> 00:14:20,950
+in time to save him.
+
+224
+00:14:21,723 --> 00:14:22,569
+Come on.
+
+225
+00:14:23,153 --> 00:14:24,009
+Do it.
+
+226
+00:14:32,029 --> 00:14:33,306
+Son of a bitch! I...
+
+227
+00:14:34,040 --> 00:14:34,998
+I told you...
+
+228
+00:14:36,681 --> 00:14:39,169
+- Now what am I supposed to do?
+- Fix it.
+
+229
+00:14:40,296 --> 00:14:41,476
+You help me,
+
+230
+00:14:42,062 --> 00:14:43,507
+I may be able to help you.
+
+231
+00:14:43,592 --> 00:14:44,716
+But if you don't,
+
+232
+00:14:44,801 --> 00:14:47,823
+it is out of my hands, and you are
+on a one-way trip to Guantanamo Bay.
+
+233
+00:14:48,763 --> 00:14:50,122
+And I promise you,
+
+234
+00:14:50,637 --> 00:14:52,594
+their idea of water sports
+
+235
+00:14:53,455 --> 00:14:55,892
+- does not involve a day at the beach.
+- Your threats...
+
+236
+00:14:56,771 --> 00:14:58,318
+do not frighten me.
+
+237
+00:14:58,731 --> 00:15:00,579
+You know the difference
+between courage
+
+238
+00:15:00,621 --> 00:15:02,276
+and stupidity, Yari?
+
+239
+00:15:05,315 --> 00:15:07,406
+Do you know
+why terrorists target youth groups?
+
+240
+00:15:08,575 --> 00:15:10,872
+Because young people
+are impressionable.
+
+241
+00:15:11,950 --> 00:15:14,580
+It's a lot easier to convince teenagers
+to be suicide bombers.
+
+242
+00:15:14,665 --> 00:15:15,831
+To become a martyr,
+
+243
+00:15:15,916 --> 00:15:16,792
+<i>shahid</i>,
+
+244
+00:15:17,551 --> 00:15:19,988
+is to die for what you believe in.
+
+245
+00:15:21,546 --> 00:15:24,394
+The old <i>Istishhad</i>
+versus <i>Intihar</i> debate.
+
+246
+00:15:26,357 --> 00:15:27,857
+I got another one for you.
+
+247
+00:15:28,326 --> 00:15:31,361
+Do you know the difference
+between suicide bombers and martyrs?
+
+248
+00:15:33,429 --> 00:15:34,519
+Trick question.
+
+249
+00:15:34,724 --> 00:15:36,165
+There is no difference.
+
+250
+00:15:37,408 --> 00:15:39,730
+We pick up both their pieces
+in a sandwich bag.
+
+251
+00:15:44,711 --> 00:15:46,679
+It's kind of hard to make out, but,
+
+252
+00:15:47,886 --> 00:15:49,539
+that thing that looks like
+
+253
+00:15:50,066 --> 00:15:51,625
+a bowl of fruit salad...
+
+254
+00:15:53,095 --> 00:15:55,157
+that's what's left of the skull
+
+255
+00:15:55,685 --> 00:15:57,618
+of an 11-year-old boy,
+
+256
+00:15:58,186 --> 00:16:00,764
+who detonated a bomb
+that was strapped to his chest.
+
+257
+00:16:02,651 --> 00:16:05,631
+I wonder if the heavenly virgins
+dig the headless horseman look.
+
+258
+00:16:07,690 --> 00:16:08,486
+<i>Look...</i>
+
+259
+00:16:09,468 --> 00:16:11,029
+if you want to help this man,
+
+260
+00:16:12,193 --> 00:16:14,765
+you can trade him for Ala a Din.
+
+261
+00:16:14,849 --> 00:16:17,059
+How much time we're gonna waste
+on this human detritus?
+
+262
+00:16:17,143 --> 00:16:19,978
+- We don't negotiate with terrorists.
+- Well, that's too bad.
+
+263
+00:16:20,062 --> 00:16:21,021
+For your friend.
+
+264
+00:16:22,498 --> 00:16:24,783
+I can only imagine
+the look in his face
+
+265
+00:16:25,023 --> 00:16:26,943
+when they cut off his head.
+
+266
+00:16:29,864 --> 00:16:31,573
+You will be an accessory to murder.
+
+267
+00:16:34,702 --> 00:16:35,933
+Sam, let him go.
+
+268
+00:16:36,203 --> 00:16:38,387
+I give him what he wants.
+Why you struggling?
+
+269
+00:16:38,429 --> 00:16:40,593
+- You want <i>shahadah</i>?
+- Stop it! This is it!
+
+270
+00:16:40,916 --> 00:16:44,211
+You want to be a <i>shahid</i>?
+You're on your way to paradise.
+
+271
+00:16:44,295 --> 00:16:47,214
+Sam, listen to me,
+he is no good to us dead.
+
+272
+00:16:49,973 --> 00:16:51,385
+He's no good to anyone.
+
+273
+00:16:53,363 --> 00:16:55,681
+For the record, you don't deserve
+to die by my hands.
+
+274
+00:17:28,538 --> 00:17:29,792
+I messed up, G.
+
+275
+00:17:30,993 --> 00:17:31,954
+He'll live.
+
+276
+00:17:32,974 --> 00:17:35,238
+Thought bringing Moe here
+was the right thing to do.
+
+277
+00:17:35,405 --> 00:17:36,296
+It was.
+
+278
+00:17:36,987 --> 00:17:40,134
+Think about where he'd be right now
+if you hadn't taken him out of Sudan?
+
+279
+00:17:40,380 --> 00:17:41,493
+He'd be dead.
+
+280
+00:17:42,987 --> 00:17:44,312
+And Dom would be safe.
+
+281
+00:17:44,604 --> 00:17:47,253
+The only one who thinks
+this is your fault is you.
+
+282
+00:17:48,096 --> 00:17:50,610
+You want to blame yourself,
+do after we find Dom, okay?
+
+283
+00:17:51,275 --> 00:17:53,280
+Right now I need your "A" game,
+big guy.
+
+284
+00:17:54,550 --> 00:17:55,687
+So does Dom.
+
+285
+00:17:58,903 --> 00:18:00,848
+You think this guy
+Yari's gonna talk?
+
+286
+00:18:01,574 --> 00:18:02,594
+He might...
+
+287
+00:18:03,367 --> 00:18:05,792
+if you open a can of Jihad
+on his ass.
+
+288
+00:18:08,774 --> 00:18:10,988
+The guy is an armchair terrorist
+at best.
+
+289
+00:18:12,242 --> 00:18:14,809
+We made it pretty clear
+we were not messing around.
+
+290
+00:18:20,726 --> 00:18:22,267
+Give me some good news, Kensi.
+
+291
+00:18:22,351 --> 00:18:24,895
+I have a resignation letter
+from a former worker.
+
+292
+00:18:24,979 --> 00:18:26,011
+What's her name?
+
+293
+00:18:27,547 --> 00:18:28,613
+Great.
+
+294
+00:18:29,205 --> 00:18:31,193
+Send whatever you find to my phone.
+
+295
+00:18:32,566 --> 00:18:35,824
+Kensi found a resignation letter
+from a worker at the center.
+
+296
+00:18:36,257 --> 00:18:39,574
+A woman by the name
+of Ameenah Shah quit because
+
+297
+00:18:39,616 --> 00:18:41,870
+she disapproved
+of what was going on there.
+
+298
+00:18:42,348 --> 00:18:45,207
+- Liking this woman already.
+- Oh, come on!
+
+299
+00:18:45,652 --> 00:18:46,507
+Come on.
+
+300
+00:18:46,750 --> 00:18:49,226
+You know I despise your wardrobe?
+
+301
+00:18:50,127 --> 00:18:52,221
+Particularly those flip-flops.
+
+302
+00:18:52,952 --> 00:18:56,051
+Not to mention your surfboard
+leaning precariously
+
+303
+00:18:56,136 --> 00:18:57,372
+close to my car,
+
+304
+00:18:57,513 --> 00:18:59,930
+the sand you track
+into the Ops Center,
+
+305
+00:19:00,014 --> 00:19:03,304
+all the millions of dollars
+of top secret technology
+
+306
+00:19:03,346 --> 00:19:05,727
+you use to play
+your frivolous video games.
+
+307
+00:19:05,812 --> 00:19:07,687
+I only left my surfboard
+near your car once.
+
+308
+00:19:10,302 --> 00:19:11,216
+Twice.
+
+309
+00:19:11,509 --> 00:19:13,777
+- But I don't do it anymore.
+- But I tolerate it...
+
+310
+00:19:14,002 --> 00:19:14,767
+all...
+
+311
+00:19:15,596 --> 00:19:18,420
+for the most part.
+And do you know why,
+
+312
+00:19:18,813 --> 00:19:21,705
+- Mr. Beale?
+- My playful kitten-like personality?
+
+313
+00:19:24,028 --> 00:19:26,008
+I don't know why I just said that.
+
+314
+00:19:26,829 --> 00:19:28,540
+I make jokes when I'm nervous.
+
+315
+00:19:29,301 --> 00:19:32,032
+Use humor as a defense mechanism.
+It's a bad habit.
+
+316
+00:19:32,893 --> 00:19:34,506
+I don't know why I'm talking.
+
+317
+00:19:35,061 --> 00:19:36,244
+I tolerate it
+
+318
+00:19:37,129 --> 00:19:38,760
+because you are unequaled
+
+319
+00:19:39,250 --> 00:19:40,445
+at what you do.
+
+320
+00:19:40,890 --> 00:19:44,183
+I am the way I am,
+because I demand the best.
+
+321
+00:19:44,600 --> 00:19:46,614
+This is an elite unit
+
+322
+00:19:47,353 --> 00:19:49,201
+whose unparalleled success
+
+323
+00:19:49,435 --> 00:19:53,021
+rests on the superior skills
+of those who work here.
+
+324
+00:19:53,572 --> 00:19:55,201
+And that's why I know
+
+325
+00:19:55,243 --> 00:19:57,503
+that if anyone can fix this...
+
+326
+00:19:59,413 --> 00:20:00,281
+it is you.
+
+327
+00:20:02,308 --> 00:20:03,738
+- I'm trying.
+- I know,
+
+328
+00:20:03,780 --> 00:20:05,287
+I know, and I'm sorry.
+
+329
+00:20:05,372 --> 00:20:07,734
+I should have trusted
+your judgment earlier.
+
+330
+00:20:08,148 --> 00:20:11,289
+And because I pushed you,
+I may have buggered everything.
+
+331
+00:20:12,050 --> 00:20:14,696
+But I have complete faith in you,
+
+332
+00:20:15,092 --> 00:20:16,093
+Mr. Beale.
+
+333
+00:20:16,761 --> 00:20:17,851
+Do what you do.
+
+334
+00:20:22,937 --> 00:20:24,332
+That's for good luck.
+
+335
+00:20:25,046 --> 00:20:25,937
+Thanks.
+
+336
+00:20:35,937 --> 00:20:36,646
+Yes.
+
+337
+00:20:36,910 --> 00:20:38,069
+Come on, baby.
+
+338
+00:20:41,423 --> 00:20:42,665
+Come to Papa.
+
+339
+00:20:44,804 --> 00:20:47,412
+Thank you for coming
+and enjoy the rest of your visit.
+
+340
+00:20:48,372 --> 00:20:50,498
+Have a good day.
+Bye-bye. Thank you.
+
+341
+00:20:51,100 --> 00:20:52,212
+Ameenah Shah?
+
+342
+00:20:52,725 --> 00:20:53,443
+Yes?
+
+343
+00:20:53,643 --> 00:20:56,004
+I'm Special Agent Callen,
+this is Special Agent Sam Hanna.
+
+344
+00:20:56,088 --> 00:20:58,715
+- We're from NCIS.
+- We'd like to ask you some questions
+
+345
+00:20:58,799 --> 00:21:01,384
+about your time spent working
+at the Ethiopian Youth Organization.
+
+346
+00:21:02,803 --> 00:21:05,324
+You know a young Sudanese man
+from the center,
+
+347
+00:21:05,366 --> 00:21:06,389
+Mowadh Dusa?
+
+348
+00:21:07,813 --> 00:21:10,727
+I worked mainly
+in an administration capacity...
+
+349
+00:21:10,811 --> 00:21:14,550
+- Organizing schedules, classes.
+- Your resignation letter cited concerns
+
+350
+00:21:14,592 --> 00:21:16,566
+about some
+of what they were teaching there.
+
+351
+00:21:16,650 --> 00:21:18,568
+Ideological differences
+are not a crime.
+
+352
+00:21:18,652 --> 00:21:20,528
+They are if they lead
+to terrorist activities.
+
+353
+00:21:20,612 --> 00:21:22,322
+I should be getting back to work.
+
+354
+00:21:22,457 --> 00:21:24,015
+The man in this video...
+
+355
+00:21:24,596 --> 00:21:25,961
+is a federal agent.
+
+356
+00:21:26,338 --> 00:21:29,704
+He is also a friend, and he will be
+executed if we can't find him.
+
+357
+00:21:31,992 --> 00:21:33,134
+I'm sorry,
+
+358
+00:21:33,217 --> 00:21:35,250
+- but I know nothing about this.
+- Ameenah,
+
+359
+00:21:35,292 --> 00:21:37,478
+you have a degree
+in early childhood education.
+
+360
+00:21:37,520 --> 00:21:39,214
+Clearly, you care
+about young people.
+
+361
+00:21:39,711 --> 00:21:42,926
+Something happened at that Youth Center
+that caused you to quit.
+
+362
+00:21:43,010 --> 00:21:44,653
+Now, I think it's the same thing
+
+363
+00:21:44,695 --> 00:21:47,097
+that caused several of these boys
+like Moe to disappear.
+
+364
+00:21:47,310 --> 00:21:48,848
+These same young men
+
+365
+00:21:49,308 --> 00:21:52,435
+are about to murder a federal agent,
+and they will be terrorists.
+
+366
+00:21:52,855 --> 00:21:55,189
+This is your chance
+to save a lot of lives.
+
+367
+00:21:58,719 --> 00:21:59,918
+There was a man...
+
+368
+00:22:00,852 --> 00:22:03,074
+who started
+to teach religious studies...
+
+369
+00:22:03,843 --> 00:22:05,949
+that became more and more radical.
+
+370
+00:22:06,033 --> 00:22:07,117
+Safar Jadallah?
+
+371
+00:22:09,745 --> 00:22:12,539
+Yeah, we picked him up a while back.
+Who else?
+
+372
+00:22:15,772 --> 00:22:18,503
+There was another man
+who started to come around
+
+373
+00:22:18,587 --> 00:22:20,588
+after Safar got arrested.
+
+374
+00:22:22,208 --> 00:22:24,658
+He was very angry
+that Safar was gone.
+
+375
+00:22:25,071 --> 00:22:27,874
+I think he donated money
+to the Center.
+
+376
+00:22:28,597 --> 00:22:29,931
+His name was Kalil.
+
+377
+00:22:31,784 --> 00:22:34,144
+I don't know his last name.
+I'm sorry.
+
+378
+00:22:34,953 --> 00:22:36,312
+I must get back to work.
+
+379
+00:22:38,031 --> 00:22:39,399
+<i>Shukran jazeerun</i>.
+
+380
+00:22:40,142 --> 00:22:41,205
+<i>Al'afw</i>.
+
+381
+00:22:43,477 --> 00:22:44,988
+- Yo.
+- <i>Eric, it's Callen.</i>
+
+382
+00:22:45,072 --> 00:22:47,291
+I need everything you can find
+on a guy named Kalil.
+
+383
+00:22:47,333 --> 00:22:48,979
+He was connected
+with the Youth Center.
+
+384
+00:22:49,021 --> 00:22:51,161
+I have no last name,
+but I believe he provided funding.
+
+385
+00:22:51,481 --> 00:22:53,455
+Yeah, yeah.
+His name's in Yari's computer.
+
+386
+00:22:53,539 --> 00:22:55,373
+- You got it working?
+- <i>Getting there.</i>
+
+387
+00:22:55,457 --> 00:22:57,250
+Yeah, here it is. Kalil Abramson.
+
+388
+00:22:57,334 --> 00:22:59,834
+<i>Heavy hitter in commercial real estate</i>.
+Single,
+
+389
+00:23:00,091 --> 00:23:01,987
+envious bank account.
+
+390
+00:23:02,111 --> 00:23:05,001
+One outstanding parking ticket
+for an expired meter on Robertson.
+
+391
+00:23:05,043 --> 00:23:06,051
+<i>Find him.</i>
+
+392
+00:23:50,847 --> 00:23:52,785
+- Here you are, sir.
+- Okay.
+
+393
+00:24:02,274 --> 00:24:03,399
+Kalil Abramson.
+
+394
+00:24:05,436 --> 00:24:06,647
+Federal agents.
+
+395
+00:24:06,689 --> 00:24:09,275
+We'd like to ask you some questions
+concerning your involvement
+
+396
+00:24:09,317 --> 00:24:11,324
+with
+the Ethiopian Youth Organization.
+
+397
+00:24:11,408 --> 00:24:13,260
+It's one of my pet projects.
+
+398
+00:24:13,302 --> 00:24:15,610
+I'm very active in youth
+and environmental issues.
+
+399
+00:24:15,652 --> 00:24:17,831
+But please have a seat, join us.
+
+400
+00:24:17,915 --> 00:24:20,625
+It's not a good idea, considering
+your credit cards have been frozen,
+
+401
+00:24:21,100 --> 00:24:22,931
+along with the rest of your assets.
+
+402
+00:24:23,741 --> 00:24:25,380
+I'm sorry. I don't understand.
+
+403
+00:24:25,464 --> 00:24:27,215
+We'll explain
+after you come with us.
+
+404
+00:24:27,507 --> 00:24:30,260
+I don't mean to be rude, but I'm
+in the middle of a business meeting.
+
+405
+00:24:30,429 --> 00:24:32,971
+- Then why did you ask us to join you?
+- I was being polite.
+
+406
+00:24:33,096 --> 00:24:34,055
+Well, I'm not.
+
+407
+00:24:34,428 --> 00:24:37,767
+You're under arrest on charges of
+knowingly funding terrorist activities.
+
+408
+00:24:38,142 --> 00:24:41,217
+Well, then, I'm very glad
+that I'm here in the company
+
+409
+00:24:41,890 --> 00:24:43,005
+of my attorneys.
+
+410
+00:25:33,365 --> 00:25:35,350
+We're going to need a new camera.
+
+411
+00:25:57,032 --> 00:25:58,697
+Kalil Abramson was tipped off.
+
+412
+00:25:58,739 --> 00:26:01,471
+He was surrounded by a wall
+of lawyers before we even got to him.
+
+413
+00:26:01,513 --> 00:26:03,746
+He's not going to help us
+if it means implicating himself.
+
+414
+00:26:03,788 --> 00:26:05,842
+He might if it mitigates
+charges of conspiracy,
+
+415
+00:26:05,884 --> 00:26:07,675
+terrorism and the murder
+of a federal agent.
+
+416
+00:26:07,717 --> 00:26:10,722
+There's no murder. Dom isn't dead.
+Stop referring to him in the past tense.
+
+417
+00:26:10,764 --> 00:26:12,820
+It was just a worst-case
+scenario for Abramson.
+
+418
+00:26:12,904 --> 00:26:15,597
+Forget about worst-case scenarios.
+There's only one-case scenario.
+
+419
+00:26:15,639 --> 00:26:17,492
+That's finding and rescuing Dom.
+
+420
+00:26:19,192 --> 00:26:21,955
+Moe once told me he felt safest
+with his friends at the Youth Center.
+
+421
+00:26:22,039 --> 00:26:23,737
+Maybe he's still in touch with them.
+
+422
+00:26:23,779 --> 00:26:27,403
+If they were culling potential Jihadists
+from the Youth Center, it makes sense
+
+423
+00:26:27,445 --> 00:26:30,765
+- they'd want young men like Moe...
+- There's a SEAL team on standby
+
+424
+00:26:30,807 --> 00:26:32,715
+aboard the USS Cole.
+
+425
+00:26:32,799 --> 00:26:34,384
+They're off the Horn of Africa
+
+426
+00:26:34,468 --> 00:26:37,503
+as part of NATO's
+Operation Ocean Shield.
+
+427
+00:26:38,364 --> 00:26:41,099
+The minute we give them a location,
+
+428
+00:26:41,183 --> 00:26:43,026
+they'll hit it hard.
+
+429
+00:26:43,977 --> 00:26:47,403
+I've called in every favor
+I can think of.
+
+430
+00:26:48,617 --> 00:26:51,100
+I don't think
+I can go through this again.
+
+431
+00:26:51,142 --> 00:26:54,821
+- We're going to find him, Hetty.
+- Do you really believe that?
+
+432
+00:26:56,308 --> 00:26:58,533
+Because we're not going
+to stop looking until we do.
+
+433
+00:26:58,617 --> 00:27:00,860
+I'm going to hold you to that.
+
+434
+00:27:03,246 --> 00:27:05,123
+Extreme situations
+
+435
+00:27:05,333 --> 00:27:08,751
+occasionally require
+extreme measures, Mr. Callen.
+
+436
+00:27:10,048 --> 00:27:11,822
+But at the end of the day,
+
+437
+00:27:12,272 --> 00:27:15,267
+one's methods are seldom questioned
+
+438
+00:27:15,657 --> 00:27:18,884
+when they bring
+about the necessary results.
+
+439
+00:27:26,924 --> 00:27:28,198
+Keep moving.
+
+440
+00:27:29,522 --> 00:27:31,439
+Where did you learn
+to speak English?
+
+441
+00:27:31,710 --> 00:27:32,900
+Television.
+
+442
+00:27:36,528 --> 00:27:38,239
+What's your favorite show?
+
+443
+00:27:46,757 --> 00:27:47,915
+What's your name?
+
+444
+00:27:48,975 --> 00:27:50,418
+You shouldn't have done that.
+
+445
+00:27:51,068 --> 00:27:53,713
+Why?
+You're just going to kill me anyway.
+
+446
+00:27:53,797 --> 00:27:56,090
+- That's not certain.
+- My country...
+
+447
+00:27:56,682 --> 00:27:58,863
+does not negotiate with terrorists.
+
+448
+00:28:00,321 --> 00:28:02,179
+So if you don't help me escape,
+
+449
+00:28:02,595 --> 00:28:04,261
+you'll be a murderer, too.
+
+450
+00:28:08,502 --> 00:28:10,730
+And I know you don't want
+my blood on your hands.
+
+451
+00:28:11,155 --> 00:28:12,607
+How do you know that?
+
+452
+00:28:15,765 --> 00:28:17,362
+Because you're talking to me...
+
+453
+00:28:18,707 --> 00:28:19,838
+in English.
+
+454
+00:28:33,312 --> 00:28:35,191
+- You know this man?
+- No.
+
+455
+00:28:35,672 --> 00:28:36,968
+Do you know this guy?
+
+456
+00:28:37,495 --> 00:28:38,220
+No.
+
+457
+00:28:39,662 --> 00:28:41,763
+One of you tipped off
+Kalil Abramson.
+
+458
+00:28:43,116 --> 00:28:44,555
+Don't look at me, man.
+
+459
+00:29:04,358 --> 00:29:05,785
+What the hell are you doing?
+
+460
+00:29:06,457 --> 00:29:09,436
+I want to know which one
+of you tipped off Kalil.
+
+461
+00:29:09,706 --> 00:29:12,901
+I don't even know who that is. And I've
+never seen this guy before in my life.
+
+462
+00:29:12,943 --> 00:29:14,419
+Tell him. I don't know you, do I?
+
+463
+00:29:32,229 --> 00:29:34,647
+I didn't know that guy,
+and I didn't tip off Kalil.
+
+464
+00:29:34,731 --> 00:29:36,837
+- I swear to God.
+- Whose god would that be?
+
+465
+00:29:36,879 --> 00:29:38,725
+What makes you think
+I believe in any of them?
+
+466
+00:29:38,767 --> 00:29:40,421
+You can't do this.
+I've done nothing.
+
+467
+00:29:40,463 --> 00:29:41,779
+That's exactly what he said.
+
+468
+00:29:41,969 --> 00:29:44,406
+- Please. I... I can help you.
+- You don't know anything.
+
+469
+00:29:44,491 --> 00:29:46,866
+And unfortunately,
+you just saw me kill a man.
+
+470
+00:29:46,908 --> 00:29:49,537
+Wait, wait, wait, wait, wait.
+I know about Mowadh Dusa
+
+471
+00:29:49,737 --> 00:29:52,214
+and the other boys
+who left the Center and went to Chad.
+
+472
+00:29:52,256 --> 00:29:54,000
+- You know where they are?
+- No.
+
+473
+00:29:54,084 --> 00:29:55,935
+Do you know
+where they're holding Agent Vail?
+
+474
+00:29:55,977 --> 00:29:58,463
+But I know who does...
+Kalil Abramson.
+
+475
+00:29:58,547 --> 00:30:01,215
+He paid to recruit the young men
+to become Jihadis.
+
+476
+00:30:01,463 --> 00:30:03,946
+He bought their plane tickets,
+their training.
+
+477
+00:30:03,988 --> 00:30:06,163
+He even paid the Colombians
+to kidnap the agent.
+
+478
+00:30:06,205 --> 00:30:07,680
+He's the man behind all this.
+
+479
+00:30:08,075 --> 00:30:09,910
+He knows where your friend is.
+
+480
+00:30:11,927 --> 00:30:14,103
+- Agent Nassir, you all right?
+- Fine.
+
+481
+00:30:14,187 --> 00:30:15,730
+- Did he talk?
+- Yeah.
+
+482
+00:30:15,814 --> 00:30:18,774
+- Kalil Abramson's behind all of this.
+- What about his lawyers?
+
+483
+00:30:18,858 --> 00:30:21,110
+It's gonna take more than lawyers
+to save him this time.
+
+484
+00:30:39,689 --> 00:30:42,542
+Anything else from the TAJ terrorists?
+Messages? Videos?
+
+485
+00:30:42,584 --> 00:30:43,883
+- Anything?
+- Nothing.
+
+486
+00:30:43,967 --> 00:30:46,626
+We've got less than 40 minutes
+until our 24-hour deadline.
+
+487
+00:30:46,668 --> 00:30:50,139
+What else have you got on Abramson?
+You get anything of Yari's computer?
+
+488
+00:30:50,223 --> 00:30:53,142
+Money trail's hard to follow.
+Kalil's been very careful.
+
+489
+00:30:53,751 --> 00:30:56,103
+Also,
+he's also been traveling, a lot.
+
+490
+00:30:56,505 --> 00:31:00,441
+Mostly in Europe, but on April 6,
+he hops a plane from Athens to Cairo.
+
+491
+00:31:00,818 --> 00:31:03,447
+Then he goes from Egypt
+to Khartoum in Sudan,
+
+492
+00:31:03,489 --> 00:31:05,578
+and then, pops up in Asmara,
+Eritrea.
+
+493
+00:31:05,620 --> 00:31:09,116
+He's there for a couple days, then goes
+to someplace called Berbera in Somalia,
+
+494
+00:31:09,200 --> 00:31:11,744
+- before heading into Yemen.
+- It's a terrorist tour group.
+
+495
+00:31:11,828 --> 00:31:14,531
+Sudan, Eritrea and Somalia
+are the same three countries
+
+496
+00:31:14,573 --> 00:31:17,667
+thought to hold training camps
+for Talib al Jihadiya.
+
+497
+00:31:18,076 --> 00:31:21,337
+Dom's in one of those camps,
+and Kalil Abramson knows which one.
+
+498
+00:31:22,422 --> 00:31:25,299
+- Can you turn on Kalil's cell phone?
+- Way ahead of you.
+
+499
+00:31:26,755 --> 00:31:29,341
+Unfortunately, I haven't been able
+to pick up any audio.
+
+500
+00:31:29,383 --> 00:31:31,097
+His phone's at his house in Malibu.
+
+501
+00:31:31,589 --> 00:31:34,100
+- Hasn't moved in several hours.
+- Son of a bitch is sleeping
+
+502
+00:31:34,142 --> 00:31:37,144
+- while Dom's about to be executed.
+- I'm open to ideas, guys.
+
+503
+00:31:37,385 --> 00:31:39,365
+Think. We're running out of time.
+
+504
+00:31:39,407 --> 00:31:40,356
+What about
+
+505
+00:31:40,698 --> 00:31:42,586
+extraordinary rendition?
+
+506
+00:31:42,776 --> 00:31:46,195
+No. Kalil Abramson obtained
+his American citizenship six years ago.
+
+507
+00:31:46,279 --> 00:31:48,739
+Citizenship can be revoked
+for acts of treason.
+
+508
+00:31:48,823 --> 00:31:50,741
+Rarely and only
+after a lengthy process.
+
+509
+00:31:53,887 --> 00:31:55,915
+I've secured a fully crewed,
+
+510
+00:31:56,150 --> 00:31:59,709
+fully fueled C-130
+at Edwards Air Force Base.
+
+511
+00:31:59,948 --> 00:32:03,323
+If you were to put Kalil Abramson
+on that plane
+
+512
+00:32:04,077 --> 00:32:07,133
+under the guise
+of an unlawful enemy combatant,
+
+513
+00:32:07,217 --> 00:32:09,808
+which he is,
+for all intents and purposes...
+
+514
+00:32:09,850 --> 00:32:12,073
+On his way
+to a black site for interrogation.
+
+515
+00:32:12,115 --> 00:32:15,065
+I've heard rumors
+that Bondsteel in Kosovo
+
+516
+00:32:15,107 --> 00:32:16,309
+is particularly ugly.
+
+517
+00:32:16,798 --> 00:32:19,103
+You're suggesting torture by proxy?
+
+518
+00:32:19,187 --> 00:32:20,354
+No. Of course not.
+
+519
+00:32:20,513 --> 00:32:24,141
+But if Kalil thinks
+that is what is happening,
+
+520
+00:32:24,373 --> 00:32:26,573
+well, I'm sure he'll start talking
+
+521
+00:32:26,615 --> 00:32:29,739
+- before you hit Barstow.
+- None of which would hold up in court.
+
+522
+00:32:29,890 --> 00:32:33,721
+This isn't about building a court case.
+This is about rescuing Dom.
+
+523
+00:32:33,763 --> 00:32:35,578
+Whether you rescue Dom or not,
+
+524
+00:32:35,662 --> 00:32:37,952
+Kalil and his lawyers
+will come after us
+
+525
+00:32:37,994 --> 00:32:41,723
+with a vengeance, and Abramson
+will walk because of it. Not to mention,
+
+526
+00:32:41,765 --> 00:32:44,786
+something like this could end the career
+of everyone in this room.
+
+527
+00:32:44,828 --> 00:32:47,923
+Saving a fellow agent
+is more important than any career, Nate.
+
+528
+00:32:51,554 --> 00:32:52,511
+I'm with Sam.
+
+529
+00:32:53,205 --> 00:32:54,152
+Me, too.
+
+530
+00:33:02,777 --> 00:33:05,594
+Someone once told me
+that extreme situations
+
+531
+00:33:06,167 --> 00:33:08,151
+occasionally call
+for extreme measures.
+
+532
+00:33:16,082 --> 00:33:17,282
+What the hell?
+
+533
+00:33:17,324 --> 00:33:19,205
+I really wanted
+to be a magician anyway.
+
+534
+00:33:20,653 --> 00:33:22,127
+Far be it from me
+
+535
+00:33:22,169 --> 00:33:26,155
+to thwart your dreams of a career
+in prestidigitation, Mr. Getz,
+
+536
+00:33:26,896 --> 00:33:30,299
+but if anyone is going to take
+the fall for this, it will be me.
+
+537
+00:33:30,383 --> 00:33:32,415
+He's in motion...
+Kalil... he's moving.
+
+538
+00:33:32,457 --> 00:33:33,557
+Let's do it.
+
+539
+00:33:46,796 --> 00:33:49,752
+- Do you know how much time I have?
+- No.
+
+540
+00:33:55,026 --> 00:33:55,783
+Wait.
+
+541
+00:33:57,401 --> 00:33:59,851
+I want to send a message
+to my parents.
+
+542
+00:34:00,273 --> 00:34:02,123
+I can't help you with that.
+
+543
+00:34:02,836 --> 00:34:03,836
+I'm sorry.
+
+544
+00:34:07,026 --> 00:34:08,476
+Eat your breakfast.
+
+545
+00:34:47,407 --> 00:34:49,257
+He's turning onto Broadway.
+
+546
+00:34:52,907 --> 00:34:54,657
+Looks like he's stopping.
+
+547
+00:35:27,953 --> 00:35:30,002
+Eric, he's headed
+into the Palace Theater.
+
+548
+00:35:30,221 --> 00:35:31,848
+It's kind of early for a matinee.
+
+549
+00:35:31,963 --> 00:35:34,141
+Kalil Abramson bought
+that theater a few years ago.
+
+550
+00:35:34,183 --> 00:35:36,550
+Supposedly he's turning it into a center
+for the performing art
+
+551
+00:35:36,806 --> 00:35:37,806
+Wonderful.
+
+552
+00:35:37,969 --> 00:35:41,263
+The proceeds from tonight's performance
+of Equus will be
+
+553
+00:35:41,347 --> 00:35:44,047
+donated to help support
+your local Taliban.
+
+554
+00:35:44,267 --> 00:35:46,393
+<i>We need to keep an open line
+to the USS Cole.</i>
+
+555
+00:35:46,477 --> 00:35:48,437
+<i>The minute we get Kalil
+to tell us where Dom</i>
+
+556
+00:35:48,521 --> 00:35:50,856
+- <i>is they have to scramble that SEAL.</i>
+- Copy that.
+
+557
+00:35:53,014 --> 00:35:55,444
+- We could use a layout of this place.
+- Will do.
+
+558
+00:35:55,968 --> 00:35:56,818
+Got it.
+
+559
+00:37:26,455 --> 00:37:28,055
+Is anybody out there?!
+
+560
+00:37:33,751 --> 00:37:35,127
+We've got shots fired.
+
+561
+00:37:35,211 --> 00:37:38,255
+- <i>Sounds like it came from above.</i>
+- I'll see if I can find a camera.
+
+562
+00:38:12,612 --> 00:38:14,959
+<i>I found a couple of security cameras
+on the building next door.</i>
+
+563
+00:38:15,043 --> 00:38:17,043
+<i>I'm trying to access them now.</i>
+
+564
+00:38:29,243 --> 00:38:30,093
+My God.
+
+565
+00:38:30,648 --> 00:38:32,017
+<i>Kensi, what is it?</i>
+
+566
+00:38:32,853 --> 00:38:36,063
+I'm in the room where they were holding
+Dom. This is where they shot the video.
+
+567
+00:38:36,870 --> 00:38:38,670
+Callen, he never left L.A.
+
+568
+00:38:40,184 --> 00:38:42,893
+<i>I've got two camera feeds.
+They're from the roofs next door.</i>
+
+569
+00:38:49,039 --> 00:38:50,244
+Moe, wait a minute.
+
+570
+00:38:52,380 --> 00:38:54,480
+I've got Dom.
+He's on the roof.
+
+571
+00:38:58,131 --> 00:39:00,004
+- Dom is on the roof.
+- Moe is here, too.
+
+572
+00:39:00,088 --> 00:39:02,423
+<i>He's one floor above you, G.</i>
+I'm going to the roof.
+
+573
+00:39:09,496 --> 00:39:11,640
+I got him, I got Dom.
+He's alive.
+
+574
+00:39:11,724 --> 00:39:12,624
+Come on!
+
+575
+00:39:24,237 --> 00:39:25,154
+Get down!
+
+576
+00:39:27,281 --> 00:39:28,969
+- Come on!
+- <i>Zoom in on camera B.</i>
+
+577
+00:39:29,011 --> 00:39:31,901
+- You got a shooter on the roof.
+- Yeah, tell me about it.
+
+578
+00:40:05,707 --> 00:40:06,987
+Kalil's in the stairwell.
+
+579
+00:40:08,145 --> 00:40:10,324
+- You okay?
+- Yeah. I knew you guys would find me.
+
+580
+00:40:13,184 --> 00:40:14,078
+Look out!
+
+581
+00:40:23,045 --> 00:40:25,100
+No! Dom! Dom's been hit!
+
+582
+00:40:25,673 --> 00:40:26,924
+Dom's hit! He's down!
+
+583
+00:40:27,336 --> 00:40:28,342
+Dom's down!
+
+584
+00:40:28,426 --> 00:40:29,885
+Eric, Medivac, now.
+
+585
+00:40:29,969 --> 00:40:32,054
+- Right.
+- Hang in there, buddy.
+
+586
+00:40:34,015 --> 00:40:35,315
+I'm pinned down!
+
+587
+00:41:07,111 --> 00:41:08,261
+Kalil's down!
+
+588
+00:41:09,513 --> 00:41:10,342
+All clear!
+
+589
+00:41:10,885 --> 00:41:12,886
+- Medivac is en route.
+- Keep your eyes open.
+
+590
+00:41:12,970 --> 00:41:14,888
+Come on!
+Hang in there, Dom!
+
+591
+00:41:20,625 --> 00:41:21,436
+Come on.
+
+592
+00:41:22,688 --> 00:41:24,588
+They got his femoral artery.
+
+593
+00:41:24,732 --> 00:41:27,982
+- Where's the damn Medivac?!
+- Medivac's on their way.
+
+594
+00:41:35,597 --> 00:41:36,497
+Come on!
+
+595
+00:41:46,775 --> 00:41:49,339
+All you're doing is pumping out
+what blood's left in his body.
+
+596
+00:41:49,423 --> 00:41:52,092
+- Come on, Dom, fight, man!
+- Sam...
+
+597
+00:41:52,784 --> 00:41:55,387
+- He's gone, Sam.
+- I ain't giving up on him, G.
+
+598
+00:41:56,478 --> 00:41:57,528
+You didn't.
+
+599
+00:41:59,340 --> 00:42:00,559
+None of us did.
+
+600
+00:43:22,755 --> 00:43:24,851
+.: Team UnderCovers :.
+

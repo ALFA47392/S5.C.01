@@ -1,0 +1,2149 @@
+1
+00:00:02,946 --> 00:00:04,972
+- Admettez-le, on est perdus.
+- Du tout.
+
+2
+00:00:05,097 --> 00:00:07,725
+Le col de Naveer
+est juste derrière cette crête.
+
+3
+00:00:07,850 --> 00:00:11,535
+J'aimerais que vous ayez le pouvoir
+d'admettre quand vous avez tort.
+
+4
+00:00:11,660 --> 00:00:14,760
+Pour le moment,
+je pense à un sortilège de mutisme.
+
+5
+00:00:14,980 --> 00:00:17,683
+À la prochaine taverne,
+on demande notre chemin.
+
+6
+00:00:19,363 --> 00:00:20,313
+Attendez.
+
+7
+00:00:25,464 --> 00:00:26,714
+Kahlan Amnell ?
+
+8
+00:00:38,810 --> 00:00:39,705
+Qui va là ?
+
+9
+00:00:47,881 --> 00:00:49,281
+Mère Inquisitrice.
+
+10
+00:00:51,135 --> 00:00:52,435
+Ma chère Kahlan,
+
+11
+00:00:53,216 --> 00:00:55,346
+je savais que Mira
+nous mènerait à toi.
+
+12
+00:00:59,870 --> 00:01:02,477
+- Serena ?
+- Zeddicus Zu'l Zorander.
+
+13
+00:01:03,061 --> 00:01:05,511
+- Mon vieil ami.
+- Mère Inquisitrice ?
+
+14
+00:01:05,850 --> 00:01:07,400
+Voici Richard Cypher.
+
+15
+00:01:09,141 --> 00:01:10,741
+Le sourcier de vérité.
+
+16
+00:01:11,354 --> 00:01:13,004
+C'est un grand honneur.
+
+17
+00:01:14,200 --> 00:01:15,891
+Erin. Tara.
+
+18
+00:01:16,210 --> 00:01:17,010
+Alana.
+
+19
+00:01:21,460 --> 00:01:24,160
+- Je vous croyais cachées.
+- Nous l'étions.
+
+20
+00:01:25,517 --> 00:01:28,379
+Mais les espions de Darken Rahl
+se révèlent plus insidieux que présumés.
+
+21
+00:01:29,187 --> 00:01:31,237
+Ils ont découvert notre refuge.
+
+22
+00:01:32,490 --> 00:01:35,636
+Nous ne sommes plus en sécurité
+dans les Contrées du Milieu.
+
+23
+00:01:35,805 --> 00:01:37,430
+C'est pourquoi nous te cherchions.
+
+24
+00:01:37,598 --> 00:01:39,640
+Nous devons partir
+jusqu'à la chute de Rahl.
+
+25
+00:01:40,000 --> 00:01:42,518
+Nous devons rejoindre
+le sanctuaire de Valeria.
+
+26
+00:01:43,290 --> 00:01:44,186
+Valeria ?
+
+27
+00:01:44,990 --> 00:01:48,090
+C'est une île, cachée par magie,
+loin des côtes.
+
+28
+00:01:48,650 --> 00:01:50,985
+- Donc, vous fuyez ?
+- Temporairement.
+
+29
+00:01:51,830 --> 00:01:54,321
+Quand Rahl sera vaincu,
+nous reviendrons.
+
+30
+00:01:54,800 --> 00:01:56,500
+Mais, Mère Inquisitrice,
+
+31
+00:01:56,682 --> 00:01:59,355
+nous représentons la justice
+dans les Contrées du Milieu.
+
+32
+00:01:59,480 --> 00:02:01,328
+Ils ont vraiment besoin de nous.
+
+33
+00:02:01,990 --> 00:02:03,998
+Rahl veut un monde sans justice.
+
+34
+00:02:04,400 --> 00:02:06,150
+En nous tuant, il l'aura.
+
+35
+00:02:07,860 --> 00:02:10,087
+Nous voulions t'offrir
+l'opportunité de nous suivre.
+
+36
+00:02:15,240 --> 00:02:17,678
+Vous savez que je ne peux
+abandonner ma mission.
+
+37
+00:02:19,930 --> 00:02:21,098
+Je l'espérais.
+
+38
+00:02:22,110 --> 00:02:24,310
+Mais la décision devait être tienne.
+
+39
+00:02:24,488 --> 00:02:25,811
+Il faut avancer.
+
+40
+00:02:26,813 --> 00:02:28,981
+Les quatuors de Rahl nous suivent.
+
+41
+00:02:29,920 --> 00:02:32,933
+Nous avons de l'avance,
+mais ne baissons notre garde.
+
+42
+00:02:33,058 --> 00:02:37,062
+- Nous vous escorterons à la côte.
+- Les autres inquisitrices y seront ?
+
+43
+00:02:40,030 --> 00:02:41,780
+Il n'y en a pas d'autres.
+
+44
+00:02:43,190 --> 00:02:44,580
+Nous sommes les dernières.
+
+45
+00:02:52,383 --> 00:02:53,672
+<i>1x10 - Sacrifice</i>
+
+46
+00:02:54,328 --> 00:02:55,478
+Ecarlate Crew
+
+47
+00:03:01,030 --> 00:03:03,682
+Êtes-vous sûres
+que partir est la chose à faire ?
+
+48
+00:03:04,308 --> 00:03:06,936
+N'est-ce pas le moment
+pour nous de combattre ?
+
+49
+00:03:08,410 --> 00:03:09,355
+On l'a fait.
+
+50
+00:03:11,317 --> 00:03:13,917
+Nous avons combattu
+au temple de Rondaxe.
+
+51
+00:03:17,142 --> 00:03:19,392
+Les quatuors ont bloqué les portes.
+
+52
+00:03:20,030 --> 00:03:21,880
+Il n'y avait aucune sortie.
+
+53
+00:03:22,260 --> 00:03:24,264
+Nous résistions, mais ils étaient...
+
+54
+00:03:24,389 --> 00:03:25,538
+trop nombreux.
+
+55
+00:03:29,813 --> 00:03:32,211
+Demmin Nass a commencé
+à prendre des trophées.
+
+56
+00:03:37,902 --> 00:03:39,202
+Je suis désolée.
+
+57
+00:03:41,200 --> 00:03:43,500
+Et encore, je m'en suis bien sortie.
+
+58
+00:03:43,873 --> 00:03:46,723
+Avant qu'ils me coupent l'autre main,
+ou pire,
+
+59
+00:03:49,459 --> 00:03:51,559
+la mère inquisitrice m'a sauvée.
+
+60
+00:03:59,305 --> 00:04:00,455
+Qu'y a-t-il ?
+
+61
+00:04:01,570 --> 00:04:02,658
+Quelqu'un arrive.
+
+62
+00:04:04,362 --> 00:04:07,012
+Ces quatuors ne devaient pas
+être si loin.
+
+63
+00:04:11,820 --> 00:04:13,070
+Ne bougez pas !
+
+64
+00:04:13,810 --> 00:04:14,760
+Attendez.
+
+65
+00:04:16,190 --> 00:04:18,966
+- Je ne vous veux pas de mal.
+- Qui êtes-vous ?
+
+66
+00:04:19,469 --> 00:04:20,869
+Je m'appelle Finn.
+
+67
+00:04:21,473 --> 00:04:22,873
+Je cherche Dennee.
+
+68
+00:04:26,170 --> 00:04:27,120
+Ma soeur ?
+
+69
+00:04:30,110 --> 00:04:32,813
+- Que lui voulez-vous ?
+- Ça fait des mois que je la cherche.
+
+70
+00:04:33,990 --> 00:04:37,526
+ Des inquisitrices ont été vues
+dans le coin. Je dois la retrouver.
+
+71
+00:04:40,440 --> 00:04:41,690
+Elle est morte.
+
+72
+00:04:43,530 --> 00:04:45,180
+Ma maîtresse est morte.
+
+73
+00:04:48,792 --> 00:04:49,788
+Maîtresse ?
+
+74
+00:04:51,549 --> 00:04:52,625
+Si elle a péri,
+
+75
+00:04:53,214 --> 00:04:54,835
+comment saurais-je quoi faire ?
+
+76
+00:04:57,046 --> 00:04:58,979
+Il est encore soumis.
+
+77
+00:04:59,577 --> 00:05:02,593
+Comment ça ?
+Le seul moyen de briser le sortilège...
+
+78
+00:05:02,761 --> 00:05:04,711
+Est que l'inquisitrice meurt.
+
+79
+00:05:05,830 --> 00:05:07,980
+Donc Dennee est toujours vivante.
+
+80
+00:05:10,040 --> 00:05:11,990
+Mais quand je l'ai laissée...
+
+81
+00:05:14,380 --> 00:05:15,230
+Dennee.
+
+82
+00:05:18,240 --> 00:05:19,240
+Prends-le.
+
+83
+00:05:20,116 --> 00:05:21,236
+Prends le Livre.
+
+84
+00:05:22,400 --> 00:05:23,400
+Trouve-le.
+
+85
+00:05:23,790 --> 00:05:25,407
+Je ne te laisserai pas.
+
+86
+00:05:25,880 --> 00:05:27,618
+C'est plus important que moi.
+
+87
+00:05:28,033 --> 00:05:29,242
+Tu le sais.
+
+88
+00:05:30,554 --> 00:05:32,154
+S'il te plaît, Kahlan.
+
+89
+00:05:36,530 --> 00:05:38,480
+Que les esprits te protègent,
+
+90
+00:05:38,830 --> 00:05:39,930
+petite soeur.
+
+91
+00:05:41,750 --> 00:05:42,504
+Va.
+
+92
+00:06:00,597 --> 00:06:02,350
+Elle a dû survivre.
+
+93
+00:06:06,550 --> 00:06:07,950
+Rahl doit l'avoir.
+
+94
+00:06:08,276 --> 00:06:10,585
+Nous savons ce qu'il fait
+aux inquisitrices.
+
+95
+00:06:10,710 --> 00:06:13,330
+C'est pourquoi nous ne pouvons
+aller la chercher.
+
+96
+00:06:13,920 --> 00:06:16,000
+- Quoi ?
+- La mère inquisitrice a raison.
+
+97
+00:06:16,470 --> 00:06:19,920
+Je l'aimais comme ma soeur,
+mais ça pourrait être un piège.
+
+98
+00:06:20,710 --> 00:06:23,924
+Pourquoi Rahl la garderait vivante
+alors qu'il en a tué tant d'autres ?
+
+99
+00:06:24,870 --> 00:06:26,910
+Je l'ai abandonnée une fois.
+
+100
+00:06:27,596 --> 00:06:28,554
+Plus jamais.
+
+101
+00:06:29,277 --> 00:06:30,347
+C'est dur,
+
+102
+00:06:31,052 --> 00:06:34,601
+mais mon devoir est d'assurer
+la survie des inquisitrices restantes.
+
+103
+00:06:35,332 --> 00:06:36,437
+Comme ton devoir
+
+104
+00:06:37,112 --> 00:06:39,962
+est de protéger le sourcier
+durant sa mission.
+
+105
+00:06:40,480 --> 00:06:41,830
+Pour le moment...
+
+106
+00:06:43,560 --> 00:06:45,760
+ma mission est de trouver sa soeur.
+
+107
+00:06:50,161 --> 00:06:53,245
+- Dennee pourrait être n'importe où.
+- Mira la trouvera.
+
+108
+00:06:55,040 --> 00:06:57,740
+Dennee était prête à se sacrifier
+pour moi.
+
+109
+00:06:58,880 --> 00:07:01,130
+Elle aurait fait de même pour vous.
+
+110
+00:07:01,330 --> 00:07:03,380
+Pourquoi au moins ne pas essayer ?
+
+111
+00:07:17,952 --> 00:07:19,552
+On devrait camper ici.
+
+112
+00:07:30,716 --> 00:07:34,286
+Kahlan m'a parlé de ta témérité
+durant la bataille de Rondaxe.
+
+113
+00:07:38,750 --> 00:07:41,502
+Et si je vous rendais
+ce que vous avez perdu.
+
+114
+00:08:25,920 --> 00:08:27,270
+Je n'y crois pas.
+
+115
+00:08:34,488 --> 00:08:35,472
+Merci.
+
+116
+00:08:39,390 --> 00:08:41,327
+Toujours aussi puissant.
+
+117
+00:08:47,140 --> 00:08:49,766
+Je regrette
+de n'avoir pas été assez puissant
+
+118
+00:08:49,891 --> 00:08:52,364
+pour arrêter Rahl
+avant qu'il ne décime votre ordre.
+
+119
+00:09:00,001 --> 00:09:01,335
+À mes débuts,
+
+120
+00:09:03,133 --> 00:09:05,127
+et que tu m'as prise sous ton aile,
+
+121
+00:09:05,705 --> 00:09:07,379
+te souviens-tu tes mots ?
+
+122
+00:09:07,863 --> 00:09:08,881
+Tu avais dit
+
+123
+00:09:09,273 --> 00:09:12,873
+que le vrai pouvoir n'est pas
+dans la magie que l'on possède,
+
+124
+00:09:14,135 --> 00:09:17,055
+mais dans notre capacité
+à faire des choix difficiles.
+
+125
+00:09:18,180 --> 00:09:21,028
+Se résoudre a tout abandonner
+
+126
+00:09:21,954 --> 00:09:24,054
+n'a pas dû être facile pour toi.
+
+127
+00:09:25,657 --> 00:09:26,907
+Mais sans quoi,
+
+128
+00:09:27,831 --> 00:09:30,081
+le sourcier n'aurait pas vu le jour
+
+129
+00:09:30,393 --> 00:09:33,843
+et il n'y aurait aucun espoir
+pour les Contrées du Milieu.
+
+130
+00:09:40,001 --> 00:09:42,331
+J'ignore pourquoi Dennee
+ne vous a jamais mentionné.
+
+131
+00:09:43,221 --> 00:09:45,121
+Comment l'avez-vous connue ?
+
+132
+00:09:45,446 --> 00:09:46,752
+Je devais la tuer.
+
+133
+00:09:48,274 --> 00:09:51,924
+J'étais un assassin de l'Ordre du Sang
+envoyé par Rahl pour la tuer.
+
+134
+00:09:53,545 --> 00:09:54,968
+Elle m'a alors confessé.
+
+135
+00:09:56,471 --> 00:09:58,221
+Ça fait un bout de temps.
+
+136
+00:09:58,720 --> 00:10:01,302
+Dennee m'a parlé
+d'une mission délicate.
+
+137
+00:10:03,208 --> 00:10:05,979
+Elle m'a promis de revenir
+une fois terminée.
+
+138
+00:10:07,843 --> 00:10:11,343
+Elle l'aurait fait si je ne l'avais pas
+laissée pour morte.
+
+139
+00:10:17,511 --> 00:10:19,661
+Nous allons la retrouver, d'acc ?
+
+140
+00:10:25,884 --> 00:10:28,884
+- Que dit-elle ?
+- C'est Dennee. Elle est proche.
+
+141
+00:10:33,847 --> 00:10:35,097
+Une forteresse.
+
+142
+00:10:35,542 --> 00:10:37,842
+Pas une forteresse, mais une prison.
+
+143
+00:10:38,755 --> 00:10:40,505
+Dennee est à l'intérieur.
+
+144
+00:10:42,480 --> 00:10:45,380
+On ne peut pas foncer
+dans une prison D'Harane.
+
+145
+00:10:47,093 --> 00:10:48,993
+Mais une mord-sith pourrait.
+
+146
+00:10:51,396 --> 00:10:53,796
+Pourriez-vous faire
+un peu de magie ?
+
+147
+00:11:15,216 --> 00:11:16,866
+Une mord-sith approche.
+
+148
+00:11:22,474 --> 00:11:25,574
+Dis au geôlier
+que j'ai un prisonnier très spécial.
+
+149
+00:11:27,900 --> 00:11:29,050
+Le sourcier ?
+
+150
+00:11:30,024 --> 00:11:31,565
+Vous l'avez capturé seule ?
+
+151
+00:11:34,201 --> 00:11:36,236
+Tu oses questionner une mord-sith ?
+
+152
+00:11:42,682 --> 00:11:44,949
+Mène-moi au geôlier.
+
+153
+00:11:51,998 --> 00:11:54,798
+J'ai un message urgent
+pour le seigneur Rahl.
+
+154
+00:11:56,780 --> 00:11:58,884
+Un message
+dont on doit parler en privé.
+
+155
+00:12:00,790 --> 00:12:01,940
+Laissez-nous.
+
+156
+00:12:06,524 --> 00:12:08,101
+Alors, quel est ce message ?
+
+157
+00:12:17,120 --> 00:12:18,737
+Je vous écoute, Inquisitrice.
+
+158
+00:12:21,474 --> 00:12:23,742
+Vous avez un prisonnier
+que je veux voir.
+
+159
+00:12:45,357 --> 00:12:47,007
+C'est moi, petite soeur.
+
+160
+00:12:49,211 --> 00:12:50,761
+Tu es venue pour moi.
+
+161
+00:12:51,731 --> 00:12:53,881
+Je n'aurais jamais dû te laisser.
+
+162
+00:12:57,305 --> 00:12:58,757
+C'est le sourcier.
+
+163
+00:13:03,183 --> 00:13:05,279
+Tu as réussi la mission.
+
+164
+00:13:05,404 --> 00:13:09,035
+- J'avais peur que tu sois morte.
+- Grâce aux esprits, tu ne l'es pas.
+
+165
+00:13:09,160 --> 00:13:11,560
+Tu vas bien ?
+Ils t'ont fait du mal ?
+
+166
+00:13:14,537 --> 00:13:16,787
+Mais ils allaient prendre mon bébé.
+
+167
+00:13:21,075 --> 00:13:22,325
+Tu es enceinte.
+
+168
+00:13:29,304 --> 00:13:32,654
+Ils devaient prendre le bébé,
+que savez-vous là-dessus ?
+
+169
+00:13:32,896 --> 00:13:35,605
+Darken Rahl voulait éduquer
+une inquisitrice
+
+170
+00:13:36,486 --> 00:13:38,775
+pour la transformer
+en un monstre obéissant.
+
+171
+00:13:41,772 --> 00:13:43,122
+Tu peux marcher ?
+
+172
+00:13:43,579 --> 00:13:45,407
+- Je crois.
+- Dépêchez-vous.
+
+173
+00:13:45,951 --> 00:13:47,742
+Nass est en chemin
+en ce moment même.
+
+174
+00:13:50,989 --> 00:13:52,906
+- Que se passe-t-il ?
+- Un transfert.
+
+175
+00:13:53,031 --> 00:13:55,878
+Mes ordres sont de garder l'inquisitrice
+jusqu'à l'arrivée du général.
+
+176
+00:13:56,003 --> 00:13:57,603
+Vos ordres ont changé.
+
+177
+00:14:09,474 --> 00:14:10,765
+Dennee est sauve.
+
+178
+00:14:18,477 --> 00:14:19,733
+Tu es enceinte.
+
+179
+00:14:20,980 --> 00:14:22,360
+Notre bébé va bien ?
+
+180
+00:14:23,052 --> 00:14:24,452
+Finn est le père ?
+
+181
+00:14:27,920 --> 00:14:29,522
+Notre nombre s'amenuise.
+
+182
+00:14:29,647 --> 00:14:32,287
+Finn étant déjà confessé,
+je l'ai pris comme partenaire.
+
+183
+00:14:32,617 --> 00:14:33,717
+Il est fort.
+
+184
+00:14:34,544 --> 00:14:37,667
+Avec Rahl qui nous chasse,
+l'enfant sera protégé.
+
+185
+00:14:39,142 --> 00:14:42,213
+Bonne nouvelle.
+Une autre Inquisitrice va naître
+
+186
+00:14:43,059 --> 00:14:44,674
+juste quand nous en avions besoin.
+
+187
+00:14:48,654 --> 00:14:51,932
+Tu devais savoir que tu étais enceinte
+lors de notre escapade.
+
+188
+00:14:52,694 --> 00:14:54,544
+Pourquoi me l'avoir caché ?
+
+189
+00:14:55,450 --> 00:14:56,650
+En le sachant,
+
+190
+00:14:57,201 --> 00:14:59,606
+aurais-je pu t'accompagner
+dans ce périlleux voyage ?
+
+191
+00:15:02,747 --> 00:15:03,610
+Non.
+
+192
+00:15:04,409 --> 00:15:06,696
+Et je ne pouvais pas
+te laisser seule.
+
+193
+00:15:10,080 --> 00:15:11,580
+Nous devons y aller.
+
+194
+00:15:12,166 --> 00:15:14,079
+Les D'Harans vont nous poursuivre.
+
+195
+00:15:36,433 --> 00:15:39,396
+Général Nass, les ordres
+n'indiquaient pas votre venue.
+
+196
+00:15:41,285 --> 00:15:42,485
+Quels ordres ?
+
+197
+00:15:44,557 --> 00:15:46,111
+J'ai les ordres ici.
+
+198
+00:16:01,129 --> 00:16:02,779
+Où est la prisonnière ?
+
+199
+00:16:03,017 --> 00:16:06,071
+- Elle va être livrée à Rahl.
+- Par qui ?
+
+200
+00:16:07,193 --> 00:16:10,093
+Par la mord-sith.
+Elle a aussi capturé le sourcier.
+
+201
+00:16:13,343 --> 00:16:15,293
+Ce n'était pas une mord-sith.
+
+202
+00:16:18,970 --> 00:16:20,270
+Mais une inquisitrice.
+
+203
+00:16:24,640 --> 00:16:26,090
+Prépare tes hommes.
+
+204
+00:16:27,576 --> 00:16:31,226
+Si vous pouvez livrer le bébé
+et le sourcier au seigneur Rahl,
+
+205
+00:16:31,751 --> 00:16:33,701
+il vous pardonnera peut-être.
+
+206
+00:16:42,139 --> 00:16:44,534
+N'est-ce pas
+un raccourci vers l'ouest ?
+
+207
+00:16:44,659 --> 00:16:45,759
+Tu les sens ?
+
+208
+00:16:46,592 --> 00:16:50,596
+Des pins Thelusian.
+Ils cacheront notre odeur aux D'Harans.
+
+209
+00:16:51,106 --> 00:16:53,306
+Ça sera difficile de nous suivre.
+
+210
+00:16:53,487 --> 00:16:54,237
+Bien.
+
+211
+00:16:55,317 --> 00:16:57,567
+Parce que nous devons nous arrêter.
+
+212
+00:16:59,233 --> 00:17:02,187
+Tu t'en sors bien !
+Tu dois juste essayer encore.
+
+213
+00:17:02,355 --> 00:17:03,255
+Allez.
+
+214
+00:17:04,899 --> 00:17:05,799
+Respire.
+
+215
+00:17:10,976 --> 00:17:12,656
+Le bébé arrive par le siège.
+
+216
+00:17:13,741 --> 00:17:14,541
+Quoi ?
+
+217
+00:17:15,551 --> 00:17:16,868
+On doit le retourner.
+
+218
+00:17:18,789 --> 00:17:22,248
+- Je ne veux pas perdre mon bébé.
+- Ça va aller. Laisse-moi essayer.
+
+219
+00:17:22,479 --> 00:17:24,793
+- Tu as déjà fait ça ?
+- J'ai grandi dans une ferme.
+
+220
+00:17:31,524 --> 00:17:33,124
+Je veux pas la perdre.
+
+221
+00:17:45,241 --> 00:17:46,491
+Allez, pousse !
+
+222
+00:18:06,176 --> 00:18:07,176
+Un garçon.
+
+223
+00:18:17,620 --> 00:18:18,555
+De quoi ?
+
+224
+00:18:21,967 --> 00:18:23,217
+Il doit mourir.
+
+225
+00:18:29,177 --> 00:18:32,152
+Ce n'est pas ta faute.
+Ce n'est la faute de personne.
+
+226
+00:18:33,119 --> 00:18:35,155
+Tu ne pouvais pas le prévoir.
+
+227
+00:18:36,943 --> 00:18:38,241
+Il se passe quoi ?
+
+228
+00:18:40,658 --> 00:18:42,537
+On a besoin de racines de Kreeg.
+
+229
+00:18:44,693 --> 00:18:47,482
+Quelqu'un va me raconter
+ce qui se passe ?
+
+230
+00:18:49,989 --> 00:18:52,005
+Les inquisiteurs
+ne peuvent pas vivre.
+
+231
+00:18:52,734 --> 00:18:55,099
+Il faut purifier leur âme
+par le rituel des Eaux
+
+232
+00:18:55,224 --> 00:18:57,093
+avant qu'elles n'aillent
+chez les morts.
+
+233
+00:18:57,261 --> 00:18:58,811
+Rituel ? Comment ça ?
+
+234
+00:19:00,145 --> 00:19:01,890
+Nous devons noyer l'enfant.
+
+235
+00:19:03,059 --> 00:19:04,459
+C'est de la folie.
+
+236
+00:19:04,661 --> 00:19:08,665
+Une inquisitrice donnant naissance
+à un garçon est très rare.
+
+237
+00:19:09,114 --> 00:19:12,734
+Mais s'il est né, il ne doit pas
+atteindre l'âge adulte.
+
+238
+00:19:13,929 --> 00:19:16,780
+Les inquisiteurs sont incapables
+de contrôler leur pouvoir.
+
+239
+00:19:17,714 --> 00:19:18,865
+Une fois adultes,
+
+240
+00:19:19,316 --> 00:19:21,988
+ils ne peuvent résister
+à les utiliser à des fins horribles.
+
+241
+00:19:22,113 --> 00:19:24,162
+Ils sont donc tués à la naissance.
+
+242
+00:19:28,661 --> 00:19:30,210
+Votre nombre baisse
+
+243
+00:19:30,514 --> 00:19:34,130
+et vous voulez tuer l'un des vôtres
+parce qu'il peut être mauvais ?
+
+244
+00:19:34,860 --> 00:19:38,060
+Les mères d'inquisiteurs
+ont souvent pensé comme toi.
+
+245
+00:19:39,607 --> 00:19:41,938
+Une jeune et insensée inquisitrice
+
+246
+00:19:43,648 --> 00:19:45,683
+ne supportait
+de voir son enfant mourir,
+
+247
+00:19:47,523 --> 00:19:49,423
+elle l'éleva donc en secret.
+
+248
+00:19:52,654 --> 00:19:53,754
+Elle pensait
+
+249
+00:19:54,347 --> 00:19:56,597
+que son amour serait assez puissant
+
+250
+00:19:57,351 --> 00:19:59,646
+pour l'empêcher de mal tourner.
+
+251
+00:20:01,860 --> 00:20:03,785
+Mais lorsque le garçon grandit,
+
+252
+00:20:05,818 --> 00:20:08,018
+sa soif de sang devint insatiable.
+
+253
+00:20:10,727 --> 00:20:11,668
+Mon enfant
+
+254
+00:20:13,206 --> 00:20:15,232
+avait seulement 11 ans
+
+255
+00:20:17,406 --> 00:20:18,842
+lorsque j'ai dû le tuer.
+
+256
+00:20:22,522 --> 00:20:26,641
+Que ça soit arrivé à votre fils
+ne veut pas dire qu'il en sera de même.
+
+257
+00:20:27,221 --> 00:20:30,868
+Ce n'est qu'un bébé.
+Il y a du temps pour l'observer.
+
+258
+00:20:31,096 --> 00:20:33,273
+Pour savoir
+s'il va être mauvais ou non.
+
+259
+00:20:37,581 --> 00:20:39,320
+Tu ne peux pas accepter ça.
+
+260
+00:20:41,680 --> 00:20:43,980
+Tu crois que c'est facile pour moi ?
+
+261
+00:20:44,901 --> 00:20:46,201
+C'est mon neveu.
+
+262
+00:20:49,823 --> 00:20:52,923
+Je sais que c'est difficile pour toi
+de comprendre,
+
+263
+00:20:53,669 --> 00:20:55,719
+mais les traditions
+doivent être honorées.
+
+264
+00:20:55,844 --> 00:20:58,396
+Plus longtemps
+nous gardons cet enfant en vie,
+
+265
+00:20:58,521 --> 00:20:59,821
+plus dur ce sera
+
+266
+00:21:00,485 --> 00:21:02,051
+de faire ce qui doit être fait.
+
+267
+00:21:03,039 --> 00:21:05,797
+Le faire maintenant
+est un destin moins cruel
+
+268
+00:21:05,922 --> 00:21:07,724
+pour la famille et l'enfant.
+
+269
+00:21:08,878 --> 00:21:12,520
+Finn prendra l'enfant
+et réalisera le rituel des Eaux.
+
+270
+00:21:14,073 --> 00:21:15,440
+Pas d'autres solutions ?
+
+271
+00:21:16,401 --> 00:21:17,701
+Tu sais que non.
+
+272
+00:21:22,949 --> 00:21:23,990
+Écartez-vous.
+
+273
+00:21:24,597 --> 00:21:26,618
+Tu ne peux l'exorciser.
+
+274
+00:21:27,170 --> 00:21:28,870
+Ni même l'ensorceler.
+
+275
+00:21:29,312 --> 00:21:33,312
+- Tu peux seulement le détruire.
+- Vous ne ferez aucun mal à ce bébé.
+
+276
+00:21:37,506 --> 00:21:39,213
+Des D'Harans. Tout près.
+
+277
+00:21:41,195 --> 00:21:42,717
+On doit y aller maintenant.
+
+278
+00:21:44,051 --> 00:21:46,561
+Je peux brouiller les pistes.
+Mais promettez-moi
+
+279
+00:21:46,686 --> 00:21:48,973
+de ne pas le toucher
+pendant mon absence.
+
+280
+00:22:04,370 --> 00:22:07,070
+De l'huile de Dala
+et des racines de Kreeg.
+
+281
+00:22:08,887 --> 00:22:10,370
+Le rituel des Eaux.
+
+282
+00:22:11,887 --> 00:22:14,165
+L'inquisitrice a donné naissance
+à un garçon.
+
+283
+00:22:15,590 --> 00:22:17,669
+Une fille d'inquisitrice
+était un sacré prix,
+
+284
+00:22:18,557 --> 00:22:21,757
+mais que donnerait Seigneur Rahl
+pour un inquisiteur.
+
+285
+00:22:23,824 --> 00:22:25,374
+Et s'ils nous fuient,
+
+286
+00:22:26,215 --> 00:22:29,165
+ils n'ont pas eu le temps
+de réaliser le rituel.
+
+287
+00:22:31,104 --> 00:22:33,351
+- Leurs traces vont par là.
+- Suivez-les.
+
+288
+00:22:34,249 --> 00:22:35,895
+Nous devons sauver cet enfant.
+
+289
+00:22:43,708 --> 00:22:46,114
+- Tu les a semés ?
+- Ils ont trouvé les traces laissées.
+
+290
+00:22:46,706 --> 00:22:48,688
+Ils vont dans la mauvaise direction.
+
+291
+00:22:48,813 --> 00:22:52,454
+Mais ils ne vont pas nous lâcher.
+Ils savent que c'est un garçon.
+
+292
+00:22:52,579 --> 00:22:55,365
+Et apparemment Rahl serait ravi
+de recueillir un inquisiteur.
+
+293
+00:22:55,490 --> 00:22:57,709
+L'abîme appelle l'abîme.
+
+294
+00:22:58,880 --> 00:23:00,889
+Mais il ne l'aura pas.
+
+295
+00:23:03,728 --> 00:23:05,967
+- Où est le bébé ?
+- Finn l'a emmené.
+
+296
+00:23:07,158 --> 00:23:08,720
+Tu devais le garder en sécurité.
+
+297
+00:23:09,663 --> 00:23:11,836
+Désolée, mais tu ne comprends pas.
+
+298
+00:23:11,961 --> 00:23:14,836
+Non, effectivement. Tu m'as promis.
+
+299
+00:23:17,079 --> 00:23:19,147
+Je savais que tu ferais tout
+pour le protéger.
+
+300
+00:23:19,740 --> 00:23:21,190
+Comme tu aurais dû.
+
+301
+00:23:21,897 --> 00:23:25,897
+Le laisser en vie serait une violation
+de tout ce qu'on nous apprend.
+
+302
+00:23:26,906 --> 00:23:29,073
+Je ne peux pas aller
+contre mes croyances.
+
+303
+00:23:29,350 --> 00:23:30,997
+Tout comme moi.
+
+304
+00:23:43,909 --> 00:23:44,714
+Arrêtez.
+
+305
+00:23:53,340 --> 00:23:55,290
+Je dois obéir à ma maîtresse.
+
+306
+00:24:05,708 --> 00:24:08,558
+Tu dois agir selon son vouloir,
+n'est-ce pas ?
+
+307
+00:24:11,532 --> 00:24:13,682
+Elle veut que je noie notre fils.
+
+308
+00:24:15,766 --> 00:24:16,716
+Es-tu sûr
+
+309
+00:24:17,353 --> 00:24:18,956
+que c'est ce que Dennee veut ?
+
+310
+00:24:19,861 --> 00:24:22,273
+La mère inquisitrice lui a ordonné.
+
+311
+00:24:25,028 --> 00:24:27,799
+Ta maîtresse ne te commande
+pas aussi avec son coeur ?
+
+312
+00:24:29,791 --> 00:24:31,091
+Tu l'as entendue
+
+313
+00:24:31,896 --> 00:24:33,546
+pendant l'accouchement.
+
+314
+00:24:35,525 --> 00:24:37,825
+Elle ne veut pas que son bébé meure.
+
+315
+00:24:39,460 --> 00:24:42,105
+Tu connais son coeur
+mieux que quiconque, Finn.
+
+316
+00:24:43,946 --> 00:24:45,646
+Tu sais ce qu'elle veut.
+
+317
+00:24:46,640 --> 00:24:48,390
+Elle veut que son bébé...
+
+318
+00:24:49,628 --> 00:24:50,528
+vive.
+
+319
+00:25:11,134 --> 00:25:12,534
+Je donnerai ma vie
+
+320
+00:25:12,898 --> 00:25:14,095
+pour le protéger.
+
+321
+00:25:28,840 --> 00:25:30,736
+Tu as donné l'enfant au sourcier ?
+
+322
+00:25:31,740 --> 00:25:33,865
+Je pensais que c'était ta volonté.
+
+323
+00:25:38,650 --> 00:25:41,100
+Cet enfant est mauvais
+et doit mourir.
+
+324
+00:25:42,821 --> 00:25:44,083
+Alors, je t'ai déçue.
+
+325
+00:25:47,941 --> 00:25:51,791
+- Où est parti le sourcier ?
+- Vers le nord. Je peux le retrouver.
+
+326
+00:25:52,243 --> 00:25:53,422
+Tu suis Alana.
+
+327
+00:25:54,156 --> 00:25:56,208
+Amène Dennee
+et les autres à la côte.
+
+328
+00:25:56,502 --> 00:25:59,390
+Le sorcier, Kahlan et moi
+irons chercher l'enfant.
+
+329
+00:26:00,450 --> 00:26:01,731
+Mira vous guidera.
+
+330
+00:26:01,856 --> 00:26:04,145
+Nous vous rejoindrons à la côte
+avec l'enfant.
+
+331
+00:26:06,181 --> 00:26:08,281
+Nous pourrons achever le rituel.
+
+332
+00:26:08,720 --> 00:26:09,984
+Et partir pour l'île.
+
+333
+00:26:13,619 --> 00:26:16,157
+Mère Inquisitrice,
+laissez-moi suivre Richard.
+
+334
+00:26:17,116 --> 00:26:18,367
+J'irai plus vite seule.
+
+335
+00:26:37,123 --> 00:26:41,123
+- Nous avons perdu leurs traces.
+- Ils ne peuvent pas être bien loin.
+
+336
+00:26:42,212 --> 00:26:43,486
+Et pour votre bien,
+
+337
+00:26:43,611 --> 00:26:47,011
+il vaudrait mieux
+que nous retrouvions cet enfant vivant.
+
+338
+00:26:53,030 --> 00:26:54,030
+C'est bon.
+
+339
+00:26:54,747 --> 00:26:56,047
+On est bien, là.
+
+340
+00:26:56,666 --> 00:26:57,866
+Tout ira bien.
+
+341
+00:27:01,895 --> 00:27:03,295
+Ne t'approche pas.
+
+342
+00:27:03,625 --> 00:27:04,975
+Richard, attends.
+
+343
+00:27:06,360 --> 00:27:07,667
+Que comptes-tu faire ?
+
+344
+00:27:08,160 --> 00:27:10,210
+Continuer à fuir avec le bébé ?
+
+345
+00:27:10,838 --> 00:27:13,089
+Ce que vous voulez faire
+est barbare.
+
+346
+00:27:14,330 --> 00:27:15,508
+Ça a l'air, comme ça,
+
+347
+00:27:16,645 --> 00:27:18,295
+mais tu dois comprendre
+
+348
+00:27:18,492 --> 00:27:20,763
+que ce garçon est une menace
+pour tous nos principes.
+
+349
+00:27:21,081 --> 00:27:23,224
+Comment le sais-tu
+si aucun d'eux n'a pu vivre ?
+
+350
+00:27:23,600 --> 00:27:25,559
+C'est ardu de compter sur l'espoir.
+
+351
+00:27:25,955 --> 00:27:26,888
+L'espoir ?
+
+352
+00:27:27,013 --> 00:27:28,854
+Ce n'est pas pour ça qu'on combat ?
+
+353
+00:27:38,960 --> 00:27:40,533
+Enfant, j'ai été pourchassé.
+
+354
+00:27:41,030 --> 00:27:44,078
+Darken Rahl voulait me tuer
+car il était convaincu de la prophétie.
+
+355
+00:27:45,744 --> 00:27:47,748
+Je dois donc cesser d'y croire ?
+
+356
+00:27:49,801 --> 00:27:51,751
+Je veux que tu croies en moi.
+
+357
+00:28:03,550 --> 00:28:04,650
+Il a faim.
+
+358
+00:28:06,604 --> 00:28:08,554
+On doit lui trouver à manger.
+
+359
+00:28:19,871 --> 00:28:22,521
+Mon père me donnait ça
+quand j'étais bébé.
+
+360
+00:28:28,399 --> 00:28:29,384
+Voilà.
+
+361
+00:28:33,867 --> 00:28:35,967
+J'étais sûr que tu apprécierais.
+
+362
+00:28:43,710 --> 00:28:45,660
+Qu'allons-nous faire de lui ?
+
+363
+00:28:48,350 --> 00:28:49,900
+Eh bien, je me disais
+
+364
+00:28:51,646 --> 00:28:54,596
+qu'on pourrait l'emmener
+à la vallée de Thandor.
+
+365
+00:28:54,795 --> 00:28:58,799
+La mission des soeurs de lumière
+est de protéger les enfants de Thandor.
+
+366
+00:28:58,930 --> 00:29:01,480
+Ils n'accepteront jamais
+un inquisiteur.
+
+367
+00:29:03,751 --> 00:29:04,909
+Personne ne le fera.
+
+368
+00:29:09,721 --> 00:29:10,831
+Nous sommes seuls.
+
+369
+00:29:12,755 --> 00:29:14,210
+Vous ne serez jamais seuls.
+
+370
+00:29:15,650 --> 00:29:17,046
+Richard, attends.
+
+371
+00:29:17,740 --> 00:29:20,340
+Il est inutile
+qu'on se batte entre nous.
+
+372
+00:29:20,485 --> 00:29:22,415
+Nous avons déjà assez d'ennemis.
+
+373
+00:29:22,540 --> 00:29:25,262
+- Ce bébé n'est pas l'un d'eux.
+- Mais il pourrait l'être.
+
+374
+00:29:27,337 --> 00:29:29,787
+Darken Rahl
+était lui aussi un enfant.
+
+375
+00:29:30,215 --> 00:29:32,186
+Regarde la douleur
+qu'il a engendrée.
+
+376
+00:29:32,900 --> 00:29:34,730
+Si tu avais pu l'empêcher,
+
+377
+00:29:35,836 --> 00:29:37,286
+qu'aurais-tu fait ?
+
+378
+00:29:37,890 --> 00:29:40,640
+C'est inévitable,
+le mal est dans sa nature.
+
+379
+00:29:41,970 --> 00:29:43,364
+Pas dans la mienne.
+
+380
+00:29:43,710 --> 00:29:45,760
+Personne ne touchera à ce bébé.
+
+381
+00:29:46,037 --> 00:29:47,587
+Cessons ces palabres.
+
+382
+00:29:48,076 --> 00:29:50,996
+Si tu es incapable de le contrôler,
+je m'en charge.
+
+383
+00:29:51,422 --> 00:29:53,203
+Ta dévotion est si grande
+
+384
+00:29:53,388 --> 00:29:55,938
+que tu te oses menacer
+de le confesser ?
+
+385
+00:29:56,927 --> 00:29:59,777
+Je n'ai nullement l'intention
+de le confesser.
+
+386
+00:30:18,559 --> 00:30:20,234
+Je vous écoute, Mère Inquisitrice.
+
+387
+00:30:26,880 --> 00:30:28,330
+Qu'avez-vous fait ?
+
+388
+00:30:28,883 --> 00:30:31,028
+Tu as trahi ton ordre, Kahlan.
+
+389
+00:30:31,796 --> 00:30:34,206
+Qui es-tu
+pour douter de mon jugement,
+
+390
+00:30:35,286 --> 00:30:38,669
+quand le tien est influencé
+par ton amour pour le sourcier ?
+
+391
+00:30:39,648 --> 00:30:41,797
+Tu as renié tous tes principes,
+
+392
+00:30:42,815 --> 00:30:44,425
+tout ce pour quoi tu as vécu,
+
+393
+00:30:44,930 --> 00:30:47,511
+pour un homme
+qui ne pourra jamais t'aimer.
+
+394
+00:30:48,809 --> 00:30:50,264
+Va chercher l'enfant.
+
+395
+00:31:06,081 --> 00:31:08,824
+Vous ne pouvez pas
+vouloir nous faire du mal.
+
+396
+00:31:08,992 --> 00:31:09,909
+Inutile.
+
+397
+00:31:10,670 --> 00:31:13,037
+Il a été confessé.
+Il n'est plus lui-même.
+
+398
+00:31:15,857 --> 00:31:19,376
+- Je veux pas me battre contre vous.
+- Et lui non plus.
+
+399
+00:31:21,165 --> 00:31:22,463
+Donnez-moi l'enfant,
+
+400
+00:31:22,817 --> 00:31:24,795
+et vous pourrez poursuivre
+votre mission.
+
+401
+00:31:24,920 --> 00:31:25,966
+La mission ?
+
+402
+00:31:26,549 --> 00:31:30,054
+Vous l'avez compromise en confessant
+un sorcier du premier ordre.
+
+403
+00:31:31,033 --> 00:31:32,919
+Dès que vous me donnerez l'enfant,
+
+404
+00:31:33,044 --> 00:31:37,048
+j'ordonnerai à Zeddicus de vous suivre
+en tant que sorcier du sourcier.
+
+405
+00:31:38,561 --> 00:31:40,161
+Tout sera comme avant.
+
+406
+00:31:45,791 --> 00:31:46,691
+Parfait.
+
+407
+00:31:48,670 --> 00:31:49,720
+Éloigne-le.
+
+408
+00:32:03,276 --> 00:32:04,676
+Mère Inquisitrice,
+
+409
+00:32:05,284 --> 00:32:06,784
+vous allez le tuer !
+
+410
+00:32:19,563 --> 00:32:21,313
+Cela a assez duré.
+
+411
+00:32:29,085 --> 00:32:30,656
+Tu dois protéger le sourcier.
+
+412
+00:32:33,081 --> 00:32:37,031
+Tu sais tout comme moi que sa vie
+compte plus que celle de l'enfant.
+
+413
+00:32:40,582 --> 00:32:42,082
+Alors, donne-le-moi.
+
+414
+00:32:46,095 --> 00:32:48,299
+Ce devrait être
+une décision assez simple.
+
+415
+00:32:50,171 --> 00:32:51,885
+Sauve celui que tu aimes.
+
+416
+00:32:54,570 --> 00:32:55,723
+Ne l'écoute pas.
+
+417
+00:33:37,916 --> 00:33:39,566
+Ça va aller, mon petit.
+
+418
+00:33:40,499 --> 00:33:42,049
+Ce sera bientôt fini.
+
+419
+00:34:03,099 --> 00:34:06,210
+Désolé, j'ai agi contre ta volonté
+en tentant de sauver notre enfant.
+
+420
+00:34:06,513 --> 00:34:08,712
+- Je t'ai déçue.
+- Non, pas du tout.
+
+421
+00:34:09,150 --> 00:34:12,283
+- Tu as fait ce que je voulais.
+- Ne mets pas ces idées dans sa tête.
+
+422
+00:34:12,408 --> 00:34:13,408
+Pourquoi ?
+
+423
+00:34:14,150 --> 00:34:16,527
+La mère inquisitrice sait
+ce qui doit être fait.
+
+424
+00:34:16,652 --> 00:34:18,239
+Nous ne devons pas la défier.
+
+425
+00:34:18,364 --> 00:34:20,224
+Dirais-tu ça si c'était le tien ?
+
+426
+00:34:21,533 --> 00:34:24,728
+Il en a été ainsi
+depuis des milliers d'années.
+
+427
+00:34:25,355 --> 00:34:27,147
+Nous ne sommes plus que six.
+
+428
+00:34:27,685 --> 00:34:29,483
+Quel sens ont
+ces anciennes pratiques ?
+
+429
+00:34:34,785 --> 00:34:36,085
+Je suis désolée.
+
+430
+00:34:36,847 --> 00:34:39,747
+Mais je ne pouvais
+les laisser te faire du mal.
+
+431
+00:34:41,340 --> 00:34:42,496
+C'est pas ta faute.
+
+432
+00:34:43,225 --> 00:34:44,903
+Avec la confession de Zedd
+
+433
+00:34:45,028 --> 00:34:47,228
+et la perte de l'épée de vérité...
+
+434
+00:34:48,793 --> 00:34:50,193
+c'est sans espoir.
+
+435
+00:34:53,238 --> 00:34:55,138
+Il y a toujours de l'espoir.
+
+436
+00:34:58,471 --> 00:34:59,821
+C'est trop tard ?
+
+437
+00:35:00,679 --> 00:35:03,073
+La mère inquisitrice
+l'a emmené à la côte
+
+438
+00:35:03,743 --> 00:35:05,936
+- pour le noyer.
+- On peut la rattraper ?
+
+439
+00:35:06,130 --> 00:35:07,604
+Elle a confessé Zedd.
+
+440
+00:35:09,691 --> 00:35:11,441
+Et prit l'épée de vérité.
+
+441
+00:35:12,060 --> 00:35:13,660
+Qu'allons-nous faire ?
+
+442
+00:35:16,095 --> 00:35:17,573
+Allons chercher de l'aide.
+
+443
+00:35:17,852 --> 00:35:19,493
+Les traces s'arrêtent ici.
+
+444
+00:35:19,618 --> 00:35:20,919
+Où est-il ?
+
+445
+00:35:21,694 --> 00:35:22,744
+Je suis là.
+
+446
+00:35:24,185 --> 00:35:25,164
+Et désarmé.
+
+447
+00:35:26,516 --> 00:35:28,166
+Dans ce cas, tu es fou.
+
+448
+00:37:00,930 --> 00:37:02,430
+Kahlan, maintenant !
+
+449
+00:37:19,185 --> 00:37:21,135
+Je vous écoute, Inquisitrice.
+
+450
+00:37:30,923 --> 00:37:33,705
+- Qu'y a-t-il, Mère Inquisitrice ?
+- Les autres...
+
+451
+00:37:33,830 --> 00:37:35,780
+elles devraient déjà être là.
+
+452
+00:37:36,641 --> 00:37:38,130
+Nous avons de la visite.
+
+453
+00:37:42,634 --> 00:37:43,684
+Arrête-les.
+
+454
+00:38:37,716 --> 00:38:39,090
+Tu ne sauras jamais
+
+455
+00:38:39,215 --> 00:38:41,818
+à quel point tu m'as déçue, Kahlan.
+
+456
+00:38:42,530 --> 00:38:45,364
+J'ai toujours vu en toi
+la prochaine mère inquisitrice.
+
+457
+00:38:47,327 --> 00:38:49,179
+J'étais dans l'erreur.
+
+458
+00:38:50,747 --> 00:38:52,870
+Tu as étudié toute ta vie
+
+459
+00:38:53,448 --> 00:38:56,416
+pour connaître la différence
+entre le bien et le mal.
+
+460
+00:38:57,970 --> 00:38:59,179
+Cet enfant...
+
+461
+00:39:00,079 --> 00:39:03,361
+peut anéantir tout ce pour quoi
+nous avons combattu.
+
+462
+00:39:05,007 --> 00:39:07,507
+Nous combattons
+pour un monde meilleur.
+
+463
+00:39:07,793 --> 00:39:09,429
+Sa mort nous l'apportera ?
+
+464
+00:39:44,585 --> 00:39:47,185
+Je suis heureux
+de ne pas t'avoir blessé.
+
+465
+00:39:51,890 --> 00:39:53,214
+Elle a dédié sa vie
+
+466
+00:39:53,339 --> 00:39:56,226
+pour préserver les Contrées du Milieu
+de la tyrannie de Darken Rahl.
+
+467
+00:39:57,655 --> 00:39:59,750
+Et pour cela, elle sera honorée.
+
+468
+00:40:00,620 --> 00:40:01,520
+Esprits,
+
+469
+00:40:01,962 --> 00:40:04,860
+prenez soin d'elle,
+car elle a pris soin de tant d'autres.
+
+470
+00:40:16,828 --> 00:40:18,957
+Nous devons choisir
+une mère inquisitrice.
+
+471
+00:40:23,229 --> 00:40:24,529
+C'est déjà fait.
+
+472
+00:40:26,664 --> 00:40:27,764
+Ce sera toi.
+
+473
+00:40:34,512 --> 00:40:36,212
+Je suis flattée, mais...
+
+474
+00:40:36,609 --> 00:40:38,894
+je dois continuer
+à protéger le sourcier.
+
+475
+00:40:39,825 --> 00:40:43,575
+Et nous continuerons à protéger
+les gens de l'injustice de Rahl.
+
+476
+00:40:50,320 --> 00:40:51,420
+Prends Mira.
+
+477
+00:40:52,714 --> 00:40:54,164
+Elle te préservera.
+
+478
+00:41:16,366 --> 00:41:18,366
+Merci d'être revenue pour moi.
+
+479
+00:41:21,010 --> 00:41:23,869
+J'ai prié les esprits
+pour qu'ils te protègent,
+
+480
+00:41:23,994 --> 00:41:25,315
+et ils l'ont fait.
+
+481
+00:42:04,870 --> 00:42:05,939
+Ils iront bien.
+
+482
+00:42:07,300 --> 00:42:08,850
+Tu l'as dit toi-même.
+
+483
+00:42:09,290 --> 00:42:11,339
+Dennee et Finn
+ne peuvent pas être confessés,
+
+484
+00:42:11,464 --> 00:42:14,414
+le toucher de leur fils
+n'aura donc aucun effet.
+
+485
+00:42:14,644 --> 00:42:18,110
+Il ne sera pas séduit par son pouvoir
+s'il est incapable de l'utiliser.
+
+486
+00:42:18,235 --> 00:42:21,580
+Une fois qu'ils seront à Valeria,
+plus personne ne pourra le corrompre.
+
+487
+00:42:23,465 --> 00:42:27,038
+Et si personne ne peut le corrompre,
+il grandira dans l'amour du bien.
+
+488
+00:42:29,916 --> 00:42:31,566
+Mais si on avait tort ?
+
+489
+00:42:32,510 --> 00:42:35,210
+Et si on avait libéré
+un horrible monstre ?
+
+490
+00:42:38,272 --> 00:42:39,822
+Que se passera-t-il ?
+
+491
+00:42:40,561 --> 00:42:42,371
+www.u-sub.net
+www.sub-way.fr
+

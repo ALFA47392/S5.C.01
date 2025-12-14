@@ -1,0 +1,3176 @@
+1
+00:01:04,648 --> 00:01:07,463
+.: Team UnderCovers :.
+
+2
+00:01:18,578 --> 00:01:22,081
+NCIS Los Angeles 1x16
+- Chinatown -
+
+3
+00:01:25,538 --> 00:01:28,849
+If you tell me you're picking me
+up at 9:00, 8:50, I'm curbside.
+
+4
+00:01:29,010 --> 00:01:30,914
+- I got caught up in something.
+- What?
+
+5
+00:01:30,956 --> 00:01:33,624
+You don't have a TV.
+You don't read the newspaper.
+
+6
+00:01:33,666 --> 00:01:35,895
+You clearly don't spend
+any time getting ready.
+
+7
+00:01:36,034 --> 00:01:37,581
+maybe I was working out.
+
+8
+00:01:38,179 --> 00:01:39,974
+- You don't work out.
+- I run.
+
+9
+00:01:40,058 --> 00:01:41,895
+Yeah, when people
+are shooting at us.
+
+10
+00:01:42,573 --> 00:01:44,062
+You know what? I slept in.
+
+11
+00:01:44,613 --> 00:01:46,382
+With who?
+You barely sleep.
+
+12
+00:01:46,734 --> 00:01:47,823
+There's nobody.
+
+13
+00:01:47,865 --> 00:01:50,308
+Come on. it would be great
+for you to be in a relationship.
+
+14
+00:01:50,460 --> 00:01:53,507
+Again on this conversation?
+You are my partner, not my mother
+
+15
+00:01:53,549 --> 00:01:56,491
+I just want you to be happy
+and find a good girl.
+
+16
+00:01:57,690 --> 00:01:58,651
+Finally.
+
+17
+00:01:59,285 --> 00:02:01,406
+Nice of you gentlemen to join us.
+
+18
+00:02:01,570 --> 00:02:02,355
+Eric.
+
+19
+00:02:03,023 --> 00:02:04,183
+Calvin Lee.
+
+20
+00:02:05,285 --> 00:02:07,582
+Age 31. Submarine nuclear physicist
+
+21
+00:02:07,624 --> 00:02:09,258
+who just made Lieutenant Commander,
+
+22
+00:02:09,300 --> 00:02:12,551
+and was about to ship out on
+a six-month deployment as the XO,
+
+23
+00:02:13,078 --> 00:02:14,062
+until...
+
+24
+00:02:15,209 --> 00:02:16,719
+he hanged himself this morning.
+
+25
+00:02:17,353 --> 00:02:18,584
+Now, the problem is
+
+26
+00:02:18,626 --> 00:02:21,906
+that his sub was test-driving
+a hydrophonic decoy system,
+
+27
+00:02:21,948 --> 00:02:24,585
+which is a fancy way of saying
+that we can now trick those
+
+28
+00:02:24,627 --> 00:02:27,063
+underwater microphones
+that track our subs.
+
+29
+00:02:27,397 --> 00:02:31,264
+with the XO dead, SECNAV wants to know
+if the deployment's been compromised.
+
+30
+00:02:31,627 --> 00:02:32,459
+Now...
+
+31
+00:02:32,952 --> 00:02:36,327
+This footage was caught
+by some bachelorettes.
+
+32
+00:02:37,499 --> 00:02:41,472
+Initial forensics puts the time of death
+at around 6:00 a.m. This morning.
+
+33
+00:02:42,662 --> 00:02:44,818
+The suicide was pretty dramatic
+and very public.
+
+34
+00:02:45,036 --> 00:02:46,707
+He obviously wanted people
+to see him.
+
+35
+00:02:46,791 --> 00:02:48,439
+Maybe he was making a statement.
+
+36
+00:02:48,481 --> 00:02:50,336
+Maybe he didn't want back
+on that sub.
+
+37
+00:02:50,666 --> 00:02:54,205
+he worked awfully hard to become
+a Lieutenant Commander at 31.
+
+38
+00:02:54,569 --> 00:02:55,675
+XO on a sub.
+
+39
+00:02:55,858 --> 00:02:58,511
+it's a pretty big assignment.
+I don't buy it.
+
+40
+00:02:58,789 --> 00:03:02,515
+Suicidal people usually leave a trail,
+if you know what to look for.
+
+41
+00:03:02,599 --> 00:03:04,517
+Sam and I will hit the crime scene.
+Kensi,
+
+42
+00:03:04,719 --> 00:03:07,353
+check out the house.
+And bring Nate.
+
+43
+00:03:08,939 --> 00:03:11,649
+- You're actually letting me out again?
+- On a short leash.
+
+44
+00:03:11,733 --> 00:03:14,235
+- And a muzzle.
+- Clean up after him.
+
+45
+00:03:14,319 --> 00:03:17,738
+- You want a piece of this, too?
+- Don't let him hump your leg.
+
+46
+00:03:19,220 --> 00:03:20,041
+What?
+
+47
+00:03:22,232 --> 00:03:24,084
+All right, so he parked right there.
+
+48
+00:03:24,787 --> 00:03:26,088
+Tied the rope off.
+
+49
+00:03:26,943 --> 00:03:29,125
+- Jumped from here.
+- Or he was tossed.
+
+50
+00:03:32,245 --> 00:03:34,046
+Knot looks right for a sailor.
+
+51
+00:03:35,620 --> 00:03:37,975
+Assuming it was suicide, why here?
+
+52
+00:03:40,131 --> 00:03:43,131
+I don't know. Maybe this place
+has some sort of significance or
+
+53
+00:03:43,640 --> 00:03:45,123
+it's near something?
+
+54
+00:03:45,803 --> 00:03:48,102
+Maybe he wanted someone
+to see him when they drove by.
+
+55
+00:03:48,452 --> 00:03:51,709
+Hopefully, Eric can find some
+traffic cams or something
+
+56
+00:03:52,319 --> 00:03:54,233
+to shed a little light
+on this thing.
+
+57
+00:04:01,132 --> 00:04:03,451
+It's quite a view
+for your last look at life.
+
+58
+00:04:04,214 --> 00:04:06,113
+Yeah. Quite a view.
+
+59
+00:04:29,909 --> 00:04:31,812
+This is one squared-away sailor.
+
+60
+00:04:32,452 --> 00:04:33,731
+CDs are organized
+
+61
+00:04:33,815 --> 00:04:36,190
+by artist and release date.
+
+62
+00:04:37,690 --> 00:04:39,624
+Very obsessive-compulsive.
+
+63
+00:04:40,210 --> 00:04:41,751
+You should see his sock drawer.
+
+64
+00:04:44,475 --> 00:04:46,256
+This looks like a girlfriend.
+
+65
+00:04:49,080 --> 00:04:50,501
+Relationship gone sour?
+
+66
+00:04:50,747 --> 00:04:52,212
+It's been known to happen.
+
+67
+00:04:52,645 --> 00:04:54,669
+Of course, you'd have to be
+in a relationship first.
+
+68
+00:04:55,774 --> 00:04:56,963
+Was that aimed at me?
+
+69
+00:04:57,047 --> 00:04:58,610
+I'm just bustin' your...
+
+70
+00:04:59,149 --> 00:05:00,017
+chops.
+
+71
+00:05:00,813 --> 00:05:03,761
+Chops.
+You know, how, like partners do.
+
+72
+00:05:03,989 --> 00:05:05,594
+- You're not my partner.
+- Right.
+
+73
+00:05:05,636 --> 00:05:07,833
+- Don't make me get the muzzle.
+- Cool.
+
+74
+00:05:39,849 --> 00:05:41,419
+NCIS.
+Put your hands up.
+
+75
+00:05:42,239 --> 00:05:43,821
+You've got this all wrong.
+
+76
+00:05:46,221 --> 00:05:46,971
+Stop!
+
+77
+00:05:57,860 --> 00:06:00,151
+- Nice tackle, Urlacher.
+- Nate, a little help.
+
+78
+00:06:00,235 --> 00:06:01,317
+Let me go!
+
+79
+00:06:02,606 --> 00:06:04,697
+Yeah, we don't usually cuff
+the suspect's feet.
+
+80
+00:06:05,149 --> 00:06:05,906
+Right.
+
+81
+00:06:06,602 --> 00:06:08,219
+- Get off me!
+- Stop!
+
+82
+00:06:08,868 --> 00:06:10,071
+- You okay?
+- Yes.
+
+83
+00:06:10,113 --> 00:06:11,203
+Let me go!
+
+84
+00:06:11,287 --> 00:06:12,371
+Why did you run?
+
+85
+00:06:12,455 --> 00:06:13,622
+What'd you put in here?
+
+86
+00:06:15,443 --> 00:06:17,213
+Looks like about two ounces of meth.
+
+87
+00:06:17,447 --> 00:06:18,919
+That's why he ran so fast.
+
+88
+00:06:19,557 --> 00:06:21,380
+But not fast enough.
+
+89
+00:06:36,239 --> 00:06:37,293
+What do we have?
+
+90
+00:06:37,335 --> 00:06:40,199
+He busted into Calvin Lee's,
+pinched like two, three ounces of ice,
+
+91
+00:06:40,241 --> 00:06:41,650
+then booked out of there.
+
+92
+00:06:41,734 --> 00:06:44,125
+But we chased him down,
+slapped some cuffs on him.
+
+93
+00:06:45,472 --> 00:06:47,570
+Kensi tackled him.
+I backed her up.
+
+94
+00:06:48,103 --> 00:06:49,325
+Slow down, Serpico.
+
+95
+00:06:49,626 --> 00:06:51,185
+- Did you question him?
+- No.
+
+96
+00:06:51,227 --> 00:06:53,810
+Figured we'd let him stew
+for a little while and,
+
+97
+00:06:53,986 --> 00:06:55,623
+it might be better if it wasn't me.
+
+98
+00:06:55,917 --> 00:06:58,214
+- I'll question him.
+- I'll question him.
+
+99
+00:06:58,256 --> 00:06:59,140
+You...
+
+100
+00:06:59,726 --> 00:07:01,712
+do some deep breathing exercises.
+
+101
+00:07:04,390 --> 00:07:05,633
+You ever see her run?
+
+102
+00:07:07,613 --> 00:07:09,970
+She took him down
+like a cheetah on a springbok.
+
+103
+00:07:10,449 --> 00:07:11,472
+"A springbok"?
+
+104
+00:07:12,137 --> 00:07:13,391
+I'll see you later.
+
+105
+00:07:13,475 --> 00:07:15,184
+We... hitting the streets?
+
+106
+00:07:15,397 --> 00:07:16,811
+No, I'm taking you back to Ops.
+
+107
+00:07:17,073 --> 00:07:18,104
+I'll drive.
+
+108
+00:07:19,323 --> 00:07:20,481
+I don't think so.
+
+109
+00:07:24,426 --> 00:07:27,738
+- There's a couple ways we can do this.
+- I'd like access to a JAG lawyer.
+
+110
+00:07:30,075 --> 00:07:33,160
+- Why do you think you need a lawyer?
+- I know my rights.
+
+111
+00:07:33,509 --> 00:07:35,886
+All right, I'll ask around.
+I'll find out who has the...
+
+112
+00:07:36,075 --> 00:07:38,020
+best track record for murder cases.
+
+113
+00:07:38,231 --> 00:07:39,458
+I didn't kill anybody.
+
+114
+00:07:40,005 --> 00:07:40,907
+So, what,
+
+115
+00:07:41,153 --> 00:07:42,759
+you were Calvin Lee's meth dealer?
+
+116
+00:07:42,934 --> 00:07:45,137
+You took two ounces
+of meth from his house.
+
+117
+00:07:48,126 --> 00:07:49,473
+All right, look, pal,
+
+118
+00:07:50,667 --> 00:07:53,305
+we've got 60 open cases
+on our desks right now.
+
+119
+00:07:53,936 --> 00:07:56,892
+We've got a dead body,
+illegal drugs, and you.
+
+120
+00:07:57,979 --> 00:08:00,062
+Easiest thing for us
+to do is just walk away.
+
+121
+00:08:00,621 --> 00:08:03,052
+if you want us to keep digging
+and find something that might prove
+
+122
+00:08:03,094 --> 00:08:04,721
+you innocent along the way,
+
+123
+00:08:05,637 --> 00:08:07,945
+you've got to give us
+a reason to keep looking.
+
+124
+00:08:13,627 --> 00:08:15,983
+Calvin got a promotion
+to Lieutenant Commander,
+
+125
+00:08:16,241 --> 00:08:17,955
+then a great billet as an XO.
+
+126
+00:08:18,186 --> 00:08:21,083
+So let me guess.
+You were next in line?
+
+127
+00:08:21,294 --> 00:08:22,751
+It was a career-maker.
+
+128
+00:08:23,181 --> 00:08:24,545
+Calvin was a jerk.
+
+129
+00:08:24,798 --> 00:08:26,464
+He was moody, curt, secretive.
+
+130
+00:08:26,954 --> 00:08:28,382
+That job was mine.
+
+131
+00:08:28,736 --> 00:08:30,759
+My men worked
+their asses off for me.
+
+132
+00:08:32,618 --> 00:08:35,723
+For the past week, I've been spiking
+his soda with methamphetamines.
+
+133
+00:08:36,040 --> 00:08:37,224
+Just small amounts.
+
+134
+00:08:38,173 --> 00:08:40,269
+So, what, he fail a drug test?
+
+135
+00:08:42,596 --> 00:08:43,898
+You can't taste it.
+
+136
+00:08:44,530 --> 00:08:46,170
+It feels like a caffeine high.
+
+137
+00:08:47,402 --> 00:08:49,612
+With a big tour,
+they do a drug test of the whole crew.
+
+138
+00:08:49,944 --> 00:08:51,830
+Between a urinalysis and a search,
+
+139
+00:08:51,872 --> 00:08:54,283
+If he'd get bumped off the boat,
+the job would go to me.
+
+140
+00:08:55,099 --> 00:08:57,150
+But you didn't count
+on him killing himself.
+
+141
+00:08:57,192 --> 00:08:58,454
+I didn't like Calvin.
+
+142
+00:08:58,781 --> 00:09:00,297
+But I didn't want him dead.
+
+143
+00:09:00,877 --> 00:09:02,681
+And now there's an investigation.
+
+144
+00:09:03,642 --> 00:09:05,669
+I went there to undo
+some of the damage.
+
+145
+00:09:06,068 --> 00:09:06,818
+No.
+
+146
+00:09:07,345 --> 00:09:09,092
+You went back to cover your ass.
+
+147
+00:09:09,279 --> 00:09:11,529
+Unfortunately for you,
+it was too late.
+
+148
+00:09:12,279 --> 00:09:15,262
+Now, Calvin Lee is dead
+because of you.
+
+149
+00:09:19,178 --> 00:09:21,481
+Trace amounts of blood
+on his left shoe.
+
+150
+00:09:21,523 --> 00:09:23,726
+Preliminary tox screen just came in.
+
+151
+00:09:24,031 --> 00:09:26,269
+Looks like he was positive
+for methamphetamines,
+
+152
+00:09:26,410 --> 00:09:29,410
+but Calvin Lee did not blow
+a drug test.
+
+153
+00:09:29,621 --> 00:09:31,737
+In fact,
+he hasn't had a urinalysis in some time.
+
+154
+00:09:32,012 --> 00:09:33,840
+That means nobody
+but his shipmate, Vic,
+
+155
+00:09:33,882 --> 00:09:36,970
+knew that he had amphetamines in his
+system. And if Vic's telling the truth,
+
+156
+00:09:37,121 --> 00:09:38,551
+Calvin Lee didn't know.
+
+157
+00:09:38,703 --> 00:09:40,473
+That's probably not
+why he offed himself.
+
+158
+00:09:40,515 --> 00:09:43,555
+Nothing in his medical file
+about depression or mental illness.
+
+159
+00:09:43,695 --> 00:09:45,523
+So we could be looking at a murder?
+
+160
+00:09:45,816 --> 00:09:47,753
+What are the chances
+this isn't a suicide?
+
+161
+00:09:47,958 --> 00:09:49,338
+I'd say zero percent.
+
+162
+00:09:49,657 --> 00:09:51,340
+What do you know that we don't?
+
+163
+00:09:52,129 --> 00:09:53,592
+The words to every TV theme song.
+
+164
+00:09:55,293 --> 00:09:56,383
+And this.
+
+165
+00:09:58,930 --> 00:10:01,016
+Caltrans traffic operator
+saw him on the bridge
+
+166
+00:10:01,058 --> 00:10:02,832
+and zoomed in for a closer look.
+
+167
+00:10:03,360 --> 00:10:05,258
+It's definitely Calvin Lee.
+
+168
+00:10:05,856 --> 00:10:07,145
+And he's alone.
+
+169
+00:10:07,520 --> 00:10:09,608
+The body language says
+no signs of duress.
+
+170
+00:10:09,805 --> 00:10:11,727
+He came with the noose already tied.
+
+171
+00:10:16,791 --> 00:10:18,826
+I'd say that's pretty conclusive.
+
+172
+00:10:19,000 --> 00:10:20,864
+What was that he threw off
+the bridge?
+
+173
+00:10:31,818 --> 00:10:33,424
+Maybe he was throwing his gum out?
+
+174
+00:10:34,467 --> 00:10:37,553
+you wouldn't want to choke on your gum
+before you strangle yourself to death.
+
+175
+00:10:38,310 --> 00:10:40,097
+- I don't know.
+- Clearly.
+
+176
+00:10:42,688 --> 00:10:46,103
+Can you pay Lee's parents a visit?
+We are going back to the crime scene.
+
+177
+00:11:00,744 --> 00:11:01,916
+Have fun, guys.
+
+178
+00:11:02,867 --> 00:11:03,845
+Okay.
+
+179
+00:11:04,400 --> 00:11:05,778
+Should I get a gun?
+
+180
+00:11:05,881 --> 00:11:07,681
+- Have you ever carried a weapon?
+- No.
+
+181
+00:11:07,723 --> 00:11:09,616
+Fired a weapon?
+Been trained with a weapon?
+
+182
+00:11:09,658 --> 00:11:11,248
+Then you probably won't need one.
+
+183
+00:11:11,290 --> 00:11:14,089
+And the parents will be mourning
+over their dead son.
+
+184
+00:11:14,131 --> 00:11:17,701
+Which is why you're bringing
+an operational psychologist with you.
+
+185
+00:11:17,743 --> 00:11:19,012
+Copy that.
+
+186
+00:11:21,762 --> 00:11:24,475
+We're very sorry for your loss,
+Mr. and Mrs. Lee.
+
+187
+00:11:24,841 --> 00:11:26,920
+Did Calvin ever share
+with you any trouble
+
+188
+00:11:26,962 --> 00:11:30,428
+he was having at work,
+in relationships?
+
+189
+00:11:31,691 --> 00:11:33,275
+- Was he depressed?
+- No, no, no.
+
+190
+00:11:33,849 --> 00:11:35,486
+Calvin was a perfect son.
+
+191
+00:11:36,305 --> 00:11:37,225
+Always.
+
+192
+00:11:37,969 --> 00:11:39,534
+School, Navy...
+
+193
+00:11:40,228 --> 00:11:41,028
+He...
+
+194
+00:11:41,801 --> 00:11:44,671
+He was always trying to do his best.
+
+195
+00:11:45,284 --> 00:11:48,625
+We gave up everything
+to come here and have our son.
+
+196
+00:11:49,338 --> 00:11:50,346
+And now,...
+
+197
+00:11:50,743 --> 00:11:53,504
+- he's gone.
+- You left China?
+
+198
+00:11:53,904 --> 00:11:56,161
+We had a daughter
+when Ming was pregnant.
+
+199
+00:11:57,451 --> 00:11:59,468
+But we were only allowed one child.
+
+200
+00:11:59,860 --> 00:12:02,596
+- Was your daughter close with Calvin?
+- When they were younger.
+
+201
+00:12:03,237 --> 00:12:05,766
+But she's...
+She's gone. She...
+
+202
+00:12:05,900 --> 00:12:07,226
+she died a long time ago.
+
+203
+00:12:07,985 --> 00:12:09,929
+We're very sorry to hear that.
+
+204
+00:12:12,667 --> 00:12:15,609
+Can you think of any reason
+why Calvin would take his own life?
+
+205
+00:12:16,139 --> 00:12:17,847
+No, it must be a mistake.
+
+206
+00:12:18,610 --> 00:12:19,819
+Tell me something...
+
+207
+00:12:21,386 --> 00:12:22,616
+Is this your daughter?
+
+208
+00:12:23,617 --> 00:12:25,452
+No. This is Xue-Li,
+
+209
+00:12:26,699 --> 00:12:28,122
+our son's fiancée.
+
+210
+00:12:29,124 --> 00:12:30,833
+Do you know where we could find her?
+
+211
+00:12:30,917 --> 00:12:33,744
+Well, she's very upset. She said
+she's going back to Hong Kong
+
+212
+00:12:33,786 --> 00:12:35,546
+to be with her family,
+leaving immediately.
+
+213
+00:12:42,000 --> 00:12:44,325
+Perhaps we could have
+this conversation a little later?
+
+214
+00:12:44,367 --> 00:12:45,556
+My wife and I, we...
+
+215
+00:12:46,933 --> 00:12:48,752
+- we need more time.
+- Absolutely.
+
+216
+00:12:49,143 --> 00:12:50,102
+We understand.
+
+217
+00:12:51,325 --> 00:12:52,927
+Maybe we're over thinking this.
+
+218
+00:12:52,969 --> 00:12:56,318
+Maybe his death doesn't have anything
+to do with the sub's decoy system.
+
+219
+00:12:56,360 --> 00:12:58,402
+Maybe he just got
+in a fight with his girlfriend.
+
+220
+00:12:59,016 --> 00:13:00,839
+- Selfish.
+- What's that?
+
+221
+00:13:01,803 --> 00:13:02,868
+Suicide.
+
+222
+00:13:03,698 --> 00:13:06,598
+You're basically leaving
+everybody else to clean up your mess.
+
+223
+00:13:07,417 --> 00:13:08,829
+You all right, big guy?
+
+224
+00:13:09,076 --> 00:13:10,372
+You know what today is?
+
+225
+00:13:10,501 --> 00:13:11,582
+Wednesday.
+
+226
+00:13:11,739 --> 00:13:12,833
+It's Tuesday.
+
+227
+00:13:13,165 --> 00:13:14,290
+You sure?
+
+228
+00:13:14,627 --> 00:13:16,146
+Feels like a Wednesday.
+
+229
+00:13:17,361 --> 00:13:19,840
+Five weeks to the day
+since Dom went missing.
+
+230
+00:13:20,676 --> 00:13:22,634
+And we're here picking
+through roadside trash,
+
+231
+00:13:22,718 --> 00:13:25,387
+'cause some distraught
+meatball offed himself.
+
+232
+00:13:25,692 --> 00:13:28,627
+Sam, if we had
+something new to go on,
+
+233
+00:13:28,781 --> 00:13:31,337
+anything new, anything at all,
+we'd be on it 24/7.
+
+234
+00:13:31,379 --> 00:13:34,229
+- You know that, but we've got nothing.
+- And it's going to stay that way
+
+235
+00:13:34,313 --> 00:13:36,056
+as long as we're out here
+wasting our time
+
+236
+00:13:36,098 --> 00:13:38,108
+- with this things.
+- It isn't a waste of time.
+
+237
+00:13:38,282 --> 00:13:40,267
+The security of the men
+and the technology
+
+238
+00:13:40,309 --> 00:13:42,178
+on that submarine
+remain in question.
+
+239
+00:13:42,400 --> 00:13:45,073
+Besides that,
+Calvin Lee has a family.
+
+240
+00:13:46,335 --> 00:13:48,577
+At the very least,
+we're going to give them closure.
+
+241
+00:13:48,661 --> 00:13:51,699
+That's the same thing we're going
+to do for Dom's family someday.
+
+242
+00:13:55,577 --> 00:13:57,717
+Ming and Jun Lee immigrated here
+
+243
+00:13:57,759 --> 00:14:00,324
+in February of 1979
+with their daughter Jane.
+
+244
+00:14:00,573 --> 00:14:02,591
+She was two years old at the time.
+
+245
+00:14:02,907 --> 00:14:05,802
+Calvin, their son, was born
+six months later at County.
+
+246
+00:14:06,083 --> 00:14:09,723
+They've been running the same antique
+store in Chinatown for over 30 years.
+
+247
+00:14:09,807 --> 00:14:12,267
+- When did the daughter pass away?
+- She didn't.
+
+248
+00:14:12,860 --> 00:14:14,592
+The parents said she died years ago.
+
+249
+00:14:14,634 --> 00:14:17,564
+No death certificate on record,
+but I did find this.
+
+250
+00:14:19,820 --> 00:14:22,469
+Jane Lipsger, formally Jane Lee
+
+251
+00:14:22,511 --> 00:14:24,358
+now living in the arts district
+
+252
+00:14:24,400 --> 00:14:27,241
+where she owns her own eclectic
+hard metal furniture shop.
+
+253
+00:14:27,325 --> 00:14:30,425
+- She got married?
+- Nope. Just changed her name.
+
+254
+00:14:31,033 --> 00:14:32,374
+Why would the parents lie?
+
+255
+00:14:32,416 --> 00:14:34,634
+And why would she change
+her name to Lipsger?
+
+256
+00:14:35,392 --> 00:14:37,511
+I think it's time
+somebody asked her.
+
+257
+00:14:38,301 --> 00:14:40,754
+Whatever it was,
+it meant something to him.
+
+258
+00:14:40,906 --> 00:14:42,966
+And he didn't want it
+found on his body.
+
+259
+00:14:45,480 --> 00:14:47,520
+What are
+the circumstances that leads
+
+260
+00:14:47,562 --> 00:14:50,406
+to someone throwing a toilet seat out
+of a moving vehicle?
+
+261
+00:14:50,448 --> 00:14:52,644
+Kind of stretches
+the imagination, don't it?
+
+262
+00:14:54,652 --> 00:14:55,978
+Christmas lights...
+
+263
+00:14:56,062 --> 00:14:57,604
+a <i>Cats</i> CD...
+
+264
+00:14:57,688 --> 00:15:01,460
+Oh, this is interesting. I may actually
+take this one back to dust for prints.
+
+265
+00:15:02,068 --> 00:15:03,543
+Just out of curiosity.
+
+266
+00:15:05,836 --> 00:15:08,282
+I do not want to meet
+the owner of this shoe.
+
+267
+00:15:09,408 --> 00:15:10,534
+It's a size 15.
+
+268
+00:15:11,246 --> 00:15:13,328
+- That's a lot of woman.
+- Maybe.
+
+269
+00:15:17,230 --> 00:15:18,305
+Hello.
+
+270
+00:15:22,825 --> 00:15:24,405
+Right place, right size.
+
+271
+00:15:28,310 --> 00:15:30,271
+That's his parting shot
+to the world?
+
+272
+00:15:30,450 --> 00:15:32,889
+I'm gonna throw over my keys
+so no one can move my car?
+
+273
+00:15:33,337 --> 00:15:35,341
+Like I said: selfish.
+
+274
+00:15:40,938 --> 00:15:42,232
+Yeah, we're on it.
+
+275
+00:15:42,521 --> 00:15:44,902
+Eric just found Calvin Lee's sister
+in the arts district.
+
+276
+00:15:50,840 --> 00:15:53,126
+You know what I like
+about metal furniture?
+
+277
+00:15:53,830 --> 00:15:56,663
+Who are you kidding? What do you know
+about designing furniture?
+
+278
+00:15:57,079 --> 00:15:58,540
+I dabble in things.
+
+279
+00:15:58,624 --> 00:16:00,649
+You do things.
+You break things.
+
+280
+00:16:01,180 --> 00:16:02,935
+You don't dabble in things.
+
+281
+00:16:04,545 --> 00:16:06,173
+- You don't.
+- Can I help you?
+
+282
+00:16:07,101 --> 00:16:08,177
+That depends.
+
+283
+00:16:08,655 --> 00:16:10,344
+If you're Jane Lipsger
+
+284
+00:16:10,428 --> 00:16:11,320
+or Lee.
+
+285
+00:16:11,629 --> 00:16:12,763
+And you are?
+
+286
+00:16:13,043 --> 00:16:15,891
+I'm Callen. This is Sam.
+We're with NCIS.
+
+287
+00:16:16,108 --> 00:16:17,476
+Which means what exactly?
+
+288
+00:16:17,560 --> 00:16:19,933
+Naval Criminal
+Investigative Service.
+
+289
+00:16:20,448 --> 00:16:22,773
+We'd like to ask you some questions
+about your brother Calvin.
+
+290
+00:16:23,538 --> 00:16:24,691
+What about him?
+
+291
+00:16:24,775 --> 00:16:26,360
+When you spoke with him?
+
+292
+00:16:27,300 --> 00:16:29,029
+Why?
+What's going on?
+
+293
+00:16:33,159 --> 00:16:35,327
+I'm afraid he died early
+this morning.
+
+294
+00:16:42,422 --> 00:16:44,378
+I'm sorry we had
+to be the ones to tell you.
+
+295
+00:16:46,332 --> 00:16:47,091
+How?
+
+296
+00:16:51,311 --> 00:16:53,178
+It appears he took his own life.
+
+297
+00:17:08,998 --> 00:17:10,606
+Calvin called me last night.
+
+298
+00:17:11,041 --> 00:17:12,489
+Left a message on my machine.
+
+299
+00:17:13,016 --> 00:17:15,634
+He sounded drunk,
+which wasn't like him.
+
+300
+00:17:16,085 --> 00:17:19,287
+He was saying goodbye, but I figured
+it was just because he was shipping out.
+
+301
+00:17:19,759 --> 00:17:20,872
+You two were close?
+
+302
+00:17:21,671 --> 00:17:23,231
+We talked almost every day.
+
+303
+00:17:25,432 --> 00:17:29,047
+Even if I hate my parents, I have
+an irrational need to hear how they are.
+
+304
+00:17:31,327 --> 00:17:33,119
+I make fun of him, but...
+
+305
+00:17:34,321 --> 00:17:36,018
+he's really a great brother.
+
+306
+00:17:37,635 --> 00:17:40,063
+He was the good son.
+You were the rebel.
+
+307
+00:17:40,559 --> 00:17:41,716
+I was a terror.
+
+308
+00:17:43,103 --> 00:17:44,771
+But they had it coming.
+
+309
+00:17:45,414 --> 00:17:48,314
+Old school Chinese parents
+live for their sons.
+
+310
+00:17:49,827 --> 00:17:51,653
+Mine were a Jihua family.
+
+311
+00:17:52,548 --> 00:17:55,550
+We left China because
+of <i>Jihua Shengyu Zhenzi</i>...
+
+312
+00:17:56,152 --> 00:17:57,576
+the one-child policy.
+
+313
+00:17:59,558 --> 00:18:01,963
+I think they resented leaving.
+
+314
+00:18:03,265 --> 00:18:05,333
+And then they only had eyes for him.
+
+315
+00:18:08,159 --> 00:18:10,338
+You know what they call
+baby girls in China?
+
+316
+00:18:12,925 --> 00:18:14,582
+<i>Qu zai mifan</i>...
+
+317
+00:18:16,525 --> 00:18:18,147
+Maggots in rice.
+
+318
+00:18:20,690 --> 00:18:23,178
+Do you have any idea
+
+319
+00:18:23,435 --> 00:18:25,353
+why Calvin
+would have killed himself?
+
+320
+00:18:27,588 --> 00:18:28,899
+He seemed to have it all:
+
+321
+00:18:29,369 --> 00:18:30,863
+Lieutenant Commander,
+
+322
+00:18:31,622 --> 00:18:32,331
+XO,
+
+323
+00:18:33,735 --> 00:18:35,190
+beautiful fiancée.
+
+324
+00:18:36,641 --> 00:18:37,544
+Fiancée?
+
+325
+00:18:44,037 --> 00:18:46,208
+Xue-Li.
+That's a joke.
+
+326
+00:18:46,888 --> 00:18:49,341
+It was an arranged marriage
+my parents were trying to force on him.
+
+327
+00:18:49,383 --> 00:18:51,531
+He wanted nothing to do with her.
+Trust me.
+
+328
+00:18:52,157 --> 00:18:53,048
+Why is that?
+
+329
+00:18:56,601 --> 00:18:58,778
+Because Calvin...
+
+330
+00:18:59,125 --> 00:19:01,204
+didn't like girls.
+
+331
+00:19:04,221 --> 00:19:05,021
+Women.
+
+332
+00:19:06,789 --> 00:19:07,729
+He liked men.
+
+333
+00:19:07,981 --> 00:19:10,190
+He was very discreet.
+My parents had no idea.
+
+334
+00:19:10,327 --> 00:19:11,959
+He was in a relationship.
+
+335
+00:19:12,389 --> 00:19:13,701
+His name's Jaxson.
+
+336
+00:19:14,186 --> 00:19:15,426
+It wasn't easy.
+
+337
+00:19:15,744 --> 00:19:16,897
+Calvin took the
+
+338
+00:19:16,939 --> 00:19:20,170
+"don't ask, don't tell"
+stuff very seriously and Jaxson...
+
+339
+00:19:21,010 --> 00:19:22,035
+really didn't.
+
+340
+00:19:24,039 --> 00:19:26,344
+There were a lot of ups
+and a lot of downs.
+
+341
+00:19:30,508 --> 00:19:32,440
+The gay Lieutenant Commander.
+
+342
+00:19:34,381 --> 00:19:35,843
+Think his mom knew?
+
+343
+00:19:36,728 --> 00:19:38,969
+- Don't moms know these things?
+- You tell me.
+
+344
+00:19:40,234 --> 00:19:42,264
+- No mom.
+- That's why you need me.
+
+345
+00:19:42,694 --> 00:19:44,211
+This is funny.
+
+346
+00:19:46,143 --> 00:19:47,198
+Mr. Jaxson!
+
+347
+00:19:51,750 --> 00:19:53,712
+Mr. Jaxson, you there?
+
+348
+00:19:56,926 --> 00:19:58,083
+You around?
+
+349
+00:20:12,285 --> 00:20:14,260
+Doesn't look like love to me.
+
+350
+00:20:20,327 --> 00:20:22,519
+- They find the weapon?
+- Not yet.
+
+351
+00:20:23,815 --> 00:20:26,391
+- None of the neighbors heard anything.
+- Well, they seldom do.
+
+352
+00:20:27,977 --> 00:20:29,269
+No signs of forced entry.
+
+353
+00:20:32,439 --> 00:20:34,065
+Only one set of footprints.
+
+354
+00:20:34,413 --> 00:20:37,569
+It's probably the blood found
+on Lieutenant Commander Lee's shoes.
+
+355
+00:20:37,896 --> 00:20:40,363
+So I'm thinking he slits
+the guy's throat,
+
+356
+00:20:40,868 --> 00:20:43,209
+tosses a few back,
+realizing what he's done,
+
+357
+00:20:45,208 --> 00:20:46,977
+then hangs himself at first light.
+
+358
+00:20:47,450 --> 00:20:50,388
+So we call it a crime of passion,
+murder-suicide?
+
+359
+00:20:50,805 --> 00:20:53,335
+If he killed this guy,
+that explains why he hanged himself.
+
+360
+00:20:53,739 --> 00:20:55,609
+Well, it explains the suicide.
+
+361
+00:20:56,285 --> 00:20:58,423
+Now we got to figure out the murder.
+
+362
+00:20:58,507 --> 00:21:00,537
+Coroner's report confirms
+the presence
+
+363
+00:21:00,579 --> 00:21:02,899
+of methamphetamines
+in Calvin Lee's system, but
+
+364
+00:21:02,941 --> 00:21:04,896
+no signs of actual meth use:
+
+365
+00:21:04,938 --> 00:21:07,515
+Needle marks,
+meth mouth, lung damage.
+
+366
+00:21:07,695 --> 00:21:09,803
+Which is consistent
+with his shipmate's story.
+
+367
+00:21:09,845 --> 00:21:12,946
+The main cause of suicide in the armed
+services: clinical depression,
+
+368
+00:21:12,988 --> 00:21:15,595
+relationship problems, deployment,
+or combat stress.
+
+369
+00:21:15,637 --> 00:21:17,859
+There's not much combat stress
+in a sub deployment.
+
+370
+00:21:17,901 --> 00:21:20,612
+- And no history of depression.
+- Which leaves relationships.
+
+371
+00:21:20,696 --> 00:21:23,299
+And this guy was hiding his relationship
+from a lot of people.
+
+372
+00:21:24,245 --> 00:21:26,922
+This is the surveillance footage
+from Jaxson's building.
+
+373
+00:21:26,964 --> 00:21:28,550
+Calvin let himself in last night,
+
+374
+00:21:28,592 --> 00:21:30,838
+and then left in a hurry,
+eight minutes later.
+
+375
+00:21:30,880 --> 00:21:33,148
+That's enough time to kill Jaxson.
+
+376
+00:21:33,190 --> 00:21:34,000
+Motive?
+
+377
+00:21:34,299 --> 00:21:35,808
+Any number of reasons.
+
+378
+00:21:35,850 --> 00:21:37,413
+If Jaxson wasn't discreet,
+
+379
+00:21:37,455 --> 00:21:40,257
+that would put Calvin's career
+and family ties on the line.
+
+380
+00:21:40,954 --> 00:21:41,758
+Or maybe
+
+381
+00:21:41,842 --> 00:21:44,138
+Calvin just wanted out, you know?
+
+382
+00:21:44,533 --> 00:21:45,812
+He's about to deploy.
+
+383
+00:21:45,854 --> 00:21:47,555
+He thinks it's best to just end it.
+
+384
+00:21:47,722 --> 00:21:50,558
+Jaxson refuses to let him go
+and threatens to out Calvin.
+
+385
+00:21:50,745 --> 00:21:53,603
+- But still no murder weapon.
+- Maybe he took it with him.
+
+386
+00:21:53,835 --> 00:21:56,272
+He'd have had to drop his weapon
+somewhere between the crime scene
+
+387
+00:21:56,314 --> 00:21:57,357
+and the overpass.
+
+388
+00:21:57,990 --> 00:21:59,943
+Look at what he's wearing.
+He didn't change.
+
+389
+00:22:00,394 --> 00:22:01,836
+You saw that blood splatter.
+
+390
+00:22:02,072 --> 00:22:03,771
+How could he manage to kill this guy
+
+391
+00:22:03,813 --> 00:22:06,908
+and get the knife out of the building
+without getting blood on himself?
+
+392
+00:22:06,992 --> 00:22:08,326
+Eric, scroll back.
+
+393
+00:22:08,809 --> 00:22:11,452
+It's 6:00 at night,
+people are coming and going.
+
+394
+00:22:11,843 --> 00:22:13,156
+Dog walkin' time.
+
+395
+00:22:16,397 --> 00:22:19,421
+- Busy apartment building.
+- Go back to the delivery guy.
+
+396
+00:22:19,822 --> 00:22:22,272
+Gotta get past
+all the nosy neighbors.
+
+397
+00:22:24,661 --> 00:22:25,844
+No one buzzed him in.
+
+398
+00:22:27,135 --> 00:22:29,431
+And he leaves in a hurry.
+Can barely see his face.
+
+399
+00:22:29,862 --> 00:22:31,683
+Purposely exits away from camera.
+
+400
+00:22:32,613 --> 00:22:33,852
+That's our guy.
+
+401
+00:22:34,568 --> 00:22:35,687
+Let's check it out.
+
+402
+00:22:45,457 --> 00:22:48,084
+No one had Chinese food
+delivery last night.
+
+403
+00:22:48,285 --> 00:22:49,981
+It's 'cause it never got delivered.
+
+404
+00:22:50,023 --> 00:22:52,495
+He just needed this to get access
+to the apartment building.
+
+405
+00:22:54,063 --> 00:22:55,963
+"Jolly Chan's Chinese food."
+
+406
+00:22:56,457 --> 00:22:58,207
+It's guaranteed MSG-free.
+
+407
+00:22:59,082 --> 00:23:00,790
+<i>Jolly Chan</i> is in Chinatown,
+
+408
+00:23:00,832 --> 00:23:03,356
+and while they have
+an excellent kung pao chicken,
+
+409
+00:23:03,398 --> 00:23:06,405
+they don't deliver to West Hollywood
+or anywhere near Jaxson's apartment.
+
+410
+00:23:06,447 --> 00:23:07,280
+Okay.
+
+411
+00:23:07,911 --> 00:23:11,135
+If the person who ordered
+the food used a credit card,
+
+412
+00:23:11,710 --> 00:23:15,311
+we might be able to get a name
+by matching the contents of the order
+
+413
+00:23:15,353 --> 00:23:17,568
+to the restaurant's
+takeout receipts.
+
+414
+00:23:18,934 --> 00:23:20,482
+We've created a monster.
+
+415
+00:23:21,162 --> 00:23:23,359
+What, that's...
+that's not good detective work?
+
+416
+00:23:24,779 --> 00:23:28,323
+You might start by checking the bag
+and its contents for fingerprints.
+
+417
+00:23:29,556 --> 00:23:31,172
+Sure, we could do that.
+
+418
+00:23:31,554 --> 00:23:32,704
+Which we did.
+
+419
+00:23:33,993 --> 00:23:34,871
+Bobby Tang:
+
+420
+00:23:34,913 --> 00:23:37,864
+he runs an import/export company
+out of West Adams, and
+
+421
+00:23:38,320 --> 00:23:39,820
+he's got a mug shot.
+
+422
+00:23:41,708 --> 00:23:42,924
+Emphasis on mug.
+
+423
+00:23:43,922 --> 00:23:46,130
+He's a member
+of the Asian gang Hiragana.
+
+424
+00:23:46,172 --> 00:23:48,920
+They're one of the most dangerous
+and organized gangs in L.A.
+
+425
+00:23:49,268 --> 00:23:50,667
+Suspected homicide:
+
+426
+00:23:50,787 --> 00:23:54,745
+torching a business associate's store
+with the business associate still in it.
+
+427
+00:23:55,378 --> 00:23:57,894
+I'd say he possesses
+the necessary skill set.
+
+428
+00:23:58,093 --> 00:23:59,312
+Let's pay him a visit.
+
+429
+00:24:06,211 --> 00:24:07,570
+Hetty, can I ask you a...?
+
+430
+00:24:07,654 --> 00:24:08,363
+No!
+
+431
+00:24:09,629 --> 00:24:11,783
+You didn't even know
+I was gonna ask.
+
+432
+00:24:12,133 --> 00:24:13,609
+Will it cost me money?
+
+433
+00:24:14,175 --> 00:24:15,453
+I don't think so.
+
+434
+00:24:15,746 --> 00:24:17,705
+Does it involve any legal issues?
+
+435
+00:24:17,789 --> 00:24:21,376
+No, no. I just want to ask you
+a hypothetical question.
+
+436
+00:24:24,150 --> 00:24:26,172
+- You mean, like a riddle?
+- Sure.
+
+437
+00:24:26,580 --> 00:24:27,524
+Ask away.
+
+438
+00:24:28,069 --> 00:24:30,985
+Have you ever known
+an operational psychologist
+
+439
+00:24:31,281 --> 00:24:33,006
+who became an agent?
+
+440
+00:24:48,745 --> 00:24:50,248
+Kerwood Ames,
+
+441
+00:24:50,447 --> 00:24:51,739
+a brilliant man.
+
+442
+00:24:52,017 --> 00:24:54,978
+He pioneered
+several profiling techniques.
+
+443
+00:24:56,781 --> 00:24:58,121
+Is he still with the agency?
+
+444
+00:24:58,205 --> 00:25:01,492
+No, he was killed
+in his second week on the job.
+
+445
+00:25:01,594 --> 00:25:03,084
+Or was it his second day?
+
+446
+00:25:05,047 --> 00:25:07,303
+Ames had a gifted mind,
+
+447
+00:25:07,345 --> 00:25:09,340
+but he tended to think logically.
+
+448
+00:25:10,574 --> 00:25:11,585
+Invaluable
+
+449
+00:25:11,969 --> 00:25:14,823
+for a scientist,
+not so much for an agent.
+
+450
+00:25:14,865 --> 00:25:17,237
+Choices they make on the street
+
+451
+00:25:17,279 --> 00:25:19,017
+don't always seem to make sense
+
+452
+00:25:19,101 --> 00:25:20,727
+to the untrained eye,
+
+453
+00:25:20,811 --> 00:25:23,104
+which is probably
+what keeps them alive.
+
+454
+00:25:23,823 --> 00:25:25,043
+Why do you ask?
+
+455
+00:25:25,940 --> 00:25:27,836
+Just... just curious.
+
+456
+00:25:29,143 --> 00:25:31,154
+Admirable quality... curiosity.
+
+457
+00:25:32,774 --> 00:25:34,747
+Unless, of course, you're a cat.
+
+458
+00:25:42,152 --> 00:25:44,477
+So this is Bobby Tang's company.
+
+459
+00:25:49,149 --> 00:25:50,414
+You bring the lock pick?
+
+460
+00:25:55,935 --> 00:25:56,816
+That works.
+
+461
+00:26:10,938 --> 00:26:13,429
+Looks like our buddy Bobby Tang
+is a video pirate.
+
+462
+00:26:14,086 --> 00:26:14,795
+No.
+
+463
+00:26:15,601 --> 00:26:16,434
+What?
+
+464
+00:26:16,677 --> 00:26:19,116
+I know what you want to say...
+don't do it.
+
+465
+00:26:21,288 --> 00:26:22,843
+You don't like my pirate impression?
+
+466
+00:26:44,815 --> 00:26:47,355
+I guess Xue-Li didn't go back
+to Hong Kong after all.
+
+467
+00:26:49,400 --> 00:26:50,984
+What's she doing with Bobby Tang?
+
+468
+00:26:51,247 --> 00:26:53,444
+I don't know,
+but she looks like she's in trouble.
+
+469
+00:26:59,972 --> 00:27:00,839
+Look out!
+
+470
+00:27:05,843 --> 00:27:08,126
+Throw the weapon down!
+Drop it! Down!
+
+471
+00:27:08,589 --> 00:27:10,503
+Drop your weapon!
+Down on the ground!
+
+472
+00:27:11,327 --> 00:27:12,218
+Get down!
+
+473
+00:27:42,977 --> 00:27:43,828
+You okay?
+
+474
+00:27:44,729 --> 00:27:46,100
+Where'd they come from?
+
+475
+00:27:46,142 --> 00:27:47,506
+And where'd she go?
+
+476
+00:27:58,671 --> 00:28:00,381
+That guy got me in the face.
+
+477
+00:28:00,838 --> 00:28:03,581
+And I'm not even gonna tell you
+where the guy upstairs got me.
+
+478
+00:28:03,623 --> 00:28:05,405
+I think the guy in the hospital
+bit me.
+
+479
+00:28:05,554 --> 00:28:09,328
+I see the Ice and Aspirin Club
+is at it again.
+
+480
+00:28:09,949 --> 00:28:11,847
+Every time I come here,
+
+481
+00:28:12,011 --> 00:28:15,151
+I feel like I've stepped
+into a damn Hardy Boys' novel.
+
+482
+00:28:16,276 --> 00:28:17,753
+I gather that
+
+483
+00:28:17,795 --> 00:28:20,031
+you couldn't talk your way
+out of this one?
+
+484
+00:28:20,225 --> 00:28:22,784
+We had a little bit
+of a language barrier.
+
+485
+00:28:23,027 --> 00:28:25,125
+And an "I want you dead" barrier.
+
+486
+00:28:28,787 --> 00:28:29,631
+That...
+
+487
+00:28:29,842 --> 00:28:31,623
+knife we got off Bobby Tang...
+
+488
+00:28:31,998 --> 00:28:34,260
+Forensics says it looks like a match
+
+489
+00:28:34,418 --> 00:28:37,256
+with the one that killed
+Calvin Lee's boyfriend Jaxson.
+
+490
+00:28:37,478 --> 00:28:39,592
+- And Xue-Li?
+- In the wind.
+
+491
+00:28:39,947 --> 00:28:42,349
+I alerted Border Patrol
+and local law enforcement.
+
+492
+00:28:42,660 --> 00:28:45,777
+What have we learned from "the Three
+Stooges" you took into custody?
+
+493
+00:28:46,843 --> 00:28:48,601
+We're not sure they speak English.
+
+494
+00:28:49,890 --> 00:28:51,367
+Leave them to me.
+
+495
+00:28:52,257 --> 00:28:54,577
+<i>Woe mon yoe-banfa</i>
+
+496
+00:28:54,964 --> 00:28:56,909
+<i>zjan ta-men shuo.</i>
+
+497
+00:28:57,823 --> 00:28:59,428
+- What's that mean?
+- It means,
+
+498
+00:28:59,613 --> 00:29:02,198
+"We have ways of making them talk."
+
+499
+00:29:05,757 --> 00:29:07,497
+You're next, Mr. Callen.
+
+500
+00:29:09,767 --> 00:29:13,412
+We don't know what we're dealing with.
+Could be espionage, could be anything.
+
+501
+00:29:15,133 --> 00:29:16,421
+What do we have, Kensi?
+
+502
+00:29:18,715 --> 00:29:22,308
+Bobby Tang delivers Chinese food
+to West Hollywood and kills Jaxson.
+
+503
+00:29:22,496 --> 00:29:24,262
+Calvin finds Jaxson's body,
+
+504
+00:29:24,504 --> 00:29:25,535
+hangs himself.
+
+505
+00:29:25,676 --> 00:29:27,527
+Bobby confronts Xue-Li,
+
+506
+00:29:27,569 --> 00:29:29,783
+who... two-taps him in the chest.
+
+507
+00:29:29,825 --> 00:29:32,186
+Xue-Li's the only one alive.
+What do we have on her?
+
+508
+00:29:32,228 --> 00:29:34,814
+Supposedly she was brought here
+for an arranged marriage.
+
+509
+00:29:35,538 --> 00:29:36,441
+From where?
+
+510
+00:29:36,815 --> 00:29:39,745
+She's not exactly a well-behaved
+mail-order bride.
+
+511
+00:29:39,986 --> 00:29:41,779
+She handled that Glock like a pro.
+
+512
+00:29:42,215 --> 00:29:44,282
+I'll speak to the parents,
+find out how they met her.
+
+513
+00:29:44,765 --> 00:29:47,132
+Maybe they know something
+they don't realize they know.
+
+514
+00:29:52,383 --> 00:29:53,499
+You'd like to come?
+
+515
+00:29:54,607 --> 00:29:56,739
+- Do you want me to?
+- You don't want to be out?
+
+516
+00:29:57,678 --> 00:29:58,873
+No, I do, I do.
+
+517
+00:29:59,829 --> 00:30:00,798
+I should stay.
+
+518
+00:30:01,048 --> 00:30:03,134
+I got a lot of paperwork...
+
+519
+00:30:03,685 --> 00:30:05,302
+logical stuff,
+
+520
+00:30:05,653 --> 00:30:07,557
+Kerwood Ames issue...
+
+521
+00:30:11,448 --> 00:30:12,810
+What are we missing, Sam?
+
+522
+00:30:14,161 --> 00:30:15,297
+I don't know.
+
+523
+00:30:25,960 --> 00:30:27,200
+What Dom would say?
+
+524
+00:30:29,723 --> 00:30:30,602
+Probably...
+
+525
+00:30:31,592 --> 00:30:34,580
+give us some obscure historical fact
+about God knows what.
+
+526
+00:30:36,133 --> 00:30:39,063
+Did you know Leonardo DaVinci
+was the first person
+
+527
+00:30:39,105 --> 00:30:42,323
+to design the submarine
+in the 15th century
+
+528
+00:30:42,365 --> 00:30:44,550
+and he was also the first inventor
+
+529
+00:30:44,758 --> 00:30:46,961
+to think to combine
+existing machines
+
+530
+00:30:47,101 --> 00:30:49,586
+to create new and improved ones?
+
+531
+00:30:56,702 --> 00:30:58,682
+How do we know this is just a key?
+
+532
+00:31:10,493 --> 00:31:13,403
+Mrs. Lee, sorry to bother you again,
+but we have a few more questions.
+
+533
+00:31:13,871 --> 00:31:14,956
+Jun is not here.
+
+534
+00:31:15,386 --> 00:31:17,296
+That's okay.
+I'm sure you can help.
+
+535
+00:31:18,392 --> 00:31:20,255
+I prefer my husband to be here.
+
+536
+00:31:20,871 --> 00:31:21,670
+Why?
+
+537
+00:31:22,786 --> 00:31:24,090
+He's the strong one.
+
+538
+00:31:25,522 --> 00:31:28,100
+You said Calvin's fiancée, Xue-Li,
+went back to Hong Kong.
+
+539
+00:31:29,606 --> 00:31:30,888
+But she didn't.
+
+540
+00:31:31,405 --> 00:31:32,354
+Did she?
+
+541
+00:31:37,280 --> 00:31:40,147
+You need to wait for my husband.
+I can't talk about it.
+
+542
+00:31:40,386 --> 00:31:43,192
+Because you don't want to
+or because he won't let you?
+
+543
+00:31:47,377 --> 00:31:49,533
+Okay,
+I don't usually get this excited,
+
+544
+00:31:50,061 --> 00:31:52,118
+but this is cool on so many levels.
+
+545
+00:31:52,202 --> 00:31:53,786
+I take it it's not a car key.
+
+546
+00:31:53,870 --> 00:31:55,496
+<i>Au contraire, mon frère</i>.
+
+547
+00:31:55,803 --> 00:31:57,748
+It is and so much more.
+
+548
+00:31:58,334 --> 00:31:59,927
+It's a high-tech cloner.
+
+549
+00:32:00,068 --> 00:32:02,169
+It's like an IronClad flash drive,
+
+550
+00:32:02,253 --> 00:32:04,235
+just jacked up on steroids.
+
+551
+00:32:04,376 --> 00:32:06,684
+It only needs to be
+in the vicinity of a computer,
+
+552
+00:32:06,726 --> 00:32:08,952
+and it relays the information
+to a remote location.
+
+553
+00:32:09,140 --> 00:32:12,433
+Look at this thing. You can disguise
+this as any everyday object.
+
+554
+00:32:12,837 --> 00:32:15,099
+Just leave it
+near someone's computer,
+
+555
+00:32:15,632 --> 00:32:17,101
+all her secrets are revealed.
+
+556
+00:32:17,185 --> 00:32:19,645
+This one, interestingly enough,
+never been used.
+
+557
+00:32:20,185 --> 00:32:22,845
+Why would the Navy
+give Calvin a jacked-up IronClad?
+
+558
+00:32:23,495 --> 00:32:24,900
+I don't think they did.
+
+559
+00:32:25,521 --> 00:32:28,310
+I mean, I can't be totally sure
+how any of this works,
+
+560
+00:32:28,977 --> 00:32:30,700
+because most of the code
+
+561
+00:32:31,345 --> 00:32:32,610
+looks like this.
+
+562
+00:32:33,407 --> 00:32:34,368
+Chinese?
+
+563
+00:32:34,918 --> 00:32:36,102
+Military grade.
+
+564
+00:32:36,925 --> 00:32:39,503
+Nothing this sophisticated's
+even on our radar.
+
+565
+00:32:39,708 --> 00:32:41,500
+If this came
+from the People's Republic
+
+566
+00:32:41,695 --> 00:32:43,336
+and wound up on that sub...
+
+567
+00:32:43,628 --> 00:32:45,445
+Every piece
+of classified information
+
+568
+00:32:45,487 --> 00:32:48,144
+and new technology on that mission
+would be compromised...
+
+569
+00:32:49,655 --> 00:32:51,671
+and available to our enemies.
+
+570
+00:32:53,430 --> 00:32:55,181
+Calvin Lee was a Chinese spy.
+
+571
+00:33:04,844 --> 00:33:07,293
+Calvin's shipmate Vic
+did say that he was
+
+572
+00:33:07,750 --> 00:33:09,602
+secretive, nervous,
+
+573
+00:33:10,656 --> 00:33:11,664
+a loner.
+
+574
+00:33:11,864 --> 00:33:14,043
+I would be too
+if I were betraying my country.
+
+575
+00:33:14,206 --> 00:33:15,788
+Imagine living every day wondering
+
+576
+00:33:15,830 --> 00:33:18,386
+if you're about to be caught,
+constantly looking over your shoulder.
+
+577
+00:33:20,090 --> 00:33:21,290
+Imagine that.
+
+578
+00:33:23,752 --> 00:33:25,629
+Maybe he thought
+he was about to be made.
+
+579
+00:33:26,208 --> 00:33:27,630
+Could explain the suicide.
+
+580
+00:33:27,715 --> 00:33:29,607
+Yeah, but why toss this?
+
+581
+00:33:30,087 --> 00:33:32,802
+Why not hide it first?
+Give it to your handlers?
+
+582
+00:33:33,096 --> 00:33:35,194
+Maybe the Lieutenant Commander
+
+583
+00:33:35,597 --> 00:33:38,099
+is sending a message from the grave.
+
+584
+00:33:38,395 --> 00:33:41,313
+Historically,
+traitors were hung from bridges
+
+585
+00:33:41,799 --> 00:33:44,605
+- as a warning to others.
+- Calvin didn't want to be a traitor.
+
+586
+00:33:44,689 --> 00:33:47,400
+That's why the cloner had never
+been used. 'cause Calvin refused.
+
+587
+00:33:47,859 --> 00:33:50,903
+So the Chinese threatened him
+with the best currency they had.
+
+588
+00:33:51,282 --> 00:33:53,364
+His one vulnerability, his boyfriend
+
+589
+00:33:53,556 --> 00:33:54,341
+Jaxson.
+
+590
+00:33:55,073 --> 00:33:57,368
+Only Bobby Tang went too far:
+he killed him.
+
+591
+00:33:57,556 --> 00:33:58,900
+So with nowhere else to turn,
+
+592
+00:33:58,942 --> 00:34:01,564
+suicide is the final act of defiance
+against his tormentors.
+
+593
+00:34:02,059 --> 00:34:03,641
+That explains why he tossed this.
+
+594
+00:34:04,549 --> 00:34:07,315
+So maybe Mr. Lee was a true patriot.
+
+595
+00:34:07,678 --> 00:34:08,979
+Died for his country.
+
+596
+00:34:09,021 --> 00:34:11,694
+With the operation blown, the only thing
+left to do for his handlers
+
+597
+00:34:11,736 --> 00:34:13,736
+was clean up the mess
+and cover your tracks,
+
+598
+00:34:13,880 --> 00:34:15,416
+starting with Bobby Tang.
+
+599
+00:34:15,568 --> 00:34:18,252
+Xue-Li,
+pretending to be his arranged bride,
+
+600
+00:34:18,457 --> 00:34:21,328
+but really a pro brought in
+from the home office
+
+601
+00:34:21,685 --> 00:34:22,768
+to get things done.
+
+602
+00:34:22,997 --> 00:34:25,003
+That's why we have
+no back story on her.
+
+603
+00:34:25,045 --> 00:34:26,139
+She's a shooter.
+
+604
+00:34:26,876 --> 00:34:29,483
+- Now she's tying up her loose ends.
+- Which are?
+
+605
+00:34:29,691 --> 00:34:31,085
+Anyone who may have known.
+
+606
+00:34:31,127 --> 00:34:32,796
+Probably starting with the family.
+
+607
+00:34:32,838 --> 00:34:35,852
+And any one of them
+could be an asset to us, so
+
+608
+00:34:36,115 --> 00:34:37,685
+they're all in danger.
+
+609
+00:34:40,685 --> 00:34:42,244
+How did you meet Xue-Li?
+
+610
+00:34:42,286 --> 00:34:44,312
+Her family was friends of Jun's...
+
+611
+00:34:44,354 --> 00:34:46,069
+I'm sorry. Excuse me.
+
+612
+00:34:46,408 --> 00:34:48,502
+- Yeah.
+<i>- Get Calvin's parents out of there.</i>
+
+613
+00:34:48,586 --> 00:34:50,129
+Callen and Sam think that Xue-Li
+
+614
+00:34:50,213 --> 00:34:51,906
+<i>is going to try to kill them.</i>
+
+615
+00:34:52,984 --> 00:34:54,156
+Okay, got it.
+
+616
+00:34:54,812 --> 00:34:56,093
+Get out of here right now.
+
+617
+00:34:56,307 --> 00:34:58,956
+- To go where? We have customers.
+- Mr. Lee, you are in danger.
+
+618
+00:34:58,998 --> 00:35:01,182
+I must move you
+someplace safe immediately.
+
+619
+00:35:01,344 --> 00:35:03,809
+This is our store, our neighborhood.
+There is no danger.
+
+620
+00:35:03,893 --> 00:35:05,519
+Xue-Li might come here to kill you.
+
+621
+00:35:05,737 --> 00:35:08,315
+- Let's go to the back door.
+- Look, I need to lock up.
+
+622
+00:35:08,357 --> 00:35:10,099
+Mr. Lee,
+we don't have time for this.
+
+623
+00:35:14,904 --> 00:35:15,946
+I got it.
+
+624
+00:35:16,146 --> 00:35:17,693
+Sorry, I have to do this.
+
+625
+00:35:20,576 --> 00:35:23,454
+Jun!
+No, no! Jun, stop!
+
+626
+00:35:35,425 --> 00:35:37,852
+Eric, Jun just tried to kill me
+and his wife.
+
+627
+00:35:38,021 --> 00:35:39,005
+I need backup.
+
+628
+00:35:39,263 --> 00:35:40,681
+I'm calling LAPD
+
+629
+00:35:40,933 --> 00:35:42,681
+and sending your GPS
+to Callen and Sam.
+
+630
+00:35:49,351 --> 00:35:51,107
+<i>Eric, Xue-Li is after us.</i>
+
+631
+00:35:51,682 --> 00:35:52,733
+<i>Where's our backup?</i>
+
+632
+00:35:58,448 --> 00:35:59,949
+Kensi's in trouble.
+
+633
+00:36:07,485 --> 00:36:09,559
+I'm in a Chinese restaurant
+called Foo Chow.
+
+634
+00:36:09,700 --> 00:36:12,211
+I need an exit strategy
+to get back to my car on Broadway.
+
+635
+00:36:12,414 --> 00:36:14,296
+I'm loading the pictometry
+of the building.
+
+636
+00:36:16,633 --> 00:36:18,050
+Come on. Come on.
+
+637
+00:36:21,935 --> 00:36:23,060
+<i>Okay, I got you.</i>
+
+638
+00:36:23,723 --> 00:36:27,017
+<i>Don't go out the front. Take the side
+door left. It leads into the market.</i>
+
+639
+00:36:42,558 --> 00:36:44,398
+I need eyes on Jun and Xue-Li.
+
+640
+00:36:44,703 --> 00:36:45,870
+I'm looking.
+
+641
+00:36:50,902 --> 00:36:51,793
+<i>I got him.</i>
+
+642
+00:36:52,249 --> 00:36:54,003
+<i>Jun's at your 6:00, closing in fast.</i>
+
+643
+00:37:04,235 --> 00:37:05,139
+Stay down.
+
+644
+00:37:07,435 --> 00:37:09,727
+<i>Jun is closing in on her
+and I can't locate Xue-Li.</i>
+
+645
+00:37:13,046 --> 00:37:15,983
+Kensi, you hear me?
+We're coming in the north gate.
+
+646
+00:37:16,284 --> 00:37:17,860
+You need to find these guys.
+
+647
+00:37:27,219 --> 00:37:28,813
+I've got eyes on Jun.
+
+648
+00:37:38,619 --> 00:37:40,412
+Federal agent, Jun.
+Don't move.
+
+649
+00:37:41,338 --> 00:37:43,302
+- I got <i>Jun, Sam.</i>
+- Eric, where's Xue-Li?
+
+650
+00:37:43,597 --> 00:37:45,012
+I can't find her.
+
+651
+00:37:45,222 --> 00:37:46,639
+Ming says there are three.
+
+652
+00:37:55,461 --> 00:37:57,089
+Go! Go! Go! Go!
+
+653
+00:38:05,138 --> 00:38:06,556
+Don't do it, Xue-Li.
+
+654
+00:38:07,517 --> 00:38:08,702
+We know about Calvin.
+
+655
+00:38:08,786 --> 00:38:10,746
+We found the clone.
+It's over.
+
+656
+00:38:16,903 --> 00:38:18,556
+There were several families,
+
+657
+00:38:19,411 --> 00:38:21,131
+all agents of the MSS.
+
+658
+00:38:22,974 --> 00:38:25,786
+We were told we'd be given
+the gift of a second child
+
+659
+00:38:26,278 --> 00:38:28,118
+if we would go to America
+
+660
+00:38:28,698 --> 00:38:30,069
+and raise him to be a spy.
+
+661
+00:38:31,199 --> 00:38:32,852
+Did you resent the MSS?
+
+662
+00:38:33,666 --> 00:38:36,947
+Our son would be
+the ultimate socialist hero.
+
+663
+00:38:38,294 --> 00:38:39,337
+We were proud.
+
+664
+00:38:40,092 --> 00:38:41,651
+When did you tell Calvin?
+
+665
+00:38:42,377 --> 00:38:43,779
+A very young age.
+
+666
+00:38:44,812 --> 00:38:46,113
+He always knew.
+
+667
+00:38:46,716 --> 00:38:49,435
+We raised him to go to Annapolis,
+join the Navy,
+
+668
+00:38:49,868 --> 00:38:51,708
+but always loyal to China,
+
+669
+00:38:52,909 --> 00:38:54,784
+And then what about Xue-Li?
+
+670
+00:38:56,073 --> 00:38:57,514
+Sent from the MSS
+
+671
+00:38:57,556 --> 00:38:58,836
+to be his handler,
+
+672
+00:38:59,688 --> 00:39:02,184
+and make sure
+we're still committed to the mission.
+
+673
+00:39:03,936 --> 00:39:05,225
+But in the end...
+
+674
+00:39:06,057 --> 00:39:07,768
+he couldn't do it.
+
+675
+00:39:10,474 --> 00:39:12,689
+He was such a sweet boy.
+
+676
+00:39:13,655 --> 00:39:15,718
+We never should have
+made him do this.
+
+677
+00:39:16,549 --> 00:39:18,131
+But Jun insisted
+
+678
+00:39:18,512 --> 00:39:20,441
+it was why we came here.
+
+679
+00:39:25,548 --> 00:39:27,599
+Ming, you got a chance
+to do the right thing.
+
+680
+00:39:28,806 --> 00:39:30,451
+Maybe even start over...
+
+681
+00:39:32,907 --> 00:39:35,556
+if you tell us about the others
+who might still be here.
+
+682
+00:39:38,814 --> 00:39:39,960
+Think about it.
+
+683
+00:39:42,646 --> 00:39:44,757
+Calvin Lee was born
+to be a sleeper agent.
+
+684
+00:39:45,271 --> 00:39:46,982
+But deep down inside,
+
+685
+00:39:47,557 --> 00:39:48,719
+he loved this country.
+
+686
+00:39:49,303 --> 00:39:50,955
+The store was the perfect cover.
+
+687
+00:39:51,576 --> 00:39:53,724
+Agents could come and go,
+no questions asked.
+
+688
+00:39:53,808 --> 00:39:55,976
+How many contacts
+do we think they had?
+
+689
+00:39:56,310 --> 00:39:57,330
+Hard to say.
+
+690
+00:39:57,372 --> 00:39:59,609
+Eric is going through their computers,
+records,
+
+691
+00:39:59,820 --> 00:40:01,625
+security footage for months.
+
+692
+00:40:04,671 --> 00:40:05,521
+Ready?
+
+693
+00:40:22,079 --> 00:40:22,993
+<i>Mom...</i>
+
+694
+00:40:25,325 --> 00:40:26,298
+<i>Mom...</i>
+
+695
+00:40:26,966 --> 00:40:27,903
+<i>My baby!</i>
+
+696
+00:40:29,063 --> 00:40:31,102
+I thought it would help Ming.
+
+697
+00:40:32,859 --> 00:40:35,766
+She might tell us more
+if she actually saw her daughter.
+
+698
+00:40:36,304 --> 00:40:38,602
+Emotional witnesses
+tend to open up more.
+
+699
+00:40:40,146 --> 00:40:41,214
+You may have just
+
+700
+00:40:41,430 --> 00:40:43,950
+blown open an entire cell
+of sleeper agents,
+
+701
+00:40:43,992 --> 00:40:45,866
+30 years in the making.
+
+702
+00:40:47,414 --> 00:40:49,738
+You should stick
+with what you do best.
+
+703
+00:40:52,524 --> 00:40:53,867
+Carry on, everyone.
+
+704
+00:40:57,496 --> 00:40:58,738
+Nice work, buddy.
+
+705
+00:40:59,851 --> 00:41:00,624
+Thanks.
+
+706
+00:41:00,929 --> 00:41:01,890
+You know,
+
+707
+00:41:02,043 --> 00:41:03,710
+you're not a bad partner after all.
+
+708
+00:41:03,978 --> 00:41:04,856
+Really?
+
+709
+00:41:05,349 --> 00:41:07,810
+'Cause, well, I asked Hetty if,
+
+710
+00:41:08,067 --> 00:41:10,364
+operational psychologists
+had ever become agents.
+
+711
+00:41:12,817 --> 00:41:14,356
+I'm sorry.
+I so take it back.
+
+712
+00:41:14,398 --> 00:41:17,683
+I know I'm logical,
+but I'm also intuitive, self-sufficient.
+
+713
+00:41:21,914 --> 00:41:22,816
+Cool.
+
+714
+00:41:23,531 --> 00:41:25,923
+I get it. Absolutely cool.
+
+715
+00:41:25,965 --> 00:41:27,552
+.: Team UnderCovers :.
+

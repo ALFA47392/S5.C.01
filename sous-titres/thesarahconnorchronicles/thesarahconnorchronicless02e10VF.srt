@@ -1,0 +1,2709 @@
+1
+00:00:01,376 --> 00:00:03,669
+<i>Précédemment...</i>
+
+2
+00:00:04,092 --> 00:00:05,679
+Que vouliez-vous me montrer ?
+
+3
+00:00:05,846 --> 00:00:08,383
+Nous devons trouver
+comment les battre.
+
+4
+00:00:08,633 --> 00:00:11,678
+Nous développons une IA interactive.
+Elle se nomme "Babylon".
+
+5
+00:00:11,872 --> 00:00:13,266
+Elle changera le monde.
+
+6
+00:00:13,739 --> 00:00:16,348
+- Dr Boyd Sherman.
+- Il est pas sur ce mur pour rien.
+
+7
+00:00:16,599 --> 00:00:19,059
+Je ne saisis toujours pas bien
+pourquoi je suis là.
+
+8
+00:00:19,311 --> 00:00:21,979
+- On doit entraîner l'IA.
+- Tu tiens à cette fille ?
+
+9
+00:00:22,230 --> 00:00:23,545
+- Oui.
+- Quitte-la.
+
+10
+00:00:23,712 --> 00:00:27,444
+Tu râles parce que j'ai trouvé quelqu'un
+avec qui je m'entends bien
+
+11
+00:00:27,695 --> 00:00:28,987
+et que c'est pas toi.
+
+12
+00:00:33,157 --> 00:00:34,686
+À quoi ça te fait penser ?
+
+13
+00:00:34,853 --> 00:00:37,780
+J'arrête pas d'en rêver.
+Ça veut dire quelque chose.
+
+14
+00:01:32,080 --> 00:01:33,781
+Retournez vous coucher.
+
+15
+00:01:54,978 --> 00:01:56,826
+Laissez-la tourner. On revient...
+
+16
+00:01:56,993 --> 00:01:58,281
+Pas de problème.
+
+17
+00:01:59,739 --> 00:02:00,739
+Sympa.
+
+18
+00:02:15,017 --> 00:02:16,618
+- C'est ici ?
+- Oui.
+
+19
+00:02:27,319 --> 00:02:28,607
+John aurait dû venir.
+
+20
+00:02:28,774 --> 00:02:32,242
+Pas besoin de s'y connaître
+en informatique pour faire ça.
+
+21
+00:02:34,622 --> 00:02:36,109
+Prends ceux-là.
+
+22
+00:02:46,277 --> 00:02:48,250
+Comme les autres.
+C'est un vaporware.
+
+23
+00:02:48,502 --> 00:02:49,377
+Y a rien ?
+
+24
+00:02:49,789 --> 00:02:52,372
+Je dirais pas ça.
+C'est une ébauche d'IA.
+
+25
+00:02:52,646 --> 00:02:56,089
+Conçue pour des problèmes complexes,
+mais il lui faut une grappe de serveurs.
+
+26
+00:02:56,256 --> 00:02:59,470
+Et ils ont rien... encore moins,
+après le pillage de leur bureau.
+
+27
+00:02:59,722 --> 00:03:01,153
+Mais ils ont une ébauche.
+
+28
+00:03:01,320 --> 00:03:04,927
+C'est comme tous ces articles
+sur les terroristes qui ont des bombes
+
+29
+00:03:05,094 --> 00:03:06,810
+mais pas encore de plutonium.
+
+30
+00:03:07,062 --> 00:03:08,437
+Un autre cul-de-sac.
+
+31
+00:03:08,689 --> 00:03:10,731
+Tu poursuis des fantômes.
+
+32
+00:03:11,100 --> 00:03:12,101
+Encore.
+
+33
+00:03:12,268 --> 00:03:14,348
+L'intelligence artificielle,
+le logo,
+
+34
+00:03:14,515 --> 00:03:17,260
+- les trois points...
+- Sont des empreintes...
+
+35
+00:03:17,427 --> 00:03:19,820
+laissées par un pauvre gars
+se vidant de son sang.
+
+36
+00:03:19,987 --> 00:03:21,910
+C'est tout. C'est que du sang.
+
+37
+00:03:22,160 --> 00:03:24,444
+Tout ce qui est sur ce mur
+a une signification.
+
+38
+00:03:25,885 --> 00:03:27,433
+Il y a que du sang.
+
+39
+00:03:29,064 --> 00:03:32,080
+Le corps de Cromartie
+n'est pas dans le jardin d'Ellison.
+
+40
+00:03:38,693 --> 00:03:41,930
+Personne ne parle
+d'arrêter les recherches. Mais ça...
+
+41
+00:03:42,545 --> 00:03:43,946
+c'est pas le Turc.
+
+42
+00:03:49,781 --> 00:03:52,314
+Tu t'es donnée à fond, maman.
+
+43
+00:03:52,763 --> 00:03:55,866
+- Peut-être trop.
+- Si tu veux t'y mettre, arrête.
+
+44
+00:04:12,375 --> 00:04:14,595
+- Bonjour.
+- Bonjour à toi.
+
+45
+00:04:15,713 --> 00:04:17,856
+J'ai un peu creusé les disques durs.
+
+46
+00:04:18,023 --> 00:04:20,712
+Dakara Systems
+recherche des investisseurs.
+
+47
+00:04:20,879 --> 00:04:23,510
+Ils en ont besoin
+pour leur grappe de serveurs.
+
+48
+00:04:23,677 --> 00:04:25,306
+De gros investisseurs.
+
+49
+00:04:26,930 --> 00:04:29,768
+Je t'ai eu un entretien.
+Voilà ta couverture.
+
+50
+00:04:36,004 --> 00:04:39,571
+Je suis une riche divorcée
+prête à investir dans le high-tech.
+
+51
+00:04:39,822 --> 00:04:40,968
+Exactement.
+
+52
+00:04:43,075 --> 00:04:45,275
+Je t'ai aussi fait des antisèches,
+
+53
+00:04:45,656 --> 00:04:48,203
+comme ça t'auras pas l'air trop bête
+
+54
+00:04:48,455 --> 00:04:51,836
+quand ça parlera de réseaux neuronaux
+et de comportement émergent.
+
+55
+00:04:52,003 --> 00:04:55,565
+- J'ai rien compris.
+- Ouais, c'est ce que je veux dire.
+
+56
+00:04:56,864 --> 00:04:58,767
+T'as fait ça toute la nuit ?
+
+57
+00:05:00,744 --> 00:05:03,447
+Dakara Systems est une start-up,
+d'accord.
+
+58
+00:05:04,949 --> 00:05:06,951
+Tout comme l'a été Cyberdyne.
+
+59
+00:05:07,627 --> 00:05:09,232
+Andy Goode, les échecs.
+
+60
+00:05:09,399 --> 00:05:12,581
+Barbara Chamberlain
+voulait gérer le trafic routier.
+
+61
+00:05:13,266 --> 00:05:15,023
+Ça commence toujours petit.
+
+62
+00:05:30,480 --> 00:05:32,080
+T'as 30 secondes.
+
+63
+00:05:33,943 --> 00:05:35,886
+- Vas-y.
+- Marrant, Derek.
+
+64
+00:05:37,055 --> 00:05:39,378
+25. Je plaisante pas.
+
+65
+00:05:41,132 --> 00:05:43,920
+- J'ai été envoyée pour le trouver.
+- T'aurais pu le dire.
+
+66
+00:05:44,087 --> 00:05:47,630
+T'aurais pu dire que tu vivais avec lui.
+Avec elle. Ce truc.
+
+67
+00:05:48,275 --> 00:05:49,470
+Cette machine.
+
+68
+00:05:51,296 --> 00:05:54,269
+Il parlait plus à personne à la fin.
+Seulement à elle.
+
+69
+00:05:55,128 --> 00:05:58,440
+Il prenait des décisions discutables.
+Sacrifiait des gens.
+
+70
+00:05:59,689 --> 00:06:00,721
+Des gens bien.
+
+71
+00:06:01,537 --> 00:06:03,946
+- 10 secondes.
+- Elle a pris le dessus.
+
+72
+00:06:04,818 --> 00:06:06,543
+C'est comme une maladie.
+
+73
+00:06:06,992 --> 00:06:09,717
+Imagine s'il reste
+les 20 prochaines années avec elle.
+
+74
+00:06:09,884 --> 00:06:11,785
+Imagine ce qu'il va devenir.
+
+75
+00:06:12,200 --> 00:06:14,298
+En quoi elle va le transformer.
+
+76
+00:06:15,008 --> 00:06:16,362
+Essaye, au moins.
+
+77
+00:06:17,497 --> 00:06:19,394
+Je suis ici pour l'arrêter, elle.
+
+78
+00:06:20,443 --> 00:06:21,755
+Pour le sauver.
+
+79
+00:06:27,817 --> 00:06:29,667
+Je dois réfléchir à tout ça.
+
+80
+00:06:30,658 --> 00:06:32,432
+Qu'est-ce que tu fous ici ?
+
+81
+00:06:32,684 --> 00:06:34,309
+Pourquoi Connor t'a envoyé ?
+
+82
+00:06:36,244 --> 00:06:37,351
+Je t'aime...
+
+83
+00:06:38,820 --> 00:06:40,417
+mais exagère pas trop.
+
+84
+00:06:46,113 --> 00:06:47,711
+<i>Saison 2, épisode 10.
+V 1.02</i>
+
+85
+00:06:47,878 --> 00:06:50,492
+http://Projet-SG.net
+Transcript: Sadgeezer.
+
+86
+00:07:00,828 --> 00:07:03,130
+Ça fait un bail.
+On dirait que t'as maigri.
+
+87
+00:07:03,436 --> 00:07:07,342
+Une alimentation trop riche en fer,
+c'est mauvais. Qu'est-ce que tu as ?
+
+88
+00:07:07,594 --> 00:07:11,228
+La canicule a fait péter un transfo,
+plongeant le quartier dans le noir.
+
+89
+00:07:11,395 --> 00:07:15,380
+Un gars qui bosse le week-end,
+est resté enfermé pendant 8 heures.
+
+90
+00:07:15,855 --> 00:07:17,769
+Ni clim, ni aération.
+
+91
+00:07:18,020 --> 00:07:19,896
+Il a cuit jusqu'à la mort.
+
+92
+00:07:21,129 --> 00:07:23,008
+Pas terrible, comme dénouement.
+
+93
+00:07:27,458 --> 00:07:28,864
+Le Dr Boyd Sherman.
+
+94
+00:07:29,116 --> 00:07:31,531
+Il était consultant
+sur un projet ici.
+
+95
+00:07:32,243 --> 00:07:33,850
+Il travaillait en bas.
+
+96
+00:07:34,955 --> 00:07:36,019
+En bas ?
+
+97
+00:07:36,654 --> 00:07:37,664
+Au sous-sol ?
+
+98
+00:07:38,331 --> 00:07:40,432
+Le projet est appelé "Babylon".
+
+99
+00:07:40,909 --> 00:07:43,371
+C'est un programme informatique
+sophistiqué.
+
+100
+00:07:44,079 --> 00:07:45,252
+Une IA.
+
+101
+00:07:46,341 --> 00:07:50,135
+Durant la coupure, l'IA s'est réservé
+l'énergie du groupe électrogène.
+
+102
+00:07:50,531 --> 00:07:53,513
+Coupant ainsi
+les autres systèmes du bâtiment.
+
+103
+00:07:53,765 --> 00:07:56,600
+Et cette IA...
+elle contrôle tout le bâtiment ?
+
+104
+00:07:57,024 --> 00:07:58,977
+Vous la faites passer
+pour un monstre.
+
+105
+00:07:59,440 --> 00:08:01,563
+Le bâtiment et l'IA ne sont liés
+
+106
+00:08:01,815 --> 00:08:05,318
+que car les ressources du bâtiment
+permettent à l'IA de s'améliorer.
+
+107
+00:08:05,727 --> 00:08:07,834
+Et cette amélioration...
+
+108
+00:08:08,762 --> 00:08:10,791
+inclut l'agonie mortelle
+
+109
+00:08:10,958 --> 00:08:12,849
+d'un homme en bonne santé ?
+
+110
+00:08:14,502 --> 00:08:16,900
+Je ne sais pas
+quelles étaient ses intentions.
+
+111
+00:08:19,351 --> 00:08:20,458
+Intentions ?
+
+112
+00:08:21,813 --> 00:08:24,344
+Maintenant,
+elle passe pour un monstre.
+
+113
+00:08:24,923 --> 00:08:27,161
+C'est pourquoi nous devons savoir.
+
+114
+00:08:32,347 --> 00:08:34,760
+- Merci, Colonel.
+- C'est un plaisir.
+
+115
+00:08:39,311 --> 00:08:40,381
+Sarah Gale.
+
+116
+00:08:41,068 --> 00:08:43,063
+Alex Akagi.
+Bienvenue à Dakara.
+
+117
+00:08:44,916 --> 00:08:47,984
+Vous allez devoir être indulgente.
+On a eu une infraction hier soir.
+
+118
+00:08:48,236 --> 00:08:51,531
+Ils ont pris nos disques.
+Espionnage industriel, sûrement.
+
+119
+00:08:51,878 --> 00:08:54,241
+Il y a beaucoup d'argent dans l'IA.
+Beaucoup.
+
+120
+00:08:54,492 --> 00:08:56,752
+Vous n'êtes pas inquiets
+pour vos programmes ?
+
+121
+00:08:56,919 --> 00:08:59,292
+- Qu'ils se les approprient ?
+- Non.
+
+122
+00:08:59,724 --> 00:09:01,901
+Mon fils a placé des sécurités
+dans le code.
+
+123
+00:09:02,068 --> 00:09:04,291
+Elles attaqueront
+si le système est utilisé.
+
+124
+00:09:04,544 --> 00:09:05,795
+D'où l'Air Force ?
+
+125
+00:09:05,962 --> 00:09:09,510
+Cela fait longtemps que l'Air Force
+s'intéresse aux applications de l'IA.
+
+126
+00:09:09,677 --> 00:09:13,009
+- Depuis les années 80.
+- Comme si ça faisait longtemps.
+
+127
+00:09:13,261 --> 00:09:15,585
+Je sais.
+Vous êtes fan de musique ?
+
+128
+00:09:15,948 --> 00:09:17,722
+Je me repère comme ça.
+
+129
+00:09:18,086 --> 00:09:20,559
+Pour moi, les années 80
+seront toujours Duran Duran.
+
+130
+00:09:21,073 --> 00:09:22,602
+J'aime Duran Duran.
+
+131
+00:09:24,063 --> 00:09:26,325
+Je dansais dessus.
+Ça me manque.
+
+132
+00:09:26,492 --> 00:09:28,775
+- On se déguisait.
+- Bandeaux, cheveux longs ?
+
+133
+00:09:30,522 --> 00:09:32,279
+C'est le plus difficile à rendre.
+
+134
+00:09:34,866 --> 00:09:36,795
+- Les cheveux.
+- En effet.
+
+135
+00:09:37,941 --> 00:09:40,036
+Alors, l'Air Force.
+
+136
+00:09:40,476 --> 00:09:42,379
+Dépensant l'argent partout.
+
+137
+00:09:42,822 --> 00:09:45,500
+R&D, industrie cofinancée,
+récompenses.
+
+138
+00:09:45,751 --> 00:09:46,960
+Je l'appelle Emma.
+
+139
+00:09:48,421 --> 00:09:49,442
+Mon IA.
+
+140
+00:09:50,222 --> 00:09:52,842
+Elle s'appelle Emma.
+Comme ma mère.
+
+141
+00:09:54,007 --> 00:09:55,386
+Il ne l'a pas connue.
+
+142
+00:09:55,636 --> 00:09:58,054
+Elle est morte
+dans un accident en 1984.
+
+143
+00:10:01,463 --> 00:10:03,518
+Un café ?
+Ça m'aide à réfléchir.
+
+144
+00:10:03,777 --> 00:10:05,520
+- Et vous ?
+- Toujours.
+
+145
+00:10:12,156 --> 00:10:13,973
+T'aimes les échecs ?
+
+146
+00:10:17,807 --> 00:10:20,911
+Je ne prétends pas savoir
+ce qui se passe dans ce cerveau.
+
+147
+00:10:21,163 --> 00:10:23,736
+Il s'occupe de domaines
+qu'on ne peut imaginer.
+
+148
+00:10:23,903 --> 00:10:27,000
+Mais il n'a de soucis
+qu'avec celui-là.
+
+149
+00:10:27,590 --> 00:10:28,895
+Il a besoin de vous.
+
+150
+00:10:29,913 --> 00:10:32,173
+Parfois on croit
+que ça sera toujours le cas.
+
+151
+00:10:32,340 --> 00:10:35,264
+- Vous avez des enfants ?
+- Juste un, mon fils.
+
+152
+00:10:36,215 --> 00:10:37,886
+Provocateur aussi ?
+
+153
+00:10:39,900 --> 00:10:42,294
+- À sa façon.
+- Donc vous comprenez.
+
+154
+00:10:43,038 --> 00:10:45,059
+On ferait tout pour nos enfants,
+
+155
+00:10:46,337 --> 00:10:48,438
+on jetterait même
+tout par la fenêtre.
+
+156
+00:10:48,893 --> 00:10:50,398
+Combien il vous faut ?
+
+157
+00:10:50,650 --> 00:10:54,598
+Hier, j'aurais dit
+"100 000 $ et un peu de patience".
+
+158
+00:10:55,714 --> 00:10:59,241
+Ce matin, il me faut 10 fois ça
+et un miracle.
+
+159
+00:10:59,493 --> 00:11:00,984
+Sacrée matinée.
+
+160
+00:11:03,567 --> 00:11:06,873
+- Le projet de Xander est vraiment bien.
+- Vous avez combien de temps ?
+
+161
+00:11:07,374 --> 00:11:08,209
+15 jours.
+
+162
+00:11:10,091 --> 00:11:11,920
+Je n'ai pas assez, M. Akagi.
+
+163
+00:11:12,172 --> 00:11:14,714
+- Appelez-moi Alex.
+- Désolée, Alex.
+
+164
+00:11:14,970 --> 00:11:16,549
+Désolé aussi, Mlle Gale.
+
+165
+00:11:17,816 --> 00:11:19,012
+Appelez-moi Sarah.
+
+166
+00:11:25,912 --> 00:11:27,352
+Salut, je cherche Riley.
+
+167
+00:11:27,604 --> 00:11:29,729
+Bien sûr.
+Tu dois être John.
+
+168
+00:11:30,280 --> 00:11:31,785
+Kay. C'est John.
+
+169
+00:11:34,109 --> 00:11:35,991
+Entre.
+Riley est en haut.
+
+170
+00:11:40,350 --> 00:11:43,576
+Ta famille d'accueil...
+pas vraiment ce que j'imaginais.
+
+171
+00:11:45,253 --> 00:11:46,798
+Ouais, ils sont sympas.
+
+172
+00:11:47,280 --> 00:11:49,499
+Trop sympa.
+C'est des aliens.
+
+173
+00:11:50,108 --> 00:11:53,150
+Tu vois ces gamins, en bas ?
+C'est pas les leurs.
+
+174
+00:11:53,317 --> 00:11:55,362
+C'est que des losers...
+
+175
+00:11:56,486 --> 00:11:58,333
+des enfants abandonnés.
+
+176
+00:12:00,088 --> 00:12:01,803
+C'est un camp de losers, ici.
+
+177
+00:12:06,828 --> 00:12:08,453
+Et mes posters ?
+
+178
+00:12:09,081 --> 00:12:10,687
+Lequel tu préfères ?
+
+179
+00:12:13,341 --> 00:12:15,331
+Je sais pas. J'aime le Yosemite.
+
+180
+00:12:15,992 --> 00:12:18,778
+J'y suis allé, avec ma mère.
+
+181
+00:12:22,345 --> 00:12:23,533
+Et toi ?
+
+182
+00:12:23,960 --> 00:12:25,618
+Je parie sur l'ours.
+
+183
+00:12:25,911 --> 00:12:28,580
+T'as l'air du genre ours.
+
+184
+00:12:28,832 --> 00:12:30,415
+C'est pas un ours.
+
+185
+00:12:32,277 --> 00:12:34,895
+C'est un poisson pêché par un ours.
+
+186
+00:12:35,773 --> 00:12:37,486
+Arraché à l'eau.
+
+187
+00:12:38,649 --> 00:12:40,252
+Totalement au hasard.
+
+188
+00:12:42,487 --> 00:12:44,718
+Les autres poissons
+se sentent concernés ?
+
+189
+00:12:45,867 --> 00:12:47,331
+Ils s'en sont aperçu ?
+
+190
+00:12:49,828 --> 00:12:52,813
+Ils continuent à nager,
+comme si rien ne s'était passé.
+
+191
+00:12:55,775 --> 00:12:57,684
+Y a rien eu d'important.
+
+192
+00:13:02,746 --> 00:13:04,240
+Je vais y aller.
+
+193
+00:13:07,712 --> 00:13:08,712
+Reste.
+
+194
+00:13:09,994 --> 00:13:12,922
+Je veux dire,
+t'avais une bonne raison de venir ?
+
+195
+00:13:14,451 --> 00:13:15,460
+Reste.
+
+196
+00:13:24,585 --> 00:13:25,794
+Au Mexique,
+
+197
+00:13:26,804 --> 00:13:29,220
+je t'ai promis de tout te dire.
+
+198
+00:13:32,635 --> 00:13:33,711
+La vérité.
+
+199
+00:13:35,017 --> 00:13:36,562
+Mais à vrai dire,
+
+200
+00:13:37,922 --> 00:13:39,776
+je peux rien expliquer.
+
+201
+00:13:41,337 --> 00:13:42,687
+Je peux rien dire.
+
+202
+00:13:45,599 --> 00:13:47,357
+T'as rien à me dire, John.
+
+203
+00:13:48,461 --> 00:13:49,461
+Ça va.
+
+204
+00:13:50,641 --> 00:13:52,455
+Reste assis à côté de moi.
+
+205
+00:13:54,027 --> 00:13:55,209
+Ça me plairait.
+
+206
+00:14:00,256 --> 00:14:01,256
+Désolé.
+
+207
+00:14:10,819 --> 00:14:12,019
+On a trois points,
+
+208
+00:14:12,186 --> 00:14:15,547
+une IA qui a un nom
+et un sens aigu de l'auto-préservation.
+
+209
+00:14:15,714 --> 00:14:17,355
+Et l'US Air Force.
+
+210
+00:14:18,158 --> 00:14:19,691
+À quoi ça te fait penser ?
+
+211
+00:14:20,090 --> 00:14:21,199
+Pas au Turc.
+
+212
+00:14:21,925 --> 00:14:24,969
+Xander ne joue pas aux échecs.
+Il préfère le Go.
+
+213
+00:14:25,457 --> 00:14:26,537
+C'est un jeu,
+
+214
+00:14:27,002 --> 00:14:29,569
+inventé par les Chinois
+il y a 5000 ans.
+
+215
+00:14:32,798 --> 00:14:35,665
+Selon lui, on a calculé
+qu'il y a plus de combinaisons au Go
+
+216
+00:14:35,832 --> 00:14:37,729
+que d'atomes dans l'univers.
+
+217
+00:14:38,449 --> 00:14:40,545
+Il m'a proposé de m'apprendre.
+
+218
+00:14:41,063 --> 00:14:43,006
+Et il va te parler de son IA ?
+
+219
+00:14:43,903 --> 00:14:45,235
+Ce n'est pas le Turc.
+
+220
+00:14:45,402 --> 00:14:47,218
+Il ne joue pas aux échecs.
+
+221
+00:14:47,470 --> 00:14:49,512
+Ça pourrait être
+une pièce du puzzle.
+
+222
+00:14:53,121 --> 00:14:55,154
+Diverses choses se passent
+au point 1/2.
+
+223
+00:14:56,937 --> 00:14:58,247
+C'est un proverbe Go.
+
+224
+00:14:59,128 --> 00:15:01,066
+Parfois, les règles changent.
+
+225
+00:15:01,403 --> 00:15:03,568
+C'est toujours les mêmes règles.
+
+226
+00:15:03,933 --> 00:15:06,779
+Dakara n'a pas d'argent.
+Ils ne réussiront pas dans les temps.
+
+227
+00:15:09,552 --> 00:15:11,237
+Ils trouveront l'argent.
+
+228
+00:15:12,271 --> 00:15:14,830
+Tout ce qui leur faut.
+Ils auront leur miracle.
+
+229
+00:15:15,548 --> 00:15:18,708
+- Comment vous le savez ?
+- C'est écrit en lettres de sang en bas.
+
+230
+00:15:38,732 --> 00:15:39,766
+Mignon.
+
+231
+00:15:41,520 --> 00:15:43,041
+Tu voulais parler ?
+
+232
+00:15:48,083 --> 00:15:49,363
+T'as l'air fatiguée.
+
+233
+00:15:52,202 --> 00:15:53,409
+Tu dors assez ?
+
+234
+00:15:53,950 --> 00:15:55,798
+Il est venu me voir.
+
+235
+00:15:56,915 --> 00:15:59,541
+J'ai cru qu'il allait tout me dire.
+
+236
+00:15:59,955 --> 00:16:02,396
+Je crois que c'est
+ce qu'il voulait faire.
+
+237
+00:16:03,612 --> 00:16:04,677
+Et puis...
+
+238
+00:16:06,549 --> 00:16:07,740
+il a rien dit.
+
+239
+00:16:09,922 --> 00:16:11,072
+Il est parti.
+
+240
+00:16:12,486 --> 00:16:14,093
+Y a un truc qui cloche...
+
+241
+00:16:14,984 --> 00:16:18,085
+- qui va pas...
+- Aide-le. Il est venu.
+
+242
+00:16:19,084 --> 00:16:20,436
+Il m'a fuie.
+
+243
+00:16:20,797 --> 00:16:21,883
+C'est un mec.
+
+244
+00:16:29,620 --> 00:16:32,152
+Il y a beaucoup de miroirs
+dans ce monde.
+
+245
+00:16:32,360 --> 00:16:33,810
+T'avais remarqué ?
+
+246
+00:16:37,646 --> 00:16:39,489
+Je peux plus faire ça.
+
+247
+00:16:46,091 --> 00:16:47,137
+Désolée.
+
+248
+00:16:48,659 --> 00:16:50,587
+C'est pas facile, je comprends.
+
+249
+00:16:52,046 --> 00:16:54,725
+T'as peut-être même
+de vrais sentiments pour lui.
+
+250
+00:16:54,892 --> 00:16:56,880
+Qui résisterait ?
+C'est John Connor.
+
+251
+00:16:57,047 --> 00:17:00,021
+Les gens le suivent
+pour une bonne raison.
+
+252
+00:17:01,960 --> 00:17:03,521
+Et si je veux arrêter ?
+
+253
+00:17:03,773 --> 00:17:05,308
+Pourquoi tu ferais ça ?
+
+254
+00:17:06,601 --> 00:17:07,740
+T'irais où ?
+
+255
+00:17:09,826 --> 00:17:10,929
+Y a pas d'issue.
+
+256
+00:17:14,821 --> 00:17:16,110
+Tu peux le faire.
+
+257
+00:17:21,117 --> 00:17:22,624
+Tu dois le faire.
+
+258
+00:17:32,102 --> 00:17:33,134
+Regarde ça.
+
+259
+00:17:34,971 --> 00:17:36,140
+Tu les vois ?
+
+260
+00:17:37,765 --> 00:17:39,821
+Les trois points sur la ceinture.
+
+261
+00:17:42,001 --> 00:17:44,142
+Ma mère est même pas là,
+si tu commences...
+
+262
+00:17:44,309 --> 00:17:46,773
+Non, je parle des trois points
+sur cette ceinture.
+
+263
+00:17:47,387 --> 00:17:49,067
+Je les vois partout maintenant.
+
+264
+00:17:49,550 --> 00:17:51,444
+J'imagine que ça peut rendre dingue.
+
+265
+00:17:51,696 --> 00:17:54,656
+On commence à voir
+des trucs partout.
+
+266
+00:17:54,908 --> 00:17:57,992
+Et assez vite, on oublie
+ce qu'on cherchait au départ.
+
+267
+00:17:58,244 --> 00:18:00,037
+C'est pareil pour tout le monde.
+
+268
+00:18:02,204 --> 00:18:03,658
+Je me souviens.
+
+269
+00:18:05,169 --> 00:18:07,001
+Je me souviens toujours.
+
+270
+00:18:07,792 --> 00:18:08,859
+Vraiment ?
+
+271
+00:18:09,422 --> 00:18:10,505
+T'es sûr ?
+
+272
+00:18:11,918 --> 00:18:13,216
+Qu'est-ce que t'as ?
+
+273
+00:18:15,263 --> 00:18:16,297
+Rien.
+
+274
+00:18:21,109 --> 00:18:23,994
+Je dois m'assurer
+que t'as les idées claires.
+
+275
+00:18:25,358 --> 00:18:27,480
+Comme tout le monde,
+mais surtout toi.
+
+276
+00:18:35,274 --> 00:18:38,742
+- Votre fils a quel âge, vous disiez ?
+- Je ne l'ai pas dit, mais il a 16 ans.
+
+277
+00:18:38,909 --> 00:18:40,935
+On a eu nos enfants au même âge.
+
+278
+00:18:41,102 --> 00:18:43,091
+J'ai eu le mien à 21 ans.
+Et vous ?
+
+279
+00:18:43,258 --> 00:18:45,096
+- 19 ans.
+- 19 ans.
+
+280
+00:18:46,152 --> 00:18:49,011
+Ma femme, Emma, avait 19 ans
+quand on s'est rencontrés.
+
+281
+00:18:51,520 --> 00:18:54,692
+<i>C'était les débuts du succès
+de Pink Floyd The Wall</i>
+
+282
+00:18:54,936 --> 00:18:57,093
+<i>au Memorial Sports Arena.</i>
+
+283
+00:18:57,345 --> 00:18:58,553
+Je me souviens.
+
+284
+00:18:58,815 --> 00:19:00,629
+Je voulais vraiment y aller.
+
+285
+00:19:00,796 --> 00:19:02,440
+C'était en 1980,
+
+286
+00:19:02,934 --> 00:19:05,143
+vous aviez... neuf ans ?
+
+287
+00:19:06,320 --> 00:19:07,706
+J'étais très jeune.
+
+288
+00:19:09,152 --> 00:19:11,315
+Je vous ai dit
+qu'il me fallait un miracle.
+
+289
+00:19:11,895 --> 00:19:13,109
+Vous l'avez eu ?
+
+290
+00:19:13,360 --> 00:19:15,312
+Vous vous souvenez
+du tournoi d'échecs
+
+291
+00:19:15,479 --> 00:19:17,836
+sponsorisé par l'Air Force
+il y a quelques mois ?
+
+292
+00:19:18,003 --> 00:19:20,825
+L'ami d'un ami travaille
+pour les sponsors des gagnants...
+
+293
+00:19:21,077 --> 00:19:22,240
+Les Japonais.
+
+294
+00:19:23,158 --> 00:19:26,122
+Ils ont une puce, un prototype,
+12 nanomètres.
+
+295
+00:19:26,514 --> 00:19:27,525
+Une puce ?
+
+296
+00:19:28,222 --> 00:19:30,004
+C'est un superordinateur,
+
+297
+00:19:30,753 --> 00:19:33,404
+assez petit pour tenir
+sur le bout de votre doigt.
+
+298
+00:19:34,891 --> 00:19:36,359
+Ils nous la vendraient.
+
+299
+00:19:36,526 --> 00:19:39,138
+On la met tranquillement
+à l'épreuve,
+
+300
+00:19:39,305 --> 00:19:41,013
+ils ont un test grandeur réelle.
+
+301
+00:19:41,264 --> 00:19:43,917
+Et si ça marche,
+on est tous des génies.
+
+302
+00:19:45,009 --> 00:19:46,309
+Très riches.
+
+303
+00:19:46,734 --> 00:19:48,802
+Que vous faut-il pour cette puce ?
+
+304
+00:19:49,188 --> 00:19:50,188
+Une caution.
+
+305
+00:19:50,590 --> 00:19:53,240
+Nos amis japonais sont très frileux.
+
+306
+00:19:53,913 --> 00:19:57,375
+Ils veulent un demi-million
+pour se sentir rassurés.
+
+307
+00:19:57,947 --> 00:20:00,072
+Vous croyez qu'elle marche,
+cette puce ?
+
+308
+00:20:00,657 --> 00:20:01,907
+C'est l'avenir.
+
+309
+00:20:06,534 --> 00:20:08,518
+Il fait plus chaud dans une morgue.
+
+310
+00:20:08,685 --> 00:20:11,841
+On maintient la température à 0 °C,
+sinon les armoires grilleraient.
+
+311
+00:20:12,008 --> 00:20:15,118
+Un ordinateur, comme le reste,
+ça a besoin d'énergie pour travailler.
+
+312
+00:20:15,285 --> 00:20:18,496
+L'alimentation dégage de la chaleur.
+Et rafraîchir demande de l'énergie.
+
+313
+00:20:18,663 --> 00:20:21,146
+Vous savez,
+Babylon est du genre glouton.
+
+314
+00:20:22,054 --> 00:20:23,065
+Babylon ?
+
+315
+00:20:23,691 --> 00:20:25,615
+Vous connaissez l'histoire ?
+
+316
+00:20:26,783 --> 00:20:29,866
+J'ai fait des études d'informatique.
+Beuverie en matière secondaire.
+
+317
+00:20:30,033 --> 00:20:31,740
+J'ai pas lu des masses.
+
+318
+00:20:33,284 --> 00:20:34,839
+C'était une merveille.
+
+319
+00:20:35,597 --> 00:20:36,776
+Dieu l'a détruite.
+
+320
+00:20:37,290 --> 00:20:38,812
+Dieu a essayé, hier.
+
+321
+00:20:38,979 --> 00:20:41,657
+- La coupure aurait dû la couper.
+- Aurait ?
+
+322
+00:20:41,907 --> 00:20:45,159
+Babylon a pompé tout le courant
+pour rester sous tension.
+
+323
+00:20:45,411 --> 00:20:47,829
+- Elle a violé les règles.
+- Elle en a inventé.
+
+324
+00:20:49,942 --> 00:20:53,171
+D'après Mlle Weaver,
+le Dr Sherman travaillait sur l'IA.
+
+325
+00:20:54,247 --> 00:20:57,088
+Des conneries,
+si vous voulez mon avis.
+
+326
+00:20:57,871 --> 00:21:00,639
+- Elle éprouvait quoi pour lui ?
+- Pardon ?
+
+327
+00:21:01,658 --> 00:21:02,658
+Babylon.
+
+328
+00:21:03,482 --> 00:21:05,748
+Comment voyait-elle le Dr Sherman ?
+
+329
+00:21:06,348 --> 00:21:09,018
+- Je sais, ça paraît dingue.
+- C'est un ordinateur.
+
+330
+00:21:09,660 --> 00:21:11,978
+Comment une cafetière voit du café ?
+
+331
+00:21:12,452 --> 00:21:13,556
+Répondez-moi.
+
+332
+00:21:13,723 --> 00:21:16,409
+Vous me demandez
+si elle savait qu'elle tuait Sherman
+
+333
+00:21:16,576 --> 00:21:18,550
+quand elle a basculé
+l'interrupteur ?
+
+334
+00:21:20,084 --> 00:21:21,338
+Impossible.
+
+335
+00:21:29,775 --> 00:21:30,785
+J'espère.
+
+336
+00:21:33,659 --> 00:21:35,012
+Ça ne suffit pas.
+
+337
+00:21:36,100 --> 00:21:37,498
+Il faudrait quoi ?
+
+338
+00:21:39,916 --> 00:21:42,300
+- Tout.
+- Alors, ça sera tout.
+
+339
+00:21:45,621 --> 00:21:47,131
+Vous êtes sûre ?
+
+340
+00:21:48,964 --> 00:21:50,837
+La certitude, c'est un luxe.
+
+341
+00:21:53,847 --> 00:21:55,993
+Ça ne correspond pas aux règles.
+
+342
+00:21:57,909 --> 00:21:59,443
+Je suppose que non.
+
+343
+00:22:07,794 --> 00:22:10,120
+- Vous allez bien ?
+- Je m'impatiente seulement.
+
+344
+00:22:10,371 --> 00:22:11,924
+Désolé pour ce long prélude.
+
+345
+00:22:12,294 --> 00:22:14,728
+Les gens comme lui,
+il faut les impressionner
+
+346
+00:22:14,895 --> 00:22:16,876
+avant de pouvoir les approcher.
+
+347
+00:22:17,497 --> 00:22:19,712
+Vous êtes chanceuse
+de ne pas être son genre.
+
+348
+00:22:20,011 --> 00:22:21,130
+Vous plaisantez.
+
+349
+00:22:21,796 --> 00:22:22,946
+Un petit peu.
+
+350
+00:22:24,669 --> 00:22:26,510
+Vous tenez vraiment au liquide ?
+
+351
+00:22:27,482 --> 00:22:29,155
+Je n'aime pas les banques.
+
+352
+00:22:31,434 --> 00:22:32,975
+Trinquons, l'étiquette.
+
+353
+00:22:57,082 --> 00:23:00,305
+Ils pensaient qu'une épaisseur
+de 12 nanomètres était impossible.
+
+354
+00:23:00,472 --> 00:23:03,924
+Les circuits sont si fins
+qu'on a quitté le domaine du quantique.
+
+355
+00:23:04,363 --> 00:23:07,349
+C'est le processeur
+le plus sophistiqué au monde.
+
+356
+00:23:07,790 --> 00:23:09,470
+Si on prenait nos souvenirs,
+
+357
+00:23:09,722 --> 00:23:11,220
+notre conscience...
+
+358
+00:23:12,103 --> 00:23:13,683
+tout ce qui nous rend humain,
+
+359
+00:23:14,097 --> 00:23:17,958
+qu'on le transformait en données
+et qu'on le plaçait dans une machine,
+
+360
+00:23:18,221 --> 00:23:20,467
+cette puce la ferait fonctionner.
+
+361
+00:23:22,026 --> 00:23:23,265
+Tu manges ça ?
+
+362
+00:23:24,946 --> 00:23:27,196
+L'Amérique, qu'est-ce que je l'aime.
+
+363
+00:23:27,629 --> 00:23:30,104
+Pas de pression.
+Pas d'espérance.
+
+364
+00:23:30,574 --> 00:23:31,575
+Du bon sake.
+
+365
+00:23:32,738 --> 00:23:33,738
+Alors, Hideo,
+
+366
+00:23:34,248 --> 00:23:37,571
+pendant combien de temps encore
+on va tourner en rond
+
+367
+00:23:37,914 --> 00:23:40,168
+avant que
+vous nous donniez la puce ?
+
+368
+00:24:05,820 --> 00:24:08,404
+C'est un plaisir
+de traiter avec vous, Mme Gale.
+
+369
+00:24:20,084 --> 00:24:22,440
+Je ne savais pas
+que vous parliez japonais.
+
+370
+00:24:22,701 --> 00:24:24,795
+Avant Duran Duran, j'écoutais Styx.
+
+371
+00:24:37,454 --> 00:24:40,381
+T'as encore raté le repas.
+Les restes sont dans le frigo.
+
+372
+00:24:40,548 --> 00:24:42,256
+Allez, rends-la moi.
+
+373
+00:24:42,423 --> 00:24:44,115
+- Quoi ?
+- La télécommande.
+
+374
+00:24:44,282 --> 00:24:46,923
+Tu l'as prise, je le sais.
+Riley l'a vu.
+
+375
+00:24:47,926 --> 00:24:50,001
+- Menteur !
+- Je vais le dire à maman.
+
+376
+00:24:50,168 --> 00:24:51,319
+Lui dire quoi ?
+
+377
+00:24:51,486 --> 00:24:54,181
+<i>Gina a pris la télécommande
+parce qu'il y a Shark week</i>
+
+378
+00:24:54,348 --> 00:24:57,317
+et elle veut voir des tapettes
+qui chantent et qui dansent.
+
+379
+00:24:57,484 --> 00:25:00,556
+Je sais que tu es en colère,
+mais n'utilise pas ce vocabulaire ici.
+
+380
+00:25:00,723 --> 00:25:02,707
+Elle a commencé. Riley l'a vue.
+
+381
+00:25:02,874 --> 00:25:04,794
+- Il est fou.
+- Quoi ?
+
+382
+00:25:05,046 --> 00:25:06,964
+J'ai dit qu'il était fou.
+
+383
+00:25:08,322 --> 00:25:09,892
+Vous êtes tous fous !
+
+384
+00:25:10,878 --> 00:25:12,042
+Tous.
+
+385
+00:25:12,736 --> 00:25:15,183
+Vous êtes là,
+dans votre petite maison
+
+386
+00:25:15,350 --> 00:25:17,848
+avec vos sodas frais,
+vos profils Facebook...
+
+387
+00:25:18,099 --> 00:25:21,478
+Comme si c'était important, réel.
+Mais ça l'est pas.
+
+388
+00:25:22,095 --> 00:25:25,859
+Tout va brûler, il restera de vous
+que des crânes blanchis.
+
+389
+00:25:26,738 --> 00:25:28,021
+Vous pigez pas ?
+
+390
+00:25:28,416 --> 00:25:30,569
+Vous êtes morts.
+Vous êtes tous morts !
+
+391
+00:25:30,821 --> 00:25:32,041
+Chérie, ne...
+
+392
+00:25:36,160 --> 00:25:37,446
+Je suis désolée.
+
+393
+00:25:49,006 --> 00:25:50,014
+Merci.
+
+394
+00:25:52,422 --> 00:25:53,559
+Regarde-les.
+
+395
+00:25:55,268 --> 00:25:56,595
+Tant de rêves.
+
+396
+00:25:57,417 --> 00:25:59,515
+Et on est sur le point
+de les briser.
+
+397
+00:26:09,865 --> 00:26:12,403
+Les connexions sont faites.
+Alimentation en cours.
+
+398
+00:26:14,476 --> 00:26:16,175
+Chargement du programme.
+
+399
+00:26:30,832 --> 00:26:33,468
+- Qu'est-ce qui se passe ?
+- Dépassement de la mémoire.
+
+400
+00:26:34,420 --> 00:26:36,635
+Erreur dans les registres
+du processeur.
+
+401
+00:26:36,886 --> 00:26:38,762
+Ça n'est sûrement qu'une anicroche.
+
+402
+00:26:39,487 --> 00:26:40,667
+Les données...
+
+403
+00:26:41,531 --> 00:26:44,101
+auraient dû être
+comme un timbre sur un billard.
+
+404
+00:26:46,945 --> 00:26:50,149
+Mais ça ressemble à une pastèque
+qui passe par un tuyau d'arrosage.
+
+405
+00:27:03,141 --> 00:27:05,039
+C'est du 40 nanomètres, pas du 12.
+
+406
+00:27:06,103 --> 00:27:07,728
+C'est un vieux modèle.
+
+407
+00:27:08,367 --> 00:27:09,960
+Modifié pour sembler moderne.
+
+408
+00:27:10,250 --> 00:27:12,224
+Minamoto s'est foutu de nous.
+
+409
+00:27:26,907 --> 00:27:29,793
+Ma famille tenait
+une mercerie à Azusa
+
+410
+00:27:30,002 --> 00:27:32,140
+avant la seconde Guerre Mondiale.
+
+411
+00:27:32,929 --> 00:27:36,879
+Après Pearl Harbor,
+quand on les a réunis à Heart Mountain,
+
+412
+00:27:37,686 --> 00:27:40,713
+les voisins ont proposé de s'occuper
+de notre maison et du magasin.
+
+413
+00:27:41,515 --> 00:27:44,340
+"Signez simplement cette feuille,
+M. Agagi."
+
+414
+00:27:46,269 --> 00:27:49,632
+Ce que mon grand père ne savait pas,
+c'est qu'alors que son fils, en Italie,
+
+415
+00:27:49,799 --> 00:27:51,999
+se battait avec le 142e régiment,
+
+416
+00:27:52,434 --> 00:27:56,209
+les voisins faisaient déclarer
+la propriété inhabitable
+
+417
+00:27:56,964 --> 00:27:58,985
+et en devenaient propriétaires.
+
+418
+00:28:01,794 --> 00:28:04,307
+Vous ne pouviez pas savoir
+pour Minamoto.
+
+419
+00:28:06,792 --> 00:28:08,208
+Je vais régler ça.
+
+420
+00:28:10,088 --> 00:28:12,158
+Je vais arranger ça.
+Ça prendra du temps,
+
+421
+00:28:12,325 --> 00:28:14,477
+mais je vous rembourserai
+intégralement.
+
+422
+00:28:16,579 --> 00:28:18,694
+Ça n'a pas d'importance,
+pour l'instant.
+
+423
+00:28:20,489 --> 00:28:21,699
+Je vais lui parler.
+
+424
+00:28:22,852 --> 00:28:25,825
+On ne peut pas se contenter de parler,
+à quelqu'un comme lui.
+
+425
+00:28:30,462 --> 00:28:34,086
+Minamoto est très patriote.
+
+426
+00:28:34,918 --> 00:28:37,200
+Un Yakuza.
+Vous savez ce que c'est ?
+
+427
+00:28:37,367 --> 00:28:39,050
+Un Yakuza. Un gangster.
+
+428
+00:28:39,481 --> 00:28:41,676
+Si vous le frappez, il vous le rend.
+
+429
+00:28:41,980 --> 00:28:43,950
+Mais en dix fois pire.
+
+430
+00:28:44,338 --> 00:28:47,933
+Il enverra vos restes à votre fils,
+morceau par morceau, en recommandé.
+
+431
+00:28:48,184 --> 00:28:51,228
+- Et vous lui avez fait confiance ?
+- Ces types sont intimidants.
+
+432
+00:28:52,340 --> 00:28:55,697
+Vous n'avez pas acheté cette puce.
+Vous le payiez pour la voler.
+
+433
+00:28:57,735 --> 00:29:00,155
+CIBLE REPÉRÉE.
+ON EST EN ROUTE.
+
+434
+00:29:07,855 --> 00:29:09,665
+Nous ne connaissons que les faits.
+
+435
+00:29:10,040 --> 00:29:11,816
+Les moyens. L'occasion.
+
+436
+00:29:12,605 --> 00:29:15,952
+Mais l'intention ?
+Même M. Murch n'en a aucune idée.
+
+437
+00:29:16,480 --> 00:29:18,489
+Pourquoi vous être adressé à lui ?
+
+438
+00:29:18,826 --> 00:29:20,477
+Demandez à l'IA Babylon.
+
+439
+00:29:21,057 --> 00:29:22,671
+Demandez à John Henry.
+
+440
+00:29:25,738 --> 00:29:28,996
+- Elle a un nom ?
+- C'est le Dr Sherman qui a fait ça.
+
+441
+00:29:29,328 --> 00:29:30,699
+Lui donner ce nom.
+
+442
+00:29:31,351 --> 00:29:33,003
+Ce n'est pas une personne.
+
+443
+00:29:34,045 --> 00:29:35,606
+Mais c'est un esprit.
+
+444
+00:29:36,159 --> 00:29:37,658
+Parlez à John Henry.
+
+445
+00:29:42,765 --> 00:29:45,936
+L'IA communique via des images.
+Les réponses sont symboliques.
+
+446
+00:29:46,103 --> 00:29:49,078
+On a pensé à utiliser
+une interface linguistique,
+
+447
+00:29:49,590 --> 00:29:52,007
+mais on a renoncé.
+Trop flippant.
+
+448
+00:29:53,111 --> 00:29:55,667
+Elle a une reconnaissance vocale.
+Parlez-lui.
+
+449
+00:29:57,366 --> 00:29:59,463
+John Henry, je suis James Ellison.
+
+450
+00:30:04,356 --> 00:30:05,536
+Tu me connais.
+
+451
+00:30:06,196 --> 00:30:07,230
+Bien.
+
+452
+00:30:09,368 --> 00:30:11,984
+Connais-tu le Dr Boyd Sherman ?
+
+453
+00:30:16,190 --> 00:30:17,291
+C'est oui.
+
+454
+00:30:17,608 --> 00:30:20,150
+Du binaire.
+Un c'est oui, zéro c'est non.
+
+455
+00:30:20,855 --> 00:30:23,023
+Avez-vous travaillé ensemble hier ?
+
+456
+00:30:26,950 --> 00:30:28,118
+Et aujourd'hui ?
+
+457
+00:30:30,577 --> 00:30:31,454
+Pourquoi ?
+
+458
+00:30:34,255 --> 00:30:35,538
+Opérateur nul. No-op.
+
+459
+00:30:35,705 --> 00:30:38,252
+Ça peut signifier la mort
+ou en attente de données.
+
+460
+00:30:38,504 --> 00:30:39,780
+Reformulez.
+
+461
+00:30:40,505 --> 00:30:43,258
+Montre-moi ce qui est arrivé
+au Dr Sherman.
+
+462
+00:30:45,792 --> 00:30:47,928
+Il était dans le labo
+lors de la coupure.
+
+463
+00:30:49,702 --> 00:30:53,408
+Les constantes semblaient normales.
+Les groupes électrogènes ont démarré.
+
+464
+00:30:54,353 --> 00:30:56,570
+Les serveurs ont été alimentés.
+
+465
+00:30:57,481 --> 00:31:01,332
+Le Dr Sherman a essayé de partir.
+La porte électronique est restée fermée.
+
+466
+00:31:01,874 --> 00:31:03,419
+Son pouls s'est accéléré.
+
+467
+00:31:03,821 --> 00:31:06,447
+Il y avait tout juste assez d'énergie
+pour les serveurs.
+
+468
+00:31:07,404 --> 00:31:10,681
+Les sécurités et le monitoring
+biométrique se sont coupés.
+
+469
+00:31:13,631 --> 00:31:16,477
+Affiche la vidéo de sécurité
+et la biométrie du labo
+
+470
+00:31:16,644 --> 00:31:18,750
+au moment où le courant est revenu.
+
+471
+00:31:21,451 --> 00:31:22,740
+Son coeur est arrêté.
+
+472
+00:31:23,414 --> 00:31:24,924
+Sa température avait grimpé
+
+473
+00:31:25,174 --> 00:31:27,747
+et atteint le double de la normale.
+
+474
+00:31:28,231 --> 00:31:30,763
+Bien au-delà
+des niveaux humains tolérables.
+
+475
+00:31:31,166 --> 00:31:32,265
+Il était mort.
+
+476
+00:31:33,669 --> 00:31:36,368
+Mais John Henry indique
+"Besoin de soins".
+
+477
+00:31:39,503 --> 00:31:41,477
+Le Dr Sherman était-il
+encore vivant ?
+
+478
+00:31:44,111 --> 00:31:46,116
+Mais tu as appelé les secours.
+
+479
+00:31:46,809 --> 00:31:48,907
+Tu pensais qu'ils pouvaient aider ?
+
+480
+00:31:51,743 --> 00:31:52,837
+Suis-je vivant ?
+
+481
+00:31:55,413 --> 00:31:56,498
+Suis-je mort ?
+
+482
+00:31:58,603 --> 00:32:01,293
+- Opérateur nul.
+- Il ne comprend pas la question.
+
+483
+00:32:04,346 --> 00:32:06,257
+Qu'éprouvais-tu pour le Dr Sherman ?
+
+484
+00:32:09,104 --> 00:32:12,864
+Comprends-tu que dérouter l'énergie
+vers la grappe de serveurs
+
+485
+00:32:13,129 --> 00:32:14,848
+a causé la mort du Dr Sherman ?
+
+486
+00:32:17,289 --> 00:32:19,978
+À quelle image associes-tu
+cette information ?
+
+487
+00:32:25,076 --> 00:32:28,015
+À quelle image associes-tu
+cette information ?
+
+488
+00:32:33,013 --> 00:32:34,369
+Il n'a aucun sentiment.
+
+489
+00:32:36,092 --> 00:32:37,393
+Aucune opinion.
+
+490
+00:32:39,518 --> 00:32:40,889
+C'est ce qu'il dit.
+
+491
+00:32:42,230 --> 00:32:44,155
+Vous lui avez appris des procédures,
+
+492
+00:32:44,545 --> 00:32:46,589
+des règles,
+mais il a aucune éthique.
+
+493
+00:32:46,979 --> 00:32:48,299
+Aucune morale.
+
+494
+00:32:49,477 --> 00:32:52,719
+Qu'il se préoccupe du Dr Sherman
+n'aurait pas d'importance,
+
+495
+00:32:53,176 --> 00:32:55,912
+si vous lui aviez appris
+à respecter sa vie.
+
+496
+00:32:57,518 --> 00:32:58,809
+Un homme a été tué.
+
+497
+00:33:00,562 --> 00:33:02,677
+Et le responsable
+n'est pas John Henry.
+
+498
+00:33:04,673 --> 00:33:05,848
+Excusez-moi.
+
+499
+00:33:07,950 --> 00:33:09,612
+Que lui enseigneriez-vous ?
+
+500
+00:33:12,366 --> 00:33:14,809
+Que lui enseigneriez-vous
+si vous pouviez ?
+
+501
+00:33:15,109 --> 00:33:17,481
+Si vous voulez lui enseigner
+des commandements,
+
+502
+00:33:17,858 --> 00:33:19,956
+commencez par les Dix premiers.
+
+503
+00:33:28,131 --> 00:33:29,090
+À terre !
+
+504
+00:33:30,474 --> 00:33:32,455
+À terre !
+Tout de suite !
+
+505
+00:33:47,503 --> 00:33:50,319
+- J'ai pas votre argent.
+- Ton français est devenu bon.
+
+506
+00:33:51,815 --> 00:33:53,058
+Vous allez me tuer ?
+
+507
+00:33:53,334 --> 00:33:55,117
+Essaie de m'en dissuader.
+
+508
+00:33:55,284 --> 00:33:57,200
+Que dois-je dire ?
+Je suis un acteur.
+
+509
+00:33:58,494 --> 00:34:00,538
+Je dirai tout.
+Je suis qu'un acteur.
+
+510
+00:34:00,849 --> 00:34:03,624
+Un acteur ? Engagé par qui ?
+Le vrai Minamoto ou un Yakuza ?
+
+511
+00:34:03,983 --> 00:34:05,122
+Le vrai...
+
+512
+00:34:05,300 --> 00:34:07,085
+Madame, je vous l'ai dit.
+
+513
+00:34:07,669 --> 00:34:09,588
+Je veux la puce.
+La vraie.
+
+514
+00:34:10,235 --> 00:34:13,133
+J'ai donné
+ce qu'Akagi m'avait donné.
+
+515
+00:34:13,385 --> 00:34:16,054
+- C'est tout, je le jure.
+- Me mens pas !
+
+516
+00:34:16,304 --> 00:34:17,722
+- Pitié !
+- Quoi ?
+
+517
+00:34:18,478 --> 00:34:19,778
+Il ment pas.
+
+518
+00:34:20,601 --> 00:34:22,851
+- Et comment tu sais ?
+- Je le sais.
+
+519
+00:34:31,528 --> 00:34:33,062
+Tu m'as jamais vue.
+
+520
+00:34:45,294 --> 00:34:46,544
+Vous l'avez ?
+
+521
+00:34:46,916 --> 00:34:49,169
+Il se passe quelque chose.
+Faut creuser plus.
+
+522
+00:34:49,421 --> 00:34:52,381
+C'est un acteur.
+Tu sais qui l'a engagé et pourquoi.
+
+523
+00:34:52,858 --> 00:34:55,127
+- Quelqu'un m'explique ?
+- Tout concorde.
+
+524
+00:34:55,294 --> 00:34:57,427
+Les points, l'IA, l'armée, la puce.
+
+525
+00:34:57,679 --> 00:34:59,846
+Le rien du tout.
+Écoute-toi.
+
+526
+00:35:00,098 --> 00:35:02,538
+D'abord les points, puis l'IA.
+Maintenant, la puce.
+
+527
+00:35:02,705 --> 00:35:04,886
+Tu t'inventes ce dont t'as besoin.
+
+528
+00:35:06,642 --> 00:35:09,398
+On t'a bernée. Ça arrive.
+Bienvenue chez les humains.
+
+529
+00:35:27,211 --> 00:35:29,627
+Pour qui tu bosses ?
+T'as entendu !
+
+530
+00:35:29,877 --> 00:35:32,235
+- Je ne comprends pas.
+- Mens pas. Je déteste ça.
+
+531
+00:35:32,468 --> 00:35:35,424
+Sarah, je ne travaille pour personne.
+Il n'y a que Xander et moi.
+
+532
+00:35:41,390 --> 00:35:44,890
+J'ai été enfermée chez les dingues.
+À cause de mecs comme toi.
+
+533
+00:35:45,057 --> 00:35:48,293
+À une époque, j'aurais tout atomisé,
+alors me mens pas !
+
+534
+00:35:48,460 --> 00:35:50,147
+Je suis désolé, d'accord ?
+
+535
+00:35:50,399 --> 00:35:53,358
+- Désolé pour quoi ?
+- L'argent. Désolé pour l'argent.
+
+536
+00:35:53,610 --> 00:35:55,277
+Je parle pas du pognon !
+
+537
+00:35:56,279 --> 00:35:58,666
+- Où est Xander ?
+- Parle-moi de la puce,
+
+538
+00:35:58,833 --> 00:36:01,116
+de l'IA, et des trois points.
+
+539
+00:36:01,368 --> 00:36:03,660
+Faites pas de mal à mon fils.
+S'il vous plaît.
+
+540
+00:36:03,912 --> 00:36:07,581
+Change pas de sujet.
+On parle pas de ton papi ou de ton fils.
+
+541
+00:36:07,832 --> 00:36:10,959
+Si. On parle de lui.
+Tout ça, c'est pour Xander.
+
+542
+00:36:11,211 --> 00:36:13,628
+- Trois points.
+- C'est qu'un logo, sale garce !
+
+543
+00:36:17,732 --> 00:36:19,349
+Tu veux voir Xander ?
+
+544
+00:36:19,516 --> 00:36:22,204
+- Tu veux voir ton fils ?
+- Lui faites pas de mal.
+
+545
+00:36:22,448 --> 00:36:23,612
+Je vous tuerai.
+
+546
+00:36:30,391 --> 00:36:32,697
+Dis-lui.
+Dis-lui ce que tu me dis pas.
+
+547
+00:36:32,864 --> 00:36:34,692
+- Dis-lui la vérité.
+- Papa...
+
+548
+00:36:34,859 --> 00:36:36,570
+Je la laisserai pas te toucher.
+
+549
+00:36:36,737 --> 00:36:39,582
+Dis-lui ce que t'as fait,
+ou elle vous jette par la fenêtre.
+
+550
+00:36:39,749 --> 00:36:41,392
+Elle en est capable.
+
+551
+00:36:43,660 --> 00:36:45,120
+Il y a pas de puce.
+
+552
+00:36:46,158 --> 00:36:49,206
+J'ai tout inventé
+pour avoir son argent.
+
+553
+00:36:49,710 --> 00:36:50,713
+Quoi ?
+
+554
+00:36:50,880 --> 00:36:51,914
+Pas de puce.
+
+555
+00:36:52,554 --> 00:36:55,253
+Je l'ai créée et j'ai engagé Minamoto
+pour nous la vendre.
+
+556
+00:36:56,810 --> 00:36:59,508
+On pouvait pas
+tenir les délais, Xan.
+
+557
+00:36:59,760 --> 00:37:00,760
+Impossible.
+
+558
+00:37:02,932 --> 00:37:05,639
+Je devais m'assurer
+que tu ne sois pas dans le besoin.
+
+559
+00:37:06,708 --> 00:37:08,600
+Je ne pouvais pas prendre ce risque.
+
+560
+00:37:08,852 --> 00:37:10,161
+Mais ça peut marcher.
+
+561
+00:37:11,377 --> 00:37:12,814
+Mon concept peut marcher.
+
+562
+00:37:16,211 --> 00:37:19,152
+- Papa...
+- J'espère que tu as raison. Vraiment.
+
+563
+00:37:19,903 --> 00:37:21,363
+J'ai foi en toi.
+
+564
+00:37:22,587 --> 00:37:23,679
+C'est que...
+
+565
+00:37:24,818 --> 00:37:27,850
+parfois je comprends à peine
+ce que tu dis.
+
+566
+00:37:29,813 --> 00:37:32,090
+Et je me demande si tu me comprends.
+
+567
+00:37:41,184 --> 00:37:43,134
+L'argent est sous mon bureau.
+
+568
+00:37:45,854 --> 00:37:48,139
+Et ce n'est qu'un logo.
+
+569
+00:38:03,268 --> 00:38:06,002
+Je vais regretter
+de t'avoir donné une clé.
+
+570
+00:38:18,595 --> 00:38:20,257
+John Connor est mon neveu.
+
+571
+00:38:24,177 --> 00:38:26,012
+T'es la quatrième à le savoir.
+
+572
+00:38:27,520 --> 00:38:28,530
+Je vois.
+
+573
+00:38:31,528 --> 00:38:33,386
+Je suis venu faire la guerre.
+
+574
+00:38:36,698 --> 00:38:39,173
+Faire ce qu'il faut
+pour arrêter Skynet.
+
+575
+00:38:39,823 --> 00:38:40,859
+Aujourd'hui.
+
+576
+00:38:42,320 --> 00:38:43,970
+Si on doit le faire,
+
+577
+00:38:45,515 --> 00:38:47,687
+y a pas de place pour les secrets.
+
+578
+00:38:49,236 --> 00:38:52,570
+Si y a un truc que tu m'as pas dit,
+dis-le-moi, maintenant.
+
+579
+00:38:54,707 --> 00:38:57,417
+Tu te souviens
+quand on était à Serrano Point ?
+
+580
+00:38:59,684 --> 00:39:01,034
+Tout ce temps...
+
+581
+00:39:03,571 --> 00:39:05,347
+j'utilisais ta brosse à dent.
+
+582
+00:39:09,635 --> 00:39:11,311
+Celle de mon paquetage ?
+
+583
+00:39:15,175 --> 00:39:17,437
+Elle me servait pas pour les dents.
+
+584
+00:39:38,945 --> 00:39:40,130
+Maman ?
+
+585
+00:39:57,750 --> 00:39:59,066
+C'est Riley.
+
+586
+00:39:59,872 --> 00:40:00,872
+Ça va.
+
+587
+00:40:14,122 --> 00:40:15,122
+Tu frappes.
+
+588
+00:40:16,026 --> 00:40:17,581
+Ça te ressemble pas.
+
+589
+00:40:17,832 --> 00:40:19,693
+Des sarcasmes.
+Ça te ressemble pas.
+
+590
+00:40:19,860 --> 00:40:21,668
+Attends, c'est tout à fait toi.
+
+591
+00:40:25,492 --> 00:40:27,738
+Je devais passer pour te dire
+
+592
+00:40:27,905 --> 00:40:29,801
+que je rejette ton rejet.
+
+593
+00:40:33,380 --> 00:40:35,090
+Tu veux faire un tour ?
+
+594
+00:40:36,296 --> 00:40:38,677
+Maman, je sors faire un tour.
+
+595
+00:41:30,310 --> 00:41:32,467
+J'ai pensé à ce que vous avez dit.
+
+596
+00:41:33,486 --> 00:41:34,977
+À propos des règles.
+
+597
+00:41:36,811 --> 00:41:38,361
+Les Dix Commandements.
+
+598
+00:41:39,810 --> 00:41:42,499
+Je ne suis pas qualifiée
+pour les enseigner à John Henry.
+
+599
+00:41:43,559 --> 00:41:45,073
+Je ne saurais pas comment.
+
+600
+00:41:46,021 --> 00:41:48,086
+Le Dr Sherman était là pour ça.
+
+601
+00:41:50,924 --> 00:41:52,911
+Je veux vous montrer quelque chose.
+
+602
+00:42:02,124 --> 00:42:05,429
+Selon la légende,
+John Henry se mesurait à une foreuse.
+
+603
+00:42:06,014 --> 00:42:08,402
+Un homme seul se battait
+contre une machine,
+
+604
+00:42:08,569 --> 00:42:10,369
+armé d'un marteau.
+
+605
+00:42:10,987 --> 00:42:12,899
+On dit qu'il était né avec.
+
+606
+00:42:13,387 --> 00:42:15,740
+Son coeur a lâché.
+Il est mort, je sais.
+
+607
+00:42:16,682 --> 00:42:18,774
+John Henry a battu la machine.
+
+608
+00:42:19,512 --> 00:42:21,545
+Mais il n'a pas arrêté le progrès.
+
+609
+00:42:39,831 --> 00:42:41,329
+Bonjour, M. Ellison.
+
+610
+00:42:42,874 --> 00:42:44,919
+Je m'appelle John Henry.
+
+611
+00:42:54,077 --> 00:42:55,471
+Comment allez-vous ?
+

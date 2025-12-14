@@ -1,0 +1,3439 @@
+1
+00:00:01,500 --> 00:00:03,467
+<i>previously on heroes...</i>
+
+2
+00:00:03,534 --> 00:00:04,971
+i'm not gonna
+let you manipulate me.
+
+3
+00:00:04,971 --> 00:00:06,433
+i'm the one
+making the decisions.
+
+4
+00:00:06,500 --> 00:00:07,700
+mr. petrelli.
+
+5
+00:00:07,767 --> 00:00:09,253
+you're playing yourself?
+
+6
+00:00:09,253 --> 00:00:10,764
+i'm obviously playing mr.-
+
+7
+00:00:10,764 --> 00:00:12,494
+<i>she can't see me, nathan.</i>
+
+8
+00:00:12,494 --> 00:00:13,309
+<i>no one can.</i>
+
+9
+00:00:13,309 --> 00:00:14,667
+except you.
+
+10
+00:00:14,734 --> 00:00:15,919
+you're different.
+
+11
+00:00:15,919 --> 00:00:17,320
+you're special.
+
+12
+00:00:17,819 --> 00:00:19,901
+my name is daphne, and why
+are you two following me?
+
+13
+00:00:19,967 --> 00:00:21,233
+i want my father's
+formula back.
+
+14
+00:00:21,300 --> 00:00:22,700
+there's supposed to be some sort
+
+15
+00:00:22,767 --> 00:00:24,066
+of exchange going down
+at this theater.
+
+16
+00:00:24,133 --> 00:00:25,720
+and i'm waiting to intercept.
+
+17
+00:00:26,900 --> 00:00:28,033
+you were right.
+
+18
+00:00:28,100 --> 00:00:29,500
+i am just a killer.
+
+19
+00:00:30,867 --> 00:00:32,834
+i guess you were
+wrong about me.
+
+20
+00:00:33,376 --> 00:00:34,600
+we'll see.
+
+21
+00:00:34,667 --> 00:00:35,932
+you wanna tell me
+that's not you?
+
+22
+00:00:35,932 --> 00:00:37,014
+<i>it's not me.</i>
+
+23
+00:00:37,014 --> 00:00:38,433
+you can't run this story.
+
+24
+00:00:38,500 --> 00:00:39,467
+hey!
+
+25
+00:00:44,200 --> 00:00:46,101
+my name is tracy strauss.
+
+26
+00:00:46,101 --> 00:00:47,299
+do you know me?
+
+27
+00:00:47,300 --> 00:00:48,233
+know you?
+
+28
+00:00:48,300 --> 00:00:49,800
+i created you.
+
+29
+00:00:49,867 --> 00:00:51,281
+i came to find you.
+
+30
+00:00:51,281 --> 00:00:52,397
+get you outta here.
+
+31
+00:00:52,397 --> 00:00:54,091
+i need to show you.
+
+32
+00:00:54,534 --> 00:00:56,367
+the whole world is in trouble.
+
+33
+00:00:56,433 --> 00:00:58,800
+reflexes, blood pressure,
+balance.
+
+34
+00:00:58,867 --> 00:00:59,934
+they're all normal.
+
+35
+00:01:00,001 --> 00:01:02,333
+i am completely
+the same in every way.
+
+36
+00:01:03,223 --> 00:01:04,607
+just different.
+
+37
+00:01:07,901 --> 00:01:09,200
+<i>my god.</i>
+
+38
+00:01:09,523 --> 00:01:12,533
+<font color="#4096d1">
+-==破烂熊乐园倾情奉献==-
+本字幕仅供学习交流，严禁用于商业用途</font>
+
+39
+00:01:12,617 --> 00:01:15,886
+<font color="#4096d1">-==http://www.ragbear.com==-
+英雄 第三季第4集</font>
+
+40
+00:01:15,890 --> 00:01:23,118
+<font color=#4096d1>-=破烂熊字幕组=-
+翻译：个人id
+校对：个人id
+时间轴：加饭的菜猪
+</font>
+
+41
+00:01:23,634 --> 00:01:25,155
+<i>this is dr. mohinder suresh,</i>
+
+42
+00:01:25,155 --> 00:01:26,414
+<i>journal entry 12.</i>
+
+43
+00:01:26,414 --> 00:01:27,961
+<i>three days after injecting</i>
+
+44
+00:01:27,961 --> 00:01:29,755
+<i>the genetic
+modification formula.</i>
+
+45
+00:01:29,755 --> 00:01:31,367
+<i>my reflexes are sharper.</i>
+
+46
+00:01:31,433 --> 00:01:33,500
+<i>my strength, off the charts.</i>
+
+47
+00:01:33,567 --> 00:01:35,200
+<i>it's a dream come true.</i>
+
+48
+00:01:35,267 --> 00:01:37,066
+<i>who among us hasn't wished
+for strength?</i>
+
+49
+00:01:37,133 --> 00:01:38,667
+<i>to fly?</i>
+
+50
+00:01:38,734 --> 00:01:41,694
+<i>and now it's all possible.</i>
+
+51
+00:01:44,834 --> 00:01:46,700
+there are few
+adverse reactions.
+
+52
+00:01:46,767 --> 00:01:50,600
+the one exception being
+an unusual rash.
+
+53
+00:01:50,667 --> 00:01:53,667
+a byproduct of the formula,
+an allergy-
+
+54
+00:01:54,834 --> 00:01:56,213
+<i>oh, no, please don't!</i>
+
+55
+00:01:56,213 --> 00:01:57,549
+<i>stop it!</i>
+
+56
+00:01:57,549 --> 00:01:59,029
+hello, is everything
+all right?
+
+57
+00:02:00,367 --> 00:02:02,100
+i'm sorry to intrude,
+
+58
+00:02:02,166 --> 00:02:03,834
+but i heard shouting
+and i wanted to make sure
+
+59
+00:02:03,901 --> 00:02:05,367
+everything was-
+everything's fine.
+
+60
+00:02:05,433 --> 00:02:06,867
+thanks.
+
+61
+00:02:06,934 --> 00:02:08,506
+are you sure?
+
+62
+00:02:08,507 --> 00:02:10,000
+'cause it looks
+like your wife-
+
+63
+00:02:10,000 --> 00:02:11,634
+she'll be fine.
+
+64
+00:02:11,700 --> 00:02:13,867
+now back off, sahib.
+
+65
+00:02:16,834 --> 00:02:17,767
+<i>stop it!</i>
+
+66
+00:02:17,834 --> 00:02:19,387
+stop it!
+stop it!
+
+67
+00:02:19,387 --> 00:02:20,638
+stop, please.
+
+68
+00:02:20,638 --> 00:02:22,800
+just leave us alone,
+all right?
+
+69
+00:02:24,800 --> 00:02:27,100
+god, don't hurt him.
+
+70
+00:02:30,800 --> 00:02:33,700
+<i>you were one of three
+identical triplets.</i>
+
+71
+00:02:34,435 --> 00:02:36,667
+tracy, niki, and barbara.
+
+72
+00:02:36,734 --> 00:02:39,166
+perfect test subjects.
+
+73
+00:02:39,233 --> 00:02:41,267
+<i>when your birth
+parents died</i>
+
+74
+00:02:41,333 --> 00:02:43,117
+we separated you.
+
+75
+00:02:43,117 --> 00:02:44,295
+we-
+
+76
+00:02:44,458 --> 00:02:46,926
+i just need some answers.
+
+77
+00:02:47,567 --> 00:02:49,100
+what did you do to me?
+
+78
+00:02:49,726 --> 00:02:51,583
+dna manipulation.
+
+79
+00:02:51,583 --> 00:02:55,001
+<i>a formula that would
+make you incredible.</i>
+
+80
+00:02:55,066 --> 00:02:57,333
+speed, strength.
+
+81
+00:02:57,922 --> 00:03:00,870
+is it something like that?
+
+82
+00:03:07,233 --> 00:03:08,764
+why?
+
+83
+00:03:10,033 --> 00:03:12,767
+why would you do this?
+
+84
+00:03:12,834 --> 00:03:14,433
+what gave you the right?
+
+85
+00:03:14,500 --> 00:03:15,946
+<i>we had no right.</i>
+
+86
+00:03:16,586 --> 00:03:19,300
+we were arrogant
+and selfish and...
+
+87
+00:03:19,367 --> 00:03:20,333
+human.
+
+88
+00:03:20,400 --> 00:03:21,967
+who?
+who wanted this?
+
+89
+00:03:22,033 --> 00:03:24,734
+i think i've said
+too much already.
+
+90
+00:03:24,800 --> 00:03:26,990
+they would not like that.
+
+91
+00:03:26,990 --> 00:03:28,597
+give me a name.
+
+92
+00:03:30,133 --> 00:03:31,990
+<i>someone!</i>
+
+93
+00:03:32,066 --> 00:03:33,467
+there was a company.
+
+94
+00:03:33,534 --> 00:03:36,300
+a company that-
+
+95
+00:03:36,367 --> 00:03:39,095
+um, i don't remember.
+
+96
+00:03:39,095 --> 00:03:40,115
+i can't remember.
+
+97
+00:03:40,115 --> 00:03:41,600
+you're lying.
+
+98
+00:03:41,667 --> 00:03:43,767
+they made us forget.
+
+99
+00:03:43,834 --> 00:03:46,400
+well, then you have
+to take it away.
+
+100
+00:03:46,467 --> 00:03:49,267
+this... thing that i can do.
+
+101
+00:03:49,333 --> 00:03:50,433
+i can't.
+
+102
+00:03:50,500 --> 00:03:52,166
+no, you don't understand.
+
+103
+00:03:52,233 --> 00:03:53,867
+this ability...
+
+104
+00:03:53,934 --> 00:03:55,800
+i've hurt people.
+
+105
+00:03:56,605 --> 00:03:58,227
+it is part of you now.
+
+106
+00:03:58,227 --> 00:03:59,901
+no, i never asked for it.
+
+107
+00:03:59,967 --> 00:04:01,700
+you need to take it away.
+
+108
+00:04:01,767 --> 00:04:02,700
+i can't.
+
+109
+00:04:02,767 --> 00:04:04,800
+tell me how to take it away.
+
+110
+00:04:04,867 --> 00:04:06,267
+ah!
+tell me.
+
+111
+00:04:11,967 --> 00:04:13,643
+i'm so sorry.
+
+112
+00:04:13,643 --> 00:04:15,500
+what have you done?
+
+113
+00:04:17,500 --> 00:04:18,467
+who is she?
+
+114
+00:04:18,534 --> 00:04:20,200
+<i>what happened to her?</i>
+
+115
+00:04:20,267 --> 00:04:21,975
+it's your future, parkman.
+
+116
+00:04:21,975 --> 00:04:23,708
+not mine.
+
+117
+00:04:25,100 --> 00:04:26,367
+yeah, it is, okay.
+
+118
+00:04:26,433 --> 00:04:28,033
+so that means i can stop that
+from happening, right?
+
+119
+00:04:28,444 --> 00:04:30,426
+do you really want to know?
+
+120
+00:04:36,367 --> 00:04:39,276
+this stuff is supposed
+to show me my future?
+
+121
+00:04:45,001 --> 00:04:46,660
+i don't think this is working.
+
+122
+00:04:47,333 --> 00:04:48,500
+here.
+
+123
+00:04:50,567 --> 00:04:52,166
+try this.
+
+124
+00:05:29,033 --> 00:05:30,691
+come on.
+
+125
+00:05:31,133 --> 00:05:32,233
+where are we?
+
+126
+00:05:32,300 --> 00:05:33,901
+<i>when are we?</i>
+
+127
+00:05:33,967 --> 00:05:35,771
+<i>this is the future
+i came back to stop.</i>
+
+128
+00:05:35,771 --> 00:05:36,444
+why?
+
+129
+00:05:36,444 --> 00:05:37,634
+it looks just like today.
+
+130
+00:05:39,834 --> 00:05:42,800
+with one big difference.
+
+131
+00:05:54,967 --> 00:05:57,100
+how is this possible?
+
+132
+00:05:57,166 --> 00:05:58,333
+<i>an injection.</i>
+
+133
+00:05:58,400 --> 00:05:59,807
+abilities are available
+to anyone.
+
+134
+00:05:59,807 --> 00:06:01,297
+for sale if you
+can afford it.
+
+135
+00:06:01,297 --> 00:06:02,967
+for grabs if you're
+desperate enough.
+
+136
+00:06:03,033 --> 00:06:04,400
+now all these people
+with abilities
+
+137
+00:06:04,467 --> 00:06:05,986
+are gonna destroy the world.
+
+138
+00:06:07,367 --> 00:06:08,534
+how could you know that?
+
+139
+00:06:08,600 --> 00:06:09,700
+how would you?
+
+140
+00:06:09,767 --> 00:06:10,700
+i painted it.
+
+141
+00:06:10,767 --> 00:06:11,867
+dreamed it.
+
+142
+00:06:11,934 --> 00:06:13,634
+it's going to happen-
+here, look.
+
+143
+00:06:14,697 --> 00:06:17,001
+all the crime, murder,
+all abilities.
+
+144
+00:06:17,066 --> 00:06:18,200
+people can't be trusted.
+
+145
+00:06:18,267 --> 00:06:20,113
+we're weak,
+jealous,
+
+146
+00:06:20,113 --> 00:06:20,965
+violent.
+
+147
+00:06:20,965 --> 00:06:22,467
+there's always
+good people, always.
+
+148
+00:06:22,534 --> 00:06:23,934
+how could i be so naive?
+
+149
+00:06:24,001 --> 00:06:26,100
+when abilities are
+the new weapon of choice-
+
+150
+00:06:26,166 --> 00:06:28,600
+people will
+control themselves.
+
+151
+00:06:30,333 --> 00:06:31,667
+it's not safe for me
+to be out in the open.
+
+152
+00:06:31,734 --> 00:06:32,949
+they'll be looking for us.
+
+153
+00:06:32,949 --> 00:06:34,222
+i needed you to see.
+
+154
+00:06:34,222 --> 00:06:35,238
+who are "they"?
+
+155
+00:06:35,238 --> 00:06:36,619
+what did you do?
+
+156
+00:06:37,187 --> 00:06:38,967
+they think i'm an extremist.
+
+157
+00:06:39,033 --> 00:06:40,208
+a villain.
+
+158
+00:06:40,208 --> 00:06:41,819
+i had to stop it.
+
+159
+00:06:41,819 --> 00:06:42,927
+maybe they're right.
+
+160
+00:06:42,927 --> 00:06:44,068
+you shot nathan.
+
+161
+00:06:44,068 --> 00:06:44,953
+you killed him.
+
+162
+00:06:44,953 --> 00:06:45,820
+he was gonna tell everyone
+
+163
+00:06:45,820 --> 00:06:46,834
+the truth about us.
+
+164
+00:06:46,901 --> 00:06:48,166
+but he d didn't die.
+
+165
+00:06:48,233 --> 00:06:49,233
+and now he
+doesn't have to.
+
+166
+00:06:49,300 --> 00:06:52,233
+so why hasn't
+everything changed?
+
+167
+00:06:52,300 --> 00:06:55,447
+someone from your time
+is putting together a formula
+
+168
+00:06:55,447 --> 00:06:57,087
+that gives people abilities.
+
+169
+00:06:57,087 --> 00:06:58,421
+you have to stop him.
+
+170
+00:06:58,421 --> 00:06:59,094
+why me?
+
+171
+00:06:59,094 --> 00:06:59,943
+why can't you do it?
+
+172
+00:06:59,943 --> 00:07:01,642
+because i made
+terrible choices.
+
+173
+00:07:03,567 --> 00:07:04,834
+stepped on
+too many butterflies.
+
+174
+00:07:04,901 --> 00:07:05,967
+what does that mean?
+
+175
+00:07:06,033 --> 00:07:08,303
+you can't make
+the same mistakes as me.
+
+176
+00:07:09,557 --> 00:07:10,834
+we need to find sylar.
+
+177
+00:07:10,901 --> 00:07:11,967
+with his ability,
+
+178
+00:07:12,033 --> 00:07:13,367
+you won't make
+the same mistakes.
+
+179
+00:07:13,433 --> 00:07:15,353
+sylar, what the hell
+are you talking about?
+
+180
+00:07:15,353 --> 00:07:17,634
+i wanna see nathan,
+claire, suresh.
+
+181
+00:07:17,700 --> 00:07:19,433
+they're not the people
+you think they are.
+
+182
+00:07:19,500 --> 00:07:20,800
+why not?
+
+183
+00:07:20,867 --> 00:07:22,967
+not all of us were born
+with abilities, okay?
+
+184
+00:07:23,033 --> 00:07:24,700
+some of us were made.
+
+185
+00:07:24,767 --> 00:07:25,992
+a line was drawn.
+
+186
+00:07:25,992 --> 00:07:27,817
+sides were chosen.
+it tore us apart.
+
+187
+00:08:12,700 --> 00:08:15,265
+well, you actually did it.
+
+188
+00:08:16,000 --> 00:08:17,240
+you killed peter.
+
+189
+00:08:17,240 --> 00:08:18,300
+no.
+
+190
+00:08:19,132 --> 00:08:20,299
+he's still alive.
+
+191
+00:08:20,875 --> 00:08:22,633
+<i>looks plenty dead to me.</i>
+
+192
+00:08:22,700 --> 00:08:23,933
+there were two of them.
+
+193
+00:08:24,000 --> 00:08:26,199
+this one and a younger one
+from the past.
+
+194
+00:08:26,266 --> 00:08:28,288
+this is bad, right?
+
+195
+00:08:28,777 --> 00:08:30,099
+bad-bad.
+
+196
+00:08:30,166 --> 00:08:31,132
+yeah, we have orders.
+
+197
+00:08:31,199 --> 00:08:32,741
+kill petrelli.
+
+198
+00:08:33,090 --> 00:08:34,800
+it's obviously easier said
+than done.
+
+199
+00:08:34,866 --> 00:08:36,507
+we need to use molly.
+
+200
+00:08:37,585 --> 00:08:39,733
+she can find peter
+anywhere in the world.
+
+201
+00:08:41,600 --> 00:08:43,266
+you know i can't
+just do that.
+
+202
+00:08:43,333 --> 00:08:44,566
+it's not that simple.
+
+203
+00:08:44,633 --> 00:08:45,700
+<i>it is.</i>
+
+204
+00:08:45,766 --> 00:08:48,466
+if you won't ask her,
+i will.
+
+205
+00:08:50,900 --> 00:08:52,199
+i'm not afraid of you.
+
+206
+00:08:52,266 --> 00:08:54,505
+no, but you are
+afraid of peter.
+
+207
+00:08:54,505 --> 00:08:57,266
+and you know he won't stop,
+not ever.
+
+208
+00:08:57,333 --> 00:09:00,633
+<i>until we find him...</i>
+
+209
+00:09:00,700 --> 00:09:02,519
+and we kill him.
+
+210
+00:09:08,266 --> 00:09:09,739
+let me out!
+
+211
+00:09:09,739 --> 00:09:11,733
+i must save the world!
+
+212
+00:09:11,800 --> 00:09:13,511
+the future depends on it!
+
+213
+00:09:16,830 --> 00:09:18,531
+we have to get  out 
+of here,ando.
+
+214
+00:09:18,838 --> 00:09:21,123
+there must be 
+another way...
+
+215
+00:09:22,872 --> 00:09:24,279
+ah! the vent!
+
+216
+00:09:27,074 --> 00:09:29,106
+but, it's too high.
+
+217
+00:09:29,297 --> 00:09:31,015
+ando,come on and give me a hand.
+
+218
+00:09:31,567 --> 00:09:33,231
+i'm not talking to you.
+
+219
+00:09:35,559 --> 00:09:37,441
+what?
+what did i do?
+
+220
+00:09:37,659 --> 00:09:39,478
+you said you 
+didn't need me.
+
+221
+00:09:39,491 --> 00:09:42,185
+you said you don't know
+why you take me along!
+
+222
+00:09:42,320 --> 00:09:44,954
+you're so powerful.
+help yourself.
+
+223
+00:09:45,747 --> 00:09:49,403
+i followed you 
+around the world.
+
+224
+00:09:49,722 --> 00:09:54,253
+risked my life for you because i
+believed we were friends.partners.
+
+225
+00:09:55,314 --> 00:09:57,140
+you know what i think?
+
+226
+00:09:57,670 --> 00:10:01,608
+i think you're still upset that
+future me murders future you.
+
+227
+00:10:02,706 --> 00:10:03,921
+and what if i am....?
+
+228
+00:10:04,178 --> 00:10:05,982
+i knew it!
+
+229
+00:10:06,010 --> 00:10:07,473
+i can't help it.
+
+230
+00:10:07,711 --> 00:10:09,861
+every time i look at you i see it
+over and over again.
+
+231
+00:10:10,343 --> 00:10:13,133
+how could you kill me ?
+
+232
+00:10:13,757 --> 00:10:16,620
+i would never hurt you.
+
+233
+00:10:16,620 --> 00:10:20,105
+but i'm starting to 
+understand why i might.
+
+234
+00:10:23,900 --> 00:10:25,299
+senator petrelli?
+
+235
+00:10:27,633 --> 00:10:30,166
+senator, you need
+to make your choice.
+
+236
+00:10:30,232 --> 00:10:32,199
+there are a lotta
+historical desks available.
+
+237
+00:10:32,266 --> 00:10:33,732
+<i>where's tracy?</i>
+
+238
+00:10:33,732 --> 00:10:35,766
+isn't it her job
+to make these decisions?
+
+239
+00:10:35,833 --> 00:10:38,099
+well, ms. strauss
+isn't answering her cell.
+
+240
+00:10:38,861 --> 00:10:40,778
+take the john foster dulles.
+
+241
+00:10:40,778 --> 00:10:42,700
+it sends the right message.
+
+242
+00:10:42,766 --> 00:10:43,700
+which one
+would you pick?
+
+243
+00:10:45,516 --> 00:10:47,083
+uh, robert kennedy's.
+
+244
+00:10:48,681 --> 00:10:50,299
+kennedy it is,
+thank you.
+
+245
+00:10:55,067 --> 00:10:57,933
+you know, i thought you'd
+be enjoying this.
+
+246
+00:10:58,000 --> 00:11:00,566
+you're a senator back
+in the seat of power
+
+247
+00:11:00,633 --> 00:11:02,254
+where you belong.
+
+248
+00:11:02,752 --> 00:11:04,900
+able to do god's
+work here on earth.
+
+249
+00:11:04,967 --> 00:11:05,967
+god's work?
+
+250
+00:11:06,033 --> 00:11:07,099
+i'm picking out desks.
+
+251
+00:11:09,099 --> 00:11:11,467
+what's the real
+problem here, nathan?
+
+252
+00:11:11,467 --> 00:11:12,235
+you.
+
+253
+00:11:12,235 --> 00:11:13,800
+you're the real problem.
+
+254
+00:11:13,866 --> 00:11:15,616
+y- you don't trust me?
+
+255
+00:11:15,616 --> 00:11:17,099
+i'm hurt.
+
+256
+00:11:17,166 --> 00:11:18,800
+i'm the only one
+who can see you.
+
+257
+00:11:18,866 --> 00:11:20,600
+that's a problem.
+
+258
+00:11:20,666 --> 00:11:21,967
+don't play me, okay?
+
+259
+00:11:22,033 --> 00:11:24,067
+i've been around people
+who can do amazing things.
+
+260
+00:11:24,132 --> 00:11:25,232
+what are you?
+
+261
+00:11:25,299 --> 00:11:26,232
+what, are you a telepath?
+
+262
+00:11:26,299 --> 00:11:27,866
+no.
+
+263
+00:11:27,933 --> 00:11:29,366
+nothing that obvious.
+
+264
+00:11:29,433 --> 00:11:30,833
+you know what it is?
+
+265
+00:11:30,900 --> 00:11:33,266
+it's brain damage
+from the shooting.
+
+266
+00:11:33,333 --> 00:11:35,833
+the shooting that you so
+miraculously survived.
+
+267
+00:11:35,900 --> 00:11:38,132
+come on, nathan.
+
+268
+00:11:38,199 --> 00:11:39,366
+i mean, healing, flying.
+
+269
+00:11:39,433 --> 00:11:41,666
+i mean, isn't that
+the work of angels?
+
+270
+00:11:41,733 --> 00:11:43,933
+you saying you're an angel?
+
+271
+00:11:44,000 --> 00:11:45,166
+you're a murderer.
+
+272
+00:11:45,232 --> 00:11:47,900
+<i>you wanted to destroy
+new york city.</i>
+
+273
+00:11:47,967 --> 00:11:49,666
+kill millions
+of people.
+
+274
+00:11:49,733 --> 00:11:51,199
+if i remember correctly,
+
+275
+00:11:51,266 --> 00:11:52,266
+you did too.
+
+276
+00:11:52,333 --> 00:11:54,366
+what exactly do
+you want from me?
+
+277
+00:11:54,433 --> 00:11:56,299
+i want to help you.
+
+278
+00:11:56,366 --> 00:11:58,299
+first, a senator.
+
+279
+00:12:00,466 --> 00:12:02,132
+then president.
+
+280
+00:12:05,633 --> 00:12:07,141
+president.
+
+281
+00:12:07,967 --> 00:12:10,666
+the greater the fall,
+the grander the ascension.
+
+282
+00:12:10,733 --> 00:12:13,033
+<i>isn't that what
+you've always wanted?</i>
+
+283
+00:12:15,990 --> 00:12:17,132
+trust me.
+
+284
+00:12:17,199 --> 00:12:19,166
+this is the path
+to salvation.
+
+285
+00:12:20,115 --> 00:12:21,987
+it's not my path.
+
+286
+00:12:22,466 --> 00:12:24,299
+not if you're
+leading the way.
+
+287
+00:12:29,666 --> 00:12:31,566
+this place is disgusting.
+
+288
+00:12:31,633 --> 00:12:33,929
+the milk's gone bad.
+
+289
+00:12:34,389 --> 00:12:36,053
+didn't you notice?
+
+290
+00:12:36,053 --> 00:12:38,235
+look, i don't need you
+cleaning up after me.
+
+291
+00:12:38,900 --> 00:12:41,139
+well, obviously you do.
+
+292
+00:12:41,333 --> 00:12:42,440
+ugh.
+
+293
+00:12:43,166 --> 00:12:45,099
+you don't look well.
+
+294
+00:12:45,166 --> 00:12:46,943
+i'm just tired.
+
+295
+00:12:47,499 --> 00:12:48,888
+no wonder.
+
+296
+00:12:48,888 --> 00:12:50,843
+working all hours.
+
+297
+00:12:51,235 --> 00:12:53,099
+no food, no fresh air.
+
+298
+00:12:53,166 --> 00:12:54,733
+i have lots to do.
+
+299
+00:12:54,800 --> 00:12:56,212
+come on,
+let's get outta here.
+
+300
+00:12:56,212 --> 00:12:57,314
+i can't.
+
+301
+00:12:59,513 --> 00:13:02,222
+but it's a beautiful
+day outside.
+
+302
+00:13:02,222 --> 00:13:04,433
+and you've been
+cooped up in here-
+
+303
+00:13:06,087 --> 00:13:07,533
+working for you.
+
+304
+00:13:07,600 --> 00:13:10,942
+trying to find some way
+to take away your ability!
+
+305
+00:13:11,199 --> 00:13:12,914
+isn't that
+what you want?
+
+306
+00:13:13,566 --> 00:13:16,067
+i came because
+i care about you.
+
+307
+00:13:16,132 --> 00:13:17,582
+you want me to go?
+
+308
+00:13:17,582 --> 00:13:18,399
+fine.
+
+309
+00:13:20,566 --> 00:13:21,933
+wait.
+
+310
+00:13:22,000 --> 00:13:24,020
+i- i-i didn't mean to yell.
+
+311
+00:13:24,772 --> 00:13:27,166
+i- i'm just tired.
+
+312
+00:13:27,232 --> 00:13:29,533
+i will find the answers...
+
+313
+00:13:29,600 --> 00:13:31,166
+for you.
+
+314
+00:13:31,232 --> 00:13:32,749
+i promise.
+
+315
+00:13:49,199 --> 00:13:51,800
+journal entry 13.
+
+316
+00:13:51,866 --> 00:13:53,166
+the rash is spreading.
+
+317
+00:13:53,232 --> 00:13:54,666
+i don't know what it is
+
+318
+00:13:54,733 --> 00:13:56,266
+or its connection
+to my aggression.
+
+319
+00:13:56,333 --> 00:14:01,358
+the formula is
+transforming me, and i fear...
+
+320
+00:14:02,067 --> 00:14:05,124
+i fear what i'm becoming.
+
+321
+00:14:09,900 --> 00:14:12,466
+<i>the formula is transforming me.</i>
+
+322
+00:14:12,533 --> 00:14:13,766
+<i>i fear what i'm becoming.</i>
+
+323
+00:14:13,833 --> 00:14:16,891
+<i>the formula is transforming me,
+and i fear...</i>
+
+324
+00:14:16,891 --> 00:14:19,818
+<i>i fear what i'm becoming.</i>
+
+325
+00:14:20,559 --> 00:14:22,125
+mohinder?
+
+326
+00:14:49,933 --> 00:14:51,933
+<i>what do you want?</i>
+
+327
+00:14:54,166 --> 00:14:56,385
+i need your help.
+
+328
+00:14:57,366 --> 00:14:59,566
+i need you to tell me
+everything you know about sylar.
+
+329
+00:14:59,633 --> 00:15:00,866
+sylar?
+
+330
+00:15:00,933 --> 00:15:02,666
+<i>i have to find him.</i>
+
+331
+00:15:02,733 --> 00:15:05,900
+he's supposed to...
+help me.
+
+332
+00:15:05,967 --> 00:15:08,287
+but why?
+
+333
+00:15:08,499 --> 00:15:10,600
+why sylar?
+
+334
+00:15:10,666 --> 00:15:12,533
+<i>mohinder, are you okay?</i>
+
+335
+00:15:12,600 --> 00:15:14,200
+what happened to you?
+what's going on?
+
+336
+00:15:15,433 --> 00:15:16,533
+mohinder!
+
+337
+00:15:19,613 --> 00:15:21,827
+do not repeat my mistakes.
+
+338
+00:15:23,666 --> 00:15:25,663
+what happened to you?
+
+339
+00:15:30,000 --> 00:15:32,700
+i wanted abilities.
+
+340
+00:15:32,766 --> 00:15:35,299
+impetuous.
+
+341
+00:15:35,366 --> 00:15:36,800
+selfish.
+
+342
+00:15:36,866 --> 00:15:39,000
+<i>i got the formula wrong.</i>
+
+343
+00:15:40,762 --> 00:15:42,533
+so wrong.
+
+344
+00:15:42,600 --> 00:15:44,700
+let me help you.
+
+345
+00:15:44,766 --> 00:15:46,633
+tell me about sylar.
+
+346
+00:15:46,700 --> 00:15:49,633
+sylar's power is dangerous.
+
+347
+00:15:49,700 --> 00:15:51,466
+you don't understand it.
+
+348
+00:15:51,533 --> 00:15:53,766
+i need to understand.
+
+349
+00:15:53,833 --> 00:15:55,299
+where is he?
+
+350
+00:15:55,366 --> 00:15:57,132
+<i>where's sylar?</i>
+
+351
+00:15:59,000 --> 00:16:01,800
+costa verde, the bennet house.
+
+352
+00:16:04,566 --> 00:16:06,067
+don't go!
+
+353
+00:16:27,499 --> 00:16:28,768
+hey, uncle peter.
+
+354
+00:16:28,768 --> 00:16:30,731
+<i>dad's making waffles.</i>
+
+355
+00:16:33,299 --> 00:16:34,433
+what's up, champ?
+
+356
+00:16:34,499 --> 00:16:35,933
+how you doing, man?
+
+357
+00:16:36,000 --> 00:16:37,663
+good to see you.
+
+358
+00:16:38,366 --> 00:16:39,566
+raa!
+
+359
+00:16:39,633 --> 00:16:41,273
+who wants some waffles,
+huh?
+
+360
+00:16:41,273 --> 00:16:42,866
+<i>who else should
+get some waffles?</i>
+
+361
+00:16:42,933 --> 00:16:43,967
+<i>mr. muggles.</i>
+
+362
+00:16:44,033 --> 00:16:45,833
+<i>okay, a little piece
+of waffle.</i>
+
+363
+00:16:45,900 --> 00:16:47,166
+but just 'cause
+you're such a good boy.
+
+364
+00:16:47,232 --> 00:16:48,466
+yes, you're so good.
+
+365
+00:16:48,533 --> 00:16:50,266
+<i>always such a good dog.</i>
+
+366
+00:16:50,333 --> 00:16:51,366
+yes, you're a very good doggy.
+
+367
+00:16:53,833 --> 00:16:56,272
+peter, it's so good
+to see you.
+
+368
+00:16:56,633 --> 00:16:58,366
+i haven't seen you
+in so long.
+
+369
+00:17:00,569 --> 00:17:03,426
+if you told me you were coming,
+i would've made extra.
+
+370
+00:17:20,750 --> 00:17:22,026
+what's the magic word?
+
+371
+00:17:22,026 --> 00:17:23,932
+abracadabra.
+
+372
+00:17:24,707 --> 00:17:28,194
+<i>well, that's a magic word,
+so that's close enough.</i>
+
+373
+00:17:28,466 --> 00:17:30,787
+where's your scar,
+uncle peter?
+
+374
+00:17:35,434 --> 00:17:36,633
+you know what?
+
+375
+00:17:36,700 --> 00:17:38,589
+grown-ups need to have
+a little chat in the other room.
+
+376
+00:17:38,589 --> 00:17:40,766
+so i'm gonna get you
+started on your waffle.
+
+377
+00:17:40,833 --> 00:17:41,955
+<i>all right,
+there you go.</i>
+
+378
+00:17:41,955 --> 00:17:43,140
+you gonna be okay?
+
+379
+00:17:44,033 --> 00:17:44,793
+yes.
+
+380
+00:17:44,793 --> 00:17:45,964
+yes, i know you are.
+
+381
+00:17:45,964 --> 00:17:48,034
+we're just gonna be
+in the other room, all right?
+
+382
+00:18:03,133 --> 00:18:05,233
+you're not from
+around here, are you?
+
+383
+00:18:06,110 --> 00:18:07,499
+no scar.
+
+384
+00:18:07,566 --> 00:18:09,033
+the past, right?
+
+385
+00:18:09,100 --> 00:18:10,833
+<i>which means, to you,</i>
+
+386
+00:18:10,900 --> 00:18:12,559
+i'm the boogeyman.
+
+387
+00:18:14,373 --> 00:18:15,733
+it's a hell of a thing.
+
+388
+00:18:15,800 --> 00:18:17,000
+you coming here to find out
+
+389
+00:18:17,067 --> 00:18:18,133
+that you and i
+are brothers.
+
+390
+00:18:19,010 --> 00:18:20,599
+brothers?
+
+391
+00:18:20,666 --> 00:18:22,285
+oh, i'm sorry that you've come
+all this way, peter,
+
+392
+00:18:22,285 --> 00:18:23,523
+but i can't help you.
+
+393
+00:18:23,523 --> 00:18:24,482
+can't?
+
+394
+00:18:25,033 --> 00:18:26,762
+i won't.
+
+395
+00:18:26,762 --> 00:18:27,996
+why?
+
+396
+00:18:28,855 --> 00:18:31,503
+i'm not gonna give it to you,
+my ability, i'm not.
+
+397
+00:18:31,503 --> 00:18:33,665
+then i'll just take
+what i need from you.
+
+398
+00:18:34,533 --> 00:18:36,067
+as if you could.
+
+399
+00:18:41,584 --> 00:18:43,200
+peter is dead.
+
+400
+00:18:43,267 --> 00:18:44,700
+they killed him.
+
+401
+00:18:44,766 --> 00:18:45,900
+and now they're after me.
+
+402
+00:18:45,967 --> 00:18:48,067
+i am not leaving
+without your ability, sylar.
+
+403
+00:18:52,367 --> 00:18:54,140
+my name is gabriel.
+
+404
+00:18:55,416 --> 00:18:56,982
+and you don't realize...
+
+405
+00:18:57,076 --> 00:18:59,309
+my ability is not just
+understanding how things work.
+
+406
+00:18:59,309 --> 00:19:00,671
+there's a hunger
+
+407
+00:19:00,671 --> 00:19:01,913
+<i>that comes with it.</i>
+
+408
+00:19:01,913 --> 00:19:03,846
+<i>to know more,
+to have more.</i>
+
+409
+00:19:03,846 --> 00:19:05,400
+i couldn't control it.
+
+410
+00:19:05,466 --> 00:19:07,238
+it had turned me
+into a killer.
+
+411
+00:19:08,133 --> 00:19:09,508
+a monster.
+
+412
+00:19:11,167 --> 00:19:12,475
+every day is a struggle.
+
+413
+00:19:12,475 --> 00:19:13,887
+every hour.
+
+414
+00:19:13,948 --> 00:19:15,629
+<i>but i fight it...</i>
+
+415
+00:19:16,233 --> 00:19:17,765
+for him.
+
+416
+00:19:18,367 --> 00:19:19,680
+<i>and i am not...</i>
+
+417
+00:19:19,680 --> 00:19:21,819
+going to willingly
+condemn you to hell.
+
+418
+00:19:22,449 --> 00:19:23,882
+if i have your ability-
+
+419
+00:19:24,176 --> 00:19:26,162
+if i can understand
+the variables, then i-
+
+420
+00:19:26,162 --> 00:19:27,599
+can save the world.
+
+421
+00:19:28,756 --> 00:19:31,113
+the world always
+needs saving, peter.
+
+422
+00:19:31,400 --> 00:19:33,574
+you're all gonna die.
+
+423
+00:19:34,505 --> 00:19:35,888
+your family.
+
+424
+00:19:35,888 --> 00:19:37,367
+your son.
+
+425
+00:19:37,434 --> 00:19:39,434
+this world is gonna end.
+
+426
+00:19:39,499 --> 00:19:40,833
+you don't believe me?
+
+427
+00:19:40,900 --> 00:19:41,900
+here.
+
+428
+00:19:41,967 --> 00:19:43,133
+paint it.
+
+429
+00:19:43,200 --> 00:19:44,967
+see for yourself.
+
+430
+00:19:45,033 --> 00:19:46,267
+paint the future.
+
+431
+00:19:49,134 --> 00:19:50,972
+don't let him see me.
+
+432
+00:19:51,300 --> 00:19:53,233
+not like this.
+
+433
+00:19:57,405 --> 00:19:59,037
+do you understand?
+
+434
+00:20:08,863 --> 00:20:10,345
+no, no way.
+
+435
+00:20:10,345 --> 00:20:12,146
+no, we're not dragging
+molly into this. what?
+
+436
+00:20:12,146 --> 00:20:13,807
+<i>well, we're both
+raising her.</i>
+
+437
+00:20:13,807 --> 00:20:15,367
+<i>yes, to be
+a normal little girl.</i>
+
+438
+00:20:15,434 --> 00:20:17,000
+not to be your bloodhound.
+
+439
+00:20:17,067 --> 00:20:18,833
+no, it's just this once.
+
+440
+00:20:18,900 --> 00:20:21,136
+we use her ability
+to find peter.
+
+441
+00:20:21,136 --> 00:20:24,280
+peter petrelli is a murderer
+and a terrorist and-
+
+442
+00:20:24,280 --> 00:20:26,235
+and he's the villain,
+not me.
+
+443
+00:20:26,633 --> 00:20:29,666
+this is our chance
+to stop peter now.
+
+444
+00:20:29,733 --> 00:20:31,432
+forever.
+
+445
+00:20:31,432 --> 00:20:32,519
+i just-i-
+
+446
+00:20:32,519 --> 00:20:34,555
+i don't understand
+why you would risk your life
+
+447
+00:20:34,555 --> 00:20:36,475
+when you've got
+this beautiful baby girl
+
+448
+00:20:36,475 --> 00:20:38,287
+waiting for you at home.
+
+449
+00:20:38,866 --> 00:20:40,689
+you are beautiful.
+
+450
+00:20:44,799 --> 00:20:48,025
+this is everything to me.
+
+451
+00:20:48,025 --> 00:20:49,977
+you, this family-
+
+452
+00:20:49,977 --> 00:20:52,205
+and this is the part where
+the "but" comes in, daniella.
+
+453
+00:20:52,205 --> 00:20:54,372
+but i was a cop.
+
+454
+00:20:54,372 --> 00:20:56,143
+and i know what it's like
+to have a spouse who's worried
+
+455
+00:20:56,143 --> 00:20:57,434
+if you're ever gonna
+come home alive.
+
+456
+00:20:57,434 --> 00:20:59,060
+i'm gonna be fine.
+
+457
+00:20:59,060 --> 00:21:00,487
+nothing can touch me.
+
+458
+00:21:00,487 --> 00:21:01,197
+right.
+
+459
+00:21:01,197 --> 00:21:03,197
+you're a wife and a mother.
+
+460
+00:21:03,374 --> 00:21:05,391
+it's time for you
+to slow down.
+
+461
+00:21:06,200 --> 00:21:08,114
+we find peter.
+
+462
+00:21:08,114 --> 00:21:12,350
+we catch him and then
+you can consider me settled.
+
+463
+00:21:12,900 --> 00:21:14,793
+you're not gonna
+let this go, are you?
+
+464
+00:21:15,233 --> 00:21:17,007
+and miss a chance
+to stop peter
+
+465
+00:21:17,007 --> 00:21:19,410
+and all the pain
+and misery he's caused?
+
+466
+00:21:20,221 --> 00:21:21,759
+we have to.
+
+467
+00:21:28,300 --> 00:21:30,200
+molly.
+
+468
+00:21:32,462 --> 00:21:34,233
+you guys done arguing?
+
+469
+00:21:34,916 --> 00:21:36,800
+uh, we-we weren't-
+
+470
+00:21:38,204 --> 00:21:40,706
+your mother needs
+to talk to you for a second.
+
+471
+00:21:43,699 --> 00:21:45,473
+everything's gonna be fine.
+
+472
+00:21:57,033 --> 00:21:58,267
+peter's in costa verde.
+
+473
+00:21:58,334 --> 00:21:59,837
+sylar.
+
+474
+00:21:59,837 --> 00:22:01,434
+sylar, yeah.
+
+475
+00:22:03,009 --> 00:22:04,414
+<i>you're afraid.</i>
+
+476
+00:22:05,156 --> 00:22:07,365
+don't act like i don't know
+what i'm talking about.
+
+477
+00:22:07,365 --> 00:22:08,751
+you stink of it.
+
+478
+00:22:08,751 --> 00:22:10,037
+so what if i am?
+
+479
+00:22:10,114 --> 00:22:12,442
+so claire bennet
+isn't afraid of anything.
+
+480
+00:22:12,442 --> 00:22:14,167
+i just killed my uncle
+
+481
+00:22:14,233 --> 00:22:15,400
+<i>and i have to do it again.</i>
+
+482
+00:22:15,466 --> 00:22:17,866
+give me a second
+to be a human being.
+
+483
+00:22:19,211 --> 00:22:21,067
+you see, the problem is,
+claire,
+
+484
+00:22:21,133 --> 00:22:24,434
+unlike you,
+daphne and i can die.
+
+485
+00:22:24,897 --> 00:22:26,600
+so get your
+head on straight.
+
+486
+00:22:45,846 --> 00:22:47,045
+sylar?
+
+487
+00:22:47,465 --> 00:22:49,092
+it's a scar.
+
+488
+00:22:49,400 --> 00:22:51,037
+<i>a reminder of what i was.</i>
+
+489
+00:22:51,037 --> 00:22:52,800
+<i>of what i can be.</i>
+
+490
+00:22:52,866 --> 00:22:54,454
+fix it.
+
+491
+00:22:54,454 --> 00:22:55,966
+i don't know a thing
+about watches.
+
+492
+00:22:55,966 --> 00:22:57,771
+if you wanna learn how
+to access my ability,
+
+493
+00:22:57,771 --> 00:23:00,085
+fix the watch.
+
+494
+00:23:01,033 --> 00:23:02,929
+listen to it.
+
+495
+00:23:02,929 --> 00:23:04,639
+like a symphony,
+
+496
+00:23:04,639 --> 00:23:06,367
+every piece has its part.
+
+497
+00:23:06,434 --> 00:23:08,598
+all coming together
+in perfect harmony.
+
+498
+00:23:09,113 --> 00:23:10,986
+<i>if you can understand
+the complexities of a watch,</i>
+
+499
+00:23:10,986 --> 00:23:12,692
+<i>you can understand anything.</i>
+
+500
+00:23:13,900 --> 00:23:15,233
+everything.
+
+501
+00:23:15,300 --> 00:23:16,599
+cause, effect,
+
+502
+00:23:16,666 --> 00:23:18,664
+action, reaction.
+
+503
+00:23:23,334 --> 00:23:25,690
+<i>how to change the future.</i>
+
+504
+00:23:29,402 --> 00:23:31,050
+you have it now.
+
+505
+00:23:35,833 --> 00:23:37,599
+i'm so sorry.
+
+506
+00:23:37,666 --> 00:23:39,037
+<i>daddy!</i>
+
+507
+00:23:39,800 --> 00:23:41,300
+not now, noah.
+
+508
+00:23:41,367 --> 00:23:43,621
+<i>yes, now.</i>
+
+509
+00:23:44,133 --> 00:23:46,100
+noah, stay where you are,
+buddy.
+
+510
+00:23:48,967 --> 00:23:50,197
+<i>noah.</i>
+
+511
+00:23:52,315 --> 00:23:53,974
+it's gonna be okay, buddy.
+
+512
+00:23:54,557 --> 00:23:56,226
+let's not make
+this any harder
+
+513
+00:23:56,226 --> 00:23:57,931
+than it already is, peter.
+
+514
+00:23:57,931 --> 00:24:00,908
+<i>just come quietly,
+and we'll leave them alone.</i>
+
+515
+00:24:00,908 --> 00:24:01,793
+<i>don't do it, peter.</i>
+
+516
+00:24:01,793 --> 00:24:02,912
+<i>teleport out now.</i>
+
+517
+00:24:02,912 --> 00:24:03,730
+i'm not leaving you.
+
+518
+00:24:03,730 --> 00:24:05,233
+i brought this
+into your house.
+
+519
+00:24:05,300 --> 00:24:05,756
+no.
+
+520
+00:24:05,756 --> 00:24:07,207
+this was my house.
+
+521
+00:24:07,207 --> 00:24:08,700
+you took everything from me.
+
+522
+00:24:08,766 --> 00:24:10,783
+claire, i never meant
+for you-
+
+523
+00:24:10,783 --> 00:24:12,010
+shut up.
+
+524
+00:24:13,185 --> 00:24:14,887
+what's it gonna be?
+
+525
+00:24:15,046 --> 00:24:17,032
+<i>the boy or you?</i>
+
+526
+00:24:17,599 --> 00:24:20,560
+you don't want anyone
+to get hurt, do you?
+
+527
+00:24:20,560 --> 00:24:23,011
+just, first,
+let the boy go.
+
+528
+00:24:23,011 --> 00:24:25,000
+not until you're dead.
+
+529
+00:24:25,067 --> 00:24:27,161
+you're gonna kill me?
+
+530
+00:24:27,697 --> 00:24:30,335
+<i>one bullet in the back of
+the head should do the trick.</i>
+
+531
+00:24:30,733 --> 00:24:34,092
+then i'll let the boy go.
+
+532
+00:24:34,092 --> 00:24:35,733
+i'm not the guy that you killed
+this morning, claire.
+
+533
+00:24:35,800 --> 00:24:36,800
+look, this is me.
+
+534
+00:24:40,933 --> 00:24:42,533
+you're not gonna kill me.
+
+535
+00:24:42,599 --> 00:24:44,422
+yes, i am.
+
+536
+00:24:44,900 --> 00:24:46,471
+what happened to you?
+
+537
+00:24:46,980 --> 00:24:48,633
+how'd you get this way?
+
+538
+00:24:49,241 --> 00:24:51,811
+i learned how
+to take care of myself.
+
+539
+00:24:56,780 --> 00:24:57,414
+noah!
+
+540
+00:24:57,414 --> 00:24:58,511
+daddy!
+
+541
+00:24:59,177 --> 00:25:00,177
+go hide over there.
+
+542
+00:25:00,177 --> 00:25:01,040
+go now.
+
+543
+00:25:14,723 --> 00:25:16,308
+i understand your power.
+
+544
+00:25:17,000 --> 00:25:18,766
+you get stronger with fear.
+
+545
+00:25:18,766 --> 00:25:20,310
+i'm not afraid of you.
+
+546
+00:25:20,866 --> 00:25:22,566
+but he is.
+
+547
+00:25:24,666 --> 00:25:26,067
+noah, run!
+
+548
+00:25:26,133 --> 00:25:27,436
+run!
+
+549
+00:25:31,710 --> 00:25:32,973
+daddy!
+
+550
+00:26:08,759 --> 00:26:10,142
+they killed him!
+
+551
+00:26:17,042 --> 00:26:18,800
+gabriel!
+
+552
+00:26:35,363 --> 00:26:36,841
+let me try.
+
+553
+00:26:37,499 --> 00:26:38,882
+i've got it.
+
+554
+00:26:39,100 --> 00:26:42,262
+what?
+you afraid i'm going to
+strangle you with it?
+
+555
+00:26:44,523 --> 00:26:45,769
+let go.
+
+556
+00:26:46,660 --> 00:26:48,154
+i don't want to let go
+
+557
+00:26:48,154 --> 00:26:49,625
+what are you doing?
+
+558
+00:26:51,768 --> 00:26:53,834
+you always sucked at tug of war.
+
+559
+00:27:07,163 --> 00:27:09,050
+enjoy  your escape
+
+560
+00:27:10,211 --> 00:27:12,038
+you're not coming?
+
+561
+00:27:12,432 --> 00:27:15,693
+you've made it very clear you
+don't want me around.
+
+562
+00:27:25,469 --> 00:27:26,381
+ando.
+
+563
+00:27:27,018 --> 00:27:29,333
+i need your help one more time.
+
+564
+00:27:38,883 --> 00:27:40,946
+almost there.
+
+565
+00:27:41,920 --> 00:27:43,521
+i can't push any harder
+
+566
+00:27:44,757 --> 00:27:46,275
+just two more inches.
+
+567
+00:27:48,060 --> 00:27:49,014
+ando
+
+568
+00:27:50,738 --> 00:27:53,365
+you have only ever been by my side
+
+569
+00:27:53,365 --> 00:27:57,860
+i don't know how i ever 
+doubted you. i'm a terrible 
+friend. i'm soryy.
+
+570
+00:27:58,221 --> 00:28:00,283
+maybe now is not
+the time for apologizies.
+
+571
+00:28:01,433 --> 00:28:03,072
+you must know. i can change.
+
+572
+00:28:03,072 --> 00:28:06,670
+the future.and myself.
+
+573
+00:28:06,670 --> 00:28:08,750
+i swear it!
+
+574
+00:28:11,869 --> 00:28:13,048
+we did it,ando!
+
+575
+00:28:13,559 --> 00:28:14,833
+we did it!
+
+576
+00:28:16,667 --> 00:28:18,399
+<i>ando?</i>
+
+577
+00:28:27,366 --> 00:28:28,937
+<i>metropolitan police department.</i>
+
+578
+00:28:28,937 --> 00:28:30,963
+detective russick, please.
+
+579
+00:28:31,604 --> 00:28:33,467
+<i>this is detective russick.</i>
+
+580
+00:28:33,533 --> 00:28:37,333
+are you the detective
+working the jim mccann case?
+
+581
+00:28:37,400 --> 00:28:38,544
+<i>yes, i am.</i>
+
+582
+00:28:38,544 --> 00:28:40,066
+<i>i have some information...</i>
+
+583
+00:28:40,133 --> 00:28:41,626
+about him.
+
+584
+00:28:41,626 --> 00:28:43,567
+<i>who is this?</i>
+
+585
+00:28:43,633 --> 00:28:44,959
+i-
+
+586
+00:28:47,999 --> 00:28:49,834
+i-
+
+587
+00:28:52,133 --> 00:28:53,667
+hello?
+
+588
+00:29:00,853 --> 00:29:02,744
+i killed him.
+
+589
+00:29:14,700 --> 00:29:16,398
+damn it.
+
+590
+00:29:17,867 --> 00:29:19,767
+journal entry 16.
+
+591
+00:29:19,834 --> 00:29:21,864
+i cannot reverse the process.
+
+592
+00:29:21,864 --> 00:29:24,300
+cannot remove the ability.
+
+593
+00:29:24,366 --> 00:29:25,500
+not from maya.
+
+594
+00:29:25,567 --> 00:29:27,382
+not from myself.
+
+595
+00:29:27,667 --> 00:29:28,999
+it's a part of me now.
+
+596
+00:29:38,633 --> 00:29:39,667
+yes?
+
+597
+00:29:42,066 --> 00:29:44,000
+you stuck your nose
+where it didn't belong.
+
+598
+00:29:45,632 --> 00:29:46,966
+so did you.
+
+599
+00:29:50,667 --> 00:29:54,359
+and the glory
+forever and ever.
+
+600
+00:29:55,082 --> 00:29:56,600
+amen.
+
+601
+00:29:57,131 --> 00:29:59,433
+please, show me my path.
+
+602
+00:29:59,500 --> 00:30:02,467
+<i>you picked the kennedy desk.</i>
+
+603
+00:30:02,533 --> 00:30:04,433
+good choice.
+
+604
+00:30:04,500 --> 00:30:06,366
+hey.
+
+605
+00:30:06,433 --> 00:30:08,920
+you're back.
+
+606
+00:30:09,867 --> 00:30:11,287
+did you find what
+you were looking for?
+
+607
+00:30:13,867 --> 00:30:15,533
+my resignation.
+
+608
+00:30:16,214 --> 00:30:18,800
+i know i dragged you
+into this.
+
+609
+00:30:18,867 --> 00:30:20,500
+and i'm sorry.
+
+610
+00:30:20,567 --> 00:30:23,166
+i just can't
+do this anymore.
+
+611
+00:30:23,774 --> 00:30:25,834
+nothing i can say
+to change your mind?
+
+612
+00:30:25,900 --> 00:30:27,595
+no.
+
+613
+00:30:29,567 --> 00:30:32,465
+i know what
+i have to do now.
+
+614
+00:30:45,479 --> 00:30:48,133
+<i>you must pray for guidance.</i>
+
+615
+00:30:48,208 --> 00:30:49,808
+this is your path.
+
+616
+00:30:50,467 --> 00:30:52,700
+you're just gonna
+have to trust me, nathan.
+
+617
+00:30:53,331 --> 00:30:55,015
+you must help her.
+
+618
+00:31:31,054 --> 00:31:32,217
+drink?
+
+619
+00:31:33,367 --> 00:31:34,434
+yeah.
+
+620
+00:31:37,180 --> 00:31:38,320
+you okay?
+
+621
+00:31:40,280 --> 00:31:41,440
+no.
+
+622
+00:31:59,591 --> 00:32:01,733
+so, uh...
+
+623
+00:32:02,633 --> 00:32:05,200
+you can fly?
+
+624
+00:32:05,267 --> 00:32:07,300
+yeah, mm-hmm.
+
+625
+00:32:09,833 --> 00:32:12,033
+i can't believe
+this is happening.
+
+626
+00:32:12,100 --> 00:32:13,395
+yeah.
+
+627
+00:32:17,930 --> 00:32:19,866
+i have to show you something.
+
+628
+00:32:43,398 --> 00:32:45,701
+your hands aren't even cold.
+
+629
+00:32:53,516 --> 00:32:55,375
+costa verde is gone.
+
+630
+00:32:55,375 --> 00:32:59,065
+the single greatest tragedy
+in american history.
+
+631
+00:32:59,599 --> 00:33:02,482
+the first lady and i mourn
+this tremendous loss.
+
+632
+00:33:02,482 --> 00:33:04,933
+we urge all of you
+to find your families.
+
+633
+00:33:05,633 --> 00:33:07,235
+find your loved ones.
+
+634
+00:33:07,666 --> 00:33:11,203
+and that we pray
+together as a family.
+
+635
+00:33:11,900 --> 00:33:13,540
+and as a nation.
+
+636
+00:33:27,877 --> 00:33:30,013
+<i>are you trying to teleport?</i>
+
+637
+00:33:30,784 --> 00:33:33,449
+that's not gonna work
+with my friend here.
+
+638
+00:33:39,189 --> 00:33:41,190
+200,000 people
+
+639
+00:33:41,190 --> 00:33:43,444
+died in costa verde.
+
+640
+00:33:43,444 --> 00:33:45,741
+i want you
+to feel the pain
+
+641
+00:33:46,623 --> 00:33:50,211
+of every single death.
+
+642
+00:33:56,300 --> 00:33:58,173
+that's one.
+
+643
+00:33:58,809 --> 00:34:00,482
+i can save them.
+
+644
+00:34:00,482 --> 00:34:02,372
+everyone in costa verde.
+
+645
+00:34:03,033 --> 00:34:04,208
+this whole world...
+
+646
+00:34:04,208 --> 00:34:05,788
+doesn't have
+to be like this, claire.
+
+647
+00:34:05,788 --> 00:34:07,497
+you don't have
+to be like this.
+
+648
+00:34:07,497 --> 00:34:09,680
+i saved you once,
+i can save you again.
+
+649
+00:34:12,533 --> 00:34:13,787
+no.
+
+650
+00:34:16,959 --> 00:34:18,533
+that's two.
+
+651
+00:34:21,084 --> 00:34:22,267
+stop.
+
+652
+00:34:24,367 --> 00:34:26,416
+i'd like a moment
+with my brother alone.
+
+653
+00:34:27,200 --> 00:34:29,666
+is this the president
+or my father speaking?
+
+654
+00:34:29,733 --> 00:34:31,291
+both.
+
+655
+00:34:45,969 --> 00:34:47,423
+i know what you're doing.
+
+656
+00:34:47,423 --> 00:34:49,011
+<i>i've seen it.</i>
+
+657
+00:34:49,472 --> 00:34:51,200
+the world splitting in half.
+
+658
+00:34:53,399 --> 00:34:54,484
+i'm not ignorant.
+
+659
+00:34:54,484 --> 00:34:56,130
+i've seen the paintings.
+
+660
+00:34:56,130 --> 00:34:57,310
+and i've heard the dreams.
+
+661
+00:34:57,310 --> 00:34:58,671
+i know what's going on.
+
+662
+00:35:00,733 --> 00:35:02,988
+<i>you're strong, pete.</i>
+
+663
+00:35:04,033 --> 00:35:07,006
+but one man cannot
+save the world.
+
+664
+00:35:07,250 --> 00:35:09,180
+it's everybody's
+responsibility.
+
+665
+00:35:09,180 --> 00:35:10,951
+everybody with abilities.
+
+666
+00:35:11,599 --> 00:35:12,546
+yeah.
+
+667
+00:35:13,592 --> 00:35:15,748
+an army with abilities.
+
+668
+00:35:17,700 --> 00:35:20,502
+congress has agreed
+to full proliferation...
+
+669
+00:35:21,180 --> 00:35:23,134
+because of costa verde.
+
+670
+00:35:23,367 --> 00:35:24,719
+because of you.
+
+671
+00:35:27,452 --> 00:35:29,049
+now, i know you think
+
+672
+00:35:29,049 --> 00:35:30,654
+people can't be trusted.
+
+673
+00:35:30,789 --> 00:35:32,553
+that we're all greedy.
+
+674
+00:35:32,553 --> 00:35:34,111
+power hungry.
+
+675
+00:35:34,401 --> 00:35:36,919
+but we were created
+in god's image, pete.
+
+676
+00:35:38,039 --> 00:35:40,029
+there is a goodness to man.
+
+677
+00:35:42,071 --> 00:35:43,327
+pete...
+
+678
+00:35:46,433 --> 00:35:47,784
+<i>you don't trust me?</i>
+
+679
+00:35:47,784 --> 00:35:50,275
+you've been manipulated
+before by linderman.
+
+680
+00:35:50,466 --> 00:35:52,105
+<i>you were gonna blow up
+new york city.</i>
+
+681
+00:35:52,105 --> 00:35:54,026
+you can read minds.
+
+682
+00:35:54,700 --> 00:35:56,416
+read mine.
+
+683
+00:36:09,213 --> 00:36:10,219
+peter?
+
+684
+00:36:16,566 --> 00:36:17,962
+<i>i understand...</i>
+
+685
+00:36:18,766 --> 00:36:20,485
+your intentions.
+
+686
+00:36:21,067 --> 00:36:23,166
+<i>your emotions.</i>
+
+687
+00:36:24,830 --> 00:36:26,607
+you believe that
+you're doing the right thing,
+
+688
+00:36:26,607 --> 00:36:28,125
+but you're wrong.
+
+689
+00:36:28,666 --> 00:36:30,460
+peter, stop.
+
+690
+00:36:30,844 --> 00:36:32,497
+it hurts.
+
+691
+00:36:38,866 --> 00:36:40,633
+<i>i need-</i>
+
+692
+00:36:40,700 --> 00:36:41,826
+i need-
+
+693
+00:36:41,826 --> 00:36:43,055
+i need to-
+
+694
+00:36:43,055 --> 00:36:44,872
+<i>i need to...</i>
+
+695
+00:36:46,800 --> 00:36:48,499
+<i>understand.</i>
+
+696
+00:36:48,566 --> 00:36:50,400
+i need to-
+
+697
+00:36:50,466 --> 00:36:52,033
+<i>your intentions.</i>
+
+698
+00:37:00,666 --> 00:37:01,933
+<i>mr. president!</i>
+
+699
+00:37:02,000 --> 00:37:03,933
+<i>mr. president,
+are you all right?</i>
+
+700
+00:37:16,733 --> 00:37:17,821
+peter.
+
+701
+00:37:20,914 --> 00:37:22,301
+what are you doing?
+
+702
+00:37:22,301 --> 00:37:23,399
+i went to the future.
+
+703
+00:37:23,399 --> 00:37:24,666
+the world ended.
+
+704
+00:37:24,666 --> 00:37:27,372
+i took your ability so i could
+understand how to stop it.
+
+705
+00:37:27,372 --> 00:37:29,486
+you took my ability?
+
+706
+00:37:30,133 --> 00:37:32,467
+you have the hunger.
+
+707
+00:37:32,467 --> 00:37:34,021
+you're like me.
+
+708
+00:37:34,021 --> 00:37:37,237
+i will never let myself
+become you.
+
+709
+00:37:37,237 --> 00:37:39,130
+you already are...
+
+710
+00:37:50,500 --> 00:37:54,064
+<i>this was the scene above
+costa verde just hours ago.</i>
+
+711
+00:37:54,400 --> 00:37:56,295
+<i>everything
+within four miles</i>
+
+712
+00:37:56,295 --> 00:37:58,860
+<i>has been completely
+incinerated.</i>
+
+713
+00:37:58,934 --> 00:38:01,467
+<i>the sky is dark
+with smoke and debris.</i>
+
+714
+00:38:01,534 --> 00:38:03,634
+<i>we can only imagine...</i>
+
+715
+00:38:03,700 --> 00:38:04,896
+it's my fault.
+
+716
+00:38:04,896 --> 00:38:06,534
+i told her
+to go to costa verde.
+
+717
+00:38:06,595 --> 00:38:07,800
+daniella needs her bottle.
+
+718
+00:38:07,867 --> 00:38:09,066
+come on.
+but i-
+
+719
+00:38:09,133 --> 00:38:11,066
+go take care of your sister.
+
+720
+00:38:11,133 --> 00:38:12,745
+now.
+
+721
+00:38:14,414 --> 00:38:16,567
+<i>...danger of radiation
+poisoning.</i>
+
+722
+00:38:17,001 --> 00:38:19,367
+<i>any search for survivors
+is going to take time.</i>
+
+723
+00:38:19,433 --> 00:38:23,500
+<i>but it's hard to imagine
+anyone still alive in there.</i>
+
+724
+00:38:23,567 --> 00:38:25,200
+<i>the army
+and national guard</i>
+
+725
+00:38:25,267 --> 00:38:27,367
+<i>are only now
+beginning to assess</i>
+
+726
+00:38:27,433 --> 00:38:29,834
+<i>the extent
+of the destruction.</i>
+
+727
+00:38:32,984 --> 00:38:34,346
+daphne.
+
+728
+00:38:37,867 --> 00:38:40,133
+i wasn't fast enough.
+
+729
+00:38:48,133 --> 00:38:49,973
+no. no.
+no, no, no, no.
+
+730
+00:38:49,973 --> 00:38:52,800
+come on.
+come on, you'll be fine.
+
+731
+00:38:52,867 --> 00:38:54,300
+you're gonna be just fine.
+
+732
+00:38:59,193 --> 00:39:00,834
+welcome back.
+
+733
+00:39:00,901 --> 00:39:02,884
+what happened to me?
+
+734
+00:39:02,884 --> 00:39:04,016
+i was in the future.
+
+735
+00:39:04,016 --> 00:39:06,333
+<i>did i time travel?
+no.</i>
+
+736
+00:39:06,400 --> 00:39:08,300
+you never left.
+
+737
+00:39:08,367 --> 00:39:09,940
+you were asleep.
+
+738
+00:39:10,534 --> 00:39:12,300
+dreaming.
+dreaming?
+
+739
+00:39:12,367 --> 00:39:13,867
+no, no, no.
+
+740
+00:39:13,934 --> 00:39:15,734
+no, it was real.
+
+741
+00:39:15,800 --> 00:39:16,834
+it was.
+
+742
+00:39:16,901 --> 00:39:18,001
+i was there.
+she was there.
+
+743
+00:39:19,600 --> 00:39:21,679
+<i>everybody had abilities.</i>
+
+744
+00:39:24,967 --> 00:39:26,367
+the bomb.
+
+745
+00:39:26,433 --> 00:39:28,133
+the baby.
+
+746
+00:39:29,567 --> 00:39:32,200
+it was real.
+
+747
+00:39:41,534 --> 00:39:43,509
+<i>her name's daphne.</i>
+
+748
+00:39:43,509 --> 00:39:44,867
+i gotta find her.
+
+749
+00:39:44,934 --> 00:39:46,333
+it's a big world.
+
+750
+00:39:46,400 --> 00:39:47,867
+lots of people.
+
+751
+00:39:47,934 --> 00:39:49,656
+you sent me
+on this journey.
+
+752
+00:39:49,656 --> 00:39:50,400
+come on.
+
+753
+00:39:50,467 --> 00:39:52,367
+you must find your totem.
+
+754
+00:39:52,433 --> 00:39:55,700
+a spirit guide that attaches
+to your subconscious.
+
+755
+00:39:55,767 --> 00:39:58,233
+it will lead you
+on your journey.
+
+756
+00:39:58,300 --> 00:40:00,734
+what is that, some african,
+mystical, mojo thing?
+
+757
+00:40:00,800 --> 00:40:02,800
+carl jung.
+
+758
+00:40:02,867 --> 00:40:04,467
+analytical psychology.
+
+759
+00:40:06,100 --> 00:40:08,500
+you don't read much, do you?
+
+760
+00:40:08,567 --> 00:40:10,333
+all right.
+
+761
+00:40:10,400 --> 00:40:13,367
+what is this totem supposed
+to look like anyway?
+
+762
+00:40:13,433 --> 00:40:14,901
+usually an animal.
+
+763
+00:40:16,073 --> 00:40:18,137
+think about your dream...
+
+764
+00:40:18,834 --> 00:40:20,668
+and you'll find your guide.
+
+765
+00:40:48,367 --> 00:40:50,267
+where is kaito's
+part of the formula?
+
+766
+00:40:50,333 --> 00:40:52,267
+what's so important
+about this formula?
+
+767
+00:40:52,333 --> 00:40:55,901
+it can turn people like you
+into people like us.
+
+768
+00:40:55,967 --> 00:40:58,244
+<i>and that will lead to disaster.</i>
+
+769
+00:40:58,244 --> 00:40:59,767
+so the formula is gone.
+
+770
+00:40:59,834 --> 00:41:01,667
+stolen.
+
+771
+00:41:01,734 --> 00:41:04,267
+there were two parts
+to that formula.
+
+772
+00:41:04,333 --> 00:41:06,287
+they have both
+and we have lost.
+
+773
+00:41:07,934 --> 00:41:09,949
+your father
+loved you dearly, hiro.
+
+774
+00:41:09,949 --> 00:41:13,139
+he had faith you would grow up
+to be a great man.
+
+775
+00:41:13,139 --> 00:41:14,934
+but he was mistaken.
+
+776
+00:41:15,001 --> 00:41:18,267
+and his folly will be
+the downfall of us all.
+
+777
+00:41:18,333 --> 00:41:19,827
+i am sorry.
+
+778
+00:41:20,799 --> 00:41:22,467
+no, you're not.
+
+779
+00:41:22,534 --> 00:41:23,534
+i'm not?
+
+780
+00:41:23,600 --> 00:41:24,912
+<i>don't apologize to her.</i>
+
+781
+00:41:24,912 --> 00:41:26,129
+this is hiro nakamura.
+
+782
+00:41:26,129 --> 00:41:28,800
+he will not rest until
+that formula is safe.
+
+783
+00:41:28,867 --> 00:41:30,800
+what he said.
+
+784
+00:41:34,367 --> 00:41:35,967
+someone is manipulating us.
+
+785
+00:41:36,033 --> 00:41:37,600
+<i>someone powerful.</i>
+
+786
+00:41:37,667 --> 00:41:39,166
+<i>hidden.</i>
+
+787
+00:41:39,233 --> 00:41:40,934
+and they must be stopped.
+
+788
+00:41:41,001 --> 00:41:43,104
+i will find them
+and stop them.
+
+789
+00:41:43,104 --> 00:41:45,657
+actually,
+you're the only one who can.
+
+790
+00:41:45,657 --> 00:41:48,727
+you have the key to unlocking
+this entire mystery.
+
+791
+00:41:48,727 --> 00:41:49,800
+i do?
+
+792
+00:41:49,867 --> 00:41:50,867
+hmm?
+
+793
+00:42:01,234 --> 00:42:05,223
+if i knew i had the key-- 
+i wouldn't have buried it so deep.
+
+794
+00:42:06,589 --> 00:42:08,682
+are you sure this is a good idea?
+
+795
+00:42:08,789 --> 00:42:13,264
+no. but there's no turning back now.
+
+796
+00:42:24,186 --> 00:42:26,263
+hiro, you son of a-
+
+797
+00:42:26,263 --> 00:42:31,047
+<font color="#4096d1">破烂熊字幕组
+-==http://www.ragbear.com==-
+欢迎加入</font>
+

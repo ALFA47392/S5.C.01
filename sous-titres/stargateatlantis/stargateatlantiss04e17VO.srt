@@ -1,0 +1,2870 @@
+1
+00:00:00,477 --> 00:00:02,125
+<i>Previously on Stargate Atlantis.</i>
+
+2
+00:00:02,245 --> 00:00:03,895
+<i>I give you the</i>
+
+3
+00:00:04,015 --> 00:00:07,052
+<i>McKay-Carter
+Intergalactic Gate Bridge.</i>
+
+4
+00:00:07,726 --> 00:00:11,115
+34 Gates from both the Milky Way
+and Pegasus Gate systems
+
+5
+00:00:11,235 --> 00:00:14,726
+have been strategically placed in the
+massive void between our two galaxies.
+
+6
+00:00:14,886 --> 00:00:18,188
+<i>A macro that I have written
+specially for the occasion</i>
+
+7
+00:00:18,348 --> 00:00:20,696
+will command each Gate in the chain
+
+8
+00:00:20,816 --> 00:00:23,360
+to store you in its buffer
+and forward you along to the next...
+
+9
+00:00:23,520 --> 00:00:25,005
+<i>and the next and the next...</i>
+
+10
+00:00:25,125 --> 00:00:27,031
+<i>until you arrive here.</i>
+
+11
+00:00:27,583 --> 00:00:29,325
+<i>Once at the Midway Space Station,</i>
+
+12
+00:00:29,445 --> 00:00:31,917
+<i>you simply exit
+the Pegasus Gate system</i>
+
+13
+00:00:32,157 --> 00:00:34,076
+<i>and enter the Milky Way
+Gate system, where</i>
+
+14
+00:00:34,196 --> 00:00:36,576
+<i>a similar macro
+designed by yours truly</i>
+
+15
+00:00:36,696 --> 00:00:38,615
+<i>will forward you along to the SGC.</i>
+
+16
+00:00:38,735 --> 00:00:40,356
+<i>The program is completely secure.</i>
+
+17
+00:00:40,476 --> 00:00:42,379
+<i>No need for a shield or an iris.</i>
+
+18
+00:00:42,615 --> 00:00:45,605
+Total travel time...
+a little over 30 minutes.
+
+19
+00:00:45,855 --> 00:00:47,102
+You applause.
+
+20
+00:00:50,204 --> 00:00:51,638
+<i>Welcome back, Teyla.</i>
+
+21
+00:00:51,798 --> 00:00:54,094
+<i>Thank you.
+Believe me, it's good to be back.</i>
+
+22
+00:00:54,214 --> 00:00:56,425
+<i>So, what's new on Earth?</i>
+
+23
+00:00:56,545 --> 00:00:57,847
+<i>I wouldn't know.</i>
+
+24
+00:00:58,015 --> 00:01:01,272
+<i>I saw nothing beyond the walls
+of Stargate Command for two days.</i>
+
+25
+00:01:01,432 --> 00:01:04,866
+- How'd the interview go?
+- Exactly as you said it would.
+
+26
+00:01:04,986 --> 00:01:07,626
+The new member of the IOA,
+Mr. Coolidge,
+
+27
+00:01:07,746 --> 00:01:11,745
+was somewhat brusque and arrogant.
+
+28
+00:01:12,324 --> 00:01:14,994
+He insisted on doing
+most of the questioning himself.
+
+29
+00:01:15,154 --> 00:01:17,956
+I thought he would. These interviews
+were the first item on his agenda.
+
+30
+00:01:18,555 --> 00:01:20,875
+Don't worry, just a new guy
+marking his territory.
+
+31
+00:01:20,995 --> 00:01:24,135
+Yes, well, he is clearly
+distrustful of aliens
+
+32
+00:01:24,375 --> 00:01:25,964
+participating in any aspect
+
+33
+00:01:26,124 --> 00:01:27,486
+of the Sargate Program,
+
+34
+00:01:27,606 --> 00:01:29,235
+let alone being active team members.
+
+35
+00:01:29,355 --> 00:01:31,256
+You changed his mind, right?
+
+36
+00:01:31,376 --> 00:01:32,220
+I hope so.
+
+37
+00:01:32,924 --> 00:01:35,120
+Although he did seem distracted
+
+38
+00:01:35,240 --> 00:01:37,142
+<i>- by my current condition.
+- Really?</i>
+
+39
+00:01:37,385 --> 00:01:40,666
+<i>- I informed the IOA of your pregnancy.
+- Yes, they knew,</i>
+
+40
+00:01:40,786 --> 00:01:44,786
+and most of the members were actually
+quite supportive. But Mr. Coolidge...
+
+41
+00:01:45,026 --> 00:01:47,216
+His demeanor toward women differs
+
+42
+00:01:47,336 --> 00:01:49,054
+from his demeanor toward men.
+
+43
+00:01:49,174 --> 00:01:51,406
+He kept calling me "Honey".
+
+44
+00:01:53,085 --> 00:01:55,243
+I admit, the urge to inflict harm
+
+45
+00:01:55,403 --> 00:01:58,016
+on this man was quite strong, but
+
+46
+00:01:58,215 --> 00:02:01,067
+- I managed to refrain from doing so.
+- Good call.
+
+47
+00:02:01,187 --> 00:02:04,753
+Bad idea to run around beating the crap
+out of people with a baby on the way.
+
+48
+00:02:05,465 --> 00:02:08,006
+In the end, I don't think
+he will have a problem with me,
+
+49
+00:02:08,485 --> 00:02:10,717
+mainly because I think
+he believes I will not be
+
+50
+00:02:10,877 --> 00:02:13,086
+returning to active duty
+after my child is born.
+
+51
+00:02:13,206 --> 00:02:14,554
+Won't he be surprised?
+
+52
+00:02:17,175 --> 00:02:19,434
+Well, we'll cross that bridge
+when we come to it.
+
+53
+00:02:19,594 --> 00:02:22,103
+<i>In the meantime, it's important
+that we get through these interviews</i>
+
+54
+00:02:22,263 --> 00:02:24,350
+as smoothly as possible
+and not create any waves.
+
+55
+00:02:24,470 --> 00:02:26,275
+I'll inform you
+when the report comes in.
+
+56
+00:02:26,395 --> 00:02:27,493
+Thank you.
+
+57
+00:02:34,215 --> 00:02:35,916
+Are you thinking what I'm thinking?
+
+58
+00:02:36,036 --> 00:02:39,325
+- Ronon's up next.
+- Big waves. We're talking tsunamis.
+
+59
+00:02:39,445 --> 00:02:40,756
+I've thought about that.
+
+60
+00:02:40,876 --> 00:02:42,436
+His interview's not for three days,
+
+61
+00:02:42,556 --> 00:02:45,174
+so I've asked somebody
+to come to Atlantis and...
+
+62
+00:02:45,294 --> 00:02:46,294
+"coach" him.
+
+63
+00:02:47,485 --> 00:02:48,292
+Who?
+
+64
+00:02:56,437 --> 00:02:57,441
+Teal'c.
+
+65
+00:02:58,826 --> 00:03:00,130
+Colonel Carter.
+
+66
+00:03:00,835 --> 00:03:02,340
+Welcome to Atlantis.
+
+67
+00:03:07,350 --> 00:03:10,584
+The Projet-SG & SG-66 Teams
+
+68
+00:03:14,909 --> 00:03:18,339
+present:
+
+69
+00:03:21,072 --> 00:03:23,039
+Season 4 Episode 17
+Midway (v. 1.00)
+
+70
+00:03:25,742 --> 00:03:28,493
+Transcription by:
+
+71
+00:03:30,676 --> 00:03:33,836
+swsub.com
+
+72
+00:03:36,463 --> 00:03:39,337
+Timing by:
+
+73
+00:03:44,500 --> 00:03:47,461
+Golgi, IceFre@k, Linwelin,
+Pikes, Shaft.
+
+74
+00:03:59,152 --> 00:04:01,744
+www.Projet-SG.net
+www.SeriesTele.net
+
+75
+00:04:09,156 --> 00:04:11,648
+<i>So, Teal'c, the... hair...</i>
+
+76
+00:04:13,355 --> 00:04:15,296
+- You do not like it?
+- No, I love it.
+
+77
+00:04:15,416 --> 00:04:17,125
+It's very... Earth.
+
+78
+00:04:19,687 --> 00:04:22,055
+This city is much larger
+than I had expected.
+
+79
+00:04:22,175 --> 00:04:23,915
+It's a remarkable feat of engineering.
+
+80
+00:04:24,035 --> 00:04:26,044
+The Ancients really knew
+what they were doing.
+
+81
+00:04:26,164 --> 00:04:27,265
+Indeed.
+
+82
+00:04:29,476 --> 00:04:31,274
+You look well, Colonel Carter.
+
+83
+00:04:31,394 --> 00:04:33,926
+- Command has been good to you.
+- Thanks, Teal'c.
+
+84
+00:04:34,046 --> 00:04:35,595
+It takes some getting used to.
+
+85
+00:04:35,715 --> 00:04:39,217
+The military protocol's
+pretty relaxed, but I like it here.
+
+86
+00:04:51,675 --> 00:04:52,776
+Is that him?
+
+87
+00:04:54,115 --> 00:04:55,735
+Yep. That's him.
+
+88
+00:04:57,017 --> 00:04:58,118
+Come on.
+
+89
+00:05:00,844 --> 00:05:03,636
+Ronon Dex, I'd like you
+to meet Teal'c of the Jaffa.
+
+90
+00:05:03,756 --> 00:05:05,995
+He's the one I was telling you about.
+
+91
+00:05:06,115 --> 00:05:08,738
+It is a pleasure to meet you,
+Ronon Dex.
+
+92
+00:05:09,126 --> 00:05:11,730
+Colonel Carter has
+spoken highly of you.
+
+93
+00:05:16,166 --> 00:05:17,267
+Anyway...
+
+94
+00:05:17,816 --> 00:05:20,456
+Like I said, you two are similar
+in many ways,
+
+95
+00:05:20,576 --> 00:05:22,875
+so you should have a lot in common.
+
+96
+00:05:24,005 --> 00:05:26,025
+Teal'c was a member
+of SG-1 for over 10 years.
+
+97
+00:05:26,145 --> 00:05:28,122
+He knows all about
+dealing with the IOA.
+
+98
+00:05:28,786 --> 00:05:30,375
+<i>Which is why I thought</i>
+
+99
+00:05:30,795 --> 00:05:33,878
+he could pass along a few pointers,
+help you prep for the big interview.
+
+100
+00:05:38,146 --> 00:05:39,175
+Colonel Carter?
+
+101
+00:05:40,405 --> 00:05:41,386
+Yeah?
+
+102
+00:05:41,546 --> 00:05:44,347
+Perhaps you could leave us
+to become better acquainted.
+
+103
+00:05:44,996 --> 00:05:45,896
+Sure.
+
+104
+00:05:48,645 --> 00:05:49,745
+Have fun.
+
+105
+00:05:57,145 --> 00:05:59,247
+Do you not speak, Ronon Dex?
+
+106
+00:06:01,326 --> 00:06:03,530
+Not when I've got nothing to say.
+
+107
+00:06:21,994 --> 00:06:23,076
+This is it.
+
+108
+00:06:23,196 --> 00:06:24,262
+Get to work.
+
+109
+00:06:46,625 --> 00:06:47,924
+May I join you?
+
+110
+00:06:52,231 --> 00:06:53,726
+Salisbury steak.
+
+111
+00:06:54,413 --> 00:06:57,217
+We are often served this
+in the SGC mess hall.
+
+112
+00:06:58,281 --> 00:07:01,699
+I must confess, however,
+that I am partial to the tater tots...
+
+113
+00:07:03,195 --> 00:07:05,595
+I don't need a coach teaching me
+how to act during the interview.
+
+114
+00:07:06,108 --> 00:07:07,939
+I've dealt with the IOA before.
+
+115
+00:07:09,429 --> 00:07:12,496
+The IOA is comprised
+of more than just Mr. Woolsey.
+
+116
+00:07:13,587 --> 00:07:16,481
+Their new member, Mr. Coolidge,
+is far less pleasant.
+
+117
+00:07:16,895 --> 00:07:18,827
+Oh, well, I can handle him.
+
+118
+00:07:19,393 --> 00:07:20,526
+I'll stay calm,
+
+119
+00:07:21,006 --> 00:07:22,769
+answer all his questions.
+
+120
+00:07:24,163 --> 00:07:25,858
+I know how to play the game.
+
+121
+00:07:26,763 --> 00:07:28,567
+<i>I am pleased to hear that.</i>
+
+122
+00:07:30,276 --> 00:07:31,233
+Very well.
+
+123
+00:07:31,807 --> 00:07:33,682
+Let us speak of other things.
+
+124
+00:07:34,700 --> 00:07:35,561
+Such as?
+
+125
+00:07:36,244 --> 00:07:37,663
+Tell me of Sateda.
+
+126
+00:07:41,583 --> 00:07:42,799
+What do you want to know?
+
+127
+00:07:43,578 --> 00:07:45,343
+When did the Wraith destroy it?
+
+128
+00:07:48,379 --> 00:07:49,180
+Years ago.
+
+129
+00:07:49,609 --> 00:07:51,641
+Your army was unable to fight?
+
+130
+00:07:51,946 --> 00:07:53,357
+Oh, we fought back.
+
+131
+00:07:53,846 --> 00:07:55,144
+The battle lasted days.
+
+132
+00:07:55,578 --> 00:07:57,605
+And when you finally surrendered,
+
+133
+00:07:58,166 --> 00:08:00,260
+<i>- What did the Wraith do...
+- We didn't surrender.</i>
+
+134
+00:08:00,380 --> 00:08:03,611
+We fought until every last one of us
+was either dead or captured.
+
+135
+00:08:03,944 --> 00:08:05,393
+So tell me, then...
+
+136
+00:08:05,964 --> 00:08:07,648
+Is it true that negligence on your part
+
+137
+00:08:07,768 --> 00:08:10,409
+is what first alerted the Wraith
+to your presence?
+
+138
+00:08:10,569 --> 00:08:12,813
+That your reckless actions
+brought about the deaths
+
+139
+00:08:12,933 --> 00:08:15,790
+of thousands of innocent people...
+
+140
+00:08:16,608 --> 00:08:17,625
+That's a lie!
+
+141
+00:08:19,123 --> 00:08:20,628
+Indeed it is.
+
+142
+00:08:22,067 --> 00:08:24,966
+<i>Yet should such a question arise
+during your interview,</i>
+
+143
+00:08:25,675 --> 00:08:28,658
+I trust you will not respond
+in a similar manner.
+
+144
+00:08:29,488 --> 00:08:32,098
+You do, after all,
+know how to play the game.
+
+145
+00:08:32,440 --> 00:08:33,247
+<i>Ronon!</i>
+
+146
+00:08:34,468 --> 00:08:35,270
+Put...
+
+147
+00:08:35,390 --> 00:08:36,390
+the gun...
+
+148
+00:08:36,755 --> 00:08:37,575
+away.
+
+149
+00:08:42,579 --> 00:08:43,905
+What's the problem here?
+
+150
+00:08:44,083 --> 00:08:45,985
+There is no problem, Colonel Sheppard.
+
+151
+00:08:46,105 --> 00:08:48,296
+Well, that's good to hear. Ronon?
+
+152
+00:08:53,299 --> 00:08:54,393
+All right...
+
+153
+00:08:55,513 --> 00:08:57,646
+Why don't you take Teal'c
+down to the gym,
+
+154
+00:08:57,766 --> 00:08:59,333
+show him your fighting techniques?
+
+155
+00:09:00,019 --> 00:09:02,336
+<i>I'm sure you guys
+could give each other a few tips.</i>
+
+156
+00:09:13,387 --> 00:09:14,975
+Colonel, come to place a bet?
+
+157
+00:09:15,095 --> 00:09:17,643
+- What's going on here?
+- Friendly sparring match.
+
+158
+00:09:21,057 --> 00:09:22,553
+It looks anything but friendly.
+
+159
+00:09:22,673 --> 00:09:25,234
+No, it's good for 'em.
+They're just blowing off some steam.
+
+160
+00:09:29,398 --> 00:09:30,990
+Go! Go! Go!
+
+161
+00:09:31,150 --> 00:09:33,117
+- How long have they been at it?
+- About an hour.
+
+162
+00:09:33,278 --> 00:09:34,169
+An hour?
+
+163
+00:09:34,289 --> 00:09:35,809
+<i>They're not even taking any breaks.</i>
+
+164
+00:09:35,929 --> 00:09:37,344
+They are now!
+
+165
+00:09:37,464 --> 00:09:39,763
+I don't think that's a good idea...
+
+166
+00:09:39,883 --> 00:09:41,537
+Okay, that's enough!
+
+167
+00:10:02,494 --> 00:10:04,015
+Ronon! Teal'c! Stop!
+
+168
+00:10:06,686 --> 00:10:08,110
+Let's call it a draw.
+
+169
+00:10:29,698 --> 00:10:31,095
+Why does he have to go with me?
+
+170
+00:10:31,215 --> 00:10:33,448
+He's not actually going with you.
+He's returning home.
+
+171
+00:10:33,568 --> 00:10:35,665
+He just happens to be traveling
+at the same time.
+
+172
+00:10:35,785 --> 00:10:38,289
+One less dial-in
+on the intergalactic bridge.
+
+173
+00:10:38,409 --> 00:10:41,294
+That's the other thing. Why don't we
+just dial Earth directly from here?
+
+174
+00:10:41,414 --> 00:10:44,104
+We need a ZPM for that, and
+we don't want to waste the extra power.
+
+175
+00:10:44,224 --> 00:10:46,704
+That was the whole point
+of the Gate bridge in the first place.
+
+176
+00:10:46,824 --> 00:10:49,344
+But there's a 24-hour quarantine
+on the Midway station.
+
+177
+00:10:49,464 --> 00:10:51,517
+Well, you're just going
+to have to sit around a bit,
+
+178
+00:10:51,637 --> 00:10:53,141
+all right? Look.
+
+179
+00:10:53,805 --> 00:10:57,610
+The guy's got years of experience.
+He's, like, 100 years old or something.
+
+180
+00:10:57,992 --> 00:10:59,578
+It won't kill you to listen to him.
+
+181
+00:11:00,466 --> 00:11:01,539
+Be a good boy.
+
+182
+00:11:02,868 --> 00:11:03,874
+I hate you.
+
+183
+00:11:04,171 --> 00:11:06,593
+I'm sorry about breaking up
+the sparring match earlier,
+
+184
+00:11:06,713 --> 00:11:09,065
+but if I didn't, you two would probably
+still be fighting.
+
+185
+00:11:10,461 --> 00:11:13,017
+Listen, I know
+that Ronon's been resistant,
+
+186
+00:11:13,287 --> 00:11:15,993
+but I really appreciate
+you coming here and helping us out.
+
+187
+00:11:16,113 --> 00:11:17,920
+I too wish him to succeed.
+
+188
+00:11:18,040 --> 00:11:20,331
+- There is great potential in him.
+- I agree.
+
+189
+00:11:21,697 --> 00:11:22,668
+All set?
+
+190
+00:11:22,955 --> 00:11:24,353
+Let's get this over with.
+
+191
+00:11:28,650 --> 00:11:30,675
+<i>- Dial the bridge, Chuck.
+- Yes, Ma'am.</i>
+
+192
+00:11:33,059 --> 00:11:35,669
+It gives me great pride
+to see how the people of this expedition
+
+193
+00:11:35,789 --> 00:11:37,692
+have embraced you as their leader.
+
+194
+00:11:37,812 --> 00:11:39,256
+As I knew they would.
+
+195
+00:11:39,810 --> 00:11:41,109
+Thanks, Teal'c.
+
+196
+00:11:50,810 --> 00:11:52,546
+The Portal's activating!
+
+197
+00:11:57,479 --> 00:11:59,423
+<i>The patterns are stored in the buffer.</i>
+
+198
+00:11:59,543 --> 00:12:01,265
+<i>The Portal should re-dial momentarily.</i>
+
+199
+00:12:08,099 --> 00:12:09,575
+<i>Incoming Pegasus activation.</i>
+
+200
+00:12:30,337 --> 00:12:32,004
+<i>Right on schedule.</i>
+
+201
+00:12:32,409 --> 00:12:33,948
+I'm going to go get them settled in.
+
+202
+00:12:34,068 --> 00:12:37,671
+You can get started on the attitude
+stabilization diagnostics.
+
+203
+00:12:38,053 --> 00:12:39,553
+I thought Dempster was doing that.
+
+204
+00:12:39,953 --> 00:12:41,722
+- Why do I have to do that?
+- You don't.
+
+205
+00:12:41,893 --> 00:12:44,091
+- I want you to do it.
+- I just finished five hours
+
+206
+00:12:44,211 --> 00:12:46,857
+- of power-distribution upgrades.
+- You chose to be here.
+
+207
+00:12:46,977 --> 00:12:48,508
+- No, I didn't.
+- Yes, you did.
+
+208
+00:12:48,628 --> 00:12:51,515
+Regardless, I want you to learn
+everything about this station,
+
+209
+00:12:51,635 --> 00:12:54,766
+and the sooner you do that, the sooner
+I get to hand you the reins and go home.
+
+210
+00:12:56,308 --> 00:12:58,144
+You're not the only one
+who wants to go home.
+
+211
+00:12:58,264 --> 00:12:59,827
+I heard that.
+
+212
+00:13:01,669 --> 00:13:02,580
+Gentlemen!
+
+213
+00:13:02,700 --> 00:13:05,349
+Welcome to the Midway station,
+half-way point between
+
+214
+00:13:05,469 --> 00:13:07,071
+the Pegasus and Milky Way galaxies.
+
+215
+00:13:07,191 --> 00:13:08,916
+Yeah, we know. We've been here before.
+
+216
+00:13:09,036 --> 00:13:12,388
+Of course. So then you also know
+about the 24-hour quarantine
+
+217
+00:13:12,508 --> 00:13:14,900
+before we can let you carry on to Earth?
+
+218
+00:13:15,228 --> 00:13:17,891
+Don't want to pass on
+any of those pesky Pegasus germs
+
+219
+00:13:18,011 --> 00:13:19,543
+to the folks back home.
+
+220
+00:13:19,952 --> 00:13:22,566
+Why don't I just
+show you to your quarters?
+
+221
+00:13:22,686 --> 00:13:24,896
+Unfortunately,
+you're going to have to share.
+
+222
+00:13:25,016 --> 00:13:27,101
+As you know, there's not
+much room on the station.
+
+223
+00:13:27,354 --> 00:13:29,599
+There's a DVD player and a few movies.
+
+224
+00:13:29,719 --> 00:13:32,726
+Oh! We sawn Orbit the other day.
+It's actually... It's kind of funny.
+
+225
+00:13:32,846 --> 00:13:34,599
+There's some sudoku books...
+
+226
+00:13:34,719 --> 00:13:37,368
+Although I think...
+No, they're all solved.
+
+227
+00:13:38,548 --> 00:13:41,309
+Like I said, it's a bit small, but...
+
+228
+00:13:41,705 --> 00:13:46,120
+You're only here for a day,
+so kick back, relax, have an earl grey,
+
+229
+00:13:46,240 --> 00:13:49,250
+and get to know each other better,
+or... not.
+
+230
+00:14:07,310 --> 00:14:10,035
+I have deciphered the program.
+
+231
+00:14:10,640 --> 00:14:12,879
+Prepare the first wave!
+
+232
+00:14:18,705 --> 00:14:20,185
+How's it going?
+
+233
+00:14:21,073 --> 00:14:22,012
+Peachy.
+
+234
+00:14:22,810 --> 00:14:25,064
+You're bored. I get it.
+
+235
+00:14:25,184 --> 00:14:26,961
+Welcome to Midway.
+
+236
+00:14:28,681 --> 00:14:31,021
+- Are we expecting another dial-in?
+- No.
+
+237
+00:14:34,353 --> 00:14:36,778
+Unscheduled Pegasus activation.
+
+238
+00:14:43,170 --> 00:14:45,763
+- What the heck?
+- Oh, God! Wraith!
+
+239
+00:14:48,369 --> 00:14:49,796
+That's impossible!
+
+240
+00:15:12,336 --> 00:15:14,021
+What are the Wraith doing here?
+
+241
+00:15:14,141 --> 00:15:16,289
+I was about to ask the same question.
+
+242
+00:15:21,208 --> 00:15:22,147
+Stop!
+
+243
+00:15:34,666 --> 00:15:35,851
+Dial Earth.
+
+244
+00:15:47,719 --> 00:15:48,818
+What's going on?
+
+245
+00:15:48,938 --> 00:15:50,707
+The intergalactic bridge is down.
+
+246
+00:15:50,827 --> 00:15:52,404
+- How'd that happen?
+- I don't know.
+
+247
+00:15:52,524 --> 00:15:54,849
+We were sending the daily status
+report to the SGC,
+
+248
+00:15:54,969 --> 00:15:56,503
+and we can't connect to Midway.
+
+249
+00:15:56,623 --> 00:15:58,764
+<i>Some kind of malfunction
+either in one of the Gates</i>
+
+250
+00:15:58,884 --> 00:16:00,245
+<i>or the call-forwarding macro.</i>
+
+251
+00:16:00,365 --> 00:16:02,315
+Probably just a glitch.
+Simple software hiccup.
+
+252
+00:16:02,435 --> 00:16:03,733
+- Hiccup?
+- We hope.
+
+253
+00:16:05,825 --> 00:16:06,828
+Ronon and Teal'c?
+
+254
+00:16:06,948 --> 00:16:09,382
+The malfunction occurred several
+minutes after they went through.
+
+255
+00:16:09,502 --> 00:16:10,946
+I'm sure they made it to Midway.
+
+256
+00:16:11,066 --> 00:16:13,475
+<i>- But we can't be absolutely certain.
+- Those Gates are in space.</i>
+
+257
+00:16:13,635 --> 00:16:15,227
+<i>- If they walked through...
+- No, no.</i>
+
+258
+00:16:15,387 --> 00:16:18,606
+Look, the glitch occurred
+at M4F-788, that is a planetary
+
+259
+00:16:18,766 --> 00:16:20,649
+<i>Gate at the edge of the Pegasus galaxy,</i>
+
+260
+00:16:20,809 --> 00:16:23,112
+which means worst-case scenario,
+they step through the puddle
+
+261
+00:16:23,232 --> 00:16:25,759
+and they found themselves stranded
+on an uninhabited planet.
+
+262
+00:16:26,557 --> 00:16:28,999
+Stranded. More time together.
+Just what they need.
+
+263
+00:16:37,112 --> 00:16:38,881
+All right, we need to secure
+the Gate room.
+
+264
+00:16:39,001 --> 00:16:41,076
+No. We must get to the control room.
+
+265
+00:16:42,024 --> 00:16:43,864
+More Wraith can get
+through the Gate.
+
+266
+00:16:43,984 --> 00:16:46,145
+They cannot use the Stargate
+without the control room.
+
+267
+00:16:46,265 --> 00:16:47,697
+It is best if we just keep...
+
+268
+00:16:55,410 --> 00:16:56,318
+This way.
+
+269
+00:17:01,858 --> 00:17:02,952
+What's wrong?
+
+270
+00:17:03,767 --> 00:17:05,603
+I cannot activate the Portal.
+
+271
+00:17:06,565 --> 00:17:08,770
+A lockout command
+has been initiated.
+
+272
+00:17:08,890 --> 00:17:11,512
+It's preventing me from accessing
+the controls.
+
+273
+00:17:11,806 --> 00:17:12,831
+Override it.
+
+274
+00:17:13,992 --> 00:17:15,079
+I'm trying...
+
+275
+00:17:15,985 --> 00:17:17,539
+It requires a code.
+
+276
+00:17:20,498 --> 00:17:21,787
+What is the code?
+
+277
+00:17:22,496 --> 00:17:23,680
+We don't know.
+
+278
+00:17:25,062 --> 00:17:26,001
+Honestly.
+
+279
+00:17:26,698 --> 00:17:29,083
+We don't know.
+There's only a handful of people
+
+280
+00:17:29,203 --> 00:17:32,806
+who know that specific code,
+for obvious security reasons, and...
+
+281
+00:17:33,434 --> 00:17:34,848
+None are on the base right now.
+
+282
+00:17:35,220 --> 00:17:36,684
+You initiated the lockout?
+
+283
+00:17:37,361 --> 00:17:39,399
+Well, it's not really a matter
+of who initiated it.
+
+284
+00:17:39,519 --> 00:17:41,230
+- It's standard protocol...
+- Did you?
+
+285
+00:17:41,633 --> 00:17:43,919
+But, I mean, yeah it was me, but...
+
+286
+00:17:44,039 --> 00:17:45,901
+like I said, initiating it and
+
+287
+00:17:46,061 --> 00:17:48,070
+overriding it are
+two entirely separate...
+
+288
+00:17:48,230 --> 00:17:49,168
+Silence!
+
+289
+00:17:53,338 --> 00:17:55,615
+Keep working.
+Find a way around it.
+
+290
+00:17:56,266 --> 00:17:57,560
+It will take time.
+
+291
+00:17:57,776 --> 00:17:59,915
+- The interface has several...
+- The more you speak
+
+292
+00:18:00,075 --> 00:18:01,938
+the less time you have.
+
+293
+00:18:03,349 --> 00:18:04,826
+In the meantime,
+
+294
+00:18:05,326 --> 00:18:08,464
+perhaps I can find a way
+to persuade you
+
+295
+00:18:08,756 --> 00:18:10,609
+to give me that code.
+
+296
+00:18:15,502 --> 00:18:16,598
+<i>We've got a lock.</i>
+
+297
+00:18:17,146 --> 00:18:18,144
+Finally.
+
+298
+00:18:18,264 --> 00:18:20,412
+Yeah, seems someone
+dialing out from 788,
+
+299
+00:18:20,532 --> 00:18:22,643
+which was preventing us
+from dialing in, until now.
+
+300
+00:18:22,763 --> 00:18:24,399
+- Ronon and Teal'c?
+- Oh, I doubt it.
+
+301
+00:18:24,519 --> 00:18:26,862
+Look, even if the malfunction
+spat them out on the planet,
+
+302
+00:18:26,982 --> 00:18:29,389
+the only logical address
+they would dial is back to Atlantis,
+
+303
+00:18:29,509 --> 00:18:30,870
+which as we know, they didn't.
+
+304
+00:18:30,990 --> 00:18:32,781
+Maybe it's them and
+they can't get a lock.
+
+305
+00:18:34,297 --> 00:18:36,099
+Ronon, Teal'c.
+Are you there?
+
+306
+00:18:38,924 --> 00:18:41,768
+Ronon, Teal'c, this is Colonel Carter.
+Please respond.
+
+307
+00:18:42,396 --> 00:18:44,421
+I'm telling you, they made it
+to the Midway station
+
+308
+00:18:44,541 --> 00:18:46,211
+before the malfunction.
+I'm sure of it.
+
+309
+00:18:46,713 --> 00:18:47,713
+<i>Wait a minute.</i>
+
+310
+00:18:48,395 --> 00:18:51,154
+- Didn't you say 788 is uninhabited?
+- It is.
+
+311
+00:18:51,274 --> 00:18:54,094
+All right, if it's not Ronon and Teal'c,
+then who dialed out?
+
+312
+00:19:01,229 --> 00:19:02,740
+The malp is through.
+
+313
+00:19:03,023 --> 00:19:04,513
+Receiving telemetry.
+
+314
+00:19:05,395 --> 00:19:06,854
+Visual coming in now.
+
+315
+00:19:11,769 --> 00:19:13,775
+See? No Ronon, no Teal'c.
+
+316
+00:19:14,022 --> 00:19:15,032
+Pan left.
+
+317
+00:19:20,210 --> 00:19:21,371
+<i>That's Wraith tech.</i>
+
+318
+00:19:22,208 --> 00:19:23,456
+It's hooked up to the DHD.
+
+319
+00:19:23,617 --> 00:19:24,637
+Pan right.
+
+320
+00:19:31,836 --> 00:19:32,674
+Oh, crap.
+
+321
+00:19:37,463 --> 00:19:38,716
+We lost the feed.
+
+322
+00:19:38,836 --> 00:19:41,141
+Not to mention the malp.
+Shut down the Gate.
+
+323
+00:19:41,301 --> 00:19:43,727
+Is it possible for them to have
+hijacked the intergalactic bridge?
+
+324
+00:19:43,847 --> 00:19:45,579
+That's a hell of a lot more
+than a hiccup.
+
+325
+00:19:45,699 --> 00:19:47,746
+No impossible. They'd have
+to know about the bridge,
+
+326
+00:19:47,866 --> 00:19:50,016
+And if they did, there're too many
+security barriers.
+
+327
+00:19:50,136 --> 00:19:52,896
+The encryption I used in the call
+forwarding macros would take years to...
+
+328
+00:19:53,016 --> 00:19:54,738
+- What if they knew the passwords?
+- How?
+
+329
+00:19:54,898 --> 00:19:56,544
+We just had a Wraith
+on base, Rodney,
+
+330
+00:19:56,664 --> 00:19:58,645
+working with you, side by side,
+on your computers.
+
+331
+00:19:58,819 --> 00:20:00,565
+You mean Todd?
+He was our ally.
+
+332
+00:20:00,685 --> 00:20:03,522
+Look, and even if he wanted to, there's
+no way he could hack into my system...
+
+333
+00:20:03,642 --> 00:20:05,582
+<i>- Could he?
+- You saw the tech hooked up</i>
+
+334
+00:20:05,742 --> 00:20:07,584
+to the DHD.
+What else could they be up to?
+
+335
+00:20:09,246 --> 00:20:10,465
+We have to get to Midway.
+
+336
+00:20:10,585 --> 00:20:13,006
+The daedalus's back on Earth.
+Is there another way to get there?
+
+337
+00:20:13,166 --> 00:20:15,384
+Connect to the bridge
+via another Gate in Pegasus?
+
+338
+00:20:15,544 --> 00:20:17,177
+We have to find one
+close to the edge.
+
+339
+00:20:21,147 --> 00:20:23,706
+M6R-125. We could connect
+to the bridge through that but,
+
+340
+00:20:23,826 --> 00:20:25,936
+<i>- I'd need to reconfigure the macros.
+- OK, get on it.</i>
+
+341
+00:20:26,203 --> 00:20:28,306
+Colonel, prepare a strike force.
+
+342
+00:20:40,170 --> 00:20:42,953
+Honestly, if I knew the code,
+I would have given it to you by now.
+
+343
+00:20:43,113 --> 00:20:45,247
+That depends on the strength
+of your allegiance.
+
+344
+00:20:45,407 --> 00:20:47,714
+No, no, trust me!
+My allegiance is not that strong.
+
+345
+00:20:47,834 --> 00:20:48,834
+It really isn't.
+
+346
+00:20:48,994 --> 00:20:50,836
+<i>Please. Please!
+I'm begging you!</i>
+
+347
+00:20:56,293 --> 00:20:57,759
+I think he fainted.
+
+348
+00:20:58,641 --> 00:20:59,970
+Then you shall be next.
+
+349
+00:21:00,659 --> 00:21:02,389
+- Wait...
+- I've got it.
+
+350
+00:21:05,188 --> 00:21:08,061
+I've successfully gained access
+to override the lockout.
+
+351
+00:21:08,221 --> 00:21:08,985
+Good.
+
+352
+00:21:09,105 --> 00:21:10,147
+Dial the Portal.
+
+353
+00:21:21,219 --> 00:21:22,129
+In here.
+
+354
+00:21:30,410 --> 00:21:31,995
+They're heading to the Gate room.
+
+355
+00:21:32,115 --> 00:21:32,996
+Indeed.
+
+356
+00:21:35,833 --> 00:21:37,925
+If you want to go to the control room,
+go ahead...
+
+357
+00:21:38,045 --> 00:21:39,447
+I'm going after them.
+
+358
+00:21:39,567 --> 00:21:40,462
+Ronon!
+
+359
+00:21:42,833 --> 00:21:44,198
+Send the device.
+
+360
+00:21:45,556 --> 00:21:46,415
+Device?
+
+361
+00:21:47,165 --> 00:21:48,429
+What device?
+
+362
+00:21:49,566 --> 00:21:51,025
+<i>Offworld activation!</i>
+
+363
+00:21:53,811 --> 00:21:55,025
+Midway's IDC.
+
+364
+00:21:55,559 --> 00:21:56,851
+Opening the iris.
+
+365
+00:22:39,078 --> 00:22:40,570
+<i>All right, we're redirected.</i>
+
+366
+00:22:40,730 --> 00:22:43,227
+We gate from Atlantis to M6R-125.
+
+367
+00:22:43,347 --> 00:22:45,668
+We insert this crystal
+with the bridge macros
+
+368
+00:22:45,788 --> 00:22:48,230
+into the DHD,
+dial the first Gate in the void,
+
+369
+00:22:48,350 --> 00:22:50,238
+and we're back on track,
+all the way to Midway.
+
+370
+00:22:50,358 --> 00:22:52,627
+- Is your strike force ready?
+- As soon as McKay gears up,
+
+371
+00:22:52,747 --> 00:22:54,723
+- we're ready to go.
+- Well, I'm...
+
+372
+00:22:54,843 --> 00:22:56,594
+All right, I'm gearing up.
+
+373
+00:23:02,918 --> 00:23:04,590
+Prepare the next wave.
+
+374
+00:23:15,048 --> 00:23:16,613
+They have dialed the Milky Way Gate.
+
+375
+00:23:16,733 --> 00:23:18,675
+They're heading
+for Stargate Command.
+
+376
+00:23:18,795 --> 00:23:19,988
+We must pursue them.
+
+377
+00:23:20,108 --> 00:23:21,494
+Now you're talking.
+
+378
+00:23:27,982 --> 00:23:30,203
+Let's go before the Gate shuts down!
+
+379
+00:23:32,661 --> 00:23:34,374
+Shut it down! Now!
+
+380
+00:23:42,838 --> 00:23:44,783
+Two were able to pass through.
+
+381
+00:23:45,292 --> 00:23:47,447
+But they will be dispensed of
+soon enough.
+
+382
+00:23:47,567 --> 00:23:50,807
+<i>- Make ready the next...
+- The Pegasus Portal is activating!</i>
+
+383
+00:23:51,098 --> 00:23:54,188
+The next inbound wave was
+supposed to wait for my command.
+
+384
+00:24:09,369 --> 00:24:13,093
+Teams 3 and 4, take the lower level.
+Teams 1 and 2 with me, this way.
+
+385
+00:24:26,879 --> 00:24:29,270
+Yeah, they're alive,
+they're just stunned.
+
+386
+00:24:29,629 --> 00:24:31,323
+By this device, perhaps.
+
+387
+00:24:31,885 --> 00:24:32,900
+I don't know.
+
+388
+00:24:33,020 --> 00:24:34,947
+Never seen one of these before.
+
+389
+00:24:35,067 --> 00:24:37,975
+It appears other personnel
+have been disabled as well.
+
+390
+00:24:38,450 --> 00:24:41,646
+The question is how much of this base
+has been compromised?
+
+391
+00:24:42,569 --> 00:24:44,729
+And where the hell are the Wraith?
+
+392
+00:25:00,754 --> 00:25:02,087
+Ronon, Teal'c, come in!
+
+393
+00:25:05,381 --> 00:25:07,128
+Ronon, do you copy?
+
+394
+00:25:10,879 --> 00:25:11,879
+Shut the door.
+
+395
+00:25:24,011 --> 00:25:24,890
+Clear.
+
+396
+00:25:31,817 --> 00:25:32,867
+<i>Colonel Sheppard.</i>
+
+397
+00:25:33,942 --> 00:25:34,905
+Sheppard!
+
+398
+00:25:37,032 --> 00:25:39,541
+<i>You have no chance
+of retaking this station.</i>
+
+399
+00:25:39,702 --> 00:25:42,080
+<i>Therefore, it is
+in your best interests</i>
+
+400
+00:25:42,200 --> 00:25:43,758
+<i>to surrender immediately.</i>
+
+401
+00:25:43,878 --> 00:25:44,963
+Do I know you?
+
+402
+00:25:45,123 --> 00:25:46,550
+<i>Not personally, no.</i>
+
+403
+00:25:47,094 --> 00:25:49,009
+<i>But I know a great deal about you.</i>
+
+404
+00:25:49,444 --> 00:25:51,928
+<i>- You as well, Dr. McKay.
+- Who are you?</i>
+
+405
+00:25:52,088 --> 00:25:54,264
+An acquaintance of someone
+you recently worked with
+
+406
+00:25:54,630 --> 00:25:57,183
+to bring about the demise
+of those you referred to as
+
+407
+00:25:57,576 --> 00:25:58,760
+"Replicators."
+
+408
+00:25:59,983 --> 00:26:02,817
+It was from him that I was able
+to procure the necessary data
+
+409
+00:26:02,937 --> 00:26:04,149
+to commandeer this base.
+
+410
+00:26:04,464 --> 00:26:06,610
+It was Todd.
+That bastard hacked my system.
+
+411
+00:26:06,944 --> 00:26:08,346
+<i>So much for buddies.</i>
+
+412
+00:26:08,855 --> 00:26:09,660
+<i>So...</i>
+
+413
+00:26:10,035 --> 00:26:11,072
+<i>what's the plan?</i>
+
+414
+00:26:11,232 --> 00:26:12,880
+Take over Midway,
+and then what? Earth?
+
+415
+00:26:13,000 --> 00:26:14,200
+My warriors are securing
+
+416
+00:26:14,362 --> 00:26:17,162
+a beachhead in your command center
+as we speak.
+
+417
+00:26:17,442 --> 00:26:20,080
+Hate to break this to you,
+but the SGC is heavily fortified.
+
+418
+00:26:20,200 --> 00:26:21,750
+You're walking into a world of hurt.
+
+419
+00:26:22,755 --> 00:26:23,843
+<i>Not to worry.</i>
+
+420
+00:26:24,194 --> 00:26:26,313
+<i>We have ways of evening the odds.</i>
+
+421
+00:26:35,490 --> 00:26:36,314
+Look,
+
+422
+00:26:36,679 --> 00:26:39,059
+they're working their way
+to the surface, tryin' to get out.
+
+423
+00:26:40,612 --> 00:26:42,145
+They will be unable to do so.
+
+424
+00:26:43,506 --> 00:26:45,664
+A pulse of energy, no doubt
+from that Wraith device...
+
+425
+00:26:45,784 --> 00:26:48,121
+has triggered the SGC
+automatic lockdown.
+
+426
+00:26:48,567 --> 00:26:50,625
+So no one gets in,
+and no one gets out?
+
+427
+00:26:50,745 --> 00:26:51,571
+Indeed.
+
+428
+00:26:52,022 --> 00:26:53,638
+Just the way I like it.
+
+429
+00:26:58,981 --> 00:27:00,345
+We have activation.
+
+430
+00:27:01,355 --> 00:27:02,791
+That will be our reinforcements.
+
+431
+00:27:04,569 --> 00:27:05,298
+Soon,
+
+432
+00:27:05,418 --> 00:27:08,088
+it is you who will be in
+for a world of hurt.
+
+433
+00:27:08,400 --> 00:27:09,420
+<i>Oh, crap.</i>
+
+434
+00:27:10,443 --> 00:27:13,385
+<i>Listen, love to sit around and chat,
+but... gotta go.</i>
+
+435
+00:27:16,393 --> 00:27:18,378
+Take positions.
+Anything comes through the Gate,
+
+436
+00:27:18,498 --> 00:27:19,716
+- kill it.
+- Yes, Sir.
+
+437
+00:27:19,836 --> 00:27:22,022
+- You two, with me.
+- Where're we going?
+
+438
+00:27:22,142 --> 00:27:24,738
+To the control room,
+to shut down the Gate.
+
+439
+00:27:47,731 --> 00:27:48,878
+Oh, thank God.
+
+440
+00:27:49,693 --> 00:27:51,386
+<i>- Where's the head guy?
+- He left.</i>
+
+441
+00:27:51,506 --> 00:27:53,500
+Well, I can see that. Where'd he go?
+
+442
+00:27:53,620 --> 00:27:55,343
+I don't know. He just ran out.
+
+443
+00:27:55,594 --> 00:27:57,387
+McKay, we're in the clear!
+Get to work!
+
+444
+00:27:59,695 --> 00:28:00,948
+Where's Ronon and Teal'c?
+
+445
+00:28:01,068 --> 00:28:03,314
+They went through the Milky Way Gate
+on the way to the SGC,
+
+446
+00:28:03,434 --> 00:28:05,698
+- chasing after the Wraith.
+- All right. Here.
+
+447
+00:28:05,818 --> 00:28:07,385
+- What am I...
+- Get them inside.
+
+448
+00:28:07,505 --> 00:28:09,652
+Seal the door, shoot anything
+that tries to get through.
+
+449
+00:28:09,772 --> 00:28:12,453
+- Where are you going?
+- To go help those marines.
+
+450
+00:28:13,090 --> 00:28:14,840
+- Is he dead?
+- Fainted.
+
+451
+00:28:15,194 --> 00:28:16,989
+<i>- Figures.
+- You better wake him up.</i>
+
+452
+00:28:17,109 --> 00:28:18,575
+<i>- We got a problem.
+- What?</i>
+
+453
+00:28:19,175 --> 00:28:20,368
+Can't shut the Stargate.
+
+454
+00:28:20,818 --> 00:28:24,122
+I saw them inputting a lockout protocol
+just before you guys came in.
+
+455
+00:28:24,505 --> 00:28:25,613
+<i>Damn it!</i>
+
+456
+00:28:27,526 --> 00:28:30,628
+More Wraith coming through the Gate.
+We're about to get overrun.
+
+457
+00:28:45,709 --> 00:28:47,194
+Hester, come in, what's your 20?
+
+458
+00:28:47,314 --> 00:28:49,935
+<i>We're still outside the Gate room.
+We got a ton of Wraith coming through.</i>
+
+459
+00:28:50,055 --> 00:28:52,483
+<i>- Where are the other teams?
+- I lost contact with them.</i>
+
+460
+00:28:52,603 --> 00:28:55,046
+<i>I don't know how much longer
+we can hold 'em off here, Sir.</i>
+
+461
+00:28:55,166 --> 00:28:57,565
+Just hang on, McKay's trying
+to shut down the Gate.
+
+462
+00:28:59,093 --> 00:29:00,091
+Hester?
+
+463
+00:29:00,296 --> 00:29:01,225
+Hester!
+
+464
+00:29:01,882 --> 00:29:02,974
+Come in!
+
+465
+00:29:24,316 --> 00:29:25,902
+Fed on by the Wraith.
+
+466
+00:29:26,107 --> 00:29:27,979
+That's not a good way to go.
+
+467
+00:29:29,381 --> 00:29:30,420
+Indeed.
+
+468
+00:29:31,883 --> 00:29:33,345
+You say that a lot.
+
+469
+00:29:34,159 --> 00:29:36,078
+- What?
+- "Indeed."
+
+470
+00:29:38,534 --> 00:29:39,534
+Do I?
+
+471
+00:29:41,522 --> 00:29:43,148
+I had not noticed.
+
+472
+00:30:10,753 --> 00:30:13,065
+I would very much like
+to have a weapon such as this.
+
+473
+00:30:13,225 --> 00:30:14,115
+Yeah?
+
+474
+00:30:14,429 --> 00:30:15,276
+Get in line.
+
+475
+00:30:21,401 --> 00:30:22,742
+Rodney, talk to me.
+
+476
+00:30:23,285 --> 00:30:24,503
+Still working.
+
+477
+00:30:25,220 --> 00:30:27,038
+<i>I lost contact
+with Hester and the Marines.</i>
+
+478
+00:30:27,158 --> 00:30:28,781
+<i>I think they were killed.</i>
+
+479
+00:30:29,975 --> 00:30:31,850
+How long before you can
+get the Gate shut down?
+
+480
+00:30:31,970 --> 00:30:33,912
+I don't know,
+this is extremely complicated...
+
+481
+00:30:34,032 --> 00:30:35,452
+Try the critical systems bypass.
+
+482
+00:30:35,572 --> 00:30:37,506
+I have to figure out how
+to avoid any commands
+
+483
+00:30:37,667 --> 00:30:39,077
+<i>that may have been compromised.</i>
+
+484
+00:30:39,197 --> 00:30:41,029
+Hurry up!
+We got more Wraith on the way.
+
+485
+00:30:41,214 --> 00:30:43,036
+I'm working as fast as I can!
+
+486
+00:30:43,156 --> 00:30:46,265
+- You can bypass the critical systems.
+- Not now. Just watch the door.
+
+487
+00:30:46,425 --> 00:30:48,251
+Besides,
+even if I could shut down the Gate,
+
+488
+00:30:48,371 --> 00:30:50,094
+there's Wraith in all the base!
+
+489
+00:30:50,546 --> 00:30:52,688
+<i>We're completely outnumbered.
+It's just a matter of time</i>
+
+490
+00:30:52,848 --> 00:30:54,331
+<i>before they wipe us all out...</i>
+
+491
+00:30:55,536 --> 00:30:57,162
+The Gate just shut off.
+
+492
+00:30:59,322 --> 00:31:00,237
+What'd you do?
+
+493
+00:31:01,848 --> 00:31:04,158
+I shut it off,
+using the critical systems bypass.
+
+494
+00:31:04,318 --> 00:31:05,784
+Are you out of your mind?
+
+495
+00:31:05,944 --> 00:31:07,386
+What? It worked.
+
+496
+00:31:10,848 --> 00:31:12,583
+Oh, my God.
+The self-destruct.
+
+497
+00:31:13,496 --> 00:31:16,253
+<i>Did you not just hear me say I needed
+to figure out a safe work-around</i>
+
+498
+00:31:16,413 --> 00:31:19,256
+to avoid any commands that may have
+been compromised? As in booby-trapped?
+
+499
+00:31:19,416 --> 00:31:22,218
+Look, I didn't use the bypass to
+shut down the Gate for this very reason!
+
+500
+00:31:22,533 --> 00:31:24,768
+<i>- Rodney?
+- We've made a terrible mistake!</i>
+
+501
+00:31:25,037 --> 00:31:26,664
+<i>We never should've revived Kavanagh!</i>
+
+502
+00:31:26,784 --> 00:31:28,224
+He triggered the self-destruct?
+
+503
+00:31:28,384 --> 00:31:30,395
+- Not on purpose!
+- That doesn't really matter now.
+
+504
+00:31:30,515 --> 00:31:32,285
+All right, we've got
+just under 10 minutes
+
+505
+00:31:32,405 --> 00:31:33,971
+before this whole station blows up.
+
+506
+00:31:34,283 --> 00:31:36,841
+<i>- Can you turn it off?
+- No, we're completely locked out!</i>
+
+507
+00:31:37,059 --> 00:31:39,546
+<i>They made sure if they couldn't
+have the station, then no one could.</i>
+
+508
+00:31:39,848 --> 00:31:41,748
+This couldn't get any worse.
+
+509
+00:31:46,069 --> 00:31:47,797
+They're shooting at the door.
+
+510
+00:31:58,792 --> 00:31:59,735
+Wait.
+
+511
+00:32:06,162 --> 00:32:07,542
+Are you all right?
+
+512
+00:32:09,483 --> 00:32:10,741
+Ronon Dex,
+
+513
+00:32:11,246 --> 00:32:13,310
+this is Mr. Coolidge of the IOA.
+
+514
+00:32:15,731 --> 00:32:16,688
+What happened?
+
+515
+00:32:16,808 --> 00:32:19,681
+You were rendered unconscious
+by a Wraith stun device.
+
+516
+00:32:19,911 --> 00:32:20,849
+What?
+
+517
+00:32:21,410 --> 00:32:23,467
+There are Wraith... Here?
+
+518
+00:32:23,726 --> 00:32:25,941
+They have infiltrated the base.
+
+519
+00:32:26,822 --> 00:32:28,447
+It is best if you remain in this room
+
+520
+00:32:28,567 --> 00:32:30,702
+until Ronon Dex and I
+have neutralized the situation.
+
+521
+00:32:30,822 --> 00:32:32,930
+No, we need to get to the control room,
+radio for help.
+
+522
+00:32:33,050 --> 00:32:34,447
+We don't need help.
+
+523
+00:32:34,567 --> 00:32:36,035
+How many Wraith are here?
+
+524
+00:32:36,155 --> 00:32:38,280
+We do not know exact numbers,
+but there are many.
+
+525
+00:32:38,400 --> 00:32:40,285
+And who else besides you
+are going after them?
+
+526
+00:32:40,405 --> 00:32:41,808
+We are the only two.
+
+527
+00:32:41,928 --> 00:32:43,841
+- Get me to a radio. Now!
+- It's better if we...
+
+528
+00:32:53,247 --> 00:32:54,475
+I've got an idea, Rodney.
+
+529
+00:32:54,636 --> 00:32:56,812
+Great, we've got Wraith
+about to blast through the door.
+
+530
+00:32:57,266 --> 00:32:59,315
+This place has got
+a Jumper docked here, right?
+
+531
+00:32:59,646 --> 00:33:01,600
+Yeah, to be used
+as an emergency escape pod.
+
+532
+00:33:02,415 --> 00:33:05,404
+Well, I'd say this pretty much
+qualifies as an emergency.
+
+533
+00:33:05,564 --> 00:33:08,292
+No... We'll be stuck out here
+in the middle of the galactic void.
+
+534
+00:33:08,412 --> 00:33:11,798
+They'll mount a rescue. The Jumper
+is stocked with food and water.
+
+535
+00:33:11,918 --> 00:33:13,329
+Unless you want to stay here,
+
+536
+00:33:13,489 --> 00:33:15,886
+get blown to smithereens
+with the rest of the station. Your call!
+
+537
+00:33:16,006 --> 00:33:17,625
+<i>We got one other problem.</i>
+
+538
+00:33:18,515 --> 00:33:20,278
+How are we gonna get there?
+
+539
+00:33:34,843 --> 00:33:36,756
+<i>Rodney.
+We're out of time.</i>
+
+540
+00:33:37,156 --> 00:33:38,847
+<i>- Vent the atmosphere.
+- What?</i>
+
+541
+00:33:38,967 --> 00:33:41,006
+<i>Every room but the control room.
+Vent the air.</i>
+
+542
+00:33:41,126 --> 00:33:42,149
+How close are you?
+
+543
+00:33:42,534 --> 00:33:43,608
+Just do it.
+
+544
+00:33:43,728 --> 00:33:45,861
+<i>- Can you make it to the Jumper?
+- Don't know. I'll try!</i>
+
+545
+00:33:46,021 --> 00:33:49,907
+<i>- John, I'm not sure there's time to...
+- We don't have time to argue! Do it!</i>
+
+546
+00:33:58,016 --> 00:33:59,670
+Venting the atmosphere.
+
+547
+00:35:19,949 --> 00:35:21,001
+All right,
+
+548
+00:35:21,411 --> 00:35:23,420
+I'll go this way.
+You go that way.
+
+549
+00:35:23,912 --> 00:35:25,511
+Where is Mr. Coolidge?
+
+550
+00:35:26,727 --> 00:35:27,889
+I don't know.
+
+551
+00:35:38,184 --> 00:35:40,056
+It's pretty quiet out there.
+
+552
+00:35:40,603 --> 00:35:42,325
+Looks like they're all dead.
+
+553
+00:35:42,911 --> 00:35:44,935
+Sheppard, can you hear me?
+
+554
+00:35:46,786 --> 00:35:48,208
+John, are you there?
+
+555
+00:35:50,764 --> 00:35:52,390
+It should be enough time.
+
+556
+00:35:52,992 --> 00:35:55,069
+I think it's safe to repressurize.
+
+557
+00:35:56,764 --> 00:35:57,939
+Dr. McKay?
+
+558
+00:36:00,632 --> 00:36:02,203
+Repressurizing the station.
+
+559
+00:36:12,195 --> 00:36:14,100
+- What you doing?
+- I've contacted the military.
+
+560
+00:36:14,220 --> 00:36:16,857
+They're fully aware of the situation,
+which means, unfortunately,
+
+561
+00:36:16,977 --> 00:36:19,253
+- they're preparing to nuke the base.
+- What?
+
+562
+00:36:19,373 --> 00:36:21,371
+Stargate Command has been compromised.
+
+563
+00:36:21,491 --> 00:36:23,394
+Only way to prevent the Wraith
+from infiltrating
+
+564
+00:36:23,554 --> 00:36:25,104
+the population is to destroy it.
+
+565
+00:36:25,264 --> 00:36:27,189
+- Tell them to call it off.
+- I can't do that.
+
+566
+00:36:27,349 --> 00:36:30,067
+Not as long as a single Wraith
+is still alive on this base.
+
+567
+00:36:30,227 --> 00:36:33,362
+- Wraith? What, here?
+- Listen, we'll deal with the Wraith.
+
+568
+00:36:33,482 --> 00:36:35,535
+You've got people alive here.
+Buy us some more time.
+
+569
+00:36:35,655 --> 00:36:38,080
+We don't have time.
+There's an escape to the surface.
+
+570
+00:36:38,200 --> 00:36:40,870
+We need to get to it immediately.
+Where's Teal'c?
+
+571
+00:36:42,169 --> 00:36:43,547
+I need to get back to him.
+
+572
+00:36:43,667 --> 00:36:46,542
+- No time! We have to leave.
+- Not without Teal'c.
+
+573
+00:36:46,702 --> 00:36:48,586
+We can't go back for him.
+
+574
+00:36:48,974 --> 00:36:50,874
+We could get bogged down or killed!
+
+575
+00:36:50,994 --> 00:36:54,414
+There's a clear path to the escape,
+and we need to get out of here now!
+
+576
+00:36:54,534 --> 00:36:57,053
+You wanna run away and save yourself?
+Fine! I'm stayin' here.
+
+577
+00:37:00,659 --> 00:37:03,259
+- The Jumper bay is...
+- Through the EVA prep room.
+
+578
+00:37:03,379 --> 00:37:05,676
+It's not a real bay, though.
+It's more like an airlock
+
+579
+00:37:05,796 --> 00:37:08,156
+- that leads to a hatch that's...
+- I don't need the blueprints!
+
+580
+00:37:08,276 --> 00:37:10,161
+- Where is it?
+- It's over there.
+
+581
+00:37:18,492 --> 00:37:19,681
+Through here.
+
+582
+00:37:38,163 --> 00:37:39,068
+Sheppard!
+
+583
+00:37:39,188 --> 00:37:41,497
+- How the hell did you...
+- Get me outta here.
+
+584
+00:38:46,447 --> 00:38:47,663
+Excellent timing.
+
+585
+00:38:48,688 --> 00:38:49,713
+Indeed.
+
+586
+00:38:58,146 --> 00:39:00,086
+Well, I think that's all of them.
+
+587
+00:39:03,626 --> 00:39:05,772
+I certainly hope you are correct.
+
+588
+00:39:05,950 --> 00:39:09,055
+We gotta call the military.
+They're gonna blow this place up.
+
+589
+00:39:10,638 --> 00:39:11,969
+What's taking him so long?
+
+590
+00:39:12,089 --> 00:39:13,981
+Self-destruct's about to blow.
+20 seconds!
+
+591
+00:39:20,105 --> 00:39:22,109
+- Colonel Sheppard! How did you...
+- Later.
+
+592
+00:39:22,229 --> 00:39:24,142
+We're leaving. Sit down!
+
+593
+00:39:48,306 --> 00:39:49,550
+Ronon Dex...
+
+594
+00:39:51,006 --> 00:39:53,765
+Do you feel that you can fulfill
+the duties of an SG team member with
+
+595
+00:39:53,913 --> 00:39:55,061
+diligence,
+
+596
+00:39:55,345 --> 00:39:56,534
+integrity...
+
+597
+00:39:57,641 --> 00:40:00,415
+and respect for those
+in authority over you?
+
+598
+00:40:06,305 --> 00:40:07,316
+Yes.
+
+599
+00:40:17,936 --> 00:40:19,338
+Good enough for me.
+
+600
+00:40:29,391 --> 00:40:30,279
+Well?
+
+601
+00:40:31,320 --> 00:40:35,199
+I'm exactly the kind of team member
+they want out there fighting the Wraith.
+
+602
+00:40:35,729 --> 00:40:37,329
+Their words, not mine.
+
+603
+00:40:37,646 --> 00:40:39,740
+And you did not hold a weapon
+to their heads?
+
+604
+00:40:39,860 --> 00:40:40,898
+I did not.
+
+605
+00:40:41,733 --> 00:40:43,168
+I am pleased.
+
+606
+00:40:43,728 --> 00:40:45,477
+Yeah, well, I had a good coach.
+
+607
+00:40:45,778 --> 00:40:46,776
+Indeed.
+
+608
+00:40:47,879 --> 00:40:49,947
+The Daedalus is preparing to leave.
+
+609
+00:40:50,439 --> 00:40:53,198
+Colonel Caldwell will beam you aboard
+when you are ready.
+
+610
+00:40:53,378 --> 00:40:54,991
+Still nothing from Midway?
+
+611
+00:40:55,379 --> 00:40:56,208
+No.
+
+612
+00:40:56,426 --> 00:40:58,395
+We have lost all contact with them.
+
+613
+00:40:59,105 --> 00:41:02,463
+The Daedalus will stop on its way back
+to Atlantis to assess the situation.
+
+614
+00:41:13,302 --> 00:41:15,174
+No way.
+You actually liked it?
+
+615
+00:41:15,379 --> 00:41:16,691
+It's his finest film.
+
+616
+00:41:16,978 --> 00:41:18,221
+Pearl Harbor?
+
+617
+00:41:18,507 --> 00:41:21,562
+Go ahead and mock it... Everybody does.
+But that film will endure, got weight.
+
+618
+00:41:21,682 --> 00:41:23,929
+Yeah, which is why it plummeted
+at the box office!
+
+619
+00:41:24,049 --> 00:41:25,447
+$200 million domestic.
+
+620
+00:41:25,567 --> 00:41:28,009
+- That's not plummeting...
+- Enough, already!
+
+621
+00:41:28,567 --> 00:41:30,619
+We've been stuck here
+for God knows how long,
+
+622
+00:41:30,739 --> 00:41:32,541
+and you haven't shut up,
+either of you!
+
+623
+00:41:32,661 --> 00:41:34,446
+You just keep talking and talking...
+
+624
+00:41:37,084 --> 00:41:38,167
+What was that?
+
+625
+00:41:38,327 --> 00:41:39,790
+Something just hit us.
+
+626
+00:41:44,011 --> 00:41:45,966
+- Ronon!
+- Where are we?
+
+627
+00:41:46,226 --> 00:41:47,321
+Daedalus, 302 bay.
+
+628
+00:41:47,441 --> 00:41:48,962
+We saw you, scooped you up,
+
+629
+00:41:49,129 --> 00:41:51,096
+- heading back to Atlantis.
+- Thank God!
+
+630
+00:41:52,618 --> 00:41:54,764
+- Midway was destroyed.
+- Yeah, we saw.
+
+631
+00:41:54,942 --> 00:41:56,322
+Where's Sheppard?
+
+632
+00:41:58,358 --> 00:42:00,873
+He lasted about a day,
+sealed himself in there.
+
+633
+00:42:01,892 --> 00:42:04,066
+No wonder he didn't hear the radio call.
+
+634
+00:42:16,165 --> 00:42:17,655
+Thank God!
+
+635
+00:42:19,487 --> 00:42:21,210
+I almost shot 'em myself with a stunner.
+
+636
+00:42:21,370 --> 00:42:23,045
+Yeah. I understand.
+
+637
+00:42:24,502 --> 00:42:26,860
+<i>- Where are we?
+- Daedalus, 302 bay.</i>
+
+638
+00:42:27,406 --> 00:42:28,884
+What's the status of SGC?
+
+639
+00:42:29,044 --> 00:42:31,387
+Secure. Teal'c and I
+took care of the Wraith.
+
+640
+00:42:31,547 --> 00:42:33,013
+I figured you would.
+
+641
+00:42:33,173 --> 00:42:35,268
+Come on, let's get the hell outta here.
+
+642
+00:42:35,388 --> 00:42:36,413
+Yeah.
+
+643
+00:42:38,423 --> 00:42:40,946
+And I passed my interview with the IOA.
+
+644
+00:42:41,160 --> 00:42:43,555
+- Really?
+- Yeah, they said they liked me.
+
+645
+00:42:43,675 --> 00:42:45,520
+Well, what's not to like?
+

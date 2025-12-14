@@ -1,0 +1,2913 @@
+1
+00:00:01,645 --> 00:00:04,883
+Comme vous avez dû l'entendre,
+nous avons reçu une invitation.
+
+2
+00:00:05,587 --> 00:00:08,905
+Ou, plus exactement,
+votre équipe l'a reçue,
+
+3
+00:00:09,025 --> 00:00:11,183
+pour représenter Atlantis
+lors d'une rencontre
+
+4
+00:00:11,303 --> 00:00:15,197
+entre chefs de nombreuses populations
+humaines de la galaxie de Pégase.
+
+5
+00:00:15,726 --> 00:00:18,547
+C'est quoi ? La version Pégase
+des Nations Unies ?
+
+6
+00:00:19,110 --> 00:00:20,755
+Rien de si formel.
+
+7
+00:00:20,875 --> 00:00:22,853
+Pour le moment,
+c'est une idée assez vague.
+
+8
+00:00:22,973 --> 00:00:26,014
+Des peuples technologiquement
+avancés y seront présents ?
+
+9
+00:00:27,628 --> 00:00:29,982
+Mais le CSI pense que ça peut être
+un bon premier pas
+
+10
+00:00:30,102 --> 00:00:32,156
+vers un gouvernement interplanétaire.
+
+11
+00:00:32,276 --> 00:00:34,912
+Une fédération, si vous préférez.
+
+12
+00:00:35,073 --> 00:00:36,781
+Les fédérations ont des vaisseaux.
+
+13
+00:00:36,901 --> 00:00:40,146
+Qu'est-ce qu'on espère y gagner ?
+Ces peuples ne se connaissent
+
+14
+00:00:40,266 --> 00:00:42,986
+que parce qu'ils se servent
+du système de Portes des Anciens.
+
+15
+00:00:43,106 --> 00:00:44,760
+Le fait de ne pas être très avancé
+
+16
+00:00:44,880 --> 00:00:47,081
+ne les empêche pas de pouvoir
+profiter d'une alliance.
+
+17
+00:00:47,201 --> 00:00:48,218
+Elle a raison.
+
+18
+00:00:48,499 --> 00:00:51,388
+Il est temps pour les peuples de s'unir
+et de s'aider les uns les autres.
+
+19
+00:00:51,548 --> 00:00:52,931
+Contre les Wraith.
+
+20
+00:00:53,192 --> 00:00:56,137
+- Pourquoi pas ?
+- Les factions Wraith se font la guerre.
+
+21
+00:00:56,257 --> 00:00:59,849
+C'est pourquoi ceux qui veulent former
+la coalition trouvent le moment adéquat.
+
+22
+00:00:59,969 --> 00:01:02,241
+Et ils veulent
+que nous soyons présents.
+
+23
+00:01:26,155 --> 00:01:29,158
+Le délégué du conseil ne devrait pas
+tarder à vous rejoindre.
+
+24
+00:01:31,665 --> 00:01:34,156
+Ils nous déroulent vraiment
+le tapis rouge.
+
+25
+00:01:34,276 --> 00:01:36,975
+Je suis sûre qu'ils veulent juste
+garder les détails secrets.
+
+26
+00:01:38,447 --> 00:01:39,477
+Les gars ?
+
+27
+00:01:39,998 --> 00:01:41,016
+Ça sent pas bon.
+
+28
+00:01:59,826 --> 00:02:02,574
+Saison 5 Épisode 13
+Inquisition (v. 1.00)
+
+29
+00:02:03,370 --> 00:02:05,592
+Teams Projet-SG & SG-66
+
+30
+00:02:05,712 --> 00:02:08,465
+www.projet-sg.net
+www.seriestele.net
+
+31
+00:02:30,071 --> 00:02:31,272
+Où sommes-nous ?
+
+32
+00:02:33,211 --> 00:02:36,075
+On n'est plus dans la même pièce.
+On nous a déplacés.
+
+33
+00:02:38,710 --> 00:02:40,330
+Qu'est-ce qui s'est passé ?
+
+34
+00:02:40,491 --> 00:02:42,185
+C'est une bonne question.
+
+35
+00:02:46,912 --> 00:02:49,798
+- Qu'est-ce que ça signifie ?
+- On vous l'expliquera bientôt.
+
+36
+00:02:50,870 --> 00:02:54,073
+Le conseil souhaiterait parler
+au lieutenant colonel Sheppard.
+
+37
+00:03:08,240 --> 00:03:10,485
+Je suis Kelore de Latira.
+
+38
+00:03:10,967 --> 00:03:13,446
+Voici Shiana des tribus de Santhal
+
+39
+00:03:13,566 --> 00:03:16,066
+et Dimas des peuples libres de Riva.
+
+40
+00:03:16,292 --> 00:03:17,867
+Nous parlons pour la coalition.
+
+41
+00:03:18,144 --> 00:03:20,069
+Si vous vouliez
+garder cet endroit secret,
+
+42
+00:03:20,189 --> 00:03:24,177
+vous auriez pu me bander les yeux.
+Je ne me serais pas enfui, promis.
+
+43
+00:03:24,297 --> 00:03:27,377
+Colonel John Sheppard,
+vous faites face à ce conseil
+
+44
+00:03:27,537 --> 00:03:29,754
+en tant que représentant
+de l'expédition d'Atlantis.
+
+45
+00:03:31,240 --> 00:03:34,509
+Et comme tel, il vous revient
+de répondre aux accusations.
+
+46
+00:03:35,884 --> 00:03:36,844
+Pardon ?
+
+47
+00:03:37,005 --> 00:03:39,764
+Vous aurez tout le loisir
+de vous défendre,
+
+48
+00:03:40,243 --> 00:03:42,100
+et, quand tout aura été dit,
+
+49
+00:03:42,260 --> 00:03:44,161
+nous donnerons notre verdict.
+
+50
+00:03:45,108 --> 00:03:47,564
+Mais de quoi vous parlez ?
+C'est quoi, ça ?
+
+51
+00:03:48,123 --> 00:03:50,838
+L'expédition d'Atlantis
+est accusée de crimes
+
+52
+00:03:50,958 --> 00:03:52,944
+contre les peuples de cette galaxie.
+
+53
+00:03:53,941 --> 00:03:55,442
+C'est votre procès.
+
+54
+00:04:03,440 --> 00:04:06,106
+- Major, que s'est-il passé ?
+- On essaie de le savoir, Monsieur.
+
+55
+00:04:06,369 --> 00:04:09,462
+Une chose est sûre,
+ils ne sont plus dans le village.
+
+56
+00:04:09,582 --> 00:04:12,128
+Ils ne seraient allés nulle part
+sans nous en informer.
+
+57
+00:04:12,248 --> 00:04:13,749
+Pas volontairement, non.
+
+58
+00:04:15,237 --> 00:04:17,552
+Prenez les hommes qu'il faudra.
+Fouillez toute la zone.
+
+59
+00:04:17,811 --> 00:04:20,010
+Et continuez
+de questionner les villageois.
+
+60
+00:04:20,130 --> 00:04:22,229
+Quelqu'un doit bien savoir
+quelque chose.
+
+61
+00:04:24,927 --> 00:04:26,692
+C'était censé être un grand banquet.
+
+62
+00:04:26,812 --> 00:04:29,606
+Avec des cocktails, des hors-d'oeuvre,
+voire une piste de danse ?
+
+63
+00:04:30,084 --> 00:04:31,886
+Le subterfuge était nécessaire.
+
+64
+00:04:32,187 --> 00:04:34,315
+Votre technologie
+et votre puissance militaire
+
+65
+00:04:34,435 --> 00:04:37,113
+dépassent l'entendement de la plupart
+des peuples de la galaxie.
+
+66
+00:04:37,847 --> 00:04:39,866
+D'où votre placement
+dans un endroit sécurisé.
+
+67
+00:04:40,201 --> 00:04:43,440
+Seuls les membres de ce conseil
+et les gardiens connaissent l'adresse.
+
+68
+00:04:43,560 --> 00:04:46,440
+Ne perdez donc pas votre temps
+à espérer un quelconque secours.
+
+69
+00:04:46,560 --> 00:04:48,811
+Vous pensez qu'on a fait quoi,
+exactement ?
+
+70
+00:04:48,931 --> 00:04:50,418
+D'après nos calculs,
+
+71
+00:04:50,736 --> 00:04:54,201
+l'expédition d'Atlantis est responsable,
+plus ou moins directement,
+
+72
+00:04:54,321 --> 00:04:57,363
+de la mort de plus de deux millions
+de personnes dans cette galaxie.
+
+73
+00:04:57,645 --> 00:04:59,086
+Vous me faites marcher.
+
+74
+00:04:59,206 --> 00:05:01,930
+Parlez-nous de votre première
+rencontre avec les Wraith.
+
+75
+00:05:06,224 --> 00:05:08,891
+- Je vois où ça va nous mener.
+- Quand vous êtes arrivés,
+
+76
+00:05:09,011 --> 00:05:11,397
+les Wraith étaient en hibernation,
+n'est-ce pas ?
+
+77
+00:05:11,686 --> 00:05:14,192
+- Pas tous.
+- Que voulez-vous dire ?
+
+78
+00:05:14,601 --> 00:05:16,944
+Je veux dire
+qu'ils nous ont attaqués.
+
+79
+00:05:32,366 --> 00:05:33,467
+Qu'y a-t-il ?
+
+80
+00:05:35,059 --> 00:05:36,167
+Les Wraith !
+
+81
+00:05:48,074 --> 00:05:49,686
+Abattez-moi ça !
+
+82
+00:05:53,274 --> 00:05:54,375
+Et d'un.
+
+83
+00:05:58,467 --> 00:05:59,486
+Couchez-vous !
+
+84
+00:06:05,607 --> 00:06:07,996
+C'était une reconnaissance,
+pas une récolte.
+
+85
+00:06:08,487 --> 00:06:11,165
+Je ne savais pas.
+Je les ai vus capturer nos hommes.
+
+86
+00:06:11,325 --> 00:06:13,137
+- Et vous avez attaqué.
+- Tout à fait.
+
+87
+00:06:13,257 --> 00:06:14,460
+Vous n'auriez pas dû.
+
+88
+00:06:14,620 --> 00:06:17,588
+D'accord, c'est ce que vous auriez fait,
+mais c'est pas nos méthodes.
+
+89
+00:06:17,991 --> 00:06:19,173
+Que s'est-il passé ?
+
+90
+00:06:19,620 --> 00:06:20,624
+On est entrés,
+
+91
+00:06:20,744 --> 00:06:24,415
+on a secouru le plus de gens possible,
+et on est ressortis.
+
+92
+00:06:25,084 --> 00:06:27,348
+Pas avant d'avoir rencontré
+une Reine.
+
+93
+00:06:38,199 --> 00:06:39,736
+Comment avez-vous obtenu ça ?
+
+94
+00:06:40,993 --> 00:06:42,388
+Je m'en souviens plus.
+
+95
+00:06:50,262 --> 00:06:51,414
+Faites tout sauter !
+
+96
+00:07:00,561 --> 00:07:02,157
+Ça devrait vous tuer.
+
+97
+00:07:04,837 --> 00:07:06,340
+Monsieur, allons-y.
+
+98
+00:07:06,827 --> 00:07:09,330
+Vous ne savez pas
+ce que vous avez fait.
+
+99
+00:07:10,637 --> 00:07:15,014
+Nous ne sommes que les gardiens
+de ceux qui sommeillent.
+
+100
+00:07:15,977 --> 00:07:17,310
+À ma mort,
+
+101
+00:07:17,823 --> 00:07:20,188
+les autres vont se réveiller.
+
+102
+00:07:23,848 --> 00:07:25,750
+Tous les autres.
+
+103
+00:07:34,527 --> 00:07:36,328
+De quoi elle parle ?
+
+104
+00:07:36,598 --> 00:07:38,137
+Combien il en reste ?
+
+105
+00:07:51,870 --> 00:07:54,894
+Donc, vous l'admettez.
+Vous avez réveillé les Wraith.
+
+106
+00:07:55,268 --> 00:07:58,324
+Tôt ou tard, ils se seraient
+réveillés tout seuls.
+
+107
+00:07:58,444 --> 00:08:00,324
+Mais pas avant des générations.
+
+108
+00:08:00,444 --> 00:08:01,651
+Voyez-vous, Colonel,
+
+109
+00:08:01,961 --> 00:08:04,343
+la plupart des populations
+de cette galaxie
+
+110
+00:08:04,463 --> 00:08:07,073
+ne se sont pas encore remises
+des dernières récoltes.
+
+111
+00:08:07,550 --> 00:08:09,072
+À cause de ce réveil prématuré,
+
+112
+00:08:09,192 --> 00:08:11,773
+de nombreux mondes sont
+au bord de l'extinction.
+
+113
+00:08:11,893 --> 00:08:15,081
+Leurs survivants dispersés,
+leurs civilisations perdues à jamais.
+
+114
+00:08:15,241 --> 00:08:17,914
+On se bat contre les Wraith,
+jour après jour,
+
+115
+00:08:18,034 --> 00:08:20,851
+- mettant nos vies en jeu.
+- Quoi qu'il en soit,
+
+116
+00:08:20,971 --> 00:08:23,297
+beaucoup de morts
+seraient en vie aujourd'hui
+
+117
+00:08:23,457 --> 00:08:25,508
+si vous n'étiez jamais venu ici.
+N'est-ce pas ?
+
+118
+00:08:25,668 --> 00:08:27,769
+Ça suffit, je joue plus à ce jeu.
+
+119
+00:08:27,889 --> 00:08:30,346
+Ce n'est que la première accusation.
+
+120
+00:08:30,666 --> 00:08:32,516
+Si vous refusez de participer,
+
+121
+00:08:32,842 --> 00:08:35,309
+vous admettez être coupable
+de tous les chefs d'accusation
+
+122
+00:08:35,469 --> 00:08:37,395
+et nous devrons
+appliquer la sentence.
+
+123
+00:08:37,712 --> 00:08:40,189
+Vous allez faire quoi ?
+Mettre tous les Atlantes en prison ?
+
+124
+00:08:41,497 --> 00:08:43,499
+Ce n'est évidemment pas possible.
+
+125
+00:08:44,500 --> 00:08:46,779
+Néanmoins,
+nous pouvons refuser de coopérer.
+
+126
+00:08:47,456 --> 00:08:50,116
+Plus de commerce, plus de relations
+quelles qu'elles soient.
+
+127
+00:08:50,513 --> 00:08:52,660
+Atlantis sera complètement isolée.
+
+128
+00:08:53,324 --> 00:08:56,864
+Plus de relations avec les vôtres ?
+Je pense qu'on peut faire avec.
+
+129
+00:08:56,984 --> 00:09:00,591
+La coalition est plus forte
+et plus influente chaque jour.
+
+130
+00:09:00,711 --> 00:09:04,287
+Bientôt, tous vos partenaires actuels
+n'auront d'autre choix
+
+131
+00:09:04,407 --> 00:09:08,384
+que de nous rejoindre et donc
+de se plier aux décisions de ce conseil.
+
+132
+00:09:09,198 --> 00:09:12,096
+Quant à vous et votre équipe,
+on doit faire un exemple.
+
+133
+00:09:12,733 --> 00:09:14,223
+La justice le réclame.
+
+134
+00:09:14,383 --> 00:09:16,339
+La justice...
+Vous appelez ça comme ça ?
+
+135
+00:09:16,459 --> 00:09:19,408
+Une planète inhabitée
+appropriée a été choisie.
+
+136
+00:09:19,528 --> 00:09:21,907
+Si vous êtes condamnés,
+vous y serez envoyés,
+
+137
+00:09:22,027 --> 00:09:23,618
+sans espoir de retour,
+
+138
+00:09:23,738 --> 00:09:25,902
+pour le reste de vos vies.
+
+139
+00:09:31,256 --> 00:09:34,993
+Apparemment, la planète choisie a juste
+assez de nourriture pour qu'on survive,
+
+140
+00:09:35,113 --> 00:09:37,848
+donc techniquement,
+c'est pas une exécution.
+
+141
+00:09:38,277 --> 00:09:40,475
+- Génial.
+- Et ils ont pris le DHD,
+
+142
+00:09:40,595 --> 00:09:43,461
+donc celui qui passe
+la Porte ne reviendra pas.
+
+143
+00:09:43,986 --> 00:09:46,879
+- Le Daedalus peut nous trouver.
+- S'il avait l'adresse.
+
+144
+00:09:46,999 --> 00:09:49,563
+Sinon, il faudrait fouiller
+tous les systèmes de la galaxie,
+
+145
+00:09:49,683 --> 00:09:51,882
+ça prendrait, quoi,
+un million d'années ?
+
+146
+00:09:52,002 --> 00:09:53,549
+Bon. Pas de panique.
+
+147
+00:09:53,669 --> 00:09:56,311
+J'ai déjà été
+plusieurs fois devant la cour.
+
+148
+00:09:56,431 --> 00:09:58,208
+Je commence à cerner les environs.
+
+149
+00:09:58,328 --> 00:10:00,762
+L'architecture est différente
+de celle du village.
+
+150
+00:10:00,882 --> 00:10:02,530
+Non, on est sur une autre planète.
+
+151
+00:10:02,650 --> 00:10:05,639
+Et vu qu'il n'y a pas
+de lumière naturelle ou de fenêtre,
+
+152
+00:10:05,759 --> 00:10:07,591
+je dirais un bunker sous terrain.
+
+153
+00:10:07,711 --> 00:10:09,987
+- Des gardes ?
+- Ouais. Une demi-douzaine.
+
+154
+00:10:10,525 --> 00:10:12,636
+On va voir
+s'il y a des tours de garde.
+
+155
+00:10:12,756 --> 00:10:15,076
+Aucun moyen de les convaincre
+qu'on est pas coupables ?
+
+156
+00:10:15,196 --> 00:10:16,898
+C'est le cas, pas vrai ?
+
+157
+00:10:18,697 --> 00:10:22,322
+La galaxie de Pégase ne se porterait
+certainement pas mieux sans nous.
+
+158
+00:10:23,383 --> 00:10:26,087
+Mais depuis votre arrivée,
+il y a eu des revers, des vies perdues.
+
+159
+00:10:26,928 --> 00:10:29,581
+Mais il y a de l'espoir maintenant
+où il n'y en avait pas.
+
+160
+00:10:30,553 --> 00:10:34,053
+Bien que j'aimerais leur dire
+de se mettre leur procès où je pense,
+
+161
+00:10:34,213 --> 00:10:37,348
+on va devoir jouer le jeu
+jusqu'à ce qu'on trouve comment sortir.
+
+162
+00:10:46,047 --> 00:10:47,733
+M. Woolsey, voici Myrus.
+
+163
+00:10:48,876 --> 00:10:52,576
+Il se dit représentant
+de la nouvelle coalition de planètes.
+
+164
+00:10:52,696 --> 00:10:53,730
+Vraiment ?
+
+165
+00:10:53,850 --> 00:10:55,908
+Êtes-vous le dirigeant d'Atlantis ?
+
+166
+00:10:56,467 --> 00:10:57,493
+C'est exact.
+
+167
+00:10:58,479 --> 00:11:00,151
+Alors, nous devons parler.
+
+168
+00:11:01,135 --> 00:11:02,596
+Quelle est la suite ?
+
+169
+00:11:02,716 --> 00:11:06,509
+On a marché sur les rosiers
+en passant sur Vedeena ?
+
+170
+00:11:07,203 --> 00:11:10,423
+Vous avez entendu parler d'une épidémie
+qui a touché plusieurs mondes,
+
+171
+00:11:11,045 --> 00:11:14,885
+un mal qui arrive soudainement,
+atteint son terme en quelques jours,
+
+172
+00:11:15,171 --> 00:11:18,223
+et tue un homme,
+femme ou enfant sur trois
+
+173
+00:11:18,343 --> 00:11:19,515
+où qu'il frappe.
+
+174
+00:11:20,485 --> 00:11:22,935
+Certains croient
+que ce n'est pas du tout une maladie
+
+175
+00:11:23,185 --> 00:11:27,023
+mais un empoisonnement volontaire,
+l'oeuvre d'un individu.
+
+176
+00:11:27,527 --> 00:11:30,016
+Je vois de qui vous parlez.
+Son nom est Michael.
+
+177
+00:11:30,136 --> 00:11:32,727
+Il paraît
+qu'il n'est ni humain, ni Wraith,
+
+178
+00:11:32,847 --> 00:11:34,746
+mais une sorte de croisement.
+
+179
+00:11:35,178 --> 00:11:37,366
+Comment une telle chose
+est-elle possible ?
+
+180
+00:11:39,951 --> 00:11:42,303
+Un de nos hommes
+effectuait des recherches.
+
+181
+00:11:42,423 --> 00:11:45,875
+Il essayait de résoudre
+le problème Wraith définitivement.
+
+182
+00:12:08,015 --> 00:12:10,232
+Vous avez réussi
+à changer les Wraith en humains ?
+
+183
+00:12:10,549 --> 00:12:12,943
+Pas de question médicale.
+Je suis pas docteur.
+
+184
+00:12:13,217 --> 00:12:15,738
+Et ce Michael était
+l'un de vos sujets d'expérience ?
+
+185
+00:12:16,142 --> 00:12:17,907
+En fait, il était le premier.
+
+186
+00:12:22,586 --> 00:12:26,047
+Pression sanguine bonne, pouls normal.
+Vous vous rétablissez plutôt bien.
+
+187
+00:12:26,167 --> 00:12:27,459
+De quoi ?
+
+188
+00:12:27,579 --> 00:12:30,294
+Bonjour, Michael.
+Vous vous souvenez de moi ?
+
+189
+00:12:34,412 --> 00:12:37,635
+Je suis le Dr Elizabeth Weir.
+Voici le Lt Colonel John Sheppard.
+
+190
+00:12:37,975 --> 00:12:39,512
+Vous servez sous mes ordres.
+
+191
+00:12:41,463 --> 00:12:43,599
+Vous êtes le Lt Michael Kenmore.
+
+192
+00:12:45,057 --> 00:12:48,655
+Vous êtes dans une chambre privée
+de l'infirmerie d'Atlantis.
+
+193
+00:12:49,932 --> 00:12:51,357
+Ça vous dit quelque chose ?
+
+194
+00:12:53,592 --> 00:12:54,699
+Atlantis...
+
+195
+00:12:58,418 --> 00:12:59,419
+Je pense.
+
+196
+00:12:59,926 --> 00:13:02,690
+On a tenté de le persuader
+qu'il était des nôtres.
+
+197
+00:13:03,101 --> 00:13:05,596
+Mais il savait
+que quelque chose clochait
+
+198
+00:13:05,716 --> 00:13:07,447
+et il a trouvé des preuves.
+
+199
+00:13:12,082 --> 00:13:13,383
+<i>Cinq milligrammes !</i>
+
+200
+00:13:23,249 --> 00:13:24,901
+<i>Relâchez-moi !</i>
+
+201
+00:13:35,446 --> 00:13:37,048
+<i>Vous mourrez pour ça !</i>
+
+202
+00:13:38,340 --> 00:13:39,947
+<i>Les autres viendront me chercher !</i>
+
+203
+00:13:42,127 --> 00:13:43,767
+<i>On sera sur leur chemin.</i>
+
+204
+00:13:44,915 --> 00:13:47,737
+<i>Vous allez avoir besoin d'un nom.
+Pourquoi pas Michael ?</i>
+
+205
+00:13:57,958 --> 00:13:59,508
+Ensuite, il s'est enfui.
+
+206
+00:14:00,082 --> 00:14:03,625
+Il a navigué entre l'état de Wraith
+et celui d'humain à plusieurs reprises
+
+207
+00:14:04,150 --> 00:14:06,140
+jusqu'à ce qu'il se stabilise
+entre les deux.
+
+208
+00:14:06,622 --> 00:14:08,434
+Vous admettez encore être coupable.
+
+209
+00:14:09,280 --> 00:14:12,313
+Vous avez lâché cette...
+chose dans la galaxie.
+
+210
+00:14:12,859 --> 00:14:14,881
+On l'a pas foutu à la porte
+et oublié !
+
+211
+00:14:15,001 --> 00:14:17,072
+On le traque depuis.
+
+212
+00:14:17,778 --> 00:14:19,612
+Il y a quelques mois,
+on l'a rattrapé.
+
+213
+00:14:28,637 --> 00:14:30,011
+Feu à volonté.
+
+214
+00:14:36,955 --> 00:14:39,882
+- Que s'est-il passé ?
+- L'hyperpropulsion a explosé.
+
+215
+00:14:40,002 --> 00:14:41,545
+Non, c'est impossible.
+
+216
+00:14:41,665 --> 00:14:43,492
+Les circuits principaux sont HS.
+
+217
+00:14:43,612 --> 00:14:46,244
+- Une surcharge accidentelle ?
+- On ne dirait pas.
+
+218
+00:14:46,500 --> 00:14:47,917
+Comment ont-ils pu ?
+
+219
+00:14:48,148 --> 00:14:49,593
+Je vais voir ça.
+
+220
+00:14:53,510 --> 00:14:56,579
+- <i>Daedalus, répondez s'il vous plaît.</i>
+- Qu'est-il arrivé à votre Jumper ?
+
+221
+00:14:56,699 --> 00:14:58,890
+Bon sang, je me suis perdu
+dans le garage.
+
+222
+00:14:59,010 --> 00:15:02,988
+J'étais pressé, j'ai emprunté ce Dart.
+L'équipe est dans l'espace tampon.
+
+223
+00:15:03,422 --> 00:15:05,855
+<i>Faites ce que vous voulez
+de ce croiseur.</i>
+
+224
+00:15:05,975 --> 00:15:08,738
+Major Marks,
+occupez-vous du vaisseau.
+
+225
+00:15:10,137 --> 00:15:11,137
+Oui, Monsieur.
+
+226
+00:15:22,918 --> 00:15:24,453
+Êtes-vous sûr qu'il est mort ?
+
+227
+00:15:24,573 --> 00:15:27,028
+Le vaisseau a été pulvérisé.
+Il n'y avait rien à retrouver.
+
+228
+00:15:27,148 --> 00:15:29,614
+Vous ne pouvez donc pas certifier
+devant ce Conseil,
+
+229
+00:15:29,734 --> 00:15:31,409
+et sous le regard des Ancêtres,
+
+230
+00:15:31,529 --> 00:15:34,728
+que vous tenez sa mort
+pour certaine.
+
+231
+00:15:38,467 --> 00:15:39,440
+Non.
+
+232
+00:15:40,403 --> 00:15:41,652
+C'est scandaleux.
+
+233
+00:15:41,956 --> 00:15:44,779
+Vous dites qu'une des premières mesures
+de votre nouveau gouvernement
+
+234
+00:15:44,940 --> 00:15:46,931
+a été d'attaquer
+et de kidnapper mes hommes ?
+
+235
+00:15:47,051 --> 00:15:49,270
+Ils n'ont pas été attaqués.
+Ils ont été arrêtés.
+
+236
+00:15:49,390 --> 00:15:50,910
+Vous plaisantez ?
+
+237
+00:15:51,030 --> 00:15:53,091
+Croyez-moi,
+nous n'étions pas tous d'accord,
+
+238
+00:15:53,211 --> 00:15:55,123
+mais ça n'a pas été décidé
+sans raison.
+
+239
+00:15:55,285 --> 00:15:56,889
+Nous essayons de vous aider.
+
+240
+00:15:57,009 --> 00:15:59,755
+Vous avez pris
+des décisions unilatérales
+
+241
+00:15:59,875 --> 00:16:03,156
+qui affectent des millions de vies,
+sans aucune consultation
+
+242
+00:16:03,276 --> 00:16:06,389
+et sans aucune responsabilité.
+Ce n'est plus acceptable.
+
+243
+00:16:06,509 --> 00:16:08,586
+Je n'entrerai pas dans un débat.
+
+244
+00:16:08,706 --> 00:16:10,355
+Je veux savoir une chose...
+
+245
+00:16:10,682 --> 00:16:12,224
+Où mes hommes sont-ils détenus ?
+
+246
+00:16:13,959 --> 00:16:15,394
+Je ne peux pas vous le dire.
+
+247
+00:16:15,554 --> 00:16:18,062
+Les procès justes ne se déroulent
+pas dans un endroit secret.
+
+248
+00:16:18,316 --> 00:16:19,259
+Néanmoins...
+
+249
+00:16:19,379 --> 00:16:22,234
+Je pense que M. Myrus a besoin
+de temps pour revoir sa position.
+
+250
+00:16:22,966 --> 00:16:24,524
+Escortez-le en cellule.
+
+251
+00:16:24,886 --> 00:16:26,022
+Avec plaisir.
+
+252
+00:16:26,699 --> 00:16:29,010
+- Vous faites une erreur.
+- Vraiment ?
+
+253
+00:16:32,654 --> 00:16:34,688
+Quand on m'a choisi
+pour délivrer ce message,
+
+254
+00:16:34,808 --> 00:16:36,706
+je savais que je pourrais
+ne pas revenir.
+
+255
+00:16:37,321 --> 00:16:40,794
+Mais en m'arrêtant, vous confirmerez
+ce que beaucoup soupçonnent déjà...
+
+256
+00:16:41,284 --> 00:16:43,543
+Que vous êtes des scélérats
+dans cette galaxie,
+
+257
+00:16:43,663 --> 00:16:46,550
+agissant sans retenue
+ni procédure régulière.
+
+258
+00:16:51,218 --> 00:16:52,351
+Enfermez-le.
+
+259
+00:16:52,825 --> 00:16:53,825
+Allons-y.
+
+260
+00:17:03,183 --> 00:17:04,127
+D'accord.
+
+261
+00:17:04,247 --> 00:17:06,195
+Nous avons fait des erreurs,
+
+262
+00:17:06,315 --> 00:17:08,739
+mais c'est parce que nous sommes
+les seuls à nous battre.
+
+263
+00:17:08,859 --> 00:17:10,699
+Personne d'autre
+s'en prend aux Wraith.
+
+264
+00:17:11,062 --> 00:17:12,951
+N'est-ce pas votre faute également ?
+
+265
+00:17:13,881 --> 00:17:15,251
+De quoi vous parlez ?
+
+266
+00:17:15,371 --> 00:17:17,941
+Les Genii avaient un plan
+pour combattre les Wraith,
+
+267
+00:17:18,061 --> 00:17:20,459
+mais vous l'avez contrecarré
+en les trahissant.
+
+268
+00:17:21,263 --> 00:17:24,129
+C'est ce qu'ils vous ont dit ?
+C'est pas ce dont je me souviens.
+
+269
+00:17:28,749 --> 00:17:30,322
+Où est mon père ?
+
+270
+00:17:33,925 --> 00:17:35,188
+Il n'a pas survécu.
+
+271
+00:17:36,396 --> 00:17:37,396
+Comment ?
+
+272
+00:17:38,293 --> 00:17:41,020
+- Qu'est-il arrivé ?
+- Je pense qu'on va le savoir.
+
+273
+00:17:43,537 --> 00:17:44,542
+En joue !
+
+274
+00:17:52,121 --> 00:17:55,285
+Cowen, je pensais
+qu'on allait apprendre à s'entendre.
+
+275
+00:17:56,116 --> 00:17:57,448
+Elle a tué Tyrus.
+
+276
+00:17:57,960 --> 00:17:58,960
+Non.
+
+277
+00:17:59,783 --> 00:18:02,709
+En le laissant mourir,
+c'est comme si vous l'aviez tué.
+
+278
+00:18:05,217 --> 00:18:08,481
+Nous garderons ces renseignements,
+
+279
+00:18:08,601 --> 00:18:09,888
+et votre vaisseau,
+
+280
+00:18:10,008 --> 00:18:12,814
+et toute la quantité de C-4
+que vous possédez.
+
+281
+00:18:12,934 --> 00:18:15,013
+C'est tout ce que vous vouliez,
+nous utiliser.
+
+282
+00:18:15,636 --> 00:18:16,765
+Vos armes.
+
+283
+00:18:17,244 --> 00:18:19,518
+Non, je ne crois pas.
+
+284
+00:18:19,678 --> 00:18:21,478
+C'est pour ça
+que votre père est mort ?
+
+285
+00:18:22,044 --> 00:18:23,891
+Au nom d'un peuple
+qui ment et qui vole
+
+286
+00:18:24,011 --> 00:18:25,940
+ceux que vous appelez amis ?
+
+287
+00:18:26,060 --> 00:18:27,192
+J'ai menti aussi.
+
+288
+00:18:27,723 --> 00:18:29,678
+Jumpers deux et trois, exécution.
+
+289
+00:18:34,401 --> 00:18:37,402
+Vous pensiez vraiment
+qu'on avait qu'un vaisseau ?
+
+290
+00:18:38,697 --> 00:18:42,228
+- Vous vous êtes trahis mutuellement.
+- On a été prévoyants.
+
+291
+00:18:42,348 --> 00:18:43,876
+Ils ont attaqué les premiers.
+
+292
+00:18:45,308 --> 00:18:48,338
+Le plan des Genii
+n'aurait jamais marché, de toute façon.
+
+293
+00:18:49,355 --> 00:18:51,558
+Ils pouvaient pas finir leurs bombes
+sans nous,
+
+294
+00:18:51,678 --> 00:18:53,627
+ils n'avaient rien pour les envoyer.
+
+295
+00:18:54,995 --> 00:18:57,937
+Si vous voulez une victoire militaire
+contre les Wraith,
+
+296
+00:18:58,057 --> 00:18:59,602
+nous sommes votre seule chance.
+
+297
+00:19:00,550 --> 00:19:03,078
+Vous avez des nouvelles
+de nos contacts extérieurs ?
+
+298
+00:19:03,198 --> 00:19:04,441
+Oui, Monsieur.
+
+299
+00:19:04,561 --> 00:19:06,937
+- Et ?
+- Personne ne sait rien.
+
+300
+00:19:07,057 --> 00:19:08,871
+Du moins, c'est ce qu'ils disent.
+
+301
+00:19:08,991 --> 00:19:10,275
+Vous ne les croyez pas ?
+
+302
+00:19:10,395 --> 00:19:12,682
+Franchement, là,
+je sais pas quoi croire.
+
+303
+00:19:12,802 --> 00:19:15,371
+Ils sont censés être nos amis,
+mais si on peut pas traverser
+
+304
+00:19:15,491 --> 00:19:18,293
+un village sans se soucier
+d'une embuscade, à quoi bon ?
+
+305
+00:19:18,628 --> 00:19:19,815
+On n'en est pas là.
+
+306
+00:19:19,935 --> 00:19:22,636
+Je refuse de croire que la galaxie
+toute entière est contre nous.
+
+307
+00:19:22,756 --> 00:19:25,867
+Ça se pourrait bien,
+car pour le moment, on n'a rien.
+
+308
+00:19:27,560 --> 00:19:28,761
+Peut-être pas...
+
+309
+00:19:29,357 --> 00:19:30,255
+Venez.
+
+310
+00:19:33,359 --> 00:19:34,359
+Ouvrez.
+
+311
+00:19:37,622 --> 00:19:40,660
+M. Myrus,
+j'ai une proposition à vous faire.
+
+312
+00:19:41,988 --> 00:19:45,229
+Vous prétendez avoir eu
+des victoires contre les Wraith ?
+
+313
+00:19:45,508 --> 00:19:49,120
+On a fait des dégâts
+et réussi à prendre quelques Ruches.
+
+314
+00:19:49,240 --> 00:19:50,193
+Vraiment ?
+
+315
+00:19:50,313 --> 00:19:53,070
+Et comment avez-vous réalisé
+ce remarquable exploit ?
+
+316
+00:19:53,554 --> 00:19:55,745
+Je peux vous dire une chose...
+C'est jamais facile,
+
+317
+00:19:55,865 --> 00:19:58,700
+mais un bon truc,
+c'est de les faire s'entretuer.
+
+318
+00:20:12,423 --> 00:20:13,434
+Vous voyez ça ?
+
+319
+00:20:13,738 --> 00:20:16,343
+- Le Dart tire sur un des vaisseaux.
+- Pourquoi ?
+
+320
+00:20:17,999 --> 00:20:19,012
+Sheppard.
+
+321
+00:20:32,739 --> 00:20:35,070
+Sheppard les fait carrément
+se tirer l'un sur l'autre !
+
+322
+00:20:47,367 --> 00:20:50,118
+Si deux vaisseaux le font
+et que vous êtes à bord de l'un d'eux,
+
+323
+00:20:50,238 --> 00:20:53,005
+ça peut poser problème.
+Il faut improviser.
+
+324
+00:20:53,435 --> 00:20:55,670
+- Teyla, Lorne, répondez.
+- <i>Colonel, où êtes-vous ?</i>
+
+325
+00:20:55,790 --> 00:20:58,688
+- On arrive.
+- Vite. L'autre Ruche nous a trouvés.
+
+326
+00:20:58,808 --> 00:21:01,772
+- <i>Vous pouvez les retenir ?</i>
+- Pas pour longtemps.
+
+327
+00:21:05,087 --> 00:21:07,620
+- On approche du hangar.
+- Bien compris.
+
+328
+00:21:08,370 --> 00:21:09,396
+Ils sont entrés.
+
+329
+00:21:09,622 --> 00:21:12,312
+Colonel, demandons permission
+de sauter en hyperespace.
+
+330
+00:21:12,432 --> 00:21:13,984
+<i>Négatif.
+J'ai une autre idée.</i>
+
+331
+00:21:14,245 --> 00:21:16,028
+Teyla, change la trajectoire.
+
+332
+00:21:23,028 --> 00:21:24,819
+- Commandant.
+- Qu'y a-t-il ?
+
+333
+00:21:24,939 --> 00:21:27,941
+Nous recevons une transmission
+prioritaire de la ruche.
+
+334
+00:21:28,770 --> 00:21:32,014
+L'ennemi...
+Il se dirige droit sur nous.
+
+335
+00:21:44,746 --> 00:21:46,456
+Je précise aussi qu'on a pas mal
+
+336
+00:21:46,576 --> 00:21:49,518
+de technologies anciennes à disposition,
+ça peut s'avérer pratique.
+
+337
+00:21:49,680 --> 00:21:52,606
+- Une Ruche se dirige vers vous.
+- Oui, je vois ça.
+
+338
+00:21:53,007 --> 00:21:54,745
+En attente.
+Doc, ils vont nous tuer.
+
+339
+00:21:54,865 --> 00:21:56,944
+- Je l'ai, je l'ai.
+- J'envoie des drones.
+
+340
+00:22:20,460 --> 00:22:22,140
+Voyons, qu'est-ce que j'oublie ?
+
+341
+00:22:22,260 --> 00:22:24,388
+Il y en a eu tellement,
+difficile de se rappeler.
+
+342
+00:22:24,813 --> 00:22:25,813
+Ça suffit.
+
+343
+00:22:27,309 --> 00:22:30,477
+C'est un très beau conte, Colonel.
+C'est évident.
+
+344
+00:22:30,878 --> 00:22:34,815
+Pour tous ces succès fantastiques,
+nous n'avons que vos paroles.
+
+345
+00:22:35,110 --> 00:22:38,057
+Ce procès en est la preuve.
+Tout ceci n'aurait pas lieu si...
+
+346
+00:22:38,177 --> 00:22:41,477
+Votre précieuse petite coalition
+n'existerait même pas,
+
+347
+00:22:41,597 --> 00:22:43,857
+si on n'avait pas si bien
+repoussé les Wraith,
+
+348
+00:22:43,977 --> 00:22:47,195
+vous donnant une opportunité
+que vous n'aviez pas eue en 10 000 ans.
+
+349
+00:22:47,315 --> 00:22:50,163
+Votre part de responsabilité
+a déjà été déterminée.
+
+350
+00:22:50,589 --> 00:22:53,448
+Vous avez réveillé les Wraith,
+avant que les peuples de cette galaxie
+
+351
+00:22:53,568 --> 00:22:56,282
+n'aient le temps de se remettre,
+ce qui a conduit les Wraith
+
+352
+00:22:56,402 --> 00:22:58,912
+à se battre les uns contre les autres
+pour leurs récoltes.
+
+353
+00:22:59,032 --> 00:23:01,653
+C'est cette guerre,
+qui nous a donné cette opportunité,
+
+354
+00:23:01,773 --> 00:23:03,802
+pas une soi-disant victoire
+de votre part.
+
+355
+00:23:24,962 --> 00:23:26,733
+La séance est suspendue.
+
+356
+00:23:27,121 --> 00:23:28,910
+Ramenez le prisonnier en cellule.
+
+357
+00:23:45,060 --> 00:23:47,015
+Woolsey,
+qu'est-ce que vous faites là ?
+
+358
+00:23:47,135 --> 00:23:49,502
+J'ai passé un accord
+avec vos ravisseurs.
+
+359
+00:23:49,622 --> 00:23:51,516
+J'assurerai votre défense.
+
+360
+00:23:57,278 --> 00:24:01,158
+Je suppose que vous avez pas apporté
+de balise de localisation subspatiale ?
+
+361
+00:24:01,278 --> 00:24:02,861
+C'est de la technologie Wraith.
+
+362
+00:24:03,326 --> 00:24:05,961
+C'est pas comme si on en avait une
+sous la main.
+
+363
+00:24:08,224 --> 00:24:11,546
+J'ai même essayé de contacter Todd,
+pour lui en emprunter une,
+
+364
+00:24:11,666 --> 00:24:13,222
+mais il n'a pas répondu.
+
+365
+00:24:13,342 --> 00:24:14,970
+Et le DHD de la planète ?
+
+366
+00:24:15,090 --> 00:24:17,310
+On peut connaître
+les adresses composées.
+
+367
+00:24:17,430 --> 00:24:19,841
+Déjà fait, il y avait
+plus de 50 adresses en mémoire.
+
+368
+00:24:19,961 --> 00:24:22,786
+J'ai également presque vidé la Cité
+pour enquêter,
+
+369
+00:24:22,906 --> 00:24:24,549
+mais ils n'ont rien trouvé.
+
+370
+00:24:24,871 --> 00:24:26,593
+On a traversé plus d'une Porte.
+
+371
+00:24:26,842 --> 00:24:28,160
+Il semblerait bien.
+
+372
+00:24:28,349 --> 00:24:30,639
+Ça a visiblement été
+très bien pensé.
+
+373
+00:24:31,978 --> 00:24:34,851
+Leur plan est très bon,
+mais on est plus malins et mieux armés.
+
+374
+00:24:35,011 --> 00:24:37,062
+- On peut s'en tirer.
+- Ils se sont servis
+
+375
+00:24:37,222 --> 00:24:39,084
+d'une faiblesse significative...
+
+376
+00:24:40,583 --> 00:24:41,566
+La confiance.
+
+377
+00:24:46,839 --> 00:24:48,615
+Écoutez, je suis venu ici
+
+378
+00:24:49,255 --> 00:24:52,570
+parce que j'ai un plan
+pour vous sortir de là.
+
+379
+00:24:54,657 --> 00:24:55,657
+Et c'est quoi ?
+
+380
+00:24:56,314 --> 00:24:57,499
+Gagner le procès.
+
+381
+00:25:00,900 --> 00:25:05,423
+Écoutez, on gagnait du temps
+pour trouver un moyen de sortir.
+
+382
+00:25:05,726 --> 00:25:06,925
+Et ça a donné quoi ?
+
+383
+00:25:07,511 --> 00:25:10,019
+Eh bien, on...
+On y travaille.
+
+384
+00:25:10,956 --> 00:25:12,869
+Je suis diplômé de droit de Harvard.
+
+385
+00:25:12,989 --> 00:25:16,036
+J'ai été Directeur Juridique
+du corps des ingénieurs de l'armée US.
+
+386
+00:25:16,305 --> 00:25:20,033
+Avant, j'étais avocat en cour d'appel
+pour Hartshorne & Slaughter,
+
+387
+00:25:20,295 --> 00:25:24,109
+l'un des plus grands cabinets d'avocats
+de litiges de tout New York.
+
+388
+00:25:28,326 --> 00:25:29,530
+Croyez-moi,
+
+389
+00:25:29,650 --> 00:25:33,642
+je peux m'occuper de trois doyens
+avec une pile de manuscrits.
+
+390
+00:25:35,884 --> 00:25:37,440
+Il y a quelque temps,
+
+391
+00:25:37,560 --> 00:25:40,876
+certains mondes humains ont été attaqués
+puis détruits depuis l'espace,
+
+392
+00:25:41,384 --> 00:25:44,096
+pas par les Wraith,
+mais par quelqu'un d'autre.
+
+393
+00:25:44,279 --> 00:25:46,401
+On sait peu de choses
+de cette mystérieuse race
+
+394
+00:25:46,521 --> 00:25:49,342
+sinon qu'ils sont
+technologiquement très avancés,
+
+395
+00:25:49,775 --> 00:25:52,159
+et que la rumeur les dit
+alliés d'Atlantis.
+
+396
+00:25:52,279 --> 00:25:55,244
+Je crois savoir à qui
+vous faites allusion, et croyez-moi,
+
+397
+00:25:55,364 --> 00:25:57,786
+ils ne sont pas nos alliés.
+
+398
+00:25:58,025 --> 00:25:59,833
+Ce sont les Réplicateurs.
+
+399
+00:26:00,171 --> 00:26:01,521
+Les Anciens les ont créés.
+
+400
+00:26:07,039 --> 00:26:10,921
+Si vous voulez connaître la vérité
+à notre sujet, je vais vous montrer.
+
+401
+00:26:14,959 --> 00:26:17,740
+Les Anciens, comme vous les nommez,
+désespéraient de leurs recherches
+
+402
+00:26:17,860 --> 00:26:20,108
+d'une meilleure méthode
+pour combattre les Wraith.
+
+403
+00:26:20,228 --> 00:26:23,346
+En infériorité numérique,
+ils ont misé sur leur technologie
+
+404
+00:26:23,466 --> 00:26:25,128
+pour se donner un avantage.
+
+405
+00:26:25,717 --> 00:26:29,132
+Ils ont créé de petites armes,
+plutôt que de grosses et puissantes.
+
+406
+00:26:29,576 --> 00:26:30,646
+Des nanites.
+
+407
+00:26:34,465 --> 00:26:37,909
+Dans ces minuscules machines tueuses,
+les Anciens ont inséré une agressivité
+
+408
+00:26:38,029 --> 00:26:40,634
+surpassant même
+celle de leurs ennemis.
+
+409
+00:26:40,754 --> 00:26:42,965
+Cette technologie permettait
+la nutrition organique
+
+410
+00:26:43,085 --> 00:26:46,191
+et l'auto-réplication
+pour accroître leur efficacité.
+
+411
+00:26:46,465 --> 00:26:48,209
+Et ils se sont répliqués.
+
+412
+00:26:54,155 --> 00:26:56,201
+Leur nombre a augmenté à une vitesse
+
+413
+00:26:56,361 --> 00:26:58,394
+qui a pris les Anciens au dépourvu.
+
+414
+00:26:58,514 --> 00:27:00,717
+Ces machines moléculaires
+se sont emboîtées,
+
+415
+00:27:00,837 --> 00:27:04,524
+s'assemblant pour former
+des organismes plus complexes encore,
+
+416
+00:27:04,644 --> 00:27:08,605
+évoluant finalement vers la forme
+la plus efficace et la plus performante.
+
+417
+00:27:10,970 --> 00:27:12,622
+Nous sommes nés ainsi.
+
+418
+00:27:13,975 --> 00:27:18,223
+Quand ils ont réalisé qu'on ne serait
+jamais l'arme qu'ils voulaient,
+
+419
+00:27:18,405 --> 00:27:20,062
+ils ont décidé d'en finir.
+
+420
+00:27:27,279 --> 00:27:29,474
+Donc, ils ont choisi
+de nous détruire,
+
+421
+00:27:29,594 --> 00:27:31,651
+de ne laisser aucune trace de nous.
+
+422
+00:27:35,692 --> 00:27:37,993
+- Certains ont réussi à survivre.
+- C'est exact.
+
+423
+00:27:38,451 --> 00:27:41,332
+Et, comme leur nom l'indique,
+à se répliquer
+
+424
+00:27:41,452 --> 00:27:44,040
+et à reconstruire
+une force surpuissante.
+
+425
+00:27:48,957 --> 00:27:50,515
+Oh... Mon...
+
+426
+00:27:51,220 --> 00:27:52,469
+Ça rigole plus.
+
+427
+00:28:05,904 --> 00:28:07,981
+Pourquoi attaqueraient-ils
+des mondes humains ?
+
+428
+00:28:08,501 --> 00:28:12,355
+C'était leur stratégie
+dans leur campagne contre les Wraith...
+
+429
+00:28:12,806 --> 00:28:15,989
+Éliminer les réserves
+de nourriture de l'ennemi.
+
+430
+00:28:21,439 --> 00:28:23,204
+Je ne comprends pas une chose.
+
+431
+00:28:23,592 --> 00:28:27,343
+Si, comme vous le dites, ils étaient
+conçus pour combattre les Wraith,
+
+432
+00:28:27,726 --> 00:28:29,461
+pourquoi ont-ils attendu ?
+
+433
+00:28:32,277 --> 00:28:35,069
+- J'ai le ZPM. On y va.
+- Attends. On peut pas y aller.
+
+434
+00:28:35,353 --> 00:28:38,222
+De quoi tu parles ?
+Tu peux pas réparer l'hyperpropulsion ?
+
+435
+00:28:38,386 --> 00:28:41,201
+Si, mais pas tout de suite.
+Pendant qu'Elizabeth était connectée,
+
+436
+00:28:41,321 --> 00:28:43,536
+j'ai parcouru
+le code de base des Réplicateurs,
+
+437
+00:28:43,657 --> 00:28:45,070
+et j'ai trouvé ça.
+
+438
+00:28:46,544 --> 00:28:47,952
+C'est quoi ?
+
+439
+00:28:49,283 --> 00:28:52,380
+Le Saint Graal.
+La raison de leur existence.
+
+440
+00:28:52,577 --> 00:28:55,028
+C'est une commande
+qui leur ordonne d'attaquer les Wraith.
+
+441
+00:28:55,188 --> 00:28:56,895
+Mais ils le font pas.
+
+442
+00:28:57,015 --> 00:28:59,783
+Ils sont restés sur leur cul de nanites
+pendant 10 000 ans.
+
+443
+00:28:59,943 --> 00:29:01,617
+Parce que ça a été désactivé.
+
+444
+00:29:02,404 --> 00:29:06,081
+Vous nous dites que vous êtes ceux
+qui ont activé la commande d'attaque ?
+
+445
+00:29:06,241 --> 00:29:09,167
+On ignorait qu'ils allaient attaquer
+des mondes humains.
+
+446
+00:29:09,327 --> 00:29:11,711
+Parce que vous avez agi
+sans réfléchir aux conséquences.
+
+447
+00:29:12,068 --> 00:29:13,625
+Nous avions une opportunité,
+
+448
+00:29:14,405 --> 00:29:16,257
+qui n'allait pas se représenter.
+
+449
+00:29:17,030 --> 00:29:19,511
+Croyez-moi, cette décision
+n'a pas été prise à la légère.
+
+450
+00:29:20,815 --> 00:29:21,854
+En fait,
+
+451
+00:29:23,330 --> 00:29:25,504
+ça nous a coûté
+un de nos meilleurs éléments.
+
+452
+00:29:32,145 --> 00:29:33,358
+Allez au Jumper.
+
+453
+00:29:34,113 --> 00:29:35,318
+Vous venez avec nous.
+
+454
+00:29:36,299 --> 00:29:38,530
+Je ne peux plus les figer
+très longtemps.
+
+455
+00:29:39,073 --> 00:29:40,824
+On vous abandonne pas.
+
+456
+00:29:41,068 --> 00:29:42,840
+Si vous ne partez pas maintenant,
+
+457
+00:29:42,960 --> 00:29:46,079
+personne ne pourra s'en sortir, partez !
+C'est un ordre !
+
+458
+00:29:47,690 --> 00:29:48,706
+Allons-y !
+
+459
+00:29:49,653 --> 00:29:50,794
+Partez !
+
+460
+00:29:54,741 --> 00:29:57,056
+L'un des vôtres est mort,
+et vous considérez ça
+
+461
+00:29:57,176 --> 00:29:58,810
+comme un sacrifice terrible ?
+
+462
+00:29:59,668 --> 00:30:02,595
+- En fait, oui.
+- Imaginez ce que nous éprouvons...
+
+463
+00:30:03,160 --> 00:30:05,473
+Certains d'entre nous vu
+des milliers de morts.
+
+464
+00:30:05,821 --> 00:30:08,726
+On ne peut être tenus responsables
+des actions des Réplicateurs.
+
+465
+00:30:08,886 --> 00:30:11,735
+Le colonel Sheppard a donné
+le même argument concernant les Wraith,
+
+466
+00:30:12,046 --> 00:30:14,566
+et dans ce cas,
+je pourrais être d'accord avec lui.
+
+467
+00:30:15,105 --> 00:30:18,342
+Mais vous avez admis
+que c'étaient des machines.
+
+468
+00:30:18,518 --> 00:30:22,508
+Donc si j'arme le détonateur,
+puis-je renier la responsabilité
+
+469
+00:30:22,754 --> 00:30:24,742
+des actions de la bombe ?
+
+470
+00:30:25,296 --> 00:30:27,533
+Par cette logique,
+vous pourriez blâmer les Anciens.
+
+471
+00:30:27,653 --> 00:30:28,753
+Ils les ont créés.
+
+472
+00:30:28,873 --> 00:30:32,357
+Les "Anciens" ne sont pas là
+pour répondre de leurs actions.
+
+473
+00:30:32,780 --> 00:30:33,710
+Vous, si.
+
+474
+00:30:34,080 --> 00:30:37,599
+Nous connaissons six mondes humaines
+détruits par les Réplicateurs.
+
+475
+00:30:37,719 --> 00:30:39,107
+Mais nous savons aussi
+
+476
+00:30:39,227 --> 00:30:42,051
+qu'au moins une douzaine de Ruches
+ont été détruites,
+
+477
+00:30:42,670 --> 00:30:45,676
+qui auraient sûrement fait
+une récolte dans l'année.
+
+478
+00:30:46,086 --> 00:30:49,759
+On pourrait dire, tout bien calculé,
+que plus de vies ont été sauvées
+
+479
+00:30:50,309 --> 00:30:52,612
+- que perdues.
+- Tout bien calculé ?
+
+480
+00:30:53,081 --> 00:30:54,816
+C'est ce que nous sommes pour vous ?
+
+481
+00:30:55,062 --> 00:30:56,232
+De la comptabilité ?
+
+482
+00:30:56,987 --> 00:30:59,736
+Des pions dans un jeu de stratégie,
+
+483
+00:30:59,896 --> 00:31:02,363
+certains qu'on peut sauver
+et d'autres sacrifier ?
+
+484
+00:31:02,909 --> 00:31:06,899
+- Je n'ai pas dit ça pour diminuer...
+- De vraies personnes meurent,
+
+485
+00:31:07,433 --> 00:31:09,037
+de vrais villages sont détruits...
+
+486
+00:31:09,305 --> 00:31:11,136
+Mon village, mon peuple.
+
+487
+00:31:11,797 --> 00:31:15,537
+Mon mari et mes enfants...
+assassinés sous mes yeux.
+
+488
+00:31:17,970 --> 00:31:20,621
+Vous venez d'une planète
+détruite par les Réplicateurs.
+
+489
+00:31:20,741 --> 00:31:23,096
+J'en ai réchappé tout juste,
+
+490
+00:31:23,684 --> 00:31:25,214
+mais j'ai vu
+
+491
+00:31:25,534 --> 00:31:27,319
+tout ce que je chérissais
+
+492
+00:31:27,593 --> 00:31:29,382
+se faire anéantir
+
+493
+00:31:30,366 --> 00:31:32,936
+par un rayon de lumière
+provenant du ciel.
+
+494
+00:31:34,699 --> 00:31:36,435
+Et je ne trouverai pas le repos
+
+495
+00:31:36,640 --> 00:31:39,029
+avant que quelqu'un
+ait payé pour ça.
+
+496
+00:31:48,065 --> 00:31:49,819
+On n'aura pas son vote.
+
+497
+00:31:50,240 --> 00:31:53,535
+C'est inapproprié qu'il y ait quelqu'un
+d'aussi partial dans le conseil.
+
+498
+00:31:54,648 --> 00:31:56,794
+Donc les dés sont pipés.
+
+499
+00:31:57,149 --> 00:31:58,434
+Je ne sais pas.
+
+500
+00:31:58,834 --> 00:32:00,990
+Dimas semble être
+un homme raisonnable.
+
+501
+00:32:01,400 --> 00:32:04,278
+Je crois même qu'on peut
+le persuader de voter pour nous.
+
+502
+00:32:04,398 --> 00:32:06,258
+Kelore est plus difficile à cerner.
+
+503
+00:32:06,378 --> 00:32:08,196
+Je l'ai trouvé plutôt hostile.
+
+504
+00:32:09,618 --> 00:32:12,418
+- Vous avez dit qu'il venait de Latira ?
+- Oui, c'est ça.
+
+505
+00:32:12,538 --> 00:32:15,801
+Un de nos derniers rapports
+suggère une nouvelle relation
+
+506
+00:32:15,921 --> 00:32:18,314
+entre Latira et les Genii.
+
+507
+00:32:19,546 --> 00:32:21,285
+Oui, il a essayé de me convaincre
+
+508
+00:32:21,405 --> 00:32:23,711
+qu'ils pourraient mener
+le combat contre les Wraith.
+
+509
+00:32:23,831 --> 00:32:27,176
+- Les Genii seraient derrière tout ça ?
+- C'est logique.
+
+510
+00:32:28,311 --> 00:32:30,414
+En dehors d'Atlantis,
+ils sont vraiment
+
+511
+00:32:30,534 --> 00:32:32,727
+la plus grosse puissance militaire
+de la coalition.
+
+512
+00:32:32,847 --> 00:32:34,872
+S'ils jouent bien,
+ils peuvent tout diriger.
+
+513
+00:32:35,186 --> 00:32:36,874
+Mais seulement si on est plus là.
+
+514
+00:32:37,034 --> 00:32:39,252
+On avait raison.
+Les jeux sont faits.
+
+515
+00:32:39,627 --> 00:32:41,152
+On passe au plan B...
+
+516
+00:32:41,272 --> 00:32:43,756
+J'attends les gardes,
+les assomme, prends leurs armes,
+
+517
+00:32:43,916 --> 00:32:46,843
+- et on tire pour sortir.
+- On connaît la sortie ?
+
+518
+00:32:47,003 --> 00:32:50,325
+On est deux étages sous terre,
+il y a au moins une douzaine de gardes
+
+519
+00:32:50,445 --> 00:32:51,472
+en permanence.
+
+520
+00:32:51,779 --> 00:32:54,236
+Et à la surface ?
+Combien de gardes là-haut ?
+
+521
+00:32:54,356 --> 00:32:56,656
+Et où est la Porte ?
+À quelle distance ?
+
+522
+00:32:57,402 --> 00:33:00,031
+Ce sont de petites choses
+qu'on résoudra en chemin.
+
+523
+00:33:00,151 --> 00:33:01,151
+Trop risqué.
+
+524
+00:33:01,271 --> 00:33:03,693
+On pourrait se faire tirer dessus
+avant de sortir.
+
+525
+00:33:04,010 --> 00:33:06,988
+Quel choix on a ?
+On ne peut pas gagner ça.
+
+526
+00:33:07,884 --> 00:33:09,407
+Pas honnêtement, non.
+
+527
+00:33:12,862 --> 00:33:14,162
+De quoi vous parlez ?
+
+528
+00:33:14,669 --> 00:33:18,031
+Je dis :
+maintenant que j'ai les cartes en main,
+
+529
+00:33:18,898 --> 00:33:20,071
+je peux jouer.
+
+530
+00:33:26,305 --> 00:33:29,385
+Kelore,
+merci d'accepter de me rencontrer.
+
+531
+00:33:30,570 --> 00:33:31,991
+Attendez dehors.
+
+532
+00:33:38,246 --> 00:33:41,821
+Ça m'a coûté une montre à gousset
+qui a appartenu à mon père
+
+533
+00:33:41,941 --> 00:33:43,274
+pour qu'il m'amène ici.
+
+534
+00:33:43,999 --> 00:33:46,569
+Vous n'auriez pas dû.
+Je ne peux rien faire pour vous.
+
+535
+00:33:47,089 --> 00:33:49,113
+Je suis peut-être généreux ce soir.
+
+536
+00:33:49,738 --> 00:33:50,698
+Dites-moi.
+
+537
+00:33:51,674 --> 00:33:53,284
+Vous pariez sur le mauvais cheval.
+
+538
+00:33:54,236 --> 00:33:56,764
+Nous savons que vous êtes en contact
+avec les Genii.
+
+539
+00:34:01,569 --> 00:34:03,127
+De quoi parlez-vous ?
+
+540
+00:34:03,247 --> 00:34:07,131
+Nous savons aussi qu'ils veulent être
+la force militaire de la coalition.
+
+541
+00:34:09,715 --> 00:34:11,998
+Nous pensons être un meilleur choix.
+
+542
+00:34:12,804 --> 00:34:14,347
+Vous ? Atlantis ?
+
+543
+00:34:14,507 --> 00:34:15,717
+Exactement.
+
+544
+00:34:17,404 --> 00:34:19,894
+Je n'avais pas réalisé
+que vous aviez cette ambition.
+
+545
+00:34:21,793 --> 00:34:24,679
+Nous nous sommes contentés
+de rester en éveil jusqu'à présent,
+
+546
+00:34:25,718 --> 00:34:28,644
+mais s'il faut choisir
+entre sortir du jeu
+
+547
+00:34:28,764 --> 00:34:30,760
+ou y prendre une part plus active,
+
+548
+00:34:30,966 --> 00:34:33,074
+ce n'est pas vraiment un choix,
+n'est-ce pas ?
+
+549
+00:34:33,766 --> 00:34:36,911
+Bien sûr, pour sauver les apparences,
+nous ne pouvons être trop agressifs,
+
+550
+00:34:37,593 --> 00:34:40,483
+nous aurons donc besoin
+de quelqu'un à l'intérieur
+
+551
+00:34:41,094 --> 00:34:43,194
+pour nous aider dans notre projet...
+
+552
+00:34:44,780 --> 00:34:46,921
+Envers qui nous serions
+très très reconnaissants.
+
+553
+00:34:51,070 --> 00:34:53,912
+Comment savoir si vous n'avez pas fait
+la même offre aux autres ?
+
+554
+00:34:54,032 --> 00:34:57,790
+Nous savons tous les deux
+que Dimas sera du côté de la raison,
+
+555
+00:34:58,637 --> 00:35:01,919
+et que Shiana votera contre nous,
+quoi qu'on fasse.
+
+556
+00:35:07,279 --> 00:35:08,599
+Ne reste que vous.
+
+557
+00:35:21,644 --> 00:35:24,570
+M. Woolsey, êtes-vous prêt
+à entendre la dernière accusation ?
+
+558
+00:35:26,154 --> 00:35:27,221
+Je le suis.
+
+559
+00:35:27,821 --> 00:35:31,215
+Les gens d'Atlantis sont accusés
+de conspirer avec les Wraith.
+
+560
+00:35:31,698 --> 00:35:32,598
+Conspirer ?
+
+561
+00:35:32,718 --> 00:35:35,303
+Des rapports montrent qu'Atlantis
+a négocié avec les Wraith
+
+562
+00:35:35,540 --> 00:35:38,205
+et réalisé avec eux
+des opérations militaires.
+
+563
+00:35:38,547 --> 00:35:41,517
+Il se dit que vous vous êtes alliés
+avec un Wraith en particulier.
+
+564
+00:35:42,393 --> 00:35:43,436
+Todd.
+
+565
+00:35:45,290 --> 00:35:46,958
+On le nomme ainsi.
+
+566
+00:35:48,735 --> 00:35:52,361
+Ce Wraith était prisonnier des Genii
+avec le colonel Sheppard.
+
+567
+00:35:53,083 --> 00:35:55,448
+Bien qu'on ait permis au Wraith
+de se nourrir de lui,
+
+568
+00:35:55,608 --> 00:35:59,619
+le colonel Sheppard a réalisé que
+pour s'échapper, ils devaient coopérer.
+
+569
+00:36:46,714 --> 00:36:47,913
+Par où ?
+
+570
+00:36:48,928 --> 00:36:50,227
+Par ici.
+
+571
+00:36:53,291 --> 00:36:55,424
+Et vous continuez
+à traiter avec ce Wraith ?
+
+572
+00:36:56,122 --> 00:36:58,469
+On a... des contacts occasionnels.
+
+573
+00:36:58,898 --> 00:37:00,888
+- Vous lui faites confiance ?
+- Pas du tout.
+
+574
+00:37:01,501 --> 00:37:03,850
+Mais il s'est parfois montré utile.
+
+575
+00:37:04,764 --> 00:37:07,173
+Il nous a aidés à retenir
+les Réplicateurs assez longtemps
+
+576
+00:37:07,293 --> 00:37:10,753
+pour que le Dr McKay les détruise.
+
+577
+00:37:17,463 --> 00:37:19,407
+Perte d'énergie en section interne.
+
+578
+00:37:19,527 --> 00:37:22,243
+Transfert d'énergie des systèmes
+non critiques pour régénération.
+
+579
+00:37:28,897 --> 00:37:31,919
+- Le bouclier ne supportera pas plus.
+- Espérons qu'il n'aura pas à le faire.
+
+580
+00:37:32,695 --> 00:37:36,355
+Soyez prêt à transférer
+l'énergie des armes vers...
+
+581
+00:37:48,127 --> 00:37:50,642
+- Putain...
+- Mon salaud...
+
+582
+00:37:51,912 --> 00:37:53,416
+Il l'a vraiment fait.
+
+583
+00:38:03,622 --> 00:38:06,295
+- Il faut partir d'ici.
+- Allons-y, vite !
+
+584
+00:38:16,935 --> 00:38:19,804
+J'aurais vraiment aimé,
+mais on peut pas rester à regarder.
+
+585
+00:38:19,924 --> 00:38:22,355
+Disons à la flotte de sauter
+au point de rendez-vous.
+
+586
+00:38:22,475 --> 00:38:24,096
+La planète devient instable.
+
+587
+00:38:44,899 --> 00:38:45,992
+En fait,
+
+588
+00:38:46,793 --> 00:38:49,330
+on n'aurait pas vaincu
+les Réplicateurs sans son aide.
+
+589
+00:38:50,103 --> 00:38:53,203
+On peut dire
+qu'ils auraient continué
+
+590
+00:38:53,323 --> 00:38:54,877
+d'attaquer des mondes humains
+
+591
+00:38:55,087 --> 00:38:58,107
+et aujourd'hui,
+tout le monde dans cette galaxie
+
+592
+00:38:59,254 --> 00:39:00,216
+serait mort.
+
+593
+00:39:05,159 --> 00:39:06,358
+Très bien.
+
+594
+00:39:06,991 --> 00:39:11,159
+C'était la dernière accusation,
+nous nous retirons pour délibérer.
+
+595
+00:39:11,337 --> 00:39:14,021
+J'aimerais dire une dernière chose,
+si je peux.
+
+596
+00:39:16,770 --> 00:39:18,054
+Faites.
+
+597
+00:39:18,273 --> 00:39:20,174
+Les Wraith sont en désaccord,
+
+598
+00:39:20,625 --> 00:39:22,535
+mais ça ne durera pas.
+
+599
+00:39:23,331 --> 00:39:26,598
+Tôt ou tard,
+une faction vaincra les autres.
+
+600
+00:39:27,336 --> 00:39:28,842
+Et alors,
+
+601
+00:39:28,962 --> 00:39:31,335
+elle se tournera
+vers cette coalition
+
+602
+00:39:31,455 --> 00:39:34,706
+pour une vengeance impitoyable,
+comme jamais.
+
+603
+00:39:38,611 --> 00:39:40,361
+Si vous ne nous voulez pas
+
+604
+00:39:40,757 --> 00:39:43,480
+pour combattre à vos côtés
+quand ce jour viendra,
+
+605
+00:39:44,929 --> 00:39:46,446
+alors, n'hésitez pas,
+
+606
+00:39:47,983 --> 00:39:49,598
+déclarez-nous coupables.
+
+607
+00:39:50,478 --> 00:39:52,420
+Pas besoin de délibérer.
+
+608
+00:39:53,212 --> 00:39:55,358
+Finissons-en maintenant.
+
+609
+00:39:58,077 --> 00:39:59,234
+Très bien.
+
+610
+00:40:02,082 --> 00:40:04,925
+Je vote coupable,
+pour toutes les charges.
+
+611
+00:40:07,735 --> 00:40:09,410
+Je vote non coupable.
+
+612
+00:40:11,034 --> 00:40:14,749
+La décision vous revient, Kelore.
+Votre vote est décisif.
+
+613
+00:40:37,485 --> 00:40:38,814
+Alors ?
+La sentence ?
+
+614
+00:40:39,799 --> 00:40:41,692
+- Non coupable.
+- Merci, mon Dieu.
+
+615
+00:40:41,955 --> 00:40:43,486
+On est libres.
+
+616
+00:40:44,594 --> 00:40:46,572
+J'ai jamais douté de vous.
+
+617
+00:40:58,548 --> 00:40:59,628
+Joli costume.
+
+618
+00:41:00,981 --> 00:41:04,279
+Plaider m'a fait regretter
+mon ancien uniforme.
+
+619
+00:41:04,488 --> 00:41:07,600
+- Vous plaisantez.
+- Pas le boulot, l'uniforme.
+
+620
+00:41:10,266 --> 00:41:11,551
+Oh, c'est super.
+
+621
+00:41:12,480 --> 00:41:14,350
+Ça me semblait approprié.
+
+622
+00:41:17,740 --> 00:41:20,803
+Vous allez me dire
+comment vous vous y êtes pris ?
+
+623
+00:41:20,923 --> 00:41:23,415
+C'était une combinaison de choses...
+
+624
+00:41:23,535 --> 00:41:25,874
+Mon expérience, mon éloquence,
+
+625
+00:41:26,324 --> 00:41:29,225
+la logique indubitable
+de mes arguments,
+
+626
+00:41:29,345 --> 00:41:31,669
+le pot-de-vin
+que j'ai offert à Kelore.
+
+627
+00:41:35,796 --> 00:41:37,067
+Par-dessus tout,
+
+628
+00:41:37,832 --> 00:41:39,500
+je devais engager Atlantis
+
+629
+00:41:39,660 --> 00:41:42,865
+dans une participation plus large
+
+630
+00:41:42,985 --> 00:41:45,555
+dans la politique
+de la galaxie de Pégase.
+
+631
+00:41:46,219 --> 00:41:48,598
+Une façon de l'expliquer
+dans mon rapport...
+
+632
+00:41:49,307 --> 00:41:51,762
+Pourquoi on est là
+si c'est pas pour faire la différence ?
+
+633
+00:41:52,479 --> 00:41:54,802
+Espérons que le CIS
+partage votre vision.
+
+634
+00:41:55,513 --> 00:41:57,741
+On s'en occupera plus tard.
+Pour le moment,
+
+635
+00:41:58,656 --> 00:41:59,996
+félicitations.
+
+636
+00:42:00,802 --> 00:42:01,865
+Merci.
+

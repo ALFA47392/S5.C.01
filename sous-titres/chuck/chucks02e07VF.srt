@@ -1,0 +1,2588 @@
+1
+00:00:00,248 --> 00:00:03,377
+<i>Salut, je suis Chuck. Voici des infos
+dont vous pourriez avoir besoin.</i>
+
+2
+00:00:04,505 --> 00:00:06,714
+Impensable que tu dînes
+avec la fille
+
+3
+00:00:06,882 --> 00:00:09,803
+qui t'a largué, brisé le cœur
+et couché avec ton meilleur ami.
+
+4
+00:00:09,968 --> 00:00:12,345
+Et ta copine de couverture ?
+Elle sera pas jalouse ?
+
+5
+00:00:12,513 --> 00:00:15,723
+C'est qu'une couverture.
+Pas de quoi être jaloux.
+
+6
+00:00:17,728 --> 00:00:19,441
+Voici mon patron, Guy LaFleur.
+
+7
+00:00:20,062 --> 00:00:21,646
+- Enchanté.
+- <i>Selon le MI-6,</i>
+
+8
+00:00:21,815 --> 00:00:23,879
+<i>il aurait développé une arme</i>
+
+9
+00:00:24,004 --> 00:00:25,858
+<i>qu'il veut vendre au plus offrant.</i>
+
+10
+00:00:29,220 --> 00:00:32,073
+<i>L'assassin, que l'agent Walker a tué,
+était un membre de Fulcrum.</i>
+
+11
+00:00:32,241 --> 00:00:34,575
+<i>Si Jill sait quelque chose,
+ils ont un rôle pour elle.</i>
+
+12
+00:00:43,720 --> 00:00:45,128
+On a 20 secondes.
+
+13
+00:01:06,984 --> 00:01:10,258
+Bienvenue dans le monde
+de l'espionnage international.
+
+14
+00:01:10,644 --> 00:01:12,276
+Pratique pour les pique-niques.
+
+15
+00:01:12,401 --> 00:01:14,952
+J'arrive pas à croire
+que t'es un espion.
+
+16
+00:01:15,638 --> 00:01:17,475
+Tu m'as jamais dit
+comment c'est arrivé.
+
+17
+00:01:18,860 --> 00:01:21,080
+On ne choisit pas son métier, Jill.
+
+18
+00:01:21,442 --> 00:01:23,128
+C'est le métier qui te choisit.
+
+19
+00:01:23,542 --> 00:01:25,084
+Bref, je n'y avais jamais pensé.
+
+20
+00:01:25,252 --> 00:01:27,336
+Que penses-tu
+de cette vue romantique ?
+
+21
+00:01:27,506 --> 00:01:29,520
+Ouais, très romantique.
+
+22
+00:01:29,645 --> 00:01:31,757
+Quoi ? C'est le toit du Buy More.
+
+23
+00:01:32,071 --> 00:01:33,968
+Tu le sens ?
+Ce que tu sens en ce moment,
+
+24
+00:01:34,093 --> 00:01:36,679
+c'est de l'air très rare,
+peu de gens l'ont respiré.
+
+25
+00:01:37,044 --> 00:01:38,313
+Sans oublier...
+
+26
+00:01:38,922 --> 00:01:42,435
+que peu d'endroits où je peux aller
+ne sont pas constamment surveillés.
+
+27
+00:01:43,093 --> 00:01:44,562
+Le gouvernement me trouve...
+
+28
+00:01:46,483 --> 00:01:48,274
+très... précieux.
+
+29
+00:01:49,202 --> 00:01:50,443
+Je les comprends.
+
+30
+00:02:04,835 --> 00:02:06,834
+C'est une blague ? Reste là.
+
+31
+00:02:10,235 --> 00:02:11,666
+<i>Lâche-moi un peu.</i>
+
+32
+00:02:12,102 --> 00:02:13,244
+<i>Tu te fous de moi ?</i>
+
+33
+00:02:13,369 --> 00:02:15,552
+- <i>Elle est ici, on a à manger...</i>
+- Amateur.
+
+34
+00:02:15,848 --> 00:02:17,343
+C'est vraiment nécessaire ?
+
+35
+00:02:17,468 --> 00:02:20,181
+- Que risque-t-il à un rendez-vous ?
+- C'est Bartowski.
+
+36
+00:02:22,474 --> 00:02:24,544
+Plutôt nonchalante
+avec ton "copain superordinateur"
+
+37
+00:02:24,669 --> 00:02:28,406
+- qui surfe sur le réseau d'une autre.
+- Je suis que sa copine de couverture.
+
+38
+00:02:28,531 --> 00:02:30,400
+<i>Avec tes écrans...
+Tu t'en fous, hein ?</i>
+
+39
+00:02:31,557 --> 00:02:32,944
+Chuck en mérite une vraie.
+
+40
+00:02:36,615 --> 00:02:38,114
+<i>Major Casey, Agent Walker.</i>
+
+41
+00:02:38,407 --> 00:02:39,992
+<i>J'ai votre nouvelle mission.</i>
+
+42
+00:02:40,162 --> 00:02:42,494
+<i>Mais il faudra utiliser
+des méthodes peu orthodoxes.</i>
+
+43
+00:02:42,938 --> 00:02:45,247
+<i>Notre défunt docteur, Guy LaFleur,</i>
+
+44
+00:02:45,417 --> 00:02:48,083
+<i>avait listé les agents de la CIA
+qui travaillaient avec lui.</i>
+
+45
+00:02:48,253 --> 00:02:50,751
+<i>Nous pensons
+que c'est une liste d'agents de Fulcrum.</i>
+
+46
+00:02:50,876 --> 00:02:54,006
+<i>Ça pourrait être notre seule chance
+de trouver les agents corrompus.</i>
+
+47
+00:02:54,176 --> 00:02:56,008
+Super. Et où est la liste ?
+
+48
+00:02:56,178 --> 00:02:58,844
+<i>On pense qu'elle est cachée
+dans l'hôtel de Guy, le </i>Waldron.
+
+49
+00:02:59,014 --> 00:03:00,970
+<i>On doit récupérer
+cette liste avant Fulcrum.</i>
+
+50
+00:03:01,095 --> 00:03:04,141
+<i>Emmenez-y l'Intersect
+et voyez s'il a un flash.</i>
+
+51
+00:03:04,311 --> 00:03:06,727
+<i>Chuck pourra peut-être la trouver.</i>
+
+52
+00:03:06,897 --> 00:03:09,521
+On doit s'infiltrer
+sur une scène de crime ?
+
+53
+00:03:10,290 --> 00:03:11,732
+C'est le FBI. Ça sera facile.
+
+54
+00:03:13,861 --> 00:03:15,130
+Cible à 5 heures.
+
+55
+00:03:15,614 --> 00:03:16,812
+Je m'en occupe.
+
+56
+00:03:23,921 --> 00:03:25,871
+Une caméra sur le toit, pourquoi ?
+
+57
+00:03:26,041 --> 00:03:27,818
+Des activités terroristes
+au Buy More ?
+
+58
+00:03:27,943 --> 00:03:30,082
+Casey a été un peu agressif,
+
+59
+00:03:30,252 --> 00:03:32,434
+mais on vient d'avoir
+une nouvelle mission.
+
+60
+00:03:32,881 --> 00:03:35,172
+Demain, on ira dans la chambre d'hôtel
+de Guy LaFleur.
+
+61
+00:03:35,342 --> 00:03:38,799
+On pense qu'il avait une liste d'agents
+de Fulcrum qui le faisaient chanter.
+
+62
+00:03:40,055 --> 00:03:42,429
+On en reparle demain ?
+Jill m'attend dans la voiture.
+
+63
+00:03:43,340 --> 00:03:44,932
+- Bien sûr.
+- OK, merci.
+
+64
+00:03:47,406 --> 00:03:48,776
+Tout va bien ?
+
+65
+00:03:50,721 --> 00:03:52,230
+Oui, ça va, pourquoi ?
+
+66
+00:03:52,400 --> 00:03:55,442
+Ou c'est un truc d'espion ?
+Un test psychologique ou...
+
+67
+00:03:56,196 --> 00:03:59,113
+C'est un truc d'amis.
+Je veux juste savoir si tu vas bien.
+
+68
+00:04:00,575 --> 00:04:01,948
+Ouais, je vais bien.
+
+69
+00:04:02,485 --> 00:04:04,370
+Être avec Jill est...
+
+70
+00:04:05,037 --> 00:04:08,080
+Je retrouve ma vie d'avant.
+C'est pas pour ruiner notre couverture,
+
+71
+00:04:08,250 --> 00:04:11,208
+mais j'ai oublié
+comment c'est d'être avec quelqu'un...
+
+72
+00:04:11,946 --> 00:04:13,460
+qui me connaît vraiment.
+
+73
+00:04:14,015 --> 00:04:17,214
+De ce que j'ai vu,
+on dirait une chouette fille.
+
+74
+00:04:17,384 --> 00:04:18,799
+Si tu pouvais
+
+75
+00:04:18,969 --> 00:04:22,177
+réduire <i>Big Brother</i>
+sur Chuck Bartowski.
+
+76
+00:04:23,482 --> 00:04:24,638
+J'en parlerai à Casey.
+
+77
+00:04:24,808 --> 00:04:27,974
+- Tu as le droit à ton intimité.
+- Merci.
+
+78
+00:04:56,931 --> 00:04:59,965
+Sarah m'a dit qu'il y aura
+un allègement de ma surveillance.
+
+79
+00:05:00,135 --> 00:05:03,186
+T'es un atout du gouvernement.
+Range ta vie privée au placard.
+
+80
+00:05:03,311 --> 00:05:05,650
+On a essayé.
+Y avait aussi une caméra.
+
+81
+00:05:05,775 --> 00:05:08,707
+Combien de secondes chances
+a-t-on avec une ex ?
+
+82
+00:05:08,832 --> 00:05:10,768
+En plus, elle sait presque que...
+
+83
+00:05:11,101 --> 00:05:13,145
+Mes propres sentiments
+ne m'intéressent pas.
+
+84
+00:05:13,619 --> 00:05:15,605
+Focalise-toi sur la mission.
+On part à 10 h.
+
+85
+00:05:18,605 --> 00:05:21,611
+Le plus beau cadeau du Canada,
+depuis Shania Twain.
+
+86
+00:05:23,726 --> 00:05:24,840
+Observe...
+
+87
+00:05:25,141 --> 00:05:26,742
+le graveur de jeux Q-36.
+
+88
+00:05:26,912 --> 00:05:28,827
+Il ne nous reste qu'à louer un jeu,
+
+89
+00:05:28,997 --> 00:05:31,371
+le graver et jouer gratuitement.
+
+90
+00:05:32,304 --> 00:05:35,876
+Ouais, Big Mike sera tout excité
+de voir nos ventes de jeux vidéo.
+
+91
+00:05:36,046 --> 00:05:38,837
+Allez, mec, ce truc casse
+toute forme de protection.
+
+92
+00:05:39,007 --> 00:05:40,380
+Il peut tout graver !
+
+93
+00:05:40,846 --> 00:05:42,929
+- Complètement illégal.
+- Qu'est-ce qui est illégal ?
+
+94
+00:05:45,966 --> 00:05:47,721
+Vous fumez de l'herbe au déjeuner ?
+
+95
+00:05:49,059 --> 00:05:50,974
+Un petit joint ? Marijuana ?
+
+96
+00:05:52,354 --> 00:05:55,187
+Le banc des accusés, c'est comme
+un concert des <i>Five For Fighting</i>.
+
+97
+00:05:57,149 --> 00:05:58,305
+Si féroce.
+
+98
+00:05:58,957 --> 00:06:02,277
+- Puis-je vous voir dans mon bureau ?
+- Désolé, je peux pas.
+
+99
+00:06:02,447 --> 00:06:04,780
+- Je dois y aller.
+- Ah oui ? Où ?
+
+100
+00:06:05,574 --> 00:06:06,990
+En dehors de la ville.
+
+101
+00:06:07,160 --> 00:06:08,950
+Ça va prendre du temps, donc...
+
+102
+00:06:09,834 --> 00:06:10,869
+À plus.
+
+103
+00:06:14,479 --> 00:06:17,375
+Tu vas dans un hôtel
+avec ta copine de couverture ?
+
+104
+00:06:18,774 --> 00:06:20,691
+Si ça peut te consoler,
+
+105
+00:06:21,022 --> 00:06:24,380
+y aura aussi Casey
+et des armes à feu.
+
+106
+00:06:24,505 --> 00:06:26,905
+Donc, rien de romantique.
+
+107
+00:06:29,675 --> 00:06:32,266
+Comment est cette Sarah ?
+Elle est mignonne ?
+
+108
+00:06:34,348 --> 00:06:36,000
+Je pourrais comprendre...
+
+109
+00:06:36,125 --> 00:06:39,933
+qu'un homme hétéro puisse
+la trouver physiquement plaisante.
+
+110
+00:06:40,058 --> 00:06:42,275
+Et si on me demandait :
+"Chuck, techniquement,
+
+111
+00:06:42,445 --> 00:06:45,228
+"trouves-tu ta partenaire
+de la CIA, séduisante ?"
+
+112
+00:06:45,353 --> 00:06:46,947
+Alors je dirais : "Techniquement,
+
+113
+00:06:49,891 --> 00:06:50,617
+"oui."
+
+114
+00:06:54,711 --> 00:06:58,667
+Et aucune de ces missions
+n'est excitante ou romantique ?
+
+115
+00:07:00,564 --> 00:07:01,378
+Non.
+
+116
+00:07:01,685 --> 00:07:05,215
+Il n'y a rien de glamour ou de sexy,
+dans ce boulot.
+
+117
+00:07:20,316 --> 00:07:21,861
+The Yvonne's Team présente :
+
+118
+00:07:22,105 --> 00:07:23,821
+Épisode 207
+<i>Chuck Versus the Fat Lady</i>
+
+119
+00:07:26,108 --> 00:07:28,993
+Synchro et adaptation :
+satirik, mylon, Roms10 et clems260
+
+120
+00:07:32,114 --> 00:07:34,577
+Un grand merci à Bbsiocnarf !
+
+121
+00:08:00,168 --> 00:08:02,777
+Était-ce vraiment nécessaire
+de t'habiller comme une...
+
+122
+00:08:02,941 --> 00:08:04,658
+- Une escort-girl ?
+- C'est ça.
+
+123
+00:08:04,856 --> 00:08:07,448
+Pourquoi M. Carmichael te paye
+pour faire l'amour avec moi...
+
+124
+00:08:07,614 --> 00:08:10,786
+- lui ?
+- Cet hôtel reçoit des hommes d'affaires
+
+125
+00:08:10,911 --> 00:08:12,991
+ et leurs rendez-vous coquins.
+Joue le jeu !
+
+126
+00:08:16,693 --> 00:08:17,746
+C'est combien ?
+
+127
+00:08:21,720 --> 00:08:23,349
+J'ai la caméra de surveillance.
+
+128
+00:08:23,474 --> 00:08:25,959
+On dirait que le FBI
+surveille la chambre de Guy.
+
+129
+00:08:26,583 --> 00:08:29,278
+On va pas leur demander
+la permission de passer.
+
+130
+00:08:29,886 --> 00:08:31,515
+On entrera par la ventilation.
+
+131
+00:08:39,461 --> 00:08:40,967
+Ça prendra du temps ?
+
+132
+00:08:41,092 --> 00:08:42,812
+Pourquoi ? T'as un rencard ?
+
+133
+00:08:43,646 --> 00:08:44,773
+En fait, oui.
+
+134
+00:08:46,173 --> 00:08:47,943
+Tu devrais leur dire qu'on arrive.
+
+135
+00:08:49,242 --> 00:08:51,071
+- Désolé.
+- Crétin.
+
+136
+00:08:51,241 --> 00:08:52,951
+J'essaie de savoir
+quand je rentrerai.
+
+137
+00:08:53,417 --> 00:08:55,867
+Pense à la couverture.
+Combien de temps a l'homme d'affaire
+
+138
+00:08:56,037 --> 00:08:57,953
+pour se taper la prostituée ?
+
+139
+00:08:58,123 --> 00:08:59,279
+Stupide téléphone.
+
+140
+00:09:07,837 --> 00:09:10,336
+<i>Sarah, ça devrait pas prendre...</i>
+
+141
+00:09:10,652 --> 00:09:12,941
+<i>plus d'une heure
+pour qu'on fasse l'amour ?</i>
+
+142
+00:09:14,152 --> 00:09:15,214
+Et...
+
+143
+00:09:16,376 --> 00:09:17,138
+Top.
+
+144
+00:09:19,431 --> 00:09:21,519
+<i>Qu'est-ce qui... coince ?</i>
+
+145
+00:09:23,690 --> 00:09:25,730
+Décale ta hanche sur la droite.
+
+146
+00:09:29,487 --> 00:09:31,219
+<i>C'est plus fatigant que je pensais.</i>
+
+147
+00:09:31,344 --> 00:09:32,988
+<i>On peut pas y aller directement.</i>
+
+148
+00:09:33,375 --> 00:09:35,115
+T'as pas mal aux genoux ?
+
+149
+00:09:35,530 --> 00:09:37,572
+<i>T'es allée dans une école
+pour faire ça ?</i>
+
+150
+00:09:45,587 --> 00:09:47,628
+Hé, comment allez-vous ?
+
+151
+00:09:47,753 --> 00:09:50,634
+Bonjour, Emmett.
+Je venais manger un morceau.
+
+152
+00:09:50,799 --> 00:09:52,684
+Vous vous en passerez.
+Asseyez-vous.
+
+153
+00:09:59,728 --> 00:10:03,352
+Imaginez un instant
+que BuyMore est un pays.
+
+154
+00:10:04,459 --> 00:10:05,311
+La Buymorie.
+
+155
+00:10:08,318 --> 00:10:10,519
+- Comment saviez-vous ?
+- Des années que j'y pense.
+
+156
+00:10:10,644 --> 00:10:11,693
+Fantastique.
+
+157
+00:10:14,732 --> 00:10:17,032
+Imaginez que tous ses employés
+
+158
+00:10:17,202 --> 00:10:18,908
+sont les États
+de cette grande nation.
+
+159
+00:10:20,061 --> 00:10:20,869
+Je vois.
+
+160
+00:10:21,039 --> 00:10:23,460
+Et, que l'un d'entre eux
+
+161
+00:10:23,585 --> 00:10:25,874
+cherche à se séparer de l'union.
+
+162
+00:10:28,002 --> 00:10:29,560
+Attendez un peu.
+
+163
+00:10:29,685 --> 00:10:32,047
+Vous doutez
+du patriotisme de Chuck ?
+
+164
+00:10:33,225 --> 00:10:36,346
+Où va-t-il ? Aucune trace
+de ses interventions extérieures.
+
+165
+00:10:36,511 --> 00:10:39,388
+Qu'est-ce qu'il prend ?
+Des amphets ? De la colle ?
+
+166
+00:10:39,908 --> 00:10:42,182
+- Enfant illégitime ?
+- Vous perdez la tête.
+
+167
+00:10:42,954 --> 00:10:44,123
+Peut-être.
+
+168
+00:10:44,505 --> 00:10:46,395
+Je perds tellement la tête
+
+169
+00:10:46,563 --> 00:10:49,147
+que j'ai été fouiner dans la vôtre.
+
+170
+00:10:50,859 --> 00:10:52,109
+Voyons ça.
+
+171
+00:10:54,738 --> 00:10:57,702
+Ceci pourrait être
+un motif d'expulsion de Buymorie.
+
+172
+00:10:58,643 --> 00:10:59,657
+Vous bluffez.
+
+173
+00:11:00,009 --> 00:11:02,911
+Aidez-moi, Morgan.
+Aidez-moi. Aidez Chuck.
+
+174
+00:11:04,985 --> 00:11:06,206
+Il en a pas besoin.
+
+175
+00:11:08,628 --> 00:11:09,838
+C'est comme ça.
+
+176
+00:11:10,003 --> 00:11:11,336
+Le jour, on s'ennuie.
+
+177
+00:11:11,766 --> 00:11:13,061
+C'est bien vrai.
+
+178
+00:11:15,825 --> 00:11:17,259
+Tu fais quoi là-haut ?
+
+179
+00:11:20,920 --> 00:11:23,265
+- Le FBI est débile, pas sourd.
+- Merci.
+
+180
+00:12:32,570 --> 00:12:33,928
+<i>Et après, elle...</i>
+
+181
+00:12:34,522 --> 00:12:36,546
+<i>Je te jure que...</i>
+
+182
+00:12:39,801 --> 00:12:43,136
+- On attendait personne.
+- Jamais de congés quand il faut.
+
+183
+00:13:10,383 --> 00:13:11,956
+On a la même définition
+
+184
+00:13:12,126 --> 00:13:14,459
+- du mot "silence" ?
+- Je pensais être sur vibreur.
+
+185
+00:13:14,629 --> 00:13:16,086
+J'ai quand même la liste.
+
+186
+00:13:17,102 --> 00:13:18,547
+C'est un casse-tête vénitien,
+
+187
+00:13:18,715 --> 00:13:21,279
+très prisé
+par les espions de la Renaissance.
+
+188
+00:13:21,639 --> 00:13:22,884
+Elle est verrouillée.
+
+189
+00:13:24,110 --> 00:13:26,933
+Les sauts, la course, les tirs,
+c'est votre boulot.
+
+190
+00:13:27,100 --> 00:13:28,515
+Je m'occupe des énigmes.
+
+191
+00:13:29,629 --> 00:13:31,839
+Les nombres
+devraient être placés de 1 à 12.
+
+192
+00:13:31,964 --> 00:13:34,563
+Ces boîtes utilisent
+la suite de Fibonacci.
+
+193
+00:13:45,065 --> 00:13:46,277
+Voyons ça.
+
+194
+00:13:53,913 --> 00:13:54,916
+Casey, gaz !
+
+195
+00:13:55,086 --> 00:13:57,002
+Je reviens
+avec l'unité de confinement.
+
+196
+00:13:57,170 --> 00:13:58,213
+Aide-moi !
+
+197
+00:13:58,338 --> 00:14:00,398
+Enlève tes vêtements !
+Dans la douche ! Vite !
+
+198
+00:14:00,523 --> 00:14:02,215
+- Ton pantalon !
+- J'essaye !
+
+199
+00:14:05,803 --> 00:14:08,471
+- C'est froid !
+- Savonne-toi !
+
+200
+00:14:10,143 --> 00:14:11,433
+Désolé, j'ai rien fait !
+
+201
+00:14:12,518 --> 00:14:13,564
+Lave ton visage.
+
+202
+00:14:13,810 --> 00:14:15,770
+- Goût de savon !
+- Les cheveux aussi.
+
+203
+00:14:34,004 --> 00:14:36,387
+Va ouvrir, c'est Casey.
+Pas de temps à perdre.
+
+204
+00:14:41,152 --> 00:14:42,172
+Comment...
+
+205
+00:14:42,685 --> 00:14:44,787
+Le groom m'a indiqué ta chambre.
+
+206
+00:14:54,128 --> 00:14:57,520
+- Je le savais.
+- Attends, c'est pas ce que tu crois !
+
+207
+00:14:58,134 --> 00:15:00,111
+Jill, je suis peut-être mourant !
+
+208
+00:15:06,781 --> 00:15:08,573
+Combien de temps ça va prendre ?
+
+209
+00:15:08,783 --> 00:15:10,742
+Pourquoi Jill a choisi ce moment ?
+
+210
+00:15:10,952 --> 00:15:12,493
+Quelles étaient les chances ?
+
+211
+00:15:12,704 --> 00:15:14,162
+Ça nous donne l'antidote ?
+
+212
+00:15:14,372 --> 00:15:16,967
+Je sens ma gorge qui se noue.
+
+213
+00:15:20,362 --> 00:15:22,086
+C'est quoi ?
+Une bactérie carnivore ?
+
+214
+00:15:22,631 --> 00:15:24,172
+De l'Anthrax ? Je vais mourir ?
+
+215
+00:15:24,382 --> 00:15:27,842
+Non, mais ajoute de la glace
+et donne ça aux gosses des rues.
+
+216
+00:15:28,898 --> 00:15:29,974
+Je le savais.
+
+217
+00:15:30,928 --> 00:15:32,036
+De la drogue.
+
+218
+00:15:32,486 --> 00:15:34,057
+C'est du punch en poudre, abruti.
+
+219
+00:15:36,098 --> 00:15:36,838
+Attends.
+
+220
+00:15:36,963 --> 00:15:39,270
+Non seulement on a pas
+la liste des agents de Fulcrum,
+
+221
+00:15:39,480 --> 00:15:41,606
+mais j'ai perdu Jill,
+car elle m'a surpris
+
+222
+00:15:41,816 --> 00:15:43,775
+nu avec une autre femme,
+à rincer du punch ?
+
+223
+00:15:45,338 --> 00:15:46,402
+Classique.
+
+224
+00:15:47,542 --> 00:15:48,363
+Vraiment ?
+
+225
+00:15:51,148 --> 00:15:52,576
+Je sais pas quoi dire.
+
+226
+00:15:52,967 --> 00:15:54,410
+Bien sûr que si.
+
+227
+00:15:55,048 --> 00:15:57,774
+Vous êtes proche de Charles,
+depuis longtemps.
+
+228
+00:15:57,899 --> 00:16:00,205
+J'ai peut-être surestimé
+notre relation.
+
+229
+00:16:00,330 --> 00:16:02,274
+On se fréquente pas tellement.
+
+230
+00:16:02,399 --> 00:16:05,004
+- Je me suis senti maintes fois humilié.
+- Bien.
+
+231
+00:16:05,642 --> 00:16:07,215
+Donc aucun scrupule à le dénigrer.
+
+232
+00:16:08,050 --> 00:16:10,718
+Je n'ai pas de problème d'éthique,
+je ne sais rien !
+
+233
+00:16:10,928 --> 00:16:13,179
+- Qui, alors ?
+- Demandez à Jeff !
+
+234
+00:16:13,516 --> 00:16:16,516
+Je balance pas ! La seule chose
+que ma mère m'ait apprise de la prison.
+
+235
+00:16:17,078 --> 00:16:19,477
+Vous voulez des réponses,
+demandez au "Peau-Rouge".
+
+236
+00:16:20,438 --> 00:16:22,939
+"Peau-Rouge" est un terme
+qualifiant les Indiens d'Amérique,
+
+237
+00:16:23,149 --> 00:16:24,482
+et non d'Inde, imbécile !
+
+238
+00:16:24,692 --> 00:16:27,443
+- Prends une lame, et décide-toi.
+- Fuyons, il est en mode prison.
+
+239
+00:16:27,653 --> 00:16:28,663
+Fermez-la.
+
+240
+00:16:29,235 --> 00:16:31,049
+Je me suis pas fait comprendre.
+
+241
+00:16:31,174 --> 00:16:34,492
+Vous organisez ici
+des parties de cartes officieuses.
+
+242
+00:16:35,198 --> 00:16:36,994
+Donnez-moi quelque chose
+sur Bartowski,
+
+243
+00:16:37,432 --> 00:16:38,913
+ou plus de soirées poker.
+
+244
+00:16:41,017 --> 00:16:42,166
+Il trompe sa copine.
+
+245
+00:16:43,544 --> 00:16:45,002
+On l'a vu quitter...
+
+246
+00:16:45,251 --> 00:16:47,672
+un palace avec une jolie brune,
+l'autre soir.
+
+247
+00:16:47,924 --> 00:16:50,883
+Pas aussi plantureuse
+que j'aurais aimé...
+
+248
+00:16:51,355 --> 00:16:53,177
+Son nom ?
+Qui est-elle ?
+
+249
+00:16:56,533 --> 00:16:58,766
+Le poker, c'est terminé...
+
+250
+00:17:01,294 --> 00:17:03,271
+Demandez à Morgan.
+Chuck lui dit tout.
+
+251
+00:17:03,727 --> 00:17:05,648
+Sa barbe renferme tant de secrets.
+
+252
+00:17:09,518 --> 00:17:12,158
+C'est encore moi...
+Chuck. 4e tentative.
+
+253
+00:17:12,323 --> 00:17:14,732
+Je comprends tout à fait
+que tu ne me rappelles pas.
+
+254
+00:17:14,857 --> 00:17:18,244
+Si j'avais vu ce que tu as vu,
+je penserais ce que tu penses.
+
+255
+00:17:18,454 --> 00:17:20,336
+Je prétends pas savoir
+ce que tu penses.
+
+256
+00:17:20,461 --> 00:17:22,988
+C'est logique de penser
+que tu as vu ce que tu penses.
+
+257
+00:17:23,113 --> 00:17:24,333
+Si tu le penses.
+
+258
+00:17:25,454 --> 00:17:28,388
+Je pourrais mieux t'expliquer,
+si tu me rappelles.
+
+259
+00:17:28,947 --> 00:17:30,114
+S'il te plaît.
+
+260
+00:17:30,239 --> 00:17:31,972
+Dès que tu voudras.
+
+261
+00:17:40,935 --> 00:17:43,383
+Tu dois donner quelque chose
+à Milbarge, sinon...
+
+262
+00:17:43,768 --> 00:17:45,559
+il nous interdit les soirées poker.
+
+263
+00:17:46,571 --> 00:17:49,275
+Le fais pas pour nous.
+Fais-le pour la Buymorie.
+
+264
+00:17:53,494 --> 00:17:55,031
+Avez-vous réfléchi à tout ça ?
+
+265
+00:17:55,241 --> 00:17:57,700
+Prêt à m'aider, la Buymorie et moi ?
+
+266
+00:18:03,163 --> 00:18:06,671
+Vous voulez savoir ce que fait Chuck
+lors de ces... maintenances ?
+
+267
+00:18:06,833 --> 00:18:08,132
+S'il vous plaît.
+
+268
+00:18:10,709 --> 00:18:13,674
+Il va réparer des ordinateurs
+et des logiciels.
+
+269
+00:18:15,386 --> 00:18:17,720
+Pourquoi le protéger ?
+Que sait-il sur vous ?
+
+270
+00:18:19,171 --> 00:18:21,265
+C'est mon meilleur ami
+depuis 23 ans.
+
+271
+00:18:21,475 --> 00:18:24,481
+Je sais tout ce qu'il y a à savoir.
+Et si vous lui cherchez des crasses,
+
+272
+00:18:24,947 --> 00:18:28,610
+j'ai rien à dire,
+car Chuck est mon plus fidèle allié.
+
+273
+00:18:30,801 --> 00:18:31,876
+- Vraiment ?
+- Oui.
+
+274
+00:18:32,001 --> 00:18:33,569
+Étrange définition de "fidèle",
+
+275
+00:18:33,990 --> 00:18:36,076
+alors que votre pote a 2 copines.
+
+276
+00:18:38,100 --> 00:18:40,664
+- De quoi parlez-vous ?
+- Sa bimbo n'est-elle pas blonde ?
+
+277
+00:18:41,047 --> 00:18:44,580
+Je sais pas si c'est une vraie blonde,
+mais c'est assez impoli de demander ça.
+
+278
+00:18:46,628 --> 00:18:49,173
+- Mais c'est Jill.
+- Merci pour son nom.
+
+279
+00:18:50,588 --> 00:18:52,926
+C'est... sa copine de fac.
+
+280
+00:18:53,325 --> 00:18:56,012
+Encore merci !
+Vous êtes une mine d'informations.
+
+281
+00:18:56,174 --> 00:18:57,931
+Je double ma base de données.
+
+282
+00:18:58,354 --> 00:18:59,910
+Pourquoi ne m'a-t-il rien dit ?
+
+283
+00:19:00,511 --> 00:19:04,104
+Vous pouvez faire votre poker.
+Et ne vous inquiétez pas,
+
+284
+00:19:04,390 --> 00:19:07,566
+je lui dirai pas que le maillon faible
+était son meilleur ami.
+
+285
+00:19:08,694 --> 00:19:09,694
+Merci bien.
+
+286
+00:19:14,487 --> 00:19:17,033
+Merci mille fois d'être venue.
+
+287
+00:19:17,198 --> 00:19:19,787
+Tu as 3 secondes
+pour me convaincre que j'ai rêvé.
+
+288
+00:19:20,984 --> 00:19:23,664
+Ça risque d'être compliqué,
+je peux pas entrer dans les détails
+
+289
+00:19:23,829 --> 00:19:26,585
+sans te dévoiler
+des informations classées top secret.
+
+290
+00:19:27,506 --> 00:19:31,339
+En fouillant, on a trouvé une boîte.
+Mais en l'ouvrant, on a été aspergés.
+
+291
+00:19:31,501 --> 00:19:33,924
+Quand tu nous a vus
+en sous-vêtements,
+
+292
+00:19:34,087 --> 00:19:36,966
+on lavait ce qui semblait être du poison
+mais qui était du punch, en fait.
+
+293
+00:19:37,490 --> 00:19:39,427
+Tu vois ? C'est simple.
+Tu me crois ?
+
+294
+00:19:40,342 --> 00:19:41,600
+Quel genre de punch ?
+
+295
+00:19:42,133 --> 00:19:43,476
+Tu te fous de moi ?
+
+296
+00:19:43,641 --> 00:19:44,890
+Non, je te crois.
+
+297
+00:19:45,101 --> 00:19:46,113
+Vraiment ?
+
+298
+00:19:46,430 --> 00:19:49,848
+Je m'écoute parler, là,
+et je suis totalement ridicule.
+
+299
+00:19:49,973 --> 00:19:51,281
+Guy était parano.
+
+300
+00:19:51,406 --> 00:19:53,649
+Il fallait résoudre une énigme
+pour ouvrir ses mails.
+
+301
+00:19:54,549 --> 00:19:57,991
+Si c'était important, il l'aurait caché.
+Le punch doit être un indice.
+
+302
+00:19:59,618 --> 00:20:02,538
+Je t'emmène quelque part,
+mais avant...
+
+303
+00:20:03,028 --> 00:20:04,331
+Tu aimes les bandeaux ?
+
+304
+00:20:13,475 --> 00:20:14,782
+Tu l'as emmenée ici ?
+
+305
+00:20:17,380 --> 00:20:20,179
+C'est plus un bâtiment secret,
+si t'emmènes des gens.
+
+306
+00:20:20,344 --> 00:20:24,100
+OK, mais Jill connait
+les énigmes de Guy.
+
+307
+00:20:24,265 --> 00:20:26,474
+Deux agents du FBI sont morts
+dans sa chambre.
+
+308
+00:20:26,685 --> 00:20:29,398
+C'est pas le moment de planifier
+votre soirée.
+
+309
+00:20:29,821 --> 00:20:31,007
+Jill, dis-leur
+
+310
+00:20:31,440 --> 00:20:34,235
+à propos du punch
+qui serait un indice.
+
+311
+00:20:34,400 --> 00:20:36,779
+La paranoïa de Guy se manifeste
+étrangement :
+
+312
+00:20:36,941 --> 00:20:38,736
+références littéraires
+et mathématiques.
+
+313
+00:20:38,943 --> 00:20:42,657
+Le mot de passe de son PC
+est tiré au hasard d'un poème de Vogon.
+
+314
+00:20:42,864 --> 00:20:44,820
+Donc que signifie le punch ?
+
+315
+00:20:45,094 --> 00:20:46,415
+Quel genre de punch ?
+
+316
+00:20:48,515 --> 00:20:50,836
+Je suppose, un punch traditionnel.
+
+317
+00:20:51,281 --> 00:20:52,285
+Tu supposes ?
+
+318
+00:20:52,616 --> 00:20:54,798
+J'espère
+que vous avez la formule exacte.
+
+319
+00:20:58,557 --> 00:21:02,431
+- Vous avez un spectromètre ?
+- Casey, va chercher le spectromètre.
+
+320
+00:21:02,843 --> 00:21:03,844
+On en a un ?
+
+321
+00:21:12,356 --> 00:21:14,288
+Je comprends
+ce qu'il voit en elle, hein ?
+
+322
+00:21:14,774 --> 00:21:17,066
+On compare
+la composition de la poudre
+
+323
+00:21:17,273 --> 00:21:19,502
+avec une liste de composants connus.
+
+324
+00:21:28,864 --> 00:21:32,206
+C'est du Hi-C
+parfumé à la framboise pourrie.
+
+325
+00:21:37,672 --> 00:21:39,472
+Framboise pourrie ?
+Peut-être
+
+326
+00:21:39,597 --> 00:21:42,261
+un rapport avec le football
+ou les pom-pom girls ?
+
+327
+00:21:42,423 --> 00:21:46,307
+- Et l'environnement HIC ? Sous DOS.
+- Le DOS ! C'est ça !
+
+328
+00:21:46,889 --> 00:21:48,559
+C'est une boîte à musique.
+
+329
+00:21:48,721 --> 00:21:50,519
+Une boîte à musique...
+En fait...
+
+330
+00:21:50,681 --> 00:21:52,145
+C'est pas le DOS : D-O-S.
+
+331
+00:21:52,270 --> 00:21:54,857
+C'est le "Do"
+comme la note de musique "Do".
+
+332
+00:21:55,019 --> 00:21:56,188
+On a un diapason ?
+
+333
+00:22:04,445 --> 00:22:05,327
+Choriste...
+
+334
+00:22:07,602 --> 00:22:09,368
+Quoi ? J'ai pas réussi à percer.
+
+335
+00:22:13,788 --> 00:22:15,629
+- Regardez ça !
+- Des jumelles d'opéra.
+
+336
+00:22:23,934 --> 00:22:26,305
+En fait, non. C'est une clé.
+
+337
+00:22:26,471 --> 00:22:28,934
+La clé d'un coffret super secret.
+
+338
+00:22:30,054 --> 00:22:32,183
+Le <i>Culper Ring</i> s'en servait
+pour passer des infos
+
+339
+00:22:32,394 --> 00:22:33,981
+durant la guerre d'indépendance.
+
+340
+00:22:36,139 --> 00:22:39,178
+- Impressionnant.
+- C'est bien un intello.
+
+341
+00:22:40,022 --> 00:22:43,407
+Mais avant que tu te sentes plus,
+si c'est la clé, où est le coffre ?
+
+342
+00:22:44,112 --> 00:22:47,908
+La question, mon cher Casey,
+c'est : Où est l'opéra ?
+
+343
+00:22:55,960 --> 00:22:58,004
+Ça t'inquiète pas
+d'impliquer une civile
+
+344
+00:22:58,170 --> 00:23:00,454
+dans une enquête secrète
+du gouvernement ?
+
+345
+00:23:01,258 --> 00:23:04,222
+Elle nous est utile
+pour ses connaissances sur Guy LaFleur.
+
+346
+00:23:05,169 --> 00:23:08,636
+T'es pas jalouse que Bartowski
+ait trouvé un nouvel atout ?
+
+347
+00:23:10,678 --> 00:23:11,847
+Où est cet imbécile ?
+
+348
+00:23:15,869 --> 00:23:18,231
+Guy adore l'opéra.
+Voici sa loge familiale.
+
+349
+00:23:20,549 --> 00:23:23,238
+La classe !
+On a l'impression d'y être.
+
+350
+00:23:24,946 --> 00:23:27,558
+- Comment savoir ce que l'on cherche ?
+- Eh bien...
+
+351
+00:23:28,033 --> 00:23:31,016
+La clé doit concorder
+avec quelque chose...
+
+352
+00:23:33,859 --> 00:23:35,184
+quelque chose...
+
+353
+00:23:38,893 --> 00:23:39,834
+comme ça.
+
+354
+00:23:46,759 --> 00:23:47,971
+On regarde ?
+
+355
+00:24:10,051 --> 00:24:11,242
+Hé, on l'a !
+
+356
+00:24:11,576 --> 00:24:15,160
+- On part dans une minute, OK ?
+- Je n'ai pas une minute. Nous répétons.
+
+357
+00:24:15,368 --> 00:24:17,788
+Une petite minute. Affaire d'État.
+
+358
+00:24:18,955 --> 00:24:19,836
+Attention.
+
+359
+00:24:27,938 --> 00:24:29,633
+Casey, c'est une bombe.
+
+360
+00:24:37,696 --> 00:24:39,916
+La répétition est finie.
+Tout le monde dehors !
+
+361
+00:24:40,041 --> 00:24:41,024
+On y va !
+
+362
+00:24:41,401 --> 00:24:44,302
+C'est incohérent.
+Guy voulait aider les gens.
+
+363
+00:24:44,427 --> 00:24:46,094
+C'est un indice, pas une bombe.
+
+364
+00:24:46,219 --> 00:24:49,323
+Si ça à l'air d'une bombe,
+qu'il y a un minuteur, c'est une bombe !
+
+365
+00:24:49,485 --> 00:24:52,197
+Non, c'est une énigme
+avec un temps limité.
+
+366
+00:24:52,446 --> 00:24:55,122
+- Et si tu te trompes ?
+- Ça n'arrivera pas.
+
+367
+00:24:59,370 --> 00:25:01,044
+Musique... le nom de l'opéra ?
+
+368
+00:25:01,543 --> 00:25:04,089
+- La Traviata de Verdi.
+- Tu connais l'air, non ?
+
+369
+00:25:08,879 --> 00:25:11,638
+- Tu aurais dû faire de la flûte.
+- N'en parlons pas.
+
+370
+00:25:14,546 --> 00:25:17,104
+Tout le monde dehors !
+Allez !
+
+371
+00:25:23,407 --> 00:25:25,985
+Ça marche pas. On y va.
+Chuck, viens !
+
+372
+00:25:26,147 --> 00:25:27,274
+Jill a raison.
+
+373
+00:25:27,749 --> 00:25:29,652
+C'est pas une bombe.
+Je la crois.
+
+374
+00:25:45,048 --> 00:25:46,710
+C'est une clé USB.
+Ça doit être ça.
+
+375
+00:25:49,496 --> 00:25:50,631
+C'est la classe !
+
+376
+00:25:51,422 --> 00:25:54,263
+- Jill, tu as tout fait.
+- Non, c'est toi qui as tout fait.
+
+377
+00:25:59,560 --> 00:26:01,057
+J'aime l'amour.
+
+378
+00:26:03,202 --> 00:26:05,025
+<i>La clé USB contenant la liste de Guy</i>
+
+379
+00:26:05,189 --> 00:26:07,735
+<i>utilise un chiffrage
+en AES 512 bits.</i>
+
+380
+00:26:07,897 --> 00:26:09,528
+<i>L'ordinateur essaye en ce moment</i>
+
+381
+00:26:09,653 --> 00:26:11,907
+<i>de casser le code de chiffrage.</i>
+
+382
+00:26:12,072 --> 00:26:14,044
+<i>Quand ce sera fait,
+on aura l'identité</i>
+
+383
+00:26:14,169 --> 00:26:16,744
+<i>de tous les agents de Fulcrum
+en contact avec Guy.</i>
+
+384
+00:26:16,906 --> 00:26:19,368
+- Combien de temps ?
+<i>- Des heures, voire des jours.</i>
+
+385
+00:26:19,703 --> 00:26:20,999
+<i>Excellent travail.</i>
+
+386
+00:26:21,164 --> 00:26:23,126
+<i>Remerciez l'atout pour son aide.</i>
+
+387
+00:26:23,604 --> 00:26:27,589
+<i>- Au fait, où est Chuck ?</i>
+- Il doit avoir passé la seconde.
+
+388
+00:26:35,800 --> 00:26:38,762
+- Tu as été brillant cette nuit.
+- Non, c'est toi.
+
+389
+00:26:45,522 --> 00:26:46,645
+Non, je peux pas.
+
+390
+00:26:47,016 --> 00:26:49,606
+Tu auras rien à faire.
+Je ferai tout.
+
+391
+00:26:51,253 --> 00:26:53,156
+C'est très gentil de ta part,
+
+392
+00:26:53,317 --> 00:26:54,967
+mais je voulais pas dire ça.
+
+393
+00:26:55,092 --> 00:26:56,406
+Je peux pas faire...
+
+394
+00:26:56,654 --> 00:26:57,785
+<i>ça !
+Je peux pas.</i>
+
+395
+00:26:57,947 --> 00:26:59,871
+<i>Je peux pas le faire.</i>
+
+396
+00:27:02,118 --> 00:27:02,925
+Viens là.
+
+397
+00:27:05,304 --> 00:27:07,921
+- Buy More. Demain.
+- À quelle heure ?
+
+398
+00:27:08,356 --> 00:27:10,669
+À la valeur de la chaleur latente
+de fusion de l'eau...
+
+399
+00:27:11,251 --> 00:27:14,089
+<i>- En calorie par gramme ?
+- Bien sûr.</i>
+
+400
+00:27:14,338 --> 00:27:17,426
+Soustrais le numéro atomique
+du thulium.
+
+401
+00:27:18,951 --> 00:27:19,678
+Pigé ?
+
+402
+00:27:21,099 --> 00:27:23,557
+<i>- OK, je te vois là-bas.</i>
+- Code de nerd.
+
+403
+00:27:34,995 --> 00:27:37,139
+Tu peux me remplacer aujourd'hui ?
+
+404
+00:27:37,264 --> 00:27:40,346
+- Je dois partir plus tôt.
+- Une nuit de folie, hein ?
+
+405
+00:27:40,661 --> 00:27:43,671
+En fait, oui.
+On s'échappe pour un peu de romance.
+
+406
+00:27:43,796 --> 00:27:45,345
+Oh, c'est mignon.
+
+407
+00:27:45,604 --> 00:27:48,169
+Donc Sarah et toi
+prenez du bon temps ?
+
+408
+00:27:48,638 --> 00:27:49,720
+Oui, nous...
+
+409
+00:27:50,166 --> 00:27:52,252
+Épargne-moi, Pinocchio.
+Je sais que tu vois Jill.
+
+410
+00:27:54,133 --> 00:27:57,049
+Quoi ?
+Comment tu sais à propos de Jill ?
+
+411
+00:27:57,859 --> 00:28:00,677
+Je dois être le dernier à le savoir.
+Même Milbarge le sait.
+
+412
+00:28:01,277 --> 00:28:02,304
+C'est Jill.
+
+413
+00:28:02,591 --> 00:28:04,431
+Ça m'a pris des mois
+pour que tu l'oublies.
+
+414
+00:28:04,756 --> 00:28:06,460
+Chuck, t'es mon meilleur ami,
+
+415
+00:28:06,585 --> 00:28:08,727
+mais si tu caches ça,
+tu me caches quoi d'autre ?
+
+416
+00:28:13,686 --> 00:28:16,819
+Je suis désolé. Vraiment.
+Et crois-moi, je voulais
+
+417
+00:28:17,109 --> 00:28:19,988
+pouvoir te le dire,
+mais tu sais, je pouvais pas.
+
+418
+00:28:20,237 --> 00:28:21,740
+Tu m'avais jamais menti.
+
+419
+00:28:21,993 --> 00:28:24,426
+Exactement, fais-moi confiance.
+
+420
+00:28:27,534 --> 00:28:29,445
+Je suis désolé. Je dois y aller.
+
+421
+00:28:29,570 --> 00:28:30,910
+Peux-tu me remplacer ?
+
+422
+00:28:31,677 --> 00:28:34,920
+Bien sûr. Je te remplace, car on est
+meilleurs amis. C'est ce qu'ils font,
+
+423
+00:28:35,173 --> 00:28:38,132
+ils mentent l'un pour l'autre,
+mais pas entre eux.
+
+424
+00:28:38,384 --> 00:28:40,384
+- C'est tout.
+- Compris.
+
+425
+00:28:42,096 --> 00:28:44,523
+Fais-moi confiance. Et merci.
+
+426
+00:29:01,757 --> 00:29:04,199
+Je vais acheter de la dinde séchée.
+Tu veux quelque chose ?
+
+427
+00:29:05,376 --> 00:29:07,327
+De l'eau et des ours en gélatine.
+
+428
+00:29:07,580 --> 00:29:08,587
+Je reviens.
+
+429
+00:29:10,255 --> 00:29:11,290
+Du nouveau ?
+
+430
+00:29:12,149 --> 00:29:14,626
+Non. Je localise
+sa montre avec le GPS.
+
+431
+00:29:19,463 --> 00:29:20,549
+Il est hors zone.
+
+432
+00:29:28,685 --> 00:29:30,322
+Pas d'ours en gélatine, j'espère...
+
+433
+00:29:30,447 --> 00:29:31,479
+Chuck, à l'aide !
+
+434
+00:29:32,655 --> 00:29:33,895
+Ne t'approche pas.
+
+435
+00:29:34,065 --> 00:29:35,564
+Tu as quelque chose à moi.
+
+436
+00:29:36,596 --> 00:29:37,967
+Quoi ? Non. Ça ?
+
+437
+00:29:38,517 --> 00:29:40,569
+Je l'ai acheté.
+Mais je te le donne.
+
+438
+00:29:40,822 --> 00:29:42,696
+Laisse-la partir. Tu me diras
+
+439
+00:29:42,949 --> 00:29:44,615
+ce que tu cherches et je t'aiderai.
+
+440
+00:29:44,868 --> 00:29:47,034
+La liste de LaFleur ou elle meurt.
+
+441
+00:29:48,291 --> 00:29:49,994
+À l'opéra. Minuit.
+
+442
+00:30:01,949 --> 00:30:04,469
+- Ils l'ont enlevée !
+- T'étais hors de portée.
+
+443
+00:30:04,758 --> 00:30:06,471
+Un gars a enlevé Jill.
+Il veut la liste
+
+444
+00:30:06,760 --> 00:30:08,630
+des agents de Fulcrum, ou il la tue.
+
+445
+00:30:09,045 --> 00:30:11,854
+- Ça n'arrivera pas.
+- Car je vais lui donner la liste.
+
+446
+00:30:12,839 --> 00:30:14,478
+Non. Ils la tueront de toute façon.
+
+447
+00:30:15,062 --> 00:30:17,935
+Non. Ça ne peut pas arriver.
+Je t'en prie, aide-moi.
+
+448
+00:30:24,630 --> 00:30:27,388
+Je dois appeler Washington.
+Reste ici. Ne bouge pas.
+
+449
+00:30:27,513 --> 00:30:29,362
+Tu as causé
+assez de dégâts comme ça.
+
+450
+00:30:35,335 --> 00:30:36,985
+Général, on a un problème.
+
+451
+00:30:43,088 --> 00:30:44,049
+Abats-le !
+
+452
+00:30:44,344 --> 00:30:45,676
+Bouge pas !
+
+453
+00:30:46,108 --> 00:30:48,203
+Si tu tentes de fuir,
+je dois t'en empêcher.
+
+454
+00:30:48,328 --> 00:30:49,972
+Laisse-moi y aller !
+
+455
+00:30:50,137 --> 00:30:52,758
+- C'est de la trahison.
+- Laisse-moi y aller !
+
+456
+00:30:53,849 --> 00:30:55,060
+Tire-lui dessus, Walker.
+
+457
+00:31:00,803 --> 00:31:02,193
+Désolé. Je dois le faire.
+
+458
+00:31:05,117 --> 00:31:06,317
+Il s'agit de Jill.
+
+459
+00:31:37,870 --> 00:31:39,989
+- T'aurais pu l'avoir.
+- C'est l'Intersect.
+
+460
+00:31:40,114 --> 00:31:42,483
+Rien que ça ?
+T'aurais pu viser les genoux.
+
+461
+00:31:43,015 --> 00:31:46,611
+- Il a un traceur. Il va dans le centre.
+- Prends la voiture. Et moi, les armes.
+
+462
+00:32:13,281 --> 00:32:15,785
+Peut-on passer les préliminaires
+et faire l'échange ?
+
+463
+00:32:16,129 --> 00:32:17,906
+Oui. Laisse-la partir.
+
+464
+00:32:18,031 --> 00:32:20,816
+Pas si vite. T'as vu mon paquet.
+Montre le tien.
+
+465
+00:32:21,828 --> 00:32:24,028
+OK. Mais tu dois m'assurer
+que tu la tueras pas.
+
+466
+00:32:24,189 --> 00:32:27,490
+C'est pas comme ça que ça marche.
+Donne-moi la liste, ou je vous tue.
+
+467
+00:32:27,651 --> 00:32:29,325
+Ça marche pas comme ça, non plus !
+
+468
+00:32:31,773 --> 00:32:33,663
+- Retourne à la voiture.
+- Bouge pas.
+
+469
+00:32:34,787 --> 00:32:35,748
+Reste là.
+
+470
+00:32:36,139 --> 00:32:38,097
+Tu es la cible
+de mon tireur d'élite.
+
+471
+00:32:54,918 --> 00:32:57,145
+- J'ai un sniper.
+- J'ai encore l'avantage.
+
+472
+00:32:57,569 --> 00:32:59,314
+La liste, ou je tue Chuck !
+
+473
+00:32:59,718 --> 00:33:00,732
+Vas-y.
+
+474
+00:33:00,893 --> 00:33:02,567
+Je pensais le tuer moi-même.
+
+475
+00:33:02,728 --> 00:33:05,107
+C'est une bonne...
+Quoi ? T'es fou ou quoi ?
+
+476
+00:33:05,397 --> 00:33:07,989
+- Et le "Personne ne tire sur Chuck" ?
+- Je suis pas Sarah.
+
+477
+00:33:09,614 --> 00:33:12,660
+Donne-lui la liste et je mettrai
+un terme à ta minable vie.
+
+478
+00:33:12,866 --> 00:33:14,037
+Je la tue ?
+
+479
+00:33:14,293 --> 00:33:17,123
+Pas elle. Braque ton arme sur moi.
+
+480
+00:33:18,577 --> 00:33:21,456
+Non, vas-y. Des dommages collatéraux
+sont inévitables parfois.
+
+481
+00:33:22,577 --> 00:33:25,665
+C'est toujours évitable.
+Je l'ai. Tiens, là voici.
+
+482
+00:33:28,108 --> 00:33:31,220
+T'as un meilleur plan ?
+Je suis contre les dommages collatéraux.
+
+483
+00:33:31,659 --> 00:33:33,765
+Tiens. Voilà la liste
+des agents de Fulcrum.
+
+484
+00:33:41,526 --> 00:33:44,776
+Fulcrum préfèrerait ne pas révéler
+ses taupes au sein du gouvernement.
+
+485
+00:33:50,905 --> 00:33:53,033
+- Que le spectacle continue.
+- Maintenant, Sarah !
+
+486
+00:33:55,576 --> 00:33:58,081
+Ça y est, tu es sauve.
+Je suis désolé.
+
+487
+00:33:58,810 --> 00:33:59,745
+Il est parti.
+
+488
+00:34:01,724 --> 00:34:02,858
+Tu es sauve.
+
+489
+00:34:06,169 --> 00:34:08,925
+Je suis désolée. Ça va ?
+
+490
+00:34:09,090 --> 00:34:11,386
+Tu es sauve. Tu vas bien ?
+
+491
+00:34:16,663 --> 00:34:19,435
+Soirée poker.
+J'ai juste dû dénoncer mon meilleur ami.
+
+492
+00:34:20,233 --> 00:34:21,854
+Je l'ai bien vu.
+
+493
+00:34:23,813 --> 00:34:25,233
+Ne t'en fais pas.
+
+494
+00:34:25,561 --> 00:34:28,318
+Qu'est-ce qu'un jeu de cartes
+sans une paire de bières ?
+
+495
+00:34:28,484 --> 00:34:32,073
+Et par "paire", tu veux dire 14 ?
+
+496
+00:34:34,045 --> 00:34:35,053
+Mon Dieu.
+
+497
+00:34:40,911 --> 00:34:42,709
+Je n'oublierai pas votre loyauté.
+
+498
+00:34:43,217 --> 00:34:45,899
+Ce soir, on boit.
+Demain, Bartowski trinquera.
+
+499
+00:34:46,024 --> 00:34:47,360
+Peu importe.
+
+500
+00:34:47,957 --> 00:34:50,470
+- Bière ?
+- J'ai apporté la mienne.
+
+501
+00:34:58,805 --> 00:35:00,225
+Siroter comme au lycée !
+
+502
+00:35:00,387 --> 00:35:02,916
+Allez !
+Changeons le poker en strip-poker.
+
+503
+00:35:03,041 --> 00:35:04,981
+Voyons qui est le meilleur !
+
+504
+00:35:07,093 --> 00:35:09,677
+- T'es sûre que ça va ?
+- Je pense que oui.
+
+505
+00:35:09,802 --> 00:35:13,318
+- C'est ton quotidien, ça ?
+- Oui, excepté Casey qui chante pas.
+
+506
+00:35:13,789 --> 00:35:15,945
+Je vais d'abord te faire arrêter
+pour trahison.
+
+507
+00:35:16,070 --> 00:35:18,911
+Puis déporter à Guantanamo
+pour te pendre par le bout des doigts...
+
+508
+00:35:19,072 --> 00:35:21,998
+J'apprécie vraiment tes menaces.
+Mais je peux t'expliquer.
+
+509
+00:35:22,159 --> 00:35:24,709
+Expliquer quoi ? T'as fourni
+un document top secret à l'ennemi.
+
+510
+00:35:24,870 --> 00:35:27,545
+On saura jamais
+le nom des agents de Fulcrum.
+
+511
+00:35:27,706 --> 00:35:29,417
+Quel manque de confiance !
+
+512
+00:35:29,712 --> 00:35:31,548
+Allez, Casey, mon pote !
+
+513
+00:35:31,714 --> 00:35:35,094
+Tu penses réellement
+que j'aurais filé cette liste
+
+514
+00:35:35,255 --> 00:35:37,263
+sans faire une copie ?
+
+515
+00:35:39,069 --> 00:35:40,640
+Un graveur de jeux Q-36.
+
+516
+00:35:40,802 --> 00:35:44,395
+Heureusement, Morgan pirate les jeux
+plutôt que de les payer.
+
+517
+00:35:45,086 --> 00:35:47,391
+Le plus beau cadeau du Canada,
+depuis Shania Twain.
+
+518
+00:35:47,822 --> 00:35:49,859
+Merci de m'avoir sauvé la vie.
+
+519
+00:35:51,405 --> 00:35:54,447
+- Désolée de pas t'avoir fait confiance.
+- Tu veux rembourser ta dette ?
+
+520
+00:35:56,829 --> 00:35:58,226
+Ne lui fais plus de mal.
+
+521
+00:35:59,647 --> 00:36:00,984
+Je le ferai pas.
+
+522
+00:36:01,404 --> 00:36:02,535
+Je voudrais pas.
+
+523
+00:36:03,951 --> 00:36:05,083
+Je tiens à lui.
+
+524
+00:36:06,841 --> 00:36:07,782
+Moi aussi.
+
+525
+00:36:08,451 --> 00:36:09,961
+C'est mon travail de le protéger.
+
+526
+00:36:13,827 --> 00:36:14,713
+De tout.
+
+527
+00:36:30,729 --> 00:36:32,043
+Arrête de hurler.
+
+528
+00:36:34,431 --> 00:36:36,114
+Trop fait la fête hier ?
+
+529
+00:36:37,389 --> 00:36:40,117
+Je n'aurais jamais dû accepter
+un 2nd cocktail.
+
+530
+00:36:40,283 --> 00:36:43,616
+Il y a 4 % d'alcool
+dans ce rafraîchissant.
+
+531
+00:36:43,741 --> 00:36:45,298
+Je le sais bien.
+
+532
+00:36:45,861 --> 00:36:47,178
+Vous savez quoi...
+
+533
+00:36:48,192 --> 00:36:50,720
+allons en parler dans mon bureau.
+
+534
+00:36:51,609 --> 00:36:53,001
+Allez, par ici.
+
+535
+00:36:56,465 --> 00:36:58,344
+Je voulais vous parler aujourd'hui
+
+536
+00:36:58,505 --> 00:37:00,011
+d'une technique développée ici.
+
+537
+00:37:00,173 --> 00:37:02,140
+Ça marchait du tonnerre
+au temps de Harry Tang.
+
+538
+00:37:02,301 --> 00:37:04,391
+On peut en parler une autre fois ?
+
+539
+00:37:04,553 --> 00:37:08,312
+La Buymorie est un pays
+régi par la loi.
+
+540
+00:37:08,606 --> 00:37:11,773
+Mais parfois, un héros justicier
+doit s'élever
+
+541
+00:37:11,935 --> 00:37:15,027
+et recourir à cette loi
+pour protéger
+
+542
+00:37:15,188 --> 00:37:17,112
+le pays qu'il aime.
+
+543
+00:37:17,278 --> 00:37:18,792
+Ça, ça date d'hier.
+
+544
+00:37:19,213 --> 00:37:20,283
+Après le poker.
+
+545
+00:37:22,408 --> 00:37:25,163
+<i>Je suis Big Mike !
+Que faites-vous là, Emmett ?</i>
+
+546
+00:37:25,513 --> 00:37:27,582
+C'est vous dans le bureau
+de Big Mike ?
+
+547
+00:37:28,281 --> 00:37:29,750
+C'est étrange car...
+
+548
+00:37:29,915 --> 00:37:31,817
+je pensais que c'était interdit.
+
+549
+00:37:32,425 --> 00:37:33,564
+Même pour vous.
+
+550
+00:37:33,689 --> 00:37:35,808
+<i>J'ai passé 6 ans de ma vie</i>
+
+551
+00:37:36,668 --> 00:37:40,117
+<i>à étudier à la fac et à travailler
+comme assistant de direction</i>
+
+552
+00:37:40,693 --> 00:37:42,467
+<i>avec une bande de bras cassés !</i>
+
+553
+00:37:44,801 --> 00:37:46,680
+Vous avez l'air pas bien.
+
+554
+00:37:51,253 --> 00:37:52,517
+Il y avait...
+
+555
+00:37:53,079 --> 00:37:54,505
+des compatriotes, etc.
+
+556
+00:37:54,781 --> 00:37:57,482
+J'aimerais pas avoir
+à couler le navire.
+
+557
+00:37:58,838 --> 00:38:00,313
+- Tu n'oserais pas.
+- Si.
+
+558
+00:38:00,438 --> 00:38:02,955
+Si vous abandonnez pas la chasse
+aux sorcières, ce sera rendu public.
+
+559
+00:38:03,080 --> 00:38:04,442
+C'est clair ?
+
+560
+00:38:07,525 --> 00:38:08,451
+Bien.
+
+561
+00:38:08,957 --> 00:38:10,253
+Vive la Buymorie.
+
+562
+00:38:12,085 --> 00:38:13,797
+<i>Siroter comme au lycée !</i>
+
+563
+00:38:16,255 --> 00:38:18,694
+J'ai mis la liste sur le PC.
+Il va la déchiffrer.
+
+564
+00:38:18,819 --> 00:38:21,132
+Question de temps avant de connaître
+le nom des agents.
+
+565
+00:38:33,851 --> 00:38:36,192
+De toute façon,
+je l'aurais pas prise.
+
+566
+00:38:39,568 --> 00:38:40,568
+Attends.
+
+567
+00:38:40,982 --> 00:38:42,288
+L'hôtel est réservé.
+
+568
+00:38:42,579 --> 00:38:44,457
+On doit partir,
+pour éviter les bouchons.
+
+569
+00:38:44,582 --> 00:38:46,661
+Ou le week-end peut commencer
+dès maintenant.
+
+570
+00:38:46,822 --> 00:38:48,283
+Et pour la...
+
+571
+00:38:49,973 --> 00:38:51,999
+J'ai aussi des réflexes d'espion.
+
+572
+00:39:00,464 --> 00:39:02,630
+- On va encore voir ça ?
+- Tu sais quoi ?
+
+573
+00:39:03,130 --> 00:39:05,096
+Et si on le laissait tranquille ?
+
+574
+00:39:09,598 --> 00:39:11,520
+La clé de chiffrage a été cassée.
+
+575
+00:40:59,665 --> 00:41:00,897
+Saine et sauve.
+

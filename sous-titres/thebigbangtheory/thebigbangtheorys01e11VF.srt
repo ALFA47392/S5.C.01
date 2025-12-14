@@ -1,0 +1,1475 @@
+1
+00:00:27,247 --> 00:00:28,572
+Échec et mat.
+
+2
+00:00:30,027 --> 00:00:31,200
+Encore !
+
+3
+00:00:31,466 --> 00:00:34,132
+Visiblement, les échecs en 3D
+ne sont pas ton point fort.
+
+4
+00:00:34,252 --> 00:00:37,282
+Un Monopoly Junior en 3D
+serait plus ton genre.
+
+5
+00:00:37,948 --> 00:00:39,166
+Remets les pièces.
+
+6
+00:00:39,459 --> 00:00:42,650
+Ça doit être vexant
+d'être mauvais sur tant de niveaux.
+
+7
+00:00:49,366 --> 00:00:50,427
+Salut, les gars.
+
+8
+00:00:50,638 --> 00:00:52,889
+- Vous avez mon courrier ?
+- Il est là.
+
+9
+00:00:53,290 --> 00:00:56,468
+- C'était bien, le Nebraska ?
+- Mieux que le Dakota du Nord.
+
+10
+00:01:02,389 --> 00:01:05,234
+Cette blague ne doit être drôle
+qu'au Nebraska.
+
+11
+00:01:05,396 --> 00:01:07,880
+Tu ne peux pas en déduire
+une telle conclusion.
+
+12
+00:01:08,000 --> 00:01:11,538
+Tu peux seulement affirmer
+que ce n'est pas drôle ici.
+
+13
+00:01:17,914 --> 00:01:19,456
+Ça fait plaisir de vous revoir.
+
+14
+00:01:20,850 --> 00:01:22,962
+- Comment va ta famille ?
+- Mal !
+
+15
+00:01:23,082 --> 00:01:24,670
+Tout le monde a été malade.
+
+16
+00:01:24,790 --> 00:01:26,840
+- Malade ?
+- Et c'est parti...
+
+17
+00:01:29,327 --> 00:01:31,983
+- Quel genre de maladie ?
+- La grippe, je pense.
+
+18
+00:01:32,226 --> 00:01:34,469
+Pas de "je pense",
+je veux des certitudes.
+
+19
+00:01:34,589 --> 00:01:37,023
+Quand sont apparus
+les premiers symptômes ?
+
+20
+00:01:37,143 --> 00:01:38,309
+Vendredi, je crois.
+
+21
+00:01:38,520 --> 00:01:40,603
+Vendredi.
+Le matin ou l'après-midi ?
+
+22
+00:01:41,595 --> 00:01:42,639
+Je ne...
+
+23
+00:01:42,849 --> 00:01:45,274
+Réfléchis, femme.
+Qui s'est mouché et quand ?
+
+24
+00:01:46,102 --> 00:01:47,142
+Du calme !
+
+25
+00:01:47,262 --> 00:01:49,820
+Elle n'a aucun symptôme.
+Elle doit pas être contagieuse.
+
+26
+00:01:50,031 --> 00:01:51,381
+Ben voyons !
+
+27
+00:01:52,925 --> 00:01:55,676
+Si la grippe n'était contagieuse
+qu'une fois les symptômes apparus,
+
+28
+00:01:55,796 --> 00:01:57,494
+elle aurait déjà disparu !
+
+29
+00:01:57,655 --> 00:02:00,060
+Entre l'invention de l'outil
+et l'art des peintures rupestres,
+
+30
+00:02:00,180 --> 00:02:03,292
+l'homo habilis aurait compris
+qu'il faut tuer celui qui renifle.
+
+31
+00:02:04,527 --> 00:02:07,378
+Penny, excuse Sheldon,
+il a la phobie des germes.
+
+32
+00:02:07,538 --> 00:02:08,976
+C'est bon. Je comprends.
+
+33
+00:02:09,096 --> 00:02:11,842
+Merci de ta compréhension.
+Maintenant, pars, s'il te plaît.
+
+34
+00:02:12,705 --> 00:02:15,263
+Pars avant qu'il ne t'asperge
+de désinfectant.
+
+35
+00:02:16,567 --> 00:02:18,633
+OK. Merci pour mon courrier.
+
+36
+00:02:18,753 --> 00:02:20,686
+De rien.
+Content que tu sois rentrée.
+
+37
+00:02:27,535 --> 00:02:28,443
+Quoi ?
+
+38
+00:02:30,308 --> 00:02:32,538
+Épisode 111 :
+L'anomalie du doseur
+
+39
+00:02:33,138 --> 00:02:35,911
+Sous-titres : Sixe, Odonate, Jesslataree
+sub-way.fr
+
+40
+00:02:36,300 --> 00:02:37,548
+Version 1.2
+
+41
+00:02:59,409 --> 00:03:01,195
+Qu'est-ce que tu fabriques ?
+
+42
+00:03:01,355 --> 00:03:04,905
+Je prépare une boîte de Petri
+pour cultiver des germes de gorge.
+
+43
+00:03:05,767 --> 00:03:08,417
+- Avec de la gelée au citron ?
+- C'est le liquide nutritionnel,
+
+44
+00:03:08,537 --> 00:03:11,062
+quelqu'un a fini
+les yaourts à l'abricot.
+
+45
+00:03:12,745 --> 00:03:14,303
+Fais un prélèvement.
+
+46
+00:03:17,010 --> 00:03:18,147
+Non merci.
+
+47
+00:03:18,267 --> 00:03:20,283
+Si je veux prévenir la maladie,
+
+48
+00:03:20,403 --> 00:03:23,111
+je dois trouver
+ce qu'il y a dans ma gorge.
+
+49
+00:03:24,928 --> 00:03:26,778
+Sheldon, tu es en parfaite santé...
+
+50
+00:03:27,314 --> 00:03:29,798
+Quoi qu'au niveau mental...
+Enfin, tu n'es pas malade.
+
+51
+00:03:30,972 --> 00:03:34,668
+On ignore quel type de typhoïde
+Penny a introduit chez nous.
+
+52
+00:03:35,288 --> 00:03:37,017
+Pour n'avoir jamais été dans cet État,
+
+53
+00:03:37,187 --> 00:03:40,179
+je suis certain de ne pas avoir
+d'anticorps nébraskiens.
+
+54
+00:03:43,437 --> 00:03:45,780
+Tu ne crois pas que tu en fais trop ?
+
+55
+00:03:45,940 --> 00:03:49,524
+Quand je serai dans le coma, dépendant
+d'esprits inférieurs pour me soigner
+
+56
+00:03:49,758 --> 00:03:51,810
+ces cultures et mes observations
+
+57
+00:03:52,020 --> 00:03:54,370
+leur donneront une chance de me guérir.
+
+58
+00:03:58,562 --> 00:04:00,701
+- Je retourne me coucher.
+- Attends.
+
+59
+00:04:01,416 --> 00:04:03,329
+- Mets ça aux toilettes.
+- Pourquoi ?
+
+60
+00:04:03,540 --> 00:04:05,756
+Je dois mesurer mes entrées
+et sorties de liquides
+
+61
+00:04:05,876 --> 00:04:08,083
+pour m'assurer
+que mes reins fonctionnent.
+
+62
+00:04:09,964 --> 00:04:12,214
+Je m'en sers pour faire
+la pâte à crêpes !
+
+63
+00:04:13,736 --> 00:04:16,445
+Non, ce doseur a toujours servi
+pour l'urine.
+
+64
+00:04:18,249 --> 00:04:20,902
+Tu as trouvé le temps
+de mettre des étiquettes sur tout,
+
+65
+00:04:21,022 --> 00:04:22,349
+même sur l'étiqueteuse,
+
+66
+00:04:22,509 --> 00:04:26,052
+mais tu n'as pas eu 10 secondes
+pour marquer "Urine" ?
+
+67
+00:04:27,859 --> 00:04:29,805
+Juste en dessous.
+
+68
+00:04:37,067 --> 00:04:40,483
+Alors, je dois une lettre d'excuses
+au site internet Marmiton.
+
+69
+00:04:57,065 --> 00:04:58,432
+Oh, Seigneur !
+
+70
+00:05:03,111 --> 00:05:04,515
+Je suis malade !
+
+71
+00:05:11,445 --> 00:05:13,390
+Leonard, je suis malade !
+
+72
+00:05:26,199 --> 00:05:30,156
+Ma couette est tombée et j'ai mal
+aux sinus quand je me penche.
+
+73
+00:05:50,181 --> 00:05:52,522
+- <i>Salut !</i>
+- Où es-tu ?
+
+74
+00:05:52,805 --> 00:05:53,943
+Au travail.
+
+75
+00:05:55,464 --> 00:05:57,027
+À 6 h du mat ?
+
+76
+00:05:59,643 --> 00:06:00,655
+Un dimanche ?
+
+77
+00:06:03,435 --> 00:06:05,535
+- Pourquoi ?
+- On m'a demandé de venir.
+
+78
+00:06:05,696 --> 00:06:07,370
+J'ai pas entendu le téléphone.
+
+79
+00:06:08,150 --> 00:06:09,463
+C'était un SMS.
+
+80
+00:06:11,823 --> 00:06:14,402
+Comme je l'avais prédit, je suis malade.
+
+81
+00:06:14,678 --> 00:06:18,151
+Ma fièvre grimpe exponentiellement
+depuis 2 h du matin,
+
+82
+00:06:18,271 --> 00:06:21,176
+et ma production de glaires
+est anormalement élevée.
+
+83
+00:06:23,795 --> 00:06:25,108
+À ce point ?
+
+84
+00:06:25,228 --> 00:06:26,640
+<i>Et en plus,</i>
+
+85
+00:06:26,801 --> 00:06:29,682
+elles sont passées de claires
+à vert laiteux.
+
+86
+00:06:31,325 --> 00:06:34,022
+Repose-toi et bois beaucoup de liquides.
+
+87
+00:06:34,330 --> 00:06:38,319
+Qu'est-ce que je boirais d'autre ?
+Des gaz, des solides, du plasma ionisé ?
+
+88
+00:06:39,616 --> 00:06:40,946
+Bois ce que tu veux.
+
+89
+00:06:41,106 --> 00:06:43,406
+- Je veux de la soupe.
+- Alors, fais-toi de la soupe.
+
+90
+00:06:43,566 --> 00:06:44,866
+On n'en a pas.
+
+91
+00:06:45,026 --> 00:06:46,609
+Je suis au travail, là.
+
+92
+00:06:50,378 --> 00:06:51,665
+C'est un chien ?
+
+93
+00:06:53,844 --> 00:06:54,960
+Au labo ?
+
+94
+00:06:57,414 --> 00:07:00,578
+Ils apprennent à des chiens
+comment se servir de la centrifugeuse
+
+95
+00:07:00,698 --> 00:07:02,948
+pour le cas où des chiens doivent...
+
+96
+00:07:03,230 --> 00:07:05,180
+se servir de la centrifugeuse
+
+97
+00:07:05,348 --> 00:07:07,472
+pour des chercheurs aveugles.
+Je dois y aller.
+
+98
+00:07:11,115 --> 00:07:13,564
+Howard ! Téléphone !
+
+99
+00:07:16,074 --> 00:07:19,545
+Je sais très bien, m'man.
+Je l'entends.
+
+100
+00:07:19,665 --> 00:07:23,023
+Qui peut bien appeler
+à une heure pareille ?
+
+101
+00:07:23,336 --> 00:07:24,779
+Je sais pas !
+
+102
+00:07:25,348 --> 00:07:29,313
+Demande pourquoi ils appellent
+à une heure pareille !
+
+103
+00:07:29,433 --> 00:07:32,622
+Je peux pas, je te parle à toi !
+
+104
+00:07:36,508 --> 00:07:37,335
+Allô.
+
+105
+00:07:38,872 --> 00:07:40,672
+C'est Leonard.
+Code vert laiteux.
+
+106
+00:07:40,832 --> 00:07:42,782
+Grand Dieu, pas vert laiteux.
+
+107
+00:07:43,543 --> 00:07:45,135
+Affirmatif, avec fièvre.
+
+108
+00:07:45,296 --> 00:07:47,246
+C'est qui ?
+
+109
+00:07:47,559 --> 00:07:48,694
+Leonard !
+
+110
+00:07:48,814 --> 00:07:50,599
+Pourquoi il appelle ?
+
+111
+00:07:50,760 --> 00:07:52,210
+Sheldon est malade !
+
+112
+00:07:52,369 --> 00:07:54,169
+T'as joué avec lui ?
+
+113
+00:07:56,563 --> 00:07:59,417
+Bon sang, maman, j'ai vingt-six ans !
+
+114
+00:07:59,537 --> 00:08:02,008
+Désolée, M. l'adulte !
+
+115
+00:08:03,480 --> 00:08:05,199
+Tu veux manger quoi ?
+
+116
+00:08:05,319 --> 00:08:08,069
+Chocolat au lait et Frosties,
+s'il te plaît !
+
+117
+00:08:09,089 --> 00:08:11,304
+- <i>Écoute-moi.</i>
+- Attends, double appel.
+
+118
+00:08:11,424 --> 00:08:12,527
+<i>Non !</i>
+
+119
+00:08:13,181 --> 00:08:14,041
+Allô.
+
+120
+00:08:14,783 --> 00:08:16,166
+Je suis malade.
+
+121
+00:08:21,921 --> 00:08:25,342
+Howard dort.
+Je suis sa mère !
+
+122
+00:08:27,037 --> 00:08:30,264
+Pourquoi appelles-tu
+à une heure pareille ?
+
+123
+00:08:31,899 --> 00:08:33,515
+Il me faut de la soupe.
+
+124
+00:08:33,912 --> 00:08:36,134
+Alors, appelle ta propre mère !
+
+125
+00:08:38,160 --> 00:08:39,314
+C'était Sheldon.
+
+126
+00:08:39,475 --> 00:08:41,608
+- J'ai voulu te prévenir.
+- <i>C'est ma faute.</i>
+
+127
+00:08:41,768 --> 00:08:45,687
+J'ai oublié le protocole mis en place
+après la Grande Otite de 2006.
+
+128
+00:08:46,651 --> 00:08:47,867
+Appelle Koothrappali.
+
+129
+00:08:47,987 --> 00:08:51,368
+Il nous faut une planque
+pour les prochaines 18 à 24 heures.
+
+130
+00:08:51,529 --> 00:08:52,574
+Quitte pas.
+
+131
+00:08:52,694 --> 00:08:54,579
+M'man, les copains peuvent venir ?
+
+132
+00:08:54,992 --> 00:08:57,846
+Je viens de faire shampooiner le tapis !
+
+133
+00:08:59,488 --> 00:09:00,802
+Négatif.
+
+134
+00:09:01,711 --> 00:09:04,214
+Mais il y a un marathon de
+<i>La Planète des Singes</i> au ciné.
+
+135
+00:09:05,084 --> 00:09:07,654
+Cinq films de deux heures chacun...
+
+136
+00:09:08,614 --> 00:09:09,977
+C'est un début.
+
+137
+00:09:13,306 --> 00:09:15,398
+Clodo taré à la table 18.
+
+138
+00:09:21,713 --> 00:09:23,108
+Juste taré.
+
+139
+00:09:25,075 --> 00:09:27,320
+Qu'est-ce que tu fais là ?
+
+140
+00:09:27,947 --> 00:09:30,736
+Je suis malade.
+Merci beaucoup !
+
+141
+00:09:31,253 --> 00:09:33,410
+Ça peut pas venir de moi.
+Je suis pas malade.
+
+142
+00:09:33,570 --> 00:09:34,892
+Tu es porteuse saine.
+
+143
+00:09:35,012 --> 00:09:37,048
+Tout le monde ici est condamné.
+
+144
+00:09:37,168 --> 00:09:38,675
+Vous êtes condamnés !
+
+145
+00:09:41,201 --> 00:09:43,128
+Sheldon, tu veux quoi ?
+
+146
+00:09:43,561 --> 00:09:44,794
+De la soupe.
+
+147
+00:09:49,582 --> 00:09:50,932
+Pourquoi...
+
+148
+00:09:53,328 --> 00:09:55,098
+Pourquoi tu n'es pas resté chez toi ?
+
+149
+00:09:55,707 --> 00:09:58,172
+Penny, j'ai un QI de 187.
+
+150
+00:09:58,448 --> 00:10:00,604
+Tu crois pas que,
+s'il y avait un moyen
+
+151
+00:10:00,724 --> 00:10:03,189
+d'avoir de la soupe à la maison,
+j'y aurais pensé ?
+
+152
+00:10:04,168 --> 00:10:05,609
+Tu peux te faire livrer.
+
+153
+00:10:10,036 --> 00:10:11,364
+Je n'y avais pas songé.
+
+154
+00:10:13,572 --> 00:10:15,999
+Ce doit être un début
+de délire lié à la fièvre.
+
+155
+00:10:16,119 --> 00:10:17,496
+De la soupe, s'il te plaît,
+
+156
+00:10:17,616 --> 00:10:20,497
+tant que je sais encore
+me servir d'une cuillère.
+
+157
+00:10:20,757 --> 00:10:22,417
+Quelle soupe tu veux ?
+
+158
+00:10:22,577 --> 00:10:25,436
+Ma mère m'en faisait
+avec des pois cassés,
+
+159
+00:10:25,556 --> 00:10:29,282
+des bouts de saucisse
+et des croûtons maison.
+
+160
+00:10:29,786 --> 00:10:32,092
+On a poulet, tortilla ou végétarienne.
+
+161
+00:10:33,179 --> 00:10:37,140
+Tu peux y ajouter des bouts de saucisse
+et des croûtons maison ?
+
+162
+00:10:39,334 --> 00:10:40,761
+Alors, surprends-moi.
+
+163
+00:10:50,897 --> 00:10:54,347
+À votre avis, c'est plutôt
+"vert mousse" ou "vert forêt" ?
+
+164
+00:11:08,461 --> 00:11:11,011
+Regardez.
+Ils ont tous choisi chimpanzé.
+
+165
+00:11:11,793 --> 00:11:14,094
+J'aimerais souligner
+que j'ai voté pour orang-outan,
+
+166
+00:11:14,254 --> 00:11:16,204
+mais vous m'avez crié dessus.
+
+167
+00:11:20,824 --> 00:11:22,602
+- Salut, Penny.
+- Où tu es ?
+
+168
+00:11:23,103 --> 00:11:25,228
+Je suis... au boulot.
+
+169
+00:11:26,516 --> 00:11:27,691
+Ta voix est bizarre.
+
+170
+00:11:27,852 --> 00:11:31,602
+C'est parce que je suis...
+dans une combinaison anti-radiations.
+
+171
+00:11:31,950 --> 00:11:33,843
+- Quoi de neuf ?
+- Je suis au boulot aussi
+
+172
+00:11:33,963 --> 00:11:36,449
+et devine qui est en train
+d'infecter ma zone de service.
+
+173
+00:11:37,176 --> 00:11:38,994
+Sheldon est au Cheesecake Factory.
+
+174
+00:11:40,009 --> 00:11:42,432
+- Dis-lui de rentrer.
+- <i>Il veut pas partir.</i>
+
+175
+00:11:42,552 --> 00:11:46,365
+Il a peur de s'évanouir dans le bus,
+et que quelqu'un prélève ses organes.
+
+176
+00:11:47,691 --> 00:11:50,123
+Il est paranoïaque
+et il a établi un nid.
+
+177
+00:11:51,207 --> 00:11:52,757
+Tu peux venir le chercher ?
+
+178
+00:11:54,078 --> 00:11:55,844
+Oui, avec plaisir.
+
+179
+00:11:58,555 --> 00:12:01,317
+Oh, mon Dieu ! Il y a une faille
+dans le laboratoire de radiation !
+
+180
+00:12:01,437 --> 00:12:03,690
+La ville entière est en danger !
+Mon Dieu !
+
+181
+00:12:03,810 --> 00:12:06,354
+La barrière de confinement
+est en train de fondre. Je file !
+
+182
+00:12:12,627 --> 00:12:14,529
+Je me sens vraiment coupable.
+
+183
+00:12:14,689 --> 00:12:16,146
+Tu étais obligé de le faire.
+
+184
+00:12:16,266 --> 00:12:18,979
+Ne touche pas mon pop-corn
+avec tes sales pattes,
+
+185
+00:12:19,099 --> 00:12:21,061
+maudit singe !
+
+186
+00:12:24,719 --> 00:12:26,519
+Merci de m'avoir raccompagné.
+
+187
+00:12:26,808 --> 00:12:29,023
+C'est rien.
+J'avais pas vraiment besoin de bosser.
+
+188
+00:12:29,143 --> 00:12:32,176
+C'est pas comme si j'avais
+un loyer et une voiture à payer.
+
+189
+00:12:32,296 --> 00:12:33,392
+Tant mieux.
+
+190
+00:12:35,464 --> 00:12:37,385
+Bon, soigne-toi bien...
+
+191
+00:12:37,545 --> 00:12:39,930
+Attends !
+Où tu vas ?
+
+192
+00:12:41,650 --> 00:12:44,300
+Chez moi...
+pour faire des chèques en bois.
+
+193
+00:12:45,552 --> 00:12:46,811
+Tu vas me laisser ?
+
+194
+00:12:47,608 --> 00:12:50,523
+Sheldon, tu es adulte.
+Tu n'as jamais été malade ?
+
+195
+00:12:50,985 --> 00:12:53,304
+Si, bien sûr, mais jamais tout seul.
+
+196
+00:12:54,351 --> 00:12:55,729
+Vraiment ? Jamais ?
+
+197
+00:12:56,187 --> 00:12:58,312
+D'accord, une fois, à l'âge de 15 ans,
+
+198
+00:12:58,432 --> 00:13:01,451
+je passais l'été à l'Institut Heidelberg
+en Allemagne.
+
+199
+00:13:01,980 --> 00:13:03,119
+Erasmus ?
+
+200
+00:13:03,447 --> 00:13:05,288
+Non. Professeur visiteur.
+
+201
+00:13:07,593 --> 00:13:11,580
+Bref, la cuisine locale comprenait
+plus de saucisses que la nôtre,
+
+202
+00:13:11,700 --> 00:13:13,987
+ce qui se traduisit
+par une Blitzkrieg interne,
+
+203
+00:13:14,107 --> 00:13:17,323
+mon gros intestin jouant le rôle
+de la Tchécoslovaquie.
+
+204
+00:13:18,457 --> 00:13:21,136
+Il n'y avait personne
+pour s'occuper de toi ?
+
+205
+00:13:21,297 --> 00:13:24,356
+Ma mère avait dû repartir au Texas
+pour aider mon père,
+
+206
+00:13:24,476 --> 00:13:27,926
+la maison avait encore glissé
+de ses fondations.
+
+207
+00:13:28,983 --> 00:13:31,354
+- Encore ?
+- C'était la saison des tornades.
+
+208
+00:13:31,474 --> 00:13:33,524
+Et la maison était en aluminium.
+
+209
+00:13:35,103 --> 00:13:38,821
+La concierge de la cité universitaire
+ne parlait pas un mot d'anglais.
+
+210
+00:13:38,982 --> 00:13:41,288
+Quand elle a enfin compris
+que j'étais malade,
+
+211
+00:13:41,408 --> 00:13:44,092
+elle a demandé :
+"Möchtest du eine Darmspfilung ?"
+
+212
+00:13:45,321 --> 00:13:46,622
+Ce qui veut dire ?
+
+213
+00:13:46,742 --> 00:13:48,866
+Au vu de ce qui a suivi,
+je suppose que c'est :
+
+214
+00:13:48,986 --> 00:13:50,500
+"Vous voulez un lavement ?"
+
+215
+00:13:52,967 --> 00:13:55,350
+D'accord, trésor.
+Je vais m'occuper de toi.
+
+216
+00:13:55,470 --> 00:13:57,120
+Qu'est-ce que tu veux ?
+
+217
+00:13:58,015 --> 00:14:00,837
+Ma mère me faisait ma toilette
+avec une éponge.
+
+218
+00:14:07,923 --> 00:14:10,021
+On établit des règles :
+pas de toilette,
+
+219
+00:14:10,141 --> 00:14:12,165
+et sûrement pas de lavement.
+
+220
+00:14:13,104 --> 00:14:14,028
+Entendu.
+
+221
+00:14:19,184 --> 00:14:20,222
+Ça commence.
+
+222
+00:14:20,508 --> 00:14:23,179
+10 heures et demie de bonheur simiesque.
+
+223
+00:14:26,188 --> 00:14:27,858
+Zut, mes lunettes.
+
+224
+00:14:29,199 --> 00:14:31,748
+J'y vois rien, les gars.
+Vous m'aidez à les trouver ?
+
+225
+00:14:31,868 --> 00:14:33,418
+- Pardon.
+- D'accord.
+
+226
+00:14:36,801 --> 00:14:37,923
+Trouvées.
+
+227
+00:14:39,915 --> 00:14:40,915
+Oh, génial.
+
+228
+00:14:41,188 --> 00:14:42,820
+Désolé.
+T'as pas une autre paire ?
+
+229
+00:14:42,940 --> 00:14:43,957
+Oui, à l'appart.
+
+230
+00:14:44,077 --> 00:14:45,190
+Si tu te dépêches,
+
+231
+00:14:45,310 --> 00:14:49,028
+tu reviendras avant que les gorilles
+tabassent Charlton Heston.
+
+232
+00:14:49,148 --> 00:14:51,638
+À moins que Sheldon soit là.
+Tu seras prisonnier à jamais
+
+233
+00:14:51,758 --> 00:14:54,708
+de sa toile morveuse
+de complaintes et de névrosés.
+
+234
+00:15:02,594 --> 00:15:03,794
+Salut. Penny ?
+
+235
+00:15:04,345 --> 00:15:07,396
+Je me demandais
+si Sheldon était encore au restaurant.
+
+236
+00:15:09,437 --> 00:15:12,350
+C'est très gentil de ta part.
+Je dois te laisser.
+
+237
+00:15:12,470 --> 00:15:15,418
+C'est un vrai Tchernobyl, là-dedans.
+Je file, à plus !
+
+238
+00:15:16,597 --> 00:15:18,088
+Il est à l'appart, c'est mort.
+
+239
+00:15:20,961 --> 00:15:23,766
+10 heures et demie
+de brouillard simiesque.
+
+240
+00:15:25,338 --> 00:15:26,888
+T'as pensé au laser ?
+
+241
+00:15:28,467 --> 00:15:30,349
+Une opération des yeux ?
+
+242
+00:15:30,510 --> 00:15:32,701
+Tu préfères rentrer
+et affronter Sheldon,
+
+243
+00:15:32,821 --> 00:15:35,605
+ou te faire découper les cornées
+au laser par un inconnu ?
+
+244
+00:15:38,074 --> 00:15:39,883
+- Alors ?
+- Je réfléchis.
+
+245
+00:15:42,056 --> 00:15:44,656
+Voilà, tu seras bien au chaud.
+
+246
+00:15:45,186 --> 00:15:46,658
+À tout à l'heure.
+
+247
+00:15:46,934 --> 00:15:47,829
+Attends.
+
+248
+00:15:49,027 --> 00:15:51,469
+Tu me mets de la pommade sur le torse ?
+
+249
+00:15:53,265 --> 00:15:55,166
+Sheldon, tu peux pas le faire, toi ?
+
+250
+00:15:55,366 --> 00:15:58,216
+VapoRub laisse une odeur bizarre
+sur mes mains.
+
+251
+00:15:59,379 --> 00:16:02,198
+- Mais, Sheldon...
+- S'il te plaît, s'il te plaît ?
+
+252
+00:16:06,801 --> 00:16:08,597
+J'en reviens pas.
+
+253
+00:16:14,601 --> 00:16:18,588
+Non. Pas dans le sens des aiguilles
+d'une montre, ça emmêle mes poils.
+
+254
+00:16:20,716 --> 00:16:21,754
+Pardon.
+
+255
+00:16:27,075 --> 00:16:29,225
+Tu peux chanter <i>Chaton Tout Doux</i> ?
+
+256
+00:16:31,459 --> 00:16:32,329
+Quoi ?
+
+257
+00:16:32,643 --> 00:16:34,998
+Ma mère me le chantait
+quand j'étais malade.
+
+258
+00:16:35,416 --> 00:16:38,168
+- Désolée, trésor. Je la connais pas.
+- Je t'apprends.
+
+259
+00:16:39,868 --> 00:16:43,457
+<i>Chaton tout doux, chaton tout chaud,</i>
+
+260
+00:16:43,577 --> 00:16:45,550
+<i>Petite boule de poil</i>
+
+261
+00:16:48,287 --> 00:16:51,698
+<i>Chaton tout gai, Chaton qui dort,</i>
+
+262
+00:16:51,818 --> 00:16:54,498
+<i>Tu ronronnes, tu ronronnes</i>
+
+263
+00:16:57,519 --> 00:16:58,355
+À toi.
+
+264
+00:17:04,561 --> 00:17:06,649
+<i>Chaton tout doux,</i>
+
+265
+00:17:06,769 --> 00:17:08,988
+<i>Chaton tout chaud...</i>
+
+266
+00:17:10,437 --> 00:17:13,227
+<i>Petite boule de poil</i>
+
+267
+00:17:14,078 --> 00:17:15,261
+La pommade !
+
+268
+00:17:17,345 --> 00:17:19,907
+<i>Petite boule de poil</i>
+
+269
+00:17:34,789 --> 00:17:36,604
+Alors ? Moi, je vois rien.
+
+270
+00:17:36,724 --> 00:17:38,427
+Le salon semble désert.
+
+271
+00:17:38,547 --> 00:17:40,198
+Il doit être dans sa chambre.
+
+272
+00:17:40,318 --> 00:17:43,328
+Mes lunettes de rechange
+sont dans ma chambre, sur ma commode,
+
+273
+00:17:43,448 --> 00:17:45,198
+à côté de mon Bat-signal.
+
+274
+00:17:46,600 --> 00:17:47,904
+Je n'irais pas !
+
+275
+00:17:48,523 --> 00:17:50,072
+- Raj ?
+- Cause toujours.
+
+276
+00:17:51,525 --> 00:17:53,625
+Je peux pas y aller, j'y vois rien !
+
+277
+00:17:53,745 --> 00:17:56,721
+Mini caméra sans fil
+et oreillette Bluetooth.
+
+278
+00:17:57,289 --> 00:17:59,040
+Nous serons tes yeux.
+
+279
+00:18:00,109 --> 00:18:01,059
+D'accord.
+
+280
+00:18:01,423 --> 00:18:02,544
+Une dernière chose.
+
+281
+00:18:03,045 --> 00:18:06,321
+Ceci est un capteur subsonique
+de mouvements
+
+282
+00:18:07,417 --> 00:18:09,744
+Si Sheldon se lève et se met à marcher,
+
+283
+00:18:09,864 --> 00:18:12,387
+cet appareil enverra
+un signal à l'ordinateur.
+
+284
+00:18:12,507 --> 00:18:14,865
+Alors, étant donné
+la géographie de l'appartement
+
+285
+00:18:14,985 --> 00:18:16,762
+et la vitesse d'un Sheldon malade,
+
+286
+00:18:16,882 --> 00:18:19,961
+tu auras 7 secondes pour sortir,
+lunettes ou pas.
+
+287
+00:18:20,263 --> 00:18:21,980
+Moi, je le déclencherai pas ?
+
+288
+00:18:22,293 --> 00:18:24,642
+Non. Tu seras à quatre pattes.
+
+289
+00:18:24,762 --> 00:18:27,444
+Le capteur devra être à proximité
+de la chambre de Sheldon.
+
+290
+00:18:27,759 --> 00:18:30,322
+Comment je le transporte,
+si je suis à quatre pattes ?
+
+291
+00:18:35,672 --> 00:18:37,022
+Reste bien baissé.
+
+292
+00:18:37,717 --> 00:18:38,867
+Vire à gauche.
+
+293
+00:18:39,616 --> 00:18:41,290
+- Maintiens le cap.
+- Quoi ?
+
+294
+00:18:41,452 --> 00:18:44,627
+- Ça veut dire "tout droit".
+- T'as qu'à dire "tout droit."
+
+295
+00:18:44,990 --> 00:18:46,495
+On ne dit pas "tout droit".
+
+296
+00:18:46,615 --> 00:18:48,924
+Quand on donne une orientation,
+on dit "maintiens le cap".
+
+297
+00:18:49,721 --> 00:18:50,856
+D'accord.
+
+298
+00:18:54,890 --> 00:18:56,473
+Je me suis cogné la tête.
+
+299
+00:18:56,970 --> 00:18:59,017
+Parce que t'as pas maintenu le cap.
+
+300
+00:19:01,927 --> 00:19:03,257
+<i>Tourne à droite.</i>
+
+301
+00:19:04,822 --> 00:19:06,460
+On perd l'image.
+
+302
+00:19:06,898 --> 00:19:08,484
+Incline ta tête vers la droite.
+
+303
+00:19:09,735 --> 00:19:11,185
+<i>Un peu plus.</i>
+
+304
+00:19:11,815 --> 00:19:12,965
+Encore un peu.
+
+305
+00:19:13,817 --> 00:19:16,267
+Parfait.
+Maintenant, maintiens le cap.
+
+306
+00:19:19,345 --> 00:19:22,718
+Tu es assez près de la chambre.
+Déploie le capteur.
+
+307
+00:19:24,344 --> 00:19:25,894
+<i>Maintenant, allume-le.</i>
+
+308
+00:19:26,290 --> 00:19:27,840
+Il était pas allumé ?
+
+309
+00:19:28,904 --> 00:19:30,799
+J'ai rampé pour rien ?
+
+310
+00:19:32,351 --> 00:19:33,875
+Je crois bien que oui.
+
+311
+00:19:37,652 --> 00:19:38,819
+<i>Il est allumé.</i>
+
+312
+00:19:38,939 --> 00:19:41,943
+Bien. À partir de maintenant,
+tu devras ramper.
+
+313
+00:19:43,783 --> 00:19:44,902
+Je sais.
+
+314
+00:19:48,794 --> 00:19:51,653
+Attends, le capteur détecte un truc.
+Tourne la tête.
+
+315
+00:19:58,337 --> 00:19:59,987
+Espèce de sale traître.
+
+316
+00:20:02,155 --> 00:20:04,248
+Je savais que le capteur marcherait.
+
+317
+00:20:06,944 --> 00:20:09,078
+Tu m'as délibérément refourgué Sheldon.
+
+318
+00:20:09,198 --> 00:20:11,839
+J'étais bien obligé !
+Tu as vu comment il est ?
+
+319
+00:20:12,503 --> 00:20:14,134
+Penny, j'ai faim.
+
+320
+00:20:14,735 --> 00:20:17,512
+C'est bon, trésor.
+Bonne nouvelle ! Leonard est rentré !
+
+321
+00:20:18,578 --> 00:20:20,098
+Bonne chance, salut !
+
+322
+00:20:21,335 --> 00:20:23,351
+Leonard ! J'ai faim !
+
+323
+00:20:23,691 --> 00:20:25,474
+Penny, emmène-moi avec toi !
+
+324
+00:20:35,723 --> 00:20:37,573
+Je veux un toast au fromage.
+
+325
+00:20:54,751 --> 00:20:57,732
+Tu crois que Penny viendra
+s'occuper de nous ?
+
+326
+00:20:59,214 --> 00:21:01,825
+Je crois que Penny ne reviendra
+plus jamais.
+
+327
+00:21:05,339 --> 00:21:07,103
+J'ai le nez très encombré.
+
+328
+00:21:09,465 --> 00:21:10,698
+Oui, et alors?
+
+329
+00:21:11,101 --> 00:21:12,611
+Tu pourrais aller à la cuisine
+
+330
+00:21:12,731 --> 00:21:16,195
+et me ramener l'arroseur de dinde
+qui a une étiquette "mucus" ?
+
+331
+00:21:19,124 --> 00:21:21,118
+Si je me lève, je vais vomir.
+
+332
+00:21:22,610 --> 00:21:25,074
+Sous l'évier,
+le bol Tupperware jaune.
+

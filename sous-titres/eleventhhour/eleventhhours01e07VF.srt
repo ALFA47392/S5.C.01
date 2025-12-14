@@ -1,0 +1,3789 @@
+1
+00:00:47,129 --> 00:00:48,052
+Allez,Sacha.
+
+2
+00:00:48,092 --> 00:00:49,160
+Viens.
+
+3
+00:00:49,614 --> 00:00:50,399
+Allez.
+
+4
+00:00:50,904 --> 00:00:53,257
+Ca a été presque deux fois plus vite
+que la dernière fois.
+
+5
+00:00:53,760 --> 00:00:56,631
+Ce petit gars va sauver beaucoup de vie.
+
+6
+00:00:56,671 --> 00:00:58,257
+Voici ta récompense, mec.
+
+7
+00:00:59,730 --> 00:01:01,255
+Pour t'éclater avec tes potes.
+
+8
+00:01:01,882 --> 00:01:02,753
+Entre ici.
+
+9
+00:01:04,376 --> 00:01:05,259
+Dr. Miller,
+
+10
+00:01:05,735 --> 00:01:07,931
+a-t-il eu la quantité de sommeil exigé?
+
+11
+00:01:08,175 --> 00:01:09,360
+Mm..hmm.
+
+12
+00:01:15,130 --> 00:01:17,429
+C'est du bon boulot,Bruce.
+
+13
+00:01:17,430 --> 00:01:19,737
+Vous avez depassé nos espoirs les plus fous.
+
+14
+00:01:19,777 --> 00:01:21,899
+- D'une grande marge.
+- Bien, dans combien de temps
+
+15
+00:01:21,900 --> 00:01:24,259
+- pensez vous etre pret pour les essais cliniques?
+- Il faut collecter
+
+16
+00:01:24,260 --> 00:01:26,429
+et quantifier les données, nous parlons de mois
+maintenant, plus d'année.
+
+17
+00:01:26,831 --> 00:01:28,499
+Si cette chose augmente comme il doit,
+
+18
+00:01:28,500 --> 00:01:30,760
+Belton Pharmaceutique vous permettra d'écrire votre
+propre billet .
+
+19
+00:01:39,800 --> 00:01:40,908
+Tout va bien?
+
+20
+00:01:42,060 --> 00:01:43,766
+Oui, juste une question du labo.
+
+21
+00:01:44,160 --> 00:01:45,199
+Je ferais mieux d'y aller.
+
+22
+00:01:45,200 --> 00:01:46,465
+Pour ne pas rester en arrière plan.
+
+23
+00:02:07,630 --> 00:02:09,058
+Sacha,qu'a-tu fait?
+
+24
+00:02:12,321 --> 00:02:13,699
+Où a-t-il dit de le rencontrer?
+
+25
+00:02:13,700 --> 00:02:14,255
+Juste ici.
+
+26
+00:02:16,400 --> 00:02:17,166
+Dr. Hood,
+
+27
+00:02:17,206 --> 00:02:19,459
+Agent special Young,Je suis Henry Brooks.
+
+28
+00:02:19,460 --> 00:02:21,383
+J'apprecie que vous preniez du temps pour
+venir me voir.
+
+29
+00:02:21,423 --> 00:02:23,335
+- Colonel Brooks,c'est ça?
+- Tout à fait.
+
+30
+00:02:23,375 --> 00:02:25,499
+Et l' Agence Défense des Projet de
+Recherche Avancée.
+
+31
+00:02:25,500 --> 00:02:28,282
+L'ADPRA,les gens qui ont vraiment inventé Internet.
+
+32
+00:02:28,491 --> 00:02:30,299
+Dites-moi,Dr. Hood,que savez-vous
+
+33
+00:02:30,300 --> 00:02:31,663
+du programme d'amélioration de Warfighter?
+
+34
+00:02:31,703 --> 00:02:32,859
+Et bien, pour faire court
+
+35
+00:02:32,860 --> 00:02:34,429
+ça met l'accent sur la miniaturisation
+
+36
+00:02:34,430 --> 00:02:36,129
+des quelques 36 kilos
+
+37
+00:02:36,130 --> 00:02:37,299
+du materiel que doit porté
+
+38
+00:02:37,300 --> 00:02:38,859
+le soldat moyen,
+
+39
+00:02:38,860 --> 00:02:41,312
+et en améliorant la force et la flexibilité
+de leur armure de combat.
+
+40
+00:02:41,352 --> 00:02:42,799
+C'est seulement une partie.
+
+41
+00:02:42,800 --> 00:02:44,359
+nous travaillons aussi sur comment améliorer
+
+42
+00:02:44,360 --> 00:02:46,399
+la performance humaine physique et mentale
+
+43
+00:02:46,400 --> 00:02:47,499
+dans des situations de combat.
+
+44
+00:02:48,005 --> 00:02:49,207
+Matériel, logiciel.
+
+45
+00:02:49,247 --> 00:02:50,166
+Maintenant des codeurs aussi?
+
+46
+00:02:50,969 --> 00:02:52,729
+Nous travaillons sur les soldats directement.
+
+47
+00:02:52,730 --> 00:02:55,029
+Ca pourrait être, heu, controversé.
+
+48
+00:02:55,430 --> 00:02:56,859
+Nous pensons surtout que nous faisons
+
+49
+00:02:56,860 --> 00:02:58,029
+du bon travail,malgré l'ethique
+
+50
+00:02:58,030 --> 00:02:59,899
+scientifique en balance, nous avions besoin
+
+51
+00:02:59,900 --> 00:03:01,739
+de trouver de nouvelles façons de proteger nos
+troupes en temps de guerre.
+
+52
+00:03:01,931 --> 00:03:02,767
+Surtout.
+
+53
+00:03:03,464 --> 00:03:04,353
+Pas toujours?
+
+54
+00:03:04,800 --> 00:03:06,701
+Nous avons eu un problème dans la première
+partie de l'étude.
+
+55
+00:03:07,468 --> 00:03:09,829
+L'entrepreneur est une société biotechnologique
+
+56
+00:03:09,830 --> 00:03:11,199
+appelé Belton Pharmaceutique.
+
+57
+00:03:11,477 --> 00:03:12,899
+Le chercheur
+
+58
+00:03:12,900 --> 00:03:14,631
+est un neuroscientifique
+appelé Bruce Nesic.
+
+59
+00:03:15,130 --> 00:03:16,548
+Les résultats n'étaient que des graphiques...
+
+60
+00:03:17,228 --> 00:03:18,700
+jusqu'à ceci.
+
+61
+00:03:20,417 --> 00:03:22,954
+L'attaque du chimpanzé a laissé des traces de
+sang et des cheveux un peu partout,
+
+62
+00:03:22,994 --> 00:03:24,122
+dont ceux de la victime.
+
+63
+00:03:24,760 --> 00:03:26,199
+Maintenant le local des animaux est controlé
+
+64
+00:03:26,200 --> 00:03:27,573
+par les autorités qui veulent le detruire,
+
+65
+00:03:27,921 --> 00:03:29,829
+mais nous avons des millions de dollars investis
+
+66
+00:03:29,869 --> 00:03:30,794
+dans ces animaux particuliers,
+
+67
+00:03:30,834 --> 00:03:32,220
+et nous avions besoin de quelqu'un
+
+68
+00:03:32,260 --> 00:03:33,892
+au Nevada... hier.
+
+69
+00:03:34,139 --> 00:03:35,321
+Je ne l'ai pas eu, Colonel.
+
+70
+00:03:35,361 --> 00:03:36,680
+Pourquoi ne pas utiliser votre propre personnel?
+
+71
+00:03:36,720 --> 00:03:38,301
+Je n'ai pas ce genre d'infrastructure.
+
+72
+00:03:38,341 --> 00:03:40,359
+En plus, j'aurai pu envoyer n'importe qui
+
+73
+00:03:40,360 --> 00:03:41,829
+ça aurait déjà été trop près de la recherche.
+
+74
+00:03:41,830 --> 00:03:42,999
+Leur objectivité aurait pu etre compromise.
+
+75
+00:03:43,000 --> 00:03:44,750
+C'est très simple, Dr. Hood.
+
+76
+00:03:44,959 --> 00:03:46,510
+Trouver ce qui s'est passé au Nevada
+
+77
+00:03:46,893 --> 00:03:48,659
+est essentiel pour la sécurité nationale
+
+78
+00:03:48,660 --> 00:03:49,397
+des Etats-Unis.
+
+79
+00:03:50,700 --> 00:03:52,600
+Ok, je vais voir ça.
+
+80
+00:03:53,660 --> 00:03:54,521
+Merci.
+
+81
+00:03:56,900 --> 00:03:58,199
+Hood, regardez ça.
+
+82
+00:03:58,200 --> 00:04:00,600
+Ce gars a plus de securité que le Président.
+
+83
+00:04:06,963 --> 00:04:08,218
+Hey, où allez-vous?
+
+84
+00:04:10,600 --> 00:04:13,729
+L'agence de cet homme est responsable
+
+85
+00:04:13,730 --> 00:04:15,129
+des premières percées mondiales
+
+86
+00:04:15,130 --> 00:04:16,835
+dans l'intelligence artificielle,
+
+87
+00:04:17,239 --> 00:04:19,780
+GPS, avion automatique,
+
+88
+00:04:20,300 --> 00:04:21,859
+d'autres choses dont vous n'avez jamais
+entendu parler
+
+89
+00:04:21,860 --> 00:04:23,963
+mais que vous utiliserez tous les jours
+dans dix ans.
+
+90
+00:04:24,939 --> 00:04:29,159
+Les risques sont, que les sciences que met
+au point cet homme
+
+91
+00:04:29,160 --> 00:04:32,230
+auront plus d'influence dans l'avenir
+que le Président.
+
+92
+00:04:34,573 --> 00:04:36,543
+L'Arcadya Sub Team
+Presente
+
+93
+00:04:36,804 --> 00:04:38,721
+Traduction : Sunnylilie
+
+94
+00:04:39,007 --> 00:04:40,882
+Synchro : Jarod
+
+95
+00:04:41,069 --> 00:04:42,971
+Eleventh Hour - 1x07
+
+96
+00:04:43,011 --> 00:04:45,037
+Pour Arcadya.net
+
+97
+00:04:46,560 --> 00:04:48,176
+Comment le vétérinaire fait-il?
+
+98
+00:04:48,367 --> 00:04:50,129
+Dr. Miller est toujours inconsciente.
+
+99
+00:04:50,130 --> 00:04:51,759
+Elle est stable, mais de justesse.
+
+100
+00:04:51,760 --> 00:04:53,199
+Il n'y avait pas de signe de coupure d'éléctricité,
+
+101
+00:04:53,200 --> 00:04:54,629
+qui supposerait que Sacha aurait pu
+
+102
+00:04:54,630 --> 00:04:56,711
+ouvrir sa cage et celle des autres aussi?
+
+103
+00:04:56,930 --> 00:04:59,499
+Comme nous les chimpanzés sont très intelligents,
+
+104
+00:04:59,500 --> 00:05:00,759
+même un peu retors.
+
+105
+00:05:00,760 --> 00:05:02,218
+Ca me rappelle quand j'était en troisième année,
+
+106
+00:05:02,689 --> 00:05:05,099
+j'ai entendu l'histoire d'un jeune mâle qui a volé
+les clefs de son agent,
+
+107
+00:05:05,100 --> 00:05:06,199
+les as caché pendant des heures,
+
+108
+00:05:06,200 --> 00:05:08,510
+et s'est alors libéré.
+
+109
+00:05:09,315 --> 00:05:10,326
+C'est Sacha.
+
+110
+00:05:11,807 --> 00:05:13,463
+Qui est plus docile maintenant.
+
+111
+00:05:13,503 --> 00:05:14,509
+Trop docile.
+
+112
+00:05:14,962 --> 00:05:15,899
+On lui a donné des tranquilisants.
+
+113
+00:05:15,900 --> 00:05:17,929
+Nous avons pensé que c'etait le mieux,
+vu ce qu'il s'est passé.
+
+114
+00:05:17,930 --> 00:05:19,429
+Quelle est la nature exact
+
+115
+00:05:19,430 --> 00:05:21,729
+des recherches que vous faites avec Sacha?
+
+116
+00:05:21,730 --> 00:05:23,759
+On lui a donné un cocktail
+
+117
+00:05:23,760 --> 00:05:27,459
+de neurotransmetteurs et de composés endocrines
+
+118
+00:05:27,460 --> 00:05:29,559
+pour améliorer la performance esprit/corps
+
+119
+00:05:29,560 --> 00:05:31,529
+en accélérant les réactions chimiques
+dans le cerveau.
+
+120
+00:05:31,530 --> 00:05:34,259
+C'est notre espoir d'utiliser ce régime,
+
+121
+00:05:34,665 --> 00:05:36,859
+avec d'autre semblable,pour améliorer
+
+122
+00:05:36,860 --> 00:05:38,729
+les capacités de lutte des soldats.
+
+123
+00:05:38,730 --> 00:05:40,707
+C'est là que la subvention pour
+un Warfighter amélioré est arrivé.
+
+124
+00:05:40,933 --> 00:05:41,629
+Vous avez raison.
+
+125
+00:05:41,669 --> 00:05:43,829
+Maintenant nous savons que la Russie et la Chine
+
+126
+00:05:43,830 --> 00:05:45,829
+ont des programmes similaires,
+
+127
+00:05:46,232 --> 00:05:48,559
+mais nous pensons que nous pouvons les devancer
+
+128
+00:05:48,560 --> 00:05:49,787
+vu ce qu'ils font par an.
+
+129
+00:05:50,449 --> 00:05:52,159
+Des théories sur ce qui a provoqué l'attaque?
+
+130
+00:05:52,160 --> 00:05:54,229
+Et bien ,au début j'ai pensé que Sacha avait
+peut être contracté
+
+131
+00:05:54,230 --> 00:05:56,429
+une infection, donc j'ai commencé toute une batterie
+
+132
+00:05:56,430 --> 00:05:58,799
+de tests, nous aurons les résultats dans quelques jours.
+
+133
+00:05:58,800 --> 00:06:00,599
+Mais pour être franc, Dr. Hood,
+
+134
+00:06:00,600 --> 00:06:01,699
+Je pense que c'est du sabotage.
+
+135
+00:06:02,385 --> 00:06:02,890
+Vraiment?
+
+136
+00:06:03,256 --> 00:06:03,988
+Pourquoi?
+
+137
+00:06:04,260 --> 00:06:06,130
+Certains des fichiers de surveillance
+
+138
+00:06:06,444 --> 00:06:08,399
+du moment de l'attaque sont manquants.
+
+139
+00:06:08,400 --> 00:06:10,659
+Qui était la dernière personne à avoir accés
+aux dossiers?
+
+140
+00:06:10,660 --> 00:06:12,129
+Rudy Callistro.
+
+141
+00:06:12,130 --> 00:06:13,899
+C'est un technicien vétérinaire.
+
+142
+00:06:13,900 --> 00:06:16,229
+C'était le gardien de Sacha.
+
+143
+00:06:16,230 --> 00:06:18,329
+Quand tout ceci est arrivé,
+
+144
+00:06:18,330 --> 00:06:20,559
+les gens qui travaillaient ici dans le laboratoire
+ont été très affecté,
+
+145
+00:06:20,560 --> 00:06:22,029
+mais Rudy a juste disparu.
+
+146
+00:06:22,030 --> 00:06:23,229
+Il accumule.
+
+147
+00:06:23,230 --> 00:06:25,699
+Il y a un profond contrôle du personnel ici
+
+148
+00:06:25,700 --> 00:06:28,899
+je relève tous les commentaires qui me frappe sur les
+blogs et les sites web parlant des droits des animaux.
+
+149
+00:06:28,900 --> 00:06:30,999
+J'ai la priorité pour lui poser des questions.
+
+150
+00:06:31,000 --> 00:06:32,929
+Nous avons besoin de voir tout ce que vous avez sur lui.
+
+151
+00:06:32,930 --> 00:06:35,499
+Et j'aimerai voir vos rapports de laboratoire,
+s'il vous plait.
+
+152
+00:06:35,500 --> 00:06:36,960
+Euh, en allant jusqu'où?
+
+153
+00:06:38,000 --> 00:06:40,359
+Le début du projet.
+
+154
+00:06:40,360 --> 00:06:42,229
+Vous réalisez que c'est 5 ans de projet?
+
+155
+00:06:42,230 --> 00:06:44,129
+Ca prendrai déjà assez longtemps
+
+156
+00:06:44,130 --> 00:06:45,359
+juste pour imprimer tout ça.
+
+157
+00:06:45,360 --> 00:06:47,099
+Nous n'avons pas besoin de couper quelques arbres.
+
+158
+00:06:47,139 --> 00:06:49,330
+J'ai tous ce qu'il faut .
+
+159
+00:06:54,530 --> 00:06:57,429
+Allez mec... juste ici!
+
+160
+00:06:57,430 --> 00:06:59,000
+Monte, monte, monte.
+
+161
+00:07:00,660 --> 00:07:01,800
+Beau tir, beau tir.
+
+162
+00:07:05,700 --> 00:07:07,829
+Regarde sur le coté.
+
+163
+00:07:07,830 --> 00:07:09,560
+Passe-le, passe-le.
+
+164
+00:07:20,160 --> 00:07:21,629
+Désolé mec, ça va?
+
+165
+00:07:21,630 --> 00:07:23,659
+Yo, Pierce, relax, mec.
+
+166
+00:07:23,660 --> 00:07:26,000
+Personne n'essaye de te saboter.
+
+167
+00:07:36,030 --> 00:07:36,799
+Hey,Kevin.
+
+168
+00:07:36,800 --> 00:07:37,959
+Dr. Nesic.
+
+169
+00:07:37,960 --> 00:07:40,029
+Je suis venu vous chercher l'autre nuit,
+
+170
+00:07:40,030 --> 00:07:40,845
+mais vous n'étiez pas dans votre lit.
+
+171
+00:07:41,037 --> 00:07:43,129
+Je me promenais surement dehors,
+essayant de me calmer.
+
+172
+00:07:43,130 --> 00:07:44,759
+quoi de neuf, Doc?
+
+173
+00:07:44,760 --> 00:07:46,460
+C'est l'heure de votre prochain traitement.
+
+174
+00:07:47,960 --> 00:07:49,429
+Je peux prendre une douche d'abord?
+
+175
+00:07:49,430 --> 00:07:51,360
+Bien sur, je peux attendre.
+
+176
+00:08:04,423 --> 00:08:05,329
+Hey.
+
+177
+00:08:05,330 --> 00:08:07,499
+- Bonjour.
+- J'ai quelque chose
+
+178
+00:08:07,500 --> 00:08:11,729
+sur une propriété au nom de la soeur
+de Rudy Callistro.
+
+179
+00:08:11,730 --> 00:08:13,399
+Regarde ça. Elle a été arrêtée
+
+180
+00:08:13,400 --> 00:08:14,929
+pour avoir lancer de la peinture rouge
+
+181
+00:08:14,930 --> 00:08:16,899
+sur le manteau en fourrure d'une célébrité
+pendant un défilé.
+
+182
+00:08:16,900 --> 00:08:19,699
+- alors, c'est de famille.
+- La propriété est à moins d'une heure
+
+183
+00:08:19,700 --> 00:08:21,129
+d'ici... nous devrions aller vérifier.
+
+184
+00:08:21,130 --> 00:08:22,459
+Peut-être qu'il s'y cache.
+
+185
+00:08:22,460 --> 00:08:23,559
+Ce que je ne comprends pas...
+
+186
+00:08:23,560 --> 00:08:25,899
+pourquoi il nuirait aux chimpanzés
+
+187
+00:08:25,900 --> 00:08:27,859
+s'il aime tant les animaux?
+
+188
+00:08:27,860 --> 00:08:31,029
+Tout est sur la vidéo manquante.
+
+189
+00:08:31,406 --> 00:08:32,890
+Peut-être que c'était son idée
+
+190
+00:08:33,113 --> 00:08:33,999
+d'administrer quelques
+
+191
+00:08:34,000 --> 00:08:36,329
+substances... ou de guider le chimpanzé.
+
+192
+00:08:36,330 --> 00:08:38,859
+On ne peut pas attendre de voir ça
+
+193
+00:08:38,860 --> 00:08:40,512
+partout sur internet dans quelques jours?
+
+194
+00:08:40,900 --> 00:08:42,859
+Ce serait une enorme victoire
+des relations publiques
+
+195
+00:08:42,860 --> 00:08:44,359
+pour le mouvement des droits des animaux.
+
+196
+00:08:44,360 --> 00:08:45,599
+Des fois, Rachel,
+
+197
+00:08:45,600 --> 00:08:47,630
+vous avez une vision très noire de la nature humaine.
+
+198
+00:08:50,900 --> 00:08:55,259
+Vous savez, certaines cultures, même celle qui
+mange de la viande,
+
+199
+00:08:55,260 --> 00:08:59,399
+traite leurs animaux avec beaucoup plus de respect
+que nous.
+
+200
+00:08:59,400 --> 00:09:02,599
+Au Japon, il y a le bétail de Wagyu.
+
+201
+00:09:02,600 --> 00:09:06,299
+Ils les nourrissent à la bière, les traitent bien,
+et les massent tous les jours.
+
+202
+00:09:06,540 --> 00:09:07,299
+Oubliez le bétail.
+
+203
+00:09:07,300 --> 00:09:08,959
+J'ai besoin de quelqu'un qui fasse ça pour moi.
+
+204
+00:09:09,259 --> 00:09:10,008
+Mmm.
+
+205
+00:09:19,677 --> 00:09:21,200
+Nous sommes au bon endroit.
+
+206
+00:09:24,300 --> 00:09:26,021
+Toutes ces espèces sont...
+
+207
+00:09:26,596 --> 00:09:28,800
+communément utilisées dans l'experimentation animal.
+
+208
+00:09:34,069 --> 00:09:36,799
+- Rudy Callistro?
+- Qui le demande?
+
+209
+00:09:36,800 --> 00:09:39,130
+Nous sommes du FBI... Nous voulons vous parler de Sacha.
+
+210
+00:09:40,230 --> 00:09:41,300
+Whoa.
+
+211
+00:09:42,830 --> 00:09:44,230
+Restez derrière!
+
+212
+00:09:50,360 --> 00:09:52,029
+Hey!
+
+213
+00:09:52,030 --> 00:09:53,499
+Si je dois vous tirer dessus
+
+214
+00:09:53,500 --> 00:09:56,300
+pour vous arreter, je n'hesiterai pas.
+
+215
+00:10:02,360 --> 00:10:04,459
+Hé pourquoi vous me traitez comme ça,
+de toute façon?
+
+216
+00:10:04,460 --> 00:10:05,759
+Le coeur de boeuf... c'est bon marché,
+
+217
+00:10:05,760 --> 00:10:07,199
+et si les animaux ne le mangent pas,
+
+218
+00:10:07,200 --> 00:10:08,176
+ça sera gaspillé.
+
+219
+00:10:08,400 --> 00:10:09,449
+C'est super.
+
+220
+00:10:09,849 --> 00:10:11,759
+Donnez moi votre autre main.
+
+221
+00:10:11,760 --> 00:10:13,190
+Je ne sais pas, Doc.
+
+222
+00:10:13,887 --> 00:10:16,399
+La dernière fois, je n'ai pas pu dormir pendant
+une semaine.
+
+223
+00:10:16,623 --> 00:10:18,190
+Un effet secondaire commun.
+
+224
+00:10:18,593 --> 00:10:20,562
+Ca diminuera progressivement.
+
+225
+00:10:21,800 --> 00:10:23,124
+Ce n'est pas tout.
+
+226
+00:10:23,804 --> 00:10:24,699
+Je suis tout le temps tendu.
+
+227
+00:10:24,700 --> 00:10:26,229
+J'ai ces maux de tête,
+
+228
+00:10:26,935 --> 00:10:29,559
+et les médicaments que vous me donnez
+n'aident pas vraiment.
+
+229
+00:10:30,403 --> 00:10:31,205
+Si c'était vous,
+
+230
+00:10:31,245 --> 00:10:32,259
+vous sauteriez ce traitement.
+
+231
+00:10:32,260 --> 00:10:33,499
+Je comprend,
+
+232
+00:10:33,500 --> 00:10:36,311
+mais nous sommes à un moment crucial.
+
+233
+00:10:36,869 --> 00:10:37,659
+En fait,
+
+234
+00:10:37,660 --> 00:10:39,254
+c'est peut-être le dernier.
+
+235
+00:10:40,060 --> 00:10:42,329
+Je veux juste rentrer chez moi.
+
+236
+00:10:42,330 --> 00:10:44,329
+Je pense que tout ceci
+
+237
+00:10:44,330 --> 00:10:45,629
+la thérapie, le désordre,
+la tension post-traumatic
+
+238
+00:10:45,630 --> 00:10:48,059
+serait plus facile pour moi si je passais du temps
+
+239
+00:10:48,060 --> 00:10:49,559
+avec ma famille entre les traitements.
+
+240
+00:10:49,560 --> 00:10:52,299
+C'est... c'est juste que je suis loin d'eux.
+
+241
+00:10:52,300 --> 00:10:55,559
+Kevin, vous connaissez les statistiques.
+
+242
+00:10:56,036 --> 00:10:58,229
+Le point principal de tous les traitements
+
+243
+00:10:58,230 --> 00:11:01,059
+est de réduire les conflits hors de la maison.
+
+244
+00:11:01,060 --> 00:11:02,629
+Dites-moi que ça ne vous intéresse pas.
+
+245
+00:11:02,630 --> 00:11:05,130
+Si,mais je ne me suis pas engagé pour être
+un foutu cobaye.
+
+246
+00:11:06,597 --> 00:11:07,399
+Pourquoi vous êtes vous
+
+247
+00:11:07,400 --> 00:11:09,158
+porté volontaire pour cette étude?
+
+248
+00:11:10,831 --> 00:11:12,229
+- Pour ma femme.
+- Alors, pourquoi
+
+249
+00:11:12,230 --> 00:11:15,500
+tout arreter alors qu'on est si proche de la fin?
+
+250
+00:11:18,674 --> 00:11:19,772
+Ok, Doc.
+
+251
+00:11:20,400 --> 00:11:22,150
+Je prendrai mon traitement comme un grand garçon.
+
+252
+00:11:24,677 --> 00:11:26,399
+Alors vous êtes allé travailler pour Belton
+
+253
+00:11:26,400 --> 00:11:28,459
+pour saboter leur laboratoire?
+
+254
+00:11:28,981 --> 00:11:29,731
+Non.
+
+255
+00:11:30,000 --> 00:11:31,829
+J'étais juste là pour récupérer des informations.
+
+256
+00:11:31,830 --> 00:11:33,699
+Poser les bases d'un nouvel amendement
+des droits egaux
+
+257
+00:11:33,700 --> 00:11:34,799
+qui inclut toutes les espèces.
+
+258
+00:11:34,800 --> 00:11:36,799
+La façon dont la science traite les animaux...
+
+259
+00:11:36,800 --> 00:11:38,259
+c'est... c'est criminel.
+
+260
+00:11:38,260 --> 00:11:39,182
+des fois.
+
+261
+00:11:40,855 --> 00:11:41,959
+Mais vous êtes diabétiques,
+
+262
+00:11:41,960 --> 00:11:42,807
+n'est-ce pas?
+
+263
+00:11:43,460 --> 00:11:44,929
+Comment savez-vous ça?
+
+264
+00:11:44,930 --> 00:11:46,759
+Vos doigts.
+
+265
+00:11:46,760 --> 00:11:48,699
+Pour tester votre taux de glucide avec,
+
+266
+00:11:48,700 --> 00:11:51,229
+quoi, un mètre de glucose portable?
+
+267
+00:11:51,230 --> 00:11:54,259
+La découverte de l'insuline, qui rend possible
+
+268
+00:11:54,260 --> 00:11:55,929
+pour les diabétiques comme vous
+
+269
+00:11:55,930 --> 00:11:57,599
+de vivre avec la maladie, c'est fait grâce
+
+270
+00:11:57,600 --> 00:11:59,199
+à l'expérimentation animale.
+
+271
+00:11:59,200 --> 00:12:01,660
+Sans le sacrifice de ces animaux, vous seriez mort.
+
+272
+00:12:04,747 --> 00:12:05,129
+Rudy,
+
+273
+00:12:06,072 --> 00:12:08,129
+Que pensez-vous qu'il s'est passé au laboratoire?
+
+274
+00:12:08,130 --> 00:12:09,331
+C'est évident n'est-ce pas?
+
+275
+00:12:09,960 --> 00:12:12,329
+Nesic est le Dr. Frankenstein du royaume animal.
+
+276
+00:12:12,330 --> 00:12:15,099
+Il prend des primates tranquilles et
+les transforme en meurtriers.
+
+277
+00:12:15,100 --> 00:12:16,399
+- Pourquoi avez-vous couru?
+- Parce que quand
+
+278
+00:12:16,400 --> 00:12:18,429
+tout est parti en vrille, je savais que Nici
+trouverait un moyen
+
+279
+00:12:18,430 --> 00:12:19,384
+de m'accuser de ce qui s'est passé.
+
+280
+00:12:19,576 --> 00:12:21,459
+Avez-vous volé la vidéo de surveillance?
+
+281
+00:12:21,460 --> 00:12:22,829
+- Non. Non.
+- Téléchargé des fichiers?
+
+282
+00:12:22,830 --> 00:12:25,399
+Je n'ai jamais eu accès au système et je n'ai jamais
+rien pris.
+
+283
+00:12:25,954 --> 00:12:26,407
+Ok.
+
+284
+00:12:26,969 --> 00:12:28,829
+Votre histoire est plausible.
+
+285
+00:12:29,266 --> 00:12:31,259
+Est-ce que vous vous rappelez de quoique ce soit
+
+286
+00:12:31,260 --> 00:12:34,799
+qui pourrait nous aider à comprendre
+ce qu'il se passe avec Sacha?
+
+287
+00:12:36,177 --> 00:12:36,829
+Oui.
+
+288
+00:12:37,223 --> 00:12:38,629
+J'ai remarqué quelque chose.
+
+289
+00:12:39,018 --> 00:12:40,799
+Vous savez que les chimpanzés sont capables
+
+290
+00:12:40,800 --> 00:12:42,103
+d'utiliser les deux mains comme les hommes, vrai?
+
+291
+00:12:42,360 --> 00:12:45,129
+Nous sommes tous mi-figue, mi-raisin.
+
+292
+00:12:45,130 --> 00:12:47,159
+Certains préfère la gauche et d'autre la droite.
+
+293
+00:12:47,366 --> 00:12:49,129
+Et bien Sacha etait droitier.
+
+294
+00:12:49,130 --> 00:12:51,699
+Mais les derniers jours, il a changé.
+
+295
+00:12:51,985 --> 00:12:54,999
+Il est devenu complétement ambidextre, pour se nourrir,
+
+296
+00:12:55,000 --> 00:12:57,530
+et il a même commencé à favoriser sa main gauche.
+
+297
+00:13:13,323 --> 00:13:13,915
+Trois...
+
+298
+00:13:14,734 --> 00:13:16,900
+deux... un.
+
+299
+00:13:36,100 --> 00:13:38,699
+Avez vous trier les différents pathogènes?
+
+300
+00:13:38,700 --> 00:13:40,029
+Pas encore.
+
+301
+00:13:40,030 --> 00:13:42,599
+Avez vous aussi fait le test pour T. gondii?
+
+302
+00:13:42,600 --> 00:13:43,699
+Toxoplasmose?
+
+303
+00:13:43,700 --> 00:13:44,729
+Non.
+
+304
+00:13:44,730 --> 00:13:46,399
+Toxoplasmose?
+
+305
+00:13:46,400 --> 00:13:47,599
+Oui, c'est un parasite
+
+306
+00:13:47,600 --> 00:13:49,259
+qui infecte l'esprit des hôtes
+
+307
+00:13:49,260 --> 00:13:51,559
+et qui peut alterer l'usage d'une main ou de l'autre.
+
+308
+00:13:51,560 --> 00:13:54,359
+Mais il n'y a pas de félin ni de rongeur ici.
+
+309
+00:13:54,360 --> 00:13:56,529
+Et ils sont les cas les plus commun de toxoplasmose.
+
+310
+00:13:56,530 --> 00:13:57,799
+Il aurait pu rentrer en contact
+
+311
+00:13:57,800 --> 00:13:59,829
+avec beaucoup d'espèce pendant le transfert.
+
+312
+00:13:59,830 --> 00:14:00,859
+Vous avez surement raison.
+
+313
+00:14:00,860 --> 00:14:02,759
+Ca pourrait expliquer le comportement de Sacha.
+
+314
+00:14:03,602 --> 00:14:04,432
+Nous le testerons pour ça.
+
+315
+00:14:08,189 --> 00:14:09,000
+Hoho.
+
+316
+00:14:11,495 --> 00:14:12,316
+Sacha est parti.
+
+317
+00:14:16,164 --> 00:14:17,200
+C'est parti, bloque vers le bas.
+
+318
+00:14:18,960 --> 00:14:20,599
+Très bien,
+
+319
+00:14:20,600 --> 00:14:21,599
+aller, maintenant.
+
+320
+00:14:21,600 --> 00:14:23,199
+Vas-y fait ça.
+
+321
+00:14:23,200 --> 00:14:24,071
+Oh,oui, oui.
+
+322
+00:14:25,053 --> 00:14:25,960
+Allez viens, viens.
+
+323
+00:14:29,500 --> 00:14:30,629
+Ca va mec?
+
+324
+00:14:30,630 --> 00:14:31,813
+Non,je suis blessé.
+
+325
+00:14:32,572 --> 00:14:33,629
+Hey, Kev, Nick est blessé.
+
+326
+00:14:33,630 --> 00:14:34,562
+Viens.
+
+327
+00:14:35,260 --> 00:14:37,959
+Hey,Kev,
+
+328
+00:14:37,960 --> 00:14:39,259
+prends tes affaires, mec.
+
+329
+00:14:40,337 --> 00:14:42,129
+Hey,Kevin,viens faire quelques paniers mec.
+
+330
+00:14:42,169 --> 00:14:42,881
+Aller.
+
+331
+00:14:58,346 --> 00:15:01,737
+Tu ne sera pas puni pour ça...
+
+332
+00:15:02,942 --> 00:15:03,442
+Kevin?
+
+333
+00:15:03,576 --> 00:15:04,330
+Papa!
+
+334
+00:15:07,062 --> 00:15:09,029
+Hey,hey,fiston.
+
+335
+00:15:09,213 --> 00:15:10,355
+Qu'est ce que tu fais là?
+
+336
+00:15:10,980 --> 00:15:12,660
+Chéri, je pensais que tu rentrais que les week-end?
+
+337
+00:15:16,096 --> 00:15:17,230
+Pourquoi tu n'es pas à la base?
+
+338
+00:15:20,076 --> 00:15:21,099
+Qu'est ce qui ne va pas, Kevin?
+
+339
+00:15:21,100 --> 00:15:21,816
+- Ca va?
+
+340
+00:15:21,856 --> 00:15:24,159
+J'ai un mal de tête meurtrier bébé . On a de l'aspirine ou
+un truc comme ça?
+
+341
+00:15:24,160 --> 00:15:25,199
+Le plus fort sera le mieux.
+
+342
+00:15:25,200 --> 00:15:26,229
+Il y a autre chose?
+
+343
+00:15:26,230 --> 00:15:27,499
+Non.
+
+344
+00:15:27,500 --> 00:15:29,290
+C'est juste ma tête qui me fait mal, c'est tout.
+
+345
+00:15:30,709 --> 00:15:32,599
+Jackson,chéri, va regarder la télé, ok?
+
+346
+00:15:33,011 --> 00:15:33,748
+Maman et Papa
+
+347
+00:15:33,788 --> 00:15:34,448
+ont besoin de parler.
+
+348
+00:15:36,560 --> 00:15:37,829
+Je n'ai pas bu.
+
+349
+00:15:37,830 --> 00:15:39,659
+- J'avais juste envie de te voir.
+- Kevin,
+
+350
+00:15:39,660 --> 00:15:40,999
+la thérapie que tu suis est supposé
+
+351
+00:15:41,000 --> 00:15:42,529
+t'aider à être avec nous. Tu dois y retourner avant
+
+352
+00:15:42,530 --> 00:15:44,159
+- qu'ils pensent que tu es parti sans laisser d'adresse.
+- Je veux juste
+
+353
+00:15:44,160 --> 00:15:45,829
+voir ma femme et mon fils.
+
+354
+00:15:46,262 --> 00:15:47,190
+Et ma tête me fait mal.
+
+355
+00:15:48,082 --> 00:15:48,929
+A cause de ces traitements.
+
+356
+00:15:48,930 --> 00:15:50,830
+Ceux qui sont supposés m'aider.
+
+357
+00:15:52,260 --> 00:15:53,500
+Merde!
+
+358
+00:15:56,892 --> 00:15:57,959
+Kevin,ta main.
+
+359
+00:15:57,960 --> 00:15:59,396
+C'est bon. Tu as vu ce que je viens de faire?
+
+360
+00:15:59,869 --> 00:16:02,659
+Oui, tu a fait un trou dans les toilettes...
+
+361
+00:16:02,660 --> 00:16:03,699
+Pas ça, je...
+
+362
+00:16:03,700 --> 00:16:04,999
+J'ai juste... J'ai lancé une gauche.
+
+363
+00:16:05,000 --> 00:16:06,229
+J'ai toujours mis des droites.
+
+364
+00:16:06,230 --> 00:16:07,899
+Je suis droitier.
+
+365
+00:16:07,900 --> 00:16:09,729
+Tu n'aurai pas du donné un coup de poing
+de toute façon.
+
+366
+00:16:10,665 --> 00:16:12,559
+C'est ce stupide traitement.
+
+367
+00:16:12,560 --> 00:16:13,183
+Abby,
+
+368
+00:16:14,060 --> 00:16:15,159
+je suis désolé.
+
+369
+00:16:15,160 --> 00:16:15,994
+C'est juste... je sais.
+
+370
+00:16:16,610 --> 00:16:17,529
+Moi aussi je suis désolé.
+
+371
+00:16:19,430 --> 00:16:22,299
+Je ne peux pas prétendre savoir comment c'est
+
+372
+00:16:22,300 --> 00:16:23,331
+d'être en combat.
+
+373
+00:16:23,501 --> 00:16:25,161
+Je ne sais pas ce que tu as vu là-bàs.
+
+374
+00:16:27,113 --> 00:16:28,760
+Mais je suis contente de t'avoir ici.
+
+375
+00:16:29,487 --> 00:16:30,156
+A la maison.
+
+376
+00:16:40,060 --> 00:16:41,570
+Merci. Nous sommes dessus.
+
+377
+00:16:42,614 --> 00:16:45,059
+Le Contrôle Animal a mis chaque officier disponible
+
+378
+00:16:45,060 --> 00:16:46,577
+sur la recherche de Sacha.
+
+379
+00:16:48,430 --> 00:16:49,606
+Espèrons qu'ils trouvent quelque chose.
+
+380
+00:16:51,453 --> 00:16:52,459
+Vous avez contrôlé les données?
+
+381
+00:16:52,460 --> 00:16:55,499
+J'ai seulement vu le haut de l'iceberg.
+
+382
+00:16:55,994 --> 00:16:57,499
+Ca va prendre assez longtemps pour
+tout passer en revue.
+
+383
+00:16:57,500 --> 00:16:59,680
+Vous savez, le Bureau n'est pas sans ressources.
+
+384
+00:17:00,090 --> 00:17:02,159
+Nous avons un département tout entier dédié
+
+385
+00:17:02,160 --> 00:17:03,405
+à l'analyse de données.
+
+386
+00:17:03,599 --> 00:17:05,599
+Aussi doué que, heu,
+
+387
+00:17:05,600 --> 00:17:07,760
+les programmeurs du gouvenement puissent être, Rachel,
+
+388
+00:17:08,460 --> 00:17:12,129
+peu de criminels sont rattrapés grâce
+
+389
+00:17:12,130 --> 00:17:14,390
+à leur achat par carte de crédit et
+leur téléchargement porno.
+
+390
+00:17:15,018 --> 00:17:16,229
+Les logiciels d'analyse
+
+391
+00:17:16,230 --> 00:17:19,029
+sont faits pour trouver les dénominateurs communs.
+
+392
+00:17:19,030 --> 00:17:20,199
+Si vous cherchez n'importe quoi
+
+393
+00:17:20,200 --> 00:17:21,929
+de spécifique, vous ne pouvez pas vraiment
+
+394
+00:17:21,930 --> 00:17:23,699
+utiliser des données génériques réduisant le code.
+
+395
+00:17:23,962 --> 00:17:24,578
+J'ai compris.
+
+396
+00:17:24,774 --> 00:17:26,800
+Au lieu de ce reposer uniquement sur l'Intel
+
+397
+00:17:27,202 --> 00:17:28,759
+vous devez vous mettre dans la peau de la cible.
+
+398
+00:17:28,760 --> 00:17:30,759
+Faites vos propres dépalecments. Exactement.
+
+399
+00:17:31,702 --> 00:17:33,599
+Seulement dans ce cas
+
+400
+00:17:33,600 --> 00:17:35,730
+je l'aurai en étant assis sur mes fesses.
+
+401
+00:17:37,430 --> 00:17:39,429
+Allez à gauche. Je vérifie à droite.
+
+402
+00:17:39,430 --> 00:17:41,429
+Gary, vous descendez le remblai,
+
+403
+00:17:41,430 --> 00:17:43,429
+Vérifiez le tuyau de drainage.
+
+404
+00:17:43,430 --> 00:17:45,399
+Rapellez-vous le chimpanzé disparu peut se cacher
+en haut comme en bas.
+
+405
+00:17:45,936 --> 00:17:47,160
+Je transmet.
+
+406
+00:18:11,781 --> 00:18:13,399
+Agent spécial Young,FBI.
+
+407
+00:18:13,400 --> 00:18:14,315
+Qu'avons-nous?
+
+408
+00:18:14,669 --> 00:18:16,629
+Une seule victime, salement amoché.
+
+409
+00:18:16,630 --> 00:18:17,859
+Son arme tranquilisante a été vidée,
+
+410
+00:18:17,860 --> 00:18:19,323
+donc s'est probablement débattu.
+
+411
+00:18:19,830 --> 00:18:21,359
+Nous avons une fracture de la main,
+
+412
+00:18:21,360 --> 00:18:22,678
+blessure défensive, le plus probablement.
+
+413
+00:18:22,937 --> 00:18:24,359
+Les clavicules cassées.
+
+414
+00:18:24,360 --> 00:18:25,829
+les deux coudes déboités.
+
+415
+00:18:25,830 --> 00:18:27,693
+- Vastes contusions au visage.
+- Ok.
+
+416
+00:18:27,869 --> 00:18:29,629
+Même blessure que les chimpanzés du laboratoire,
+
+417
+00:18:29,630 --> 00:18:31,425
+et Dr. Miller,le vétérinaire.
+
+418
+00:18:31,630 --> 00:18:33,629
+Vous pensez que Sacha est responsable?
+
+419
+00:18:33,826 --> 00:18:34,771
+C'est possible.
+
+420
+00:18:35,400 --> 00:18:36,759
+Les chimpanzés à l'age adulte sont
+
+421
+00:18:36,760 --> 00:18:39,058
+cinq fois plus fort qu'un homme.
+
+422
+00:18:44,600 --> 00:18:45,220
+Hood.
+
+423
+00:18:46,157 --> 00:18:47,147
+Juste ici.
+
+424
+00:18:59,860 --> 00:19:02,129
+La fléchette de tranquilisant de l'officier
+du Contrôle Animale
+
+425
+00:19:02,130 --> 00:19:03,299
+a dû atteindre Sacha.
+
+426
+00:19:03,300 --> 00:19:04,629
+Mais le chimpanzé a attaqué
+
+427
+00:19:04,630 --> 00:19:05,992
+avant que ça fasse effet.
+
+428
+00:19:06,460 --> 00:19:09,229
+Je suppose que l'officier a infligé
+une blessure mortelle à Sacha
+
+429
+00:19:09,230 --> 00:19:10,899
+- tout en se défendant.
+- Où est Sacha?
+
+430
+00:19:11,596 --> 00:19:13,259
+Dr. Nesic, je crois
+
+431
+00:19:13,260 --> 00:19:16,229
+que le Contrôle Animal et le coroner du comté ont
+
+432
+00:19:16,230 --> 00:19:18,059
+un intéressant débat juridique à propos du corps.
+
+433
+00:19:18,374 --> 00:19:19,899
+Comment voir les actions d'un chimpanzé qui a
+
+434
+00:19:19,900 --> 00:19:21,359
+98% d'ADN en commun avec l'être humain.
+
+435
+00:19:21,360 --> 00:19:22,529
+Qui devrait avoir le corps?
+
+436
+00:19:23,150 --> 00:19:24,029
+Je prends Sacha qui
+
+437
+00:19:24,030 --> 00:19:25,499
+retourne au labo avec moi.
+
+438
+00:19:25,500 --> 00:19:27,199
+c'est la propriété de Belton Pharmaceutique.
+
+439
+00:19:27,200 --> 00:19:28,929
+Et nous n'avons pas fini la recherche.
+
+440
+00:19:28,930 --> 00:19:29,929
+Je suis désolé,Dr. Nesic.
+
+441
+00:19:29,930 --> 00:19:31,159
+Maintenant c'est une affaire criminelle.
+
+442
+00:19:31,160 --> 00:19:32,830
+C'est hors de votre champ de compétence.
+
+443
+00:19:35,500 --> 00:19:37,229
+Plus vite! Plus vite!
+
+444
+00:19:37,230 --> 00:19:39,199
+Plus vite! Maman!
+
+445
+00:19:39,200 --> 00:19:41,160
+Encore! Encore!
+
+446
+00:19:44,010 --> 00:19:45,890
+Le contenu de l'intestin est très intéressant.
+
+447
+00:19:46,205 --> 00:19:48,059
+J'ai peur de vous dire ça.
+
+448
+00:19:48,060 --> 00:19:51,099
+Le grand intestin de Sacha était vide.
+
+449
+00:19:51,324 --> 00:19:53,759
+Ce qui arrive lors d'une mort soudaine.
+
+450
+00:19:53,760 --> 00:19:55,429
+Son intestin aurait dû évacué tout de suite
+
+451
+00:19:55,430 --> 00:19:56,659
+en mourrant.
+
+452
+00:19:56,660 --> 00:19:58,429
+Mais il n'y a aucun signe
+
+453
+00:19:58,430 --> 00:20:00,829
+de défécation là où il a été trouvé.
+
+454
+00:20:01,290 --> 00:20:02,259
+N'importe quoi dans son système
+
+455
+00:20:02,260 --> 00:20:04,329
+serait parti, ou du moins aurait laissé une trace,
+là où il est mort.
+
+456
+00:20:04,671 --> 00:20:06,199
+Plus probablement une grosse trace.
+
+457
+00:20:06,482 --> 00:20:08,829
+Ce qui veut dire que Sacha a été tué ailleurs.
+
+458
+00:20:09,267 --> 00:20:10,129
+Son corps
+
+459
+00:20:10,130 --> 00:20:12,000
+a été déposé là après sa mort.
+
+460
+00:20:14,618 --> 00:20:16,429
+Ce qui signifie que Sacha n'a pas pu attaqué
+
+461
+00:20:16,430 --> 00:20:17,729
+l'officier du Contrôle Animal.
+
+462
+00:20:18,056 --> 00:20:19,330
+Alors qui?
+
+463
+00:20:21,200 --> 00:20:22,499
+Dr. Hood, nous allons
+
+464
+00:20:22,500 --> 00:20:23,559
+ouvrir la boîte cranienne.
+
+465
+00:20:23,560 --> 00:20:24,859
+Juste un instant.
+
+466
+00:20:24,860 --> 00:20:26,760
+Je dois voir dans quel état était son crâne.
+
+467
+00:20:34,560 --> 00:20:36,559
+Kevin, bébé, tu es là depuis un long moment.
+
+468
+00:20:36,963 --> 00:20:38,193
+Tu viens te coucher?
+
+469
+00:20:46,782 --> 00:20:48,129
+Félicitations, Hood,
+
+470
+00:20:48,130 --> 00:20:50,130
+vous avez réussi à me faire regarder
+un cerveau de singe.
+
+471
+00:20:51,300 --> 00:20:52,850
+Il y a pire à regarder.
+
+472
+00:20:54,012 --> 00:20:55,575
+Pas de paracémie...
+
+473
+00:20:56,354 --> 00:20:58,059
+ça élimine la toxoplasmose.
+
+474
+00:20:58,527 --> 00:21:00,829
+Le reste de la structure cervicale semble normal.
+
+475
+00:21:01,383 --> 00:21:03,499
+Et les amygdales ici.
+
+476
+00:21:04,090 --> 00:21:05,329
+Ce sont à peu près
+
+477
+00:21:05,330 --> 00:21:07,229
+les mêmes chez les chimpanzés que chez les humains.
+
+478
+00:21:07,230 --> 00:21:08,559
+C'est le centre de réponse de la peur.
+
+479
+00:21:08,560 --> 00:21:09,599
+Le reflexe fuite ou combat.
+
+480
+00:21:09,840 --> 00:21:11,829
+Quand les sens sentent une menace,
+
+481
+00:21:11,830 --> 00:21:13,829
+ils répondent en envoyant des signaux d'alarme
+
+482
+00:21:13,830 --> 00:21:15,459
+aux autres organes...
+
+483
+00:21:15,460 --> 00:21:16,799
+l'hypophise, les glandes surrénales...
+
+484
+00:21:16,800 --> 00:21:18,129
+ils inondent le système d'adrenaline
+
+485
+00:21:18,130 --> 00:21:20,229
+et alors soit vous fuyez soit vous combattez
+votre agresseur.
+
+486
+00:21:20,230 --> 00:21:21,488
+Ou un soldat ennemi.
+
+487
+00:21:22,030 --> 00:21:23,293
+Ce n'est pas tout.
+
+488
+00:21:23,960 --> 00:21:26,620
+Les amygdales aident à réglementer la dexterité.
+
+489
+00:21:27,381 --> 00:21:29,159
+Tous les nouveaux comportements de Sacha...
+
+490
+00:21:29,160 --> 00:21:30,520
+ses réactions agressives,
+
+491
+00:21:30,866 --> 00:21:33,244
+son changement de la main droite à la main gauche...
+
+492
+00:21:33,560 --> 00:21:36,499
+Tout aurait tendance à indiquer un changement d'une partie
+
+493
+00:21:36,500 --> 00:21:38,359
+- du cerveau.
+- Alors Nesic travaillait
+
+494
+00:21:38,360 --> 00:21:39,759
+sur le rôle des amygdales?
+
+495
+00:21:39,760 --> 00:21:41,599
+Oui, d'une manière ou d'un autre, Nesic
+
+496
+00:21:41,600 --> 00:21:44,259
+a fait que Sacha se retrouve avec des amygdales
+
+497
+00:21:44,260 --> 00:21:45,729
+deux fois plus grosse que la normal.
+
+498
+00:21:45,730 --> 00:21:47,223
+Ce qui accélère leur réactions.
+
+499
+00:21:47,569 --> 00:21:49,199
+C'est comme quand vous éternuez.
+
+500
+00:21:49,200 --> 00:21:52,029
+Quand vous éternuez chaque muscle de votre corps
+
+501
+00:21:52,030 --> 00:21:53,559
+se convulse involontairement.
+
+502
+00:21:53,560 --> 00:21:55,559
+En donnant aux amygdales
+
+503
+00:21:55,560 --> 00:21:58,259
+la bonne taille pour correspondre
+
+504
+00:21:58,260 --> 00:22:00,599
+à la taille du corps, c'està dire
+lui donnant sa vrai force,
+
+505
+00:22:00,600 --> 00:22:02,659
+c'est le genre à donner envie de...
+
+506
+00:22:02,660 --> 00:22:04,699
+d'une violence équivalente à un éternuement.
+
+507
+00:22:04,700 --> 00:22:05,759
+Quelque chose qu'on ne contrôle pas.
+
+508
+00:22:05,920 --> 00:22:07,429
+Résultat? Les sujets...
+
+509
+00:22:07,430 --> 00:22:10,199
+les chimpanzés répondaient
+à la moindre menace perçue,
+
+510
+00:22:10,200 --> 00:22:12,229
+peu importe sa taille, avec une force écrasante.
+
+511
+00:22:12,874 --> 00:22:15,559
+C'est une des conséquence accidentelle.
+
+512
+00:22:16,318 --> 00:22:18,500
+Je ne suis pas sûr que ce soit accidentelle.
+
+513
+00:22:20,500 --> 00:22:21,499
+Venez.
+
+514
+00:22:21,500 --> 00:22:23,729
+Vas-y. Lance. Lance.
+
+515
+00:22:23,730 --> 00:22:26,099
+Hey, regarde ça.
+
+516
+00:22:26,100 --> 00:22:27,459
+Messieurs!
+
+517
+00:22:27,460 --> 00:22:30,059
+Quelqu'un sait ou est Kevin Pierce?
+
+518
+00:22:30,060 --> 00:22:32,230
+C'est très important il faut que je lui parle.
+
+519
+00:22:35,130 --> 00:22:36,519
+Personne?
+
+520
+00:22:37,408 --> 00:22:39,459
+Et pour un voyage de trois jours au casino Hard Rock,
+
+521
+00:22:39,460 --> 00:22:41,029
+tous frais payé?
+
+522
+00:22:41,937 --> 00:22:44,129
+S'il est parti sans laisser d'adresse,
+
+523
+00:22:44,130 --> 00:22:46,802
+vous pourriez lui éviter beaucoup d'ennui.
+
+524
+00:22:47,139 --> 00:22:49,098
+Vous vouliez l'aider.
+
+525
+00:22:49,800 --> 00:22:51,149
+Nous ne sommes pas stupide, Doc.
+
+526
+00:22:51,360 --> 00:22:53,124
+Le sergent Pierce a besoin d'aide.
+
+527
+00:22:53,562 --> 00:22:54,899
+Et quoique vous lui ayez fait,
+
+528
+00:22:54,900 --> 00:22:56,049
+ça ne marche pas.
+
+529
+00:22:56,391 --> 00:22:57,259
+C'est vrai. Mm-hmm.
+
+530
+00:22:57,260 --> 00:22:58,459
+Alors on est là pour jouer?
+
+531
+00:22:58,460 --> 00:22:59,929
+ou pour garder la balle?
+
+532
+00:23:01,380 --> 00:23:05,929
+Je sais que vous pensez le protéger,
+
+533
+00:23:05,930 --> 00:23:08,329
+mais vous le condamnez.
+
+534
+00:23:08,330 --> 00:23:10,086
+Vous vous condamnez.
+
+535
+00:23:30,300 --> 00:23:33,529
+Les données de Nesic sont parfaites.
+
+536
+00:23:37,087 --> 00:23:37,999
+Trop parfaite.
+
+537
+00:23:38,000 --> 00:23:38,900
+Qu'est-ce que vous voulez dire?
+
+538
+00:23:41,351 --> 00:23:42,445
+Laissez moi vous montrez.
+
+539
+00:23:43,716 --> 00:23:44,276
+Hood?
+
+540
+00:23:44,830 --> 00:23:45,959
+Minibar... cher.
+
+541
+00:23:45,960 --> 00:23:47,197
+Ne vous inquiétez pas, Rachel.
+
+542
+00:23:47,237 --> 00:23:47,688
+Vivez un peu.
+
+543
+00:23:49,000 --> 00:23:52,299
+Maintenant ça... c'est à quoi les données ressembles.
+
+544
+00:23:52,300 --> 00:23:54,099
+C'est un groupe de point
+
+545
+00:23:54,100 --> 00:23:55,799
+sur un graphique.
+
+546
+00:23:55,800 --> 00:23:57,559
+Je peux utiliser votre chargeur de téléphone,
+s'il vous plait?
+
+547
+00:24:00,169 --> 00:24:01,099
+Merci.
+
+548
+00:24:01,100 --> 00:24:04,129
+Si on devait dessiner une courbe de ces données,
+
+549
+00:24:04,130 --> 00:24:07,159
+ça ressemblerait à ça.
+
+550
+00:24:07,160 --> 00:24:09,229
+Vous voyez, le chargeur de téléphone représente
+
+551
+00:24:09,230 --> 00:24:11,559
+une ligne qui entoure une règle générale.
+
+552
+00:24:11,560 --> 00:24:13,029
+Nous appelons ça une moyenne de tous les points.
+
+553
+00:24:13,030 --> 00:24:14,699
+Mais les données de Nesic
+
+554
+00:24:14,700 --> 00:24:16,359
+ne ressemblent pas à ça.
+
+555
+00:24:16,360 --> 00:24:19,860
+Les données de Nesic ne quittent jamais la courbe.
+
+556
+00:24:21,160 --> 00:24:24,159
+C'est statistiquement impossible.
+
+557
+00:24:24,160 --> 00:24:26,829
+Vous dites qu'il a ajusté les données à la courbe,
+
+558
+00:24:26,830 --> 00:24:28,399
+lui a faire dire ce qu'il voulait.
+
+559
+00:24:29,601 --> 00:24:31,929
+Définitivement il cache quelque chose.
+
+560
+00:24:31,930 --> 00:24:33,250
+La question est quoi?
+
+561
+00:24:34,165 --> 00:24:36,799
+Nous devons retourner à son labo, maintenant.
+
+562
+00:24:37,247 --> 00:24:38,199
+C'est l'agent spécial Young.
+
+563
+00:24:38,200 --> 00:24:41,676
+J'ai besoin qu'on envoie tout le monde aux entrées
+et sorties du T-3s.
+
+564
+00:24:41,900 --> 00:24:43,729
+- Je vous donne l'adresse.  - T-3s?
+
+565
+00:24:43,730 --> 00:24:45,859
+Vraiment j'adore, que pour une fois,
+
+566
+00:24:45,860 --> 00:24:48,212
+vous n'ayez aucune idée de quoi je parle.
+
+567
+00:24:48,404 --> 00:24:52,099
+Les spécialistes seront là d'une minute à l'autre.
+
+568
+00:24:52,100 --> 00:24:54,393
+Alors, Hood, je dois vous demander...
+
+569
+00:24:54,830 --> 00:24:56,699
+Comment avez-vous eu ce boulot?
+
+570
+00:24:58,234 --> 00:24:59,999
+1986 World Series.
+
+571
+00:25:00,000 --> 00:25:01,117
+Pardon?
+
+572
+00:25:02,512 --> 00:25:04,229
+Mets contre Red Sox.
+
+573
+00:25:04,230 --> 00:25:05,440
+Je suis un fan des Mets.
+
+574
+00:25:06,000 --> 00:25:11,199
+Et un de mes camarades de classe
+de Princeton était,
+
+575
+00:25:11,200 --> 00:25:15,664
+d'une façon agaçante, également major en histoire
+à Boston.
+
+576
+00:25:16,129 --> 00:25:17,199
+Alors il a eu des tickets pour le match,
+
+577
+00:25:17,200 --> 00:25:18,659
+mais il n'avait pas de moyen pour y aller.
+
+578
+00:25:18,660 --> 00:25:21,159
+J'avais une VW Passat de 1979
+
+579
+00:25:21,160 --> 00:25:23,127
+que j'avais modifié pour rouler à l'essence végétale.
+
+580
+00:25:23,291 --> 00:25:27,259
+Donc on a inévitablement déclaré la trève et, heu,
+
+581
+00:25:27,260 --> 00:25:31,360
+nous avons fini par conduire juqu'à Fenway.
+
+582
+00:25:31,897 --> 00:25:33,599
+Nous avons regardé le 5ème jeu.
+
+583
+00:25:33,600 --> 00:25:35,729
+Puis nous sommes reparti en centre ville,
+
+584
+00:25:35,730 --> 00:25:38,859
+et nous avons vu le 6ème jeu au stade Shea.
+
+585
+00:25:38,860 --> 00:25:40,737
+Puis nous sommes rentrés à Princeton,
+
+586
+00:25:40,983 --> 00:25:43,361
+nous étions devenus presqu'amis.
+
+587
+00:25:43,648 --> 00:25:47,999
+Il a continué pour devenir officier dans la Marine,
+
+588
+00:25:48,300 --> 00:25:49,530
+et gagné du pouvoir.
+
+589
+00:25:49,570 --> 00:25:51,881
+et devenir directeur du FBI.
+
+590
+00:25:52,600 --> 00:25:53,990
+C'est tout à fait ça.
+
+591
+00:25:54,359 --> 00:25:58,408
+Un jour il m'appelle, me demande une faveur,
+
+592
+00:25:59,460 --> 00:26:02,847
+et avant que je m'en rende compte,je passais
+la plupart de mon temps
+
+593
+00:26:02,887 --> 00:26:04,759
+- avec des gens comme vous,
+- Hey!
+
+594
+00:26:04,760 --> 00:26:05,968
+dans des endroits comme ça...
+
+595
+00:26:06,145 --> 00:26:09,111
+Ne vous inquiétez pas. Vous n'avez pas créé d'ennui
+au Bureau,
+
+596
+00:26:09,151 --> 00:26:10,560
+J'ai assez de dossier sur le directeur
+
+597
+00:26:10,600 --> 00:26:11,735
+vous pouvez les utiliser pour partir.
+
+598
+00:26:15,260 --> 00:26:16,355
+Nous y voilà.
+
+599
+00:26:18,360 --> 00:26:20,646
+Agent Reed, désolé pour le court délai.
+
+600
+00:26:20,686 --> 00:26:21,316
+Pas de problème.
+
+601
+00:26:30,101 --> 00:26:32,424
+- Merci.
+- Quand vous voulez.
+
+602
+00:26:37,099 --> 00:26:39,743
+Rachel, dites moi que c'est légal.
+
+603
+00:26:39,921 --> 00:26:42,929
+S'il vous plait! Nous avons le FBI et l'ADPRA derrière nous.
+
+604
+00:26:42,930 --> 00:26:44,336
+Je suis presque sûr que nous avons
+
+605
+00:26:44,376 --> 00:26:46,058
+l'entrée par effraction dans les charges.
+
+606
+00:26:46,098 --> 00:26:47,821
+- Six?
+- Alors?
+
+607
+00:26:48,477 --> 00:26:50,529
+Il n'y avait que six primates en cage.
+
+608
+00:26:50,530 --> 00:26:53,826
+Nesic parlait de sept sujets expérimentaux.
+
+609
+00:26:54,500 --> 00:26:56,450
+Qu'est-ce qu'on cherche exactement?
+
+610
+00:26:56,683 --> 00:27:01,659
+Nous avons vu combien les chiffres sont faciles
+à manipuler.
+
+611
+00:27:01,660 --> 00:27:04,184
+Je cherche une preuve sure et évidente, scientifique..
+
+612
+00:27:04,900 --> 00:27:07,710
+Il doit garder les échantillons de sang et
+de tissus quelque part.
+
+613
+00:27:18,841 --> 00:27:20,499
+Hood, je crois que je l'ai.
+
+614
+00:27:20,500 --> 00:27:22,066
+Les échantillons sont là-dedans.
+
+615
+00:27:24,300 --> 00:27:25,920
+Rachel...
+
+616
+00:27:27,888 --> 00:27:31,114
+L'analyse de sang du septième sujet est...
+
+617
+00:27:31,800 --> 00:27:33,041
+erroné.
+
+618
+00:27:33,369 --> 00:27:35,036
+Il est de groupe sanguin AB...
+
+619
+00:27:35,076 --> 00:27:37,537
+et un seul primate est de type AB.
+
+620
+00:27:40,400 --> 00:27:42,745
+Le septième sujet est un être humain.
+
+621
+00:27:56,860 --> 00:27:57,600
+Hey.
+
+622
+00:27:58,300 --> 00:27:59,700
+Te voilà.
+
+623
+00:28:02,060 --> 00:28:03,326
+Salut, Abby.
+
+624
+00:28:03,875 --> 00:28:05,228
+Dr. Nesic?
+
+625
+00:28:07,196 --> 00:28:08,499
+Quelque chose ne va pas avec Kevin?
+
+626
+00:28:08,500 --> 00:28:09,333
+Je ne sais pas.
+
+627
+00:28:09,630 --> 00:28:10,864
+J'esperais que vous pourriez me le dire.
+
+628
+00:28:11,561 --> 00:28:12,359
+Oh, mon Dieu.
+
+629
+00:28:12,845 --> 00:28:16,199
+Kevin peut avoir des flash-backs prolongés de combat.
+
+630
+00:28:16,522 --> 00:28:17,859
+J'ai déjà vu ça
+
+631
+00:28:17,860 --> 00:28:19,459
+sur des soldats souffrant de Syndrome Dépressif
+Post-Traumatique.
+
+632
+00:28:20,660 --> 00:28:22,729
+Je lui ai dit de rentrer à la base.
+
+633
+00:28:22,730 --> 00:28:23,629
+Alors vous l'avez vu?
+
+634
+00:28:23,630 --> 00:28:25,560
+Il est ici? J'ai besoin de lui parler.
+
+635
+00:28:28,751 --> 00:28:30,675
+Non, Kevin n'est pas là.
+
+636
+00:28:31,330 --> 00:28:33,614
+Mais je peux lui dire de vous appeler
+quand je le verrai.
+
+637
+00:28:34,488 --> 00:28:35,295
+Au revoir.
+
+638
+00:28:43,660 --> 00:28:44,899
+Je vous demande pardon.
+
+639
+00:28:44,900 --> 00:28:46,099
+Ce n'était pas sur mon radar.
+
+640
+00:28:46,100 --> 00:28:48,229
+Nesic travaillait pour une autre compagnie
+
+641
+00:28:48,230 --> 00:28:49,529
+pour une autre étude sur la defense
+
+642
+00:28:49,530 --> 00:28:52,259
+à 20 minutes de là où vous êtes
+
+643
+00:28:52,260 --> 00:28:53,344
+à la base Nellis Air Force.
+
+644
+00:28:54,123 --> 00:28:56,329
+Ils testaient des thérapies en petit groupe
+
+645
+00:28:56,330 --> 00:28:59,399
+sur des troupes revenants de combat et souffrants de SDPT
+(*Syndrome Dépressif Post-Traumatique) .
+
+646
+00:28:59,400 --> 00:29:01,999
+Des informations sur celui qui serait le 7ème sujet?
+
+647
+00:29:02,000 --> 00:29:04,121
+L'un d'eux, le sergent Kevin Pierce,
+
+648
+00:29:04,613 --> 00:29:06,429
+a quitté la base sans permission
+
+649
+00:29:06,827 --> 00:29:09,059
+après avoir montré un comportement étrange.
+
+650
+00:29:09,060 --> 00:29:10,189
+Il semble que ce soit notre homme.
+
+651
+00:29:10,560 --> 00:29:12,359
+Dr. Hood, Agent Young,
+
+652
+00:29:12,360 --> 00:29:13,999
+si vous avez besoin de quoique ce soit, demandez.
+
+653
+00:29:14,000 --> 00:29:15,799
+Nous le ferons. Merci, monsieur.
+
+654
+00:29:15,800 --> 00:29:16,343
+Merci.
+
+655
+00:29:16,616 --> 00:29:18,909
+Nous devons aller à cette base d'Air Force, tout de suite.
+
+656
+00:29:18,949 --> 00:29:21,099
+Je pense que c'est Pierce qui a attaqué
+
+657
+00:29:21,100 --> 00:29:22,229
+l'oficier du Contrôle Animal.
+
+658
+00:29:22,230 --> 00:29:23,559
+Il s'est probablement approché
+
+659
+00:29:23,560 --> 00:29:24,923
+comme une menace potentielle.
+
+660
+00:29:25,223 --> 00:29:28,176
+Pierce a repondu automatiquement, comme il était programmé,
+
+661
+00:29:28,763 --> 00:29:30,199
+son système nerveux prend le dessus
+
+662
+00:29:30,200 --> 00:29:32,748
+pour traiter la menace perçue.
+
+663
+00:29:33,230 --> 00:29:35,599
+Peut-être que Nesic a monté l'évasion de Sacha
+
+664
+00:29:35,600 --> 00:29:37,149
+pour entraver notre enquète.
+
+665
+00:29:37,491 --> 00:29:40,359
+Quand l'officier de Contrôle Animal a été attaqué,
+Nesic a vu une occasion
+
+666
+00:29:40,360 --> 00:29:42,065
+de terminer l'examen minutieux.
+
+667
+00:29:42,406 --> 00:29:44,252
+Il a tué Sacha et s'est débarrassé du corps
+
+668
+00:29:44,470 --> 00:29:45,755
+hors du secteur de recherche.
+
+669
+00:29:44,484 --> 00:29:45,795
+et il est parti 
+
+670
+00:29:45,946 --> 00:29:46,657
+C'est vrai
+
+671
+00:29:46,876 --> 00:29:48,729
+et apparement c'est un aussi un danger pour lui-même
+
+672
+00:29:48,730 --> 00:29:50,160
+et quiconque croise sont chemin.
+
+673
+00:29:50,200 --> 00:29:51,759
+Nesic est aussi dehors.
+
+674
+00:29:51,760 --> 00:29:54,626
+Je demande une garde rapprochée pendant 24h
+pour notre vétérinaire bléssée.
+
+675
+00:29:55,023 --> 00:29:57,229
+C'est le seul témoin que nous avons.
+
+676
+00:29:58,398 --> 00:30:00,259
+Nous venons tous d'unité différentes,
+
+677
+00:30:00,260 --> 00:30:01,718
+de différents secteur autour du pays,
+
+678
+00:30:02,300 --> 00:30:03,782
+mais nous avons tous la même histoire.
+
+679
+00:30:04,123 --> 00:30:06,499
+Quand je suis enfin revenu ici,
+
+680
+00:30:06,500 --> 00:30:09,429
+c'était comme, comme si le monde allait au ralenti,
+
+681
+00:30:09,430 --> 00:30:11,199
+et j'étais toujours dans la vitesse des combats.
+
+682
+00:30:11,200 --> 00:30:14,099
+Alors quand ils ont proposé cette étude,
+j'ai sauté sur l'occasion.
+
+683
+00:30:14,100 --> 00:30:15,759
+Vous savez, n'importe quoi pour m'aider à retomber
+sur mes pieds.
+
+684
+00:30:15,760 --> 00:30:17,929
+- Ca aide?
+- Peut-être.
+
+685
+00:30:17,930 --> 00:30:20,329
+La plupart du temps on s'assoit pour regarder des vidéos,
+
+686
+00:30:20,330 --> 00:30:22,099
+on remplit des tests psychologiques.
+
+687
+00:30:22,100 --> 00:30:23,654
+Mais votre ami, Pierce, avait un traitement spécial.
+
+688
+00:30:24,187 --> 00:30:25,677
+Oui, ils y allaient dur avec lui.
+
+689
+00:30:26,743 --> 00:30:28,459
+Je veux dire, médicaments,
+
+690
+00:30:28,460 --> 00:30:29,929
+test d'endurance.
+
+691
+00:30:29,930 --> 00:30:30,843
+Je veux dire, il était bléssé.
+
+692
+00:30:31,330 --> 00:30:32,930
+Toujours cherchant des analgésiques.
+
+693
+00:30:35,163 --> 00:30:37,159
+Il a commencé à changer de mains
+
+694
+00:30:37,160 --> 00:30:38,859
+pour dribbler avec le ballon.
+
+695
+00:30:39,728 --> 00:30:41,983
+Vous savez il est passé de droite à gauche.
+
+696
+00:30:43,000 --> 00:30:43,665
+C'était bizarre.
+
+697
+00:30:44,075 --> 00:30:46,529
+C'est très important, Private Vasquez.
+
+698
+00:30:46,530 --> 00:30:48,429
+Le sergent Pierce n'a pas de problème,
+
+699
+00:30:48,430 --> 00:30:50,281
+mais nous devons le trouver pour sa securité.
+
+700
+00:30:50,555 --> 00:30:52,959
+Nesic a dit la même chose quand il est venu
+le chercher.
+
+701
+00:30:53,384 --> 00:30:55,489
+Nesic était là? Quand?
+
+702
+00:30:56,000 --> 00:30:56,825
+La nuit dernière.
+
+703
+00:30:57,686 --> 00:30:59,299
+Il cherchait Kev, comme vous.
+
+704
+00:30:59,900 --> 00:31:01,729
+Nous ne lui avons rien.
+
+705
+00:31:01,730 --> 00:31:03,071
+Qu'est ce qui vous fait croire qu'on va vous le dire?
+
+706
+00:31:03,932 --> 00:31:05,099
+Avant d'être assignée au Dr. Hood,
+
+707
+00:31:05,100 --> 00:31:06,659
+J'ai passé six mois en tant
+
+708
+00:31:06,660 --> 00:31:09,199
+qu'élément du FBI au sein du groupe Force Eagle
+
+709
+00:31:09,200 --> 00:31:10,346
+à Kaboul, en Afghanistan.
+
+710
+00:31:11,160 --> 00:31:13,229
+J'ai travaillé avec des gars comme vous, tous les jours,
+
+711
+00:31:13,230 --> 00:31:14,899
+sur des sites d'exploitation très sensibles,
+
+712
+00:31:14,900 --> 00:31:16,920
+cherchant untel et si les méchants pouvaient être là.
+
+713
+00:31:17,549 --> 00:31:20,412
+Je ne suis pas l'un d'entre eux, et lui non plus.
+
+714
+00:31:23,528 --> 00:31:27,399
+Je crois que vous avez tous été les victimes
+d'une fraude scientifique.
+
+715
+00:31:28,425 --> 00:31:32,344
+Dr. Nesic a déjà avorté une expérience ratée,
+
+716
+00:31:33,028 --> 00:31:35,529
+et je crois qu'il essaye de faire la même chose
+à Kevin Pierce,
+
+717
+00:31:35,748 --> 00:31:37,155
+et n'importe qui d'entre vous peut être le suivant.
+
+718
+00:31:37,511 --> 00:31:39,800
+C'est pourquoi je pense que vous allez me le dire.
+
+719
+00:31:47,660 --> 00:31:48,999
+Il y a un parc près d'ici.
+
+720
+00:31:49,820 --> 00:31:52,729
+Vous savez, de temps en temps, quand les choses
+devenaient trop dure,
+
+721
+00:31:52,730 --> 00:31:57,899
+il allait là-bàs pour décompresser, lacher du leste.
+
+722
+00:31:58,776 --> 00:31:59,582
+Merci.
+
+723
+00:32:20,808 --> 00:32:22,311
+Yo, Joey, on a ton truc.
+
+724
+00:32:23,350 --> 00:32:24,925
+Merde mec, c'est pas Joey.
+
+725
+00:32:26,005 --> 00:32:28,042
+Regarde ce qu'on a là.
+
+726
+00:32:28,330 --> 00:32:29,782
+C'est une place pour les affaires.
+
+727
+00:32:29,822 --> 00:32:31,271
+On a pas besoin de gens suspicieux
+
+728
+00:32:31,311 --> 00:32:32,734
+qui pourrait ramener les flics.
+
+729
+00:32:33,552 --> 00:32:35,329
+T'as entendu ce qu'il a dit?
+
+730
+00:32:35,330 --> 00:32:36,627
+Tu dois partir, mec.
+
+731
+00:32:36,839 --> 00:32:38,404
+Mon téléphone n'a plus de batterie.
+
+732
+00:32:39,442 --> 00:32:41,930
+Est-ce qu'un de vous aurez un chargeur?
+
+733
+00:32:44,777 --> 00:32:46,460
+Tu te fous de moi?
+
+734
+00:33:07,047 --> 00:33:09,330
+Hello? Hello?
+
+735
+00:33:11,100 --> 00:33:13,033
+Hey... hey,bébé c'est moi.
+
+736
+00:33:14,674 --> 00:33:15,959
+Je ne reconnais pas le numéro.
+
+737
+00:33:15,960 --> 00:33:17,129
+Ca m'a fait peur.
+
+738
+00:33:17,130 --> 00:33:18,299
+J'ai dû emprunter un téléphone.
+
+739
+00:33:18,300 --> 00:33:20,788
+J'appelais juste pour te dire...
+
+740
+00:33:21,854 --> 00:33:22,959
+c'est presque fini.
+
+741
+00:33:22,960 --> 00:33:25,120
+Quoi? Qu'est-ce qui est presque fini?
+
+742
+00:33:25,366 --> 00:33:26,583
+Qu'est-ce qui s'est passé?
+
+743
+00:33:26,842 --> 00:33:28,759
+Où est-tu? Pourquoi t'es parti?
+
+744
+00:33:28,760 --> 00:33:30,223
+Je devais partir bébé.
+
+745
+00:33:30,565 --> 00:33:31,931
+Je ne voulais pas qu'on vous fasse du mal.
+
+746
+00:33:32,136 --> 00:33:34,036
+Qui allait nous blesser?
+
+747
+00:33:35,389 --> 00:33:36,182
+Moi.
+
+748
+00:33:37,521 --> 00:33:38,259
+Quoi?
+
+749
+00:33:38,942 --> 00:33:39,625
+Rien.
+
+750
+00:33:40,637 --> 00:33:42,029
+Kevin, le Dr. Nesic est passé aujourd'hui.
+
+751
+00:33:42,030 --> 00:33:43,799
+Il voulait te parler.
+
+752
+00:33:43,800 --> 00:33:45,352
+J'ai quelque chose à lui dire aussi.
+
+753
+00:33:45,639 --> 00:33:47,211
+Tu n'as pas de problème n'est-ce pas?
+
+754
+00:33:47,553 --> 00:33:49,129
+Quand est-ce que tu rentres?
+
+755
+00:33:49,130 --> 00:33:50,405
+Je ne peux pas encore rentrer bébé.
+
+756
+00:33:51,170 --> 00:33:52,565
+Pas tant que ça ne sera pas fini.
+
+757
+00:33:52,742 --> 00:33:53,713
+Fini quoi?
+
+758
+00:33:54,330 --> 00:33:55,257
+La guerre?
+
+759
+00:33:56,268 --> 00:33:57,629
+T'es à la maison maintenant, Kevin.
+
+760
+00:33:57,630 --> 00:33:58,959
+Je sais où je suis.
+
+761
+00:33:58,960 --> 00:34:00,230
+Je ne suis pas fou.
+
+762
+00:34:02,700 --> 00:34:03,859
+C'est bon, Jackson.
+
+763
+00:34:03,860 --> 00:34:04,851
+Viens voir Maman.
+
+764
+00:34:04,891 --> 00:34:05,685
+Hey...
+
+765
+00:34:05,958 --> 00:34:08,100
+il est réveillé? Passe le moi,ok?
+
+766
+00:34:10,673 --> 00:34:11,266
+Papa.
+
+767
+00:34:12,496 --> 00:34:13,330
+Hey, papa.
+
+768
+00:34:14,081 --> 00:34:15,339
+Hey, fiston.
+
+769
+00:34:19,261 --> 00:34:20,999
+Tu te souviens quand je te chantais des chansons
+pour t'endormir
+
+770
+00:34:21,039 --> 00:34:22,102
+quand tu étais petit?
+
+771
+00:34:22,457 --> 00:34:23,209
+Huh?
+
+772
+00:34:23,715 --> 00:34:27,186
+Je chantais, "brille, brille, petit étoile
+
+773
+00:34:27,596 --> 00:34:29,838
+Je me demande bien ce que tu es
+
+774
+00:34:30,808 --> 00:34:33,699
+Si haut, au-dessus de la terre,
+
+775
+00:34:33,700 --> 00:34:36,054
+Comme un diamant dans le ciel.
+
+776
+00:34:45,913 --> 00:34:47,075
+Bonne nuit Pal.
+
+777
+00:35:01,709 --> 00:35:04,729
+Maintenant rappelez-vous, si nous trouvons Pierce,
+
+778
+00:35:04,730 --> 00:35:07,159
+nous devons l'approcher d'une manière non-agressive.
+
+779
+00:35:07,160 --> 00:35:09,461
+N'essayer pas... Vous savez.
+
+780
+00:35:12,460 --> 00:35:12,932
+Hood.
+
+781
+00:35:14,960 --> 00:35:16,830
+Une douille de 9mm.
+
+782
+00:35:20,506 --> 00:35:21,572
+Oh,mon dieu.
+
+783
+00:35:22,611 --> 00:35:23,335
+Ils sont en vie.
+
+784
+00:35:23,600 --> 00:35:25,044
+A peine.
+
+785
+00:35:26,178 --> 00:35:27,392
+Ici l'agent spécial Young.
+
+786
+00:35:27,432 --> 00:35:29,299
+J'ai besoin d'une ambulance au parc de Desert View,
+
+787
+00:35:29,300 --> 00:35:30,987
+415 Ryder Street.
+
+788
+00:35:35,700 --> 00:35:38,516
+Hey, Hood, du sang et des traces de pneu.
+
+789
+00:35:39,390 --> 00:35:41,159
+Je pense que Pierce a pris leur voiture.
+
+790
+00:35:41,160 --> 00:35:42,359
+Il peut être n'importe où.
+
+791
+00:35:42,360 --> 00:35:43,764
+Pas n'importe où.
+
+792
+00:35:44,160 --> 00:35:45,267
+Il était bléssé.
+
+793
+00:35:45,307 --> 00:35:46,699
+Private Vasquez a dit
+
+794
+00:35:46,700 --> 00:35:48,247
+qu'il cherchait des analgésiques.
+
+795
+00:35:49,251 --> 00:35:51,130
+Il va chercher une pharmacie.
+
+796
+00:36:21,900 --> 00:36:22,985
+Stop!
+
+797
+00:36:23,530 --> 00:36:24,799
+Mettez vos mains en l'air!
+
+798
+00:36:26,020 --> 00:36:27,291
+Mains où je peux les voir!
+
+799
+00:36:28,712 --> 00:36:30,429
+Unité 5 David, demande de renfort.
+
+800
+00:36:30,430 --> 00:36:31,699
+Sujet en vue.
+
+801
+00:36:31,700 --> 00:36:32,319
+Tournez-vous!
+
+802
+00:36:51,909 --> 00:36:53,672
+- Pierce,stop! Hood...
+- Non.
+
+803
+00:36:53,712 --> 00:36:54,959
+Le mouvement le plus insignifiant pourrait le déclencher.
+
+804
+00:36:54,960 --> 00:36:55,970
+Laissez moi faire mon travail.
+
+805
+00:36:56,010 --> 00:36:56,558
+Rachel...
+
+806
+00:36:57,300 --> 00:36:59,229
+Posez votre arme. Croyez moi.
+
+807
+00:36:59,756 --> 00:37:01,359
+Ecoutez moi, Kevin.
+
+808
+00:37:01,360 --> 00:37:02,799
+Nous ne sommes pas ici pour vous blesser.
+
+809
+00:37:03,419 --> 00:37:05,259
+Nous savons ce qu'ils vous ont fait.
+
+810
+00:37:05,260 --> 00:37:06,559
+Nous allos arreter ça.
+
+811
+00:37:07,737 --> 00:37:08,759
+Bordel qui êtes vous?
+
+812
+00:37:08,760 --> 00:37:10,183
+Je m'appelle Jacob Hood.
+
+813
+00:37:10,699 --> 00:37:11,929
+Je suis un scientifique.
+
+814
+00:37:11,930 --> 00:37:13,129
+Oh, comme Nesic?
+
+815
+00:37:13,130 --> 00:37:15,502
+Non pas comme Nesic.
+En rien comme Nesic.
+
+816
+00:37:16,827 --> 00:37:19,699
+Sergent, je peux vous posez une question?
+
+817
+00:37:19,947 --> 00:37:21,669
+Je veux que vous y répondiez sérieusement.
+
+818
+00:37:22,260 --> 00:37:24,199
+Que voulez vous qu'il arrive ici?
+
+819
+00:37:24,200 --> 00:37:25,824
+Comment voulez vous stopper tout ceci?
+
+820
+00:37:26,344 --> 00:37:27,519
+J'ai besoin...
+
+821
+00:37:29,761 --> 00:37:31,087
+... que ça s'arrète.
+
+822
+00:37:33,342 --> 00:37:35,299
+Je dois les empécher de continuer
+sur quelqu'un d'autre.
+
+823
+00:37:35,300 --> 00:37:36,629
+Dans quel ordre est-ce arrivé,
+
+824
+00:37:36,630 --> 00:37:38,167
+vous devez vous concentrer.
+
+825
+00:37:38,631 --> 00:37:40,629
+Premièrement vous allez laisser partir ces hommes.
+
+826
+00:37:41,379 --> 00:37:43,199
+Si vous les tuez, ça sera fini.
+
+827
+00:37:43,200 --> 00:37:45,497
+Je ne pourrai rien faire pour vous.
+
+828
+00:37:46,522 --> 00:37:50,120
+Je pense que je comprends ce qui se passe
+dans votre tête.
+
+829
+00:37:50,854 --> 00:37:54,466
+Chaque nerf doit vous crier d'entrer en action.
+
+830
+00:37:55,060 --> 00:37:56,529
+L'envie doit être incontrôlable,
+
+831
+00:37:56,530 --> 00:37:57,829
+mais vous devez absolument
+
+832
+00:37:57,830 --> 00:37:59,919
+l'étouffer d'une manière ou d'un autre.
+
+833
+00:38:00,589 --> 00:38:02,659
+Utilisez la partie de vos pensées
+que vous pouvez contrôler
+
+834
+00:38:02,660 --> 00:38:04,059
+et pensez-y.
+
+835
+00:38:04,060 --> 00:38:06,359
+Pensez à la où vous êtes.
+
+836
+00:38:06,360 --> 00:38:09,223
+Pensez aux options qu'il y a.
+
+837
+00:38:10,412 --> 00:38:11,860
+Faites un choix.
+
+838
+00:38:29,100 --> 00:38:31,159
+FBI. Cet homme est maintenant sous protection fédéral.
+
+839
+00:38:31,160 --> 00:38:32,329
+Baissez vos armes.
+
+840
+00:38:32,978 --> 00:38:35,259
+Je répète, baissez vos armes.
+
+841
+00:38:35,260 --> 00:38:36,211
+C'est bon.
+
+842
+00:38:36,962 --> 00:38:37,859
+C'est fini.
+
+843
+00:38:38,233 --> 00:38:38,794
+Non.
+
+844
+00:38:40,584 --> 00:38:41,599
+Ca ne l'est pas.
+
+845
+00:38:42,375 --> 00:38:44,130
+Pas avant que vous voyez ça.
+
+846
+00:38:54,130 --> 00:38:54,813
+Hé ho?
+
+847
+00:39:01,345 --> 00:39:02,179
+Kevin?
+
+848
+00:39:20,430 --> 00:39:23,527
+Le sergent Pierce n'est pas rentré, Dr. Nesic.
+
+849
+00:39:24,224 --> 00:39:25,999
+Mais il était,um...
+
+850
+00:39:26,000 --> 00:39:28,600
+content de me donner la vidéo manquante.
+
+851
+00:39:29,950 --> 00:39:31,129
+Qu'est-ce que vous faites là?
+
+852
+00:39:31,130 --> 00:39:33,929
+Quand il s'est enfoncé, il a voulu détruire
+le laboratoire
+
+853
+00:39:33,930 --> 00:39:35,400
+et a libéré les singes mais ils l'ont attaqué.
+
+854
+00:39:39,730 --> 00:39:41,859
+Il a alors combattu à son tour.
+
+855
+00:39:41,860 --> 00:39:45,359
+Dr. Miller travaillait tard,
+elle a entendu les bruits.
+
+856
+00:39:45,360 --> 00:39:47,600
+Qu'est-ce que vous faites?! Stop!
+
+857
+00:39:51,166 --> 00:39:52,630
+Vous connaissez le résultat.
+
+858
+00:39:59,600 --> 00:40:00,839
+Félicitations.
+
+859
+00:40:02,726 --> 00:40:06,299
+Vous avez trouvé une façon d'éteindre la conscience.
+
+860
+00:40:06,300 --> 00:40:09,359
+des soldats avec aucune morale ou
+aucun scrupule éthique
+
+861
+00:40:09,360 --> 00:40:10,038
+pour le meurtre,
+
+862
+00:40:10,763 --> 00:40:12,759
+capable d'agir, de réagir...
+
+863
+00:40:12,760 --> 00:40:14,059
+en une efficacité eclair.
+
+864
+00:40:14,060 --> 00:40:15,399
+Dit-il sans...
+
+865
+00:40:15,400 --> 00:40:17,113
+suffisance, sans son ricanement vertueux,
+
+866
+00:40:17,906 --> 00:40:20,359
+alors que pour moi ça ressemble à une avance héroïque.
+
+867
+00:40:20,360 --> 00:40:21,500
+Une avance?
+
+868
+00:40:22,446 --> 00:40:23,072
+Vraiment?
+
+869
+00:40:23,430 --> 00:40:25,999
+Avez-vous vraiment pensé à ce qui se passerai à long terme
+
+870
+00:40:26,000 --> 00:40:27,505
+d'une telle expérience?
+
+871
+00:40:28,557 --> 00:40:29,999
+Vous pensez que quelqu'un comme Pierce
+
+872
+00:40:30,000 --> 00:40:32,499
+serait capable de réintégrer la société?
+
+873
+00:40:32,500 --> 00:40:33,829
+Vous êtes-vous souciez
+
+874
+00:40:33,830 --> 00:40:35,899
+du fait que vous avez détruit la vie d'un jeune homme?
+
+875
+00:40:35,900 --> 00:40:37,583
+J'essaye de lui sauver la vie.
+
+876
+00:40:38,060 --> 00:40:39,729
+De sauver toutes leur vie.
+
+877
+00:40:39,730 --> 00:40:41,491
+Dois-je vous rappeler...
+
+878
+00:40:41,915 --> 00:40:44,783
+que chaque jour des soldats meurent
+sur les champs de bataille.
+
+879
+00:40:45,466 --> 00:40:48,159
+Mon travail les aide à survivre.
+
+880
+00:40:48,160 --> 00:40:49,730
+Oh, il survivra.
+
+881
+00:40:50,591 --> 00:40:51,860
+Mais pas grâce à vous.
+
+882
+00:40:53,065 --> 00:40:54,432
+Il est sous protection fédérale.
+
+883
+00:40:56,220 --> 00:40:57,245
+Dr. Nesic.
+
+884
+00:40:59,746 --> 00:41:01,459
+Vous pouvez connaître la qualité d'un homme
+
+885
+00:41:01,460 --> 00:41:03,229
+par la façon qu'il a d'apprendre de ses erreurs.
+
+886
+00:41:03,230 --> 00:41:05,559
+La mauvaise, qu'ils font toujours, est d'essayer
+
+887
+00:41:05,560 --> 00:41:06,437
+de couvrir leur trace,
+
+888
+00:41:06,847 --> 00:41:08,583
+et c'est cette couverture qui finit par les dévoiler.
+
+889
+00:41:08,870 --> 00:41:09,827
+Sortez le de là.
+
+890
+00:41:10,961 --> 00:41:12,588
+Mains derrière le dos.
+
+891
+00:41:26,695 --> 00:41:27,699
+Je t'aime.
+
+892
+00:41:28,369 --> 00:41:29,667
+Je t'aime aussi.
+
+893
+00:41:38,422 --> 00:41:39,105
+Je t'aime.
+
+894
+00:41:48,825 --> 00:41:50,465
+Merci de m'avoir calmé.
+
+895
+00:41:50,738 --> 00:41:52,966
+Je vous ai juste donné quelques encouragements.
+
+896
+00:41:53,786 --> 00:41:55,300
+Vous vous êtes calmé tout seul.
+
+897
+00:41:58,902 --> 00:42:00,091
+Beau travail, Dr. Hood.
+
+898
+00:42:01,649 --> 00:42:03,259
+Nesic va aller en prison
+
+899
+00:42:03,260 --> 00:42:05,229
+et le sergent Pierce va recevoir la thérapie
+dont il a besoin
+
+900
+00:42:05,230 --> 00:42:06,829
+pour défaire ce qu'on lui a fait.
+
+901
+00:42:06,830 --> 00:42:08,043
+Peu importe le temps que ça prendra.
+
+902
+00:42:09,430 --> 00:42:11,118
+Mais le programme continuera, n'est-ce pas?
+
+903
+00:42:11,296 --> 00:42:11,747
+Bien sûr.
+
+904
+00:42:12,157 --> 00:42:14,799
+Si ça ne continue pas, ça voudrait dire
+que je ne fais pas mon travail.
+
+905
+00:42:14,800 --> 00:42:17,030
+Les super-soldats arrivent.
+
+906
+00:42:18,815 --> 00:42:21,070
+Nesic a juste beaucoup trop dépassé les limites,
+
+907
+00:42:22,095 --> 00:42:23,059
+même pour nous.
+
+908
+00:42:23,060 --> 00:42:25,429
+Vous savez, certaines personnes considèrent l'ADPRA
+
+909
+00:42:25,430 --> 00:42:27,644
+comme une centaine de génie connecté à un agent de voyage.
+
+910
+00:42:28,339 --> 00:42:31,960
+La vérité c'est que nous cherchons toujours le 101ème.
+
+911
+00:42:35,050 --> 00:42:35,733
+Oh.
+
+912
+00:42:36,882 --> 00:42:41,329
+Merci, Colonel,mais, j'ai déjà un travail.
+
+913
+00:42:42,033 --> 00:42:44,399
+De toute façon je préfère m'occuper des problèmes
+
+914
+00:42:44,400 --> 00:42:45,969
+crée par ce grand monde
+
+915
+00:42:46,530 --> 00:42:48,959
+plutôt que ceux crées par mes employeurs.
+
+916
+00:42:49,700 --> 00:42:50,999
+Et bien si ça vous convient.
+
+917
+00:42:51,000 --> 00:42:54,660
+Mais si vous changez d'avis n'hésitez pas
+à m'en toucher un mot.
+
+918
+00:42:56,218 --> 00:42:57,829
+Faisons comme ça
+
+919
+00:42:57,830 --> 00:42:59,840
+la prochaine fois que vous avez des problèmes...
+
+920
+00:43:01,060 --> 00:43:02,181
+vous avez mon numéro.
+
+921
+00:43:05,000 --> 00:43:10,612
+Traduction : Sunnylilie
+Synchro : Jarod
+Pour Arcadya.net
+

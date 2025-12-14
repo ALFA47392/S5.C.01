@@ -1,0 +1,3963 @@
+1
+00:00:00,178 --> 00:00:01,569
+Spanning ten seasons
+
+2
+00:00:01,656 --> 00:00:03,586
+with over two hundred
+episodes,
+
+3
+00:00:03,679 --> 00:00:06,915
+"Stargate: SG-1" has travelled
+to countless planets,
+
+4
+00:00:07,146 --> 00:00:10,434
+encountered different races
+and met numerous aliens,
+
+5
+00:00:10,541 --> 00:00:12,609
+some friend and some foe.
+
+6
+00:00:12,996 --> 00:00:15,350
+They have worked tirelessly
+to use whatever means necessary
+
+7
+00:00:15,430 --> 00:00:16,669
+to acquire technology
+
+8
+00:00:16,759 --> 00:00:20,209
+that could help Earth in its battle
+against unforeseen aggressors.
+
+9
+00:00:20,512 --> 00:00:23,548
+But one of the biggest reasons
+for "Stargate: SG-1"'s success
+
+10
+00:00:23,637 --> 00:00:25,652
+has been the way
+that Earth-based mythology
+
+11
+00:00:25,741 --> 00:00:27,837
+has been woven
+into the show's fabric.
+
+12
+00:00:27,952 --> 00:00:30,669
+"Woven" is a fantastic way
+of putting it, Michael.
+
+13
+00:00:30,771 --> 00:00:34,007
+You know, over ten seasons the show
+has always found an entertaining way
+
+14
+00:00:34,087 --> 00:00:36,102
+to put a "Stargate" twist
+on a mythology.
+
+15
+00:00:36,190 --> 00:00:40,790
+Join us as we take you deep into
+ten years of "Stargate: SG-1" mythology.
+
+16
+00:00:40,897 --> 00:00:44,258
+And don't worry: we'll sort it all out
+for you by the end of this show.
+
+17
+00:00:44,356 --> 00:00:45,412
+We hope.
+
+18
+00:00:46,062 --> 00:00:47,221
+... We hope.
+
+19
+00:00:54,906 --> 00:00:57,508
+The Projet-SG Team
+presents
+
+20
+00:00:58,048 --> 00:01:01,507
+Timing by Golgi, Malikay and Ricana.
+
+21
+00:01:01,998 --> 00:01:05,502
+Transcription by Swsub.com.
+
+22
+00:01:05,994 --> 00:01:09,498
+Proofreading by Golgi and Linwelin.
+
+23
+00:01:11,101 --> 00:01:11,300
+h
+
+24
+00:01:11,301 --> 00:01:11,500
+ht
+
+25
+00:01:11,501 --> 00:01:11,700
+htt
+
+26
+00:01:11,701 --> 00:01:11,900
+htt
+
+27
+00:01:11,901 --> 00:01:12,100
+http
+
+28
+00:01:12,101 --> 00:01:12,300
+http:
+
+29
+00:01:12,301 --> 00:01:12,500
+http:/
+
+30
+00:01:12,501 --> 00:01:12,700
+http://
+
+31
+00:01:12,701 --> 00:01:12,900
+http://w
+
+32
+00:01:12,901 --> 00:01:13,100
+http://ww
+
+33
+00:01:13,101 --> 00:01:13,300
+http://www
+
+34
+00:01:13,301 --> 00:01:13,500
+http://www.
+
+35
+00:01:13,501 --> 00:01:13,700
+http://www.p
+
+36
+00:01:13,701 --> 00:01:13,900
+http://www.pr
+
+37
+00:01:13,901 --> 00:01:14,100
+http://www.pro
+
+38
+00:01:14,101 --> 00:01:14,300
+http://www.proj
+
+39
+00:01:14,301 --> 00:01:14,500
+http://www.proje
+
+40
+00:01:14,501 --> 00:01:14,700
+http://www.projet
+
+41
+00:01:14,701 --> 00:01:14,900
+http://www.projet-
+
+42
+00:01:14,901 --> 00:01:15,100
+http://www.projet-s
+
+43
+00:01:15,101 --> 00:01:15,300
+http://www.projet-sg
+
+44
+00:01:15,301 --> 00:01:15,500
+http://www.projet-sg.
+
+45
+00:01:15,501 --> 00:01:15,700
+http://www.projet-sg.n
+
+46
+00:01:15,701 --> 00:01:15,900
+http://www.projet-sg.ne
+
+47
+00:01:15,901 --> 00:01:18,400
+http://www.projet-sg.net
+
+48
+00:01:20,100 --> 00:01:27,688
+Behind The Mythology Of Stargate SG-1
+<i>(v. 0.9)</i>
+
+49
+00:01:28,862 --> 00:01:31,510
+If mythology is defined
+as a set of stories,
+
+50
+00:01:31,608 --> 00:01:34,568
+traditions or beliefs associated
+with a particular group,
+
+51
+00:01:34,675 --> 00:01:37,420
+arising naturally
+or deliberately fostered,
+
+52
+00:01:37,598 --> 00:01:40,665
+then the writers of "Stargate: SG-1"
+were certainly doing everything possible
+
+53
+00:01:40,755 --> 00:01:43,126
+to create a deep and
+layered mythology
+
+54
+00:01:43,223 --> 00:01:44,774
+that "Stargate"
+could call its own.
+
+55
+00:01:45,578 --> 00:01:47,570
+<i>Make no mistake,</i>
+
+56
+00:01:48,412 --> 00:01:50,672
+<i>Osiris will return</i>
+
+57
+00:01:51,392 --> 00:01:56,224
+<i>and the rivers of the
+Earth will run red with blood.</i>
+
+58
+00:02:06,072 --> 00:02:08,371
+<i>I think the role that mythology
+has played in the show</i>
+
+59
+00:02:08,479 --> 00:02:10,404
+<i>has obviously been</i>
+a very important one.
+
+60
+00:02:10,511 --> 00:02:12,793
+I mean, from the
+genesis of the series
+
+61
+00:02:12,886 --> 00:02:14,794
+it was based
+in Egyptian mythology.
+
+62
+00:02:15,248 --> 00:02:16,710
+This is just incredible.
+
+63
+00:02:21,304 --> 00:02:24,228
+<i>You know,
+being the cradle of civilisation,</i>
+
+64
+00:02:24,317 --> 00:02:26,778
+<i>we often wonder
+the hows and the whys</i>
+
+65
+00:02:26,912 --> 00:02:28,427
+<i>and this gave</i> at least
+
+66
+00:02:28,516 --> 00:02:31,155
+a sci-fi perspective of
+
+67
+00:02:31,241 --> 00:02:34,896
+what could have maybe <i>possibly
+happened back in those ancient times.</i>
+
+68
+00:02:35,003 --> 00:02:39,122
+Jack, I think that
+this is a map of a vast network
+
+69
+00:02:39,229 --> 00:02:42,010
+of Stargates - Stargates
+that are all over the galaxy.
+
+70
+00:02:42,106 --> 00:02:44,638
+<i>The Stargate's a key
+mythological element in the show</i>
+
+71
+00:02:44,745 --> 00:02:48,088
+<i>because it fits into a number
+of mythological systems:</i>
+
+72
+00:02:48,169 --> 00:02:50,663
+the Egyptian,
+the Celtic, the Norse
+
+73
+00:02:50,754 --> 00:02:53,409
+- which are three major systems
+that operate in the show -
+
+74
+00:02:53,498 --> 00:02:55,807
+all have references to
+
+75
+00:02:55,887 --> 00:02:59,726
+"bridges," for example, that
+traverse one world to the next.
+
+76
+00:02:59,836 --> 00:03:02,350
+The Stargate is
+the means of seeding
+
+77
+00:03:02,437 --> 00:03:04,988
+all of the planets
+with different mythologies,
+
+78
+00:03:05,077 --> 00:03:07,820
+so as a narrative device
+it works perfectly.
+
+79
+00:03:07,909 --> 00:03:10,833
+You know, I think people
+love to see
+
+80
+00:03:12,261 --> 00:03:14,898
+stories that
+they're <i>familiar with;</i>
+
+81
+00:03:15,191 --> 00:03:19,256
+<i>you know, mythological stories,
+things that they've heard before,</i>
+
+82
+00:03:19,345 --> 00:03:22,145
+<i>explained with
+the "Stargate" twist.</i>
+
+83
+00:03:22,270 --> 00:03:24,788
+<i>I think that's one of
+the best things about "Stargate"</i>
+
+84
+00:03:24,877 --> 00:03:27,855
+<i>I think it's one of the first things
+that attracted me to the feature film</i>
+
+85
+00:03:27,962 --> 00:03:31,840
+<i>was the concept of
+the idea that certain</i>
+
+86
+00:03:32,172 --> 00:03:35,952
+myths or questions or, you know,
+the great wonders of the world,
+
+87
+00:03:36,059 --> 00:03:39,101
+or different relics like
+the pyramids that are left behind are
+
+88
+00:03:39,190 --> 00:03:42,169
+yet to be really <i>properly explained
+and everybody's got some</i>
+
+89
+00:03:42,276 --> 00:03:44,950
+<i>high-falutin' theory. That's what's
+great about science fiction and</i>
+
+90
+00:03:45,040 --> 00:03:46,984
+<i>asking the "What if?"
+questions is that</i>
+
+91
+00:03:47,091 --> 00:03:48,621
+<i>we can put
+our own spin on that</i>
+
+92
+00:03:48,706 --> 00:03:52,169
+<i>because we have artistic licence
+to do whatever we want.</i>
+
+93
+00:03:58,035 --> 00:03:59,096
+<i>The wonderful
+thing about </i>
+
+94
+00:03:59,177 --> 00:04:02,164
+<i>"Stargate" the series is that we've
+been able to borrow from the Egyptians,</i>
+
+95
+00:04:02,261 --> 00:04:04,806
+<i>we've been able to borrow from
+the Greeks and the Romans and now</i>
+
+96
+00:04:04,895 --> 00:04:07,887
+we're working on Arthurian mythologies
+but we're actually able to conjure up
+
+97
+00:04:07,994 --> 00:04:10,462
+with our imagination
+some speculation and ideas
+
+98
+00:04:10,551 --> 00:04:13,899
+that other people had toyed with
+because there are no right answers;
+
+99
+00:04:13,999 --> 00:04:16,819
+so we can create something and
+it really makes... as opposed to just
+
+100
+00:04:16,908 --> 00:04:19,190
+making people escape,
+it makes them kind of think and go,
+
+101
+00:04:19,280 --> 00:04:21,348
+"Well, that might be true,"
+or "That's not true."
+
+102
+00:04:21,429 --> 00:04:22,988
+The parchment told us
+that five virtues
+
+103
+00:04:23,095 --> 00:04:24,873
+would guide us in our
+quest for the Sangraal:
+
+104
+00:04:25,253 --> 00:04:28,511
+prudence, kindness, charity,
+wisdom, and faith.
+
+105
+00:04:28,716 --> 00:04:32,496
+Now, we displayed prudence in finding
+a way out of the temporal maze;
+
+106
+00:04:32,603 --> 00:04:35,527
+charity in escaping
+the forcefield trap;
+
+107
+00:04:35,634 --> 00:04:38,187
+kindness by helping the child
+and finding the hidden passageway;
+
+108
+00:04:38,274 --> 00:04:40,755
+and wisdom in
+solving the riddles.
+
+109
+00:04:41,218 --> 00:04:43,697
+The only virtue left is faith.
+
+110
+00:04:50,432 --> 00:04:55,343
+<i>Mythologies are designed to give us</i>
+a sense of how we fit into the universe.
+
+111
+00:04:55,692 --> 00:04:58,967
+They ask where we're coming from
+and where we're going.
+
+112
+00:04:59,057 --> 00:05:00,840
+So, where are you from?
+
+113
+00:05:00,929 --> 00:05:05,147
+Where we come from and
+where we are going are all the same.
+
+114
+00:05:05,246 --> 00:05:09,133
+Oh, I get ya.
+Wherever you go, there y'are.
+
+115
+00:05:09,240 --> 00:05:12,865
+<I>And what</i> we see when we look
+at mythological systems and what
+
+116
+00:05:12,972 --> 00:05:15,682
+our intrepid heroes, SG-1,
+see when they look out
+
+117
+00:05:15,807 --> 00:05:20,318
+and the vast panoply of characters
+that they meet there is really yourself
+
+118
+00:05:20,443 --> 00:05:22,743
+Everywhere you go,
+there you are.
+
+119
+00:05:22,852 --> 00:05:24,768
+And that's one of
+the reasons that "Stargate"
+
+120
+00:05:24,849 --> 00:05:27,595
+works so well is because
+it does have this hook
+
+121
+00:05:27,742 --> 00:05:32,396
+into ancient mythologies and a lot of
+fans are fascinated with the whole idea
+
+122
+00:05:32,521 --> 00:05:35,765
+of the ancient mythologies
+because they use it
+
+123
+00:05:35,909 --> 00:05:37,905
+as a sort of
+scientific explanation
+
+124
+00:05:37,994 --> 00:05:40,252
+for things that can't really
+be explained otherwise.
+
+125
+00:05:40,343 --> 00:05:44,226
+There's a legend around here
+about a Hall of Thor's Might.
+
+126
+00:05:46,043 --> 00:05:48,593
+There's a time
+and place for mythology.
+
+127
+00:05:48,869 --> 00:05:50,634
+Uh, with all due respect, sir,
+
+128
+00:05:50,733 --> 00:05:53,570
+we thought Thor's Hammer was a
+myth until we proved it was real.
+
+129
+00:05:53,683 --> 00:05:57,742
+In fact, "Stargate" is something that
+you might call cultural bricolage.
+
+130
+00:05:57,903 --> 00:06:02,414
+It's a way of going through all
+of human culture and picking up
+
+131
+00:06:02,521 --> 00:06:05,124
+little bits and pieces and
+sticking them together,
+
+132
+00:06:05,233 --> 00:06:07,747
+but sticking them together
+using the Stargate as a glue
+
+133
+00:06:07,854 --> 00:06:10,921
+and making it into a really,
+really interesting story.
+
+134
+00:06:11,659 --> 00:06:13,752
+<u>Major General Jack O'Neill.</u>
+U.S. Air Force
+
+135
+00:06:13,832 --> 00:06:15,925
+<u>Dr Daniel Jackson.</u>
+Civilian. Egyptologist.
+
+136
+00:06:16,005 --> 00:06:19,215
+<u>Lieutenant Colonel Samantha Carter.</u>
+U.S. Air Force Astrophysicist.
+
+137
+00:06:19,295 --> 00:06:20,876
+<u>Teal'c</u>
+Former 1st Prime to Apophis.
+
+138
+00:06:20,877 --> 00:06:22,355
+<u>Teal'c</u>
+Leader of Jaffa Rebellion.
+
+139
+00:06:22,435 --> 00:06:24,951
+<u>Lieutenant Colonel Cameron Mitchell</u>
+U.S. Air Force.
+
+140
+00:06:25,031 --> 00:06:26,515
+<u>Vala Mal Doran</u>
+Human Alien,
+
+141
+00:06:26,516 --> 00:06:28,288
+<u>Vala Mal Doran</u>
+Former Thief and Con Artist
+
+142
+00:06:28,986 --> 00:06:33,219
+There's a ruler for mythology
+in terms of heroes, I know that, but
+
+143
+00:06:34,236 --> 00:06:37,761
+it's also a good rule of
+television. You can pair off...
+
+144
+00:06:37,841 --> 00:06:41,703
+We're gonna split up.
+I'm with Teal'c. Wait up.
+
+145
+00:06:41,814 --> 00:06:45,740
+<i>and you can cover a good dynamic
+of different kinds of hero.</i>
+
+146
+00:06:46,159 --> 00:06:48,905
+You've got your
+military person in Jack O'Neill;
+
+147
+00:06:50,985 --> 00:06:53,267
+later on, then Mitchell;
+
+148
+00:06:59,646 --> 00:07:01,353
+Bullets Bounce!
+
+149
+00:07:01,521 --> 00:07:04,574
+and you've got
+your warrior in Teal'c...
+
+150
+00:07:06,606 --> 00:07:10,395
+You have Daniel Jackson
+as an intellectual and scientist...
+
+151
+00:07:10,498 --> 00:07:12,313
+Unless we want
+a really bad reputation,
+
+152
+00:07:12,403 --> 00:07:15,945
+We should avoid shooting the first
+people we meet on a new planet.
+
+153
+00:07:17,644 --> 00:07:20,504
+and Sam,
+
+154
+00:07:20,595 --> 00:07:23,469
+possibly the hardest character
+to have to try to portray.
+
+155
+00:07:23,576 --> 00:07:28,177
+She's almost all of them:
+she is the warrior;
+
+156
+00:07:29,173 --> 00:07:30,432
+she is the thinker;
+
+157
+00:07:30,540 --> 00:07:32,796
+When the local suns sets
+and it gets dark,
+
+158
+00:07:32,900 --> 00:07:36,203
+you can actually see
+a luminous layer of ionised gas
+
+159
+00:07:36,294 --> 00:07:38,809
+around the dying
+core expanding.
+
+160
+00:07:40,153 --> 00:07:41,155
+Fascinating.
+
+161
+00:07:41,258 --> 00:07:43,288
+and, of course, a woman.
+
+162
+00:07:45,347 --> 00:07:47,211
+<i>Boy, does she have</i>
+a lot on her plate,
+
+163
+00:07:47,318 --> 00:07:49,052
+and she can pull it off.
+It's amazing.
+
+164
+00:07:49,539 --> 00:07:53,198
+How good is this?
+We've got the band back together.
+
+165
+00:07:53,366 --> 00:07:55,422
+You sure with
+the extra backup singer?
+
+166
+00:07:55,513 --> 00:07:56,664
+Ah, she's good fun.
+
+167
+00:07:56,758 --> 00:07:59,105
+Plus, we figured
+if Jackson were to...
+
+168
+00:07:59,208 --> 00:08:00,485
+- Die.
+- That's the word.
+
+169
+00:08:00,575 --> 00:08:01,872
+It would jeopardise
+the mission.
+
+170
+00:08:01,964 --> 00:08:04,170
+<i>As the series progresses
+- especially a series that</i>
+
+171
+00:08:04,295 --> 00:08:06,709
+has gone as long as "SG-1" -
+
+172
+00:08:06,865 --> 00:08:09,281
+you start creating a...
+
+173
+00:08:09,388 --> 00:08:13,047
+I've been referring to it as a sort
+of critical mass of its own mythology;
+
+174
+00:08:13,136 --> 00:08:16,346
+mythology that stops
+borrowing from other cultures
+
+175
+00:08:16,453 --> 00:08:19,477
+and ancient Earth history and
+starts,
+
+176
+00:08:19,584 --> 00:08:22,669
+basically,
+a self-generating mythology.
+
+177
+00:08:28,090 --> 00:08:30,961
+From the very first
+episode of Season 1,
+
+178
+00:08:31,068 --> 00:08:34,616
+there was little doubt
+that SG-1 was in for a wild ride.
+
+179
+00:08:34,723 --> 00:08:36,393
+With the introduction
+of the Goa'uld,
+
+180
+00:08:36,500 --> 00:08:39,085
+Apophis and
+his foot soldiers the Jaffa,
+
+181
+00:08:39,192 --> 00:08:40,958
+"Stargate: SG-1" got into a battle
+
+182
+00:08:41,047 --> 00:08:43,935
+that would span
+eight long and exciting seasons.
+
+183
+00:08:44,125 --> 00:08:45,819
+Keeping true
+to the original movie,
+
+184
+00:08:45,927 --> 00:08:48,995
+the producers of "Stargate: SG-1"
+maintained Egyptian mythology
+
+185
+00:08:49,085 --> 00:08:52,151
+as a driving, antagonistic force
+throughout the show.
+
+186
+00:08:58,196 --> 00:09:01,221
+<u>Who</u> : Parasitic race bent
+on conquering all planets
+
+187
+00:09:01,222 --> 00:09:04,027
+Take human hosts and pose
+as ancient Egyptian Goods.
+
+188
+00:09:04,130 --> 00:09:06,173
+<u>Physiology</u> :
+Larvae produced by queens.
+
+189
+00:09:06,174 --> 00:09:10,027
+Offspring are born evil with genetic
+memory and intellect of lineage.
+
+190
+00:09:10,117 --> 00:09:13,339
+<u>Goa'uld Technology</u> : Live
+thousands of years due to Sarcophagus
+
+191
+00:09:13,340 --> 00:09:16,235
+- Cures Diseases, heals injuries
+and revives the dead.
+
+192
+00:09:16,236 --> 00:09:19,029
+Side effects : Negative
+psychological impact.
+
+193
+00:09:25,209 --> 00:09:27,259
+<i>The Goa'uld are kind
+of opportunists, you know?</i>
+
+194
+00:09:27,348 --> 00:09:30,129
+They take technology
+and they use that,
+
+195
+00:09:30,236 --> 00:09:33,268
+<i>and they also take
+on the roles of gods.</i>
+
+196
+00:09:34,088 --> 00:09:36,433
+If you want
+to dominate a culture
+
+197
+00:09:36,530 --> 00:09:38,367
+that already has a god,
+
+198
+00:09:38,488 --> 00:09:43,033
+<i>what could be easier</i> than
+to step in and say, "Well, that's me."
+
+199
+00:09:43,336 --> 00:09:45,369
+- Hathor?
+- Yes.
+
+200
+00:09:45,654 --> 00:09:47,625
+Have you heard of her?
+
+201
+00:09:47,751 --> 00:09:51,309
+Hathor was the Egyptian goddess
+of fertility, inebriety and music.
+
+202
+00:09:51,413 --> 00:09:53,973
+- Sex, drugs and rock `n' roll?
+- In a manner of speaking, yeah.
+
+203
+00:09:54,061 --> 00:09:58,289
+<i>The Goa'uld take a human</i> host
+and that personality is repressed.
+
+204
+00:09:58,477 --> 00:10:01,748
+<i>The symbiont that is
+the Goa'uld has genetic memory</i>
+
+205
+00:10:01,860 --> 00:10:04,499
+<i>of the Queen
+that spawned it and so</i>
+
+206
+00:10:04,623 --> 00:10:06,905
+they have memories
+that go back thousands of years.
+
+207
+00:10:07,030 --> 00:10:11,454
+The gods of the Egyptians
+tended to be
+
+208
+00:10:11,579 --> 00:10:15,275
+combinations of
+animal and human,
+
+209
+00:10:15,417 --> 00:10:19,999
+and what better to represent
+the combination of an animal and human
+
+210
+00:10:20,142 --> 00:10:22,530
+<i>than a serpent invading
+a human body?</i>
+
+211
+00:10:22,655 --> 00:10:25,743
+<i>The Goa'uld are established
+already in the movie and then</i>
+
+212
+00:10:25,868 --> 00:10:28,955
+<i>in the pilot of the series as</i>
+
+213
+00:10:29,537 --> 00:10:31,474
+<i>the main bad guys for the show</i>
+
+214
+00:10:31,634 --> 00:10:35,823
+and they have these
+very ceremonial ways.
+
+215
+00:10:35,983 --> 00:10:39,470
+They are essentially
+posing as gods
+
+216
+00:10:39,589 --> 00:10:43,505
+<i>and so they take on all
+of the pomp and circumstance.</i>
+
+217
+00:10:44,815 --> 00:10:48,149
+<i>One of the things that's interesting
+about Egyptian mythology is</i>
+
+218
+00:10:48,292 --> 00:10:51,796
+<i>that the iconography is
+so recognisable and</i>
+
+219
+00:10:51,938 --> 00:10:54,462
+is associated with grandeur and
+
+220
+00:10:54,542 --> 00:10:58,100
+bombast and <i>excess.</i>
+
+221
+00:10:58,242 --> 00:11:01,131
+<i>They're basically an arrogant worm.
+They're sort of a small creature</i>
+
+222
+00:11:01,256 --> 00:11:03,935
+<i>that has adopted the vastness</i>
+
+223
+00:11:04,025 --> 00:11:07,286
+<i>and the power
+of a pre-existing system</i>
+
+224
+00:11:07,411 --> 00:11:10,829
+<i>and so the spectacle</i>
+of the Egyptian model
+
+225
+00:11:10,954 --> 00:11:13,236
+is really, really important
+to the show.
+
+226
+00:11:13,795 --> 00:11:17,111
+<u>Who:</u> Leaders of the Goa'uld.
+Assume persona of an Earth-based god
+
+227
+00:11:17,112 --> 00:11:20,305
+and rule by force through
+armies of Jaffa warriors.
+
+228
+00:11:20,408 --> 00:11:21,492
+<u>Balance of power:</u>
+
+229
+00:11:21,493 --> 00:11:23,548
+The System Lords
+rarely trust each other,
+
+230
+00:11:23,549 --> 00:11:25,623
+and frequently battle
+amongst themselves.
+
+231
+00:11:25,739 --> 00:11:28,014
+<u>Physiology:</u>
+Most of the System Lords
+
+232
+00:11:28,015 --> 00:11:31,247
+have inhabited the same
+host body for millenia.
+
+233
+00:11:31,248 --> 00:11:35,174
+Yu, the Jade emperor, was so old
+that he could not leave his host.
+
+234
+00:11:35,290 --> 00:11:38,802
+The System Lords can't be trusted,
+either as a group or individuals.
+
+235
+00:11:38,906 --> 00:11:40,949
+They're posturing egomaniacs
+
+236
+00:11:41,039 --> 00:11:43,476
+driven by an insatiable
+lust for power,
+
+237
+00:11:43,916 --> 00:11:46,282
+each one capable
+of unimaginable evil.
+
+238
+00:11:46,372 --> 00:11:49,864
+Once your good guys
+have defeated your bad guys,
+
+239
+00:11:50,361 --> 00:11:52,201
+suddenly the
+bad guys look weak.
+
+240
+00:11:52,379 --> 00:11:55,482
+You either need new
+bad guys <i>that are either more bad,</i>
+
+241
+00:11:55,624 --> 00:11:57,639
+<i>or you need more
+bad guys.</i>
+
+242
+00:11:59,018 --> 00:12:02,139
+The System Lords really are just
+the most powerful Goa'ulds.
+
+243
+00:12:02,246 --> 00:12:03,992
+I am Baal.
+
+244
+00:12:04,832 --> 00:12:06,319
+As in "boccie"?
+
+245
+00:12:07,096 --> 00:12:09,467
+<i>They are
+the Goa'ulds</i> who
+
+246
+00:12:09,556 --> 00:12:13,372
+have their own armies,
+their own fleets <i>of ships</i>
+
+247
+00:12:13,553 --> 00:12:15,674
+<i>and their own territories
+among the stars.</i>
+
+248
+00:12:15,781 --> 00:12:18,718
+<i>I think</i> with the System Lords
+what was important
+
+249
+00:12:18,860 --> 00:12:22,153
+- because in every
+pantheon of gods
+
+250
+00:12:22,242 --> 00:12:24,253
+there was
+a hierarchical system -
+
+251
+00:12:24,382 --> 00:12:27,128
+and I think that it was important
+because you had all these
+
+252
+00:12:27,269 --> 00:12:31,976
+System Lords warring with each other
+who all seemed to represent different
+
+253
+00:12:32,262 --> 00:12:35,168
+deities from different
+mythos in Earth lore.
+
+254
+00:12:35,294 --> 00:12:37,078
+Whom do you serve?
+
+255
+00:12:37,632 --> 00:12:39,719
+- Anubis.
+- What?!
+
+256
+00:12:39,861 --> 00:12:42,323
+- You lie!
+- He is dead!
+
+257
+00:12:42,500 --> 00:12:46,674
+That was what you assumed
+after you attempted to murder him.
+
+258
+00:12:46,791 --> 00:12:48,936
+Because of the hierarchical system,
+you could only have things
+
+259
+00:12:49,043 --> 00:12:51,152
+going a certain way. This guy had
+to be more powerful than that,
+
+260
+00:12:51,272 --> 00:12:54,196
+if that's the way it was painted out
+in our history and the way
+
+261
+00:12:54,321 --> 00:12:56,326
+our ancestors
+understood this.
+
+262
+00:12:56,451 --> 00:12:59,693
+<i>So it's really interesting when
+you get an episode like "Summit"</i>
+
+263
+00:12:59,818 --> 00:13:03,103
+<i>when you have all these guys in
+the same room but they all represent</i>
+
+264
+00:13:03,210 --> 00:13:04,850
+<i>different
+cultural distinctions.</i>
+
+265
+00:13:04,975 --> 00:13:06,778
+<i>There's Amaterasu,
+which is Japanese...</i>
+
+266
+00:13:06,903 --> 00:13:09,738
+<i>A god from
+African mythology...</i>
+
+267
+00:13:09,862 --> 00:13:12,305
+<i>- Cronus, that was Greek...
+- Bastet, which is Egyptian...</i>
+
+268
+00:13:12,430 --> 00:13:15,678
+<i>Yu, from the Chinese mythology,
+although interestingly enough,</i>
+
+269
+00:13:15,821 --> 00:13:17,747
+Yu was a character who
+
+270
+00:13:17,872 --> 00:13:21,224
+wasn't a god in the
+Chinese mythology.
+
+271
+00:13:21,363 --> 00:13:24,840
+He was - I think - an architect
+or sort of a high official.
+
+272
+00:13:24,929 --> 00:13:27,046
+They kind of
+adopt the culture.
+
+273
+00:13:27,189 --> 00:13:31,535
+The Goa'uld kind of become
+the god they're portraying.
+
+274
+00:13:37,013 --> 00:13:39,063
+<u>Who:</u> Slaves of
+the Goa'uld bred
+
+275
+00:13:39,064 --> 00:13:42,005
+to fight their battles.
+Incubators for Goa'uld young.
+
+276
+00:13:42,112 --> 00:13:43,344
+<u>Physiology:</u>
+
+277
+00:13:43,345 --> 00:13:45,769
+Carry Goa'uld symbiote
+that functions as Jaffa's
+
+278
+00:13:45,770 --> 00:13:47,944
+immune system.
+When symbiote reaches
+
+279
+00:13:47,945 --> 00:13:50,252
+maturity in 7-8 years
+it must take a host.
+
+280
+00:13:50,359 --> 00:13:54,264
+<u>Jaffa technology:</u> Staff weapon
+- preferred weapon of Jaffa warriors.
+
+281
+00:13:54,265 --> 00:13:58,009
+Uses naquadah power and
+fires an energy plasma blast.
+
+282
+00:13:58,513 --> 00:14:02,792
+The Jaffa were originally created
+as foot soldiers for the Goa'uld.
+
+283
+00:14:03,362 --> 00:14:04,646
+Kill the rest.
+
+284
+00:14:07,293 --> 00:14:09,352
+<i>The Jaffa are literally</i>
+
+285
+00:14:09,477 --> 00:14:13,061
+the incubators
+for Goa'uld children.
+
+286
+00:14:21,234 --> 00:14:23,891
+- What the hell is that?
+- It is an infant Goa'uld,
+
+287
+00:14:24,016 --> 00:14:25,870
+the larval form of the gods.
+
+288
+00:14:25,977 --> 00:14:29,597
+I have carried one since
+I was a child, as all Jaffa carry one.
+
+289
+00:14:29,734 --> 00:14:32,676
+<i>To show their devotion</i> and
+servitude to the Goa'ulds,
+
+290
+00:14:32,783 --> 00:14:36,011
+they wear their symbol
+on their forehead.
+
+291
+00:14:36,142 --> 00:14:38,112
+<i>The First Primes
+get the gold ones.</i>
+
+292
+00:14:38,219 --> 00:14:40,465
+<i>They've been cut
+into their foreheads</i>
+
+293
+00:14:40,590 --> 00:14:43,000
+<i>and molten gold has been
+poured in and it's kind of</i>
+
+294
+00:14:43,133 --> 00:14:45,870
+<i>a special rite of passage
+to get the First Prime tattoo.</i>
+
+295
+00:14:45,995 --> 00:14:47,861
+As time went on and
+we began humanising
+
+296
+00:14:47,985 --> 00:14:50,365
+the Jaffa and more and more
+were exploring the fact that
+
+297
+00:14:50,490 --> 00:14:52,409
+they were essentially
+innocents.
+
+298
+00:14:52,516 --> 00:14:55,030
+They weren't doing what they were
+doing because they were evil,
+
+299
+00:14:55,155 --> 00:14:58,437
+unlike the Goa'uld who are
+genetically <i>pre-disposed to be evil.</i>
+
+300
+00:15:00,545 --> 00:15:02,649
+I can save these people!
+
+301
+00:15:04,553 --> 00:15:05,614
+Help me!
+
+302
+00:15:05,721 --> 00:15:08,991
+Essentially we tell
+the Jaffa story through Teal'c.
+
+303
+00:15:09,687 --> 00:15:11,220
+Help me.
+
+304
+00:15:11,982 --> 00:15:14,157
+Many have said that.
+
+305
+00:15:17,955 --> 00:15:19,804
+But you are the first
+I believe could do it.
+
+306
+00:15:19,893 --> 00:15:23,700
+<i>Teal'c, being dissatisfied
+with his situation,</i>
+
+307
+00:15:23,834 --> 00:15:28,733
+found out very early on that there
+are other Jaffa that felt the same way.
+
+308
+00:15:28,907 --> 00:15:33,133
+- Why do you defy me?
+- Because you are not a god.
+
+309
+00:15:33,989 --> 00:15:37,127
+You are a parasite
+within a child
+
+310
+00:15:37,519 --> 00:15:39,588
+and I despise you.
+
+311
+00:15:39,909 --> 00:15:42,316
+<i>The basis of the movement,</i>
+
+312
+00:15:42,444 --> 00:15:46,099
+<i>and the basis, I think,
+of any movement - is the people.</i>
+
+313
+00:15:46,242 --> 00:15:51,022
+<i>I think that really showed that
+a society of people are</i> not controlled
+
+314
+00:15:51,147 --> 00:15:53,895
+from the top down, but
+from the bottom up.
+
+315
+00:15:54,037 --> 00:15:56,944
+I die
+
+316
+00:15:57,996 --> 00:15:59,262
+free!
+
+317
+00:16:02,669 --> 00:16:04,971
+<i>They finally rise up,
+led by Teal'c,</i>
+
+318
+00:16:05,095 --> 00:16:08,786
+<i>and throw off the yoke
+of </i>Goa'uld oppression and
+
+319
+00:16:09,161 --> 00:16:11,354
+win their freedom.
+
+320
+00:16:18,580 --> 00:16:21,683
+In the battle against the Goa'uld,
+Earth needed allies,
+
+321
+00:16:21,807 --> 00:16:24,750
+and with perfect timing,
+we met the Asgard.
+
+322
+00:16:25,160 --> 00:16:26,930
+Borrowing from
+the look of the Roswell greys
+
+323
+00:16:27,073 --> 00:16:29,275
+and a long-standing
+Norse mythology,
+
+324
+00:16:29,391 --> 00:16:31,085
+the Asgard represented
+a strength
+
+325
+00:16:31,210 --> 00:16:34,009
+that SG-1 had not seen
+since meeting the Goa'uld.
+
+326
+00:16:34,135 --> 00:16:36,596
+It would later foster
+a friendship and an alliance
+
+327
+00:16:36,721 --> 00:16:38,754
+that would run
+throughout the entire series.
+
+328
+00:16:44,186 --> 00:16:46,709
+<u>Who:</u> Benevolent and
+powerful technological gods
+
+329
+00:16:46,710 --> 00:16:49,330
+who protect rather than enslave
+peoples they believe as
+
+330
+00:16:49,331 --> 00:16:51,577
+too simple to understand
+their science.
+
+331
+00:16:51,722 --> 00:16:53,397
+<u>Physiology:</u>
+A dying race that reproduces
+
+332
+00:16:53,398 --> 00:16:55,109
+<u>Physiology:</u>
+entirely through cloning.
+
+333
+00:16:55,234 --> 00:16:57,802
+<u>Asgard technology:</u>
+Asgard Stones, control functions
+
+334
+00:16:57,803 --> 00:17:01,333
+in Asgard mothership
+including communications,
+
+335
+00:17:01,334 --> 00:17:04,634
+holographic projection,
+navigation and transport beams.
+
+336
+00:17:04,904 --> 00:17:07,008
+Initially what we had was,
+
+337
+00:17:07,133 --> 00:17:10,984
+SG-1 were the good guys
+and the Goa'uld were the bad guys,
+
+338
+00:17:11,109 --> 00:17:13,618
+but the Goa'uld
+were so powerful
+
+339
+00:17:13,814 --> 00:17:18,656
+<i>that there was really no way
+that SG-1 even stood a chance.</i>
+
+340
+00:17:18,781 --> 00:17:22,725
+That's why the Asgard were introduced.
+In a way, the Asgard were
+
+341
+00:17:22,867 --> 00:17:26,077
+as much an adversary
+to the Goa'uld
+
+342
+00:17:26,219 --> 00:17:28,486
+as we were, and
+we became friends with them.
+
+343
+00:17:28,629 --> 00:17:31,856
+So, where am I?
+
+344
+00:17:32,213 --> 00:17:36,349
+This is the Asgard planet Othala
+in the galaxy of Ida.
+
+345
+00:17:36,510 --> 00:17:38,885
+<i>So the Asgard are
+important</i> because
+
+346
+00:17:38,991 --> 00:17:41,523
+they do take the show
+in a new direction
+
+347
+00:17:41,666 --> 00:17:44,091
+largely by introducing
+a new race,
+
+348
+00:17:44,198 --> 00:17:45,874
+a new power
+in the galaxy.
+
+349
+00:17:46,045 --> 00:17:50,770
+Ladies and gentlemen,
+I think this is... Thor's chariot.
+
+350
+00:17:50,895 --> 00:17:53,802
+An Asgard mothership.
+
+351
+00:17:54,189 --> 00:17:56,810
+I've heard them described
+in Jaffa legend.
+
+352
+00:17:57,184 --> 00:18:00,501
+<i>In "Thor's Hammer,"
+these people</i> believed
+
+353
+00:18:00,661 --> 00:18:04,193
+that they would always be
+protected by their god, Thor.
+
+354
+00:18:09,651 --> 00:18:11,891
+<i>They appear to have</i>
+
+355
+00:18:12,034 --> 00:18:14,931
+all of the accoutrements
+
+356
+00:18:15,047 --> 00:18:18,623
+of <i>ancient Norse gods.</i>
+
+357
+00:18:18,845 --> 00:18:20,907
+I am Thor.
+
+358
+00:18:21,068 --> 00:18:23,316
+You are brave
+to come before me.
+
+359
+00:18:23,441 --> 00:18:25,261
+O mighty Thor,
+we need your help.
+
+360
+00:18:25,368 --> 00:18:28,774
+<i>Originally they're
+presented in hologram form</i>
+
+361
+00:18:28,916 --> 00:18:31,949
+<i>as mighty Norse gods.</i>
+
+362
+00:18:32,092 --> 00:18:35,462
+<i>When you see the Asgard</i>
+for what they are, they are
+
+363
+00:18:35,622 --> 00:18:36,748
+wildly different.
+
+364
+00:18:36,873 --> 00:18:39,528
+So we get that kind of contrast,
+which sort of shows
+
+365
+00:18:40,136 --> 00:18:44,362
+the relationship between what
+we imagine and what is actually real;
+
+366
+00:18:44,501 --> 00:18:46,926
+but we also get things like,
+for instance,
+
+367
+00:18:47,051 --> 00:18:49,066
+the notion of custodial gods,
+right?
+
+368
+00:18:49,190 --> 00:18:51,578
+So Thor replaced Odin,
+the warrior god,
+
+369
+00:18:51,703 --> 00:18:54,124
+because he was
+a custodial god.
+
+370
+00:18:54,266 --> 00:18:56,834
+He looked after farms,
+not raiders;
+
+371
+00:18:56,959 --> 00:19:01,487
+and Thor and the Asgard
+are custodial aliens
+
+372
+00:19:01,612 --> 00:19:03,912
+the Protected Planets Treaty
+and so forth.
+
+373
+00:19:04,074 --> 00:19:07,551
+The Asgard will attempt to negotiate
+with the Goa'uld System Lords
+
+374
+00:19:07,676 --> 00:19:11,314
+to include Earth in
+the Protected Planets Treaty.
+
+375
+00:19:13,662 --> 00:19:15,285
+That's a good thing, right?
+
+376
+00:19:15,445 --> 00:19:17,888
+I think it was really
+interesting to
+
+377
+00:19:18,079 --> 00:19:20,807
+- because of these aliens
+who are not gonna fit in
+
+378
+00:19:20,931 --> 00:19:22,447
+and be able just
+to converse openly -
+
+379
+00:19:22,572 --> 00:19:24,908
+So they had to do some research
+and if they're dealing with
+
+380
+00:19:25,015 --> 00:19:27,478
+primitive civilasations so
+they had to do some research of,
+
+381
+00:19:27,621 --> 00:19:31,044
+"How do we communicate to these
+people and how do we get them to
+
+382
+00:19:31,177 --> 00:19:34,481
+possibly do our bidding...
+or just
+
+383
+00:19:34,624 --> 00:19:37,863
+find out a little bit more about them,"
+so the idea that they used technology
+
+384
+00:19:38,005 --> 00:19:42,975
+to imitate human-type life forms
+that appealed to a specific culture
+
+385
+00:19:43,118 --> 00:19:45,900
+like the Norse people
+at the time.
+
+386
+00:19:46,062 --> 00:19:49,111
+I think that's a little bit
+more interesting to me, and
+
+387
+00:19:49,253 --> 00:19:52,370
+something that went on throughout
+the entire serie and just kept evolving.
+
+388
+00:19:53,315 --> 00:19:54,938
+The coordinates are set.
+
+389
+00:19:56,355 --> 00:19:58,262
+Are you ready,
+Colonel Carter?
+
+390
+00:19:58,347 --> 00:19:59,943
+Ready as I'll ever be.
+
+391
+00:20:00,752 --> 00:20:03,442
+Initiating transport.
+
+392
+00:20:09,086 --> 00:20:11,740
+<u>Who</u> : Technologically
+advanced "bugs" programmed
+
+393
+00:20:11,741 --> 00:20:14,283
+by creators with only one
+objective self replication
+
+394
+00:20:14,370 --> 00:20:16,824
+<u>Created By</u> : Android Reese as
+toys and protectors.
+
+395
+00:20:16,825 --> 00:20:20,414
+Designed to replicate at all costs,
+she eventually lost control of them
+
+396
+00:20:20,505 --> 00:20:23,623
+<u>Physiology</u> : Individual blocks
+exert a reactive modulating energy field
+
+397
+00:20:23,624 --> 00:20:27,179
+on other blocks allowing them
+to reassemble in a new form.
+
+398
+00:20:27,180 --> 00:20:30,112
+Eventually evolved
+into human form replicators.
+
+399
+00:20:30,771 --> 00:20:33,992
+Shortly after the asgard were
+introduced, we realized.
+
+400
+00:20:34,097 --> 00:20:36,437
+we've created
+an adversary for the goa'uld
+
+401
+00:20:36,528 --> 00:20:38,099
+that are in fact so powerful,
+
+402
+00:20:38,196 --> 00:20:40,446
+That it doesn't really
+make sense why
+
+403
+00:20:40,536 --> 00:20:42,959
+the asgard haven't
+wiped the goa'uld out
+
+404
+00:20:43,076 --> 00:20:44,087
+And
+
+405
+00:20:44,167 --> 00:20:48,057
+it was kind of looking at that
+hole in the series that
+
+406
+00:20:48,137 --> 00:20:51,999
+that, you know, made us
+invent the Replicators.
+
+407
+00:20:54,134 --> 00:20:57,858
+<i>The original replicators</i>
+introduced in sg-1,
+
+408
+00:20:57,962 --> 00:21:02,505
+were these <i>little mechanical
+creatures that consumed metal.</i>
+
+409
+00:21:02,635 --> 00:21:05,016
+What, are you saying they're
+actually eating the ship?
+
+410
+00:21:05,119 --> 00:21:08,117
+Ingesting
+the alloys, yes.
+
+411
+00:21:08,230 --> 00:21:10,966
+They will continue until
+they risk compromising
+
+412
+00:21:11,064 --> 00:21:13,440
+the integrity of the hull.
+
+413
+00:21:14,439 --> 00:21:17,344
+<i>You had the asgard
+that are so advanced</i>
+
+414
+00:21:17,650 --> 00:21:19,904
+That had obviously
+advanced past the use
+
+415
+00:21:20,003 --> 00:21:21,661
+of these crude
+projectile weapons.
+
+416
+00:21:21,766 --> 00:21:24,107
+Who were trying to use
+energy-based weapons.
+
+417
+00:21:24,223 --> 00:21:26,007
+And it wasn't having
+an effect.
+
+418
+00:21:26,540 --> 00:21:29,860
+You have demonstrated their
+weakness may be found through a less
+
+419
+00:21:29,976 --> 00:21:31,876
+sophisticated approach.
+
+420
+00:21:32,594 --> 00:21:35,555
+We are no longer capable
+of such thinking.
+
+421
+00:21:35,662 --> 00:21:37,591
+Wait a minute,
+you're actually saying that
+
+422
+00:21:37,721 --> 00:21:40,390
+you need someone
+dumber than you are?
+
+423
+00:21:41,057 --> 00:21:42,550
+You may have come
+to the right place.
+
+424
+00:21:42,647 --> 00:21:45,892
+And as a result, replicators
+had pretty much overrun their galaxy.
+
+425
+00:21:46,002 --> 00:21:48,039
+And we ended up
+doing a better job.
+
+426
+00:21:48,141 --> 00:21:50,355
+Of handling the threat
+they posed to our galaxy.
+
+427
+00:21:50,464 --> 00:21:54,102
+<i>The replicators</i> gave us a really
+interesting thoughtless
+
+428
+00:21:54,620 --> 00:21:58,331
+Bent-on-destruction kind of
+antagonist for us to face.
+
+429
+00:21:58,429 --> 00:22:00,325
+<i>But it also highlighted
+our own</i>
+
+430
+00:22:00,429 --> 00:22:03,377
+<i>need to walk carefully when
+dealing with artificial intelligence</i>
+
+431
+00:22:03,480 --> 00:22:05,617
+<i>and dealing with technology
+that gets away on us,</i>
+
+432
+00:22:05,707 --> 00:22:08,345
+<i>So i thought that was
+a nice avenue for us</i>
+
+433
+00:22:08,462 --> 00:22:09,874
+<i>to peruse for
+a while as well.</i>
+
+434
+00:22:09,985 --> 00:22:14,686
+<i>It's a good example of how</i> an
+enemy, how a <i>race evolves.</i>
+
+435
+00:22:14,782 --> 00:22:17,689
+<i>And becomes part
+of a series' canon</i>
+
+436
+00:22:17,784 --> 00:22:21,229
+<i>and part of the ground
+from which you build stories.</i>
+
+437
+00:22:28,440 --> 00:22:31,739
+As the writing continued to cultivate
+the mythology of the show.
+
+438
+00:22:31,836 --> 00:22:34,868
+The scope of just how much the
+Stargate opened us up to the universe
+
+439
+00:22:34,972 --> 00:22:37,649
+Was becoming more evident
+with every new episode.
+
+440
+00:22:37,985 --> 00:22:40,351
+In the same season that we met the
+Asgard we came across
+
+441
+00:22:40,455 --> 00:22:43,928
+a new ally that would prove fruitful
+in the fight against the Goa'uld :
+
+442
+00:22:44,058 --> 00:22:44,937
+The Tok'ra
+
+443
+00:22:45,532 --> 00:22:48,763
+<u>Who</u> : Highly advanced
+alliance of Goa'uld resistance.
+
+444
+00:22:48,764 --> 00:22:51,570
+Main goal is the destruction
+of the System Lords.
+
+445
+00:22:51,660 --> 00:22:54,369
+<u>Physiology</u> : The Tok'Ra
+take symbiotes by choice
+
+446
+00:22:54,370 --> 00:22:56,809
+and share a mutually
+beneficial relationship.
+
+447
+00:22:56,913 --> 00:22:59,281
+<u>Alliances</u> : Tok'Ra/Tauri
+alliance grew stronger when
+
+448
+00:22:59,282 --> 00:23:02,501
+Colonel Carter's father
+Jacob Carter became
+
+449
+00:23:02,502 --> 00:23:05,426
+host to the
+Tok'Ra symbiote Selmak
+
+450
+00:23:06,777 --> 00:23:07,780
+Kiss me.
+
+451
+00:23:09,387 --> 00:23:10,849
+You're kidding, right?
+
+452
+00:23:11,764 --> 00:23:13,777
+No, I'm not.
+
+453
+00:23:20,866 --> 00:23:23,394
+<i>Really the reason we
+invented the Tok'Ra</i> was
+
+454
+00:23:23,497 --> 00:23:25,512
+how do you get out
+of the problem of having
+
+455
+00:23:25,615 --> 00:23:27,820
+a Goa'uld in one
+of your main characters,
+
+456
+00:23:28,305 --> 00:23:31,794
+<i>the twist is: what if that
+Goa'uld was actually a good guy?</i>
+
+457
+00:23:35,946 --> 00:23:39,990
+<i>One of the elements</i> of the show
+that I really enjoyed was
+
+458
+00:23:40,299 --> 00:23:44,355
+the philosophical difference
+between being a Jaffa,
+
+459
+00:23:44,820 --> 00:23:46,152
+being a Goa'uld,
+
+460
+00:23:46,256 --> 00:23:47,381
+and being a Tok'Ra.
+
+461
+00:23:47,898 --> 00:23:50,845
+Goa'uld take hosts.
+Tok'ra do not.
+
+462
+00:23:51,644 --> 00:23:53,019
+Ours wish to be so.
+
+463
+00:23:53,118 --> 00:23:55,355
+We have a truly
+symbiotic relationship.
+
+464
+00:23:55,459 --> 00:23:59,230
+<i>The Tok'Ra have been</i> a
+long-standing ally.
+
+465
+00:23:59,322 --> 00:24:01,386
+But their numbers are few
+
+466
+00:24:01,479 --> 00:24:04,078
+and they've always
+been a little wary of
+
+467
+00:24:04,182 --> 00:24:05,786
+sticking their
+necks out too far.
+
+468
+00:24:06,019 --> 00:24:09,494
+SG-1's search for allies and
+its desire to acquire technology
+
+469
+00:24:09,584 --> 00:24:12,413
+that could help Earth in its
+battle against unforeseen aggressors.
+
+470
+00:24:12,503 --> 00:24:16,047
+was only overshadowed by the quest
+to understand the bigger picture.
+
+471
+00:24:17,158 --> 00:24:18,623
+Who started it all?
+
+472
+00:24:19,217 --> 00:24:21,826
+It was the introduction of the
+Ancients to the Stargate universe
+
+473
+00:24:21,930 --> 00:24:25,357
+that added a rich new layer
+to Stargate's mythology.
+
+474
+00:24:26,589 --> 00:24:30,381
+<u>Who:</u> Race of ascended beings that
+exist in a state of enlightenment.
+
+475
+00:24:30,485 --> 00:24:33,885
+<u>Alliance:</u> One of the four great
+races of the Ancient Alliance
+
+476
+00:24:33,886 --> 00:24:37,512
+consisting of the Asgard, the Nox,
+the Furlings and the Ancients.
+
+477
+00:24:37,603 --> 00:24:40,713
+<u>Ancient Technology:</u>
+Ancient Repository - a device within
+
+478
+00:24:40,714 --> 00:24:44,295
+a sealed chamber holding
+the archive of ancient knowledge
+
+479
+00:24:44,296 --> 00:24:47,500
+capable of downloading
+directly onto a subject's mind.
+
+480
+00:25:02,114 --> 00:25:04,967
+<i>The Ancients and ascension
+are very much about</i>
+
+481
+00:25:05,054 --> 00:25:08,378
+<i>the continuation of
+the human</i> soul beyond
+
+482
+00:25:08,475 --> 00:25:10,206
+humanity as we know it.
+
+483
+00:25:13,235 --> 00:25:16,233
+- I'm an Ancient.
+- What?!
+
+484
+00:25:16,492 --> 00:25:20,332
+Not me, but the Others
+like me. They're the Ancients.
+
+485
+00:25:22,370 --> 00:25:24,814
+This is written in one of the oldest
+dialects of the Ancients
+
+486
+00:25:24,913 --> 00:25:27,355
+I always suspected, but
+I never really knew for sure.
+
+487
+00:25:27,549 --> 00:25:28,596
+What does it say?
+
+488
+00:25:28,699 --> 00:25:31,475
+It says they evolved from a race
+of humans that lived long before us,
+
+489
+00:25:31,555 --> 00:25:34,246
+that they were wiped out by
+a plague sweeping across the galaxy
+
+490
+00:25:34,337 --> 00:25:37,797
+and that many learned
+to ascend and the rest died out.
+
+491
+00:25:39,517 --> 00:25:41,441
+- I have to go.
+- Daniel!
+
+492
+00:25:44,149 --> 00:25:46,586
+We've kind of said that
+the Ancients are us.
+
+493
+00:25:46,702 --> 00:25:48,112
+We are...
+
+494
+00:25:49,108 --> 00:25:51,099
+the second evolution
+of this physical form.
+
+495
+00:25:51,202 --> 00:25:55,614
+And the idea of the
+Ancients is that they evolved.
+
+496
+00:25:55,717 --> 00:25:59,195
+<i>Eventually they became
+so knowledgeable of the universe</i>
+
+497
+00:25:59,277 --> 00:26:02,578
+<i>and of the understanding of
+existence that they were able to</i>
+
+498
+00:26:02,669 --> 00:26:06,319
+<i>shed their human bodies
+and turn into energy.</i>
+
+499
+00:26:06,699 --> 00:26:09,967
+<i>And the philosophy that they
+then have to adopt</i>
+
+500
+00:26:10,087 --> 00:26:13,827
+because it empowers them
+so much is to not interfere.
+
+501
+00:26:14,611 --> 00:26:18,387
+If you know what it is we're
+looking for and as an ascended being,
+
+502
+00:26:18,477 --> 00:26:20,574
+I have to assume you do.
+
+503
+00:26:21,441 --> 00:26:25,389
+As Doctor Jackson knows, it is against
+our highest law to interfere.
+
+504
+00:26:25,534 --> 00:26:29,878
+They refer to that
+most important question
+
+505
+00:26:29,994 --> 00:26:32,702
+or one of the two most important
+questions of mythology.
+
+506
+00:26:32,793 --> 00:26:34,411
+The first one is:
+Where do we come from?
+
+507
+00:26:34,495 --> 00:26:37,721
+Actually they answer both of those where
+do we come from? and where are we going?
+
+508
+00:26:37,851 --> 00:26:41,539
+So they are Origin and Telos, right?
+
+509
+00:26:41,619 --> 00:26:43,404
+The beginning and the end.
+
+510
+00:26:44,793 --> 00:26:47,350
+The markings on the
+wall are a language. It's a bible.
+
+511
+00:26:47,453 --> 00:26:49,458
+No, actually it's more
+of an instruction book
+
+512
+00:26:49,574 --> 00:26:51,615
+on how to reach this
+ethereal plane of existence.
+
+513
+00:26:51,695 --> 00:26:54,604
+Some kind of other world. It's natural
+the Jaffa who found this place
+
+514
+00:26:54,720 --> 00:26:56,970
+would have interpreted it
+as a passage to the afterlife.
+
+515
+00:26:57,074 --> 00:26:58,852
+Slow down there Grasshopper.
+
+516
+00:26:59,267 --> 00:27:02,683
+If the Ancients were really the first
+
+517
+00:27:04,195 --> 00:27:07,403
+form, human form that lived
+on Earth and built the Stargates
+
+518
+00:27:07,506 --> 00:27:09,736
+and then went out
+into the galaxy from here,
+
+519
+00:27:09,937 --> 00:27:13,544
+as evidenced by the fact that it's
+our constellations  on the Stargate,
+
+520
+00:27:13,660 --> 00:27:15,974
+then they had to have been
+on Earth millions of years ago,
+
+521
+00:27:16,077 --> 00:27:18,119
+<i>in which case there
+should be some evidence of it.</u>
+
+522
+00:27:18,199 --> 00:27:21,093
+- I don't think this is it, Sam.
+- What do you mean?
+
+523
+00:27:22,448 --> 00:27:25,395
+The dome's too small.
+It's like Taonas.
+
+524
+00:27:25,823 --> 00:27:28,564
+It's obviously not a city,
+it's just an outpost of some kind.
+
+525
+00:27:29,040 --> 00:27:31,785
+- This isn't Atlantis?
+- I don't think so.
+
+526
+00:27:31,888 --> 00:27:33,261
+<i>The lost city of Atlantis!</i>
+
+527
+00:27:33,365 --> 00:27:36,360
+<i>It's interesting,</i>
+because it was mystical
+
+528
+00:27:36,696 --> 00:27:39,746
+even at the moment
+when we first heard about it in Plato
+
+529
+00:27:39,837 --> 00:27:43,648
+it had already been sunk <i>in
+the sea for nine thousand years,</i>
+
+530
+00:27:43,773 --> 00:27:47,121
+<i>and so it brings with it
+that huge suitcase</i>
+
+531
+00:27:47,625 --> 00:27:49,217
+<i>of history</i>
+
+532
+00:27:49,320 --> 00:27:52,621
+<i>and associations
+with that banished past.</i>
+
+533
+00:27:58,261 --> 00:28:00,550
+As the seasons moved on
+and SG1 aligned with
+
+534
+00:28:00,666 --> 00:28:02,987
+their allies to
+overpower the Goa'uld
+
+535
+00:28:03,417 --> 00:28:05,330
+the show took
+on a new direction.
+
+536
+00:28:05,460 --> 00:28:08,483
+Events occurred that led the
+SG-1 team to a new race
+
+537
+00:28:08,600 --> 00:28:10,518
+which caused them to
+re-examine everything
+
+538
+00:28:10,598 --> 00:28:12,581
+they thought they knew
+about the Gate-builders.
+
+539
+00:28:12,815 --> 00:28:15,272
+Robert, I think
+quite correctly said,
+
+540
+00:28:15,401 --> 00:28:16,565
+Look, let's,
+
+541
+00:28:17,193 --> 00:28:20,712
+let's introduce a new bad
+guy. Let's introduce a new
+
+542
+00:28:21,106 --> 00:28:25,080
+a new long-term large arc
+that can be,
+
+543
+00:28:25,838 --> 00:28:28,892
+that can be,
+essentially a new mythology
+
+544
+00:28:29,035 --> 00:28:31,128
+that's still very much
+within the Stargate universe.
+
+545
+00:28:31,208 --> 00:28:34,397
+Once upon a time there was a race of
+people that were on a great journey
+
+546
+00:28:34,500 --> 00:28:37,940
+through space across the universe.
+They were called the Altera.
+
+547
+00:28:38,535 --> 00:28:42,551
+After much time and I think
+this means thousands of years
+
+548
+00:28:42,745 --> 00:28:46,267
+they found a great belt of stars.
+
+549
+00:28:47,013 --> 00:28:49,204
+And they lived happily ever after.
+
+550
+00:28:55,449 --> 00:28:57,184
+Have you found something,
+Daniel Jackson?
+
+551
+00:28:57,388 --> 00:29:00,880
+It says that the Alterans named
+their new home Avalon
+
+552
+00:29:01,009 --> 00:29:03,665
+and that they built
+many Astria Porta.
+
+553
+00:29:05,164 --> 00:29:06,250
+Stargates.
+
+554
+00:29:06,369 --> 00:29:08,746
+In "Avalon 1" Vala comes
+through the Gate
+
+555
+00:29:08,836 --> 00:29:11,862
+and she is carrying this treasure map
+and the treasure map leads us...
+
+556
+00:29:11,991 --> 00:29:15,482
+the treasure happens to be here
+on Earth and it's a cache of
+
+557
+00:29:15,935 --> 00:29:17,913
+treasure and possibly weapons
+and technology that
+
+558
+00:29:18,017 --> 00:29:19,565
+we have been looking
+for for years.
+
+559
+00:29:19,647 --> 00:29:23,230
+Avalon was actually a place where Merlin
+helped Arthur a mortal ascend.
+
+560
+00:29:23,347 --> 00:29:25,475
+Are not the Ancients
+prevented from interfering
+
+561
+00:29:25,571 --> 00:29:27,170
+with the existence of mortals?
+
+562
+00:29:27,304 --> 00:29:30,692
+Ascended Ancients yes for the most part
+but it's possible Merlin wasn't actually
+
+563
+00:29:30,794 --> 00:29:34,531
+ascended himself but was in fact just a
+human far along the evolutionary path.
+
+564
+00:29:34,632 --> 00:29:37,560
+What does this have to do with
+where this alleged treasure is buried?
+
+565
+00:29:37,650 --> 00:29:39,532
+There are a number
+of conflicting interpretations
+
+566
+00:29:39,628 --> 00:29:41,990
+but certain threads point
+to the Knights of the Round Table
+
+567
+00:29:42,074 --> 00:29:44,686
+gathering great treasures from
+the far corners of Arthur's domain
+
+568
+00:29:44,776 --> 00:29:46,789
+and hiding them in
+a magical stronghold at Avalon.
+
+569
+00:29:46,879 --> 00:29:50,225
+The idea that Glastonbury Tor is the
+place where King Arthur is buried, now
+
+570
+00:29:50,339 --> 00:29:52,479
+immediately, shining
+a light on that makes you go
+
+571
+00:29:52,570 --> 00:29:54,911
+"What the heck does that
+have to do with anything?"
+
+572
+00:29:55,007 --> 00:29:56,812
+You realise what this could mean?
+
+573
+00:29:59,605 --> 00:30:03,915
+Woah! We've always
+presumed that the Ancients
+
+574
+00:30:04,006 --> 00:30:07,045
+were the first evolution
+of humans in this galaxy,
+
+575
+00:30:07,225 --> 00:30:08,823
+but, but this ...
+
+576
+00:30:09,301 --> 00:30:13,089
+this is the first evidence
+suggesting they came here
+
+577
+00:30:13,389 --> 00:30:15,781
+long ago from somewhere
+far, far away.
+
+578
+00:30:15,900 --> 00:30:17,230
+Colonel Mitchell.
+
+579
+00:30:17,346 --> 00:30:19,234
+<i>The Alterans is a way of</i>
+
+580
+00:30:19,314 --> 00:30:21,572
+<i>distinguishing the Ancients
+being an entire culture</i>
+
+581
+00:30:21,676 --> 00:30:24,082
+<i>the Ori and the Alterans
+being the two</i>
+
+582
+00:30:24,174 --> 00:30:26,440
+<i>aspects of that that broke
+off in different directions.</i>
+
+583
+00:30:26,523 --> 00:30:28,385
+<i>The discovery</i> that
+the Alterans actually
+
+584
+00:30:28,471 --> 00:30:30,700
+potentially exist in
+another galaxy
+
+585
+00:30:31,100 --> 00:30:33,591
+was our way
+
+586
+00:30:34,154 --> 00:30:36,657
+- in Season 9 - of
+separating those two.
+
+587
+00:30:36,744 --> 00:30:39,205
+We always kept referring to
+the Ancients as one distinct
+
+588
+00:30:39,295 --> 00:30:41,624
+governing body that
+was always looking on
+
+589
+00:30:41,705 --> 00:30:43,818
+and we just referred
+to them as the Ancients;
+
+590
+00:30:43,902 --> 00:30:45,557
+and then the discovery
+that there are ...
+
+591
+00:30:45,661 --> 00:30:48,754
+if there is a good one, then there
+must be a bad one here too.
+
+592
+00:30:50,240 --> 00:30:52,421
+Hallowed are the Ori.
+
+593
+00:30:53,392 --> 00:30:55,360
+The new direction of
+the show had begun
+
+594
+00:30:55,582 --> 00:30:57,690
+and the tides were turning
+with every mission.
+
+595
+00:30:58,032 --> 00:31:00,545
+The introduction of the
+fundamentalist Ori served
+
+596
+00:31:00,633 --> 00:31:03,132
+notice that the battle
+to keep the galaxy safe
+
+597
+00:31:03,212 --> 00:31:04,538
+was far from over.
+
+598
+00:31:11,429 --> 00:31:12,989
+<u>WHO:</u>
+Ascended beings that
+
+599
+00:31:12,990 --> 00:31:15,731
+use advanced technology
+and spiritual knowledge
+
+600
+00:31:15,732 --> 00:31:18,547
+to deceive the non-ascended
+humans into worshiping them.
+
+601
+00:31:18,689 --> 00:31:21,809
+<u>Great Divide:</u> The division
+between the Ori and the Alterans
+
+602
+00:31:21,810 --> 00:31:25,564
+was a result of the emergence
+of two different philosophies.
+
+603
+00:31:25,565 --> 00:31:29,103
+The Alterans followed
+a more scientific/rational outlook
+
+604
+00:31:29,104 --> 00:31:32,512
+while the Ori developed
+fundamentalist religious beliefs.
+
+605
+00:31:32,780 --> 00:31:37,010
+The Ori - unlike the
+Ancients who
+
+606
+00:31:37,291 --> 00:31:39,977
+have adopted
+this kind of hands off
+
+607
+00:31:40,199 --> 00:31:41,779
+policy towards our galaxy
+
+608
+00:31:41,882 --> 00:31:44,075
+the Ori are very hands on
+
+609
+00:31:44,179 --> 00:31:47,972
+and are the antithesis of
+the Ancients we've created.
+
+610
+00:31:48,077 --> 00:31:51,959
+I wanted the new bad guys
+<i>to have the same feeling</i>
+
+611
+00:31:52,053 --> 00:31:56,106
+<i>to have the same essence
+that the relationship with</i>
+
+612
+00:31:56,209 --> 00:31:59,574
+<i>the Goa'uld was at the
+beginning of the series.</i>
+
+613
+00:32:00,186 --> 00:32:03,196
+<i>They could be</i> posing as gods
+but have even more power.
+
+614
+00:32:03,287 --> 00:32:06,190
+It's all lies and propaganda
+as far as they're concerned.
+
+615
+00:32:06,390 --> 00:32:10,495
+We're wrong; they're right.
+They're good; we're bad.
+
+616
+00:32:10,587 --> 00:32:13,243
+We must worship the
+Ori or die. And they will
+
+617
+00:32:13,334 --> 00:32:16,552
+fight until we are dead
+or they are. Period.
+
+618
+00:32:16,692 --> 00:32:20,316
+One of the things that we
+intentionally did <i>was looked</i>
+
+619
+00:32:20,410 --> 00:32:23,331
+<i>at the colourful
+flamboyance of the Goa'uld</i>
+
+620
+00:32:23,421 --> 00:32:27,086
+<i>and took a decidedly
+darker approach to the Ori.</i>
+
+621
+00:32:27,177 --> 00:32:30,672
+<i>The Priors are quite obviously
+the priests of the religion.</i>
+
+622
+00:32:31,435 --> 00:32:34,287
+What's interesting
+about them is that,
+
+623
+00:32:34,629 --> 00:32:37,099
+again, they have
+supernatural abilities.
+
+624
+00:32:41,276 --> 00:32:43,956
+<i>The Ori, as ascended
+beings, have a certain</i>
+
+625
+00:32:44,047 --> 00:32:46,744
+knowledge of the
+way things work;
+
+626
+00:32:46,839 --> 00:32:50,996
+of humans and of evolution
+and so they can impart
+
+627
+00:32:52,988 --> 00:32:57,718
+advancements on people. They
+can wave their magic wands
+
+628
+00:32:57,808 --> 00:33:01,060
+<i>and give people psychic
+abilities or telekinesis</i>
+
+629
+00:33:01,141 --> 00:33:04,908
+<i>or super-strength, whatever.
+And the Priors have that.</i>
+
+630
+00:33:05,017 --> 00:33:06,383
+<i>So when the Priors say,</i>
+
+631
+00:33:06,463 --> 00:33:08,491
+Hey, we represent the
+Ori and guess what?
+
+632
+00:33:08,581 --> 00:33:11,156
+We have the ability to,
+you know, plant our staff
+
+633
+00:33:11,260 --> 00:33:13,038
+in the ground and
+part the Red Sea,
+
+634
+00:33:13,155 --> 00:33:15,806
+uh, people tend
+to believe them.
+
+635
+00:33:16,025 --> 00:33:17,487
+Behold the gift
+
+636
+00:33:19,156 --> 00:33:21,385
+the Ori have
+bestowed upon me.
+
+637
+00:33:22,047 --> 00:33:24,987
+<i>It was interesting to
+create bad guys that</i>
+
+638
+00:33:25,159 --> 00:33:28,598
+<i>from their point of view
+are maybe not so bad.</i>
+
+639
+00:33:28,715 --> 00:33:32,295
+<i>I mean, the warriors the people</i>
+who believe in Origin are saying,
+
+640
+00:33:32,389 --> 00:33:35,536
+Hey, come on, you
+know. they're saying is
+
+641
+00:33:35,630 --> 00:33:37,791
+Behave yourselves
+and we'll help you ascend
+
+642
+00:33:37,872 --> 00:33:40,932
+What is there for any and
+all to gain by choosing
+
+643
+00:33:41,035 --> 00:33:42,652
+the path of Origin?
+
+644
+00:33:43,913 --> 00:33:46,790
+Those seeking eternal
+salvation can follow
+
+645
+00:33:46,875 --> 00:33:48,637
+the word of the Ori.
+
+646
+00:33:49,782 --> 00:33:52,410
+Those that do not
+shall die as mortals.
+
+647
+00:33:52,493 --> 00:33:54,566
+It is as simple as that.
+
+648
+00:33:54,661 --> 00:33:57,869
+<i>The twist is that</i> they're
+actually not helping people ascend.
+
+649
+00:33:57,973 --> 00:34:02,112
+The Ori are actually a small
+group of ascended beings
+
+650
+00:34:02,203 --> 00:34:05,388
+who are manipulating people
+because they actually gain
+
+651
+00:34:05,481 --> 00:34:10,253
+some sort of energy,
+power, from the worship
+
+652
+00:34:10,380 --> 00:34:11,708
+of human beings.
+
+653
+00:34:11,798 --> 00:34:14,397
+For starters, did you
+know that the Ori
+
+654
+00:34:14,509 --> 00:34:15,939
+need people to worship them
+
+655
+00:34:16,051 --> 00:34:18,200
+because that's how
+they gain their power?
+
+656
+00:34:18,860 --> 00:34:20,631
+- He didn't know.
+- No, he didn't know that.
+
+657
+00:34:20,980 --> 00:34:23,990
+They're not fulfilling the
+one promise of the religion,
+
+658
+00:34:24,097 --> 00:34:26,716
+and that is that if you're
+good, you're gonna be
+
+659
+00:34:26,973 --> 00:34:29,162
+you're gonna be
+brought up to their level.
+
+660
+00:34:29,303 --> 00:34:32,436
+I never dreamed I would one day
+be fit to serve the Ori in this way.
+
+661
+00:34:34,909 --> 00:34:37,962
+By killing people you
+know nothing about?
+
+662
+00:34:38,685 --> 00:34:41,577
+All I need to know is that
+they are an enemy of the Ori
+
+663
+00:34:42,010 --> 00:34:43,680
+that they reject the
+teachings of Origin
+
+664
+00:34:43,778 --> 00:34:45,481
+and would have us
+stray from the path.
+
+665
+00:34:45,753 --> 00:34:46,780
+These
+
+666
+00:34:47,393 --> 00:34:49,370
+so called unbelievers:
+
+667
+00:34:49,473 --> 00:34:51,406
+they're so far away.
+How can they affect us?
+
+668
+00:34:51,769 --> 00:34:55,282
+Evil must not be allowed
+to fester anywhere.
+
+669
+00:34:55,372 --> 00:34:58,716
+<i>Tomin is an excellent
+example of a character who</i>
+
+670
+00:34:58,815 --> 00:35:01,865
+<i>gets swept away in this
+religious fervour, if you will.</i>
+
+671
+00:35:03,009 --> 00:35:06,088
+Unlike the Ori or even the
+Priors to a certain extent
+
+672
+00:35:06,180 --> 00:35:09,861
+he's not an evil individual
+but incredibly misguided,
+
+673
+00:35:09,955 --> 00:35:14,283
+and so you feel sympathy
+for the character.
+
+674
+00:35:14,903 --> 00:35:15,979
+Fear not.
+
+675
+00:35:16,300 --> 00:35:20,107
+Once we warriors of Ori
+have vanquished the wicked,
+
+676
+00:35:20,766 --> 00:35:22,292
+I shall return.
+
+677
+00:35:22,420 --> 00:35:25,428
+<i>I was really interested
+in making the warriors</i>
+
+678
+00:35:25,537 --> 00:35:29,971
+<i>multi-dimensional. I really
+wanted to</i> kind of understand
+
+679
+00:35:30,366 --> 00:35:32,227
+what it would be
+like on the other side.
+
+680
+00:35:32,327 --> 00:35:34,309
+- You have to listen to me.
+- No!
+
+681
+00:35:34,415 --> 00:35:37,146
+I am deaf to all but
+the teachings of Origin!
+
+682
+00:35:37,242 --> 00:35:40,533
+<i>So by putting</i> Vala
+
+683
+00:35:40,857 --> 00:35:43,701
+you know as behind
+enemy lines,<i> so to speak,</i>
+
+684
+00:35:43,806 --> 00:35:45,713
+<i>and having her
+develop this relationship</i>
+
+685
+00:35:45,811 --> 00:35:48,640
+<i>I mean, here's a guy who
+she really could have</i>
+
+686
+00:35:48,743 --> 00:35:52,173
+<i>probably spent her life with
+who just also</i> happened to be,
+
+687
+00:35:53,008 --> 00:35:55,276
+you know, a holy crusader.
+
+688
+00:35:55,393 --> 00:35:56,453
+Now,
+
+689
+00:35:57,036 --> 00:36:00,514
+hear the words of the Orici.
+
+690
+00:36:01,401 --> 00:36:04,078
+<i>Right from the get-go we knew that
+if we had gotten into Season 10,</i>
+
+691
+00:36:04,178 --> 00:36:06,632
+<i>we needed to kind of
+put a figurehead on that;</i>
+
+692
+00:36:06,722 --> 00:36:09,139
+<i>put a real face on the bad guys.</i>
+
+693
+00:36:09,306 --> 00:36:12,947
+<i>We created the character
+who has a knowledge of the Ori</i>
+
+694
+00:36:13,047 --> 00:36:15,565
+<i>in the form of a
+human being. She was,</i>
+
+695
+00:36:15,668 --> 00:36:17,324
+<i>you know,
+immaculately conceived,</i>
+
+696
+00:36:17,416 --> 00:36:21,334
+<i>Vala carried the child and
+then the Ori kind of snuck</i>
+
+697
+00:36:21,437 --> 00:36:24,228
+one of their own over the border
+and cheated the Ancient rules.
+
+698
+00:36:24,432 --> 00:36:26,887
+We're not rejoining the fleet.
+You're coming with me.
+
+699
+00:36:26,990 --> 00:36:28,738
+No. I can't abandon my army.
+
+700
+00:36:29,407 --> 00:36:31,206
+It's not your army.
+
+701
+00:36:31,350 --> 00:36:32,876
+Of course it is.
+
+702
+00:36:33,290 --> 00:36:34,961
+As your mother,
+I'm putting my foot down.
+
+703
+00:36:35,048 --> 00:36:36,681
+You're too young
+to have your own army.
+
+704
+00:36:36,776 --> 00:36:39,175
+With the introduction
+of Adria, who
+
+705
+00:36:39,329 --> 00:36:41,772
+I liken to an evil
+Joan of Arc ...
+
+706
+00:36:41,875 --> 00:36:43,273
+What of the village?
+
+707
+00:36:43,366 --> 00:36:45,654
+Have they agreed to accept
+the teachings of Origin?
+
+708
+00:36:46,065 --> 00:36:47,942
+- No.
+- Then burn it.
+
+709
+00:36:48,070 --> 00:36:51,425
+<i>we have a character
+who not only embodies,</i>
+
+710
+00:36:51,835 --> 00:36:53,710
+you know, the spirit of the Ori
+
+711
+00:36:53,815 --> 00:36:58,095
+but is able to interact
+with us on a physical level
+
+712
+00:36:58,390 --> 00:37:01,397
+I think with the
+introduction of the Ori to
+
+713
+00:37:02,258 --> 00:37:06,056
+the mythology of "Stargate,"
+what it's done is that it's
+
+714
+00:37:06,512 --> 00:37:08,845
+allowed us to be a little
+bit more intellectual,
+
+715
+00:37:08,929 --> 00:37:11,357
+a little bit more
+contemporary with
+
+716
+00:37:12,296 --> 00:37:16,511
+our usage of the word "god" in
+the context of science fiction.
+
+717
+00:37:16,602 --> 00:37:18,013
+What is a god,
+
+718
+00:37:18,106 --> 00:37:21,126
+but a being that is
+worshipped by those beneath?
+
+719
+00:37:21,293 --> 00:37:23,529
+Is great knowledge, power,
+
+720
+00:37:23,619 --> 00:37:27,565
+understanding not enough
+for you to revere the Ori?
+
+721
+00:37:27,938 --> 00:37:29,892
+Respect, yes, certainly; but
+
+722
+00:37:30,344 --> 00:37:32,862
+that doesn't mean I would murder
+innocent people in their name.
+
+723
+00:37:32,951 --> 00:37:34,620
+People were saying,
+"Oh my God, the Ori
+
+724
+00:37:34,711 --> 00:37:37,115
+they're so powerful <i>and
+the Priors are so bad.</i>
+
+725
+00:37:37,206 --> 00:37:39,997
+<i>I mean, how is the team
+ever gonna defeat them?</i>
+
+726
+00:37:40,085 --> 00:37:41,580
+<i>How are they ever gonna win?<i>
+
+727
+00:37:41,679 --> 00:37:43,993
+<i>And I mean, that's kind
+of what we wanted.</i>
+
+728
+00:37:44,083 --> 00:37:47,311
+<i>That's what the
+fan reaction was, I think,</i>
+
+729
+00:37:47,401 --> 00:37:50,029
+<i>at the beginning</i> of the
+series when, you know,
+
+730
+00:37:50,109 --> 00:37:52,971
+here we have the Goa'uld and they
+have all these ships and technology.
+
+731
+00:37:53,074 --> 00:37:55,611
+How are we ever gonna beat them?
+Well, eight years later we did.
+
+732
+00:37:55,691 --> 00:37:58,853
+We kicked their asses and
+now we have <i>to set up</i>
+
+733
+00:37:58,953 --> 00:38:01,716
+<i>a situation in the same series</i>
+
+734
+00:38:01,836 --> 00:38:04,750
+<i>where our heroes can
+once again overcome</i>
+
+735
+00:38:05,006 --> 00:38:08,142
+<i>what seem to be
+incredible odds to win.</i>
+
+736
+00:38:13,355 --> 00:38:16,508
+As SG-1's focus turns to
+the birth of a new enemy,
+
+737
+00:38:16,677 --> 00:38:19,830
+the show delves further into a
+world of Arthurian mythology
+
+738
+00:38:19,910 --> 00:38:22,968
+and leads us on a
+chase for the Holy Grail.
+
+739
+00:38:24,027 --> 00:38:25,994
+Have you heard of Merlin?
+
+740
+00:38:26,601 --> 00:38:27,661
+Merlin.
+
+741
+00:38:27,755 --> 00:38:30,726
+King Arthur and the
+Knights of the Round Table
+
+742
+00:38:31,371 --> 00:38:33,530
+- Was an Ancient?
+- I think so.
+
+743
+00:38:34,464 --> 00:38:37,561
+See! That is what
+I'm talkin' about.
+
+744
+00:38:38,203 --> 00:38:41,751
+Merlin wasn't a particularly
+spiritual character
+
+745
+00:38:41,880 --> 00:38:43,293
+in Arthurian legend.
+
+746
+00:38:43,420 --> 00:38:46,899
+He was a guy that
+
+747
+00:38:47,002 --> 00:38:50,864
+manipulated things so
+that Arthur was born
+
+748
+00:38:50,955 --> 00:38:53,679
+<i>and then helped Arthur with
+the business of being king.</i>
+
+749
+00:38:54,052 --> 00:38:57,835
+<i>In "Stargate",</i> it's sort of the
+other way around again.
+
+750
+00:38:57,934 --> 00:39:01,661
+He comes down from a holy
+place, from being ascended,
+
+751
+00:39:01,892 --> 00:39:04,578
+and helps people towards
+
+752
+00:39:05,036 --> 00:39:07,194
+defending themselves on
+the physical plain and
+
+753
+00:39:07,290 --> 00:39:09,615
+also against spiritual dangers.
+
+754
+00:39:09,695 --> 00:39:14,539
+It made sense that this guy,
+Merlin had the capability of
+
+755
+00:39:14,706 --> 00:39:17,276
+of being a wizard and
+
+756
+00:39:18,253 --> 00:39:20,378
+sending Arthur on
+this quest because
+
+757
+00:39:20,458 --> 00:39:24,516
+he really was a very
+powerful... alien, if you will.
+
+758
+00:39:24,596 --> 00:39:28,045
+Welcome, ye Knights
+of the Round Table,
+
+759
+00:39:28,598 --> 00:39:33,251
+men of honour, followers
+of the path of righteousness.
+
+760
+00:39:34,112 --> 00:39:37,415
+Only those with
+wealth of knowledge
+
+761
+00:39:37,955 --> 00:39:39,741
+and truth of spirit
+
+762
+00:39:39,973 --> 00:39:42,362
+shall be given
+access to the underworld.
+
+763
+00:39:42,442 --> 00:39:44,902
+You know,
+the Merlin/Holy Grail
+
+764
+00:39:45,613 --> 00:39:50,368
+is a search - is a search for
+something that would be the answer,
+
+765
+00:39:50,448 --> 00:39:53,144
+the solution to our problems,
+
+766
+00:39:53,337 --> 00:39:57,398
+and it's the main thrust of
+
+767
+00:39:57,784 --> 00:39:59,776
+Season 10: searching for
+
+768
+00:40:00,071 --> 00:40:04,120
+the device that hopefully, you
+know, if used properly would
+
+769
+00:40:04,314 --> 00:40:06,405
+<i>actually kill the Ori.</i>
+
+770
+00:40:06,485 --> 00:40:10,011
+Your world, as well as countless
+others, are in danger of being overrun
+
+771
+00:40:10,091 --> 00:40:13,420
+by an enemy far more powerful
+than you could ever imagine.
+
+772
+00:40:13,541 --> 00:40:16,783
+They are called the Ori,
+and they will destroy anyone
+
+773
+00:40:16,874 --> 00:40:19,356
+- who does not kneel before them.
+- We learned a long time ago
+
+774
+00:40:19,447 --> 00:40:21,968
+Merlin was working on a weapon
+that could be used against them,
+
+775
+00:40:22,065 --> 00:40:24,664
+and the key to finding that
+weapon is inside that library.
+
+776
+00:40:24,744 --> 00:40:28,237
+The Holy Grail is a really
+interesting figure because
+
+777
+00:40:28,317 --> 00:40:30,391
+it's again a pseudo-Christian
+
+778
+00:40:30,815 --> 00:40:34,926
+artefact that was never actually
+accepted officially by the Church,
+
+779
+00:40:35,006 --> 00:40:37,638
+but it has that sort of
+strong Christian association
+
+780
+00:40:37,718 --> 00:40:40,595
+brought by Joseph of
+Arimathea to England
+
+781
+00:40:40,723 --> 00:40:44,541
+and being associated with
+resurrection and purity of heart.
+
+782
+00:40:44,630 --> 00:40:49,207
+Prudence, wisdom, charity,
+kindness, and faith.
+
+783
+00:40:49,414 --> 00:40:52,149
+Let these be your guide
+on this perilous quest.
+
+784
+00:40:52,766 --> 00:40:55,406
+<i>So it has this really</i> long history,
+
+785
+00:40:55,486 --> 00:40:57,599
+but it's associated with
+the quest and with
+
+786
+00:40:58,177 --> 00:41:01,712
+nobility and with chivalry
+and all those kinds of things
+
+787
+00:41:01,802 --> 00:41:03,574
+and it has, therefore,
+
+788
+00:41:03,654 --> 00:41:06,633
+a really strong
+redemptive quality to it.
+
+789
+00:41:06,713 --> 00:41:09,770
+It was lost because
+humanity was wicked,
+
+790
+00:41:09,850 --> 00:41:13,478
+so that, notion that when we find
+it there's a kind of redemption
+
+791
+00:41:13,558 --> 00:41:16,203
+but it's tricky in this context
+because it's also associated
+
+792
+00:41:16,283 --> 00:41:18,292
+with potential genocide, right,
+
+793
+00:41:18,372 --> 00:41:20,926
+in the fact that it could
+destroy the Ori and
+
+794
+00:41:21,006 --> 00:41:23,948
+anybody else who
+happens to be ascended.
+
+795
+00:41:24,090 --> 00:41:26,273
+And I think that through us
+using this we were able
+
+796
+00:41:26,353 --> 00:41:29,120
+to take something other
+than just using deities
+
+797
+00:41:29,200 --> 00:41:31,100
+and their stories;
+we were able to take
+
+798
+00:41:31,180 --> 00:41:34,698
+a little piece of our own
+unexplained history possibly and say,
+
+799
+00:41:34,778 --> 00:41:37,932
+Hey, what if it did happen but it didn't
+happen <i>quite like people think it did?</i>
+
+800
+00:41:38,036 --> 00:41:39,458
+We're talking about
+the Holy Grail?
+
+801
+00:41:39,561 --> 00:41:41,355
+Every movie I've seen,
+that's a cup.
+
+802
+00:41:41,665 --> 00:41:44,598
+No. The notion that the
+Grail was a cup or chalice
+
+803
+00:41:44,691 --> 00:41:46,857
+particularly the one used
+by Christ at the Last Supper
+
+804
+00:41:46,948 --> 00:41:48,252
+was a late addition
+to the myth.
+
+805
+00:41:48,343 --> 00:41:50,940
+Similar accounts describe it
+variously as a dish or platter
+
+806
+00:41:51,031 --> 00:41:52,407
+or in the case of
+von Eschenbach
+
+807
+00:41:52,510 --> 00:41:55,503
+and other Middle Eastern-influenced
+chroniclers as a stone
+
+808
+00:41:55,601 --> 00:41:56,923
+that fell from the heavens.
+
+809
+00:41:57,803 --> 00:42:01,633
+<i>From the feeding of the Goa'uld
+to the discovery of the Ori</i>
+
+810
+00:42:01,890 --> 00:42:05,167
+<i>from meeting the Asgard to
+the search for the Holy Grail,</i>
+
+811
+00:42:05,386 --> 00:42:08,625
+<i>"Stargate: SG-1" has created a
+rich and complex mythology</i>
+
+812
+00:42:08,741 --> 00:42:11,993
+<i>that has given the fans a
+reason to tune in every week.</i>
+
+813
+00:42:12,122 --> 00:42:14,705
+<i>Someone once
+compared "Stargate"</i>
+
+814
+00:42:15,220 --> 00:42:19,371
+<i>to a really cool, long
+and complicated novel</i>
+
+815
+00:42:19,718 --> 00:42:21,098
+<i>that doesn't ever have to end.</i>
+
+816
+00:42:21,178 --> 00:42:24,744
+<i>The only way you can have
+that kind of complex,</i>
+
+817
+00:42:24,859 --> 00:42:27,415
+<i>rich, detailed mythology
+is to have it</i>
+
+818
+00:42:27,495 --> 00:42:29,756
+<i>slowly evolve over the course</i>
+
+819
+00:42:30,052 --> 00:42:33,599
+<i>of ten years. Hard to
+believe when you say that.</i>
+
+820
+00:42:34,100 --> 00:42:35,454
+<i>The success of the show</i>
+
+821
+00:42:35,534 --> 00:42:39,773
+<i>I think is very much tied to
+that larger superstructure:</i>
+
+822
+00:42:39,853 --> 00:42:41,863
+<i>the ability to take</i>
+
+823
+00:42:43,059 --> 00:42:46,251
+<i>something that we know,
+something that we recognise</i>
+
+824
+00:42:46,331 --> 00:42:49,921
+<i>the pyramids, for example and
+to give it to us in a new way.</i>
+
+825
+00:42:50,001 --> 00:42:53,474
+<i>So, after ten seasons and
+over two hundred episodes,</i>
+
+826
+00:42:53,554 --> 00:42:57,360
+<i>"Stargate: SG-1" has - with the help
+of some of the world's greatest myths</i>
+
+827
+00:42:57,440 --> 00:43:00,149
+<i>taken the fans on a fantastic voyage.</i>
+
+828
+00:43:02,565 --> 00:43:04,641
+<i>And the voyage continues.</i>
+

@@ -1,0 +1,2274 @@
+1
+00:00:03,335 --> 00:00:04,335
+Cours !
+
+2
+00:00:04,669 --> 00:00:05,969
+Cours, Kahlan !
+
+3
+00:00:14,583 --> 00:00:16,683
+- On les a semées ?
+- Je pense.
+
+4
+00:00:21,264 --> 00:00:23,689
+Ces abeilles sont plus tenaces
+que des Dragons.
+
+5
+00:00:24,214 --> 00:00:26,466
+Tant de labeur pour si peu de miel.
+
+6
+00:00:29,988 --> 00:00:32,688
+Il n'y en a pas assez pour deux.
+Prends-le.
+
+7
+00:00:33,412 --> 00:00:34,412
+Mange.
+
+8
+00:00:35,128 --> 00:00:37,995
+- J'insiste.
+- Mais tu as tout fait.
+
+9
+00:00:38,275 --> 00:00:42,025
+Je mangerai à la prochaine auberge.
+Ça ne doit pas être si loin.
+
+10
+00:00:42,723 --> 00:00:45,252
+- Où est-ce qu'on va, d'ailleurs ?
+- L'est.
+
+11
+00:00:45,921 --> 00:00:50,071
+- Vers la frontière de D'Harane ?
+- À Caddock, précisément.
+
+12
+00:00:50,196 --> 00:00:52,009
+Petit-déjeuner ! Je suis affamé.
+
+13
+00:00:55,013 --> 00:00:58,713
+J'ai parlé avec un ami résistant,
+lorsque je nous ravitaillais.
+
+14
+00:00:58,983 --> 00:01:01,510
+Le roi Gregor
+aurait un nouvel ennemi
+
+15
+00:01:01,635 --> 00:01:03,312
+et a requis l'aide du Sourcier.
+
+16
+00:01:04,044 --> 00:01:06,649
+- Le roi Gregor ?
+- Son royaume borde D'Hara.
+
+17
+00:01:06,854 --> 00:01:09,118
+C'est un grand allié
+de la résistance.
+
+18
+00:01:09,243 --> 00:01:11,570
+Un des rares chefs
+osant s'élever contre Rahl.
+
+19
+00:01:11,878 --> 00:01:13,656
+Il aurait fait mieux que ça.
+
+20
+00:01:13,824 --> 00:01:16,824
+D'après notre ami,
+le roi a renvoyé les D'Harans.
+
+21
+00:01:17,167 --> 00:01:18,911
+Ils ont retiré leurs forces.
+
+22
+00:01:19,233 --> 00:01:22,933
+Pourquoi notre aide ?
+Quoi de plus menaçant que les D'Harans ?
+
+23
+00:02:20,594 --> 00:02:22,767
+Caddock ne devrait plus être loin.
+
+24
+00:02:39,435 --> 00:02:41,072
+Restez où vous êtes !
+
+25
+00:02:48,606 --> 00:02:49,835
+Baissez vos armes.
+
+26
+00:02:51,286 --> 00:02:53,214
+Sauf erreur, voici Richard Cypher.
+
+27
+00:02:53,780 --> 00:02:54,840
+Le sourcier.
+
+28
+00:02:55,266 --> 00:02:56,842
+Marius, frère du roi.
+
+29
+00:02:57,334 --> 00:02:59,184
+Vous avez reçu mon message.
+
+30
+00:03:01,854 --> 00:03:03,641
+Nous avons fait au plus vite.
+
+31
+00:03:03,809 --> 00:03:05,684
+Sorcier Zorander, inquisitrice,
+
+32
+00:03:06,290 --> 00:03:07,728
+c'est un honneur.
+
+33
+00:03:08,136 --> 00:03:10,648
+Je vous présente Flynne,
+capitaine de la garde.
+
+34
+00:03:11,011 --> 00:03:13,943
+Pardonnez l'accueil.
+On est sur le qui-vive dernièrement.
+
+35
+00:03:15,445 --> 00:03:17,780
+Un rapport
+avec la raison de ma venue ?
+
+36
+00:03:18,335 --> 00:03:20,735
+Le roi vous l'expliquera
+en personne.
+
+37
+00:03:21,753 --> 00:03:23,603
+Merci d'être venus si vite.
+
+38
+00:03:24,047 --> 00:03:27,832
+Cela m'afflige de devoir retarder
+votre lutte contre Darken Rahl.
+
+39
+00:03:28,388 --> 00:03:31,338
+Aider ceux qui s'opposent à Rahl
+en fait partie.
+
+40
+00:03:33,560 --> 00:03:36,970
+Mon royaume est terrorisé
+par une bête cruelle
+
+41
+00:03:37,095 --> 00:03:39,093
+qui ravage nos campagnes,
+
+42
+00:03:39,689 --> 00:03:42,857
+et j'ai besoin de votre aide
+pour la tuer.
+
+43
+00:03:44,371 --> 00:03:45,933
+Où trouve-t-on ce monstre ?
+
+44
+00:03:48,650 --> 00:03:49,950
+C'est déjà fait.
+
+45
+00:03:51,860 --> 00:03:52,860
+C'est moi.
+
+46
+00:03:57,296 --> 00:04:01,300
+Il y a 5 mois, les D'Harans ont regroupé
+leurs forces le long de cette frontière.
+
+47
+00:04:01,611 --> 00:04:05,193
+De là, ils ont lancé des raids
+contre nos champs, brûlé nos récoltes.
+
+48
+00:04:05,318 --> 00:04:08,627
+Nos réserves s'amenuisant, Rahl savait
+qu'on ne pourrait soutenir un siège.
+
+49
+00:04:08,752 --> 00:04:12,102
+- L'invasion était imminente.
+- Je n'avais d'autre choix
+
+50
+00:04:12,308 --> 00:04:14,086
+qu'une alliance avec notre voisin.
+
+51
+00:04:15,305 --> 00:04:17,131
+Ici, à l'Allonge d'Agaden.
+
+52
+00:04:18,015 --> 00:04:20,315
+Le territoire de cette démone Shota.
+
+53
+00:04:21,455 --> 00:04:25,472
+Pardonnez-moi, mais pourquoi
+solliciter l'aide de Shota.
+
+54
+00:04:26,029 --> 00:04:28,193
+La sorcière peut voir l'avenir.
+
+55
+00:04:29,735 --> 00:04:32,585
+J'espérais qu'elle nous aiderait
+à le changer.
+
+56
+00:04:32,994 --> 00:04:34,391
+Je lui ai rappelé
+
+57
+00:04:35,213 --> 00:04:39,393
+que notre royaume
+était son dernier rempart contre Rahl.
+
+58
+00:04:41,022 --> 00:04:42,673
+Que si Caddock tombait,
+
+59
+00:04:43,591 --> 00:04:45,117
+l'Allonge d'Agaden suivrait.
+
+60
+00:04:46,036 --> 00:04:47,912
+J'ai donc passé un marché avec elle.
+
+61
+00:04:48,445 --> 00:04:51,040
+Contre la promesse
+que je la défendrai,
+
+62
+00:04:51,436 --> 00:04:54,418
+elle m'offrit la force de protéger
+mon royaume éternellement.
+
+63
+00:04:55,402 --> 00:04:58,161
+Et comment a-t-elle fait ça ?
+
+64
+00:05:00,255 --> 00:05:01,555
+Elle m'a maudit.
+
+65
+00:05:02,748 --> 00:05:03,848
+Chaque nuit,
+
+66
+00:05:04,562 --> 00:05:06,012
+je me transformerai
+
+67
+00:05:07,059 --> 00:05:08,289
+en calthrop.
+
+68
+00:05:11,898 --> 00:05:12,898
+Calthrop ?
+
+69
+00:05:14,824 --> 00:05:18,224
+Un monstre qui hante les cauchemars
+de tous les D'Harans.
+
+70
+00:05:20,759 --> 00:05:23,978
+La crainte du calthrop fait partie
+de l'éducation des D'Harans.
+
+71
+00:05:24,103 --> 00:05:26,450
+Depuis des siècles,
+autour des feux de camp,
+
+72
+00:05:26,618 --> 00:05:30,079
+ils s'effraient avec des contes
+sur l'appétit de cette créature.
+
+73
+00:05:30,248 --> 00:05:33,540
+Pendant des semaines,
+j'ai rôdé près des camps D'Harans.
+
+74
+00:05:34,167 --> 00:05:36,543
+Au couchant,
+je devenais la créature.
+
+75
+00:05:37,347 --> 00:05:39,296
+Les rares survivants du massacre
+
+76
+00:05:39,750 --> 00:05:41,200
+fuyaient en D'Hara,
+
+77
+00:05:41,988 --> 00:05:45,803
+propageant histoires sur le calthrop
+tapi dans la forêt de Caddock.
+
+78
+00:05:46,644 --> 00:05:50,015
+Rapidement, son armée fut trop effrayée
+pour approcher notre royaume.
+
+79
+00:05:50,262 --> 00:05:52,810
+Avec un moral en berne
+et un effectif amoindri,
+
+80
+00:05:53,101 --> 00:05:55,828
+Rahl abandonna
+l'idée de nous envahir.
+
+81
+00:05:56,041 --> 00:05:58,891
+Quand l'armée D'Harane
+quitta notre frontière,
+
+82
+00:05:59,155 --> 00:06:02,062
+je suis retourné chez Shota
+pour qu'elle lève la malédiction.
+
+83
+00:06:02,187 --> 00:06:05,239
+Je ne pouvais risquer
+de massacrer mon peuple.
+
+84
+00:06:06,576 --> 00:06:07,741
+Mais elle refusa.
+
+85
+00:06:08,438 --> 00:06:11,370
+Et quand l'appétit du calthrop
+ne put être satisfait,
+
+86
+00:06:12,097 --> 00:06:15,607
+mes hommes les plus loyaux,
+sous le sceau du secret,
+
+87
+00:06:16,366 --> 00:06:18,252
+m'ont enchaîné dans les bois.
+
+88
+00:06:18,966 --> 00:06:21,666
+Mais la bête rompit ses chaînes
+et les tua.
+
+89
+00:06:24,376 --> 00:06:27,818
+J'ai alors dépensé
+la moitié de mon trésor
+
+90
+00:06:28,560 --> 00:06:29,972
+pour acheter ça.
+
+91
+00:06:30,654 --> 00:06:31,640
+Un rada'han.
+
+92
+00:06:31,808 --> 00:06:34,476
+J'espérais que sa capacité
+à annuler la magie
+
+93
+00:06:34,881 --> 00:06:37,062
+suffirait
+pour contrer la malédiction.
+
+94
+00:06:38,334 --> 00:06:40,847
+J'ai mis le rada'han
+autour de son cou.
+
+95
+00:06:40,972 --> 00:06:43,152
+Mais il se transforme
+et s'en défait.
+
+96
+00:06:44,375 --> 00:06:46,709
+J'étais trop honteux
+
+97
+00:06:47,902 --> 00:06:51,368
+pour laisser mon peuple
+savoir que leur roi est le calthrop.
+
+98
+00:06:52,108 --> 00:06:55,658
+Chaque nuit, je pars
+pour le lieu le plus isolé de la forêt,
+
+99
+00:06:56,257 --> 00:06:58,333
+un endroit nommé Knollwood Grove.
+
+100
+00:06:58,996 --> 00:07:01,670
+Quiconque se risquant dans les bois
+à la nuit tombée
+
+101
+00:07:01,838 --> 00:07:03,538
+en sort rarement vivant.
+
+102
+00:07:04,861 --> 00:07:07,574
+Je n'ai aucun souvenir
+de ses agressions,
+
+103
+00:07:08,427 --> 00:07:11,096
+mais je me réveille tous les matins
+avec le goût du sang
+
+104
+00:07:11,993 --> 00:07:13,243
+dans la bouche.
+
+105
+00:07:15,633 --> 00:07:16,866
+Il y a trois jours,
+
+106
+00:07:16,991 --> 00:07:20,491
+je me suis réveillé avec les restes
+de ma dernière victime.
+
+107
+00:07:21,265 --> 00:07:23,734
+Le visage
+qui me faisait face était...
+
+108
+00:07:26,112 --> 00:07:27,512
+celui de ma femme.
+
+109
+00:07:30,370 --> 00:07:32,144
+J'avais tué ma reine
+
+110
+00:07:33,088 --> 00:07:34,138
+bien-aimée.
+
+111
+00:07:39,176 --> 00:07:41,126
+Ce n'est pas ta faute, frère.
+
+112
+00:07:41,461 --> 00:07:43,545
+Tu voulais protéger ton royaume.
+
+113
+00:07:44,267 --> 00:07:47,417
+Et aujourd'hui,
+le royaume doit être protégé de moi.
+
+114
+00:07:48,134 --> 00:07:51,484
+J'ai tenté de mettre fin à mes jours.
+Poison, pendaison,
+
+115
+00:07:52,043 --> 00:07:54,348
+une dague en plein coeur.
+
+116
+00:07:55,123 --> 00:07:56,600
+Mais vous ne pouvez périr,
+
+117
+00:07:57,327 --> 00:07:59,812
+car Shota vous a donné
+ce que vous aviez demandé :
+
+118
+00:08:00,746 --> 00:08:02,564
+la force de protéger votre royaume
+
+119
+00:08:02,871 --> 00:08:04,071
+éternellement.
+
+120
+00:08:05,137 --> 00:08:05,943
+Majesté,
+
+121
+00:08:06,961 --> 00:08:08,362
+en quoi puis-je aider ?
+
+122
+00:08:09,037 --> 00:08:10,487
+D'après la légende,
+
+123
+00:08:10,915 --> 00:08:12,699
+un calthrop ne peut être tué
+
+124
+00:08:13,066 --> 00:08:14,493
+que par l'Épée de Vérité.
+
+125
+00:08:20,435 --> 00:08:24,439
+- Tu ne peux pas lever la malédiction ?
+- Seul celui qui la pose peut le faire.
+
+126
+00:08:24,915 --> 00:08:26,630
+J'irai à l'Allonge d'Agaden
+
+127
+00:08:27,101 --> 00:08:30,008
+- et j'essayerai de raisonner Shota.
+- Vous êtes sûr ?
+
+128
+00:08:30,510 --> 00:08:32,302
+Rares sont ceux qui en sont revenus.
+
+129
+00:08:33,471 --> 00:08:34,471
+Je sais.
+
+130
+00:08:35,272 --> 00:08:36,722
+Je suis l'un d'eux.
+
+131
+00:08:37,100 --> 00:08:38,600
+Et si vous échouez ?
+
+132
+00:08:39,767 --> 00:08:41,317
+Que se passera-t-il ?
+
+133
+00:08:42,014 --> 00:08:45,164
+Je ne supporte pas
+l'idée de tuer un autre innocent.
+
+134
+00:08:45,358 --> 00:08:48,569
+Je veillerai sur vous et m'assurerai
+que vous ne blessiez personne.
+
+135
+00:08:48,737 --> 00:08:49,570
+Comment ?
+
+136
+00:08:50,142 --> 00:08:52,239
+Le monstre peut briser
+toutes nos chaînes.
+
+137
+00:08:53,535 --> 00:08:55,159
+J'ai peut-être certains tours
+
+138
+00:08:57,266 --> 00:08:59,116
+que votre forgeron n'a pas.
+
+139
+00:09:01,614 --> 00:09:04,891
+Quand la cloche du soir retentira,
+je viendrai vous trouver, sourcier.
+
+140
+00:09:05,016 --> 00:09:06,170
+Je vous accompagne.
+
+141
+00:09:07,465 --> 00:09:10,215
+Désolé,
+mais j'ai déjà blessé trop de monde.
+
+142
+00:09:11,309 --> 00:09:14,803
+Je ne pourrais supporter d'ajouter
+la Mère Inquisitrice à cette liste.
+
+143
+00:09:14,971 --> 00:09:15,888
+Père ?
+
+144
+00:09:17,573 --> 00:09:18,765
+La princesse Corah,
+
+145
+00:09:19,613 --> 00:09:20,644
+ma fille.
+
+146
+00:09:20,844 --> 00:09:22,519
+Votre présence nous honore.
+
+147
+00:09:24,258 --> 00:09:26,773
+Notre peuple vit dans la peur
+depuis si longtemps.
+
+148
+00:09:26,941 --> 00:09:29,860
+Nos condoléances
+pour votre mère, princesse.
+
+149
+00:09:31,743 --> 00:09:32,821
+Promettez-moi
+
+150
+00:09:34,157 --> 00:09:36,757
+de retrouver
+l'horrible bête qui l'a tuée
+
+151
+00:09:37,519 --> 00:09:38,719
+et de la tuer.
+
+152
+00:09:49,899 --> 00:09:51,924
+Vous êtes sûr qu'elles résisteront ?
+
+153
+00:09:52,231 --> 00:09:54,718
+L'enchantement de Zedd
+les a rendues incassables.
+
+154
+00:09:54,967 --> 00:09:56,887
+Espérons que ce soit bien le cas.
+
+155
+00:09:57,623 --> 00:09:58,597
+Jurez-moi
+
+156
+00:09:59,204 --> 00:10:01,308
+que s'il faut choisir
+entre nos deux vies,
+
+157
+00:10:02,197 --> 00:10:03,268
+vous me tuerez.
+
+158
+00:10:05,057 --> 00:10:05,812
+Juré.
+
+159
+00:10:07,023 --> 00:10:08,732
+Nous ferons tout pour l'éviter.
+
+160
+00:10:10,906 --> 00:10:13,111
+Bien que j'apprécie votre compagnie,
+
+161
+00:10:14,102 --> 00:10:15,906
+vous ne pouvez me veiller
+chaque nuit.
+
+162
+00:10:16,074 --> 00:10:19,868
+Ce ne sera plus utile
+quand Zedd aura convaincu Shota.
+
+163
+00:10:33,967 --> 00:10:35,667
+J'attendais ta venue.
+
+164
+00:10:37,004 --> 00:10:38,512
+Tu en connais donc la raison.
+
+165
+00:10:39,903 --> 00:10:43,500
+Sûrement pas pour t'excuser
+de ton mépris passé.
+
+166
+00:10:44,403 --> 00:10:46,820
+J'étais un jeune magicien imprudent.
+
+167
+00:10:47,781 --> 00:10:50,983
+- Je n'ai jamais voulu te blesser.
+- Et pourtant, tu es parti.
+
+168
+00:10:51,751 --> 00:10:53,441
+Sans explication.
+
+169
+00:10:55,431 --> 00:10:57,698
+Elle m'aurait été fatale.
+
+170
+00:11:00,018 --> 00:11:02,398
+Je t'avais montré notre avenir.
+
+171
+00:11:02,827 --> 00:11:05,330
+Ensemble,
+on aurait pu déplacer des montagnes.
+
+172
+00:11:06,138 --> 00:11:09,668
+Nos enfants auraient régné
+pendant cent générations.
+
+173
+00:11:13,151 --> 00:11:14,965
+Regarde-toi, Zeddicus,
+
+174
+00:11:16,560 --> 00:11:19,860
+réduit à courber l'échine,
+m'implorer pour une faveur.
+
+175
+00:11:22,619 --> 00:11:24,613
+Pourquoi devrais-je t'aider ?
+
+176
+00:11:25,351 --> 00:11:26,184
+Pas moi.
+
+177
+00:11:26,957 --> 00:11:29,813
+Le roi Gregor,
+avec qui tu partages un ennemi commun.
+
+178
+00:11:30,673 --> 00:11:32,316
+Il a repoussé les D'Harans,
+
+179
+00:11:32,485 --> 00:11:34,684
+protégeant vos deux terres.
+
+180
+00:11:35,170 --> 00:11:38,278
+Le roi tuant son peuple
+ne t'est d'aucun intérêt.
+
+181
+00:11:39,057 --> 00:11:40,957
+Libère-le de la malédiction.
+
+182
+00:11:41,707 --> 00:11:44,357
+Mets fin
+à cette effusion de sang inutile.
+
+183
+00:11:58,022 --> 00:12:00,522
+Voilà ce qui arrivera
+sans le calthrop.
+
+184
+00:12:07,554 --> 00:12:09,754
+Les D'Harans lanceront leur armée,
+
+185
+00:12:10,844 --> 00:12:12,744
+ils s'empareront du château,
+
+186
+00:12:13,546 --> 00:12:14,846
+Caddock tombera
+
+187
+00:12:15,704 --> 00:12:17,304
+et mon royaume suivra.
+
+188
+00:12:19,419 --> 00:12:20,822
+Ce que je lui ai accordé
+
+189
+00:12:22,042 --> 00:12:23,842
+n'est pas une malédiction.
+
+190
+00:12:25,386 --> 00:12:26,986
+C'est une bénédiction.
+
+191
+00:12:30,940 --> 00:12:33,540
+- J'ai rencontré votre mère.
+- Vraiment ?
+
+192
+00:12:34,366 --> 00:12:38,266
+Elle s'est rendue à Aydindril
+quand j'étais une jeune inquisitrice.
+
+193
+00:12:39,095 --> 00:12:41,295
+Elle fut très gentille envers moi.
+
+194
+00:12:42,686 --> 00:12:44,470
+Vous lui ressemblez.
+
+195
+00:12:46,257 --> 00:12:48,100
+Je n'arrive toujours pas à réaliser.
+
+196
+00:12:50,392 --> 00:12:52,896
+Ma mère est morte
+quand j'étais très jeune.
+
+197
+00:12:53,696 --> 00:12:56,496
+Je sais à quel point
+ça peut être douloureux.
+
+198
+00:12:57,506 --> 00:12:59,945
+Si seulement je savais
+pourquoi elle est sortie,
+
+199
+00:13:00,841 --> 00:13:02,781
+ce qu'elle faisait dehors
+cette nuit-là.
+
+200
+00:13:04,864 --> 00:13:07,160
+Qui a-t-il Duncan ?
+Où est Helena ?
+
+201
+00:13:08,464 --> 00:13:10,831
+Comme demandé,
+on est allés chercher sa famille.
+
+202
+00:13:11,222 --> 00:13:14,668
+Mais à Knollwood Grove,
+une liane-serpent a mordu notre cheval.
+
+203
+00:13:15,651 --> 00:13:17,421
+Je suis revenu chercher un cheval.
+
+204
+00:13:17,926 --> 00:13:21,476
+Ils y sont toujours ?
+C'est un terrain de chasse de la bête.
+
+205
+00:13:22,359 --> 00:13:25,053
+Il va faire nuit,
+personne ne peut quitter le château.
+
+206
+00:13:25,327 --> 00:13:27,895
+- Il y a des enfants.
+- Dites-moi où les trouver.
+
+207
+00:13:28,020 --> 00:13:29,933
+- Je les ramènerai.
+- Je vous accompagne.
+
+208
+00:13:30,932 --> 00:13:33,103
+- Trop dangereux.
+- C'est ma faute.
+
+209
+00:13:33,644 --> 00:13:36,481
+À cause du calthrop,
+ma suivante craignait pour sa famille.
+
+210
+00:13:37,067 --> 00:13:40,277
+- Je l'ai envoyée les chercher.
+- Vous mettre en danger est inutile.
+
+211
+00:13:40,714 --> 00:13:43,764
+Ça vous aidera.
+On ira plus vite si je vous guide.
+
+212
+00:14:03,550 --> 00:14:04,650
+Ça commence.
+
+213
+00:14:08,804 --> 00:14:10,377
+Je t'en prie, sourcier.
+
+214
+00:14:10,502 --> 00:14:12,893
+Ne me laisse pas blesser de nouveau.
+
+215
+00:14:47,478 --> 00:14:49,262
+Arrière ! Je veux pas vous blesser.
+
+216
+00:14:57,413 --> 00:14:59,397
+Une fois attelé, on pourra décamper.
+
+217
+00:15:03,319 --> 00:15:05,111
+J'ai peur, maman.
+
+218
+00:15:09,075 --> 00:15:12,077
+Tout va bien, les enfants.
+On part bientôt.
+
+219
+00:16:10,470 --> 00:16:11,428
+Viens là !
+
+220
+00:16:15,040 --> 00:16:16,074
+Fuyez !
+
+221
+00:16:43,523 --> 00:16:44,523
+Fuyez !
+
+222
+00:16:52,011 --> 00:16:53,637
+Prenez les enfants, fuyez !
+
+223
+00:16:56,110 --> 00:16:57,362
+Dépêchez-vous !
+
+224
+00:16:58,786 --> 00:16:59,601
+Tuez-le.
+
+225
+00:16:59,870 --> 00:17:00,881
+Tuez-le !
+
+226
+00:17:45,927 --> 00:17:46,927
+Ça va ?
+
+227
+00:17:52,822 --> 00:17:53,822
+Arrête !
+
+228
+00:17:55,795 --> 00:17:57,282
+C'est moi, Richard.
+
+229
+00:18:02,878 --> 00:18:03,665
+Arrête.
+
+230
+00:18:10,761 --> 00:18:11,911
+Tout va bien.
+
+231
+00:18:20,181 --> 00:18:22,267
+- Pardon.
+- Vous allez bien ?
+
+232
+00:18:22,960 --> 00:18:23,960
+Je crois.
+
+233
+00:18:24,595 --> 00:18:26,354
+Vu que la bête est morte...
+
+234
+00:18:39,259 --> 00:18:40,259
+Père ?
+
+235
+00:18:48,549 --> 00:18:52,149
+Le calthrop n'était pas
+le seul monstre de sortie, hier soir.
+
+236
+00:18:54,276 --> 00:18:57,176
+C'est la deuxième fois
+que j'accède au Kun Dar.
+
+237
+00:18:57,337 --> 00:18:59,429
+Et je n'ai toujours aucun contrôle.
+
+238
+00:19:00,170 --> 00:19:02,766
+La première fois,
+je t'ai presque tué,
+
+239
+00:19:03,668 --> 00:19:06,895
+- et la nuit passée, Corah.
+- Mais, tu ne l'as pas fait.
+
+240
+00:19:08,615 --> 00:19:10,515
+Parce ce que tu m'as arrêté.
+
+241
+00:19:11,423 --> 00:19:12,817
+Dès que ça a le dessus,
+
+242
+00:19:13,552 --> 00:19:15,653
+je suis comme une bête sauvage.
+
+243
+00:19:15,857 --> 00:19:17,518
+Je ne sais pas ce que je fais.
+
+244
+00:19:17,643 --> 00:19:20,200
+Tu voulais me protéger du calthrop.
+
+245
+00:19:21,621 --> 00:19:23,828
+Ma mère vivante,
+elle m'apprendrait à le contrôler.
+
+246
+00:19:26,930 --> 00:19:27,980
+Mais seule,
+
+247
+00:19:28,930 --> 00:19:32,293
+ce n'est qu'une question de temps
+avant que je blesse quelqu'un.
+
+248
+00:19:32,418 --> 00:19:33,568
+Un être cher.
+
+249
+00:19:38,547 --> 00:19:39,844
+On a tué le calthrop.
+
+250
+00:19:40,092 --> 00:19:41,392
+J'en ai eu vent.
+
+251
+00:19:41,920 --> 00:19:44,599
+Et c'est le souci.
+Shota m'a montré un aperçu
+
+252
+00:19:44,767 --> 00:19:47,867
+de ce qu'il va arriver au royaume
+sans le calthrop.
+
+253
+00:19:48,327 --> 00:19:50,565
+Une invasion menée par les D'Harans,
+
+254
+00:19:50,690 --> 00:19:52,890
+leurs soldats assaillir le château
+
+255
+00:19:53,192 --> 00:19:55,745
+et un de leurs commandants
+s'asseoir sur le trône.
+
+256
+00:19:55,870 --> 00:19:58,655
+Les visions de Shota
+peuvent être évitées.
+
+257
+00:19:59,023 --> 00:20:01,273
+J'ai peur que pour y arriver,
+
+258
+00:20:01,581 --> 00:20:03,743
+Shota doive maudire
+quelqu'un d'autre.
+
+259
+00:20:04,364 --> 00:20:06,530
+Les D'Harans lanceront leur invasion
+
+260
+00:20:06,655 --> 00:20:09,355
+dès qu'ils apprendront
+la mort du calthrop.
+
+261
+00:20:09,575 --> 00:20:12,396
+Malgré les sentiments du peuple
+envers la bête,
+
+262
+00:20:12,521 --> 00:20:14,003
+elle les protégeait.
+
+263
+00:20:14,784 --> 00:20:17,340
+On doit donc s'assurer
+que les D'Harans ne le découvrent pas.
+
+264
+00:20:18,784 --> 00:20:21,459
+Si on peut maintenir
+la légende du calthrop en vie,
+
+265
+00:20:21,584 --> 00:20:23,440
+on empêchera l'invasion D'Harane.
+
+266
+00:20:23,565 --> 00:20:26,555
+Et sauvera ainsi quelqu'un
+du fardeau de la malédiction.
+
+267
+00:20:26,680 --> 00:20:27,600
+Possible.
+
+268
+00:20:28,174 --> 00:20:30,395
+Combien de temps
+une telle ruse peut-elle tenir ?
+
+269
+00:20:30,649 --> 00:20:32,689
+Suffisamment pour que je batte Rahl.
+
+270
+00:20:45,899 --> 00:20:48,449
+Pourquoi mon père
+ne m'a-t-il rien dit ?
+
+271
+00:20:49,201 --> 00:20:50,951
+Il voulait vous protéger.
+
+272
+00:20:51,417 --> 00:20:54,667
+Si mon père ne me croyait pas
+assez forte pour savoir,
+
+273
+00:20:55,296 --> 00:20:57,088
+comment pourrais-je régner ?
+
+274
+00:20:59,153 --> 00:21:02,103
+- Vous le pouvez.
+- Peut-être ne devrais-je pas.
+
+275
+00:21:02,773 --> 00:21:05,722
+Peut-être que Marius
+devrait prendre ma place.
+
+276
+00:21:07,248 --> 00:21:10,948
+Personne ne vous blâmera
+si vous ne voulez pas assumer ce rôle.
+
+277
+00:21:11,777 --> 00:21:14,486
+Mais votre mère
+n'était pas plus âgée
+
+278
+00:21:14,611 --> 00:21:17,442
+- quand elle monta sur le trône.
+- Mais elle avait mon père.
+
+279
+00:21:17,610 --> 00:21:19,902
+Et ils vivent tous les deux en toi.
+
+280
+00:21:21,888 --> 00:21:23,311
+J'ai vu ta force.
+
+281
+00:21:24,018 --> 00:21:27,094
+Tu as pris la décision d'aller
+sauver Helena et ses enfants,
+
+282
+00:21:27,219 --> 00:21:29,369
+en toute connaissance du danger.
+
+283
+00:21:30,660 --> 00:21:33,960
+Ton peuple ne peut pas demander
+un chef plus courageux.
+
+284
+00:21:39,817 --> 00:21:43,267
+En tant que reine, je promets fidélité
+à ce grand royaume,
+
+285
+00:21:43,761 --> 00:21:45,923
+de défendre son peuple
+de tout ennemi,
+
+286
+00:21:46,048 --> 00:21:48,848
+et de le mener
+vers la paix et la prospérité.
+
+287
+00:21:49,383 --> 00:21:51,483
+Esprits, bénissez notre royaume.
+
+288
+00:22:07,011 --> 00:22:09,294
+Esprits, bénissez notre reine.
+
+289
+00:22:19,255 --> 00:22:22,219
+Pour que les D'Harans
+croient le calthrop vivant,
+
+290
+00:22:22,344 --> 00:22:25,044
+- il faut une nouvelle attaque.
+- Ma reine,
+
+291
+00:22:25,777 --> 00:22:28,763
+nous massacrerons des moutons
+et les jetterons à la frontière.
+
+292
+00:22:28,931 --> 00:22:32,016
+Nous répandrons la rumeur. Les D'Harans
+y verront l'oeuvre du calthrop.
+
+293
+00:22:33,083 --> 00:22:36,311
+J'aurais quelque chose
+qui pourrait vous aider.
+
+294
+00:22:38,023 --> 00:22:41,150
+Je peux placer plusieurs carillons
+dans la forêt qui borde D'Hara
+
+295
+00:22:42,653 --> 00:22:44,254
+et leur jeter un sort.
+
+296
+00:22:44,379 --> 00:22:47,829
+La moindre perturbation dans l'air
+d'un D'Haran approchant
+
+297
+00:22:48,287 --> 00:22:50,137
+et les carillons sonneront.
+
+298
+00:22:50,314 --> 00:22:52,945
+Mais ils n'entendront pas
+qu'un simple carillon,
+
+299
+00:22:53,070 --> 00:22:55,619
+mais l'atroce hurlement du calthrop.
+
+300
+00:22:56,038 --> 00:22:59,168
+Il est plus facile d'apeurer par l'ouïe
+que par la vue.
+
+301
+00:23:01,743 --> 00:23:04,090
+On fera les préparations aussitôt,
+Majesté.
+
+302
+00:23:09,477 --> 00:23:10,679
+Merci.
+
+303
+00:23:10,848 --> 00:23:13,057
+J'ignore ce que j'aurais fait
+sans vous.
+
+304
+00:23:13,583 --> 00:23:15,351
+Si je peux vous être utile...
+
+305
+00:23:18,102 --> 00:23:21,352
+Il y a une faveur
+que vous pouvez m'accorder, Majesté.
+
+306
+00:23:43,422 --> 00:23:45,072
+Pourquoi tu portes ça ?
+
+307
+00:23:45,781 --> 00:23:47,881
+Car je ne me fais pas confiance.
+
+308
+00:23:50,547 --> 00:23:52,497
+Je suis habituée à contrôler.
+
+309
+00:23:53,526 --> 00:23:56,126
+Être inquisitrice
+requiert de l'assurance
+
+310
+00:23:56,626 --> 00:23:58,076
+et du discernement.
+
+311
+00:23:59,143 --> 00:24:01,995
+Au moment du Kun Dar,
+je n'ai ni l'un ni l'autre.
+
+312
+00:24:02,120 --> 00:24:04,220
+Le rada'han m'en redonne un peu.
+
+313
+00:24:05,938 --> 00:24:08,038
+Mais on ne sait pas s'il marche.
+
+314
+00:24:08,659 --> 00:24:10,698
+Il n'a pas arrêté le roi Gregor.
+
+315
+00:24:12,531 --> 00:24:13,531
+Il marche.
+
+316
+00:24:15,761 --> 00:24:18,206
+Je le sens déjà
+supprimer mes pouvoirs.
+
+317
+00:24:21,754 --> 00:24:24,604
+Peut-être qu'il ne devrait pas
+être supprimé.
+
+318
+00:24:25,965 --> 00:24:29,165
+Seules les plus puissantes
+inquisitrices l'ont, non ?
+
+319
+00:24:33,034 --> 00:24:35,034
+Alors peut-être est-ce un don.
+
+320
+00:24:35,896 --> 00:24:37,896
+Que tu ne devrais pas rejeter.
+
+321
+00:24:38,839 --> 00:24:40,239
+Une partie de toi.
+
+322
+00:24:46,954 --> 00:24:50,004
+Au moment du Kun Dar,
+je ne sais plus qui je suis.
+
+323
+00:24:52,916 --> 00:24:55,535
+Voilà des nouvelles de notre espion
+au château.
+
+324
+00:24:55,703 --> 00:24:58,287
+Non seulement le roi Gregor est mort,
+mais aussi le calthrop.
+
+325
+00:25:00,813 --> 00:25:03,000
+Alors, le royaume de Caddock
+s'offre à nous.
+
+326
+00:25:03,169 --> 00:25:05,754
+Mais on doit agir vite
+si on veut le sourcier avec.
+
+327
+00:25:05,879 --> 00:25:09,132
+Selon notre espion, il ne restera
+pas à Caddock longtemps.
+
+328
+00:25:09,257 --> 00:25:11,757
+Il laisserait le royaume
+sans défense ?
+
+329
+00:25:12,097 --> 00:25:15,729
+La reine veut nous faire croire
+que le calthrop est encore en vie.
+
+330
+00:25:15,854 --> 00:25:18,507
+- Ils comptent nous duper.
+- Nous duper ?
+
+331
+00:25:20,090 --> 00:25:22,090
+Et comment vont-ils faire ça ?
+
+332
+00:25:23,192 --> 00:25:27,196
+Si Kahlan maîtrisait le Kun Dar,
+pense au pouvoir qu'on aurait.
+
+333
+00:25:28,424 --> 00:25:31,172
+Il y a des choses que même
+un sorcier du Premier Ordre
+
+334
+00:25:31,297 --> 00:25:33,097
+ne comprend pas très bien.
+
+335
+00:25:33,727 --> 00:25:35,327
+C'est une chose que...
+
+336
+00:25:35,765 --> 00:25:37,702
+je ne peux enseigner à Kahlan.
+
+337
+00:25:38,672 --> 00:25:42,505
+On devrait respecter sa décision
+de porter le rada'han.
+
+338
+00:25:43,121 --> 00:25:45,668
+Un pouvoir n'est précieux
+que s'il peut être exploité.
+
+339
+00:25:46,387 --> 00:25:48,462
+Sinon, ce n'en est pas un.
+
+340
+00:25:52,188 --> 00:25:54,138
+Ça sonnait comme un calthrop.
+
+341
+00:25:55,464 --> 00:25:57,564
+Je n'ai pas encore jeté le sort.
+
+342
+00:26:03,166 --> 00:26:04,437
+Un autre monstre ?
+
+343
+00:26:04,605 --> 00:26:06,811
+Zedd est allé
+en apprendre plus de Shota.
+
+344
+00:26:06,936 --> 00:26:09,025
+On fait quoi
+quand il l'aura trouvé ?
+
+345
+00:26:09,193 --> 00:26:11,360
+On l'empêche de blesser
+d'autres innocents.
+
+346
+00:26:11,528 --> 00:26:13,112
+Dois-je en informer le prince ?
+
+347
+00:26:19,643 --> 00:26:21,454
+Autre chose vous tracasse ?
+
+348
+00:26:23,166 --> 00:26:26,417
+Je regardais les affaires de ma mère
+et j'ai trouvé son journal.
+
+349
+00:26:27,425 --> 00:26:29,629
+Je sais
+pourquoi elle a quitté le château.
+
+350
+00:26:30,021 --> 00:26:31,839
+Elle croyait mon père infidèle,
+
+351
+00:26:32,553 --> 00:26:34,342
+et que la nuit, il la visitait.
+
+352
+00:26:34,600 --> 00:26:37,053
+- Qui ?
+- Le journal ne le dit pas.
+
+353
+00:26:37,375 --> 00:26:39,555
+Seulement qu'elle habitait
+près de Knollwood Grove.
+
+354
+00:26:40,327 --> 00:26:42,877
+Ma mère y est allée
+pour les confronter.
+
+355
+00:26:43,362 --> 00:26:45,245
+Mais le roi ne pouvait pas
+être infidèle.
+
+356
+00:26:45,370 --> 00:26:48,810
+- La nuit, il était le calthrop.
+- Ma mère l'ignorait.
+
+357
+00:26:49,479 --> 00:26:51,776
+Mon père le cachait, même à elle.
+
+358
+00:26:51,944 --> 00:26:53,569
+Pourquoi une infidélité ?
+
+359
+00:26:53,966 --> 00:26:55,716
+Quelqu'un le lui a dit.
+
+360
+00:26:56,222 --> 00:26:57,573
+Le journal ne dit pas qui,
+
+361
+00:26:58,205 --> 00:27:00,201
+seulement que c'était
+quelqu'un de fiable.
+
+362
+00:27:01,539 --> 00:27:04,080
+L'informateur savait
+où se trouvait le roi de nuit.
+
+363
+00:27:04,428 --> 00:27:06,228
+Et l'a envoyée à la mort.
+
+364
+00:27:07,784 --> 00:27:10,002
+Il n'y a qu'une personne
+autre que votre père
+
+365
+00:27:10,170 --> 00:27:12,171
+qui savait la vérité
+sur le calthrop.
+
+366
+00:27:13,787 --> 00:27:15,091
+Le prince Marius.
+
+367
+00:27:16,135 --> 00:27:17,285
+Réfléchissez.
+
+368
+00:27:17,937 --> 00:27:20,737
+Marius a le plus à gagner.
+Un royaume entier.
+
+369
+00:27:21,529 --> 00:27:24,600
+Peut-être qu'il a jeté la reine
+dans les griffes du calthrop.
+
+370
+00:27:25,733 --> 00:27:29,438
+Il savait que le roi serait si abattu
+en tuant sa femme qu'il voudrait mourir.
+
+371
+00:27:29,935 --> 00:27:33,359
+Donc, le prince a fait venir le sourcier
+pour réaliser son souhait.
+
+372
+00:27:34,619 --> 00:27:36,725
+Et si Marius veut le royaume...
+
+373
+00:27:36,850 --> 00:27:39,250
+Une seule personne
+lui fait obstacle.
+
+374
+00:27:40,281 --> 00:27:41,281
+Moi.
+
+375
+00:27:43,560 --> 00:27:47,039
+Aucun signe du prince Marius.
+On a cherché partout. Il n'est pas là.
+
+376
+00:27:47,281 --> 00:27:50,126
+- Quand l'avez-vous quitté ?
+- Après l'avoir avisé du 2e calthrop.
+
+377
+00:27:50,865 --> 00:27:54,515
+Il ne doit pas être loin.
+Je le trouverai. Surveille la reine.
+
+378
+00:27:55,711 --> 00:27:57,091
+Par ici, Majesté.
+
+379
+00:28:03,886 --> 00:28:05,849
+Quel est l'endroit le plus sûr
+du château ?
+
+380
+00:28:05,974 --> 00:28:08,224
+Il n'y aucun endroit sûr pour vous.
+
+381
+00:28:11,888 --> 00:28:14,150
+- Vous coopérez avec Marius.
+- Emmenez-les.
+
+382
+00:28:15,776 --> 00:28:18,321
+Elle porte le rada'han.
+Sa magie n'a pas d'effet.
+
+383
+00:28:41,304 --> 00:28:42,954
+Où allez-vous si vite ?
+
+384
+00:28:47,996 --> 00:28:49,643
+Où étiez-vous hier soir ?
+
+385
+00:28:52,719 --> 00:28:54,065
+Le soleil se couche.
+
+386
+00:28:55,115 --> 00:28:57,860
+Vous seriez venu ici
+vous transformer en calthrop ?
+
+387
+00:28:59,745 --> 00:29:02,795
+- Vous pensez que je suis le monstre ?
+- J'en suis certain.
+
+388
+00:29:02,920 --> 00:29:06,243
+Vous avez organisé la mort de la reine
+et de votre frère.
+
+389
+00:29:06,725 --> 00:29:08,037
+Pourquoi ferais-je ça ?
+
+390
+00:29:08,896 --> 00:29:11,499
+Vous le pensiez peut-être trop faible
+pour protéger le royaume.
+
+391
+00:29:12,199 --> 00:29:13,649
+J'aimais mon frère.
+
+392
+00:29:14,244 --> 00:29:15,753
+Mais plus encore son pouvoir.
+
+393
+00:29:16,405 --> 00:29:18,881
+Vous auriez tout fait pour l'avoir.
+
+394
+00:29:19,577 --> 00:29:21,977
+Jusqu'à conclure un marché
+avec Shota
+
+395
+00:29:22,490 --> 00:29:23,969
+pour vous muer en calthrop.
+
+396
+00:29:26,014 --> 00:29:27,214
+Vous êtes fou.
+
+397
+00:29:30,611 --> 00:29:33,479
+- On le saura bientôt.
+- Qui est-ce, Shota ?
+
+398
+00:29:33,964 --> 00:29:35,914
+Qui as-tu maudit maintenant ?
+
+399
+00:29:37,359 --> 00:29:39,916
+Tu ne comprends toujours pas ?
+
+400
+00:29:40,041 --> 00:29:41,581
+Je n'ai maudit personne.
+
+401
+00:29:41,706 --> 00:29:43,072
+Assez joué.
+
+402
+00:29:45,586 --> 00:29:48,828
+J'ai promis au roi Gregor
+la sûreté éternelle de son royaume.
+
+403
+00:29:50,581 --> 00:29:52,456
+J'ai donc maudit le sceptre.
+
+404
+00:29:54,167 --> 00:29:56,117
+Quiconque hérite le royaume
+
+405
+00:29:57,461 --> 00:29:58,879
+hérite la malédiction.
+
+406
+00:30:06,179 --> 00:30:08,681
+Il ne tarderont pas
+à casser la porte.
+
+407
+00:30:08,963 --> 00:30:11,463
+Je vais devoir confesser
+un des gardes.
+
+408
+00:30:12,280 --> 00:30:15,280
+Mais vous devez m'aider
+à enlever le rada'han.
+
+409
+00:30:52,333 --> 00:30:53,184
+Attendez.
+
+410
+00:30:53,653 --> 00:30:56,187
+On doit évacuer tout le monde
+du château.
+
+411
+00:30:56,312 --> 00:30:58,731
+Menez-les aux grottes,
+jusqu'à ce que ce soit sûr.
+
+412
+00:30:59,168 --> 00:31:00,065
+De suite !
+
+413
+00:31:09,069 --> 00:31:10,519
+Que se passe-t-il ?
+
+414
+00:31:11,851 --> 00:31:13,245
+Corah est le calthrop.
+
+415
+00:31:15,459 --> 00:31:17,082
+Elle se balade dans le château.
+
+416
+00:31:17,250 --> 00:31:19,919
+Il faut stopper la bête
+sans blesser Corah.
+
+417
+00:31:20,271 --> 00:31:22,755
+Utilisons le rada'han
+pour faire revenir la reine.
+
+418
+00:31:22,923 --> 00:31:26,204
+- Ça n'a pas marché sur le roi.
+- Et pourquoi ça ?
+
+419
+00:31:26,855 --> 00:31:28,605
+Je n'ai aucune idée de...
+
+420
+00:31:40,357 --> 00:31:43,442
+Tu étais chargé
+de mettre le rada'han au roi.
+
+421
+00:31:43,937 --> 00:31:45,986
+J'ajoutais du somnifère
+dans son dîner.
+
+422
+00:31:46,442 --> 00:31:48,653
+Une fois endormi,
+je lui retirais le rada'han,
+
+423
+00:31:48,778 --> 00:31:50,115
+relâchant le calthrop.
+
+424
+00:31:50,749 --> 00:31:53,202
+On doit donc le lui mettre
+autour du cou.
+
+425
+00:31:54,438 --> 00:31:57,456
+- Marius peut nous aider.
+- Comment puis-je vous servir ?
+
+426
+00:31:58,454 --> 00:31:59,804
+Tu seras l'appât.
+
+427
+00:33:07,203 --> 00:33:08,353
+Tout va bien.
+
+428
+00:33:13,279 --> 00:33:14,365
+Je suis là.
+
+429
+00:33:17,647 --> 00:33:18,746
+Je suis perdue.
+
+430
+00:33:19,055 --> 00:33:22,489
+Mais pourquoi Marius
+est-il parti avant le crépuscule.
+
+431
+00:33:23,335 --> 00:33:25,366
+J'allais avertir les D'Harans
+
+432
+00:33:25,718 --> 00:33:27,713
+que le calthrop était encore en vie.
+
+433
+00:33:28,817 --> 00:33:31,017
+Tu as tué mes parents,
+
+434
+00:33:31,591 --> 00:33:33,385
+pour t'agenouiller devant Rahl.
+
+435
+00:33:33,553 --> 00:33:36,084
+En échange de mon allégeance
+à Darken Rahl,
+
+436
+00:33:36,209 --> 00:33:38,223
+le trône me revenait.
+
+437
+00:33:39,388 --> 00:33:41,894
+Mais tu n'as pas pu délivrer
+ton message aux D'Harans.
+
+438
+00:33:42,925 --> 00:33:44,605
+Donc, ils pensent le calthrop mort ?
+
+439
+00:33:46,338 --> 00:33:49,401
+Ils prévoient d'envahir Caddock.
+Ils seront bientôt là.
+
+440
+00:33:52,525 --> 00:33:53,825
+Qu'ils viennent.
+
+441
+00:33:54,341 --> 00:33:57,491
+J'enlèverai le rada'han,
+le calthrop les massacrera.
+
+442
+00:33:58,408 --> 00:33:59,408
+Trop tard.
+
+443
+00:35:35,175 --> 00:35:36,383
+C'est la fin.
+
+444
+00:35:36,997 --> 00:35:38,597
+Tu ne peux t'échapper.
+
+445
+00:35:56,145 --> 00:35:57,780
+Amenez-moi le sourcier.
+
+446
+00:36:04,257 --> 00:36:06,747
+Vous ne me tuerez pas.
+Rahl me veut vivant.
+
+447
+00:36:07,478 --> 00:36:08,478
+Exact.
+
+448
+00:36:09,516 --> 00:36:11,794
+Mais il n'a pas dit
+en combien de morceaux.
+
+449
+00:36:18,308 --> 00:36:20,508
+S'échapper sera plus difficile
+
+450
+00:36:21,598 --> 00:36:22,930
+sans tes mains.
+
+451
+00:36:42,534 --> 00:36:44,451
+Idiots. Qu'avez-vous fait ?
+
+452
+00:36:47,354 --> 00:36:50,249
+Ça aura lieu dans une heure.
+Nous sommes trop loin pour agir.
+
+453
+00:36:55,145 --> 00:36:56,575
+Tu avais raison,
+
+454
+00:36:56,700 --> 00:36:59,508
+ensemble, nous pouvons
+déplacer des montagnes, Shota.
+
+455
+00:37:02,133 --> 00:37:05,883
+En fait, nous pouvons déplacer
+quelque chose de bien plus grand.
+
+456
+00:37:07,672 --> 00:37:09,322
+Amenez-moi le sourcier.
+
+457
+00:37:14,805 --> 00:37:17,276
+Vous ne me tuerez pas.
+Rahl me veut vivant.
+
+458
+00:37:18,231 --> 00:37:19,231
+Exact.
+
+459
+00:37:20,149 --> 00:37:22,531
+Mais il n'a pas dit
+en combien de morceaux.
+
+460
+00:37:24,978 --> 00:37:27,178
+S'échapper sera plus difficile
+
+461
+00:37:28,289 --> 00:37:29,739
+sans tes mains.
+
+462
+00:38:06,795 --> 00:38:08,827
+Quelle est cette sorcellerie ?
+
+463
+00:39:32,669 --> 00:39:34,469
+Tu ne vois pas, Zeddicus ?
+
+464
+00:39:34,902 --> 00:39:36,876
+Ensemble, on peut tout faire.
+
+465
+00:39:37,154 --> 00:39:38,667
+Rien ne peut nous arrêter.
+
+466
+00:39:40,802 --> 00:39:44,047
+Voilà pourquoi je t'ai quittée
+il y a si longtemps.
+
+467
+00:39:45,173 --> 00:39:47,426
+Un pouvoir ultime
+ne doit pas être incontrôlé.
+
+468
+00:39:47,594 --> 00:39:49,594
+Tu le sais aussi bien que moi.
+
+469
+00:39:50,311 --> 00:39:51,763
+On deviendrait des monstres.
+
+470
+00:39:54,269 --> 00:39:57,808
+C'est pourquoi
+nous devons vaincre Darken Rahl.
+
+471
+00:40:02,855 --> 00:40:04,818
+Alors, tu dois voir autre chose.
+
+472
+00:40:16,206 --> 00:40:19,268
+Les D'Harans ne s'arrêteront pas
+avant d'être au Palais du Peuple.
+
+473
+00:40:19,393 --> 00:40:22,970
+Et une fois qu'ils raconteront
+que le calthrop terrorise le royaume,
+
+474
+00:40:23,095 --> 00:40:25,153
+ils réfléchiront à deux fois
+avant de revenir.
+
+475
+00:40:25,278 --> 00:40:28,341
+Qu'arrivera-t-il quand mon peuple
+saura la vérité ?
+
+476
+00:40:28,577 --> 00:40:30,627
+Ils n'ont pas besoin de savoir.
+
+477
+00:40:38,266 --> 00:40:40,798
+Portez le rada'han
+pour stopper la malédiction.
+
+478
+00:40:40,923 --> 00:40:42,189
+Vous ne le prenez pas ?
+
+479
+00:40:47,566 --> 00:40:49,571
+Mes pouvoirs font partie de moi.
+
+480
+00:40:50,527 --> 00:40:53,283
+J'ai essayé de le nier,
+et ça a mis des gens en danger.
+
+481
+00:40:55,567 --> 00:40:56,912
+Je dois le comprendre,
+
+482
+00:40:57,974 --> 00:40:59,724
+apprendre à le contrôler.
+
+483
+00:41:00,955 --> 00:41:02,955
+Je dois faire la même chose.
+
+484
+00:41:04,144 --> 00:41:07,740
+Mon père avait trop honte
+de le dire à son peuple,
+
+485
+00:41:08,849 --> 00:41:10,799
+et voyez ce qui en a résulté.
+
+486
+00:41:11,523 --> 00:41:14,488
+S'il avait dit à ma mère
+qu'il était le calthrop,
+
+487
+00:41:14,613 --> 00:41:16,640
+elle n'aurait jamais
+quitté le château...
+
+488
+00:41:18,521 --> 00:41:20,060
+et ils seraient en vie.
+
+489
+00:41:22,071 --> 00:41:24,564
+Rien de bien ne peut venir
+en me cachant.
+
+490
+00:41:39,787 --> 00:41:40,622
+Un souci ?
+
+491
+00:41:42,550 --> 00:41:44,700
+Quand les D'Harans t'ont capturé,
+
+492
+00:41:45,747 --> 00:41:47,897
+j'ai essayé d'accéder au Kun Dar,
+
+493
+00:41:48,193 --> 00:41:49,693
+mais je n'ai pas pu.
+
+494
+00:41:49,972 --> 00:41:51,299
+Même dans le besoin absolu.
+
+495
+00:41:52,438 --> 00:41:56,288
+Tu as pris toute ta vie
+pour apprendre à utiliser tes pouvoirs.
+
+496
+00:41:56,554 --> 00:41:57,904
+Prends ton temps.
+
+497
+00:42:05,296 --> 00:42:06,481
+Dépêchons-nous !
+
+498
+00:42:07,500 --> 00:42:10,318
+- Qu'y a-t-il ?
+- Shota m'a montré une vision.
+
+499
+00:42:11,405 --> 00:42:14,105
+Il y a un autre
+Livre des Ombres recensées.
+
+500
+00:42:16,905 --> 00:42:18,326
+Il y a longtemps, en secret,
+
+501
+00:42:18,580 --> 00:42:21,288
+un ancien moine a transcrit
+une copie du livre.
+
+502
+00:42:21,622 --> 00:42:23,707
+Si on arrive à l'avoir,
+on pourra vaincre Rahl.
+
+503
+00:42:24,575 --> 00:42:26,376
+La vision de Shota
+montrait où il est ?
+
+504
+00:42:27,794 --> 00:42:29,575
+Mais il y avait plus dans sa vision.
+
+505
+00:42:29,700 --> 00:42:32,650
+Bientôt Rahl saura aussi
+l'emplacement du livre.
+
+506
+00:42:32,836 --> 00:42:35,385
+Et il enverra des hommes
+le récupérer.
+
+507
+00:42:35,931 --> 00:42:37,137
+La question est :
+
+508
+00:42:37,805 --> 00:42:39,805
+peut-on y arriver en premier ?
+

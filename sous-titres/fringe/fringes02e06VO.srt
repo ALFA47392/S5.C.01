@@ -1,0 +1,2215 @@
+1
+00:00:00,918 --> 00:00:02,290
+<i>Previously on Fringe...</i>
+
+2
+00:00:02,415 --> 00:00:05,602
+A series of events has occurred. These
+events appear to be scientific in nature.
+
+3
+00:00:05,727 --> 00:00:07,318
+It's been referred
+to as the pattern.
+
+4
+00:00:08,618 --> 00:00:11,238
+We need to know what happened,
+how it happened, and who's behind it.
+
+5
+00:00:11,363 --> 00:00:12,928
+Anybody you need, you can have.
+
+6
+00:00:13,053 --> 00:00:15,345
+His name's Walter Bishop.
+He worked out of Harvard
+
+7
+00:00:15,470 --> 00:00:17,183
+in an area called fringe science.
+
+8
+00:00:17,392 --> 00:00:18,434
+Step back!
+
+9
+00:00:18,602 --> 00:00:20,956
+You're telling me
+my father was Dr. Frankenstein.
+
+10
+00:00:21,696 --> 00:00:24,315
+I have a job,
+to defend our national security.
+
+11
+00:00:24,628 --> 00:00:26,651
+And I assure you, we are not secure.
+
+12
+00:00:26,819 --> 00:00:30,619
+When the threat is unimaginable,
+that is when we are at the door.
+
+13
+00:00:53,720 --> 00:00:55,365
+Hey, honey, I'm glad I caught you.
+
+14
+00:00:55,490 --> 00:00:57,268
+<i>Where are you?
+Did you make it?</i>
+
+15
+00:00:57,393 --> 00:00:58,653
+Airport lounge.
+
+16
+00:00:58,778 --> 00:01:00,840
+About to board in 15 minutes.
+
+17
+00:01:02,229 --> 00:01:05,356
+<i>Nat, I know with mom being sick
+and me traveling so much</i>
+
+18
+00:01:05,524 --> 00:01:06,430
+I feel bad.
+
+19
+00:01:06,555 --> 00:01:08,542
+I told you it wasn't gonna be
+like this anymore.
+
+20
+00:01:08,667 --> 00:01:11,028
+<i>We'll just do something
+next weekend when you get back.</i>
+
+21
+00:01:11,770 --> 00:01:13,781
+- <i>You're not upset?</i>
+- No, I understand.
+
+22
+00:01:13,949 --> 00:01:16,313
+<i>Don't worry. If you have to work,
+you have to work.</i>
+
+23
+00:01:16,438 --> 00:01:17,819
+Are you on your way home?
+
+24
+00:01:17,944 --> 00:01:20,662
+<i>There was some traffic,
+I'll be home in about five minutes.</i>
+
+25
+00:01:23,573 --> 00:01:24,573
+Listen,
+
+26
+00:01:25,303 --> 00:01:26,585
+they just called my flight.
+
+27
+00:01:27,767 --> 00:01:29,963
+Have a safe trip.
+Call me when you land.
+
+28
+00:01:30,380 --> 00:01:31,268
+I will.
+
+29
+00:01:31,905 --> 00:01:33,086
+Happy anniversary.
+
+30
+00:01:33,404 --> 00:01:34,313
+<i>I love you.</i>
+
+31
+00:01:34,583 --> 00:01:35,649
+I love you too.
+
+32
+00:03:38,960 --> 00:03:40,465
+Randy, you're gonna get it.
+
+33
+00:03:46,393 --> 00:03:48,378
+Randy, you totally got me.
+
+34
+00:03:50,183 --> 00:03:51,313
+I had no idea.
+
+35
+00:03:58,546 --> 00:04:00,698
+Stop it. You're scaring me.
+
+36
+00:04:30,286 --> 00:04:32,563
+<i>_.•´¯¯LIAISON¯¯`•._
+¯`•.__Team__.•´¯</i>
+
+37
+00:04:35,504 --> 00:04:39,334
+<i>Retrouvez-nous chaque semaine...</i>
+
+38
+00:04:39,938 --> 00:04:43,323
+<i>pour découvrir les énigmes de</i>
+
+39
+00:04:43,448 --> 00:04:46,086
+<i>Saison 2 Épisode 06
+-Earthling-</i>
+
+40
+00:04:46,211 --> 00:04:47,411
+<i>Bon épisode...</i>
+
+41
+00:05:57,661 --> 00:05:59,066
+This doesn't make any sense.
+
+42
+00:05:59,388 --> 00:06:01,411
+There's no forced entry,
+
+43
+00:06:01,536 --> 00:06:02,900
+no signs of a struggle.
+
+44
+00:06:03,249 --> 00:06:04,947
+Walter do you have any thoughts?
+
+45
+00:06:05,845 --> 00:06:07,491
+Reminds me of Christmas.
+
+46
+00:06:08,431 --> 00:06:11,829
+Like a fire log that burns so hot
+it remains intact,
+
+47
+00:06:12,687 --> 00:06:14,655
+holding the shape
+of its former self.
+
+48
+00:06:16,947 --> 00:06:19,170
+You used to love that
+when you were a child.
+
+49
+00:06:19,338 --> 00:06:22,465
+You'd poke the log with
+your little finger when it had cooled,
+
+50
+00:06:22,633 --> 00:06:26,636
+and you'd draw genitalia
+on the reindeer decorations.
+
+51
+00:06:26,804 --> 00:06:27,886
+Happy memories.
+
+52
+00:06:28,055 --> 00:06:31,432
+I think was do you have any thoughts
+as to what happened to dusty here?
+
+53
+00:06:34,896 --> 00:06:37,993
+The seat cushions
+have no scorch marks,
+
+54
+00:06:38,619 --> 00:06:42,417
+which rules out any form of fire
+or spontaneous combustion.
+
+55
+00:06:42,660 --> 00:06:44,528
+So could he have been
+dosed by something?
+
+56
+00:06:44,696 --> 00:06:46,431
+Yes, it's possible.
+
+57
+00:06:47,012 --> 00:06:49,979
+But before we can determine cause,
+
+58
+00:06:50,461 --> 00:06:54,144
+We need to find some way
+to transport Mr. Dancik's remains
+
+59
+00:06:54,269 --> 00:06:56,040
+back to my lab. So...
+
+60
+00:06:58,377 --> 00:07:00,627
+Peter, I'll need a dust devil.
+
+61
+00:07:00,952 --> 00:07:02,128
+A vacuum cleaner?
+
+62
+00:07:02,958 --> 00:07:05,174
+Yes, you're right.
+Well, we'll need several.
+
+63
+00:07:10,730 --> 00:07:11,834
+What do we know?
+
+64
+00:07:12,530 --> 00:07:13,620
+Randy Dancik.
+
+65
+00:07:14,309 --> 00:07:15,759
+His wife found him.
+
+66
+00:07:16,099 --> 00:07:18,318
+She thought he was
+on a plane to Hong Kong.
+
+67
+00:07:18,868 --> 00:07:21,857
+But he stayed home to surprise her
+for their anniversary.
+
+68
+00:07:22,907 --> 00:07:25,278
+Did this man happen to be a doctor
+or work in a hospital?
+
+69
+00:07:25,446 --> 00:07:26,988
+No, he was an investment banker.
+
+70
+00:07:27,156 --> 00:07:30,157
+Has he visited a hospital
+in the last 24 hours?
+
+71
+00:07:31,214 --> 00:07:32,464
+I can find out.
+
+72
+00:07:33,777 --> 00:07:34,578
+Why?
+
+73
+00:07:35,796 --> 00:07:37,957
+It's not the first time
+I've seen this phenomenon.
+
+74
+00:07:43,464 --> 00:07:47,133
+Four years ago in DC, several victims
+were turned to dust like Mr. Dancik.
+
+75
+00:07:53,009 --> 00:07:55,502
+By the time the killings ended,
+there were five deaths.
+
+76
+00:07:56,938 --> 00:07:58,936
+Each of the victims
+worked at or had recently
+
+77
+00:07:59,061 --> 00:08:01,141
+visited Tyson General down in DC.
+
+78
+00:08:01,523 --> 00:08:04,692
+After the third death, I was contacted
+by an eastern european man.
+
+79
+00:08:05,397 --> 00:08:07,209
+He knew case-specific details.
+
+80
+00:08:07,334 --> 00:08:09,526
+Details that only the killer
+would have known.
+
+81
+00:08:13,807 --> 00:08:15,432
+He offered to turn himself in,
+
+82
+00:08:15,831 --> 00:08:17,838
+but only if we could
+decipher his formula.
+
+83
+00:08:18,248 --> 00:08:19,249
+What formula?
+
+84
+00:08:24,166 --> 00:08:25,521
+It's a molecular model.
+
+85
+00:08:27,424 --> 00:08:29,555
+Some kind of complex
+organic compound.
+
+86
+00:08:29,680 --> 00:08:32,449
+I recognize a couple of these elements,
+but the others I'm not so sure.
+
+87
+00:08:32,574 --> 00:08:34,126
+- What is it?
+- Don't know.
+
+88
+00:08:34,251 --> 00:08:36,682
+He implied that solving it
+Was the key to stopping the murders.
+
+89
+00:08:37,046 --> 00:08:40,123
+CDC and NIH chemists worked around
+the clock, but couldn't break it.
+
+90
+00:08:40,616 --> 00:08:43,250
+There were two more victims,
+and after that, he stopped
+
+91
+00:08:43,375 --> 00:08:45,398
+- and the trail went cold.
+- Until last night.
+
+92
+00:08:45,794 --> 00:08:47,627
+I'm gonna get this
+to Walter right away.
+
+93
+00:08:55,077 --> 00:08:55,958
+Thank you.
+
+94
+00:08:56,874 --> 00:08:59,088
+PD confirmed with Dancik's wife
+
+95
+00:08:59,213 --> 00:09:01,499
+that he visited his mother
+in a hospital yesterday morning.
+
+96
+00:09:01,667 --> 00:09:04,287
+- Which hospital?
+- Latchmere General.
+
+97
+00:10:03,459 --> 00:10:05,820
+The Latchemere Health Alliance
+is actually made up
+
+98
+00:10:05,945 --> 00:10:09,130
+of three separate hospital campuses
+and a network...
+
+99
+00:10:09,255 --> 00:10:11,026
+This is the location
+we're interested in.
+
+100
+00:10:11,151 --> 00:10:13,069
+We need to review
+all your employee records.
+
+101
+00:10:13,194 --> 00:10:15,781
+We're looking for an employee here
+of eastern european descent
+
+102
+00:10:15,949 --> 00:10:19,844
+who may have also worked in a DC-area
+hospital about four years ago.
+
+103
+00:10:20,123 --> 00:10:21,579
+We're looking for a match.
+
+104
+00:10:21,747 --> 00:10:24,258
+This is a warrant giving us
+access to your network servers.
+
+105
+00:10:24,383 --> 00:10:26,377
+My agents will need
+to take over this office.
+
+106
+00:10:27,878 --> 00:10:29,039
+Scuse me, Miss.
+
+107
+00:10:36,571 --> 00:10:38,386
+That is a man's remains
+you're playing with.
+
+108
+00:10:38,748 --> 00:10:39,659
+Indeed.
+
+109
+00:10:39,784 --> 00:10:42,374
+Reduced to its most
+elemental components.
+
+110
+00:10:42,499 --> 00:10:43,716
+Carbon and calcium.
+
+111
+00:10:44,270 --> 00:10:46,577
+One geiger counter.
+Batteries replaced.
+
+112
+00:10:46,702 --> 00:10:47,939
+Thank you, my dear.
+
+113
+00:10:48,107 --> 00:10:50,482
+You think some sort of radiation
+passed through him?
+
+114
+00:10:50,872 --> 00:10:53,477
+We all carry low amounts
+of radiation.
+
+115
+00:10:54,196 --> 00:10:57,155
+The water we drink, the food we eat.
+Seven rads or so.
+
+116
+00:10:57,324 --> 00:11:00,628
+But that equation describes something
+organic and highly radioactive.
+
+117
+00:11:00,753 --> 00:11:02,827
+If it has anything to do
+with the man's death,
+
+118
+00:11:02,996 --> 00:11:06,582
+then this man will be
+in the mid to low hundreds.
+
+119
+00:11:13,215 --> 00:11:14,872
+This doesn't make any sense.
+
+120
+00:11:15,226 --> 00:11:17,812
+Even reduced to this state,
+
+121
+00:11:17,937 --> 00:11:21,643
+Mr. Dancik should have
+some trace amounts of radiation.
+
+122
+00:11:21,768 --> 00:11:23,536
+Maybe it dissipated when he did.
+
+123
+00:11:24,436 --> 00:11:25,564
+It's unlikely.
+
+124
+00:11:27,407 --> 00:11:29,157
+He's right here. Hang on.
+
+125
+00:11:29,686 --> 00:11:30,566
+Thank you.
+
+126
+00:11:32,040 --> 00:11:34,193
+Has Walter made
+any headway on the body?
+
+127
+00:11:34,361 --> 00:11:36,327
+Just that it doesn't
+contain any radiation.
+
+128
+00:11:36,452 --> 00:11:38,114
+Otherwise it's just a pile of dust.
+
+129
+00:11:38,836 --> 00:11:40,203
+What about the formula?
+
+130
+00:11:40,485 --> 00:11:43,675
+<i>He hasn't cracked it yet, but he thinks
+it may describe some kind of organism.</i>
+
+131
+00:11:43,800 --> 00:11:44,620
+<i>And...</i>
+
+132
+00:11:44,788 --> 00:11:47,554
+as of a couple hours ago,
+he started referring to it as a "she."
+
+133
+00:11:48,810 --> 00:11:50,403
+Hold on a second. Here he is.
+
+134
+00:11:53,615 --> 00:11:54,755
+<i>The formula is</i>
+
+135
+00:11:54,923 --> 00:11:56,949
+a different matter entirely.
+
+136
+00:11:57,645 --> 00:12:00,719
+She's a complex chemical puzzle.
+
+137
+00:12:00,889 --> 00:12:03,014
+<i>What, I don't know.</i>
+
+138
+00:12:03,182 --> 00:12:04,306
+But can you solve it?
+
+139
+00:12:04,475 --> 00:12:07,152
+First I would need to break her
+
+140
+00:12:07,277 --> 00:12:10,520
+into her organic
+and inorganic parts. And then...
+
+141
+00:12:18,781 --> 00:12:21,424
+Titanium tetrachloride.
+
+142
+00:12:22,661 --> 00:12:25,661
+You sly temptress.
+
+143
+00:12:32,020 --> 00:12:33,020
+Me again.
+
+144
+00:12:33,283 --> 00:12:35,921
+Needless to say, he's into it.
+I'll keep you posted.
+
+145
+00:12:37,257 --> 00:12:38,257
+<i>Thanks.</i>
+
+146
+00:12:44,976 --> 00:12:46,132
+What do we have?
+
+147
+00:12:46,257 --> 00:12:48,664
+We're indexing the employment records
+for both hospitals
+
+148
+00:12:48,789 --> 00:12:50,630
+against any eastern european names.
+
+149
+00:12:50,755 --> 00:12:51,855
+Nothing yet.
+
+150
+00:13:02,656 --> 00:13:04,206
+You know, I can stay.
+
+151
+00:13:05,972 --> 00:13:07,327
+You should go home.
+
+152
+00:13:08,926 --> 00:13:09,926
+I'll wait.
+
+153
+00:13:19,844 --> 00:13:21,320
+Why'd the killer call you?
+
+154
+00:13:22,185 --> 00:13:23,625
+Was it just to taunt you?
+
+155
+00:13:25,168 --> 00:13:26,374
+Quite the opposite.
+
+156
+00:13:28,412 --> 00:13:29,594
+He was distraught.
+
+157
+00:13:30,519 --> 00:13:32,066
+Said he couldn't control it.
+
+158
+00:13:34,389 --> 00:13:37,360
+I got the overwhelming impression that
+however he was killing these people,
+
+159
+00:13:37,485 --> 00:13:38,813
+he wanted it to end.
+
+160
+00:13:42,531 --> 00:13:44,376
+Until today, I thought maybe it had.
+
+161
+00:14:33,368 --> 00:14:34,665
+Something's going on.
+
+162
+00:14:46,229 --> 00:14:47,433
+Did you see anything?
+
+163
+00:14:48,347 --> 00:14:50,150
+- I want this floor sealed.
+- Yes, sir.
+
+164
+00:14:51,308 --> 00:14:52,557
+We have a name.
+
+165
+00:14:53,539 --> 00:14:54,601
+Tomas Koslov.
+
+166
+00:14:54,771 --> 00:14:57,796
+He worked at the hospital in DC
+and quit the week the murders stopped.
+
+167
+00:14:58,440 --> 00:15:00,862
+- How long till he started working here?
+- About a month later.
+
+168
+00:15:00,987 --> 00:15:02,649
+He's a night nurse in the coma unit.
+
+169
+00:15:02,774 --> 00:15:04,570
+He never showed up
+for his shift tonight.
+
+170
+00:15:06,577 --> 00:15:07,782
+Tomas Koslov?
+
+171
+00:15:11,247 --> 00:15:12,069
+Clear.
+
+172
+00:15:13,849 --> 00:15:14,714
+Clear.
+
+173
+00:15:20,585 --> 00:15:21,951
+He knew we were coming.
+
+174
+00:15:22,076 --> 00:15:23,817
+He must have seen us
+at the hospital.
+
+175
+00:15:37,397 --> 00:15:38,915
+What do you think it is?
+
+176
+00:15:39,166 --> 00:15:41,856
+Soldering iron burns,
+electronic components.
+
+177
+00:15:42,878 --> 00:15:44,449
+He was building something.
+
+178
+00:15:44,783 --> 00:15:47,321
+I understand.
+Thank you for running it.
+
+179
+00:15:47,656 --> 00:15:49,627
+Tomas Koslov was an alias.
+
+180
+00:15:49,752 --> 00:15:51,996
+Nothing on that name
+in any of our databases.
+
+181
+00:15:52,121 --> 00:15:54,463
+He forged his medical records
+and previous employment.
+
+182
+00:15:55,377 --> 00:15:56,747
+We still know he's russian.
+
+183
+00:15:57,566 --> 00:15:59,565
+- Cyrillic letters?
+- Tomas, whoever he is,
+
+184
+00:15:59,690 --> 00:16:01,711
+certainly didn't get that
+from anywhere around here.
+
+185
+00:16:04,949 --> 00:16:05,900
+Prints?
+
+186
+00:16:07,617 --> 00:16:09,576
+- Good one.
+- Run it through AFIS.
+
+187
+00:16:11,720 --> 00:16:13,681
+<i>I don't know how many more will die.</i>
+
+188
+00:16:13,932 --> 00:16:15,250
+<i>Isn't that up to you?</i>
+
+189
+00:16:15,589 --> 00:16:17,684
+<i>You have the power
+over what happens next.</i>
+
+190
+00:16:17,809 --> 00:16:19,157
+<i>No, I don't.</i>
+
+191
+00:16:20,089 --> 00:16:21,445
+<i>You don't understand.</i>
+
+192
+00:16:22,162 --> 00:16:24,840
+<i>This won't stop until
+you can solve that formula.</i>
+
+193
+00:16:26,361 --> 00:16:29,503
+<i>Now I know you are tapping my line,
+so, agent, can you solve it?</i>
+
+194
+00:16:30,359 --> 00:16:32,490
+<i>You have ten seconds
+before I hang up.</i>
+
+195
+00:16:32,736 --> 00:16:34,247
+<i>It's been analyzed.</i>
+
+196
+00:16:34,470 --> 00:16:37,483
+<i>The FBI, everyone, top men
+and women in their field.</i>
+
+197
+00:16:37,608 --> 00:16:39,181
+<i>They simply need more time.</i>
+
+198
+00:16:40,347 --> 00:16:42,432
+<i>Maybe we should meet
+someplace, you and I,</i>
+
+199
+00:16:42,557 --> 00:16:44,628
+<i>you can explain what it is
+we're not understand...</i>
+
+200
+00:16:53,347 --> 00:16:54,347
+Come in.
+
+201
+00:16:55,390 --> 00:16:57,124
+Senator Van Horn's on line three.
+
+202
+00:16:58,172 --> 00:17:00,908
+What's so important we had
+to meet face-to-face, senator?
+
+203
+00:17:01,135 --> 00:17:03,447
+Phillip, when you filed those
+fingerprints on your suspect,
+
+204
+00:17:03,572 --> 00:17:04,747
+it went wide.
+
+205
+00:17:04,872 --> 00:17:06,700
+The Bureau, Homeland, CIA.
+
+206
+00:17:07,267 --> 00:17:08,819
+Flag went up in Langley.
+
+207
+00:17:08,987 --> 00:17:11,853
+They're gonna take this case from you
+and demand you cease and desist.
+
+208
+00:17:11,978 --> 00:17:14,948
+I support interdepartmental
+transparency 100%.
+
+209
+00:17:16,031 --> 00:17:19,330
+But this was my case four years ago,
+and it will remain my case.
+
+210
+00:17:20,973 --> 00:17:23,265
+Your suspect is at
+the center of an ongoing
+
+211
+00:17:23,390 --> 00:17:26,379
+international investigation
+led by the Russian government.
+
+212
+00:17:26,547 --> 00:17:29,503
+- By that definition alone, it falls...
+- Why are they searching for him?
+
+213
+00:17:30,099 --> 00:17:31,837
+CIA and the Russians?
+
+214
+00:17:32,083 --> 00:17:33,843
+What value does he have to them?
+Who is he?
+
+215
+00:17:34,012 --> 00:17:36,911
+According to a statement made
+by one of their deputy prime ministers,
+
+216
+00:17:37,036 --> 00:17:40,059
+he illegally removed some property
+belonging to the Russian federation.
+
+217
+00:17:40,227 --> 00:17:41,256
+Property?
+
+218
+00:17:41,471 --> 00:17:43,437
+A weapon?
+Is that what's killing these people?
+
+219
+00:17:43,605 --> 00:17:45,680
+I don't know. Within the last hour
+this case has been
+
+220
+00:17:45,805 --> 00:17:47,527
+kicked three floors
+above both our heads.
+
+221
+00:17:47,652 --> 00:17:49,942
+You're a sitting member of the
+senate intelligence committee,
+
+222
+00:17:50,067 --> 00:17:51,861
+- a former FBI agent.
+- I'm not CIA.
+
+223
+00:17:52,030 --> 00:17:54,137
+There was a time, Dennis,
+that you would say that
+
+224
+00:17:54,262 --> 00:17:56,450
+as a matter of pride, not an excuse.
+
+225
+00:17:59,509 --> 00:18:02,206
+I understand what
+this case means to you.
+
+226
+00:18:04,960 --> 00:18:07,670
+But I am sorry.
+There is nothing I can do here.
+
+227
+00:18:17,827 --> 00:18:19,810
+Please give my regards to Patricia.
+
+228
+00:19:04,818 --> 00:19:07,782
+So this is all the surveillance
+footage from the fourth floor.
+
+229
+00:19:10,610 --> 00:19:11,637
+Excuse me.
+
+230
+00:19:12,528 --> 00:19:13,481
+Where are you?
+
+231
+00:19:13,606 --> 00:19:17,114
+I'm at Latchmere hospital just going
+over security footage from last night.
+
+232
+00:19:17,282 --> 00:19:20,343
+I've just been informed that the suspect
+known to us as Tomas Koslov
+
+233
+00:19:20,468 --> 00:19:22,629
+is wanted by the CIA
+and the Russian government.
+
+234
+00:19:22,818 --> 00:19:24,830
+The CIA is now handling the case.
+
+235
+00:19:24,998 --> 00:19:27,333
+And they just expect you
+to hand it over?
+
+236
+00:19:28,068 --> 00:19:29,877
+But I intend to do no such thing.
+
+237
+00:19:30,045 --> 00:19:33,014
+<i>From this point forward,
+don't put anything down on paper,</i>
+
+238
+00:19:33,139 --> 00:19:34,423
+<i>no documentation.</i>
+
+239
+00:19:34,591 --> 00:19:36,894
+Anything we need to say to each other,
+we'll do it in person.
+
+240
+00:19:37,019 --> 00:19:40,367
+With all due respect, sir, I know
+that this case is important to you,
+
+241
+00:19:40,749 --> 00:19:43,937
+but when we break the rules,
+we've got you to protect us.
+
+242
+00:19:44,062 --> 00:19:45,393
+Who's gonna protect you?
+
+243
+00:19:45,561 --> 00:19:48,401
+<i>I'm afraid that if you don't comply
+with a direct order...</i>
+
+244
+00:19:49,273 --> 00:19:50,758
+<i>I'm aware of the risks.</i>
+
+245
+00:19:50,883 --> 00:19:51,783
+Agent?
+
+246
+00:19:54,277 --> 00:19:55,944
+Hang on.
+We might have something.
+
+247
+00:19:57,542 --> 00:20:00,140
+This is the adjacent hallway
+to the crime scene.
+
+248
+00:20:00,265 --> 00:20:03,353
+This is 23 seconds
+before the victim was discovered.
+
+249
+00:20:05,747 --> 00:20:08,448
+- Did you see that?
+- Yeah. A man's shadow.
+
+250
+00:20:08,850 --> 00:20:11,544
+So can you get a better
+angle on his face?
+
+251
+00:20:11,896 --> 00:20:14,452
+Yes, this is a different angle,
+same hallway.
+
+252
+00:20:14,577 --> 00:20:16,465
+We should see him head-on here.
+
+253
+00:20:16,633 --> 00:20:18,759
+The light here
+would register an image.
+
+254
+00:20:20,683 --> 00:20:21,929
+There is no face.
+
+255
+00:20:23,474 --> 00:20:24,348
+What is it?
+
+256
+00:20:25,922 --> 00:20:28,019
+I think you're gonna want
+to see this.
+
+257
+00:20:36,609 --> 00:20:40,031
+No reflections or highlights.
+No translucency.
+
+258
+00:20:40,199 --> 00:20:41,781
+This is clearly its own entity.
+
+259
+00:20:41,950 --> 00:20:43,533
+How is that possible?
+
+260
+00:20:43,702 --> 00:20:47,329
+It's possible that the technology
+That our Russian friend stole
+
+261
+00:20:47,498 --> 00:20:49,665
+allows him to become this shadow.
+
+262
+00:20:49,790 --> 00:20:52,180
+Are you suggesting that this was
+some sort of russian experiment?
+
+263
+00:20:52,305 --> 00:20:54,753
+Because they're from the other
+side of the world, Peter,
+
+264
+00:20:54,922 --> 00:20:56,463
+it is so hard to believe
+
+265
+00:20:56,632 --> 00:20:59,550
+that they would have their own
+stripe of the inconceivable?
+
+266
+00:21:00,483 --> 00:21:03,095
+Really I'm always amazed
+at their advancements.
+
+267
+00:21:03,263 --> 00:21:04,956
+Even 40 years ago.
+
+268
+00:21:05,081 --> 00:21:07,600
+You wouldn't believe
+what those pinkos were up to.
+
+269
+00:21:07,768 --> 00:21:09,405
+Russian fringe science.
+
+270
+00:21:10,595 --> 00:21:12,229
+There's a pleasant thought.
+
+271
+00:21:18,753 --> 00:21:21,948
+This just came in from DC
+senator Van Horn's office.
+
+272
+00:22:00,657 --> 00:22:03,828
+It turns out that it wasn't technology
+timur stole six years ago.
+
+273
+00:22:03,953 --> 00:22:05,992
+- He abducted his brother.
+- The cosmonaut.
+
+274
+00:22:06,160 --> 00:22:08,199
+Officially,
+the russian space agency states
+
+275
+00:22:08,324 --> 00:22:10,332
+he died in space.
+He didn't.
+
+276
+00:22:10,457 --> 00:22:12,341
+Why would they say
+he's dead if he's not?
+
+277
+00:22:12,466 --> 00:22:13,843
+What happened to him up there?
+
+278
+00:22:13,968 --> 00:22:16,519
+According to these documents,
+they still don't understand.
+
+279
+00:22:16,644 --> 00:22:18,396
+Are you saying
+the cosmonaut's the shadow?
+
+280
+00:22:18,521 --> 00:22:19,561
+I don't know.
+
+281
+00:22:19,686 --> 00:22:21,837
+But what is clear is
+Timur took his brother
+
+282
+00:22:21,962 --> 00:22:24,468
+from the secret quarantine facility
+where he was being studied.
+
+283
+00:22:24,702 --> 00:22:25,511
+Took?
+
+284
+00:22:25,679 --> 00:22:27,597
+He returned from his mission
+in a coma.
+
+285
+00:22:28,561 --> 00:22:31,809
+And Timur's been working
+in a coma ward both here and in DC.
+
+286
+00:22:31,977 --> 00:22:33,949
+I think Timur's been moving
+his brother around
+
+287
+00:22:34,074 --> 00:22:35,902
+from hospital to hospital
+and guarding him.
+
+288
+00:22:36,027 --> 00:22:37,532
+So where's his brother now?
+
+289
+00:22:37,657 --> 00:22:39,658
+Presumably still
+at Latchmere hospital.
+
+290
+00:22:39,783 --> 00:22:42,711
+No bodies have been removed from
+the coma ward for the past two weeks.
+
+291
+00:22:42,836 --> 00:22:45,124
+- Okay, well, I'll get a team together.
+- We're good.
+
+292
+00:22:45,991 --> 00:22:47,365
+We're ready to go there now.
+
+293
+00:22:51,158 --> 00:22:54,141
+So Walter and I were discussing how
+radiation pertains to this formula...
+
+294
+00:22:54,266 --> 00:22:56,785
+Yes, which led to a theory
+about the shadow.
+
+295
+00:22:56,910 --> 00:22:58,465
+Initially, I assumed...
+
+296
+00:22:58,590 --> 00:23:01,169
+there would be a radiation surplus
+
+297
+00:23:01,399 --> 00:23:03,118
+in the victim from the penthouse.
+
+298
+00:23:03,243 --> 00:23:04,466
+I was mistaken.
+
+299
+00:23:04,635 --> 00:23:06,613
+It's not the radiation
+that's killing them.
+
+300
+00:23:06,738 --> 00:23:08,125
+Quite the opposite.
+
+301
+00:23:09,056 --> 00:23:11,875
+It's the radiation
+that the entity is after.
+
+302
+00:23:12,476 --> 00:23:15,319
+This thing passes through victims to
+
+303
+00:23:15,839 --> 00:23:18,813
+- absorb radiation?
+- And disintegrates them in the process.
+
+304
+00:23:18,982 --> 00:23:21,943
+All five of the victims were
+undergoing radiation treatment.
+
+305
+00:23:22,617 --> 00:23:25,182
+Except for the penthouse guy.
+He died of bad luck.
+
+306
+00:23:25,307 --> 00:23:27,049
+The day that he visited
+Latchmere General,
+
+307
+00:23:27,174 --> 00:23:29,075
+he took a cross-country flight
+in a window seat.
+
+308
+00:23:29,243 --> 00:23:32,131
+30,000 feet closer to the sun.
+It's like getting a big fat head X-ray.
+
+309
+00:23:32,256 --> 00:23:34,330
+So this thing followed him
+from the hospital?
+
+310
+00:23:35,537 --> 00:23:36,958
+I'm not gonna sleep for weeks.
+
+311
+00:23:54,968 --> 00:23:56,538
+I'll go check the patients.
+
+312
+00:23:59,062 --> 00:23:59,939
+Coma ward.
+
+313
+00:24:00,280 --> 00:24:02,566
+Yeah, the lights and all
+the security monitors are down.
+
+314
+00:24:02,734 --> 00:24:04,221
+We're going to backup power.
+
+315
+00:24:23,088 --> 00:24:25,325
+What are you doing here?
+It's not your shift.
+
+316
+00:24:25,608 --> 00:24:27,407
+It's hard to explain.
+
+317
+00:24:28,289 --> 00:24:31,470
+I have to disconnect the patient.
+I need it to confuse the monitors.
+
+318
+00:24:31,638 --> 00:24:33,597
+I can't let them see me take him.
+
+319
+00:24:33,722 --> 00:24:34,682
+Maxine,
+
+320
+00:24:34,850 --> 00:24:36,929
+I wish you hadn't seen me here.
+
+321
+00:24:43,313 --> 00:24:45,306
+Are all the patients accounted for?
+
+322
+00:24:45,431 --> 00:24:46,736
+Are they accounted for?
+
+323
+00:24:46,904 --> 00:24:48,404
+Yes! Every bed.
+
+324
+00:24:48,713 --> 00:24:51,866
+But, Maxine, she came in here
+a few minutes ago.
+
+325
+00:25:22,057 --> 00:25:23,689
+He swapped her for his brother.
+
+326
+00:25:24,316 --> 00:25:25,532
+She's been sedated.
+
+327
+00:26:15,534 --> 00:26:17,994
+How long has he been
+at it like this?
+
+328
+00:26:18,781 --> 00:26:19,744
+Three hours.
+
+329
+00:26:20,242 --> 00:26:21,914
+Don't touch!
+Don't touch!
+
+330
+00:26:28,108 --> 00:26:29,714
+What a pleasant surprise.
+
+331
+00:26:30,217 --> 00:26:32,090
+Could you get us
+some licorice, please, dear?
+
+332
+00:26:34,803 --> 00:26:36,354
+As unlikely as it seems,
+
+333
+00:26:36,479 --> 00:26:39,098
+is it possible that this
+cosmonaut somehow is our killer?
+
+334
+00:26:39,738 --> 00:26:41,387
+It wasn't the cosmonaut.
+
+335
+00:26:41,512 --> 00:26:43,853
+But it could be something
+inside him.
+
+336
+00:26:44,021 --> 00:26:46,314
+It's possible that,
+while in outer space,
+
+337
+00:26:46,483 --> 00:26:47,565
+the cosmonaut...
+
+338
+00:26:48,445 --> 00:26:51,226
+took a spacewalk and brought
+something back with him.
+
+339
+00:26:51,351 --> 00:26:55,351
+An organism
+capable of projecting itself
+
+340
+00:26:55,557 --> 00:26:58,034
+without ever really
+leaving its host.
+
+341
+00:26:58,203 --> 00:27:01,287
+- I'm not following.
+- Like a ventriloquist throws his voice.
+
+342
+00:27:01,746 --> 00:27:05,740
+The organism can project
+another version of itself,
+
+343
+00:27:05,865 --> 00:27:07,820
+what we perceive as the shadow,
+
+344
+00:27:07,945 --> 00:27:10,945
+without ever really leaving
+the cosmonaut's body.
+
+345
+00:27:13,218 --> 00:27:15,216
+Now I have to get back to her.
+
+346
+00:27:17,764 --> 00:27:19,621
+We have a phone number
+for Timur Vasiliev
+
+347
+00:27:19,746 --> 00:27:21,424
+based on his employment records.
+
+348
+00:27:21,549 --> 00:27:25,271
+We can leave a message for him and hope
+that at some point he retrieves it.
+
+349
+00:27:25,943 --> 00:27:28,366
+Can we tell him
+that we can solve the formula?
+
+350
+00:27:31,601 --> 00:27:32,601
+Can we?
+
+351
+00:27:37,375 --> 00:27:39,094
+I can dominate her.
+
+352
+00:27:42,098 --> 00:27:44,023
+But first I need
+something from home.
+
+353
+00:27:53,675 --> 00:27:56,248
+<i>You have two new messages.</i>
+
+354
+00:27:57,159 --> 00:27:59,779
+<i>Message received 3:14 pm.</i>
+
+355
+00:28:00,127 --> 00:28:01,470
+<i>This is Jerry Larsen again</i>
+
+356
+00:28:01,641 --> 00:28:04,108
+<i>from human resources
+at Hartswell Medical Center.</i>
+
+357
+00:28:04,233 --> 00:28:05,725
+<i>We've looked over your resume,</i>
+
+358
+00:28:05,895 --> 00:28:09,480
+<i>and, boy, it's really something else.
+I think there's a position here for you.</i>
+
+359
+00:28:11,020 --> 00:28:12,360
+<i>Call me when you get to town.</i>
+
+360
+00:28:12,485 --> 00:28:14,955
+<i>We'll show you around Minneapolis.
+Thanks again now.</i>
+
+361
+00:28:19,561 --> 00:28:22,096
+<i>You have one new message.</i>
+
+362
+00:28:22,221 --> 00:28:25,222
+<i>Message received 6:45 pm.</i>
+
+363
+00:28:26,114 --> 00:28:28,686
+<i>This is special agent Broyles
+from the FBI.</i>
+
+364
+00:28:28,811 --> 00:28:31,270
+<i>I'm the agent you spoke with
+four years ago.</i>
+
+365
+00:28:31,395 --> 00:28:33,793
+<i>I have information
+about the formula for you.</i>
+
+366
+00:28:33,918 --> 00:28:37,800
+<i>Call me at 617-555-0118.</i>
+
+367
+00:30:15,190 --> 00:30:18,093
+I've been thinking too linearly.
+Deductive.
+
+368
+00:30:18,853 --> 00:30:19,866
+Restrictive.
+
+369
+00:30:21,054 --> 00:30:23,280
+I must expand my thinking.
+
+370
+00:30:23,405 --> 00:30:26,533
+If you're looking for your acid tabs,
+Walter, don't bother. I threw 'em out.
+
+371
+00:30:29,440 --> 00:30:32,290
+Son, this is not a job
+for the Purple Blotter.
+
+372
+00:30:34,061 --> 00:30:37,047
+The right tool for this job...
+
+373
+00:30:39,807 --> 00:30:41,057
+is Tinker Toys.
+
+374
+00:30:43,802 --> 00:30:46,344
+All he has to do is call in,
+and we can trace it.
+
+375
+00:31:08,620 --> 00:31:11,120
+I've been wanting
+to ask you something.
+
+376
+00:31:14,392 --> 00:31:15,542
+Why this one?
+
+377
+00:31:18,537 --> 00:31:20,539
+Why is this case
+so important to you?
+
+378
+00:31:36,429 --> 00:31:37,687
+Four years ago,
+
+379
+00:31:38,065 --> 00:31:39,609
+when this case happened,
+
+380
+00:31:41,127 --> 00:31:44,525
+It was at a moment in time that
+Fringe Division had fallen out of favor.
+
+381
+00:31:45,460 --> 00:31:48,422
+The government was siphoning money
+away from us For things that had more...
+
+382
+00:31:49,526 --> 00:31:50,701
+public results.
+
+383
+00:31:52,549 --> 00:31:55,944
+But at a certain point, I stopped
+caring about my profile or promotions.
+
+384
+00:31:58,277 --> 00:32:00,519
+I just wanted to make
+the world a safer place.
+
+385
+00:32:06,597 --> 00:32:07,597
+Anyway...
+
+386
+00:32:09,676 --> 00:32:11,826
+I became obsessed with this case.
+
+387
+00:32:13,033 --> 00:32:14,141
+And for my wife...
+
+388
+00:32:16,453 --> 00:32:18,991
+it was the straw
+that broke the camel's back.
+
+389
+00:32:21,892 --> 00:32:23,492
+It ended our marriage.
+
+390
+00:32:29,769 --> 00:32:33,011
+I took this job to make the world
+a safer place for my family.
+
+391
+00:32:36,059 --> 00:32:37,398
+Instead, I lost them.
+
+392
+00:33:07,836 --> 00:33:11,141
+That's it. Physical
+representation of the formula.
+
+393
+00:33:21,045 --> 00:33:22,345
+Something wrong?
+
+394
+00:33:22,907 --> 00:33:25,407
+Could you hold that end,
+please, Peter?
+
+395
+00:33:57,265 --> 00:33:58,315
+That's him.
+
+396
+00:33:58,440 --> 00:33:59,740
+Call Dr. Bishop.
+
+397
+00:34:04,143 --> 00:34:06,759
+- This is agent Broyles.
+- <i>I saw you in the hospital.</i>
+
+398
+00:34:06,884 --> 00:34:10,270
+- I thought you might have.
+- In your message, you said you had
+
+399
+00:34:10,395 --> 00:34:12,592
+new information about the formula.
+
+400
+00:34:12,761 --> 00:34:15,220
+- That's right.
+- Have you solved it this time?
+
+401
+00:34:16,038 --> 00:34:18,082
+We've got Timur on the line.
+<i>I need Walter.</i>
+
+402
+00:34:18,207 --> 00:34:20,349
+He's right here. Hold on a sec.
+It's Oliva.
+
+403
+00:34:23,447 --> 00:34:25,013
+Have you solved the formula?
+
+404
+00:34:26,108 --> 00:34:27,775
+<i>It is bad news, unfortunately.</i>
+
+405
+00:34:27,943 --> 00:34:31,903
+I know, like last time, you are
+tapping the line. You need 60 seconds.
+
+406
+00:34:32,073 --> 00:34:35,156
+<i>I'm giving you ten before I hang up.</i>
+
+407
+00:34:35,328 --> 00:34:37,075
+Don't make the same mistake again.
+
+408
+00:34:37,244 --> 00:34:38,618
+<i>I believe the Russians</i>
+
+409
+00:34:38,787 --> 00:34:41,455
+have tried to remove the organism
+from the cosmonaut...
+
+410
+00:34:41,623 --> 00:34:43,957
+<i>they couldn't.
+It is not possible.</i>
+
+411
+00:34:44,336 --> 00:34:46,036
+The two have become one.
+
+412
+00:34:47,237 --> 00:34:49,087
+Bonded at a molecular level.
+
+413
+00:34:49,256 --> 00:34:50,786
+<i>They can't be separated.</i>
+
+414
+00:34:50,911 --> 00:34:53,508
+<i>You can't kill the organism
+without killing them both.</i>
+
+415
+00:34:54,595 --> 00:34:56,177
+<i>I'm going to hang up now.</i>
+
+416
+00:34:56,346 --> 00:34:57,688
+We have the answer, Timur.
+
+417
+00:34:59,867 --> 00:35:01,961
+But I don't think
+it's the one you want to hear.
+
+418
+00:35:02,261 --> 00:35:03,643
+<i>I'm afraid your brother</i>
+
+419
+00:35:03,812 --> 00:35:05,421
+and whatever's inside of him
+
+420
+00:35:06,035 --> 00:35:07,647
+have become one and the same.
+
+421
+00:35:08,168 --> 00:35:09,733
+<i>But the people I work with,</i>
+
+422
+00:35:09,902 --> 00:35:12,249
+<i>if anyone can help
+your brother, they can.</i>
+
+423
+00:35:12,916 --> 00:35:14,780
+But we'll need to see your brother.
+
+424
+00:35:28,304 --> 00:35:30,004
+I don't want him harmed.
+
+425
+00:35:30,172 --> 00:35:31,772
+Just ten more seconds.
+
+426
+00:35:32,732 --> 00:35:34,299
+Tell me where you are, Timur.
+
+427
+00:35:34,468 --> 00:35:36,618
+I have managed to keep it at bay.
+
+428
+00:35:38,134 --> 00:35:40,603
+He's not going to hurt anyone else.
+
+429
+00:35:41,233 --> 00:35:43,350
+- For now.
+- <i>We'll take care of him.</i>
+
+430
+00:35:43,519 --> 00:35:45,852
+I want this to end
+as much as you do.
+
+431
+00:35:45,977 --> 00:35:48,375
+But you've got to tell me
+where you are, Timur.
+
+432
+00:35:50,979 --> 00:35:52,118
+<i>You can trust us.</i>
+
+433
+00:36:11,046 --> 00:36:13,149
+I've got him.
+His line's still open.
+
+434
+00:36:14,803 --> 00:36:16,540
+Start triangulating the position.
+
+435
+00:36:28,063 --> 00:36:29,230
+Van door's open.
+
+436
+00:36:29,399 --> 00:36:31,022
+He's moving his brother.
+
+437
+00:37:05,179 --> 00:37:07,101
+Hold on, let me help you with that.
+
+438
+00:37:11,100 --> 00:37:12,350
+Pupils dilated.
+
+439
+00:37:12,955 --> 00:37:14,918
+His breathing's normal for a coma.
+
+440
+00:37:15,043 --> 00:37:16,986
+What's with all these jumper cables?
+
+441
+00:37:17,754 --> 00:37:21,574
+Agent Broyles said that Timur was
+certain he could contain it.
+
+442
+00:37:21,743 --> 00:37:24,368
+Perhaps so by administering
+electric shocks,
+
+443
+00:37:24,536 --> 00:37:26,662
+- distressing the cosmonaut.
+- But it didn't work.
+
+444
+00:37:27,379 --> 00:37:28,497
+It killed Timur.
+
+445
+00:37:29,792 --> 00:37:32,178
+Dr. Bishop, how will you contain it
+before it kills again?
+
+446
+00:37:32,303 --> 00:37:35,458
+I imagine we would need a lead case
+
+447
+00:37:35,583 --> 00:37:38,674
+For starters,
+big enough for his entire body.
+
+448
+00:37:40,388 --> 00:37:41,397
+What's wrong?
+
+449
+00:37:43,559 --> 00:37:45,431
+Before we attempt anything,
+
+450
+00:37:45,600 --> 00:37:48,601
+we have to wait until the shadow
+returns to the cosmonaut.
+
+451
+00:37:48,948 --> 00:37:51,928
+There's no radiation.
+Which means the organism is here,
+
+452
+00:37:52,053 --> 00:37:54,450
+but it's already projected
+the shadow elsewhere.
+
+453
+00:37:54,575 --> 00:37:57,082
+You said that Timur could contain it
+by distressing the host.
+
+454
+00:37:57,207 --> 00:37:59,737
+Do you think you could draw
+the shadow back doing the same thing?
+
+455
+00:38:02,110 --> 00:38:03,460
+Is that possible?
+
+456
+00:38:03,876 --> 00:38:05,701
+I don't know how it behaves.
+
+457
+00:38:05,870 --> 00:38:07,828
+But it could work.
+Since they're connected.
+
+458
+00:38:08,161 --> 00:38:10,310
+I don't know!
+Theoretically, yes.
+
+459
+00:38:10,435 --> 00:38:12,223
+If you hurt the host,
+you hurt the organism.
+
+460
+00:38:12,348 --> 00:38:14,407
+It's out there now.
+Do you think you could try?
+
+461
+00:38:40,239 --> 00:38:41,946
+This equipment, it's in russian.
+
+462
+00:38:46,160 --> 00:38:47,210
+Stand back!
+
+463
+00:38:59,923 --> 00:39:01,090
+What's wrong?
+
+464
+00:39:03,427 --> 00:39:04,677
+What happened?
+
+465
+00:39:20,009 --> 00:39:21,309
+There was a man.
+
+466
+00:39:22,172 --> 00:39:23,322
+A shadow man.
+
+467
+00:39:25,087 --> 00:39:26,337
+He disappeared.
+
+468
+00:40:01,210 --> 00:40:04,028
+The kids aren't here.
+They went over to Sadie's.
+
+469
+00:40:04,529 --> 00:40:06,279
+Actually, I came to talk to you.
+
+470
+00:40:09,827 --> 00:40:11,586
+I just wanted to tell you that...
+
+471
+00:40:23,493 --> 00:40:24,840
+I closed that case.
+
+472
+00:40:29,422 --> 00:40:30,845
+The one four years ago.
+
+473
+00:40:36,419 --> 00:40:37,819
+I'm happy for you.
+
+474
+00:40:40,030 --> 00:40:41,130
+I mean that.
+
+475
+00:40:43,952 --> 00:40:44,952
+Thank you.
+
+476
+00:40:50,506 --> 00:40:52,993
+Do you want to come in?
+Have some dinner with us?
+
+477
+00:40:57,467 --> 00:40:59,196
+I'll let you get back
+to your dinner.
+
+478
+00:41:01,276 --> 00:41:02,444
+Good night, Diane.
+
+479
+00:41:04,701 --> 00:41:05,956
+Good night, Phillip.
+
+480
+00:41:41,210 --> 00:41:43,573
+You got a real friend
+in senator Van Horn.
+
+481
+00:41:55,108 --> 00:41:56,158
+Is that so?
+
+482
+00:41:56,577 --> 00:41:58,928
+When the CIA says,
+"Cease and desist,"
+
+483
+00:41:59,877 --> 00:42:01,228
+we kind of mean it.
+
+484
+00:42:01,727 --> 00:42:03,609
+A person could get
+into a lot of trouble.
+
+485
+00:42:04,265 --> 00:42:06,525
+I guess I should thank
+senator Van Horn then.
+
+486
+00:42:06,784 --> 00:42:07,795
+Understatement.
+
+487
+00:42:11,270 --> 00:42:12,838
+So, this thing,
+
+488
+00:42:13,993 --> 00:42:15,825
+there isn't going to be any report.
+
+489
+00:42:16,327 --> 00:42:17,147
+Right?
+
+490
+00:42:32,386 --> 00:42:34,082
+What did you guys do with him,
+
+491
+00:42:34,872 --> 00:42:37,275
+- the cosmonaut?
+- We had no choice.
+
+492
+00:42:38,246 --> 00:42:40,035
+Once he started breathing again...
+
+493
+00:43:06,637 --> 00:43:08,337
+À la semaine prochaine !
+

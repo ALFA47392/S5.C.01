@@ -1,0 +1,2609 @@
+1
+00:00:09,019 --> 00:00:12,628
+Je vais petit-déjeuner avec Evelyn,
+elle est toujours blessée à la jambe.
+
+2
+00:00:12,753 --> 00:00:15,723
+- Ça ira pendant mon absence ?
+- J'ai mes comptes à finir.
+
+3
+00:00:16,169 --> 00:00:18,119
+Je ne parle pas de ça, Conor.
+
+4
+00:00:19,064 --> 00:00:21,378
+- Je m'inquiète pour toi.
+- Et c'est bien.
+
+5
+00:00:21,503 --> 00:00:24,982
+Mais inquiète-toi aussi pour toi.
+Ne quitte pas les routes principales.
+
+6
+00:00:26,657 --> 00:00:29,195
+Tu ne penses pas
+que tu exagères un peu ?
+
+7
+00:00:29,498 --> 00:00:30,863
+Il y a déjà deux morts.
+
+8
+00:00:31,700 --> 00:00:33,817
+Je m'en fiche
+qu'on pense à des accidents.
+
+9
+00:00:33,942 --> 00:00:36,326
+Quelqu'un cible la résistance.
+
+10
+00:00:36,685 --> 00:00:39,480
+- Une fois Kahlan ici, on le trouvera.
+- Kahlan vient ?
+
+11
+00:00:39,605 --> 00:00:42,667
+J'ai envoyé un message d'urgence.
+Elle te montrera que je dis vrai.
+
+12
+00:00:52,309 --> 00:00:55,179
+Pas besoin d'une inquisitrice
+pour avoir confiance en mon mari.
+
+13
+00:00:57,266 --> 00:00:59,016
+Où emmène-t-on la boîte ?
+
+14
+00:00:59,141 --> 00:01:01,929
+L'unique lieu des Contrées
+où Rahl ne peut pénétrer,
+
+15
+00:01:02,054 --> 00:01:04,001
+ni par magie ni par force,
+
+16
+00:01:04,559 --> 00:01:06,691
+est la crypte de l'ancien sourcier
+à Tavol'Rang.
+
+17
+00:01:07,343 --> 00:01:10,331
+Voilà où nous allons,
+en passant par ma ville natale,
+
+18
+00:01:10,456 --> 00:01:13,806
+- pour récupérer la clé.
+- Ramassez tout, on doit filer.
+
+19
+00:01:14,476 --> 00:01:15,282
+D'accord.
+
+20
+00:01:15,450 --> 00:01:17,827
+Un jour pour arriver chez moi,
+et trois pour Tavol'Rang.
+
+21
+00:01:18,201 --> 00:01:19,787
+Il faut passer par East Marwen.
+
+22
+00:01:20,915 --> 00:01:23,165
+Ce message m'est parvenu au marché.
+
+23
+00:01:23,745 --> 00:01:26,944
+- Des amis ont des soucis.
+- Toutes les Contrées en auront
+
+24
+00:01:27,069 --> 00:01:28,879
+si la boîte
+n'est pas mise en sûreté.
+
+25
+00:01:29,355 --> 00:01:30,355
+Je sais.
+
+26
+00:01:30,832 --> 00:01:33,175
+Cet ami est un leader
+de la résistance.
+
+27
+00:01:33,958 --> 00:01:35,883
+Sa femme et lui m'ont cachée
+
+28
+00:01:36,008 --> 00:01:39,181
+lors de ma fuite d'Aydindril
+avec le Livre des Ombres Recensées.
+
+29
+00:01:39,350 --> 00:01:41,726
+On se retrouvera
+quand vous aurez la clé.
+
+30
+00:01:41,894 --> 00:01:43,394
+Tu ne peux pas y aller seule.
+
+31
+00:01:44,520 --> 00:01:45,620
+Il a raison.
+
+32
+00:01:45,815 --> 00:01:48,429
+Une inquisitrice ne peut partir
+sans son sourcier,
+
+33
+00:01:48,554 --> 00:01:51,318
+tout comme le sourcier
+sans son inquisitrice.
+
+34
+00:01:52,364 --> 00:01:53,988
+Mais qui se préoccuperait
+
+35
+00:01:54,157 --> 00:01:56,198
+d'un vieil homme
+vêtu d'une cape en lambeaux ?
+
+36
+00:01:57,893 --> 00:01:58,993
+Merci, Zedd.
+
+37
+00:02:00,269 --> 00:02:03,269
+Je vous rejoindrai à East Marwen
+dans deux jours,
+
+38
+00:02:04,214 --> 00:02:05,291
+avec la clé.
+
+39
+00:02:06,117 --> 00:02:07,717
+La boîte m'accompagne.
+
+40
+00:02:08,479 --> 00:02:12,079
+Trop de D'Harans dans le coin
+à la recherche du sourcier.
+
+41
+00:02:26,893 --> 00:02:27,893
+Conor ?
+
+42
+00:02:29,519 --> 00:02:30,519
+Nella ?
+
+43
+00:02:33,581 --> 00:02:34,731
+Qu'y a-t-il ?
+
+44
+00:02:46,268 --> 00:02:47,541
+<i>1x11 - Confession</i>
+
+45
+00:02:47,963 --> 00:02:49,113
+Ecarlate Crew
+
+46
+00:02:49,846 --> 00:02:51,746
+Je suis venu au plus vite...
+
+47
+00:03:00,910 --> 00:03:04,307
+Que les ténèbres éternelles
+s'abattent sur le coupable.
+
+48
+00:03:05,555 --> 00:03:08,187
+Voici le sergent Declan.
+Je l'ai fait mander.
+
+49
+00:03:08,439 --> 00:03:10,231
+Parlez librement, il est des nôtres.
+
+50
+00:03:12,706 --> 00:03:14,068
+Je suis Kahlan Amnell.
+
+51
+00:03:14,626 --> 00:03:17,238
+La dernière visite d'une inquisitrice
+remonte à bien longtemps.
+
+52
+00:03:19,018 --> 00:03:20,418
+Vous tombez à pic.
+
+53
+00:03:21,764 --> 00:03:22,827
+Richard Cypher.
+
+54
+00:03:26,391 --> 00:03:28,833
+C'est un immense honneur
+de rencontrer le sourcier,
+
+55
+00:03:29,923 --> 00:03:33,223
+bien que je l'eus préférée
+dans d'autres circonstances.
+
+56
+00:03:35,068 --> 00:03:36,598
+Aurais-tu une idée ?
+
+57
+00:03:38,936 --> 00:03:40,678
+Je ne peux pas ramener Conor,
+
+58
+00:03:40,908 --> 00:03:44,001
+mais je te jure
+sur mon pouvoir d'inquisitrice...
+
+59
+00:03:45,447 --> 00:03:48,018
+que je remettrai le coupable
+à la justice.
+
+60
+00:03:52,797 --> 00:03:54,597
+Conor se savait en danger.
+
+61
+00:03:55,708 --> 00:03:58,858
+Le message disait
+que deux des nôtres étaient morts.
+
+62
+00:04:01,643 --> 00:04:04,618
+On pense qu'ils ont été tués
+par des traîtres fidèles aux D'Harans.
+
+63
+00:04:06,114 --> 00:04:08,310
+L'un d'eux se serait suicidé,
+
+64
+00:04:08,776 --> 00:04:11,426
+mais il n'avait
+aucune raison de le faire.
+
+65
+00:04:12,522 --> 00:04:16,240
+L'autre a été écrasé par son chariot
+alors qu'il changeait une roue,
+
+66
+00:04:16,365 --> 00:04:17,965
+mais il n'y a pas de témoin.
+
+67
+00:04:19,385 --> 00:04:21,452
+Quand l'avez-vous vu
+pour la dernière fois ?
+
+68
+00:04:21,577 --> 00:04:23,277
+Avant le petit-déjeuner.
+
+69
+00:04:23,832 --> 00:04:25,801
+Le soleil venait de se lever.
+
+70
+00:04:26,362 --> 00:04:28,142
+J'ai passé la matinée avec une amie,
+
+71
+00:04:29,282 --> 00:04:30,477
+elle était malade,
+
+72
+00:04:30,825 --> 00:04:32,125
+et à mon retour,
+
+73
+00:04:32,316 --> 00:04:34,247
+c'était sens dessus dessous.
+
+74
+00:04:36,695 --> 00:04:38,445
+Il manque quelque chose ?
+
+75
+00:04:42,137 --> 00:04:43,276
+Son encrier.
+
+76
+00:04:43,729 --> 00:04:45,492
+Le doré, cadeau de son père,
+
+77
+00:04:45,841 --> 00:04:47,995
+et un bol argenté
+qu'il gardait sur son bureau.
+
+78
+00:04:48,837 --> 00:04:50,181
+Votre amie,
+
+79
+00:04:50,898 --> 00:04:53,626
+- vit-elle près d'un marais ?
+- Non, un pré.
+
+80
+00:04:54,075 --> 00:04:54,919
+Pourquoi ?
+
+81
+00:04:55,401 --> 00:04:56,600
+Ces graines,
+
+82
+00:04:57,366 --> 00:04:59,533
+elles sont vertes, à peine tombées
+
+83
+00:04:59,658 --> 00:05:02,509
+d'une tige de Kindon,
+qui ne pousse que dans les marais.
+
+84
+00:05:04,400 --> 00:05:06,388
+Il n'y a qu'un marais près d'ici.
+
+85
+00:05:14,141 --> 00:05:16,391
+Je ne suis jamais allé chez Connor.
+
+86
+00:05:16,545 --> 00:05:18,569
+- En es-tu sûr ?
+- Oui.
+
+87
+00:05:19,405 --> 00:05:20,653
+Je suis casanier.
+
+88
+00:05:21,530 --> 00:05:23,656
+Donc, tu ne sais rien
+d'un mystérieux bandit
+
+89
+00:05:23,915 --> 00:05:27,201
+qui erre sur les routes de nuit
+pour voler les voyageurs ?
+
+90
+00:05:28,684 --> 00:05:30,829
+Un tel homme serait capable de tuer.
+
+91
+00:05:36,242 --> 00:05:39,749
+- Je ne sais rien là-dessus !
+- Et que sais-tu là-dessus ?
+
+92
+00:05:42,036 --> 00:05:43,436
+Graines de Kindon.
+
+93
+00:05:44,848 --> 00:05:46,845
+Elles étaient sur le sol,
+chez Connor.
+
+94
+00:05:47,065 --> 00:05:48,861
+Le seul Kindon de East Marwen
+
+95
+00:05:48,986 --> 00:05:51,141
+pousse près de chez toi.
+
+96
+00:05:52,919 --> 00:05:55,557
+Où étais-tu à l'aube, Niles ?
+
+97
+00:05:58,887 --> 00:05:59,887
+J'étais...
+
+98
+00:06:00,434 --> 00:06:01,402
+dans les bois.
+
+99
+00:06:02,074 --> 00:06:03,174
+Je chassais.
+
+100
+00:06:05,506 --> 00:06:07,986
+On ne peut mentir
+à une inquisitrice.
+
+101
+00:06:10,154 --> 00:06:12,254
+Tu n'es jamais allé chez Conor ?
+
+102
+00:06:17,790 --> 00:06:19,372
+Declan, que fais-tu ?
+
+103
+00:06:20,074 --> 00:06:21,289
+Désolé, Luna.
+
+104
+00:06:21,648 --> 00:06:23,257
+Conor Greenleaf est mort.
+
+105
+00:06:24,012 --> 00:06:25,762
+Par la main de ton frère.
+
+106
+00:06:27,384 --> 00:06:30,347
+- Niles ne ferait jamais...
+- Ne rends pas ça plus difficile.
+
+107
+00:06:30,516 --> 00:06:32,057
+Il n'est pas un meurtrier.
+
+108
+00:06:32,262 --> 00:06:33,362
+Laissez-le !
+
+109
+00:06:41,534 --> 00:06:42,735
+Il ne dira rien.
+
+110
+00:06:44,367 --> 00:06:46,405
+On doit savoir la vérité
+sur ses crimes,
+
+111
+00:06:46,574 --> 00:06:49,624
+pour que le peuple sache
+que justice a été rendue.
+
+112
+00:06:50,949 --> 00:06:52,202
+Le confesseriez-vous ?
+
+113
+00:06:56,822 --> 00:06:58,417
+Et s'il est innocent ?
+
+114
+00:06:59,212 --> 00:07:02,337
+Il perdra son esprit,
+sa volonté, pour rien.
+
+115
+00:07:03,168 --> 00:07:04,548
+Je sais qu'il ment.
+
+116
+00:07:05,573 --> 00:07:07,777
+En Terre D'Ouest,
+on a des juges et des avocats.
+
+117
+00:07:07,902 --> 00:07:10,362
+On s'assure que la personne
+est coupable avant de la punir.
+
+118
+00:07:10,487 --> 00:07:11,388
+Les avocats,
+
+119
+00:07:12,361 --> 00:07:15,011
+mêmes sages,
+peuvent faire des erreurs.
+
+120
+00:07:15,136 --> 00:07:16,736
+Pas les inquisitrices.
+
+121
+00:07:19,315 --> 00:07:20,606
+Ça fait trois meurtres.
+
+122
+00:07:22,842 --> 00:07:24,492
+Nous le devons à Conor,
+
+123
+00:07:24,670 --> 00:07:26,420
+et aussi à la résistance.
+
+124
+00:07:49,170 --> 00:07:50,170
+Je t'ai.
+
+125
+00:07:57,144 --> 00:07:59,478
+Que s'est-il passé
+quand Conor est mort ?
+
+126
+00:08:00,670 --> 00:08:02,043
+C'était le matin.
+
+127
+00:08:02,720 --> 00:08:03,964
+Tôt le matin.
+
+128
+00:08:05,554 --> 00:08:07,254
+Je suis allé chez lui...
+
+129
+00:08:12,058 --> 00:08:13,908
+Désolé de vous avoir menti.
+
+130
+00:08:15,471 --> 00:08:16,370
+Je l'ai tué
+
+131
+00:08:17,137 --> 00:08:18,487
+j'ai pris le bol,
+
+132
+00:08:19,449 --> 00:08:20,599
+et l'encrier.
+
+133
+00:08:20,781 --> 00:08:23,381
+Que sais-tu de la mort
+de ses deux amis ?
+
+134
+00:08:25,866 --> 00:08:28,799
+T'a-t-on aidé ?
+Travailles-tu avec les D'Harans ?
+
+135
+00:08:29,136 --> 00:08:30,217
+J'ai agi seul.
+
+136
+00:08:31,804 --> 00:08:33,345
+Pitié, ne me détestez pas.
+
+137
+00:08:34,995 --> 00:08:36,295
+Je vous en prie.
+
+138
+00:08:43,916 --> 00:08:45,516
+Suis-les paisiblement.
+
+139
+00:08:45,886 --> 00:08:47,526
+Accepte ton sort dignement.
+
+140
+00:09:21,323 --> 00:09:23,155
+Sous la magie d'une inquisitrice,
+
+141
+00:09:23,280 --> 00:09:26,963
+Niles Braggindor a admis
+avoir tué Conor Greenleaf.
+
+142
+00:09:28,310 --> 00:09:29,410
+Il sera puni
+
+143
+00:09:30,343 --> 00:09:33,793
+d'après les lois des Contrées du Milieu
+et de East Marwen.
+
+144
+00:09:54,811 --> 00:09:56,420
+Bénie soit votre venue.
+
+145
+00:09:56,545 --> 00:09:59,345
+La justice est dure à accomplir
+en ces temps.
+
+146
+00:10:00,055 --> 00:10:01,755
+Toutes mes condoléances.
+
+147
+00:10:02,782 --> 00:10:04,782
+J'aimais Conor comme un frère.
+
+148
+00:10:05,585 --> 00:10:07,235
+Je sais que vous aussi.
+
+149
+00:10:08,073 --> 00:10:11,221
+Merci de m'avoir aidée
+à faire juger son meurtrier.
+
+150
+00:10:11,630 --> 00:10:13,570
+Cette ville a de la chance
+de vous avoir.
+
+151
+00:10:14,692 --> 00:10:18,450
+Conor a risqué sa vie tant de fois
+en combattant pour la liberté,
+
+152
+00:10:19,045 --> 00:10:21,295
+et il meurt pendant un cambriolage.
+
+153
+00:10:22,676 --> 00:10:25,776
+Cela n'explique toujours pas
+les deux autres morts.
+
+154
+00:10:26,094 --> 00:10:27,102
+Sergent !
+
+155
+00:10:27,780 --> 00:10:29,170
+On m'a dépouillé.
+
+156
+00:10:29,603 --> 00:10:32,637
+- Assieds-toi, j'appelle un médecin.
+- Je n'ai pas besoin de m'asseoir,
+
+157
+00:10:32,762 --> 00:10:34,925
+je dois trouver le voleur
+qui m'a tout pris.
+
+158
+00:10:35,271 --> 00:10:38,471
+- Où est-ce arrivé ?
+- À deux heures d'ici, à cheval,
+
+159
+00:10:38,648 --> 00:10:42,593
+juste après l'aube.
+Un bandit m'a menacé d'un couteau.
+
+160
+00:10:42,991 --> 00:10:45,152
+J'ai tenté de lutter,
+mais il était trop fort.
+
+161
+00:10:45,277 --> 00:10:47,957
+Viens dans mon cabinet.
+Peux-tu le décrire ?
+
+162
+00:10:48,082 --> 00:10:50,769
+Nul besoin, il est devant moi.
+
+163
+00:10:52,509 --> 00:10:53,559
+Impossible.
+
+164
+00:10:54,286 --> 00:10:55,586
+Niles était ici,
+
+165
+00:10:55,883 --> 00:10:57,533
+à East Marwen à l'aube,
+
+166
+00:10:58,126 --> 00:11:00,076
+il prenait la vie d'un homme.
+
+167
+00:11:00,415 --> 00:11:01,451
+Je vous le dis,
+
+168
+00:11:01,868 --> 00:11:03,218
+voilà mon voleur.
+
+169
+00:11:07,070 --> 00:11:10,263
+Si c'est vrai,
+on a exécuté un innocent.
+
+170
+00:11:33,332 --> 00:11:34,332
+Thaddicus.
+
+171
+00:11:41,732 --> 00:11:44,278
+- Bien le bonjour.
+- C'est moi.
+
+172
+00:11:44,621 --> 00:11:45,495
+Bien sûr.
+
+173
+00:11:46,456 --> 00:11:48,582
+Ça fait vingt-trois ans,
+comment oublier ?
+
+174
+00:11:49,852 --> 00:11:51,661
+Je ne pouvais pas t'écrire.
+
+175
+00:11:51,786 --> 00:11:54,046
+J'étais au-delà de la Frontière,
+en Terre d'Ouest.
+
+176
+00:11:54,693 --> 00:11:58,161
+Tu devais être occupé
+à tenter de sauver le monde.
+
+177
+00:12:01,093 --> 00:12:02,093
+En effet.
+
+178
+00:12:08,403 --> 00:12:10,353
+Thaddicus, mère est-elle... ?
+
+179
+00:12:12,528 --> 00:12:13,273
+Ici ?
+
+180
+00:12:14,868 --> 00:12:15,868
+Bien sûr.
+
+181
+00:12:17,029 --> 00:12:18,111
+Où irait-elle ?
+
+182
+00:12:19,365 --> 00:12:21,700
+Viens, elle sera ravie de te revoir.
+
+183
+00:12:49,837 --> 00:12:50,837
+Quand ?
+
+184
+00:12:51,745 --> 00:12:53,045
+Il y a cinq ans.
+
+185
+00:12:53,547 --> 00:12:55,092
+Ton nom aux lèvres.
+
+186
+00:12:55,321 --> 00:12:56,871
+Où est mon Zeddicus ?
+
+187
+00:12:57,216 --> 00:12:59,816
+Pourquoi ne revient-il plus
+à la maison ?
+
+188
+00:13:03,906 --> 00:13:05,867
+T'es dans un bien piteux état.
+
+189
+00:13:06,036 --> 00:13:07,736
+Viens manger un morceau.
+
+190
+00:13:09,184 --> 00:13:10,634
+Et prendre un bain.
+
+191
+00:13:15,206 --> 00:13:17,606
+Un voleur
+vous menaçait d'un couteau.
+
+192
+00:13:18,053 --> 00:13:19,386
+Vous étiez terrifié.
+
+193
+00:13:19,511 --> 00:13:21,211
+Bien sûr que je l'étais.
+
+194
+00:13:21,969 --> 00:13:24,531
+- Je sais ce que j'ai vu.
+- Je sais.
+
+195
+00:13:25,093 --> 00:13:27,343
+La même barbe, les mêmes vêtements.
+
+196
+00:13:28,414 --> 00:13:29,474
+Et ses yeux.
+
+197
+00:13:30,854 --> 00:13:31,854
+Ses yeux.
+
+198
+00:13:34,163 --> 00:13:36,263
+Vous le regardiez dans les yeux.
+
+199
+00:13:37,281 --> 00:13:40,631
+Comme vous l'avez fait avec moi
+durant ce quart d'heure.
+
+200
+00:13:41,641 --> 00:13:44,174
+De quelle couleur sont-ils ?
+Mes yeux.
+
+201
+00:13:51,030 --> 00:13:52,030
+Gris.
+
+202
+00:13:53,345 --> 00:13:55,006
+Bleus, en fait.
+
+203
+00:13:56,002 --> 00:13:59,252
+Incroyable comme l'esprit
+s'étourdit sous la pression.
+
+204
+00:14:01,356 --> 00:14:02,174
+Ou...
+
+205
+00:14:02,657 --> 00:14:04,593
+quelqu'un vous a soudoyé.
+
+206
+00:14:06,036 --> 00:14:08,386
+- Et m'a blessé ?
+- Un avertissement
+
+207
+00:14:08,540 --> 00:14:10,432
+au cas où vous n'obtempéreriez pas.
+
+208
+00:14:11,543 --> 00:14:13,030
+Cet homme m'a volé.
+
+209
+00:14:20,030 --> 00:14:21,898
+Quand tu confesses quelqu'un,
+
+210
+00:14:22,023 --> 00:14:23,873
+il tombe amoureux de toi.
+
+211
+00:14:24,079 --> 00:14:26,779
+Es-tu sûre
+qu'une fois Niles confessé,
+
+212
+00:14:27,006 --> 00:14:30,206
+il n'a pas seulement dit
+ce que tu voulais entendre ?
+
+213
+00:14:30,692 --> 00:14:32,704
+Le confessé ne peut mentir
+à l'inquisitrice
+
+214
+00:14:33,412 --> 00:14:34,862
+pour rien au monde.
+
+215
+00:14:36,957 --> 00:14:38,557
+Que vous a-t-il pris ?
+
+216
+00:14:39,638 --> 00:14:41,906
+Une bourse de pièces.
+Tous mes outils.
+
+217
+00:14:42,031 --> 00:14:44,390
+Et un bracelet
+que j'allais offrir à ma femme.
+
+218
+00:14:44,515 --> 00:14:47,219
+Des pierres vertes sur un jonc en or,
+et des rubis sur le côté.
+
+219
+00:14:47,344 --> 00:14:48,303
+Mensonge !
+
+220
+00:14:49,223 --> 00:14:51,223
+Vous allez me confesser
+pour le prouver ?
+
+221
+00:14:52,281 --> 00:14:54,100
+Vos confessions
+ne sont pas si fiables.
+
+222
+00:14:56,779 --> 00:14:59,022
+Des pierres vertes
+sur un jonc en or ?
+
+223
+00:15:00,797 --> 00:15:01,797
+Pourquoi ?
+
+224
+00:15:03,131 --> 00:15:04,069
+Le voilà.
+
+225
+00:15:04,237 --> 00:15:05,252
+Mon bracelet.
+
+226
+00:15:07,468 --> 00:15:08,718
+Où l'as-tu eu ?
+
+227
+00:15:09,656 --> 00:15:10,909
+Mon frère me l'a donné.
+
+228
+00:15:11,591 --> 00:15:12,591
+Quand ?
+
+229
+00:15:12,968 --> 00:15:15,163
+- Ce matin.
+- Juste après me l'avoir volé.
+
+230
+00:15:17,166 --> 00:15:19,032
+Il vous l'a volé ce matin ?
+
+231
+00:15:19,157 --> 00:15:20,157
+À l'aube ?
+
+232
+00:15:22,739 --> 00:15:25,030
+Il n'a pas pu tuer Conor alors.
+
+233
+00:15:25,891 --> 00:15:29,516
+Mon frère était peut-être un voleur,
+mais pas un meurtrier.
+
+234
+00:15:30,154 --> 00:15:32,097
+Vous l'avez tué.
+Il ne le méritait pas.
+
+235
+00:15:36,407 --> 00:15:37,707
+Calme-toi, Luna.
+
+236
+00:15:38,905 --> 00:15:40,177
+Calme-toi.
+
+237
+00:15:42,224 --> 00:15:44,109
+Vous êtes fière de vous,
+Inquisitrice ?
+
+238
+00:15:45,774 --> 00:15:47,562
+Vous avez tué mon frère,
+
+239
+00:15:48,086 --> 00:15:51,134
+aussi sûrement
+que si vous l'aviez empalé.
+
+240
+00:15:57,382 --> 00:15:58,582
+Désolé, Nella.
+
+241
+00:16:00,219 --> 00:16:01,980
+Niles n'a pas tué Conor.
+
+242
+00:16:03,408 --> 00:16:05,873
+Il volait un homme
+quand ton mari est mort.
+
+243
+00:16:05,998 --> 00:16:07,215
+Tu l'as confessé.
+
+244
+00:16:08,840 --> 00:16:09,890
+Il a avoué.
+
+245
+00:16:10,452 --> 00:16:11,842
+Je ne comprends pas.
+
+246
+00:16:11,967 --> 00:16:13,117
+Moi non plus.
+
+247
+00:16:14,493 --> 00:16:15,826
+Niles innocent,
+
+248
+00:16:16,212 --> 00:16:19,978
+pourquoi les objets de Conor chez lui ?
+Pourquoi ces graines sur mon sol ?
+
+249
+00:16:21,492 --> 00:16:23,192
+On cherche des réponses.
+
+250
+00:16:24,888 --> 00:16:26,151
+On n'en a pas encore.
+
+251
+00:16:30,779 --> 00:16:31,780
+Peut-être.
+
+252
+00:16:33,526 --> 00:16:36,019
+À moins qu'un homme
+ait le don d'ubiquité,
+
+253
+00:16:36,144 --> 00:16:37,508
+tout ceci est insensé
+
+254
+00:16:37,633 --> 00:16:40,999
+et chaque fois que ça arrive
+dans les Contrées du Milieu,
+
+255
+00:16:41,332 --> 00:16:43,632
+il y a toujours une chose derrière :
+
+256
+00:16:44,216 --> 00:16:45,086
+la magie.
+
+257
+00:16:47,215 --> 00:16:50,508
+J'ai raison. Y a-t-il quelqu'un
+à East Marwen qui use de magie ?
+
+258
+00:16:53,887 --> 00:16:56,989
+Un homme dans les grottes
+prétend être un sorcier.
+
+259
+00:16:59,319 --> 00:17:02,005
+Un innocent est mort à cause de moi.
+
+260
+00:17:02,130 --> 00:17:03,730
+Ce n'est pas ta faute.
+
+261
+00:17:04,052 --> 00:17:05,216
+Ça ne pouvait pas.
+
+262
+00:17:05,341 --> 00:17:07,403
+Peut-être qu'on t'a fait
+quelque chose.
+
+263
+00:17:07,528 --> 00:17:09,694
+Peut-être Darken Rahl,
+peut-être qu'il...
+
+264
+00:17:10,649 --> 00:17:11,529
+Personne...
+
+265
+00:17:12,523 --> 00:17:14,495
+Pas même un sorcier du Premier Ordre
+
+266
+00:17:14,620 --> 00:17:17,118
+n'est assez puissant
+pour contrer une inquisitrice.
+
+267
+00:17:19,510 --> 00:17:21,039
+Le souci vient de moi.
+
+268
+00:17:23,113 --> 00:17:24,113
+Écoute.
+
+269
+00:17:25,119 --> 00:17:28,170
+Il y a une explication
+et on la trouvera.
+
+270
+00:17:29,213 --> 00:17:30,413
+Je te connais.
+
+271
+00:17:30,715 --> 00:17:33,236
+Tu vaux plus
+que le pouvoir que tu as.
+
+272
+00:17:47,996 --> 00:17:49,633
+Vas-y ! Il s'enfuit.
+
+273
+00:17:54,297 --> 00:17:55,747
+Je vais la retirer.
+
+274
+00:18:13,220 --> 00:18:14,964
+Tu dois y aller. Vite !
+
+275
+00:18:15,265 --> 00:18:18,152
+- Je ne te laisserai pas.
+- J'irai en ville chercher Declan.
+
+276
+00:18:18,277 --> 00:18:19,806
+Tu dois le rattraper.
+
+277
+00:18:19,994 --> 00:18:22,099
+Vas-y. Je peux marcher. Vite !
+
+278
+00:19:08,433 --> 00:19:09,433
+Luna.
+
+279
+00:19:43,224 --> 00:19:44,682
+Tu cuisines bien, Thaddicus.
+
+280
+00:19:46,852 --> 00:19:50,103
+- Arrête avec ce ton hautain.
+- Je ne le suis pas.
+
+281
+00:19:50,941 --> 00:19:53,541
+Tu as toujours eu un don
+pour la cuisine.
+
+282
+00:19:54,042 --> 00:19:56,803
+Tes légumes, si frais et croquants.
+
+283
+00:19:58,203 --> 00:19:59,653
+Contrairement à...
+
+284
+00:19:59,778 --> 00:20:02,325
+Que les esprits me pardonnent.
+Ceux de mère.
+
+285
+00:20:07,957 --> 00:20:10,057
+Tu te souviens de ses carottes ?
+
+286
+00:20:11,938 --> 00:20:13,038
+De la purée.
+
+287
+00:20:13,325 --> 00:20:15,225
+J'en avais des haut-le-coeur.
+
+288
+00:20:18,097 --> 00:20:19,300
+Vingt-trois ans.
+
+289
+00:20:20,644 --> 00:20:22,310
+Vingt-trois ans.
+
+290
+00:20:24,153 --> 00:20:26,553
+Ta chambre
+est comme tu l'as laissée.
+
+291
+00:20:27,049 --> 00:20:28,453
+J'y vais de temps en temps,
+
+292
+00:20:28,578 --> 00:20:31,428
+vérifier que les souris
+ne l'ont pas dévastée.
+
+293
+00:20:35,972 --> 00:20:37,372
+Juste de passage ?
+
+294
+00:20:38,588 --> 00:20:41,445
+Je suis là
+pour quelque chose d'important.
+
+295
+00:20:42,897 --> 00:20:44,197
+Quelle surprise.
+
+296
+00:20:44,525 --> 00:20:46,955
+Zeddicus se montre
+quand il a besoin.
+
+297
+00:20:47,513 --> 00:20:48,870
+C'est quoi cette fois ?
+
+298
+00:20:48,995 --> 00:20:51,695
+Des pierres de nuit ?
+Du sable de sorcier ?
+
+299
+00:20:51,868 --> 00:20:54,354
+C'est trop tard.
+J'ai déjà tout vendu.
+
+300
+00:20:55,614 --> 00:20:58,064
+Tu n'as pas vendu
+ce dont j'ai besoin.
+
+301
+00:20:59,196 --> 00:21:00,800
+La clé de la crypte de Tavol'Rang.
+
+302
+00:21:02,601 --> 00:21:04,304
+La première chose vendue.
+
+303
+00:21:06,216 --> 00:21:09,035
+Tu te rends compte
+de ce que tu as fait ?
+
+304
+00:21:10,350 --> 00:21:13,050
+Notre famille
+a toujours protégé cette clé.
+
+305
+00:21:13,509 --> 00:21:15,649
+C'était un serment de nos ancêtres
+
+306
+00:21:15,774 --> 00:21:17,734
+aux sorciers du Premier Ordre.
+
+307
+00:21:17,903 --> 00:21:19,853
+Voici un petit topo, frérot :
+
+308
+00:21:20,016 --> 00:21:21,816
+je ne suis pas un sorcier.
+
+309
+00:21:22,467 --> 00:21:24,157
+Comme tu me l'as toujours rappelé.
+
+310
+00:21:24,326 --> 00:21:27,318
+Tu sais que tous
+n'héritent pas du pouvoir.
+
+311
+00:21:27,918 --> 00:21:30,103
+Je ne m'excuserai pas
+pour le destin.
+
+312
+00:21:30,228 --> 00:21:33,029
+Donc me traiter avec arrogance...
+C'était le destin ?
+
+313
+00:21:33,154 --> 00:21:36,169
+Me laisser les corvées
+pour sauver le monde ?
+
+314
+00:21:37,337 --> 00:21:39,672
+M'entendre dire
+"Va jouer, Thaddicus",
+
+315
+00:21:40,087 --> 00:21:43,384
+alors que père se consacrait
+à l'entraînement du grand Zeddicus ?
+
+316
+00:21:44,284 --> 00:21:46,415
+Les souvenirs s'effacent,
+
+317
+00:21:47,219 --> 00:21:50,688
+mais le bruit du martinet de père
+ne s'oublie pas.
+
+318
+00:21:51,676 --> 00:21:53,126
+Il te faut la clé ?
+
+319
+00:21:53,438 --> 00:21:55,988
+Pourquoi tes pouvoirs
+ne la créent pas ?
+
+320
+00:21:56,167 --> 00:21:59,528
+Tu adorais les montrer
+à ton pauvre et impuissant frère.
+
+321
+00:21:59,911 --> 00:22:01,880
+Ça ne marche pas comme ça.
+
+322
+00:22:03,426 --> 00:22:05,397
+D'où que tu viennes,
+tu aurais dû y rester.
+
+323
+00:22:05,522 --> 00:22:08,277
+Tu n'avais pas le droit
+de vendre la clé !
+
+324
+00:22:09,230 --> 00:22:10,411
+Tu n'as pas changé,
+
+325
+00:22:11,080 --> 00:22:13,665
+à ne penser qu'au prochain sou
+dans ta poche.
+
+326
+00:22:14,061 --> 00:22:16,000
+Je parie tous les joyaux de Tamarang
+
+327
+00:22:16,169 --> 00:22:19,503
+que tu as joué
+l'argent gagné lors de ces ventes.
+
+328
+00:22:21,498 --> 00:22:23,298
+Ferme la porte en partant.
+
+329
+00:22:40,592 --> 00:22:41,609
+Vous l'avez vu ?
+
+330
+00:22:43,317 --> 00:22:45,905
+Il n'était qu'une ombre
+dans l'obscurité.
+
+331
+00:22:46,651 --> 00:22:48,151
+Ce serait un homme ?
+
+332
+00:22:48,640 --> 00:22:50,201
+Luna est folle de rage,
+
+333
+00:22:50,649 --> 00:22:52,078
+surtout contre vous.
+
+334
+00:22:53,435 --> 00:22:56,351
+Son père lui a appris à chasser,
+comme Niles.
+
+335
+00:22:57,198 --> 00:22:58,751
+Elle sait utiliser une arbalète.
+
+336
+00:22:59,843 --> 00:23:02,283
+- On doit aller chez elle.
+- Vous ne pouvez pas.
+
+337
+00:23:02,408 --> 00:23:04,007
+J'ai vu pire. On y va.
+
+338
+00:23:54,773 --> 00:23:56,184
+Que s'est-il passé ?
+
+339
+00:24:01,607 --> 00:24:02,757
+Je l'ai tuée.
+
+340
+00:24:12,990 --> 00:24:14,535
+J'ai suivi Luna chez elle.
+
+341
+00:24:15,460 --> 00:24:19,160
+Je savais que c'était Luna
+quand j'ai vu la cape et l'arbalète.
+
+342
+00:24:22,282 --> 00:24:23,282
+Et puis...
+
+343
+00:24:25,330 --> 00:24:27,780
+En ensuite ?
+Tu as vu l'arbalète...
+
+344
+00:24:29,256 --> 00:24:31,556
+J'ai entendu du bruit. C'était Luna.
+
+345
+00:24:32,479 --> 00:24:35,174
+Elle m'a attaqué,
+et je me suis défendu.
+
+346
+00:24:37,763 --> 00:24:39,508
+Elle m'a griffé au cou.
+
+347
+00:24:40,318 --> 00:24:41,818
+Elle était désarmée.
+
+348
+00:24:43,138 --> 00:24:45,521
+- La blesser était inutile.
+- Je vous en prie,
+
+349
+00:24:45,646 --> 00:24:47,346
+ne me faites pas de mal.
+
+350
+00:24:50,866 --> 00:24:52,266
+Mais je l'ai tuée.
+
+351
+00:24:54,789 --> 00:24:56,244
+Je n'y crois pas.
+
+352
+00:24:58,894 --> 00:24:59,994
+Regarde-moi.
+
+353
+00:25:01,818 --> 00:25:05,253
+Le Richard que je connais
+risque sa vie pour les autres.
+
+354
+00:25:06,685 --> 00:25:09,333
+Tu n'aurais pas tué une femme
+sans défense, je le sais.
+
+355
+00:25:09,458 --> 00:25:11,558
+Si, Kahlan. Je m'en souviens.
+
+356
+00:25:14,474 --> 00:25:17,366
+Comme Niles s'est souvenu
+avoir tué Conor.
+
+357
+00:25:18,822 --> 00:25:21,686
+Peut-être que ses souvenirs
+étaient faux, comme les tiens.
+
+358
+00:25:23,368 --> 00:25:26,218
+Tu disais que la magie
+était derrière tout ça.
+
+359
+00:25:26,774 --> 00:25:28,474
+Je commence à le croire.
+
+360
+00:25:29,187 --> 00:25:31,130
+On doit trouver ce sorcier.
+
+361
+00:25:32,101 --> 00:25:33,901
+J'espère que tu as raison.
+
+362
+00:25:34,384 --> 00:25:36,033
+Car je ne me fais plus confiance.
+
+363
+00:25:38,140 --> 00:25:39,537
+Et si je recommence ?
+
+364
+00:25:40,017 --> 00:25:40,913
+Non.
+
+365
+00:25:41,465 --> 00:25:43,615
+Je serai avec toi. Tout le temps.
+
+366
+00:25:49,770 --> 00:25:52,820
+Si c'est pour d'autres artefacts
+pour tes projets,
+
+367
+00:25:52,947 --> 00:25:55,469
+va-t'en.
+Je les ai perdus aux cartes.
+
+368
+00:25:57,716 --> 00:25:59,366
+Fin du délai, Zorander.
+
+369
+00:25:59,648 --> 00:26:01,348
+Cent pièces d'or.
+
+370
+00:26:02,194 --> 00:26:03,844
+Je ne t'en dois que 70.
+
+371
+00:26:05,017 --> 00:26:07,562
+Les 30 autres sont pour ma patience.
+
+372
+00:26:08,462 --> 00:26:09,984
+J'ai rien. Je peux pas payer.
+
+373
+00:26:11,168 --> 00:26:13,255
+Tu vas payer. Lentement.
+
+374
+00:26:14,345 --> 00:26:16,395
+Si je ne peux avoir mon argent,
+
+375
+00:26:16,683 --> 00:26:18,413
+je m'amuserai avec toi à la place.
+
+376
+00:26:36,788 --> 00:26:39,972
+Si tu oses retoucher à mon frère
+une fois encore,
+
+377
+00:26:40,600 --> 00:26:42,450
+tu me supplieras de mourir.
+
+378
+00:26:43,270 --> 00:26:44,286
+Dehors.
+
+379
+00:27:02,157 --> 00:27:03,704
+Pourquoi es-tu revenu ?
+
+380
+00:27:04,584 --> 00:27:08,431
+J'étais loin d'ici quand,
+une fois calmé, j'ai réalisé...
+
+381
+00:27:13,357 --> 00:27:16,259
+Le devoir qui m'appelle
+est dangereux, Thaddicus.
+
+382
+00:27:18,430 --> 00:27:20,830
+Les chances
+que je revienne vivant...
+
+383
+00:27:21,047 --> 00:27:22,147
+sont minces.
+
+384
+00:27:23,253 --> 00:27:26,101
+Je ne voulais partir dans les ténèbres
+en sachant que mes derniers mots
+
+385
+00:27:26,226 --> 00:27:28,219
+pour mon frère seraient
+
+386
+00:27:29,049 --> 00:27:30,049
+amers
+
+387
+00:27:30,827 --> 00:27:31,927
+et injustes.
+
+388
+00:27:34,379 --> 00:27:35,804
+Arrangeons ça.
+
+389
+00:27:37,491 --> 00:27:39,865
+On dirait un navet de mère
+après une heure de cuisson.
+
+390
+00:27:42,981 --> 00:27:43,981
+En plus,
+
+391
+00:27:45,217 --> 00:27:46,617
+j'ai toujours aimé
+
+392
+00:27:46,996 --> 00:27:48,546
+montrer mes pouvoirs.
+
+393
+00:27:54,988 --> 00:27:57,584
+Tu es le seul sorcier aux alentours.
+
+394
+00:27:58,109 --> 00:28:01,262
+Que sais-tu sur ces meurtres ?
+Sont-ils ton oeuvre ?
+
+395
+00:28:06,899 --> 00:28:08,308
+Il dit la vérité.
+
+396
+00:28:08,594 --> 00:28:11,807
+En fait, je suis beaucoup plus
+un apprenti sorcier.
+
+397
+00:28:12,787 --> 00:28:14,900
+J'ai étudié toute ma vie
+les livres de magie,
+
+398
+00:28:15,185 --> 00:28:18,904
+et j'ai appris des tours qu'on fait
+avec de la poudre et des potions.
+
+399
+00:28:19,285 --> 00:28:22,283
+- Tu n'as aucun pouvoir ?
+- Mais je peux quand même vous aider.
+
+400
+00:28:22,452 --> 00:28:25,202
+Ma connaissance dans le domaine
+est étendue.
+
+401
+00:28:25,407 --> 00:28:28,748
+Ces victimes pensent qu'elles ont fait
+une chose qu'elles n'ont pas faite.
+
+402
+00:28:29,337 --> 00:28:31,437
+Elles ne font pas que le penser.
+
+403
+00:28:32,549 --> 00:28:35,542
+Dans leurs têtes,
+elles se voient le faire.
+
+404
+00:28:35,667 --> 00:28:36,797
+Visions partagées.
+
+405
+00:28:37,523 --> 00:28:39,073
+De la magie mnésique.
+
+406
+00:28:39,699 --> 00:28:42,166
+J'ai lu quelque chose sur ça dans...
+
+407
+00:28:42,937 --> 00:28:43,929
+ce livre.
+
+408
+00:28:44,347 --> 00:28:47,285
+Il y a des récits
+sur une ancienne technique
+
+409
+00:28:47,766 --> 00:28:50,316
+qui produit les effets
+dont vous parlez.
+
+410
+00:28:51,193 --> 00:28:52,193
+Le voici.
+
+411
+00:28:52,422 --> 00:28:53,765
+L'orbe d'Azzallel.
+
+412
+00:28:53,890 --> 00:28:56,150
+Azzallel était un magicien
+extraordinairement doué.
+
+413
+00:28:56,550 --> 00:28:58,861
+Sa femme donna naissance
+à une fille aveugle.
+
+414
+00:28:59,072 --> 00:29:01,352
+Azzallel tenta, mais sans succès,
+
+415
+00:29:01,477 --> 00:29:03,887
+d'apporter la vue à sa fille.
+
+416
+00:29:04,012 --> 00:29:06,372
+Mais au lieu de cela,
+il a créé un moyen
+
+417
+00:29:06,497 --> 00:29:08,824
+de prélever les visions de sa tête
+
+418
+00:29:09,074 --> 00:29:11,624
+et les implanter
+dans celle de sa fille.
+
+419
+00:29:12,052 --> 00:29:13,501
+L'orbe d'Azzallel a été volé
+
+420
+00:29:14,055 --> 00:29:16,734
+voilà 200 ans
+et on la croyait perdue à jamais.
+
+421
+00:29:16,859 --> 00:29:18,109
+Bonjour, Bosin.
+
+422
+00:29:18,758 --> 00:29:21,808
+Tu continues à voler l'argent
+des vieilles dames ?
+
+423
+00:29:24,347 --> 00:29:26,147
+J'ai trouvé quelque chose.
+
+424
+00:29:26,477 --> 00:29:28,467
+En fouillant la cabane de Luna,
+
+425
+00:29:28,592 --> 00:29:32,092
+un de mes hommes a retiré
+de la cheminée ce document brûlé.
+
+426
+00:29:32,454 --> 00:29:34,154
+On y voit de l'écriture,
+
+427
+00:29:34,615 --> 00:29:37,608
+mais je n'arrive pas à le lire.
+Vous aurez peut-être plus de chance.
+
+428
+00:29:38,476 --> 00:29:40,026
+Nul besoin de chance.
+
+429
+00:29:40,271 --> 00:29:42,121
+Je peux vous aider pour ça.
+
+430
+00:29:42,543 --> 00:29:43,543
+Puis-je ?
+
+431
+00:29:50,173 --> 00:29:52,223
+Cendres d'un fémur de Shadrin.
+
+432
+00:30:02,927 --> 00:30:04,135
+Je vous le disais,
+
+433
+00:30:04,372 --> 00:30:06,122
+seulement quelques tours.
+
+434
+00:30:13,928 --> 00:30:15,051
+"Chére Luna.
+
+435
+00:30:15,832 --> 00:30:17,688
+"Je ne puis te voir, ce soir.
+
+436
+00:30:17,813 --> 00:30:19,863
+"Je pense que ma femme le sait.
+
+437
+00:30:20,177 --> 00:30:22,403
+"Tu me manques terriblement. Conor."
+
+438
+00:30:22,728 --> 00:30:24,238
+Conor et Luna étaient amants ?
+
+439
+00:30:25,813 --> 00:30:27,032
+Si Nella l'a appris,
+
+440
+00:30:27,242 --> 00:30:30,192
+elle aurait une bonne raison
+de tuer son mari...
+
+441
+00:30:30,809 --> 00:30:31,745
+et Luna.
+
+442
+00:30:38,516 --> 00:30:39,753
+Mon mari est mort.
+
+443
+00:30:41,278 --> 00:30:43,278
+Pourquoi me faites-vous cela ?
+
+444
+00:30:54,666 --> 00:30:56,716
+As-tu assassiné Conor et Luna ?
+
+445
+00:31:04,116 --> 00:31:06,697
+Et transmis
+tes propres souvenirs à Niles ?
+
+446
+00:31:07,567 --> 00:31:08,567
+Et à moi ?
+
+447
+00:31:09,626 --> 00:31:10,926
+Je suis désolée.
+
+448
+00:31:13,790 --> 00:31:14,914
+Où est-il, Nella ?
+
+449
+00:31:15,388 --> 00:31:16,638
+Où est l'orbe ?
+
+450
+00:31:59,821 --> 00:32:03,546
+J'avais dit à Conor que je portais
+le petit-déjeuner à une amie malade.
+
+451
+00:32:04,774 --> 00:32:06,924
+Mais je ne suis pas allé bien loin.
+
+452
+00:32:11,551 --> 00:32:12,888
+Après avoir tué Connor,
+
+453
+00:32:14,049 --> 00:32:17,249
+j'ai ramassé les graines
+à côté de la cabane de Niles
+
+454
+00:32:18,088 --> 00:32:20,488
+et les ai dispersées
+autour du corps.
+
+455
+00:32:21,895 --> 00:32:25,835
+Puis, j'ai mis la maison en désordre
+et caché nos biens chez Niles.
+
+456
+00:32:27,302 --> 00:32:31,152
+Il ne restait plus qu'à mettre
+cette vision dans la tête de Niles.
+
+457
+00:32:33,486 --> 00:32:35,828
+Et les souvenirs qu'a Richard
+du meurtre de Luna ?
+
+458
+00:32:37,559 --> 00:32:39,309
+Juste après l'avoir tuée,
+
+459
+00:32:40,286 --> 00:32:42,876
+Richard est arrivé en courant
+dans la cabane.
+
+460
+00:32:47,216 --> 00:32:49,816
+Comment ai-je pu faire
+pareilles choses ?
+
+461
+00:32:57,065 --> 00:32:59,018
+Il est temps de partir, Nella.
+
+462
+00:33:11,421 --> 00:33:13,532
+Une tarte au citron
+faite de mes mains.
+
+463
+00:33:13,701 --> 00:33:17,001
+Tu sais, tu pourrais honnêtement
+gagner ta vie avec ça.
+
+464
+00:33:18,090 --> 00:33:20,372
+Sois encore arrogant
+et tu auras un sac de sable.
+
+465
+00:33:23,289 --> 00:33:24,389
+Où iras-tu ?
+
+466
+00:33:25,058 --> 00:33:28,630
+Moins tu en sais,
+mieux c'est pour toi.
+
+467
+00:33:30,361 --> 00:33:33,256
+Je sais que je suis coupable
+par moment de suffisance,
+
+468
+00:33:33,381 --> 00:33:34,731
+mais dans ce cas,
+
+469
+00:33:35,575 --> 00:33:37,558
+le sort du monde pourrait dépendre
+
+470
+00:33:37,683 --> 00:33:39,767
+du succès de la mission
+qui m'appelle.
+
+471
+00:33:48,581 --> 00:33:49,781
+Dans ce cas...
+
+472
+00:33:53,519 --> 00:33:54,969
+tu en auras besoin.
+
+473
+00:34:03,696 --> 00:34:05,896
+La clé de la crypte de Tavol'Rang.
+
+474
+00:34:08,602 --> 00:34:10,402
+Tu l'avais tout ce temps ?
+
+475
+00:34:10,610 --> 00:34:11,507
+Bien sûr.
+
+476
+00:34:12,323 --> 00:34:14,072
+Mère serait sortie de sa tombe,
+
+477
+00:34:14,197 --> 00:34:17,602
+si je l'avais laissée loin de ma vue
+ne serait-ce qu'une seconde.
+
+478
+00:34:17,727 --> 00:34:19,877
+Comment as-tu osé me faire cela ?
+
+479
+00:34:20,588 --> 00:34:21,838
+J'étais furieux
+
+480
+00:34:22,444 --> 00:34:24,894
+que tu sois revenu
+pour la chercher...
+
+481
+00:34:25,726 --> 00:34:27,226
+et non pour me voir.
+
+482
+00:34:29,881 --> 00:34:31,831
+Je voulais également te voir.
+
+483
+00:34:49,540 --> 00:34:52,869
+- Comment te sens-tu ?
+- Comme si j'avais tué une innocente.
+
+484
+00:34:52,994 --> 00:34:54,894
+Je continue à voir sa mort.
+
+485
+00:34:55,352 --> 00:34:58,552
+À entendre ses cris
+et sentir son sang sur mes mains.
+
+486
+00:35:01,094 --> 00:35:03,147
+J'aimais Conor et Nella.
+
+487
+00:35:04,750 --> 00:35:07,150
+Ils auraient donné
+leur vie pour moi.
+
+488
+00:35:07,454 --> 00:35:09,022
+Ils l'ont presque fait.
+
+489
+00:35:09,751 --> 00:35:11,551
+Les perdre à cause de ça ?
+
+490
+00:35:12,337 --> 00:35:14,737
+Pour de la jalousie
+et de la colère !
+
+491
+00:35:19,023 --> 00:35:21,076
+Tu n'es pas obligée d'y assister.
+
+492
+00:35:24,978 --> 00:35:27,489
+Les deux autres morts,
+je voudrais parler à leurs familles,
+
+493
+00:35:27,614 --> 00:35:30,164
+une chose vous aurait
+peut-être échappé.
+
+494
+00:35:30,412 --> 00:35:32,671
+Je vous y conduirai, tout à l'heure.
+
+495
+00:35:34,672 --> 00:35:36,272
+Ne vous inquiétez pas,
+
+496
+00:35:37,669 --> 00:35:39,793
+l'oeuvre de Conor continuera,
+
+497
+00:35:40,582 --> 00:35:41,682
+malgré tout.
+
+498
+00:35:58,377 --> 00:35:59,777
+Est-ce que ça va ?
+
+499
+00:36:03,013 --> 00:36:06,079
+Quand tu as décrit le meurtre de Luna,
+tu disais qu'elle t'avait griffé.
+
+500
+00:36:06,498 --> 00:36:08,207
+Elle s'est jetée sur mon visage.
+
+501
+00:36:09,948 --> 00:36:13,101
+Elle m'a griffé ici.
+Ça faisait terriblement mal.
+
+502
+00:36:13,226 --> 00:36:16,924
+J'ai vu trois profondes écorchures,
+au même endroit, sur le cou de Declan.
+
+503
+00:36:19,106 --> 00:36:20,928
+- Tu es sûre ?
+- Ce n'est pas fortuit.
+
+504
+00:36:21,449 --> 00:36:24,723
+Luna a griffé son assaillant.
+C'est lui qui les a tous tués.
+
+505
+00:36:26,227 --> 00:36:29,477
+Nella Greenleaf va maintenant
+être confiée aux ombres,
+
+506
+00:36:30,527 --> 00:36:33,857
+en accord avec les lois des Contrées
+du Milieu et de East Marwen.
+
+507
+00:36:34,026 --> 00:36:35,776
+- Attendez !
+- Arrêtez !
+
+508
+00:36:36,081 --> 00:36:38,821
+- Ouvrez la trappe.
+- Il a tué Conor. Il les a tous tués !
+
+509
+00:36:39,276 --> 00:36:40,526
+Tout de suite !
+
+510
+00:37:08,831 --> 00:37:11,031
+Je ne suis pas dans la résistance.
+
+511
+00:37:13,197 --> 00:37:15,400
+Je tente d'éliminer la résistance.
+
+512
+00:37:16,521 --> 00:37:17,521
+Pourquoi ?
+
+513
+00:37:18,604 --> 00:37:20,304
+Je crois en Darken Rahl.
+
+514
+00:37:21,002 --> 00:37:22,811
+Car il nous protégera.
+
+515
+00:37:24,366 --> 00:37:27,578
+Vous saviez que tuer Conor
+allait attirer l'attention.
+
+516
+00:37:29,375 --> 00:37:31,075
+Je n'avais pas le choix.
+
+517
+00:37:33,500 --> 00:37:35,692
+Conor me soupçonnait.
+
+518
+00:37:36,616 --> 00:37:39,923
+Quand il m'a dit qu'il avait demandé
+votre aide, j'ai dû agir rapidement.
+
+519
+00:37:43,827 --> 00:37:45,446
+La partie la plus complexe
+
+520
+00:37:45,571 --> 00:37:48,348
+a été de faire croire que le meurtre
+a été commis par Niles.
+
+521
+00:37:50,241 --> 00:37:52,227
+D'où avez-vous eu
+l'orbe d'Azzallel ?
+
+522
+00:37:52,436 --> 00:37:53,686
+De mon père.
+
+523
+00:37:55,869 --> 00:37:59,269
+Il appartient à ma famille
+depuis des centaines d'années.
+
+524
+00:38:02,228 --> 00:38:03,923
+Il est exceptionnel,
+
+525
+00:38:04,418 --> 00:38:05,418
+vraiment.
+
+526
+00:38:05,922 --> 00:38:07,799
+Vous n'avez qu'à penser à une chose
+
+527
+00:38:07,924 --> 00:38:10,495
+dont vous voulez
+que l'autre personne se souvienne
+
+528
+00:38:10,795 --> 00:38:12,645
+et le cercle fait le reste.
+
+529
+00:38:15,764 --> 00:38:17,432
+Tout était parfait,
+
+530
+00:38:18,903 --> 00:38:21,757
+jusqu'à ce que cet homme,
+que Niles a volé, fasse son apparition
+
+531
+00:38:22,190 --> 00:38:23,990
+après que Niles ait été...
+
+532
+00:38:24,208 --> 00:38:25,208
+pendu.
+
+533
+00:38:25,774 --> 00:38:27,324
+Par la suite, vous...
+
+534
+00:38:28,077 --> 00:38:30,527
+n'arrêtiez pas
+de poser des questions.
+
+535
+00:38:33,656 --> 00:38:36,396
+La présence d'une inquisitrice
+me mettait en danger.
+
+536
+00:38:36,760 --> 00:38:38,710
+J'ai donc tenté de vous tuer.
+
+537
+00:38:40,011 --> 00:38:43,161
+Le sourcier m'a suivi,
+je devais couvrir mes traces.
+
+538
+00:38:43,421 --> 00:38:45,219
+J'ai couru chez Luna.
+
+539
+00:38:59,156 --> 00:39:00,856
+Ne me faites pas de mal.
+
+540
+00:39:07,852 --> 00:39:09,972
+C'est donc vous qui m'avez assommé.
+
+541
+00:39:11,125 --> 00:39:14,475
+J'ai mis le souvenir du meurtre de Luna
+dans votre tête.
+
+542
+00:39:14,649 --> 00:39:17,399
+Ça me paraissait être
+la meilleure solution.
+
+543
+00:39:18,281 --> 00:39:19,679
+Je n'avais pas prévu
+
+544
+00:39:19,804 --> 00:39:23,604
+le fait que l'inquisitrice
+allait se battre pour votre innocence.
+
+545
+00:39:24,092 --> 00:39:27,742
+J'ai donc transmis les souvenirs
+de tous ces meurtres à Nella.
+
+546
+00:39:30,029 --> 00:39:31,952
+Pour en faire l'instigatrice.
+
+547
+00:39:32,717 --> 00:39:34,997
+Alors, Conor et Luna
+n'étaient pas amants ?
+
+548
+00:39:35,385 --> 00:39:37,535
+J'ai moi-même écrit cette lettre.
+
+549
+00:39:38,175 --> 00:39:42,179
+Je savais que l'ermite avait le pouvoir
+de restaurer les objets brûlés.
+
+550
+00:39:43,188 --> 00:39:46,129
+Un tour qu'il faisait
+pour les enfants.
+
+551
+00:39:47,153 --> 00:39:49,003
+Avez-vous tué les deux autres ?
+
+552
+00:39:49,128 --> 00:39:51,513
+Le suicide et l'accident,
+c'était vous ?
+
+553
+00:39:55,000 --> 00:39:56,200
+Tous les deux.
+
+554
+00:39:57,541 --> 00:40:00,691
+Je vois les erreurs
+que j'ai commises, Inquisitrice.
+
+555
+00:40:02,094 --> 00:40:05,957
+J'espère que vous me permettrez
+de les réparer en vous servant
+
+556
+00:40:07,247 --> 00:40:09,137
+pour le reste de mes jours.
+
+557
+00:40:11,522 --> 00:40:12,522
+Ma volonté
+
+558
+00:40:13,078 --> 00:40:15,746
+est que vous mourriez
+à la tombée de la nuit.
+
+559
+00:40:22,860 --> 00:40:25,213
+Mais d'ici là,
+vous feriez mieux d'être loin d'ici.
+
+560
+00:40:26,403 --> 00:40:30,407
+J'ai prévenu les D'Harans de la présence
+du sourcier est à East Marwen.
+
+561
+00:40:30,846 --> 00:40:34,405
+Ils arrivent de Fort Naramond,
+pour capturer le sourcier.
+
+562
+00:40:35,613 --> 00:40:37,684
+Ils seront là au coucher du soleil.
+
+563
+00:40:39,014 --> 00:40:40,264
+On doit partir.
+
+564
+00:40:42,090 --> 00:40:44,440
+Il me reste une seule chose à faire.
+
+565
+00:40:45,147 --> 00:40:46,693
+Ce n'était pas ta faute.
+
+566
+00:40:46,936 --> 00:40:48,904
+Declan s'est joué de nous tous.
+
+567
+00:40:52,155 --> 00:40:54,391
+J'aurais dû le savoir plus tôt.
+
+568
+00:40:55,795 --> 00:40:57,954
+Tu as réussi à rendre justice
+à mon mari.
+
+569
+00:41:06,856 --> 00:41:08,356
+Tout ce que tu veux.
+
+570
+00:41:09,409 --> 00:41:10,759
+Quand tu le veux.
+
+571
+00:41:17,740 --> 00:41:19,476
+Une histoire remarquable.
+
+572
+00:41:19,658 --> 00:41:21,478
+Et un puissant instrument de magie.
+
+573
+00:41:22,082 --> 00:41:25,004
+Je me revois tuer cette femme
+comme je vous vois à l'instant.
+
+574
+00:41:25,129 --> 00:41:27,067
+Nul ne devrait vivre
+avec pareil souvenir,
+
+575
+00:41:27,407 --> 00:41:29,607
+à l'exception d'un vrai meurtrier.
+
+576
+00:41:30,627 --> 00:41:34,282
+Je pourrais utiliser la magie d'Azzallel
+pour l'enlever de ta mémoire.
+
+577
+00:41:34,882 --> 00:41:36,368
+Ce serait très gentil.
+
+578
+00:41:36,589 --> 00:41:40,253
+Quoique, Richard n'est peut-être pas
+celui qui en a le plus besoin.
+
+579
+00:41:40,378 --> 00:41:42,528
+- Tu veux... ?
+- Absolument pas.
+
+580
+00:41:47,069 --> 00:41:49,619
+Ce que j'ai fait...
+est vraiment arrivé.
+
+581
+00:41:50,426 --> 00:41:53,526
+Je ne suis pas aussi infaillible
+que je le pensais.
+
+582
+00:41:53,720 --> 00:41:56,304
+Et cela a coûté la vie à un homme.
+Je ne veux pas l'oublier.
+
+583
+00:41:58,380 --> 00:42:00,267
+C'était pas si complexe
+en Terre d'Ouest.
+
+584
+00:42:00,887 --> 00:42:02,768
+Tu peux encore y retourner.
+
+585
+00:42:06,148 --> 00:42:07,348
+Aucune chance.
+
+586
+00:42:09,611 --> 00:42:12,361
+Venons-en à des questions
+plus pressantes...
+
+587
+00:42:13,543 --> 00:42:16,029
+La clé magique
+de la crypte de Tavol'Rang.
+
+588
+00:42:16,154 --> 00:42:17,304
+Vous l'avez !
+
+589
+00:42:19,329 --> 00:42:21,329
+Comment s'est passée
+cette visite familiale ?
+
+590
+00:42:23,787 --> 00:42:26,084
+C'était une visite
+avec de la famille.
+
+591
+00:42:28,338 --> 00:42:29,504
+Es-tu prêt ?
+
+592
+00:42:40,327 --> 00:42:42,277
+www.u-sub.net
+www.sub-way.fr
+

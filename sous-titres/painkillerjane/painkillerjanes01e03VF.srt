@@ -1,0 +1,2770 @@
+1
+00:00:00,694 --> 00:00:02,103
+<i>Je m'appelle Jane Vasco.</i>
+
+2
+00:00:02,210 --> 00:00:03,461
+Je peux vous prendre
+dans mon équipe.
+
+3
+00:00:03,619 --> 00:00:07,151
+<i>Je travaille pour une agence
+secrète qui chasse les Neuros.</i>
+
+4
+00:00:07,283 --> 00:00:10,171
+<i>Des gens qui peuvent faire des
+choses dangereuses avec leur esprit.</i>
+
+5
+00:00:11,660 --> 00:00:12,907
+<i>À ma première mission,</i>
+
+6
+00:00:12,908 --> 00:00:14,571
+<i>un truc un peu bizarre est arrivé...</i>
+
+7
+00:00:15,373 --> 00:00:18,223
+<i>D'accord, quelque chose
+de vraiment bizarre.</i>
+
+8
+00:00:18,657 --> 00:00:22,379
+<i>En attendant des réponses, ma vie suit
+son cours, je fais mon boulot.</i>
+
+9
+00:00:23,345 --> 00:00:26,267
+<i>Stockez de l'aspirine, parce que...</i>
+
+10
+00:00:27,152 --> 00:00:28,031
+<i>je vous le dis,</i>
+
+11
+00:00:28,719 --> 00:00:29,719
+<i>la douleur, ça craint !</i>
+
+12
+00:00:46,781 --> 00:00:48,095
+Mais qu'est-ce que tu fais ?
+
+13
+00:00:48,096 --> 00:00:50,929
+On n'est pas supposé aller
+à plus de 70 ici !
+
+14
+00:00:52,031 --> 00:00:53,406
+On va quitter la voie !
+
+15
+00:00:53,407 --> 00:00:54,343
+Ralentis !
+
+16
+00:00:54,344 --> 00:00:55,455
+Ralentis maintenant !
+
+17
+00:00:56,032 --> 00:00:56,469
+Je...
+
+18
+00:00:56,470 --> 00:00:57,343
+Je ne sais pas comment.
+
+19
+00:00:57,344 --> 00:00:59,156
+Mais qu'est-ce que tu racontes ?
+
+20
+00:00:59,157 --> 00:01:00,212
+Je ne sais pas comment !
+
+21
+00:01:18,656 --> 00:01:20,982
+On dit qu'on peut se sentir
+plus seul dans une foule 
+
+22
+00:01:21,231 --> 00:01:22,775
+que quand on est vraiment seul.
+
+23
+00:01:23,094 --> 00:01:24,094
+Peut-être.
+
+24
+00:01:24,534 --> 00:01:25,843
+Moi je vous dis...
+
+25
+00:01:25,844 --> 00:01:29,677
+celui qui a dit ça, n'a jamais marché
+dans la foule comme je le fais.
+
+26
+00:01:30,534 --> 00:01:33,589
+Difficile de se sentir seul
+quand chaque moment
+
+27
+00:01:33,720 --> 00:01:36,220
+est passé à éviter
+d'être volée,
+
+28
+00:01:36,659 --> 00:01:39,139
+bousculée,
+harcelée et injuriée.
+
+29
+00:01:39,969 --> 00:01:41,191
+J'ai dit être pelotée ?
+
+30
+00:01:42,031 --> 00:01:44,844
+Je sais que j'habite pas
+les beaux quartiers,
+
+31
+00:01:44,845 --> 00:01:47,345
+pas qu'il y en ait encore
+beaucoup de nos jours,
+
+32
+00:01:47,845 --> 00:01:49,896
+mais j'ai pas les moyens d'aller ailleurs.
+
+33
+00:01:50,094 --> 00:01:54,017
+Quand l'environnement est-il devenu
+l'excuse de notre incivisme ?
+
+34
+00:01:54,344 --> 00:01:56,621
+Je veux dire, qu'est
+devenue la courtoisie ?
+
+35
+00:01:57,157 --> 00:01:59,045
+Est-ce que tout le monde
+est si totalement absorbé
+
+36
+00:01:59,094 --> 00:02:00,982
+par sa propre existence
+de nos jours ?
+
+37
+00:02:03,095 --> 00:02:05,150
+Disons que j'ai rien
+demandé.
+
+38
+00:02:06,595 --> 00:02:09,719
+Je réalise que les apparences
+peuvent être trompeuses,
+
+39
+00:02:10,278 --> 00:02:12,238
+parfois très trompeuses.
+
+40
+00:02:12,970 --> 00:02:16,197
+Soyons réalistes,
+la vie peut-être trompeuse.
+
+41
+00:02:17,281 --> 00:02:22,184
+Juste quand on pense qu'on en
+est sorti, ça nous retombe dessus.
+
+42
+00:02:26,309 --> 00:02:28,184
+On est pas supposé aller
+à plus de 70 ici !
+
+43
+00:02:28,185 --> 00:02:29,559
+On va quitter la voie !
+
+44
+00:02:29,560 --> 00:02:30,495
+Ralentis !
+
+45
+00:02:30,496 --> 00:02:31,607
+Ralentis maintenant!!!
+
+46
+00:02:32,184 --> 00:02:32,558
+Je...
+
+47
+00:02:32,559 --> 00:02:33,558
+Je ne sais pas comment.
+
+48
+00:02:33,559 --> 00:02:35,495
+Mais qu'est-ce que tu racontes ?
+
+49
+00:02:35,496 --> 00:02:36,969
+Je ne sais pas comment !
+
+50
+00:02:39,279 --> 00:02:42,279
+La boite noire indique que tout était
+en ligne et fonctionnait parfaitement.
+
+51
+00:02:42,280 --> 00:02:45,268
+La compagnie du rail attribue
+l'erreur au conducteur.
+
+52
+00:02:45,967 --> 00:02:47,022
+Montre le conducteur.
+
+53
+00:02:49,155 --> 00:02:50,155
+Jason Hampton.
+
+54
+00:02:50,780 --> 00:02:51,716
+Un brave gars.
+
+55
+00:02:51,717 --> 00:02:52,405
+Vous le connaissez ?
+
+56
+00:02:52,406 --> 00:02:54,591
+Le monde des trains est petit.
+
+57
+00:02:54,592 --> 00:02:57,090
+Il a travaillé pour le rail
+autant que moi pour le métro.
+
+58
+00:02:57,091 --> 00:02:59,313
+Pour info, son dossier
+était sans tâche.
+
+59
+00:02:59,906 --> 00:03:01,294
+Il vient d'être sali.
+
+60
+00:03:01,466 --> 00:03:03,902
+OK, ça peut coller avec
+les autres affaires
+
+61
+00:03:03,903 --> 00:03:06,029
+de cas d'amnésie
+que nous connaissons.
+
+62
+00:03:06,030 --> 00:03:07,028
+Du point de vue médical ?
+
+63
+00:03:07,029 --> 00:03:08,029
+Rien de spécial.
+
+64
+00:03:08,030 --> 00:03:09,465
+Une angioplastie,
+il y a 5 ans.
+
+65
+00:03:09,466 --> 00:03:10,591
+Il était
+peut-être suicidaire.
+
+66
+00:03:10,592 --> 00:03:14,405
+Il semble terrifié et
+confus, pas suicidaire.
+
+67
+00:03:14,466 --> 00:03:18,280
+La semaine dernière, à l'hôpital,
+un patient a passé un bilan neurologique.
+
+68
+00:03:18,281 --> 00:03:20,466
+Il était inquiet
+de ne pas se rappeler
+
+69
+00:03:20,467 --> 00:03:23,197
+-une part importante de son boulot.
+-Ca arrive souvent, Seth,
+
+70
+00:03:23,410 --> 00:03:25,529
+qu'une personne perde une
+partie de sa mémoire ?
+
+71
+00:03:25,531 --> 00:03:26,280
+C'est rare...
+
+72
+00:03:26,281 --> 00:03:30,058
+Habituellement, suite à un trauma,
+un anévrisme, un truc psychologique.
+
+73
+00:03:30,154 --> 00:03:31,876
+Edgar Dawson n'avait
+rien de tout ça !
+
+74
+00:03:32,217 --> 00:03:33,217
+Edgar Dawson ?
+
+75
+00:03:34,466 --> 00:03:35,854
+Ce super génie en logiciel.
+
+76
+00:03:36,342 --> 00:03:39,008
+Il a créé son propre réseau
+de matrice de chaînes BBS.
+
+77
+00:03:41,739 --> 00:03:43,965
+Vasco, pourquoi vous n'iriez pas
+parler avec cet Edgar
+
+78
+00:03:43,966 --> 00:03:45,715
+pour voir s'il correspond
+à la piste qu'on suit ?
+
+79
+00:03:45,716 --> 00:03:47,216
+Ça serait mieux
+d'avoir un interprète.
+
+80
+00:03:48,157 --> 00:03:49,157
+Moi ?
+
+81
+00:03:53,843 --> 00:03:54,898
+C'est ton jour de gloire.
+
+82
+00:03:57,778 --> 00:03:58,944
+Écartez-vous de son chemin.
+
+83
+00:04:00,571 --> 00:04:02,959
+Transcript: swsub.com/Sixe
+
+84
+00:04:02,960 --> 00:04:04,960
+VF By "Neuro's Team"
+(V 1.0)
+
+85
+00:04:04,961 --> 00:04:06,961
+Saison 1 Episode 3
+"Piece of Mind"
+
+86
+00:04:14,072 --> 00:04:17,516
+Des algos de hachages
+avec matrice quadratique.
+
+87
+00:04:17,570 --> 00:04:18,570
+Non mec !
+
+88
+00:04:19,010 --> 00:04:20,843
+Une fois que
+tu opères de...
+
+89
+00:04:20,972 --> 00:04:24,069
+Il y a une place pour les gens
+comme eux. Là où je ne suis pas !
+
+90
+00:04:26,285 --> 00:04:29,340
+On a une faille dans
+une cinquantaine de circuits...
+
+91
+00:04:29,597 --> 00:04:31,784
+Je vous ai pas encore
+parlé de la triangulation.
+
+92
+00:04:31,785 --> 00:04:34,451
+Quel est le protocole pour
+développer la X-Juncture ?
+
+93
+00:04:34,910 --> 00:04:38,382
+Un code de diversion Milli-ohm secondaire,...
+
+94
+00:04:39,296 --> 00:04:41,950
+code nanex, octo...
+
+95
+00:04:45,474 --> 00:04:47,085
+Ils m'ont retiré du projet.
+
+96
+00:04:47,285 --> 00:04:49,507
+Deux ans de travail et c'était ... fini.
+
+97
+00:04:49,786 --> 00:04:52,230
+Ma vie a changé, en 5 minutes.
+
+98
+00:04:54,035 --> 00:04:56,722
+Vous souvenez-vous
+avoir rencontré quelqu'un
+
+99
+00:04:56,723 --> 00:04:58,167
+juste avant
+que ça arrive ?
+
+100
+00:04:58,722 --> 00:04:59,722
+Un étranger ?
+
+101
+00:04:59,847 --> 00:05:02,284
+Quelqu'un qui vous
+aurait été présenté...
+
+102
+00:05:02,285 --> 00:05:03,526
+À qui vous auriez
+serré la main ?
+
+103
+00:05:05,597 --> 00:05:06,988
+Si c'est arrivé...
+
+104
+00:05:07,097 --> 00:05:08,652
+Je suis désolé,
+je m'en rappelle pas.
+
+105
+00:05:11,785 --> 00:05:15,920
+Si ça m'arrive, collez-moi
+une balle dans la tête.
+
+106
+00:05:16,097 --> 00:05:17,721
+La vie ne vaudra
+plus la peine.
+
+107
+00:05:17,722 --> 00:05:19,283
+Je garde ça en tête.
+
+108
+00:05:19,284 --> 00:05:21,158
+Quelle partie
+Dawson a-t-il perdu ?
+
+109
+00:05:21,159 --> 00:05:23,034
+Il reste le plus fort
+dans ce qu'il connaît...
+
+110
+00:05:23,035 --> 00:05:24,220
+Mais pas pour le reste.
+
+111
+00:05:24,221 --> 00:05:25,221
+Et c'est quoi ?
+
+112
+00:05:25,284 --> 00:05:26,848
+Edgar Dawson a
+complètement oublié
+
+113
+00:05:26,849 --> 00:05:29,071
+une série d'algorithmes
+de troisième niveau.
+
+114
+00:05:29,096 --> 00:05:30,596
+Des algorithmes
+qu'il a créé.
+
+115
+00:05:30,975 --> 00:05:33,847
+C'est lié à ses travaux
+sur les relais électriques rapides
+
+116
+00:05:33,848 --> 00:05:36,722
+transmettant des pulsations
+électroniques sur un hypernetwork.
+
+117
+00:05:36,723 --> 00:05:39,369
+Riley, quelle en est l'utilité ?
+
+118
+00:05:40,348 --> 00:05:41,681
+Sur les aiguillages
+des voies ferrés.
+
+119
+00:05:43,846 --> 00:05:45,971
+Ils utilisent des relais
+électriques maintenant.
+
+120
+00:05:45,972 --> 00:05:47,409
+Le réseau ferroviaire
+grandit si vite
+
+121
+00:05:47,410 --> 00:05:49,298
+que les opérateurs
+n'arrivent pas à suivre.
+
+122
+00:05:49,349 --> 00:05:51,598
+Un ingénieur férroviaire
+et le mec qui a créé
+
+123
+00:05:51,599 --> 00:05:53,596
+le système de routage ont perdu
+une partie de leur mémoire
+
+124
+00:05:53,597 --> 00:05:55,374
+à 3 jours d'intervalle.
+
+125
+00:05:55,596 --> 00:05:57,873
+Riley, vérifie les fichiers
+du personnel ferroviaire
+
+126
+00:05:57,910 --> 00:06:00,354
+et regarde si quelqu'un
+pourrait leur en vouloir.
+
+127
+00:06:00,596 --> 00:06:01,596
+Tout de suite, chef.
+
+128
+00:06:01,599 --> 00:06:02,599
+Merci.
+
+129
+00:06:19,746 --> 00:06:20,587
+Tire-toi !
+
+130
+00:06:21,072 --> 00:06:22,232
+Qu'est-ce que tu fais, mec ?
+
+131
+00:06:23,072 --> 00:06:24,511
+Qu'est-ce que tu fais, mec ?
+
+132
+00:06:26,948 --> 00:06:28,114
+Ça va mon gars ?
+
+133
+00:06:28,173 --> 00:06:30,199
+Tu as besoin de soins.
+
+134
+00:06:31,261 --> 00:06:32,261
+Calme, calme !
+
+135
+00:06:33,359 --> 00:06:34,385
+Bouge pas, mec !
+
+136
+00:06:34,885 --> 00:06:36,530
+Bouge pas !
+
+137
+00:06:36,910 --> 00:06:39,900
+Calme, calme,
+les secours arrivent.
+
+138
+00:06:50,840 --> 00:06:54,437
+Perte de conscience, pulsations
+à 170, rapides et irrégulières.
+
+139
+00:06:55,323 --> 00:06:56,545
+Reculez, monsieur.
+
+140
+00:06:58,074 --> 00:06:59,296
+Reculez, monsieur.
+
+141
+00:07:06,009 --> 00:07:08,175
+Fibrillation artérielle avec
+réponse ventriculaire rapide.
+
+142
+00:07:08,385 --> 00:07:10,862
+Envoi 20 cm³ de Cardizem
+en intraveineuse.
+
+143
+00:07:10,897 --> 00:07:11,258
+Non, non !
+
+144
+00:07:11,259 --> 00:07:12,314
+Vous allez le tuer.
+
+145
+00:07:12,573 --> 00:07:13,446
+On s'en occupe.
+
+146
+00:07:13,447 --> 00:07:17,613
+Pourquoi vous voulez accélérer
+son rythme et risquer une fibrillation ?
+
+147
+00:07:19,635 --> 00:07:22,509
+C'est le syndrome WPW,
+les signes vitaux sont similaires
+
+148
+00:07:22,510 --> 00:07:25,603
+mais il y a une onde delta
+sur l'ECG et l'IRS est large.
+
+149
+00:07:26,009 --> 00:07:28,175
+La Cardizem va bloquer
+son centre Atrio-ventriculaire
+
+150
+00:07:28,196 --> 00:07:30,084
+et faire monter son
+rythme cardiaque à 200 !
+
+151
+00:07:30,636 --> 00:07:33,571
+On doit le choquer pour le
+ramener à un rythme sinusal.
+
+152
+00:07:33,572 --> 00:07:35,960
+Donnez-moi les palettes et
+chargez-les à 200 joules.
+
+153
+00:07:36,323 --> 00:07:37,323
+Il doit avoir raison.
+
+154
+00:07:37,949 --> 00:07:38,949
+Maintenant !
+
+155
+00:07:46,636 --> 00:07:47,636
+On dégage !
+
+156
+00:07:52,324 --> 00:07:53,324
+Il est stabilisé.
+
+157
+00:07:53,761 --> 00:07:54,816
+Je le crois pas.
+
+158
+00:08:08,231 --> 00:08:09,341
+Restez avec nous.
+
+159
+00:08:13,231 --> 00:08:14,741
+Ses pupilles sont dilatées.
+
+160
+00:08:15,571 --> 00:08:16,571
+Prends le sac.
+
+161
+00:08:23,136 --> 00:08:24,136
+Restez avec nous.
+
+162
+00:08:43,259 --> 00:08:45,633
+Quand les secouristes
+ont installé l'intraveineuse
+
+163
+00:08:45,634 --> 00:08:47,911
+le sujet les a informé
+
+164
+00:08:48,072 --> 00:08:49,849
+que le patient avait
+une anémie tertiaire.
+
+165
+00:08:51,572 --> 00:08:53,349
+Les témoins affirment
+qu'il a établi ça
+
+166
+00:08:53,385 --> 00:08:55,551
+à partir de son pouls
+et de son flux sanguin.
+
+167
+00:08:57,760 --> 00:09:01,269
+Le truc est de suturer les
+quinze premiers millimètres de l'épiderme.
+
+168
+00:09:06,822 --> 00:09:08,071
+Comme ça le tissu
+peut accepter
+
+169
+00:09:08,072 --> 00:09:10,072
+l'intrusion artificielle
+comme étant organique.
+
+170
+00:09:11,259 --> 00:09:12,196
+Vous êtes médecin ?
+
+171
+00:09:12,197 --> 00:09:13,073
+Oui.
+
+172
+00:09:13,074 --> 00:09:14,008
+Où avez-vous étudié ?
+
+173
+00:09:14,009 --> 00:09:15,009
+Johns Hopkins.
+
+174
+00:09:15,134 --> 00:09:17,323
+Je suis spécialiste
+des syndromes neuromusculaires.
+
+175
+00:09:17,324 --> 00:09:18,698
+J'ai écrit énormément
+sur ce sujet.
+
+176
+00:09:19,259 --> 00:09:21,981
+La dégénérescence nordique
+et l'homme d'âge moyen.
+
+177
+00:09:22,260 --> 00:09:24,008
+Le Dr. Allen Rafferty
+a rédigé cet article.
+
+178
+00:09:24,009 --> 00:09:25,009
+C'est exact.
+
+179
+00:09:40,196 --> 00:09:41,072
+Il y a cinq mois,
+
+180
+00:09:41,073 --> 00:09:43,383
+Allen était en plein milieu
+d'un pontage aortique.
+
+181
+00:09:43,384 --> 00:09:44,884
+Il en a réalisé
+des centaines.
+
+182
+00:09:45,197 --> 00:09:48,697
+Il s'est arrêté brusquement,
+il ne se rappelait de rien.
+
+183
+00:09:49,884 --> 00:09:51,606
+Ses assistants
+ont dû terminer.
+
+184
+00:09:52,385 --> 00:09:53,718
+Le patient
+a failli mourir.
+
+185
+00:09:54,511 --> 00:09:56,066
+Les neurologues
+l'ont examiné ?
+
+186
+00:09:58,884 --> 00:10:00,772
+Ils ont dit
+qu'il n'y avait rien.
+
+187
+00:10:01,823 --> 00:10:04,605
+Tout ce qu'Allen connaissait
+en médecine...
+
+188
+00:10:06,306 --> 00:10:07,043
+a juste disparu.
+
+189
+00:10:10,261 --> 00:10:11,819
+Allen savait
+que c'en était fini.
+
+190
+00:10:12,509 --> 00:10:16,636
+La médecine était sa vie.
+Il ne l'a pas supporté.
+
+191
+00:10:18,120 --> 00:10:19,598
+Il a commencé à boire...
+
+192
+00:10:19,633 --> 00:10:20,614
+Et...
+
+193
+00:10:21,509 --> 00:10:23,064
+Et ensuite il a essayé
+de se tuer.
+
+194
+00:10:23,885 --> 00:10:25,607
+J'étais là à ce moment
+mais maintenant...
+
+195
+00:10:28,497 --> 00:10:30,552
+Comment cela a-t-il
+pu se produire ?
+
+196
+00:10:33,307 --> 00:10:34,995
+Il n'y a qu'une poignée
+de médecins en ville
+
+197
+00:10:34,996 --> 00:10:36,884
+capables de faire ce que
+le Dr. Rafferty faisait.
+
+198
+00:10:36,996 --> 00:10:39,497
+Ce sans-abri connaissait
+la procédure aussi bien que lui.
+
+199
+00:10:39,498 --> 00:10:41,932
+Donc on ne parle pas
+d'amnésie partielle...
+
+200
+00:10:41,963 --> 00:10:43,834
+- Mais de prendre la mémoire de quelqu'un.
+- Ça y ressemble.
+
+201
+00:10:44,309 --> 00:10:45,494
+Et non, ce n'est pas un Neuro.
+
+202
+00:10:45,495 --> 00:10:46,495
+Je l'ai testé.
+
+203
+00:10:47,185 --> 00:10:48,943
+Donc pour acquérir
+le savoir de Rafferty,
+
+204
+00:10:49,152 --> 00:10:50,933
+il y a dû y avoir quelqu'un d'autre.
+
+205
+00:10:50,934 --> 00:10:51,934
+Il semblerait bien.
+
+206
+00:10:53,370 --> 00:10:54,370
+Trois victimes.
+
+207
+00:10:54,498 --> 00:10:55,775
+Deux domaines de connaissance.
+
+208
+00:10:55,810 --> 00:10:56,921
+Les trains et la médecine.
+
+209
+00:10:59,807 --> 00:11:01,362
+Qu'ont-elles en commun ?
+
+210
+00:11:55,826 --> 00:11:57,210
+Personne n'a répondu quand j'ai frappé.
+
+211
+00:11:57,588 --> 00:11:58,886
+J'ai entendu du bruit...
+
+212
+00:12:02,993 --> 00:12:04,053
+Je chantais.
+
+213
+00:12:04,513 --> 00:12:05,513
+Pardon ?
+
+214
+00:12:07,637 --> 00:12:08,637
+Je chantais !
+
+215
+00:12:10,734 --> 00:12:12,075
+Comme j'ai pas entendu
+de réponse,
+
+216
+00:12:12,076 --> 00:12:13,575
+j'ai pensé qu'il y avait
+un problème donc j'ai...
+
+217
+00:12:13,576 --> 00:12:14,687
+Vous avez forcé
+la serrure ?!
+
+218
+00:12:14,951 --> 00:12:16,200
+C'était pas très dur.
+
+219
+00:12:16,201 --> 00:12:17,923
+Que faites-vous
+ici, Riley ?
+
+220
+00:12:18,326 --> 00:12:20,803
+Je marchais,
+je me baladais.
+
+221
+00:12:20,838 --> 00:12:22,151
+Vous vivez à 8 Km d'ici.
+
+222
+00:12:23,263 --> 00:12:24,862
+Vous voulez pas
+un peu de vin ?
+
+223
+00:12:24,863 --> 00:12:25,776
+Non, pas vraiment.
+
+224
+00:12:29,263 --> 00:12:30,651
+C'est mieux de toute façon.
+
+225
+00:12:33,864 --> 00:12:36,989
+J'ai trouvé aucun lien
+entre les ingénieurs,
+
+226
+00:12:37,255 --> 00:12:39,089
+Edgar Dawson ou
+le Dr. Rafferty.
+
+227
+00:12:39,124 --> 00:12:40,018
+- Super.
+- Oui.
+
+228
+00:12:40,262 --> 00:12:42,575
+Vous avez fait le chemin
+pour me raconter ça.
+
+229
+00:12:42,576 --> 00:12:44,631
+J'ai aussi remarqué une
+autre chose intéressante.
+
+230
+00:12:51,576 --> 00:12:52,742
+Je vous écoute, Riley.
+
+231
+00:12:57,200 --> 00:13:00,033
+Il y a eu un cambriolage
+à la pharmacie proche du lieu
+
+232
+00:13:00,138 --> 00:13:02,386
+où les secouristes ont trouvé
+ce sans-abri.
+
+233
+00:13:02,387 --> 00:13:05,053
+Les junkies en cambriolent
+toutes les dix minutes.
+
+234
+00:13:05,138 --> 00:13:07,080
+Aucun médicament n'a été volé.
+
+235
+00:13:07,701 --> 00:13:10,423
+Enfin pas le type de médicament
+pour vous faire planer.
+
+236
+00:13:11,015 --> 00:13:13,176
+Des accélérateurs d'hémoglobine.
+
+237
+00:13:13,327 --> 00:13:15,201
+Les secouristes en ont utilisé
+
+238
+00:13:15,202 --> 00:13:16,764
+sur le gars qui a fait une attaque.
+
+239
+00:13:16,765 --> 00:13:18,950
+Vous pensez que celui qui a
+fait l'attaque est notre homme ?
+
+240
+00:13:18,951 --> 00:13:22,117
+Il lui fallait quelqu'un avec
+ses compétences médicales pour l'aider.
+
+241
+00:13:22,451 --> 00:13:25,671
+Les docteurs
+ne peuvent pas s'opérer.
+
+242
+00:13:26,007 --> 00:13:27,007
+À moins que...
+
+243
+00:13:27,757 --> 00:13:29,312
+Il ait eu un contact
+avec le Dr. Rafferty...
+
+244
+00:13:29,508 --> 00:13:31,381
+Il aurait pu récupérer
+son savoir médical.
+
+245
+00:13:31,382 --> 00:13:33,256
+S’il a eu un contact
+avec le Dr. Rafferty,
+
+246
+00:13:33,257 --> 00:13:35,312
+pourquoi ne s'est-il pas fait
+soigner par lui ?
+
+247
+00:13:35,445 --> 00:13:39,395
+Si j'avais réponse à tout,
+je serais vous.
+
+248
+00:13:39,447 --> 00:13:40,447
+Exactement.
+
+249
+00:13:40,508 --> 00:13:41,821
+Vous êtes sûre
+de ne pas vouloir de vin.
+
+250
+00:13:41,822 --> 00:13:42,569
+Non, Riley.
+
+251
+00:13:42,570 --> 00:13:45,265
+Je ne veux toujours
+pas de vin.
+
+252
+00:13:47,798 --> 00:13:49,877
+Je pensais qu'on pourrait
+aller vérifier ces pharmacies.
+
+253
+00:13:50,322 --> 00:13:53,266
+Donc vous êtes pas
+passé ici par hasard.
+
+254
+00:13:58,576 --> 00:14:00,764
+Ecoutez. Je sais que vous voulez
+être sur le terrain.
+
+255
+00:14:00,882 --> 00:14:03,326
+Et vous savez
+que j'ai comme réputation
+
+256
+00:14:03,694 --> 00:14:05,527
+de ne jamais suivre les règles.
+
+257
+00:14:07,132 --> 00:14:08,132
+Mais pas maintenant...
+
+258
+00:14:09,320 --> 00:14:10,320
+Pas ce soir.
+
+259
+00:14:11,446 --> 00:14:12,446
+D'accord ?
+
+260
+00:14:30,792 --> 00:14:33,019
+On prendra un verre
+la prochaine fois. Promis.
+
+261
+00:15:14,702 --> 00:15:16,077
+À l'aide !
+
+262
+00:15:29,066 --> 00:15:31,376
+<i>C'est probablement
+une fracture isolée.</i>
+
+263
+00:15:31,630 --> 00:15:34,263
+<i>Ou une déchirure
+intercostale mineure.</i>
+
+264
+00:15:34,815 --> 00:15:36,537
+<i>On peut rien faire
+de toute façon.</i>
+
+265
+00:15:36,942 --> 00:15:38,108
+<i>Ça prendra du temps.</i>
+
+266
+00:15:39,752 --> 00:15:41,314
+Il faudrait passer
+un examen abdominal
+
+267
+00:15:41,315 --> 00:15:43,426
+pour écarter tout risque
+de traumatisme.
+
+268
+00:15:44,442 --> 00:15:46,878
+Vous êtes celui qui a
+le savoir du Dr. Rafferty.
+
+269
+00:15:46,879 --> 00:15:48,323
+Seth vous cherchait.
+
+270
+00:15:49,505 --> 00:15:50,505
+Le sans-abri.
+
+271
+00:15:52,190 --> 00:15:54,690
+Celui qui a dit comment
+procéder aux secours.
+
+272
+00:15:56,816 --> 00:15:58,704
+Pouvez-vous me dire
+où le trouver ?
+
+273
+00:16:02,440 --> 00:16:03,440
+Oui.
+
+274
+00:16:04,628 --> 00:16:05,739
+Tu as trouvé le Neuro ?
+
+275
+00:16:06,317 --> 00:16:07,317
+Je suis avec lui en ce moment même.
+
+276
+00:16:08,815 --> 00:16:10,648
+L'allée derrière la septième et Colter.
+
+277
+00:16:11,315 --> 00:16:13,926
+Riley, écoute-moi, on est
+là dans quinze minutes.
+
+278
+00:16:14,002 --> 00:16:14,628
+Ne bouge pas.
+
+279
+00:16:14,629 --> 00:16:16,004
+Ne fais rien avant
+qu'on arrive.
+
+280
+00:16:16,005 --> 00:16:17,005
+Tu as compris ?
+
+281
+00:16:18,628 --> 00:16:19,628
+Oui, vous en faites pas.
+
+282
+00:16:20,504 --> 00:16:22,115
+J'ai trop mal pour bouger.
+
+283
+00:16:23,003 --> 00:16:24,003
+Bon travail, Riley.
+
+284
+00:16:48,964 --> 00:16:49,652
+Charlie, préviens-moi
+
+285
+00:16:49,653 --> 00:16:52,819
+si tu vois quoique ce soit.
+On va s'occuper de toi.
+
+286
+00:16:54,294 --> 00:16:55,622
+Rien, rien du tout.
+
+287
+00:16:56,091 --> 00:16:57,757
+Aller, je lui ai dit
+de rester là.
+
+288
+00:17:07,777 --> 00:17:08,777
+Le voilà !
+
+289
+00:17:28,788 --> 00:17:29,899
+Riley, qu'est-ce qui ne va pas ?
+
+290
+00:17:29,976 --> 00:17:31,162
+Riley, parle-nous, que s'est-il passé ?
+
+291
+00:17:31,163 --> 00:17:32,940
+Qu'est-ce que vous
+me voulez ?
+
+292
+00:17:35,220 --> 00:17:36,608
+Où est le Neuro ?
+
+293
+00:17:39,282 --> 00:17:40,282
+C'est quoi un Neuro ?
+
+294
+00:18:01,032 --> 00:18:02,365
+Pourquoi j'y ai pas accès ?
+
+295
+00:18:11,034 --> 00:18:12,867
+C'est pas partiel comme
+pour les autres.
+
+296
+00:18:13,280 --> 00:18:14,724
+L'amnésie de Riley
+est complète.
+
+297
+00:18:17,403 --> 00:18:18,903
+Tu lui as dit qui il est ?
+
+298
+00:18:19,465 --> 00:18:21,982
+Seulement qu'on est ses amis.
+Je ne veux pas le surcharger.
+
+299
+00:18:22,590 --> 00:18:25,339
+Je pensais pas que Riley
+puisse être surchargé...
+
+300
+00:18:25,340 --> 00:18:27,153
+Qu'est-ce qu'il t'a dit
+la nuit dernière ?
+
+301
+00:18:27,154 --> 00:18:30,709
+Que quelqu'un a volé
+des accélérateurs d'hémoglobine.
+
+302
+00:18:31,090 --> 00:18:33,839
+Le médicament utilisé pour
+l'homme qui a eu une crise.
+
+303
+00:18:33,840 --> 00:18:35,216
+L'homme qui a eu
+une crise est un Neuro.
+
+304
+00:18:35,217 --> 00:18:37,526
+Il souffre probablement
+d'une maladie aortique.
+
+305
+00:18:37,527 --> 00:18:40,527
+Le Dr. Rafferty a fait
+des recherches là-dessus.
+
+306
+00:18:40,902 --> 00:18:42,124
+Quels sont les symptômes ?
+
+307
+00:18:42,654 --> 00:18:43,276
+Ils sont nombreux.
+
+308
+00:18:43,277 --> 00:18:46,461
+Mais le plus évident est la perte d'équilibre...
+Des difficultés pour marcher.
+
+309
+00:18:46,496 --> 00:18:48,290
+C'est chronique et
+éventuellement fatal.
+
+310
+00:18:48,340 --> 00:18:50,284
+Riley a trouvé cet enfoiré
+la nuit dernière.
+
+311
+00:18:51,717 --> 00:18:54,772
+Il voulait que je le suive
+pour vérifier une pharmacie.
+
+312
+00:18:55,027 --> 00:18:56,132
+Seulement...
+
+313
+00:18:56,966 --> 00:18:57,913
+Je ne l'ai pas fait.
+
+314
+00:18:58,902 --> 00:19:01,900
+Si notre Neuro a
+cette maladie aor-truc,
+
+315
+00:19:01,901 --> 00:19:04,839
+il est logique d'avoir pris
+le savoir du docteur.
+
+316
+00:19:04,840 --> 00:19:06,713
+Mais en quoi c'est lié
+au conducteur du train
+
+317
+00:19:06,714 --> 00:19:08,769
+et au système d'aiguillage
+d'Edgard Dawson ?
+
+318
+00:19:08,965 --> 00:19:09,652
+Ce sont des Neuros,
+
+319
+00:19:09,653 --> 00:19:11,319
+il faut pas chercher
+à comprendre.
+
+320
+00:19:12,027 --> 00:19:14,082
+Bowers, Vasco, fouillez
+dans l'ordinateur de Riley,
+
+321
+00:19:14,276 --> 00:19:15,403
+voyez ce qu'il cherchait.
+
+322
+00:19:15,404 --> 00:19:17,214
+Seth, contactez
+les hôpitaux
+
+323
+00:19:17,215 --> 00:19:19,464
+et voyez s'il y a des cas
+de crises similaires
+
+324
+00:19:19,465 --> 00:19:21,338
+et obtenez une description
+par les secouristes.
+
+325
+00:19:21,339 --> 00:19:23,025
+Connor, toi et moi
+allons fouiller les rues.
+
+326
+00:19:23,026 --> 00:19:25,402
+Maureen peut s'occuper de l'ordinateur.
+Je serai plus utile avec vous.
+
+327
+00:19:26,401 --> 00:19:27,401
+Pourquoi ?
+
+328
+00:19:27,589 --> 00:19:30,255
+Car tu n'as pas suivi
+Riley la nuit dernière ?
+
+329
+00:19:30,339 --> 00:19:31,339
+Non.
+
+330
+00:19:33,590 --> 00:19:34,590
+S'il vous plaît.
+
+331
+00:19:35,528 --> 00:19:36,528
+Laissez-moi vous aider.
+
+332
+00:19:37,716 --> 00:19:38,525
+Pas maintenant.
+
+333
+00:19:38,526 --> 00:19:39,526
+Pas ce soir.
+
+334
+00:19:41,026 --> 00:19:43,284
+Et si on a perdu Riley ?
+
+335
+00:19:45,279 --> 00:19:46,339
+Et si on l'a perdu ?
+
+336
+00:19:46,340 --> 00:19:48,303
+On a pas perdu Riley.
+
+337
+00:19:48,464 --> 00:19:49,464
+Seulement son esprit.
+
+338
+00:19:52,154 --> 00:19:53,654
+Pas la peine d'en rajouter !
+
+339
+00:20:01,527 --> 00:20:05,843
+Selon les secours, c'est
+un homme de type caucasien,
+
+340
+00:20:06,529 --> 00:20:10,109
+la cinquantaine,
+entre 1m70 et 1m85,
+
+341
+00:20:11,089 --> 00:20:13,481
+entre 70 et 80 kilos.
+
+342
+00:20:14,402 --> 00:20:15,214
+vêtu comme un clochard,
+
+343
+00:20:15,215 --> 00:20:16,932
+n'ayant pas pris de bain depuis longtemps.
+
+344
+00:20:19,718 --> 00:20:21,377
+Et d'après toi ?
+
+345
+00:20:25,840 --> 00:20:26,714
+J'en sais rien !
+
+346
+00:20:26,715 --> 00:20:27,589
+Je suis pas Riley !
+
+347
+00:20:27,590 --> 00:20:29,528
+- J'ai pas dit que tu l'étais.
+- Tu étais impliquée !
+
+348
+00:20:30,653 --> 00:20:32,088
+Je suis aussi frustrée que toi.
+
+349
+00:20:32,089 --> 00:20:33,477
+J'aimerais qu'il soit là.
+
+350
+00:20:35,779 --> 00:20:37,223
+C'est pas ta faute, Jane.
+
+351
+00:20:41,902 --> 00:20:43,457
+J'aurais dû aller avec lui.
+
+352
+00:20:46,339 --> 00:20:47,561
+Ouais, réessayons.
+
+353
+00:20:50,526 --> 00:20:53,539
+C'est moi Riley ? N'est-ce pas ?
+
+354
+00:20:55,589 --> 00:20:56,589
+Oui.
+
+355
+00:21:01,028 --> 00:21:02,246
+Je suis quoi ?
+
+356
+00:21:03,884 --> 00:21:05,485
+Une sorte de fêlé d'informatique ?
+
+357
+00:21:08,528 --> 00:21:10,305
+Dans le bon sens du terme, oui.
+
+358
+00:21:13,902 --> 00:21:14,957
+Tu veux essayer ?
+
+359
+00:22:47,527 --> 00:22:48,804
+Danger !
+Panne du système!
+
+360
+00:22:49,089 --> 00:22:50,366
+Danger !
+Panne du système!
+
+361
+00:22:57,902 --> 00:22:59,124
+Ça va s'arranger.
+
+362
+00:23:15,262 --> 00:23:16,262
+Un peu d'aide s'il vous plait.
+
+363
+00:24:24,947 --> 00:24:25,947
+Comment il va ?
+
+364
+00:24:26,134 --> 00:24:27,134
+Il a dormi toute la nuit.
+
+365
+00:24:27,510 --> 00:24:28,621
+Je peux pas en dire autant.
+
+366
+00:24:32,395 --> 00:24:33,572
+Salut les gars !
+
+367
+00:24:33,573 --> 00:24:34,573
+Salut Jane.
+
+368
+00:24:35,371 --> 00:24:37,450
+Écoutez, je sais pas ce que ça signifie ...
+
+369
+00:24:40,053 --> 00:24:40,989
+Comment ça va ?
+
+370
+00:24:44,224 --> 00:24:45,580
+Ce truc est une saloperie.
+
+371
+00:25:02,209 --> 00:25:03,136
+Intrusion dans le tunnel.
+
+372
+00:25:06,947 --> 00:25:09,502
+Qu'est-ce qui est arrivé
+au système de sécurité ?
+
+373
+00:25:30,635 --> 00:25:33,857
+Votre système marche pas
+parce que je l'ai éteint.
+
+374
+00:25:39,946 --> 00:25:41,723
+Je suppose que
+je devrais être flatté.
+
+375
+00:25:41,947 --> 00:25:42,947
+Toute une équipe...
+
+376
+00:25:43,447 --> 00:25:44,724
+Les meilleurs parmi
+les meilleurs.
+
+377
+00:25:44,822 --> 00:25:46,633
+Dévoués à suivre et
+à rechercher
+
+378
+00:25:46,634 --> 00:25:47,634
+les gens comme moi.
+
+379
+00:25:48,322 --> 00:25:52,236
+L'esprit de vôtre ami Riley,
+est une mine d'informations.
+
+380
+00:25:54,387 --> 00:25:55,387
+Des Neuros.
+
+381
+00:25:56,260 --> 00:25:57,593
+C'est comme ça
+que vous nous appelez.
+
+382
+00:26:01,135 --> 00:26:04,885
+Mais, je suis heureux de
+de ne pas être le seul spécimen rare.
+
+383
+00:26:05,197 --> 00:26:07,230
+C'est ton jour
+de chance, mon pote.
+
+384
+00:26:08,072 --> 00:26:10,572
+Je vais faire en sorte
+que tu rejoignes le reste
+
+385
+00:26:10,823 --> 00:26:13,156
+des monstres comme toi
+pour t'éviter la solitude.
+
+386
+00:26:13,637 --> 00:26:16,117
+Si vous voulez revoir
+vôtre ami intact...
+
+387
+00:26:16,823 --> 00:26:18,989
+C'est pas la chose
+la plus sage à faire.
+
+388
+00:26:19,198 --> 00:26:20,198
+Attendez !
+
+389
+00:26:21,447 --> 00:26:22,502
+Écoutons-le.
+
+390
+00:26:23,386 --> 00:26:26,197
+On sait pas si on peut
+restaurer la mémoire de Riley.
+
+391
+00:26:26,198 --> 00:26:27,198
+Je le peux.
+
+392
+00:26:27,822 --> 00:26:29,044
+Je peux voler le savoir.
+
+393
+00:26:29,072 --> 00:26:30,460
+Je peux transférer le savoir.
+
+394
+00:26:31,571 --> 00:26:32,904
+Je peux restaurer
+le savoir.
+
+395
+00:26:33,448 --> 00:26:34,448
+Il le peut.
+
+396
+00:26:35,387 --> 00:26:37,220
+J'ai reçu un appel
+de Carla Rafferty.
+
+397
+00:26:37,322 --> 00:26:39,635
+Le Dr. Rafferty semble avoir
+retrouvé la mémoire.
+
+398
+00:26:39,636 --> 00:26:41,247
+Appelez ça un geste
+de bonne volonté
+
+399
+00:26:41,761 --> 00:26:42,761
+et une preuve.
+
+400
+00:26:43,447 --> 00:26:45,335
+Très bien.
+Qu'attendez-vous de nous ?
+
+401
+00:26:45,822 --> 00:26:48,825
+En échange de Riley,
+je veux votre aide.
+
+402
+00:26:49,948 --> 00:26:51,315
+Quel genre d'aide ?
+
+403
+00:26:53,698 --> 00:26:55,142
+Je veux que
+vous détourniez un train.
+
+404
+00:26:59,941 --> 00:27:01,385
+Mon nom est
+Simon Connolly.
+
+405
+00:27:02,564 --> 00:27:03,564
+Je suis malade.
+
+406
+00:27:04,064 --> 00:27:06,008
+Mais vous devez
+probablement le savoir.
+
+407
+00:27:06,313 --> 00:27:07,701
+Il y a quelque chose
+que je veux.
+
+408
+00:27:08,126 --> 00:27:09,959
+Quelque chose
+d'important pour moi.
+
+409
+00:27:10,877 --> 00:27:13,126
+Il va être transporté
+dans un conteneur sécurisé
+
+410
+00:27:13,127 --> 00:27:16,219
+à bord d'un convoi
+sur la ligne 122 demain.
+
+411
+00:27:17,126 --> 00:27:20,038
+Si vous parvenez à le voler
+et si j'obtiens ce que je veux...
+
+412
+00:27:20,940 --> 00:27:22,384
+Je restaurerai l'esprit de Riley.
+
+413
+00:27:24,002 --> 00:27:28,954
+Je m'opposerai pas, quand ce
+sera fini, à ce que vous me marquiez.
+
+414
+00:27:29,065 --> 00:27:31,565
+C'est notre seule chance
+de sauver Riley.
+
+415
+00:27:32,126 --> 00:27:35,684
+Même si nous étions d'accord avec ça,
+qui vous dit qu'on pourra
+
+416
+00:27:36,108 --> 00:27:37,965
+détourner un train.
+
+417
+00:27:38,500 --> 00:27:42,311
+Quel est le taux de transfert
+des lignes L-16 depuis le centre de contrôle ?
+
+418
+00:27:42,312 --> 00:27:45,573
+17 bits à 230 k,
+26.1 à 180.
+
+419
+00:27:45,876 --> 00:27:49,561
+La matrice du code de sécurité de
+la voiture 17 sur la même ligne ?
+
+420
+00:27:49,876 --> 00:27:51,876
+Un algorithme évolutif
+à 14 symboles aléatoires,
+
+421
+00:27:52,313 --> 00:27:54,090
+clé d'encodage
+Rio-4-X-Omega.
+
+422
+00:27:55,375 --> 00:28:00,411
+Procédure du découplage
+d'un moteur série 4000C ?
+
+423
+00:28:00,688 --> 00:28:03,243
+Accouplage manuel, entrer le code
+de désactivation OX-9,
+
+424
+00:28:03,940 --> 00:28:07,384
+programmer les secteurs
+post-vitesse et les relais.
+
+425
+00:28:08,689 --> 00:28:10,126
+Code d'échange
+dans les cinq kilomètres
+
+426
+00:28:10,127 --> 00:28:11,793
+autour du point central
+du secteur 4 ?
+
+427
+00:28:15,126 --> 00:28:16,436
+Vous étiez ici la nuit dernière.
+
+428
+00:28:16,437 --> 00:28:17,492
+Parmi d'autres.
+
+429
+00:28:32,938 --> 00:28:34,256
+Un peu d'aide, s'il vous plaît.
+
+430
+00:28:42,691 --> 00:28:45,413
+Si on fait ça, on le fait
+à notre manière.
+
+431
+00:28:47,876 --> 00:28:50,820
+Vous n'avez pas besoin
+d'en savoir plus.
+
+432
+00:28:51,190 --> 00:28:55,245
+Vous assurerez la partie
+physique de l'opération.
+
+433
+00:29:01,562 --> 00:29:02,617
+Que faites-vous ?
+
+434
+00:29:03,126 --> 00:29:04,959
+Je fais ce que Riley aurait fait.
+
+435
+00:29:05,626 --> 00:29:08,292
+J'utilise le système
+pour avantager l'équipe.
+
+436
+00:29:12,314 --> 00:29:14,036
+Vous avez un don surprenant.
+
+437
+00:29:14,379 --> 00:29:16,188
+Certains appelleraient ça une malédiction.
+
+438
+00:29:16,189 --> 00:29:18,000
+Appliquer mes talents sur les autres
+
+439
+00:29:18,001 --> 00:29:19,612
+ne me posait aucun problème.
+
+440
+00:29:19,938 --> 00:29:22,826
+Mais, quand ce fut votre tour,
+avec ce que je sais...
+
+441
+00:29:23,313 --> 00:29:25,090
+Vous pensez que
+je suis comme vous ?
+
+442
+00:29:25,562 --> 00:29:28,228
+Je sais que ça me semblait incorrect.
+
+443
+00:29:29,191 --> 00:29:30,468
+Je suis de votre coté.
+
+444
+00:29:31,813 --> 00:29:34,979
+Je suis un peu triste que
+vous soyez pas du mien.
+
+445
+00:29:35,806 --> 00:29:39,410
+Vous êtes-vous déjà demandée
+quel coté pourrait être le bon ?
+
+446
+00:29:40,251 --> 00:29:42,028
+Est-ce un crime d'être différent ?
+
+447
+00:29:43,437 --> 00:29:46,719
+Deux personnes sont
+mortes par votre faute.
+
+448
+00:29:47,751 --> 00:29:51,831
+Je le regrette beaucoup,
+ce n'était pas voulu.
+
+449
+00:29:52,065 --> 00:29:53,813
+Ça vous réserve une place en enfer
+
+450
+00:29:53,814 --> 00:29:55,314
+avec un tas d'autres gens.
+
+451
+00:29:57,127 --> 00:29:58,182
+Je vous l'accorde.
+
+452
+00:30:00,126 --> 00:30:02,570
+Mais où votre différence
+va-t-elle vous conduire ?
+
+453
+00:30:15,438 --> 00:30:16,749
+<i>62, la voie est libre</i>
+
+454
+00:30:16,750 --> 00:30:19,269
+jusqu'au hangar au 0917.
+
+455
+00:30:19,627 --> 00:30:22,960
+Compris control,
+changement vers voie A47...
+
+456
+00:30:24,001 --> 00:30:27,848
+Connexion à la ligne 6B
+au kilomètre 25.
+
+457
+00:30:28,500 --> 00:30:32,094
+<i>K-317 procédez au changement
+à l'ouest sur la 7.</i>
+
+458
+00:30:42,167 --> 00:30:43,667
+Conducteur, on arrive.
+
+459
+00:30:45,076 --> 00:30:46,798
+La cargaison est bien surveillée.
+
+460
+00:31:27,391 --> 00:31:29,224
+J'ai un contact visuel
+de la ligne 122.
+
+461
+00:31:33,040 --> 00:31:34,515
+Je suis à l'aiguillage.
+
+462
+00:31:40,017 --> 00:31:41,628
+<i>60 secondes
+avant l'aiguillage.</i>
+
+463
+00:31:45,267 --> 00:31:46,267
+J'y suis presque.
+
+464
+00:31:47,391 --> 00:31:48,391
+Tout est prêt ici.
+
+465
+00:31:49,266 --> 00:31:50,266
+Cargo ?
+
+466
+00:31:51,203 --> 00:31:52,203
+J'y arrive.
+
+467
+00:31:56,142 --> 00:31:57,364
+<i>40 secondes
+avant l'aiguillage.</i>
+
+468
+00:31:58,203 --> 00:31:59,425
+<i>Ça va être serré.</i>
+
+469
+00:32:07,266 --> 00:32:08,266
+<i>30 secondes.</i>
+
+470
+00:32:15,453 --> 00:32:16,675
+L'écran 3 est déconnecté.
+
+471
+00:32:20,395 --> 00:32:21,340
+15 secondes.
+
+472
+00:32:38,192 --> 00:32:39,192
+On est prêt.
+
+473
+00:32:39,505 --> 00:32:40,505
+On a basculé l'aiguillage.
+
+474
+00:32:45,695 --> 00:32:46,695
+Je lag ou quoi ?
+
+475
+00:33:05,945 --> 00:33:06,945
+C'est réparé.
+
+476
+00:33:23,342 --> 00:33:25,349
+Aller, aller.
+
+477
+00:33:32,263 --> 00:33:33,263
+C'est quoi ce truc ?
+
+478
+00:33:34,388 --> 00:33:35,499
+Des impulsions électrostatiques.
+
+479
+00:33:35,889 --> 00:33:38,111
+Quinze mille volts,
+si on veut être précis .
+
+480
+00:33:38,825 --> 00:33:41,703
+Il veut qu'on vole
+un truc dans ce coffre.
+
+481
+00:33:45,203 --> 00:33:47,203
+Dites-moi que
+vous pouvez l'éteindre.
+
+482
+00:33:48,209 --> 00:33:49,267
+Qu'est-ce qu'on a ?
+
+483
+00:33:50,327 --> 00:33:51,691
+Une situation très délicate.
+
+484
+00:33:56,181 --> 00:33:57,520
+Désolé, Jane,
+
+485
+00:33:58,534 --> 00:33:59,956
+je vois pas
+ce qu'on peut faire d'autre.
+
+486
+00:34:01,180 --> 00:34:03,617
+L'électricité est générée
+par cette boite de jonction.
+
+487
+00:34:03,880 --> 00:34:05,617
+Si on se rapproche trop, on se fait griller.
+
+488
+00:34:06,858 --> 00:34:08,492
+Ceci est un circuit
+de redirection.
+
+489
+00:34:08,493 --> 00:34:09,869
+Ça absorbe
+l'énergie électrique.
+
+490
+00:34:09,870 --> 00:34:13,408
+Posez-ça sur la boîte et
+ça disjonctera.
+
+491
+00:34:15,118 --> 00:34:16,506
+C'est le seul moyen
+que je connaisse.
+
+492
+00:34:16,805 --> 00:34:17,929
+C'est hors de question !
+
+493
+00:34:17,930 --> 00:34:19,096
+Trouvez-en un autre !
+
+494
+00:34:20,244 --> 00:34:22,556
+Pas moyen que j'absorbe
+l'électricité de ce truc,
+
+495
+00:34:22,557 --> 00:34:24,869
+ça réduirait mon don en cendre.
+
+496
+00:34:24,870 --> 00:34:26,314
+Et moi avec.
+
+497
+00:34:37,305 --> 00:34:38,305
+Je vous écoute.
+
+498
+00:34:38,868 --> 00:34:39,868
+Écouter quoi ?
+
+499
+00:34:40,806 --> 00:34:41,806
+L'autre moyen.
+
+500
+00:34:43,056 --> 00:34:44,944
+J'écoute l'autre moyen.
+
+501
+00:34:45,742 --> 00:34:46,742
+Très marrant.
+
+502
+00:34:49,118 --> 00:34:52,418
+Jane, on fait ça pour Riley.
+
+503
+00:34:56,369 --> 00:34:57,369
+Ouais.
+
+504
+00:35:07,994 --> 00:35:08,994
+Bonne chance.
+
+505
+00:35:09,118 --> 00:35:10,118
+C'est ça.
+
+506
+00:35:11,306 --> 00:35:12,972
+Je vais détester ça.
+
+507
+00:35:26,493 --> 00:35:27,993
+Me demandez pas
+si je vais bien !
+
+508
+00:35:29,868 --> 00:35:33,045
+Prenez ce qu'il y a
+dans le coffre.
+
+509
+00:35:40,807 --> 00:35:42,029
+C'est quoi ce bordel ?
+
+510
+00:35:46,618 --> 00:35:48,840
+On a fait tout ça
+pour un tableau.
+
+511
+00:35:57,369 --> 00:36:00,035
+Quand j'avais 10 ans,
+je contemplais ce tableau.
+
+512
+00:36:01,806 --> 00:36:04,009
+Il était méconnu
+à cette époque.
+
+513
+00:36:04,306 --> 00:36:06,047
+Mon père a perdu
+son affaire
+
+514
+00:36:06,306 --> 00:36:07,750
+et a été obligé
+de le vendre.
+
+515
+00:36:08,744 --> 00:36:11,355
+Qui se serait douté
+qu'il valait des millions.
+
+516
+00:36:12,367 --> 00:36:15,802
+La chose marante, c'est
+que je l'ai jamais aimé.
+
+517
+00:36:16,743 --> 00:36:17,992
+J'étais toujours embarrassé
+
+518
+00:36:17,993 --> 00:36:19,993
+quand mes amis
+venaient et le voyaient.
+
+519
+00:36:19,994 --> 00:36:22,438
+Mais quand on l'a retiré,
+j'ai eu l'impression
+
+520
+00:36:23,619 --> 00:36:25,507
+qu'une partie de moi
+m'était enlevée.
+
+521
+00:36:25,931 --> 00:36:27,741
+Quand j'ai entendu
+qu'on le déplaçait
+
+522
+00:36:27,742 --> 00:36:29,304
+dans une autre ville
+pour l'exposer...
+
+523
+00:36:29,305 --> 00:36:30,305
+C'était ma chance.
+
+524
+00:36:30,807 --> 00:36:32,418
+De revivre votre jeunesse.
+
+525
+00:36:37,181 --> 00:36:38,181
+Une dernière fois.
+
+526
+00:36:39,431 --> 00:36:40,431
+Avant de mourir.
+
+527
+00:36:43,806 --> 00:36:45,616
+Pourquoi voler le savoir
+du Dr. Rafferty ?
+
+528
+00:36:45,617 --> 00:36:46,741
+Pourquoi ne pas être
+allé à l'hôpital ?
+
+529
+00:36:46,742 --> 00:36:49,602
+J'ai vu mon père mourir dans un hôpital
+et ça a été difficile.
+
+530
+00:36:49,932 --> 00:36:50,987
+Si je pouvais l'éviter,
+
+531
+00:36:51,431 --> 00:36:53,492
+ce n'était pas la façon
+que je préférais.
+
+532
+00:36:53,493 --> 00:36:54,548
+Ça en valait la peine ?
+
+533
+00:36:54,929 --> 00:36:57,101
+Pour cet instant ?
+
+534
+00:36:58,433 --> 00:36:59,433
+Je n'en suis pas sûr.
+
+535
+00:37:01,118 --> 00:37:02,340
+Je peux vous dire...
+
+536
+00:37:04,118 --> 00:37:05,673
+Ce n'est plus comme
+ça l'était avant.
+
+537
+00:37:06,556 --> 00:37:07,556
+Cependant...
+
+538
+00:37:08,680 --> 00:37:10,124
+Je ne suis plus comme
+je l'étais avant.
+
+539
+00:37:27,431 --> 00:37:28,431
+Je suis prêt.
+
+540
+00:37:35,867 --> 00:37:36,931
+<i>Peu importe la raison,</i>
+
+541
+00:37:36,932 --> 00:37:39,820
+<i>si une part de moi pensait
+être une part de lui,</i>
+
+542
+00:37:39,929 --> 00:37:46,245
+<i>ou parce que j'étais navrée
+pour lui, je ne pouvais pas.</i>
+
+543
+00:38:05,492 --> 00:38:08,579
+Si vous fuyez, on le saura.
+
+544
+00:38:09,493 --> 00:38:10,493
+Ne fuyez pas.
+
+545
+00:38:50,875 --> 00:38:52,553
+Quelque chose en tête,
+agent Vasco ?
+
+546
+00:38:52,554 --> 00:38:53,554
+Oui.
+
+547
+00:38:54,182 --> 00:38:58,224
+Je me demandais pourquoi
+vous avez fait ça là-bas ?
+
+548
+00:38:58,304 --> 00:38:59,992
+Pourquoi vous avez décidé
+de ne pas le marquer ?
+
+549
+00:38:59,993 --> 00:39:01,548
+Ne cherchez pas trop.
+
+550
+00:39:02,055 --> 00:39:05,126
+Cet homme a encore peu de temps à vivre.
+S'il fuit quelque part, on le trouvera.
+
+551
+00:39:05,742 --> 00:39:06,742
+Les brûlures sont guéries ?
+
+552
+00:39:07,057 --> 00:39:08,057
+Presque.
+
+553
+00:39:09,618 --> 00:39:12,991
+Je peux pas en dire autant des marques
+sur mes vêtements.
+
+554
+00:39:12,992 --> 00:39:15,880
+Je perd un tas
+de fringues avec ce boulot.
+
+555
+00:39:16,492 --> 00:39:18,055
+Peut-être que l'agence
+pourrait penser...
+
+556
+00:39:18,056 --> 00:39:19,890
+-Non.
+-À me dédommager...
+
+557
+00:39:19,994 --> 00:39:22,455
+Je disais ça comme ça,
+pour voir...
+
+558
+00:39:24,805 --> 00:39:25,805
+Riley ?
+
+559
+00:39:35,807 --> 00:39:36,807
+Qu'est-ce qu'il y a ?
+
+560
+00:39:37,367 --> 00:39:41,340
+Simon a rendu sa mémoire
+à Riley, mais...
+
+561
+00:39:41,493 --> 00:39:42,493
+Mais ?
+
+562
+00:39:43,368 --> 00:39:45,179
+Il semble avoir quelques soucis,
+
+563
+00:39:45,180 --> 00:39:47,366
+il connaît son nom et
+sait qu'il travaille ici.
+
+564
+00:39:47,367 --> 00:39:49,680
+Mais quand j'ai vérifié
+son sens logique,
+
+565
+00:39:49,681 --> 00:39:52,014
+avec des questions simples,
+par exemple...
+
+566
+00:39:52,367 --> 00:39:53,367
+Sept moins un.
+
+567
+00:40:00,431 --> 00:40:01,764
+Sept moins un...
+
+568
+00:40:04,506 --> 00:40:05,454
+ fait zéro.
+
+569
+00:40:07,994 --> 00:40:11,213
+Sept moins un
+fait zéro.
+
+570
+00:40:12,242 --> 00:40:14,378
+Sept moins un
+fait pas zéro.
+
+571
+00:40:17,806 --> 00:40:20,083
+Ça dépend comment
+on quantifie l'équation.
+
+572
+00:40:21,368 --> 00:40:28,527
+Sept personnes dans cette équipe sans moi,
+ça donne six zéros.
+
+573
+00:40:32,679 --> 00:40:34,734
+Et comme six fois zéro
+fait zéro...
+
+574
+00:40:36,492 --> 00:40:37,492
+Sans moi...
+
+575
+00:40:38,492 --> 00:40:39,492
+On est rien.
+
+576
+00:40:41,680 --> 00:40:43,013
+Voilà un homme intelligent.
+
+577
+00:40:50,056 --> 00:40:52,889
+Stephen Hawkings ne vaut rien
+comparé à Riley Jensen.
+
+578
+00:40:53,867 --> 00:40:57,054
+On a 3 jours de retard
+dans le système de rapport.
+
+579
+00:40:57,055 --> 00:40:58,110
+Riley, au boulot.
+
+580
+00:40:58,432 --> 00:41:00,154
+Connor, pousse-les un peu.
+
+581
+00:41:00,432 --> 00:41:02,598
+C'est quoi le système de rapport ?
+
+582
+00:41:06,974 --> 00:41:10,739
+<i>Les apparences sont parfois trompeuses,
+ce qui rend les gens spéciaux</i>
+
+583
+00:41:10,874 --> 00:41:17,049
+<i>n'est pas ce qu'on voit de l'extérieur.
+À moins d'être nudiste, mais je m'égare.</i>
+
+584
+00:41:18,561 --> 00:41:20,394
+Il est vraiment beau,
+vous savez.
+
+585
+00:41:23,061 --> 00:41:24,116
+Vous étiez mignon.
+
+586
+00:41:24,832 --> 00:41:29,982
+<i>Le fait d'aimer ou de haïr nous rend différents,
+Ça fait de nous ce qu'on est.</i>
+
+587
+00:41:30,436 --> 00:41:31,547
+<i>Et vous le retirer...</i>
+
+588
+00:41:31,937 --> 00:41:34,248
+Je pensais ressentir
+une grande perte
+
+589
+00:41:34,249 --> 00:41:35,582
+en perdant ce pouvoir.
+
+590
+00:41:37,000 --> 00:41:38,055
+Mais c'est pas le cas.
+
+591
+00:41:39,749 --> 00:41:41,193
+Je me sens le même.
+
+592
+00:41:43,500 --> 00:41:44,500
+Mais suis-je le même ?
+
+593
+00:41:45,499 --> 00:41:46,499
+Ce pistolet...
+
+594
+00:41:47,625 --> 00:41:48,847
+Vous l'aviez pas chargé.
+
+595
+00:41:52,064 --> 00:41:53,619
+Ne cherchez pas trop.
+
+596
+00:41:53,749 --> 00:41:56,873
+Quand les chasseurs
+deviennent les proies...
+
+597
+00:41:56,874 --> 00:41:58,207
+Vous avez
+ce que vous souhaitiez.
+
+598
+00:41:59,625 --> 00:42:01,687
+Vous passerez
+vos derniers jours chez vous.
+
+599
+00:42:01,688 --> 00:42:02,688
+Et intact.
+
+600
+00:42:05,251 --> 00:42:07,639
+Ne croyez pas
+tout savoir sur moi.
+
+601
+00:42:08,124 --> 00:42:09,290
+On vous surveille.
+
+602
+00:42:09,874 --> 00:42:14,155
+Mettez un pied dehors,
+je vous tuerai.
+
+603
+00:42:22,374 --> 00:42:24,310
+<i>C'était une surprise qu'
+André fasse une chose</i>
+
+604
+00:42:24,311 --> 00:42:28,799
+<i>qu' il ne fait jamais.
+Accorder du répit à un Neuro.</i>
+
+605
+00:42:29,563 --> 00:42:33,867
+<i>D'abord, j'ai même pensé
+qu'un Neuro le contrôlait,</i>
+
+606
+00:42:34,186 --> 00:42:38,687
+<i>mais, après quelques verres
+de vin, ça m'est revenu,</i>
+
+607
+00:42:38,688 --> 00:42:42,463
+<i>André est aussi gêné que moi
+au sujet de ce qu'on a fait.</i>
+
+608
+00:42:43,312 --> 00:42:46,342
+<i>À la différence que lui
+ne peut pas le dire.</i>
+
+609
+00:42:46,501 --> 00:42:47,501
+<i>Il ne peut pas le montrer.</i>
+
+610
+00:42:48,624 --> 00:42:51,779
+<i>Avec ce geste simple et noble,</i>
+
+611
+00:42:52,124 --> 00:42:55,146
+<i>l'agent Mcbride venait de se dévoiler.</i>
+
+612
+00:42:56,500 --> 00:42:58,958
+<i>Au revoir Simon,
+tu me manqueras</i>
+
+613
+00:42:59,937 --> 00:43:02,381
+<i>et ne pense même pas
+à me faire chier.</i>
+
+614
+00:43:02,481 --> 00:43:04,624
+www.seriessub.com
+

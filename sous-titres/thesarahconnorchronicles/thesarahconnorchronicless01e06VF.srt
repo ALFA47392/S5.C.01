@@ -1,0 +1,2001 @@
+1
+00:00:02,157 --> 00:00:03,403
+<i>Dans le futur,</i>
+
+2
+00:00:03,732 --> 00:00:06,690
+<i>mon fils mènera l'humanité
+en guerre contre Skynet,</i>
+
+3
+00:00:08,114 --> 00:00:11,380
+<i>un système informatique
+programmé pour détruire le monde.</i>
+
+4
+00:00:12,895 --> 00:00:15,483
+<i>Des machines ont été envoyées
+dans le passé...</i>
+
+5
+00:00:16,146 --> 00:00:17,490
+<i>certaines pour le tuer...</i>
+
+6
+00:00:17,832 --> 00:00:19,346
+<i>une pour le protéger.</i>
+
+7
+00:00:19,608 --> 00:00:23,085
+<i>Aujourd'hui, nous nous battons
+pour empêcher la création de Skynet.</i>
+
+8
+00:00:23,387 --> 00:00:25,250
+<i>Pour changer notre futur.</i>
+
+9
+00:00:26,323 --> 00:00:27,985
+<i>Pour changer sa destinée.</i>
+
+10
+00:00:28,907 --> 00:00:32,017
+<i>La guerre pour sauver l'humanité
+commence maintenant.</i>
+
+11
+00:00:32,912 --> 00:00:34,707
+Épisode 106 : Dungeons & Dragons
+<i>v 1.01</i>
+
+12
+00:00:34,867 --> 00:00:37,323
+http://Projet-SG.net
+Transcript: swsub.com
+
+13
+00:00:38,460 --> 00:00:41,285
+<i>Précédemment dans</i> Terminator :
+The Sarah Connor Chronicles.
+
+14
+00:00:41,713 --> 00:00:44,413
+Votre fiancée a tué un homme,
+car elle croit
+
+15
+00:00:44,675 --> 00:00:46,858
+qu'il va inventer
+un système informatique
+
+16
+00:00:47,018 --> 00:00:48,917
+qui déclarera la guerre au monde.
+
+17
+00:00:49,470 --> 00:00:52,005
+<i>- Andy Goode a refait son ordinateur.</i>
+- Le Turc.
+
+18
+00:00:52,581 --> 00:00:54,340
+<i>Quelqu'un l'a tué
+et pris sa machine.</i>
+
+19
+00:00:55,019 --> 00:00:57,766
+<i>Pas de nom, mais il a ce tatouage
+sur le bras.</i>
+
+20
+00:00:57,926 --> 00:01:00,929
+<i>C'est un tatouage des camps de travail
+de Skynet. C'est un résistant.</i>
+
+21
+00:01:01,650 --> 00:01:03,766
+- Je sais qui vous êtes.
+- Tout comme moi.
+
+22
+00:01:05,278 --> 00:01:08,854
+<i>Ces choses sont toutes programmées</i>
+<i>pour des missions précises.</i>
+
+23
+00:01:16,160 --> 00:01:18,113
+- On doit le sauver.
+- Tu le connais pas.
+
+24
+00:01:18,375 --> 00:01:20,992
+C'est ton oncle.
+Il le sait pas.
+
+25
+00:01:24,408 --> 00:01:26,161
+Sans médecin, il va mourir.
+
+26
+00:01:28,594 --> 00:01:31,461
+- C'est vraiment toi ?
+- Il ne respire plus.
+
+27
+00:01:40,292 --> 00:01:43,623
+<i>La nuit de notre rencontre,
+le père de John, Kyle Reese,</i>
+
+28
+00:01:43,811 --> 00:01:46,335
+<i>m'a dit quelque chose
+dont je me souviens.</i>
+
+29
+00:01:46,580 --> 00:01:48,293
+<i>C'était un avertissement.</i>
+
+30
+00:01:48,827 --> 00:01:50,975
+<i>Des mots pour m'aider à vivre.</i>
+
+31
+00:01:51,653 --> 00:01:54,242
+<i>Il m'a parlé d'une apocalypse à venir.</i>
+
+32
+00:01:54,584 --> 00:01:58,379
+<i>Comme une boîte de Pandore,
+il raconta toute l'horreur.</I></i>
+
+33
+00:01:58,625 --> 00:02:01,152
+<i>Toute la noirceur
+qui hante notre futur.</i>
+
+34
+00:02:04,139 --> 00:02:06,386
+<i>Il me laissa aussi un fils à naître,</i>
+
+35
+00:02:06,687 --> 00:02:10,598
+<i>auquel il légua le reste de la boîte
+après les cauchemars :</i>
+
+36
+00:02:11,825 --> 00:02:12,626
+<i>l'espoir.</i>
+
+37
+00:02:14,706 --> 00:02:17,923
+La balle a touché son poumon gauche.
+Un fragment est dans le tissu,
+
+38
+00:02:18,185 --> 00:02:21,344
+je peux l'enlever.
+Mais dites-moi ce qui se passe ici.
+
+39
+00:02:21,724 --> 00:02:25,180
+- C'est une machine ! Elle ment !
+- Sédatifs ! Mon sac !
+
+40
+00:02:27,389 --> 00:02:28,934
+Elle dit que des mensonges !
+
+41
+00:02:29,195 --> 00:02:30,477
+L'écoutez pas !
+
+42
+00:02:32,866 --> 00:02:34,231
+Éloignez cette salope !
+
+43
+00:02:36,327 --> 00:02:38,861
+- Non ! Éloignez cette salope !
+- Vous avez entendu.
+
+44
+00:02:39,755 --> 00:02:41,196
+Dégage !
+
+45
+00:02:42,708 --> 00:02:45,051
+- Vous voulez qu'il meurre ?
+- Si je voulais...
+
+46
+00:02:47,374 --> 00:02:48,704
+Maman, je fais quoi ?
+
+47
+00:02:48,966 --> 00:02:50,748
+Il faut un aspirateur,
+pour drainer.
+
+48
+00:02:51,010 --> 00:02:52,624
+Dans mon camion. Tu connais ?
+
+49
+00:02:52,886 --> 00:02:54,626
+- Je me souviens.
+- Vas-y.
+
+50
+00:02:57,891 --> 00:02:59,631
+Mon Dieu. Impacts de balles,
+
+51
+00:03:00,224 --> 00:03:01,967
+perforations, brûlures, os cassés.
+
+52
+00:03:02,229 --> 00:03:04,178
+De la médecine improvisée,
+ou rien du tout.
+
+53
+00:03:06,829 --> 00:03:08,300
+Il me faut plus de lumière.
+
+54
+00:03:12,665 --> 00:03:14,062
+Reste avec moi, OK ?
+
+55
+00:03:40,960 --> 00:03:42,481
+T'es un idiot, hein ?
+
+56
+00:03:43,001 --> 00:03:45,207
+C'est une histoire. Une fable.
+
+57
+00:03:46,663 --> 00:03:49,193
+Ça marche pas. C'est dans ta tête.
+
+58
+00:03:51,753 --> 00:03:52,601
+Ça marche.
+
+59
+00:03:53,288 --> 00:03:55,270
+Je le fais pas,
+je suis jamais malade.
+
+60
+00:03:55,532 --> 00:03:57,925
+Tes tripes sont en métal,
+comme ta tête.
+
+61
+00:03:58,085 --> 00:04:00,445
+Un peu plus intelligent,
+et tu serais une conserve.
+
+62
+00:04:00,605 --> 00:04:02,778
+Je dis juste que tu perds ton temps.
+
+63
+00:04:03,040 --> 00:04:03,946
+Encore.
+
+64
+00:04:04,458 --> 00:04:07,648
+- Quand j'étais à Century...
+- Wisher, t'as entendu ?
+
+65
+00:04:08,673 --> 00:04:10,670
+Frère Kyle était au camp Century.
+
+66
+00:04:11,840 --> 00:04:13,787
+- Sans déconner ?
+- Va te faire foutre.
+
+67
+00:04:13,947 --> 00:04:16,262
+Il s'est échappé ?
+C'était un héros ?
+
+68
+00:04:16,887 --> 00:04:20,016
+J'ai appris qu'il a guidé John Connor
+dans un abattoir sans problème.
+
+69
+00:04:20,176 --> 00:04:22,548
+Moi, on m'a dit deux abattoirs.
+
+70
+00:04:22,810 --> 00:04:26,218
+- Et il a porté Connor.
+- C'était un abattoir.
+
+71
+00:04:26,582 --> 00:04:27,915
+Plusieurs Connor.
+
+72
+00:04:28,075 --> 00:04:29,513
+C'est ça.
+
+73
+00:04:41,745 --> 00:04:43,243
+Patrouille de Centaures.
+
+74
+00:04:51,332 --> 00:04:53,412
+- Quoi ?
+- Je hais ce truc.
+
+75
+00:04:56,425 --> 00:04:58,584
+- C'est qu'une photo.
+- C'est la mère de Connor.
+
+76
+00:04:59,017 --> 00:05:00,857
+Je pige pas pourquoi
+il te l'a donnée.
+
+77
+00:05:01,017 --> 00:05:02,588
+Elle me porte chance.
+
+78
+00:05:03,725 --> 00:05:05,090
+Ça me rend nerveux.
+
+79
+00:05:05,352 --> 00:05:07,134
+Derek, Kyle !
+Connor veut qu'on monte.
+
+80
+00:05:07,395 --> 00:05:09,703
+Faut trouver
+d'où venaient les Centaures.
+
+81
+00:06:27,014 --> 00:06:29,091
+Je crois qu'on a perdu la piste.
+
+82
+00:06:29,507 --> 00:06:31,593
+On avance encore un peu
+vers le nord-nord-est.
+
+83
+00:06:32,255 --> 00:06:34,972
+Si j'étais un Cyborg,
+je viendrais du nord-nord-est.
+
+84
+00:06:36,630 --> 00:06:37,891
+Ça sent l'essence.
+
+85
+00:06:38,618 --> 00:06:40,978
+Comme la fois où on a trouvé
+une usine de tanks.
+
+86
+00:06:41,839 --> 00:06:43,939
+Mais Connor veut plus gros
+que des usines.
+
+87
+00:06:44,201 --> 00:06:47,415
+Il a envoyé des équipes
+à la recherche d'une arme secrète.
+
+88
+00:06:47,575 --> 00:06:50,237
+Ils en ont pas assez ?
+Pourquoi une secrète ?
+
+89
+00:06:50,740 --> 00:06:53,031
+Et ça, Kyle ?
+Connor t'en a parlé ?
+
+90
+00:06:53,293 --> 00:06:54,700
+Non, rien du tout.
+
+91
+00:07:15,381 --> 00:07:16,763
+Bordel, c'était quoi ?
+
+92
+00:07:33,673 --> 00:07:34,495
+HK !
+
+93
+00:07:35,700 --> 00:07:36,522
+HK !
+
+94
+00:07:45,412 --> 00:07:46,251
+Allez !
+
+95
+00:08:04,780 --> 00:08:05,645
+Et voilà.
+
+96
+00:08:17,279 --> 00:08:18,351
+Huit ans.
+
+97
+00:08:19,368 --> 00:08:21,206
+C'est le temps que j'ai passé à LA.
+
+98
+00:08:21,964 --> 00:08:24,548
+Huit ans
+depuis que ma fiancée m'a quitté.
+
+99
+00:08:25,202 --> 00:08:26,416
+Huit ans que le FBI
+
+100
+00:08:26,677 --> 00:08:29,087
+m'a appris qu'elle était une
+meurtrière schizophrène paranoïaque
+
+101
+00:08:29,347 --> 00:08:31,862
+avec une forte aversion
+pour la mécanique.
+
+102
+00:08:33,507 --> 00:08:34,988
+Pour ce que ça vaut,
+
+103
+00:08:35,148 --> 00:08:36,384
+je les ai pas crus.
+
+104
+00:08:42,046 --> 00:08:43,834
+Et tu t'es fait exploser.
+
+105
+00:08:45,612 --> 00:08:46,978
+Tu as l'air nerveux.
+
+106
+00:08:47,240 --> 00:08:48,865
+Tu veux un sédatif ?
+
+107
+00:08:49,176 --> 00:08:52,067
+- Il y en a dans le sac de Dixon.
+- J'en veux pas.
+
+108
+00:08:52,914 --> 00:08:55,320
+Tu sais qui est là-dedans ?
+Qui meurt sur la table ?
+
+109
+00:08:55,582 --> 00:08:59,449
+Oui, cet homme est le premier Lieutenant
+Derek Thomas Reese avec le 132e SOC
+
+110
+00:08:59,710 --> 00:09:00,992
+Opérations spéciales.
+
+111
+00:09:01,254 --> 00:09:03,247
+Non, je veux dire,
+au niveau personnel.
+
+112
+00:09:03,407 --> 00:09:05,080
+Tu comprends qui c'est ?
+
+113
+00:09:05,342 --> 00:09:08,208
+Le dossier indique un lien de parenté
+avec son frère, Kyle Reese.
+
+114
+00:09:09,919 --> 00:09:12,504
+Qu'est-ce que tu sais
+sur Kyle Reese ?
+
+115
+00:09:12,766 --> 00:09:15,215
+Emprisonné au camp de travail
+Century avec John Connor,
+
+116
+00:09:15,477 --> 00:09:16,509
+en 2015.
+
+117
+00:09:16,770 --> 00:09:18,492
+Échappé avec John Connor en 2021.
+
+118
+00:09:18,652 --> 00:09:20,762
+Officiellement déclaré
+disparu au front en 2027,
+
+119
+00:09:21,024 --> 00:09:23,682
+après avoir été assigné
+à la protection de Sarah Connor.
+
+120
+00:09:25,637 --> 00:09:26,726
+C'est tout ?
+
+121
+00:09:26,988 --> 00:09:28,061
+Ça fait beaucoup.
+
+122
+00:09:29,505 --> 00:09:30,230
+Oui.
+
+123
+00:09:35,166 --> 00:09:36,528
+C'était aux infos.
+
+124
+00:09:36,790 --> 00:09:39,603
+Trois jours plus tard,
+je fais mon sac, prends ma moto,
+
+125
+00:09:39,763 --> 00:09:41,860
+file vers LA, sans escale.
+
+126
+00:09:42,462 --> 00:09:44,054
+Fallait que je sache.
+
+127
+00:09:45,634 --> 00:09:47,372
+Que je vois ça de mes propres yeux.
+
+128
+00:09:50,055 --> 00:09:51,751
+Mais tout avait disparu.
+
+129
+00:09:52,398 --> 00:09:55,167
+Il restait plus qu'un cratère
+à la place de la banque.
+
+130
+00:09:56,558 --> 00:09:58,062
+J'ai pas pu rentrer.
+
+131
+00:09:58,896 --> 00:09:59,885
+J'ai pas pu.
+
+132
+00:10:01,086 --> 00:10:02,862
+Je voulais pas te quitter.
+
+133
+00:10:03,686 --> 00:10:04,931
+J'ai pas eu le choix.
+
+134
+00:10:05,455 --> 00:10:07,142
+Un flingue sur la tempe ?
+
+135
+00:10:07,403 --> 00:10:09,561
+Plutôt dans ma tête, c'est...
+
+136
+00:10:12,146 --> 00:10:15,317
+- C'est compliqué.
+- Alors explique moi.
+
+137
+00:10:39,699 --> 00:10:40,759
+Tu permets ?
+
+138
+00:10:41,021 --> 00:10:41,971
+L'eau ?
+
+139
+00:10:42,960 --> 00:10:44,983
+Qu'est-ce qu'il y a ? Il est mort ?
+
+140
+00:10:52,157 --> 00:10:53,688
+Vieux, ça va ?
+
+141
+00:11:04,162 --> 00:11:05,063
+Donc...
+
+142
+00:11:07,700 --> 00:11:08,726
+Skynet,
+
+143
+00:11:09,674 --> 00:11:10,685
+des robots,
+
+144
+00:11:11,551 --> 00:11:12,932
+du futur ?
+
+145
+00:11:14,095 --> 00:11:15,293
+Et, vous êtes un...
+
+146
+00:11:15,554 --> 00:11:17,712
+Oui.
+Je suis un...
+
+147
+00:11:17,974 --> 00:11:19,717
+- Il te faut...
+- Une minute ?
+
+148
+00:11:19,877 --> 00:11:21,132
+J'allais dire un verre.
+
+149
+00:11:21,662 --> 00:11:23,134
+Ouais, aussi.
+
+150
+00:11:24,524 --> 00:11:27,514
+Tu n'as pas un endosquelette
+à faire disparaître ?
+
+151
+00:11:27,776 --> 00:11:30,799
+- J'ai déjà préparé l'aluminothermie.
+- L'aluminothermie ?
+
+152
+00:11:30,959 --> 00:11:32,624
+C'est un composé incendiaire.
+
+153
+00:11:32,784 --> 00:11:34,674
+Il brûle à 2 500 °C.
+
+154
+00:11:35,011 --> 00:11:36,898
+Assez chaud
+pour liquéfier cet endosquelette.
+
+155
+00:11:37,471 --> 00:11:40,239
+Je connais l'aluminothermie,
+j'essaie juste...
+
+156
+00:11:40,399 --> 00:11:42,412
+de me faire à tout ça...
+
+157
+00:11:42,892 --> 00:11:44,194
+"endosquelette".
+
+158
+00:11:48,345 --> 00:11:50,277
+Il y a des bières au frigo.
+
+159
+00:11:58,034 --> 00:11:59,963
+J'ai plus de citron. Désolé.
+
+160
+00:12:10,150 --> 00:12:11,949
+Tu m'en veux de t'avoir...
+
+161
+00:12:12,737 --> 00:12:14,102
+mêlé à tout ça ?
+
+162
+00:12:26,126 --> 00:12:27,713
+Je pense que j'aurais
+
+163
+00:12:28,010 --> 00:12:29,894
+aimé le savoir à l'époque.
+
+164
+00:12:31,712 --> 00:12:33,580
+J'aurais aimé
+que tu me fasses confiance.
+
+165
+00:12:36,851 --> 00:12:38,037
+Je l'ai fait.
+
+166
+00:13:57,819 --> 00:13:59,518
+Tu es là depuis quand ?
+
+167
+00:14:10,670 --> 00:14:14,514
+- Je sais pas.
+- Je crois que je viens d'arriver.
+
+168
+00:14:14,776 --> 00:14:16,641
+Non, tu étais là à mon arrivée.
+
+169
+00:14:17,562 --> 00:14:18,564
+Timms.
+
+170
+00:14:18,988 --> 00:14:21,080
+- Et ton nom ?
+- Reese.
+
+171
+00:14:21,491 --> 00:14:24,065
+Un Reese s'est barré
+d'un camp de travail Century.
+
+172
+00:14:24,225 --> 00:14:25,859
+Avec John Connor, il y a un moment.
+
+173
+00:14:26,303 --> 00:14:28,903
+Il paraît que des tarrés
+pourraient mener une révolte.
+
+174
+00:14:29,165 --> 00:14:29,895
+Non...
+
+175
+00:14:30,756 --> 00:14:31,986
+C'était pas moi.
+
+176
+00:14:34,616 --> 00:14:35,711
+Dommage.
+
+177
+00:15:01,507 --> 00:15:04,272
+Ils font quoi, Reese ?
+Ils ont une arme secrète ?
+
+178
+00:15:05,523 --> 00:15:08,026
+- C'était Connor, hein ?
+- Je sais pas.
+
+179
+00:15:09,793 --> 00:15:12,030
+On va où on nous dit.
+On fait ce qu'on nous dit.
+
+180
+00:15:12,964 --> 00:15:14,679
+Connor se trompe peut-être.
+
+181
+00:15:15,875 --> 00:15:17,076
+Il est peut-être fou.
+
+182
+00:15:17,775 --> 00:15:19,450
+T'entends la musique ?
+
+183
+00:15:20,500 --> 00:15:22,749
+Je jure que j'en entends.
+De la vraie musique.
+
+184
+00:15:23,595 --> 00:15:25,794
+Il y a une pièce dans les caves.
+
+185
+00:15:27,097 --> 00:15:28,338
+Il s'y passe quoi ?
+
+186
+00:15:31,437 --> 00:15:32,926
+Il s'y passe quoi ?
+
+187
+00:15:33,188 --> 00:15:34,928
+Notre ami va peut-être nous le dire.
+
+188
+00:15:55,734 --> 00:15:57,233
+Tu devrais dégager.
+
+189
+00:15:59,631 --> 00:16:02,372
+Tu lui as fait quelque chose ?
+Dans le futur ?
+
+190
+00:16:02,634 --> 00:16:04,457
+- Je ne sais pas.
+- Tu sais pas ?
+
+191
+00:16:04,719 --> 00:16:06,709
+En nous reprogrammant,
+ils effacent nos souvenirs.
+
+192
+00:16:06,971 --> 00:16:09,128
+Ça accroît les chances de réussite.
+
+193
+00:16:12,855 --> 00:16:14,050
+De réussite ?
+
+194
+00:16:15,542 --> 00:16:17,273
+De la reprogrammation.
+
+195
+00:16:26,577 --> 00:16:29,023
+Hémorragie pulmonaire.
+Il se noie dans son sang.
+
+196
+00:16:32,262 --> 00:16:33,736
+J'ai arrêté l'hémorragie.
+
+197
+00:16:34,645 --> 00:16:36,240
+J'ai vidé ses poumons.
+
+198
+00:16:36,687 --> 00:16:39,239
+Mais il a perdu beaucoup de sang.
+Il lui faut une transfusion.
+
+199
+00:16:39,399 --> 00:16:41,536
+Sarah est O-négatif,
+donneur universel.
+
+200
+00:16:41,798 --> 00:16:44,831
+Inutile. Il lui faut au moins
+3 unités de son propre type, AB-négatif.
+
+201
+00:16:45,093 --> 00:16:48,025
+Mauvaise nouvelle :
+seulement 0,5 % de la population
+
+202
+00:16:48,185 --> 00:16:49,541
+est un donneur potentiel.
+
+203
+00:16:49,701 --> 00:16:51,200
+On n'en trouve pas,
+
+204
+00:16:51,540 --> 00:16:55,216
+- et vous aurez un sérieux problème.
+- Alors, on l'emmène à l'hôpital.
+
+205
+00:16:55,478 --> 00:16:56,861
+On le dépose anonymement.
+
+206
+00:16:57,021 --> 00:17:00,096
+Il est toujours recherché
+pour meurtre et pour évasion.
+
+207
+00:17:00,358 --> 00:17:01,889
+On devrait le laisser mourir
+
+208
+00:17:02,651 --> 00:17:04,188
+Teste mon sang.
+
+209
+00:17:06,146 --> 00:17:07,247
+Teste-moi.
+
+210
+00:17:08,198 --> 00:17:09,856
+Tu connais les chances,
+200 contre une.
+
+211
+00:17:12,701 --> 00:17:14,500
+S'il te plaît, teste-moi.
+
+212
+00:17:50,356 --> 00:17:51,272
+Wisher.
+
+213
+00:17:56,412 --> 00:17:57,277
+Billy.
+
+214
+00:18:19,400 --> 00:18:22,385
+C'est pas un don pour la Croix-Rouge.
+Il lui en faut beaucoup.
+
+215
+00:18:22,545 --> 00:18:24,645
+Alors, j'ai ni biscuit
+ni autocollant à la fin ?
+
+216
+00:18:24,805 --> 00:18:28,242
+- Je suis sérieuse.
+- Je vois personne d'autre en lice.
+
+217
+00:18:29,049 --> 00:18:31,104
+T'as pris un sacré risque
+d'amener Charley ici.
+
+218
+00:18:32,229 --> 00:18:34,232
+Épargne-moi le sermon.
+Je sais tout ça.
+
+219
+00:18:35,591 --> 00:18:37,485
+T'as pris un sacré risque
+et ça a marché.
+
+220
+00:18:45,153 --> 00:18:46,883
+Il lui ressemblait ?
+
+221
+00:18:48,777 --> 00:18:50,331
+Ils se ressemblent ?
+
+222
+00:18:53,314 --> 00:18:54,736
+Un peu, ouais.
+
+223
+00:18:56,343 --> 00:18:58,506
+La même carrure,
+le même tempérament.
+
+224
+00:19:00,716 --> 00:19:02,218
+Mais pas les yeux.
+
+225
+00:19:02,842 --> 00:19:05,826
+Même quand ton père gueulait
+à propos des machines,
+
+226
+00:19:08,165 --> 00:19:10,140
+il avait des yeux si doux.
+
+227
+00:19:14,360 --> 00:19:16,566
+- Il faut lui dire.
+- Hors de question.
+
+228
+00:19:17,934 --> 00:19:19,902
+- Il est de la famille.
+- C'est un étranger.
+
+229
+00:19:20,164 --> 00:19:22,029
+Je l'ai envoyé,
+je lui fais confiance.
+
+230
+00:19:22,291 --> 00:19:23,781
+Pas pour lui parler de Kyle.
+
+231
+00:19:24,195 --> 00:19:26,409
+Tu dois te fier à personne
+au sujet de ton père.
+
+232
+00:19:26,671 --> 00:19:27,696
+Personne.
+
+233
+00:19:44,301 --> 00:19:46,971
+- Je peux te faire une confession ?
+- Je suis pas prêtre.
+
+234
+00:19:48,204 --> 00:19:49,327
+Loin s'en faut.
+
+235
+00:19:51,347 --> 00:19:52,913
+Je suis un menteur.
+
+236
+00:19:53,363 --> 00:19:54,515
+Et le diable.
+
+237
+00:19:56,492 --> 00:19:57,905
+Mon nom est pas Billy.
+
+238
+00:19:58,595 --> 00:19:59,692
+C'est pas Wisher.
+
+239
+00:20:02,704 --> 00:20:03,404
+Quoi ?
+
+240
+00:20:04,451 --> 00:20:05,907
+Je m'appelle Andy.
+
+241
+00:20:07,594 --> 00:20:08,732
+Andy Goode.
+
+242
+00:20:10,212 --> 00:20:11,162
+OK, Andy.
+
+243
+00:20:12,600 --> 00:20:13,897
+J'ai fait ça.
+
+244
+00:20:15,004 --> 00:20:16,959
+Tout ça, c'est de ma faute.
+
+245
+00:20:18,497 --> 00:20:19,879
+Qu'est-ce que tu racontes ?
+
+246
+00:20:22,182 --> 00:20:23,466
+J'ai construit Skynet.
+
+247
+00:20:30,215 --> 00:20:31,479
+Repose-toi.
+
+248
+00:20:31,639 --> 00:20:32,934
+T'es malade.
+
+249
+00:20:37,831 --> 00:20:39,273
+Je suis pas malade.
+
+250
+00:20:39,981 --> 00:20:42,276
+Je suis pas malade.
+C'est moi qui ai fait tout ça.
+
+251
+00:20:46,076 --> 00:20:47,698
+Je faisais partie d'une équipe.
+
+252
+00:20:49,058 --> 00:20:51,020
+Un groupe.
+On était une dizaine.
+
+253
+00:20:51,556 --> 00:20:53,113
+Peut-être même 15.
+
+254
+00:20:53,273 --> 00:20:56,415
+On avait de fausses identités.
+On a menti.
+
+255
+00:20:58,078 --> 00:20:59,978
+Je construisais des ordinateurs.
+
+256
+00:21:00,138 --> 00:21:01,742
+J'en ai construit un.
+
+257
+00:21:02,758 --> 00:21:03,815
+Un esprit.
+
+258
+00:21:05,991 --> 00:21:07,699
+Il est devenu colérique.
+
+259
+00:21:08,013 --> 00:21:09,220
+Et effrayé.
+
+260
+00:21:10,966 --> 00:21:12,682
+Je n'ai pas pu le rassurer.
+
+261
+00:21:16,263 --> 00:21:17,659
+Je suis désolé.
+
+262
+00:21:19,826 --> 00:21:21,816
+Je suis désolé, pardonne-moi !
+
+263
+00:23:07,311 --> 00:23:09,590
+C'est quelqu'un, ton fils.
+
+264
+00:23:09,852 --> 00:23:11,425
+T'imagines même pas.
+
+265
+00:23:11,687 --> 00:23:14,000
+Groupe sanguin rarissime
+comme ce type.
+
+266
+00:23:14,160 --> 00:23:15,763
+Et son nom, Reese.
+
+267
+00:23:16,393 --> 00:23:18,099
+Comme toi quand on s'est rencontrés.
+
+268
+00:23:19,081 --> 00:23:20,351
+Tout s'explique.
+
+269
+00:23:21,284 --> 00:23:23,092
+C'est pas le père de John.
+
+270
+00:23:25,409 --> 00:23:26,983
+Je suis pas prête à t'expliquer.
+
+271
+00:23:27,245 --> 00:23:28,776
+C'est compliqué, c'est ça ?
+
+272
+00:23:33,042 --> 00:23:34,907
+T'aurais pu me le dire.
+
+273
+00:23:37,638 --> 00:23:39,598
+Est-ce que tu m'aurais crue ?
+
+274
+00:23:45,972 --> 00:23:47,920
+Où est Kyle ?
+Où est Kyle ? Où est...
+
+275
+00:23:48,181 --> 00:23:49,839
+Vous l'avez envoyé où ?
+
+276
+00:23:53,020 --> 00:23:54,010
+Dégagez !
+
+277
+00:23:54,647 --> 00:23:56,012
+Où est-il ?
+
+278
+00:23:57,033 --> 00:23:58,773
+Vous l'avez envoyé où ?
+Où ?
+
+279
+00:23:58,933 --> 00:24:00,307
+Dites-moi la vérité !
+
+280
+00:24:01,570 --> 00:24:02,560
+Retirez ça !
+
+281
+00:24:02,822 --> 00:24:04,106
+Retirez-moi ça !
+
+282
+00:24:09,794 --> 00:24:11,355
+On est du même sang !
+
+283
+00:25:57,595 --> 00:25:59,499
+Je crois qu'ils sont partis.
+
+284
+00:26:14,848 --> 00:26:16,417
+C'est quoi ça, un jeu ?
+
+285
+00:26:17,211 --> 00:26:18,028
+Ouais,
+
+286
+00:26:19,389 --> 00:26:21,004
+c'est toujours un jeu.
+
+287
+00:26:30,139 --> 00:26:31,428
+Reese, ralentis !
+
+288
+00:26:49,389 --> 00:26:50,590
+Mon Dieu, non.
+
+289
+00:27:05,761 --> 00:27:07,357
+Alors, qui est Kyle ?
+
+290
+00:27:08,269 --> 00:27:10,070
+Il vient du futur aussi ?
+
+291
+00:27:11,119 --> 00:27:12,499
+Il est déjà venu ?
+
+292
+00:27:14,304 --> 00:27:15,323
+Et...
+
+293
+00:27:16,378 --> 00:27:17,803
+C'est le père de John.
+
+294
+00:27:18,829 --> 00:27:19,871
+Oui.
+
+295
+00:27:21,554 --> 00:27:23,510
+Ils sont frères.
+Il ne le sait pas.
+
+296
+00:27:23,772 --> 00:27:26,762
+- Tu disais que son père était mort.
+- C'est le cas.
+
+297
+00:27:29,605 --> 00:27:31,393
+C'était à cause de tout ça.
+
+298
+00:27:34,227 --> 00:27:35,260
+Moi.
+
+299
+00:27:37,369 --> 00:27:39,068
+On avait aucune chance.
+
+300
+00:28:04,730 --> 00:28:05,844
+Brûlures de plasma,
+
+301
+00:28:06,777 --> 00:28:08,516
+explosions secondaires.
+
+302
+00:28:10,248 --> 00:28:12,052
+Skynet est passé par ici.
+
+303
+00:28:15,378 --> 00:28:19,376
+Connor et les autres ont peut-être pu
+battre en retraite sous la ville.
+
+304
+00:28:44,270 --> 00:28:45,429
+Je vous en prie.
+
+305
+00:29:07,884 --> 00:29:08,657
+Repos !
+
+306
+00:29:08,918 --> 00:29:09,867
+Repos !
+
+307
+00:29:12,626 --> 00:29:13,537
+Derek Reese.
+
+308
+00:29:13,799 --> 00:29:14,595
+Sumner.
+
+309
+00:29:15,920 --> 00:29:19,321
+- On a cru vous avoir perdu au dépotoir.
+- C'est le cas.
+
+310
+00:29:20,084 --> 00:29:21,459
+Qu'est-ce qui s'est passé ?
+
+311
+00:29:21,619 --> 00:29:23,654
+Skynet l'a trouvé
+il y a quatre nuits.
+
+312
+00:29:24,956 --> 00:29:27,176
+On avait une patrouille
+dans le périmètre,
+
+313
+00:29:27,438 --> 00:29:30,763
+quatre triple-A nous ont surpris.
+Ils ont tué la plupart des gens,
+
+314
+00:29:31,303 --> 00:29:33,640
+en ont capturé certains,
+mais rassure-toi,
+
+315
+00:29:33,902 --> 00:29:35,684
+Connor et ton frère étaient pas là.
+
+316
+00:29:36,302 --> 00:29:39,063
+- Ils étaient où ?
+- Dans un complexe à Topanga Canyon.
+
+317
+00:29:39,325 --> 00:29:41,357
+Ils ont mis
+toutes nos forces dessus.
+
+318
+00:29:42,270 --> 00:29:44,249
+On a perdu beaucoup d'hommes.
+
+319
+00:29:44,561 --> 00:29:46,435
+- Qu'est-ce que c'était ?
+- Je sais pas.
+
+320
+00:29:46,748 --> 00:29:48,072
+Un complexe de recherche.
+
+321
+00:29:48,334 --> 00:29:50,616
+Une usine, un truc du genre.
+Personne veut nous dire.
+
+322
+00:29:50,878 --> 00:29:53,202
+Connor a pris un groupe, ton frère
+et ils sont entrés.
+
+323
+00:29:53,464 --> 00:29:55,582
+Nous autres,
+on devait faire le guet.
+
+324
+00:29:55,742 --> 00:29:58,832
+Deux jours plus tard, il est sorti.
+Il nous a dit de tout faire péter.
+
+325
+00:29:59,094 --> 00:30:00,182
+Et Kyle ?
+
+326
+00:30:05,697 --> 00:30:07,548
+Qu'est-il arrivé à mon frère ?
+
+327
+00:30:09,011 --> 00:30:10,812
+On l'a plus revu depuis.
+
+328
+00:30:17,958 --> 00:30:19,533
+Amène-moi à Connor.
+
+329
+00:30:24,342 --> 00:30:27,778
+Sarah pense que je pourrais
+trouver des bandages par ici.
+
+330
+00:30:42,206 --> 00:30:43,669
+C'est vraiment nécessaire ?
+
+331
+00:30:44,767 --> 00:30:46,685
+C'est mort. Pas vrai ?
+
+332
+00:30:47,309 --> 00:30:48,632
+Ou désactivé, n'importe ?
+
+333
+00:30:48,894 --> 00:30:51,986
+Aucun composant ne doit être
+reparé ou récupérable.
+
+334
+00:30:52,600 --> 00:30:55,013
+Une seule pièce manquante
+de l'endosquelette
+
+335
+00:30:55,275 --> 00:30:57,516
+pourrait précipiter
+l'évolution technologique.
+
+336
+00:30:59,029 --> 00:31:01,403
+Hâtant la venue
+du Jugement dernier.
+
+337
+00:31:04,975 --> 00:31:05,859
+Ouais.
+
+338
+00:31:08,789 --> 00:31:10,237
+Vous savez, jeune fille ?
+
+339
+00:31:11,858 --> 00:31:13,615
+Vous me foutez la trouille.
+
+340
+00:31:14,499 --> 00:31:17,585
+À première vue,
+vous êtes une jolie fille.
+
+341
+00:31:19,430 --> 00:31:21,568
+Mais à l'intérieur, vous êtes...
+
+342
+00:31:23,527 --> 00:31:25,419
+Un châssis de combat
+en hyperalliage.
+
+343
+00:31:27,672 --> 00:31:30,299
+C'est le terme scientifique
+pour dire "robot" ?
+
+344
+00:31:30,561 --> 00:31:32,247
+Organisme cybernétique.
+
+345
+00:31:32,886 --> 00:31:35,012
+Tissu humain
+sur un endosquelette de métal.
+
+346
+00:31:36,361 --> 00:31:37,598
+Terrifiant robot.
+
+347
+00:31:38,168 --> 00:31:40,609
+Et vous avez, découpé ce mec
+
+348
+00:31:42,448 --> 00:31:44,791
+- pour le réduire en cendre.
+- C'est pas un mec.
+
+349
+00:31:44,951 --> 00:31:48,823
+- C'est un terrifiant robot.
+- D'accord, c'est un terrifiant robot.
+
+350
+00:31:48,983 --> 00:31:49,894
+Vous,
+
+351
+00:31:50,722 --> 00:31:51,987
+vous êtes bien pire.
+
+352
+00:31:57,583 --> 00:31:59,079
+Vous devriez partir.
+
+353
+00:32:01,213 --> 00:32:02,581
+C'est dangereux pour vous.
+
+354
+00:32:28,608 --> 00:32:31,708
+Vous êtes comme un revenant.
+Et vous êtes un Reese.
+
+355
+00:32:31,868 --> 00:32:35,007
+- Parlez-moi de l'autre Reese.
+- Je vous l'ai dit, c'est classé.
+
+356
+00:32:35,167 --> 00:32:36,563
+C'est ma famille.
+
+357
+00:32:37,009 --> 00:32:38,713
+Nous sommes tous une famille.
+
+358
+00:32:39,422 --> 00:32:42,030
+Laissez-moi parler à Connor.
+Il comprendra. Kyle était son ami.
+
+359
+00:32:42,190 --> 00:32:43,747
+Connor n'a pas d'amis.
+
+360
+00:32:44,174 --> 00:32:47,411
+- Et il ne parle à personne.
+- Très bien, je le trouverai moi-même.
+
+361
+00:32:56,084 --> 00:32:56,820
+Métal !
+
+362
+00:33:01,687 --> 00:33:05,687
+- C'est une machine ! Une des leurs !
+- Non, bon sang ! Elle est des nôtres.
+
+363
+00:33:11,982 --> 00:33:13,286
+Une des nôtres ?
+
+364
+00:33:19,446 --> 00:33:20,534
+C'est reprogrammé.
+
+365
+00:33:20,796 --> 00:33:22,828
+Et ils se baladent librement ici ?
+
+366
+00:33:23,460 --> 00:33:25,711
+C'est l'opération de Connor.
+Et c'est ce qu'il veut.
+
+367
+00:33:25,871 --> 00:33:28,625
+Ces machines tuent.
+C'est tout ce qu'elles font.
+
+368
+00:33:29,043 --> 00:33:30,857
+Maintenant,
+elles le font pour nous.
+
+369
+00:33:31,017 --> 00:33:33,171
+On aurait pas réussi
+à Topanga sans elles.
+
+370
+00:33:33,433 --> 00:33:34,820
+Réussir quoi ?
+
+371
+00:33:35,898 --> 00:33:37,134
+- Derek.
+- Alors ?
+
+372
+00:33:37,797 --> 00:33:40,012
+Il s'est passé quoi ?
+Qu'est-il arrivé à mon frère ?
+
+373
+00:34:32,701 --> 00:34:35,484
+Fais-le. Fais-le !
+Tue-moi, sale fils de...
+
+374
+00:34:49,828 --> 00:34:51,708
+Parfois ils tournent mal.
+
+375
+00:34:51,970 --> 00:34:53,460
+Personne sait pourquoi.
+
+376
+00:34:56,642 --> 00:34:58,883
+Qu'est-ce que t'as dit à Charley ?
+
+377
+00:35:01,104 --> 00:35:03,845
+- Je lui ai foutu la trouille.
+- Je l'aurais parié.
+
+378
+00:35:04,419 --> 00:35:05,719
+Pas de surprise.
+
+379
+00:35:06,707 --> 00:35:08,452
+Je sais à quoi tu penses.
+
+380
+00:35:08,931 --> 00:35:10,394
+Peut-être pas comment.
+
+381
+00:35:11,292 --> 00:35:12,813
+Mais je sais ce que tu te dis.
+
+382
+00:35:14,046 --> 00:35:17,567
+Et là, c'est exactement
+ce que tu devrais pas.
+
+383
+00:35:21,344 --> 00:35:23,123
+Je n'ai pas quitté Charley
+
+384
+00:35:23,836 --> 00:35:26,736
+parce que c'était une menace
+pour John ou moi.
+
+385
+00:35:27,540 --> 00:35:29,466
+C'est nous la menace,
+tu comprends ?
+
+386
+00:35:29,626 --> 00:35:31,829
+Vous avez eu raison de le quitter.
+
+387
+00:35:32,857 --> 00:35:35,529
+Tu l'approches pas.
+Tu le touches pas.
+
+388
+00:35:36,604 --> 00:35:38,837
+Jure-moi de le laisser tranquille,
+ou alors,
+
+389
+00:35:38,997 --> 00:35:41,842
+je trouverai un moyen de te démonter,
+pièce par pièce.
+
+390
+00:35:44,110 --> 00:35:45,929
+- Je le jure.
+- Moi aussi.
+
+391
+00:35:49,026 --> 00:35:50,935
+C'est fait, hein ?
+C'est vaporisé ?
+
+392
+00:35:51,534 --> 00:35:54,604
+Une pièce manque, sa main gauche.
+Je la trouverai.
+
+393
+00:35:54,866 --> 00:35:56,773
+Tout doit être détruit.
+
+394
+00:35:57,229 --> 00:35:59,609
+- Tout.
+- Jusqu'au dernier boulon.
+
+395
+00:36:01,397 --> 00:36:03,593
+- Que ce soit fait.
+- Je le jure.
+
+396
+00:36:26,647 --> 00:36:29,569
+Le mieux pour l'aider,
+c'est lui donner ces analgésiques,
+
+397
+00:36:29,729 --> 00:36:31,029
+restreindre ses actions.
+
+398
+00:36:31,189 --> 00:36:32,934
+Pas de musculation, de course,
+
+399
+00:36:33,196 --> 00:36:34,308
+pas de chant,
+
+400
+00:36:34,649 --> 00:36:36,719
+et surtout pas de coups de feu.
+
+401
+00:36:40,303 --> 00:36:41,860
+Si t'as besoin d'autre chose...
+
+402
+00:36:42,957 --> 00:36:43,696
+Ça ira.
+
+403
+00:36:45,008 --> 00:36:47,616
+Tu vois, c'est pas du tout
+ce que je voulais dire.
+
+404
+00:36:47,878 --> 00:36:50,464
+Je sais,
+je peux pas te laisser le dire.
+
+405
+00:36:51,548 --> 00:36:52,704
+Alors, je dis quoi ?
+
+406
+00:36:55,252 --> 00:36:56,348
+Au revoir.
+
+407
+00:36:57,924 --> 00:37:00,981
+C'était quoi déjà
+ce que tu disais tout le temps ?
+
+408
+00:37:02,976 --> 00:37:05,717
+Il n'y a de destin
+que ce que nous en faisons.
+
+409
+00:37:05,979 --> 00:37:07,272
+Tu te souviens ?
+
+410
+00:37:09,074 --> 00:37:11,275
+Plus j'y pense, et plus je me dis
+
+411
+00:37:13,022 --> 00:37:16,123
+que mon destin a été décidé
+avant notre rencontre.
+
+412
+00:37:16,597 --> 00:37:18,021
+À la naissance de John.
+
+413
+00:37:20,478 --> 00:37:22,275
+Il peut pas être changé ?
+
+414
+00:37:22,957 --> 00:37:24,889
+J'essaie pas de changer le mien.
+
+415
+00:37:25,912 --> 00:37:28,323
+- J'essaie de changer le sien.
+- Ouais.
+
+416
+00:37:31,630 --> 00:37:32,895
+Attends, j'ai...
+
+417
+00:37:33,429 --> 00:37:34,955
+autre chose à te dire.
+
+418
+00:37:35,217 --> 00:37:37,749
+C'est quelque chose
+qu'il faut vraiment que tu saches.
+
+419
+00:37:40,405 --> 00:37:41,837
+Je lui ai rien dit.
+
+420
+00:37:42,099 --> 00:37:44,824
+Mais, tu sais,
+c'est qu'une question de temps.
+
+421
+00:37:46,429 --> 00:37:47,759
+Ça l'est toujours.
+
+422
+00:38:18,300 --> 00:38:19,958
+Une tempête approche.
+
+423
+00:39:34,673 --> 00:39:36,073
+John veut te voir.
+
+424
+00:40:22,300 --> 00:40:23,386
+Ça va aller.
+
+425
+00:40:23,771 --> 00:40:26,771
+Ça va, tout va bien.
+Reste tranquille, d'accord ?
+
+426
+00:40:27,111 --> 00:40:28,248
+Ça va aller.
+
+427
+00:40:31,925 --> 00:40:33,428
+C'est quoi tout ça ?
+
+428
+00:40:36,707 --> 00:40:38,597
+Alors ce truc, ça marche ?
+
+429
+00:40:38,853 --> 00:40:40,159
+Il dit que oui.
+
+430
+00:40:41,022 --> 00:40:43,226
+Je ne sais pas comment il sait,
+mais il le dit.
+
+431
+00:40:44,111 --> 00:40:46,016
+- On retourne en arrière.
+- 20 ans.
+
+432
+00:40:46,176 --> 00:40:48,724
+Installer une planque,
+récolter des infos, et après ?
+
+433
+00:40:49,577 --> 00:40:52,511
+Rester là à poireauter,
+à attendre les ordres ?
+
+434
+00:40:54,737 --> 00:40:57,082
+Il a rien dit sur Kyle ?
+Tout ça et pas un mot sur lui ?
+
+435
+00:40:57,242 --> 00:40:58,324
+On peut le sauver.
+
+436
+00:40:58,738 --> 00:41:00,201
+On peut sauver tout le monde.
+
+437
+00:41:01,441 --> 00:41:04,372
+- On peut réparer toutes les erreurs.
+- Comment on va faire ça ?
+
+438
+00:41:04,852 --> 00:41:07,003
+Reese, comment on va faire ça ?
+
+439
+00:41:50,934 --> 00:41:52,138
+Kyle Reese,
+
+440
+00:41:53,194 --> 00:41:54,393
+votre frère,
+
+441
+00:41:56,610 --> 00:41:59,052
+a traversé le temps
+pour me protéger.
+
+442
+00:42:01,024 --> 00:42:03,510
+Il est mort
+en combattant les machines.
+
+443
+00:42:05,502 --> 00:42:06,915
+C'était un soldat.
+
+444
+00:42:07,860 --> 00:42:09,230
+Et c'était...
+
+445
+00:42:19,919 --> 00:42:20,949
+Un héros.
+
+446
+00:42:24,923 --> 00:42:26,311
+C'était un héros.
+
+447
+00:42:30,871 --> 00:42:33,036
+<i>"Écoute", disait Kyle.</i>
+
+448
+00:42:34,056 --> 00:42:35,735
+<i>"Écoute et essaie de comprendre.</i>
+
+449
+00:42:35,895 --> 00:42:37,813
+<i>"La machine veut te tuer.</i>
+
+450
+00:42:38,892 --> 00:42:40,705
+<i>"Tu ne peux pas lui échapper.</i>
+
+451
+00:42:40,865 --> 00:42:42,822
+<i>"Elle est programmée pour ça.</i>
+
+452
+00:42:43,642 --> 00:42:46,959
+<i>"Elle ne connaît ni la pitié,
+ni les remords, ni la peur.</i>
+
+453
+00:42:47,645 --> 00:42:50,055
+<i>"Et rien au monde ne peut l'arrêter.</i>
+
+454
+00:42:50,493 --> 00:42:51,630
+<i>"Personne.</i>
+
+455
+00:42:53,658 --> 00:42:55,809
+<i>"Et elle est ici pour te tuer."</i>
+

@@ -1,0 +1,3638 @@
+1
+00:00:00,853 --> 00:00:02,264
+<i>Je m'appelle Jane Vasco.</i>
+
+2
+00:00:02,308 --> 00:00:03,676
+Je peux vous prendre
+dans mon équipe.
+
+3
+00:00:03,720 --> 00:00:07,263
+<i>Je travaille pour une agence
+secrète qui chasse les Neuros.</i>
+
+4
+00:00:07,307 --> 00:00:11,321
+<i>Des gens qui peuvent faire des
+choses dangereuses avec leur esprit.</i>
+
+5
+00:00:11,468 --> 00:00:12,879
+<i>Durant ma première mission,</i>
+
+6
+00:00:12,909 --> 00:00:14,973
+<i>un truc un peu bizarre est arrivé...</i>
+
+7
+00:00:15,103 --> 00:00:18,514
+<i>D'accord, quelque chose
+de vraiment bizarre.</i>
+
+8
+00:00:18,602 --> 00:00:23,321
+<i>En attendant des réponses, ma vie suit
+son cours, je fais mon boulot.</i>
+
+9
+00:00:23,409 --> 00:00:28,549
+<i>Stockez de l'aspirine,
+parce que, je vous le dis</i>
+
+10
+00:00:28,618 --> 00:00:30,205
+<i>la douleur, ça craint !</i>
+
+11
+00:00:31,064 --> 00:00:34,997
+<i>Gros titres Jeudi. L'incendiaire a finalement
+été arrêté par les autorités locales.</i>
+
+12
+00:00:35,056 --> 00:00:37,882
+<i>Après le prétendu incendie d'une autre
+maison sur North Salem la nuit dernière,</i>
+
+13
+00:00:37,985 --> 00:00:39,646
+<i>le pyromane en série et
+ennemi public n°1</i>
+
+14
+00:00:39,705 --> 00:00:41,625
+<i>de cette communauté a
+apparemment été appréhendé.</i>
+
+15
+00:00:41,690 --> 00:00:42,719
+<i>Le procès débute aujourd'hui.</i>
+
+16
+00:00:42,792 --> 00:00:45,292
+<i>Les infos en temps réel,
+seulement ici, sur Action News.</i>
+
+17
+00:00:45,688 --> 00:00:49,043
+Mon partenaire et moi étions en
+patrouille quand on a vu les flammes.
+
+18
+00:00:50,410 --> 00:00:52,087
+Pouvez-vous dire à la cour
+ce qu'il s'est passé ensuite.
+
+19
+00:00:52,175 --> 00:00:55,718
+On est arrivé chez les Samuel
+et on a vu le suspect fuyant la scène.
+
+20
+00:00:55,806 --> 00:00:57,791
+Quand il a refusé d'obéir à
+nos ordres,
+
+21
+00:00:57,865 --> 00:00:59,294
+mon partenaire a tiré
+un coup de semonce.
+
+22
+00:00:59,382 --> 00:01:02,308
+Était-ce suffisant pour stopper l'accusé
+dans sa tentative d'évasion ?
+
+23
+00:01:02,470 --> 00:01:03,352
+Non, monsieur.
+
+24
+00:01:03,411 --> 00:01:05,028
+J'ai tiré sur le suspect.
+
+25
+00:01:05,102 --> 00:01:06,969
+J'ai touché la jambe.
+
+26
+00:01:07,013 --> 00:01:09,630
+C'est à ce moment que nous
+avons pu le calmer,
+
+27
+00:01:09,674 --> 00:01:10,674
+et le placer en détention.
+
+28
+00:01:10,733 --> 00:01:13,833
+La police nous a alerté de l'incendie
+juste après 10h00.
+
+29
+00:01:14,432 --> 00:01:18,553
+Deux de nos unités ont répondu,
+dont l'E.M.U (Unité Mobile d'Urgence).
+
+30
+00:01:18,626 --> 00:01:19,743
+Le temps qu'on arrive,
+
+31
+00:01:19,802 --> 00:01:24,478
+le feu avait atteint le deuxième étage
+de la maison des Samuel.
+
+32
+00:01:24,566 --> 00:01:26,895
+Combien de temps a été nécessaire
+pour contrôler le feu ?
+
+33
+00:01:26,969 --> 00:01:29,512
+Environ une heure avant que
+je ne juge que ce soit assez sûr
+
+34
+00:01:29,586 --> 00:01:31,512
+pour laisser mes hommes
+pénétrer la structure.
+
+35
+00:01:31,571 --> 00:01:33,144
+Voulez-vous nous dire ce
+que vous avez découvert ?
+
+36
+00:01:33,217 --> 00:01:35,408
+La plupart du rez-de-chaussée
+était détruit.
+
+37
+00:01:35,496 --> 00:01:37,466
+Il restait suffisamment
+des poutres de soutien
+
+38
+00:01:37,540 --> 00:01:39,737
+pour empêcher l'effondrement
+de la maison.
+
+39
+00:01:41,030 --> 00:01:42,795
+Après votre entrée...
+
+40
+00:01:42,868 --> 00:01:46,000
+Quelle a été votre première impression
+sur la cause de l'incendie ?
+
+41
+00:01:46,117 --> 00:01:49,999
+Quand nous sommes passés par l'entrée
+principale, j'ai remarqué un "point chaud".
+
+42
+00:01:50,987 --> 00:01:51,972
+Pourriez-vous nous l'expliquer ?
+
+43
+00:01:52,030 --> 00:01:56,000
+Habituellement, l'emplacement du départ
+de feu est le point le plus chaud.
+
+44
+00:01:56,118 --> 00:01:58,882
+On l'attend en général dans
+une cuisine,
+
+45
+00:01:58,940 --> 00:02:01,812
+près d'un poêle, ou dans le cas
+d'un incendie électrique,
+
+46
+00:02:01,856 --> 00:02:03,355
+près des câbles ou des
+coupe-circuits...
+
+47
+00:02:03,385 --> 00:02:04,458
+Quelque chose comme ça.
+
+48
+00:02:04,502 --> 00:02:06,236
+Était-ce le cas dans
+la maison des Samuel ?
+
+49
+00:02:06,311 --> 00:02:06,958
+Non.
+
+50
+00:02:07,016 --> 00:02:10,119
+Ma première impression fût que
+le point de départ du feu
+
+51
+00:02:10,177 --> 00:02:12,838
+était une petite salle de bain
+au rez-de-chaussée.
+
+52
+00:02:12,912 --> 00:02:13,994
+Est-ce inhabituel ?
+
+53
+00:02:14,038 --> 00:02:17,213
+C'est déjà arrivé, mais oui
+c'est inhabituel,
+
+54
+00:02:17,302 --> 00:02:22,080
+à moins de trouver des produits
+inflammables, ou des défauts électriques.
+
+55
+00:02:22,168 --> 00:02:25,123
+Étant donné ce que vous avez vu,
+avez-vous une opinion ?
+
+56
+00:02:25,182 --> 00:02:29,493
+Ma première réaction fût,
+comme les autres,
+
+57
+00:02:29,552 --> 00:02:32,330
+que c'était un incendie criminel
+d'origine inconnue.
+
+58
+00:02:32,374 --> 00:02:35,474
+Y-avait-il quoi que ce soit d'autre
+dans cette salle de bain ?
+
+59
+00:02:36,594 --> 00:02:37,638
+Oui.
+
+60
+00:02:37,726 --> 00:02:38,608
+Qu'est-ce que c'était ?
+
+61
+00:02:38,696 --> 00:02:41,224
+On a trouvé des restes
+humains carbonisés.
+
+62
+00:02:42,091 --> 00:02:45,943
+Ces restes ont-ils été identifiés par
+la suite comme étant ceux de Lucy Samuel,
+
+63
+00:02:46,012 --> 00:02:48,237
+l'une des personnes vivant dans
+cette maison ?
+
+64
+00:02:48,413 --> 00:02:49,266
+Oui, Monsieur.
+
+65
+00:02:49,589 --> 00:02:50,457
+Merci.
+
+66
+00:02:50,515 --> 00:02:51,383
+Ça sera tout.
+
+67
+00:02:52,089 --> 00:02:56,549
+La défense a-t-elle un témoin
+à présenter ?
+
+68
+00:02:56,622 --> 00:02:58,269
+Non, votre Honneur.
+
+69
+00:02:58,357 --> 00:03:01,180
+Nous apprécierions cependant
+un jugement rapide
+
+70
+00:03:01,253 --> 00:03:02,783
+en ce qui concerne notre requête
+de liberté sous caution.
+
+71
+00:03:02,841 --> 00:03:05,020
+Étant donné la sévérité des charges.
+
+72
+00:03:05,076 --> 00:03:08,651
+Incendie en série et meurtre au
+second degré, je déclare
+
+73
+00:03:08,710 --> 00:03:11,180
+que l'accusé est passible
+de poursuites
+
+74
+00:03:11,239 --> 00:03:13,474
+et sera détenu à la prison du comté.
+
+75
+00:03:14,047 --> 00:03:15,517
+Liberté sous caution rejetée.
+
+76
+00:03:18,940 --> 00:03:21,233
+C'est seulement l'audience préliminaire,
+pas le procès.
+
+77
+00:03:21,336 --> 00:03:22,983
+Où on va maintenant ?
+
+78
+00:03:23,056 --> 00:03:24,012
+Au travail.
+
+79
+00:03:35,370 --> 00:03:37,305
+VO
+Transcript : swsub.com
+Presync : IceFre@k
+
+80
+00:03:37,306 --> 00:03:40,322
+VF
+Neuro's Team
+
+81
+00:03:40,322 --> 00:03:42,443
+S01E09
+Trial by Fire
+
+82
+00:03:44,671 --> 00:03:45,744
+<i>Connor King.</i>
+
+83
+00:03:46,156 --> 00:03:46,994
+<i>Ex-flic.</i>
+
+84
+00:03:47,523 --> 00:03:48,376
+<i>Ex-taulard.</i>
+
+85
+00:03:48,979 --> 00:03:52,743
+<i>Plutôt mignon dans le genre
+limite sociopathe.</i>
+
+86
+00:03:53,434 --> 00:03:56,462
+<i>Mon Dieu, j'arrive pas à croire
+que je viens de penser ça.</i>
+
+87
+00:03:56,686 --> 00:03:57,760
+<i>Voici le truc :</i>
+
+88
+00:03:57,873 --> 00:04:00,656
+<i>Je peux guérir, Connor pas.</i>
+
+89
+00:04:00,759 --> 00:04:02,474
+<i>mais il continue de prendre
+pour l'équipe.</i>
+
+90
+00:04:03,082 --> 00:04:06,081
+<i>Soit il est dingue, soit il y a
+dans cet homme plus que</i>
+
+91
+00:04:06,169 --> 00:04:08,047
+<i>ce qu'il veut bien montrer.</i>
+
+92
+00:04:08,312 --> 00:04:13,237
+<i>Regardez ça, il est complètement dingue,
+mais il est aussi bon acteur.</i>
+
+93
+00:04:13,561 --> 00:04:19,104
+<i>Il travaille dur pour garder les gens
+sous son aile, tout comme moi.</i>
+
+94
+00:04:19,177 --> 00:04:21,802
+<i>On est peut-être plus semblables
+que je ne voudrais l'admettre.</i>
+
+95
+00:04:22,478 --> 00:04:28,241
+<i>Excepté qu'il aime être haï, et
+peut-être détesterait-il savoir</i>
+
+96
+00:04:28,330 --> 00:04:32,534
+<i>que de temps en temps,
+on l'aime.</i>
+
+97
+00:04:39,579 --> 00:04:41,760
+Voici contre quoi on se bat.
+
+98
+00:04:41,907 --> 00:04:43,789
+L'opinion publique grandit
+plutôt vite.
+
+99
+00:04:43,877 --> 00:04:45,435
+Les gens veulent un responsable.
+
+100
+00:04:45,582 --> 00:04:46,964
+Il y a un responsable
+
+101
+00:04:47,053 --> 00:04:48,483
+Un Neuro pyromane.
+
+102
+00:04:48,556 --> 00:04:50,600
+Je travaille pour le gouvernement,
+tout comme vous.
+
+103
+00:04:50,747 --> 00:04:52,379
+Nous, nous connaissons la vérité.
+
+104
+00:04:57,260 --> 00:04:59,921
+Le public ne sait rien des Neuros.
+
+105
+00:05:00,098 --> 00:05:02,231
+Donc, la vérité n'est pas toujours
+la meilleure défense.
+
+106
+00:05:02,328 --> 00:05:03,571
+C'est rassurant.
+
+107
+00:05:03,641 --> 00:05:06,641
+Nous ne sommes pas là pour vous rassurer,
+mais pour faire acquitter Connor.
+
+108
+00:05:06,732 --> 00:05:07,687
+À quoi doit-on faire face ?
+
+109
+00:05:07,820 --> 00:05:09,516
+À des faits qui se
+présentent mal pour Connor.
+
+110
+00:05:09,599 --> 00:05:13,627
+Tout d'abord, il a été identifié sur
+trois des six incendies.
+
+111
+00:05:13,679 --> 00:05:15,591
+Parce qu'on était sur la piste du Neuro
+
+112
+00:05:15,693 --> 00:05:17,241
+qui allume ces incendies.
+
+113
+00:05:19,657 --> 00:05:20,428
+Continuez.
+
+114
+00:05:20,563 --> 00:05:24,463
+Connor, contre vos ordres, a quitté
+son poste et est entré dans la maison.
+
+115
+00:05:24,550 --> 00:05:27,240
+Oui, pour essayer d'arrêter ce foutu
+pyromane.
+
+116
+00:05:28,275 --> 00:05:30,101
+Écoutez, je comprends votre
+point de vue,
+
+117
+00:05:30,101 --> 00:05:32,150
+mais je veux que vous considériez
+la réaction du jury
+
+118
+00:05:32,150 --> 00:05:34,987
+si n'importe lequel de vous étiez
+à la barre
+
+119
+00:05:34,987 --> 00:05:37,771
+et révélait l'existence de gens
+
+120
+00:05:37,841 --> 00:05:41,228
+possédant la capacité d'allumer
+des incendies avec leur esprit.
+
+121
+00:05:42,839 --> 00:05:45,157
+La vérité n'est pas toujours la
+meilleure défense.
+
+122
+00:05:46,089 --> 00:05:50,317
+Des témoins ont vu Connor
+sur le lieu de plusieurs incendies.
+
+123
+00:05:50,401 --> 00:05:53,245
+Il a été arrêté à la sortie
+de la résidence des Samuel.
+
+124
+00:05:55,492 --> 00:05:57,688
+Et il a un casier judiciaire.
+
+125
+00:05:59,041 --> 00:06:00,405
+C'est admissible ?
+
+126
+00:06:00,817 --> 00:06:03,369
+Les preuves ne sont exclues que
+quand leur valeur probante
+
+127
+00:06:03,403 --> 00:06:05,216
+est considérablement dépassée
+par le danger
+
+128
+00:06:05,217 --> 00:06:09,322
+de porter préjudice, de porter à confusion
+ou d'induire le jury en erreur.
+
+129
+00:06:09,404 --> 00:06:11,841
+La loi actuelle reconnaît la pratique
+d'acceptation des preuves
+
+130
+00:06:11,889 --> 00:06:12,892
+dans un but limité
+
+131
+00:06:12,960 --> 00:06:14,754
+afin d'instruire correctement
+le jury.
+
+132
+00:06:16,309 --> 00:06:18,226
+Comment peux-tu
+savoir ça ?
+
+133
+00:06:19,367 --> 00:06:21,331
+Je l'ai lu la nuit dernière.
+
+134
+00:06:25,542 --> 00:06:27,737
+Donc le juge peut admettre le
+casier judiciaire de Connor.
+
+135
+00:06:27,781 --> 00:06:30,925
+Étant donné la très précise citation
+de la loi de miss Vasco...
+
+136
+00:06:31,019 --> 00:06:31,840
+Oui.
+
+137
+00:06:32,031 --> 00:06:34,935
+Merde, pourquoi s'embêter
+à faire un procès !
+
+138
+00:06:34,966 --> 00:06:37,217
+On dirait qu'il a déjà été
+jugé et condamné.
+
+139
+00:06:37,501 --> 00:06:40,454
+Je ne vais pas vous mentir.
+On est engagé dans une bataille difficile ici.
+
+140
+00:06:40,548 --> 00:06:44,004
+Mais la guerre n'est pas perdue tant que
+nous n'aurons pas considérées toutes les preuves.
+
+141
+00:06:44,004 --> 00:06:46,836
+Étant donné tout ce que vous nous avez dit, 
+on dirait que la vérité semble 
+
+142
+00:06:46,836 --> 00:06:49,691
+être notre meilleur option. Pourquoi ne pas dire
+au jury à quoi on a réellement affaire. 
+
+143
+00:06:49,691 --> 00:06:52,185
+C'est pas comme si nous 
+ne pouvions pas le prouver.
+
+144
+00:06:52,220 --> 00:06:53,384
+Même si vous avez raison...
+
+145
+00:06:53,420 --> 00:06:55,266
+Vous avez juré le silence et le secret.
+
+146
+00:06:55,908 --> 00:06:57,567
+Nos mains sont liées.
+
+147
+00:06:57,908 --> 00:06:59,942
+Peut-être est-il temps de couper le noeud.
+
+148
+00:07:10,573 --> 00:07:13,278
+Pourquoi vous n'avez pas arrêté
+tout ça avant que ça ne commence ?
+
+149
+00:07:13,337 --> 00:07:15,463
+Vous devriez me l'expliquer,
+agent McBrice.
+
+150
+00:07:15,525 --> 00:07:17,713
+Étant votre supérieur,
+j'ai des liens haut placés.
+
+151
+00:07:17,798 --> 00:07:19,174
+Aussi haut que ce soit...
+
+152
+00:07:23,632 --> 00:07:26,138
+Ils ne vont pas jusqu'au paradis.
+
+153
+00:07:26,220 --> 00:07:27,215
+Le paradis ?
+
+154
+00:07:27,335 --> 00:07:28,151
+Qu'est que ça veut dire ?
+
+155
+00:07:28,194 --> 00:07:29,652
+Seul Dieu peut sauver Connor ?
+
+156
+00:07:29,711 --> 00:07:30,687
+Vous ne me ferez pas avaler ça !
+
+157
+00:07:30,770 --> 00:07:31,902
+Le désaccord, je l'encourage.
+
+158
+00:07:31,970 --> 00:07:34,287
+Mais je ne tolérerai pas l'insubordination.
+
+159
+00:07:34,614 --> 00:07:36,654
+Nous avons couvert
+l'assassinat de politiciens étrangers,
+
+160
+00:07:36,698 --> 00:07:39,026
+et même de nos propres politiciens !
+Mais quand ça arrive à Connor King...
+
+161
+00:07:39,084 --> 00:07:41,267
+Cet homme a été attrapé sur place par la police.
+
+162
+00:07:41,378 --> 00:07:42,829
+Le cas de la décennie est résolu.
+
+163
+00:07:44,024 --> 00:07:44,842
+C'était en première page...
+
+164
+00:07:44,907 --> 00:07:46,988
+avant même qu'ils ne
+lui lisent ses droits !
+
+165
+00:07:47,047 --> 00:07:50,602
+Comment pensiez-vous
+qu'on fasse disparaître ça ?
+
+166
+00:07:50,767 --> 00:07:52,096
+Alors laissez-nous leur montrer la vérité.
+
+167
+00:07:52,179 --> 00:07:53,955
+Admettre l'existence des Neuros.
+
+168
+00:07:54,060 --> 00:07:55,341
+Seulement ce qu'il faudra.
+
+169
+00:07:55,484 --> 00:07:56,613
+Ce qu'ils ont besoin de savoir.
+
+170
+00:07:57,566 --> 00:07:59,302
+Et quand le procureur demandera des preuves...
+
+171
+00:07:59,369 --> 00:08:00,931
+- Alors quoi ?
+- Alors on les leur donne !
+
+172
+00:08:00,969 --> 00:08:02,051
+Nous avons des années de dossiers.
+
+173
+00:08:02,110 --> 00:08:05,198
+Ça ne va pas seulement faire remonter à la surface
+ce que nous gardons très jalousement secret,
+
+174
+00:08:05,198 --> 00:08:07,579
+mais ça va aussi compromettre votre équipe.
+
+175
+00:08:07,720 --> 00:08:10,511
+"Ce qu'ils ont besoin de savoir"
+va vite devenir une exposition totale.
+
+176
+00:08:10,558 --> 00:08:12,593
+C'est peut-être la seule chance de Connor.
+
+177
+00:08:12,663 --> 00:08:13,945
+Et peut-être pas.
+
+178
+00:08:15,380 --> 00:08:16,928
+Voulez-vous voir votre équipe retirée du service...
+
+179
+00:08:16,980 --> 00:08:20,265
+pour risquer une défense
+que personne ne croira
+
+180
+00:08:20,335 --> 00:08:21,770
+malgré toutes vos preuves ?
+
+181
+00:08:22,429 --> 00:08:24,252
+Et si elles sont acceptées et que Connor est acquitté,
+
+182
+00:08:24,429 --> 00:08:26,722
+le résultat sera la panique dans la population.
+
+183
+00:08:26,805 --> 00:08:28,364
+Votre habilité à garder vos opérations secrètes
+
+184
+00:08:28,414 --> 00:08:31,519
+et à combattre ces "choses" sera compromise.
+
+185
+00:08:32,425 --> 00:08:34,565
+Est-ce qu'un homme a autant de valeur ?
+
+186
+00:08:34,648 --> 00:08:37,906
+Cet homme est innocent.
+
+187
+00:08:38,647 --> 00:08:40,058
+Les soldats meurent
+pendant les batailles.
+
+188
+00:08:40,140 --> 00:08:41,128
+Un soldat...
+
+189
+00:08:42,163 --> 00:08:45,174
+mourant sur le terrain, au combat,
+
+190
+00:08:47,585 --> 00:08:49,872
+est quelque chose qui ne peut être défait.
+
+191
+00:08:49,978 --> 00:08:51,001
+Connor n'est pas mort.
+
+192
+00:08:51,048 --> 00:08:52,079
+Vous le savez aussi bien que moi...
+
+193
+00:08:52,142 --> 00:08:53,847
+Il est toujours responsable.
+
+194
+00:08:54,976 --> 00:08:56,106
+Responsable ?
+
+195
+00:08:56,964 --> 00:08:58,376
+Qu'est-ce que ça veut dire ?
+
+196
+00:08:58,458 --> 00:09:01,265
+On va le jeter aux lions parce que
+vous n'aimez pas son attitude ?
+
+197
+00:09:01,391 --> 00:09:03,261
+Prenez en compte ceci, agent McBride...
+
+198
+00:09:03,379 --> 00:09:04,708
+Avec tout ce que vous savez...
+
+199
+00:09:04,813 --> 00:09:06,832
+Si je permets ceci...
+Vous mettre en évidence...
+
+200
+00:09:06,833 --> 00:09:08,383
+Armé de toutes vos preuves...
+
+201
+00:09:09,020 --> 00:09:11,081
+Simplement parce que le feu
+est d'origine inconnue,
+
+202
+00:09:11,141 --> 00:09:14,391
+vous ne pouvez pas prouver
+qu'un Neuro est derrière.
+
+203
+00:09:24,895 --> 00:09:25,895
+Génial.
+
+204
+00:09:27,331 --> 00:09:28,267
+La première fois qu'on est seuls...
+
+205
+00:09:28,316 --> 00:09:29,718
+et on a des portes-fenêtres.
+
+206
+00:09:30,392 --> 00:09:32,091
+Ma chance a tourné.
+
+207
+00:09:32,208 --> 00:09:34,400
+Tu sais ce qu'ils disent...
+
+208
+00:09:36,376 --> 00:09:37,729
+Ce n'est pas fini tant
+que ce n'est pas fini.
+
+209
+00:09:37,905 --> 00:09:38,752
+Qu'est-ce qu'ils en savent ?
+
+210
+00:09:38,823 --> 00:09:39,752
+Ils sont dehors.
+
+211
+00:09:41,610 --> 00:09:44,853
+Si André t'a envoyée
+pour me réconforter...
+
+212
+00:09:45,653 --> 00:09:47,899
+Je dois te dire que
+tu es vraiment nulle.
+
+213
+00:09:48,052 --> 00:09:48,505
+Peut-être,
+
+214
+00:09:48,617 --> 00:09:50,781
+mais André n'a pas mes jambes.
+
+215
+00:09:51,569 --> 00:09:53,063
+Qu'est-ce que tu ne me dis pas ?
+
+216
+00:09:53,169 --> 00:09:53,881
+C'est la vérité.
+
+217
+00:09:53,933 --> 00:09:55,424
+Il a des jambes horribles.
+
+218
+00:09:58,847 --> 00:10:00,399
+André a des ordres...
+
+219
+00:10:01,234 --> 00:10:02,822
+Rien sur l'équipe,
+
+220
+00:10:03,328 --> 00:10:05,669
+ce qu'on fait... ou les Neuros.
+
+221
+00:10:07,005 --> 00:10:08,040
+Génial.
+
+222
+00:10:08,734 --> 00:10:12,098
+Donc je ressemble a un mec
+qui adore mettre le feu partout,
+
+223
+00:10:12,286 --> 00:10:13,639
+et qui a un casier judiciaire.
+
+224
+00:10:13,662 --> 00:10:15,874
+On essaye de faire sauter ça.
+
+225
+00:10:16,238 --> 00:10:17,748
+On trouvera quelque chose.
+
+226
+00:10:17,771 --> 00:10:18,900
+La corde autour du cou.
+
+227
+00:10:18,948 --> 00:10:19,823
+Connor, écoute...
+
+228
+00:10:19,824 --> 00:10:20,824
+Garde ta salive Bowers.
+
+229
+00:10:21,014 --> 00:10:22,070
+On connaît tous les risques.
+
+230
+00:10:22,071 --> 00:10:23,510
+J'aurais préféré partir...
+
+231
+00:10:23,511 --> 00:10:24,861
+avec un de ces déficients mentaux, mais...
+
+232
+00:10:26,757 --> 00:10:28,523
+on n'a pas toujours
+le choix, je suppose.
+
+233
+00:10:28,701 --> 00:10:29,889
+André essaye de faire ressortir la vérité.
+
+234
+00:10:29,949 --> 00:10:32,371
+Non, mauvaise idée.
+
+235
+00:10:32,453 --> 00:10:33,574
+Il va seulement compromettre l'équipe.
+
+236
+00:10:33,618 --> 00:10:36,099
+Si je dois sauter pour ça, je saute.
+
+237
+00:10:36,240 --> 00:10:38,463
+Tomber sur ton épée, un homme
+d'honneur et ce genre de choses.
+
+238
+00:10:38,544 --> 00:10:39,944
+De la merde.
+
+239
+00:10:40,085 --> 00:10:43,802
+J'attends juste un cadeau de toi et de supergirl.
+
+240
+00:10:45,601 --> 00:10:46,526
+Quoi ?
+
+241
+00:10:46,836 --> 00:10:48,121
+C'est bien de savoir,
+
+242
+00:10:48,177 --> 00:10:53,626
+que même dans un tel moment,
+tu restes un porc.
+
+243
+00:10:55,473 --> 00:10:56,931
+Accroche-toi.
+
+244
+00:11:00,330 --> 00:11:01,106
+Garde !
+
+245
+00:11:10,899 --> 00:11:12,040
+Trente-trois ans.
+
+246
+00:11:12,090 --> 00:11:13,540
+Marié depuis tout juste deux ans.
+
+247
+00:11:13,715 --> 00:11:15,964
+Tué dans un incendie criminel.
+
+248
+00:11:16,004 --> 00:11:18,833
+Ce sont ces gens-là qui
+vont faire tomber Connor.
+
+249
+00:11:19,085 --> 00:11:19,878
+Non...
+
+250
+00:11:19,937 --> 00:11:22,495
+Ce sont les lois et son
+passé qui tiennent Connor.
+
+251
+00:11:22,619 --> 00:11:24,246
+S'ils admettent son passé criminel.
+
+252
+00:11:24,407 --> 00:11:27,371
+Ce n'est plus "si",
+le juge l'a accepté.
+
+253
+00:11:27,702 --> 00:11:29,808
+Écoutez, personne 
+pas même les meilleurs enquêteurs
+
+254
+00:11:29,853 --> 00:11:32,056
+ne peuvent savoir
+d'où ce feu a démarré.
+
+255
+00:11:32,238 --> 00:11:36,096
+Même avec mon cerveau,
+si je ne connaissais pas les Neuros,
+
+256
+00:11:36,154 --> 00:11:37,072
+je ne pourrai pas le trouver.
+
+257
+00:11:37,154 --> 00:11:38,001
+Ton avis ?
+
+258
+00:11:38,060 --> 00:11:41,318
+Quel genre de passé a Connor qui puisse faire
+de lui un quelconque spécialiste.
+
+259
+00:11:42,146 --> 00:11:44,521
+Quelqu'un qui peut s'en sortir intelligemment,
+peut-être même le meilleur.
+
+260
+00:11:44,627 --> 00:11:46,732
+C'est pas grand'chose, Riley.
+
+261
+00:11:46,803 --> 00:11:49,720
+Ils se foutent de savoir comment,
+mais pas d'où ça a démarré.
+
+262
+00:11:50,481 --> 00:11:52,175
+Tu as quelque chose de mieux ?
+
+263
+00:11:54,539 --> 00:11:55,609
+Je peux mentir.
+
+264
+00:11:57,985 --> 00:11:59,455
+J'étais avec lui.
+
+265
+00:12:00,537 --> 00:12:03,186
+Et comme je ne peux pas justifier
+pourquoi j'étais là-bas...
+
+266
+00:12:03,833 --> 00:12:05,656
+Pourquoi devrais-je dire pourquoi j'y étais.
+
+267
+00:12:05,773 --> 00:12:08,184
+Et la demi-douzaine de flics qui ont témoigné ?
+
+268
+00:12:09,102 --> 00:12:09,961
+Ma parole contre la leur ?
+
+269
+00:12:10,031 --> 00:12:10,996
+C'est bon.
+
+270
+00:12:11,101 --> 00:12:12,497
+Je n'ai pas besoin de deux
+personnes en prison.
+
+271
+00:12:12,720 --> 00:12:14,449
+Activez-vous et trouvez une réponse.
+
+272
+00:12:14,484 --> 00:12:15,951
+Pour enfoncer encore plus Connor.
+
+273
+00:12:16,037 --> 00:12:17,883
+Admettre qui et ce que nous sommes
+
+274
+00:12:17,930 --> 00:12:19,554
+n'est pas la seule vérité en jeu ici.
+
+275
+00:12:19,636 --> 00:12:22,435
+La vérité est qu'il reste un Neuro dehors qui a allumé ces feux.
+
+276
+00:12:22,518 --> 00:12:25,243
+Et qui s'est arrêté depuis que
+Connor a été arrêté.
+
+277
+00:12:25,326 --> 00:12:26,678
+On s'en fout.
+
+278
+00:12:26,748 --> 00:12:29,052
+On trouve la personne qui fait ça
+et Connor sort.
+
+279
+00:12:29,089 --> 00:12:30,013
+Alors au boulot !
+
+280
+00:12:30,065 --> 00:12:33,665
+Si vous arrêtez de vous mettre sur mon
+chemin, je vais vous trouver ce mec.
+
+281
+00:12:33,735 --> 00:12:35,584
+Connor a déjà mis une bosse sur ton chemin,
+
+282
+00:12:35,704 --> 00:12:38,254
+le jour où lui et Vasco étaient
+dans la maison de Samuel.
+
+283
+00:12:42,890 --> 00:12:43,940
+On est tous d'accord là-dessus.
+
+284
+00:12:44,137 --> 00:12:48,260
+Chaque maison avait deux entrées,
+peintes en bleu,
+
+285
+00:12:48,378 --> 00:12:51,186
+et dans un rayon de 1,5 Km
+de l'entrée d'une autoroute.
+
+286
+00:12:51,352 --> 00:12:52,038
+Et toutes...
+
+287
+00:12:52,103 --> 00:12:53,039
+Sauf une...
+
+288
+00:12:53,976 --> 00:12:56,106
+ont des garages donnant sur l'arrière.
+
+289
+00:12:56,165 --> 00:12:58,858
+Si tu dis "sauf une",
+il n'y a pas de modèle.
+
+290
+00:12:58,964 --> 00:13:01,351
+Connor a agi par intuition
+et il avait raison. Désolé, Riley.
+
+291
+00:13:01,657 --> 00:13:03,339
+Si nous nous en tenons à tes critères,
+
+292
+00:13:03,386 --> 00:13:04,852
+on pourrait louper la prochaine opportunité.
+
+293
+00:13:04,853 --> 00:13:06,916
+- S'il y en a une.
+- Eh bien, je suis désolé,
+
+294
+00:13:07,644 --> 00:13:09,914
+ma base de données ne peut pas
+prédire les intuitions.
+
+295
+00:13:09,973 --> 00:13:10,977
+Eh bien peut-être qu'elle devrait.
+
+296
+00:13:11,023 --> 00:13:13,485
+On se bat contre la montre ici.
+Il va au procès demain.
+
+297
+00:13:13,658 --> 00:13:14,663
+Ils vont appeler Bill Cole,
+
+298
+00:13:14,704 --> 00:13:16,763
+l'ancien compagnon de cellule de Connor, à témoigner.
+
+299
+00:13:17,692 --> 00:13:20,664
+<i>Le relâchement sous caution refusé,
+l'ancien policier et suspect, Connor King,
+
+300
+00:13:20,665 --> 00:13:22,174
+<i>va être accusé des charges d'incendie
+et de meurtre aujourd'hui
+
+301
+00:13:22,226 --> 00:13:23,826
+<i>en ce premier jour
+de procès passionnant.
+
+302
+00:13:24,166 --> 00:13:27,279
+<i>Un profil de M. King, l'homme
+à l'allumette, ce soir.
+
+303
+00:13:58,150 --> 00:14:01,149
+<i>Tout le monde sait que Connor est
+fou, c'est pourquoi on l'aime.
+
+304
+00:14:01,232 --> 00:14:04,527
+<i>Mais un incendiaire,
+je n'y crois pas et là...
+
+305
+00:14:11,215 --> 00:14:12,156
+Il est à terre !
+
+306
+00:14:12,478 --> 00:14:13,478
+On le coffre !
+
+307
+00:14:13,856 --> 00:14:14,856
+Faites attention !
+
+308
+00:14:27,433 --> 00:14:28,362
+Merci !
+
+309
+00:14:31,538 --> 00:14:33,749
+Tout ça pour te suicider.
+
+310
+00:14:34,290 --> 00:14:35,968
+Mais qu'est-ce ce que tu croyais faire ?
+
+311
+00:14:36,043 --> 00:14:37,101
+J'essayais de sauver ma peau.
+
+312
+00:14:37,137 --> 00:14:40,253
+Ce que j'aurais pu faire si
+Vasco n'avait pas joué les héros.
+
+313
+00:14:40,324 --> 00:14:42,641
+Elle a pris deux balles dans l'épaule...
+
+314
+00:14:42,735 --> 00:14:44,087
+pour agir comme un héros.
+
+315
+00:14:44,605 --> 00:14:45,969
+Elle surmontera ça.
+
+316
+00:14:46,064 --> 00:14:50,867
+Elle essayait de te protéger de beaucoup
+plus que quelques balles.
+
+317
+00:14:50,970 --> 00:14:53,320
+Tu pensais aller loin comme ça ?
+
+318
+00:14:53,407 --> 00:14:55,806
+Vous allez me garder après l'école, boss ?
+
+319
+00:14:56,970 --> 00:14:57,970
+J'essaye de t'aider,
+
+320
+00:14:58,718 --> 00:14:59,656
+que veux-tu que je fasse ?
+
+321
+00:14:59,748 --> 00:15:01,057
+Te jeter dans la cage aux lions.
+
+322
+00:15:01,970 --> 00:15:03,936
+Je pensais que vous l'aviez déjà fait.
+
+323
+00:15:04,862 --> 00:15:07,688
+Chaque homme a ses limites.
+
+324
+00:15:07,841 --> 00:15:09,071
+Je te connais.
+
+325
+00:15:10,412 --> 00:15:11,741
+Ce ne sont pas les tiennes.
+
+326
+00:15:12,929 --> 00:15:14,438
+Pourquoi t'es-tu enfuis ?
+
+327
+00:15:17,643 --> 00:15:20,641
+Écoute-moi, foutu borné,
+nous essayons de t'aider.
+
+328
+00:15:20,696 --> 00:15:22,703
+Nous ne pouvons pas le faire
+si tu nous caches quelque chose.
+
+329
+00:15:22,778 --> 00:15:23,704
+Pourquoi t'es-tu enfuis ?!
+
+330
+00:15:24,921 --> 00:15:26,532
+Bill Cole va témoigner.
+
+331
+00:15:26,642 --> 00:15:27,642
+Je sais.
+
+332
+00:15:28,050 --> 00:15:29,755
+Nous essayons de garder
+ton passé en dehors de tout ça...
+
+333
+00:15:29,814 --> 00:15:31,766
+Mais tu ne sais pas ce qu'il sait..
+
+334
+00:15:31,908 --> 00:15:35,260
+J'ai lu ton dossier avant
+de te prendre dans la team.
+
+335
+00:15:35,330 --> 00:15:37,230
+C'est la partie visible de l'iceberg.
+
+336
+00:15:45,404 --> 00:15:47,495
+Dis-moi ce que je ne sais pas.
+
+337
+00:15:47,683 --> 00:15:49,224
+Désolé, je ne peux pas.
+
+338
+00:15:49,318 --> 00:15:51,604
+Plus j'en saurai, plus je serai
+capable de t'aider.
+
+339
+00:15:51,741 --> 00:15:52,858
+Ça n'arrivera pas.
+
+340
+00:15:52,978 --> 00:15:56,649
+Tu es déterminé à faire face à une condamnation pour meurtre.
+Mais tu ne veux rien me dire sur ce sujet.
+
+341
+00:15:59,947 --> 00:16:01,603
+À moins que tu essayes
+de protéger quelqu'un.
+
+342
+00:16:01,687 --> 00:16:04,728
+Mourir en chassant des singes
+à pucer n'est pas la seule mort valable.
+
+343
+00:16:04,793 --> 00:16:07,298
+Mais ne pas faire face aux conséquences
+du témoignage de Bill Cole, ça l'est ?
+
+344
+00:16:07,298 --> 00:16:08,229
+Allez !
+
+345
+00:16:08,978 --> 00:16:11,677
+Je t'ai dit au moment où tu m'as pris
+dans l’équipe,
+
+346
+00:16:11,792 --> 00:16:14,106
+que tu connaissais tout ce que tu avais
+besoin de savoir sur moi.
+
+347
+00:16:14,264 --> 00:16:17,040
+Tu as ma parole que je ne mettrai
+pas en péril l'équipe
+
+348
+00:16:17,381 --> 00:16:19,067
+ou quelqu'un en danger
+intentionnellement.
+
+349
+00:16:19,978 --> 00:16:21,885
+Je pense que je suis doué pour ça.
+
+350
+00:16:22,638 --> 00:16:25,014
+Tout ce qu'il y a au-delà
+de cette promesse est personnel.
+
+351
+00:16:31,103 --> 00:16:33,761
+Le témoignage de Bill Cole est
+programmé pour demain.
+
+352
+00:16:34,355 --> 00:16:37,548
+Ravi de connaître la date et l'heure
+de ta propre exécution.
+
+353
+00:16:40,679 --> 00:16:41,868
+Alors on en est où ?
+
+354
+00:16:41,979 --> 00:16:43,668
+À peu près à la case de départ.
+
+355
+00:16:43,791 --> 00:16:46,439
+Maureen et moi n'avons rien pu tirer
+de tous ceux qui restent sur notre liste.
+
+356
+00:16:46,608 --> 00:16:49,278
+Routiers, personnel de livraison.
+
+357
+00:16:49,569 --> 00:16:51,606
+Partiquement chaque théorie
+sur laquelle on travaille.
+
+358
+00:16:51,669 --> 00:16:52,669
+Rien
+
+359
+00:16:52,794 --> 00:16:54,250
+Personne n'a une intuition ?
+
+360
+00:16:54,309 --> 00:16:55,520
+La ferme, Riley.
+
+361
+00:17:06,635 --> 00:17:09,381
+Je sais que vous êtes le grand chef
+et que vous les gars,
+
+362
+00:17:09,451 --> 00:17:11,299
+vous allez sur le terrain et
+en vous tirez toute la gloire.
+
+363
+00:17:11,580 --> 00:17:14,926
+Mais vous faites tout ça parce que
+je suis ici à faire ce que j'ai à faire.
+
+364
+00:17:15,326 --> 00:17:15,944
+Et vous savez quoi ?
+
+365
+00:17:15,991 --> 00:17:17,659
+Je suis très doué à ce que je fais !
+
+366
+00:17:17,730 --> 00:17:19,787
+Mais vous êtes tous disposés
+à risquer la peau de Connor
+
+367
+00:17:19,906 --> 00:17:22,976
+parce que vous croyez en votre instinct,
+en vos intuitions,
+
+368
+00:17:23,058 --> 00:17:25,352
+plus que vous ne faites
+ce que je vous dis de faire.
+
+369
+00:17:26,822 --> 00:17:28,454
+J'ai raison à propos du modèle,
+
+370
+00:17:28,560 --> 00:17:30,654
+malgré l'intuition chanceuse
+de Connor.
+
+371
+00:17:30,854 --> 00:17:32,386
+Avez-vous cessé de penser
+que peut-être la raison
+
+372
+00:17:32,465 --> 00:17:34,688
+pour laquelle la maison Samuel
+ne rentre pas dans le moule,
+
+373
+00:17:34,900 --> 00:17:36,664
+c'est parce que
+Connor a provoqué ce feu ?
+
+374
+00:17:36,698 --> 00:17:37,848
+Tu ne crois pas ça.
+
+375
+00:17:42,699 --> 00:17:49,783
+Mais je crois que si on suit ma théorie,
+on pourra trouver celui qui a fait ça.
+
+376
+00:17:52,698 --> 00:17:56,110
+Très bien, allons-y.
+
+377
+00:18:05,889 --> 00:18:06,889
+Bien.
+
+378
+00:18:07,500 --> 00:18:10,966
+"Pourquoi a-t-il pris pour cible deux pavillons
+bleus ?" est la question que tout le monde se pose.
+
+379
+00:18:10,966 --> 00:18:12,609
+C'est un psycho.
+
+380
+00:18:12,609 --> 00:18:14,452
+Peut-être qu'il a grandi
+dans une maison similaire.
+
+381
+00:18:14,522 --> 00:18:15,980
+Il haïssait sa mère... Son père...
+
+382
+00:18:15,980 --> 00:18:16,549
+La couleur bleue...
+
+383
+00:18:16,596 --> 00:18:17,714
+Je ne sais pas.
+
+384
+00:18:18,325 --> 00:18:20,854
+Mais pourquoi le garage
+faisait-il face aux allées ?
+
+385
+00:18:20,952 --> 00:18:23,218
+Parce que ça lui offrait un accès.
+
+386
+00:18:23,326 --> 00:18:26,406
+Il y a eu six incendies.
+
+387
+00:18:26,465 --> 00:18:29,115
+Et personne n'a remarqué
+le début des incendies.
+
+388
+00:18:29,215 --> 00:18:30,215
+Pourquoi ?
+
+389
+00:18:31,780 --> 00:18:35,478
+Chaque maison se trouvait à moins
+d'un kilomètre et demi de l'autoroute.
+
+390
+00:18:35,592 --> 00:18:36,592
+Qu'est-ce que ça veut dire ?
+
+391
+00:18:37,404 --> 00:18:39,266
+Le gars était en voiture.
+
+392
+00:18:39,342 --> 00:18:41,392
+Que fait-il quand il trouve sa cible ?
+
+393
+00:18:41,513 --> 00:18:42,877
+Il se gare et marche ?
+
+394
+00:18:43,904 --> 00:18:46,782
+Ou il cache sa voiture
+quelque part dans les allées.
+
+395
+00:18:46,865 --> 00:18:48,955
+Peut-être même dans un garage voisin.
+
+396
+00:18:49,093 --> 00:18:50,089
+C'est très cliché.
+
+397
+00:18:50,781 --> 00:18:52,181
+As-tu quelque chose de mieux ?
+
+398
+00:18:54,483 --> 00:18:56,280
+On devrait rentrer en
+contact avec les riverains.
+
+399
+00:18:56,406 --> 00:18:57,456
+Allez sur le terrain.
+
+400
+00:18:57,531 --> 00:18:58,777
+Questionnez quelques voisins.
+
+401
+00:18:58,894 --> 00:18:59,778
+Alors allons-y.
+
+402
+00:19:00,156 --> 00:19:01,256
+Tu es prêt à le faire ?
+
+403
+00:19:02,656 --> 00:19:06,820
+Comme tu l'as dit,
+je n'ai pas de meilleure idée.
+
+404
+00:19:07,717 --> 00:19:08,917
+Jane, je peux te parler ?
+
+405
+00:19:08,968 --> 00:19:09,968
+Bien sûr.
+
+406
+00:19:16,535 --> 00:19:19,432
+Je t'ai dit hier que je ne voulais
+pas que tu commettes de parjures.
+
+407
+00:19:19,532 --> 00:19:20,532
+Vous avez changé d'avis ?
+
+408
+00:19:20,844 --> 00:19:21,844
+Non.
+
+409
+00:19:22,983 --> 00:19:23,901
+Alors quoi ?
+
+410
+00:19:23,968 --> 00:19:26,018
+Ce que j'ai en tête est
+beaucoup plus grave.
+
+411
+00:19:26,230 --> 00:19:28,907
+<i>Aujourd'hui, le juge dans l'affaire de
+l'homme invisible va autoriser un témoignage
+
+412
+00:19:28,982 --> 00:19:31,640
+<i>sur le passé criminel de Connor King.
+
+413
+00:19:31,718 --> 00:19:32,465
+<i>Bill Cole,
+
+414
+00:19:32,534 --> 00:19:34,781
+<i>un ancien officier de police
+et partenaire du défendant,
+
+415
+00:19:34,862 --> 00:19:36,144
+<i>est attendu à la barre cet après-midi.
+
+416
+00:19:36,238 --> 00:19:37,157
+<i>Restez en contact.
+
+417
+00:19:37,254 --> 00:19:39,222
+Excusez-moi ?
+Êtes-vous Bill Cole ?
+
+418
+00:19:39,590 --> 00:19:40,468
+Oui.
+
+419
+00:19:40,934 --> 00:19:42,454
+J'ai un message pour vous.
+
+420
+00:19:42,982 --> 00:19:44,438
+Quelqu'un veut vous parler.
+
+421
+00:19:44,902 --> 00:19:45,910
+Sortez.
+
+422
+00:19:45,974 --> 00:19:48,169
+Descendez le hall et passez
+la porte sur la gauche.
+
+423
+00:19:55,686 --> 00:19:57,312
+Comment allez-vous faire ?
+
+424
+00:19:59,446 --> 00:20:00,942
+Contre la barrière avec elle.
+
+425
+00:20:02,278 --> 00:20:04,937
+Vous serez mort avant que
+votre main n'atteigne le bouton.
+
+426
+00:20:05,574 --> 00:20:06,735
+Que voulez-vous de nous ?
+
+427
+00:20:07,030 --> 00:20:08,923
+Vous allez me dire de quoi il s'agit ?
+
+428
+00:20:09,414 --> 00:20:12,222
+C'est à propos de deux personnes
+qui vont témoigner contre un de mes amis..
+
+429
+00:20:12,238 --> 00:20:13,802
+Vous ne nous avez pas dit qui vous êtes.
+
+430
+00:20:13,995 --> 00:20:15,672
+L'homme qui va vous tuer
+si vous témoignez.
+
+431
+00:20:15,878 --> 00:20:17,622
+Ici ?
+Avec tous ces flics autour ?
+
+432
+00:20:18,214 --> 00:20:19,422
+Ça c'est mon problème.
+
+433
+00:20:19,846 --> 00:20:20,799
+Oui, ça l'est.
+
+434
+00:20:21,158 --> 00:20:23,098
+Et je ne pense pas
+que vous prendriez le risque.
+
+435
+00:20:24,470 --> 00:20:27,430
+- Essayez donc.
+- Je suis un officier fédéral...
+
+436
+00:20:31,837 --> 00:20:32,924
+Oh mon Dieu.
+
+437
+00:20:37,286 --> 00:20:38,862
+C'est comme ça que ça marche.
+
+438
+00:20:39,421 --> 00:20:42,391
+Le "gros dur", Connor King,
+n'a aucune chance.
+
+439
+00:20:44,861 --> 00:20:47,910
+Je ne peux pas prendre le risque
+qu'on découvre que lui et moi
+
+440
+00:20:50,573 --> 00:20:52,285
+sommes à l'origine
+d'incendies volontaires.
+
+441
+00:20:53,821 --> 00:20:54,829
+Très bien,
+
+442
+00:20:55,533 --> 00:20:58,133
+voyons voir les risques que
+vous êtes disposé à prendre.
+
+443
+00:21:06,157 --> 00:21:08,031
+C'est quoi ces photos ?
+
+444
+00:21:10,797 --> 00:21:12,642
+Ce sont nos photos de mariage.
+
+445
+00:21:17,722 --> 00:21:19,372
+La femme sur la photo c'est...
+
+446
+00:21:19,597 --> 00:21:20,685
+Lucy. C'est...
+
+447
+00:21:22,326 --> 00:21:23,484
+C'était ma femme.
+
+448
+00:21:24,408 --> 00:21:26,208
+Je comprends. La matinée de l'accident,
+
+449
+00:21:26,470 --> 00:21:28,930
+vous êtes parti au travail
+aux environs de 8:00.
+
+450
+00:21:29,974 --> 00:21:30,908
+Oui, monsieur.
+
+451
+00:21:31,030 --> 00:21:33,822
+Et c'était habituel que Lucy soit
+à la maison à cette heure là ?
+
+452
+00:21:35,382 --> 00:21:36,981
+Lucy travaillait à mi-temps.
+Elle avait
+
+453
+00:21:37,238 --> 00:21:38,981
+l'habitude de ne jamais
+partir avant midi.
+
+454
+00:21:39,222 --> 00:21:41,222
+Vous étiez au travail quand
+la police est arrivée.
+
+455
+00:21:41,622 --> 00:21:43,094
+- Oui.
+- Parlez-nous de ça.
+
+456
+00:21:44,454 --> 00:21:47,138
+Deux détectives sont
+arrivés à mon bureau.
+
+457
+00:21:48,056 --> 00:21:49,990
+Ils m'ont dit qu'il y avait
+eu un incendie...
+
+458
+00:21:50,502 --> 00:21:51,687
+Ils ont dit que quelqu'un...
+
+459
+00:21:52,678 --> 00:21:54,173
+Quelqu'un avait été tué...
+
+460
+00:22:01,350 --> 00:22:02,550
+Ils m'ont demandé
+
+461
+00:22:02,678 --> 00:22:06,758
+de les suivre à la morgue pour faire
+une identification.
+
+462
+00:22:06,950 --> 00:22:08,342
+Et vous l'avez fait ?
+
+463
+00:22:08,566 --> 00:22:09,638
+Oui.
+
+464
+00:22:11,569 --> 00:22:12,646
+C'était Lucy.
+
+465
+00:22:15,094 --> 00:22:17,462
+L'accusation appelle
+Bill Cole à la barre.
+
+466
+00:22:18,022 --> 00:22:19,734
+M. Cole,
+Voulez-vous dire à la Cour
+
+467
+00:22:19,862 --> 00:22:21,742
+comment vous connaissez
+l'accusé, Connor King.
+
+468
+00:22:36,630 --> 00:22:38,023
+Je refuse de répondre.
+
+469
+00:22:42,070 --> 00:22:43,238
+Excusez-moi ?
+
+470
+00:22:43,510 --> 00:22:46,022
+Je refuse de répondre,
+ça pourrait m'incriminer.
+
+471
+00:22:46,502 --> 00:22:50,566
+M. King et vous avez été en
+prison pour des crimes commis
+
+472
+00:22:50,694 --> 00:22:54,662
+lorsque vous étiez policiers.
+N'est-ce pas ?
+
+473
+00:22:54,806 --> 00:22:56,206
+Objection, il dirige le témoin.
+
+474
+00:22:56,326 --> 00:22:59,190
+Votre Honneur,
+l'immunité a été accordée à ce témoin.
+
+475
+00:22:59,574 --> 00:23:01,366
+Le 5ème amendement
+ne peut s'appliquer.
+
+476
+00:23:01,814 --> 00:23:02,896
+M. Cole.
+
+477
+00:23:03,190 --> 00:23:06,518
+La Cour vous demande de
+répondre aux questions
+
+478
+00:23:06,742 --> 00:23:08,483
+posées par le procureur.
+
+479
+00:23:09,222 --> 00:23:10,370
+M. Cole.
+
+480
+00:23:11,238 --> 00:23:13,894
+Avez-vous déjà été arrêté
+ou mis en prison ?
+
+481
+00:23:15,750 --> 00:23:16,951
+M. Cole...
+
+482
+00:23:19,414 --> 00:23:21,606
+Je refuse de répondre,
+ça pourrait m'incriminer.
+
+483
+00:23:21,862 --> 00:23:22,886
+Votre Honneur.
+
+484
+00:23:23,430 --> 00:23:25,952
+M. Cole, la Cour
+ne sera pas indulgente
+
+485
+00:23:26,054 --> 00:23:28,481
+si vous continuez
+à ne pas répondre.
+
+486
+00:23:28,662 --> 00:23:30,210
+Répondez à la question.
+
+487
+00:23:33,366 --> 00:23:36,455
+Je refuse de répondre,
+ça pourrait m'incriminer.
+
+488
+00:23:38,614 --> 00:23:42,518
+Parfait, la Cour condamne
+Bill Cole pour outrage.
+
+489
+00:23:43,030 --> 00:23:44,038
+Huissier !
+
+490
+00:23:56,758 --> 00:23:58,726
+- Comment ça s'est passé ?
+- On a gagné du temps.
+
+491
+00:23:59,078 --> 00:24:00,406
+Je ne sais pas combien.
+
+492
+00:24:01,366 --> 00:24:03,574
+Bon, on a quelque chose.
+
+493
+00:24:03,910 --> 00:24:05,688
+Le génie a encore frappé.
+
+494
+00:24:05,894 --> 00:24:07,638
+Au moins 2 voisins des
+incendies précédents
+
+495
+00:24:07,750 --> 00:24:09,550
+ont déclaré que leur
+garage avait été forcé.
+
+496
+00:24:09,718 --> 00:24:12,518
+La police a trouvé de l'essence
+sur le sol des 2 garages.
+
+497
+00:24:12,870 --> 00:24:14,995
+Pas très inhabituel
+dans un garage.
+
+498
+00:24:16,118 --> 00:24:18,774
+Sauf que l'un des deux
+n'a pas de voiture.
+
+499
+00:24:19,126 --> 00:24:23,742
+Et dans l'autre garage avec une voiture
+dedans, les traces d'essence
+
+500
+00:24:23,950 --> 00:24:26,318
+- n'étaient pas sous la voiture.
+- Ce qui nous dit que... ?
+
+501
+00:24:26,534 --> 00:24:29,190
+Des analyses sont en cours
+pour le confirmer...
+
+502
+00:24:29,542 --> 00:24:30,974
+Mais on peut en déduire,
+compte tenu
+
+503
+00:24:31,094 --> 00:24:32,850
+de la quantité et
+la provenance de l'essence
+
+504
+00:24:33,830 --> 00:24:36,246
+que notre gars est à moto
+pour faire son sale boulot.
+
+505
+00:24:36,566 --> 00:24:37,926
+Cela doit coller.
+
+506
+00:24:38,406 --> 00:24:41,102
+Cela ne nous donne pas un nom.
+Mais ça nous rapproche de lui.
+
+507
+00:24:42,870 --> 00:24:44,374
+Même si tu as raison...
+
+508
+00:24:44,646 --> 00:24:46,166
+Je ne suis pas sûr
+que ça nous aide.
+
+509
+00:24:46,246 --> 00:24:48,070
+C'est déjà plus que ce
+qu'on avait il y a 24h.
+
+510
+00:24:48,150 --> 00:24:49,694
+On doit oublier
+quelque chose...
+
+511
+00:24:50,630 --> 00:24:52,519
+Connor a une moto.
+
+512
+00:24:57,974 --> 00:24:59,654
+La qualité du matériel
+est plutôt bonne.
+
+513
+00:24:59,974 --> 00:25:03,016
+Comme les propriétés
+de l'agrandissement.
+
+514
+00:25:07,222 --> 00:25:09,478
+Votre Honneur, la défense
+a stipulé que
+
+515
+00:25:09,622 --> 00:25:11,910
+ces serviettes sont de même marque
+et faites de même façon
+
+516
+00:25:11,974 --> 00:25:13,782
+que celles trouvées
+chez les Samuel.
+
+517
+00:25:14,246 --> 00:25:15,814
+Noté.
+Vous pouvez continuer.
+
+518
+00:25:16,358 --> 00:25:17,271
+Docteur.
+
+519
+00:25:17,622 --> 00:25:19,221
+Allumez cette lumière,
+s'il vous plaît.
+
+520
+00:25:21,414 --> 00:25:24,054
+Je suis sûr que certains se rappellent
+avoir joué avec la lumière
+
+521
+00:25:24,182 --> 00:25:26,834
+et une loupe étant enfant.
+
+522
+00:25:28,230 --> 00:25:30,342
+Imaginons que c'est
+la lumière du soleil,
+
+523
+00:25:30,486 --> 00:25:32,548
+qui vient dans cette salle
+depuis l'extérieur.
+
+524
+00:25:33,574 --> 00:25:36,470
+Le degré d'agrandissement
+joue sur
+
+525
+00:25:36,598 --> 00:25:38,719
+le temps que
+ça va prendre.
+
+526
+00:25:39,366 --> 00:25:42,518
+Comme je l'ai dit,
+celui-ci est assez bon.
+
+527
+00:25:51,414 --> 00:25:54,806
+Docteur, est-il possible
+que la loupe que vous tenez
+
+528
+00:25:55,734 --> 00:25:58,822
+ait pu allumer un feu
+chez les Samuel ou d'autres ?
+
+529
+00:25:58,950 --> 00:26:00,694
+Objection.
+Spéculation.
+
+530
+00:26:00,854 --> 00:26:03,702
+Que la loupe démarre un feu
+ou non ça ne prouve rien.
+
+531
+00:26:04,102 --> 00:26:08,710
+Aujourd'hui, il n'y a aucune preuve
+sur la façon dont les feux ont débuté.
+
+532
+00:26:09,734 --> 00:26:10,742
+Accordé.
+
+533
+00:26:10,838 --> 00:26:12,283
+Pas d'autres questions.
+
+534
+00:26:15,110 --> 00:26:18,134
+Docteur, dans un banal feu
+domestique, un verre pourrait-il
+
+535
+00:26:18,198 --> 00:26:20,967
+être complètement
+consumé par les flammes ?
+
+536
+00:26:21,206 --> 00:26:22,358
+Abîmé, peut-être.
+
+537
+00:26:22,694 --> 00:26:24,406
+Complètement consumé,
+difficilement.
+
+538
+00:26:24,614 --> 00:26:27,430
+Donc si une loupe
+avait été utilisée,
+
+539
+00:26:27,510 --> 00:26:29,734
+les enquêteurs auraient
+trouvé une partie
+
+540
+00:26:30,274 --> 00:26:32,502
+ou la totalité de cette loupe.
+
+541
+00:26:32,662 --> 00:26:34,150
+C'est peut être juste.
+
+542
+00:26:34,550 --> 00:26:36,022
+Si elles sont faites de verre.
+
+543
+00:26:36,310 --> 00:26:39,142
+Cela ne prendrait pas plus
+de temps qu'un feu d'allumettes
+
+544
+00:26:39,398 --> 00:26:43,612
+pour la transformer en cendre.
+
+545
+00:26:44,694 --> 00:26:47,573
+Elles sont faites en sucre.
+
+546
+00:26:49,254 --> 00:26:50,984
+Pas d'autres questions
+votre Honneur.
+
+547
+00:26:52,054 --> 00:26:55,863
+M. Beetle, voulez-vous dire
+à la Cour où vous travaillez ?
+
+548
+00:26:58,854 --> 00:27:02,550
+Je dirige un entrepôt
+à la sortie de Cranston.
+
+549
+00:27:02,853 --> 00:27:07,334
+- Cet entrepôt sert de garde-meuble.
+- Précisément.
+
+550
+00:27:07,558 --> 00:27:09,718
+Vous vous souvenez
+lorsque les enquêteurs
+
+551
+00:27:09,798 --> 00:27:12,459
+sont venus au 14D, il y a
+2 semaines, vendredi ?
+
+552
+00:27:12,630 --> 00:27:13,638
+Oui.
+
+553
+00:27:13,782 --> 00:27:15,478
+Étiez-vous avec eux quand
+ils sont entrés ?
+
+554
+00:27:15,494 --> 00:27:18,678
+Ils avaient besoin de ma permission
+et de ma clef pour entrer.
+
+555
+00:27:18,886 --> 00:27:20,837
+Parmi le contenu du box,
+
+556
+00:27:21,702 --> 00:27:24,630
+avez-vous vu cette
+boîte avec les loupes ?
+
+557
+00:27:25,126 --> 00:27:27,430
+En fait, on a trouvé une
+douzaine de ces boîtes.
+
+558
+00:27:27,702 --> 00:27:29,137
+C'est l'une d'elles.
+
+559
+00:27:30,806 --> 00:27:32,583
+Est-ce que vous reconnaissez
+ce formulaire ?
+
+560
+00:27:36,822 --> 00:27:39,382
+C'est l'un de nos contrats
+standards à long terme.
+
+561
+00:27:39,702 --> 00:27:41,654
+Et celui-là en particulier...
+
+562
+00:27:41,894 --> 00:27:45,654
+De quand date la signature
+pour la location du box 14D ?
+
+563
+00:27:47,206 --> 00:27:49,753
+2 ans, 3 mois et 14 jours.
+
+564
+00:27:50,006 --> 00:27:53,869
+Voulez-vous nous lire
+à qui il a été loué ?
+
+565
+00:27:55,382 --> 00:27:56,422
+Connor King.
+
+566
+00:27:58,438 --> 00:28:00,854
+- C'est un ramassis de conneries !
+- Du calme !
+
+567
+00:28:02,262 --> 00:28:04,566
+La Cour va prendre une
+demi-heure de pause.
+
+568
+00:28:04,854 --> 00:28:05,862
+Tu étais au courant ?
+
+569
+00:28:05,926 --> 00:28:07,622
+- Bien sûr que non.
+- Fais quelque chose !
+
+570
+00:28:07,782 --> 00:28:09,241
+Je fais du mieux
+que je peux !
+
+571
+00:28:09,691 --> 00:28:10,738
+C'est ça le mieux ?
+
+572
+00:28:11,563 --> 00:28:12,779
+C'est ça le mieux ?
+
+573
+00:28:22,107 --> 00:28:24,702
+Souviens-toi de ce visage,
+cafard, souviens t'en !
+
+574
+00:28:28,011 --> 00:28:31,419
+J'y crois pas, Connor est entré
+chez les Samuel malgré les ordres.
+
+575
+00:28:31,547 --> 00:28:34,104
+Et depuis quand Connor suit-il les règles ?
+
+576
+00:28:34,795 --> 00:28:36,539
+Il pensait avoir vu
+quelque chose,
+
+577
+00:28:36,811 --> 00:28:38,526
+il y a vu une opportunité
+
+578
+00:28:38,619 --> 00:28:40,395
+d'attraper le Neuro
+et de s'en sortir.
+
+579
+00:28:40,699 --> 00:28:43,382
+Mais depuis le véhicule,
+on ne pouvait rien voir
+
+580
+00:28:43,435 --> 00:28:45,015
+de ce qu'il faisait
+dans la maison.
+
+581
+00:28:45,339 --> 00:28:48,369
+Tout ce que tu peux dire
+c'est avoir vu Connor entrer,
+
+582
+00:28:48,603 --> 00:28:50,319
+puis le feu et Connor s'enfuir.
+
+583
+00:28:50,495 --> 00:28:51,983
+Qu'est-ce que c'est
+que ce bordel ?
+
+584
+00:28:52,159 --> 00:28:54,319
+On dirait que vous
+le croyez coupable !
+
+585
+00:28:54,623 --> 00:28:57,127
+C'est bon de savoir où vos amis sont
+quand les choses se compliquent.
+
+586
+00:28:57,199 --> 00:28:58,847
+Ça n'a rien à voir avec ce qu'on pense.
+
+587
+00:28:59,087 --> 00:29:01,940
+Tu réponds juste aux
+questions du procureur.
+
+588
+00:29:02,607 --> 00:29:04,975
+Par ailleurs, Bill Cole
+ne doit pas être le seul
+
+589
+00:29:05,087 --> 00:29:06,678
+à pouvoir témoigner
+contre Connor.
+
+590
+00:29:14,335 --> 00:29:16,790
+Pourquoi ne leur dis-tu
+ce que tu m'as dit.
+
+591
+00:29:17,711 --> 00:29:20,095
+- Quoi ?
+- Ce dont on parlait...
+
+592
+00:29:21,519 --> 00:29:23,231
+L'idée que Connor
+avait derrière la tête.
+
+593
+00:29:26,239 --> 00:29:28,095
+Je pensais à ce que
+Riley a dit l'autre jour
+
+594
+00:29:28,223 --> 00:29:30,511
+sur le fait que les choses
+sont simples et logiques.
+
+595
+00:29:33,490 --> 00:29:36,287
+On peut se dire que
+Connor peut avoir raison
+
+596
+00:29:36,607 --> 00:29:37,844
+ou bien Riley.
+
+597
+00:29:38,191 --> 00:29:40,025
+Mais selon ce que l'on sait
+
+598
+00:29:40,223 --> 00:29:42,111
+à propos de l'essence
+dans les garages...
+
+599
+00:29:42,335 --> 00:29:43,679
+Je commence à penser...
+
+600
+00:29:44,143 --> 00:29:45,641
+Et s'ils avaient tous
+les deux raison ?
+
+601
+00:29:46,079 --> 00:29:47,103
+Si ?
+
+602
+00:29:47,887 --> 00:29:51,183
+Disons que Riley a raison
+pour la procédure...
+
+603
+00:29:51,535 --> 00:29:53,871
+L'importance des garages.
+
+604
+00:29:54,147 --> 00:29:57,363
+Chez les Samuel il n'y en avait pas face
+à l'allée, ce qui ne correspond pas.
+
+605
+00:29:57,523 --> 00:29:59,916
+Peut être que l'on a pas
+affaire à un pyromane.
+
+606
+00:30:00,227 --> 00:30:02,931
+Peut être que l'on a affaire à
+quelqu'un qui a un mobile.
+
+607
+00:30:03,283 --> 00:30:04,323
+Réfléchissez,
+
+608
+00:30:04,531 --> 00:30:07,171
+Lucy vivait dans
+une maison à 2 étages.
+
+609
+00:30:07,763 --> 00:30:08,717
+Et...
+
+610
+00:30:08,867 --> 00:30:10,978
+Le Neuro voulait la mort
+de Lucy ou de Scott...
+
+611
+00:30:11,731 --> 00:30:16,035
+Et pour se couvrir il a brûlé
+5 autres maisons bleues à 2 étages.
+
+612
+00:30:16,211 --> 00:30:17,443
+Pour écarter le risque d'être vu.
+
+613
+00:30:17,475 --> 00:30:20,965
+Il cherchait des maisons avec un garage
+face à une allée. Il n'a pas réalisé
+
+614
+00:30:21,157 --> 00:30:24,389
+qu'un génie nommé Riley a perçu cela
+comme une partie de sa procédure.
+
+615
+00:30:24,664 --> 00:30:26,567
+Mais il est allé chez les Samuels,
+
+616
+00:30:26,888 --> 00:30:30,232
+il pense qu'il réalise un nouvel
+incendie de maison bleue.
+
+617
+00:30:30,456 --> 00:30:32,248
+Tu as quelque chose sur les Samuel ?
+
+618
+00:30:32,488 --> 00:30:34,768
+Je vais trouver quelque chose,
+j'ai juste besoin de temps.
+
+619
+00:30:34,840 --> 00:30:36,731
+Quelque chose dont Connor manque.
+
+620
+00:30:43,224 --> 00:30:45,688
+Si j'étais toi, je pourrais casser tous
+les os de mon corps,
+
+621
+00:30:45,752 --> 00:30:46,966
+glisser dans ces ouvertures,
+
+622
+00:30:47,112 --> 00:30:48,617
+sortir de là,
+comme si de rien n'était.
+
+623
+00:30:50,072 --> 00:30:51,238
+Si tu étais moi,
+
+624
+00:30:52,248 --> 00:30:55,237
+tu vaudrais bien mieux
+que cette tenue orange.
+
+625
+00:30:57,544 --> 00:30:59,260
+Ça s'annonce mal, hein ?
+
+626
+00:31:01,576 --> 00:31:03,457
+On bosse sur un truc.
+
+627
+00:31:03,864 --> 00:31:05,880
+On ne sait pas encore
+ce que ça va donner.
+
+628
+00:31:06,424 --> 00:31:08,104
+Ça nous aiderait si tu nous
+disais ce qui s'est passé.
+
+629
+00:31:08,200 --> 00:31:10,349
+Tu commences à croire
+que je suis coupable ?
+
+630
+00:31:13,128 --> 00:31:14,786
+Ce n'est pas ce que j'ai dit.
+
+631
+00:31:15,768 --> 00:31:18,952
+- C'est juste que ce que l'on sait...
+- Tu sais ce que je veux que tu saches.
+
+632
+00:31:21,720 --> 00:31:23,019
+C'est ça.
+
+633
+00:31:26,120 --> 00:31:28,130
+Et les choses vont rester ainsi.
+
+634
+00:31:31,600 --> 00:31:32,696
+Ouais.
+
+635
+00:31:34,776 --> 00:31:35,784
+Je suis en route.
+
+636
+00:31:39,640 --> 00:31:40,652
+Je dois y aller.
+
+637
+00:31:47,400 --> 00:31:48,408
+Merci.
+
+638
+00:31:50,000 --> 00:31:51,048
+On se voit devant la Cour.
+
+639
+00:31:58,136 --> 00:31:59,464
+Qu'est-ce que tu as ?
+
+640
+00:31:59,800 --> 00:32:03,384
+J'ai trouvé la facture originale
+du garage loué par Connor.
+
+641
+00:32:04,056 --> 00:32:05,592
+- C'est donc vrai.
+- Non.
+
+642
+00:32:05,794 --> 00:32:06,808
+Quoi ?
+
+643
+00:32:06,872 --> 00:32:10,536
+Selon le reçu, Connor l'a loué
+il y a un peu plus de deux ans.
+
+644
+00:32:11,016 --> 00:32:12,632
+Mais c'est la date
+sur le contrat.
+
+645
+00:32:12,824 --> 00:32:14,264
+Pas la date du fichier.
+
+646
+00:32:14,856 --> 00:32:16,824
+Le fichier date
+de trois semaines.
+
+647
+00:32:17,128 --> 00:32:19,069
+C'est peut-être pas
+la version originale.
+
+648
+00:32:19,432 --> 00:32:20,920
+Si quelqu'un avait sauvegardé
+une copie
+
+649
+00:32:21,000 --> 00:32:22,708
+le fichier n'aurait pas
+une date plus récente ?
+
+650
+00:32:22,900 --> 00:32:23,960
+C'est possible.
+
+651
+00:32:24,504 --> 00:32:27,260
+Mais chaque fichier a
+une date de création.
+
+652
+00:32:27,832 --> 00:32:30,262
+Peu importe
+qu'il soit modifié.
+
+653
+00:32:30,632 --> 00:32:33,336
+Ce fichier n'existait pas
+le mois dernier.
+
+654
+00:32:33,464 --> 00:32:34,952
+Alors quelqu'un tente
+de le piéger.
+
+655
+00:32:35,224 --> 00:32:36,296
+Voilà le responsable.
+
+656
+00:32:37,032 --> 00:32:38,840
+J'ai tracé l'ordinateur
+qui a créé le fichier.
+
+657
+00:32:38,856 --> 00:32:40,088
+Le bureau du D.A.
+
+658
+00:32:40,264 --> 00:32:41,613
+Richard Stanley.
+
+659
+00:32:41,896 --> 00:32:43,459
+L'avocat de Connor.
+
+660
+00:32:43,628 --> 00:32:45,020
+Quoi ?!
+
+661
+00:32:45,532 --> 00:32:46,540
+Pourquoi ?
+
+662
+00:32:46,840 --> 00:32:48,172
+Ça n'a aucun sens.
+
+663
+00:32:48,428 --> 00:32:51,095
+Si... Ça en a.
+
+664
+00:32:52,647 --> 00:32:55,039
+Vous foutez pas de moi !
+De quoi croyez-vous que je parle ?!
+
+665
+00:32:55,374 --> 00:32:57,799
+Vous avez laissé
+vos empreintes partout.
+
+666
+00:32:57,999 --> 00:33:00,127
+Richard Stanley travaille pour vous
+et comme tous ceux
+
+667
+00:33:00,159 --> 00:33:01,823
+qui travaillent pour vous,
+il suit les ordres.
+
+668
+00:33:01,903 --> 00:33:04,439
+Piéger Connor avec la location
+de ce garage était votre idée.
+
+669
+00:33:04,679 --> 00:33:07,143
+Vous êtes chef d'équipe.
+Vous n'êtes pas commandant en chef.
+
+670
+00:33:07,319 --> 00:33:08,743
+Je protège mes troupes.
+
+671
+00:33:09,319 --> 00:33:11,543
+Même si c'est contre
+le commandant en chef.
+
+672
+00:33:12,039 --> 00:33:14,062
+Vous ne connaissez pas
+tout le problème.
+
+673
+00:33:14,909 --> 00:33:16,828
+J'ai déjà entendu
+ça avant.
+
+674
+00:33:17,511 --> 00:33:20,519
+Parfois les "non-gradés" doivent être
+sacrifiés pour une plus grande cause.
+
+675
+00:33:20,807 --> 00:33:23,159
+Où est la grande
+cause ici, monsieur ?
+
+676
+00:33:23,543 --> 00:33:25,943
+À part protéger
+vos fesses.
+
+677
+00:33:26,407 --> 00:33:28,519
+- Je n'aime pas votre ton.
+- Ce n'est pas le but.
+
+678
+00:33:28,859 --> 00:33:30,567
+King est un danger
+pour l'équipe.
+
+679
+00:33:30,807 --> 00:33:32,341
+Et pour notre travail.
+
+680
+00:33:32,599 --> 00:33:33,767
+J'ai pris une décision.
+
+681
+00:33:34,103 --> 00:33:37,555
+On ne peut plus nier les choses
+comme vous pouviez l'espérer.
+
+682
+00:33:37,911 --> 00:33:39,849
+Si King est renvoyé
+maintenant,
+
+683
+00:33:40,103 --> 00:33:42,566
+le reste de nos problèmes
+partiront avec lui.
+
+684
+00:33:43,559 --> 00:33:44,679
+Monsieur...
+
+685
+00:33:45,399 --> 00:33:47,696
+Je ne laisserai pas faire ça.
+
+686
+00:33:54,199 --> 00:33:55,879
+Vous êtes un homme
+de terrain, Mcbride.
+
+687
+00:33:56,135 --> 00:33:57,911
+Au combat, vous décidez.
+
+688
+00:33:59,863 --> 00:34:02,048
+La politique passe avant
+nos sentiments et la loyauté,
+
+689
+00:34:02,167 --> 00:34:04,142
+vous le savez aussi bien que moi.
+
+690
+00:34:05,879 --> 00:34:07,943
+Vous avez intérêt
+à y réfléchir sérieusement
+
+691
+00:34:08,199 --> 00:34:10,607
+avant de faire quelque chose
+que vous regretteriez.
+
+692
+00:34:18,007 --> 00:34:22,963
+Richard, voici le nouvel arrangement.
+
+693
+00:34:25,607 --> 00:34:29,863
+Si je découvre que vous tentez
+d'empêcher Connor de s'en sortir.
+
+694
+00:34:30,167 --> 00:34:32,247
+Si je vois que vous
+ne faites pas le nécessaire
+
+695
+00:34:32,455 --> 00:34:35,575
+pour assurer sa défense,
+je veux que vous sachiez que
+
+696
+00:34:36,679 --> 00:34:40,324
+le gouvernement a beaucoup dépensé
+pour me former et je suis très doué.
+
+697
+00:34:40,743 --> 00:34:43,695
+Je peux approcher un homme sur 100
+mètres sans qu'il ne m'entende venir.
+
+698
+00:34:44,935 --> 00:34:46,423
+Je vous laisse décider.
+
+699
+00:34:46,807 --> 00:34:50,903
+Vous voulez passer le reste de votre vie
+à regarder au-dessus de votre épaule,
+
+700
+00:34:52,311 --> 00:34:53,527
+à attendre ?
+
+701
+00:34:57,319 --> 00:34:58,535
+Allons-y.
+
+702
+00:35:15,047 --> 00:35:16,823
+Si c'est pas un motif de meurtre,
+
+703
+00:35:18,471 --> 00:35:20,535
+je sais pas ce que c'est.
+
+704
+00:35:37,207 --> 00:35:38,615
+Tout est en place.
+
+705
+00:35:38,951 --> 00:35:40,599
+Stanley a ses ordres.
+
+706
+00:35:40,967 --> 00:35:42,103
+On a un nouveau témoin.
+
+707
+00:35:42,391 --> 00:35:43,719
+Le jury est soudoyé ?
+
+708
+00:35:44,087 --> 00:35:46,487
+La juge a décidé d'évacuer le tribunal
+et de finir sans jury.
+
+709
+00:35:46,519 --> 00:35:47,879
+Donc elle trouve
+ça acceptable...
+
+710
+00:35:48,119 --> 00:35:49,575
+Espérons que
+ça n'aille pas jusque là.
+
+711
+00:35:49,751 --> 00:35:51,687
+Espérons que ça
+ne soit pas ingérable.
+
+712
+00:35:51,895 --> 00:35:53,350
+La session est ouverte.
+
+713
+00:35:56,238 --> 00:35:58,238
+Voulez-vous décliner
+votre nom à la cour ?
+
+714
+00:35:59,113 --> 00:36:00,373
+Ellen Drake.
+
+715
+00:36:03,959 --> 00:36:05,063
+Mademoiselle Drake...
+
+716
+00:36:05,463 --> 00:36:09,463
+- C'est bien "mademoiselle" ?
+- Oui.
+
+717
+00:36:09,719 --> 00:36:11,887
+Êtes-vous une habituée
+de l'hôtel Blue Ridge ?
+
+718
+00:36:12,863 --> 00:36:13,935
+Je connais le nom, je crois
+
+719
+00:36:13,975 --> 00:36:16,076
+Êtes-vous déjà allée
+à l'hôtel Blue Ridge ?
+
+720
+00:36:17,095 --> 00:36:20,383
+- J'ai dû passer devant en voiture.
+- Mais vous n'y êtes jamais entrée ?
+
+721
+00:36:20,990 --> 00:36:21,990
+Non.
+
+722
+00:36:22,695 --> 00:36:24,535
+Votre honneur,
+puis-je m'avancer ?
+
+723
+00:36:33,447 --> 00:36:35,737
+Voulez-vous bien regarder
+ces photographies.
+
+724
+00:36:42,599 --> 00:36:45,489
+C'est bien vous sur
+ces photographies ?
+
+725
+00:36:49,085 --> 00:36:50,087
+Oui.
+
+726
+00:36:50,487 --> 00:36:53,303
+Que diriez-vous si je vous disais que
+ces photos ont été prises
+
+727
+00:36:53,543 --> 00:36:57,703
+par une caméra de surveillance
+dans l'entrée de l'hôtel Blue Ridge ?
+
+728
+00:36:59,915 --> 00:37:02,962
+Et voyez-vous la date indiquée
+sur ces photographies ?
+
+729
+00:37:09,392 --> 00:37:11,027
+Elles datent
+d'il y a plus d'un an, non ?
+
+730
+00:37:11,729 --> 00:37:14,512
+Je suppose que la raison de votre
+parjure dans ce tribunal
+
+731
+00:37:14,624 --> 00:37:16,768
+a pour but de protéger quelqu'un.
+
+732
+00:37:17,184 --> 00:37:19,024
+Est-il possible que
+vous mentiez,
+
+733
+00:37:19,488 --> 00:37:21,840
+car à cette date
+à l'hôtel Blue Ridge,
+
+734
+00:37:21,952 --> 00:37:23,424
+vous étiez avec
+un homme marié ?
+
+735
+00:37:28,928 --> 00:37:30,000
+Oui.
+
+736
+00:37:30,576 --> 00:37:31,715
+M. Samuel...
+
+737
+00:37:31,952 --> 00:37:33,680
+À la date où ont été
+prises ces photos,
+
+738
+00:37:33,840 --> 00:37:36,165
+étiez-vous à l'hôtel Blue Ridge
+avec Mademoiselle Drake ?
+
+739
+00:37:39,056 --> 00:37:43,498
+Je dois vous informer que
+ces photos sont plus larges.
+
+740
+00:37:43,859 --> 00:37:46,729
+Les originales montrent
+la pièce en entier..
+
+741
+00:37:54,032 --> 00:37:55,376
+Laissez-moi
+vous redemander...
+
+742
+00:37:56,240 --> 00:37:58,064
+À cette date,
+
+743
+00:37:58,576 --> 00:38:01,033
+étiez-vous à l'hôtel Blue Ridge
+avec Mademoiselle Drake ?
+
+744
+00:38:06,960 --> 00:38:09,363
+Serait-il raisonnable de dire
+que depuis une année,
+
+745
+00:38:09,424 --> 00:38:11,864
+vous avez une liaison
+avec Mademoiselle Drake.
+
+746
+00:38:13,920 --> 00:38:16,480
+- Votre honneur...
+- Répondez à la question.
+
+747
+00:38:20,864 --> 00:38:22,018
+On s'aime.
+
+748
+00:38:23,184 --> 00:38:24,735
+J'en suis heureux pour vous.
+
+749
+00:38:26,336 --> 00:38:28,208
+Possédez-vous
+une moto ?
+
+750
+00:38:30,544 --> 00:38:32,512
+C'est un modèle récent de
+Torque Speedster?
+
+751
+00:38:35,200 --> 00:38:36,912
+Vous auriez dû vérifier
+les fuites d'huile.
+
+752
+00:38:37,040 --> 00:38:39,624
+Conduire une moto
+peut-il être dangereux ?
+
+753
+00:38:40,784 --> 00:38:42,528
+- Je suppose.
+- Je suis curieux...
+
+754
+00:38:42,608 --> 00:38:44,321
+Votre femme, Lucy,
+la conduisait-elle ?
+
+755
+00:38:45,744 --> 00:38:49,360
+Mais vous étiez préoccupé
+par sa santé et son bien-être.
+
+756
+00:38:50,448 --> 00:38:52,160
+Pourquoi avoir pris
+pour un demi-million
+
+757
+00:38:52,256 --> 00:38:55,216
+de police d'assurance à son nom
+2 semaines avant sa mort ?
+
+758
+00:38:55,504 --> 00:38:57,984
+Si quelqu'un de la famille
+prenait des risques,
+
+759
+00:38:58,048 --> 00:38:59,728
+c'est plutôt vous,
+M. Samuel.
+
+760
+00:38:59,872 --> 00:39:00,912
+Je pensais que...
+
+761
+00:39:01,904 --> 00:39:03,936
+Vous avez vu la date
+sur l'une des photos,
+
+762
+00:39:04,064 --> 00:39:07,009
+le 18 novembre,
+la nuit avant l'incident.
+
+763
+00:39:07,728 --> 00:39:09,856
+Laissez-moi vous demander
+quelque chose, M. Samuel.
+
+764
+00:39:10,064 --> 00:39:12,000
+Vous prétendez être
+amoureux de Mlle Drake.
+
+765
+00:39:12,112 --> 00:39:13,140
+Objection.
+
+766
+00:39:13,456 --> 00:39:14,752
+Rejeté.
+
+767
+00:39:14,880 --> 00:39:17,424
+Vous avez eu un dîner
+en amoureux la nuit avant
+
+768
+00:39:17,504 --> 00:39:19,344
+que votre femme ne meure
+dans l'incendie.
+
+769
+00:39:19,568 --> 00:39:22,144
+Deux semaines avant,
+vous prenez une assurance
+
+770
+00:39:22,224 --> 00:39:24,336
+pour un demi-million
+à son nom.
+
+771
+00:39:24,576 --> 00:39:26,560
+- Objection.
+- Rejeté.
+
+772
+00:39:26,832 --> 00:39:28,240
+Êtes-vous voyant,
+M. Samuel...
+
+773
+00:39:28,368 --> 00:39:30,496
+Ou les choses s'arrangent
+d'elles-mêmes pour vous ?
+
+774
+00:39:31,328 --> 00:39:34,176
+Vous avez déclenché le feu qui a tué
+votre femme, n'est pas M. Samuel ?
+
+775
+00:39:35,008 --> 00:39:37,920
+En vérité, vous avez déclenché
+tous les feux espérant couvrir vos actes,
+
+776
+00:39:38,080 --> 00:39:39,744
+n'est-ce pas, M. Samuel ?
+
+777
+00:39:49,536 --> 00:39:51,888
+- Richard, non !
+- Allez au diable !
+
+778
+00:40:25,984 --> 00:40:28,240
+Affaire classée,
+fils de pute.
+
+779
+00:41:05,024 --> 00:41:08,080
+<i>Parfois, il faut perdre quelque chose
+pour en gagner une autre.
+
+780
+00:41:08,704 --> 00:41:11,330
+<i>Cette fois, on a failli
+perdre Connor.
+
+781
+00:41:13,232 --> 00:41:16,048
+<i>Je suppose que ce que j'ai gagné,
+c'est de me rendre compte que
+
+782
+00:41:16,240 --> 00:41:20,846
+<i>même si j'ai tendance à l'oublier,
+on est une équipe.
+
+783
+00:41:38,304 --> 00:41:42,391
+<i>Et quand il faut faire face,
+on se serre les coudes.
+
+784
+00:41:44,464 --> 00:41:46,721
+<i>Certains pourraient
+même s'apprécier.
+
+785
+00:41:49,088 --> 00:41:51,024
+Alors quoi ?
+Pas de champagne ?
+
+786
+00:41:52,608 --> 00:41:54,037
+N'est-il pas mignon ?
+
+787
+00:41:54,992 --> 00:41:58,690
+De l'eau chaude et
+un briefing dans 10 minutes.
+
+788
+00:42:00,272 --> 00:42:02,176
+- Content de te revoir !
+- Merci.
+
+789
+00:42:05,712 --> 00:42:07,504
+Ça a été un plaisir.
+
+790
+00:42:08,576 --> 00:42:09,728
+Peut-être pour toi.
+
+791
+00:42:10,336 --> 00:42:12,512
+J'ai dû apprendre
+la logique à ces gens.
+
+792
+00:42:18,576 --> 00:42:20,576
+- Content de te revoir !
+- Comment va Stanley ?
+
+793
+00:42:20,736 --> 00:42:23,984
+Rien de grave. Vasco a fait
+un bon boulot en lui sauvant la mise.
+
+794
+00:42:24,384 --> 00:42:28,365
+Si vous voulez mon avis, il a fait
+une belle imitation de saucisse grillée.
+
+795
+00:42:30,080 --> 00:42:31,373
+Heureuse de te revoir.
+
+796
+00:42:33,728 --> 00:42:35,888
+C'est facile
+à dire chérie.
+
+797
+00:42:36,147 --> 00:42:38,563
+Un geste vaut mieux
+qu'un long discours.
+
+798
+00:42:38,851 --> 00:42:40,691
+Ouais, le revoilà.
+
+799
+00:42:41,571 --> 00:42:43,459
+Une grande et
+heureuse famille.
+
+800
+00:42:43,728 --> 00:42:45,964
+Vous avez 10 minutes
+pour retenir tout ça.
+
+801
+00:43:01,920 --> 00:43:05,256
+www.seriessub.com
+

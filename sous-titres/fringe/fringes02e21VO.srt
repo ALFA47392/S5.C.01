@@ -1,0 +1,2538 @@
+1
+00:00:00,559 --> 00:00:02,043
+<i>Previously on Fringe...</i>
+
+2
+00:00:02,211 --> 00:00:04,128
+Surgeries that Newton performed.
+
+3
+00:00:04,296 --> 00:00:06,213
+He was removing
+transplanted brain tissue.
+
+4
+00:00:07,963 --> 00:00:09,842
+You nearly died when you were a boy.
+
+5
+00:00:11,784 --> 00:00:13,611
+Walternate found a cure for Peter.
+
+6
+00:00:14,407 --> 00:00:15,431
+Peter is dead.
+
+7
+00:00:15,599 --> 00:00:18,814
+I'm talking about the other Peter.
+The one on the other side.
+
+8
+00:00:19,645 --> 00:00:20,895
+I'm not from here, am I?
+
+9
+00:00:21,511 --> 00:00:23,731
+- Son...
+- I am not your son.
+
+10
+00:00:25,215 --> 00:00:27,735
+Peter checked himself out
+of the hospital three hours ago.
+
+11
+00:00:28,330 --> 00:00:29,195
+He's gone.
+
+12
+00:00:44,968 --> 00:00:47,723
+Drink that, avoid the radar,
+you'll be in Oakland in no time.
+
+13
+00:00:48,758 --> 00:00:52,551
+That is for you, Raymond.
+Your burger should be up in a minute.
+
+14
+00:01:02,152 --> 00:01:04,021
+So... Where was I?
+
+15
+00:01:04,189 --> 00:01:06,809
+You were in the middle of telling me
+how you moved around a lot as a kid.
+
+16
+00:01:06,934 --> 00:01:09,402
+But I got to tell you, now
+I'm hopelessly intrigued with these CDs.
+
+17
+00:01:09,570 --> 00:01:12,405
+I'm sort of known here by the regulars
+for my playlists.
+
+18
+00:01:12,573 --> 00:01:14,821
+I base my tracks on people's aura.
+
+19
+00:01:14,946 --> 00:01:17,535
+How often do you think I'd have to
+come here to be considered a regular?
+
+20
+00:01:18,322 --> 00:01:20,204
+I might be able to get you
+on the list.
+
+21
+00:01:20,957 --> 00:01:23,040
+First, you have to tell me
+where you're from.
+
+22
+00:01:24,447 --> 00:01:25,524
+Technically...
+
+23
+00:01:26,449 --> 00:01:28,504
+I'm from no place
+you've ever heard of.
+
+24
+00:01:30,048 --> 00:01:31,507
+But let's just say Boston.
+
+25
+00:01:33,702 --> 00:01:35,429
+So how long are you here for?
+
+26
+00:01:37,409 --> 00:01:40,391
+I was just planning on the one night...
+Passing through.
+
+27
+00:01:41,326 --> 00:01:42,037
+To?
+
+28
+00:01:43,695 --> 00:01:44,952
+I don't know yet.
+
+29
+00:01:47,320 --> 00:01:48,983
+Peter from Boston.
+
+30
+00:01:49,669 --> 00:01:50,943
+I'll burn you one.
+
+31
+00:01:51,926 --> 00:01:52,793
+Really?
+
+32
+00:01:53,576 --> 00:01:56,699
+- What did I do right?
+- It's a long road to "I don't know yet."
+
+33
+00:01:56,867 --> 00:01:59,250
+I want to make sure
+you stay awake out there.
+
+34
+00:02:00,937 --> 00:02:03,122
+And I like your eyes.
+
+35
+00:02:03,993 --> 00:02:05,196
+So there's that.
+
+36
+00:02:06,540 --> 00:02:07,960
+Where are you staying?
+
+37
+00:02:09,811 --> 00:02:12,006
+I'm staying
+at the Drake's Bay Motel.
+
+38
+00:02:13,436 --> 00:02:15,176
+I'll drop it by after my shift.
+
+39
+00:02:15,544 --> 00:02:17,004
+Okay, I'll see you then.
+
+40
+00:02:18,621 --> 00:02:19,722
+I'll see you then.
+
+41
+00:03:41,059 --> 00:03:42,809
+What are you doing to me?
+
+42
+00:03:50,686 --> 00:03:53,816
+<i>_.•´¯¯LIAISON¯¯`•. _
+¯`•. __Team__.•´¯</i>
+
+43
+00:03:56,695 --> 00:03:59,824
+<i>Retrouvez-nous chaque semaine...</i>
+
+44
+00:03:59,949 --> 00:04:02,337
+<i>pour découvrir les énigmes de</i>
+
+45
+00:04:04,870 --> 00:04:06,783
+<i>Saison 2 Épisode 21
+- Northwest Passage -</i>
+
+46
+00:04:06,908 --> 00:04:08,747
+<i>Bon épisode...</i>
+
+47
+00:04:09,561 --> 00:04:12,703
+<i>It may not be the best season for skagit
+valley's famous waves of color,</i>
+
+48
+00:04:12,828 --> 00:04:14,630
+<i>but with record warmth,</i>
+
+49
+00:04:14,755 --> 00:04:17,417
+<i>it is still going to be one
+for the record books.</i>
+
+50
+00:04:17,542 --> 00:04:20,650
+<i>In mount Vernon, John Hofferste,
+Q13, Fox News.</i>
+
+51
+00:04:23,064 --> 00:04:25,139
+Your room's got a bed, you know.
+
+52
+00:04:25,487 --> 00:04:26,515
+What time is it?
+
+53
+00:04:26,843 --> 00:04:28,026
+6:00 AM.
+
+54
+00:04:31,413 --> 00:04:33,564
+Did a pretty girl
+happen to drop by here?
+
+55
+00:04:59,145 --> 00:05:00,072
+Hello?
+
+56
+00:05:03,752 --> 00:05:04,786
+Krista?
+
+57
+00:05:10,294 --> 00:05:11,260
+Hello?
+
+58
+00:05:25,492 --> 00:05:26,575
+Destination.
+
+59
+00:05:26,743 --> 00:05:28,994
+- <i>Please say a city name.</i>
+- Portland.
+
+60
+00:05:29,162 --> 00:05:31,548
+<i>Portland. Please proceed
+to the highlighted route.</i>
+
+61
+00:05:31,673 --> 00:05:33,441
+That was obviously way too easy.
+
+62
+00:05:34,328 --> 00:05:35,428
+Destination.
+
+63
+00:05:35,700 --> 00:05:37,150
+<i>Please say a city name.</i>
+
+64
+00:05:38,134 --> 00:05:39,134
+Mars.
+
+65
+00:05:39,732 --> 00:05:42,160
+<i>Sorry. Please say the city name.</i>
+
+66
+00:06:09,096 --> 00:06:10,160
+How you doing?
+
+67
+00:06:10,328 --> 00:06:13,288
+I'm sheriff Mathis.
+This is Deputy Ferguson.
+
+68
+00:06:13,456 --> 00:06:15,374
+Hi, there.
+Peter Bishop.
+
+69
+00:06:16,349 --> 00:06:18,482
+Were you a customer here last night?
+
+70
+00:06:18,607 --> 00:06:19,607
+I was.
+
+71
+00:06:20,357 --> 00:06:21,922
+Do you remember your waitress?
+
+72
+00:06:22,090 --> 00:06:23,240
+Krista, sure.
+
+73
+00:06:23,539 --> 00:06:26,385
+- Why, did something happen to her?
+- Do you have any identification on you?
+
+74
+00:06:30,015 --> 00:06:30,897
+Of course.
+
+75
+00:06:35,049 --> 00:06:38,647
+Krista told a coworker she was planning
+to meet you after her shift last night.
+
+76
+00:06:40,041 --> 00:06:41,692
+You gonna tell me
+what's going on here?
+
+77
+00:06:42,432 --> 00:06:43,432
+You first.
+
+78
+00:06:44,714 --> 00:06:47,156
+Yeah, we made plans.
+But she never showed up.
+
+79
+00:06:47,517 --> 00:06:50,868
+She was gonna meet me at the Drake's Bay
+but I just fell asleep in the lobby.
+
+80
+00:06:51,232 --> 00:06:53,287
+You can call the front desk,
+ask the guy there.
+
+81
+00:06:54,552 --> 00:06:56,425
+Why don't you just
+hang here a sec, okay?
+
+82
+00:07:15,936 --> 00:07:17,188
+Where are you goin'?
+
+83
+00:07:18,125 --> 00:07:19,515
+Who are you lookin' for?
+
+84
+00:07:25,127 --> 00:07:25,945
+No one.
+
+85
+00:07:29,741 --> 00:07:31,366
+Come on, you got to be kidding me.
+
+86
+00:07:31,671 --> 00:07:33,786
+Krista Manning went missing
+last night.
+
+87
+00:07:33,954 --> 00:07:35,195
+And you talked to her.
+
+88
+00:07:35,320 --> 00:07:37,660
+You two spent some time.
+I'd just like to hear about it.
+
+89
+00:07:38,298 --> 00:07:40,212
+I'd like to do that
+at the station, okay?
+
+90
+00:07:45,028 --> 00:07:46,338
+Six feet, brown hair.
+
+91
+00:07:46,841 --> 00:07:49,093
+Officer, I wasn't staying
+under the name Bishop.
+
+92
+00:07:49,712 --> 00:07:51,553
+I was registered
+under the name Stewart.
+
+93
+00:07:53,511 --> 00:07:56,308
+He says he was staying
+under the name Stewart.
+
+94
+00:07:56,751 --> 00:07:58,352
+Right, okay. Thanks, Tom.
+
+95
+00:07:59,165 --> 00:08:02,272
+Tom over at Drake's Bay confirms that he
+was passed out in the lobby all night.
+
+96
+00:08:03,894 --> 00:08:06,702
+Why did you check into the motel
+under an assumed name, sir?
+
+97
+00:08:06,910 --> 00:08:07,910
+<i>Sheriff?</i>
+
+98
+00:08:09,847 --> 00:08:12,616
+- This is Mathis. Go ahead.
+- <i>Dogs have found a body...</i>
+
+99
+00:08:12,784 --> 00:08:15,471
+<i>The spillway off route 219
+and mile marker 8.</i>
+
+100
+00:08:15,596 --> 00:08:17,371
+<i>White female, coroner's on his way.</i>
+
+101
+00:08:48,612 --> 00:08:49,662
+Oh, my god.
+
+102
+00:08:54,118 --> 00:08:56,160
+<i>Noyo search and rescue,
+what's your 20?</i>
+
+103
+00:08:56,328 --> 00:08:57,768
+<i>ETA about 45.</i>
+
+104
+00:08:57,893 --> 00:08:59,892
+<i>Confirm this is recovery,
+not rescue.</i>
+
+105
+00:09:00,017 --> 00:09:01,819
+<i>That's right, Wes.
+It's a bad one.</i>
+
+106
+00:09:01,944 --> 00:09:04,898
+<i>The coroner says the victim had
+some sort of operation done to her.</i>
+
+107
+00:09:05,087 --> 00:09:07,037
+<i>A piece of her skull cut out.
+Over.</i>
+
+108
+00:09:13,702 --> 00:09:16,218
+Sheriff, can you let me out
+of the back of this car?
+
+109
+00:09:16,343 --> 00:09:18,652
+Please, I'm sorry,
+But you're gonna have to be patient.
+
+110
+00:09:18,777 --> 00:09:20,893
+Hold on for one second.
+I was listening to your radio.
+
+111
+00:09:21,018 --> 00:09:23,187
+They said that she had
+a piece of her skull cut out.
+
+112
+00:09:23,782 --> 00:09:25,606
+Is she missing a part of her brain?
+
+113
+00:09:26,940 --> 00:09:28,817
+That that's a weird question,
+but you need
+
+114
+00:09:28,985 --> 00:09:31,695
+to ask the coroner whether she's missing
+a piece of her temporal lobe.
+
+115
+00:09:34,488 --> 00:09:35,488
+Please.
+
+116
+00:09:59,786 --> 00:10:01,767
+How the hell did you know that?
+
+117
+00:10:09,939 --> 00:10:11,172
+You're FBI?
+
+118
+00:10:11,875 --> 00:10:14,688
+What exactly is
+a civilian consultant?
+
+119
+00:10:15,356 --> 00:10:18,382
+Sometimes people
+with certain areas of expertise
+
+120
+00:10:18,507 --> 00:10:21,078
+can offer them to the bureau
+on a consulting basis.
+
+121
+00:10:21,361 --> 00:10:23,997
+My area of expertise is...
+
+122
+00:10:24,360 --> 00:10:25,165
+weird.
+
+123
+00:10:25,333 --> 00:10:27,376
+- You mean difficult to explain?
+- No, I mean
+
+124
+00:10:27,544 --> 00:10:29,531
+the strange, the inexplicable.
+
+125
+00:10:29,853 --> 00:10:31,063
+So...
+
+126
+00:10:32,136 --> 00:10:34,326
+Can you talk me through this again?
+
+127
+00:10:35,409 --> 00:10:37,221
+You knew that they took her...
+
+128
+00:10:37,346 --> 00:10:38,927
+- temporal lobe.
+- Temporal lobe
+
+129
+00:10:39,052 --> 00:10:41,419
+because it's like a case
+you worked on before?
+
+130
+00:10:41,544 --> 00:10:43,976
+Exactly. We were never able
+to catch those responsible.
+
+131
+00:10:44,337 --> 00:10:46,585
+So that's why you're out here.
+
+132
+00:10:46,710 --> 00:10:48,230
+You're tracking them down?
+
+133
+00:10:49,985 --> 00:10:50,731
+No.
+
+134
+00:10:52,787 --> 00:10:55,028
+But I think that they
+may be tracking me down.
+
+135
+00:10:55,530 --> 00:10:57,781
+- What'd they want with you?
+- I'm not sure yet.
+
+136
+00:10:58,058 --> 00:11:00,702
+But I thought I saw one of them earlier
+outside the crime scene.
+
+137
+00:11:00,827 --> 00:11:01,952
+His name is Newton.
+
+138
+00:11:02,256 --> 00:11:04,746
+And I think they called me
+at the drake's bay motel.
+
+139
+00:11:04,914 --> 00:11:07,094
+There was no voice on the
+other end of the line.
+
+140
+00:11:07,219 --> 00:11:10,877
+It was just static, and then
+a series of strange noises and clicks.
+
+141
+00:11:12,636 --> 00:11:14,673
+I think they killed
+Krista to find me.
+
+142
+00:11:15,546 --> 00:11:17,009
+By taking her brain?
+
+143
+00:11:18,693 --> 00:11:20,554
+I told her where I was staying.
+
+144
+00:11:20,722 --> 00:11:23,682
+- She's the only person who knew.
+- Why wouldn't they just...
+
+145
+00:11:24,042 --> 00:11:27,019
+ask her where you were staying?
+Or force her?
+
+146
+00:11:27,187 --> 00:11:28,839
+I mean, why cut out her brain?
+
+147
+00:11:28,964 --> 00:11:31,982
+It's possible that they needed details
+about me she didn't know she had.
+
+148
+00:11:32,852 --> 00:11:34,609
+I'm sorry. I'm not following.
+
+149
+00:11:34,777 --> 00:11:36,329
+I know that this is complicated.
+
+150
+00:11:36,454 --> 00:11:39,990
+And I'm sorry that I can't give you all
+the answers, but the case is classified.
+
+151
+00:11:43,190 --> 00:11:45,889
+It is possible, however,
+that I could show you
+
+152
+00:11:46,014 --> 00:11:46,913
+what I mean.
+
+153
+00:11:48,954 --> 00:11:50,292
+Just give me a minute.
+
+154
+00:11:51,029 --> 00:11:53,206
+I'm gonna go make
+a few calls, Peter.
+
+155
+00:11:53,769 --> 00:11:54,728
+Of course.
+
+156
+00:12:07,291 --> 00:12:09,603
+- Where are you?
+- <i>I'll save you the trace.</i>
+
+157
+00:12:10,020 --> 00:12:11,480
+I'm in Washington State.
+
+158
+00:12:12,112 --> 00:12:13,940
+<i>Look, I need a favor.</i>
+
+159
+00:12:14,108 --> 00:12:16,902
+You're about to get a call from
+the Noyo County Sheriff's Department.
+
+160
+00:12:17,281 --> 00:12:20,113
+- They're checking up on my credentials.
+- <i>Are you in trouble?</i>
+
+161
+00:12:20,801 --> 00:12:22,574
+In fact, just the opposite.
+
+162
+00:12:22,742 --> 00:12:25,745
+<i>I stumbled into an investigation,
+and I offered them my services.</i>
+
+163
+00:12:26,281 --> 00:12:28,356
+We'll ask them to extend
+you every courtesy.
+
+164
+00:12:28,481 --> 00:12:29,664
+<i>Thank you. Listen...</i>
+
+165
+00:12:31,168 --> 00:12:33,418
+I don't want you to tell Walter
+where I am.
+
+166
+00:12:33,900 --> 00:12:36,421
+<i>In fact, I don't even want you
+to tell him that we spoke.</i>
+
+167
+00:12:36,589 --> 00:12:38,673
+If you owe me anything,
+you owe me that.
+
+168
+00:12:40,567 --> 00:12:44,179
+But, Bishop... if you change your mind,
+I'll send someone to pick you up.
+
+169
+00:12:45,779 --> 00:12:46,515
+Thanks.
+
+170
+00:12:46,897 --> 00:12:49,393
+- <i>I got to go.</i>
+- Take care of yourself.
+
+171
+00:12:53,225 --> 00:12:55,646
+Krista seemed like a sweet girl.
+Did you know her?
+
+172
+00:12:55,771 --> 00:12:57,901
+She and my sister went to
+school together.
+
+173
+00:12:59,927 --> 00:13:01,655
+<i>So explain this to me.</i>
+
+174
+00:13:02,991 --> 00:13:04,965
+The temporal lobe is
+responsible for memory.
+
+175
+00:13:05,090 --> 00:13:08,036
+So think of the brain as the greatest
+recording device ever created.
+
+176
+00:13:08,204 --> 00:13:11,331
+Every sight, sound, smell,
+all recorded in perfect detail.
+
+177
+00:13:11,499 --> 00:13:15,210
+But imagine that there was a way
+to get that data out of the brain.
+
+178
+00:13:15,561 --> 00:13:17,379
+<i>So what I said, what I was wearing,</i>
+
+179
+00:13:17,547 --> 00:13:19,923
+What time it was,
+where I was staying...
+
+180
+00:13:21,035 --> 00:13:22,489
+<i>I know how it sounds.</i>
+
+181
+00:13:22,614 --> 00:13:25,804
+But believe me,
+if you can imagine it, it's possible.
+
+182
+00:13:27,680 --> 00:13:28,745
+If that's true,
+
+183
+00:13:28,870 --> 00:13:30,684
+if they were trying to find you,
+
+184
+00:13:30,809 --> 00:13:32,632
+why didn't they just come
+for you last night?
+
+185
+00:13:32,757 --> 00:13:33,843
+I don't know.
+
+186
+00:13:33,968 --> 00:13:36,064
+These are not your
+ordinary bad guys.
+
+187
+00:13:37,728 --> 00:13:39,399
+The tissue is very pink.
+
+188
+00:13:39,524 --> 00:13:40,932
+It's not normally like that.
+
+189
+00:13:41,057 --> 00:13:43,488
+It only happens when our
+bodies metabolize adrenaline.
+
+190
+00:13:43,656 --> 00:13:46,092
+Her adrenal's must have
+spiked right before she died.
+
+191
+00:13:48,932 --> 00:13:49,744
+My God.
+
+192
+00:13:57,271 --> 00:13:58,462
+"Find the crack"?
+
+193
+00:13:59,209 --> 00:14:01,295
+That is the worst police
+slogan I've ever heard.
+
+194
+00:14:01,420 --> 00:14:02,549
+It's not a slogan.
+
+195
+00:14:03,472 --> 00:14:04,801
+In the darkness,
+
+196
+00:14:04,969 --> 00:14:06,342
+there's always a crack.
+
+197
+00:14:08,282 --> 00:14:09,681
+It's how the light gets in.
+
+198
+00:14:11,617 --> 00:14:13,310
+Ferguson gave it to me...
+
+199
+00:14:13,817 --> 00:14:15,629
+on our first case together.
+
+200
+00:14:15,754 --> 00:14:17,887
+Nobody else thought
+I could hack it, but...
+
+201
+00:14:21,597 --> 00:14:23,038
+It's an inside joke.
+
+202
+00:14:24,197 --> 00:14:25,337
+It looks expensive.
+
+203
+00:14:25,462 --> 00:14:26,198
+Yeah.
+
+204
+00:14:26,831 --> 00:14:28,533
+That's what he keeps telling me.
+
+205
+00:14:37,814 --> 00:14:40,742
+If that's an accurate account
+of your statement, please sign it.
+
+206
+00:14:42,114 --> 00:14:43,393
+It is, very.
+
+207
+00:14:45,265 --> 00:14:47,389
+I'm gonna get a room
+at the Northwest Passage.
+
+208
+00:14:47,514 --> 00:14:49,353
+I'll be staying under the name of...
+
+209
+00:14:50,379 --> 00:14:51,405
+Gene Cowan.
+
+210
+00:14:51,766 --> 00:14:54,989
+- If you need me, that's where I'm at.
+- You don't want a police escort?
+
+211
+00:14:55,114 --> 00:14:56,371
+No, I'll be fine.
+
+212
+00:14:57,593 --> 00:15:01,200
+You say that there are people out there
+cutting people's brains out to find you,
+
+213
+00:15:01,325 --> 00:15:03,735
+- and you're smiling.
+- Look, they may have found me.
+
+214
+00:15:04,027 --> 00:15:06,990
+But now that I know they're here
+for sure, I found them too.
+
+215
+00:15:07,336 --> 00:15:08,907
+And now we're gonna catch 'em.
+
+216
+00:15:14,836 --> 00:15:15,580
+What?
+
+217
+00:15:17,261 --> 00:15:20,001
+- I don't know about this guy, Ann.
+- He knew his way around there.
+
+218
+00:15:20,558 --> 00:15:22,053
+He's like a medical examiner.
+
+219
+00:15:22,178 --> 00:15:24,532
+He knew the brain,
+biology, medications.
+
+220
+00:15:24,657 --> 00:15:26,049
+Doesn't mean he's legit.
+
+221
+00:15:26,217 --> 00:15:29,548
+You read your books about Ufos,
+Roswell, whacked-out theories,
+
+222
+00:15:29,673 --> 00:15:32,192
+government conspiracies,
+I think that you want to believe.
+
+223
+00:15:32,932 --> 00:15:34,432
+What makes you trust him?
+
+224
+00:15:34,913 --> 00:15:35,985
+I don't know.
+
+225
+00:15:37,297 --> 00:15:39,104
+I'm a good judge of character.
+
+226
+00:15:41,735 --> 00:15:43,525
+I'm the only one here who likes you.
+
+227
+00:15:53,474 --> 00:15:55,495
+Closed. What do you want?
+
+228
+00:15:57,373 --> 00:15:59,499
+If you open up,
+I'll make it worth your while.
+
+229
+00:16:24,731 --> 00:16:25,682
+Mathis?
+
+230
+00:16:35,959 --> 00:16:37,377
+What do you want from me?
+
+231
+00:16:37,872 --> 00:16:38,955
+It's Mathis.
+
+232
+00:16:40,044 --> 00:16:41,041
+Who did you tell?
+
+233
+00:16:41,209 --> 00:16:44,287
+- What are you talking about?
+- I just got one of those phone calls.
+
+234
+00:16:44,412 --> 00:16:45,713
+They know where I'm staying.
+
+235
+00:16:45,838 --> 00:16:47,839
+- <i>And I only told you.</i>
+- I didn't...
+
+236
+00:16:48,007 --> 00:16:49,174
+Ask your partner!
+
+237
+00:16:49,342 --> 00:16:51,189
+That's what I'm calling about.
+
+238
+00:16:52,312 --> 00:16:53,649
+Ferguson's...
+
+239
+00:16:54,191 --> 00:16:56,014
+Ferguson's disappeared.
+
+240
+00:17:02,705 --> 00:17:04,272
+The last time you spoke with him?
+
+241
+00:17:04,440 --> 00:17:05,940
+About two hours.
+
+242
+00:17:06,108 --> 00:17:08,487
+He went back to the scene
+where Kristawas found.
+
+243
+00:17:08,612 --> 00:17:10,111
+Felt we've missed something.
+
+244
+00:17:10,366 --> 00:17:13,823
+That means that he disappeared
+30 min before I got the last phone call.
+
+245
+00:17:15,737 --> 00:17:17,786
+You think they used him to find you,
+
+246
+00:17:18,038 --> 00:17:19,653
+like they used Krista.
+
+247
+00:17:21,599 --> 00:17:23,583
+What is it that makes you special?
+
+248
+00:17:24,317 --> 00:17:26,120
+Why haven't they taken you?
+
+249
+00:17:26,695 --> 00:17:27,765
+I don't know.
+
+250
+00:17:28,297 --> 00:17:30,250
+I don't even know what it all means,
+
+251
+00:17:30,375 --> 00:17:32,759
+but I do know that these
+people have the answers.
+
+252
+00:17:32,983 --> 00:17:34,594
+It's exactly why I must find them.
+
+253
+00:17:34,817 --> 00:17:36,763
+All right,
+call your friends at the FBI.
+
+254
+00:17:36,931 --> 00:17:38,472
+- Let's get these guys!
+- No.
+
+255
+00:17:39,016 --> 00:17:40,642
+The FBI has the expertise.
+
+256
+00:17:40,810 --> 00:17:42,797
+- They have the resources.
+- If we call them,
+
+257
+00:17:42,922 --> 00:17:44,354
+they're gonna descend here,
+
+258
+00:17:44,590 --> 00:17:46,467
+and these people will disappear.
+
+259
+00:17:46,885 --> 00:17:48,191
+I am this close.
+
+260
+00:17:48,429 --> 00:17:50,557
+And I am going to get my answers.
+
+261
+00:17:53,468 --> 00:17:56,741
+You said you got calls at Drake's Bay
+and Northwest Passage, right?
+
+262
+00:18:00,681 --> 00:18:04,249
+We pulled those phone records.
+Those calls never happened.
+
+263
+00:18:11,651 --> 00:18:13,895
+These people can pull
+memories out of brain tissue.
+
+264
+00:18:14,020 --> 00:18:16,059
+You think they can't make
+calls disappear?
+
+265
+00:18:16,184 --> 00:18:18,930
+I can do that. People have been doing
+that since the '70s.
+
+266
+00:18:22,763 --> 00:18:23,852
+I understand.
+
+267
+00:18:25,131 --> 00:18:26,804
+You don't want me to be right,
+
+268
+00:18:28,183 --> 00:18:31,484
+'cause if I'm right, that means
+your partner is most likely dead.
+
+269
+00:18:35,050 --> 00:18:36,973
+With the exception of who you are,
+
+270
+00:18:37,245 --> 00:18:40,410
+I haven't been able to verify
+anything you've said to me.
+
+271
+00:18:40,873 --> 00:18:42,537
+It's all either classified,
+
+272
+00:18:42,705 --> 00:18:44,987
+or it's incredible.
+I'm calling the bureau.
+
+273
+00:18:46,151 --> 00:18:48,071
+Your partner did disappear.
+
+274
+00:18:49,307 --> 00:18:50,969
+And I did talk to Krista.
+
+275
+00:18:51,852 --> 00:18:53,799
+And I did get those phone calls.
+
+276
+00:19:07,082 --> 00:19:08,605
+What if he's alive?
+
+277
+00:19:10,789 --> 00:19:14,265
+What if he's out somewhere, thinking
+I am doing everything in my power,
+
+278
+00:19:14,669 --> 00:19:17,671
+including calling the FBI,
+to save him?
+
+279
+00:19:17,796 --> 00:19:21,326
+Then that is all the more reason
+for us to find him ourselves.
+
+280
+00:19:21,534 --> 00:19:23,010
+If you make that phone call,
+
+281
+00:19:23,135 --> 00:19:24,513
+we never will.
+
+282
+00:19:43,014 --> 00:19:44,182
+Excuse me, please.
+
+283
+00:19:47,516 --> 00:19:48,603
+Thank you.
+
+284
+00:19:49,640 --> 00:19:50,947
+Toaster pastry.
+
+285
+00:19:52,624 --> 00:19:53,983
+"Corn starch,
+
+286
+00:19:54,947 --> 00:19:56,236
+"soy lecithin,
+
+287
+00:19:57,414 --> 00:19:59,105
+Potassium... Bromate."
+
+288
+00:20:03,036 --> 00:20:04,702
+Potassium bromate?
+
+289
+00:20:06,537 --> 00:20:08,998
+This supermarket
+is trying to kill us!
+
+290
+00:20:09,415 --> 00:20:12,377
+You... Potassium bromate,
+do you know what that is?
+
+291
+00:20:13,152 --> 00:20:15,129
+- Are you okay, sir?
+- It is known
+
+292
+00:20:15,297 --> 00:20:19,092
+to induce renal cell tumors...
+Mesotheliomas of the peritoneum!
+
+293
+00:20:19,494 --> 00:20:21,719
+- Can I call someone for you?
+- Call someone?
+
+294
+00:20:21,980 --> 00:20:24,389
+You know what you're putting
+into our bodies? Death!
+
+295
+00:20:24,557 --> 00:20:27,292
+Delicious,
+strawberry-flavored death!
+
+296
+00:20:27,417 --> 00:20:29,839
+- Okay, I'm calling security.
+- Yes!
+
+297
+00:20:53,983 --> 00:20:56,492
+They had no right to make me
+wait at the police station.
+
+298
+00:20:56,617 --> 00:20:57,896
+It's the makers of those
+
+299
+00:20:58,215 --> 00:21:00,495
+toaster pastries
+that should be in jail.
+
+300
+00:21:00,620 --> 00:21:01,885
+Let it go, Walter.
+
+301
+00:21:03,188 --> 00:21:05,270
+You're home now, and you're safe.
+
+302
+00:21:12,068 --> 00:21:14,297
+I wasn't expecting guests.
+
+303
+00:21:23,640 --> 00:21:25,659
+Why didn't you tell me
+you needed help?
+
+304
+00:21:26,280 --> 00:21:28,086
+What am I going to do...
+
+305
+00:21:28,354 --> 00:21:30,522
+Call you every time
+I run out of pudding pops?
+
+306
+00:21:31,207 --> 00:21:32,582
+- If you need them.
+- I need
+
+307
+00:21:32,750 --> 00:21:34,892
+to learn to care for myself.
+
+308
+00:21:36,551 --> 00:21:38,296
+If Peter doesn't come back...
+
+309
+00:21:44,381 --> 00:21:46,804
+They'll send me back to
+the hospital, won't they?
+
+310
+00:21:48,111 --> 00:21:49,891
+I won't let that happen.
+
+311
+00:21:53,397 --> 00:21:54,558
+Thank you.
+
+312
+00:21:56,664 --> 00:21:57,748
+I do...
+
+313
+00:21:58,501 --> 00:22:00,495
+I do need pudding pops.
+
+314
+00:22:05,225 --> 00:22:06,616
+We don't know if he made it,
+
+315
+00:22:06,807 --> 00:22:09,619
+but this is the last place
+he said he was going.
+
+316
+00:22:11,051 --> 00:22:13,654
+Isn't it protocol for him to call in
+once he gets here?
+
+317
+00:22:13,779 --> 00:22:16,422
+Well... Sometimes
+he doesn't do that.
+
+318
+00:22:18,620 --> 00:22:19,575
+Dummy.
+
+319
+00:23:13,259 --> 00:23:14,214
+Bishop?
+
+320
+00:23:24,794 --> 00:23:25,850
+Bishop!
+
+321
+00:23:52,909 --> 00:23:53,845
+Mathis.
+
+322
+00:23:54,090 --> 00:23:55,389
+What did you see?
+
+323
+00:23:55,514 --> 00:23:57,154
+I saw Newton and one other guy.
+
+324
+00:23:57,279 --> 00:23:59,905
+You didn't see them too?
+They came running right past you.
+
+325
+00:24:03,554 --> 00:24:04,567
+What's wrong?
+
+326
+00:24:07,467 --> 00:24:09,230
+What the hell are you doing?
+
+327
+00:24:09,355 --> 00:24:10,836
+Put down that gun.
+
+328
+00:24:11,631 --> 00:24:12,825
+Who are you?
+
+329
+00:24:12,993 --> 00:24:16,486
+Bishop... Lower... Your... Weapon.
+
+330
+00:24:17,060 --> 00:24:19,335
+In the morgue,
+you dropped something.
+
+331
+00:24:19,595 --> 00:24:20,833
+Who gave it to you?
+
+332
+00:24:22,007 --> 00:24:24,610
+- What is wrong with you?
+- Answer the question!
+
+333
+00:24:26,332 --> 00:24:27,190
+My pen?
+
+334
+00:24:28,260 --> 00:24:31,094
+It was a gift from Ferguson,
+my partner.
+
+335
+00:24:39,514 --> 00:24:41,354
+Why is there blood on your jacket?
+
+336
+00:24:41,648 --> 00:24:43,159
+There is blood on my jacket
+
+337
+00:24:43,284 --> 00:24:45,494
+because there is blood on my wrist,
+
+338
+00:24:45,619 --> 00:24:47,401
+which I got when I fell, running.
+
+339
+00:24:53,388 --> 00:24:54,472
+Show me.
+
+340
+00:25:06,539 --> 00:25:07,554
+I'm sorry.
+
+341
+00:25:08,799 --> 00:25:11,040
+I needed to know
+that your blood was still red.
+
+342
+00:25:11,978 --> 00:25:13,991
+What other color would it be?
+
+343
+00:25:16,247 --> 00:25:18,644
+So these shape-shifters, they...
+
+344
+00:25:19,980 --> 00:25:22,413
+make themselves look
+like other people?
+
+345
+00:25:23,772 --> 00:25:26,524
+It's a technology
+unlike anything you've seen before.
+
+346
+00:25:33,155 --> 00:25:34,866
+I want to level with you.
+
+347
+00:25:36,049 --> 00:25:36,917
+I...
+
+348
+00:25:38,965 --> 00:25:40,872
+believe in the unknown.
+
+349
+00:25:41,582 --> 00:25:43,474
+Yeah. "Find the crack".
+I get it.
+
+350
+00:25:43,599 --> 00:25:44,949
+No, I mean...
+
+351
+00:25:45,773 --> 00:25:47,811
+I read books about...
+
+352
+00:25:48,369 --> 00:25:51,999
+Ufos and conspiracy theories.
+But I do think...
+
+353
+00:25:54,407 --> 00:25:57,326
+I mean, I am wondering right now...
+
+354
+00:25:58,310 --> 00:26:00,808
+if you are not completely
+off your rocker.
+
+355
+00:26:00,976 --> 00:26:02,899
+- They were there.
+- I didn't see them...
+
+356
+00:26:03,024 --> 00:26:04,260
+or the dart they shot.
+
+357
+00:26:04,385 --> 00:26:06,430
+I know you didn't,
+because they removed it.
+
+358
+00:26:06,555 --> 00:26:08,029
+I know how this must look...
+
+359
+00:26:08,154 --> 00:26:11,095
+from your point of view...
+I mean, I was there once too. But...
+
+360
+00:26:12,775 --> 00:26:13,990
+You just did it.
+
+361
+00:26:15,166 --> 00:26:17,658
+- Did what?
+- You just questioned your own sanity.
+
+362
+00:26:19,408 --> 00:26:21,996
+- I'm not questioning...
+- When was the last time you slept?
+
+363
+00:26:22,121 --> 00:26:23,581
+I'm not hallucinating.
+
+364
+00:26:24,176 --> 00:26:27,460
+And I'm not paranoid.
+And I'm not questioning my own sanity.
+
+365
+00:26:28,322 --> 00:26:30,618
+I was wondering why you
+would listen to me.
+
+366
+00:26:33,122 --> 00:26:34,390
+You're desperate.
+
+367
+00:26:37,989 --> 00:26:40,460
+Ferguson is more than just
+your partner, isn't he?
+
+368
+00:26:46,014 --> 00:26:48,220
+So there is something
+between the two of you.
+
+369
+00:26:50,867 --> 00:26:53,350
+You said back at the
+precinct that...
+
+370
+00:26:54,623 --> 00:26:57,615
+that I was trying to rationalize
+that he was still alive.
+
+371
+00:26:59,493 --> 00:27:01,077
+You may be right.
+
+372
+00:27:01,245 --> 00:27:03,878
+I may be doing it right now.
+He may be dead.
+
+373
+00:27:06,630 --> 00:27:09,377
+But I won't believe
+it until I see his body.
+
+374
+00:27:13,792 --> 00:27:14,844
+I can't.
+
+375
+00:27:20,675 --> 00:27:21,681
+Mathis.
+
+376
+00:27:38,449 --> 00:27:39,740
+You want me to go look?
+
+377
+00:27:58,246 --> 00:28:01,841
+Sheriff. The victim's a white female.
+She has part of her skull missing.
+
+378
+00:28:10,729 --> 00:28:12,732
+I don't recognize this girl.
+
+379
+00:28:12,900 --> 00:28:16,110
+- You never seen her before?
+- No, I've never seen her before.
+
+380
+00:28:16,682 --> 00:28:17,815
+Who is she?
+
+381
+00:28:19,489 --> 00:28:22,198
+I talked to Gwynn right
+before her shift ended.
+
+382
+00:28:22,323 --> 00:28:26,037
+We'd talked about her coming over
+last night to help me color my hair.
+
+383
+00:28:27,548 --> 00:28:29,498
+I figured she just got tired.
+
+384
+00:28:30,812 --> 00:28:32,168
+I should have called her.
+
+385
+00:28:33,070 --> 00:28:34,650
+You couldn't have known.
+
+386
+00:28:35,567 --> 00:28:36,611
+I'm sorry.
+
+387
+00:28:37,189 --> 00:28:39,651
+Did your sister ever hang
+out at the hilltop cafe?
+
+388
+00:28:41,135 --> 00:28:42,143
+I don't think so.
+
+389
+00:28:42,268 --> 00:28:45,059
+What about the Mosser brothers
+gas station out on route 202?
+
+390
+00:28:45,184 --> 00:28:46,959
+I filled up there
+on the way into town.
+
+391
+00:28:47,084 --> 00:28:49,829
+Her pickup's a diesel, and
+I don't think Mosser's carries diesel.
+
+392
+00:28:49,954 --> 00:28:52,778
+Fine, what about the drake's bay motel?
+Would she ever go there for any reason?
+
+393
+00:28:52,903 --> 00:28:54,982
+- What's this about?
+- It's just...
+
+394
+00:28:55,150 --> 00:28:57,213
+Part of our investigation.
+
+395
+00:28:58,142 --> 00:29:00,738
+If you could just write down
+your address for us.
+
+396
+00:29:05,815 --> 00:29:07,423
+She is grieving,
+
+397
+00:29:08,058 --> 00:29:10,021
+and you are not getting anywhere.
+
+398
+00:29:28,406 --> 00:29:30,658
+The hadron super collider
+is less complicated
+
+399
+00:29:30,783 --> 00:29:32,326
+than that infernal dishwater.
+
+400
+00:29:32,451 --> 00:29:34,385
+Next time, don't use
+laundry detergent,
+
+401
+00:29:34,510 --> 00:29:37,040
+- and the dishwasher will work fine.
+- Thank you, Astrid.
+
+402
+00:29:37,165 --> 00:29:38,665
+You're a federal agent.
+
+403
+00:29:38,846 --> 00:29:41,667
+I doubt, during
+your years of training,
+
+404
+00:29:41,792 --> 00:29:44,902
+that you had dreams of babysitting
+a helpless old man.
+
+405
+00:29:46,496 --> 00:29:47,743
+You are not that helpless.
+
+406
+00:29:48,400 --> 00:29:50,454
+A little disorganized, maybe.
+
+407
+00:29:51,310 --> 00:29:53,802
+Don't you usually keep
+this in the bathtub?
+
+408
+00:29:59,890 --> 00:30:02,174
+I took this little car
+from the zelazney building.
+
+409
+00:30:02,777 --> 00:30:05,208
+Objects from the other
+universe like this
+
+410
+00:30:05,333 --> 00:30:09,144
+emit a glimmer,
+a distinctive energy signature.
+
+411
+00:30:09,269 --> 00:30:12,309
+It may be possible
+to detect that signature.
+
+412
+00:30:12,477 --> 00:30:13,244
+So?
+
+413
+00:30:13,369 --> 00:30:16,017
+So I need you to gather
+all the objects from the other side
+
+414
+00:30:16,142 --> 00:30:18,099
+that we recovered
+from the Zelazney building
+
+415
+00:30:18,224 --> 00:30:20,137
+and from Jacksonville
+and bring them to the lab.
+
+416
+00:30:20,262 --> 00:30:22,148
+- Okay, why?
+- To build a device to read
+
+417
+00:30:22,273 --> 00:30:23,637
+that energy signature!
+
+418
+00:30:23,762 --> 00:30:26,171
+Peter emits the same energy,
+don't you see?
+
+419
+00:30:26,296 --> 00:30:28,161
+This is how we will find Peter.
+
+420
+00:30:33,226 --> 00:30:34,915
+I must have seen Gwynn somewhere,
+
+421
+00:30:35,083 --> 00:30:37,452
+or she had to have seen me.
+I mean...
+
+422
+00:30:38,073 --> 00:30:39,879
+She has to have had
+some value to them,
+
+423
+00:30:40,047 --> 00:30:41,650
+some knowledge that they needed.
+
+424
+00:30:41,775 --> 00:30:43,619
+We'll go to your motel
+and get your things,
+
+425
+00:30:43,744 --> 00:30:46,076
+get you something to eat, and...
+
+426
+00:30:46,201 --> 00:30:48,367
+You can stay at my house tonight.
+
+427
+00:30:49,151 --> 00:30:50,888
+It's okay. I'll be fine.
+
+428
+00:30:51,664 --> 00:30:54,664
+You're my only connection
+to finding Bill right now.
+
+429
+00:30:54,789 --> 00:30:56,297
+I want you safe.
+
+430
+00:30:59,421 --> 00:31:01,277
+What color was Gwynn's truck?
+
+431
+00:31:02,008 --> 00:31:03,027
+Tan brown.
+
+432
+00:31:20,976 --> 00:31:22,796
+Driver's side window is rolled down.
+
+433
+00:31:28,428 --> 00:31:30,444
+Glove compartment's open.
+
+434
+00:31:32,313 --> 00:31:34,426
+Okay, so this girl
+pulls over her truck,
+
+435
+00:31:34,551 --> 00:31:37,646
+rolls down the window,
+and then opens up the glove box.
+
+436
+00:31:37,771 --> 00:31:41,115
+- You tell me... why would she do that?
+- She got pulled over by a cop.
+
+437
+00:31:41,240 --> 00:31:43,531
+Or someone pretending
+to be a cop... or Bill.
+
+438
+00:31:43,793 --> 00:31:46,133
+- Pretending to be Bill?
+- These shape-shifters,
+
+439
+00:31:46,258 --> 00:31:48,886
+they take on the appearance
+of people in positions of authority.
+
+440
+00:31:52,873 --> 00:31:55,519
+- Where you going?
+- I'm calling the FBI.
+
+441
+00:31:55,770 --> 00:31:56,789
+Why?
+
+442
+00:31:57,821 --> 00:32:01,798
+First, you said they
+cut out his brain to find you.
+
+443
+00:32:01,923 --> 00:32:04,505
+Now you're telling me he may
+have been shape-shifted?
+
+444
+00:32:04,673 --> 00:32:06,006
+Which is it, Peter?
+
+445
+00:32:06,174 --> 00:32:08,842
+Did I make a mistake
+not calling the FBI?
+
+446
+00:32:13,590 --> 00:32:15,834
+I am very scared right now.
+
+447
+00:32:25,315 --> 00:32:27,468
+Wait, wai... wait.
+Just hold on for one second.
+
+448
+00:32:27,593 --> 00:32:30,143
+Those people, when they were taken,
+they must have been afraid, right?
+
+449
+00:32:30,268 --> 00:32:32,462
+And when they were killed,
+they must have been terrified.
+
+450
+00:32:32,587 --> 00:32:35,374
+- So?
+- So I know how to find them.
+
+451
+00:32:41,377 --> 00:32:43,535
+Do you know how airplanes
+have blackboxes?
+
+452
+00:32:43,660 --> 00:32:45,377
+To record flight data, sure.
+
+453
+00:32:45,502 --> 00:32:48,313
+Yeah, well, human bodies
+collect data as well.
+
+454
+00:32:48,438 --> 00:32:51,957
+Both Krista and Gwynn's muscle tissue
+was flooded with adrenaline.
+
+455
+00:32:52,082 --> 00:32:53,387
+Yeah, I remember.
+
+456
+00:32:53,668 --> 00:32:56,599
+Well, the tissue would've
+partially metabolized the adrenaline.
+
+457
+00:32:56,767 --> 00:32:59,115
+So we should be able to measure
+the rate of absorption,
+
+458
+00:32:59,240 --> 00:33:01,895
+which will tell us
+when the adrenaline was first produced.
+
+459
+00:33:02,224 --> 00:33:03,397
+What about Newton?
+
+460
+00:33:03,565 --> 00:33:05,774
+- How does that help us find him?
+- Look...
+
+461
+00:33:06,622 --> 00:33:10,029
+Normally,
+your adrenaline levels are flat.
+
+462
+00:33:10,937 --> 00:33:13,056
+Then you experience fear.
+
+463
+00:33:13,181 --> 00:33:14,903
+A spike in adrenaline.
+
+464
+00:33:15,028 --> 00:33:17,472
+Sometime later,
+you experience more fear,
+
+465
+00:33:17,597 --> 00:33:19,884
+say, in the moments right
+before you were killed...
+
+466
+00:33:20,009 --> 00:33:21,707
+another spike, two points of fear.
+
+467
+00:33:22,620 --> 00:33:25,669
+We already know where the girls were
+abducted. So if we can just determine
+
+468
+00:33:25,837 --> 00:33:28,213
+how much time took place
+between these two intervals...
+
+469
+00:33:28,381 --> 00:33:30,705
+Then we can figure out
+where they were killed.
+
+470
+00:33:30,830 --> 00:33:32,030
+Exactly right.
+
+471
+00:33:32,938 --> 00:33:36,347
+There is one more thing.
+We're gonna need a control sample.
+
+472
+00:33:37,707 --> 00:33:39,475
+Can you stick that
+in the centrifuge?
+
+473
+00:33:41,239 --> 00:33:43,389
+It's that thing right over there.
+
+474
+00:33:47,603 --> 00:33:48,817
+I'm sorry! I'm sorry.
+
+475
+00:33:49,448 --> 00:33:50,819
+I just needed to scare you.
+
+476
+00:34:01,479 --> 00:34:03,832
+I'm gonna need to take
+a tissue sample from you.
+
+477
+00:34:07,608 --> 00:34:09,213
+How is Dr. Bishop doing?
+
+478
+00:34:09,782 --> 00:34:12,758
+Walter's trying to adjust
+to a very difficult situation.
+
+479
+00:34:14,216 --> 00:34:16,762
+He's concerned about
+being sent back to St. Claire's.
+
+480
+00:34:21,260 --> 00:34:23,811
+Will he be able to function
+if Peter doesn't come back?
+
+481
+00:34:25,429 --> 00:34:27,679
+I'm sure that Peter will come back.
+
+482
+00:34:34,998 --> 00:34:36,573
+Do you know something?
+
+483
+00:34:41,484 --> 00:34:43,134
+Have you spoken to him?
+
+484
+00:34:44,165 --> 00:34:46,684
+Krista Manning's adrenaline
+spikes were 42 minutes apart. So,
+
+485
+00:34:46,809 --> 00:34:49,664
+assuming that Newton drove
+the speed limit, 60 miles an hour...
+
+486
+00:34:49,789 --> 00:34:53,132
+On these roads, that'd be a good way to
+get killed. He would have stuck to 45.
+
+487
+00:34:54,159 --> 00:34:55,359
+All right, 45.
+
+488
+00:34:57,470 --> 00:34:59,722
+Okay, the center point
+is where Krista was taken.
+
+489
+00:35:03,170 --> 00:35:04,643
+At 45 miles per hour,
+
+490
+00:35:04,811 --> 00:35:07,604
+The farthest they could have gone
+would be 31 1/2 miles.
+
+491
+00:35:07,772 --> 00:35:09,622
+Gwynn, our second victim...
+
+492
+00:35:11,549 --> 00:35:14,653
+was taken much farther out of town,
+almost on the other side of the county.
+
+493
+00:35:14,821 --> 00:35:16,947
+Her adrenaline spikes
+are 57 minutes apart.
+
+494
+00:35:18,143 --> 00:35:20,543
+Again,
+factoring 45 miles per hour...
+
+495
+00:35:23,113 --> 00:35:24,113
+That's it.
+
+496
+00:35:24,831 --> 00:35:26,123
+That's our kill zone.
+
+497
+00:35:26,559 --> 00:35:29,543
+You're assuming he killed them both
+in the same place.
+
+498
+00:35:29,711 --> 00:35:32,759
+They were using complex equipment.
+It's not easy to move an operating room.
+
+499
+00:35:32,884 --> 00:35:35,581
+Much simpler to just bring the victims
+to a specified location...
+
+500
+00:35:35,706 --> 00:35:37,146
+Someplace out of the way.
+
+501
+00:35:37,271 --> 00:35:38,921
+Like an old dairy farm?
+
+502
+00:35:57,098 --> 00:35:59,748
+Just ask him something
+only he would know.
+
+503
+00:36:01,765 --> 00:36:02,826
+Hello, there.
+
+504
+00:36:02,994 --> 00:36:04,603
+It's Craig, right?
+
+505
+00:36:05,488 --> 00:36:07,662
+I don't know if you remember, but,
+
+506
+00:36:07,787 --> 00:36:10,667
+I think you were in choir
+with my sister up at St. Andrew's.
+
+507
+00:36:11,276 --> 00:36:13,209
+Actually, I was at Good Shepherd.
+
+508
+00:36:13,334 --> 00:36:15,798
+- Good memory, though.
+- Good Shepherd, that's right.
+
+509
+00:36:16,216 --> 00:36:19,426
+- So what can I do for you?
+- Your old dairy farm up the hill.
+
+510
+00:36:19,977 --> 00:36:22,027
+Could there be people up there?
+
+511
+00:36:23,498 --> 00:36:25,748
+- People?
+- Yeah, you get up there often?
+
+512
+00:36:26,160 --> 00:36:27,726
+Not much, since we shut it down.
+
+513
+00:36:28,686 --> 00:36:29,686
+Why?
+
+514
+00:36:31,856 --> 00:36:34,297
+We got 12 outbuildings...
+The milking parlors,
+
+515
+00:36:34,422 --> 00:36:37,653
+- the barn, and the holding stalls.
+- Those are all good places to hide.
+
+516
+00:36:37,821 --> 00:36:39,921
+That's a lot of ground to cover.
+
+517
+00:36:40,888 --> 00:36:43,638
+I'll go call backup
+to help with the search.
+
+518
+00:36:55,005 --> 00:36:58,131
+- Need any help with the search?
+- I think it's best if you stay here.
+
+519
+00:36:59,601 --> 00:37:01,802
+- Let me get you the keys.
+- Sure.
+
+520
+00:37:33,190 --> 00:37:34,793
+Who are you? Where's Newton?
+
+521
+00:37:36,687 --> 00:37:37,787
+Peter, stop!
+
+522
+00:37:42,761 --> 00:37:44,061
+I couldn't stop.
+
+523
+00:37:44,446 --> 00:37:46,513
+The girls...
+I wanted to be close to them.
+
+524
+00:37:47,522 --> 00:37:48,807
+I just couldn't stop.
+
+525
+00:37:49,095 --> 00:37:50,195
+Where is he?
+
+526
+00:37:50,630 --> 00:37:51,935
+Where's Ferguson?
+
+527
+00:37:52,285 --> 00:37:54,021
+What did you do to him?
+
+528
+00:38:28,778 --> 00:38:30,878
+He's still breathing. Thank God.
+
+529
+00:38:32,068 --> 00:38:34,445
+It's just ink.
+There's no incision here.
+
+530
+00:38:34,570 --> 00:38:36,620
+I'm gonna go call an ambulance.
+
+531
+00:38:37,503 --> 00:38:39,733
+Stay with me, baby.
+I'm here.
+
+532
+00:38:40,328 --> 00:38:41,478
+I'm here now.
+
+533
+00:38:41,716 --> 00:38:42,966
+I'm here, Bill.
+
+534
+00:38:56,596 --> 00:38:59,294
+- I don't know what to say.
+- You saved Bill's life,
+
+535
+00:38:59,462 --> 00:39:02,005
+and you tracked a killer.
+What else is there to say?
+
+536
+00:39:08,603 --> 00:39:11,390
+I wish there was something
+I could do for you.
+
+537
+00:39:14,590 --> 00:39:16,764
+Whatever your experiences are,
+
+538
+00:39:17,500 --> 00:39:20,897
+whatever you
+can't or won't tell me about...
+
+539
+00:39:22,134 --> 00:39:25,284
+I think you're looking
+for meaning in things that...
+
+540
+00:39:25,538 --> 00:39:26,838
+have no meaning.
+
+541
+00:39:33,783 --> 00:39:35,783
+I don't know who I am anymore.
+
+542
+00:39:42,350 --> 00:39:44,050
+When I was in college...
+
+543
+00:39:45,153 --> 00:39:47,456
+My family was killed, murdered.
+
+544
+00:39:50,895 --> 00:39:51,895
+I'm sorry.
+
+545
+00:39:54,528 --> 00:39:56,328
+Sometimes I still think...
+
+546
+00:39:57,103 --> 00:39:59,503
+one day I might catch
+whoever did it.
+
+547
+00:40:03,103 --> 00:40:05,003
+I was alone for a long time.
+
+548
+00:40:07,283 --> 00:40:08,833
+But I found my place.
+
+549
+00:40:11,459 --> 00:40:12,609
+You will too.
+
+550
+00:40:38,958 --> 00:40:41,813
+Once we isolate the glimmer,
+we can find Peter.
+
+551
+00:40:41,981 --> 00:40:44,731
+Is the spectrograph ready,
+Agent Farnsworth?
+
+552
+00:40:53,743 --> 00:40:57,412
+- Walter, you put in the wrong numbers.
+- No, no, I believe they're correct.
+
+553
+00:41:00,778 --> 00:41:02,078
+No, they're not.
+
+554
+00:41:04,654 --> 00:41:06,630
+But, then, you know
+that already, don't you?
+
+555
+00:41:08,201 --> 00:41:10,451
+I thought you wanted to find Peter.
+
+556
+00:41:11,012 --> 00:41:13,312
+What if he won't forgive me, Astrid?
+
+557
+00:41:14,437 --> 00:41:16,187
+All I have now is hope...
+
+558
+00:41:16,312 --> 00:41:19,142
+Hope that he will come to understand
+why I did the things I did.
+
+559
+00:41:19,310 --> 00:41:22,017
+What if I find him,
+and he won't forgive me?
+
+560
+00:41:22,142 --> 00:41:23,642
+What do I have then?
+
+561
+00:41:29,151 --> 00:41:30,351
+I found Peter.
+
+562
+00:41:31,072 --> 00:41:33,088
+- Where?
+- He's in Washington state.
+
+563
+00:41:33,213 --> 00:41:35,021
+I'm heading to the airport now.
+
+564
+00:41:35,146 --> 00:41:36,952
+Would you like
+to come with me, Walter?
+
+565
+00:41:44,565 --> 00:41:46,265
+I'll need to pack a bag.
+
+566
+00:42:47,394 --> 00:42:48,594
+Mr. Secretary.
+
+567
+00:43:04,772 --> 00:43:05,822
+Hello, son.
+

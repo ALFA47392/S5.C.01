@@ -1,0 +1,3176 @@
+1
+00:00:09,800 --> 00:00:12,300
+- What the hell was that thing?
+- It just appeared out of nowhere.
+
+2
+00:00:12,420 --> 00:00:14,632
+And that shriek?
+Scared the crap out of me.
+
+3
+00:00:14,752 --> 00:00:16,561
+Some kind of a flying monkey?
+
+4
+00:00:16,681 --> 00:00:18,479
+A flying monkey?
+What is this, planet of Oz?
+
+5
+00:00:18,640 --> 00:00:21,330
+To me, it appeared to be leaping
+rather than flying.
+
+6
+00:00:21,450 --> 00:00:23,901
+- That was one hell of a leap.
+- I said it looked like a monkey.
+
+7
+00:00:24,021 --> 00:00:26,197
+- You know, hair, arms, legs...
+- And a beak.
+
+8
+00:00:26,317 --> 00:00:28,989
+- Didn't have a beak.
+- What? Here, I uploaded it.
+
+9
+00:00:30,307 --> 00:00:32,076
+Oh. You know,
+that really clears things up.
+
+10
+00:00:32,196 --> 00:00:34,052
+What do you expect?
+It was trying to kill me.
+
+11
+00:00:34,172 --> 00:00:36,757
+- What the hell is that thing?
+- Let's send biologists down there,
+
+12
+00:00:36,877 --> 00:00:38,159
+let them figure it out.
+
+13
+00:00:38,279 --> 00:00:40,239
+Might be a good place
+for an alpha site.
+
+14
+00:00:40,359 --> 00:00:43,238
+The planet did seem suitable.
+Good climate, abundant food and water.
+
+15
+00:00:43,358 --> 00:00:46,091
+- Excellent choice for an offworld base.
+- Aside from the flying monkeys.
+
+16
+00:00:46,652 --> 00:00:49,094
+All right, we're coming
+into range, Rodney.
+
+17
+00:00:57,012 --> 00:00:59,729
+Serious power spike.
+That's strange.
+
+18
+00:01:00,222 --> 00:01:01,795
+- What's wrong?
+- I don't know.
+
+19
+00:01:01,915 --> 00:01:03,927
+These readings are all screwy.
+
+20
+00:01:04,047 --> 00:01:06,778
+I just lost steering.
+The drive pods won't retract.
+
+21
+00:01:07,071 --> 00:01:10,161
+- Do something.
+- I could if I knew the problem.
+
+22
+00:01:10,281 --> 00:01:13,173
+- Just hang on, hang on.
+- But if those pods don't retract...
+
+23
+00:01:13,293 --> 00:01:15,870
+- I know, I know, just give me a second!
+- We don't have a second!
+
+24
+00:01:17,363 --> 00:01:18,363
+What the hell?
+
+25
+00:01:20,743 --> 00:01:23,044
+- We just lost power.
+- All right, you'd better hold on.
+
+26
+00:01:40,639 --> 00:01:43,874
+The Projet-SG & SG-66 Teams
+
+27
+00:01:48,199 --> 00:01:51,629
+present:
+
+28
+00:01:54,361 --> 00:01:56,326
+Season 5 Episode 05
+Ghost in the Machine (v. 1.00)
+
+29
+00:02:05,558 --> 00:02:08,403
+Timing by:
+
+30
+00:02:13,511 --> 00:02:16,453
+Golgi, Linwelin and Pikes.
+
+31
+00:02:32,691 --> 00:02:35,034
+www.projet-sg.net
+www.seriestele.net
+
+32
+00:02:48,184 --> 00:02:49,189
+Okay, good.
+
+33
+00:02:49,309 --> 00:02:51,128
+Good! I was wrong,
+we still have power.
+
+34
+00:02:51,248 --> 00:02:53,373
+It's just not getting
+to any of the primary systems.
+
+35
+00:02:53,493 --> 00:02:55,204
+Or the secondary systems, either.
+
+36
+00:02:55,324 --> 00:02:57,531
+- Why not?
+- It's some kind of interference.
+
+37
+00:02:57,651 --> 00:02:59,473
+I'm getting spikes
+all over the place.
+
+38
+00:02:59,633 --> 00:03:02,602
+It's completely haywire. Thank God
+the inertial dampeners weren't affected.
+
+39
+00:03:02,993 --> 00:03:04,228
+Well, not yet.
+
+40
+00:03:05,241 --> 00:03:06,939
+Jeez!
+What the hell is that?
+
+41
+00:03:07,287 --> 00:03:09,900
+Displacement current.
+High voltage! Do not let it hit you.
+
+42
+00:03:10,112 --> 00:03:12,242
+Perhaps it's something
+we picked up on the planet.
+
+43
+00:03:12,362 --> 00:03:14,680
+That is doubtful, okay?
+There was nothing technological...
+
+44
+00:03:14,800 --> 00:03:17,865
+Ancient or other, on that planet.
+It was totally primordial.
+
+45
+00:03:17,985 --> 00:03:20,321
+I didn't detect anything unusual
+in the planet's magnetosphere.
+
+46
+00:03:20,441 --> 00:03:23,616
+Look, it's got to be some kind of glitch
+in the Jumper's capacitors.
+
+47
+00:03:23,736 --> 00:03:25,708
+Just give me a second,
+I'll figure out how to...
+
+48
+00:03:26,666 --> 00:03:27,506
+Oh, no.
+
+49
+00:03:28,047 --> 00:03:28,866
+What?
+
+50
+00:03:29,681 --> 00:03:32,686
+Hitting the Gate decreased our speed,
+which means we're in decaying orbit.
+
+51
+00:03:32,806 --> 00:03:35,401
+If we don't get power back,
+we're gonna burn up in the atmosphere.
+
+52
+00:03:35,521 --> 00:03:38,220
+So try to get the DHD working.
+We can dial the Gate, radio for help.
+
+53
+00:03:38,555 --> 00:03:41,432
+I tried, but the radio communications
+are affected as well.
+
+54
+00:03:43,787 --> 00:03:45,310
+The drive pods are powering up.
+
+55
+00:03:45,430 --> 00:03:48,564
+Only one, and it wasn't anything I did.
+I mean, it just came back on-line.
+
+56
+00:03:48,684 --> 00:03:50,535
+- By itself.
+- It doesn't make any difference.
+
+57
+00:03:50,655 --> 00:03:52,902
+Keep working on the DHD.
+I'll try to get us back in range.
+
+58
+00:04:01,269 --> 00:04:03,870
+- I got bad news and I got good news.
+- What is it?
+
+59
+00:04:03,990 --> 00:04:07,570
+No chance of getting the DHD working.
+The system is completely out of whack.
+
+60
+00:04:07,690 --> 00:04:10,286
+It'll take some incredibly intricate
+rerouting of the power to...
+
+61
+00:04:10,406 --> 00:04:12,004
+What's the good news?
+
+62
+00:04:12,488 --> 00:04:15,683
+That was the good news.
+The bad news is, we lost life support.
+
+63
+00:04:15,803 --> 00:04:16,803
+So no air?
+
+64
+00:04:17,368 --> 00:04:20,247
+- Right. That's why it's bad.
+- All right, we're back in range.
+
+65
+00:04:20,367 --> 00:04:23,852
+Just keep working on the DHD.
+This may be our last shot.
+
+66
+00:04:25,974 --> 00:04:28,436
+- What just happened?
+- I don't know, but we're back online.
+
+67
+00:04:28,556 --> 00:04:29,556
+DHD?
+
+68
+00:04:29,753 --> 00:04:32,358
+Everything. We got propulsion,
+life support, you name it.
+
+69
+00:04:37,439 --> 00:04:38,823
+Atlantis, this is Sheppard.
+
+70
+00:04:39,299 --> 00:04:41,158
+Comin' in for approach,
+but our systems are a little whacked.
+
+71
+00:04:41,482 --> 00:04:44,370
+If we're not there in about 10 seconds,
+send a Jumper for us.
+
+72
+00:04:44,531 --> 00:04:47,131
+- <i>Copy that, Colonel.</i>
+- Brace yourselves again.
+
+73
+00:05:04,740 --> 00:05:06,613
+Any of the other Jumpers
+reporting trouble?
+
+74
+00:05:06,733 --> 00:05:08,752
+No. Probably an isolated incident,
+
+75
+00:05:08,872 --> 00:05:10,954
+but McKay and Zelenka
+are checking into it.
+
+76
+00:05:11,074 --> 00:05:14,049
+We should probably ground the Jumpers
+till we know what the problem is.
+
+77
+00:05:14,169 --> 00:05:15,931
+All right.
+But the planet,
+
+78
+00:05:16,051 --> 00:05:17,928
+- suitable for an alpha site?
+- Yeah. Perfect.
+
+79
+00:05:18,048 --> 00:05:21,180
+Well, except for the monkey-like
+creature flying around...
+
+80
+00:05:21,300 --> 00:05:23,387
+- But I think we can handle that.
+- Monkey?
+
+81
+00:05:23,507 --> 00:05:26,405
+Yeah, McKay's got some photos.
+He'll show 'em to you.
+
+82
+00:05:27,609 --> 00:05:29,123
+Did you say "flying"?
+
+83
+00:05:31,802 --> 00:05:34,055
+So, how's it going, boys?
+Get it fixed?
+
+84
+00:05:34,175 --> 00:05:35,448
+There's nothing to fix.
+
+85
+00:05:35,568 --> 00:05:37,568
+We ran tests.
+The Jumper's in perfect condition.
+
+86
+00:05:37,688 --> 00:05:39,810
+- How come the systems were all screwy?
+- You got me.
+
+87
+00:05:39,930 --> 00:05:42,183
+We could recreate
+any of the so-called anomalies.
+
+88
+00:05:42,303 --> 00:05:43,925
+Hey, Sammy Skeptic, he saw it, too!
+
+89
+00:05:44,045 --> 00:05:46,326
+As did Ronon and Teyla.
+All of our primary systems went down.
+
+90
+00:05:46,446 --> 00:05:48,633
+- That's okay, I believe you.
+- I don't think you do.
+
+91
+00:05:48,753 --> 00:05:50,570
+It's just that I think
+that maybe the problem
+
+92
+00:05:50,690 --> 00:05:52,708
+might've been caused by something
+you unwittingly...
+
+93
+00:05:52,828 --> 00:05:54,496
+I didn't do anything!
+Wittingly or un.
+
+94
+00:05:54,616 --> 00:05:56,936
+Okay, okay, there's nothing wrong
+with the Jumper?
+
+95
+00:05:57,056 --> 00:06:00,495
+- Well, not anymore. Okay, enough.
+- I don't think there ever was anything.
+
+96
+00:06:32,089 --> 00:06:33,350
+Aw, please.
+
+97
+00:06:35,574 --> 00:06:37,415
+Control room?
+This is Richard Woolsey.
+
+98
+00:06:37,535 --> 00:06:40,400
+I took a wrong turn
+in a transporter and ended up...
+
+99
+00:06:40,985 --> 00:06:42,838
+I have no idea where I am.
+
+100
+00:06:43,143 --> 00:06:44,846
+But now the transporter door
+won't open.
+
+101
+00:06:44,966 --> 00:06:47,629
+Can you locate me
+and open it, please?
+
+102
+00:06:50,343 --> 00:06:51,227
+Hello?
+
+103
+00:06:56,475 --> 00:06:57,253
+Rodney?
+
+104
+00:06:57,867 --> 00:06:58,924
+<i>Go ahead.</i>
+
+105
+00:06:59,044 --> 00:07:01,757
+You messing around with the power again?
+The lights are flickering.
+
+106
+00:07:01,986 --> 00:07:04,760
+Yeah, I'm getting reports
+from all over the place.
+
+107
+00:07:05,214 --> 00:07:05,914
+Hello?
+
+108
+00:07:10,751 --> 00:07:12,324
+- Have you noticed the...
+- Yes.
+
+109
+00:07:12,444 --> 00:07:14,189
+- Well, do you have any...
+- Not yet.
+
+110
+00:07:14,309 --> 00:07:17,644
+- Is it localized?
+- No. Got disruptions all over the City.
+
+111
+00:07:17,764 --> 00:07:19,753
+- ZPM?
+- Still online, plenty of power.
+
+112
+00:07:19,873 --> 00:07:22,903
+It's just suddenly become...
+unstable.
+
+113
+00:07:23,846 --> 00:07:26,167
+Sounds not unlike what you said
+happened in the Puddle Jumper.
+
+114
+00:07:26,287 --> 00:07:28,290
+Yes. Remarkably not unlike it.
+
+115
+00:07:29,113 --> 00:07:30,856
+Perhaps the anomaly spread
+to the systems?
+
+116
+00:07:30,976 --> 00:07:33,621
+I disabled the network connection
+between the Jumper and Atlantis
+
+117
+00:07:33,741 --> 00:07:35,416
+before we even came
+through the Gate.
+
+118
+00:07:38,474 --> 00:07:39,524
+Well, so...
+
+119
+00:07:40,465 --> 00:07:41,861
+Coincidence, then?
+
+120
+00:07:45,238 --> 00:07:47,927
+- Hey! I tried to radio you...
+- Communications are down.
+
+121
+00:07:48,089 --> 00:07:50,228
+- Obviously. What's up?
+- We're working on it.
+
+122
+00:07:50,348 --> 00:07:52,784
+I just almost got zapped
+by a bolt of lightning.
+
+123
+00:07:52,904 --> 00:07:55,191
+- Displacement current? Here?
+- Right there, in the corridor.
+
+124
+00:07:55,311 --> 00:07:58,105
+- Like the one we had in the Jumper.
+- So... not a coincidence.
+
+125
+00:07:58,266 --> 00:08:00,291
+- We just lost power to the Stargate!
+- What?
+
+126
+00:08:00,411 --> 00:08:03,644
+Well, maybe, like,
+a virus uploaded itself, or something.
+
+127
+00:08:03,764 --> 00:08:06,111
+No, I disabled the Jumper's network
+connection for this reason.
+
+128
+00:08:06,231 --> 00:08:09,200
+There's no way the anomaly jumped
+to the City's systems.
+
+129
+00:08:15,659 --> 00:08:17,329
+You'd better figure it out...
+
+130
+00:08:17,449 --> 00:08:19,627
+Because whatever was in that Jumper
+is now in this City.
+
+131
+00:08:27,515 --> 00:08:30,205
+- Where've you been?
+- On the other side of the City.
+
+132
+00:08:30,325 --> 00:08:32,831
+Transporter malfunctioned
+and sent me to the east pier.
+
+133
+00:08:32,951 --> 00:08:34,420
+I had to walk all the way back.
+
+134
+00:08:34,540 --> 00:08:36,560
+We've got power disruptions
+all over the City.
+
+135
+00:08:36,680 --> 00:08:38,499
+Nearly every system is affected.
+
+136
+00:08:38,619 --> 00:08:41,065
+We think whatever was wrong
+with the Jumper has infected Atlantis.
+
+137
+00:08:41,225 --> 00:08:43,317
+It's one of several possibilities
+we're looking into.
+
+138
+00:08:43,546 --> 00:08:45,819
+- Several?
+- It's a possibility.
+
+139
+00:08:45,979 --> 00:08:48,489
+All right? The point is,
+we have no idea what's going on here.
+
+140
+00:08:48,649 --> 00:08:51,367
+- I was hit by a bolt of lightning.
+- Yeah. Join the club.
+
+141
+00:08:51,527 --> 00:08:53,649
+The energy builds up in one area
+and then discharges,
+
+142
+00:08:53,769 --> 00:08:56,054
+in a high-voltage displacement current.
+
+143
+00:08:56,174 --> 00:08:57,748
+Very erratic, very lethal.
+
+144
+00:08:58,021 --> 00:09:00,959
+- I tried to radio you.
+- Yeah, communications are also down.
+
+145
+00:09:01,079 --> 00:09:02,211
+So is the Stargate.
+
+146
+00:09:03,493 --> 00:09:06,532
+- We can't dial Earth?
+- Don't worry. All right?
+
+147
+00:09:06,652 --> 00:09:10,343
+I will figure it out. I just got to run
+a few diagnostics, narrow down...
+
+148
+00:09:16,385 --> 00:09:18,130
+Well, that can't be good.
+
+149
+00:09:23,641 --> 00:09:25,192
+Okay. Okay. We...
+
+150
+00:09:26,303 --> 00:09:28,633
+We need to organize some teams,
+fan out through the City,
+
+151
+00:09:28,753 --> 00:09:31,657
+keep everyone calm
+until we figure out exactly what the...
+
+152
+00:09:35,964 --> 00:09:39,301
+- The laptop just booted up.
+- It's probably just the battery.
+
+153
+00:09:39,421 --> 00:09:41,082
+No, it's drawing power
+from the system.
+
+154
+00:09:41,934 --> 00:09:44,286
+So everything's out
+except your computer?
+
+155
+00:09:44,406 --> 00:09:46,672
+I am as confused as you are.
+
+156
+00:09:52,926 --> 00:09:55,889
+- What is that?
+- Looks like some kind of a code.
+
+157
+00:09:56,631 --> 00:09:57,331
+Maybe.
+
+158
+00:09:57,849 --> 00:09:59,314
+Could be a message.
+
+159
+00:10:06,960 --> 00:10:07,693
+"Help?"
+
+160
+00:10:28,366 --> 00:10:29,321
+Dr. Weir?
+
+161
+00:10:31,232 --> 00:10:32,490
+But she's dead.
+
+162
+00:10:33,380 --> 00:10:34,840
+So we've been told.
+
+163
+00:10:38,890 --> 00:10:39,974
+Perhaps...
+
+164
+00:10:40,736 --> 00:10:42,334
+you should answer her.
+
+165
+00:10:44,629 --> 00:10:45,428
+Right.
+
+166
+00:10:54,539 --> 00:10:57,076
+In the computer?
+How can she be in the computer?
+
+167
+00:11:48,954 --> 00:11:50,354
+All right. Rodney?
+
+168
+00:11:51,567 --> 00:11:52,871
+Rodney, come in.
+
+169
+00:11:54,790 --> 00:11:56,213
+Rodney? Can you hear me?
+
+170
+00:11:56,333 --> 00:11:58,711
+- <i>Go ahead.</i>
+- I've completed the patch.
+
+171
+00:11:58,831 --> 00:12:00,598
+Go ahead and try it.
+Whenever you're ready.
+
+172
+00:12:00,833 --> 00:12:02,541
+Okay... Fingers crossed.
+
+173
+00:12:02,899 --> 00:12:05,645
+- What are you doing?
+- Well, whatever this entity is,
+
+174
+00:12:05,765 --> 00:12:08,023
+it's completely overwhelming
+the City's systems.
+
+175
+00:12:08,143 --> 00:12:09,663
+It's spread out,
+
+176
+00:12:09,783 --> 00:12:12,990
+like dozens of fragmented programs
+
+177
+00:12:13,271 --> 00:12:16,095
+that are fouling up power management,
+communications, you name it.
+
+178
+00:12:16,215 --> 00:12:17,903
+Now, I've managed to merge them,
+
+179
+00:12:18,023 --> 00:12:21,187
+to patch them together
+into one incredibly large program
+
+180
+00:12:21,307 --> 00:12:24,715
+that will a) hopefully render
+our systems slightly more stable,
+
+181
+00:12:24,835 --> 00:12:27,029
+and b) allow us to better
+communicate with whoever
+
+182
+00:12:27,149 --> 00:12:29,960
+or whatever it is
+that's claiming to be Dr. Weir.
+
+183
+00:12:30,715 --> 00:12:33,339
+Isn't merging all these programs
+potentially dangerous?
+
+184
+00:12:33,700 --> 00:12:35,172
+Yeah! But it's no more dangerous
+
+185
+00:12:35,292 --> 00:12:37,538
+than allowing it to continue
+wreaking havoc on the systems.
+
+186
+00:12:37,658 --> 00:12:39,493
+Or getting zapped
+by bolts of lightning.
+
+187
+00:12:39,613 --> 00:12:44,809
+Okay, so, let's see if I can synthesize
+a voice to communicate with Elizabeth.
+
+188
+00:12:44,929 --> 00:12:48,812
+If I make the proper calibrations,
+she should be able to hear us too.
+
+189
+00:12:50,752 --> 00:12:51,607
+Now...
+
+190
+00:12:57,153 --> 00:13:00,241
+Is it just me, or does "Elizabeth"
+sound a little different?
+
+191
+00:13:00,614 --> 00:13:02,130
+I'm on it, I'm on it.
+
+192
+00:13:02,680 --> 00:13:05,751
+Let's see if we can do that.
+
+193
+00:13:09,678 --> 00:13:11,303
+Are you Elizabeth Weir?
+
+194
+00:13:11,423 --> 00:13:12,628
+Yes, Rodney.
+
+195
+00:13:12,788 --> 00:13:14,421
+- It's me.
+- It's the best I can do.
+
+196
+00:13:16,033 --> 00:13:17,732
+I'm sorry to cause all this trouble.
+
+197
+00:13:17,852 --> 00:13:20,534
+Who's there with you?
+Is John Sheppard there?
+
+198
+00:13:22,726 --> 00:13:25,599
+- Hi.
+- It's so good to hear your voice again.
+
+199
+00:13:26,595 --> 00:13:27,438
+We...
+
+200
+00:13:28,799 --> 00:13:30,351
+thought you were...
+
+201
+00:13:31,030 --> 00:13:31,772
+dead.
+
+202
+00:13:32,115 --> 00:13:33,831
+I suppose I am. My...
+
+203
+00:13:33,951 --> 00:13:35,704
+my physical body, anyway,
+
+204
+00:13:36,201 --> 00:13:38,185
+but my consciousness is still intact.
+
+205
+00:13:38,305 --> 00:13:40,739
+Right. So, what happened?
+
+206
+00:13:40,899 --> 00:13:43,784
+Do you remember the day
+I ordered you to leave me behind?
+
+207
+00:13:45,835 --> 00:13:46,537
+Go!
+
+208
+00:13:51,565 --> 00:13:53,530
+Yeah... Yeah, I remember.
+
+209
+00:13:53,650 --> 00:13:55,963
+Well, after that,
+the Replicators took me to a lab.
+
+210
+00:13:56,415 --> 00:13:59,968
+The nanites in my body were unleashed
+and allowed to replicate.
+
+211
+00:14:00,175 --> 00:14:03,070
+I joined the population,
+but even in my new form,
+
+212
+00:14:03,190 --> 00:14:05,818
+my original consciousness
+was still there.
+
+213
+00:14:05,988 --> 00:14:07,277
+I was still me.
+
+214
+00:14:07,688 --> 00:14:11,187
+I tried to hide it,
+but a few of the others could sense it.
+
+215
+00:14:12,299 --> 00:14:14,648
+They were remnants of Niam's old group.
+
+216
+00:14:15,755 --> 00:14:18,119
+I believe you encountered
+some of their handiwork.
+
+217
+00:14:18,239 --> 00:14:21,405
+Replicator-built human versions
+of me and your team.
+
+218
+00:14:23,133 --> 00:14:25,180
+You heard about that, did you?
+
+219
+00:14:25,300 --> 00:14:27,189
+Only after they were killed.
+
+220
+00:14:28,962 --> 00:14:32,158
+Now, the other you, the human... one,
+
+221
+00:14:32,608 --> 00:14:34,448
+she thought you'd been destroyed.
+
+222
+00:14:34,568 --> 00:14:36,795
+That's what the leaders of our group
+wanted her to believe.
+
+223
+00:14:37,429 --> 00:14:40,466
+They kept us apart deliberately,
+for security reasons.
+
+224
+00:14:40,830 --> 00:14:43,367
+This is all very interesting, I'm sure.
+
+225
+00:14:43,607 --> 00:14:45,927
+But none of it explains
+how you've come to be
+
+226
+00:14:46,047 --> 00:14:48,932
+a disembodied voice
+in our computer system.
+
+227
+00:14:49,628 --> 00:14:51,518
+Is that... Richard Woolsey?
+
+228
+00:14:52,672 --> 00:14:53,672
+Yes.
+
+229
+00:14:54,491 --> 00:14:56,589
+It is. I'm the...
+
+230
+00:14:57,481 --> 00:14:59,276
+- the new...
+- The new you.
+
+231
+00:14:59,648 --> 00:15:00,672
+I see.
+
+232
+00:15:02,827 --> 00:15:05,529
+So what happened?
+How did you...
+
+233
+00:15:07,064 --> 00:15:08,161
+end up...
+
+234
+00:15:08,943 --> 00:15:09,971
+in there?
+
+235
+00:15:11,206 --> 00:15:12,674
+We were on the run.
+
+236
+00:15:12,880 --> 00:15:16,744
+Oberoth and the others were hunting us
+for our heretical beliefs.
+
+237
+00:15:17,046 --> 00:15:20,967
+It was only a matter of time
+before we'd be captured and destroyed,
+
+238
+00:15:21,214 --> 00:15:23,601
+unless something
+miraculous happened.
+
+239
+00:15:23,902 --> 00:15:25,342
+And something did.
+
+240
+00:15:30,054 --> 00:15:33,106
+Our intel was correct...
+The planet has been destroyed.
+
+241
+00:15:33,257 --> 00:15:35,646
+Can you detect
+any trace of Replicator cells?
+
+242
+00:15:36,046 --> 00:15:38,853
+Negative.
+They've been completely wiped out.
+
+243
+00:15:39,736 --> 00:15:40,736
+Good...
+
+244
+00:15:41,637 --> 00:15:45,560
+We can finally get to work without
+having to look over our shoulders.
+
+245
+00:15:47,206 --> 00:15:48,790
+It's time to begin...
+
+246
+00:15:52,267 --> 00:15:54,533
+That wasn't a miracle,
+that was us.
+
+247
+00:15:54,653 --> 00:15:56,633
+We destroyed the Replicator homeworld.
+
+248
+00:15:57,341 --> 00:15:58,502
+I know.
+
+249
+00:15:58,662 --> 00:16:00,765
+And we owe you a debt of gratitude,
+
+250
+00:16:00,885 --> 00:16:03,215
+because it allowed us
+to pursue our goal in peace.
+
+251
+00:16:04,251 --> 00:16:06,719
+- You mean ascension?
+- Exactly, Teyla.
+
+252
+00:16:07,762 --> 00:16:10,684
+We found a suitable planet
+and began our work.
+
+253
+00:16:11,300 --> 00:16:13,238
+I did what I could to help them.
+
+254
+00:16:13,358 --> 00:16:15,852
+I tried to lead them in meditation,
+to teach them how to
+
+255
+00:16:15,972 --> 00:16:17,695
+"release their burden,"
+
+256
+00:16:18,244 --> 00:16:19,835
+but it was difficult.
+
+257
+00:16:21,799 --> 00:16:24,820
+You ran into a small hiccup
+with the fact that you're all machines?
+
+258
+00:16:25,344 --> 00:16:26,345
+Yes.
+
+259
+00:16:26,773 --> 00:16:29,736
+Well, as much as I'd like to say,
+we didn't see that coming...
+
+260
+00:16:29,856 --> 00:16:31,899
+we, you know, did.
+
+261
+00:16:32,475 --> 00:16:34,304
+One of our group, Koracen,
+
+262
+00:16:34,424 --> 00:16:36,465
+argued that it was a mistake
+to try and run away
+
+263
+00:16:36,585 --> 00:16:38,383
+from our technological origin,
+
+264
+00:16:38,503 --> 00:16:41,628
+that we should embrace it
+and find a technological solution.
+
+265
+00:16:42,482 --> 00:16:44,721
+We know that a Replicator mind
+can be digitized
+
+266
+00:16:44,841 --> 00:16:47,461
+and transferred
+from one body to another.
+
+267
+00:16:47,872 --> 00:16:51,864
+But I've discovered a way
+that will allow us to exist indefinitely
+
+268
+00:16:52,647 --> 00:16:54,210
+as fields of energy...
+
+269
+00:16:54,402 --> 00:16:57,173
+Effectively uploading ourselves
+into subspace,
+
+270
+00:16:57,529 --> 00:16:59,813
+where we'll be free to move
+about the galaxy
+
+271
+00:16:59,957 --> 00:17:01,922
+unencumbered by physical existence.
+
+272
+00:17:02,042 --> 00:17:03,710
+What would happen
+to our bodies?
+
+273
+00:17:04,195 --> 00:17:06,722
+The nanite bonds holding them together
+will be severed.
+
+274
+00:17:06,842 --> 00:17:08,811
+- You mean they'll be destroyed?
+- Yes,
+
+275
+00:17:08,931 --> 00:17:10,452
+but we'll no longer need them.
+
+276
+00:17:10,572 --> 00:17:13,621
+- Koracen, if this doesn't work...
+- It will work.
+
+277
+00:17:14,978 --> 00:17:16,862
+You told us that ascension is achieved
+
+278
+00:17:16,982 --> 00:17:20,299
+when the physical body
+is transformed into pure energy.
+
+279
+00:17:21,149 --> 00:17:22,973
+I can make that happen for us.
+
+280
+00:17:23,481 --> 00:17:26,117
+Once in subspace,
+nothing can prevent us
+
+281
+00:17:26,237 --> 00:17:29,323
+from continuing on
+to the next plane of existence.
+
+282
+00:17:30,749 --> 00:17:31,901
+Are you ready?
+
+283
+00:17:45,734 --> 00:17:46,749
+It's done.
+
+284
+00:17:49,982 --> 00:17:51,481
+Machine ascension?
+
+285
+00:17:52,551 --> 00:17:54,142
+Except it didn't work.
+
+286
+00:17:54,526 --> 00:17:56,245
+There was no next step,
+
+287
+00:17:56,500 --> 00:17:59,623
+no "ascension"
+in any meaningful sense of the word.
+
+288
+00:18:00,076 --> 00:18:02,251
+We've been stuck in subspace
+ever since.
+
+289
+00:18:03,188 --> 00:18:04,409
+What is it like?
+
+290
+00:18:05,561 --> 00:18:08,729
+Constant motion.
+And deafening noise.
+
+291
+00:18:09,302 --> 00:18:12,102
+It's like the worst migraine
+you could possibly imagine.
+
+292
+00:18:12,378 --> 00:18:14,572
+I don't know,
+I've had some pretty horrendous ones.
+
+293
+00:18:14,692 --> 00:18:16,139
+We started searching the galaxy,
+
+294
+00:18:16,533 --> 00:18:19,685
+looking for a way to regain
+any kind of physical form.
+
+295
+00:18:20,030 --> 00:18:22,771
+We came across a few other
+technologically advanced societies...
+
+296
+00:18:23,427 --> 00:18:25,078
+Really? In this galaxy?
+
+297
+00:18:25,407 --> 00:18:27,865
+You'd be surprised
+how many more are out there,
+
+298
+00:18:27,985 --> 00:18:30,333
+keeping themselves hidden
+from the Wraith.
+
+299
+00:18:30,453 --> 00:18:33,907
+We occupied various computer systems,
+even Wraith tech for a short while.
+
+300
+00:18:34,938 --> 00:18:36,504
+Wraith tech? Really?
+
+301
+00:18:36,624 --> 00:18:38,787
+It was extremely unpleasant.
+
+302
+00:18:39,339 --> 00:18:40,988
+In fact, no matter where we looked,
+
+303
+00:18:41,108 --> 00:18:43,873
+we couldn't find any technology
+that would allow us to exist
+
+304
+00:18:43,993 --> 00:18:47,432
+as anything even remotely like
+what we were before.
+
+305
+00:18:48,117 --> 00:18:49,979
+Which is why you came here.
+
+306
+00:18:50,099 --> 00:18:52,183
+You knew that Atlantis's computers
+were big enough
+
+307
+00:18:52,303 --> 00:18:54,450
+and powerful enough
+to house your entire program.
+
+308
+00:18:54,570 --> 00:18:57,180
+The others were growing
+increasingly frustrated, and bitter.
+
+309
+00:18:57,622 --> 00:19:00,225
+I broke away from them
+and started looking for you on my own.
+
+310
+00:19:01,037 --> 00:19:02,765
+I searched the galaxy for months,
+
+311
+00:19:02,930 --> 00:19:05,758
+and then I detected your Puddle Jumper
+and connected with it.
+
+312
+00:19:05,878 --> 00:19:08,073
+Nearly killing us in the process.
+
+313
+00:19:08,305 --> 00:19:09,610
+I'm sorry for that.
+
+314
+00:19:10,303 --> 00:19:11,820
+My current condition
+
+315
+00:19:11,980 --> 00:19:14,281
+is extremely volatile,
+difficult to control.
+
+316
+00:19:14,807 --> 00:19:18,512
+Especially during the initial moments,
+trying to interface with new tech.
+
+317
+00:19:18,632 --> 00:19:20,988
+But I didn't know where else to turn.
+
+318
+00:19:21,243 --> 00:19:22,915
+You're the only friends I have.
+
+319
+00:19:30,648 --> 00:19:33,296
+If you ask me, it's a trick.
+Someone just pretending to be Dr. Weir.
+
+320
+00:19:33,416 --> 00:19:35,032
+But what if it is her?
+
+321
+00:19:35,254 --> 00:19:37,306
+We still have the machine
+I used to build Fran.
+
+322
+00:19:37,426 --> 00:19:39,683
+- I could build another Replicator to...
+- No.
+
+323
+00:19:39,803 --> 00:19:41,714
+I'd put in failsafes, a kill switch.
+
+324
+00:19:41,834 --> 00:19:44,387
+What I'm saying is that
+with all the advancements I made...
+
+325
+00:19:44,507 --> 00:19:47,846
+With all due respect to them,
+one thing remains constant...
+
+326
+00:19:47,966 --> 00:19:50,692
+Replicators are far too powerful
+to even think about trusting them.
+
+327
+00:19:51,750 --> 00:19:55,113
+They were the scourge of two galaxies.
+It was difficult to get rid of them.
+
+328
+00:19:55,329 --> 00:19:57,608
+- What should we do with her?
+- She can't stay there.
+
+329
+00:19:57,728 --> 00:19:59,118
+She's frying the computers.
+
+330
+00:19:59,994 --> 00:20:02,838
+Maybe we can upload her... or it...
+
+331
+00:20:03,378 --> 00:20:06,792
+or whatever this thing is,
+into a virtual reality, like with Ava?
+
+332
+00:20:07,220 --> 00:20:10,408
+Could work, but it wouldn't be easy,
+especially if she doesn't wanna go.
+
+333
+00:20:10,641 --> 00:20:12,411
+We'll... talk to her.
+
+334
+00:20:13,261 --> 00:20:16,638
+Rodney, we just detected anomalous
+energy levels in the south pier lab.
+
+335
+00:20:16,758 --> 00:20:19,471
+- The Replicator machine.
+- She's building herself a body.
+
+336
+00:20:19,904 --> 00:20:22,107
+- She must've found it in the database.
+- Shut down power.
+
+337
+00:20:22,227 --> 00:20:25,310
+I've also tried to radio down there,
+but communications are still offline.
+
+338
+00:20:29,547 --> 00:20:30,869
+What's going on?
+
+339
+00:20:31,193 --> 00:20:32,275
+Door slammed shut.
+
+340
+00:20:32,395 --> 00:20:34,097
+- Can't get it open.
+- Okay, move!
+
+341
+00:20:34,217 --> 00:20:37,011
+Go get some back-up, some heavy arms,
+and cover every corridor outta here.
+
+342
+00:20:37,131 --> 00:20:38,961
+Get some C-4.
+We'll have to blast this door.
+
+343
+00:20:39,081 --> 00:20:40,741
+No, this panel is toast.
+
+344
+00:20:42,414 --> 00:20:44,454
+Is there another door we can access?
+
+345
+00:20:48,997 --> 00:20:50,012
+Hello.
+
+346
+00:20:57,031 --> 00:20:59,623
+Listen to me... I'm Elizabeth Weir.
+
+347
+00:20:59,871 --> 00:21:02,305
+She was in a hurry,
+she used the previous Replicator
+
+348
+00:21:02,425 --> 00:21:05,089
+that was already in the machine,
+which was Fran.
+
+349
+00:21:05,209 --> 00:21:07,345
+John, I'm not a threat to you.
+
+350
+00:21:07,815 --> 00:21:11,690
+I'd say building a Replicator body
+is a pretty big threat.
+
+351
+00:21:11,850 --> 00:21:13,817
+Elizabeth Weir
+would never do such a thing.
+
+352
+00:21:13,977 --> 00:21:16,313
+Okay... The machine
+
+353
+00:21:16,433 --> 00:21:17,735
+is deactivated.
+
+354
+00:21:17,855 --> 00:21:20,695
+Removed the control crystal,
+no one will build more Replicators.
+
+355
+00:21:20,815 --> 00:21:24,535
+Believe me, I was just as concerned
+about doing this as you.
+
+356
+00:21:24,783 --> 00:21:28,749
+But the adjustments Rodney's made
+to this technology eliminate any danger.
+
+357
+00:21:29,120 --> 00:21:30,550
+I can't replicate.
+
+358
+00:21:30,670 --> 00:21:32,739
+And since my consciousness
+is controlling this body,
+
+359
+00:21:32,859 --> 00:21:34,379
+- I truly...
+- Your consciousness?
+
+360
+00:21:34,741 --> 00:21:38,092
+No offense, but I'm not completely sold
+on your being who you say you are.
+
+361
+00:21:38,773 --> 00:21:40,344
+That makes two of us.
+
+362
+00:21:41,370 --> 00:21:45,275
+I understand your skepticism,
+but I am Elizabeth Weir.
+
+363
+00:21:46,139 --> 00:21:48,004
+I wish I could prove it to you.
+
+364
+00:21:48,124 --> 00:21:49,311
+That'll be difficult.
+
+365
+00:21:49,635 --> 00:21:52,981
+Any personal information or memories
+could have easily been mined
+
+366
+00:21:53,141 --> 00:21:55,565
+from Dr. Weir's consciousness
+when the Replicators captured her.
+
+367
+00:21:55,685 --> 00:21:56,811
+I know.
+
+368
+00:21:57,278 --> 00:21:59,530
+At least let me start
+by offering something of value.
+
+369
+00:21:59,884 --> 00:22:01,036
+Let's hear it.
+
+370
+00:22:01,817 --> 00:22:05,119
+The technical specs of the systems
+we've inhabited...
+
+371
+00:22:06,184 --> 00:22:07,830
+Including Wraith tech...
+
+372
+00:22:09,499 --> 00:22:12,061
+I've already uploaded them
+to your computer.
+
+373
+00:22:12,623 --> 00:22:14,845
+Really?
+Well, that's... great.
+
+374
+00:22:15,078 --> 00:22:17,587
+All I ask is that you give me a chance
+to earn your trust.
+
+375
+00:22:19,749 --> 00:22:22,924
+I would never, ever,
+do anything to harm any of you,
+
+376
+00:22:23,044 --> 00:22:24,113
+or Atlantis.
+
+377
+00:22:35,187 --> 00:22:37,877
+The good news is that
+now she's into the Replicator's body,
+
+378
+00:22:37,997 --> 00:22:40,386
+she's not screwing up
+Atlantis' computers.
+
+379
+00:22:40,506 --> 00:22:43,875
+The power's stable, the Gate's working,
+and communications are back online.
+
+380
+00:22:43,995 --> 00:22:45,712
+You're sure she can't replicate?
+
+381
+00:22:45,832 --> 00:22:48,006
+Positive.
+I mean, she instituted every safeguard.
+
+382
+00:22:48,126 --> 00:22:49,956
+If we move her to a secure location,
+
+383
+00:22:50,076 --> 00:22:51,809
+- then I think...
+- Wait a minute!
+
+384
+00:22:51,929 --> 00:22:54,751
+You're not suggesting I entertain
+the notion of keeping her here?
+
+385
+00:22:55,358 --> 00:22:58,521
+If we keep her under constant guard,
+it'll minimize any threat she poses,
+
+386
+00:22:58,641 --> 00:23:00,316
+if she even poses a threat.
+
+387
+00:23:00,436 --> 00:23:03,049
+And it'll give us
+more time to study her.
+
+388
+00:23:04,753 --> 00:23:07,623
+That thing in there is a Replicator.
+
+389
+00:23:07,743 --> 00:23:09,773
+There are far too many ways
+this can go wrong,
+
+390
+00:23:09,893 --> 00:23:11,696
+even if she's kept under constant guard.
+
+391
+00:23:11,816 --> 00:23:15,138
+Everyone doubted the first Fran I built,
+and she turned out to be perfectly safe
+
+392
+00:23:15,258 --> 00:23:17,724
+- and perfectly reliable.
+- That's right, you built Fran.
+
+393
+00:23:17,844 --> 00:23:19,567
+You created her consciousness.
+
+394
+00:23:19,687 --> 00:23:22,850
+Now, as much as you wanna believe
+that this new Fran is indeed Dr. Weir,
+
+395
+00:23:22,970 --> 00:23:24,965
+we cannot be certain of that.
+
+396
+00:23:25,085 --> 00:23:27,201
+For all we know,
+it could be Oberoth inside that body.
+
+397
+00:23:27,563 --> 00:23:28,803
+That's creepy.
+
+398
+00:23:29,704 --> 00:23:31,391
+What if it is Dr. Weir?
+
+399
+00:23:32,227 --> 00:23:35,250
+Look, this is my fault. I'm the one who
+reactivated the nanites in Elizabeth.
+
+400
+00:23:35,793 --> 00:23:37,603
+True, to save her, but...
+
+401
+00:23:38,380 --> 00:23:40,574
+I'm the one who created this mess.
+
+402
+00:23:40,752 --> 00:23:44,009
+I think I should be the one to,
+you know, fix it.
+
+403
+00:23:46,673 --> 00:23:48,305
+I owe it to Elizabeth.
+
+404
+00:23:51,295 --> 00:23:52,440
+I'm sorry...
+
+405
+00:23:53,230 --> 00:23:54,971
+But it's too dangerous.
+
+406
+00:23:56,644 --> 00:23:58,718
+I say we stick with our original plan...
+
+407
+00:23:58,838 --> 00:24:01,226
+Upload her consciousnes
+into a virtual reality.
+
+408
+00:24:01,346 --> 00:24:03,111
+Let her prove herself there,
+
+409
+00:24:03,776 --> 00:24:05,764
+where she can't do any damage.
+
+410
+00:24:15,297 --> 00:24:16,565
+A child?
+
+411
+00:24:21,633 --> 00:24:23,237
+I'm so happy for you.
+
+412
+00:24:26,913 --> 00:24:28,178
+Is it a boy, or...
+
+413
+00:24:28,879 --> 00:24:29,879
+Boy.
+
+414
+00:24:30,752 --> 00:24:31,848
+What's his name?
+
+415
+00:24:33,894 --> 00:24:36,019
+Torren John Emmagan.
+
+416
+00:24:36,993 --> 00:24:38,886
+Torren, for your father.
+
+417
+00:24:39,940 --> 00:24:42,317
+And John... Colonel Sheppard?
+
+418
+00:24:42,753 --> 00:24:43,753
+Yes.
+
+419
+00:24:45,631 --> 00:24:48,130
+Wait, you're not saying
+John Sheppard is...
+
+420
+00:24:48,250 --> 00:24:49,316
+No...
+
+421
+00:24:51,405 --> 00:24:53,118
+The father is Athosian.
+
+422
+00:24:53,572 --> 00:24:55,247
+Let me guess: Kanaan?
+
+423
+00:24:56,318 --> 00:24:57,624
+Yes. How did you...
+
+424
+00:24:59,057 --> 00:25:01,786
+Every time you spoke of him,
+this "friend",
+
+425
+00:25:02,280 --> 00:25:04,844
+there was always a sparkle
+in your eyes.
+
+426
+00:25:07,326 --> 00:25:10,024
+So, is the baby here
+with you in Atlantis?
+
+427
+00:25:12,003 --> 00:25:12,963
+No.
+
+428
+00:25:13,690 --> 00:25:15,199
+He is with his father.
+
+429
+00:25:15,319 --> 00:25:16,518
+Off-world.
+
+430
+00:25:21,317 --> 00:25:23,632
+- Sorry to interrupt.
+- No, it's all right.
+
+431
+00:25:24,010 --> 00:25:25,669
+We were just finishing.
+
+432
+00:25:34,569 --> 00:25:37,713
+- Sorry about all this.
+- It's okay, I understand.
+
+433
+00:25:38,817 --> 00:25:40,250
+Amazing news about Teyla.
+
+434
+00:25:48,195 --> 00:25:52,138
+We all wanna believe
+you are who you say you are.
+
+435
+00:25:52,258 --> 00:25:53,917
+I understand you...
+
+436
+00:25:54,037 --> 00:25:55,765
+You have to be cautious,
+
+437
+00:25:56,505 --> 00:25:58,274
+but it really is me, John.
+
+438
+00:26:01,757 --> 00:26:03,760
+You just have to give me time.
+
+439
+00:26:04,062 --> 00:26:05,828
+You'll see that...
+
+440
+00:26:11,104 --> 00:26:11,973
+Oh no.
+
+441
+00:26:12,093 --> 00:26:14,581
+- What's wrong?
+- They've found me.
+
+442
+00:26:16,337 --> 00:26:17,383
+Who?
+
+443
+00:26:17,900 --> 00:26:19,539
+The other Replicators.
+
+444
+00:26:20,136 --> 00:26:22,358
+They're on their way to Atlantis.
+
+445
+00:26:24,622 --> 00:26:26,267
+- How many are coming?
+- Eight of them.
+
+446
+00:26:26,387 --> 00:26:29,132
+- We saw what damage one could do...
+- Should we pull the ZPM?
+
+447
+00:26:29,532 --> 00:26:33,470
+As a last resort. I'll need to effect
+any counter-measures I can come up with.
+
+448
+00:26:34,008 --> 00:26:36,449
+- How soon will they get here?
+- Well, minutes, if that.
+
+449
+00:26:36,569 --> 00:26:39,450
+Can we do anything to protect the City?
+Can you put up some kind of firewall?
+
+450
+00:26:39,570 --> 00:26:42,687
+A firewall won't work.
+They just pop in and out of subspace.
+
+451
+00:26:42,847 --> 00:26:45,872
+They're here, they're there,
+it's impossible to predict.
+
+452
+00:26:46,296 --> 00:26:49,162
+I could write a program that quarantines
+any anomalous behavior in the system,
+
+453
+00:26:49,282 --> 00:26:52,290
+like an anti-virus software.
+It's gonna take some time, though.
+
+454
+00:26:52,410 --> 00:26:53,466
+Do what you can.
+
+455
+00:26:53,586 --> 00:26:56,730
+Keep Fran, Dr. Weir, whoever she is,
+under guard.
+
+456
+00:26:56,963 --> 00:26:59,144
+We won't upload her to the VR just yet.
+
+457
+00:26:59,264 --> 00:27:01,623
+We may need her help
+dealing with them.
+
+458
+00:27:05,358 --> 00:27:06,628
+- You set us up.
+- No!
+
+459
+00:27:07,012 --> 00:27:09,714
+I honestly believed I had broken away
+without them being able to track me.
+
+460
+00:27:10,221 --> 00:27:12,175
+Tell them to stay away from Atlantis.
+
+461
+00:27:12,402 --> 00:27:15,351
+I'll try, but it'll get easier
+as they get closer.
+
+462
+00:27:15,611 --> 00:27:17,305
+They don't intend to hurt anyone.
+
+463
+00:27:17,614 --> 00:27:20,356
+You tell them to keep moving,
+go someplace else.
+
+464
+00:27:20,476 --> 00:27:21,518
+It might go a...
+
+465
+00:27:23,888 --> 00:27:26,106
+- <i>Sheppard! </i>
+- Go ahead, Rodney.
+
+466
+00:27:26,734 --> 00:27:30,248
+<i>...it arrived...
+Wasn't able... Program the system...</i>
+
+467
+00:27:31,062 --> 00:27:34,413
+Their combined forces are completely
+overwhelming the main power grid!
+
+468
+00:27:36,065 --> 00:27:38,827
+- They're here?
+- All  8 of 'em, slamming the computers!
+
+469
+00:27:38,947 --> 00:27:42,247
+- What about the anti-virus program?
+- Didn't have time to finish it.
+
+470
+00:27:42,407 --> 00:27:44,105
+Radek, I need you to pull the ZPM,
+
+471
+00:27:44,225 --> 00:27:47,122
+power down
+all essential naquadah generators.
+
+472
+00:27:48,673 --> 00:27:49,921
+Communications are down!
+
+473
+00:27:52,199 --> 00:27:55,625
+Rodney, I'm trying to divert power,
+but it's become far too unstable.
+
+474
+00:27:55,927 --> 00:27:58,025
+Perhaps now we should pull the ZPM?
+
+475
+00:28:01,907 --> 00:28:03,307
+Let's go. Pull the ZPM.
+
+476
+00:28:03,427 --> 00:28:05,395
+Shut down all the power
+except for the main power.
+
+477
+00:28:14,951 --> 00:28:15,952
+Oh, God.
+
+478
+00:28:16,173 --> 00:28:17,174
+He's dead.
+
+479
+00:28:20,115 --> 00:28:23,285
+We've established contact
+with the Replicator known as Koracen.
+
+480
+00:28:23,405 --> 00:28:25,198
+He claims to speak
+on the others' behalf.
+
+481
+00:28:25,318 --> 00:28:27,166
+Koracen?
+It's Elizabeth Weir.
+
+482
+00:28:28,552 --> 00:28:30,702
+- We were worried about you.
+- Listen to me.
+
+483
+00:28:30,822 --> 00:28:32,567
+You need to leave this place.
+
+484
+00:28:32,687 --> 00:28:34,341
+You're causing a lot of harm.
+
+485
+00:28:34,501 --> 00:28:35,619
+We will leave.
+
+486
+00:28:35,739 --> 00:28:38,065
+But first we wish to be given bodies,
+as you have.
+
+487
+00:28:38,185 --> 00:28:40,568
+We've already told you
+that's out of the question.
+
+488
+00:28:40,688 --> 00:28:42,415
+And yet
+Elizabeth has been given one.
+
+489
+00:28:42,535 --> 00:28:45,950
+It wasn't our choice, and we're not
+planning on letting her keep it.
+
+490
+00:28:46,070 --> 00:28:48,072
+We do not wish to harm anyone.
+
+491
+00:28:48,334 --> 00:28:50,405
+One of our guys is already dead,
+
+492
+00:28:50,525 --> 00:28:52,618
+so you can save your:
+"We come in peace" crap!
+
+493
+00:28:52,738 --> 00:28:54,157
+Koracen, please.
+
+494
+00:28:54,277 --> 00:28:56,530
+Just leave the City
+and let me negotiate with them.
+
+495
+00:28:57,267 --> 00:28:59,950
+I'm sure we can figure out
+some way to help you.
+
+496
+00:29:00,110 --> 00:29:02,429
+The way to help us is by replacing
+the control crystal
+
+497
+00:29:02,549 --> 00:29:05,739
+in the Ancient machine
+so that we may build Replicator bodies.
+
+498
+00:29:05,933 --> 00:29:07,735
+That is what you will do.
+
+499
+00:29:07,951 --> 00:29:09,252
+And if we don't?
+
+500
+00:29:13,873 --> 00:29:15,795
+Not good. Not good!
+
+501
+00:29:15,915 --> 00:29:18,657
+- Gate's down again!
+- We're losing control of the City.
+
+502
+00:29:18,777 --> 00:29:20,220
+They shut the Jumper bay doors!
+
+503
+00:29:20,502 --> 00:29:22,556
+They're trying to keep us
+from leaving.
+
+504
+00:29:23,842 --> 00:29:26,530
+- Can't you override it?
+- I'm locked out!
+
+505
+00:29:26,650 --> 00:29:27,352
+Oh, no.
+
+506
+00:29:27,512 --> 00:29:29,403
+They just engaged the ZPM.
+
+507
+00:29:29,878 --> 00:29:32,691
+- Energy levels are rising rapidly!
+- Why, what are they doing?
+
+508
+00:29:33,593 --> 00:29:35,002
+They're sinking the City.
+
+509
+00:29:35,122 --> 00:29:37,487
+- Raise the shield.
+- They've disabled it.
+
+510
+00:29:47,825 --> 00:29:50,125
+- Any ideas?
+- No, we're going down.
+
+511
+00:29:50,564 --> 00:29:53,515
+Water's already cresting the lower decks
+of the outer piers.
+
+512
+00:29:53,635 --> 00:29:55,462
+It's going to breach
+the City corridors.
+
+513
+00:30:15,976 --> 00:30:18,138
+I want you to send them
+a message for me.
+
+514
+00:30:18,258 --> 00:30:21,030
+I've been trying to communicate
+with them, telling them to stop.
+
+515
+00:30:21,377 --> 00:30:23,741
+- They won't listen to me.
+- That's not what I want to tell.
+
+516
+00:30:24,630 --> 00:30:25,451
+It's not?
+
+517
+00:30:25,964 --> 00:30:27,966
+Tell them... to go ahead.
+
+518
+00:30:28,604 --> 00:30:29,705
+Sink the City.
+
+519
+00:30:30,433 --> 00:30:32,766
+Destroy their only chance
+of ever regaining
+
+520
+00:30:32,886 --> 00:30:34,752
+any kind of physical form.
+
+521
+00:30:35,060 --> 00:30:37,264
+You've searched the entire galaxy.
+
+522
+00:30:37,384 --> 00:30:39,549
+You know the Replicator homeworld
+was destroyed.
+
+523
+00:30:39,669 --> 00:30:43,470
+The only place with the technology
+you need to achieve your goals
+
+524
+00:30:44,555 --> 00:30:45,763
+is right here.
+
+525
+00:30:46,701 --> 00:30:48,402
+So go ahead, destroy it.
+
+526
+00:30:49,488 --> 00:30:51,490
+Stay trapped in limbo forever.
+
+527
+00:30:54,765 --> 00:30:57,764
+Level one of the south pier
+is completely under water.
+
+528
+00:30:59,240 --> 00:31:00,542
+They won't stop.
+
+529
+00:31:01,623 --> 00:31:02,524
+Fine.
+
+530
+00:31:03,351 --> 00:31:05,253
+Then we'll all die together.
+
+531
+00:31:23,596 --> 00:31:25,598
+They're powering down the ZPM!
+
+532
+00:31:27,673 --> 00:31:29,014
+The City's stabilizing.
+
+533
+00:31:36,939 --> 00:31:37,940
+All right.
+
+534
+00:31:38,604 --> 00:31:40,208
+Now we can negotiate.
+
+535
+00:31:45,983 --> 00:31:48,951
+I have a proposal. I've already
+communicated it to the others,
+
+536
+00:31:49,111 --> 00:31:51,298
+and convinced them to agree to it.
+
+537
+00:31:51,418 --> 00:31:52,468
+Let's hear it.
+
+538
+00:31:52,588 --> 00:31:53,831
+Human bodies,
+
+539
+00:31:54,249 --> 00:31:57,370
+nanite-manufactured,
+but consisting of flesh and blood.
+
+540
+00:31:57,490 --> 00:31:59,773
+Like the other Elizabeth Weir
+you once encountered.
+
+541
+00:31:59,893 --> 00:32:01,672
+We don't have
+that kind of technology here.
+
+542
+00:32:02,227 --> 00:32:03,289
+But we do.
+
+543
+00:32:03,409 --> 00:32:05,384
+If you give us
+temporary Replicator bodies,
+
+544
+00:32:05,544 --> 00:32:08,220
+and a lab to work in,
+we can assemble them ourselves.
+
+545
+00:32:08,438 --> 00:32:10,664
+You'll transfer your consciousness
+from the Replicator body
+
+546
+00:32:10,784 --> 00:32:12,355
+- to the human body?
+- Exactly.
+
+547
+00:32:12,571 --> 00:32:15,863
+As human beings, we would be every bit
+as vulnerable as anyone else.
+
+548
+00:32:15,983 --> 00:32:18,856
+We would eat, sleep,
+get sick... and die.
+
+549
+00:32:19,478 --> 00:32:20,954
+Preferably of old age.
+
+550
+00:32:21,074 --> 00:32:24,612
+What about ascension?
+I'm assuming that's still on the agenda?
+
+551
+00:32:24,895 --> 00:32:26,697
+- It is.
+- Wait a second.
+
+552
+00:32:26,935 --> 00:32:29,549
+Building humans...
+That's going to take time, isn't it?
+
+553
+00:32:29,669 --> 00:32:31,752
+First, you've got to create
+the technology to do it...
+
+554
+00:32:31,872 --> 00:32:33,037
+We're talking nanites.
+
+555
+00:32:33,197 --> 00:32:36,499
+Organically assembling each body,
+inside out, at the molecular level.
+
+556
+00:32:36,725 --> 00:32:39,001
+Then you have to create the machine.
+
+
+557
+00:32:39,161 --> 00:32:40,735
+That's going to take how long?
+
+558
+00:32:40,855 --> 00:32:43,297
+Replicators, as you know,
+work very fast.
+
+559
+00:32:43,603 --> 00:32:45,573
+No need for breaks,
+or food, or sleep.
+
+560
+00:32:45,693 --> 00:32:47,092
+It's worth thinking about.
+
+561
+00:32:47,410 --> 00:32:48,724
+He may be right.
+
+562
+00:32:48,968 --> 00:32:50,737
+If only to regain control
+of the City.
+
+563
+00:32:50,857 --> 00:32:53,224
+While they're in our computer systems,
+Atlantis is in trouble.
+
+564
+00:32:54,416 --> 00:32:55,617
+If we do this,
+
+565
+00:32:55,974 --> 00:32:58,798
+I want severe restrictions
+placed on their capabilities...
+
+566
+00:32:58,918 --> 00:33:00,397
+No replicating, no shape-shifting.
+
+567
+00:33:00,557 --> 00:33:02,897
+The basic model, you got it.
+I mean, no bells, no whistles.
+
+568
+00:33:03,017 --> 00:33:05,624
+They'll be able to affect some
+minor repairs, but that's about it.
+
+569
+00:33:05,744 --> 00:33:08,180
+Seal off the lab,
+put a force field around it,
+
+570
+00:33:08,300 --> 00:33:10,805
+do whatever you need to do
+to feel safe.
+
+571
+00:33:10,925 --> 00:33:13,577
+But I've already convinced the others
+that this is their only option.
+
+572
+00:33:14,594 --> 00:33:16,121
+They won't give you any trouble.
+
+573
+00:33:19,070 --> 00:33:20,472
+You have my word.
+
+574
+00:33:23,009 --> 00:33:23,910
+Do it.
+
+575
+00:33:29,762 --> 00:33:31,771
+Okay, initializing force field.
+
+576
+00:33:38,621 --> 00:33:39,812
+Are your teams in place?
+
+577
+00:33:39,972 --> 00:33:42,136
+- Around-the-clock watch.
+- Good.
+
+578
+00:33:42,256 --> 00:33:44,603
+Once these human bodies are made,
+
+579
+00:33:44,723 --> 00:33:47,831
+and they're downloaded into them...
+What happens then?
+
+580
+00:33:47,951 --> 00:33:50,001
+They'll be just like
+any other human beings,
+
+581
+00:33:50,121 --> 00:33:51,731
+I see no reason not to let them go.
+
+582
+00:33:51,851 --> 00:33:55,494
+- They could become valuable allies.
+- What if one of 'em decides to stay?
+
+583
+00:33:57,045 --> 00:33:59,848
+Let's cross one bridge at a time,
+all right?
+
+584
+00:34:03,402 --> 00:34:04,333
+How's it going?
+
+585
+00:34:04,453 --> 00:34:07,256
+Almost done.
+Just finishing up the last one.
+
+586
+00:34:17,217 --> 00:34:18,195
+That was fast.
+
+587
+00:34:18,315 --> 00:34:20,680
+Actually, creating Replicators
+is fairly simple,
+
+588
+00:34:20,800 --> 00:34:23,720
+comparatively speaking.
+Humans, not so much.
+
+589
+00:34:23,840 --> 00:34:27,109
+The sooner they get it done, the better.
+And once the last transfer is complete,
+
+590
+00:34:27,269 --> 00:34:29,872
+I want those Replicator bodies
+destroyed.
+
+591
+00:34:31,669 --> 00:34:33,965
+They certainly don't waste any time,
+do they?
+
+592
+00:34:34,085 --> 00:34:35,285
+No they don't.
+
+593
+00:34:35,569 --> 00:34:38,746
+There's no breaks, no chit-chat,
+no social interaction whatsoever.
+
+594
+00:34:39,118 --> 00:34:41,517
+The perfect working environment.
+
+595
+00:34:45,033 --> 00:34:47,354
+You don't have to stay there
+the whole time, you know.
+
+596
+00:34:47,474 --> 00:34:48,339
+I'm good.
+
+597
+00:34:48,499 --> 00:34:51,800
+Talk, talk, that's all he does.
+You can't shut him up.
+
+598
+00:34:52,291 --> 00:34:53,692
+Keep me apprised.
+
+599
+00:35:18,408 --> 00:35:21,011
+- Power's out!
+- What the... Force field!
+
+600
+00:35:46,234 --> 00:35:48,194
+- What happened?
+- One of the Replicators escaped.
+
+601
+00:35:48,314 --> 00:35:50,654
+Koracen, the leader,
+must've written hidden program
+
+602
+00:35:50,774 --> 00:35:54,019
+that was timed to kill power,
+as soon as they were downloaded.
+
+603
+00:35:54,139 --> 00:35:57,245
+Disable the force field they were able
+to pry open the doors.
+
+604
+00:35:57,365 --> 00:35:58,239
+Where is she?
+
+605
+00:35:58,878 --> 00:36:00,116
+She went after Koracen.
+
+606
+00:36:00,276 --> 00:36:02,589
+Three teams are in pursuit.
+We've lost all radio contact.
+
+607
+00:36:02,709 --> 00:36:05,806
+Go join them. Go up to the control room,
+and try to get the power restored.
+
+608
+00:36:05,926 --> 00:36:07,957
+- What do we do with them?
+- Shoot 'em.
+
+609
+00:36:08,077 --> 00:36:09,282
+Keep shooting.
+
+610
+00:36:09,826 --> 00:36:11,274
+They'll go down eventually.
+
+611
+00:36:11,394 --> 00:36:12,128
+Wait!
+
+612
+00:36:13,706 --> 00:36:16,313
+We knew nothing of Koracen's plan.
+
+613
+00:36:17,076 --> 00:36:19,510
+If we were a part of it,
+we would not be standing here right now.
+
+614
+00:36:21,218 --> 00:36:22,096
+Please?
+
+615
+00:36:22,256 --> 00:36:24,181
+We're complying with your wishes.
+
+616
+00:36:28,637 --> 00:36:30,840
+Nothing gets through that door.
+
+617
+00:36:31,136 --> 00:36:32,636
+They move an inch...
+
+618
+00:36:33,142 --> 00:36:34,241
+Shoot 'em.
+
+619
+00:36:54,499 --> 00:36:55,500
+Hold on!
+
+620
+00:36:57,931 --> 00:37:00,092
+You just couldn't wait
+for those human bodies, could you?
+
+621
+00:37:01,757 --> 00:37:04,160
+The human body is frail, weak...
+
+622
+00:37:05,036 --> 00:37:07,184
+Every second,
+that much closer to dying.
+
+623
+00:37:07,304 --> 00:37:10,269
+Yeah, and this whole ascension thing...
+You're just giving up on that?
+
+624
+00:37:11,389 --> 00:37:14,192
+Not at all.
+I'm certain there's another way.
+
+625
+00:37:14,661 --> 00:37:15,959
+With this body,
+
+626
+00:37:16,735 --> 00:37:19,403
+I'll have plenty of time
+to discover it.
+
+627
+00:37:31,491 --> 00:37:33,855
+- Any luck?
+- They've shut about everything down.
+
+628
+00:37:33,975 --> 00:37:35,770
+Power's cut
+to most of the critical systems.
+
+629
+00:37:35,890 --> 00:37:37,335
+Except for the DHD and the Gate.
+
+630
+00:37:37,455 --> 00:37:39,215
+They're obviously
+going to try to dial out.
+
+631
+00:37:39,335 --> 00:37:41,529
+Now, I've managed to gain remote access
+to the mainframe.
+
+632
+00:37:41,649 --> 00:37:44,679
+I'm creating a workaround to allow
+the resumption of naquadah power
+
+633
+00:37:44,799 --> 00:37:46,455
+to the central tower's
+primary systems.
+
+634
+00:37:46,575 --> 00:37:50,153
+- Minimal, to be sure, but from there...
+- Over-write the Replicator program
+
+635
+00:37:50,273 --> 00:37:51,747
+and restart the remaining systems.
+
+636
+00:37:51,867 --> 00:37:54,769
+- Exactly.
+- Just hurry. We need power back now.
+
+637
+00:37:55,082 --> 00:37:58,220
+- Is there anything you want me to do?
+- Yes, for starters, you could,
+
+638
+00:37:58,340 --> 00:37:59,803
+stay out of my way.
+
+639
+00:37:59,923 --> 00:38:01,424
+Yes. Okay. Fine.
+
+640
+00:38:07,959 --> 00:38:08,904
+And be quiet.
+
+641
+00:38:09,917 --> 00:38:10,718
+Stop!
+
+642
+00:38:11,531 --> 00:38:13,931
+John, stay back.
+Let me handle this.
+
+643
+00:38:14,921 --> 00:38:17,962
+- Haven't you done enough already?
+- I'm trying to help you.
+
+644
+00:38:18,270 --> 00:38:20,422
+By what? Escaping?
+
+645
+00:38:20,801 --> 00:38:22,591
+I didn't know
+that Koracen would do this.
+
+646
+00:38:22,751 --> 00:38:23,980
+Of course she knew!
+
+647
+00:38:24,687 --> 00:38:26,699
+Elizabeth
+has been a willing participant
+
+648
+00:38:26,819 --> 00:38:28,889
+in our goals
+from the very beginning.
+
+649
+00:38:29,049 --> 00:38:32,054
+It was her idea to come here
+in the first place.
+
+650
+00:38:33,194 --> 00:38:36,895
+You said you broke off from them,
+that they couldn't track you.
+
+651
+00:38:37,262 --> 00:38:38,190
+Track her?
+
+652
+00:38:38,689 --> 00:38:40,315
+She was the one who alerted us
+
+653
+00:38:40,435 --> 00:38:41,902
+when the time was right to come.
+
+654
+00:38:42,699 --> 00:38:44,446
+We were only
+following her commands.
+
+655
+00:38:44,606 --> 00:38:45,781
+John, listen to me.
+
+656
+00:38:46,211 --> 00:38:48,013
+I had to bring them here.
+
+657
+00:38:48,603 --> 00:38:49,869
+It was our only chance...
+
+658
+00:38:50,791 --> 00:38:52,192
+Our only way out.
+
+659
+00:38:52,880 --> 00:38:56,375
+I didn't know that Koracen
+would cause this kind of trouble.
+
+660
+00:38:56,809 --> 00:38:58,252
+I didn't want hurt you.
+
+661
+00:38:58,548 --> 00:39:00,461
+What did you think
+we were going to do?
+
+662
+00:39:00,581 --> 00:39:02,923
+Give you a bunch of Replicator bodies
+and send you on your way?
+
+663
+00:39:03,287 --> 00:39:05,843
+I truly believed
+that we were no threat to you.
+
+664
+00:39:06,303 --> 00:39:09,889
+You may still think you're Elizabeth,
+but you're not.
+
+665
+00:39:35,959 --> 00:39:39,558
+If you'd like to resume your work,
+I've decided to allow it.
+
+666
+00:39:39,821 --> 00:39:42,755
+We would re-engage the force field,
+of course. Beef up security.
+
+667
+00:39:44,347 --> 00:39:45,341
+It's too risky.
+
+668
+00:39:47,695 --> 00:39:50,925
+I thought that bringing the others here
+would be safe.
+
+669
+00:39:51,045 --> 00:39:52,146
+I was wrong.
+
+670
+00:39:52,722 --> 00:39:56,277
+I can no longer guarantee there won't be
+any more trouble from them.
+
+671
+00:39:56,397 --> 00:39:57,394
+Or even myself.
+
+672
+00:39:59,310 --> 00:40:00,408
+All right...
+
+673
+00:40:02,398 --> 00:40:04,100
+What do you want to do?
+
+674
+00:40:05,970 --> 00:40:09,487
+I remember, after you reactivated
+the nanite cells inside me,
+
+675
+00:40:09,607 --> 00:40:11,443
+I said this was a bad idea.
+
+676
+00:40:11,563 --> 00:40:13,577
+So much has gone wrong since then.
+
+677
+00:40:16,434 --> 00:40:19,737
+But I think I know
+how I can finally set things right.
+
+678
+00:40:25,339 --> 00:40:26,340
+Go ahead.
+
+679
+00:40:45,854 --> 00:40:48,685
+If you need anything else for your work,
+let us know.
+
+680
+00:40:48,805 --> 00:40:50,106
+Thanks, Rodney.
+
+681
+00:40:50,357 --> 00:40:51,948
+You have to promise to stay put
+
+682
+00:40:52,068 --> 00:40:54,631
+until you're finished
+constructing the human bodies.
+
+683
+00:40:54,751 --> 00:40:56,291
+No leaving your homeworld,
+
+684
+00:40:56,411 --> 00:40:59,982
+no communication with any other
+civilization except Atlantis.
+
+685
+00:41:00,102 --> 00:41:03,002
+You have my word.
+Good luck with your command, Richard.
+
+686
+00:41:03,219 --> 00:41:06,338
+It's comforting to know Atlantis
+is in capable hands.
+
+687
+00:41:07,721 --> 00:41:08,722
+Thank you.
+
+688
+00:41:09,363 --> 00:41:10,508
+Shall we?
+
+689
+00:41:13,912 --> 00:41:14,913
+It's okay.
+
+690
+00:41:15,554 --> 00:41:16,755
+I'll go first.
+
+691
+00:41:46,772 --> 00:41:47,973
+It's safe.
+
+692
+00:42:16,553 --> 00:42:19,255
+You're sure the DHD reconfiguration
+worked?
+
+693
+00:42:20,044 --> 00:42:20,844
+Yes.
+
+694
+00:42:21,576 --> 00:42:23,679
+They were sent to a space Gate.
+
+695
+00:42:24,941 --> 00:42:29,145
+I guess that answers the question
+as to whether it was really Elizabeth?
+

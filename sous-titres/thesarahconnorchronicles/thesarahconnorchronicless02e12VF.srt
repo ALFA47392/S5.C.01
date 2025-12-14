@@ -1,0 +1,2708 @@
+1
+00:00:01,000 --> 00:00:02,380
+12h07, ouais, je suis là.
+
+2
+00:00:03,240 --> 00:00:03,980
+Qui es-tu?
+
+3
+00:00:05,550 --> 00:00:06,430
+Tu le chasses
+
+4
+00:00:07,270 --> 00:00:08,999
+Comment tu sais que ce n'est pas lui qui te chasse?
+
+5
+00:00:11,040 --> 00:00:11,750
+Allo?
+
+6
+00:00:14,070 --> 00:00:15,860
+Allo, Sarah?
+
+7
+00:00:16,120 --> 00:00:18,240
+On est coupé. Allo?
+
+8
+00:00:49,550 --> 00:00:51,020
+Doucement, doucement, doucement.
+
+9
+00:00:51,100 --> 00:00:52,770
+Sarah Connor m'a envoyé. Ok?
+
+10
+00:00:53,120 --> 00:00:53,910
+Je suis ici pour aider.
+
+11
+00:00:55,810 --> 00:00:57,390
+Désolé, je croyais que..
+
+12
+00:00:57,510 --> 00:00:59,910
+Je sais ce que vous avez pensé, vous seriez déjà morts.
+
+13
+00:01:03,590 --> 00:01:04,770
+Il y a combien de temps?
+
+14
+00:01:05,030 --> 00:01:06,270
+34 semaines.
+
+15
+00:01:13,900 --> 00:01:15,640
+Il a été approfondi et approfondi.
+
+16
+00:01:15,800 --> 00:01:17,270
+J'ai juste besoin de mettre le tube dedans.
+
+17
+00:01:17,520 --> 00:01:20,240
+Il suffit de la soutenir. Et vous restez aussi.
+
+18
+00:01:20,810 --> 00:01:23,120
+Je vais bien, Ok? Je vais bien.
+
+19
+00:01:24,500 --> 00:01:26,040
+Prêt?
+
+20
+00:01:39,710 --> 00:01:41,210
+Qu'est-ce qu'il y a? Qu'est-ce qui s'est passé?
+
+21
+00:01:41,270 --> 00:01:42,720
+Cette chose
+
+22
+00:01:43,330 --> 00:01:44,490
+Le cyborg
+
+23
+00:01:44,850 --> 00:01:46,930
+Il nous traque depuis 6 mois
+
+24
+00:01:47,100 --> 00:01:48,090
+Comment vous a t'ils trouvé?
+
+25
+00:01:48,660 --> 00:01:49,730
+Comment as-tu connu Sarah?
+
+26
+00:01:56,040 --> 00:01:57,470
+On ne vit pas dans une grange
+
+27
+00:01:57,890 --> 00:02:00,400
+On ferme la porte et on s'essuie les pieds.
+
+28
+00:02:02,320 --> 00:02:03,360
+Ils sont en vie.
+
+29
+00:02:04,890 --> 00:02:06,300
+Etes-vous les Fields?
+
+30
+00:02:06,300 --> 00:02:08,001
+Vas dans ta chambre et fermes la porte.
+
+31
+00:02:12,550 --> 00:02:13,510
+Qu'est-ce que tu veux?
+
+32
+00:02:13,720 --> 00:02:15,700
+Je suis ici pour aider. Etes vous les Fields?
+
+33
+00:02:15,860 --> 00:02:18,330
+-Anne, appelle la police -Non, non, s'il vous plait.
+
+34
+00:02:20,140 --> 00:02:21,570
+Va récupérer la fille.
+
+35
+00:02:24,800 --> 00:02:26,940
+Je dois vous faire sortir maintenant. Quelq'un arrive.
+
+36
+00:02:27,030 --> 00:02:28,260
+Je ne suis pas ici pour vous voler.
+
+37
+00:02:28,360 --> 00:02:29,900
+Alors baissez votre arme.
+
+38
+00:02:29,970 --> 00:02:31,780
+Vous ne comprenez pas, vous etes en danger.
+
+39
+00:02:31,930 --> 00:02:32,590
+On doit y allé.
+
+40
+00:02:38,670 --> 00:02:39,660
+Restez la.
+
+41
+00:02:40,790 --> 00:02:42,200
+On a un résultat de nom sur la liste.
+
+42
+00:02:42,200 --> 00:02:44,491
+Alpine Fields, c'est une famille.
+
+43
+00:02:44,960 --> 00:02:46,670
+Tout est sous controle. On pourrait etre en retard.
+
+44
+00:02:46,710 --> 00:02:47,950
+Vous pouvez vous faire à manger?
+
+45
+00:02:47,950 --> 00:02:50,780
+John, met en place l'alarme.
+
+46
+00:02:52,060 --> 00:02:53,260
+Adolescents, huh?
+
+47
+00:02:53,390 --> 00:02:54,660
+Bouges pas.
+
+48
+00:03:02,030 --> 00:03:03,250
+Baisse ton arme.
+
+49
+00:03:05,500 --> 00:03:06,020
+Qui es-tu?
+
+50
+00:03:07,000 --> 00:03:08,160
+Qu'es-ce que tu fais ici?
+
+51
+00:03:09,540 --> 00:03:10,740
+Dis moi la vérité.
+
+52
+00:03:12,220 --> 00:03:13,590
+La vérité.
+
+53
+00:03:16,470 --> 00:03:17,400
+Dans un futur proche,
+
+54
+00:03:17,400 --> 00:03:20,260
+Un système informatique appelé Skynet
+va prendre le controle du monde
+
+55
+00:03:20,520 --> 00:03:22,460
+Il renvoie des machines humanoïdes à travers le temps
+
+56
+00:03:22,550 --> 00:03:24,070
+Pour éliminer tous ceux qui sont une menace
+
+57
+00:03:24,220 --> 00:03:26,390
+J'ai une liste de cibles.Ton nom est dessus
+
+58
+00:03:28,940 --> 00:03:30,540
+Une machine va venir pour te tuer.
+
+59
+00:03:30,650 --> 00:03:33,250
+Il a trouver ta maison en ville,
+et maintenant il vient ici.
+
+60
+00:03:34,990 --> 00:03:37,000
+Et celui qui garde votre maison est mort en passant.
+
+61
+00:03:37,000 --> 00:03:37,800
+Appeles la police
+
+62
+00:03:37,800 --> 00:03:41,491
+Dis leur qu'il y a une femme folle
+avec une arme dans la maison.
+
+63
+00:03:43,800 --> 00:03:44,800
+Toi.
+
+64
+00:03:44,800 --> 00:03:46,900
+Restes ici avec elle.
+
+65
+00:03:59,160 --> 00:04:00,260
+Okay, on s'en va. Maintenant.
+
+66
+00:04:02,300 --> 00:04:04,360
+Maintenant.
+
+67
+00:04:07,200 --> 00:04:08,530
+Et à propos de Charles Barkley?
+
+68
+00:04:08,530 --> 00:04:09,500
+Non.
+
+69
+00:04:12,430 --> 00:04:13,800
+Pourquoi tu voudrais garder une arme dans la maison?
+
+70
+00:04:13,800 --> 00:04:16,700
+Pour une situation comme celle là.
+
+71
+00:04:16,700 --> 00:04:17,830
+Ou une bierre.
+
+72
+00:04:17,830 --> 00:04:20,130
+Ca ne marcherait pas dans une situation pareille.
+
+73
+00:04:20,130 --> 00:04:21,200
+Pourquoi tu ne me l'a pas dit?
+
+74
+00:04:21,200 --> 00:04:22,600
+Ou une bierre.
+
+75
+00:04:22,600 --> 00:04:23,600
+Parce que je savais que tu allais réagir comme ça,
+
+76
+00:04:23,600 --> 00:04:24,860
+Et ça n'aide pas vraiment.
+
+77
+00:04:24,860 --> 00:04:26,730
+Est-ce que ton fils sait que tu as
+kidnapper des gens en les braquant?
+
+78
+00:04:26,730 --> 00:04:28,360
+Oui.
+
+79
+00:04:28,360 --> 00:04:29,830
+Alors tu sais qu'il sera enclin
+à la délinquance lui-même.
+
+80
+00:04:29,830 --> 00:04:32,700
+Maman, je pence qu'il est évident
+qu'elle est bien loin du Dr. Phil.
+
+81
+00:04:32,700 --> 00:04:33,860
+Hey, tu sais, ce n'est pas tes affaires.
+
+82
+00:04:33,860 --> 00:04:34,900
+Sarah.
+
+83
+00:04:53,900 --> 00:04:54,860
+Dehors!
+
+84
+00:04:54,860 --> 00:04:55,830
+Retournez à la cabane , maintenant!
+
+85
+00:04:56,930 --> 00:04:58,530
+Allé, courrez, courrez!
+
+86
+00:05:18,360 --> 00:05:19,330
+Je suis désolé.
+
+87
+00:05:22,360 --> 00:05:26,200
+Tu devrais la couvrire.
+
+88
+00:05:26,200 --> 00:05:28,960
+C'est une médaille de St Jude. C'est celle de ma grand-mère.
+
+89
+00:05:28,960 --> 00:05:31,060
+C'est une cible.
+
+90
+00:05:34,730 --> 00:05:37,860
+Où l'as tu eu?
+
+91
+00:05:42,630 --> 00:05:43,860
+L'un dentre eux.
+
+92
+00:05:46,100 --> 00:05:47,100
+Est-ce que je veux savoir?
+
+93
+00:05:47,100 --> 00:05:49,730
+Pas vraiment.
+
+94
+00:05:49,730 --> 00:05:52,560
+Tu as l'air tellement habitués à tout cela.
+
+95
+00:05:52,560 --> 00:05:54,800
+Tu n'as pas à t'y habituer.
+
+96
+00:05:54,800 --> 00:05:56,630
+Tu vis à travers lui.
+
+97
+00:05:56,630 --> 00:05:59,360
+Tu as l'air comme David.
+
+98
+00:06:01,100 --> 00:06:05,000
+On était à l'extérieur d'un hotel
+dans elko quand il nous a trouvé.
+
+99
+00:06:05,000 --> 00:06:08,830
+Mon père à vidé le Mossberg dans cette chose.
+
+100
+00:06:08,830 --> 00:06:10,030
+Et puis après il est partit avec une lampe de table
+
+101
+00:06:10,030 --> 00:06:11,430
+Et une tringle à rideaux.
+
+102
+00:06:11,430 --> 00:06:14,360
+Juste assez longtemps pour nous faire sortir.
+
+103
+00:06:14,360 --> 00:06:17,560
+Elle nous a dit de l'appelé si il revenait.
+
+104
+00:06:26,560 --> 00:06:29,200
+Tu penses que David pourrait allé bien?
+
+105
+00:06:37,330 --> 00:06:39,030
+Tout est possible.
+
+106
+00:06:51,830 --> 00:06:54,330
+Quoi?
+
+107
+00:06:57,660 --> 00:07:00,800
+Rien.
+
+108
+00:07:00,800 --> 00:07:02,100
+Je connais juste ce regard.
+
+109
+00:07:34,010 --> 00:07:35,180
+Ton plan craint.
+
+110
+00:07:35,180 --> 00:07:37,350
+Tu ne peux pas utiliser ça contre du métal.
+
+111
+00:07:37,350 --> 00:07:39,580
+Ils ont bombardés le bunker d'eagle rock
+avec une arme biologique
+
+112
+00:07:39,580 --> 00:07:40,950
+Ca a tué tout le monde à l'intérieur.
+
+113
+00:07:40,950 --> 00:07:43,580
+Seulement une personne a survécue sur 200.
+
+114
+00:07:43,580 --> 00:07:45,280
+Maintenant,on doit la ramener ici.
+
+115
+00:07:45,280 --> 00:07:46,680
+En vie.
+
+116
+00:07:46,680 --> 00:07:47,910
+Le métal est immunisé contre la maladie,
+
+117
+00:07:47,910 --> 00:07:49,080
+Alors on va leur envoyer du métal,fin de l'histoire.
+
+118
+00:07:49,080 --> 00:07:50,280
+Ils sont immunisés contre la maladie
+
+119
+00:07:50,280 --> 00:07:52,680
+Mais pas à l'abri d'etre en mauvais état
+et de mettre une balle
+
+120
+00:07:52,680 --> 00:07:55,610
+Dans la crâne de quelq'un qui pourrait
+nous sauver de ce fléau.
+
+121
+00:07:55,610 --> 00:07:57,980
+Je vais trouver la survivante.
+
+122
+00:07:57,980 --> 00:08:01,650
+Je vais la ramener.
+
+123
+00:08:01,650 --> 00:08:03,280
+Espérons seulement qu'elle peut nous aider.
+
+124
+00:08:03,280 --> 00:08:07,580
+Une fois exposé,il n'y a aucun moyen
+de savoir combien de temps tu as.
+
+125
+00:08:07,580 --> 00:08:09,780
+Il pourrait y avoir 4h avant de ressentir
+les premiers symptomes.
+
+126
+00:08:09,780 --> 00:08:12,650
+20, avant que ça ne te tue.
+
+127
+00:08:12,650 --> 00:08:14,500
+Ca pourrait-etre un voyage à sens unique.
+
+128
+00:08:14,500 --> 00:08:17,350
+On est tous dans un voyage à sens unique.
+
+129
+00:08:18,980 --> 00:08:20,380
+Il ne sortira pas de la,tu le sais.
+
+130
+00:08:20,380 --> 00:08:22,380
+Ton frere Kyle.
+
+131
+00:08:22,380 --> 00:08:25,150
+Il est partit, Reese.
+
+132
+00:08:25,150 --> 00:08:29,850
+Maintenant sois tu apprends à vivre avec ça,
+
+133
+00:08:29,850 --> 00:08:30,850
+Sois tu en meurs.
+
+134
+00:08:51,380 --> 00:08:53,410
+Elle dort maintenant.
+
+135
+00:09:03,450 --> 00:09:06,950
+Alors tu vas me dire comment il t'a trouvé?
+
+136
+00:09:13,480 --> 00:09:17,150
+C'est mieux si je sais.
+
+137
+00:09:17,150 --> 00:09:19,680
+C'était ma faute.
+
+138
+00:09:19,680 --> 00:09:23,610
+J'ai utilisé le teléphone.
+
+139
+00:09:23,610 --> 00:09:26,550
+J'ai appelé un ami. Roger.
+
+140
+00:09:26,550 --> 00:09:30,550
+Je supposes...
+
+141
+00:09:30,550 --> 00:09:34,150
+J'avais besoin de me sentir normal, tu sais.
+
+142
+00:09:34,150 --> 00:09:35,250
+Comme une personne.
+
+143
+00:09:39,680 --> 00:09:41,380
+Alors tu as enfrunt les règles.
+
+144
+00:09:41,380 --> 00:09:44,510
+Ouais.
+
+145
+00:09:44,510 --> 00:09:49,080
+La règle No.1 est, il n'y a rien de normal.
+
+146
+00:09:52,480 --> 00:09:54,150
+Ralentissez, ralentissez, ralentissez.
+
+147
+00:09:54,150 --> 00:09:55,780
+Je penses que je me suis foulé la cheville.
+
+148
+00:09:57,210 --> 00:09:59,310
+C'était quoi ce bordel?
+
+149
+00:10:01,010 --> 00:10:02,610
+La chose du futur que j'ai mentionnée.
+
+150
+00:10:02,610 --> 00:10:04,880
+On doit l'enmener à l'hopital.
+
+151
+00:10:04,880 --> 00:10:07,210
+On doit appeler la police.
+
+152
+00:10:07,210 --> 00:10:09,610
+Non, tu appeles la police,
+
+153
+00:10:09,610 --> 00:10:11,050
+La police arrive, cette chose les tuent.
+
+154
+00:10:11,050 --> 00:10:12,050
+J'ai besoin d'une bande.
+
+155
+00:10:12,050 --> 00:10:13,050
+Alors on doit dégager d'ici.
+
+156
+00:10:13,050 --> 00:10:14,150
+Ta voiture à l'extérieur.
+
+157
+00:10:14,150 --> 00:10:15,580
+On a qu'a prendre ta voiture, et on peut..
+
+158
+00:10:15,580 --> 00:10:17,280
+La route est bloquée. Il est la dehors.
+
+159
+00:10:17,280 --> 00:10:19,550
+On ne peut pas allé par là.
+
+160
+00:10:19,550 --> 00:10:21,480
+Est-ce qu'il y a une autre route dehors?
+
+161
+00:10:21,480 --> 00:10:23,380
+Non.
+
+162
+00:10:23,380 --> 00:10:25,080
+Schaeffer a une route.
+
+163
+00:10:25,080 --> 00:10:26,510
+Mais c'est à 1km et demi à travers les bois,
+
+164
+00:10:26,510 --> 00:10:27,810
+Et je ne pense pas qu'il soit là.
+
+165
+00:10:34,580 --> 00:10:35,550
+Est-ce que tu peux te lever?
+
+166
+00:10:38,710 --> 00:10:41,580
+A peine.
+
+167
+00:10:42,910 --> 00:10:43,980
+Laissez moi.
+
+168
+00:10:43,980 --> 00:10:45,150
+Allez à  la place Schaeffer.
+
+169
+00:10:45,150 --> 00:10:46,250
+Voyez si vous pouvez descendre de cette façon.
+
+170
+00:10:46,250 --> 00:10:47,450
+David, on est perdu.
+
+171
+00:10:47,450 --> 00:10:49,610
+On ne peut pas courrir 1km et demi à travers les bois.
+
+172
+00:10:49,610 --> 00:10:51,210
+Personne ne reste derrière.
+
+173
+00:10:51,210 --> 00:10:52,450
+Et pour ta fille?
+
+174
+00:10:52,450 --> 00:10:54,110
+Elle n'est pas ma fille.
+
+175
+00:10:54,110 --> 00:10:55,650
+C'est une des leurs, du futur.
+
+176
+00:10:55,650 --> 00:10:57,680
+Y'a pas moyen.
+
+177
+00:10:57,680 --> 00:10:59,750
+Elle est de notre côté.
+
+178
+00:10:59,750 --> 00:11:02,680
+J'ai besoin de savoir apres lequel
+d'entre vous cette chose en a.
+
+179
+00:11:02,680 --> 00:11:04,780
+Qu'est-ce que tu veux dire, lequel?
+
+180
+00:11:04,780 --> 00:11:05,750
+Cette chose veut l'entre vous mort.
+
+181
+00:11:05,750 --> 00:11:07,550
+J'ai besoin de savoir pourquoi.
+
+182
+00:11:07,550 --> 00:11:09,510
+Votre relation avec les ordinateurs,
+
+183
+00:11:09,510 --> 00:11:11,150
+La technologie, les militaires,
+quelque chose comme ça?
+
+184
+00:11:11,150 --> 00:11:12,810
+Je suis un banquier.
+
+185
+00:11:12,810 --> 00:11:14,080
+Elle est une femme au foyer.
+
+186
+00:11:14,080 --> 00:11:15,210
+Elle n'est rien.
+
+187
+00:11:15,210 --> 00:11:16,250
+Hey!
+
+188
+00:11:16,250 --> 00:11:17,250
+Tu sais ce que je veux dire.
+
+189
+00:11:17,250 --> 00:11:18,410
+C'est une erreur.
+
+190
+00:11:18,410 --> 00:11:19,750
+Nous sommes des gens normaux.
+
+191
+00:11:19,750 --> 00:11:21,110
+Ici. Est-ce que tu veux ton oxy, chéri?
+
+192
+00:11:24,180 --> 00:11:26,780
+J'ai un disque défectueux.
+
+193
+00:11:26,780 --> 00:11:27,780
+L-4.
+
+194
+00:11:27,780 --> 00:11:30,210
+Regardez,
+
+195
+00:11:30,210 --> 00:11:31,950
+On ne sait pas ce qu'on a fait.
+
+196
+00:11:31,950 --> 00:11:33,080
+Daccord, on ne peut pas vous aider.
+
+197
+00:11:33,080 --> 00:11:34,410
+Je suis désolé.
+
+198
+00:11:34,410 --> 00:11:36,050
+En quoi est faite cette poignée de porte?
+
+199
+00:11:36,050 --> 00:11:39,110
+C'est du cuivre froté à l'huile.
+
+200
+00:11:39,110 --> 00:11:40,080
+Pourquoi?
+
+201
+00:12:07,050 --> 00:12:08,610
+Je voulais voir si je pouvais aider.
+
+202
+00:12:08,610 --> 00:12:12,610
+Tu peux chercher des lampes de poche.
+
+203
+00:12:17,880 --> 00:12:18,910
+Qu'est-ce que vous allez faire?
+
+204
+00:12:18,910 --> 00:12:20,850
+Je vais mettre en place un piège.
+
+205
+00:12:20,850 --> 00:12:24,150
+Vous avez un trou métallique?
+
+206
+00:12:24,150 --> 00:12:25,650
+Un cylindre métallique à dents?
+
+207
+00:12:25,650 --> 00:12:28,680
+Uh, comme pour faire des trous pour les cabanes à oiseaux?
+
+208
+00:12:28,680 --> 00:12:29,910
+Je ne sais pas.
+
+209
+00:12:29,910 --> 00:12:31,010
+Je ne fait pas de cabanes à oiseaux.
+
+210
+00:12:31,010 --> 00:12:33,610
+Moi et mon père en avons fait un million.
+
+211
+00:12:33,610 --> 00:12:34,550
+On attends toujours pour
+
+212
+00:12:34,550 --> 00:12:36,150
+notre première famille d'oiseaux pour les mettre dedans.
+
+213
+00:12:36,150 --> 00:12:38,080
+Cela semble tellement boiteux, n'est-ce pas?
+
+214
+00:12:38,080 --> 00:12:39,980
+Pourquoi cela semble tellement boiteux?
+
+215
+00:12:39,980 --> 00:12:41,110
+Parce que vous etes en train de courrir autour avec vos armes,
+
+216
+00:12:41,110 --> 00:12:42,150
+Combattant les robots.
+
+217
+00:12:42,150 --> 00:12:45,410
+Des organismes cybernétiques.
+
+218
+00:12:45,410 --> 00:12:46,750
+L'extérieur est bien réel.
+
+219
+00:12:46,750 --> 00:12:48,210
+Vous combattez des cyborgs,
+
+220
+00:12:48,210 --> 00:12:49,880
+Et nous on construit des cabanes à oiseaux.
+
+221
+00:12:49,880 --> 00:12:53,180
+J'échangerais pour des cabanes à oiseaux
+à nimporte quel moment.
+
+222
+00:12:57,110 --> 00:12:58,550
+A quoi ça ressemble?
+
+223
+00:12:58,550 --> 00:13:00,180
+Je veux dire..
+
+224
+00:13:00,180 --> 00:13:02,080
+Faire ce que vous faites...
+
+225
+00:13:02,080 --> 00:13:03,750
+Ca doit etre--
+
+226
+00:13:03,750 --> 00:13:05,980
+Pourquoi êtes vous venus ici?
+
+227
+00:13:08,880 --> 00:13:11,310
+Tu te tiens là comme si t'allé me raconter un secret,
+
+228
+00:13:11,310 --> 00:13:13,550
+Mais tu ne le fais pas.
+
+229
+00:13:13,550 --> 00:13:14,850
+Mon fils fait ça.
+
+230
+00:13:14,850 --> 00:13:18,280
+Vous faites vraiment ça? Avec un enfant?
+
+231
+00:13:18,280 --> 00:13:21,710
+Il est ce pourquoi je fais ça.
+
+232
+00:13:25,580 --> 00:13:28,710
+Est-ce que c'est ça?
+
+233
+00:13:28,710 --> 00:13:33,010
+C'est mon père.
+
+234
+00:13:33,010 --> 00:13:35,250
+Il y a quelque chose qu'il ne vous dit pas.
+
+235
+00:13:39,050 --> 00:13:43,110
+Sym Dyne. Parlez moi de ça.
+
+236
+00:13:43,110 --> 00:13:44,980
+Sym dyne cybernetics, une compagnie
+
+237
+00:13:44,980 --> 00:13:46,110
+Vous avez travaillez avec eux.
+
+238
+00:13:46,110 --> 00:13:47,480
+Cybernetics?
+
+239
+00:13:47,480 --> 00:13:48,750
+De quoi est-ce que vous parlez?
+
+240
+00:13:48,750 --> 00:13:52,080
+David?
+
+241
+00:13:52,080 --> 00:13:54,280
+Ordinateurs, cyborgs, le future.
+
+242
+00:13:54,280 --> 00:13:55,780
+Votre mari travaille dessus.
+
+243
+00:13:55,780 --> 00:13:59,450
+Okay, ouais.
+
+244
+00:13:59,450 --> 00:14:01,110
+Une compagnie technologique de l'un de mes clients.
+
+245
+00:14:01,110 --> 00:14:03,450
+Ce sont ses emails.
+
+246
+00:14:07,480 --> 00:14:08,980
+C'est ce que je vous avez demandé.
+
+247
+00:14:08,980 --> 00:14:09,980
+Pourquoi vous ne me l'avez pas dit?
+
+248
+00:14:09,980 --> 00:14:11,680
+C'est seulement les affaires.
+
+249
+00:14:11,680 --> 00:14:13,350
+Ca n'a rien avoir avec les robots.
+
+250
+00:14:13,350 --> 00:14:15,050
+C'est des cyborgs.
+
+251
+00:14:15,050 --> 00:14:16,050
+Que faisiez-vous?
+
+252
+00:14:16,050 --> 00:14:17,910
+Affaires.
+
+253
+00:14:17,910 --> 00:14:19,410
+Bancaires.
+
+254
+00:14:19,410 --> 00:14:20,480
+Pourquoi est-ce que vous voulez savoir?
+
+255
+00:14:20,480 --> 00:14:22,610
+Parce que je ne suis pas là pour etre gentil
+
+256
+00:14:22,610 --> 00:14:24,510
+Et pour aider votre belle famille.
+
+257
+00:14:24,510 --> 00:14:26,780
+Je suis en train d'essayer de stoper
+la fin du monde avant qu'elle n'arrive
+
+258
+00:14:26,780 --> 00:14:28,250
+Et sauver ma famille.
+
+259
+00:14:28,250 --> 00:14:30,180
+Alors j'ai besoin de savoir ce que fait Skynet.
+
+260
+00:14:30,180 --> 00:14:31,450
+Et pourquoi ils vous veulent mort.
+
+261
+00:14:31,450 --> 00:14:34,780
+Pourquoi tu ne lui dit pas, David?
+
+262
+00:14:34,780 --> 00:14:37,710
+Parce que ce n'est pas vraiment légal.
+
+263
+00:14:37,710 --> 00:14:39,750
+Okay?
+
+264
+00:14:48,450 --> 00:14:50,410
+Pourquoi tu me dit pas, David?
+
+265
+00:14:50,410 --> 00:14:53,280
+Qu'une partie est secrète est illégalle,
+tu ne comprends pas?
+
+266
+00:14:54,850 --> 00:14:56,350
+Donc, ca a été un véritable crime?
+
+267
+00:14:56,350 --> 00:14:58,280
+Oh, allez, et qu'est-ce que vous faites sur mon ordinateur?
+
+268
+00:14:58,280 --> 00:14:59,580
+On recherche du porno lesbien.
+
+269
+00:14:59,580 --> 00:15:00,880
+Qu'elle est la différence?
+
+270
+00:15:00,880 --> 00:15:02,050
+Tu es gay?
+
+271
+00:15:02,050 --> 00:15:03,850
+Lauren?
+
+272
+00:15:03,850 --> 00:15:04,980
+Mon dieu.
+
+273
+00:15:04,980 --> 00:15:06,710
+Non!
+
+274
+00:15:06,710 --> 00:15:08,180
+Merci de me connaître.
+
+275
+00:15:08,180 --> 00:15:09,850
+Bien, je suis désolé, mais apparement,
+
+276
+00:15:09,850 --> 00:15:13,610
+Ton père est soudainement une sorte de cerveau criminel.
+
+277
+00:15:13,610 --> 00:15:15,180
+Anne, tu n'as aucune idée
+
+278
+00:15:15,180 --> 00:15:16,180
+Est-ce que tout cela est réel?
+
+279
+00:15:16,180 --> 00:15:17,180
+Calme!
+
+280
+00:15:19,180 --> 00:15:21,180
+C'est vraiment réel.
+
+281
+00:15:26,010 --> 00:15:28,950
+Qu'est-ce que c'est?
+
+282
+00:15:28,950 --> 00:15:30,210
+Est-ce qu'il y a quelque chose qui arrive?
+
+283
+00:15:30,210 --> 00:15:31,950
+Ils sont en train de se poursuivre.
+
+284
+00:15:31,950 --> 00:15:33,380
+Poursuivre quoi?
+
+285
+00:15:33,380 --> 00:15:36,450
+Chacun.
+
+286
+00:15:38,780 --> 00:15:40,310
+Donc somme-nous en sécurité?
+
+287
+00:15:43,310 --> 00:15:46,310
+Personne n'est jamais sauf.
+
+288
+00:15:46,310 --> 00:15:49,480
+Je suis désolé.
+
+289
+00:15:49,480 --> 00:15:51,210
+-J'ai besoin d'air.
+-Tu sais comment utiliser ça?
+
+290
+00:15:55,510 --> 00:15:56,610
+Si tu sais, prends le.
+
+291
+00:15:56,610 --> 00:15:57,750
+Si tu ne sais pas, laisse le.
+
+292
+00:15:57,750 --> 00:15:59,310
+Tu ne vas pas dehors sans ça.
+
+293
+00:16:38,410 --> 00:16:40,380
+Allo?
+
+294
+00:17:00,880 --> 00:17:03,550
+Allo!
+
+295
+00:17:59,480 --> 00:18:01,080
+Excuse moi.
+
+296
+00:18:06,380 --> 00:18:08,480
+Ta braguette est ouverte.
+
+297
+00:18:19,150 --> 00:18:20,450
+Désolé.
+
+298
+00:18:20,450 --> 00:18:22,880
+Ceci permet de réouvrir.
+
+299
+00:18:22,880 --> 00:18:24,250
+Vous devez mentir.
+
+300
+00:18:24,250 --> 00:18:25,680
+Ou est t'elle?
+
+301
+00:18:25,680 --> 00:18:27,150
+Ou est Lauren?
+
+302
+00:18:27,150 --> 00:18:31,910
+Elle est sortie prendre l'air.
+
+303
+00:18:31,910 --> 00:18:32,910
+Vous l'avez laissée?
+
+304
+00:18:32,910 --> 00:18:35,210
+Avec cette chose dehors?
+
+305
+00:18:35,210 --> 00:18:37,150
+Votre enfant ira bien.
+
+306
+00:18:37,150 --> 00:18:41,050
+Lauren, elle n'a pas été un enfant depuis des mois.
+
+307
+00:18:41,050 --> 00:18:42,550
+C'est facile de penser,
+
+308
+00:18:42,550 --> 00:18:45,810
+que c'est facile à dire.
+
+309
+00:18:45,810 --> 00:18:47,010
+Ce n'est pas toujours le cas.
+
+310
+00:18:47,010 --> 00:18:49,980
+Qu'est que vous en savez?
+
+311
+00:18:49,980 --> 00:18:53,150
+Je sais qu'elle vous protège.
+
+312
+00:18:53,150 --> 00:18:57,480
+Je connais cette histoire, elle me l'a raconté
+
+313
+00:18:57,480 --> 00:18:59,610
+A propos, appeler ce mec roger était nul.
+
+314
+00:18:59,610 --> 00:19:01,880
+Elle est trop intelligente pour appeler qui que ce soit.
+
+315
+00:19:03,410 --> 00:19:06,410
+Mais quelq'un a appelé ce roger.
+
+316
+00:19:06,410 --> 00:19:10,010
+Et je me demandes si c'était vous.
+
+317
+00:19:12,710 --> 00:19:14,950
+Les enfants peuvent s'adapter à tout ça.
+
+318
+00:19:14,950 --> 00:19:16,580
+C'est plus dur pour les adultes.
+
+319
+00:19:16,580 --> 00:19:21,010
+Est-il nécessaire de détruire toute la maison complètement.
+
+320
+00:19:21,010 --> 00:19:22,080
+David, tu nous a amenés là dedans.
+
+321
+00:19:22,080 --> 00:19:23,310
+Laisses là faire son boulot.
+
+322
+00:19:23,310 --> 00:19:24,680
+Qu'est-ce que je peux faire?
+
+323
+00:19:24,680 --> 00:19:26,210
+Dans le sac. Donnez-moi un ruban noir.
+
+324
+00:19:31,350 --> 00:19:33,680
+Vous n'avez jamais demandez d'où venait l'argent.
+
+325
+00:19:33,680 --> 00:19:36,150
+Je supposais que tu l'avais gagné.
+
+326
+00:19:36,150 --> 00:19:37,480
+Oh, maintenant quoi?
+
+327
+00:19:37,480 --> 00:19:39,050
+Je vais dans la salle de bain.
+
+328
+00:19:39,050 --> 00:19:40,310
+Est-ce que c'est bon?
+
+329
+00:19:42,550 --> 00:19:43,550
+Qu'est-ce que ça fait?
+
+330
+00:19:43,550 --> 00:19:46,010
+Il y a une puce dans leur tête.
+
+331
+00:19:46,010 --> 00:19:47,250
+Les électrocuter déclenche le redémarrage.
+
+332
+00:19:47,250 --> 00:19:50,250
+Si un d'entre eux touche cette poignée de porte,
+
+333
+00:19:50,250 --> 00:19:52,080
+On a 2 minutes pour extraire la puce.
+
+334
+00:19:52,080 --> 00:19:53,210
+Est-ce que ça marche?
+
+335
+00:19:53,210 --> 00:19:54,950
+J'ai seulement essayé sur la fille.
+
+336
+00:19:54,950 --> 00:19:59,110
+Et, non, ça ne marche pas toujours.
+
+337
+00:19:59,110 --> 00:20:00,950
+Alors comment savoir si il va venir par la porte de devant?
+
+338
+00:20:00,950 --> 00:20:04,510
+Ils arrivent toujours par la porte de devant.
+
+339
+00:20:12,510 --> 00:20:15,680
+Je ne savais pas si les lumières fonctionnaient.
+
+340
+00:20:15,680 --> 00:20:18,150
+J'ai remis en place les disjoncteurs.
+
+341
+00:20:18,150 --> 00:20:19,210
+Qui est-ce que vous appelez?
+
+342
+00:20:19,210 --> 00:20:21,610
+Personne. Désolé. Je--
+
+343
+00:20:21,610 --> 00:20:23,880
+Je vérifiais juste la ligne téléphonique.
+
+344
+00:20:23,880 --> 00:20:25,280
+J'ai peur.
+
+345
+00:20:25,280 --> 00:20:27,280
+Hawaii.
+
+346
+00:20:27,280 --> 00:20:28,450
+Oui.
+
+347
+00:20:28,450 --> 00:20:30,180
+Etes-vous mariés?
+
+348
+00:20:30,180 --> 00:20:31,510
+Au pere de--
+
+349
+00:20:31,510 --> 00:20:33,950
+Non. Je l'ai à peine connu
+
+350
+00:20:33,950 --> 00:20:34,950
+Chanceuse.
+
+351
+00:20:34,950 --> 00:20:36,950
+Vous pensez que vous avez ceci.
+
+352
+00:20:36,950 --> 00:20:38,580
+Puis vous réalisez que vous avez ça.
+
+353
+00:20:38,580 --> 00:20:40,910
+Ne vous inquietez pas à propos du passé.
+
+354
+00:20:40,910 --> 00:20:43,210
+C'est facile pour vous de dire ça.
+
+355
+00:20:43,210 --> 00:20:45,350
+Je ne suis pas comme vous.
+
+356
+00:20:45,350 --> 00:20:46,550
+Je suis juste normal.
+
+357
+00:20:46,550 --> 00:20:49,480
+J'étais normal.
+
+358
+00:20:49,480 --> 00:20:51,050
+Tout ceci m'a fait apprendre.
+
+359
+00:20:51,050 --> 00:20:54,610
+Je pensais que la crise était
+censée rapprocher une famille.
+
+360
+00:20:54,610 --> 00:20:59,310
+Ne pas confondre proche et heureux.
+
+361
+00:20:59,310 --> 00:21:00,450
+Hey, je vois quelque chose.
+
+362
+00:21:06,480 --> 00:21:07,550
+J'ai vu quelque chose. Je pense que quelq'un arrive.
+
+363
+00:21:07,550 --> 00:21:08,550
+Eloignez vous de la fenêtre.
+
+364
+00:21:08,550 --> 00:21:10,780
+Ce n'est pas elle. C'est un homme.
+
+365
+00:21:10,780 --> 00:21:12,510
+Je pense que c'est Mr. schaeffer.
+
+366
+00:21:12,510 --> 00:21:13,780
+Qui?
+
+367
+00:21:13,780 --> 00:21:15,880
+C'est roger, de la maison d'à côté.
+
+368
+00:21:15,880 --> 00:21:17,610
+C'est bon. On le connait.
+
+369
+00:21:17,610 --> 00:21:20,380
+Ces choses peuvent ressembler à n'importe qui.
+
+370
+00:21:20,380 --> 00:21:22,080
+Amis, voisins.
+
+371
+00:21:22,080 --> 00:21:23,680
+J'ai dit à Roger qu'on était partit camper ce weekend.
+
+372
+00:21:23,680 --> 00:21:25,110
+Charles!
+
+373
+00:21:28,010 --> 00:21:29,980
+-Les chiens peuvent sentir ces choses.
+-Non, c'est lui.
+
+374
+00:21:29,980 --> 00:21:31,080
+Qu'est-ce qu'il viendrait faire ici?
+
+375
+00:21:31,080 --> 00:21:32,680
+-C'est lui.
+-Comment vous pouvez savoir?
+
+376
+00:21:32,680 --> 00:21:34,050
+L'électrocution va le tuer.
+
+377
+00:21:34,050 --> 00:21:35,080
+-Je sais que c'est lui.
+-Attendez.
+
+378
+00:21:37,880 --> 00:21:40,680
+Hey, Annie. Roger, viens à l'intérieur!
+
+379
+00:21:43,780 --> 00:21:45,650
+Il est venu me voir, ok?
+
+380
+00:21:49,080 --> 00:21:51,310
+Elle n'est jamais partie camper.
+
+381
+00:21:51,310 --> 00:21:53,450
+Elle garde la maison des incendies.
+
+382
+00:21:53,450 --> 00:21:55,380
+Avec Roger?
+
+383
+00:21:57,110 --> 00:21:59,350
+Ne confondez pas proche avec heureux.
+
+384
+00:22:02,380 --> 00:22:05,610
+Je sais que c'était stupide.
+
+385
+00:22:05,610 --> 00:22:11,610
+Mais j'avais besoin...de lui faire savoir.
+
+386
+00:22:11,610 --> 00:22:13,610
+Et maintenant il est mort.
+
+387
+00:22:15,650 --> 00:22:18,380
+Et david est mort.
+
+388
+00:22:18,380 --> 00:22:19,710
+Je sais qu'il l'est.
+
+389
+00:22:22,880 --> 00:22:25,480
+Je n'avais aucune idée de ce que heureux été.
+
+390
+00:22:25,480 --> 00:22:29,680
+C'est marrant les choses que vous vous dites vous-même.
+
+391
+00:22:31,710 --> 00:22:33,750
+Oh, J'ai vu pire.
+
+392
+00:22:33,750 --> 00:22:34,810
+Ca va allé.
+
+393
+00:22:34,810 --> 00:22:36,980
+Il ne peut pas arrivé à moi.
+
+394
+00:22:36,980 --> 00:22:41,010
+Mais le pire est toujours dehors, n'est-ce pas?
+
+395
+00:22:43,080 --> 00:22:45,480
+Et il peut arrivé à toi.
+
+396
+00:22:45,480 --> 00:22:47,180
+Et ce n'est pas bon.
+
+397
+00:22:54,080 --> 00:22:59,310
+Même après tout ça, elle est encore
+en train d'essayer de... me couvrire.
+
+398
+00:22:59,310 --> 00:23:01,510
+Protégé ma dignité, je supposes.
+
+399
+00:23:01,510 --> 00:23:05,010
+Elle en a besoin pour être normal.
+
+400
+00:23:08,980 --> 00:23:10,980
+Elle a besoin d'allé bien.
+
+401
+00:23:10,980 --> 00:23:15,480
+Ou de faire semblant.
+
+402
+00:23:15,480 --> 00:23:18,710
+Daccord...
+
+403
+00:23:18,710 --> 00:23:20,450
+Plus de papottes, okay?
+
+404
+00:23:20,450 --> 00:23:22,910
+Il va obtenir votre fréquence cardiaque.
+
+405
+00:23:22,910 --> 00:23:24,150
+Ce n'est pas bon.
+
+406
+00:23:24,150 --> 00:23:26,680
+Ca n'a pas d'importance.
+
+407
+00:23:26,680 --> 00:23:28,580
+Lauren à de l'importance.
+
+408
+00:23:28,580 --> 00:23:30,850
+Et ce bébé a de l'importance.
+
+409
+00:23:30,850 --> 00:23:35,080
+Ils en ont tous, ça va en être fini de moi
+après que tout ceci soit terminé.
+
+410
+00:23:41,880 --> 00:23:43,810
+Une mère sait.
+
+411
+00:23:55,560 --> 00:23:56,930
+Vous l'êtes ?
+
+412
+00:23:56,930 --> 00:24:00,300
+Celui qui a envoyé le signal?
+
+413
+00:24:01,860 --> 00:24:03,400
+Non.
+
+414
+00:24:03,400 --> 00:24:07,060
+Mon équipe de débarquement a ramassé un sos codé.
+
+415
+00:24:07,060 --> 00:24:08,960
+Envoyez-moi autour de fossick.
+
+416
+00:24:08,960 --> 00:24:12,360
+Qu'est-ce que ça veut dire en français?
+
+417
+00:24:12,360 --> 00:24:15,130
+Ca veut dire que quelqu'un
+est toujours en vie à l'intérieur.
+
+418
+00:24:15,130 --> 00:24:17,400
+Probablement un civil.
+
+419
+00:24:17,400 --> 00:24:20,600
+Probablement caché.
+
+420
+00:24:20,600 --> 00:24:22,130
+Salle de radio, je supposes.
+
+421
+00:24:25,200 --> 00:24:29,560
+Je ne suis pas allé aussi loin.
+
+422
+00:24:29,560 --> 00:24:31,560
+Qu'est-ce que vous avez dit à propos
+d'une équipe de débarquement?
+
+423
+00:24:31,560 --> 00:24:35,200
+On faisait des troupes et du ravitaillement
+venant de Perth pendant des mois.
+
+424
+00:24:35,200 --> 00:24:37,400
+Le sous-marin Seawolf.
+
+425
+00:24:37,400 --> 00:24:38,500
+Le jimmy carter.
+
+426
+00:24:38,500 --> 00:24:41,360
+Vous aviez un sous-marin nucléaire?
+
+427
+00:24:41,360 --> 00:24:43,630
+Qui le commandé?
+
+428
+00:24:43,630 --> 00:24:48,100
+Pas qui. Quoi.
+
+429
+00:24:48,100 --> 00:24:50,200
+On avait un 888 comme capitaine.
+
+430
+00:24:50,200 --> 00:24:54,330
+Vous aviez du métal qui conduisait le sous-marin.
+
+431
+00:24:57,030 --> 00:24:58,360
+Et bien,vous me trouvez un commandant de sous-marin
+
+432
+00:24:58,360 --> 00:25:00,360
+Qui a survécu au jour J, je l'échangerai sans problêmes.
+
+433
+00:25:04,760 --> 00:25:06,600
+On a un peu de foi, compagnon.
+
+434
+00:25:06,600 --> 00:25:09,830
+Elle sera pommes.
+
+435
+00:25:09,830 --> 00:25:12,700
+Ca veut dire qu'on ira bien.
+
+436
+00:25:12,700 --> 00:25:15,730
+Tu crois ça?
+
+437
+00:25:15,730 --> 00:25:17,960
+Sur, autant que ma mère m'aime.
+
+438
+00:25:17,960 --> 00:25:19,560
+Ma mère est morte.
+
+439
+00:25:19,560 --> 00:25:21,660
+Ici.
+
+440
+00:25:21,660 --> 00:25:24,030
+Gaz?
+
+441
+00:25:24,030 --> 00:25:25,230
+Insectes.
+
+442
+00:25:25,230 --> 00:25:26,330
+Ca va marché?
+
+443
+00:25:26,330 --> 00:25:28,800
+Probablement pas.
+
+444
+00:26:28,400 --> 00:26:29,360
+Allé. Allé.
+
+445
+00:26:41,330 --> 00:26:42,730
+On doit l'enmener à l'hopital.
+
+446
+00:26:42,730 --> 00:26:44,400
+Ce n'est pas comme la dernière fois.
+
+447
+00:26:44,400 --> 00:26:45,960
+Ca ne va pas arrivé.
+
+448
+00:26:50,660 --> 00:26:51,660
+Elle a besoin d'un médecin.
+
+449
+00:26:51,660 --> 00:26:52,700
+Un vrai docteur.
+
+450
+00:26:52,700 --> 00:26:54,400
+Elle a besoin de vous pour tenir ensemble.
+
+451
+00:26:54,400 --> 00:26:55,800
+Oh, ouais, qui t'as donné l'ordre?
+
+452
+00:26:55,800 --> 00:26:57,360
+Toi. A l'instant.
+
+453
+00:26:57,360 --> 00:27:00,060
+Jusqu'à ce que Sarah Connor est passée cette porte,
+
+454
+00:27:00,060 --> 00:27:01,860
+L'endroit le plus sure dans tout
+ce putain de monde est juste ici.
+
+455
+00:27:01,860 --> 00:27:03,160
+Ils ne peuvent pas le tuer.
+
+456
+00:27:03,160 --> 00:27:04,630
+Ils ne pouvaient pas le tuer avant.
+
+457
+00:27:04,630 --> 00:27:06,430
+Ils ne peuvent pas le tuer maintenant.
+
+458
+00:27:06,430 --> 00:27:07,830
+Bébé. Mon bébé. Je suis désolé.
+
+459
+00:27:13,930 --> 00:27:15,360
+Quand est-ce que toute cette affaire a commencée?
+
+460
+00:27:15,360 --> 00:27:16,760
+Tu veux parler de ça maintenant?
+
+461
+00:27:16,760 --> 00:27:19,230
+C'était l'été dernier lorsque je ne pouvais
+pas voyagé à cause de mon accident du dos?
+
+462
+00:27:19,230 --> 00:27:20,760
+Tu as un probleme de disque à force
+de dormir sur le ventre.
+
+463
+00:27:20,760 --> 00:27:22,300
+J'ai glissé et je suis tombé!
+
+464
+00:27:22,300 --> 00:27:23,300
+Tu as un coeur faible!
+
+465
+00:27:23,300 --> 00:27:24,500
+Et bien en attendant mon coeur n'est pas une salope.
+
+466
+00:27:24,500 --> 00:27:26,200
+Tête de noeuds.
+
+467
+00:27:26,200 --> 00:27:27,000
+Putain!
+
+468
+00:27:27,000 --> 00:27:28,860
+Okay, ça c'est ta femme. N'est-ce pas.
+
+469
+00:27:30,830 --> 00:27:31,860
+Bon sang.
+
+470
+00:27:35,200 --> 00:27:37,130
+Les fusibles sont cuits.
+
+471
+00:27:37,130 --> 00:27:38,630
+Ce n'est pas sur que je puisse dérouté le courant.
+
+472
+00:27:38,630 --> 00:27:40,530
+Et qui c'est encore?
+
+473
+00:27:40,530 --> 00:27:41,630
+Sarah.
+
+474
+00:27:41,630 --> 00:27:43,300
+Elle a sauvée nos vies.
+
+475
+00:27:43,300 --> 00:27:45,400
+D'un mec qui ressemble à un mec mais qui est un robot?
+
+476
+00:27:45,400 --> 00:27:46,400
+C'est réel, Roger.
+
+477
+00:27:46,400 --> 00:27:48,530
+Un vrai homme peut-etre, mais Anne...
+
+478
+00:27:48,530 --> 00:27:49,560
+Des robots?
+
+479
+00:27:49,560 --> 00:27:50,560
+Hey, le terme exact
+
+480
+00:27:50,560 --> 00:27:52,230
+Est cyborg.
+
+481
+00:27:54,500 --> 00:27:55,960
+Roger?
+
+482
+00:27:55,960 --> 00:27:58,900
+Est-ce que tu as conduit ici?
+
+483
+00:27:58,900 --> 00:28:00,700
+Non, mais j'ai la 540 à ma place.
+
+484
+00:28:00,700 --> 00:28:02,330
+A moins de deux kilomètres et on est sortit de là.
+
+485
+00:28:02,330 --> 00:28:03,660
+dans notre condition,
+
+486
+00:28:03,660 --> 00:28:05,100
+Avec ce truc dehors, on y arrivera jamais.
+
+487
+00:28:05,100 --> 00:28:06,400
+Bien, David.
+
+488
+00:28:06,400 --> 00:28:08,330
+Je vais vous transporter.
+
+489
+00:28:08,330 --> 00:28:10,100
+Vous n'avez aucune idée de quoi vous êtes en train de parler.
+
+490
+00:28:10,100 --> 00:28:11,600
+Oh, oui, c'est vrai. Les cyborgs.
+
+491
+00:28:11,600 --> 00:28:13,130
+Anne?
+
+492
+00:28:13,130 --> 00:28:15,060
+Regardes moi.
+
+493
+00:28:15,060 --> 00:28:16,230
+C'est une femme folle.
+
+494
+00:28:16,230 --> 00:28:18,030
+Et ce gars dans les bois
+
+495
+00:28:18,030 --> 00:28:19,800
+Est probablement son petit ami ou un truc du genre.
+
+496
+00:28:19,800 --> 00:28:21,030
+Voilà ce que nous allons faire.
+
+497
+00:28:21,030 --> 00:28:22,700
+Tu vas venir avec moi jusqu'a ma place.
+
+498
+00:28:22,700 --> 00:28:23,830
+On va se rendre en ville--
+
+499
+00:28:23,830 --> 00:28:25,930
+S'arranger avec chacun.
+
+500
+00:28:25,930 --> 00:28:27,760
+Ensuite, nous allons parler de tout cela
+comme des adultes.
+
+501
+00:28:36,660 --> 00:28:38,160
+Qu'est ce que c'est que ce truc?
+
+502
+00:28:38,160 --> 00:28:39,130
+C'est une de ces choses.
+
+503
+00:28:39,130 --> 00:28:40,560
+Est-ce qu'elle est morte?
+
+504
+00:28:40,560 --> 00:28:41,660
+J'espère que non.
+
+505
+00:28:41,660 --> 00:28:43,300
+C'est une gentille. N'est-ce pas?
+
+506
+00:28:43,300 --> 00:28:45,260
+Je ne penses pas.
+
+507
+00:28:45,260 --> 00:28:46,260
+Vous pouvez la retournez sur le dos?
+
+508
+00:28:57,360 --> 00:28:58,900
+Il arrive.
+
+509
+00:29:01,300 --> 00:29:02,660
+Roger!
+
+510
+00:29:02,660 --> 00:29:04,230
+Roger!
+
+511
+00:29:07,430 --> 00:29:08,860
+David, qu'est-ce que tu fais?
+
+512
+00:29:08,860 --> 00:29:10,630
+Je suis celui qu'il veut. Quelq'un doit faire quelque chose.
+
+513
+00:29:10,630 --> 00:29:11,900
+Je ne peux pas te laissé faire ça.
+
+514
+00:29:11,900 --> 00:29:14,960
+Madame...
+
+515
+00:29:14,960 --> 00:29:17,300
+Je m'en fous complètement de skynet
+
+516
+00:29:17,300 --> 00:29:19,330
+Ou quoi que vous vendiez.
+
+517
+00:29:19,330 --> 00:29:20,900
+J'essayes de sauver ma famille.
+
+518
+00:29:20,900 --> 00:29:22,760
+Alors laissez moi sortir et le faire,
+
+519
+00:29:22,760 --> 00:29:24,200
+Ou je vais le faire juste ici.
+
+520
+00:29:25,800 --> 00:29:26,800
+Papa!
+
+521
+00:29:33,230 --> 00:29:35,130
+Je suis désolé...
+
+522
+00:29:36,560 --> 00:29:38,530
+Pour tout.
+
+523
+00:29:44,700 --> 00:29:47,160
+Hey, je suis David Fields, celui que tu veux.
+
+524
+00:29:50,030 --> 00:29:51,200
+Prends moi. Laisses ma famille.
+
+525
+00:30:05,360 --> 00:30:06,560
+Ce n'est pas lui.
+
+526
+00:30:06,560 --> 00:30:08,000
+Il en a après l'un d'entre vous.
+
+527
+00:30:08,000 --> 00:30:09,300
+Quelqu'un cache quelque chose.
+
+528
+00:30:09,300 --> 00:30:10,930
+Je ne peux pas vous aider.
+
+529
+00:30:10,930 --> 00:30:13,200
+Anne.
+
+530
+00:30:13,200 --> 00:30:15,900
+David ne sait pas.
+
+531
+00:30:15,900 --> 00:30:17,130
+Ce n'est pas lui.
+
+532
+00:30:17,130 --> 00:30:19,930
+Vous êtes enceinte?
+
+533
+00:30:19,930 --> 00:30:21,100
+Okay,go.
+
+534
+00:30:21,100 --> 00:30:23,230
+Restez ici. Ne faites pas un bruit.
+
+535
+00:30:23,230 --> 00:30:25,060
+Je vais aidé ta mère à allé à la voiture de Roger.
+
+536
+00:30:25,060 --> 00:30:26,930
+Attends, non, tu ne peux pas.
+
+537
+00:30:26,930 --> 00:30:28,330
+Il en a après toi.
+
+538
+00:30:28,330 --> 00:30:29,730
+Elle va etre en sécurité ici.
+
+539
+00:30:29,730 --> 00:30:31,500
+Maman, c'ets bon. Ca va allé.
+
+540
+00:30:31,500 --> 00:30:32,900
+Tu es sure?
+
+541
+00:30:32,900 --> 00:30:35,600
+Je veux dire, je préfère faire des maisons pour oiseaux.
+
+542
+00:30:35,600 --> 00:30:37,160
+Moi aussi.
+
+543
+00:30:39,260 --> 00:30:40,400
+Ok, Anne, allons-y.
+
+544
+00:30:44,660 --> 00:30:46,360
+J'ai fait ça pour toi.
+
+545
+00:30:46,360 --> 00:30:47,900
+Je suis désolée.
+
+546
+00:30:47,900 --> 00:30:49,300
+A propos de quoi?
+
+547
+00:30:49,300 --> 00:30:50,760
+Tu ne sais pas c'est à quel propos?
+
+548
+00:30:50,760 --> 00:30:52,930
+C'est à propos de ta mère.
+
+549
+00:30:52,930 --> 00:30:54,660
+Et de ta petite soeur.
+
+550
+00:30:54,660 --> 00:30:56,500
+Et ils ont besoin de toi maintenant.
+
+551
+00:30:56,500 --> 00:30:58,560
+Ma petite soeur?
+
+552
+00:30:58,560 --> 00:31:01,760
+Comment tu--
+
+553
+00:31:01,760 --> 00:31:05,960
+Oh, mon dieu. Tu viens du futur.
+
+554
+00:31:05,960 --> 00:31:10,130
+Le nom de ta soeur est Sydney.
+
+555
+00:31:11,600 --> 00:31:13,700
+Et je la connaissais.
+
+556
+00:31:17,660 --> 00:31:22,230
+Ces masques à gaz, ils ne vont pas aidé.
+
+557
+00:31:22,230 --> 00:31:23,630
+Vous êtes déjà infectés.
+
+558
+00:31:28,430 --> 00:31:30,700
+Le soleil se lève.
+
+559
+00:31:30,700 --> 00:31:32,630
+On ne peut pas bouger jusqu'à la tombée de la nuit.
+
+560
+00:31:32,630 --> 00:31:34,330
+C'est à ce moment qu'ils peuvent passer à l'infrarouge.
+
+561
+00:31:34,330 --> 00:31:37,830
+Je supposes qu'il nous suffit de s'asseoir et d'attendre.
+
+562
+00:31:37,830 --> 00:31:41,760
+Quand on sera à Serrano Point, ils peuvent guérir cette chose?
+
+563
+00:31:41,760 --> 00:31:44,400
+Déjà allons a Serrano Point.
+
+564
+00:31:44,400 --> 00:31:46,260
+C'est quoi ça?
+
+565
+00:31:46,260 --> 00:31:48,330
+C'est du "plumpy'nut".
+
+566
+00:31:48,330 --> 00:31:50,260
+C'est du beurre de cacahuète mixé à ma formule magique.
+
+567
+00:31:50,260 --> 00:31:51,800
+Et de la vitamine en poudre.
+
+568
+00:31:51,800 --> 00:31:54,830
+J'ai couché sur une palette comme ça
+pendant le voyage de Perth.
+
+569
+00:31:54,830 --> 00:31:56,700
+Et vous les mecs, vous faites de la nourriture encore?
+
+570
+00:31:56,700 --> 00:32:01,030
+Ouep. La chasse aux lapins.
+
+571
+00:32:01,030 --> 00:32:02,400
+Lapins?
+
+572
+00:32:02,400 --> 00:32:05,100
+La pensée australienne était tous les combats
+
+573
+00:32:05,100 --> 00:32:07,360
+Et les wallabies et le matériel.
+
+574
+00:32:07,360 --> 00:32:09,960
+Non.
+
+575
+00:32:09,960 --> 00:32:12,000
+Des abrutis les ont introduit dans les années 1800.
+
+576
+00:32:12,000 --> 00:32:16,360
+Alors, ils pullulent, détruisent récoltes et pâturages.
+
+577
+00:32:16,360 --> 00:32:18,000
+Ils ont tout essayé pour les tuer.
+
+578
+00:32:18,000 --> 00:32:20,760
+Les piégeant, leur tirant dessus, en les empoisonnant,
+
+579
+00:32:20,760 --> 00:32:23,730
+Construction d'un mur à travers la moitié du pays
+
+580
+00:32:23,730 --> 00:32:24,860
+Pour les retenir dehors.
+
+581
+00:32:24,860 --> 00:32:28,060
+Dans les années 1950, ils ont même introduit un virus
+
+582
+00:32:28,060 --> 00:32:29,500
+Pour les exterminer.
+
+583
+00:32:29,500 --> 00:32:32,960
+Ca a tué la plupart d'entre eux, mais un couple était immunisé,
+
+584
+00:32:32,960 --> 00:32:35,400
+Alors 10 ans après,
+
+585
+00:32:35,400 --> 00:32:37,530
+L'australie était repartit pour faire les gros yeux aux lapins.
+
+586
+00:32:41,400 --> 00:32:44,360
+Que des petits bâtards.
+
+587
+00:32:44,360 --> 00:32:47,100
+C'est pourquoi tu dois les faire cuire longtemps.
+
+588
+00:32:47,100 --> 00:32:49,900
+Tu peux me passer ton eau? Je suis desséché.
+
+589
+00:33:02,730 --> 00:33:06,000
+Allons-y.
+
+590
+00:33:06,000 --> 00:33:07,430
+En plein jour?
+
+591
+00:33:07,430 --> 00:33:10,000
+Juste parce que t'es un fou de la mort.
+
+592
+00:33:10,000 --> 00:33:11,660
+Ne signifie pas que nous sommes enrôlés.
+
+593
+00:33:13,060 --> 00:33:17,260
+Ca commence avec la bouche asséchée.
+
+594
+00:33:17,260 --> 00:33:21,760
+Et puis les sueurs.
+
+595
+00:33:21,760 --> 00:33:24,300
+Et la fièvre monte puis tu commences à trembler.
+
+596
+00:33:24,300 --> 00:33:27,600
+Et puis tes poumons se remplissent de liquide,
+
+597
+00:33:27,600 --> 00:33:28,630
+Et ensuite tu meurs.
+
+598
+00:33:28,630 --> 00:33:30,630
+Tu n'as plus beaucoup de temps.
+
+599
+00:33:30,630 --> 00:33:34,730
+Ca arrive.
+
+600
+00:33:34,730 --> 00:33:37,400
+Allons-y.
+
+601
+00:33:47,260 --> 00:33:51,000
+Alors tu viens du futur?
+
+602
+00:33:51,000 --> 00:33:52,630
+Commme eux?
+
+603
+00:33:52,630 --> 00:33:54,430
+Comme ces machines?
+
+604
+00:33:54,430 --> 00:33:55,630
+Ouais.
+
+605
+00:33:55,630 --> 00:33:57,300
+Ouais, comme elles.
+
+606
+00:33:57,300 --> 00:34:01,330
+Et dans le futur, tu connais mon bébé.
+
+607
+00:34:01,330 --> 00:34:04,300
+Donc ça signifie qu'elle l'a fait?
+
+608
+00:34:04,300 --> 00:34:08,530
+Votre fille Sydney a une immunité.
+
+609
+00:34:08,530 --> 00:34:11,230
+Dans son sang.
+
+610
+00:34:11,230 --> 00:34:13,500
+Elle nous a aidé à guérir d'une maladie mortelle.
+
+611
+00:34:13,500 --> 00:34:18,330
+Elle a sauvée beaucoup de vies.
+
+612
+00:34:18,330 --> 00:34:19,600
+Sydney.
+
+613
+00:34:24,430 --> 00:34:26,030
+Et Lauren?
+
+614
+00:34:26,030 --> 00:34:27,430
+Est-ce qu'elle l'a sauvée aussi?
+
+615
+00:35:08,500 --> 00:35:10,060
+Il est humain?
+
+616
+00:35:10,060 --> 00:35:11,600
+Oui, bien sur!
+
+617
+00:35:11,600 --> 00:35:13,830
+Autant pour moi.
+
+618
+00:35:40,030 --> 00:35:41,760
+Allez, allez. Rentrez!
+
+619
+00:35:41,760 --> 00:35:43,200
+Allez rentrez. Rentrez!
+
+620
+00:35:56,060 --> 00:35:57,030
+Elle est entièrement dilatée.
+
+621
+00:35:59,100 --> 00:36:00,600
+Tu dois le faire, bébé.
+
+622
+00:36:00,600 --> 00:36:04,060
+Tu dois le faire.
+
+623
+00:36:07,060 --> 00:36:08,200
+Ma soeur arrive.
+
+624
+00:38:18,480 --> 00:38:20,510
+Tu sais ce qu'on était les derniers mots d'Oscar Wilde?
+
+625
+00:38:22,980 --> 00:38:24,250
+Ou ce papier peint disparaît,
+
+626
+00:38:24,250 --> 00:38:25,780
+Ou c'est moi.
+
+627
+00:38:28,280 --> 00:38:30,910
+J'ai pensé que ce serait fini maintenant.
+
+628
+00:38:35,450 --> 00:38:36,550
+Tu es prêt pour ça?
+
+629
+00:38:36,550 --> 00:38:38,950
+Non.
+
+630
+00:38:38,950 --> 00:38:42,280
+Non, je ne le suis pas.
+
+631
+00:38:42,280 --> 00:38:43,410
+Alors qu'est-ce que tu faisais là quand je t'ai trouvé
+
+632
+00:38:43,410 --> 00:38:45,310
+A l'extérieur d'eagle rock?
+
+633
+00:38:49,080 --> 00:38:53,280
+Je penses...
+
+634
+00:38:53,280 --> 00:38:55,910
+Que je t'attendais.
+
+635
+00:39:30,950 --> 00:39:35,310
+Merci pour avoir sauver ma soeur.
+
+636
+00:39:45,850 --> 00:39:48,380
+J'ai été à ta place.
+
+637
+00:39:50,350 --> 00:39:52,510
+Il ya des jours où tu ne penses pas que tu pourrais y être,
+
+638
+00:39:52,510 --> 00:39:55,950
+Mais tu y seras.
+
+639
+00:39:55,950 --> 00:39:57,380
+Parce qu'elle a besoin de toi aussi.
+
+640
+00:39:59,710 --> 00:40:02,580
+On en a tous besoin.
+
+641
+00:40:02,580 --> 00:40:04,980
+Mais même s'ils tuent cette chose,
+
+642
+00:40:04,980 --> 00:40:08,180
+Il y en a plus, n'est-ce pas?
+
+643
+00:40:08,180 --> 00:40:09,880
+Ca ne finira jamais?
+
+644
+00:40:12,950 --> 00:40:15,310
+Je ne sais pas.
+
+645
+00:40:17,410 --> 00:40:20,180
+On essaye.
+
+646
+00:40:25,110 --> 00:40:26,910
+Restez avec nous.
+
+647
+00:40:26,910 --> 00:40:29,710
+Je ne sais pas.
+
+648
+00:40:29,710 --> 00:40:31,750
+Penses-y.
+
+649
+00:40:33,780 --> 00:40:36,180
+Je dois le faire.
+
+650
+00:41:02,610 --> 00:41:04,010
+Est-ce que tu l'as eu?
+
+651
+00:41:04,010 --> 00:41:05,950
+Je veux dire, quand ça t'arrives,
+
+652
+00:41:05,950 --> 00:41:06,980
+Combien de temps se passe jusqu'à ce que tu saches
+
+653
+00:41:06,980 --> 00:41:08,680
+Que tout va être différent?
+
+654
+00:41:08,680 --> 00:41:09,950
+Tout de suite.
+
+655
+00:41:12,280 --> 00:41:14,780
+Je ne sais pas si ils l'ont eu.
+
+656
+00:41:14,780 --> 00:41:17,350
+Ils vont avoir besoin de ton aide.
+
+657
+00:41:17,350 --> 00:41:20,050
+Ils l'ont toujours.
+
+658
+00:41:35,810 --> 00:41:38,380
+Sarah, hey.
+
+659
+00:41:38,380 --> 00:41:40,280
+Ouais, je suis toujours ici.
+
+660
+00:41:40,280 --> 00:41:41,480
+Est-ce que t'as eu le 888?
+
+661
+00:41:41,480 --> 00:41:44,650
+Tu es sure?
+
+662
+00:41:44,650 --> 00:41:47,410
+Je l'ai eu, j'en suis sure.
+
+663
+00:41:47,410 --> 00:41:50,350
+Um, le bébé va bien.
+
+664
+00:41:50,350 --> 00:41:54,780
+Elever une fille est difficile.
+
+665
+00:41:54,780 --> 00:41:57,880
+Je lui ai dit qu'elle pouvait venir avec nous.
+
+666
+00:41:57,880 --> 00:42:01,280
+Et bien, ça ne pouvait pas être pire, n'est-ce pas?
+
+667
+00:42:03,410 --> 00:42:05,850
+Ouais. Ouais, appel moi quand tu reviens.
+
+668
+00:42:13,110 --> 00:42:14,780
+Lauren, je...
+
+669
+00:07:23,500 --> 00:07:27,500
+Sous-titres : Em2k8 
+

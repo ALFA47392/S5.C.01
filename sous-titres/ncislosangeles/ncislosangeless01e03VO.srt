@@ -1,0 +1,2945 @@
+1
+00:00:21,313 --> 00:00:25,316
+<i>Stingray six, this is hawkeye.
+Live-fire exercise green to go.</i>
+
+2
+00:00:25,400 --> 00:00:27,485
+<i>Requesting permission to fire.</i>
+
+3
+00:00:27,792 --> 00:00:29,544
+<i>Permission to fire granted.</i>
+
+4
+00:00:30,741 --> 00:00:32,698
+That's a roger, stingray six.
+
+5
+00:00:32,783 --> 00:00:34,931
+- BFT has you cleared.
+<i>- Target is confirmed,</i>
+
+6
+00:00:34,973 --> 00:00:37,337
+<i>you have authorization to fire.
+Falling back.</i>
+
+7
+00:00:37,379 --> 00:00:40,204
+Hawkeye is firing...
+In five...
+
+8
+00:00:40,449 --> 00:00:43,134
+Four... Three... Two...
+
+9
+00:00:43,541 --> 00:00:44,273
+One.
+
+10
+00:00:47,505 --> 00:00:51,369
+<i>Hawkeye, this is stingray six.
+Confirm missile fired. Over.</i>
+
+11
+00:00:53,553 --> 00:00:54,595
+Stand by.
+
+12
+00:00:54,997 --> 00:00:57,437
+<i>Hawkeye,
+we are getting a misfire alert.</i>
+
+13
+00:01:00,673 --> 00:01:03,256
+<i>Hawkeye, your drone
+is veering off course.</i>
+
+14
+00:01:03,298 --> 00:01:05,004
+<i>Return to previous vector.</i>
+
+15
+00:01:05,046 --> 00:01:08,151
+<i>- Briggs, what the hell's happening?</i>
+- Target coordinates are shifting.
+
+16
+00:01:08,448 --> 00:01:11,029
+Mike, get out of there.
+I've now lost control of the drone.
+
+17
+00:01:13,448 --> 00:01:16,826
+<i>Hawkeye, we have radar confirmation
+of missile fire. Please advise.</i>
+
+18
+00:01:16,910 --> 00:01:19,411
+Mike, the missile's live!
+Get out of there!
+
+19
+00:01:22,124 --> 00:01:24,922
+.: Team UnderCovers :.
+
+20
+00:01:36,224 --> 00:01:39,515
+NCIS Los Angeles
+1x03 [ Predator ]
+
+21
+00:02:01,281 --> 00:02:02,018
+So?
+
+22
+00:02:02,547 --> 00:02:03,276
+So?
+
+23
+00:02:03,665 --> 00:02:04,901
+I want to know.
+
+24
+00:02:05,296 --> 00:02:08,274
+You want to gossip at my expense.
+
+25
+00:02:08,453 --> 00:02:11,047
+Come on, how'd it go last night?
+Date number two.
+
+26
+00:02:11,243 --> 00:02:12,642
+It didn't. Canceled.
+
+27
+00:02:13,002 --> 00:02:15,047
+- He canceled?
+- I canceled.
+
+28
+00:02:15,473 --> 00:02:17,955
+It wouldn't have ended well.
+It's pretty much over.
+
+29
+00:02:17,997 --> 00:02:20,110
+I thought the first date went great.
+
+30
+00:02:20,328 --> 00:02:22,850
+Look, you guys, I am the best
+first date girl in town.
+
+31
+00:02:22,934 --> 00:02:25,126
+I mean, I bring
+my "a" game... funny,
+
+32
+00:02:25,344 --> 00:02:27,897
+flirty, charming, spontaneous,
+
+33
+00:02:27,981 --> 00:02:29,408
+- tasteful.
+- Like me.
+
+34
+00:02:30,358 --> 00:02:33,653
+- And the second?
+- Second date: antsy, bored,
+
+35
+00:02:33,907 --> 00:02:35,988
+distant, impatient, irritable.
+
+36
+00:02:36,200 --> 00:02:36,948
+Like G.
+
+37
+00:02:37,180 --> 00:02:38,908
+I decided to save
+everybody some trouble,
+
+38
+00:02:39,121 --> 00:02:42,245
+end it early, and...
+embrace my skill set.
+
+39
+00:02:42,329 --> 00:02:44,683
+- The first date's the last date.
+- Absolutely.
+
+40
+00:02:44,725 --> 00:02:47,334
+Few men know how to deal
+
+41
+00:02:47,376 --> 00:02:49,502
+with a smart, strong,
+
+42
+00:02:49,753 --> 00:02:51,212
+independent woman.
+
+43
+00:02:51,296 --> 00:02:54,844
+They say they want
+a soul mate to share their dreams
+
+44
+00:02:54,886 --> 00:02:58,473
+and their hopes with, but all
+they really want is a substitute mommy.
+
+45
+00:02:58,515 --> 00:03:01,180
+As a professional psychologist,
+I have to completely...
+
+46
+00:03:01,264 --> 00:03:02,306
+Nate, sit down.
+
+47
+00:03:02,390 --> 00:03:03,396
+I'm gonna sit.
+
+48
+00:03:05,757 --> 00:03:06,561
+Briefing?
+
+49
+00:03:06,645 --> 00:03:09,188
+Sexual harassment guidelines.
+
+50
+00:03:09,272 --> 00:03:11,716
+There's a seminar next week and...
+
+51
+00:03:12,058 --> 00:03:16,040
+it is mandatory,
+even for you, Mr. Callen.
+
+52
+00:03:16,967 --> 00:03:19,613
+George hamilton once told me
+
+53
+00:03:19,934 --> 00:03:23,744
+that what men really love
+is a woman who plays hard to get.
+
+54
+00:03:27,782 --> 00:03:29,959
+Or was it Sinatra?
+
+55
+00:03:36,633 --> 00:03:38,535
+- Saved by the whistle.
+- Yeah.
+
+56
+00:03:39,394 --> 00:03:42,388
+All right, footage from Camp
+Pendleton, tagged "classified."
+
+57
+00:03:42,472 --> 00:03:44,516
+- How old is this?
+- Approximately 24 hours.
+
+58
+00:03:44,558 --> 00:03:46,267
+What are we looking at, exactly?
+
+59
+00:03:46,469 --> 00:03:49,729
+The battlefield through the eyes
+of an unmanned aerial vehicle,
+
+60
+00:03:50,041 --> 00:03:52,106
+commonly referred to as a uav.
+
+61
+00:03:52,692 --> 00:03:55,526
+- Future of warfare.
+- Field operatives in Pakistan
+
+62
+00:03:55,610 --> 00:03:58,821
+call in a target to a pilot sitting
+behind a joystick in california.
+
+63
+00:03:59,254 --> 00:04:02,118
+Pilot hits a button,
+rains missiles down on the bad guys.
+
+64
+00:04:02,160 --> 00:04:03,659
+Like a video game but real.
+
+65
+00:04:03,864 --> 00:04:06,537
+This feed is from a live-fire
+training exercise at Pendleton.
+
+66
+00:04:06,621 --> 00:04:08,656
+A marine unit was working
+in tandem with the drone.
+
+67
+00:04:08,698 --> 00:04:10,917
+This one was armed
+with two Hellfire missiles.
+
+68
+00:04:11,001 --> 00:04:14,003
+- Who changed the target coordinates?
+- Still trying to figure that out.
+
+69
+00:04:14,242 --> 00:04:16,255
+Here is the feed
+from the missile's warhead camera.
+
+70
+00:04:16,801 --> 00:04:18,276
+The marine was killed.
+
+71
+00:04:21,469 --> 00:04:23,054
+Run it back. There.
+
+72
+00:04:23,783 --> 00:04:25,522
+Sergeant Michael Hazlett.
+
+73
+00:04:25,709 --> 00:04:28,100
+Specialized in coordinating
+uavs with the ground teams.
+
+74
+00:04:28,461 --> 00:04:30,937
+- Married, three kids.
+- Who was flying the drone?
+
+75
+00:04:31,206 --> 00:04:33,230
+Air Force Captain
+Mark Holden Briggs.
+
+76
+00:04:33,576 --> 00:04:35,077
+Says he didn't misfire.
+
+77
+00:04:35,835 --> 00:04:37,455
+Drone fired itself.
+
+78
+00:04:38,162 --> 00:04:39,987
+I think we need to take
+a look at that drone.
+
+79
+00:04:40,676 --> 00:04:41,822
+Good luck with that.
+
+80
+00:04:42,090 --> 00:04:43,824
+- It disappeared from radar.
+- Crashed?
+
+81
+00:04:44,045 --> 00:04:45,451
+They can't find it.
+
+82
+00:04:47,078 --> 00:04:48,571
+So what killed sergeant Hazlett?
+
+83
+00:04:48,613 --> 00:04:51,357
+- Theory one: pilot error.
+- Theory two: system malfunction.
+
+84
+00:04:51,399 --> 00:04:53,416
+Theory three: sabotage.
+
+85
+00:04:53,501 --> 00:04:56,360
+It was a joint op between
+the marine corps and the air force.
+
+86
+00:04:56,402 --> 00:04:59,600
+Someone with security clearance
+could narrow those choices.
+
+87
+00:05:00,043 --> 00:05:02,566
+Air force doesn't want us going
+through their dirty laundry.
+
+88
+00:05:02,608 --> 00:05:05,429
+Logging that request means 50 pages
+of fine print and a day's wait.
+
+89
+00:05:05,745 --> 00:05:08,397
+And we're sitting on our hands
+while the trail runs cold.
+
+90
+00:05:08,439 --> 00:05:09,487
+Bureaucracy.
+
+91
+00:05:13,779 --> 00:05:16,472
+- It's all about who you know.
+- We know anyone?
+
+92
+00:05:20,358 --> 00:05:21,569
+We know people.
+
+93
+00:05:23,259 --> 00:05:25,032
+The kind of people who know people.
+
+94
+00:05:29,719 --> 00:05:32,498
+- Hetty and Frank Sinatra?
+- Don't go there.
+
+95
+00:05:33,507 --> 00:05:35,843
+He told her men like women
+who play hard to get.
+
+96
+00:05:36,337 --> 00:05:39,755
+Which suggests that Hetty was playing
+hard to get with Frank Sinatra.
+
+97
+00:05:40,146 --> 00:05:42,797
+- I told you not to go there.
+- Yeah, you did.
+
+98
+00:05:43,519 --> 00:05:45,386
+Ol'blue eyes and Hetty.
+
+99
+00:05:48,360 --> 00:05:51,350
+- I guess hetty did it her way.
+- Here he comes.
+
+100
+00:05:52,562 --> 00:05:56,482
+- What agency is this guy with?
+- CIA, NSA, DOD.
+
+101
+00:05:56,857 --> 00:05:59,355
+Some say he's a black ops
+handler for all three.
+
+102
+00:05:59,397 --> 00:06:03,113
+- But he's our guy.
+- He's not our guy, he's Hetty's guy.
+
+103
+00:06:04,516 --> 00:06:05,487
+Gentlemen.
+
+104
+00:06:06,476 --> 00:06:09,779
+This conversation never happened.
+You have 60 seconds.
+
+105
+00:06:11,862 --> 00:06:13,456
+How secure are these uavs?
+
+106
+00:06:13,540 --> 00:06:16,792
+Hackers are chasing the usaf
+security protocols constantly.
+
+107
+00:06:17,338 --> 00:06:20,921
+Over the past month, we had four
+experimental uavs breached domestically.
+
+108
+00:06:21,135 --> 00:06:22,381
+This has happened before?
+
+109
+00:06:22,607 --> 00:06:25,259
+No, every other time it happened,
+the drones crashed within ten seconds.
+
+110
+00:06:25,611 --> 00:06:28,947
+Practice runs. Hackers are trying
+to see if they can get the hang of it.
+
+111
+00:06:30,342 --> 00:06:31,432
+Your time is up.
+
+112
+00:06:34,136 --> 00:06:36,687
+Tell Hetty I haven't
+forgotten about Nepal.
+
+113
+00:06:37,153 --> 00:06:40,221
+As far as I'm concerned,
+we're even now.
+
+114
+00:06:43,953 --> 00:06:46,072
+Didn't seem like 60 seconds to me.
+
+115
+00:06:46,834 --> 00:06:48,010
+Bad cologne.
+
+116
+00:06:48,366 --> 00:06:52,305
+A copy of the uav's video feed
+just popped up on sphereguide.com.
+
+117
+00:06:52,347 --> 00:06:54,830
+- Which is?
+- Like Youtube for hackers.
+
+118
+00:06:55,066 --> 00:06:56,498
+Can you trace the IP address?
+
+119
+00:06:56,583 --> 00:06:59,276
+The poster's signal
+wasounced off six different servers.
+
+120
+00:06:59,515 --> 00:07:01,921
+He doesn't want to be found,
+but I'll get him.
+
+121
+00:07:04,296 --> 00:07:05,260
+Rewind it.
+
+122
+00:07:05,302 --> 00:07:07,177
+This is the feed
+from the drone's camera.
+
+123
+00:07:07,381 --> 00:07:09,461
+Looks like it landed
+in the desert somewhere.
+
+124
+00:07:09,503 --> 00:07:12,352
+Based on its last coordinates,
+it's gotta be local.
+
+125
+00:07:13,516 --> 00:07:15,183
+So there was no crash.
+
+126
+00:07:15,268 --> 00:07:17,091
+How many Hellfire missiles
+were on the drone?
+
+127
+00:07:17,133 --> 00:07:19,021
+Two.
+It fired one.
+
+128
+00:07:20,523 --> 00:07:22,259
+And here comes our man.
+
+129
+00:07:23,759 --> 00:07:25,157
+What are you up to?
+
+130
+00:07:25,941 --> 00:07:27,356
+He powered it down.
+
+131
+00:07:28,323 --> 00:07:30,157
+Must've loaded
+the drone in the back.
+
+132
+00:07:39,004 --> 00:07:40,584
+Who is this guy?
+
+133
+00:07:40,766 --> 00:07:43,156
+Proud new owner of
+a hellfire missile.
+
+134
+00:07:44,133 --> 00:07:45,589
+And he's somewhere in L.A.
+
+135
+00:07:56,360 --> 00:07:58,933
+I started a facial recognition
+search on the driver.
+
+136
+00:07:59,229 --> 00:08:01,021
+No plates on it,
+how we gonna trace him?
+
+137
+00:08:01,443 --> 00:08:02,440
+Kaleidoscope.
+
+138
+00:08:02,525 --> 00:08:05,234
+The R&D guys over at China
+lake developed the algorithm.
+
+139
+00:08:05,748 --> 00:08:06,728
+What is it?
+
+140
+00:08:06,770 --> 00:08:10,030
+It's the naval weapons center's
+brand-new visual query system.
+
+141
+00:08:10,114 --> 00:08:12,531
+You feed it the description
+of a person, place, or thing...
+
+142
+00:08:12,573 --> 00:08:15,258
+It scans live feeds
+from traffic cams,
+
+143
+00:08:15,300 --> 00:08:17,955
+ATM cams, and satellite
+images for a result.
+
+144
+00:08:18,183 --> 00:08:20,825
+- You got to be kidding me.
+- I kid you not.
+
+145
+00:08:21,084 --> 00:08:24,695
+All right, search terms:
+blue 18-wheel semi
+
+146
+00:08:24,934 --> 00:08:28,701
+and... middle eastern man
+in his 20s behind the wheel.
+
+147
+00:08:29,676 --> 00:08:31,218
+What if he isn't mobile anymore?
+
+148
+00:08:31,505 --> 00:08:33,929
+Then we wait. He'll have
+to move the drone eventually.
+
+149
+00:08:34,014 --> 00:08:36,249
+What's to stop him from flying it
+out of the country?
+
+150
+00:08:36,291 --> 00:08:39,518
+The uav's transponder.
+It automatically activates on takeoff.
+
+151
+00:08:39,837 --> 00:08:42,675
+Once it's online, we can track it,
+so he's not gonna risk it.
+
+152
+00:08:42,717 --> 00:08:46,442
+My guess is if we see it airborne again,
+it'll probably be in targeting mode.
+
+153
+00:08:47,180 --> 00:08:49,524
+Every government and terrorist
+group in the middle east
+
+154
+00:08:49,566 --> 00:08:52,573
+wants a piece of that technology.
+He'll have no problem finding a buyer.
+
+155
+00:08:54,297 --> 00:08:55,916
+Alert Homeland Security.
+
+156
+00:08:56,509 --> 00:08:58,515
+We can't let this guy
+get it out of the country.
+
+157
+00:08:59,083 --> 00:09:00,956
+How fast can we get
+that footage off the web?
+
+158
+00:09:01,392 --> 00:09:04,627
+With or without the cooperation
+of sphereguide.com's legal department?
+
+159
+00:09:06,942 --> 00:09:09,089
+Okay, cutting through legal tape.
+
+160
+00:09:12,277 --> 00:09:14,374
+I just crashed their entire server.
+
+161
+00:09:15,004 --> 00:09:17,715
+Idiot hackers!
+
+162
+00:09:19,904 --> 00:09:21,643
+I think we're due in the boathouse.
+
+163
+00:09:22,186 --> 00:09:23,262
+Walking.
+
+164
+00:09:25,615 --> 00:09:27,483
+- Eric did it.
+- Hey, Hetty.
+
+165
+00:09:28,776 --> 00:09:32,608
+I was watching that viral video
+with the cats and the trampoline,
+
+166
+00:09:33,159 --> 00:09:35,908
+and the site just froze up
+and crashed on me.
+
+167
+00:09:36,551 --> 00:09:39,662
+Did you have anything
+to do with that?
+
+168
+00:09:46,674 --> 00:09:49,179
+Gentlemen, our tale of the tape.
+
+169
+00:09:49,422 --> 00:09:52,424
+Captain Mark Holden Briggs,
+32 years old,
+
+170
+00:09:52,670 --> 00:09:55,177
+earned valedictorian honors
+from the air force academy
+
+171
+00:09:55,261 --> 00:09:58,430
+and graduated at the top one percent
+of his class at usaf weapons school.
+
+172
+00:09:58,653 --> 00:09:59,753
+Smart guy.
+
+173
+00:09:59,974 --> 00:10:02,226
+Also has a narcissist,
+egocentric disorder.
+
+174
+00:10:02,452 --> 00:10:04,645
+Type of person who believes
+the world revolves around him.
+
+175
+00:10:04,933 --> 00:10:06,169
+If he's guilty,
+
+176
+00:10:06,211 --> 00:10:09,525
+he'll have what he believes to be
+perfectly good reasons for his actions.
+
+177
+00:10:09,609 --> 00:10:11,527
+Joystick jockey with an attitude.
+
+178
+00:10:11,749 --> 00:10:14,113
+Antagonizing him is not
+a way to break through.
+
+179
+00:10:15,175 --> 00:10:17,032
+Do I look like an antagonist, Nate?
+
+180
+00:10:28,377 --> 00:10:30,388
+This is by no means
+an admission of guilt,
+
+181
+00:10:30,430 --> 00:10:32,161
+but I want my jag lawyer present.
+
+182
+00:10:33,610 --> 00:10:36,719
+Maybe he'll get here eventually,
+but traffic's a bitch today.
+
+183
+00:10:41,951 --> 00:10:43,201
+Mike Hazlett...
+
+184
+00:10:47,065 --> 00:10:48,871
+Mike Hazlett was a good man.
+
+185
+00:10:49,932 --> 00:10:50,816
+A friend.
+
+186
+00:10:51,174 --> 00:10:53,464
+I knew his wife, and his kids.
+
+187
+00:10:53,506 --> 00:10:55,407
+Friends don't always get along.
+
+188
+00:10:56,021 --> 00:10:57,521
+Check the paperwork.
+
+189
+00:10:57,623 --> 00:11:00,826
+We ran a full diagnostic.
+There was no system failure.
+
+190
+00:11:00,910 --> 00:11:02,745
+I did not misfire.
+
+191
+00:11:03,006 --> 00:11:04,913
+- It's all documented.
+- Then what happened?
+
+192
+00:11:07,694 --> 00:11:09,444
+A hacker got into the system.
+
+193
+00:11:10,022 --> 00:11:11,567
+It's experimental.
+
+194
+00:11:12,666 --> 00:11:15,035
+It's flawed.
+And I knew it.
+
+195
+00:11:15,342 --> 00:11:17,551
+- And Mike knew it.
+- Maybe you made a mistake.
+
+196
+00:11:17,916 --> 00:11:20,304
+Maybe that mistake
+let a hacker in the system.
+
+197
+00:11:20,778 --> 00:11:22,875
+I don't program them, I fly them.
+
+198
+00:11:23,795 --> 00:11:25,466
+And I don't make mistakes.
+
+199
+00:11:27,191 --> 00:11:29,813
+Maybe you got paid to fly it
+somewhere off the grid.
+
+200
+00:11:32,084 --> 00:11:32,834
+Paid?
+
+201
+00:11:34,377 --> 00:11:35,692
+Think I sold out?
+
+202
+00:11:37,273 --> 00:11:40,044
+I should be flying F-22's
+over afghanistan right now
+
+203
+00:11:40,086 --> 00:11:43,863
+but I'm stuck in riverside,
+rotting away in a steel box
+
+204
+00:11:43,905 --> 00:11:47,498
+next to joystick jockeys raised
+on energy drinks and video games.
+
+205
+00:11:48,007 --> 00:11:50,321
+What happened yesterday
+was inevitable.
+
+206
+00:11:50,970 --> 00:11:52,668
+Drones can get hacked.
+
+207
+00:11:53,432 --> 00:11:54,838
+Fighter pilots can't.
+
+208
+00:11:58,279 --> 00:12:00,260
+Now America's about
+to find that out the hard way.
+
+209
+00:12:04,390 --> 00:12:07,301
+Everything that came out of Briggs'
+mouth could be considered motive. But,
+
+210
+00:12:08,186 --> 00:12:10,680
+his body language is indicating
+something else entirely.
+
+211
+00:12:10,722 --> 00:12:11,563
+Which is?
+
+212
+00:12:11,726 --> 00:12:13,637
+Well, he's frustrated and angry, but
+
+213
+00:12:14,518 --> 00:12:15,651
+Briggs is not our guy.
+
+214
+00:12:17,675 --> 00:12:19,655
+- What do you got, eric?
+<i>- A hit.</i>
+
+215
+00:12:20,182 --> 00:12:23,242
+- Kaleidoscope?
+<i>- No, that's still looking.</i>
+
+216
+00:12:23,617 --> 00:12:25,213
+We got a lead on our hacker.
+
+217
+00:12:25,255 --> 00:12:28,288
+He posted the uav attack footage
+from the rathmor tech campus.
+
+218
+00:12:28,372 --> 00:12:31,667
+More specifically, the science
+auditorium <i>at 10:23 a.m. Today.</i>
+
+219
+00:12:31,914 --> 00:12:35,087
+- You got a name?
+-<i> We got 67 names.</i>
+
+220
+00:12:35,579 --> 00:12:38,415
+<i>That's how many students were logged
+on to the wireless hub at the time.</i>
+
+221
+00:12:38,788 --> 00:12:42,090
+<i>All of them taking</i> a day-long class
+in advanced computer science.
+
+222
+00:12:42,132 --> 00:12:45,013
+<i>They are on lunch break now.
+They reconvene in about 90 minutes.</i>
+
+223
+00:12:45,097 --> 00:12:46,930
+They're scheduled to have
+a guest speaker.
+
+224
+00:12:46,972 --> 00:12:49,101
+A reformed hacker
+who now works for the FBI.
+
+225
+00:12:49,185 --> 00:12:50,477
+<i>What is the good news?</i>
+
+226
+00:12:51,507 --> 00:12:54,686
+<i>Well, the only people that can put
+an actual face to the hacker's name</i>
+
+227
+00:12:54,728 --> 00:12:57,484
+<i>- work for the Bureau.</i>
+- So we can improvise.
+
+228
+00:12:57,704 --> 00:13:00,766
+Eric, find out who posted
+that video of the drone landing.
+
+229
+00:13:01,265 --> 00:13:02,347
+Ho, brah!
+
+230
+00:13:03,422 --> 00:13:04,405
+Excuse me?
+
+231
+00:13:04,665 --> 00:13:06,326
+It's... it's a surfer thing.
+
+232
+00:13:07,755 --> 00:13:08,871
+A surfer thing?
+
+233
+00:13:09,156 --> 00:13:11,844
+Yeah, as in a spontaneous
+expression of ecstasy
+
+234
+00:13:11,886 --> 00:13:15,183
+that could accompany the perfect
+swell, you know the kind that just...
+
+235
+00:13:15,909 --> 00:13:17,379
+You can hang up now.
+
+236
+00:13:17,598 --> 00:13:21,300
+<i>Yeah, no, wait, facial recognition</i>
+just ID'd our semi driver.
+
+237
+00:13:21,634 --> 00:13:22,968
+<i>DMV database.</i>
+
+238
+00:13:24,609 --> 00:13:27,139
+<i>Yousef Kaleem.
+No criminal record.</i>
+
+239
+00:13:27,322 --> 00:13:29,099
+<i>Home address in Venice, California.</i>
+
+240
+00:13:34,344 --> 00:13:35,564
+You went soft on him.
+
+241
+00:13:38,261 --> 00:13:40,694
+I know you're not gonna go
+here with me right now.
+
+242
+00:13:40,924 --> 00:13:43,864
+We're in the middle of chasing
+our only lead on our only suspect...
+
+243
+00:13:43,949 --> 00:13:47,067
+You know your ears wiggle
+when you try to avoid a conversation?
+
+244
+00:13:47,300 --> 00:13:48,765
+It's kind of adorable.
+
+245
+00:13:57,049 --> 00:13:58,796
+For years I dreamed of being a seal.
+
+246
+00:13:59,289 --> 00:14:01,006
+I gave up everything else
+to get there.
+
+247
+00:14:01,600 --> 00:14:02,582
+Everything.
+
+248
+00:14:03,257 --> 00:14:05,079
+If I saw the finish line
+and found out that
+
+249
+00:14:05,121 --> 00:14:09,014
+the Navy was gonna bump me
+somewhere else, I'd be angry, too.
+
+250
+00:14:16,846 --> 00:14:18,560
+And my ears don't wiggle.
+
+251
+00:14:23,346 --> 00:14:26,198
+So, what are we this time?
+Couple of salesmen who got lost?
+
+252
+00:14:26,467 --> 00:14:28,647
+Maybe some guys looking
+for an old college friend?
+
+253
+00:14:29,771 --> 00:14:33,216
+How about we're two armed federal
+agents trying to apprehend a terrorist?
+
+254
+00:14:39,312 --> 00:14:40,094
+Do it.
+
+255
+00:14:47,971 --> 00:14:48,786
+Clear.
+
+256
+00:14:49,968 --> 00:14:50,768
+Clear.
+
+257
+00:15:03,143 --> 00:15:05,904
+"And allah will rain
+the fire of the just
+
+258
+00:15:05,988 --> 00:15:08,824
+down on Zion and America,
+the two satans,
+
+259
+00:15:09,110 --> 00:15:10,916
+crushing the infidels."
+
+260
+00:15:11,995 --> 00:15:14,009
+Just needs a little reggae beat.
+
+261
+00:15:14,325 --> 00:15:16,555
+Islamic discussion boards 24/7.
+
+262
+00:15:50,029 --> 00:15:51,809
+Get your hand out of the bag.
+
+263
+00:15:53,579 --> 00:15:56,663
+- This is not the way of Allah.
+- What do you know about Allah?
+
+264
+00:15:56,747 --> 00:15:57,697
+Kaleem...
+
+265
+00:16:05,971 --> 00:16:08,634
+You quote the Koran in Arabic,
+but you still do the work of infidels.
+
+266
+00:16:08,826 --> 00:16:11,414
+- We just want to talk.
+- Nobody ever wanted to talk to me!
+
+267
+00:16:11,456 --> 00:16:13,680
+- We do, all right?!
+- We just want to talk, I promise you!
+
+268
+00:16:13,952 --> 00:16:15,812
+- Put the satchel down.
+- Allah...
+
+269
+00:16:16,642 --> 00:16:17,643
+Go! Run!
+
+270
+00:16:31,751 --> 00:16:33,581
+- What happened?
+- Kaleem's dead.
+
+271
+00:16:33,623 --> 00:16:34,294
+How?
+
+272
+00:16:34,336 --> 00:16:35,525
+- Shot.
+- Blown up.
+
+273
+00:16:35,567 --> 00:16:37,206
+You guys are thorough.
+
+274
+00:16:37,248 --> 00:16:38,912
+What are we doing now?
+
+275
+00:16:38,954 --> 00:16:41,500
+We focus on the hacker
+who posted the uav footage.
+
+276
+00:16:41,584 --> 00:16:43,323
+Is that blood, Mr. Hanna?
+
+277
+00:16:45,408 --> 00:16:46,755
+- Mostly.
+- Yours?
+
+278
+00:16:47,139 --> 00:16:48,198
+Other guy's.
+
+279
+00:16:49,086 --> 00:16:51,760
+- Can we bill him?
+- Not anymore.
+
+280
+00:16:53,559 --> 00:16:55,941
+You wouldn't happen to have a fresh
+pair of pants I can borrow?
+
+281
+00:16:55,983 --> 00:16:57,082
+Shirt?
+
+282
+00:17:00,411 --> 00:17:01,992
+What happened in Nepal?
+
+283
+00:17:07,908 --> 00:17:09,222
+Excuse me.
+
+284
+00:17:13,269 --> 00:17:16,269
+I told you to never
+mention nepal, G.
+
+285
+00:17:16,757 --> 00:17:17,786
+You crazy?
+
+286
+00:17:18,052 --> 00:17:20,058
+I bet you it involved sherpas.
+
+287
+00:17:21,086 --> 00:17:22,417
+Sherpas?
+
+288
+00:17:27,431 --> 00:17:31,392
+Razor Mantis? As in the sexually
+carnivorous insect?
+
+289
+00:17:31,847 --> 00:17:33,852
+As in the one
+that has a mating ritual
+
+290
+00:17:33,894 --> 00:17:36,684
+which begins with the female
+biting off the male's...
+
+291
+00:17:37,264 --> 00:17:38,160
+head?
+
+292
+00:17:38,464 --> 00:17:41,143
+Come on, this is what I get for
+opening up to you about my dating life?
+
+293
+00:17:42,340 --> 00:17:45,762
+The real Razor Mantis was supposed
+to speak at the rathmor tech class,
+
+294
+00:17:45,804 --> 00:17:47,404
+and we're improvising.
+
+295
+00:17:48,071 --> 00:17:50,430
+All right, fine, so,
+what's my background?
+
+296
+00:17:50,915 --> 00:17:54,030
+FBI arrested you for stealing files
+from the department of defense.
+
+297
+00:17:54,114 --> 00:17:56,296
+And you cut a deal
+to avoid jail time in exchange
+
+298
+00:17:56,338 --> 00:17:59,566
+for teaching classes
+about the perils of cyber crime.
+
+299
+00:18:00,335 --> 00:18:02,414
+And what if one of the students
+checks up on my story?
+
+300
+00:18:02,655 --> 00:18:04,499
+Consider yourself backstopped.
+
+301
+00:18:04,583 --> 00:18:07,534
+As far as the legal
+system is concerned,
+
+302
+00:18:07,576 --> 00:18:10,991
+you are the Razor Mantis.
+
+303
+00:18:11,244 --> 00:18:13,467
+Now, many of the students
+are hackers themselves.
+
+304
+00:18:13,687 --> 00:18:16,970
+Now, they've heard of you,
+but they don't know what you look like.
+
+305
+00:18:17,277 --> 00:18:20,265
+Hackers are feisty. So, they might
+try to challenge your authority.
+
+306
+00:18:20,757 --> 00:18:22,151
+Which is what we want.
+
+307
+00:18:22,193 --> 00:18:25,562
+That's right. You want to elicit
+a response. And I suspect
+
+308
+00:18:25,646 --> 00:18:27,620
+hubris will be his downfall.
+
+309
+00:18:27,662 --> 00:18:30,148
+In terms of your computer skills,
+you might be a little
+
+310
+00:18:30,190 --> 00:18:32,177
+out of your league
+with these rathmor tech kids.
+
+311
+00:18:32,734 --> 00:18:35,177
+I have proficiencies
+in IPsec architecture,
+
+312
+00:18:35,219 --> 00:18:37,284
+Kerberos,
+and Plutoplus with the FBI.
+
+313
+00:18:37,326 --> 00:18:39,897
+These kids...
+invented that stuff, so...
+
+314
+00:18:40,086 --> 00:18:42,192
+These guys have spent more time
+
+315
+00:18:42,234 --> 00:18:45,142
+with their World of Warcraft avatars
+
+316
+00:18:45,184 --> 00:18:47,876
+than real women
+who aren't called "Mom."
+
+317
+00:18:50,362 --> 00:18:52,172
+Just in case.
+
+318
+00:18:53,716 --> 00:18:54,516
+Great.
+
+319
+00:18:54,558 --> 00:18:57,967
+Because there's nothing I love more
+than falling back on my sexuality
+
+320
+00:18:58,009 --> 00:18:59,555
+to get the job done.
+
+321
+00:19:00,120 --> 00:19:03,802
+And those shoes
+are crocodile stilettos.
+
+322
+00:19:06,183 --> 00:19:09,453
+You scuff them,
+tear them, lose them...
+
+323
+00:19:10,608 --> 00:19:13,318
+and I'll end you, Tootsie.
+
+324
+00:19:14,890 --> 00:19:17,957
+Checked out kaleem's house.
+Found a weapon stash.
+
+325
+00:19:17,999 --> 00:19:21,451
+Two handguns, a semi-automatic
+rifle and three grenades.
+
+326
+00:19:21,535 --> 00:19:24,001
+Nate says he's more
+of a follower than a leader.
+
+327
+00:19:24,043 --> 00:19:26,790
+- What else?
+- He used to work for a tech company.
+
+328
+00:19:27,022 --> 00:19:28,606
+AJ Concept Solutions.
+
+329
+00:19:29,263 --> 00:19:32,295
+It was started up just over a year ago
+by a man named Arthur Janson.
+
+330
+00:19:32,379 --> 00:19:35,465
+- I'm gonna need to meet him.
+- I'll track him down for you.
+
+331
+00:19:36,203 --> 00:19:38,865
+Geez, these jeans are too tight.
+
+332
+00:19:38,907 --> 00:19:40,753
+Told you not to mention Nepal.
+
+333
+00:19:45,051 --> 00:19:47,807
+Okay, everyone,
+take your seats, please.
+
+334
+00:19:47,849 --> 00:19:50,396
+As you might have
+heard from Dr. Knorr,
+
+335
+00:19:50,481 --> 00:19:54,025
+I'm going to be your guest lecturer
+for this afternoon's session.
+
+336
+00:19:54,894 --> 00:19:58,366
+When I was arrested
+by the FBI, I was known as
+
+337
+00:19:58,658 --> 00:19:59,906
+the Razor Mantis.
+
+338
+00:20:01,051 --> 00:20:02,560
+For eight years...
+
+339
+00:20:02,602 --> 00:20:04,927
+Once they've logged on,
+you can scan their hard drives?
+
+340
+00:20:04,969 --> 00:20:07,831
+I'll just be throwing up additional
+data on the touch screen.
+
+341
+00:20:08,172 --> 00:20:10,125
+You'll be picking out
+anyone suspicious.
+
+342
+00:20:11,234 --> 00:20:13,442
+- That'll be most of them.
+- And we're off.
+
+343
+00:20:13,671 --> 00:20:17,015
+Predictably, each student just ran
+a search for the Razor Mantis.
+
+344
+00:20:17,057 --> 00:20:18,515
+And check this out...
+
+345
+00:20:18,557 --> 00:20:20,455
+Today, we'll be
+discussing the overlap
+
+346
+00:20:20,497 --> 00:20:24,272
+of our domestic cyber crime
+community with terrorism abroad.
+
+347
+00:20:24,525 --> 00:20:25,469
+Question?
+
+348
+00:20:25,991 --> 00:20:29,059
+Do you think the slave-generated
+data bots out of Silicon Valley
+
+349
+00:20:29,101 --> 00:20:30,845
+are vulnerable
+to sigma seven ov errides?
+
+350
+00:20:32,614 --> 00:20:34,900
+That is an excellent question.
+
+351
+00:20:35,201 --> 00:20:36,902
+<i>Kensi, there could be two answers.</i>
+
+352
+00:20:37,106 --> 00:20:38,987
+Hold on, there could be two answers.
+
+353
+00:20:39,071 --> 00:20:40,215
+I just said that!
+
+354
+00:20:40,614 --> 00:20:42,788
+There could be two answers
+to that question.
+
+355
+00:20:43,749 --> 00:20:46,008
+That's why I asked you your opinion.
+
+356
+00:20:46,749 --> 00:20:50,040
+<i>- What he's asking makes no sense.
+- That's because it's a trick question.</i>
+
+357
+00:20:50,124 --> 00:20:53,448
+<i>Sigma seven overrides are incompatible
+with slave-generated data bots</i>
+
+358
+00:20:53,490 --> 00:20:56,752
+<i>because those bots can't exist
+on single-tuned harmonic filters.</i>
+
+359
+00:20:57,089 --> 00:21:00,763
+Those data bots can't exist
+on a single-tuned harmonic filter.
+
+360
+00:21:00,805 --> 00:21:03,428
+Anyone else want to try
+and stump me with a trick question?
+
+361
+00:21:03,919 --> 00:21:06,181
+All right, 50 hard drives
+scanned and downloaded.
+
+362
+00:21:06,548 --> 00:21:07,838
+We're almost there.
+
+363
+00:21:08,562 --> 00:21:12,395
+What's the difference between string
+system code and mvo-6 languages?
+
+364
+00:21:12,877 --> 00:21:14,356
+Really?
+You want to go there?
+
+365
+00:21:16,146 --> 00:21:17,484
+Kensi, ignore him.
+
+366
+00:21:17,707 --> 00:21:20,036
+<i>Just look down at your laptop
+and hit some keys.</i>
+
+367
+00:21:20,412 --> 00:21:22,511
+<i>Tell him that you'll answer
+once</i> the guy to his left
+
+368
+00:21:22,553 --> 00:21:24,616
+stops messaging him
+about your bra size.
+
+369
+00:21:24,861 --> 00:21:27,136
+I will consider
+answering your question
+
+370
+00:21:27,178 --> 00:21:30,591
+once the guy to your left stops
+IM'ing you about my bra size.
+
+371
+00:21:34,793 --> 00:21:36,196
+This is what we want.
+
+372
+00:21:36,238 --> 00:21:38,691
+A few guys are getting paranoid
+and logging off the network.
+
+373
+00:21:38,733 --> 00:21:40,131
+We call eliciting a reaction.
+
+374
+00:21:40,393 --> 00:21:42,954
+I'm sending you their names
+and search results.
+
+375
+00:21:43,874 --> 00:21:46,267
+We've got an outlier.
+Joel Hardy.
+
+376
+00:21:46,309 --> 00:21:49,933
+On financial aid. Low-income family
+but he's made some big purchases.
+
+377
+00:21:50,017 --> 00:21:51,980
+A 2009 Ducati.
+
+378
+00:21:52,255 --> 00:21:55,407
+I see a trip to Vegas, and...
+
+379
+00:21:56,249 --> 00:21:58,592
+$20,000 in computer hardware.
+
+380
+00:21:58,862 --> 00:22:02,320
+This could be our hacker.
+<i>To your left, seventh row up, end seat.</i>
+
+381
+00:22:03,291 --> 00:22:05,782
+<i>- He's fidgeting.</i>
+- Doesn't want to make eye contact.
+
+382
+00:22:06,055 --> 00:22:07,633
+Yeah, he's hiding something.
+
+383
+00:22:08,616 --> 00:22:09,869
+Trying to play it cool.
+
+384
+00:22:14,914 --> 00:22:17,919
+All right, Kensi, here comes
+your excuse to follow him.
+
+385
+00:22:19,667 --> 00:22:23,466
+Excuse me, I have to take this call.
+Let's take a ten-minute break.
+
+386
+00:22:25,949 --> 00:22:28,864
+Someone higher up
+financed his spending spree.
+
+387
+00:22:29,083 --> 00:22:30,567
+He can lead us there.
+
+388
+00:22:32,707 --> 00:22:34,394
+Eric, tell me about this guy.
+
+389
+00:22:34,957 --> 00:22:38,898
+Old parking tickets, bad habits,
+friends, taste in music, anything.
+
+390
+00:22:38,982 --> 00:22:41,818
+He shut down his laptop
+before I could mine anything relevant.
+
+391
+00:22:41,903 --> 00:22:44,529
+- Gotta go in cold.
+- Just act like it's the first date.
+
+392
+00:22:49,667 --> 00:22:51,619
+- Do you have a minute?
+- No.
+
+393
+00:22:52,137 --> 00:22:54,555
+<i>And shouldn't you be
+finishing up your lecture?</i>
+
+394
+00:22:54,597 --> 00:22:57,024
+Shouldn't you be staying to hear it?
+
+395
+00:22:57,210 --> 00:22:59,401
+- I've got a thing.
+- A thing?
+
+396
+00:23:00,614 --> 00:23:01,828
+Somewhere to be.
+
+397
+00:23:03,298 --> 00:23:04,466
+Oh, I see.
+
+398
+00:23:05,967 --> 00:23:09,596
+Well, I'm sorry I bothered you.
+Have fun at your "thing."
+
+399
+00:23:11,696 --> 00:23:12,438
+Wait!
+
+400
+00:23:13,394 --> 00:23:15,769
+- Wait!
+- What's she doing?
+
+401
+00:23:16,057 --> 00:23:17,520
+She's playing hard to get.
+
+402
+00:23:23,367 --> 00:23:24,652
+What'd you want to ask me?
+
+403
+00:23:27,250 --> 00:23:29,908
+I'm... stuck in town for the night.
+
+404
+00:23:30,392 --> 00:23:31,201
+Bummer...
+
+405
+00:23:31,588 --> 00:23:34,746
+Do you know where
+I could get a drink... Or five?
+
+406
+00:23:35,148 --> 00:23:37,499
+Depends.
+You want company?
+
+407
+00:23:42,395 --> 00:23:43,124
+I go.
+
+408
+00:23:44,256 --> 00:23:45,402
+Arthur Janson?
+
+409
+00:23:46,598 --> 00:23:48,899
+You must be the gentlemen
+my secretary mentioned.
+
+410
+00:23:48,941 --> 00:23:51,179
+- What can I do for you?
+- Yousef Kaleem is dead.
+
+411
+00:23:52,065 --> 00:23:53,616
+He was your employee.
+
+412
+00:23:54,661 --> 00:23:57,352
+- You mind telling us about him?
+- I'm afraid I don't know that much.
+
+413
+00:23:59,405 --> 00:24:01,377
+He worked here for over a year.
+
+414
+00:24:01,862 --> 00:24:04,390
+Kaleem was a business associate.
+
+415
+00:24:06,248 --> 00:24:07,664
+You in a rush, Mr. Janson?
+
+416
+00:24:07,706 --> 00:24:10,108
+I don't get close
+to people on the job.
+
+417
+00:24:11,052 --> 00:24:12,659
+No, trust me.
+
+418
+00:24:13,041 --> 00:24:16,142
+You open that door up,
+you're asking for a needy, whiny,
+
+419
+00:24:16,184 --> 00:24:19,040
+- slacker of a colleague.
+- I know exactly what you mean.
+
+420
+00:24:20,680 --> 00:24:21,960
+Any details will help.
+
+421
+00:24:22,821 --> 00:24:25,534
+I hired kaleem because he was
+skilled at writing computer code.
+
+422
+00:24:25,576 --> 00:24:27,408
+You know, come to think of it,
+
+423
+00:24:27,450 --> 00:24:30,135
+Lately he's been spouting off
+about politics and religion on the job.
+
+424
+00:24:30,391 --> 00:24:32,919
+Real crazy, venomous
+anti- american stuff.
+
+425
+00:24:32,961 --> 00:24:34,487
+Why didn't you just fire him?
+
+426
+00:24:34,529 --> 00:24:37,165
+The equal opportunity act
+makes it illegal for me to fire him
+
+427
+00:24:37,207 --> 00:24:38,726
+based on his religious views.
+
+428
+00:24:39,614 --> 00:24:43,481
+I was amused that he hated the country
+that kept him gainfully employed.
+
+429
+00:24:43,760 --> 00:24:47,110
+That's one of my big
+complaints with Mujahadeen.
+
+430
+00:24:47,502 --> 00:24:48,695
+No sense of irony.
+
+431
+00:24:51,404 --> 00:24:53,899
+Unfortunately, the same
+could be said for my clients.
+
+432
+00:24:56,204 --> 00:24:57,370
+If you'll excuse me.
+
+433
+00:25:03,804 --> 00:25:07,589
+I don't whine, I'm not needy,
+and I don't slack.
+
+434
+00:25:09,214 --> 00:25:11,009
+Two out of three ain't bad.
+
+435
+00:25:20,368 --> 00:25:22,795
+Any luck with the semi?
+And finding the drone?
+
+436
+00:25:22,837 --> 00:25:24,701
+Kaleidoscope's still looking.
+
+437
+00:25:32,086 --> 00:25:33,924
+You're the kind
+that thinks that pressing
+
+438
+00:25:33,966 --> 00:25:35,626
+the elevator button
+over and over again
+
+439
+00:25:35,668 --> 00:25:37,869
+makes it get there
+more quickly, aren't you?
+
+440
+00:25:47,630 --> 00:25:49,332
+I like the way you party.
+
+441
+00:25:50,546 --> 00:25:52,130
+It's only money, right?
+
+442
+00:25:56,036 --> 00:25:58,463
+And you very clearly
+know how to spend it.
+
+443
+00:26:00,183 --> 00:26:03,300
+Well, let's just say I know the right
+people, and leave it at that.
+
+444
+00:26:03,342 --> 00:26:05,688
+The right people,
+I know all about them.
+
+445
+00:26:05,772 --> 00:26:07,857
+I've done favors
+for half of Silicon Valley.
+
+446
+00:26:07,899 --> 00:26:09,764
+The other half pays
+me for protection.
+
+447
+00:26:09,806 --> 00:26:10,893
+<i>You dig that?</i>
+
+448
+00:26:11,500 --> 00:26:14,906
+Running network protection schemes
+on yuppies chasing stock options?
+
+449
+00:26:15,848 --> 00:26:17,825
+Well, it beats working
+for a living, doesn't it?
+
+450
+00:26:19,399 --> 00:26:21,287
+Call it money. Don't call it living.
+
+451
+00:26:23,460 --> 00:26:25,533
+And what's living to a guy like you?
+
+452
+00:26:26,730 --> 00:26:29,003
+By passing military-grade
+quantum cryptography.
+
+453
+00:26:30,867 --> 00:26:31,611
+<i>And?</i>
+
+454
+00:26:36,985 --> 00:26:39,580
+A guy's gotta save something
+for a second date, right?
+
+455
+00:26:41,308 --> 00:26:42,836
+- I'll be back.
+- All right.
+
+456
+00:26:43,890 --> 00:26:45,320
+Dom, keep an eye on him.
+
+457
+00:26:55,371 --> 00:26:57,393
+You look like a man on a mission.
+
+458
+00:26:59,247 --> 00:27:00,612
+Maybe later.
+
+459
+00:27:27,498 --> 00:27:28,813
+<i>Everything okay in there?</i>
+
+460
+00:27:32,280 --> 00:27:33,662
+<i>Dom, are you there?</i>
+
+461
+00:27:47,770 --> 00:27:50,555
+This is security cam footage
+Eric pulled from the bar.
+
+462
+00:27:50,597 --> 00:27:53,876
+Joel Hardy walked in that bathroom
+less than 30 seconds ago.
+
+463
+00:27:58,486 --> 00:27:59,556
+Rewind it.
+
+464
+00:27:59,598 --> 00:28:02,055
+Now hold on that guy that comes
+out just before dom goes in.
+
+465
+00:28:10,698 --> 00:28:13,024
+- I walked right past him.
+- Don't let it bother you, Dom.
+
+466
+00:28:13,109 --> 00:28:15,080
+There's no way you could've
+known who he was.
+
+467
+00:28:15,122 --> 00:28:17,487
+Well, the bad news is,
+our only lead in this case is dead.
+
+468
+00:28:18,569 --> 00:28:21,131
+Good news is, you're off the hook
+for date number two.
+
+469
+00:28:21,468 --> 00:28:25,119
+Sure, hope on the Kensi abuse train
+while there's still room on board.
+
+470
+00:28:26,857 --> 00:28:28,122
+There. That's him.
+
+471
+00:28:28,492 --> 00:28:30,468
+Run him through
+the facial recognition.
+
+472
+00:28:57,656 --> 00:29:00,015
+You're not responsible
+for this, Dom.
+
+473
+00:29:01,837 --> 00:29:03,741
+You did your job.
+
+474
+00:29:04,533 --> 00:29:06,536
+And when doing my job isn't enough?
+
+475
+00:29:07,529 --> 00:29:10,748
+You come and see me,
+and we talk about it.
+
+476
+00:29:14,810 --> 00:29:15,628
+Thanks.
+
+477
+00:29:18,593 --> 00:29:20,649
+I'm ready to go back to work now.
+
+478
+00:29:30,214 --> 00:29:31,503
+- Thanks, Rose.
+<i>- Okay.</i>
+
+479
+00:29:31,545 --> 00:29:33,585
+- Let me know if anyone does.
+<i>- Oh, I will.</i>
+
+480
+00:29:33,627 --> 00:29:37,259
+- I'll tell l nate you say hi.
+<i>- Yeah, he has a thing about coroners.</i>
+
+481
+00:29:44,560 --> 00:29:46,043
+- News?
+- No.
+
+482
+00:29:46,228 --> 00:29:48,133
+No one has claimed
+Kaleem's body yet.
+
+483
+00:29:48,175 --> 00:29:50,045
+Or... What's left of it.
+
+484
+00:29:50,753 --> 00:29:53,281
+Extremist views tend to estrange one
+
+485
+00:29:53,323 --> 00:29:55,320
+from one's friends and family.
+
+486
+00:29:55,674 --> 00:29:57,879
+I hope the 72 virgins were worth it.
+
+487
+00:29:58,453 --> 00:30:00,548
+How's the team holding up?
+
+488
+00:30:03,493 --> 00:30:07,302
+Two bodies in one day.
+It's a lot for anyone to handle.
+
+489
+00:30:08,244 --> 00:30:10,016
+That's to be expected.
+
+490
+00:30:10,334 --> 00:30:14,328
+It's when they stop being affected
+that I begin to worry.
+
+491
+00:30:16,953 --> 00:30:19,275
+Well, they've got a ways
+to go before they get to that point.
+
+492
+00:30:22,831 --> 00:30:24,280
+That's good to know.
+
+493
+00:30:39,332 --> 00:30:40,764
+Wake up, sweetheart.
+
+494
+00:30:41,792 --> 00:30:44,000
+Found this
+in Joel Hardy's apartment.
+
+495
+00:30:44,489 --> 00:30:46,385
+Good enough to fly a AUV, Dom?
+
+496
+00:30:46,798 --> 00:30:48,679
+With the right software
+and uplinks, yeah.
+
+497
+00:30:48,763 --> 00:30:51,017
+It needs to be hooked up
+to a computer, though.
+
+498
+00:30:51,059 --> 00:30:53,604
+It's with Eric. He's trying
+to crack the encryption.
+
+499
+00:30:53,989 --> 00:30:55,776
+Let's look at connections.
+
+500
+00:30:56,421 --> 00:30:58,064
+Starting with Youssef Kaleem.
+
+501
+00:30:59,816 --> 00:31:01,815
+Kaleem was the perfect fall guy.
+
+502
+00:31:01,857 --> 00:31:04,983
+Anti-american views, strong
+religious beliefs, and...
+
+503
+00:31:05,025 --> 00:31:07,579
+weak enough for someone to convince
+him to take on the high-risk work
+
+504
+00:31:07,621 --> 00:31:09,834
+of snatching the UAV
+from its landing site.
+
+505
+00:31:10,020 --> 00:31:11,115
+Joel Hardy.
+
+506
+00:31:12,120 --> 00:31:14,317
+A whiz kid who could beat
+the air force at their own game.
+
+507
+00:31:14,359 --> 00:31:15,902
+But he was immature.
+
+508
+00:31:15,944 --> 00:31:17,762
+Spent his money carelessly,
+
+509
+00:31:17,804 --> 00:31:21,629
+he did drugs, and was reckless
+enough to post the UAV footage online.
+
+510
+00:31:22,473 --> 00:31:24,715
+Which is probably
+what got him killed.
+
+511
+00:31:24,966 --> 00:31:26,676
+Which means he's not the ringleader.
+
+512
+00:31:26,872 --> 00:31:30,388
+- Captain Briggs, our pilot.
+- The wild card in the deck.
+
+513
+00:31:30,749 --> 00:31:33,302
+Well, he's got an axe
+to grind with the drone program
+
+514
+00:31:33,344 --> 00:31:36,066
+and the brain to pull off
+a conspiracy like this, but...
+
+515
+00:31:36,258 --> 00:31:37,994
+He's not acting like a guilty man.
+
+516
+00:31:38,313 --> 00:31:41,023
+- Ho, brah! Score!
+- What was that?
+
+517
+00:31:41,702 --> 00:31:43,276
+It's Eric. He caught a break.
+
+518
+00:31:44,247 --> 00:31:46,202
+I just breached Joel Hardy's laptop.
+
+519
+00:31:46,244 --> 00:31:48,781
+Level seven nokVAULT software
+with a triple encryption code.
+
+520
+00:31:49,828 --> 00:31:52,204
+I found a program that would
+enable the user to penetrate
+
+521
+00:31:52,246 --> 00:31:54,662
+the kind of quantum
+encryption used by the Air Force.
+
+522
+00:31:54,901 --> 00:31:56,182
+Joel sent it...
+
+523
+00:31:56,526 --> 00:31:58,329
+to AJ Concept Solutions.
+
+524
+00:32:05,566 --> 00:32:07,842
+We got a hit.
+Hamzi Khan, Afghani.
+
+525
+00:32:08,320 --> 00:32:10,587
+Former beat cop in Kabul.
+Retired in '03.
+
+526
+00:32:10,629 --> 00:32:13,132
+Not the first guy
+I'd hire for a hit in L.A.
+
+527
+00:32:13,174 --> 00:32:17,026
+His wife died in Afghanistan
+in 2007. Rifqua Khan.
+
+528
+00:32:17,601 --> 00:32:19,769
+She was the victim of a UAV attack.
+
+529
+00:32:19,854 --> 00:32:21,932
+A missile blew up the school
+where she was a teacher.
+
+530
+00:32:21,974 --> 00:32:24,005
+She and eight children were killed.
+
+531
+00:32:25,033 --> 00:32:26,702
+Pulling up her photo now.
+
+532
+00:32:28,530 --> 00:32:30,704
+She's not an ethnic afghani.
+
+533
+00:32:31,176 --> 00:32:33,620
+Rifqua is arabic for Rebecca.
+
+534
+00:32:33,662 --> 00:32:35,828
+Janson has a sister named rebecca.
+
+535
+00:32:39,582 --> 00:32:41,917
+So, a Predator killed
+Janson's sister
+
+536
+00:32:42,187 --> 00:32:43,711
+who happens to be married to Khan.
+
+537
+00:32:44,015 --> 00:32:47,256
+And now they want to give
+America a taste of drone warfare.
+
+538
+00:32:49,822 --> 00:32:50,901
+Yeah, Eric?
+
+539
+00:32:52,754 --> 00:32:53,597
+Thanks.
+
+540
+00:32:54,288 --> 00:32:56,223
+Kaleidoscope just
+picked up our 18-wheeler.
+
+541
+00:32:56,307 --> 00:32:57,850
+Pulled out of a warehouse downtown.
+
+542
+00:33:05,410 --> 00:33:06,859
+He's headed south.
+
+543
+00:33:07,753 --> 00:33:09,737
+His route lines up
+with the port of L.A.
+
+544
+00:33:21,918 --> 00:33:23,822
+- Show your hands!
+- Over your head!
+
+545
+00:33:23,864 --> 00:33:25,423
+Put 'em up!
+Get out of the truck!
+
+546
+00:33:25,659 --> 00:33:26,654
+Get out!
+
+547
+00:33:26,696 --> 00:33:28,676
+Please. I-i...
+I was just doing my job.
+
+548
+00:33:28,718 --> 00:33:30,633
+Face down.
+Down on the ground!
+
+549
+00:33:31,257 --> 00:33:32,176
+I got him.
+
+550
+00:33:32,260 --> 00:33:34,887
+Some guys just need
+this truck dropped off at the port.
+
+551
+00:33:35,184 --> 00:33:36,138
+Don't move.
+
+552
+00:33:40,358 --> 00:33:43,646
+- This guy?
+- Yeah... Yeah, that's him.
+
+553
+00:33:44,120 --> 00:33:45,249
+Face down.
+
+554
+00:33:54,484 --> 00:33:55,731
+We've been had.
+
+555
+00:33:56,119 --> 00:33:58,202
+- Yeah?
+<i>- We've got a situation here.</i>
+
+556
+00:33:58,286 --> 00:34:00,653
+Janson wasn't trying to move
+the drone out of the country.
+
+557
+00:34:00,695 --> 00:34:02,254
+He wanted it airborne.
+
+558
+00:34:03,122 --> 00:34:04,709
+Transponder just went online.
+
+559
+00:34:05,104 --> 00:34:06,293
+Where's it headed?
+
+560
+00:34:08,027 --> 00:34:09,594
+It's circling Los Angeles.
+
+561
+00:34:18,594 --> 00:34:21,021
+I tapped into the LAX
+air traffic control system,
+
+562
+00:34:21,063 --> 00:34:25,064
+and it shows an unidentified aircraft
+circling Marina Del Rey at 10,000 feet.
+
+563
+00:34:25,563 --> 00:34:27,381
+- What are our options?
+- We could crash
+
+564
+00:34:27,423 --> 00:34:29,692
+- the satellite drone server.
+- Sounds like a good idea.
+
+565
+00:34:30,213 --> 00:34:32,236
+Every UAV around
+the world would go haywire.
+
+566
+00:34:32,409 --> 00:34:34,155
+Dozens of missions
+would be compromised.
+
+567
+00:34:34,239 --> 00:34:36,128
+None of which is
+as important as preventing
+
+568
+00:34:36,170 --> 00:34:37,742
+a terrorist attack on american soil.
+
+569
+00:34:40,954 --> 00:34:42,479
+It's not gonna work.
+
+570
+00:34:42,521 --> 00:34:45,555
+Janson installed his own server
+overrides. He knows what he's doing.
+
+571
+00:34:45,859 --> 00:34:47,426
+Bypassing them will take hours.
+
+572
+00:34:47,468 --> 00:34:49,628
+And how long would it take
+to scramble an F22?
+
+573
+00:34:49,712 --> 00:34:52,201
+Including flying time...
+20 minutes, tops.
+
+574
+00:34:52,690 --> 00:34:55,509
+It's too long. Eric, find Janson.
+
+575
+00:35:04,916 --> 00:35:07,512
+I told you guys everything I know.
+
+576
+00:35:07,833 --> 00:35:09,190
+Your UAV is airborne.
+
+577
+00:35:12,181 --> 00:35:13,152
+Where?
+
+578
+00:35:13,237 --> 00:35:15,490
+Up there. Somewhere circling.
+
+579
+00:35:17,568 --> 00:35:20,159
+We think the guy who hijacked
+it is gonna use it.
+
+580
+00:35:21,381 --> 00:35:22,881
+Nobody listened to me.
+
+581
+00:35:23,757 --> 00:35:24,701
+You see?
+
+582
+00:35:25,274 --> 00:35:27,917
+You see what happens when
+you replace men with computer systems?
+
+583
+00:35:31,473 --> 00:35:34,256
+Eric triangulated the UAV's
+signal to this location.
+
+584
+00:35:34,566 --> 00:35:36,717
+Janson's got to be
+around here somewhere.
+
+585
+00:35:55,706 --> 00:35:57,644
+Joystick. Throttle.
+
+586
+00:35:58,222 --> 00:36:01,992
+This was used to get
+control of your UAV.
+
+587
+00:36:03,571 --> 00:36:05,621
+We're going to hack
+into the system...
+
+588
+00:36:07,123 --> 00:36:08,165
+and get it back.
+
+589
+00:36:10,038 --> 00:36:12,145
+I watched a friend die.
+
+590
+00:36:13,071 --> 00:36:15,506
+I couldn't help him.
+I can't do that again.
+
+591
+00:36:25,487 --> 00:36:26,667
+Last night...
+
+592
+00:36:29,289 --> 00:36:32,773
+I watched a kid bleed out
+on the floor of a bathroom...
+
+593
+00:36:35,070 --> 00:36:38,696
+because I couldn't get
+there in time to save him.
+
+594
+00:36:42,038 --> 00:36:44,246
+There's nothing
+I can do to fix that.
+
+595
+00:36:46,538 --> 00:36:48,747
+I don't get a second chance.
+
+596
+00:36:54,128 --> 00:36:55,123
+But you do.
+
+597
+00:37:01,845 --> 00:37:03,721
+Sometimes our best
+isn't good enough.
+
+598
+00:37:05,064 --> 00:37:05,814
+True.
+
+599
+00:37:08,536 --> 00:37:11,020
+But that's no reason
+to give anything less.
+
+600
+00:37:15,496 --> 00:37:17,856
+All right, I've gotten
+to Janson's network firewall.
+
+601
+00:37:17,898 --> 00:37:19,475
+I just need to bypass...
+
+602
+00:37:21,239 --> 00:37:22,188
+Sam, I'm in.
+
+603
+00:37:23,031 --> 00:37:24,742
+I've got his targeting information.
+
+604
+00:37:25,761 --> 00:37:28,537
+Holy crap.
+William f. Cooley high school.
+
+605
+00:37:33,793 --> 00:37:35,805
+Eric, get that school evacuated now!
+
+606
+00:37:35,847 --> 00:37:38,339
+- Calling LAPD.
+- Not fast enough!
+
+607
+00:37:38,423 --> 00:37:40,870
+Got it. Now commencing
+with fast enough.
+
+608
+00:37:49,039 --> 00:37:52,353
+I need specifics, Eric. Anything
+that might give Janson away.
+
+609
+00:37:52,437 --> 00:37:53,809
+If he's controlling the drone,
+
+610
+00:37:53,851 --> 00:37:56,315
+he's going to need a satellite
+dish or antenna array.
+
+611
+00:38:07,596 --> 00:38:09,328
+<i>- Sam, I found it.</i>
+- Where?
+
+612
+00:38:09,561 --> 00:38:11,263
+<i>Janson is on a yacht called Rebecca.</i>
+
+613
+00:38:11,305 --> 00:38:12,164
+Let's go.
+
+614
+00:38:12,628 --> 00:38:14,465
+It's docked in slip number 15.
+
+615
+00:38:18,004 --> 00:38:19,150
+How you doing?
+
+616
+00:38:19,495 --> 00:38:21,500
+Unbelievable. Is this a Lungelli?
+
+617
+00:38:21,542 --> 00:38:24,298
+- This is a private vessel.
+- What do you think this is, 35 meters,
+
+618
+00:38:24,340 --> 00:38:25,495
+maybe 40?
+
+619
+00:38:25,887 --> 00:38:28,208
+You know, I bet you
+this is actually 40.
+
+620
+00:38:28,890 --> 00:38:31,934
+Composite hull.
+This is unbelievable!
+
+621
+00:38:32,018 --> 00:38:33,686
+- Get back.
+- It's beautiful.
+
+622
+00:38:36,946 --> 00:38:39,108
+- Hostile down. Slip 15.
+<i>- I'm on the way.</i>
+
+623
+00:38:42,403 --> 00:38:45,420
+This is a long shot,
+this gear has all sorts of bugs.
+
+624
+00:38:52,917 --> 00:38:55,648
+Isn't working.
+It's not responding.
+
+625
+00:38:56,714 --> 00:38:58,777
+<i>I'm out of time.</i>
+I can't hack the drone.
+
+626
+00:38:58,819 --> 00:39:02,139
+If you can't hack the drone,
+can you hack the missile instead?
+
+627
+00:39:20,807 --> 00:39:21,983
+Don't do it.
+
+628
+00:39:27,031 --> 00:39:28,358
+You're too late.
+
+629
+00:39:32,328 --> 00:39:33,787
+Come on!
+
+630
+00:39:36,792 --> 00:39:37,666
+I got it...
+
+631
+00:39:46,227 --> 00:39:48,784
+You guys got a place
+you want to ditch this missile?
+
+632
+00:39:48,826 --> 00:39:50,054
+I believe we do.
+
+633
+00:40:05,098 --> 00:40:06,070
+Thanks.
+
+634
+00:40:18,811 --> 00:40:20,311
+Good night, Hetty.
+
+635
+00:40:20,585 --> 00:40:22,987
+That Nepal story was crazy.
+
+636
+00:40:23,771 --> 00:40:24,671
+You told Sam?
+
+637
+00:40:41,534 --> 00:40:44,978
+- She didn't really tell you, did she?
+- Sorry, G. It's classified.
+
+638
+00:40:46,435 --> 00:40:49,822
+Chinese take-out and a glass
+of red wine never looked so good.
+
+639
+00:40:49,906 --> 00:40:51,816
+I thought you had a date
+with that guy tonight,
+
+640
+00:40:51,858 --> 00:40:53,829
+- the one who...
+- Canceled on him.
+
+641
+00:40:55,231 --> 00:40:57,913
+<i>- Hey, Kensi, is Dom there?</i>
+- Yeah, he's here.
+
+642
+00:40:58,694 --> 00:41:01,098
+It's Nate.
+You still want to talk to him?
+
+643
+00:41:03,330 --> 00:41:04,421
+I'm good.
+
+644
+00:41:06,582 --> 00:41:07,554
+He's good.
+
+645
+00:41:15,731 --> 00:41:18,258
+.: Team UnderCovers :.
+

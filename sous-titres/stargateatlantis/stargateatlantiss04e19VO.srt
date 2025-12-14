@@ -1,0 +1,2942 @@
+1
+00:00:00,697 --> 00:00:02,954
+<i>Previously on</i> Stargate Atlantis.
+
+2
+00:00:03,430 --> 00:00:04,587
+Who are you?
+
+3
+00:00:05,123 --> 00:00:06,426
+Nabel Golan.
+
+4
+00:00:06,558 --> 00:00:09,086
+You're the one responsible
+for the death of the Athosians.
+
+5
+00:00:09,280 --> 00:00:10,846
+Unless I lied about that as well.
+
+6
+00:00:11,194 --> 00:00:13,473
+<i>I believe I had a vision last night.</i>
+
+7
+00:00:13,636 --> 00:00:14,808
+<i>I saw Kanaan,</i>
+
+8
+00:00:14,969 --> 00:00:16,392
+<i>the father of my son.</i>
+
+9
+00:00:16,795 --> 00:00:18,639
+- Where are you?
+- Dart!
+
+10
+00:00:21,998 --> 00:00:24,526
+<i>Do not destroy the enemy ship.
+Teyla may be on board.</i>
+
+11
+00:00:24,761 --> 00:00:25,819
+Bad news, Sheppard.
+
+12
+00:00:26,145 --> 00:00:29,531
+<i>The cruiser made the jump
+to hyperspace. It's gone.</i>
+
+13
+00:00:32,063 --> 00:00:33,063
+Kanaan...
+
+14
+00:00:33,578 --> 00:00:35,936
+I came for you, just like you asked.
+
+15
+00:00:36,158 --> 00:00:37,158
+Like I asked.
+
+16
+00:00:39,452 --> 00:00:40,418
+Michael.
+
+17
+00:00:42,303 --> 00:00:44,130
+- Any sign of her, Sir?
+- She's not here.
+
+18
+00:00:45,813 --> 00:00:49,169
+Finally. It's about bloody time.
+What took you so long?
+
+19
+00:01:02,885 --> 00:01:04,085
+It's just weird.
+
+20
+00:01:20,799 --> 00:01:22,804
+I'm sorry about all this, Doctor.
+
+21
+00:01:23,029 --> 00:01:25,440
+All right. I realize there's
+a protocol when dealing with someone
+
+22
+00:01:25,574 --> 00:01:27,495
+who's been a prisoner for a long time.
+
+23
+00:01:27,615 --> 00:01:29,018
+In fact, I wrote it.
+
+24
+00:01:30,295 --> 00:01:33,135
+Although, if you take much more blood,
+I think I might faint.
+
+25
+00:01:33,298 --> 00:01:34,765
+That's the last batch.
+
+26
+00:01:35,658 --> 00:01:37,862
+You should also check
+for trace narcotics.
+
+27
+00:01:37,982 --> 00:01:40,679
+Michael was giving me regular injections
+of some sort of drug cocktail
+
+28
+00:01:40,800 --> 00:01:43,440
+- mostly sedatives, I think.
+- All right.
+
+29
+00:01:49,366 --> 00:01:50,778
+You sure he's not a Replicator?
+
+30
+00:01:50,898 --> 00:01:52,722
+No, scans would have
+picked it up right away.
+
+31
+00:01:52,842 --> 00:01:54,584
+- Then who the hell is he?
+- I don't know.
+
+32
+00:01:54,704 --> 00:01:56,947
+I'm as freaked out
+about this as you are.
+
+33
+00:01:57,067 --> 00:01:58,716
+You don't really think it's him.
+
+34
+00:01:58,846 --> 00:02:00,663
+No. Well, I mean... maybe.
+
+35
+00:02:01,410 --> 00:02:02,941
+We've ruled out advanced robotics.
+
+36
+00:02:03,061 --> 00:02:06,520
+That still leaves us half a dozen
+possible other explanations.
+
+37
+00:02:06,821 --> 00:02:07,626
+Like?
+
+38
+00:02:07,778 --> 00:02:10,340
+Well, like alternate timeline,
+parallel universe, cloning,
+
+39
+00:02:10,460 --> 00:02:13,175
+- you know, take your pick.
+- Just another day in outer space.
+
+40
+00:02:13,339 --> 00:02:14,139
+Yeah.
+
+41
+00:02:18,812 --> 00:02:19,612
+Well...
+
+42
+00:02:20,325 --> 00:02:22,492
+we've completed the preliminary exam.
+
+43
+00:02:22,708 --> 00:02:23,554
+And?
+
+44
+00:02:24,586 --> 00:02:26,633
+Every test we've run confirms it.
+
+45
+00:02:28,132 --> 00:02:31,070
+That man down there
+is Dr. Carson beckett.
+
+46
+00:02:37,613 --> 00:02:40,848
+The Projet-SG & SG-66 Teams
+
+47
+00:02:45,173 --> 00:02:48,603
+present:
+
+48
+00:02:51,377 --> 00:02:53,300
+Season 4 Episode 19
+The Kindred part 2 (v. 1.0)
+
+49
+00:02:56,006 --> 00:02:58,876
+Transcription by:
+
+50
+00:03:00,940 --> 00:03:04,100
+swsub.com
+
+51
+00:03:06,727 --> 00:03:09,601
+Timing by:
+
+52
+00:03:14,764 --> 00:03:17,725
+Golgi, Linwelin, Obusco,
+Pikes, Ricana, Shaft34.
+
+53
+00:03:29,665 --> 00:03:32,007
+www.projet-sg.net
+www.seriestele.net
+
+54
+00:03:43,795 --> 00:03:45,224
+- Rodney.
+- Carson.
+
+55
+00:03:45,520 --> 00:03:48,279
+So sorry I haven't come by before now.
+It's been pretty hectic here
+
+56
+00:03:48,402 --> 00:03:50,723
+- the last few days.
+- That's all right. I understand.
+
+57
+00:03:50,873 --> 00:03:52,655
+Any word on when I can get out of here?
+
+58
+00:03:53,516 --> 00:03:55,363
+That might take a little time.
+
+59
+00:03:56,495 --> 00:03:57,295
+Really?
+
+60
+00:03:58,432 --> 00:03:59,906
+God, it's good to see you.
+
+61
+00:04:00,037 --> 00:04:01,393
+Think about how I feel.
+
+62
+00:04:01,516 --> 00:04:04,462
+I'm the one that's been a prisoner
+for almost two years.
+
+63
+00:04:05,688 --> 00:04:06,758
+Two years?
+
+64
+00:04:07,258 --> 00:04:09,761
+Aye. Since M8G-352.
+
+65
+00:04:10,738 --> 00:04:13,098
+The planet where we left Michael
+and the other converted Wraith.
+
+66
+00:04:13,225 --> 00:04:15,075
+- Right.
+- That's where you were captured.
+
+67
+00:04:15,727 --> 00:04:16,727
+Well, yes.
+
+68
+00:04:17,284 --> 00:04:19,783
+You do remember, Rodney?
+- Yes. Yeah, I just...
+
+69
+00:04:20,380 --> 00:04:22,723
+Well, we need you to fill in
+some of the details.
+
+70
+00:04:22,969 --> 00:04:23,975
+Well, all right.
+
+71
+00:04:24,644 --> 00:04:27,160
+Well, as you may have already guessed,
+
+72
+00:04:27,285 --> 00:04:29,527
+the treatment was less
+than 100% effective.
+
+73
+00:04:30,881 --> 00:04:33,772
+<i>Despite the daily injections,
+some of them began to revert,</i>
+
+74
+00:04:34,230 --> 00:04:35,250
+<i>including Michael.</i>
+
+75
+00:04:37,663 --> 00:04:39,489
+<i>They may have used
+their telepathic abilities</i>
+
+76
+00:04:39,609 --> 00:04:42,276
+<i>to summon a hive ship,
+but I can't be certain.</i>
+
+77
+00:04:42,396 --> 00:04:45,049
+<i>All I know is I was being
+interrogated by Michael,</i>
+
+78
+00:04:45,173 --> 00:04:47,418
+<i>then he must have given me
+an injection of some kind,</i>
+
+79
+00:04:47,540 --> 00:04:50,324
+because the next thing I remember,
+I woke up on another planet.
+
+80
+00:04:50,445 --> 00:04:51,858
+Why did he take you prisoner?
+
+81
+00:04:52,118 --> 00:04:54,508
+He wanted me to help with his research,
+
+82
+00:04:54,628 --> 00:04:56,215
+combining Wraith and human DNA.
+
+83
+00:04:57,502 --> 00:04:59,308
+Of course, I refused at first,
+
+84
+00:05:00,665 --> 00:05:01,877
+but then, one day,
+
+85
+00:05:02,687 --> 00:05:04,555
+he brought another
+prisoner into my cell.
+
+86
+00:05:04,950 --> 00:05:06,263
+A young lady.
+
+87
+00:05:07,666 --> 00:05:09,499
+Couldn't have been
+more than 20 years of age.
+
+88
+00:05:12,523 --> 00:05:14,814
+And he killed her in cold blood
+right in front of my eyes.
+
+89
+00:05:15,518 --> 00:05:20,197
+He said every day I refused to help,
+he'd kill another just like her.
+
+90
+00:05:20,358 --> 00:05:22,274
+From that moment on, I cooperated.
+
+91
+00:05:24,753 --> 00:05:27,061
+Carson, I'm so sorry.
+
+92
+00:05:27,953 --> 00:05:29,330
+It wasn't easy.
+
+93
+00:05:30,035 --> 00:05:32,041
+I'll admit, at times,
+I almost gave up hope.
+
+94
+00:05:33,467 --> 00:05:35,850
+But that's when I thought about you,
+Colonel Sheppard, Teyla,
+
+95
+00:05:35,970 --> 00:05:37,836
+and the rest of the team.
+
+96
+00:05:38,534 --> 00:05:40,565
+I knew you'd be out there
+somewhere looking for me.
+
+97
+00:05:42,557 --> 00:05:43,497
+Yeah.
+
+98
+00:05:44,122 --> 00:05:46,348
+See, the thing is, we weren't.
+
+99
+00:05:46,682 --> 00:05:48,524
+- Weren't what?
+- We weren't looking for you.
+
+100
+00:05:48,644 --> 00:05:50,520
+- We didn't know you were missing.
+- Excuse me?
+
+101
+00:05:51,429 --> 00:05:55,274
+We went back to M8G-352.
+We rescued you from Michael.
+
+102
+00:05:55,434 --> 00:05:58,580
+He got away, but we got you back
+to Atlantis safe and sound.
+
+103
+00:05:59,220 --> 00:06:02,231
+- What the hell are you talking about?
+- Obviously, not you, but another you,
+
+104
+00:06:02,351 --> 00:06:04,282
+another Carson Beckett.
+
+105
+00:06:05,644 --> 00:06:06,659
+Is this a joke?
+
+106
+00:06:07,212 --> 00:06:08,368
+I wish it was.
+
+107
+00:06:08,600 --> 00:06:11,478
+You're telling me there's another
+Carson Beckett walking around this base?
+
+108
+00:06:11,600 --> 00:06:13,315
+- Well, no.
+- Rodney!
+
+109
+00:06:15,567 --> 00:06:18,477
+He came back from the planet.
+He resumed his duties.
+
+110
+00:06:18,597 --> 00:06:20,587
+Everything went back to normal.
+
+111
+00:06:22,635 --> 00:06:24,366
+And then about six months later,
+
+112
+00:06:25,496 --> 00:06:27,511
+he was killed in an explosion.
+
+113
+00:06:29,747 --> 00:06:31,922
+To us, you weren't missing, Carson,
+
+114
+00:06:32,762 --> 00:06:33,839
+you were dead.
+
+115
+00:06:39,944 --> 00:06:41,940
+Have you spoken to your Wraith contact?
+
+116
+00:06:42,060 --> 00:06:44,596
+He claims he's given us everything
+he knows about Michael, but
+
+117
+00:06:44,716 --> 00:06:45,789
+I assume he's lying.
+
+118
+00:06:45,910 --> 00:06:49,699
+Until we can come up with something that
+he can use, he's not much good to us.
+
+119
+00:06:49,819 --> 00:06:51,664
+So we need to find
+our intel somewhere else.
+
+120
+00:06:51,825 --> 00:06:54,200
+That's what I wanted
+to talk to you about.
+
+121
+00:06:55,321 --> 00:06:56,395
+You mean Beckett.
+
+122
+00:06:56,734 --> 00:06:59,705
+He has been inside Michael's operation
+and he may know something.
+
+123
+00:06:59,825 --> 00:07:02,400
+Or he could have been
+planted there for us to find.
+
+124
+00:07:02,520 --> 00:07:04,745
+For all we know, this whole thing
+could be a set-up.
+
+125
+00:07:04,865 --> 00:07:06,667
+Sure, anything's possible.
+
+126
+00:07:07,415 --> 00:07:10,215
+John, the Carson Beckett
+you knew was killed.
+
+127
+00:07:10,784 --> 00:07:12,789
+You were there.
+You all were.
+
+128
+00:07:13,065 --> 00:07:16,164
+I'm sorry to say it,
+but you need to remember that.
+
+129
+00:07:18,255 --> 00:07:20,035
+I know this is a lot
+for you to take in...
+
+130
+00:07:20,155 --> 00:07:21,785
+Aye, you're damn right it is.
+
+131
+00:07:21,905 --> 00:07:23,895
+First, you tell me
+I'm not the only Carson Beckett,
+
+132
+00:07:24,015 --> 00:07:27,700
+and then you tell me the other one
+died in a horrible explosion.
+
+133
+00:07:27,860 --> 00:07:28,960
+Oh, my God.
+
+134
+00:07:29,166 --> 00:07:31,037
+My mother!
+You didn't tell her, did you?
+
+135
+00:07:31,965 --> 00:07:33,081
+Well, yeah.
+
+136
+00:07:33,241 --> 00:07:34,245
+Good Lord.
+
+137
+00:07:34,504 --> 00:07:35,583
+You were dead.
+
+138
+00:07:35,743 --> 00:07:37,355
+I'm sorry, but we buried you.
+
+139
+00:07:37,475 --> 00:07:39,212
+There was a memorial service.
+
+
+140
+00:07:39,372 --> 00:07:40,713
+This can't be happening.
+
+141
+00:07:40,873 --> 00:07:42,725
+- I have to talk to her.
+- You can't.
+
+142
+00:07:42,845 --> 00:07:45,426
+What kind of effect that could have?
+What do you have to say to her?
+
+143
+00:07:45,586 --> 00:07:47,595
+I'll say the Air Force
+made a bloody mistake!
+
+144
+00:07:47,755 --> 00:07:49,514
+- Carson...
+- This is too much.
+
+145
+00:07:49,674 --> 00:07:51,641
+Get Dr. Weir in here.
+I need to speak to her.
+
+146
+00:07:55,144 --> 00:07:56,043
+What?
+
+147
+00:07:57,395 --> 00:07:59,148
+- I can't do that.
+- Why not?
+
+148
+00:08:00,606 --> 00:08:01,776
+She's dead, Carson.
+
+149
+00:08:04,566 --> 00:08:06,869
+She was killed by the Replicators.
+
+150
+00:08:06,989 --> 00:08:09,131
+Sacrificed herself
+to save the rest of us.
+
+151
+00:08:12,264 --> 00:08:13,564
+I'm sorry, I...
+
+152
+00:08:15,066 --> 00:08:17,164
+I don't know what else to say.
+
+153
+00:08:18,255 --> 00:08:20,711
+<i>You know,
+for the better part of two years</i>
+
+154
+00:08:21,525 --> 00:08:25,525
+I imagined what it would be like
+the day I finally got back to Atlantis.
+
+155
+00:08:29,006 --> 00:08:31,399
+This isn't exactly
+how I pictured it.
+
+156
+00:08:41,885 --> 00:08:43,387
+What is this place?
+
+157
+00:08:44,315 --> 00:08:46,012
+Just another dead world.
+
+158
+00:08:46,435 --> 00:08:49,632
+Destroyed by the Wraith,
+abandoned by the survivors,
+
+159
+00:08:50,264 --> 00:08:51,764
+forgotten by both.
+
+160
+00:08:53,024 --> 00:08:55,323
+A perfect place to conduct my work.
+
+161
+00:08:59,535 --> 00:09:00,478
+Open it.
+
+162
+00:09:15,223 --> 00:09:17,830
+I'll leave you to get
+re-acquainted.
+
+163
+00:09:27,563 --> 00:09:28,562
+<i>Halling?</i>
+
+164
+00:09:39,336 --> 00:09:41,537
+What have you got for me, Doctor?
+
+165
+00:09:41,885 --> 00:09:43,988
+I think I've solved the mystery.
+
+166
+00:09:44,735 --> 00:09:46,515
+You know what
+a telomere is, Colonel?
+
+167
+00:09:46,635 --> 00:09:48,385
+It's part of
+a human chromosome, right?
+
+168
+00:09:48,505 --> 00:09:50,008
+Yeah, that's right.
+
+169
+00:09:50,585 --> 00:09:54,485
+Each time a cell divides, the chromosome
+is torn apart and rebuilt,
+
+170
+00:09:54,605 --> 00:09:57,705
+and in the process, a small amount
+of the telomere gets used up.
+
+171
+00:09:57,825 --> 00:10:00,825
+As a result,
+telomeres become shorter over time.
+
+172
+00:10:01,035 --> 00:10:03,151
+The more we age,
+the shorter they get.
+
+173
+00:10:03,345 --> 00:10:05,146
+And this is Dr. Beckett's?
+
+174
+00:10:05,615 --> 00:10:06,518
+Yeah.
+
+175
+00:10:07,228 --> 00:10:08,829
+<i>According to the scan,</i>
+
+176
+00:10:09,546 --> 00:10:11,544
+his telomeres are 30% shorter
+
+177
+00:10:11,815 --> 00:10:14,396
+than they should be
+for a man of his age.
+
+178
+00:10:14,516 --> 00:10:16,645
+The only explanation
+is that the original DNA
+
+179
+00:10:16,765 --> 00:10:18,120
+came from an adult cell.
+
+180
+00:10:18,455 --> 00:10:21,645
+One where the telomeres
+had already started to degrade.
+
+181
+00:10:21,765 --> 00:10:24,566
+- So...
+- You can forget parallel universes.
+
+182
+00:10:25,705 --> 00:10:26,921
+He's a clone.
+
+183
+00:10:30,685 --> 00:10:33,185
+I did not ever think
+I would see you again.
+
+184
+00:10:33,305 --> 00:10:34,403
+Nor did we.
+
+185
+00:10:35,085 --> 00:10:38,086
+I just wish it were under
+happier circumstances.
+
+186
+00:10:40,585 --> 00:10:42,770
+Where are the rest of our people?
+
+187
+00:10:43,475 --> 00:10:44,777
+They were taken.
+
+188
+00:10:45,735 --> 00:10:48,036
+- Taken?
+- To be experimented upon,
+
+189
+00:10:48,715 --> 00:10:51,279
+converted into one of those...
+Those things.
+
+190
+00:10:52,065 --> 00:10:53,595
+How long has this been going on?
+
+191
+00:10:53,715 --> 00:10:55,616
+For months.
+Since the day of our arrival.
+
+192
+00:10:55,806 --> 00:10:57,706
+Kanaan was one of the first.
+
+193
+00:10:57,875 --> 00:10:58,869
+<i>I know.</i>
+
+194
+00:10:59,076 --> 00:11:00,979
+I saw him on Michael's ship,
+
+195
+00:11:02,255 --> 00:11:05,258
+but I did not realize
+it had happened to so many.
+
+196
+00:11:06,055 --> 00:11:07,255
+<i>I am so sorry.</i>
+
+197
+00:11:07,845 --> 00:11:10,285
+<i>I should have been at the village
+the day you were captured.</i>
+
+198
+00:11:10,405 --> 00:11:12,546
+There was nothing
+you could have done.
+
+199
+00:11:12,666 --> 00:11:16,429
+50 men armed with stunners infiltrated
+our village under the cover of night.
+
+200
+00:11:16,785 --> 00:11:19,045
+We were taken
+completely by surprise.
+
+201
+00:11:19,165 --> 00:11:21,905
+These four walls have been
+our prison ever since.
+
+202
+00:11:22,025 --> 00:11:24,221
+<i>You must not abandon hope.</i>
+
+203
+00:11:24,865 --> 00:11:27,576
+The people of Atlantis
+know of my disappearance
+
+204
+00:11:27,696 --> 00:11:29,597
+and they are looking for me.
+
+205
+00:11:29,865 --> 00:11:31,944
+It will not be long
+before they come to our rescue.
+
+206
+00:11:32,495 --> 00:11:34,600
+That is a very pleasant thought.
+
+207
+00:11:35,835 --> 00:11:38,492
+But until today, we held out
+the same hope about you.
+
+208
+00:11:46,275 --> 00:11:49,571
+I knew you would want
+to see the results for yourself.
+
+209
+00:11:51,215 --> 00:11:53,714
+And you're certain
+it's from my sample?
+
+210
+00:11:53,935 --> 00:11:55,938
+<i>I ran the test myself, twice.</i>
+
+211
+00:11:57,296 --> 00:11:58,795
+<i>There's no mistake.</i>
+
+212
+00:12:00,945 --> 00:12:02,042
+I'm sorry.
+
+213
+00:12:04,225 --> 00:12:05,406
+It doesn't matter.
+
+214
+00:12:05,526 --> 00:12:07,065
+That's easy for you to say,
+
+215
+00:12:07,185 --> 00:12:09,455
+but you're not the one
+who was made in a test-tube.
+
+216
+00:12:09,575 --> 00:12:12,485
+One of the best friends I ever had
+just came back from the dead.
+
+217
+00:12:12,605 --> 00:12:14,685
+I'm not gonna quibble
+over a couple of telomeres.
+
+218
+00:12:14,805 --> 00:12:16,555
+Thank you,
+but it doesn't change the fact
+
+219
+00:12:16,675 --> 00:12:18,933
+that I'm not
+the real Carson Beckett.
+
+220
+00:12:19,053 --> 00:12:21,846
+No you're not, because the real one
+wouldn't feeling sorry for himself.
+
+221
+00:12:21,966 --> 00:12:24,544
+- He'd figure out how to help us.
+- I'm willing to do whatever I can,
+
+222
+00:12:24,664 --> 00:12:26,965
+but I'm not so sure
+that my help will be wanted.
+
+223
+00:12:27,085 --> 00:12:28,334
+Why wouldn't it be?
+
+224
+00:12:33,735 --> 00:12:36,786
+We're talking about someone who was,
+for all intents and purposes,
+
+225
+00:12:36,906 --> 00:12:39,315
+manufactured by one of
+the most dangerous individuals
+
+226
+00:12:39,435 --> 00:12:40,715
+we've ever come across.
+
+227
+00:12:40,835 --> 00:12:43,075
+Fundamentally, he's not
+that different from those hybrids,
+
+228
+00:12:43,195 --> 00:12:45,795
+and I doubt very much we'd be arguing
+about whether we can trust them.
+
+229
+00:12:45,915 --> 00:12:48,416
+But there's no denying the fact
+that he's no ordinary clone.
+
+230
+00:12:48,536 --> 00:12:52,149
+Michael has managed to reproduce
+his memories, his thought processes,
+
+231
+00:12:52,309 --> 00:12:54,193
+<i>and even his personality.</i>
+
+232
+00:12:54,353 --> 00:12:56,904
+I've spent some time with him,
+and I'm telling you, he's Carson.
+
+233
+00:12:57,064 --> 00:13:01,064
+It doesn't mean it's safe to act
+on any information he might give us.
+
+234
+00:13:01,455 --> 00:13:04,225
+Look, he may genuinely believe
+that he's helping us
+
+235
+00:13:04,345 --> 00:13:06,454
+and still be playing
+right into michael's hand.
+
+236
+00:13:06,574 --> 00:13:07,915
+<i>She's got a point, Rodney.</i>
+
+237
+00:13:08,178 --> 00:13:09,583
+What exactly is he offering?
+
+238
+00:13:09,743 --> 00:13:13,016
+He knows the layouts of at least
+four facilities that Michael has.
+
+239
+00:13:13,136 --> 00:13:14,714
+He likes to move around a lot,
+
+240
+00:13:14,874 --> 00:13:17,383
+<i>- stay one step ahead of the Wraith.</i>
+- What about Gate addresses?
+
+241
+00:13:17,543 --> 00:13:20,285
+They blindfolded him every time they
+moved him, so he couldn't see the DHD.
+
+242
+00:13:20,405 --> 00:13:23,389
+Although, he did catch an address
+dialed by one of Michael's mercenaries.
+
+243
+00:13:23,986 --> 00:13:25,891
+<i>That could be a place to start.</i>
+
+244
+00:13:32,945 --> 00:13:35,148
+Go ahead, Rodney.
+I'll catch up.
+
+245
+00:13:43,845 --> 00:13:45,805
+Is he ever going to say
+a word to me?
+
+246
+00:13:45,925 --> 00:13:49,515
+You gotta give him a break. He's not
+good dealing with this sort of thing.
+
+247
+00:13:49,635 --> 00:13:52,675
+- What sort of thing?
+- You know, clones, duplicates,
+
+248
+00:13:52,795 --> 00:13:54,985
+people coming back from the dead.
+
+249
+00:13:55,105 --> 00:13:56,905
+We went through this with Elizabeth.
+
+250
+00:13:57,025 --> 00:13:59,055
+Rodney told me.
+It must have been difficult.
+
+251
+00:13:59,175 --> 00:14:01,074
+- He'll come around.
+- Aye.
+
+252
+00:14:08,635 --> 00:14:10,624
+Thank you.
+I must be a wee bit rusty.
+
+253
+00:14:10,744 --> 00:14:13,328
+You're not rusty, Doc.
+You were just never very good at this.
+
+254
+00:14:13,448 --> 00:14:14,547
+Fair enough.
+
+255
+00:14:16,788 --> 00:14:18,238
+I just want to say,
+
+256
+00:14:18,561 --> 00:14:20,649
+thank you. For trusting me.
+
+257
+00:14:21,646 --> 00:14:23,296
+You'll have no regrets.
+
+258
+00:14:24,139 --> 00:14:24,843
+Doc?
+
+259
+00:14:25,114 --> 00:14:25,818
+<i>Aye?</i>
+
+260
+00:14:26,075 --> 00:14:27,531
+Forgot your radio.
+
+261
+00:14:27,651 --> 00:14:28,700
+No regrets.
+
+262
+00:14:51,199 --> 00:14:53,098
+Just in time for happy hour.
+
+263
+00:14:57,974 --> 00:15:01,862
+I was hoping maybe you could help us.
+We're looking for a friend of ours
+
+264
+00:15:02,022 --> 00:15:04,354
+who's been known
+to stop in now and then.
+
+265
+00:15:06,270 --> 00:15:07,915
+You've come to the wrong place.
+
+266
+00:15:08,035 --> 00:15:09,912
+We haven't even told you
+what he looks like.
+
+267
+00:15:10,072 --> 00:15:11,362
+You misunderstand me.
+
+268
+00:15:12,167 --> 00:15:14,434
+No one here cares what he looks like.
+
+269
+00:15:14,991 --> 00:15:18,379
+You've come to the wrong place
+if you're looking for information.
+
+270
+00:15:19,596 --> 00:15:20,315
+Look.
+
+271
+00:15:21,291 --> 00:15:24,749
+I know you're trying to keep up
+appearances here for your friends, but
+
+272
+00:15:24,869 --> 00:15:27,120
+I think we can make it worth your while.
+
+273
+00:15:27,839 --> 00:15:29,139
+I think it would be best
+
+274
+00:15:29,299 --> 00:15:31,827
+<i>if you turn around and be on your way.</i>
+
+275
+00:15:39,759 --> 00:15:41,485
+That's P-90 fire!
+
+276
+00:16:03,077 --> 00:16:03,924
+Is he dead?
+
+277
+00:16:05,519 --> 00:16:07,803
+No, but we need to get back
+to Atlantis as soon as possible.
+
+278
+00:16:15,286 --> 00:16:16,347
+What is it?
+
+279
+00:16:16,467 --> 00:16:19,690
+Colonel Sheppard's team's coming back.
+They've got injuries.
+
+280
+00:16:23,812 --> 00:16:24,714
+<i>What happened?</i>
+
+281
+00:16:24,834 --> 00:16:26,614
+This guy took a shot at us with a P-90.
+
+282
+00:16:28,149 --> 00:16:29,429
+We're okay, but,
+
+283
+00:16:29,549 --> 00:16:31,925
+you know, he took a little
+header off the balcony.
+
+284
+00:16:32,045 --> 00:16:34,437
+- A P-90? Where'd he get it?
+- That's the question.
+
+285
+00:16:34,557 --> 00:16:35,873
+<i>On 3. 1, 2, 3, up.</i>
+
+286
+00:16:37,307 --> 00:16:41,128
+GSC 6, respiration 16, pulse 150,
+blood pressure 70 over 50.
+
+287
+00:16:41,288 --> 00:16:43,349
+I applied pressure
+bandages at the scene.
+
+288
+00:16:43,926 --> 00:16:45,080
+What is it?
+
+289
+00:16:45,784 --> 00:16:47,092
+I know this man.
+
+290
+00:16:48,511 --> 00:16:52,123
+His name's Nabel. When Teyla and
+I went to New Athos, he was there.
+
+291
+00:16:52,243 --> 00:16:53,746
+He tried to kill us.
+
+292
+00:16:53,954 --> 00:16:56,486
+That's all right, love. He's unconscious
+now, and, for the time being,
+
+293
+00:16:56,606 --> 00:16:58,938
+in desperate need of our attention.
+You can confront him later.
+
+294
+00:16:59,058 --> 00:17:01,834
+Right now we need to save his life.
+Let's go, lads.
+
+295
+00:17:08,816 --> 00:17:09,782
+Blood pressure?
+
+296
+00:17:10,065 --> 00:17:11,075
+50 over 40.
+
+297
+00:17:11,235 --> 00:17:14,286
+It's dropping. We need to stop
+this bleeding. I need suction.
+
+298
+00:17:14,406 --> 00:17:15,871
+Let's prep for a C-spine X-ray.
+
+299
+00:17:18,578 --> 00:17:20,668
+- What can I do?
+- Grab some clamps and get busy.
+
+300
+00:17:20,828 --> 00:17:21,621
+Right.
+
+301
+00:17:22,215 --> 00:17:24,350
+I'm guessing some pretty
+severe lacerations...
+
+302
+00:17:27,918 --> 00:17:29,299
+Get him to a bed, now!
+
+303
+00:17:38,239 --> 00:17:40,062
+It was Dr. Beckett's idea to go there.
+
+304
+00:17:40,182 --> 00:17:42,946
+If we hadn't have gone, we wouldn't have
+captured one of Michael's operatives.
+
+305
+00:17:43,066 --> 00:17:45,601
+You also wouldn't have been
+nearly killed in an ambush.
+
+306
+00:17:45,721 --> 00:17:47,152
+<i>It wasn't that bad.</i>
+
+307
+00:17:47,434 --> 00:17:48,487
+It was one guy.
+
+308
+00:17:48,686 --> 00:17:51,036
+Firing at you with one
+of our own weapons.
+
+309
+00:17:51,156 --> 00:17:53,192
+He was Michael's spy
+in the Athosian village.
+
+310
+00:17:53,312 --> 00:17:55,367
+He got the P-90 from
+the weapons cache we left there.
+
+311
+00:17:55,487 --> 00:17:58,330
+It doesn't change the fact
+that you were led into an ambush,
+
+312
+00:17:58,491 --> 00:17:59,794
+<i>intentionally or not.</i>
+
+313
+00:17:59,914 --> 00:18:02,012
+<i>Colonel Carter, this is Dr. Keller.</i>
+
+314
+00:18:02,132 --> 00:18:05,499
+<i>You'd better come down to the infirmary.
+There's a problem with Dr. Beckett.</i>
+
+315
+00:18:07,882 --> 00:18:11,288
+After he collapsed, I did a scan
+and found evidence of necrosis
+
+316
+00:18:11,408 --> 00:18:13,608
+in several of his internal organs.
+
+317
+00:18:13,832 --> 00:18:17,203
+His cells aren't renewing fast enough
+to sustain tissue function.
+
+318
+00:18:17,323 --> 00:18:18,591
+Any idea why?
+
+319
+00:18:18,771 --> 00:18:21,937
+I can only assume it's a complication
+due to the fact he's a clone.
+
+320
+00:18:22,603 --> 00:18:25,691
+<i>I've given him a course of treatment
+to try to stimulate cell growth,</i>
+
+321
+00:18:26,534 --> 00:18:29,111
+but it's a bit like trying
+to find a cure for old age.
+
+322
+00:18:29,421 --> 00:18:30,635
+What are you saying?
+
+323
+00:18:31,896 --> 00:18:35,993
+On the outside, he looks fine,
+but on the inside,
+
+324
+00:18:36,891 --> 00:18:38,152
+well, he's...
+
+325
+00:18:38,702 --> 00:18:39,663
+he's dying.
+
+326
+00:18:46,848 --> 00:18:47,879
+My Lord.
+
+327
+00:18:48,441 --> 00:18:51,832
+No wonder I've felt like
+a dog's breakfast ever since I got here.
+
+328
+00:18:52,370 --> 00:18:55,235
+I'm sorry, Carson. I wish
+there was something we could do.
+
+329
+00:18:55,355 --> 00:18:57,434
+Why is this happening now?
+
+330
+00:18:57,554 --> 00:18:58,703
+What do you mean?
+
+331
+00:18:58,823 --> 00:19:01,343
+You survived for almost
+two years with Michael.
+
+332
+00:19:01,463 --> 00:19:05,073
+Shouldn't you have felt some kind of
+effects from this condition before now?
+
+333
+00:19:05,193 --> 00:19:06,694
+That's a good point.
+
+334
+00:19:07,347 --> 00:19:11,151
+Don't take this the wrong way, but at
+the rate your cells are deteriorating,
+
+335
+00:19:11,271 --> 00:19:13,625
+you should have died a long time ago.
+
+336
+00:19:17,544 --> 00:19:19,119
+The weekly injection he gave me.
+
+337
+00:19:19,607 --> 00:19:22,873
+He said it was a sedative meant
+to keep me from trying to escape,
+
+338
+00:19:23,033 --> 00:19:26,418
+<i>but it must have been some kind of drug
+to keep my cells from deteriorating.</i>
+
+339
+00:19:26,578 --> 00:19:28,420
+You obviously don't have
+any of it with you.
+
+340
+00:19:28,580 --> 00:19:31,730
+No. Michael administered it himself,
+one dose at a time,
+
+341
+00:19:31,850 --> 00:19:33,935
+but when Colonel Sheppard's team
+rescued me,
+
+342
+00:19:34,055 --> 00:19:36,449
+it had only been four days
+since my last injection.
+
+343
+00:19:36,569 --> 00:19:38,764
+Assuming it takes a full
+seven days to break down...
+
+344
+00:19:38,924 --> 00:19:40,532
+We scanned you when you got here.
+
+345
+00:19:40,652 --> 00:19:41,559
+Exactly.
+
+346
+00:19:41,927 --> 00:19:44,547
+And if the scanner was able to pick it
+up, we might be able to isolate it
+
+347
+00:19:44,667 --> 00:19:46,692
+and create more.
+We need to get started right now.
+
+348
+00:19:46,812 --> 00:19:48,947
+- Where do you think you're doing?
+- We have work to do.
+
+349
+00:19:49,067 --> 00:19:50,532
+No, I have work to do.
+
+350
+00:19:50,652 --> 00:19:53,217
+You need to stay in bed.
+The less you exert yourself, the better.
+
+351
+00:19:53,337 --> 00:19:55,473
+You don't seriously expect me
+to lie here and be useless
+
+352
+00:19:55,593 --> 00:19:57,838
+when my own life hangs
+in the balance, do you?
+
+353
+00:20:13,740 --> 00:20:15,555
+Kanaan, look at me.
+
+354
+00:20:21,135 --> 00:20:22,694
+You know who I am.
+
+355
+00:20:23,784 --> 00:20:26,598
+I do not know
+what Michael has done to you,
+
+356
+00:20:28,551 --> 00:20:30,815
+but I do know that, deep down,
+
+357
+00:20:31,263 --> 00:20:33,610
+a part of you is still
+the man I remember.
+
+358
+00:20:35,334 --> 00:20:36,837
+I need your help.
+
+359
+00:20:38,788 --> 00:20:40,832
+We need your help.
+
+360
+00:20:42,913 --> 00:20:45,164
+If we do not find a way
+out of here quickly,
+
+361
+00:20:45,973 --> 00:20:47,889
+Michael will force on us
+
+362
+00:20:48,548 --> 00:20:50,345
+what he has forced on you.
+
+363
+00:20:52,132 --> 00:20:54,717
+Our child will be born soon,
+
+364
+00:20:55,276 --> 00:20:56,761
+and when he is,
+
+365
+00:20:56,881 --> 00:21:00,675
+Michael will take him to use
+for some terrible purpose.
+
+366
+00:21:01,606 --> 00:21:04,619
+You must not let that happen.
+
+367
+00:21:08,544 --> 00:21:09,893
+Kanaan, wait!
+
+368
+00:21:14,108 --> 00:21:15,551
+I'm going cross-eyed.
+
+369
+00:21:15,671 --> 00:21:18,160
+It's gotta be in here somewhere.
+We must be missing something.
+
+370
+00:21:18,280 --> 00:21:20,571
+We've been over everything twice.
+Maybe the drug breaks down
+
+371
+00:21:20,691 --> 00:21:22,874
+- faster than we thought.
+- Wait a minute.
+
+372
+00:21:23,466 --> 00:21:24,297
+What?
+
+373
+00:21:24,671 --> 00:21:26,333
+Unidentified polypeptide chain.
+
+374
+00:21:26,453 --> 00:21:29,037
+The scan found it
+in one of your kidney cells.
+
+375
+00:21:30,170 --> 00:21:32,766
+Try screening it
+for traces of Wraith DNA.
+
+376
+00:21:37,855 --> 00:21:38,926
+My God.
+
+377
+00:21:39,910 --> 00:21:42,468
+Must be a Wraith enzyme of some sort.
+
+378
+00:21:45,356 --> 00:21:46,915
+<i>But it's enormously complex.</i>
+
+379
+00:21:47,035 --> 00:21:49,019
+It's not gonna be easy to duplicate.
+
+380
+00:21:51,106 --> 00:21:52,213
+Right, then.
+
+381
+00:21:59,918 --> 00:22:01,156
+Do not incite them!
+
+382
+00:22:03,002 --> 00:22:05,181
+- Her.
+- No. You will take me instead.
+
+383
+00:22:07,294 --> 00:22:08,287
+<i>Halling!</i>
+
+384
+00:22:15,047 --> 00:22:15,765
+No!
+
+385
+00:22:16,771 --> 00:22:17,471
+No!
+
+386
+00:22:18,721 --> 00:22:19,423
+No!
+
+387
+00:22:23,096 --> 00:22:26,431
+Just let me know when you have
+test results on those. Thanks.
+
+388
+00:22:29,220 --> 00:22:30,220
+Damn it.
+
+389
+00:22:30,971 --> 00:22:32,994
+- What is it?
+- See for yourself.
+
+390
+00:22:40,660 --> 00:22:43,252
+The primer's not annealing
+to the DNA template.
+
+391
+00:22:43,657 --> 00:22:46,672
+There's too many contaminants.
+We're back to square one.
+
+392
+00:22:46,792 --> 00:22:48,482
+I'm sorry, Carson, but...
+
+393
+00:22:49,076 --> 00:22:50,842
+we've only been at this
+for a little while.
+
+394
+00:22:50,962 --> 00:22:53,077
+You knew it wasn't gonna be easy.
+
+395
+00:22:53,969 --> 00:22:56,128
+I was hoping for
+a breakthrough by now.
+
+396
+00:22:57,160 --> 00:22:58,083
+Carson?
+
+397
+00:22:58,970 --> 00:23:00,484
+It's all right. I'm okay.
+
+398
+00:23:00,604 --> 00:23:03,039
+No, you're not.
+Your condition's getting worse.
+
+399
+00:23:03,159 --> 00:23:06,039
+I'll be fine.
+It was just a wee bit of a dizzy spell.
+
+400
+00:23:06,159 --> 00:23:08,390
+Now, get me some
+of those PCR tubes, will you?
+
+401
+00:23:08,954 --> 00:23:09,785
+Please.
+
+402
+00:23:10,220 --> 00:23:11,664
+You can't just ignore this.
+
+403
+00:23:11,845 --> 00:23:13,270
+What else can I do?
+
+404
+00:23:13,470 --> 00:23:16,940
+We could halt the deterioration
+of your cells in a stasis pod.
+
+405
+00:23:17,100 --> 00:23:19,719
+- Don't put me in one of those things.
+- But it makes sense.
+
+406
+00:23:19,839 --> 00:23:22,487
+- When I figure out how to fix this...
+- What if you can't?
+
+407
+00:23:22,782 --> 00:23:25,114
+I'll be stuck in that bloody machine
+for God knows how long.
+
+408
+00:23:25,275 --> 00:23:27,869
+Isn't that better
+than trying in vain to solve this
+
+409
+00:23:27,989 --> 00:23:30,183
+while the clock's ticking away
+on your own life?
+
+410
+00:23:32,020 --> 00:23:32,720
+No.
+
+411
+00:24:01,535 --> 00:24:02,535
+Michael?
+
+412
+00:24:03,846 --> 00:24:04,935
+Is that you?
+
+413
+00:24:13,222 --> 00:24:14,182
+Kanaan.
+
+414
+00:24:17,969 --> 00:24:18,835
+Quickly.
+
+415
+00:24:19,171 --> 00:24:20,698
+You must release me.
+
+416
+00:24:23,418 --> 00:24:25,111
+Michael will be here soon.
+
+417
+00:24:26,357 --> 00:24:29,930
+He will do to me
+what he has done to you. Please.
+
+418
+00:24:33,033 --> 00:24:34,577
+I can help you escape.
+
+419
+00:24:35,957 --> 00:24:37,187
+All of you.
+
+420
+00:24:42,274 --> 00:24:43,360
+Teyla?
+
+421
+00:24:43,532 --> 00:24:44,290
+Yes.
+
+422
+00:24:45,799 --> 00:24:46,829
+It's me.
+
+423
+00:25:08,947 --> 00:25:09,683
+Yes,
+
+424
+00:25:09,957 --> 00:25:11,002
+that's it.
+
+425
+00:25:16,021 --> 00:25:16,911
+Kanaan,
+
+426
+00:25:17,259 --> 00:25:18,285
+what is it?
+
+427
+00:25:30,779 --> 00:25:31,575
+Leave us.
+
+428
+00:25:43,157 --> 00:25:44,041
+Now...
+
+429
+00:25:45,191 --> 00:25:46,498
+let's get started.
+
+430
+00:26:02,043 --> 00:26:05,346
+I see you've once again
+opted to save my life.
+
+431
+00:26:05,995 --> 00:26:08,049
+It wasn't an easy decision,
+let me tell you.
+
+432
+00:26:08,169 --> 00:26:11,573
+The only reason she did it
+is because we need information.
+
+433
+00:26:11,733 --> 00:26:13,052
+About Michael.
+
+434
+00:26:14,006 --> 00:26:15,258
+Yes, I know.
+
+435
+00:26:16,761 --> 00:26:18,872
+Too bad you wasted your effort.
+
+436
+00:26:19,920 --> 00:26:21,953
+You should have just let me die.
+
+437
+00:26:22,529 --> 00:26:23,579
+Why's that?
+
+438
+00:26:24,066 --> 00:26:26,545
+Because once Michael finds out
+I was captured,
+
+439
+00:26:26,665 --> 00:26:28,505
+I'm as good as dead anyway.
+
+440
+00:26:28,625 --> 00:26:29,916
+Yeah, well, maybe.
+
+441
+00:26:30,204 --> 00:26:32,469
+Or maybe not,
+if you help us find him.
+
+442
+00:26:32,629 --> 00:26:34,424
+He has spies everywhere.
+
+443
+00:26:35,481 --> 00:26:38,391
+There's nowhere in this galaxy
+he can't find me.
+
+444
+00:26:39,168 --> 00:26:40,936
+Who said anything about this galaxy?
+
+445
+00:26:43,955 --> 00:26:47,655
+I had to modify this technology
+for use with humans.
+
+446
+00:26:51,065 --> 00:26:52,183
+It's crude,
+
+447
+00:26:52,647 --> 00:26:55,304
+but it works remarkably well.
+
+448
+00:26:57,189 --> 00:26:58,189
+Michael...
+
+449
+00:26:59,063 --> 00:27:02,176
+Whatever has happened between us
+in the past,
+
+450
+00:27:03,691 --> 00:27:04,852
+I beg you,
+
+451
+00:27:05,398 --> 00:27:09,047
+do not harm my child.
+
+452
+00:27:11,576 --> 00:27:12,759
+I wouldn't dream of it.
+
+453
+00:27:13,849 --> 00:27:16,485
+Now, just relax.
+
+454
+00:27:17,614 --> 00:27:19,123
+This won't hurt a bit.
+
+455
+00:27:21,708 --> 00:27:22,519
+Listen.
+
+456
+00:27:29,739 --> 00:27:31,285
+<i>Your child is healthy.</i>
+
+457
+00:27:33,737 --> 00:27:34,565
+Look.
+
+458
+00:27:41,441 --> 00:27:43,083
+Why are you doing this?
+
+459
+00:27:49,188 --> 00:27:50,277
+<i>On the ship,</i>
+
+460
+00:27:51,922 --> 00:27:53,025
+<i>Kanaan said</i>
+
+461
+00:27:53,145 --> 00:27:56,851
+our son would serve the cause.
+
+462
+00:27:58,064 --> 00:27:59,812
+What did he mean by that?
+
+463
+00:28:00,536 --> 00:28:01,961
+You have the gift.
+
+464
+00:28:02,791 --> 00:28:04,024
+<i>So does Kanaan.</i>
+
+465
+00:28:05,836 --> 00:28:08,690
+Have you stopped to think
+what that might mean for your son?
+
+466
+00:28:10,999 --> 00:28:12,721
+He is genetically unique.
+
+467
+00:28:13,847 --> 00:28:15,967
+And while I've made a lot
+of progress with my hybrids,
+
+468
+00:28:16,087 --> 00:28:18,899
+there are still some details
+that need to be worked out.
+
+469
+00:28:20,477 --> 00:28:21,645
+This child...
+
+470
+00:28:22,281 --> 00:28:23,496
+will help me do that.
+
+471
+00:28:29,175 --> 00:28:32,496
+You've taken good care of him.
+You should be very proud.
+
+472
+00:28:35,257 --> 00:28:36,200
+Even so...
+
+473
+00:28:42,689 --> 00:28:44,726
+He could probably use a little help.
+
+474
+00:28:46,680 --> 00:28:48,475
+Michael, what are you doing?
+
+475
+00:28:49,013 --> 00:28:49,940
+Please...
+
+476
+00:28:50,339 --> 00:28:51,798
+I need this child.
+
+477
+00:28:52,990 --> 00:28:54,989
+I can't afford to let anything...
+
+478
+00:28:55,109 --> 00:28:56,488
+happen to him.
+
+479
+00:29:09,459 --> 00:29:10,638
+How'd it go?
+
+480
+00:29:10,758 --> 00:29:13,517
+Nabel gave up the address.
+We know where she is.
+
+481
+00:29:15,746 --> 00:29:17,568
+It's one of Michael's bigger facilities.
+
+482
+00:29:17,688 --> 00:29:21,520
+The lab is in the center of the main
+building, but it's difficult to find,
+
+483
+00:29:21,640 --> 00:29:24,875
+not to mention the fact that, if he is
+there, he'll be heavily guarded.
+
+484
+00:29:25,126 --> 00:29:27,560
+- Great.
+- You're sure this is the right place?
+
+485
+00:29:27,991 --> 00:29:29,989
+I definitely recognize
+the description Nabel gave.
+
+486
+00:29:30,109 --> 00:29:31,913
+Trust me, this is the place.
+
+487
+00:29:32,440 --> 00:29:34,216
+You should bring me with you.
+
+488
+00:29:36,246 --> 00:29:38,389
+This is just a small part
+of the complex.
+
+489
+00:29:38,509 --> 00:29:41,616
+The place is like a maze, and once
+ inside, it's easy to get turned around.
+
+490
+00:29:43,798 --> 00:29:45,245
+All right. Thank you, Doctor.
+
+491
+00:29:51,921 --> 00:29:53,127
+So, what do you think?
+
+492
+00:29:53,288 --> 00:29:55,115
+Well, if he's leading us into a trap,
+
+493
+00:29:55,235 --> 00:29:57,805
+it's not gonna make much difference
+whether he's there or not.
+
+494
+00:29:57,925 --> 00:30:00,447
+But if he isn't,
+he could be pretty useful.
+
+495
+00:30:00,567 --> 00:30:01,970
+<i>Wait a second.</i>
+
+496
+00:30:02,090 --> 00:30:04,769
+If he goes on this mission, it could
+kill him. We can't ask him to do this.
+
+497
+00:30:04,889 --> 00:30:07,146
+- We didn't ask him. He volunteered.
+- Oh, gimme a break.
+
+498
+00:30:07,266 --> 00:30:09,442
+- Easy, Rodney.
+- I'm sorry, i'm just a little concerned
+
+499
+00:30:09,562 --> 00:30:11,154
+we're so cavalier with his life
+
+
+500
+00:30:11,274 --> 00:30:13,579
+because we think of him
+as some kind of a cheap copy.
+
+501
+00:30:13,699 --> 00:30:14,961
+<i>He's doing it for Teyla.</i>
+
+502
+00:30:15,143 --> 00:30:16,152
+Don't stand there
+
+503
+00:30:16,272 --> 00:30:19,727
+and pretend that you wouldn't do
+the same thing if you were in his place.
+
+504
+00:30:29,426 --> 00:30:31,993
+It's okay. I'm all right.
+Thank you. Okay.
+
+505
+00:30:32,454 --> 00:30:33,273
+Carson.
+
+506
+00:30:33,393 --> 00:30:35,587
+Rodney, I was just heading down
+to get geared up.
+
+507
+00:30:36,174 --> 00:30:38,084
+You can barely stand.
+You don't have to do this.
+
+508
+00:30:38,204 --> 00:30:40,252
+You said yourself
+the real Carson wouldn't sit around
+
+509
+00:30:40,372 --> 00:30:42,265
+worrying about himself
+when he could help.
+
+510
+00:30:42,385 --> 00:30:44,455
+The real Carson also
+never listened to my advice.
+
+511
+00:30:44,575 --> 00:30:46,952
+Look, you don't have to prove anything,
+certainly not to me.
+
+512
+00:30:47,072 --> 00:30:48,016
+I know that.
+
+513
+00:30:48,671 --> 00:30:50,977
+Don't worry. I'll be fine.
+Let's go.
+
+514
+00:31:14,166 --> 00:31:16,683
+I'm reading a bunch
+of life signs up ahead.
+
+515
+00:31:16,803 --> 00:31:18,021
+Maybe it's the Athosians.
+
+516
+00:31:18,141 --> 00:31:20,876
+Yeah. Or maybe it's a herd
+of those Frankensteins.
+
+517
+00:31:22,417 --> 00:31:23,368
+Doctor?
+
+518
+00:31:25,172 --> 00:31:26,839
+It's this way, I think.
+
+519
+00:31:28,307 --> 00:31:30,521
+No, no, I'm certain. It's this way.
+
+520
+00:31:43,451 --> 00:31:44,798
+What is happening?
+
+521
+00:31:49,695 --> 00:31:52,336
+There is a connection
+between us, Michael,
+
+522
+00:31:52,456 --> 00:31:53,508
+and right now,
+
+523
+00:31:53,628 --> 00:31:55,586
+I can sense your fear.
+
+524
+00:31:56,068 --> 00:31:57,677
+I wouldn't go that far.
+
+525
+00:31:58,214 --> 00:31:59,444
+Let's call it...
+
+526
+00:31:59,909 --> 00:32:00,811
+concern.
+
+527
+00:32:07,979 --> 00:32:09,198
+What did you do?
+
+528
+00:32:09,318 --> 00:32:10,727
+<i>I shut them down.</i>
+
+529
+00:32:12,557 --> 00:32:14,077
+You mean you killed them.
+
+530
+00:32:14,197 --> 00:32:16,714
+I can't afford to leave
+any loose ends behind.
+
+531
+00:32:16,834 --> 00:32:19,764
+Anyway, there's always more
+where they came from.
+
+532
+00:32:21,585 --> 00:32:22,927
+Take her to the ship.
+
+533
+00:32:23,047 --> 00:32:24,226
+We're leaving.
+
+534
+00:32:51,690 --> 00:32:53,725
+I'm tired of getting shot at
+with our own guns.
+
+535
+00:32:55,136 --> 00:32:58,071
+I'm not generally fond of it
+regardless of the weapon.
+
+536
+00:33:09,737 --> 00:33:10,502
+Hello?
+
+537
+00:33:11,136 --> 00:33:12,160
+Is anyone there?
+
+538
+00:33:17,116 --> 00:33:18,124
+<i>You must help us!</i>
+
+539
+00:33:18,892 --> 00:33:20,752
+- You hear that?
+- Was that Halling?
+
+540
+00:33:23,833 --> 00:33:24,779
+Halling?
+
+541
+00:33:24,899 --> 00:33:26,537
+Colonel, through here!
+
+542
+00:33:27,717 --> 00:33:30,553
+- It's very good to see you.
+- Likewise, my friend.
+
+543
+00:33:32,645 --> 00:33:35,469
+- Are you all right?
+- We're fine, those of us that are left.
+
+544
+00:33:35,589 --> 00:33:37,773
+- Teyla said you would come.
+- Where is she?
+
+545
+00:33:37,893 --> 00:33:39,979
+Michael has taken her.
+You must go after her.
+
+546
+00:33:40,395 --> 00:33:42,394
+Take your people.
+We'll meet you in a little while.
+
+547
+00:33:42,514 --> 00:33:45,430
+Everyone, it's the time.
+Come. Gather your strength.
+
+548
+00:33:45,945 --> 00:33:47,960
+Come through.
+Everyone.
+
+549
+00:33:54,277 --> 00:33:55,397
+My God.
+
+550
+00:34:06,547 --> 00:34:07,507
+They're dead.
+
+551
+00:34:16,457 --> 00:34:18,226
+- You think Teyla.
+- No, I don't think so,
+
+552
+00:34:18,387 --> 00:34:19,775
+and you don't think so.
+
+553
+00:34:37,520 --> 00:34:40,495
+I don't mean to rush things,
+but I'm picking up an energy reading.
+
+554
+00:34:40,615 --> 00:34:42,041
+Someone's firing up the ship.
+
+555
+00:34:51,020 --> 00:34:52,846
+Carson! Carson!
+
+556
+00:35:10,975 --> 00:35:13,833
+I know. I'm the last person
+you expected to see.
+
+557
+00:35:15,718 --> 00:35:18,677
+- It's all right. I'm here to help you.
+- It's not possible.
+
+558
+00:35:18,956 --> 00:35:22,858
+I'm sorry, I don't have time to explain.
+The others are waiting back at the lab.
+
+559
+00:35:23,018 --> 00:35:24,951
+- We have to go, now.
+- I can't.
+
+560
+00:35:26,003 --> 00:35:29,568
+Kanaan, the father of my son,
+he is still here.
+
+561
+00:35:29,801 --> 00:35:31,249
+I am not leaving without him.
+
+562
+00:35:31,509 --> 00:35:33,960
+- There's no time.
+- Quite correct.
+
+563
+00:35:35,610 --> 00:35:38,322
+You should've run
+when you had the chance,
+
+564
+00:35:38,637 --> 00:35:41,384
+<i>but you let your feelings
+get in the way.</i>
+
+565
+00:35:42,629 --> 00:35:44,465
+Stay back.
+I'm warning you.
+
+566
+00:35:45,189 --> 00:35:46,588
+Shoot him, Carson.
+
+567
+00:35:47,369 --> 00:35:48,602
+Shoot him now!
+
+568
+00:35:51,518 --> 00:35:53,563
+He doesn't want to shoot me.
+
+569
+00:35:55,071 --> 00:35:57,608
+<i>Or to be more precise,
+he'd like nothing more,</i>
+
+570
+00:35:57,868 --> 00:35:59,784
+but, like all my creations,
+
+571
+00:36:00,373 --> 00:36:02,321
+he is open to my influence.
+
+572
+00:36:08,644 --> 00:36:09,912
+I'm sorry, Teyla.
+
+573
+00:36:11,590 --> 00:36:12,665
+Don't!
+
+574
+00:36:22,013 --> 00:36:23,301
+You don't look well.
+
+575
+00:36:24,109 --> 00:36:25,757
+<i>You should have stayed with me.</i>
+
+576
+00:36:25,931 --> 00:36:28,998
+I'd give you an injection,
+but I don't have any with me.
+
+577
+00:36:29,955 --> 00:36:30,955
+Anyway...
+
+578
+00:36:32,409 --> 00:36:34,020
+you've served your purpose.
+
+579
+00:36:44,237 --> 00:36:45,448
+Time to go.
+
+580
+00:36:58,998 --> 00:37:00,505
+Take a look, east wall.
+
+581
+00:37:00,765 --> 00:37:02,911
+<i>Those look like gas containers?</i>
+
+582
+00:37:03,434 --> 00:37:04,459
+Yep.
+
+583
+00:37:07,563 --> 00:37:08,802
+Worth a shot.
+
+584
+00:37:27,322 --> 00:37:29,473
+- Where's Beckett?
+- This way.
+
+585
+00:37:38,119 --> 00:37:39,339
+It's Carson.
+
+586
+00:37:40,330 --> 00:37:42,463
+- What happened?
+- You ran off, that's what happened.
+
+587
+00:37:44,042 --> 00:37:45,967
+- Did you see her?
+- Oh, no.
+
+588
+00:37:47,837 --> 00:37:50,398
+- What the hell is that?
+- It's the ship.
+
+589
+00:37:51,389 --> 00:37:52,620
+- Help him.
+- Yeah.
+
+590
+00:37:52,907 --> 00:37:53,921
+Come on.
+
+591
+00:38:21,679 --> 00:38:23,825
+We searched the place top to bottom.
+No sign of her.
+
+592
+00:38:23,985 --> 00:38:27,071
+Well, for now, we'll have to assume
+she's still alive, and Michael has her.
+
+593
+00:38:27,231 --> 00:38:29,423
+We've got prisoners.
+They'll talk.
+
+594
+00:38:30,053 --> 00:38:31,354
+We'll find her.
+
+595
+00:38:37,639 --> 00:38:38,726
+How is he?
+
+596
+00:38:38,886 --> 00:38:40,667
+His body's shutting down.
+
+597
+00:38:41,136 --> 00:38:43,516
+There's nothing more
+I can do for him.
+
+598
+00:38:44,265 --> 00:38:45,826
+We can't wait any longer.
+
+599
+00:38:45,986 --> 00:38:48,072
+Zelenka's prepping
+the stasis pod.
+
+600
+00:38:48,232 --> 00:38:49,890
+<i>I had him in my sights.</i>
+
+601
+00:38:50,791 --> 00:38:53,356
+- All I need to do was pull the trigger.
+- It's not your fault.
+
+602
+00:38:53,516 --> 00:38:56,691
+He made you receptive to the mind link.
+It's how he controls all of them...
+
+603
+00:38:56,851 --> 00:38:58,043
+The hybrids.
+
+604
+00:38:58,415 --> 00:39:00,168
+Would have been nice
+to make a difference.
+
+605
+00:39:00,350 --> 00:39:02,269
+You make it.
+We've got Michael on the run.
+
+606
+00:39:02,429 --> 00:39:04,541
+It's just a matter of time
+before we catch up to him.
+
+607
+00:39:04,701 --> 00:39:06,877
+- Rodney...
+- Look, don't say anything, okay?
+
+608
+00:39:07,288 --> 00:39:09,676
+It's no big deal. You're gonna go
+into the stasis pod until we
+
+609
+00:39:09,836 --> 00:39:11,218
+figure out how to fix you.
+
+610
+00:39:11,825 --> 00:39:13,048
+I'm a doctor.
+
+611
+00:39:14,062 --> 00:39:15,759
+I know my own prognosis.
+
+612
+00:39:17,323 --> 00:39:19,033
+Once I go into that pod,
+
+613
+00:39:20,718 --> 00:39:22,647
+there's a good chance
+I won't come out.
+
+614
+00:39:31,918 --> 00:39:33,487
+Right. All set.
+
+615
+00:39:51,323 --> 00:39:52,488
+Listen,
+
+616
+00:39:53,028 --> 00:39:54,410
+we're gonna keep working
+
+617
+00:39:54,570 --> 00:39:56,588
+until we find a cure
+for this thing.
+
+618
+00:39:56,748 --> 00:39:59,433
+I've got a whole team on it.
+Best people we have.
+
+619
+00:40:00,575 --> 00:40:02,853
+- Thank you.
+- <i>Either way, we're gonna get the cure,</i>
+
+620
+00:40:03,113 --> 00:40:05,106
+soon as we capture Michael.
+
+621
+00:40:12,324 --> 00:40:13,486
+Samantha,
+
+622
+00:40:14,375 --> 00:40:17,158
+there's a letter in my quarters
+addressed to my mother.
+
+623
+00:40:18,111 --> 00:40:20,871
+Don't worry, I was careful
+not to give anything away.
+
+624
+00:40:22,686 --> 00:40:25,768
+Tell her you found it
+after you shipped my things.
+
+625
+00:40:26,845 --> 00:40:28,563
+It's just some thoughts,
+
+626
+00:40:28,868 --> 00:40:30,965
+things I should have said
+a long time ago.
+
+627
+00:40:33,003 --> 00:40:34,885
+I'll make sure she gets it.
+
+628
+00:40:35,145 --> 00:40:36,153
+Thank you.
+
+629
+00:40:46,136 --> 00:40:49,025
+Don't you worry, Doc.
+We're gonna have you out of there.
+
+630
+00:40:49,648 --> 00:40:50,702
+Colonel,
+
+631
+00:40:51,450 --> 00:40:53,446
+you bring her home now,
+you understand?
+
+632
+00:40:53,824 --> 00:40:54,968
+Count on it.
+
+633
+00:41:01,885 --> 00:41:04,278
+This is exactly
+what I was afraid of.
+
+634
+00:41:04,936 --> 00:41:05,958
+I know, big man.
+
+635
+00:41:06,762 --> 00:41:07,991
+I'm sorry.
+
+636
+00:41:16,601 --> 00:41:18,738
+Right, well,
+you won't feel a thing,
+
+637
+00:41:19,039 --> 00:41:21,932
+aside from a cool burst
+when the pod first activates.
+
+638
+00:41:23,134 --> 00:41:25,603
+<i>Your life signs will be monitored on</i>
+
+639
+00:41:25,863 --> 00:41:27,542
+this machine here 24/7.
+
+640
+00:41:30,392 --> 00:41:31,525
+Thank you, Rodney.
+
+641
+00:41:34,288 --> 00:41:35,878
+I want you all to know
+
+642
+00:41:37,762 --> 00:41:39,157
+that seeing you again,
+
+643
+00:41:39,317 --> 00:41:40,951
+<i>these last few days.</i>
+
+644
+00:41:41,522 --> 00:41:42,988
+It was all worth it,
+
+645
+00:41:44,413 --> 00:41:46,123
+<i>no matter what happens.</i>
+
+646
+00:41:48,885 --> 00:41:52,129
+You know, I was toying with the idea
+of programming dreams into these things.
+
+647
+00:41:52,696 --> 00:41:53,839
+<i>Interested?</i>
+
+648
+00:41:54,099 --> 00:41:56,056
+I could have you
+fishing in the highlands...
+
+649
+00:41:56,216 --> 00:41:58,344
+With a couple of tall,
+blonde massage therapists.
+
+650
+00:41:59,135 --> 00:42:00,312
+Rodney...
+
+651
+00:42:01,449 --> 00:42:02,515
+I'll be fine.
+
+652
+00:42:02,775 --> 00:42:04,351
+That's right. You will be.
+
+653
+00:42:04,511 --> 00:42:06,958
+Because this is not goodbye,
+this is
+
+654
+00:42:07,118 --> 00:42:08,104
+<i>see you later.</i>
+
+655
+00:42:08,364 --> 00:42:09,855
+That's what we agreed.
+
+656
+00:42:10,115 --> 00:42:11,148
+Did we?
+
+657
+00:42:11,951 --> 00:42:13,484
+That's how I remember it.
+
+658
+00:42:15,260 --> 00:42:16,595
+All right, then.
+
+659
+00:42:17,331 --> 00:42:19,115
+See you all later.
+

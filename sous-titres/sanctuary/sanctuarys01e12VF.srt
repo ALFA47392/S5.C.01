@@ -1,0 +1,2972 @@
+1
+00:00:00,084 --> 00:00:01,667
+<i>Précédemment dans</i> Sanctuary...
+
+2
+00:00:02,001 --> 00:00:04,962
+Nous faisions partie de...
+ce qu'on appelait "les Cinq".
+
+3
+00:00:05,535 --> 00:00:08,591
+<i>Un petit groupe désireux d'étendre
+sa connaissance du monde extérieur.</i>
+
+4
+00:00:08,716 --> 00:00:11,844
+<i>Ta mère avait réussi à se procurer
+un échantillon très rare</i>
+
+5
+00:00:11,969 --> 00:00:14,639
+<i>du sang pur d'un ancien vampire,</i>
+
+6
+00:00:15,056 --> 00:00:18,434
+<i>sang qui était supposé posséder
+des propriétés miraculeuses.</i>
+
+7
+00:00:18,851 --> 00:00:20,930
+Après s'être injectés le sérum,
+on a reçu
+
+8
+00:00:21,055 --> 00:00:23,022
+d'uniques talents en retour.
+
+9
+00:00:23,190 --> 00:00:26,067
+Griffin avait des molécules
+photosensibles, l'esprit de Watson
+
+10
+00:00:26,192 --> 00:00:27,985
+a atteint un niveau supérieur,
+
+11
+00:00:28,153 --> 00:00:30,863
+<i>et la réaction de Tesla
+fut la plus dramatique.</i>
+
+12
+00:00:31,573 --> 00:00:34,992
+Votre nom est Gregory Magnus,
+et vous êtes mon père.
+
+13
+00:00:35,326 --> 00:00:37,828
+<i>Vous étiez le plus brillant
+scientifique de votre époque.</i>
+
+14
+00:00:39,249 --> 00:00:41,707
+<i>La Cabale est une puissante
+organisation secrète déterminée</i>
+
+15
+00:00:41,876 --> 00:00:44,250
+<i>à contrôler toute vie anormale
+sur la planète.</i>
+
+16
+00:00:44,877 --> 00:00:47,129
+<i>Ils menacent toutes nos convictions.</i>
+
+17
+00:01:57,158 --> 00:01:58,701
+Tu m'as fait une peur bleue.
+
+18
+00:01:59,869 --> 00:02:02,205
+Jack est passé
+et a ramené ton bateau ?
+
+19
+00:02:02,538 --> 00:02:04,790
+Il aurait déjà dû être de retour.
+
+20
+00:02:07,293 --> 00:02:08,544
+Que se passe-t-il ?
+
+21
+00:02:10,004 --> 00:02:11,506
+Tu te sens bien ?
+
+22
+00:02:14,884 --> 00:02:16,344
+Je vais bien.
+
+23
+00:02:17,053 --> 00:02:18,761
+Qu'est-ce que tu fais ?
+
+24
+00:02:20,181 --> 00:02:21,557
+C'est moi. George.
+
+25
+00:02:23,561 --> 00:02:24,934
+La Team Projet-SG
+
+26
+00:02:25,436 --> 00:02:26,644
+présente :
+
+27
+00:02:26,814 --> 00:02:29,857
+Sanctuary - Saison 1 Épisode 12
+Revelations - Part 1 (v. 1.00)
+
+28
+00:02:30,026 --> 00:02:34,360
+Synchro par : Kujathemas,
+nitrogenc, Salomon.
+
+29
+00:02:34,529 --> 00:02:38,239
+Traduction par : Kujathemas,
+nitrogenc, Salomon.
+
+30
+00:02:38,409 --> 00:02:43,579
+Relecture par : Arrow, Kujathemas,
+nitrogenc, Salomon.
+
+31
+00:02:51,504 --> 00:02:53,631
+http://projet-sg.net
+
+32
+00:03:00,515 --> 00:03:03,410
+On pensait que ces rapports de
+comportements violents inexpliqués
+
+33
+00:03:03,535 --> 00:03:06,120
+parmi les anormaux
+étaient des incidents isolés,
+
+34
+00:03:06,245 --> 00:03:09,021
+mais l'analyse de données
+de Henry nous dit le contraire.
+
+35
+00:03:09,146 --> 00:03:11,482
+Ça devient effrayant.
+Ces grappes jaunes,
+
+36
+00:03:11,607 --> 00:03:13,609
+63 incidents
+lors des 5 derniers jours,
+
+37
+00:03:13,734 --> 00:03:16,278
+presque tous contre des humains.
+20 morts pour l'instant.
+
+38
+00:03:16,745 --> 00:03:19,485
+Ce ne sont pas vraiment
+des endroits très peuplés.
+
+39
+00:03:19,695 --> 00:03:21,992
+- La frontière Yukon-Alaska ?
+- Le plus troublant,
+
+40
+00:03:22,117 --> 00:03:23,774
+c'est le schéma de distribution
+
+41
+00:03:24,015 --> 00:03:27,630
+qui débute dans le nord, au Mont Logan,
+et qui suit les hauts courants d'air.
+
+42
+00:03:27,755 --> 00:03:30,417
+Comment cette violence anormal-normal
+pourrait suivre le vent ?
+
+43
+00:03:30,675 --> 00:03:31,919
+Si elle est dans l'air.
+
+44
+00:03:32,095 --> 00:03:34,630
+J'ai peur de ce qui arrivera
+quand ça atteindra la population.
+
+45
+00:03:34,915 --> 00:03:38,592
+L'apparition d'anormaux en grand nombre
+va sûrement déclencher des représailles.
+
+46
+00:03:38,761 --> 00:03:40,600
+Ça pourrait être lié aux insectes ?
+
+47
+00:03:40,725 --> 00:03:42,860
+Vu le climat froid,
+ça semble peu probable,
+
+48
+00:03:42,985 --> 00:03:44,730
+mais un pathogène
+est sûrement impliqué.
+
+49
+00:03:44,855 --> 00:03:47,267
+Les virus provoquent
+des psychoses de masse.
+
+50
+00:03:47,393 --> 00:03:51,021
+Ce qu'on doit découvrir est s'il s'agit
+d'un phénomène naturel,
+
+51
+00:03:51,365 --> 00:03:53,925
+ou de quelque chose
+libéré intentionnellement.
+
+52
+00:04:10,525 --> 00:04:12,125
+J'utilise peu la porte principale.
+
+53
+00:04:13,215 --> 00:04:14,635
+C'est une première.
+
+54
+00:04:15,785 --> 00:04:18,075
+Vous n'êtes pas
+le bienvenu ici, Druitt.
+
+55
+00:04:18,445 --> 00:04:20,565
+- Vous le savez.
+- J'ai des informations vitales,
+
+56
+00:04:20,690 --> 00:04:21,955
+mon ami hirsute,
+
+57
+00:04:22,565 --> 00:04:24,137
+sur les événements
+dans le nord.
+
+58
+00:04:51,165 --> 00:04:52,681
+Excuse mon scepticisme,
+
+59
+00:04:52,806 --> 00:04:56,040
+mais ton passé d'altruisme
+est proche de celui du scorpion.
+
+60
+00:04:56,165 --> 00:05:00,165
+Si j'avais pas achevé Tesla, ton règne
+sur le Sanctuaire serait terminé.
+
+61
+00:05:01,575 --> 00:05:03,468
+- Pourquoi il est là ?
+- Je suis ton père.
+
+62
+00:05:03,695 --> 00:05:05,010
+Tu devrais agir comme tel
+
+63
+00:05:05,179 --> 00:05:08,473
+et ne pas me kidnapper
+pour qu'on passe du temps ensemble.
+
+64
+00:05:08,765 --> 00:05:10,934
+C'est une des raisons
+de ma présence.
+
+65
+00:05:11,625 --> 00:05:14,170
+Je présume que ce n'est pas
+pour les droits de visite.
+
+66
+00:05:14,295 --> 00:05:15,615
+Tu as des gelures.
+
+67
+00:05:16,235 --> 00:05:18,733
+Ce n'est pas une remise en cause
+de ton hospitalité.
+
+68
+00:05:20,065 --> 00:05:22,696
+- Tu peux peut-être deviner où j'ai été.
+- Au Yukon.
+
+69
+00:05:24,685 --> 00:05:26,475
+J'ai vu le carnage de près.
+
+70
+00:05:27,105 --> 00:05:28,875
+Suivi la trace de l'épidémie
+
+71
+00:05:29,455 --> 00:05:30,662
+à son origine.
+
+72
+00:05:31,755 --> 00:05:32,872
+Le Mont Logan.
+
+73
+00:05:37,685 --> 00:05:41,685
+Pas d'inquiétude. Ça a été scellé
+selon le protocole BSL-3, etc...
+
+74
+00:05:41,966 --> 00:05:44,759
+Je ne savais pas que l'épidémiologie
+était une de tes spécialités.
+
+75
+00:05:44,927 --> 00:05:47,175
+C'est pour ça
+que je suis venu te voir.
+
+76
+00:05:47,455 --> 00:05:49,221
+J'ai trouvé ces fragments
+
+77
+00:05:49,390 --> 00:05:50,945
+au point de départ,
+
+78
+00:05:51,645 --> 00:05:55,645
+et je crois que vous, M. Foss,
+allez les trouver très intéressants.
+
+79
+00:05:58,055 --> 00:06:01,109
+On dirait des fragments
+d'un mécanisme de dispersion.
+
+80
+00:06:03,305 --> 00:06:06,655
+Prépare une cellule résidentielle
+de niveau 3 pour introduction
+
+81
+00:06:06,824 --> 00:06:09,770
+- d'un possible agent biologique.
+- C'est mieux que certains surnoms.
+
+82
+00:06:09,895 --> 00:06:11,703
+Pourquoi ? Il pourra se téléporter.
+
+83
+00:06:11,871 --> 00:06:14,830
+- Je vous assure que je le ferai pas.
+- Laisse-moi m'en assurer
+
+84
+00:06:14,955 --> 00:06:17,935
+avec un bouclier EM.
+Tu te téléportes, tu meurs.
+
+85
+00:06:18,425 --> 00:06:21,628
+On est censés croire que tu es venu ici
+pour combattre l'épidémie ?
+
+86
+00:06:21,955 --> 00:06:23,505
+La guerre a commencé.
+
+87
+00:06:23,995 --> 00:06:26,095
+Les humains contre les anormaux,
+
+88
+00:06:27,085 --> 00:06:29,305
+et je ne resterai pas immobile
+
+89
+00:06:29,430 --> 00:06:32,160
+alors que la Cabale
+impose son chaos.
+
+90
+00:06:39,395 --> 00:06:41,615
+John avait raison sur un point.
+
+91
+00:06:42,315 --> 00:06:45,900
+Son corps ne montre aucune présence
+d'anomalie virale ou bactérienne.
+
+92
+00:06:46,025 --> 00:06:47,825
+Par chance, nous non plus.
+
+93
+00:06:48,265 --> 00:06:51,356
+- Vous le faites sortir d'isolement ?
+- Je pense qu'on va attendre un peu.
+
+94
+00:06:51,675 --> 00:06:53,710
+Le facteur de latence
+est à prendre en compte.
+
+95
+00:06:53,835 --> 00:06:55,706
+Je vais faire un traitement complet.
+
+96
+00:06:55,831 --> 00:06:58,415
+Je ne peux pas dire grand-chose
+à partir des fragments.
+
+97
+00:06:58,635 --> 00:07:00,000
+C'est très sophistiqué.
+
+98
+00:07:00,125 --> 00:07:02,000
+C'est ce qu'ils testaient
+à Fort Dietrich
+
+99
+00:07:02,125 --> 00:07:04,940
+quand ils recherchaient
+des armes biologiques pour...
+
+100
+00:07:05,065 --> 00:07:08,218
+- un but défensif.
+- Ta chambre stérile est prête.
+
+101
+00:07:08,445 --> 00:07:11,145
+- Merci. Je vous tiens au courant.
+- Merci.
+
+102
+00:07:13,325 --> 00:07:14,765
+La Cabale aurait pu créer ça.
+
+103
+00:07:14,935 --> 00:07:17,184
+Leur accès à la technologie
+est sans égal.
+
+104
+00:07:17,445 --> 00:07:21,439
+Et je connais leur volonté
+de transformer les humains en anormaux.
+
+105
+00:07:21,865 --> 00:07:22,975
+Télégramme.
+
+106
+00:07:24,575 --> 00:07:26,110
+Télégramme ? On est en 1890 ?
+
+107
+00:07:26,635 --> 00:07:28,656
+Notre Dr Watson a tendance
+à n'avoir confiance
+
+108
+00:07:28,781 --> 00:07:30,906
+que dans les formes de communications
+bien établies.
+
+109
+00:07:31,205 --> 00:07:32,255
+Dr Watson ?
+
+110
+00:07:33,895 --> 00:07:37,090
+Pas comme James Watson,
+qui est un membre des Cinq ?
+
+111
+00:07:37,215 --> 00:07:40,330
+Oui, et responsable
+du Sanctuaire britannique.
+
+112
+00:07:40,455 --> 00:07:42,960
+"Helen, un sujet
+de la plus haute importance.
+
+113
+00:07:43,085 --> 00:07:45,185
+"Arriverai au Sanctuaire demain.
+
+114
+00:07:45,425 --> 00:07:48,570
+"Amènerai tout le nécessaire pour aller
+au fond de cette nouvelle menace.
+
+115
+00:07:48,695 --> 00:07:50,755
+"Ton fidèle collègue, JW"
+
+116
+00:07:55,155 --> 00:07:56,474
+Vous avez du nouveau ?
+
+117
+00:07:56,643 --> 00:07:59,030
+Le test sur le terrain
+se passe très, très bien.
+
+118
+00:07:59,155 --> 00:08:01,400
+Encore mieux
+que les modèles le suggéraient.
+
+119
+00:08:01,525 --> 00:08:05,525
+Les anormaux touchés par l'agent ont
+montré des signes rapides de paranoïa,
+
+120
+00:08:05,995 --> 00:08:07,585
+et d'agressivité extrême.
+
+121
+00:08:07,935 --> 00:08:11,470
+Jusqu'où cette dispersion
+était supposée s'étendre ?
+
+122
+00:08:11,595 --> 00:08:14,950
+On l'a considérée viable à quatre jours
+avant qu'elle diminue d'elle-même.
+
+123
+00:08:15,075 --> 00:08:18,430
+La réaction des anormaux atteint
+exactement ce qu'on espérait.
+
+124
+00:08:18,555 --> 00:08:20,900
+Colère, bouc émissaire, vengeance.
+
+125
+00:08:21,025 --> 00:08:23,215
+C'est votre vecteur
+de transmission réel.
+
+126
+00:08:23,435 --> 00:08:24,790
+Et pour le Sanctuaire ?
+
+127
+00:08:24,915 --> 00:08:28,510
+Deux des Cinq, Druitt et Watson,
+ont déjà pris contact avec Magnus.
+
+128
+00:08:28,635 --> 00:08:31,955
+Je veux constamment des nouvelles.
+Toutes les communications.
+
+129
+00:08:32,875 --> 00:08:34,830
+On ne peut rien prendre pour acquis.
+
+130
+00:08:34,955 --> 00:08:38,410
+Vous avez dit qu'on avait affaire
+aux plus brillants esprits existants.
+
+131
+00:08:38,535 --> 00:08:42,000
+Brillants, oui, mais ils n'ont
+aucune idée de ce qu'ils affrontent.
+
+132
+00:08:42,125 --> 00:08:43,735
+J'ai de bonnes nouvelles.
+
+133
+00:08:58,375 --> 00:08:59,912
+C'est si bon de te voir.
+
+134
+00:09:02,445 --> 00:09:03,885
+Tu n'as pas changé.
+
+135
+00:09:05,215 --> 00:09:09,005
+- Depuis l'automne dernier à Londres ?
+- Non, depuis le printemps 1886.
+
+136
+00:09:09,945 --> 00:09:13,035
+Venant d'un si bon observateur,
+je le prends comme un compliment.
+
+137
+00:09:13,985 --> 00:09:17,180
+J'ai besoin d'aide. J'ai un chauffeur
+et un camion au quai de chargement.
+
+138
+00:09:17,305 --> 00:09:19,455
+- J'ai amené quelques trucs.
+- Des trucs ?
+
+139
+00:09:19,735 --> 00:09:20,920
+Des corps, Helen.
+
+140
+00:09:21,045 --> 00:09:23,515
+Tu ne pensais pas
+que j'allais arriver sans cadeau ?
+
+141
+00:09:27,385 --> 00:09:28,950
+Dr James Watson,
+
+142
+00:09:29,075 --> 00:09:31,200
+Ashley et Henry
+que tu connais, bien sûr.
+
+143
+00:09:31,325 --> 00:09:33,488
+C'est bon de te revoir, ma chère.
+
+144
+00:09:34,475 --> 00:09:36,656
+Henry, les nouveaux serveurs
+marchent parfaitement.
+
+145
+00:09:36,825 --> 00:09:39,493
+- Merci, doc. Je fais de mon mieux.
+- Et mon nouveau collègue,
+
+146
+00:09:39,661 --> 00:09:41,578
+- Dr Will Zimmerman.
+- Bonjour.
+
+147
+00:09:42,575 --> 00:09:43,685
+Le protégé.
+
+148
+00:09:44,105 --> 00:09:45,870
+Oui, j'ai entendu parler de vous.
+
+149
+00:09:45,995 --> 00:09:47,500
+- En bien, j'espère.
+- Un peu.
+
+150
+00:09:50,765 --> 00:09:51,921
+Profiler, hein ?
+
+151
+00:09:53,625 --> 00:09:56,030
+Oui. Le Dr Magnus vous l'a dit ?
+
+152
+00:09:56,155 --> 00:09:58,636
+Non, en fait,
+je vous voyais m'observer.
+
+153
+00:10:00,255 --> 00:10:02,180
+- Vraiment ?
+- Un profiler observe, écoute,
+
+154
+00:10:02,305 --> 00:10:04,000
+jauge, ressent, calcule, compare.
+
+155
+00:10:04,125 --> 00:10:06,853
+Suis-je vraiment un docteur ?
+Suis-je celui que je prétends ?
+
+156
+00:10:07,905 --> 00:10:09,316
+Les histoires, les indices.
+
+157
+00:10:09,441 --> 00:10:11,900
+Le clignement d'un oeil,
+l'attitude anormale...
+
+158
+00:10:12,135 --> 00:10:15,320
+Un seul de vos ongles est sale.
+Vous avez gratté quelque chose ?
+
+159
+00:10:16,375 --> 00:10:18,323
+- À votre avis ?
+- Je le pense.
+
+160
+00:10:19,705 --> 00:10:22,076
+Quelque chose de vert.
+Vert-de-gris...
+
+161
+00:10:24,315 --> 00:10:25,705
+Du bronze oxydé.
+
+162
+00:10:26,635 --> 00:10:29,292
+- Le heurtoir de la porte.
+- Pour vérifier l'âge.
+
+163
+00:10:36,455 --> 00:10:39,406
+Les reproductions sont nombreuses.
+J'aurais été extrêmement déçu.
+
+164
+00:10:40,215 --> 00:10:43,139
+- De ça, vous obtenez "profiler" ?
+- Par votre appréciation de la menace.
+
+165
+00:10:43,308 --> 00:10:44,850
+Est-ce une bombe sur son torse ?
+
+166
+00:10:45,018 --> 00:10:48,230
+L'accent est authentique ?
+Il observe la pièce ? Ça dit "profiler".
+
+167
+00:10:50,255 --> 00:10:52,610
+- Je suis impressionné.
+- Bien sûr vous l'êtes.
+
+168
+00:10:52,735 --> 00:10:55,385
+Et on me dit que je ressemble
+à Sherlock Holmes.
+
+169
+00:10:55,865 --> 00:10:57,080
+En fait, Will,
+
+170
+00:10:57,205 --> 00:10:59,095
+c'est exactement qui il est.
+
+171
+00:11:07,655 --> 00:11:10,870
+Donc vous dites que votre Dr Watson
+est réellement Sherlock Holmes ?
+
+172
+00:11:10,995 --> 00:11:13,420
+Pas le personnage littéraire,
+bien sûr, mais oui,
+
+173
+00:11:13,545 --> 00:11:17,545
+Conan Doyle a créé le personnage
+à partir de l'esprit déductif de James.
+
+174
+00:11:17,716 --> 00:11:20,552
+Mais pourquoi a-t-il été relégué
+au rôle de faire-valoir ?
+
+175
+00:11:20,721 --> 00:11:24,129
+À la demande de Watson. Il préférait
+laisser Holmes sur le devant de la scène
+
+176
+00:11:24,254 --> 00:11:26,525
+pendant qu'il jouait
+l'acolyte servile dans l'ombre.
+
+177
+00:11:26,650 --> 00:11:27,650
+Son génie...
+
+178
+00:11:27,775 --> 00:11:30,729
+a grandi exponentiellement
+quand il est devenu un des Cinq.
+
+179
+00:11:31,625 --> 00:11:33,398
+Et les corps qu'il a apportés ici ?
+
+180
+00:11:33,523 --> 00:11:36,260
+Ils ont été préparés pour une autopsie
+en environnement stérile.
+
+181
+00:11:36,385 --> 00:11:39,890
+Si cette maladie transforme vraiment
+les anormaux en tueurs psychopathes,
+
+182
+00:11:40,015 --> 00:11:43,490
+en théorie, vous, Henry, Big Guy,
+êtes tous des dangers potentiels.
+
+183
+00:11:43,615 --> 00:11:45,365
+Ashley aussi, en théorie.
+
+184
+00:11:45,746 --> 00:11:49,200
+Quiconque avec l'ADN comme le nôtre peut
+être atteint d'agressivité psychotique.
+
+185
+00:11:49,325 --> 00:11:51,792
+J'ai déjà fait cette danse avec vous
+une fois sous l'océan.
+
+186
+00:11:51,917 --> 00:11:54,628
+- Je ne suis pas pressé de la refaire.
+- Moi non plus.
+
+187
+00:11:58,305 --> 00:12:00,675
+Le corps est celui
+d'un anormal mâle,
+
+188
+00:12:01,285 --> 00:12:03,553
+<i>Odobenus Rosmarus Sapien.</i>
+
+189
+00:12:04,435 --> 00:12:07,865
+Un mélange génétique
+entre humain et morse.
+
+190
+00:12:08,295 --> 00:12:09,684
+Kookookachoo.
+
+191
+00:12:11,375 --> 00:12:13,563
+Cause du décès,
+blessures multiples par balles
+
+192
+00:12:13,688 --> 00:12:15,774
+subies lors d'une fusillade
+
+193
+00:12:16,149 --> 00:12:20,112
+après que le sujet ait massacré
+trois des quatre membres d'une famille.
+
+194
+00:12:20,385 --> 00:12:21,488
+Ce que tu dis,
+
+195
+00:12:21,657 --> 00:12:24,533
+c'est que l'anormal est devenu fou
+et a été descendu.
+
+196
+00:12:25,265 --> 00:12:27,350
+Tu as toujours eu
+le don de concision.
+
+197
+00:12:27,475 --> 00:12:29,246
+La balistique ne nous intéresse pas.
+
+198
+00:12:29,371 --> 00:12:31,623
+Il me faut des échantillons
+de chaque organe.
+
+199
+00:12:32,715 --> 00:12:34,251
+Le scalpel est à vous, docteur.
+
+200
+00:12:34,935 --> 00:12:36,035
+Merci.
+
+201
+00:12:37,795 --> 00:12:41,091
+Tu sais, James, tu es vraiment
+un miracle médical sur pattes.
+
+202
+00:12:41,535 --> 00:12:44,094
+Je crois que "sur pattes"
+est un peu exagéré.
+
+203
+00:12:45,195 --> 00:12:47,490
+Sans ces puissantes
+bretelles exosquelettes,
+
+204
+00:12:47,615 --> 00:12:49,641
+je serais confiné
+à une chaise roulante.
+
+205
+00:12:50,215 --> 00:12:52,686
+Pas de quoi en avoir honte
+à 160 ans.
+
+206
+00:12:53,835 --> 00:12:56,273
+Enfin, si je suis un miracle,
+qu'est-ce que tu es ?
+
+207
+00:12:57,824 --> 00:13:01,153
+Mon cadeau était la longévité.
+Le tien était bien plus profond.
+
+208
+00:13:02,815 --> 00:13:04,215
+Tu veux échanger ?
+
+209
+00:13:16,055 --> 00:13:18,336
+Comment réagit
+le sérum transaminase ?
+
+210
+00:13:19,379 --> 00:13:21,047
+Résultats peu concluants.
+
+211
+00:13:22,841 --> 00:13:25,790
+Que les changements de comportement
+soient le premier effet clinique
+
+212
+00:13:25,915 --> 00:13:28,013
+rend ce diagnostic très épineux.
+
+213
+00:13:28,705 --> 00:13:31,894
+John n'a pas été affecté malgré
+son exposition au point de départ,
+
+214
+00:13:32,135 --> 00:13:34,420
+ce qui suggère
+que les qualités spéciales des Cinq,
+
+215
+00:13:34,545 --> 00:13:36,645
+pourraient fournir
+un facteur immunitaire.
+
+216
+00:13:36,835 --> 00:13:39,010
+Avant le retour des tests,
+je vais observer mon sang
+
+217
+00:13:39,135 --> 00:13:41,735
+- pour voir s'il combat la maladie.
+- Je te donne les résultats,
+
+218
+00:13:41,860 --> 00:13:44,696
+- ou tu préfères avoir la surprise ?
+- Un pathogène créé par l'homme.
+
+219
+00:13:45,235 --> 00:13:46,925
+Un agent psychotique
+
+220
+00:13:47,050 --> 00:13:49,873
+qui n'affecte que les anormaux
+doit être volontaire.
+
+221
+00:13:51,175 --> 00:13:53,288
+John croit que la Cabale
+est derrière tout ça.
+
+222
+00:13:53,855 --> 00:13:56,792
+John tire sa perspicacité
+de son affinité avec le mal.
+
+223
+00:13:57,176 --> 00:13:59,419
+J'ai grande confiance
+en son analyse.
+
+224
+00:14:00,075 --> 00:14:01,895
+Je l'ai sorti de l'isolement.
+
+225
+00:14:02,365 --> 00:14:04,620
+Maintenant, si tu pouvais
+aussi te libérer.
+
+226
+00:14:04,745 --> 00:14:05,745
+Pardon ?
+
+227
+00:14:05,905 --> 00:14:07,969
+Nos contacts sont trop rares,
+trop brefs,
+
+228
+00:14:09,355 --> 00:14:12,557
+si on considère que je suis le chef
+de la plus grande annexe.
+
+229
+00:14:12,985 --> 00:14:15,560
+C'est par respect pour ton autonomie
+plus que pour autre chose.
+
+230
+00:14:15,685 --> 00:14:18,811
+Les gens reviennent vers leurs vieux
+contacts pour se consoler.
+
+231
+00:14:18,936 --> 00:14:21,775
+Tu défies cette convention,
+mais ça a toujours été le cas.
+
+232
+00:14:22,945 --> 00:14:24,569
+On est ensemble là, non ?
+
+233
+00:14:25,779 --> 00:14:28,448
+Si seulement les circonstances
+étaient plus agréables.
+
+234
+00:14:30,295 --> 00:14:33,944
+- Qu'est-ce que c'est ?
+- Un composant nécessaire à ma survie.
+
+235
+00:14:36,065 --> 00:14:39,376
+On ne peut pas faire grand-chose
+jusqu'au retour des résultats demain...
+
+236
+00:14:40,794 --> 00:14:43,385
+Non pas que je pense
+que Helen va beaucoup dormir.
+
+237
+00:14:44,705 --> 00:14:47,467
+Dites-moi, jeune homme, ça fait quoi
+de travailler pour une femme ?
+
+238
+00:14:50,755 --> 00:14:53,755
+Une femme comme le Dr Magnus ?
+C'est un privilège.
+
+239
+00:14:54,825 --> 00:14:56,768
+Ce que Watson veut dire,
+c'est pour quelqu'un
+
+240
+00:14:56,893 --> 00:14:59,354
+qui n'a pas été tiré au 21e siècle
+par la peau du cou.
+
+241
+00:15:00,485 --> 00:15:01,870
+Et au siècle précédent.
+
+242
+00:15:01,995 --> 00:15:04,130
+Les échecs d'un homme
+le hantent toute sa vie.
+
+243
+00:15:04,255 --> 00:15:05,986
+Le mien m'a hanté sur deux vies.
+
+244
+00:15:06,487 --> 00:15:07,487
+Quel échec ?
+
+245
+00:15:08,875 --> 00:15:11,741
+L'enquête sur l'Éventreur...
+m'a rendue perplexe comme aucune autre.
+
+246
+00:15:12,185 --> 00:15:14,380
+Tu étais proche, James.
+Tu ignores à quel point.
+
+247
+00:15:14,505 --> 00:15:17,414
+Nuit après nuit,
+je t'ai exposé mes conclusions,
+
+248
+00:15:17,539 --> 00:15:20,542
+sans savoir que la cible
+de ma chasse à l'homme était l'homme
+
+249
+00:15:20,805 --> 00:15:22,870
+qui disséquait mes suppositions.
+
+250
+00:15:22,995 --> 00:15:25,730
+J'étais sous l'emprise de quelque chose
+d'incontrôlable. Tu le sais.
+
+251
+00:15:25,855 --> 00:15:28,925
+Les faits demeurent,
+tu as mis en lumière ma bravade.
+
+252
+00:15:29,765 --> 00:15:33,138
+Tu as brisé ma croyance que je pouvais
+voir plus loin qu'un simple mortel.
+
+253
+00:15:33,465 --> 00:15:36,475
+Un peu de délicatesse.
+On est en présence d'un simple mortel.
+
+254
+00:15:36,600 --> 00:15:39,436
+Le jeune Will a tout
+pour devenir un détective convenable.
+
+255
+00:15:41,895 --> 00:15:44,107
+Il aurait peut-être vu
+ce que je n'ai pas pu voir.
+
+256
+00:15:46,785 --> 00:15:49,112
+Je suis désolé.
+C'est incroyable pour moi.
+
+257
+00:15:49,755 --> 00:15:51,965
+Sherlock Holmes, Jack l'Éventreur...
+
+258
+00:15:52,695 --> 00:15:56,119
+- Vous êtes assis ici ensemble...
+- Le temps est guérisseur.
+
+259
+00:15:58,205 --> 00:15:59,372
+La rédemption
+
+260
+00:16:00,005 --> 00:16:01,725
+nécessite un peu plus.
+
+261
+00:16:02,485 --> 00:16:05,712
+Tu exsudes des jugements, docteur,
+comme une plaie suintante.
+
+262
+00:16:05,881 --> 00:16:08,507
+Dans une vie dévouée à la justice,
+
+263
+00:16:08,725 --> 00:16:11,593
+c'est une épine permanente
+que tu aies pu t'échapper.
+
+264
+00:16:11,762 --> 00:16:14,095
+La justice est rendue
+de bien des façons.
+
+265
+00:16:14,795 --> 00:16:16,735
+Tu n'es pas le seul à être hanté.
+
+266
+00:16:17,835 --> 00:16:20,935
+Vous devez croire que le destin
+vous a réunis pour une raison.
+
+267
+00:16:21,175 --> 00:16:24,865
+- Oui, pourquoi es-tu là, Druitt ?
+- Pour sauver le monde qu'on connaît,
+
+268
+00:16:25,055 --> 00:16:27,055
+et, si le temps le permet,
+
+269
+00:16:27,565 --> 00:16:30,445
+réaffirmer ma supériorité
+dans nos jeux d'esprit.
+
+270
+00:16:45,415 --> 00:16:47,520
+C'est dur de comprendre
+comment ça marche.
+
+271
+00:16:47,645 --> 00:16:49,510
+Trop de viande
+et pas assez de légumes.
+
+272
+00:16:49,635 --> 00:16:51,299
+Tu penses que la cryo est impliquée.
+
+273
+00:16:51,467 --> 00:16:55,011
+On dirait que l'agent biologique
+a été refroidi avant d'être vaporisé.
+
+274
+00:16:55,915 --> 00:16:58,985
+Les dernières données suggèrent
+que le taux d'infection diminue.
+
+275
+00:16:59,615 --> 00:17:00,854
+C'est une bonne chose.
+
+276
+00:17:00,979 --> 00:17:03,478
+La première dispersion était un test.
+J'en suis certain.
+
+277
+00:17:03,775 --> 00:17:07,231
+Pour mesurer l'efficacité de ce que
+je soupçonne être une neurotoxine.
+
+278
+00:17:07,415 --> 00:17:10,068
+Un engin de dispersion de taille
+suffisante pourrait couvrir le globe.
+
+279
+00:17:10,445 --> 00:17:12,654
+On doit trouver
+quelles sont ses capacités.
+
+280
+00:17:12,955 --> 00:17:15,320
+Les labos d'armements
+de la Cabale ont été repéré
+
+281
+00:17:15,445 --> 00:17:19,035
+- dans plusieurs endroits retirés.
+- Dont un très proche d'ici.
+
+282
+00:17:19,203 --> 00:17:21,905
+Juste à l'extérieur de New City,
+si je me souviens bien.
+
+283
+00:17:22,165 --> 00:17:23,530
+Attendez un peu.
+
+284
+00:17:23,655 --> 00:17:26,345
+- Je crois que j'ai quelque chose.
+- Qu'est-ce que c'est ?
+
+285
+00:17:28,895 --> 00:17:31,480
+On dirait qu'une des microcapsules
+a survécu à la détonation.
+
+286
+00:17:31,605 --> 00:17:33,905
+C'est un échantillon pur de l'agent.
+
+287
+00:17:34,535 --> 00:17:36,302
+Mets-le dans un container étanche.
+
+288
+00:17:36,470 --> 00:17:38,415
+Fais très, très attention.
+
+289
+00:17:40,105 --> 00:17:43,205
+Vous connaissez ces pinces qui attrapent
+les jouets dans les salles de jeux ?
+
+290
+00:17:43,705 --> 00:17:45,575
+Quatre fois champion de l'État.
+
+291
+00:17:51,075 --> 00:17:53,236
+On regarde l'un des plus
+dangereux pathogènes
+
+292
+00:17:53,361 --> 00:17:55,112
+que le monde des anormaux ait connu.
+
+293
+00:17:55,465 --> 00:17:58,200
+Il fonctionne comme
+un prion sous stéroïdes.
+
+294
+00:17:58,325 --> 00:18:00,610
+La protéine trouvée
+dans la maladie de la vache folle.
+
+295
+00:18:00,735 --> 00:18:04,080
+Il se réplique dans le cerveau,
+causant une agressivité pathologique.
+
+296
+00:18:04,335 --> 00:18:07,709
+- Et finalement une mort douloureuse.
+- D'après les tests,
+
+297
+00:18:07,834 --> 00:18:10,921
+on peut dire que le mode de transmission
+n'est pas de personne à personne.
+
+298
+00:18:11,046 --> 00:18:13,450
+Ce n'est pas contagieux.
+C'est la bonne nouvelle.
+
+299
+00:18:13,575 --> 00:18:16,214
+Mais la sensibilité
+aux antiviraux est nulle.
+
+300
+00:18:16,574 --> 00:18:18,970
+En fait, une maladie à prions
+est quasi-incurable.
+
+301
+00:18:19,215 --> 00:18:22,190
+Notre meilleur espoir est de trouver
+un remède dans notre sang,
+
+302
+00:18:22,315 --> 00:18:24,520
+un antigène
+qui pourrait inhiber la maladie.
+
+303
+00:18:24,645 --> 00:18:26,940
+Ce qui expliquerait
+pourquoi on semble immunisés.
+
+304
+00:18:27,065 --> 00:18:29,220
+Car vous vous êtes injectés
+le sang source.
+
+305
+00:18:29,345 --> 00:18:31,005
+C'est un produit très puissant.
+
+306
+00:18:31,745 --> 00:18:35,487
+Même si on ne trouve rien dans nos sangs
+qui pourrait stopper la maladie,
+
+307
+00:18:35,612 --> 00:18:37,860
+Le sang source pourrait le faire,
+
+308
+00:18:37,985 --> 00:18:39,740
+sous forme d'une antitoxine
+synthétisée.
+
+309
+00:18:39,908 --> 00:18:42,952
+Sauf que le sang a été utilisé
+il y a plus de 120 ans.
+
+310
+00:18:43,255 --> 00:18:44,455
+Pas en totalité.
+
+311
+00:18:46,515 --> 00:18:47,515
+Quoi ?
+
+312
+00:18:52,445 --> 00:18:54,945
+Mon père voulait détruire
+ce qui restait.
+
+313
+00:18:55,125 --> 00:18:58,176
+Finalement, il a accepté de mettre
+de côté la partie inutilisée de la fiole
+
+314
+00:18:58,325 --> 00:19:01,055
+pour ne l'utiliser
+qu'en cas d'extrême urgence.
+
+315
+00:19:01,430 --> 00:19:04,060
+Et il s'est assuré que seuls les Cinq
+agissant ensemble
+
+316
+00:19:04,185 --> 00:19:05,473
+pourraient la récupérer.
+
+317
+00:19:05,735 --> 00:19:08,550
+Ce qui est un problème
+s'il s'avère que j'ai tué Tesla.
+
+318
+00:19:08,675 --> 00:19:10,730
+Même si Nicola a réussi à survivre,
+
+319
+00:19:10,855 --> 00:19:13,773
+le dernier des Cinq, Nigel Griffin,
+ne pourrait pas être enrôlé.
+
+320
+00:19:15,075 --> 00:19:16,125
+Parce que ?
+
+321
+00:19:16,765 --> 00:19:19,710
+Parce qu'il est mort
+il y a un demi-siècle.
+
+322
+00:19:19,835 --> 00:19:21,991
+La situation n'est peut-être pas
+aussi désespérée.
+
+323
+00:19:22,345 --> 00:19:25,270
+Tu as le pouvoir de ressusciter
+les morts ? Ça serait impressionnant.
+
+324
+00:19:25,395 --> 00:19:28,371
+Avant de mourir, au début des années 60,
+Griffin m'a écrit une lettre
+
+325
+00:19:28,615 --> 00:19:31,168
+pour me dire que son héritage
+avait été transmis.
+
+326
+00:19:31,485 --> 00:19:33,103
+Il a une fille, Anna.
+
+327
+00:19:33,635 --> 00:19:35,422
+Avec chance,
+on pourrait la retrouver
+
+328
+00:19:35,547 --> 00:19:37,980
+et la convaincre de reprendre
+le rôle de son père.
+
+329
+00:19:38,105 --> 00:19:39,310
+Attendez un peu.
+
+330
+00:19:39,435 --> 00:19:42,552
+Vous avez dit que les Cinq agissant
+ensemble pourraient récupérer le sang.
+
+331
+00:19:42,875 --> 00:19:45,431
+Les pouvoirs des Cinq,
+pour être plus précis.
+
+332
+00:19:45,935 --> 00:19:47,474
+Quel est le pouvoir de Griffin ?
+
+333
+00:19:48,205 --> 00:19:49,267
+Nigel Griffin ?
+
+334
+00:19:49,975 --> 00:19:51,477
+C'était l'homme invisible.
+
+335
+00:20:38,245 --> 00:20:39,745
+Je ne comprends pas.
+
+336
+00:20:39,965 --> 00:20:43,095
+Si l'épidémie s'est stoppée net,
+comment a-t-il pu tomber malade ?
+
+337
+00:20:43,475 --> 00:20:46,280
+Watson et Druitt ont pu
+ne rien ramener dans leurs sangs,
+
+338
+00:20:46,405 --> 00:20:49,480
+mais ça n'empêche pas
+que le micro-organisme ait pu être amené
+
+339
+00:20:49,605 --> 00:20:51,830
+dans leurs vêtements
+ou leurs affaires.
+
+340
+00:20:51,955 --> 00:20:54,725
+C'est qu'une question de temps
+avant que chaque anormal du Sanctuaire
+
+341
+00:20:54,850 --> 00:20:56,180
+ne tombe malade ?
+
+342
+00:20:56,305 --> 00:20:57,575
+Y compris moi.
+
+343
+00:21:00,205 --> 00:21:02,595
+Je pourrais te faire
+des promesses, Henry,
+
+344
+00:21:03,165 --> 00:21:04,895
+mais elles seraient fausses.
+
+345
+00:21:07,995 --> 00:21:09,945
+Quel est son pronostic, doc ?
+
+346
+00:21:10,892 --> 00:21:13,894
+Je suspecte chaque espèce
+d'anormaux de réagir différemment,
+
+347
+00:21:15,687 --> 00:21:17,887
+mais si les rapports disent vrais,
+
+348
+00:21:18,285 --> 00:21:21,235
+il va devenir de plus en plus
+irrationnel et violent,
+
+349
+00:21:21,585 --> 00:21:23,885
+puis va se retourner
+contre les humains,
+
+350
+00:21:25,555 --> 00:21:26,835
+et finalement,
+
+351
+00:21:27,255 --> 00:21:28,305
+il mourra.
+
+352
+00:21:47,430 --> 00:21:49,290
+Il semble que nous ayons introduit
+
+353
+00:21:49,415 --> 00:21:51,765
+la toxine avec succès
+dans le Sanctuaire.
+
+354
+00:21:52,275 --> 00:21:55,800
+Je suis quasiment sûre que maintenant,
+nos amis ont déjà conclu
+
+355
+00:21:55,925 --> 00:21:58,939
+que l'agent biologique qu'on a introduit
+ne s'arrête pas de lui-même.
+
+356
+00:21:59,398 --> 00:22:00,899
+Je ne serais pas si confiant.
+
+357
+00:22:01,425 --> 00:22:03,550
+Souvenez-vous des problèmes
+avec son père.
+
+358
+00:22:03,675 --> 00:22:07,281
+Gregory Magnus nous a aidés à mettre
+au point les soldats pour notre armée.
+
+359
+00:22:07,450 --> 00:22:11,285
+Mais ses informations sur le lieu
+de la source se sont avérées erronées.
+
+360
+00:22:11,454 --> 00:22:14,788
+Peut-être que ce que Gregory
+n'a pas révélé, les Cinq le feront.
+
+361
+00:22:17,045 --> 00:22:20,240
+J'ai vérifié avec toutes mes sources.
+Tous mes contacts chez les anormaux.
+
+362
+00:22:20,365 --> 00:22:22,270
+Ils disent tous la même chose.
+
+363
+00:22:22,395 --> 00:22:24,506
+L'incident du Yukon était un test.
+
+364
+00:22:25,195 --> 00:22:27,780
+Une goutte d'eau comparé
+à ce qui va se passer dans 3 jours.
+
+365
+00:22:27,905 --> 00:22:30,012
+Un big bang qui va couvrir
+toute la planète.
+
+366
+00:22:30,137 --> 00:22:34,093
+Trois jours ? Pourquoi trois jours ?
+Pourquoi ne pas le lancer maintenant ?
+
+367
+00:22:34,275 --> 00:22:38,125
+Changement climatique,
+cisaillement du vent, forme des alizés.
+
+368
+00:22:38,564 --> 00:22:41,925
+Je vous le dis, quelque chose cloche.
+Ça correspond pas, ça n'a pas de sens.
+
+369
+00:22:42,050 --> 00:22:44,109
+Les génocides en ont rarement.
+
+370
+00:22:45,110 --> 00:22:47,237
+Vous m'avez dit que la Cabale
+
+371
+00:22:47,362 --> 00:22:49,834
+a construit le soldat parfait
+pour le nettoyage ethnique.
+
+372
+00:22:49,959 --> 00:22:52,575
+Mon père est devenu
+un complice involontaire à ces fins.
+
+373
+00:22:53,260 --> 00:22:57,260
+Pourquoi construire une armée d'anormaux
+si on a un agent pathogène invisible ?
+
+374
+00:22:57,385 --> 00:23:00,751
+Peut-être pour parer leur réapparition
+une fois la décimation achevée.
+
+375
+00:23:01,001 --> 00:23:03,230
+Comment savoir que leur armée
+ne sera pas affectée ?
+
+376
+00:23:03,355 --> 00:23:06,173
+On peut penser qu'ils ont intégré
+une immunité dans leur conception.
+
+377
+00:23:08,455 --> 00:23:10,969
+Ils savaient qu'il serait possible
+de les immuniser.
+
+378
+00:23:12,221 --> 00:23:13,935
+Le sang source est la clé.
+
+379
+00:23:14,195 --> 00:23:17,450
+Même si on trouve cette Anna Griffin,
+on n'a toujours pas Tesla.
+
+380
+00:23:17,575 --> 00:23:19,890
+Quel intérêt si on n'a pas
+le dernier membre des Cinq ?
+
+381
+00:23:20,015 --> 00:23:22,220
+Je sais comment pensait mon père.
+
+382
+00:23:22,345 --> 00:23:25,430
+S'il a anticipé que l'un ou plusieurs
+des Cinq pouvaient mourir,
+
+383
+00:23:25,555 --> 00:23:27,986
+il a très bien pu intégrer
+un mécanisme de sécurité
+
+384
+00:23:28,111 --> 00:23:30,533
+- pour qu'on puisse craquer le code.
+- Tu n'as pas changé.
+
+385
+00:23:30,658 --> 00:23:34,074
+"Je vais sauter de cette falaise
+et espérer que des ailes me poussent".
+
+386
+00:23:35,885 --> 00:23:37,650
+Où Gregory a caché la fiole ?
+
+387
+00:23:37,775 --> 00:23:40,610
+Dans un des endroits
+les plus inaccessible sur la planète.
+
+388
+00:23:40,735 --> 00:23:43,790
+La cité perdue de Bhalasamm
+dans les Indes Himalayennes.
+
+389
+00:23:43,915 --> 00:23:46,463
+Le lieu de la culture originelle
+des anciens vampires.
+
+390
+00:23:46,765 --> 00:23:48,590
+Ce n'est pas la Transylvanie ?
+
+391
+00:23:48,925 --> 00:23:51,760
+Sa topographie unique
+garde tout très bien caché.
+
+392
+00:23:53,305 --> 00:23:57,265
+Croyez-moi, les merveilles de l'ancien
+monde ne font pas le poids à côté.
+
+393
+00:23:57,434 --> 00:23:59,459
+Il l'a caché
+comme un trésor de pirate ?
+
+394
+00:23:59,584 --> 00:24:01,550
+Il y a un labyrinthe sous la cité.
+
+395
+00:24:01,675 --> 00:24:03,689
+Mon père y a placé cinq clés,
+
+396
+00:24:03,985 --> 00:24:07,359
+impossible à obtenir sans la qualité
+unique acquise par le sang.
+
+397
+00:24:07,527 --> 00:24:09,080
+Et quel est votre pouvoir ?
+
+398
+00:24:09,205 --> 00:24:11,822
+Vous montrer à la réunion
+après 135 ans ?
+
+399
+00:24:11,947 --> 00:24:15,050
+- J'aimerais vous y voir.
+- Bien, j'ai fait une recherche complète
+
+400
+00:24:15,175 --> 00:24:17,284
+sur Internet sur cette Anna Griffin.
+
+401
+00:24:17,454 --> 00:24:19,450
+Elle a eu un nom différent,
+ce qui m'a ralenti,
+
+402
+00:24:19,575 --> 00:24:21,520
+mais je l'ai pistée
+jusqu'à Bâton Rouge.
+
+403
+00:24:21,645 --> 00:24:24,250
+- Il y a 3 ans, elle s'est envolée.
+- Elle pourrait être morte ?
+
+404
+00:24:24,505 --> 00:24:27,419
+Si vous croyez la nécrologie, oui,
+mais j'ai senti le truc.
+
+405
+00:24:28,465 --> 00:24:30,450
+Le certificat de décès
+était une contrefaçon.
+
+406
+00:24:30,575 --> 00:24:34,550
+Quelqu'un a voulu qu'on la croit morte.
+Comme une protection des témoins.
+
+407
+00:24:34,675 --> 00:24:37,150
+J'ai eu la chance de trouver
+des morceaux qu'ils ont loupés.
+
+408
+00:24:37,275 --> 00:24:38,765
+J'ai trouvé une adresse.
+
+409
+00:24:38,934 --> 00:24:41,860
+Quelqu'un devrait réveiller Druitt,
+car on n'a pas de temps à perdre.
+
+410
+00:24:41,985 --> 00:24:44,060
+- "On" ?
+- Druitt peut pas y aller seul.
+
+411
+00:24:44,185 --> 00:24:47,441
+Un jour, il est sentimental, l'autre,
+il transforme une fille en canoë !
+
+412
+00:24:49,105 --> 00:24:51,510
+En dépit de sa bienveillance
+comme tout à l'heure,
+
+413
+00:24:51,635 --> 00:24:54,196
+il est sans aucun doute en conflit
+avec sa personnalité.
+
+414
+00:24:57,244 --> 00:24:59,369
+- Tenez compagnie à Druitt.
+- Quoi ?
+
+415
+00:25:00,996 --> 00:25:03,914
+Pourquoi moi ?
+Je suis sensé lui dire de se calmer ?
+
+416
+00:25:04,083 --> 00:25:05,459
+Souvenez-vous que...
+
+417
+00:25:06,086 --> 00:25:08,587
+son outil le plus aiguisé
+est son cerveau.
+
+418
+00:25:14,510 --> 00:25:18,055
+Bâton-Rouge, Comté de Garden.
+
+419
+00:25:32,705 --> 00:25:33,987
+Je peux vous aider ?
+
+420
+00:25:34,975 --> 00:25:38,867
+Ouais, en fait.
+On cherche Anna Thayer Griffin.
+
+421
+00:25:40,065 --> 00:25:42,871
+- Qui la demande ?
+- On est des amis de la famille.
+
+422
+00:25:43,115 --> 00:25:45,330
+Je suis surprise
+que vous ignoriez sa mort.
+
+423
+00:25:45,695 --> 00:25:46,834
+Elle l'est ?
+
+424
+00:25:47,795 --> 00:25:49,169
+Oui, elle l'est.
+
+425
+00:25:49,575 --> 00:25:51,713
+J'ai été à ses funérailles.
+Il y a trois ans.
+
+426
+00:25:52,285 --> 00:25:53,799
+Où est-elle enterrée ?
+
+427
+00:25:57,585 --> 00:25:59,304
+On aimerait lui rendre hommage.
+
+428
+00:26:01,545 --> 00:26:03,058
+Whispering Pines.
+
+429
+00:26:04,995 --> 00:26:05,995
+Merci.
+
+430
+00:26:09,575 --> 00:26:10,897
+Une seconde...
+
+431
+00:26:13,265 --> 00:26:16,697
+Chaque tentative de créer une antitoxine
+à partir de l'un de nous a échoué.
+
+432
+00:26:16,935 --> 00:26:18,800
+Notre seul choix
+est d'aller à la source.
+
+433
+00:26:18,925 --> 00:26:20,290
+Tu as le choix, maman.
+
+434
+00:26:20,415 --> 00:26:22,826
+On trouve un moyen d'empêcher
+cet agent d'être lancé,
+
+435
+00:26:22,995 --> 00:26:26,020
+- et t'as plus besoin de cette source.
+- Tu veux que je t'envoie au coeur
+
+436
+00:26:26,145 --> 00:26:28,470
+de la fabrique d'arme
+de la Cabale toute seule ?
+
+437
+00:26:28,595 --> 00:26:30,586
+Henry a dit qu'il viendrait
+avec moi.
+
+438
+00:26:32,595 --> 00:26:36,466
+Sans vouloir t'offenser, on ne passe pas
+de boy scout à James Bond en une nuit.
+
+439
+00:26:36,592 --> 00:26:39,130
+- J'ai aussi été une bleue comme Sonic.
+- Je peux le faire.
+
+440
+00:26:39,255 --> 00:26:40,594
+Sonic ? Je suis Sonic ?
+
+441
+00:26:40,764 --> 00:26:44,120
+Il y a des chances que l'appareil soit
+actionné depuis leur labo d'armement.
+
+442
+00:26:44,245 --> 00:26:47,650
+On doit y aller pour ça et trouver
+comment arrêter la détonation.
+
+443
+00:26:47,775 --> 00:26:48,979
+Juste comme ça ?
+
+444
+00:26:49,104 --> 00:26:51,110
+- Ça ne sera pas simple.
+- Hors de question.
+
+445
+00:26:51,235 --> 00:26:53,565
+Maman, on n'a pas beaucoup de temps.
+
+446
+00:26:54,985 --> 00:26:56,403
+On peut le faire.
+
+447
+00:27:02,375 --> 00:27:05,244
+Entrez.
+Prenez le nécessaire et ressortez.
+
+448
+00:27:05,412 --> 00:27:07,242
+Pas de risques inutiles.
+
+449
+00:27:07,666 --> 00:27:09,564
+- Allons-y, Sonic.
+- Merci.
+
+450
+00:27:10,584 --> 00:27:11,584
+Merci.
+
+451
+00:27:12,275 --> 00:27:13,879
+- Ashley...
+- Ouais ?
+
+452
+00:28:01,175 --> 00:28:03,475
+Quelqu'un est venu visiter la tombe,
+
+453
+00:28:03,915 --> 00:28:07,180
+- vide ou non.
+- Si le don a été transmis à la fille,
+
+454
+00:28:07,475 --> 00:28:09,235
+pourquoi pas à sa descendance ?
+
+455
+00:28:50,595 --> 00:28:52,060
+Elle est partie par là.
+
+456
+00:28:53,270 --> 00:28:56,523
+- Ses vêtements sont invisibles ?
+- Elle n'en porte aucun.
+
+457
+00:29:15,655 --> 00:29:18,585
+C'est bien ce que je pensais.
+Vous êtes la fille d'Anna, pas vrai ?
+
+458
+00:29:19,075 --> 00:29:20,214
+Clara.
+
+459
+00:29:21,575 --> 00:29:23,800
+Elle avait peur d'être appelée.
+
+460
+00:29:24,295 --> 00:29:27,120
+Vous êtes les gens dont elle avait peur,
+n'est-ce pas ?
+
+461
+00:29:27,245 --> 00:29:29,264
+Ouais, mais elle n'est plus là.
+
+462
+00:29:29,885 --> 00:29:32,100
+On aimerait
+que vous preniez sa place.
+
+463
+00:29:39,356 --> 00:29:42,630
+Je ne connais pas le Sanctuaire,
+et je ne sais pas qui vous êtes.
+
+464
+00:29:42,755 --> 00:29:45,070
+Vous avez dit que votre mère
+avait peur d'être appelée.
+
+465
+00:29:45,239 --> 00:29:48,616
+Elle a dû vous parler de votre
+grand-père, de son passé inhabituel.
+
+466
+00:29:49,450 --> 00:29:50,618
+Je dois y aller.
+
+467
+00:29:51,577 --> 00:29:54,788
+Pourquoi nous avoir suivis ici, Clara ?
+Avant qu'elle ne se cache,
+
+468
+00:29:54,957 --> 00:29:57,917
+elle a dû vous dire
+que la responsabilité vous incomberait,
+
+469
+00:29:58,042 --> 00:30:00,794
+- que vous devriez utiliser votre don.
+- Je l'utilise.
+
+470
+00:30:00,920 --> 00:30:02,922
+Je peux atteindre
+les tiroirs-caisses.
+
+471
+00:30:03,047 --> 00:30:05,591
+- Il n'a pas été créé pour ça.
+- Pourquoi feindre sa mort ?
+
+472
+00:30:05,716 --> 00:30:07,927
+Parce qu'elle était malade
+et fatiguée de fuir,
+
+473
+00:30:08,052 --> 00:30:09,470
+de vivre dans la peur.
+
+474
+00:30:10,596 --> 00:30:14,183
+Elle voulait disparaître pour de bon,
+et a fait croire qu'elle était morte.
+
+475
+00:30:14,850 --> 00:30:17,853
+L'ironie est que deux ans plus tard,
+elle est morte,
+
+476
+00:30:17,978 --> 00:30:20,397
+et c'était la seule qui comprenait
+ce que je vivais,
+
+477
+00:30:20,522 --> 00:30:22,399
+et maintenant,
+il n'y a plus personne.
+
+478
+00:30:22,942 --> 00:30:25,486
+Je ne l'ai jamais voulu,
+ce que vous appelez "un don".
+
+479
+00:30:25,736 --> 00:30:27,071
+Mais vous l'avez,
+
+480
+00:30:27,613 --> 00:30:30,199
+et vous pourriez être la seule personne
+à pouvoir nous aider
+
+481
+00:30:30,324 --> 00:30:32,910
+à empêcher quelque chose
+de terrible de se produire.
+
+482
+00:30:42,355 --> 00:30:46,256
+Laissez-moi sortir !
+
+483
+00:30:53,806 --> 00:30:57,351
+Laissez-moi sortir maintenant !
+
+484
+00:31:13,325 --> 00:31:15,452
+Ne me laissez pas sortir.
+
+485
+00:31:26,088 --> 00:31:30,088
+Faire s'affronter des humains
+et des anormaux, jouer à Dieu...
+
+486
+00:31:30,665 --> 00:31:32,015
+On doit arrêter la Cabale.
+
+487
+00:31:32,140 --> 00:31:34,794
+C'est pourquoi j'ai entamé cette mission
+il y a plus d'un siècle.
+
+488
+00:31:34,919 --> 00:31:36,599
+Bien que je l'ignorais encore.
+
+489
+00:31:36,724 --> 00:31:39,101
+Enfin, quatre des Cinq
+sont avec vous, mais...
+
+490
+00:31:40,060 --> 00:31:42,438
+je ne pense pas que Clara
+pourra faire ce qu'on veut.
+
+491
+00:31:42,563 --> 00:31:45,065
+- Vous l'avez vue se rendre invisible ?
+- Ouais, mais...
+
+492
+00:31:45,190 --> 00:31:47,860
+Écoutez, elle joue un jeu serré,
+mais elle a peur de son ombre,
+
+493
+00:31:47,985 --> 00:31:51,280
+quand elle en a une,
+et elle croit que nous sommes un culte.
+
+494
+00:31:51,614 --> 00:31:53,365
+J'ai peur qu'elle n'ait pas le cran.
+
+495
+00:31:53,782 --> 00:31:57,077
+Bien, vous avez jusqu'à demain midi
+pour la convaincre.
+
+496
+00:31:57,625 --> 00:31:59,455
+Et si elle n'arrive pas
+à s'en défaire ?
+
+497
+00:31:59,580 --> 00:32:01,665
+Et si on ne trouve pas
+la clef de Tesla ?
+
+498
+00:32:01,790 --> 00:32:03,955
+Et si mon père avait confié
+la source à la Cabale
+
+499
+00:32:04,080 --> 00:32:05,877
+quand ils l'avaient
+sous leur emprise ?
+
+500
+00:32:06,212 --> 00:32:08,130
+Tous les "Et si"
+n'ont pas de réponse.
+
+501
+00:32:08,255 --> 00:32:10,799
+Il nous reste quelques jours
+pour éviter la destruction
+
+502
+00:32:10,925 --> 00:32:12,843
+de tous les anormaux sur Terre.
+
+503
+00:32:35,950 --> 00:32:38,118
+Les visites aux prisonniers
+sont de 10 h à 14 h.
+
+504
+00:32:38,911 --> 00:32:40,538
+Vous n'êtes pas prisonnière.
+
+505
+00:32:40,663 --> 00:32:42,414
+Donc, je peux m'en aller ?
+
+506
+00:32:43,123 --> 00:32:45,249
+Quand nous partirons,
+vous viendrez avec nous.
+
+507
+00:32:50,965 --> 00:32:52,841
+Sacré trophée
+que vous avez là, Dr Z.
+
+508
+00:32:53,255 --> 00:32:55,302
+Il n'est pas question
+de trophée, ici.
+
+509
+00:32:55,427 --> 00:32:56,804
+La fille invisible ?
+
+510
+00:32:56,929 --> 00:32:58,097
+Allez...
+
+511
+00:32:58,639 --> 00:33:01,934
+Dites-moi que votre équipe de chasseurs
+de monstres fait chaque fois aussi bien.
+
+512
+00:33:02,059 --> 00:33:04,561
+Clara, je voudrais
+que vous compreniez les enjeux.
+
+513
+00:33:04,730 --> 00:33:08,274
+- Je sais que je peux y laisser la vie.
+- On ne devrait pas en arriver là.
+
+514
+00:33:08,399 --> 00:33:09,692
+"On ne devrait pas" ?
+
+515
+00:33:10,401 --> 00:33:12,152
+Je ne veux pas vous mentir.
+
+516
+00:33:13,070 --> 00:33:15,071
+Cette mission
+sera extrêmement dangereuse,
+
+517
+00:33:15,865 --> 00:33:18,950
+et vous devrez user de vos pouvoirs
+comme jamais vous ne l'avez fait avant,
+
+518
+00:33:19,118 --> 00:33:21,120
+et si vous échouez,
+si nous échouons,
+
+519
+00:33:21,453 --> 00:33:23,954
+des milliers, voire des millions
+de vies seront affectées.
+
+520
+00:33:24,123 --> 00:33:25,374
+Vous avez fini ?
+
+521
+00:33:30,337 --> 00:33:31,881
+Pour tout vous dire...
+
+522
+00:33:32,840 --> 00:33:35,259
+- Je vous en sais capable.
+- Pitié.
+
+523
+00:33:36,886 --> 00:33:38,552
+Vous ne me connaissez même pas.
+
+524
+00:33:38,804 --> 00:33:41,682
+Je ne pense pas
+que vous le sachiez vous-même.
+
+525
+00:33:42,600 --> 00:33:45,310
+La moitié de votre vie,
+vous vous êtes cachée.
+
+526
+00:33:47,313 --> 00:33:50,149
+Vous ne savez pas
+ce que c'est de se rendre invisible.
+
+527
+00:33:53,152 --> 00:33:56,614
+Les gens vous regardent dans les yeux,
+et ils ne voient rien.
+
+528
+00:33:58,449 --> 00:34:00,367
+Vous êtes... un fantôme,
+
+529
+00:34:00,905 --> 00:34:02,030
+un mirage.
+
+530
+00:34:03,372 --> 00:34:05,330
+Vous ne comptez pas,
+vous n'existez pas.
+
+531
+00:34:05,499 --> 00:34:07,499
+Mais vous pouvez
+faire quelque chose.
+
+532
+00:34:08,105 --> 00:34:11,002
+Faire quelque chose que personne
+d'autre sur Terre ne peut.
+
+533
+00:34:13,130 --> 00:34:14,590
+On dirait ma mère.
+
+534
+00:34:16,133 --> 00:34:18,093
+Elle vous a donc parlé
+de votre destinée.
+
+535
+00:34:18,262 --> 00:34:19,553
+Oui, elle...
+
+536
+00:34:20,195 --> 00:34:23,265
+disait que ce pouvoir
+ne s'était pas transmis sans raison.
+
+537
+00:34:23,390 --> 00:34:25,390
+D'abord à elle, puis à moi.
+
+538
+00:34:26,644 --> 00:34:28,771
+Je n'y ai jamais vraiment songé.
+
+539
+00:34:31,815 --> 00:34:33,359
+Je ne sais pas.
+
+540
+00:34:33,859 --> 00:34:36,320
+Je n'ai rien fait de tel
+par le passé.
+
+541
+00:34:40,115 --> 00:34:42,451
+Je ne pense pas
+qu'aucun d'entre nous l'ait fait.
+
+542
+00:34:50,459 --> 00:34:53,754
+- Il sera bientôt conscient ?
+- Dans trois ou quatre heures.
+
+543
+00:34:54,964 --> 00:34:57,591
+Je suis parvenu à augmenter
+le taux d'antigène dans notre sang
+
+544
+00:34:57,716 --> 00:34:59,218
+d'un facteur 2.
+
+545
+00:35:00,052 --> 00:35:01,427
+Il faut un facteur 100.
+
+546
+00:35:03,931 --> 00:35:07,852
+En prenant son sang pour me l'injecter,
+mes niveaux atteindront ce taux.
+
+547
+00:35:07,977 --> 00:35:10,360
+- Et tu te tuerais.
+- Mon sang l'empêchera,
+
+548
+00:35:10,485 --> 00:35:12,771
+- je parie ma vie là-dessus.
+- C'est justement le cas.
+
+549
+00:35:13,023 --> 00:35:14,608
+Si on ne trouve pas la source,
+
+550
+00:35:14,733 --> 00:35:16,777
+il nous faut pouvoir combattre
+cette maladie.
+
+551
+00:35:16,902 --> 00:35:19,705
+Helen, bon Dieu,
+tu n'as pas de protections !
+
+552
+00:35:30,666 --> 00:35:31,750
+Es-tu folle ?
+
+553
+00:35:34,211 --> 00:35:35,504
+Juste désespérée.
+
+554
+00:35:48,058 --> 00:35:49,600
+Je vous avais prévenue.
+
+555
+00:36:07,535 --> 00:36:09,455
+C'est moi, Helen.
+
+556
+00:36:09,745 --> 00:36:11,497
+Tu n'as pas à me blesser.
+
+557
+00:36:39,859 --> 00:36:43,859
+OK, si c'est pas l'entrée de service
+d'un repère du mal, ce serait quoi ?
+
+558
+00:36:45,991 --> 00:36:48,237
+Bon, le grillage barbelé,
+c'est facile.
+
+559
+00:36:48,785 --> 00:36:52,330
+- Comment on fait pour les lasers ?
+- Je les aveugle, avec ça.
+
+560
+00:36:57,055 --> 00:37:00,755
+- Que feraient les mecs sans jouets ?
+- Tu peux arrêter avec "les mecs" ?
+
+561
+00:37:00,923 --> 00:37:02,924
+Si on bosse ensemble,
+j'aimerais un peu de...
+
+562
+00:37:03,049 --> 00:37:04,180
+Respect.
+
+563
+00:37:04,305 --> 00:37:06,629
+Tu es Indiana Jones
+avec des gadgets encore plus cool.
+
+564
+00:37:06,754 --> 00:37:08,972
+Merci. Tu vois ?
+Ce n'était pas si dur ?
+
+565
+00:37:13,850 --> 00:37:15,900
+John nous téléportera deux par deux
+
+566
+00:37:16,025 --> 00:37:18,690
+dans une zone boisée
+juste en dessous du promontoire.
+
+567
+00:37:18,815 --> 00:37:20,740
+On fait la descente jusqu'à la crête
+
+568
+00:37:20,865 --> 00:37:23,820
+et on entre dans l'ancienne cité
+par l'Est.
+
+569
+00:37:23,945 --> 00:37:27,490
+Vous ne pouvez pas nous téléporter
+directement dans le labyrinthe ?
+
+570
+00:37:27,659 --> 00:37:30,165
+Mes pouvoirs sont exceptionnels,
+je l'admets,
+
+571
+00:37:30,605 --> 00:37:32,912
+mais je ne sais pas
+ce qui s'y trouve...
+
+572
+00:37:33,475 --> 00:37:37,124
+Réapparaître dans un bloc de granite
+n'est pas une mort agréable.
+
+573
+00:37:38,043 --> 00:37:39,210
+Non, en effet.
+
+574
+00:37:39,794 --> 00:37:40,879
+Complètement.
+
+575
+00:37:41,087 --> 00:37:42,370
+Je préfère marcher.
+
+576
+00:37:42,495 --> 00:37:44,341
+Une fois
+dans les passages souterrains,
+
+577
+00:37:44,466 --> 00:37:46,842
+nous sommes tous responsable
+de récupérer notre clef.
+
+578
+00:37:47,265 --> 00:37:49,136
+Personne ne voit la folie
+dans tout ça ?
+
+579
+00:37:50,221 --> 00:37:53,766
+- Tu ne me crois pas à la hauteur.
+- Un, il a les pouvoirs d'un vampire.
+
+580
+00:37:53,935 --> 00:37:56,478
+Deux, il s'est endormi
+sur la chaise électrique d'Edison.
+
+581
+00:37:56,603 --> 00:37:58,686
+Je ne crois pas
+tes capacités supérieures.
+
+582
+00:37:58,938 --> 00:38:00,523
+Mon père disait toujours
+
+583
+00:38:00,732 --> 00:38:04,192
+qu'il n'y a jamais une seule solution.
+Mais toujours des alternatives.
+
+584
+00:38:04,361 --> 00:38:07,238
+Très bien, dans l'hypothèse
+où nous trouverions les cinq clefs...
+
+585
+00:38:07,407 --> 00:38:10,408
+Nous arriverions à un reliquaire
+où il nous faudra insérer nos clefs,
+
+586
+00:38:10,533 --> 00:38:12,659
+et la fiole contenant la source
+sera libérée.
+
+587
+00:38:13,215 --> 00:38:14,912
+Ce n'est pas la mission, Helen.
+
+588
+00:38:15,080 --> 00:38:17,623
+Ce qui m'inquiète,
+c'est cette lueur dans tes yeux.
+
+589
+00:38:17,791 --> 00:38:20,460
+Arrête ton baratin, Jimmy.
+On va en Inde.
+
+590
+00:38:41,690 --> 00:38:42,900
+C'est tranquille.
+
+591
+00:38:43,025 --> 00:38:44,980
+Tant mieux.
+On a pas tout notre temps.
+
+592
+00:38:45,105 --> 00:38:47,615
+On rentre, on prend
+ce qu'il nous faut, et on sort.
+
+593
+00:38:52,242 --> 00:38:54,202
+OK, ils s'en vont.
+Bougeons.
+
+594
+00:38:55,453 --> 00:38:56,745
+Allez...
+
+595
+00:39:09,342 --> 00:39:11,260
+- Stop !
+- Ne bougez pas !
+
+596
+00:39:32,907 --> 00:39:35,203
+C'est le pire cauchemar de mon père.
+
+597
+00:39:35,452 --> 00:39:38,218
+Que l'on essaie et parvienne
+à récupérer la source.
+
+598
+00:39:38,955 --> 00:39:40,320
+Vous comptez lui dire ?
+
+599
+00:39:40,445 --> 00:39:43,289
+Si je trouve où il se cache,
+et si c'est le bon moment...
+
+600
+00:39:57,641 --> 00:39:58,975
+Qui êtes-vous ?
+
+601
+00:40:00,143 --> 00:40:01,646
+Détendez-vous, M. Foss.
+
+602
+00:40:03,313 --> 00:40:04,804
+Je suis votre docteur.
+
+603
+00:40:42,795 --> 00:40:45,520
+Bonjour, Ashley.
+Contente d'enfin vous rencontrer.
+
+604
+00:40:45,688 --> 00:40:48,718
+- Allez en enfer.
+- Veuillez m'excuser pour tout ça,
+
+605
+00:40:49,734 --> 00:40:53,488
+mais votre réputation vous précède,
+et je dois trouver un être intelligent
+
+606
+00:40:53,613 --> 00:40:55,948
+qui ne répondrait pas
+à la bonne stimulation.
+
+607
+00:40:56,116 --> 00:40:57,811
+Qu'est-ce que vous m'avez fait ?
+
+608
+00:41:00,245 --> 00:41:02,122
+On excelle à dompter
+les bêtes sauvages.
+
+609
+00:41:02,247 --> 00:41:04,833
+On n'a pas encore essayé
+à me toucher quand je suis sauvage.
+
+610
+00:41:04,958 --> 00:41:07,585
+- Je pense que vous aimeriez ça.
+- Mon nom est Dana Whitcomb,
+
+611
+00:41:07,710 --> 00:41:09,878
+directrice de la logistique
+et des opérations.
+
+612
+00:41:10,046 --> 00:41:11,923
+Joli titre. Beaucoup de boulot ?
+
+613
+00:41:13,300 --> 00:41:15,920
+Vous et votre collègue, M. Foss,
+êtes venus ici dans le but
+
+614
+00:41:16,045 --> 00:41:19,055
+d'empêcher le déploiement d'une arme
+bactériologique, nom de code Lazarus.
+
+615
+00:41:19,180 --> 00:41:22,559
+Très ambitieux, pour ne pas évoquer
+votre incroyable bravoure.
+
+616
+00:41:23,393 --> 00:41:24,976
+C'était aussi totalement fou.
+
+617
+00:41:26,021 --> 00:41:27,938
+La folie,
+c'est un peu notre carburant.
+
+618
+00:41:28,315 --> 00:41:31,568
+Bien, malgré vos efforts,
+Lazarus sera déployée.
+
+619
+00:41:31,693 --> 00:41:34,988
+Ses effets seront mille fois plus
+dévastateurs que lors de la phase 1.
+
+620
+00:41:35,113 --> 00:41:36,489
+De retour à la normale,
+
+621
+00:41:36,698 --> 00:41:38,825
+ce sera un jour nouveau
+pour la race humaine,
+
+622
+00:41:38,950 --> 00:41:40,994
+débarrassée de tous les anormaux.
+
+623
+00:41:42,120 --> 00:41:44,289
+Ouais, on verra bien, n'est-ce pas ?
+
+624
+00:41:45,624 --> 00:41:49,085
+Votre mère et ses collègues
+vont eux aussi tenter de nous arrêter.
+
+625
+00:41:49,210 --> 00:41:51,254
+Je vous promets qu'ils échoueront.
+
+626
+00:41:51,713 --> 00:41:53,423
+Ils échoueront, car...
+
+627
+00:41:54,382 --> 00:41:56,968
+Vous allez nous aider
+à achever notre plan.
+
+628
+00:42:10,398 --> 00:42:13,360
+Nous sommes sur le point de voir
+la 9e merveille de l'ancien monde,
+
+629
+00:42:13,485 --> 00:42:16,863
+- et je n'ai pas pris d'appareil photo.
+- Vous avez pris votre tête, non ?
+
+630
+00:42:16,988 --> 00:42:19,449
+Zut, je savais bien
+que j'avais oublié quelque chose.
+
+631
+00:42:28,625 --> 00:42:29,668
+Seigneur.
+
+632
+00:42:30,335 --> 00:42:32,087
+Tout a été détruit.
+
+633
+00:42:40,929 --> 00:42:43,181
+Il doit y avoir
+un moyen de descendre.
+
+634
+00:42:43,556 --> 00:42:45,430
+On doit pouvoir
+accéder au labyrinthe.
+
+635
+00:42:45,555 --> 00:42:46,601
+C'est fini.
+
+636
+00:42:47,852 --> 00:42:50,370
+Pas d'accès, pas de source.
+Pas de source, pas de vaccin.
+
+637
+00:42:50,495 --> 00:42:52,670
+Pas de vaccin,
+pas de moyen d'empêcher la Cabale
+
+638
+00:42:52,795 --> 00:42:55,143
+de vouloir contrôler
+l'évolution humaine.
+

@@ -1,0 +1,2260 @@
+1
+00:00:00,213 --> 00:00:03,502
+C'était le but du <i>Destiny</i> en entrant
+dans ce système stellaire.
+
+2
+00:00:04,990 --> 00:00:08,841
+On va survivre.
+On rentrera chez nous.
+
+3
+00:00:10,255 --> 00:00:12,295
+Le vaisseau
+s'est pas arrêté pour rien !
+
+4
+00:00:13,400 --> 00:00:15,556
+Le <i>Destiny</i>
+est alimenté par les étoiles.
+
+5
+00:00:17,087 --> 00:00:19,352
+Young et lui sont en conflit.
+
+6
+00:00:19,561 --> 00:00:21,780
+J'ignore quel camp choisir.
+
+7
+00:00:22,077 --> 00:00:23,346
+On oublie tout.
+
+8
+00:00:23,732 --> 00:00:25,830
+On doit être prêts
+pour la prochaine fois.
+
+9
+00:00:26,516 --> 00:00:27,652
+Pour l'équipage.
+
+10
+00:00:28,564 --> 00:00:29,945
+Pour l'équipage.
+
+11
+00:00:30,113 --> 00:00:32,239
+Vous avez livré les secrets d'Icarus
+
+12
+00:00:32,407 --> 00:00:34,116
+à l'Alliance lucienne ?
+
+13
+00:00:34,284 --> 00:00:36,437
+Ce n'était pas moi.
+C'était le colonel Telford.
+
+14
+00:00:36,662 --> 00:00:38,579
+Les Goa'uld
+peuvent programmer les gens.
+
+15
+00:00:39,128 --> 00:00:41,855
+L'Alliance a pu récupérer
+cette technologie.
+
+16
+00:00:42,112 --> 00:00:43,709
+Vous n'aurez aucun renfort.
+
+17
+00:00:44,305 --> 00:00:46,837
+Vous utilisez les pierres
+de communication anciennes.
+
+18
+00:00:47,005 --> 00:00:49,507
+- Quoi ?
+- Telford aurait suivi la procédure.
+
+19
+00:00:50,717 --> 00:00:53,719
+Tu es un traître et un meurtrier.
+
+20
+00:00:53,887 --> 00:00:55,638
+Et, visiblement, un lâche.
+
+21
+00:00:56,801 --> 00:00:58,474
+Une autre planète Icarus.
+
+22
+00:00:58,642 --> 00:01:01,185
+Nous sommes tous surexcités
+par la coopération du Dr Rush.
+
+23
+00:01:01,353 --> 00:01:02,728
+Tu condamnes Rush !
+
+24
+00:01:02,896 --> 00:01:04,438
+Évacuez l'air
+
+25
+00:01:04,606 --> 00:01:06,347
+<i>de la chambre du colonel Telford.</i>
+
+26
+00:01:11,664 --> 00:01:13,239
+Ouvre cette putain de porte !
+
+27
+00:01:17,147 --> 00:01:18,547
+Tu me tueras pas !
+
+28
+00:01:28,211 --> 00:01:29,755
+M. Brody, ici Wray.
+
+29
+00:01:29,923 --> 00:01:32,091
+Remettez l'oxygène en marche...
+
+30
+00:01:32,259 --> 00:01:34,259
+Veuillez ignorer cette requête.
+
+31
+00:01:37,170 --> 00:01:38,431
+<i>En ne faisant rien,</i>
+
+32
+00:01:38,599 --> 00:01:42,017
+<i>vous participez
+au meurtre du Colonel Telford,</i>
+
+33
+00:01:42,185 --> 00:01:43,796
+mais aussi à celui de Rush.
+
+34
+00:01:55,631 --> 00:01:58,081
+- Il a compris.
+- Ce n'est pas le but.
+
+35
+00:02:08,462 --> 00:02:09,712
+Ouvrez la porte.
+
+36
+00:02:09,880 --> 00:02:11,672
+- Ayez confiance.
+- Vous le tuez !
+
+37
+00:02:11,840 --> 00:02:12,840
+Je sais.
+
+38
+00:02:13,425 --> 00:02:14,675
+On fait quoi ?
+
+39
+00:02:15,300 --> 00:02:17,500
+C'est du bluff, il va pas le tuer.
+
+40
+00:02:26,510 --> 00:02:27,960
+Qu'est-ce qu'il a ?
+
+41
+00:03:17,447 --> 00:03:18,572
+Vous l'avez tué.
+
+42
+00:03:55,277 --> 00:03:57,194
+- Vous êtes en danger.
+- Quoi ?
+
+43
+00:03:57,362 --> 00:03:58,654
+Ils arrivent.
+
+44
+00:03:58,822 --> 00:04:00,197
+Qui ?
+
+45
+00:04:00,365 --> 00:04:03,158
+L'Alliance lucienne.
+Ils veulent le <i>Destiny</i>.
+
+46
+00:04:11,366 --> 00:04:18,424
+Projet-SG (1.00)
+www.projet-sg.com
+
+47
+00:04:21,012 --> 00:04:24,100
+<i>Nous avons appris
+que le vaisseau allait être attaqué</i>
+
+48
+00:04:24,225 --> 00:04:26,857
+<i>par les forces armées
+de l'Alliance lucienne.</i>
+
+49
+00:04:26,982 --> 00:04:30,394
+<i>Le groupe responsable
+de l'attaque de la base Icarus.</i>
+
+50
+00:04:30,622 --> 00:04:34,565
+<i>Le personnel militaire
+est en alerte.</i>
+
+51
+00:04:34,950 --> 00:04:37,818
+Si l'ennemi peut composer
+l'adresse du <i>Destiny</i>,
+
+52
+00:04:38,928 --> 00:04:41,363
+<i>ils arriveront par la Porte.</i>
+
+53
+00:04:41,531 --> 00:04:42,614
+C'est bon.
+
+54
+00:04:42,782 --> 00:04:45,868
+<i>La salle de la Porte
+est donc scellée.</i>
+
+55
+00:04:46,759 --> 00:04:50,122
+<i>Les couloirs d'accès sont interdits.</i>
+
+56
+00:04:51,249 --> 00:04:53,709
+<i>L'accès y est restreint.</i>
+
+57
+00:04:56,462 --> 00:04:58,964
+<i>J'ai fourni à la Sécurité intérieure
+des informations</i>
+
+58
+00:04:59,132 --> 00:05:01,884
+<i>sur la planète
+depuis laquelle l'Alliance lucienne</i>
+
+59
+00:05:02,052 --> 00:05:03,677
+<i>compte lancer son attaque.</i>
+
+60
+00:05:05,256 --> 00:05:08,140
+<i>Ils y envoient des troupes.</i>
+
+61
+00:05:13,682 --> 00:05:15,534
+Dans le meilleur des cas,
+
+62
+00:05:15,659 --> 00:05:17,733
+la Terre s'empare de la planète
+
+63
+00:05:17,901 --> 00:05:20,277
+et s'en sert
+de point de ravitaillement.
+
+64
+00:05:20,445 --> 00:05:22,412
+Dans le pire des cas,
+
+65
+00:05:22,537 --> 00:05:24,659
+nos troupes n'arrivent pas à temps
+
+66
+00:05:24,784 --> 00:05:27,483
+et c'est à nous d'agir.
+
+67
+00:05:28,009 --> 00:05:29,286
+Dans ce cas,
+
+68
+00:05:29,454 --> 00:05:31,372
+tous les civils
+
+69
+00:05:31,540 --> 00:05:33,332
+retourneront dans leurs quartiers
+
+70
+00:05:33,500 --> 00:05:36,627
+et y resteront
+jusqu'à ce que tout danger soit écarté.
+
+71
+00:05:36,795 --> 00:05:39,171
+Tout ça sera rapide.
+
+72
+00:05:39,339 --> 00:05:40,589
+Et décisif.
+
+73
+00:05:40,879 --> 00:05:42,299
+Je vous remercie.
+
+74
+00:05:56,873 --> 00:05:58,107
+Il y a peu,
+
+75
+00:05:58,275 --> 00:06:02,069
+le colonel Telford
+avouait être une taupe.
+
+76
+00:06:02,237 --> 00:06:04,530
+Et tout d'un coup,
+il a changé de camp ?
+
+77
+00:06:05,616 --> 00:06:07,741
+- Vous lui faites confiance ?
+- N'exagérons rien.
+
+78
+00:06:14,333 --> 00:06:16,752
+- Expliquez-vous.
+- "Expliquez-vous, mon colonel."
+
+79
+00:06:16,877 --> 00:06:19,210
+- Vous pouviez m'expliquer.
+- Pas sans vous impliquer.
+
+80
+00:06:19,378 --> 00:06:21,046
+Ça ne m'aurait pas dérangé.
+
+81
+00:06:21,214 --> 00:06:23,431
+Si j'avais su que le tuer
+
+82
+00:06:23,556 --> 00:06:25,518
+annulerait le lavage de cerveau,
+
+83
+00:06:25,643 --> 00:06:27,136
+je vous aurais soutenu.
+
+84
+00:06:27,304 --> 00:06:30,177
+Vous ne suivez les ordres
+que quand on vous explique ?
+
+85
+00:06:30,302 --> 00:06:31,682
+Non, ce n'est pas...
+
+86
+00:06:31,850 --> 00:06:34,486
+Tant mieux,
+sinon, on aurait un problème.
+
+87
+00:06:34,611 --> 00:06:36,156
+On en a un ?
+
+88
+00:06:40,014 --> 00:06:42,067
+Parfait.
+Ce n'est pas le moment.
+
+89
+00:06:48,074 --> 00:06:49,949
+Pas de maux de tête ?
+
+90
+00:06:50,285 --> 00:06:51,435
+Je vais bien.
+
+91
+00:06:55,697 --> 00:06:58,417
+Enfin, Rush va bien.
+Moi, je verrai quand on échangera.
+
+92
+00:06:59,091 --> 00:07:01,241
+Écoutez, je dois y aller.
+
+93
+00:07:03,548 --> 00:07:05,348
+Vous pouvez nous laisser ?
+
+94
+00:07:12,686 --> 00:07:14,349
+Comment tu te sens ?
+
+95
+00:07:18,413 --> 00:07:20,481
+- Un peu confus.
+- Pas étonnant.
+
+96
+00:07:23,324 --> 00:07:26,202
+T'es allé jusqu'au bout.
+
+97
+00:07:26,327 --> 00:07:27,613
+J'étais bien obligé.
+
+98
+00:07:27,781 --> 00:07:30,157
+Pour ma défense,
+j'ai essayé autre chose.
+
+99
+00:07:31,484 --> 00:07:33,410
+Ouais, merci.
+
+100
+00:07:33,578 --> 00:07:36,955
+Le lavage de cerveau
+explique ton comportement.
+
+101
+00:07:42,734 --> 00:07:45,689
+J'avais lu les rapports de mission
+sur cette méthode.
+
+102
+00:07:45,814 --> 00:07:47,424
+Mais je ne pensais pas...
+
+103
+00:07:52,220 --> 00:07:56,224
+Tu ne sais pas ce que ça fait
+de se souvenir de choses...
+
+104
+00:08:04,932 --> 00:08:06,235
+De choses affreuses.
+
+105
+00:08:06,914 --> 00:08:08,614
+Tu n'étais pas toi-même.
+
+106
+00:08:14,144 --> 00:08:15,536
+Renvoie-moi.
+
+107
+00:08:15,704 --> 00:08:17,996
+- Pas tout de suite.
+- Je peux plus rien faire, ici.
+
+108
+00:08:18,164 --> 00:08:19,456
+Je peux encore te tuer.
+
+109
+00:08:19,624 --> 00:08:22,584
+Je suis plus utile dans mon corps,
+tu le sais.
+
+110
+00:08:22,752 --> 00:08:24,086
+Récupère Rush.
+
+111
+00:08:24,254 --> 00:08:25,754
+- Écoute...
+- Sors-le de là.
+
+112
+00:08:26,760 --> 00:08:30,008
+Tu as frôlé la mort.
+Reprends d'abord des forces.
+
+113
+00:08:40,530 --> 00:08:41,680
+Laissez-nous.
+
+114
+00:08:44,316 --> 00:08:47,985
+Quand ils arriveront,
+je veux que tu sois à l'abri, ici.
+
+115
+00:08:48,677 --> 00:08:49,677
+À l'abri ?
+
+116
+00:08:50,930 --> 00:08:54,908
+Il y aura peut-être des blessés,
+on aura besoin de toi.
+
+117
+00:08:55,666 --> 00:08:57,999
+- On aura besoin d'un vrai médecin.
+- Tu peux le faire.
+
+118
+00:08:58,124 --> 00:08:59,413
+Pas du tout.
+
+119
+00:09:00,495 --> 00:09:02,082
+Tu as un plan ?
+
+120
+00:09:02,250 --> 00:09:05,127
+Évacuer l'air
+de la salle de la Porte.
+
+121
+00:09:06,251 --> 00:09:08,046
+Tous les tuer, donc.
+
+122
+00:09:08,863 --> 00:09:10,632
+Tu crois que j'ai le choix ?
+
+123
+00:09:11,819 --> 00:09:15,424
+Si tu cherches le pardon,
+je ne peux pas te l'offrir non plus.
+
+124
+00:09:17,167 --> 00:09:18,767
+Je ferai de mon mieux.
+
+125
+00:09:31,942 --> 00:09:33,292
+Vous êtes en vie.
+
+126
+00:09:37,207 --> 00:09:38,207
+C'est moi.
+
+127
+00:09:39,720 --> 00:09:41,580
+J'ai vérifié
+que vous ne simuliez pas.
+
+128
+00:09:42,057 --> 00:09:43,457
+C'était bien réel.
+
+129
+00:09:44,701 --> 00:09:46,001
+Je suis désolée.
+
+130
+00:09:51,240 --> 00:09:52,740
+Au travail, je sais.
+
+131
+00:10:16,199 --> 00:10:17,324
+Scan de la planète.
+
+132
+00:10:22,758 --> 00:10:24,566
+<i>Les informations sont exactes.</i>
+
+133
+00:10:24,691 --> 00:10:27,083
+<i>Il y a beaucoup de naquadria.</i>
+
+134
+00:10:27,323 --> 00:10:31,279
+<i>On détecte une signature énergétique
+qui vient d'une pyramide.</i>
+
+135
+00:10:31,404 --> 00:10:33,840
+Une pyramide ?
+Ça faisait longtemps.
+
+136
+00:10:34,008 --> 00:10:36,301
+Le complexe est protégé
+contre la téléportation.
+
+137
+00:10:36,680 --> 00:10:38,303
+<i>On ne peut pas récupérer Rush.</i>
+
+138
+00:10:40,056 --> 00:10:41,848
+<i>Il va falloir attaquer au sol.</i>
+
+139
+00:10:42,112 --> 00:10:44,285
+Très bien, allez-y.
+
+140
+00:11:01,610 --> 00:11:02,810
+C'était quoi ?
+
+141
+00:11:03,962 --> 00:11:05,247
+Nous sommes attaqués.
+
+142
+00:11:07,000 --> 00:11:09,751
+- On peut composer ?
+- Tout exploserait.
+
+143
+00:11:10,655 --> 00:11:11,655
+Allez-y.
+
+144
+00:11:12,599 --> 00:11:13,849
+Préparez-vous !
+
+145
+00:11:15,091 --> 00:11:16,091
+On y va !
+
+146
+00:11:34,986 --> 00:11:36,740
+<i>L'Alliance lucienne</i>
+
+147
+00:11:36,865 --> 00:11:39,948
+<i>est une organisation d'humains
+issus de planètes souveraines</i>
+
+148
+00:11:40,116 --> 00:11:42,826
+<i>qui ont pris contrôle des richesses
+et des technologies...</i>
+
+149
+00:11:53,872 --> 00:11:55,622
+La vidéo de l'Air Force ?
+
+150
+00:11:58,921 --> 00:12:01,720
+Je cherche quelque chose
+qui pourrait nous aider.
+
+151
+00:12:06,492 --> 00:12:07,684
+Il va faire quoi ?
+
+152
+00:12:08,390 --> 00:12:09,353
+Le colonel ?
+
+153
+00:12:10,578 --> 00:12:12,228
+Ils envoient une armée.
+
+154
+00:12:13,615 --> 00:12:15,609
+À ton avis,
+qu'est-ce qu'il va faire ?
+
+155
+00:12:33,670 --> 00:12:34,836
+Ça y est.
+
+156
+00:12:36,760 --> 00:12:38,210
+Ça commence ?
+
+157
+00:12:47,792 --> 00:12:48,642
+Allez-y.
+
+158
+00:12:48,810 --> 00:12:51,410
+Contactez-nous
+quand vous aurez traversé.
+
+159
+00:12:52,814 --> 00:12:54,014
+Et emmenez-le.
+
+160
+00:13:10,603 --> 00:13:11,903
+Je les vois.
+
+161
+00:13:12,583 --> 00:13:14,990
+Tout le monde a son poste,
+tenez-vous prêts.
+
+162
+00:13:15,115 --> 00:13:18,004
+Ce n'est pas un exercice.
+Équipes de défense, soyez prêtes.
+
+163
+00:13:30,101 --> 00:13:32,320
+- Quel bouton ?
+- Celui-là.
+
+164
+00:13:32,445 --> 00:13:34,312
+Ça prendra combien de temps ?
+
+165
+00:13:34,480 --> 00:13:35,605
+Environ une minute.
+
+166
+00:13:35,773 --> 00:13:37,107
+Dans ces eaux-là.
+
+167
+00:14:09,505 --> 00:14:12,309
+À mon signal,
+vous vous saisissez d'eux.
+
+168
+00:14:14,535 --> 00:14:15,535
+Compris.
+
+169
+00:14:19,965 --> 00:14:22,058
+Surveillez d'ici,
+restez en contact radio.
+
+170
+00:14:23,295 --> 00:14:24,295
+D'accord.
+
+171
+00:14:24,885 --> 00:14:26,136
+Que s'est-il passé ?
+
+172
+00:14:28,975 --> 00:14:30,535
+Non, c'est moi.
+
+173
+00:14:35,305 --> 00:14:36,355
+Le vaisseau...
+
+174
+00:14:37,225 --> 00:14:40,879
+- L'Alliance lucienne...
+- On sait tout. Telford a avoué.
+
+175
+00:14:41,115 --> 00:14:42,464
+On fait quoi, alors ?
+
+176
+00:14:44,195 --> 00:14:46,825
+Disons que ça sera bientôt fini.
+
+177
+00:14:59,005 --> 00:15:00,065
+Allez.
+
+178
+00:15:06,275 --> 00:15:08,375
+Je détecte un pic d'énergie.
+
+179
+00:15:08,700 --> 00:15:11,171
+Moins d'une minute
+avant l'explosion du noyau.
+
+180
+00:15:12,025 --> 00:15:15,725
+Téléportez nos hommes à bord
+immédiatement !
+
+181
+00:15:21,671 --> 00:15:24,088
+Le noyau va exploser.
+Je peux rien y faire.
+
+182
+00:15:25,885 --> 00:15:27,425
+Toujours aucun contact radio ?
+
+183
+00:15:30,972 --> 00:15:33,348
+Fais passer
+le plus d'hommes possible.
+
+184
+00:15:46,267 --> 00:15:49,067
+On a encore deux 302
+sur le chemin du retour.
+
+185
+00:15:52,575 --> 00:15:54,825
+On peut pas attendre.
+Sortez-nous de là.
+
+186
+00:16:24,817 --> 00:16:27,240
+On est pas censés
+rejoindre nos quartiers ?
+
+187
+00:16:27,695 --> 00:16:29,295
+J'habite ici, moi.
+
+188
+00:16:29,420 --> 00:16:30,716
+Je vais nulle part.
+
+189
+00:16:40,475 --> 00:16:43,187
+Ils ont ramené Rush.
+On va utiliser la manière forte.
+
+190
+00:16:57,906 --> 00:16:59,990
+- Que s'est-il passé ?
+- C'était pas moi.
+
+191
+00:17:00,115 --> 00:17:02,354
+Vous venez de tuer
+une centaine d'hommes !
+
+192
+00:17:05,809 --> 00:17:08,200
+Massin, le nom de votre père,
+était le mot de passe.
+
+193
+00:17:08,325 --> 00:17:10,612
+Traverser la Porte
+a dû couper le lien.
+
+194
+00:17:14,045 --> 00:17:15,743
+<i>Partisans de l'Alliance lucienne,</i>
+
+195
+00:17:15,965 --> 00:17:18,175
+<i>vous êtes cernés et isolés.</i>
+
+196
+00:17:18,425 --> 00:17:21,164
+<i>Sachez que les informations
+du colonel Telford</i>
+
+197
+00:17:21,495 --> 00:17:22,848
+<i>sont désuètes.</i>
+
+198
+00:17:22,973 --> 00:17:25,752
+<i>Laissez vos armes devant les portes</i>
+
+199
+00:17:25,920 --> 00:17:29,870
+<i>et reculez vers le centre de la salle
+avec vos mains sur la tête,</i>
+
+200
+00:17:30,135 --> 00:17:32,965
+<i>ou nous évacuons l'air de la pièce.</i>
+
+201
+00:17:33,305 --> 00:17:34,558
+C'est possible ?
+
+202
+00:17:36,289 --> 00:17:37,889
+Ils auraient dû.
+
+203
+00:17:59,414 --> 00:18:01,037
+Ils manigancent quelque chose.
+
+204
+00:18:01,955 --> 00:18:02,914
+J'écoute.
+
+205
+00:18:03,685 --> 00:18:05,792
+Ils peuvent ouvrir les portes !
+
+206
+00:18:06,155 --> 00:18:09,505
+- Évacuez l'air de la salle, allez-y.
+- C'est trop tard.
+
+207
+00:18:14,693 --> 00:18:15,593
+À l'abri !
+
+208
+00:18:19,807 --> 00:18:20,807
+Reculez !
+
+209
+00:18:26,640 --> 00:18:27,640
+Allez !
+
+210
+00:18:27,765 --> 00:18:28,765
+Retraite !
+
+211
+00:18:36,657 --> 00:18:38,400
+Rush, vous devriez rester ici.
+
+212
+00:18:38,568 --> 00:18:40,168
+Non, on est attaqués !
+
+213
+00:19:03,655 --> 00:19:04,718
+Il faut partir.
+
+214
+00:19:04,886 --> 00:19:06,269
+- Attends.
+- On y va.
+
+215
+00:19:06,437 --> 00:19:07,475
+Maintenant !
+
+216
+00:19:18,461 --> 00:19:20,005
+Il y a un ascenseur par là.
+
+217
+00:19:33,065 --> 00:19:34,065
+Mon Dieu...
+
+218
+00:19:36,592 --> 00:19:37,592
+Allez !
+
+219
+00:19:57,425 --> 00:19:58,320
+Attendez !
+
+220
+00:20:10,045 --> 00:20:11,295
+<i>De rien.</i>
+
+221
+00:20:12,670 --> 00:20:14,087
+Vous attendez quoi ?
+
+222
+00:20:18,495 --> 00:20:19,845
+Tu es touchée.
+
+223
+00:20:20,581 --> 00:20:21,511
+Désolé.
+
+224
+00:20:25,430 --> 00:20:26,616
+Tu vois, ça va.
+
+225
+00:20:27,365 --> 00:20:28,865
+Tu t'en sortiras.
+
+226
+00:20:42,515 --> 00:20:43,449
+Ça va aller.
+
+227
+00:20:44,325 --> 00:20:45,326
+Ça va aller.
+
+228
+00:21:11,973 --> 00:21:14,090
+Je reviens.
+D'accord ?
+
+229
+00:21:32,583 --> 00:21:33,583
+Par ici.
+
+230
+00:21:42,465 --> 00:21:43,665
+Colonel Young ?
+
+231
+00:21:45,455 --> 00:21:46,555
+Qui êtes-vous ?
+
+232
+00:21:47,795 --> 00:21:50,058
+<i>Commandeur Kiva
+de l'Alliance lucienne.</i>
+
+233
+00:21:51,977 --> 00:21:55,063
+Nous n'allons pas obtempérer
+à votre demande de reddition.
+
+234
+00:22:04,965 --> 00:22:07,742
+<i>On a pu sauter en hyperespace,
+mais c'était juste.</i>
+
+235
+00:22:08,655 --> 00:22:10,078
+Des pertes ?
+
+236
+00:22:10,907 --> 00:22:14,832
+Deux de mes 302 n'ont pas pu revenir,
+et Rush, s'il était toujours là-bas...
+
+237
+00:22:15,595 --> 00:22:16,845
+Désolé, Sam.
+
+238
+00:22:18,681 --> 00:22:20,505
+<i>Ils ont atteint le </i>Destiny<i> ?</i>
+
+239
+00:22:21,095 --> 00:22:22,395
+On sait pas.
+
+240
+00:22:33,625 --> 00:22:34,644
+C'est du beau.
+
+241
+00:22:37,105 --> 00:22:39,775
+Pourquoi ne pas avoir évacué l'air ?
+
+242
+00:22:40,158 --> 00:22:43,486
+- C'était le plan.
+- Il voulait vous sauver.
+
+243
+00:22:43,654 --> 00:22:44,654
+Pas moi.
+
+244
+00:22:45,672 --> 00:22:48,366
+La connexion a été coupée
+quand j'ai passé la Porte.
+
+245
+00:22:52,815 --> 00:22:54,665
+Détaillez-moi la situation.
+
+246
+00:22:56,195 --> 00:22:57,375
+La salle de la Porte.
+
+247
+00:22:57,543 --> 00:22:59,335
+Ils occupent aussi
+les couloirs autour.
+
+248
+00:23:00,165 --> 00:23:02,100
+Ils ont été plus loin,
+puis sont revenus.
+
+249
+00:23:02,225 --> 00:23:04,780
+Ils adaptent leur territoire
+à leur nombre. Intelligent.
+
+250
+00:23:04,905 --> 00:23:07,355
+Une fois partis,
+je leur ai bloqué l'accès.
+
+251
+00:23:07,965 --> 00:23:10,360
+Ça ne les arrêtera pas,
+vu leur technologie,
+
+252
+00:23:10,485 --> 00:23:12,056
+mais on gagne du temps.
+
+253
+00:23:12,835 --> 00:23:14,767
+Les prisonniers sont détenus là.
+
+254
+00:23:14,935 --> 00:23:17,150
+Minimum 10 mètres de couloir
+pour les atteindre.
+
+255
+00:23:17,275 --> 00:23:20,625
+À la seconde où on attaque,
+les otages sont comme morts.
+
+256
+00:23:25,805 --> 00:23:27,363
+J'ai recensé nos hommes.
+
+257
+00:23:27,978 --> 00:23:30,616
+12 personnes manquent,
+sans doute capturées,
+
+258
+00:23:30,784 --> 00:23:33,205
+parmi lesquelles Riley, TJ,
+
+259
+00:23:33,412 --> 00:23:34,985
+Eli et Chloe.
+
+260
+00:23:37,325 --> 00:23:38,435
+Allez !
+
+261
+00:23:45,916 --> 00:23:46,966
+Où on est ?
+
+262
+00:23:47,852 --> 00:23:49,052
+Tu as été touchée.
+
+263
+00:23:50,125 --> 00:23:52,889
+J'ai arrêté le saignement.
+Tu vas bien. Regarde-moi.
+
+264
+00:23:53,057 --> 00:23:54,707
+Regarde-moi, dans les yeux.
+
+265
+00:23:59,335 --> 00:24:00,807
+Où on est ?
+
+266
+00:24:03,249 --> 00:24:04,394
+Je sais pas.
+
+267
+00:24:04,519 --> 00:24:07,487
+J'ai jamais été
+dans cette partie du vaisseau avant.
+
+268
+00:24:07,655 --> 00:24:08,955
+C'est inexploré.
+
+269
+00:24:10,465 --> 00:24:12,495
+J'ai appuyé au pif.
+
+270
+00:24:13,035 --> 00:24:14,535
+On peut pas revenir.
+
+271
+00:24:14,660 --> 00:24:16,605
+Ils ont dû bloquer
+l'accès aux ascenseurs.
+
+272
+00:24:16,730 --> 00:24:17,580
+Qui ça ?
+
+273
+00:24:21,377 --> 00:24:22,915
+C'est bien là le problème.
+
+274
+00:24:27,905 --> 00:24:29,855
+Il me faut juste une fenêtre.
+
+275
+00:24:30,619 --> 00:24:31,844
+Pour savoir où on est.
+
+276
+00:24:32,425 --> 00:24:34,722
+Qu'on puisse faire demi-tour.
+
+277
+00:24:38,477 --> 00:24:40,460
+Je te tiens.
+Allez.
+
+278
+00:24:40,585 --> 00:24:41,735
+Viens par là.
+
+279
+00:24:42,222 --> 00:24:43,022
+Prête ?
+
+280
+00:24:43,190 --> 00:24:44,990
+On y va.
+Un, deux, trois.
+
+281
+00:24:48,435 --> 00:24:49,645
+Appuie-toi sur moi.
+
+282
+00:24:49,805 --> 00:24:50,905
+Je te tiens.
+
+283
+00:24:51,185 --> 00:24:52,185
+Prête ?
+
+284
+00:24:53,165 --> 00:24:54,215
+Voilà.
+
+285
+00:24:56,525 --> 00:24:57,775
+Colonel Young ?
+
+286
+00:24:58,564 --> 00:24:59,564
+J'écoute.
+
+287
+00:24:59,765 --> 00:25:01,865
+<i>Je vais vous exposer
+ma vision des choses.</i>
+
+288
+00:25:02,845 --> 00:25:05,419
+Nous avons la salle de la Porte
+et vos prisonniers.
+
+289
+00:25:05,935 --> 00:25:07,964
+Vous avez la salle de contrôle,
+qui, je crois,
+
+290
+00:25:08,694 --> 00:25:10,091
+est le cerveau du vaisseau.
+
+291
+00:25:10,259 --> 00:25:11,460
+<i>Que voulez-vous ?</i>
+
+292
+00:25:11,585 --> 00:25:14,235
+On est ici pour les mêmes raisons.
+
+293
+00:25:15,195 --> 00:25:16,639
+On ne veut blesser personne.
+
+294
+00:25:17,115 --> 00:25:18,808
+<i>Vous pouvez rester à bord du </i>Destiny
+
+295
+00:25:18,976 --> 00:25:21,415
+<i>pour partager avec nous
+le potentiel de ses découvertes.</i>
+
+296
+00:25:21,825 --> 00:25:24,125
+<i>Baissez vos armes et rejoignez-nous.</i>
+
+297
+00:25:24,515 --> 00:25:28,515
+Ou, si vous préférez, on vous dépose
+sur la prochaine planète habitable.
+
+298
+00:25:28,765 --> 00:25:31,863
+Ou je peux évacuer l'air
+de l'endroit où vous êtes
+
+299
+00:25:32,185 --> 00:25:33,785
+<i>et garder le vaisseau.</i>
+
+300
+00:25:35,475 --> 00:25:37,785
+Si vous en étiez capable,
+vous l'auriez déjà fait.
+
+301
+00:25:37,953 --> 00:25:41,372
+Le fait est que je peux arrêter
+cette conversation à tout moment.
+
+302
+00:25:43,905 --> 00:25:45,600
+Elle voulait vous voir.
+
+303
+00:25:45,725 --> 00:25:48,925
+- Elle ne se serait pas tu, sinon.
+- Tout comme vous.
+
+304
+00:25:52,195 --> 00:25:55,887
+On en est à un point
+où attaquer ne sert plus à rien.
+
+305
+00:25:56,055 --> 00:25:58,681
+Nous devons négocier avec ces gens.
+
+306
+00:25:58,849 --> 00:26:01,809
+- Et l'idéal serait que je...
+- Oui, vous avez raison.
+
+307
+00:26:05,515 --> 00:26:06,515
+Lui.
+
+308
+00:26:06,765 --> 00:26:07,565
+Lui.
+
+309
+00:26:13,755 --> 00:26:14,755
+Et elle.
+
+310
+00:26:24,315 --> 00:26:25,665
+C'est une erreur.
+
+311
+00:26:26,555 --> 00:26:28,105
+C'est une démonstration.
+
+312
+00:26:30,805 --> 00:26:32,632
+Vous allez juste
+leur forcer la main.
+
+313
+00:26:38,698 --> 00:26:40,723
+Vous voulez le vaisseau,
+c'est bien ça ?
+
+314
+00:26:50,401 --> 00:26:52,975
+Ils ont des otages,
+mais on en a aussi.
+
+315
+00:26:53,100 --> 00:26:56,550
+Donc la première chose à faire
+est de suggérer un échange.
+
+316
+00:26:56,675 --> 00:27:00,675
+- Vous pensez que ça va marcher ?
+- Non, mais ça vaut la peine d'essayer.
+
+317
+00:27:03,525 --> 00:27:05,539
+C'est la salle de contrôle.
+
+318
+00:27:05,707 --> 00:27:07,166
+Et ici, la salle de la Porte.
+
+319
+00:27:07,334 --> 00:27:09,770
+En passant par ce mur,
+on peut les prendre à revers.
+
+320
+00:27:09,895 --> 00:27:12,340
+- Je peux mener une équipe...
+- Ça va nous affaiblir ici.
+
+321
+00:27:12,465 --> 00:27:15,800
+Si on a la salle de contrôle,
+peu importe. Le vaisseau est à nous.
+
+322
+00:27:15,968 --> 00:27:19,470
+- Ces sections sont en rouge.
+- Cette partie est endommagée.
+
+323
+00:27:19,638 --> 00:27:21,970
+Le bouclier tiendra
+le temps de notre passage.
+
+324
+00:27:22,095 --> 00:27:24,225
+De l'air risque de s'échapper,
+certes,
+
+325
+00:27:24,393 --> 00:27:27,395
+mais on pourra isoler le couloir
+quand on aura le contrôle.
+
+326
+00:27:44,455 --> 00:27:45,590
+Prenez six hommes.
+
+327
+00:27:45,715 --> 00:27:47,515
+- Il m'en faut deux fois...
+- Six.
+
+328
+00:27:49,735 --> 00:27:51,585
+Et si ça se passe mal...
+
+329
+00:27:54,365 --> 00:27:55,665
+Ces trois-là meurent.
+
+330
+00:28:00,053 --> 00:28:01,055
+Pas elle.
+
+331
+00:28:02,257 --> 00:28:04,804
+C'est un médecin.
+On peut en avoir besoin si...
+
+332
+00:28:11,726 --> 00:28:12,733
+Qui est-ce ?
+
+333
+00:28:12,858 --> 00:28:14,358
+<i>Mon nom est Camile Wray.</i>
+
+334
+00:28:14,526 --> 00:28:17,728
+Je représente l'autorité civile
+sur ce vaisseau.
+
+335
+00:28:18,542 --> 00:28:21,324
+J'aimerais agir comme intermédiaire
+
+336
+00:28:21,492 --> 00:28:24,327
+<i>pour trouver une solution
+sans autre effusion de sang.</i>
+
+337
+00:28:24,495 --> 00:28:26,912
+<i>Le colonel Young
+ne vous laissera pas le contrôle</i>
+
+338
+00:28:27,080 --> 00:28:28,694
+<i>de ce vaisseau.</i>
+
+339
+00:28:28,819 --> 00:28:29,967
+Vous, oui ?
+
+340
+00:28:32,126 --> 00:28:35,135
+Je veux bien procéder
+à un échange d'otages.
+
+341
+00:28:35,516 --> 00:28:37,466
+Les vôtres contre les nôtres.
+
+342
+00:28:38,473 --> 00:28:39,839
+Si je les relâche,
+
+343
+00:28:39,964 --> 00:28:43,012
+le colonel Young n'hésitera pas
+à évacuer l'air.
+
+344
+00:28:43,692 --> 00:28:47,099
+Vous avez 12 prisonniers.
+Nous n'en avons que 4.
+
+345
+00:28:47,689 --> 00:28:48,976
+Un échange équitable,
+
+346
+00:28:49,144 --> 00:28:50,686
+quatre contre quatre.
+
+347
+00:28:50,854 --> 00:28:52,188
+<i>Vous gardez l'avantage</i>
+
+348
+00:28:52,356 --> 00:28:54,457
+<i>et retrouvez
+de la main d'oeuvre utile.</i>
+
+349
+00:28:57,916 --> 00:28:59,779
+Young est d'accord avec ça ?
+
+350
+00:29:00,815 --> 00:29:02,023
+Dans notre société,
+
+351
+00:29:02,191 --> 00:29:04,992
+l'armée reçoit ses ordres
+des dirigeants civils.
+
+352
+00:29:14,395 --> 00:29:15,669
+Je vais y réfléchir.
+
+353
+00:29:16,408 --> 00:29:17,439
+Bien joué.
+
+354
+00:29:18,632 --> 00:29:20,257
+Ça nous donne du temps.
+
+355
+00:29:21,341 --> 00:29:24,715
+Vous essayez de sauver des vies.
+Bien sûr, c'est une bonne chose.
+
+356
+00:29:25,230 --> 00:29:28,015
+Mais même si elle accepte,
+ce dont je doute,
+
+357
+00:29:28,183 --> 00:29:29,623
+elle n'ira pas plus loin.
+
+358
+00:29:29,748 --> 00:29:32,686
+Une fois qu'on aura atteint
+le nombre de pertes acceptables...
+
+359
+00:29:32,854 --> 00:29:34,271
+Il n'y en a pas...
+
+360
+00:29:34,439 --> 00:29:37,233
+Le colonel Young sait déjà
+quel est ce nombre.
+
+361
+00:29:37,401 --> 00:29:39,527
+Il sait que nos chances,
+sans sacrifier personne,
+
+362
+00:29:39,695 --> 00:29:40,923
+sont quasi nulles.
+
+363
+00:29:41,048 --> 00:29:43,376
+Limitez au mieux les pertes,
+
+364
+00:29:43,501 --> 00:29:45,032
+mais à la fin, on devra agir.
+
+365
+00:29:45,200 --> 00:29:48,619
+- Vous en savez rien.
+- J'ai été une perte acceptable...
+
+366
+00:29:48,787 --> 00:29:51,664
+- Vous connaissiez les risques...
+- Il fallait me déconnecter !
+
+367
+00:29:51,832 --> 00:29:53,249
+Vous comprenez pas !
+
+368
+00:29:53,417 --> 00:29:55,477
+Arrêtez, s'il vous plaît !
+
+369
+00:29:56,824 --> 00:29:58,129
+Je vais sauver
+
+370
+00:29:58,471 --> 00:30:00,214
+chacun de ces otages,
+
+371
+00:30:00,382 --> 00:30:02,299
+et je vais reprendre le contrôle.
+
+372
+00:30:02,424 --> 00:30:03,717
+Vous m'entendez ?
+
+373
+00:30:05,515 --> 00:30:08,431
+Telford l'a convaincue
+qu'il est avec eux,
+
+374
+00:30:08,599 --> 00:30:10,048
+sinon il serait déjà mort.
+
+375
+00:30:10,255 --> 00:30:12,885
+Tôt ou tard, il nous fera signe.
+
+376
+00:30:16,876 --> 00:30:18,301
+Nous jouons...
+
+377
+00:30:19,020 --> 00:30:20,109
+ce vaisseau
+
+378
+00:30:20,277 --> 00:30:21,902
+et nos vies à tous
+
+379
+00:30:22,070 --> 00:30:23,920
+dans l'espoir qu'un traître
+
+380
+00:30:24,349 --> 00:30:26,049
+se soit fait une raison.
+
+381
+00:30:36,373 --> 00:30:37,587
+Regarde.
+
+382
+00:30:48,158 --> 00:30:51,150
+J'imagine que ces ascenseurs
+font plus que monter et descendre.
+
+383
+00:30:55,819 --> 00:30:56,866
+Voilà.
+
+384
+00:30:57,662 --> 00:30:58,726
+Ça va ?
+
+385
+00:31:03,207 --> 00:31:05,883
+J'ai dû toucher des boutons
+qu'il ne fallait pas toucher.
+
+386
+00:31:10,755 --> 00:31:12,635
+L'air se raréfie ?
+
+387
+00:31:13,186 --> 00:31:15,789
+Les systèmes de survie
+marchent pas ici.
+
+388
+00:31:16,520 --> 00:31:17,765
+Comment tu le sais ?
+
+389
+00:31:18,431 --> 00:31:20,243
+C'est moi qui les ai éteints.
+
+390
+00:31:21,488 --> 00:31:22,888
+Sur ordre de Rush.
+
+391
+00:31:23,772 --> 00:31:24,924
+Il y a de l'air.
+
+392
+00:31:25,434 --> 00:31:27,593
+Mais il est pas renouvelé.
+
+393
+00:31:28,743 --> 00:31:30,137
+Il faut bouger.
+
+394
+00:31:34,320 --> 00:31:35,949
+Je sais pas si je peux.
+
+395
+00:31:44,578 --> 00:31:45,592
+C'est bon.
+
+396
+00:31:47,291 --> 00:31:48,338
+Je te tiens.
+
+397
+00:31:54,839 --> 00:31:56,618
+Voici mon lieutenant, Varro.
+
+398
+00:31:58,240 --> 00:31:59,240
+Sauvez-le.
+
+399
+00:32:08,171 --> 00:32:09,584
+Il est gravement blessé.
+
+400
+00:32:12,305 --> 00:32:14,175
+Au moindre problème...
+
+401
+00:32:15,145 --> 00:32:16,595
+Je vous déconnecte.
+
+402
+00:32:27,345 --> 00:32:29,545
+Je dois parler au général O'Neill.
+
+403
+00:32:30,395 --> 00:32:32,815
+Ce qui est fait est fait.
+
+404
+00:32:33,916 --> 00:32:35,327
+Je suis pas là-bas.
+
+405
+00:32:35,645 --> 00:32:38,122
+Mais je me demande
+si je devrais pas.
+
+406
+00:32:38,290 --> 00:32:39,915
+C'est à vous d'en juger.
+
+407
+00:32:40,083 --> 00:32:42,186
+Ça devrait être fini.
+Terminé.
+
+408
+00:32:43,170 --> 00:32:46,505
+J'ai cru qu'évacuer l'air
+de la salle de la Porte
+
+409
+00:32:46,673 --> 00:32:48,924
+tuerait le Dr Rush
+et le colonel Telford.
+
+410
+00:32:49,525 --> 00:32:50,843
+Ils méritaient une...
+
+411
+00:32:51,011 --> 00:32:54,555
+On a perdu deux pilotes de 302
+envoyés pour stopper l'attaque.
+
+412
+00:32:54,723 --> 00:32:55,523
+Désolé.
+
+413
+00:32:55,648 --> 00:32:58,391
+Carter aurait perdu son vaisseau
+si elle les sauvait.
+
+414
+00:32:58,516 --> 00:33:00,316
+C'était la bonne décision.
+
+415
+00:33:07,859 --> 00:33:09,528
+Êtes-vous la bonne personne ?
+
+416
+00:33:12,282 --> 00:33:14,382
+Sinon quelqu'un vous remplacera.
+
+417
+00:33:14,993 --> 00:33:17,313
+Je laisserai personne
+prendre ce vaisseau.
+
+418
+00:33:17,438 --> 00:33:19,250
+Retournez là-bas, alors.
+
+419
+00:33:41,603 --> 00:33:42,769
+C'est bon.
+
+420
+00:34:07,921 --> 00:34:09,588
+Vous faites quoi ?
+
+421
+00:34:11,035 --> 00:34:14,009
+Je vérifie qu'on prend
+la bonne direction.
+
+422
+00:34:19,760 --> 00:34:20,760
+Par là.
+
+423
+00:34:26,829 --> 00:34:28,258
+Aucun compte à rebours.
+
+424
+00:34:29,651 --> 00:34:30,651
+Quoi ?
+
+425
+00:34:30,891 --> 00:34:33,019
+On est sorti d'hyperespace
+à l'activation.
+
+426
+00:34:33,144 --> 00:34:34,925
+Pourquoi ne pas y être retourné ?
+
+427
+00:34:35,652 --> 00:34:38,575
+Quelqu'un vient d'activer une console
+dans un couloir sécurisé.
+
+428
+00:34:45,375 --> 00:34:47,486
+Telford a activé une console
+avec son code.
+
+429
+00:34:47,611 --> 00:34:49,685
+<i>Tout un groupe se dirige vers nous.</i>
+
+430
+00:34:49,810 --> 00:34:51,110
+C'est le signal.
+
+431
+00:34:55,502 --> 00:34:57,424
+- J'ai froid.
+- Vraiment ?
+
+432
+00:35:05,901 --> 00:35:07,197
+Ça va ?
+
+433
+00:35:13,086 --> 00:35:15,612
+On doit être prudents
+en nous déplaçant.
+
+434
+00:35:16,148 --> 00:35:17,906
+C'est pas inexploré pour rien.
+
+435
+00:35:18,925 --> 00:35:22,085
+Plusieurs sections
+sont dépressurisées.
+
+436
+00:35:24,181 --> 00:35:25,331
+Accroche-toi.
+
+437
+00:35:28,309 --> 00:35:29,209
+Prête ?
+
+438
+00:35:45,268 --> 00:35:46,895
+Toujours plus noir et lugubre.
+
+439
+00:35:47,471 --> 00:35:48,471
+C'est bon.
+
+440
+00:35:52,177 --> 00:35:53,208
+Je te tiens.
+
+441
+00:35:56,336 --> 00:35:57,926
+- Ça va aller ?
+- C'est bon.
+
+442
+00:35:58,051 --> 00:35:58,947
+Sûre ?
+
+443
+00:36:13,056 --> 00:36:13,965
+En position.
+
+444
+00:36:14,142 --> 00:36:15,297
+Parés à agir.
+
+445
+00:36:16,747 --> 00:36:17,549
+Prêts.
+
+446
+00:36:18,234 --> 00:36:19,806
+Donnez le signal.
+
+447
+00:36:21,468 --> 00:36:23,388
+- C'est fermé.
+- Je m'en charge.
+
+448
+00:36:38,620 --> 00:36:39,863
+Soyez prêts.
+
+449
+00:37:10,659 --> 00:37:11,855
+C'était quoi ?
+
+450
+00:37:32,468 --> 00:37:33,485
+Prêts.
+
+451
+00:37:40,778 --> 00:37:41,941
+C'était quoi ?
+
+452
+00:37:42,886 --> 00:37:44,136
+Vous avez fait ça ?
+
+453
+00:37:44,304 --> 00:37:45,554
+C'est quoi ça ?
+
+454
+00:37:46,171 --> 00:37:48,144
+Il y avait un homme à l'instant.
+
+455
+00:37:48,930 --> 00:37:50,893
+Ne faites rien
+tant qu'on trouve pas.
+
+456
+00:37:55,398 --> 00:37:57,975
+<i>Ici Young. Arrêtez.</i>
+
+457
+00:38:04,229 --> 00:38:05,365
+Passez une radio.
+
+458
+00:38:05,745 --> 00:38:06,749
+Une radio.
+
+459
+00:38:10,425 --> 00:38:12,331
+Trois clics, sur le canal six.
+
+460
+00:38:12,499 --> 00:38:14,499
+On va devoir réessayer.
+
+461
+00:38:30,142 --> 00:38:32,294
+- Faisons une pause.
+- Ça va.
+
+462
+00:38:32,664 --> 00:38:34,878
+- Eli, tu ne vas...
+- Sérieusement.
+
+463
+00:38:35,622 --> 00:38:36,859
+C'est rien.
+
+464
+00:38:39,418 --> 00:38:42,490
+J'ai déjà escaladé le Mont Redridge
+
+465
+00:38:42,938 --> 00:38:46,492
+sur la route de Stonard
+avec un sac rempli.
+
+466
+00:38:46,617 --> 00:38:47,449
+Où ça ?
+
+467
+00:38:50,940 --> 00:38:52,403
+Dans <i>World of Warcraft.</i>
+
+468
+00:38:55,066 --> 00:38:58,130
+Tu as dû être envahi
+par un sentiment d'héroïsme.
+
+469
+00:39:01,361 --> 00:39:02,591
+Petite pause.
+
+470
+00:39:16,573 --> 00:39:18,105
+À ton avis, il se passe quoi ?
+
+471
+00:39:19,181 --> 00:39:20,857
+On a dû gagner, maintenant.
+
+472
+00:39:21,025 --> 00:39:22,025
+Tu crois ?
+
+473
+00:39:26,492 --> 00:39:28,991
+Alors, pourquoi personne
+n'est venu nous sauver ?
+
+474
+00:39:33,307 --> 00:39:34,307
+D'abord,
+
+475
+00:39:34,432 --> 00:39:36,581
+il faut trouver quoi faire
+des prisonniers.
+
+476
+00:39:37,582 --> 00:39:38,583
+Et puis,
+
+477
+00:39:39,165 --> 00:39:41,857
+il y a le banquet de la victoire,
+
+478
+00:39:41,982 --> 00:39:43,338
+des banderoles partout.
+
+479
+00:39:43,506 --> 00:39:44,756
+Je suis crevée.
+
+480
+00:39:49,391 --> 00:39:51,033
+Tu perds encore du sang.
+
+481
+00:39:52,129 --> 00:39:54,256
+J'ai pas complètement arrêté
+l'hémorragie.
+
+482
+00:40:00,735 --> 00:40:02,614
+Je vais m'occuper de toi.
+
+483
+00:40:14,454 --> 00:40:15,633
+C'était pas eux.
+
+484
+00:40:15,935 --> 00:40:18,290
+J'ignore ce qui est arrivé,
+mais c'était pas eux.
+
+485
+00:40:18,636 --> 00:40:20,667
+Ils n'ont rien capable de faire ça.
+
+486
+00:40:20,835 --> 00:40:23,177
+Vous me dites
+qu'ils y sont pour rien ?
+
+487
+00:40:24,652 --> 00:40:25,672
+Quoi ?
+
+488
+00:40:27,717 --> 00:40:30,010
+Surcharge d'énergie.
+Les systèmes ont sauté.
+
+489
+00:40:30,178 --> 00:40:32,512
+Tous, des lumières
+au système de survie.
+
+490
+00:40:32,637 --> 00:40:33,805
+Comment ?
+
+491
+00:40:34,295 --> 00:40:35,335
+C'est pas eux.
+
+492
+00:40:35,519 --> 00:40:38,351
+- Qui c'est, alors ?
+- J'essaie de trouver.
+
+493
+00:40:38,519 --> 00:40:41,438
+- Ils bougent.
+- Ce serait pas si évident.
+
+494
+00:40:43,125 --> 00:40:45,108
+<i>Pourriez-vous me dire
+ce qui se passe ?</i>
+
+495
+00:40:45,276 --> 00:40:46,526
+On ne sait pas.
+
+496
+00:40:47,278 --> 00:40:49,279
+Un de mes hommes est mort.
+
+497
+00:40:49,949 --> 00:40:52,994
+Sachez qu'on y est pour rien.
+
+498
+00:40:53,119 --> 00:40:54,451
+<i>C'est ce qu'on me dit.</i>
+
+499
+00:40:58,045 --> 00:41:00,499
+Je vais vous demander
+un signe de bonne foi.
+
+500
+00:41:00,984 --> 00:41:02,230
+<i>Que voulez-vous ?</i>
+
+501
+00:41:22,398 --> 00:41:23,428
+Ça va ?
+
+502
+00:41:25,107 --> 00:41:26,120
+Je vais bien.
+
+503
+00:41:26,859 --> 00:41:28,047
+Nous allons bien.
+
+504
+00:41:31,075 --> 00:41:32,734
+Que veulent-ils ?
+
+505
+00:41:32,859 --> 00:41:35,115
+<i>Certains d'entre eux
+sont gravement blessés.</i>
+
+506
+00:41:35,749 --> 00:41:38,370
+J'ai besoin de matériel médical
+pour les aider.
+
+507
+00:41:46,838 --> 00:41:47,955
+Ça sert à quoi ?
+
+508
+00:41:48,080 --> 00:41:50,758
+Un signe de bonne volonté
+n'a pas forcément de but.
+
+509
+00:41:50,883 --> 00:41:52,427
+Bien sûr que si !
+
+510
+00:41:52,597 --> 00:41:55,450
+Ils manquent de matériel médical.
+Qui sait ce qui viendra après ?
+
+511
+00:41:55,575 --> 00:41:56,950
+À manger ? À boire ?
+
+512
+00:41:57,075 --> 00:41:58,872
+Ils vont désespérer, continuer,
+
+513
+00:41:58,997 --> 00:42:00,851
+et ils s'en prendront aux otages.
+
+514
+00:42:02,356 --> 00:42:04,521
+Si on attend, c'est la seule issue.
+
+515
+00:42:04,689 --> 00:42:05,772
+Vous croyez ?
+
+516
+00:42:05,940 --> 00:42:08,150
+On ignore ce qui se passe
+sur ce vaisseau !
+
+517
+00:42:08,318 --> 00:42:09,776
+On a des raisons d'agir.
+
+518
+00:42:12,864 --> 00:42:14,012
+Rush a raison.
+
+519
+00:42:14,595 --> 00:42:17,701
+Il faut prendre le dessus,
+et il faut le faire maintenant.
+

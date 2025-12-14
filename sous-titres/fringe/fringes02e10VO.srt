@@ -1,0 +1,2940 @@
+1
+00:00:00,417 --> 00:00:02,067
+<i>Previously on Fringe...</i>
+
+2
+00:00:02,259 --> 00:00:04,295
+A storm is coming,
+and when it is over,
+
+3
+00:00:04,463 --> 00:00:06,489
+I fear there will be
+little left of our world.
+
+4
+00:00:07,486 --> 00:00:09,037
+They are looking for someone,
+
+5
+00:00:09,162 --> 00:00:11,719
+someone to open the door
+between universes.
+
+6
+00:00:12,012 --> 00:00:13,674
+Laston-Hennings Cryonics was hit.
+
+7
+00:00:13,847 --> 00:00:16,062
+They took everything.
+All the cryo-capsules are gone.
+
+8
+00:00:16,187 --> 00:00:17,810
+They found who they were looking for.
+
+9
+00:00:17,935 --> 00:00:20,895
+Remember this symbol.
+It's hidden on their leader.
+
+10
+00:00:21,064 --> 00:00:23,522
+That's how you'll know him.
+And if they find him,
+
+11
+00:00:23,690 --> 00:00:27,692
+there will be no stopping them,
+and that is why you must find him first.
+
+12
+00:00:37,708 --> 00:00:39,675
+A girl in a red dress...
+
+13
+00:00:41,785 --> 00:00:43,186
+flowers in her hair.
+
+14
+00:00:44,623 --> 00:00:45,916
+What kind of flowers?
+
+15
+00:00:48,086 --> 00:00:49,236
+I'm not sure.
+
+16
+00:00:49,876 --> 00:00:51,348
+Thank you, Mr. Slater.
+
+17
+00:00:51,726 --> 00:00:52,907
+It will come.
+
+18
+00:00:59,246 --> 00:01:00,246
+Heather...
+
+19
+00:01:01,525 --> 00:01:03,813
+The flowers in her hair.
+
+20
+00:01:07,440 --> 00:01:09,568
+The flowers in her hair are Heather.
+
+21
+00:01:10,590 --> 00:01:12,112
+I think so. Yes.
+
+22
+00:01:15,687 --> 00:01:16,714
+Container.
+
+23
+00:01:18,339 --> 00:01:20,201
+Now hold very still.
+
+24
+00:01:21,951 --> 00:01:23,937
+I assure you there will be no pain.
+
+25
+00:01:36,329 --> 00:01:37,542
+Let's close him up.
+
+26
+00:01:40,981 --> 00:01:41,884
+Hold on.
+
+27
+00:01:48,536 --> 00:01:49,650
+We've got activity.
+
+28
+00:02:03,290 --> 00:02:04,498
+Code gray, corridor B.
+
+29
+00:02:09,518 --> 00:02:11,319
+We have two minutes, maybe three.
+
+30
+00:02:12,793 --> 00:02:13,978
+My sincere apologies.
+
+31
+00:02:14,103 --> 00:02:16,208
+I'd rather not leave you
+in such a state.
+
+32
+00:02:36,139 --> 00:02:37,477
+Mr. Slater?
+
+33
+00:02:44,900 --> 00:02:45,802
+Help me.
+
+34
+00:02:50,658 --> 00:02:52,838
+<i>_.•´¯¯LIAISON¯¯`•._
+¯`•.__Team__.•´¯</i>
+
+35
+00:02:56,013 --> 00:02:59,694
+<i>Retrouvez-nous chaque semaine...</i>
+
+36
+00:03:00,298 --> 00:03:03,683
+<i>pour découvrir les énigmes de</i>
+
+37
+00:03:03,808 --> 00:03:06,446
+<i>Saison 2 Épisode 10
+- Grey Matters -</i>
+
+38
+00:03:06,571 --> 00:03:07,770
+<i>Bon épisode...</i>
+
+39
+00:03:11,125 --> 00:03:13,248
+Special agent Olivia Dunham
+with the FBI.
+
+40
+00:03:13,373 --> 00:03:16,534
+These two men are consultants...
+Peter Bishop and Dr. Walter Bishop.
+
+41
+00:03:16,659 --> 00:03:18,469
+We're here to investigate
+the break-in.
+
+42
+00:03:21,091 --> 00:03:22,409
+And you're Dr. Bishop?
+
+43
+00:03:24,590 --> 00:03:26,372
+And I'm perfectly sane.
+
+44
+00:03:33,468 --> 00:03:36,793
+Joseph Slater has been a patient here
+for the last 14 years.
+
+45
+00:03:36,918 --> 00:03:39,885
+When he was admitted, he was diagnosed
+with acute paranoid schizophrenia.
+
+46
+00:03:40,053 --> 00:03:42,126
+His file said that
+he suffered from delusions,
+
+47
+00:03:42,251 --> 00:03:44,265
+false memories,
+severe emotional swings.
+
+48
+00:03:44,433 --> 00:03:47,434
+Every symptom of the condition,
+he exhibited each one.
+
+49
+00:03:47,602 --> 00:03:49,520
+- Until last night.
+- That's right.
+
+50
+00:03:49,918 --> 00:03:52,769
+And within an hour, after discovering
+what had been done to Mr. Slater,
+
+51
+00:03:52,894 --> 00:03:55,234
+the change in his behavior
+is nothing short of remarkable.
+
+52
+00:03:55,402 --> 00:03:57,736
+So basically, two guys broke in,
+
+53
+00:03:57,861 --> 00:04:00,281
+cut a big hole in his head
+and did what, drove him sane?
+
+54
+00:04:00,449 --> 00:04:02,610
+As unlikely as it sounds, yes.
+
+55
+00:04:02,735 --> 00:04:06,161
+And just as strange, we can't find
+evidence that they did anything to him.
+
+56
+00:04:06,708 --> 00:04:09,269
+Mr. Slater's brain
+is structurally intact.
+
+57
+00:04:09,662 --> 00:04:11,667
+We ran blood tests, tox screens...
+
+58
+00:04:11,835 --> 00:04:13,301
+nothing came back unusual.
+
+59
+00:04:13,426 --> 00:04:15,045
+We'll need to see
+his medical reports.
+
+60
+00:04:15,445 --> 00:04:17,675
+- And also his personal history.
+- Of course.
+
+61
+00:04:22,591 --> 00:04:24,736
+Doctor, I'd like to see the patient.
+
+62
+00:04:25,618 --> 00:04:28,156
+That's where we're going right now,
+to see Mr. Slater.
+
+63
+00:04:28,281 --> 00:04:30,936
+No, Peter, we're going to see
+a sane man.
+
+64
+00:04:31,357 --> 00:04:34,016
+I'd like to see him
+when he was a patient.
+
+65
+00:04:36,706 --> 00:04:38,129
+<i>The girl in the red dress...</i>
+
+66
+00:04:40,176 --> 00:04:42,175
+<i>chrysanthemums in her hair.</i>
+
+67
+00:04:42,699 --> 00:04:46,162
+<i>Her mother grows them in a box
+on the window sill.</i>
+
+68
+00:04:46,887 --> 00:04:48,827
+<i>And where does
+this little girl live?</i>
+
+69
+00:04:49,224 --> 00:04:50,510
+<i>Across the street.</i>
+
+70
+00:04:51,891 --> 00:04:53,512
+<i>No, Joseph, she doesn't.</i>
+
+71
+00:04:55,812 --> 00:04:56,812
+<i>She moved.</i>
+
+72
+00:04:58,103 --> 00:04:59,608
+<i>She was never there.</i>
+
+73
+00:05:00,945 --> 00:05:02,616
+<i>What did you do with her?</i>
+
+74
+00:05:02,741 --> 00:05:04,803
+<i>What did you do?
+What did you do with her?</i>
+
+75
+00:05:04,971 --> 00:05:06,813
+<i>You give her back.
+Give her back!</i>
+
+76
+00:05:06,938 --> 00:05:08,633
+<i>Bring her back!
+Bring her back!</i>
+
+77
+00:05:13,823 --> 00:05:15,751
+And you can't describe
+either of the men?
+
+78
+00:05:15,876 --> 00:05:18,391
+No. To be honest,
+I can barely remember them.
+
+79
+00:05:19,333 --> 00:05:22,487
+My first clear memory of last night,
+I was turning from my window,
+
+80
+00:05:22,612 --> 00:05:25,392
+and miss Holbrook was standing there...
+One of the nurses, she was scared.
+
+81
+00:05:25,517 --> 00:05:27,292
+And they raced me
+to the medical ward.
+
+82
+00:05:27,417 --> 00:05:30,558
+But what struck me...
+was that I felt unburdened,
+
+83
+00:05:31,759 --> 00:05:33,851
+like my mind had had
+a spring cleaning,
+
+84
+00:05:33,976 --> 00:05:35,776
+- like I was suddenly...
+- Free.
+
+85
+00:05:41,148 --> 00:05:44,575
+And I seem to remember them being...
+
+86
+00:05:45,662 --> 00:05:48,708
+pleasant, polite even...
+But beyond that, nothing. I'm sorry.
+
+87
+00:05:48,833 --> 00:05:49,807
+That's okay.
+
+88
+00:05:49,975 --> 00:05:51,100
+Anything else?
+
+89
+00:05:52,048 --> 00:05:53,068
+Not right now.
+
+90
+00:05:53,193 --> 00:05:54,077
+Thank you.
+
+91
+00:05:54,377 --> 00:05:55,593
+Okay, in that case,
+
+92
+00:05:55,935 --> 00:05:57,728
+Mr. Slater, your wife is here.
+
+93
+00:05:57,853 --> 00:06:00,070
+They tell me that she came
+to visit me twice a week.
+
+94
+00:06:00,195 --> 00:06:02,064
+I think I remember
+being horrible to her.
+
+95
+00:06:03,447 --> 00:06:04,904
+I think it'll be fine.
+
+96
+00:06:05,029 --> 00:06:06,418
+She's right outside.
+
+97
+00:06:07,223 --> 00:06:08,242
+Thank you.
+
+98
+00:06:16,469 --> 00:06:17,720
+He's a lucky man.
+
+99
+00:06:18,686 --> 00:06:21,927
+17 years that I was in St. Claire's,
+never a single visitor.
+
+100
+00:06:26,964 --> 00:06:29,884
+I wasn't trying
+to make you feel guilty, son.
+
+101
+00:06:30,009 --> 00:06:31,517
+It was just an observation.
+
+102
+00:06:37,421 --> 00:06:40,190
+Have you had any theories
+on how this man is suddenly sane?
+
+103
+00:06:41,664 --> 00:06:43,464
+Not yet, but I'm eager to.
+
+104
+00:06:44,337 --> 00:06:46,562
+A remedy for insanity,
+as you can imagine,
+
+105
+00:06:46,687 --> 00:06:48,884
+I have thought long
+and hard about it.
+
+106
+00:06:56,555 --> 00:06:57,616
+There they are.
+
+107
+00:06:59,639 --> 00:07:00,819
+You see that lock?
+
+108
+00:07:01,099 --> 00:07:02,514
+Can you zoom in right there?
+
+109
+00:07:03,105 --> 00:07:04,757
+That's a lypticro-crypto.
+
+110
+00:07:04,925 --> 00:07:08,260
+It's top of the line. And these guys
+took it down like it's a bicycle lock.
+
+111
+00:07:08,738 --> 00:07:10,888
+Whoever these guys are,
+they're either very smart,
+
+112
+00:07:11,056 --> 00:07:13,307
+very rich, or very well-connected.
+
+113
+00:07:13,475 --> 00:07:14,935
+Can you play that bit back?
+
+114
+00:07:18,813 --> 00:07:19,615
+What?
+
+115
+00:07:19,740 --> 00:07:21,695
+Freeze it right there,
+when he turns around.
+
+116
+00:07:24,110 --> 00:07:25,486
+I know that face.
+
+117
+00:07:26,164 --> 00:07:27,320
+Can I use this?
+
+118
+00:07:29,157 --> 00:07:30,822
+And some privacy, if you don't mind.
+
+119
+00:07:36,808 --> 00:07:37,817
+You know him?
+
+120
+00:07:40,620 --> 00:07:42,054
+Where do you know him from?
+
+121
+00:07:42,179 --> 00:07:44,208
+From Laston-Hennings Cryonics.
+
+122
+00:07:45,582 --> 00:07:48,801
+Are you referring to the theft
+of the frozen heads?
+
+123
+00:07:48,969 --> 00:07:51,473
+William Bell told me
+that the people from over there,
+
+124
+00:07:51,598 --> 00:07:53,806
+the people that tried to kill me,
+that killed Charlie,
+
+125
+00:07:54,415 --> 00:07:55,891
+they were looking for someone.
+
+126
+00:07:56,059 --> 00:07:57,621
+They were looking for their leader.
+
+127
+00:07:57,746 --> 00:08:00,521
+I've been combing through
+Laston-Hennings' files,
+
+128
+00:08:00,646 --> 00:08:02,773
+trying to figure out,
+of all the heads they took,
+
+129
+00:08:02,941 --> 00:08:04,747
+which was the one that they wanted?
+
+130
+00:08:06,201 --> 00:08:08,821
+I've been looking at these faces
+for the last two months.
+
+131
+00:08:08,989 --> 00:08:11,949
+Are you really trying to tell us that he
+is one of the heads that they stole?
+
+132
+00:08:13,477 --> 00:08:15,725
+Fine. Let's say for a second
+that you're right.
+
+133
+00:08:15,850 --> 00:08:18,080
+Frozen heads don't just get up
+and walk into places.
+
+134
+00:08:18,525 --> 00:08:22,209
+The dead don't rise out of their graves
+and perform midnight brain surgery.
+
+135
+00:08:22,560 --> 00:08:24,419
+No. I know they don't.
+
+136
+00:08:25,514 --> 00:08:27,778
+But this one did.
+
+137
+00:08:29,175 --> 00:08:31,885
+"Thomas Jerome Newton."
+
+138
+00:08:44,134 --> 00:08:45,977
+So what do we know about him so far?
+
+139
+00:08:46,102 --> 00:08:47,902
+Besides his name, nothing.
+
+140
+00:08:48,309 --> 00:08:51,655
+Thomas Jerome Newton was the name
+on record at Laston-Hennings Cryonics.
+
+141
+00:08:52,033 --> 00:08:54,383
+But it was an alias.
+It led nowhere.
+
+142
+00:08:54,686 --> 00:08:57,744
+William Bell told me the man
+with that marking would try to
+
+143
+00:08:58,165 --> 00:09:01,911
+open a corridor
+from our universe to the other side.
+
+144
+00:09:02,817 --> 00:09:06,003
+I managed to infer that the results
+would be less than desirable.
+
+145
+00:09:06,171 --> 00:09:08,271
+Exactly how much less desirable?
+
+146
+00:09:08,511 --> 00:09:10,061
+Global destruction...
+
+147
+00:09:10,646 --> 00:09:12,092
+biblical proportions.
+
+148
+00:09:14,359 --> 00:09:16,934
+So what's that have to do
+with sneaking into a mental hospital
+
+149
+00:09:17,059 --> 00:09:19,016
+to perform brain surgery
+on a schizophrenic?
+
+150
+00:09:19,184 --> 00:09:21,658
+You're leaving out the part
+where they apparently cured him.
+
+151
+00:09:21,783 --> 00:09:24,143
+As opening moves go,
+that one's pretty strange.
+
+152
+00:09:25,224 --> 00:09:26,690
+Where's Dr. Bishop on this?
+
+153
+00:09:26,858 --> 00:09:29,256
+He's trying to figure out
+exactly how they cured Slater.
+
+154
+00:09:29,381 --> 00:09:32,179
+If he can do that, maybe we can
+anticipate Newton's next move.
+
+155
+00:09:32,304 --> 00:09:33,607
+There's no maybe.
+
+156
+00:09:33,732 --> 00:09:36,444
+I don't know what Newton's up to
+but I know what I have to do.
+
+157
+00:09:36,618 --> 00:09:38,068
+I have to stop him.
+
+158
+00:09:38,759 --> 00:09:40,625
+Mr. Slater's referring doctor
+
+159
+00:09:40,750 --> 00:09:43,482
+was a psychiatrist
+called Simon Paris.
+
+160
+00:09:44,782 --> 00:09:48,032
+Let's see if you could locate
+Dr. Paris, please, dear.
+
+161
+00:09:48,473 --> 00:09:50,088
+I have some questions about
+
+162
+00:09:50,256 --> 00:09:53,664
+Mr. Slater's medical history
+before his admission to Hennington.
+
+163
+00:09:53,789 --> 00:09:56,043
+Sure. Why, what are you looking for?
+
+164
+00:09:56,221 --> 00:09:57,221
+Not sure.
+
+165
+00:09:57,902 --> 00:10:00,474
+Something that would induce
+the delusional thinking.
+
+166
+00:10:00,847 --> 00:10:01,897
+Some thing?
+
+167
+00:10:02,243 --> 00:10:03,793
+Something or someone.
+
+168
+00:10:04,865 --> 00:10:08,477
+You mean you think that someone
+made him crazy on purpose?
+
+169
+00:10:08,874 --> 00:10:10,074
+It's a theory.
+
+170
+00:10:12,027 --> 00:10:15,689
+The truth is there is no cure
+for madness. It's a fantasy.
+
+171
+00:10:16,996 --> 00:10:19,596
+The road back from madness
+is a struggle.
+
+172
+00:10:20,714 --> 00:10:22,403
+Only the luckiest of people
+
+173
+00:10:22,528 --> 00:10:25,415
+find their way, more or less,
+back to the world
+
+174
+00:10:25,583 --> 00:10:26,583
+you live in.
+
+175
+00:10:26,997 --> 00:10:29,858
+And from what we saw of Mr. Slater,
+
+176
+00:10:30,815 --> 00:10:34,675
+well, my only supposition
+is that he wasn't mad to begin with.
+
+177
+00:10:35,209 --> 00:10:38,303
+There is no Simon Paris
+in the AMA database.
+
+178
+00:10:38,471 --> 00:10:40,671
+He's not on the membership roster.
+
+179
+00:10:41,057 --> 00:10:43,222
+- Does that mean that he died?
+- It shouldn't.
+
+180
+00:10:43,347 --> 00:10:45,825
+Even if he had,
+there should still be a record.
+
+181
+00:10:47,130 --> 00:10:50,899
+Mr. Paris' RX number will be
+on Mr. Slater's initial prescription
+
+182
+00:10:51,067 --> 00:10:54,024
+when he was admitted.
+Check the pharmacy records.
+
+183
+00:10:54,269 --> 00:10:57,364
+Why would someone do that, Walter...
+make someone crazy?
+
+184
+00:10:57,532 --> 00:11:01,253
+Any number of reasons. It would make
+them insusceptible to interrogation.
+
+185
+00:11:01,378 --> 00:11:03,203
+According to this, 14 years ago,
+
+186
+00:11:03,598 --> 00:11:07,124
+Dr. Paris set up an indefinite
+prescription of medications
+
+187
+00:11:07,292 --> 00:11:08,542
+for Mr. Slater.
+
+188
+00:11:08,875 --> 00:11:10,375
+No termination date.
+
+189
+00:11:11,042 --> 00:11:13,547
+This is interesting.
+In the same week,
+
+190
+00:11:13,715 --> 00:11:16,675
+he wrote the same prescription
+for two other patients.
+
+191
+00:11:16,983 --> 00:11:18,176
+In the same week?
+
+192
+00:11:18,344 --> 00:11:19,920
+At two other hospitals.
+
+193
+00:11:20,045 --> 00:11:21,395
+I'll call Olivia.
+
+194
+00:11:24,992 --> 00:11:27,469
+And when I woke up,
+I felt like I had been
+
+195
+00:11:27,594 --> 00:11:29,594
+out drinking the night before.
+
+196
+00:11:29,719 --> 00:11:31,643
+Only the night lasted 14 years.
+
+197
+00:11:31,909 --> 00:11:34,799
+It says here that you suffered
+from a severe form of
+
+198
+00:11:34,924 --> 00:11:36,924
+obsessive-compulsive disorder.
+
+199
+00:11:37,360 --> 00:11:39,260
+"Arithmomania" they call it.
+
+200
+00:11:39,506 --> 00:11:41,456
+You're obsessed with numbers.
+
+201
+00:11:41,735 --> 00:11:43,215
+Just one, actually...
+
+202
+00:11:43,340 --> 00:11:44,340
+28.
+
+203
+00:11:45,066 --> 00:11:47,716
+I'd see it everywhere,
+hear it everywhere.
+
+204
+00:11:48,135 --> 00:11:51,128
+I could never get it out
+of my head. 28, 28.
+
+205
+00:11:52,545 --> 00:11:55,295
+Then... last tuesday morning,
+I woke up, and
+
+206
+00:11:55,420 --> 00:11:57,320
+it was gone, just like that.
+
+207
+00:11:57,531 --> 00:11:59,031
+Suddenly I was free.
+
+208
+00:11:59,511 --> 00:12:01,277
+Your doctors have no explanation?
+
+209
+00:12:01,513 --> 00:12:02,679
+Between you and me,
+
+210
+00:12:02,847 --> 00:12:05,078
+I think that's why
+they're keeping me here.
+
+211
+00:12:05,203 --> 00:12:08,010
+One of them is probably hoping
+to get a paper out of it.
+
+212
+00:12:09,441 --> 00:12:12,103
+So what does this have to do
+with the FBI?
+
+213
+00:12:12,319 --> 00:12:13,357
+We're not sure.
+
+214
+00:12:13,892 --> 00:12:15,092
+Maybe nothing.
+
+215
+00:12:15,674 --> 00:12:17,652
+Do you mind if we take
+a look at your head?
+
+216
+00:12:17,820 --> 00:12:20,113
+- My head?
+- It should only take a minute.
+
+217
+00:12:20,695 --> 00:12:23,395
+Is there somewhere
+that you could sit down?
+
+218
+00:12:29,767 --> 00:12:30,767
+Excuse me.
+
+219
+00:12:35,296 --> 00:12:37,046
+What are you looking for?
+
+220
+00:12:38,976 --> 00:12:39,976
+It's here.
+
+221
+00:12:41,361 --> 00:12:43,678
+A fresh scar,
+but there are no sutures.
+
+222
+00:12:44,133 --> 00:12:46,765
+Looks more like the burn
+from a surgical laser.
+
+223
+00:12:47,533 --> 00:12:48,934
+I don't understand.
+
+224
+00:12:49,498 --> 00:12:50,685
+What kind of scar?
+
+225
+00:12:51,110 --> 00:12:52,771
+What are you saying happened to me?
+
+226
+00:12:54,023 --> 00:12:56,113
+Did you have any visitors
+during your stay here?
+
+227
+00:12:56,238 --> 00:12:57,688
+My husband, my son.
+
+228
+00:12:58,570 --> 00:13:01,321
+What about the doctor
+who referred you... Dr. Paris?
+
+229
+00:13:01,489 --> 00:13:04,616
+Never. I only saw him a couple times
+before he sent me here.
+
+230
+00:13:04,987 --> 00:13:07,786
+But it was Dr. Paris who diagnosed
+the arithmomania, right?
+
+231
+00:13:10,176 --> 00:13:12,826
+He saw me
+for mild depression, postpartum.
+
+232
+00:13:13,168 --> 00:13:16,418
+Told me I needed to rest
+a few weeks and sent me here.
+
+233
+00:13:18,166 --> 00:13:20,882
+The arithmomania
+just started one day.
+
+234
+00:13:27,667 --> 00:13:29,561
+- How we doing?
+- It should work,
+
+235
+00:13:29,686 --> 00:13:33,395
+but we took too long getting to Slater.
+The first specimen's dying.
+
+236
+00:13:33,563 --> 00:13:36,505
+The nutrient bath won't keep it alive
+for more than another five hours,
+
+237
+00:13:36,630 --> 00:13:39,526
+- six if we're lucky.
+- Then we better get moving.
+
+238
+00:13:49,450 --> 00:13:51,400
+Third patient, Stuart Gordon.
+
+239
+00:13:53,333 --> 00:13:55,033
+Just like Mrs. Crampton.
+
+240
+00:13:55,158 --> 00:13:58,853
+14 years ago, Dr. Paris
+refers him to a mental hospital
+
+241
+00:13:58,978 --> 00:14:00,922
+with the psychiatric equivalent
+of a cough,
+
+242
+00:14:01,090 --> 00:14:03,575
+which then develops
+into full-blown schizophrenia.
+
+243
+00:14:03,700 --> 00:14:06,845
+Two days ago,
+he miraculously recovers.
+
+244
+00:14:07,150 --> 00:14:10,311
+Apparently Mr. Gordon thought
+he was the actor Sydney Greenstreet
+
+245
+00:14:10,436 --> 00:14:12,836
+and walked around
+quoting <i>Casablanca</i>.
+
+246
+00:14:15,235 --> 00:14:16,385
+That's funny.
+
+247
+00:14:17,049 --> 00:14:18,049
+What?
+
+248
+00:14:18,417 --> 00:14:20,817
+He looks a lot more
+like Peter Lorre.
+
+249
+00:14:22,888 --> 00:14:24,088
+That's a joke.
+
+250
+00:14:27,769 --> 00:14:31,210
+You know, all my life I've been able
+to understand what drives people...
+
+251
+00:14:31,335 --> 00:14:34,457
+Their emotions, like greed
+or envy or revenge. But...
+
+252
+00:14:34,582 --> 00:14:35,582
+Newton...
+
+253
+00:14:36,107 --> 00:14:38,207
+These people we're up against...
+
+254
+00:14:38,697 --> 00:14:41,247
+How can I fight
+what I can't understand?
+
+255
+00:14:42,298 --> 00:14:44,584
+I know you think
+you're alone in this.
+
+256
+00:14:44,709 --> 00:14:46,927
+Maybe that's because
+of what Bell told you.
+
+257
+00:14:47,192 --> 00:14:49,179
+Maybe that's just your personality.
+
+258
+00:14:49,347 --> 00:14:51,306
+But this isn't just your fight.
+
+259
+00:14:59,868 --> 00:15:00,941
+That was Olivia.
+
+260
+00:15:01,335 --> 00:15:05,195
+Stuart Gordon is just like the others.
+Two days ago, he woke up perfectly sane.
+
+261
+00:15:05,560 --> 00:15:08,223
+He's got a fresh scar
+on the back of his head.
+
+262
+00:15:08,348 --> 00:15:10,298
+I must have missed something.
+
+263
+00:15:10,423 --> 00:15:13,223
+When did Mr. Slater
+have an organ transplant?
+
+264
+00:15:13,667 --> 00:15:14,667
+I'm sorry?
+
+265
+00:15:14,997 --> 00:15:17,177
+One of the drugs
+that Dr. Paris prescribed
+
+266
+00:15:17,302 --> 00:15:19,270
+is sirolimus...
+It's an anti-rejection drug.
+
+267
+00:15:19,395 --> 00:15:21,519
+It's only given to
+organ-transplant patients.
+
+268
+00:15:21,644 --> 00:15:24,839
+It's absolutely useless
+for a paranoid schizophrenic.
+
+269
+00:15:25,700 --> 00:15:29,110
+It suggests that not only
+has Dr. Paris vanished,
+
+270
+00:15:29,235 --> 00:15:30,385
+he's a quack!
+
+271
+00:15:35,214 --> 00:15:36,518
+Unless he's a genius.
+
+272
+00:15:36,811 --> 00:15:37,811
+What?
+
+273
+00:15:39,869 --> 00:15:41,269
+Organ transplants.
+
+274
+00:15:42,529 --> 00:15:43,829
+The human brain.
+
+275
+00:15:45,300 --> 00:15:47,084
+Well, half of one.
+
+276
+00:15:47,669 --> 00:15:49,269
+But it's useless dead,
+
+277
+00:15:50,116 --> 00:15:52,761
+Because when you remove
+brain tissue from a living body,
+
+278
+00:15:52,886 --> 00:15:54,652
+you can keep it alive
+for a short time
+
+279
+00:15:54,777 --> 00:15:57,268
+in a nutrient suspension.
+But eventually it will die.
+
+280
+00:15:57,393 --> 00:15:59,944
+It's a problem I've tried to solve
+many times without success.
+
+281
+00:16:00,069 --> 00:16:02,795
+- Keeping a human brain alive?
+- It's very tricky.
+
+282
+00:16:02,920 --> 00:16:03,920
+You see,
+
+283
+00:16:04,088 --> 00:16:06,423
+it's not enough to simply
+give it blood and oxygen.
+
+284
+00:16:06,591 --> 00:16:10,176
+You have to give it electrical
+stimulation as well. But...
+
+285
+00:16:10,344 --> 00:16:12,596
+Dr. Paris found a solution.
+
+286
+00:16:12,764 --> 00:16:14,117
+He stored...
+
+287
+00:16:14,549 --> 00:16:15,849
+the brain tissue
+
+288
+00:16:16,080 --> 00:16:17,434
+inside of another brain.
+
+289
+00:16:17,602 --> 00:16:19,853
+I'm sorry, I don't follow.
+What brain tissue?
+
+290
+00:16:20,209 --> 00:16:21,605
+Our mental patients'.
+
+291
+00:16:21,935 --> 00:16:24,190
+Mr. Slater, Mrs. Crampton,
+and Mr. Condon.
+
+292
+00:16:24,358 --> 00:16:25,358
+Gordon.
+
+293
+00:16:25,777 --> 00:16:27,577
+These are a few years old.
+
+294
+00:16:27,890 --> 00:16:30,540
+But you see the slight
+discoloration here?
+
+295
+00:16:30,665 --> 00:16:33,097
+Normally that would be
+interpreted as machine error.
+
+296
+00:16:33,222 --> 00:16:35,076
+But this is not a machine error.
+
+297
+00:16:35,982 --> 00:16:37,632
+This is foreign tissue.
+
+298
+00:16:37,757 --> 00:16:40,165
+That's why they were all
+on anti-rejection drugs.
+
+299
+00:16:40,333 --> 00:16:42,626
+So the surgeries
+that Newton performed...
+
+300
+00:16:42,794 --> 00:16:44,775
+He was removing
+transplanted brain tissue.
+
+301
+00:16:44,900 --> 00:16:48,310
+And my hypothesis explains
+the patients' madness.
+
+302
+00:16:48,435 --> 00:16:52,185
+Putting the tissue of one person
+into the brain of another is...
+
+303
+00:16:52,734 --> 00:16:56,708
+It's like putting a motorcycle engine
+into a car. It's simply incompatible.
+
+304
+00:16:56,833 --> 00:16:59,051
+Of course, because the host mind
+would have no way
+
+305
+00:16:59,176 --> 00:17:01,944
+to process the new information.
+Thus, the mental distress.
+
+306
+00:17:02,069 --> 00:17:05,858
+The false memories, delusions. But as
+soon as you remove the foreign tissue,
+
+307
+00:17:05,983 --> 00:17:08,316
+- then they're fine.
+- Correct.
+
+308
+00:17:11,524 --> 00:17:12,947
+<i>Hi, this is doctor West.</i>
+
+309
+00:17:13,115 --> 00:17:15,128
+You asked me to see
+if we had any information
+
+310
+00:17:15,253 --> 00:17:17,452
+on Dr. Paris at our facility...
+we didn't.
+
+311
+00:17:18,005 --> 00:17:20,372
+- All right. Well, thank you for...
+- <i>I'm not finished.</i>
+
+312
+00:17:20,540 --> 00:17:22,916
+We also checked with some
+of our affiliated facilities.
+
+313
+00:17:25,002 --> 00:17:26,590
+That just leaves more questions.
+
+314
+00:17:26,715 --> 00:17:29,477
+Why cut out someone's brain and
+store it inside other people?
+
+315
+00:17:29,602 --> 00:17:32,467
+- And whose brain is it?
+- That's a good question, of course.
+
+316
+00:17:32,846 --> 00:17:34,296
+And I have no idea.
+
+317
+00:17:34,624 --> 00:17:36,674
+Can I... speak to you a moment?
+
+318
+00:17:49,228 --> 00:17:52,529
+You said that you never had any visitors
+in your time at St. Claire's, right?
+
+319
+00:17:53,462 --> 00:17:54,612
+That's right.
+
+320
+00:17:55,032 --> 00:17:58,993
+According to their records, Dr. Paris
+visited you on six separate occasions.
+
+321
+00:18:05,772 --> 00:18:08,072
+You mind if I take a look
+at your head?
+
+322
+00:18:23,854 --> 00:18:24,904
+It's there.
+
+323
+00:18:26,807 --> 00:18:28,481
+It's different.
+It's older. But...
+
+324
+00:18:30,850 --> 00:18:32,402
+It's definitly like a scar.
+
+325
+00:18:40,802 --> 00:18:44,181
+I can see from your chart that you've
+been through this procedure before,
+
+326
+00:18:44,306 --> 00:18:45,956
+several times, in fact.
+
+327
+00:18:48,461 --> 00:18:50,511
+This is not a good idea, Peter.
+
+328
+00:18:51,005 --> 00:18:54,340
+These MRI machines have magnets
+that rip the metal
+
+329
+00:18:54,508 --> 00:18:58,428
+out of the patients. And I have that
+tracking chip implanted in my neck...
+
+330
+00:18:58,746 --> 00:19:00,046
+the GPS locator.
+
+331
+00:19:01,182 --> 00:19:03,688
+You have absolutely nothing
+to worry about,
+
+332
+00:19:03,813 --> 00:19:05,641
+because it's made out of silicon.
+
+333
+00:19:05,811 --> 00:19:08,975
+And you know as well as I do that
+it won't be affected by the machine.
+
+334
+00:19:09,481 --> 00:19:11,431
+Maybe some valium would help.
+
+335
+00:19:12,364 --> 00:19:14,527
+I don't do valium nearly enough.
+
+336
+00:19:14,814 --> 00:19:17,906
+That's a good idea.
+I'll have 50 milligrams, please.
+
+337
+00:19:18,266 --> 00:19:20,492
+Well... that's quite a high dosage.
+
+338
+00:19:20,660 --> 00:19:22,660
+I have quite a high tolerance.
+
+339
+00:19:23,981 --> 00:19:24,981
+All right.
+
+340
+00:19:27,784 --> 00:19:29,484
+You're going to be fine.
+
+341
+00:19:30,083 --> 00:19:31,833
+It's a routine procedure.
+
+342
+00:19:32,510 --> 00:19:35,673
+And the valium will take care of
+any claustrophobia you might be feeling.
+
+343
+00:19:35,841 --> 00:19:38,134
+I'm not worreid about
+claustrophobia, Peter.
+
+344
+00:19:40,372 --> 00:19:42,772
+What do you think
+that man did to me?
+
+345
+00:19:45,380 --> 00:19:46,930
+I don't know, Walter.
+
+346
+00:19:49,789 --> 00:19:51,523
+But we're going to find out, okay?
+
+347
+00:20:22,215 --> 00:20:23,215
+You okay?
+
+348
+00:20:24,484 --> 00:20:27,780
+Walter wanted to stick around
+and wait for the results,
+
+349
+00:20:27,905 --> 00:20:30,949
+but there's Walter on drugs,
+and then there's Walter on drugs.
+
+350
+00:20:31,074 --> 00:20:32,924
+I had Astrid take him home.
+
+351
+00:20:37,678 --> 00:20:40,780
+You see the look on his face
+when we were talking to Mr. Slater?
+
+352
+00:20:41,989 --> 00:20:44,539
+What do you think
+that's like for him...
+
+353
+00:20:44,990 --> 00:20:48,840
+wishing that he could turn back
+the clock to before he went crazy?
+
+354
+00:20:53,169 --> 00:20:56,319
+He's just sane enough
+to realize how much he's lost.
+
+355
+00:20:58,307 --> 00:21:00,607
+I don't mean to sound callous but...
+
+356
+00:21:01,446 --> 00:21:03,546
+from what I know of your father,
+
+357
+00:21:03,982 --> 00:21:06,264
+going crazy made him
+a better person.
+
+358
+00:21:06,928 --> 00:21:09,378
+It certainly made him
+a better father.
+
+359
+00:21:14,501 --> 00:21:17,151
+I should have visited him
+in St. Claire's.
+
+360
+00:21:19,072 --> 00:21:21,522
+I think you're making up
+for that now.
+
+361
+00:21:28,864 --> 00:21:31,409
+I've reviewed the scans
+of your father's brain.
+
+362
+00:21:31,534 --> 00:21:33,684
+- And?
+- You should take a look.
+
+363
+00:21:34,197 --> 00:21:35,793
+I've never seen anything like it.
+
+364
+00:21:36,186 --> 00:21:39,642
+Three scars, all on the same side
+in the left temporal lobe.
+
+365
+00:21:39,905 --> 00:21:42,467
+These incisions go all the way down
+into the gray matter.
+
+366
+00:21:42,635 --> 00:21:43,801
+I'm not following.
+
+367
+00:21:43,969 --> 00:21:46,496
+Walter didn't have brain tissue
+implanted. He had it removed.
+
+368
+00:21:46,621 --> 00:21:49,618
+Yes, from the hippocampus. And as far
+as I can tell, there would be
+
+369
+00:21:49,743 --> 00:21:53,112
+- no medical reason for it.
+- So what does it do, the hippocampus?
+
+370
+00:21:53,237 --> 00:21:56,324
+It controls our inhibitions,
+helps store long-term memory,
+
+371
+00:21:56,449 --> 00:21:58,480
+contributes to our sense
+of spatial awareness.
+
+372
+00:21:58,605 --> 00:22:01,277
+Do you have the scans
+of the other three patients?
+
+373
+00:22:02,277 --> 00:22:05,127
+- What are you thinking?
+- Hold on one second.
+
+374
+00:22:09,127 --> 00:22:11,527
+This is the piece
+they put in Slater.
+
+375
+00:22:18,730 --> 00:22:19,730
+Look...
+
+376
+00:22:22,000 --> 00:22:23,450
+It's a perfect fit.
+
+377
+00:22:25,226 --> 00:22:27,212
+I took too much valium.
+
+378
+00:22:27,886 --> 00:22:30,877
+Confusion, dizziness, nausea.
+
+379
+00:22:32,632 --> 00:22:35,332
+I think I must have
+miscalculated the dose.
+
+380
+00:22:35,591 --> 00:22:38,491
+Maybe we should take you
+to a hospital, Walter.
+
+381
+00:22:39,204 --> 00:22:41,354
+I don't want to go to a hospital.
+
+382
+00:22:47,981 --> 00:22:50,509
+I need Violet Sedan Chair.
+
+383
+00:22:51,287 --> 00:22:53,079
+Walter, you're not making any sense.
+
+384
+00:22:54,402 --> 00:22:57,398
+My dear, Violet Sedan Chair,
+it's a band.
+
+385
+00:22:58,277 --> 00:22:59,777
+Their debut album...
+
+386
+00:23:00,864 --> 00:23:03,089
+always helps me come down
+from a valium high.
+
+387
+00:23:05,931 --> 00:23:07,677
+It's in the lab.
+We should go...
+
+388
+00:23:11,638 --> 00:23:13,688
+No, you...
+You do the driving.
+
+389
+00:23:15,916 --> 00:23:17,666
+I might puke in your car.
+
+390
+00:23:18,682 --> 00:23:22,022
+Why don't you stay here and rest
+and let me get it?
+
+391
+00:23:28,748 --> 00:23:31,284
+- That might be the best.
+- I'll be back.
+
+392
+00:23:34,335 --> 00:23:35,705
+It must be Paris.
+
+393
+00:23:35,873 --> 00:23:39,250
+He must have removed
+pieces of Walter's brain. But why?
+
+394
+00:23:39,418 --> 00:23:41,127
+And why preserve them?
+
+395
+00:23:43,359 --> 00:23:44,359
+Memory.
+
+396
+00:23:45,633 --> 00:23:48,885
+The hippocampus... Memory storage.
+Bell told you that Newton wants to open
+
+397
+00:23:49,053 --> 00:23:52,053
+a door to the other side, right?
+We already know that Walter's done that.
+
+398
+00:23:52,178 --> 00:23:55,183
+He just can't remember how.
+That is why he can't remember.
+
+399
+00:23:56,685 --> 00:23:58,644
+He literally had
+the memories removed.
+
+400
+00:23:59,063 --> 00:24:00,063
+No way.
+
+401
+00:24:00,546 --> 00:24:04,192
+- So then how does Newton read them?
+- In theory, he shouldn't be able to.
+
+402
+00:24:04,360 --> 00:24:06,445
+But in theory, he should
+still be a frozen head.
+
+403
+00:24:06,570 --> 00:24:09,161
+So in the department of how
+to make impossible things possible,
+
+404
+00:24:09,286 --> 00:24:11,736
+what would he need to do?
+He would need to...
+
+405
+00:24:12,602 --> 00:24:15,787
+implant the memories into a brain
+that could interpret them.
+
+406
+00:24:23,254 --> 00:24:25,505
+- Where are you and Walter?
+- <i>I'm going to the lab.</i>
+
+407
+00:24:25,673 --> 00:24:28,174
+He's at your house.
+He sent me to get him an album.
+
+408
+00:24:28,342 --> 00:24:30,342
+- How long ago?
+- <i>Five minutes ago.</i>
+
+409
+00:24:30,511 --> 00:24:32,970
+You've got to get back there.
+Walter is in danger.
+
+410
+00:24:33,138 --> 00:24:34,338
+I'm on my way.
+
+411
+00:24:39,868 --> 00:24:41,768
+Calm down, agent Farnsworth.
+
+412
+00:24:43,296 --> 00:24:46,146
+You don't have to wake
+the whole neighborhood.
+
+413
+00:25:07,685 --> 00:25:09,549
+He was already gone when I got here.
+
+414
+00:25:10,358 --> 00:25:13,108
+I'm sorry.
+Peter, I shouldn't have left him.
+
+415
+00:25:14,101 --> 00:25:16,501
+It's not your fault.
+You didn't know.
+
+416
+00:25:17,195 --> 00:25:18,266
+I got an idea.
+
+417
+00:25:18,508 --> 00:25:22,016
+Last week when Walter got lost, he did
+exactly what you'd expect Walter to do.
+
+418
+00:25:22,141 --> 00:25:24,140
+He implanted a transponder chip
+into his neck
+
+419
+00:25:24,265 --> 00:25:27,115
+so that if he ever got lost,
+I could find him.
+
+420
+00:25:27,631 --> 00:25:29,481
+He can't be far.
+Let's go.
+
+421
+00:25:32,649 --> 00:25:34,099
+Hold still, please.
+
+422
+00:25:34,251 --> 00:25:35,801
+This wont hurt a bit.
+
+423
+00:25:40,205 --> 00:25:42,355
+I'm sorry, do we know each other?
+
+424
+00:25:42,480 --> 00:25:43,480
+We will.
+
+425
+00:25:44,168 --> 00:25:45,543
+This is a mild sedative,
+
+426
+00:25:46,152 --> 00:25:48,023
+something to calm your nerves.
+
+427
+00:25:48,148 --> 00:25:51,215
+I've already had
+50 milligrams of valium.
+
+428
+00:25:51,600 --> 00:25:53,801
+Then this should be very enjoyable.
+
+429
+00:26:01,941 --> 00:26:03,186
+<i>Dunham, what's your 20?</i>
+
+430
+00:26:03,354 --> 00:26:05,693
+We're two blocks south
+of the Boylston T stop.
+
+431
+00:26:05,818 --> 00:26:08,030
+Boston PD is sending an entry
+and apprehension unit.
+
+432
+00:26:08,155 --> 00:26:10,228
+I'm sending them to your location.
+
+433
+00:26:10,353 --> 00:26:13,029
+Keep going. Keep going,
+and take the next left you see.
+
+434
+00:26:18,846 --> 00:26:21,346
+The human brain
+is a fascinating organ.
+
+435
+00:26:22,206 --> 00:26:25,047
+But it's not static.
+Removal will damage a section.
+
+436
+00:26:25,172 --> 00:26:28,294
+It reroutes the connections
+and grows in new pathways.
+
+437
+00:26:29,632 --> 00:26:32,890
+Now, figuring out where the old
+connections once were can be
+
+438
+00:26:33,015 --> 00:26:34,115
+very tricky.
+
+439
+00:26:43,936 --> 00:26:45,386
+Take the next left.
+
+440
+00:26:55,572 --> 00:26:56,991
+Here. He's down here!
+
+441
+00:26:57,116 --> 00:26:58,816
+Go, go, go!
+Move, move!
+
+442
+00:27:18,846 --> 00:27:20,346
+They found the chip.
+
+443
+00:27:28,798 --> 00:27:32,108
+I'm going to show you a series
+of photos. When you see an image,
+
+444
+00:27:32,276 --> 00:27:35,042
+I want you to tell me
+the first thing that comes to mind.
+
+445
+00:27:35,167 --> 00:27:37,737
+There are no right
+or wrong answers. But...
+
+446
+00:27:37,862 --> 00:27:39,490
+please tell me the truth.
+
+447
+00:27:39,658 --> 00:27:40,807
+If you don't,
+
+448
+00:27:41,410 --> 00:27:42,410
+I'll know.
+
+449
+00:27:43,585 --> 00:27:45,994
+You're using associations to
+
+450
+00:27:46,397 --> 00:27:48,289
+map my brain function,
+
+451
+00:27:49,501 --> 00:27:51,888
+locate my neural pathways.
+
+452
+00:27:55,652 --> 00:27:57,402
+Are you trying to fix me?
+
+453
+00:27:58,684 --> 00:28:00,169
+I'm afraid not.
+
+454
+00:28:06,428 --> 00:28:08,561
+Tell me what you think
+when you see this.
+
+455
+00:28:08,999 --> 00:28:11,691
+My first semester of organic chem.
+
+456
+00:28:14,485 --> 00:28:16,944
+My lab partner and I
+used to sit up in the back,
+
+457
+00:28:17,112 --> 00:28:19,196
+sniffing benzine fumes.
+
+458
+00:28:42,221 --> 00:28:44,521
+I'm sorry. I know this is difficult.
+
+459
+00:28:51,601 --> 00:28:52,951
+It's not working.
+
+460
+00:28:53,135 --> 00:28:55,099
+He's not making the connections.
+
+461
+00:28:55,224 --> 00:28:57,234
+Should I recalibrate the machine?
+
+462
+00:28:57,402 --> 00:29:00,404
+We need to find something more
+powerful to stimulate his memory.
+
+463
+00:29:03,826 --> 00:29:06,045
+Of course.
+Human memory is sensory based.
+
+464
+00:29:06,170 --> 00:29:08,662
+Vision alone is not
+the strongest trigger. Sound...
+
+465
+00:29:08,949 --> 00:29:10,999
+and smell actually work better.
+
+466
+00:29:13,225 --> 00:29:14,225
+We need...
+
+467
+00:29:15,847 --> 00:29:17,362
+a proper context.
+
+468
+00:29:21,269 --> 00:29:23,382
+Walter said
+brain tissue can't survive
+
+469
+00:29:23,507 --> 00:29:26,387
+- for long outside a human body.
+- Which means they've got to be close.
+
+470
+00:29:26,512 --> 00:29:29,552
+We've raised the alert level at every
+hospital, emergency care facility and
+
+471
+00:29:29,677 --> 00:29:32,877
+outpatient clinic in the greater Boston
+area. We're even calling veterinarians.
+
+472
+00:29:33,002 --> 00:29:35,762
+That's assuming that they need
+a hospital to complete the procedure.
+
+473
+00:29:35,887 --> 00:29:38,127
+With their level of technology,
+we can't know for sure.
+
+474
+00:29:38,252 --> 00:29:40,733
+It's a start and if we're wrong,
+we'll have to get creative.
+
+475
+00:29:40,858 --> 00:29:42,658
+The girl in the red dress.
+
+476
+00:29:43,532 --> 00:29:45,747
+How did I miss this?
+The girl in the red dress,
+
+477
+00:29:45,872 --> 00:29:47,743
+28, 28, Sydney Greenstreet.
+
+478
+00:29:47,911 --> 00:29:50,538
+Dr. Paris' patients,
+they all had obsessions.
+
+479
+00:29:50,706 --> 00:29:53,848
+Slater was always ranting about
+the girl who lived across the street,
+
+480
+00:29:53,973 --> 00:29:56,467
+the one that we thought never existed.
+She did exist.
+
+481
+00:29:56,592 --> 00:29:59,512
+She lived across the street from me
+when I lived in Cambridge as a kid.
+
+482
+00:29:59,637 --> 00:30:02,091
+Her name was Sydney.
+She lived at 2828 Green Street.
+
+483
+00:30:02,259 --> 00:30:05,294
+- So those were Walter's memories.
+- Exactly. Memory is all about...
+
+484
+00:30:05,419 --> 00:30:08,512
+It's all about context, all about
+association. Every time Walter asks for
+
+485
+00:30:08,637 --> 00:30:11,283
+a piece of food or music or art,
+he's trying to recreate a moment
+
+486
+00:30:11,408 --> 00:30:13,686
+- in time to help him remember.
+- Which suggests what?
+
+487
+00:30:13,854 --> 00:30:17,447
+I don't know. I don't know. But if
+they're trying to get him to remember
+
+488
+00:30:17,572 --> 00:30:20,156
+how it was that he built a door
+to the other side, maybe...
+
+489
+00:30:20,281 --> 00:30:22,655
+Maybe they're gonna take him
+to the place that he did it.
+
+490
+00:30:22,780 --> 00:30:24,280
+Reiden Lake... The lake house.
+
+491
+00:30:24,448 --> 00:30:28,203
+That's where he actually opened the door
+but it's not where he had the thought.
+
+492
+00:30:29,422 --> 00:30:31,829
+This place looks familiar.
+
+493
+00:30:33,458 --> 00:30:36,270
+Last time I was here,
+it was a different season.
+
+494
+00:30:36,892 --> 00:30:38,584
+The leaves were falling.
+
+495
+00:30:38,878 --> 00:30:40,838
+Yes, this place exists
+in both worlds.
+
+496
+00:30:41,929 --> 00:30:43,328
+You see, but on my side,
+
+497
+00:30:43,557 --> 00:30:45,099
+the trees died long ago.
+
+498
+00:30:45,224 --> 00:30:47,284
+And the same thing killed the grass.
+
+499
+00:30:47,409 --> 00:30:48,721
+They call it the Blight.
+
+500
+00:30:49,823 --> 00:30:50,988
+That's terrible.
+
+501
+00:30:51,113 --> 00:30:52,474
+It is, isn't it?
+
+502
+00:30:52,599 --> 00:30:55,797
+Smith is on lookout, and
+I've taken care of everything else.
+
+503
+00:30:55,922 --> 00:30:57,814
+- You're secured.
+- Good.
+
+504
+00:31:03,839 --> 00:31:04,944
+Now, Dr. Bishop,
+
+505
+00:31:05,614 --> 00:31:08,363
+I can see which areas
+of your brain can make sense
+
+506
+00:31:08,488 --> 00:31:10,701
+of the data that's stored
+in these slivers of flesh.
+
+507
+00:31:11,547 --> 00:31:12,995
+In a perfect world,
+
+508
+00:31:13,163 --> 00:31:14,719
+I would simply put it back,
+
+509
+00:31:14,844 --> 00:31:17,833
+but I would never subject you
+to a process so crude.
+
+510
+00:31:18,294 --> 00:31:20,471
+But this is the only way
+
+511
+00:31:20,596 --> 00:31:22,880
+we can reconnect
+these pieces of your brain.
+
+512
+00:31:27,825 --> 00:31:30,497
+- The connection is complete.
+- Now, Dr. Bishop...
+
+513
+00:31:31,857 --> 00:31:33,766
+you do know where you are,
+don't you?
+
+514
+00:31:43,660 --> 00:31:45,033
+Of course I do.
+
+515
+00:31:45,887 --> 00:31:47,363
+This is my home.
+
+516
+00:31:48,986 --> 00:31:50,943
+- It's working.
+- Where's my wife?
+
+517
+00:31:51,420 --> 00:31:52,832
+Where's my son?
+
+518
+00:31:55,369 --> 00:31:56,690
+You drugged me.
+
+519
+00:31:56,815 --> 00:31:58,365
+Yes. And now...
+
+520
+00:31:58,959 --> 00:32:00,566
+I have a question for you.
+
+521
+00:32:01,486 --> 00:32:03,672
+You once built a door.
+
+522
+00:32:04,782 --> 00:32:06,910
+A door that let you walk
+between worlds.
+
+523
+00:32:10,818 --> 00:32:12,559
+Tell me how you did it.
+
+524
+00:32:14,801 --> 00:32:16,767
+How are things on your side?
+
+525
+00:32:17,273 --> 00:32:18,913
+Worse, I'm told.
+
+526
+00:32:20,516 --> 00:32:23,191
+I know why you built it, the door.
+
+527
+00:32:25,255 --> 00:32:27,144
+I know what you lost.
+
+528
+00:32:27,931 --> 00:32:31,365
+Now, are you going to pretend that
+you're willing to lose him again?
+
+529
+00:32:34,531 --> 00:32:35,411
+Now,...
+
+530
+00:32:35,579 --> 00:32:37,033
+tell me...
+
+531
+00:32:37,158 --> 00:32:39,246
+about the door.
+
+532
+00:32:59,106 --> 00:33:00,144
+We got company.
+
+533
+00:33:00,312 --> 00:33:01,478
+They're here.
+
+534
+00:33:01,934 --> 00:33:03,522
+That's okay.
+We're done.
+
+535
+00:33:04,091 --> 00:33:05,606
+We've got what we need.
+
+536
+00:33:16,163 --> 00:33:18,220
+My apologies, Dr. Bishop.
+
+537
+00:33:45,023 --> 00:33:46,333
+Can you hear me?
+
+538
+00:33:47,526 --> 00:33:49,320
+Walter, can you hear me?
+
+539
+00:33:55,000 --> 00:33:56,033
+Hello, son.
+
+540
+00:33:59,663 --> 00:34:01,037
+Would you help me?
+
+541
+00:34:09,406 --> 00:34:10,297
+It's okay.
+
+542
+00:34:10,465 --> 00:34:12,216
+I'm... I'm with the FBI.
+
+543
+00:34:12,775 --> 00:34:14,761
+They just left.
+Out the back!
+
+544
+00:34:23,478 --> 00:34:24,676
+Freeze! FBI!
+
+545
+00:34:52,923 --> 00:34:54,243
+Come out of there.
+
+546
+00:35:08,315 --> 00:35:10,118
+Okay, step down slowly.
+
+547
+00:35:10,817 --> 00:35:12,885
+Keep your hands
+where I can see them.
+
+548
+00:35:14,446 --> 00:35:16,166
+You so much as twitch,
+
+549
+00:35:16,291 --> 00:35:18,888
+and you won't have
+a head left to refreeze.
+
+550
+00:35:27,125 --> 00:35:28,538
+Are they mine?
+
+551
+00:35:33,057 --> 00:35:34,739
+My brain tissue, Peter...
+
+552
+00:35:35,687 --> 00:35:36,707
+it's dying.
+
+553
+00:35:37,524 --> 00:35:39,355
+Whatever was in there...
+
+554
+00:35:41,715 --> 00:35:43,914
+memories I'll never get back.
+
+555
+00:35:44,578 --> 00:35:46,514
+It's all right.
+You don't need them.
+
+556
+00:35:50,722 --> 00:35:51,873
+Hello, son.
+
+557
+00:35:59,387 --> 00:36:00,654
+Hello, son.
+
+558
+00:36:08,082 --> 00:36:09,226
+Look at me.
+
+559
+00:36:09,584 --> 00:36:11,709
+I think there's something
+you should know.
+
+560
+00:36:11,834 --> 00:36:13,504
+It's about Walter Bishop.
+
+561
+00:36:13,629 --> 00:36:16,867
+He's going to die unless
+you do exactly what I say.
+
+562
+00:36:17,092 --> 00:36:18,824
+I injected him with a neurotoxin,
+
+563
+00:36:18,949 --> 00:36:21,934
+and unless he gets
+the antidote in four minutes,
+
+564
+00:36:22,059 --> 00:36:23,285
+it will kill him.
+
+565
+00:36:23,457 --> 00:36:26,402
+Call it my fail-safe
+to ensure my escape.
+
+566
+00:36:26,527 --> 00:36:27,860
+You're bluffing.
+
+567
+00:36:33,376 --> 00:36:34,308
+It's me.
+
+568
+00:36:34,433 --> 00:36:36,957
+They've done something to Walter.
+I don't know what it is, but
+
+569
+00:36:37,082 --> 00:36:39,321
+I think maybe he's been poisoned.
+His pulse is racing.
+
+570
+00:36:39,489 --> 00:36:40,767
+What did you do to him?
+
+571
+00:36:40,892 --> 00:36:42,866
+Ask him if he sees
+a medical kit I left behind.
+
+572
+00:36:43,034 --> 00:36:44,691
+You've got to get back here.
+
+573
+00:36:44,816 --> 00:36:46,922
+Please! Please.
+I need your help.
+
+574
+00:36:47,047 --> 00:36:48,919
+Listen to me.
+Do you see a medical kit?
+
+575
+00:36:49,044 --> 00:36:50,874
+Yeah, there's one here
+on the table. Why?
+
+576
+00:36:51,042 --> 00:36:52,584
+There are three vials in the kit.
+
+577
+00:36:52,752 --> 00:36:55,498
+Injected in the correct order,
+they neutralize the toxin.
+
+578
+00:36:55,672 --> 00:36:56,688
+Tell me.
+
+579
+00:36:57,298 --> 00:36:58,210
+Not yet.
+
+580
+00:36:59,117 --> 00:37:02,760
+You have about two minutes
+until Dr. Bishop dies.
+
+581
+00:37:02,885 --> 00:37:05,601
+At a flat run, I estimate
+about 40 seconds
+
+582
+00:37:05,726 --> 00:37:08,392
+until you get back to him.
+Now, hand me your phone.
+
+583
+00:37:08,560 --> 00:37:11,319
+When I hear you go back into
+the house, from Peter's phone,
+
+584
+00:37:11,444 --> 00:37:12,855
+I'll tell you what to do.
+
+585
+00:37:13,023 --> 00:37:15,323
+You're crazy if you think
+I'm letting you go.
+
+586
+00:37:15,448 --> 00:37:17,860
+<i>Please, I need your help.</i>
+I think he's dying.
+
+587
+00:37:21,931 --> 00:37:23,323
+The choice is yours.
+
+588
+00:37:23,679 --> 00:37:25,347
+You can have me...
+
+589
+00:37:25,945 --> 00:37:27,379
+or Walter Bishop.
+
+590
+00:37:32,688 --> 00:37:36,089
+One minute, forty-five seconds.
+Come on, Olivia.
+
+591
+00:37:36,214 --> 00:37:38,435
+<i>Please, you got to get back here.
+I need your help.</i>
+
+592
+00:37:38,560 --> 00:37:39,832
+Make your choice...
+
+593
+00:37:40,378 --> 00:37:42,710
+Me or Walter Bishop.
+
+594
+00:37:49,369 --> 00:37:50,614
+Go to hell.
+
+595
+00:38:06,406 --> 00:38:07,768
+Give me your phone!
+
+596
+00:38:09,563 --> 00:38:11,179
+Okay, you son of a bitch.
+
+597
+00:38:12,295 --> 00:38:14,116
+<i>Do you have the medical kit?</i>
+
+598
+00:38:14,241 --> 00:38:16,517
+Got it.
+Okay, tell me how to do this.
+
+599
+00:38:16,753 --> 00:38:18,629
+Blue, yellow, red.
+
+600
+00:38:20,340 --> 00:38:22,674
+Blue, yellow, red.
+
+601
+00:38:29,072 --> 00:38:31,331
+Now I know how weak you are.
+
+602
+00:39:07,472 --> 00:39:09,751
+I have a terrible headache...
+
+603
+00:39:11,757 --> 00:39:14,955
+and a sudden craving
+for chicken wings.
+
+604
+00:39:28,945 --> 00:39:31,089
+He was right.
+I made an emotional choice.
+
+605
+00:39:31,214 --> 00:39:33,891
+I chose my friend
+over my responsibility.
+
+606
+00:39:34,016 --> 00:39:36,986
+And we have no idea
+if Walter gave Newton
+
+607
+00:39:37,111 --> 00:39:39,719
+the plans for the door.
+Walter doesn't remember,
+
+608
+00:39:39,844 --> 00:39:42,319
+and the brain tissue
+that Newton extracted is dead.
+
+609
+00:39:42,444 --> 00:39:44,585
+- And Dr. Paris?
+- Nothing. He's vanished.
+
+610
+00:39:44,757 --> 00:39:46,479
+So all we have is more questions.
+
+611
+00:39:46,604 --> 00:39:48,035
+I mean, who is Paris?
+
+612
+00:39:48,160 --> 00:39:50,208
+How did Newton know
+about Walter's memories?
+
+613
+00:39:50,333 --> 00:39:51,937
+And why did they let Walter live?
+
+614
+00:39:52,062 --> 00:39:54,138
+I suspect that's the way
+this is going to be.
+
+615
+00:39:54,263 --> 00:39:56,785
+The more answers we get, the
+more questions they'll lead to.
+
+616
+00:39:56,910 --> 00:39:59,518
+- We didn't get any answers.
+- Sure we did.
+
+617
+00:40:00,246 --> 00:40:02,797
+We've given our enemy
+a name and a face.
+
+618
+00:40:02,922 --> 00:40:03,988
+That's something.
+
+619
+00:40:05,111 --> 00:40:07,889
+And you saved Dr. Bishop's life.
+That's something too,
+
+620
+00:40:08,014 --> 00:40:10,032
+because despite what you think,
+
+621
+00:40:10,200 --> 00:40:12,555
+you made a rational choice,
+not an emotional one.
+
+622
+00:40:12,680 --> 00:40:14,785
+If you had captured Newton
+or even killed him,
+
+623
+00:40:14,910 --> 00:40:16,788
+that wouldn't have been
+the end of this.
+
+624
+00:40:16,956 --> 00:40:19,194
+But there's only one
+Walter Bishop...
+
+625
+00:40:21,514 --> 00:40:23,770
+and we'll be needing him
+before this is over.
+
+626
+00:40:26,248 --> 00:40:28,134
+Don't be so hard on yourself.
+
+627
+00:40:28,870 --> 00:40:30,737
+We're gonna be needing you too.
+
+628
+00:40:45,451 --> 00:40:47,752
+They just want to make sure
+that everything's okay.
+
+629
+00:40:47,877 --> 00:40:48,828
+I know.
+
+630
+00:40:54,923 --> 00:40:56,872
+I should have visited you, Walter,
+
+631
+00:40:57,982 --> 00:40:59,885
+while you were in St. Claire's.
+
+632
+00:41:01,541 --> 00:41:02,909
+That's okay, Peter.
+
+633
+00:41:06,711 --> 00:41:09,466
+If you had, I probably
+wouldn't have remembered anyway.
+
+634
+00:41:15,535 --> 00:41:17,307
+I'll be right outside
+if you need me.
+
+635
+00:41:46,777 --> 00:41:48,718
+He's ready, Dr. Paris.
+
+636
+00:41:49,033 --> 00:41:51,022
+His system is completely clean?
+
+637
+00:41:51,287 --> 00:41:52,700
+No sedatives,
+
+638
+00:41:53,286 --> 00:41:55,113
+no antidepressants?
+
+639
+00:41:55,584 --> 00:41:57,967
+- The electrodes are in place.
+- Good.
+
+640
+00:42:08,862 --> 00:42:10,253
+Are you comfortable?
+
+641
+00:42:10,842 --> 00:42:12,186
+Comfortable?
+
+642
+00:42:14,724 --> 00:42:16,408
+I'm frightened, Belly.
+
+643
+00:42:18,240 --> 00:42:20,137
+I wish there was another way.
+
+644
+00:42:20,966 --> 00:42:22,622
+But what you've accomplished...
+
+645
+00:42:24,087 --> 00:42:25,792
+it's just too dangerous.
+
+646
+00:42:27,426 --> 00:42:29,902
+But what if we ever have to go back?
+
+647
+00:42:30,743 --> 00:42:31,763
+Don't worry.
+
+648
+00:42:32,098 --> 00:42:33,133
+Your memory...
+
+649
+00:42:33,527 --> 00:42:36,200
+I'll put it in a place
+that only I can find.
+
+650
+00:42:38,615 --> 00:42:40,154
+Now, listen to me, Walter.
+
+651
+00:42:41,556 --> 00:42:43,369
+You designed a door
+
+652
+00:42:43,579 --> 00:42:45,090
+to the other side.
+
+653
+00:42:46,272 --> 00:42:48,449
+I want you to think about that door.
+

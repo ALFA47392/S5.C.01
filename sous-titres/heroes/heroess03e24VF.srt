@@ -1,0 +1,2508 @@
+1
+00:00:00,731 --> 00:00:02,251
+<i>Précédemment, dans </i>Heroes...
+
+2
+00:00:02,621 --> 00:00:05,546
+Maman... peut-être n'ai-je pas
+à être spécial.
+
+3
+00:00:05,891 --> 00:00:07,422
+Tu pourrais être président !
+
+4
+00:00:07,841 --> 00:00:09,382
+J'ai stoppé le temps.
+
+5
+00:00:09,502 --> 00:00:12,595
+Le petit m'a touché
+et a réactivé mon pouvoir.
+
+6
+00:00:12,888 --> 00:00:14,805
+Nous avons sauvé le petit Parkman.
+
+7
+00:00:15,117 --> 00:00:18,014
+Matt Parkman, je vous
+présente Matt Parkman.
+
+8
+00:00:18,519 --> 00:00:20,603
+Voilà pourquoi
+vous ne pouvez abandonner.
+
+9
+00:00:20,813 --> 00:00:23,731
+On est assis côte à côte,
+j'espère que ça ne te dérange pas.
+
+10
+00:00:24,043 --> 00:00:26,487
+- Que fais-tu ici ?
+- Je suis Rebel.
+
+11
+00:00:27,069 --> 00:00:29,235
+J'aide les gens comme nous.
+
+12
+00:00:29,906 --> 00:00:32,281
+Désespéré au point
+de vouloir être un autre.
+
+13
+00:00:32,551 --> 00:00:35,151
+Le polymorphisme...
+C'est votre échappatoire.
+
+14
+00:00:35,921 --> 00:00:37,869
+Nous devrions nous entraider.
+
+15
+00:00:38,123 --> 00:00:41,290
+- Vous voyez cet agent ?
+- Oui, pourquoi ?
+
+16
+00:00:41,458 --> 00:00:43,751
+Pour travailler ici,
+il vous faut une autre identité.
+
+17
+00:00:44,029 --> 00:00:45,961
+L'agent Taub, le choix parfait.
+
+18
+00:00:46,231 --> 00:00:48,422
+Sa vie est à présent la vôtre.
+
+19
+00:00:53,129 --> 00:00:54,668
+Bien, et maintenant ?
+
+20
+00:00:55,107 --> 00:00:56,957
+Je vais retourner à Washington.
+
+21
+00:00:58,538 --> 00:01:01,226
+Assumer mes erreurs
+et parler au président.
+
+22
+00:01:01,447 --> 00:01:03,704
+<i>Un vrai changement.
+Vous pouvez me croire. </i>
+
+23
+00:01:03,829 --> 00:01:06,827
+- On dirait que tu l'as déjà fait.
+<i>- ... de retour dans ce pays. </i>
+
+24
+00:01:07,065 --> 00:01:10,568
+<i>Et je vous assure que si
+le président accepte de me recevoir</i>
+
+25
+00:01:11,704 --> 00:01:13,491
+<i>et me serre la main,</i>
+
+26
+00:01:14,237 --> 00:01:16,406
+<i>de profonds changements auront lieu. </i>
+
+27
+00:01:17,572 --> 00:01:20,245
+<i>Et plus rien ne sera jamais
+comme avant. </i>
+
+28
+00:01:20,666 --> 00:01:21,914
+Mais qui est-ce ?
+
+29
+00:01:22,082 --> 00:01:22,961
+<i>Merci à tous.</i>
+
+30
+00:01:26,147 --> 00:01:28,579
+<i>Sénateur, pouvez-vous
+nous donner des informations...</i>
+
+31
+00:01:29,247 --> 00:01:33,044
+{\fad(500,500)}<i>18 heures plus tôt</i>
+
+32
+00:01:54,299 --> 00:01:56,474
+Pourquoi cela ne
+cesse-t-il pas d'arriver ?
+
+33
+00:02:19,041 --> 00:02:20,191
+Qui es-tu ?
+
+34
+00:02:22,461 --> 00:02:25,773
+Non, le petit Matt va bien.
+Je ne l'ai pas lâché depuis que je l'ai.
+
+35
+00:02:25,898 --> 00:02:28,355
+<i>- Je peux lui parler ?</i>
+- OK, une seconde.
+
+36
+00:02:29,211 --> 00:02:30,565
+Maman veut te parler.
+
+37
+00:02:30,925 --> 00:02:32,856
+Matty ?
+C'est maman.
+
+38
+00:02:33,606 --> 00:02:34,528
+Salut !
+
+39
+00:02:35,378 --> 00:02:37,150
+<i>Je t'aime mon chéri. </i>
+
+40
+00:02:37,509 --> 00:02:39,159
+<i>On se revoit bientôt. </i>
+
+41
+00:02:40,671 --> 00:02:42,890
+Je le ramène
+dès que possible, d'accord ?
+
+42
+00:02:43,377 --> 00:02:44,859
+Tu sais, Janice...
+
+43
+00:02:44,984 --> 00:02:47,284
+Ça me fait du bien d'entendre ta voix.
+
+44
+00:02:48,899 --> 00:02:50,786
+Merci pour ce que tu fais, Matt.
+
+45
+00:02:51,355 --> 00:02:53,661
+- Au revoir, Janice.
+- Au revoir, Matt.
+
+46
+00:02:56,637 --> 00:02:58,397
+Les agents ont libéré votre femme ?
+
+47
+00:02:58,979 --> 00:03:01,109
+Vous n'avez pas l'air heureux, ça va ?
+
+48
+00:03:01,697 --> 00:03:03,223
+- Ça va. Je crois.
+
+49
+00:03:04,069 --> 00:03:06,920
+Danko a attaqué Janice.
+On a kidnappé le petit.
+
+50
+00:03:07,045 --> 00:03:09,519
+Je devrais être content
+qu'elle accepte de me parler.
+
+51
+00:03:09,644 --> 00:03:12,124
+- Je le ramène à la maison.
+- C'est une bonne idée ?
+
+52
+00:03:12,249 --> 00:03:14,248
+Les agents ne vont pas
+revenir le chercher ?
+
+53
+00:03:14,373 --> 00:03:16,296
+- Cette fois, j'ai un plan.
+- Bien.
+
+54
+00:03:16,421 --> 00:03:18,792
+Quand vous rendrez bébé Matt
+à Mme Parkman,
+
+55
+00:03:18,917 --> 00:03:20,494
+tout sera pardonné.
+
+56
+00:03:20,619 --> 00:03:21,795
+Je ne crois pas.
+
+57
+00:03:21,920 --> 00:03:23,731
+Il est beaucoup trop tard pour ça.
+
+58
+00:03:23,856 --> 00:03:25,032
+C'est trop triste.
+
+59
+00:03:25,157 --> 00:03:27,428
+Bébé Matt a besoin d'une mère
+<i>et</i> d'un père.
+
+60
+00:03:27,553 --> 00:03:30,976
+Vous pouvez encore le protéger.
+Aidez-nous à stopper le building 26.
+
+61
+00:03:31,101 --> 00:03:33,068
+- Oui.
+- Ce n'est pas un jeu les gars.
+
+62
+00:03:33,582 --> 00:03:36,123
+Danko et ses hommes sont des tueurs.
+Laissez tomber.
+
+63
+00:03:37,361 --> 00:03:40,718
+- Ce n'est pas le Matt que je connais !
+- Matt n'a peur de rien.
+
+64
+00:03:40,906 --> 00:03:42,006
+Si, j'ai peur.
+
+65
+00:03:42,875 --> 00:03:45,181
+J'ai peur de ne pas être là pour lui.
+
+66
+00:03:45,860 --> 00:03:48,160
+J'ai peur de rater ses premiers pas
+
+67
+00:03:48,770 --> 00:03:50,190
+ou son premier sport.
+
+68
+00:03:50,315 --> 00:03:53,627
+Je veux qu'il sache qu'il à un père.
+Ce petit a changé la donne.
+
+69
+00:03:54,013 --> 00:03:54,746
+Oui.
+
+70
+00:03:56,029 --> 00:03:57,583
+Difficile de répondre à ça.
+
+71
+00:03:58,216 --> 00:04:01,035
+OK, Matt Parkman.
+Vous allez regagner votre famille.
+
+72
+00:04:01,160 --> 00:04:03,408
+Nous allons au building 26
+pour les arrêter.
+
+73
+00:04:03,970 --> 00:04:05,470
+Donnez-nous l'adresse.
+
+74
+00:04:06,582 --> 00:04:08,082
+- Non.
+- Pourquoi ?
+
+75
+00:04:08,684 --> 00:04:10,919
+Qu'allez-vous faire, geler le temps ?
+Et après ?
+
+76
+00:04:11,044 --> 00:04:13,614
+- Nous les arrêterons.
+- Vous devrez dégeler le temps.
+
+77
+00:04:13,739 --> 00:04:17,109
+Et alors, il restera des agents
+qui pourraient vous blesser.
+
+78
+00:04:17,837 --> 00:04:18,837
+Ou pire.
+
+79
+00:04:19,878 --> 00:04:22,128
+Je ne veux pas avoir ça
+sur la conscience.
+
+80
+00:04:23,515 --> 00:04:26,282
+Merci de m'avoir sauvé la vie.
+Maintenant, sauvez la vôtre.
+
+81
+00:04:28,845 --> 00:04:30,244
+Au revoir, Matt Parkman.
+
+82
+00:04:32,595 --> 00:04:34,495
+Au revoir, bébé Matt Parkman.
+
+83
+00:04:41,715 --> 00:04:45,757
+Matt Parkman a peut-être raison.
+Nous n'avons pas de plan.
+
+84
+00:04:46,020 --> 00:04:48,627
+Un héros ne s'avoue jamais vaincu.
+
+85
+00:04:54,319 --> 00:04:56,624
+<i>Un de mes hommes a vu Sylar</i>
+
+86
+00:04:56,749 --> 00:04:59,447
+<i>sur une camera de surveillance
+près de K Street. </i>
+
+87
+00:05:01,545 --> 00:05:03,590
+Je lui ai assuré qu'il se trompait.
+
+88
+00:05:05,195 --> 00:05:07,209
+On sait tous que Sylar est mort.
+
+89
+00:05:11,451 --> 00:05:12,809
+Sauf pour vous.
+
+90
+00:05:19,298 --> 00:05:22,282
+Vous comprenez, c'est le seul moyen
+pour que ça marche.
+
+91
+00:05:22,407 --> 00:05:25,542
+Sylar est mort
+pour vous offrir la liberté.
+
+92
+00:05:26,161 --> 00:05:27,861
+Ma liberté.
+Quelle ironie.
+
+93
+00:05:28,771 --> 00:05:29,871
+<i>Comment ça ?</i>
+
+94
+00:05:31,885 --> 00:05:34,392
+Hier soir,
+je me suis endormi sous mes traits.
+
+95
+00:05:35,457 --> 00:05:38,042
+Je me suis réveillé sous ceux
+de Taub. Je n'ai...
+
+96
+00:05:38,162 --> 00:05:41,562
+Je n'ai pas voulu changer.
+Je perds le contrôle.
+
+97
+00:05:42,093 --> 00:05:43,243
+Regardez ça.
+
+98
+00:05:46,935 --> 00:05:50,098
+J'ai trouvé cette dent en trop
+dans ma bouche, d'où sort-elle ?
+
+99
+00:05:50,267 --> 00:05:53,623
+Chaque fois que je change, mon ADN
+est perturbé, c'est de pire en pire.
+
+100
+00:05:53,748 --> 00:05:55,891
+Vous devriez rester l'agent Taub
+un temps.
+
+101
+00:05:56,016 --> 00:05:57,623
+L'agent Taub est insignifiant.
+
+102
+00:06:00,482 --> 00:06:02,432
+Je ne veux pas être insignifiant.
+
+103
+00:06:06,186 --> 00:06:07,847
+Réfléchissez à ça.
+
+104
+00:06:09,217 --> 00:06:12,186
+En tant qu'agent Taub,
+vous pouvez aller et venir,
+
+105
+00:06:13,876 --> 00:06:15,576
+tuer qui vous voulez.
+
+106
+00:06:16,957 --> 00:06:18,525
+Mais si vous êtes Sylar...
+
+107
+00:06:19,363 --> 00:06:22,045
+Je n'aurai d'autre choix
+que de vous pourchasser.
+
+108
+00:06:23,936 --> 00:06:25,886
+Faire de votre vie un enfer.
+
+109
+00:06:30,786 --> 00:06:32,036
+À vous de voir.
+
+110
+00:06:34,439 --> 00:06:35,439
+Attendez.
+
+111
+00:06:50,871 --> 00:06:51,766
+Bien.
+
+112
+00:06:52,484 --> 00:06:54,031
+On se revoit au travail.
+
+113
+00:07:10,092 --> 00:07:16,083
+Chapitre sept
+<i>"Je suis Sylar"</i>
+
+114
+00:07:19,018 --> 00:07:29,532
+Sous-titres :
+ Karamba.fr & Rebel
+
+115
+00:08:07,088 --> 00:08:08,946
+J'aime le chocolat chaud.
+Je peux ?
+
+116
+00:08:13,214 --> 00:08:14,897
+Vous ne devriez pas m'effrayer.
+
+117
+00:08:15,377 --> 00:08:18,610
+À une époque, je ne vous aurais
+même pas laissé le temps de sursauter.
+
+118
+00:08:18,735 --> 00:08:20,149
+Vous ne comprenez pas.
+
+119
+00:08:20,734 --> 00:08:22,129
+Je pourrais vous blesser.
+
+120
+00:08:22,972 --> 00:08:24,822
+Je comprends parfaitement.
+
+121
+00:08:25,490 --> 00:08:26,990
+Vous avez un pouvoir.
+
+122
+00:08:27,557 --> 00:08:30,547
+C'est vous qui ne comprenez pas
+que je suis comme vous.
+
+123
+00:08:30,938 --> 00:08:32,306
+Et je vais vous aider.
+
+124
+00:08:32,679 --> 00:08:33,879
+Êtes-vous Rebel ?
+
+125
+00:08:34,738 --> 00:08:35,931
+Je suis <i>un</i> rebelle.
+
+126
+00:08:36,365 --> 00:08:39,415
+- Pourquoi nous chassent-ils ?
+- Ils ont peur de nous.
+
+127
+00:08:40,605 --> 00:08:42,580
+Ils détruisent
+ce qu'ils ne comprennent pas.
+
+128
+00:08:42,705 --> 00:08:44,731
+Et vous, Tom ?
+Pourquoi ont-ils peur de vous ?
+
+129
+00:08:45,054 --> 00:08:46,704
+Montrez-moi ce que vous faites.
+
+130
+00:08:57,337 --> 00:09:00,080
+- Je déteste faire ça.
+- Faire quoi ?
+
+131
+00:09:23,541 --> 00:09:25,041
+Ça a l'air marrant.
+
+132
+00:09:26,175 --> 00:09:27,175
+Marrant ?
+
+133
+00:09:30,311 --> 00:09:31,687
+Vous êtes cinglé ?
+
+134
+00:09:32,026 --> 00:09:33,242
+Écoutez-moi, Tom.
+
+135
+00:09:35,128 --> 00:09:37,835
+Les agents...
+Ils sont en route.
+
+136
+00:09:37,960 --> 00:09:39,910
+Vous devez décider maintenant.
+
+137
+00:09:40,572 --> 00:09:41,919
+Vous les choisissez eux...
+
+138
+00:09:42,890 --> 00:09:43,989
+ou moi ?
+
+139
+00:09:48,399 --> 00:09:49,163
+Vous.
+
+140
+00:09:49,982 --> 00:09:51,006
+Je vous choisis.
+
+141
+00:09:54,762 --> 00:09:55,677
+Bon choix.
+
+142
+00:10:25,994 --> 00:10:27,994
+Mon Dieu, vous avez vu ça ?
+
+143
+00:10:28,659 --> 00:10:30,109
+Il a un ego démesuré.
+
+144
+00:10:43,518 --> 00:10:46,078
+Vous deviez être vous-même.
+C'est ça ?
+
+145
+00:10:48,459 --> 00:10:50,023
+Quelque chose comme ça.
+
+146
+00:10:50,728 --> 00:10:52,978
+Vous me mettez
+dans une position délicate.
+
+147
+00:10:53,302 --> 00:10:54,902
+J'ai eu votre cible...
+
+148
+00:10:55,444 --> 00:10:57,053
+Plus un petit bonus.
+
+149
+00:10:57,873 --> 00:11:01,608
+Il a reçu un message de Rebel
+juste avant que j'arrive.
+
+150
+00:11:01,887 --> 00:11:04,978
+- Rebel est toujours à Washington.
+- Juste sous votre nez.
+
+151
+00:11:06,150 --> 00:11:07,500
+Bonne nouvelle.
+
+152
+00:11:10,528 --> 00:11:13,063
+Je pourrais avoir besoin de votre aide
+pour le capturer.
+
+153
+00:11:13,188 --> 00:11:14,188
+Mon aide ?
+
+154
+00:11:15,550 --> 00:11:16,800
+Ou celle de l'agent Taub ?
+
+155
+00:11:17,453 --> 00:11:18,453
+Vous...
+
+156
+00:11:19,735 --> 00:11:21,756
+devez faire le mort, Sylar.
+
+157
+00:11:23,604 --> 00:11:24,754
+Vous savez...
+
+158
+00:11:26,302 --> 00:11:27,652
+un de mes yeux...
+
+159
+00:11:29,230 --> 00:11:30,580
+est resté bleu...
+
+160
+00:11:31,369 --> 00:11:33,225
+pendant une heure hier.
+
+161
+00:11:35,473 --> 00:11:36,892
+Depuis cinq ans,
+
+162
+00:11:37,139 --> 00:11:40,073
+j'ai vécu... huit vies différentes...
+
+163
+00:11:40,792 --> 00:11:42,692
+avec femmes, petites amies.
+
+164
+00:11:43,360 --> 00:11:45,833
+J'ai parlé six langues.
+Mais à la fin de la journée,
+
+165
+00:11:45,958 --> 00:11:47,531
+j'ai toujours su qui j'étais.
+
+166
+00:11:47,656 --> 00:11:50,906
+- Où voulez-vous en venir ?
+- Ce que vous vivez est...
+
+167
+00:11:51,581 --> 00:11:53,031
+une crise d'identité.
+
+168
+00:11:55,142 --> 00:11:56,494
+Vous y survivrez.
+
+169
+00:11:57,567 --> 00:11:59,820
+- Comment ?
+- Trouvez un repère...
+
+170
+00:12:01,270 --> 00:12:03,262
+qui vous rappelle qui vous êtes.
+
+171
+00:12:04,823 --> 00:12:07,023
+Quand vous vous sentirez perdu...
+
+172
+00:12:08,336 --> 00:12:10,586
+vous pourrez vous y accrocher.
+
+173
+00:12:13,759 --> 00:12:15,442
+Mon père m'a donné ceci...
+
+174
+00:12:16,445 --> 00:12:17,751
+il y a vingt ans.
+
+175
+00:12:19,613 --> 00:12:21,006
+Je la regarde...
+
+176
+00:12:21,805 --> 00:12:23,205
+et je suis chez moi.
+
+177
+00:12:24,539 --> 00:12:25,539
+Je peux ?
+
+178
+00:12:31,068 --> 00:12:32,019
+Rodina.
+
+179
+00:12:32,939 --> 00:12:34,539
+De l'armée soviétique.
+
+180
+00:12:39,145 --> 00:12:42,560
+Trois minutes d'avance, elle prend
+une demi-seconde d'avance par heure.
+
+181
+00:12:45,064 --> 00:12:47,014
+Sinon, c'est une belle montre.
+
+182
+00:12:48,684 --> 00:12:50,784
+Comprendre le fonctionnement
+des choses...
+
+183
+00:12:52,722 --> 00:12:54,922
+À qui avez-vous pris ce pouvoir ?
+
+184
+00:12:59,115 --> 00:13:01,915
+C'est le seul qui
+m'appartienne vraiment.
+
+185
+00:13:03,654 --> 00:13:07,134
+Je ne comprends toujours pas.
+Tu veux qu'on se fasse capturer ?
+
+186
+00:13:07,254 --> 00:13:09,269
+C'est le seul moyen.
+
+187
+00:13:09,389 --> 00:13:13,253
+Le loft de M. Isaac a des détecteurs
+de mouvement à laser invisible.
+
+188
+00:13:13,783 --> 00:13:16,597
+S'ils sont invisibles,
+comment le sais-tu ?
+
+189
+00:13:21,621 --> 00:13:25,430
+Voilà le plan. Tu es l'appât.
+
+190
+00:13:25,550 --> 00:13:27,554
+Les méchants te capturent
+
+191
+00:13:27,674 --> 00:13:30,929
+et révèlent l'emplacement
+de leur repaire secret.
+
+192
+00:13:31,054 --> 00:13:33,234
+Je te sauve et nous les battons.
+
+193
+00:13:33,354 --> 00:13:35,773
+Fais comme si
+tu étais inconscient.
+
+194
+00:13:36,065 --> 00:13:38,775
+Je ne peux pas arrêter le temps
+si je suis inconscient.
+
+195
+00:13:38,900 --> 00:13:41,487
+Je ne peux pas être <i>La Flèche écarlate</i>
+si je suis inconscient.
+
+196
+00:13:41,612 --> 00:13:42,779
+<i>La Flèche écarlate ?</i>
+
+197
+00:13:43,150 --> 00:13:46,875
+Mon pseudo de super-héros.
+Qu'en penses-tu ?
+
+198
+00:13:47,537 --> 00:13:51,079
+C'est bien. Ça fait dangereux.
+
+199
+00:13:51,887 --> 00:13:53,651
+Pour une fille.
+
+200
+00:13:55,887 --> 00:13:58,686
+Tu n'es toujours pas à l'aise
+avec le fait que j'aie des pouvoirs.
+
+201
+00:13:58,806 --> 00:14:00,356
+On a surmonté ça.
+
+202
+00:14:00,476 --> 00:14:03,719
+Je suis très content
+que tu aies ce <i>truc</i> rouge rayonnant.
+
+203
+00:14:04,067 --> 00:14:05,063
+Je l'ai vu.
+
+204
+00:14:05,992 --> 00:14:07,600
+Ton sourire.
+
+205
+00:14:08,109 --> 00:14:11,961
+Tu ne me vois pas comme ton égal !
+
+206
+00:14:12,259 --> 00:14:15,696
+J'espérais que nous pourrions
+faire une équipe de super-héros.
+
+207
+00:14:15,816 --> 00:14:18,774
+Mais peut être que je devrais
+être plus comme Batman.
+
+208
+00:14:19,067 --> 00:14:20,692
+Le super-héros solitaire.
+
+209
+00:14:41,212 --> 00:14:44,201
+Désolé Ando, tu es l'appât.
+
+210
+00:14:44,722 --> 00:14:46,886
+J'ai dit que je ne voulais pas être l'appât.
+
+211
+00:14:51,790 --> 00:14:53,147
+Je ne suis pas figé.
+
+212
+00:14:53,267 --> 00:14:54,643
+Tu n'es pas figé.
+
+213
+00:15:08,727 --> 00:15:10,753
+Ça signifie que je n'ai pas à faire l'appât.
+
+214
+00:15:17,832 --> 00:15:19,568
+Vous êtes l'agent spécial Taub ?
+
+215
+00:15:20,080 --> 00:15:21,330
+On dirait bien.
+
+216
+00:15:22,630 --> 00:15:24,930
+Meurtre non résolu de Virginia Gray.
+
+217
+00:15:25,178 --> 00:15:27,632
+Dites-moi, pourquoi les fédéraux
+s'intéressent-ils
+
+218
+00:15:27,757 --> 00:15:29,745
+à une vieille peau morte du Queens ?
+
+219
+00:15:30,172 --> 00:15:31,429
+Ce fut un plaisir.
+
+220
+00:16:50,349 --> 00:16:52,090
+C'était ma préférée.
+
+221
+00:17:02,553 --> 00:17:04,064
+Je l'ai achetée pour toi.
+
+222
+00:17:06,026 --> 00:17:07,331
+Je m'en souviens.
+
+223
+00:17:08,235 --> 00:17:09,866
+C'était la fête des mères.
+
+224
+00:17:11,996 --> 00:17:13,991
+Tu es un si bon garçon.
+
+225
+00:17:16,037 --> 00:17:17,452
+Pourquoi m'as-tu menti ?
+
+226
+00:17:18,407 --> 00:17:20,337
+Je n'ai jamais menti.
+Pas à toi.
+
+227
+00:17:22,652 --> 00:17:23,869
+Je suis ta mère.
+
+228
+00:17:27,290 --> 00:17:29,130
+Je connais la vérité désormais.
+
+229
+00:17:29,255 --> 00:17:31,540
+Ma vraie mère a été tuée
+devant mes yeux. Tu étais là.
+
+230
+00:17:31,665 --> 00:17:33,765
+- Tu l'as vu.
+- Un homme terrible.
+
+231
+00:17:34,315 --> 00:17:36,815
+Et tu étais une petite chose
+si fragile...
+
+232
+00:17:37,291 --> 00:17:39,887
+J'ai voulu te protéger, t'aimer.
+
+233
+00:17:40,797 --> 00:17:42,865
+Je ne pensais pas
+que la vérité importait.
+
+234
+00:17:43,458 --> 00:17:44,858
+Elle m'importait, à moi.
+
+235
+00:17:46,110 --> 00:17:49,609
+Toute ma vie... je n'ai jamais eu
+l'impression d'être à ma place.
+
+236
+00:17:54,971 --> 00:17:57,318
+J'ai rendu visite à mon vrai père.
+
+237
+00:17:59,874 --> 00:18:02,587
+Il était tellement seul,
+tellement pathétique.
+
+238
+00:18:06,682 --> 00:18:09,392
+Je ne voulais pas devenir comme lui,
+alors j'ai pris ce pouvoir...
+
+239
+00:18:09,517 --> 00:18:12,340
+Et maintenant, je peux devenir
+quiconque sur cette planète.
+
+240
+00:18:14,954 --> 00:18:16,654
+Alors, dis-moi, maman...
+
+241
+00:18:20,393 --> 00:18:22,726
+Pourquoi j'ai l'impression
+d'avoir perdu tout repère ?
+
+242
+00:18:23,527 --> 00:18:24,827
+Ce n'est pas le cas.
+
+243
+00:18:25,700 --> 00:18:26,991
+Tu es mon fils.
+
+244
+00:18:28,936 --> 00:18:31,986
+Je ne t'ai peut-être pas donné la vie,
+mais je t'ai aimé.
+
+245
+00:18:32,373 --> 00:18:34,941
+Je t'ai désiré dès l'instant
+où je t'ai vu.
+
+246
+00:18:36,143 --> 00:18:38,324
+J'ai vu combien tu étais spécial.
+
+247
+00:18:38,492 --> 00:18:39,842
+Mais je t'ai tuée !
+
+248
+00:18:42,316 --> 00:18:45,566
+Et plus personne n'était là
+pour te donner de l'amour.
+
+249
+00:18:48,674 --> 00:18:50,074
+Mais, désormais...
+
+250
+00:18:51,581 --> 00:18:52,887
+je suis de retour.
+
+251
+00:19:11,825 --> 00:19:13,026
+Que faites-vous ?
+
+252
+00:19:13,427 --> 00:19:15,463
+Rien.
+Que voulez-vous ?
+
+253
+00:19:16,691 --> 00:19:18,091
+On a trouvé Rebel.
+
+254
+00:19:18,819 --> 00:19:21,159
+Dites à l'agent Taub de nous rejoindre.
+
+255
+00:19:26,083 --> 00:19:28,874
+Wow, c'est génial !
+Comment est-ce possible ?
+
+256
+00:19:28,994 --> 00:19:30,839
+Je n'avais jamais vu
+le temps figé avant !
+
+257
+00:19:31,641 --> 00:19:33,379
+C'est parce qu'on se touchait.
+
+258
+00:19:33,547 --> 00:19:35,882
+Je tenais bébé Matt Parkman
+quand j'ai figé le temps plus tôt.
+
+259
+00:19:36,050 --> 00:19:37,842
+Il ne s'est pas figé non plus.
+
+260
+00:19:38,472 --> 00:19:41,805
+J'ai l'impression d'être
+dans ton domaine privé.
+
+261
+00:19:41,969 --> 00:19:43,565
+Arrête ça !
+
+262
+00:19:44,946 --> 00:19:50,226
+Je vois. Il faut toujours
+que ce soit "ton" moment.
+
+263
+00:19:50,346 --> 00:19:52,732
+Mais maintenant, c'est "notre" moment.
+
+264
+00:19:52,857 --> 00:19:54,014
+"Notre moment" ?
+
+265
+00:19:54,134 --> 00:19:58,286
+C'est comme Batman visitant
+Superman dans sa forteresse de solitude.
+
+266
+00:19:59,825 --> 00:20:01,829
+Tu penses que je suis Superman ?
+
+267
+00:20:02,148 --> 00:20:04,821
+Tu es noble comme Superman.
+
+268
+00:20:05,746 --> 00:20:08,464
+Tu crois en la vérité et la justice
+comme Superman.
+
+269
+00:20:08,916 --> 00:20:11,821
+Et t'es un peu
+fasciste comme Superman.
+
+270
+00:20:12,990 --> 00:20:14,462
+Je suis pas un peu fasciste.
+
+271
+00:20:14,630 --> 00:20:16,714
+Tu l'es énormément.
+
+272
+00:20:16,882 --> 00:20:19,567
+Tu n'aimes pas le fait
+que je sois un super-héros.
+
+273
+00:20:22,130 --> 00:20:25,500
+Tu dois passer à autre chose,
+je t'ai trouvé l'Ando-mobile, non ?
+
+274
+00:20:27,511 --> 00:20:31,362
+Je pense juste que <i>La Flèche écarlate</i>
+a des connotations malheureuses.
+
+275
+00:20:34,870 --> 00:20:37,140
+Tu n'es pas le seul
+à avoir une destinée, Hiro.
+
+276
+00:20:37,265 --> 00:20:38,849
+Je ne suis pas ton faire-valoir !
+
+277
+00:20:39,875 --> 00:20:44,103
+Batman peut se débrouiller tout seul !
+
+278
+00:20:45,517 --> 00:20:47,090
+Désolé, mon ami.
+
+279
+00:21:11,817 --> 00:21:13,187
+Juste à ma taille.
+
+280
+00:21:21,627 --> 00:21:24,377
+La cible est quelque part
+dans cet immeuble.
+
+281
+00:21:24,579 --> 00:21:26,647
+Bien... coupez le courant.
+
+282
+00:21:35,406 --> 00:21:39,088
+L'alimentation est à plat, Messieurs.
+Pas d'électricité, pas de machine.
+
+283
+00:21:39,256 --> 00:21:41,706
+Il est temps de capturer cette enflure.
+
+284
+00:21:44,059 --> 00:21:45,059
+On y va !
+
+285
+00:21:51,206 --> 00:21:52,256
+Tu viens ?
+
+286
+00:22:13,560 --> 00:22:15,124
+C'est toi Rebel ?
+T'es qu'un gosse.
+
+287
+00:22:16,616 --> 00:22:19,030
+- Je sais qui tu es.
+- J'en doute.
+
+288
+00:22:19,155 --> 00:22:22,005
+Je sais que tu as un problème.
+Je crois pouvoir aider.
+
+289
+00:22:22,837 --> 00:22:25,137
+Alors dis-moi, quel est mon problème ?
+
+290
+00:22:25,900 --> 00:22:27,917
+Tu as oublié qui tu es.
+
+291
+00:22:30,053 --> 00:22:32,555
+- Et tu vas m'aider pour ça ?
+- Oui, je peux.
+
+292
+00:22:32,680 --> 00:22:34,247
+Tu es l'un des nôtres.
+
+293
+00:22:34,371 --> 00:22:35,591
+Ceux avec un pouvoir.
+
+294
+00:22:35,716 --> 00:22:38,602
+Nous sommes liés.
+Tu n'as pas à rester seul.
+
+295
+00:22:38,727 --> 00:22:41,364
+Tu es seul, Micah.
+Ta famille a disparu.
+
+296
+00:22:41,489 --> 00:22:44,595
+Tu n'as que ces machines
+et tes illusions.
+
+297
+00:22:44,720 --> 00:22:46,535
+- On peut s'entraider.
+- Trop tard.
+
+298
+00:22:46,660 --> 00:22:49,272
+- J'ai rejoint l'autre équipe.
+- Ils ne te connaissent pas.
+
+299
+00:22:49,397 --> 00:22:51,647
+Ils ne voient pas combien tu es spécial.
+
+300
+00:22:52,778 --> 00:22:54,122
+Tu peux tous nous sauver.
+
+301
+00:23:05,274 --> 00:23:08,889
+{\fad(500,500)}<i>Route expresse Baltimore/Washington</i>
+
+302
+00:23:31,070 --> 00:23:33,665
+Ando, réveille-toi !
+
+303
+00:23:35,541 --> 00:23:38,641
+Si je n'étais pas attaché,
+je te frapperais !
+
+304
+00:23:38,698 --> 00:23:39,814
+Tu m'as piégé !
+
+305
+00:23:39,857 --> 00:23:42,030
+Calme-toi. Ils nous emmènent
+au repaire des méchants.
+
+306
+00:23:42,150 --> 00:23:45,010
+Mais d'abord tu dois faire le mort.
+
+307
+00:23:45,736 --> 00:23:48,129
+D'abord je fais l'appât
+et maintenant je fais le mort ?
+
+308
+00:23:48,607 --> 00:23:49,980
+Laisse-moi remettre le tube.
+
+309
+00:23:50,105 --> 00:23:52,144
+C'est bon.
+J'ai coupé le produit.
+
+310
+00:23:52,264 --> 00:23:54,561
+Rappelle-toi, tu es inconscient !
+
+311
+00:24:05,189 --> 00:24:07,289
+Depuis quand tu portes des lunettes ?
+
+312
+00:24:18,938 --> 00:24:20,881
+Pourquoi tu as fait ça ?
+
+313
+00:24:21,001 --> 00:24:23,189
+J'avais dit d'attendre
+qu'on soit à l'intérieur.
+
+314
+00:24:23,581 --> 00:24:25,740
+Il a failli t'électrocuter.
+
+315
+00:24:32,473 --> 00:24:36,389
+Allons là où ils se rendaient.
+
+316
+00:24:39,115 --> 00:24:40,857
+Allons-y, Batman !
+
+317
+00:24:41,427 --> 00:24:43,674
+Je suis <i>La Flèche écarlate !</i>
+
+318
+00:24:46,944 --> 00:24:48,797
+Sécurisez tous les étages.
+
+319
+00:24:49,927 --> 00:24:51,906
+Rebel s'enfuit.
+Il est sur la jetée.
+
+320
+00:25:14,724 --> 00:25:17,265
+- Ce n'est qu'un gosse.
+- Descendez-le, maintenant !
+
+321
+00:25:21,466 --> 00:25:22,716
+<i>Descendez-le !</i>
+
+322
+00:25:31,288 --> 00:25:32,479
+Vous le voyez ?
+
+323
+00:25:35,863 --> 00:25:37,063
+Vous le trouvez ?
+
+324
+00:25:37,457 --> 00:25:38,757
+Je ne le vois pas.
+
+325
+00:25:41,928 --> 00:25:44,828
+Cherchez aussi de
+l'autre côté de la jetée.
+
+326
+00:25:51,896 --> 00:25:53,751
+Ça ne vous ressemble pas.
+
+327
+00:25:54,314 --> 00:25:57,077
+Pourquoi ne pas l'avoir tué
+et pris son pouvoir ?
+
+328
+00:25:57,655 --> 00:26:00,073
+Je ne sais plus où donner de la tête
+avec mes pouvoirs.
+
+329
+00:26:00,198 --> 00:26:03,481
+Parler aux machines,
+c'était superflu.
+
+330
+00:26:04,124 --> 00:26:05,901
+Ils n'ont pas retrouvé son corps.
+
+331
+00:26:06,026 --> 00:26:08,415
+- On dirait qu'il a filé.
+- Il ne peut pas guérir.
+
+332
+00:26:08,540 --> 00:26:09,690
+Il est mort.
+
+333
+00:26:13,834 --> 00:26:15,698
+Nous avons récupéré des infos.
+
+334
+00:26:16,386 --> 00:26:18,436
+L'emplacement d'une douzaine
+d'entre eux.
+
+335
+00:26:19,410 --> 00:26:22,751
+Il faudrait que vous partiez
+à la recherche des plus dangereux.
+
+336
+00:26:23,080 --> 00:26:24,657
+Être le chasseur...
+
+337
+00:26:24,777 --> 00:26:25,875
+Pas le gibier.
+
+338
+00:26:26,113 --> 00:26:27,263
+C'est l'idée.
+
+339
+00:26:27,999 --> 00:26:29,709
+Vous pouvez commencer ce soir.
+
+340
+00:26:31,780 --> 00:26:34,180
+Dès que vous aurez changé de visage.
+
+341
+00:26:44,115 --> 00:26:46,711
+Je suis si fière de toi, Gabriel.
+
+342
+00:26:47,501 --> 00:26:50,086
+Ça ne va pas.
+Je ne suis pas comme ça.
+
+343
+00:26:50,211 --> 00:26:51,445
+Pourquoi l'ai-je sauvé ?
+
+344
+00:26:51,570 --> 00:26:54,251
+Tu l'as sauvé car
+c'est un petit garçon perdu,
+
+345
+00:26:54,376 --> 00:26:55,876
+un orphelin, comme toi.
+
+346
+00:26:56,676 --> 00:26:59,346
+Il n'a plus sa maman
+pour lui donner de l'amour.
+
+347
+00:26:59,847 --> 00:27:01,494
+En quoi ça me concerne ?
+
+348
+00:27:01,619 --> 00:27:03,719
+Tu comprends ce qu'il ressent,
+
+349
+00:27:04,107 --> 00:27:06,120
+à quel point il est égaré.
+
+350
+00:27:09,495 --> 00:27:10,845
+Pas vrai, Micah ?
+
+351
+00:27:16,926 --> 00:27:18,440
+Je n'aurais pas dû t'amener ici.
+
+352
+00:27:19,241 --> 00:27:21,922
+Tu changes de forme.
+Comment tu fais ça ?
+
+353
+00:27:23,302 --> 00:27:25,902
+Je peux dupliquer l'ADN
+de n'importe qui.
+
+354
+00:27:27,478 --> 00:27:29,878
+Ma mère faisait le même genre de chose.
+
+355
+00:27:30,003 --> 00:27:33,822
+Mais à l'intérieur. Ça la rendait folle.
+Elle s'est battue et est devenue un héros.
+
+356
+00:27:33,947 --> 00:27:36,746
+Je ne suis pas... ta mère.
+
+357
+00:27:38,012 --> 00:27:40,862
+Tu peux devenir quelqu'un
+d'important et changer les choses.
+
+358
+00:27:40,987 --> 00:27:43,391
+Comme... Nathan Petrelli.
+
+359
+00:27:43,516 --> 00:27:46,351
+Tu peux dire au président
+qu'il a fait une grosse erreur.
+
+360
+00:27:48,429 --> 00:27:50,251
+Je te donne une chance de partir.
+
+361
+00:27:50,589 --> 00:27:53,132
+Prends-la avant que
+je ne change d'avis.
+
+362
+00:27:55,249 --> 00:27:56,477
+Et ne reviens pas.
+
+363
+00:27:56,926 --> 00:27:58,526
+Si je te revois...
+
+364
+00:27:59,056 --> 00:28:00,256
+je te tuerai.
+
+365
+00:28:09,394 --> 00:28:13,627
+{\fad(500,500)}<i>Bureau de Nathan Petrelli
+Washington, D.C.</i>
+
+366
+00:28:44,344 --> 00:28:47,920
+Regarde ces médailles !
+C'est tellement beau !
+
+367
+00:28:49,101 --> 00:28:51,525
+Il est né avec une cuiller
+en argent dans la bouche.
+
+368
+00:28:52,481 --> 00:28:55,131
+Tout lui a été offert.
+L'argent, les écoles...
+
+369
+00:28:57,247 --> 00:28:58,194
+La famille.
+
+370
+00:28:59,952 --> 00:29:01,941
+Oui, mais tu as un don.
+
+371
+00:29:02,674 --> 00:29:04,019
+Tu es spécial.
+
+372
+00:29:04,144 --> 00:29:05,916
+Tu n'as eu besoin de personne
+
+373
+00:29:06,041 --> 00:29:08,079
+et maintenant tu vas devenir sénateur.
+
+374
+00:29:08,758 --> 00:29:10,247
+Je suis si fière.
+
+375
+00:29:10,486 --> 00:29:12,228
+- Arrête.
+- Quel est le problème ?
+
+376
+00:29:12,353 --> 00:29:15,169
+Tu sais que tu es meilleur que lui,
+tu es meilleur que tous les autres !
+
+377
+00:29:16,259 --> 00:29:17,509
+Ce n'est pas vrai.
+
+378
+00:29:19,210 --> 00:29:20,216
+Je t'ai tuée.
+
+379
+00:29:20,692 --> 00:29:22,051
+C'était un accident.
+
+380
+00:29:23,096 --> 00:29:24,946
+Tu ne voulais pas me tuer.
+
+381
+00:29:27,825 --> 00:29:29,675
+Ce n'était pas un accident.
+
+382
+00:29:31,641 --> 00:29:34,291
+Tu ne comprends pas ?
+Je voulais que tu meures.
+
+383
+00:29:36,312 --> 00:29:38,162
+La façon dont tu me regardais...
+
+384
+00:29:38,986 --> 00:29:41,062
+Comme si tu regardais un monstre.
+
+385
+00:29:45,030 --> 00:29:46,678
+Je me sentais si insignifiant.
+
+386
+00:29:47,990 --> 00:29:50,740
+Et tu es venue vers moi avec les ciseaux.
+
+387
+00:29:54,380 --> 00:29:56,150
+Comment pourrais-je être spécial ?
+
+388
+00:29:59,006 --> 00:30:00,990
+Comment pourrais-je être
+quoi que ce soit ?
+
+389
+00:30:02,144 --> 00:30:05,020
+Alors que j'ai tué la seule personne
+à m'avoir jamais aimé ?
+
+390
+00:30:08,796 --> 00:30:12,082
+Alors c'est là que tu t'es égaré,
+
+391
+00:30:12,877 --> 00:30:14,941
+c'est pourquoi tu m'as ramenée ici.
+
+392
+00:30:18,794 --> 00:30:20,791
+Je te pardonne, Gabriel.
+
+393
+00:30:26,546 --> 00:30:27,741
+Je suis désolé.
+
+394
+00:30:28,583 --> 00:30:31,090
+Tu peux devenir tout ce que tu veux.
+
+395
+00:30:31,701 --> 00:30:32,951
+Un sénateur...
+
+396
+00:30:34,299 --> 00:30:36,061
+ou peut-être même...
+
+397
+00:30:38,155 --> 00:30:41,165
+président des États-Unis.
+
+398
+00:30:56,829 --> 00:30:57,979
+Tu as raison.
+
+399
+00:30:59,025 --> 00:31:00,775
+Je peux devenir tout ce que je veux.
+
+400
+00:31:02,398 --> 00:31:04,198
+Je peux devenir président.
+
+401
+00:31:11,858 --> 00:31:14,208
+Je ne te laisserai pas tomber, maman.
+
+402
+00:31:17,918 --> 00:31:20,241
+<i>Partie au magasin, reviens bientôt.
+C'est ouvert. Janice</i>
+
+403
+00:31:20,366 --> 00:31:22,997
+Regarde ! Tu vois ?
+Maman arrive.
+
+404
+00:31:23,588 --> 00:31:25,010
+Elle te manque, hein ?
+
+405
+00:31:25,254 --> 00:31:26,543
+Je suis sûr que oui.
+
+406
+00:31:26,843 --> 00:31:29,643
+Wow, regarde ça.
+Maman s'en tire plutôt bien.
+
+407
+00:31:29,888 --> 00:31:32,370
+Avant que tu naisses, maman et papa
+n'avaient pas tout ça.
+
+408
+00:31:32,495 --> 00:31:35,375
+Je ne savais même pas que tu existais.
+Elle ne se doutait pas
+
+409
+00:31:35,500 --> 00:31:38,145
+qu'en jetant un œil sur toi,
+je tomberais amoureux.
+
+410
+00:31:38,313 --> 00:31:39,615
+Je suis tombé amoureux !
+
+411
+00:31:39,739 --> 00:31:41,273
+Wow, belle chambre !
+
+412
+00:31:41,441 --> 00:31:44,336
+Je sais ce que tu penses mais
+je ne peux pas rentrer dans sa tête
+
+413
+00:31:44,461 --> 00:31:46,410
+pour qu'elle oublie et me pardonne.
+
+414
+00:31:46,535 --> 00:31:49,615
+Non, car il ne faut pas utiliser
+nos pouvoirs sur des gens innocents.
+
+415
+00:31:53,266 --> 00:31:55,459
+Oh, merci mon Dieu !
+Merci !
+
+416
+00:31:55,584 --> 00:31:56,834
+Coucou !
+
+417
+00:31:59,466 --> 00:32:01,083
+Merci de l'avoir ramené.
+
+418
+00:32:01,386 --> 00:32:03,336
+Ouais. Euh... C'est normal !
+C'est...
+
+419
+00:32:04,526 --> 00:32:06,226
+C'est un enfant adorable.
+
+420
+00:32:08,644 --> 00:32:10,177
+C'est bon de te voir.
+
+421
+00:32:10,894 --> 00:32:12,091
+Ouais, toi aussi.
+
+422
+00:32:19,438 --> 00:32:20,588
+Qu'y a-t-il ?
+
+423
+00:32:22,858 --> 00:32:25,684
+On est observé, je les entends.
+Il y a un van d'agents dans la rue.
+
+424
+00:32:25,809 --> 00:32:28,070
+Je peux les retenir,
+mais vous devez partir.
+
+425
+00:32:28,235 --> 00:32:30,228
+Euh, mes parents ont
+une maison de vacances.
+
+426
+00:32:30,353 --> 00:32:33,214
+- Fais tes valises, je surveille Matty.
+- Mais, et toi ?
+
+427
+00:32:34,841 --> 00:32:37,288
+Hum, eh bien, je pourrais venir aussi...
+
+428
+00:32:38,302 --> 00:32:39,852
+Je sais, c'est dingue.
+
+429
+00:32:42,278 --> 00:32:45,087
+Je suis son père
+et je veux faire partie de sa vie.
+
+430
+00:32:46,607 --> 00:32:48,348
+On a beaucoup de choses à se dire.
+
+431
+00:32:52,139 --> 00:32:53,474
+<i>Mesdames et Messieurs,</i>
+
+432
+00:32:53,908 --> 00:32:57,393
+<i>notre pays traverse
+des crises sans précédent.</i>
+
+433
+00:32:58,267 --> 00:33:00,913
+<i>Du terrorisme
+au chaos économique mondial.</i>
+
+434
+00:33:01,038 --> 00:33:05,305
+<i>Notre gouvernement n'est pas apte
+à gérer de telles crises.</i>
+
+435
+00:33:06,428 --> 00:33:08,572
+<i>Il faut revoir les institutions
+de Washington</i>
+
+436
+00:33:08,697 --> 00:33:11,126
+<i>pour offrir à l'Amérique
+un réel changement.</i>
+
+437
+00:33:11,246 --> 00:33:13,516
+<i>Et j'ai un plan le permettant.</i>
+
+438
+00:33:14,055 --> 00:33:18,595
+<i>Vous devez vous demander pourquoi
+je ne le présente pas au président.</i>
+
+439
+00:33:18,955 --> 00:33:21,163
+<i>Croyez-moi, j'ai essayé.</i>
+
+440
+00:33:21,288 --> 00:33:23,881
+<i>Mon bureau a appelé de nombreuses fois
+la Maison-Blanche.</i>
+
+441
+00:33:24,006 --> 00:33:26,406
+<i>Mais il semblerait
+que le président soit...</i>
+
+442
+00:33:26,538 --> 00:33:28,582
+<i>trop occupé pour me rencontrer
+en face à face.</i>
+
+443
+00:33:28,707 --> 00:33:31,800
+<i>Trop occupé à garder
+les choses en l'état.</i>
+
+444
+00:33:32,377 --> 00:33:34,470
+<i>Il aime parler de changement...</i>
+
+445
+00:33:35,236 --> 00:33:38,586
+<i>mais il n'est pas prêt pour cela,
+ou ne le souhaite pas.</i>
+
+446
+00:33:38,920 --> 00:33:41,478
+<i>Je sais comment ramener
+un véritable but à la Maison-Blanche</i>
+
+447
+00:33:41,603 --> 00:33:42,753
+<i>et à ce pays.</i>
+
+448
+00:33:42,878 --> 00:33:46,315
+<i>Et je vous promets que, lorsque
+le président acceptera de me rencontrer,</i>
+
+449
+00:33:47,428 --> 00:33:49,401
+<i>lorsqu'il acceptera de me serrer la main,</i>
+
+450
+00:33:50,533 --> 00:33:52,446
+<i>le pays connaîtra
+un véritable changement.</i>
+
+451
+00:33:53,174 --> 00:33:54,199
+<i>Et les choses...</i>
+
+452
+00:33:54,805 --> 00:33:56,133
+<i>changeront à jamais.</i>
+
+453
+00:34:05,751 --> 00:34:07,920
+- Comment fait-il ça ?
+- Il est polymorphe.
+
+454
+00:34:08,135 --> 00:34:11,033
+Et il n'est qu'à une poignée de main
+d'être le plus puissant de ce monde.
+
+455
+00:34:11,158 --> 00:34:13,057
+Le président ne le rencontrera
+peut-être pas.
+
+456
+00:34:13,182 --> 00:34:14,892
+Tu plaisantes ?
+Après ces attaques ?
+
+457
+00:34:15,017 --> 00:34:17,686
+Je suis sûr que mon équipe arrange
+la rencontre en ce moment même.
+
+458
+00:34:17,811 --> 00:34:19,679
+- Il nous faut un plan.
+- Non.
+
+459
+00:34:20,878 --> 00:34:22,588
+Je dois le faire moi-même, Noah.
+
+460
+00:34:22,904 --> 00:34:24,947
+Tu as déjà commis cette erreur, Nathan.
+
+461
+00:34:25,072 --> 00:34:27,439
+Essayer de tout faire par toi-même
+ne fonctionne pas.
+
+462
+00:34:27,607 --> 00:34:29,062
+Elle a raison.
+On peut t'aider.
+
+463
+00:34:29,187 --> 00:34:30,609
+Je n'ai pas à l'affronter.
+
+464
+00:34:31,358 --> 00:34:34,201
+Je dois m'assurer qu'il ne rencontre
+pas le président le premier.
+
+465
+00:34:34,449 --> 00:34:36,992
+Sylar va le présager.
+Il va t'y attendre.
+
+466
+00:34:40,028 --> 00:34:41,378
+Je viens avec toi.
+
+467
+00:34:45,755 --> 00:34:49,044
+C'est moi qui ai engendré ça.
+Je dois y mettre un terme.
+
+468
+00:35:08,362 --> 00:35:11,773
+On y est, le building 26 est ici.
+
+469
+00:35:13,247 --> 00:35:15,609
+Si on doit être au même niveau,
+
+470
+00:35:15,734 --> 00:35:17,801
+tu ne peux pas monter tes plans
+sans me consulter.
+
+471
+00:35:19,614 --> 00:35:21,834
+Tu ne fais pas de moi un appât...
+
+472
+00:35:21,954 --> 00:35:24,788
+ou un leurre, ou un prisonnier,
+sans me consulter.
+
+473
+00:35:27,465 --> 00:35:29,835
+Alors, c'est d'accord, partenaire ?
+
+474
+00:35:31,757 --> 00:35:35,557
+C'est super d'être Batman, Ando.
+
+475
+00:35:35,677 --> 00:35:39,083
+Mais je ne veux pas que tu luttes seul.
+
+476
+00:35:39,203 --> 00:35:41,096
+Sans personne à qui te fier.
+
+477
+00:35:41,598 --> 00:35:44,948
+<i>La Flèche écarlate</i> a besoin
+d'un partenaire.
+
+478
+00:35:45,068 --> 00:35:45,893
+Tout comme moi.
+
+479
+00:35:47,064 --> 00:35:50,314
+Tu réalises que
+cela va tout changer ?
+
+480
+00:35:51,238 --> 00:35:52,983
+Oui, mon ami.
+
+481
+00:35:53,567 --> 00:35:54,614
+On y va ?
+
+482
+00:35:54,739 --> 00:35:56,790
+Vas-y, gèle le temps.
+
+483
+00:36:01,232 --> 00:36:02,451
+Qu'y a-t-il ?
+
+484
+00:36:02,903 --> 00:36:06,813
+Ma tête me fait mal. Très mal.
+
+485
+00:36:09,580 --> 00:36:11,668
+Je crois qu'on a un problème.
+
+486
+00:36:13,674 --> 00:36:15,824
+<i>Matt, as-tu vu sa tétine ?</i>
+
+487
+00:36:17,425 --> 00:36:18,925
+<i>- Matt ?</i>
+- Ouais...
+
+488
+00:36:23,589 --> 00:36:24,348
+Prête.
+
+489
+00:36:25,035 --> 00:36:28,147
+Je suis navré Janice,
+mais je ne peux pas venir avec vous.
+
+490
+00:36:31,293 --> 00:36:32,314
+Pourquoi ?
+
+491
+00:36:32,439 --> 00:36:33,539
+Parce que...
+
+492
+00:36:35,406 --> 00:36:36,652
+C'est si parfait.
+
+493
+00:36:37,664 --> 00:36:39,918
+Cette maison, notre fils, toi...
+
+494
+00:36:40,880 --> 00:36:43,380
+C'est tout ce que j'ai toujours cherché.
+
+495
+00:36:44,003 --> 00:36:45,529
+Et je ne l'avais pas réalisé,
+
+496
+00:36:45,654 --> 00:36:47,698
+mais Hiro avait raison,
+je dois y retourner.
+
+497
+00:36:47,823 --> 00:36:49,934
+Je dois les affronter,
+et je dois y mettre un terme
+
+498
+00:36:50,059 --> 00:36:52,459
+ou nous ne pourrons
+jamais vivre ensemble.
+
+499
+00:36:54,262 --> 00:36:56,062
+Tu veux qu'on vive ensemble ?
+
+500
+00:37:00,370 --> 00:37:01,470
+Je sais pas.
+
+501
+00:37:02,708 --> 00:37:03,708
+Peut-être.
+
+502
+00:37:05,415 --> 00:37:08,600
+Mais je veux pouvoir être à nouveau
+avec toi et je me battrai pour ça.
+
+503
+00:37:14,008 --> 00:37:15,315
+Bon sang, ils arrivent !
+
+504
+00:37:16,900 --> 00:37:18,200
+Allez, viens là.
+
+505
+00:37:20,654 --> 00:37:22,232
+Matt, ils sont derrière.
+
+506
+00:37:22,357 --> 00:37:24,001
+- C'est bon.
+- On est encerclé.
+
+507
+00:37:24,126 --> 00:37:25,868
+C'est bon, reste près de moi, OK ?
+
+508
+00:37:25,993 --> 00:37:27,386
+Je vais nous protéger.
+
+509
+00:37:28,872 --> 00:37:30,322
+Passez par le côté.
+
+510
+00:37:33,352 --> 00:37:34,352
+<i>En bas.</i>
+
+511
+00:37:45,024 --> 00:37:46,824
+C'est ça que tu cherches ?
+
+512
+00:37:49,879 --> 00:37:51,435
+Arrête d'utiliser mon corps.
+
+513
+00:37:56,113 --> 00:37:57,375
+Pauvre Nathan.
+
+514
+00:38:02,010 --> 00:38:04,114
+Tu te détestes tant...
+
+515
+00:38:04,402 --> 00:38:06,354
+De quoi tu parles ?
+
+516
+00:38:17,446 --> 00:38:19,851
+J'ai parcouru votre vie, sénateur.
+
+517
+00:38:20,915 --> 00:38:22,759
+On vous a tant donné...
+
+518
+00:38:22,884 --> 00:38:26,063
+Et pourtant... vous voulez
+détruire la seule chose en vous
+
+519
+00:38:26,188 --> 00:38:29,348
+qui vous rende vraiment spécial.
+Votre pouvoir.
+
+520
+00:38:29,785 --> 00:38:31,433
+Tu ne sais rien de moi.
+
+521
+00:38:31,558 --> 00:38:32,608
+Bien sûr que si.
+
+522
+00:38:34,185 --> 00:38:36,411
+Votre mère m'a donné
+un pouvoir très pratique
+
+523
+00:38:36,536 --> 00:38:39,453
+me permettant de connaître l'histoire
+d'un objet en le touchant.
+
+524
+00:38:39,835 --> 00:38:42,484
+Vous...
+avez été très vilain.
+
+525
+00:38:43,621 --> 00:38:46,865
+En décevant votre mère.
+En vous opposant à votre frère.
+
+526
+00:38:48,476 --> 00:38:50,376
+À votre précieuse petite Claire.
+
+527
+00:38:52,380 --> 00:38:53,632
+Et voici la veste
+
+528
+00:38:53,949 --> 00:38:56,879
+que vous portiez lorsque
+vous les avez tous trahis.
+
+529
+00:38:57,717 --> 00:39:00,217
+Je n'ai pas de comptes à te rendre.
+
+530
+00:39:02,211 --> 00:39:03,561
+Tu es pathétique.
+
+531
+00:39:04,807 --> 00:39:06,593
+Tu n'es qu'un psychopathe.
+
+532
+00:39:06,713 --> 00:39:09,680
+C'est à cause de gens comme toi
+que je suis allé trouver le président.
+
+533
+00:39:10,657 --> 00:39:14,666
+Si tu crois, ne serait-ce qu'une seconde,
+que quiconque te prendra pour moi...
+
+534
+00:39:15,552 --> 00:39:16,802
+Tu fais erreur.
+
+535
+00:39:19,167 --> 00:39:20,717
+Je ne compte pas être vous.
+
+536
+00:39:22,877 --> 00:39:24,827
+Je compte être meilleur que vous.
+
+537
+00:39:27,718 --> 00:39:29,068
+Au revoir, Nathan.
+
+538
+00:39:37,831 --> 00:39:39,826
+Pourquoi diable avez-vous fait ça ?
+
+539
+00:39:39,951 --> 00:39:42,172
+Petrelli est un sénateur des États-Unis.
+
+540
+00:39:42,297 --> 00:39:44,783
+On doit s'en occuper avec délicatesse.
+
+541
+00:39:51,072 --> 00:39:54,643
+Et vous... devez devenir l'argent Taub
+à nouveau.
+
+542
+00:39:55,143 --> 00:39:57,913
+On se met en place pour
+se débarrasser du reste d'entre eux.
+
+543
+00:39:58,513 --> 00:40:00,766
+Vous devriez y prendre part.
+
+544
+00:40:07,940 --> 00:40:11,468
+<i>Pour tout être maudit
+par sa propre conscience,</i>
+
+545
+00:40:11,593 --> 00:40:15,130
+<i>une question sans réponse perdure :</i>
+
+546
+00:40:16,030 --> 00:40:17,100
+<i>Qui suis-je ?</i>
+
+547
+00:40:22,621 --> 00:40:26,121
+<i>Nous luttons pour trouver des liens
+profonds avec les autres. </i>
+
+548
+00:40:26,882 --> 00:40:28,782
+<i>Nous sommes l'ami attentionné... </i>
+
+549
+00:40:35,734 --> 00:40:37,284
+<i>le père aimant... </i>
+
+550
+00:40:38,575 --> 00:40:40,125
+<i>la mère protectrice... </i>
+
+551
+00:40:40,889 --> 00:40:42,439
+<i>l'enfant protégé. </i>
+
+552
+00:40:43,158 --> 00:40:44,968
+<i>Nous luttons et nous aimons,</i>
+
+553
+00:40:45,093 --> 00:40:47,343
+<i>en espérant que, d'une façon
+ou d'une autre, ensemble,</i>
+
+554
+00:40:48,262 --> 00:40:51,412
+<i>nous pourrons comprendre
+notre rôle dans l'univers.</i>
+
+555
+00:40:52,433 --> 00:40:55,934
+<i>Mais au final,
+personne ne peut partager ce fardeau. </i>
+
+556
+00:40:58,627 --> 00:41:01,583
+<i>Chacun doit répondre seul
+à cette question... </i>
+
+557
+00:41:03,150 --> 00:41:04,250
+<i>Qui suis-je ?</i>
+
+558
+00:41:05,421 --> 00:41:07,571
+<i>Qu'est-ce qu'être vivant ?</i>
+
+559
+00:41:10,985 --> 00:41:13,335
+<i>Et dans la vaste infinité du temps,</i>
+
+560
+00:41:14,511 --> 00:41:15,844
+<i>en quoi puis-je importer ?</i>
+
+561
+00:41:26,467 --> 00:41:27,731
+Que faites-vous ?
+
+562
+00:41:29,671 --> 00:41:30,721
+Je vous ai dit...
+
+563
+00:41:31,155 --> 00:41:33,052
+que j'avais besoin que vous soyez Taub.
+
+564
+00:41:33,177 --> 00:41:36,146
+Je ne suis plus intéressé
+par ce dont vous...
+
+565
+00:41:46,738 --> 00:41:47,888
+Quel gâchis...
+
+566
+00:41:48,451 --> 00:41:50,678
+Tu ne savais pas où était ta place.
+
+567
+00:41:52,780 --> 00:41:55,680
+Agent Gordon,
+envoyez une équipe de nettoyage pour...
+
+568
+00:41:58,578 --> 00:41:59,715
+s'occuper de ça...
+
+569
+00:42:22,641 --> 00:42:23,641
+Ça fait mal...
+
+570
+00:42:25,460 --> 00:42:29,592
+<i>À suivre...</i>
+

@@ -1,0 +1,3542 @@
+1
+00:00:18,431 --> 00:00:20,660
+Dr. Lightman, les types de
+la Sécurité Intérieure sont là.
+
+2
+00:00:20,700 --> 00:00:25,620
+Ils veulent que vous évaluiez
+le nouveau détecteur de mensonges portable.
+
+3
+00:00:26,520 --> 00:00:28,320
+J'arrive.
+
+4
+00:00:30,829 --> 00:00:33,519
+Travaillez-vous au Département
+de la Sécurité Intérieure ?
+
+5
+00:00:33,559 --> 00:00:34,278
+Oui.
+
+6
+00:00:45,400 --> 00:00:46,540
+Ouais.
+
+7
+00:00:46,580 --> 00:00:49,524
+- Avez-vous les cheveux noirs ?
+- Oui.
+
+8
+00:00:49,564 --> 00:00:53,415
+Regardez, le détecteur mesure la cardio
+et la réponse galvanique de la peau.
+
+9
+00:00:53,455 --> 00:00:57,130
+C'est le seul détecteur qui est développé
+avec ce genre de portée.
+
+10
+00:00:57,170 --> 00:00:58,311
+Oh, pas vraiment.
+
+11
+00:00:58,351 --> 00:01:00,777
+Cal, tu connais le secrétaire
+Miller de la Sécurité Intérieure.
+
+12
+00:01:00,817 --> 00:01:01,680
+Content de vous revoir.
+
+13
+00:01:01,720 --> 00:01:04,627
+Et voici Tom Whitmore,
+le nouveau Député de la TSA.
+
+14
+00:01:06,410 --> 00:01:07,756
+Qu'est-ce que c'est que ça ?
+
+15
+00:01:07,796 --> 00:01:09,084
+C'est un détecteur de mensonges.
+
+16
+00:01:09,124 --> 00:01:11,303
+Les Africains de l'ouest
+les ont utilisé en premier.
+
+17
+00:01:11,343 --> 00:01:13,920
+Quand vous êtes jugés, vous
+tenez l'oeuf dans vos mains,
+
+18
+00:01:13,960 --> 00:01:17,360
+et s'il se casse, c'est un signe d'anxiété.
+
+19
+00:01:17,400 --> 00:01:19,150
+Vous serez jugé coupable.
+
+20
+00:01:19,190 --> 00:01:22,230
+Je dirai que notre détecteur est un
+peu plus avancé.
+
+21
+00:01:22,270 --> 00:01:26,390
+Malheureusement, les deux dispositifs
+souffrent du même problème.
+
+22
+00:01:26,430 --> 00:01:28,500
+Mlle Cooper, voulez-vous bien venir ?
+
+23
+00:01:34,230 --> 00:01:35,530
+Puis-je ?
+
+24
+00:01:35,570 --> 00:01:37,940
+Pouvez-vous reposer les
+questions de contrôle, s'il vous plaît ?
+
+25
+00:01:37,980 --> 00:01:39,300
+Que faites-vous ?
+
+26
+00:01:46,230 --> 00:01:49,000
+Travaillez-vous au Département
+de la Sécurité Intérieure ?
+
+27
+00:01:49,040 --> 00:01:51,350
+Euh... oui.
+
+28
+00:01:54,360 --> 00:01:56,892
+- Avez-vous les cheveux noirs ?
+- Oui.
+
+29
+00:01:59,645 --> 00:02:02,330
+Le problème avec les résultats c'est
+qu'ils sont tous faussement positifs.
+
+30
+00:02:02,370 --> 00:02:05,590
+Les innocents peuvent le rater s'ils ont
+une quelconque montée d'émotion...
+
+31
+00:02:05,630 --> 00:02:08,980
+colère, peur, éveil sexuel.
+
+32
+00:02:09,020 --> 00:02:10,250
+Pas seulement de la culpabilité.
+
+33
+00:02:10,290 --> 00:02:12,594
+Votre détecteur n'est pas plus performant
+qu'un oeuf
+
+34
+00:02:12,634 --> 00:02:14,960
+pour nous dire à quelle
+émotion cela répond.
+
+35
+00:02:15,000 --> 00:02:15,508
+Non.
+
+36
+00:02:18,340 --> 00:02:20,250
+J'ai voulu essayer ça depuis des années.
+
+37
+00:02:20,290 --> 00:02:24,020
+Vous auriez été jugé coupable,
+alors que vous êtes seulement énervé.
+
+38
+00:02:24,060 --> 00:02:27,130
+Vous devriez dépenser votre
+argent à étudier des visages.
+
+39
+00:02:28,120 --> 00:02:32,500
+43 muscles combinés pour produire
+une possibilité de 10 000 expressions.
+
+40
+00:02:32,540 --> 00:02:36,430
+Alors, si vous les apprenez toutes,
+vous n'avez pas besoin de détecteur.
+
+41
+00:02:36,470 --> 00:02:39,600
+Combien a-t-on dépensé sur
+ce foutu projet ?
+
+42
+00:02:39,640 --> 00:02:44,270
+Pas beaucoup. Je suis sûr que nous
+pouvons regrouper la plupart des coûts.
+
+43
+00:02:47,470 --> 00:02:49,800
+- C'était charmant.
+- Quoi ?
+
+44
+00:02:49,840 --> 00:02:51,730
+- Un geste de recul.
+- Qu'est-ce que c'est ?
+
+45
+00:02:51,770 --> 00:02:55,320
+Il a reculé. Ça signifie qu'il
+ne croit pas ce qu'il vient de dire.
+
+46
+00:02:55,360 --> 00:02:57,040
+Il ment.
+
+47
+00:02:57,540 --> 00:02:58,900
+Je ne suis pas un escroc.
+
+48
+00:02:58,940 --> 00:03:02,840
+J'ai gagné tout ce que j'ai.
+
+49
+00:03:04,070 --> 00:03:10,738
+~ Arcadya Global Team ~
+
+50
+00:03:12,140 --> 00:03:22,130
+Traduction & Relecture : Audrey & Thirteen
+Synchro : SnowBlade
+
+51
+00:03:30,140 --> 00:03:35,130
+Lie To Me
+Saison 1 Episode 2 Moral Waiver
+
+52
+00:03:45,310 --> 00:03:46,540
+Qu'est-ce que tu vois ?
+
+53
+00:03:46,580 --> 00:03:51,230
+Je vois un scientifique sceptique,
+distant, obsédé par les tics des visages.
+
+54
+00:03:51,270 --> 00:03:53,340
+Pourquoi fais-tu un entraînement
+sur les micro-expressions ?
+
+55
+00:03:53,380 --> 00:03:55,110
+Je l'ai réglé sur la vitesse 3.
+
+56
+00:03:55,150 --> 00:03:58,500
+Quand tu essayes de cacher tes émotions,
+elles se dévoilent en un 5ème de sec, non ?
+
+57
+00:03:58,540 --> 00:04:02,280
+Ça me teste à un
+quinzième de seconde.
+
+58
+00:04:03,210 --> 00:04:03,711
+PEUR
+
+59
+00:04:03,751 --> 00:04:05,420
+Impressionnant.
+
+60
+00:04:05,460 --> 00:04:07,550
+Tu sais qui d'autre est
+impressionnant sur cette machine ?
+
+61
+00:04:07,590 --> 00:04:10,600
+C'est une autre tentative pour que
+je prenne Mlle Torres sous mon aile ?
+
+62
+00:04:10,640 --> 00:04:12,348
+Tu as besoin d'un assistant
+sur le cas militaire.
+
+63
+00:04:12,388 --> 00:04:15,570
+- Je t'ai pour ça.
+- Je serai sur l'affaire Earl White.
+
+64
+00:04:15,610 --> 00:04:19,000
+C'est une des plus célèbres recrues
+de NBA du pays.
+
+65
+00:04:19,040 --> 00:04:21,251
+Le Comité Sportif de la fac veut
+qu'on cherche
+
+66
+00:04:21,291 --> 00:04:23,450
+s'il a reçu un pot-de-vin
+pour jouer à la GWCU.
+
+67
+00:04:23,490 --> 00:04:25,580
+Nous avons une réunion à
+Fort Meade dans une demi heure.
+
+68
+00:04:25,620 --> 00:04:29,640
+Je te retrouve là bas plus tard,
+ok, mais faisons participer Torres.
+
+69
+00:04:29,680 --> 00:04:32,120
+C'est inné chez elle. Elle a
+des intuitions phénoménales.
+
+70
+00:04:32,160 --> 00:04:34,600
+Ça ne veut pas dire
+qu'elle connaît la science.
+
+71
+00:04:35,130 --> 00:04:37,480
+Dr. Foster a dit que vous vouliez me voir ?
+
+72
+00:04:41,630 --> 00:04:43,860
+Que vois-tu ?
+
+73
+00:04:45,850 --> 00:04:47,570
+Colère.
+
+74
+00:04:53,620 --> 00:04:54,548
+Peur.
+
+75
+00:04:58,760 --> 00:05:00,610
+Tristesse.
+
+76
+00:05:06,080 --> 00:05:07,880
+Allons-y.
+
+77
+00:05:21,368 --> 00:05:25,139
+Le soldat spécial
+Sheila Lake a passé 3 ans
+
+78
+00:05:25,179 --> 00:05:26,270
+dans la 23ème division,
+
+79
+00:05:26,310 --> 00:05:28,620
+dont 2 en Afghanistan.
+
+80
+00:05:28,660 --> 00:05:32,580
+Lake assure qu'elle a été
+violée par son chef de peloton,
+
+81
+00:05:32,620 --> 00:05:35,300
+le Sergent Major Russell Scott.
+
+82
+00:05:35,340 --> 00:05:39,036
+Nous aimerions que vous découvriez
+si l'accusation est vraie.
+
+83
+00:05:40,230 --> 00:05:42,340
+Lake. Lake !
+
+84
+00:05:42,380 --> 00:05:46,258
+Prends ton équipement et présente-toi
+à l'équipe de l'avocat du juge.
+
+85
+00:05:49,900 --> 00:05:52,240
+Est-ce que le Sergent Scott
+ira à la cour martiale ?
+
+86
+00:05:52,280 --> 00:05:53,950
+Nous n'y sommes pas encore.
+
+87
+00:05:53,990 --> 00:05:57,480
+Les qualités du Sergent Scott sont vitales
+pour les missions d'intelligence tribales,
+
+88
+00:05:57,520 --> 00:06:00,080
+nous approchons de la frontière pakistanaise.
+
+89
+00:06:00,120 --> 00:06:02,104
+Si nous débutons une enquête
+de cour martiale,
+
+90
+00:06:02,144 --> 00:06:04,980
+il sera loin des lignes pendant 6 mois.
+
+91
+00:06:05,480 --> 00:06:07,760
+J'ai peur qu'on ne puisse pas vous aider.
+
+92
+00:06:07,800 --> 00:06:08,980
+Excusez-moi ?
+
+93
+00:06:09,020 --> 00:06:10,920
+Engagez-nous quand vous voudrez
+connaître la vérité.
+
+94
+00:06:10,960 --> 00:06:13,780
+Pourquoi gaspiller l'argent du contribuable
+si ce n'est pas ce que vous recherchez ?
+
+95
+00:06:13,820 --> 00:06:17,560
+Dr. Lightman, mon but premier est d'assurer
+la sécurité des femmes dans ce peloton.
+
+96
+00:06:17,600 --> 00:06:19,490
+C'est pourquoi nous enquêtons.
+
+97
+00:06:19,530 --> 00:06:21,690
+Mais le Sergent Scott est passé au détecteur.
+
+98
+00:06:21,730 --> 00:06:24,260
+Je parie que sa grand-mère,
+ne pense pas non plus qu'il l’ait fait.
+
+99
+00:06:24,300 --> 00:06:25,460
+C'est également fiable.
+
+100
+00:06:25,500 --> 00:06:28,690
+Le Sergent Scott
+sera au redéploiement dans trois jours.
+
+101
+00:06:28,730 --> 00:06:31,560
+Il est le seul commandant qui peut
+reconnaître les hostiles à cette frontière.
+
+102
+00:06:31,600 --> 00:06:35,950
+Sans lui, la mission est plus dangereuse
+pour les soldats de la 23ème.
+
+103
+00:06:35,990 --> 00:06:39,040
+Je ne peux certainement pas avoir un violeur
+responsable de femmes dans ce peloton,
+
+104
+00:06:39,080 --> 00:06:40,910
+mais si je dois mettre le
+Sergent Scott loin du terrain,
+
+105
+00:06:40,950 --> 00:06:44,030
+j'ai besoin de savoir si
+cette femme dit la vérité.
+
+106
+00:06:53,480 --> 00:06:55,150
+2 m, il bouge comme si
+il faisait 1 m 50.
+
+107
+00:06:55,190 --> 00:06:59,370
+Il pouvait faire un dunk à 10 ans,
+a gagné le championnat d'Etat à 14.
+
+108
+00:06:59,410 --> 00:07:01,740
+Elu joueur national de l'année,
+ces 3 dernières années.
+
+109
+00:07:01,780 --> 00:07:03,730
+Je ne vous aurai pas
+pris pour une geek.
+
+110
+00:07:03,770 --> 00:07:06,200
+Tu sais le garçon de 5ème
+avec le poster vintage Dr. J
+
+111
+00:07:06,240 --> 00:07:09,140
+et le récapitulatif instantané des stats
+de sa carrière ?
+
+112
+00:07:09,180 --> 00:07:10,420
+J'étais ce garçon.
+
+113
+00:07:10,460 --> 00:07:13,450
+Dr. Foster ? Je suis Jeremy Levine de
+l'Association Sportive.
+
+114
+00:07:13,490 --> 00:07:14,820
+Merci d'être venue.
+
+115
+00:07:14,860 --> 00:07:17,540
+Qui n'aime pas passer sa journée
+à regarder Earl White dans son élément ?
+
+116
+00:07:17,580 --> 00:07:18,970
+Howard Taft l'a certainement fait.
+
+117
+00:07:19,010 --> 00:07:23,590
+C'est le recruteur qui aurait payé Earl
+50 000 $ pour venir jouer pour Carver.
+
+118
+00:07:23,630 --> 00:07:25,470
+Nous aimerions enquêter dessus discrètement.
+
+119
+00:07:25,510 --> 00:07:27,840
+Earl est un bon gamin. Il a
+perdu sa mère l'année dernière.
+
+120
+00:07:27,880 --> 00:07:29,329
+Il élève son frère tout seul.
+
+121
+00:07:29,369 --> 00:07:30,887
+En plus, il sera pro ce printemps
+
+122
+00:07:30,927 --> 00:07:33,536
+et vous ne voulez plus de mauvaise presse
+pour la règle de "1 année et va en pro".
+
+123
+00:07:33,576 --> 00:07:36,045
+Forcer les gamins à faire 1 an de fac
+avant d'être pro
+
+124
+00:07:36,085 --> 00:07:38,470
+les force à prendre le lycée plus au sérieux.
+
+125
+00:07:38,510 --> 00:07:41,114
+Ça force aussi les futurs stars
+à jouer 1 an au basket de fac,
+
+126
+00:07:41,154 --> 00:07:43,340
+élevant la côte et les revenus.
+
+127
+00:07:43,380 --> 00:07:46,660
+Loker a eu des mauvaises
+périodes avec les demi-vérités.
+
+128
+00:07:55,950 --> 00:07:59,830
+Earl White, Dr. Gillian Foster
+et son associé, Eli Loker.
+
+129
+00:07:59,870 --> 00:08:01,340
+Vous êtes l'équipe du mensonge, c'est ça ?
+
+130
+00:08:01,380 --> 00:08:04,370
+Plutôt l'équipe de la vérité, mais
+ça dépend du dossier.
+
+131
+00:08:04,410 --> 00:08:05,992
+Avez-vous quelques minutes à nous accorder ?
+
+132
+00:08:06,032 --> 00:08:09,524
+Je dois ramener mon frère à la maison,
+et j'ai un exam d'éco demain.
+
+133
+00:08:09,564 --> 00:08:11,168
+Besoin d'étudier, vous savez ?
+
+134
+00:08:11,208 --> 00:08:12,349
+Mais appelez-moi
+sur mon portable plus tard.
+
+135
+00:08:12,389 --> 00:08:14,330
+Je ferai tout pour laver mon nom.
+
+136
+00:08:14,370 --> 00:08:16,190
+Nous apprécions ça.
+
+137
+00:08:18,710 --> 00:08:20,422
+Quelques lectures rapides ?
+
+138
+00:08:20,462 --> 00:08:23,200
+Il parlait vite, et il tenait son ballon
+de basket contre son torse,
+
+139
+00:08:23,240 --> 00:08:25,378
+créant une barrière entre nous.
+
+140
+00:08:26,020 --> 00:08:27,527
+Ce sont deux signes d'anxiété.
+
+141
+00:08:27,567 --> 00:08:31,080
+Ça doit être ce que chaque étudiant doit
+ressentir dans sa situation.
+
+142
+00:08:31,120 --> 00:08:33,438
+Nous ne sommes pas des magiciens.
+Nous sommes des scientifiques.
+
+143
+00:08:33,478 --> 00:08:35,482
+Nous devons parler à Earl et au recruteur
+
+144
+00:08:35,522 --> 00:08:38,463
+pour déterminer des signes
+de mensonges concluants.
+
+145
+00:08:41,370 --> 00:08:44,320
+Je ne suis pas naïve, ok ?
+
+146
+00:08:45,960 --> 00:08:50,960
+Quand vous signez pour être une des
+4 femmes dans un peloton de 30 hommes,
+
+147
+00:08:51,000 --> 00:08:54,550
+des mecs qui ne vont pas voir d'autres
+femmes pendant 6 mois...
+
+148
+00:08:55,240 --> 00:08:59,290
+comme ils disent chez les scouts
+"sois prête".
+
+149
+00:08:59,330 --> 00:09:00,860
+Vous étiez harcelée ?
+
+150
+00:09:00,900 --> 00:09:04,036
+Du porno dans les latrines...
+
+151
+00:09:04,803 --> 00:09:05,990
+"Jody calls".
+
+152
+00:09:06,030 --> 00:09:07,290
+"Jody calls" ?
+
+153
+00:09:07,330 --> 00:09:10,370
+* J'ai appris à cette chienne
+sa gauche puis sa droite *
+
+154
+00:09:10,410 --> 00:09:12,530
+* j'ai cloué son cul et suis parti hier soir.*
+
+155
+00:09:12,570 --> 00:09:14,908
+- J'ai compris.
+- Ouais.
+
+156
+00:09:15,695 --> 00:09:18,418
+Le Sergent Scott
+a participé à ça ?
+
+157
+00:09:18,458 --> 00:09:21,887
+Il n'a pas fait de blague ou quoi que ce soit, mais...
+
+158
+00:09:22,855 --> 00:09:25,070
+ses mains étaient partout.
+
+159
+00:09:26,378 --> 00:09:28,631
+Il aimait venir nous voir pendant
+qu'on se changeait,
+
+160
+00:09:28,671 --> 00:09:30,920
+si nous étions sous la douche.
+
+161
+00:09:36,610 --> 00:09:39,140
+Parlez-nous de l'attaque.
+
+162
+00:09:40,900 --> 00:09:43,270
+J'étais...
+
+163
+00:09:45,280 --> 00:09:47,960
+Je revenais d'un entraînement.
+
+164
+00:09:49,530 --> 00:09:52,160
+Je l'ai croisé derrière
+la cantine.
+
+165
+00:09:53,550 --> 00:09:55,880
+Et il m'a ordonnée de me déshabiller.
+
+166
+00:09:55,920 --> 00:09:58,030
+Il m'a attrapée.
+
+167
+00:10:01,370 --> 00:10:03,780
+Il m'a plaquée au sol.
+
+168
+00:10:06,410 --> 00:10:09,020
+Il m'a agressée.
+
+169
+00:10:12,470 --> 00:10:15,100
+J'ai été violée.
+
+170
+00:10:20,850 --> 00:10:22,150
+Qu'est-ce que c'était ce numéro de mime ?
+
+171
+00:10:22,190 --> 00:10:24,080
+Tu poses les questions, j'observe.
+
+172
+00:10:24,120 --> 00:10:26,840
+Dr. Lightman trouve que poser
+des questions est perturbant.
+
+173
+00:10:26,880 --> 00:10:28,850
+Il préfère observer.
+
+174
+00:10:28,890 --> 00:10:31,630
+Tu as fini le profil psychologique
+du gars qu'elle accuse ?
+
+175
+00:10:33,550 --> 00:10:35,820
+Contente de te voir aussi.
+
+176
+00:10:36,920 --> 00:10:38,960
+Quel est son problème ?
+
+177
+00:10:39,000 --> 00:10:41,850
+"Feu allié". "Dommages collatéraux".
+
+178
+00:10:41,890 --> 00:10:44,710
+Tu peux commencer avec
+les mensonges dans le langage.
+
+179
+00:10:46,190 --> 00:10:48,640
+Je parie que ce n'est pas tout.
+
+180
+00:10:49,080 --> 00:10:52,070
+Mardi dernier ? Je suis allé à un dîner.
+
+181
+00:10:52,110 --> 00:10:54,230
+J'ai bu quelques verres au NCO Club.
+
+182
+00:10:54,270 --> 00:10:56,580
+Je suis allé au PX, et je suis
+rentré à la caserne.
+
+183
+00:10:56,620 --> 00:10:58,610
+Redites-moi ça... commencez
+par la boisson.
+
+184
+00:10:58,650 --> 00:11:00,990
+Boisson, PX, caserne.
+
+185
+00:11:01,030 --> 00:11:02,550
+Du dentifrice et un déodorant.
+J'ai le reçu.
+
+186
+00:11:02,590 --> 00:11:04,880
+- Vous n'étiez pas près de la cantine ?
+- Je viens de dire que je n'y étais pas.
+
+187
+00:11:04,920 --> 00:11:07,120
+Vous dites que vous n'avez pas attaqué
+le soldat spécial Lake ?
+
+188
+00:11:07,160 --> 00:11:09,370
+Exactement, et maintenant
+que nous en parlons...
+
+189
+00:11:09,410 --> 00:11:12,750
+Ok. Ce sera tout.
+
+190
+00:11:13,680 --> 00:11:15,870
+Merci pour votre participation.
+
+191
+00:11:19,720 --> 00:11:24,200
+Quel biceps vous avez là.
+
+192
+00:11:24,240 --> 00:11:27,170
+Vous devez vraiment aimer la
+salle de musculation, non ?
+
+193
+00:11:27,210 --> 00:11:31,540
+Normalement je ne mélange pas
+le travail avec le plaisir, mais...
+
+194
+00:11:35,389 --> 00:11:38,550
+ça vous dirait d'aller boire
+un verre plus tard ou...
+
+195
+00:11:41,060 --> 00:11:43,360
+Je ne suis pas gay.
+
+196
+00:11:43,400 --> 00:11:45,940
+Et ce n'était pas un peu inapproprié ?
+
+197
+00:11:45,980 --> 00:11:47,811
+Absolument. Désolé.
+
+198
+00:11:48,240 --> 00:11:51,010
+Exact, excusez-moi.
+
+199
+00:11:55,700 --> 00:11:56,950
+Qu'est-ce que c'était que ça ?
+
+200
+00:11:56,990 --> 00:11:59,600
+J'aime les hommes en uniforme.
+
+201
+00:11:59,640 --> 00:12:02,597
+Le viol n'était pas prévu, une fois,
+sans violence additionnelle.
+
+202
+00:12:02,637 --> 00:12:04,394
+Ça suggère un pouvoir
+péremptoire de violeur,
+
+203
+00:12:04,434 --> 00:12:06,270
+quelqu'un d'obsédé par la virilité,
+
+204
+00:12:06,310 --> 00:12:08,652
+qui a besoin que les autres
+le voient en tant qu'homme.
+
+205
+00:12:08,692 --> 00:12:11,295
+Si le Sergent Scott correspondait
+au profil,
+
+206
+00:12:11,335 --> 00:12:14,230
+il aurait réagi à mon ouverture
+avec une émotion... le dégoût.
+
+207
+00:12:14,270 --> 00:12:16,180
+Il n'y avait pas de dégoût, seulement de la surprise.
+
+208
+00:12:16,220 --> 00:12:18,560
+Exact... les sourcils relevés
+la mâchoire baissée.
+
+209
+00:12:18,600 --> 00:12:20,862
+Ok, mais... le type
+était totalement abasourdi.
+
+210
+00:12:20,902 --> 00:12:22,948
+Oui, mais il n'a montré
+aucun signe de tromperie,
+
+211
+00:12:22,988 --> 00:12:24,490
+pas de trace de mensonge.
+
+212
+00:12:24,530 --> 00:12:26,290
+Il semblait vouloir me
+jeter à travers la pièce.
+
+213
+00:12:26,330 --> 00:12:29,990
+Un homme accusé de viol est encore
+plus en colère s'il est innocent.
+
+214
+00:12:30,030 --> 00:12:32,880
+- Ils ne peuvent pas dire tous les 2 la vérité.
+- Ils ne la disent pas.
+
+215
+00:12:33,410 --> 00:12:38,450
+Les lèvres de Sheila Lake se sont baissées
+2 fois quand elle décrivait le viol.
+
+216
+00:12:40,190 --> 00:12:42,250
+C'est une erreur gestuelle classique.
+
+217
+00:12:42,290 --> 00:12:45,100
+Ça signifie qu'elle n'avait aucune
+confiance en ce qu'elle disait.
+
+218
+00:12:45,140 --> 00:12:47,730
+La femme mentait.
+
+219
+00:12:57,840 --> 00:13:00,220
+J'ai été violée.
+
+220
+00:13:00,260 --> 00:13:03,190
+Vous pensez vraiment qu'une femme
+mentirait à propos d'un viol ?
+
+221
+00:13:03,230 --> 00:13:07,330
+Les vérités vexantes, la mortalité humaine,
+une femme moustachue...
+
+222
+00:13:07,370 --> 00:13:09,990
+trois choses que nous préférons ignorer.
+
+223
+00:13:10,030 --> 00:13:13,593
+Les rapports du FBI ont démontré que 8%
+des accusations de viol étaient fausses.
+
+224
+00:13:13,633 --> 00:13:16,182
+Mais les vétérans avec qui
+j'ai travaillé à la TSA
+
+225
+00:13:16,222 --> 00:13:18,410
+disaient qu'une agression sexuelle
+était un gros problème.
+
+226
+00:13:18,450 --> 00:13:20,190
+Ça n'explique pas l'erreur gestuelle.
+
+227
+00:13:20,240 --> 00:13:23,580
+Lake n'a pas montré quelques émotions
+typiques d'une victime de viol
+
+228
+00:13:23,620 --> 00:13:25,800
+quand elle racontait son histoire.
+
+229
+00:13:25,840 --> 00:13:29,130
+Pas de honte... pas de peur.
+
+230
+00:13:29,999 --> 00:13:32,913
+Nous aurions du voir beaucoup
+d'activité sur son front,
+
+231
+00:13:32,953 --> 00:13:35,720
+- mais il n'y en avait pas.
+- elle a peut-être un stress post-traumatique.
+
+232
+00:13:35,760 --> 00:13:38,830
+Son manque d'émotion peut s'expliquer par son
+incapacité à exprimer ses sentiments...
+
+233
+00:13:38,870 --> 00:13:40,040
+mais pas l'affaissement des lèvres.
+
+234
+00:13:40,080 --> 00:13:42,800
+Je vous le dis, il y a
+un truc chez ce Sergent Scott.
+
+235
+00:13:42,840 --> 00:13:46,710
+Une fois j'ai eu des acteurs qui
+ont joué le témoignage d'un viol
+
+236
+00:13:46,750 --> 00:13:48,670
+devant 30 juges fédéraux.
+
+237
+00:13:48,710 --> 00:13:52,751
+Et vous savez ce qui indique le mieux
+s'ils ont cru l'homme ou la femme ?
+
+238
+00:13:52,791 --> 00:13:54,789
+Le sexe du juge.
+
+239
+00:13:54,829 --> 00:13:57,390
+Vous pensez que je le juge
+coupable parce que je suis une femme ?
+
+240
+00:13:57,430 --> 00:14:01,542
+Moi, Darwin, et 2 000 ans d'évolution.
+
+241
+00:14:01,582 --> 00:14:04,186
+Ce qu'il veut dire...
+est qu'il est important de ne pas laisser
+
+242
+00:14:04,226 --> 00:14:06,750
+ce que tu es interférer avec
+ce que tu vois dans la pièce.
+
+243
+00:14:06,790 --> 00:14:08,520
+Dr. Lightman ?
+
+244
+00:14:08,560 --> 00:14:09,540
+Qu'est-ce que c'est ?
+
+245
+00:14:09,580 --> 00:14:13,490
+Le rapport du harcèlement.
+Le peloton vient de l'envoyer.
+
+246
+00:14:13,530 --> 00:14:15,780
+On dirait qu'il a été déposé
+anonymement l'automne dernier.
+
+247
+00:14:15,820 --> 00:14:18,800
+Il prétend que le Sergent
+Scott a surpris les femmes sous la douche
+
+248
+00:14:18,840 --> 00:14:21,892
+et est entré dans leur caserne
+sans s'annoncer.
+
+249
+00:14:22,376 --> 00:14:24,590
+Ça nous ramène à l'histoire de Lake.
+
+250
+00:14:29,510 --> 00:14:32,160
+En général, ce n'est pas bien
+de traiter son patron d'idiot.
+
+251
+00:14:32,200 --> 00:14:34,810
+- Je n'ai pas dit que vous étiez un idi...
+- Mais votre rictus l'a fait.
+
+252
+00:14:34,850 --> 00:14:35,520
+Ce n'était pas...
+
+253
+00:14:35,560 --> 00:14:39,250
+Oh, c'était une combinaison impressionnante
+de mépris et de dégoût.
+
+254
+00:14:39,290 --> 00:14:42,170
+Je suis... Je suis dé... Je...
+
+255
+00:14:42,210 --> 00:14:44,430
+Excuses acceptées.
+
+256
+00:14:45,270 --> 00:14:49,600
+Va à Fort Meade et vérifie les dossiers
+personnels de la femme et du sergent.
+
+257
+00:14:49,640 --> 00:14:51,990
+Et tiens bon.
+
+258
+00:14:54,930 --> 00:14:58,010
+- Tu devrais être plus souple avec Torres.
+- Pourquoi ?
+
+259
+00:14:58,050 --> 00:14:59,860
+Elle est toute positivement fausse.
+
+260
+00:14:59,900 --> 00:15:01,260
+C'est le problème avec les innés.
+
+261
+00:15:01,300 --> 00:15:05,940
+Ils ne voient pas ce qui manque.
+Ils suivent leur instinct, pas la science.
+
+262
+00:15:05,980 --> 00:15:07,340
+Je prendrais un sandwich falafel, s'il vous plaît.
+
+263
+00:15:07,380 --> 00:15:09,280
+Une glace italienne. Raisin.
+
+264
+00:15:14,290 --> 00:15:16,130
+Vous êtes-vous lavés les mains aujourd'hui ?
+
+265
+00:15:16,170 --> 00:15:18,330
+Euh, ouais, bien sûr.
+
+266
+00:15:20,050 --> 00:15:21,660
+Vous avez une quelconque
+douleur au cou ?
+
+267
+00:15:21,700 --> 00:15:23,524
+Euh, non. Pourquoi ?
+
+268
+00:15:24,008 --> 00:15:26,420
+Les gens le touchent quand ils mentent.
+
+269
+00:15:26,460 --> 00:15:29,090
+C'est une manipulation classique.
+
+270
+00:15:32,150 --> 00:15:33,950
+- Vous êtes allé aux toilettes aujourd'hui ?
+- Cal.
+
+271
+00:15:33,990 --> 00:15:35,960
+Euh, non.
+
+272
+00:15:36,610 --> 00:15:37,780
+Oh, génial.
+
+273
+00:15:37,820 --> 00:15:40,382
+Quelqu'un d'autre veut un bout d'excréments ?
+
+274
+00:15:40,422 --> 00:15:43,370
+Personne ? Un bout d'excréments ?
+
+275
+00:15:47,810 --> 00:15:50,830
+Si un ancien étudiant m'emmenait ici,
+je voudrais faire des paniers pour Carver.
+
+276
+00:15:50,870 --> 00:15:53,383
+Je parie qu'il a fait
+bonne impression sur Earl White.
+
+277
+00:15:53,423 --> 00:15:55,538
+Pourquoi les types qui s'appellent
+White sont toujours noirs
+
+278
+00:15:55,578 --> 00:15:57,320
+et les types qui s'appellent
+Black sont blancs ?
+
+279
+00:15:57,360 --> 00:15:58,800
+Vais-je être regretter que tu sois venu ?
+
+280
+00:15:58,840 --> 00:16:00,780
+Barry White, Jack Black.
+
+281
+00:16:00,820 --> 00:16:04,290
+Est-ce que ton honnêteté radicale t'oblige
+à dire tout haut ce que tu penses ?
+
+282
+00:16:04,330 --> 00:16:05,730
+C'est le seul moyen d'être
+vraiment honnête.
+
+283
+00:16:05,770 --> 00:16:08,250
+Oublions-la quand
+nous travaillons. Veux-tu ?
+
+284
+00:16:08,290 --> 00:16:09,930
+Que faisons nous à propos du recruteur ?
+
+285
+00:16:09,970 --> 00:16:14,540
+Howard Taft, 45 ans, s'est fait
+de l'argent sur Internet,
+
+286
+00:16:14,580 --> 00:16:17,070
+a dirigé la campagne de financement pour
+le nouveau centre athlétique de Carver.
+
+287
+00:16:17,110 --> 00:16:20,230
+Apparemment il aime rendre la pareille.
+
+288
+00:16:21,570 --> 00:16:24,350
+M. Taft, merci d'avoir
+accepté de nous voir.
+
+289
+00:16:24,390 --> 00:16:27,680
+C'est toujours un plaisir de parler
+du basket de Carver, Dr. Foster.
+
+290
+00:16:30,480 --> 00:16:32,740
+Oh, une bague de championnat. Cool.
+
+291
+00:16:32,780 --> 00:16:34,580
+Ça a dû coûter une fortune sur Internet.
+
+292
+00:16:34,620 --> 00:16:40,000
+En fait, je... je l'ai gagnée en
+montant au panier pour l'équipe de 1986.
+
+293
+00:16:42,760 --> 00:16:43,500
+Qu'est-ce que c'est ?
+
+294
+00:16:43,540 --> 00:16:45,810
+C'est un analyseur vocal de stress.
+
+295
+00:16:45,850 --> 00:16:48,680
+Ça mesure la fréquence de la voix
+et jauge l'anxiété.
+
+296
+00:16:48,720 --> 00:16:51,890
+Le principal n'est pas ce que
+vous dites mais comment vous le dites.
+
+297
+00:16:51,930 --> 00:16:55,950
+Parlez-nous de votre
+lien avec Earl White.
+
+298
+00:17:02,660 --> 00:17:05,240
+Il m'a ordonnée de me déshabiller.
+
+299
+00:17:05,280 --> 00:17:06,720
+Il m'a attrapée...
+
+300
+00:17:06,760 --> 00:17:08,490
+Oh, désolée.
+
+301
+00:17:08,530 --> 00:17:12,370
+Ce sont les partenaires de peloton
+du soldat spécial Lake.
+
+302
+00:17:12,410 --> 00:17:14,228
+Merci d'être venues.
+
+303
+00:17:14,268 --> 00:17:15,994
+Je veux faire des interrogatoires
+individuels,
+
+304
+00:17:16,034 --> 00:17:17,870
+si vous pouvez venir avec moi,
+vous 2 restez ici.
+
+305
+00:17:17,910 --> 00:17:19,820
+Merci, Heidi.
+
+306
+00:17:33,910 --> 00:17:36,170
+M'a plaquée au sol.
+
+307
+00:17:37,410 --> 00:17:40,030
+Et il m'a agressée.
+
+308
+00:17:42,080 --> 00:17:44,920
+J'ai été violée.
+
+309
+00:17:53,540 --> 00:17:55,470
+Tu as fini l'analyse vocale
+de stress sur Taft ?
+
+310
+00:17:55,510 --> 00:17:58,170
+Ouais. Regardez.
+
+311
+00:18:02,040 --> 00:18:04,200
+Oh, une bague de championnat. Cool.
+
+312
+00:18:04,240 --> 00:18:06,430
+Ça a dû coûter une fortune sur Internet.
+
+313
+00:18:07,190 --> 00:18:11,665
+En fait, je... je l'ai gagné en
+montant au panier pour l'équipe de 1986.
+
+314
+00:18:12,007 --> 00:18:14,640
+Stress vocal typique sur
+une question typique.
+
+315
+00:18:14,680 --> 00:18:16,320
+C'est la ligne de stress vocal de Taft.
+
+316
+00:18:16,360 --> 00:18:18,340
+Et vu à quel point la plupart des gens
+te trouvent irritant...
+
+317
+00:18:18,380 --> 00:18:19,671
+C'est une haute ligne de tolérance.
+
+318
+00:18:19,711 --> 00:18:21,034
+Il devait être vraiment anxieux
+
+319
+00:18:21,074 --> 00:18:22,770
+pour que la fréquence
+fasse un pic au dessus, donc...
+
+320
+00:18:22,810 --> 00:18:24,410
+selon la ligne de base...
+
+321
+00:18:24,450 --> 00:18:27,410
+on se rend compte que Taft
+a trois moments d'extrême anxiété.
+
+322
+00:18:27,450 --> 00:18:29,880
+Laisse-moi deviner. C'est quand il a nié
+avoir soudoyé notre As du basket.
+
+323
+00:18:29,920 --> 00:18:33,530
+Indistinct à l'oreille mais...
+
+324
+00:18:33,570 --> 00:18:37,000
+et, non, je n'ai pas soudoyé Earl White.
+
+325
+00:18:37,040 --> 00:18:39,940
+Vraiment, je n'ai pas donné à Earl un centime.
+
+326
+00:18:39,980 --> 00:18:42,620
+Un pot-de-vin ? Je connais à peine le gamin.
+
+327
+00:18:42,660 --> 00:18:46,040
+Grâce à la technologie, nous pouvons
+voir le stress dans la voix de Taft.
+
+328
+00:18:46,080 --> 00:18:48,810
+Les données suggèrent que M. White
+vient de recevoir beaucoup d'argent.
+
+329
+00:18:48,850 --> 00:18:51,330
+Mais nous n'avons pas vu de changement
+dans ses dépenses habituelles.
+
+330
+00:18:51,370 --> 00:18:52,340
+J'ai parlé à ses amis.
+
+331
+00:18:52,380 --> 00:18:55,824
+Le gars ne frime pas, il vit dans un
+appartement avec son frère,
+
+332
+00:18:55,864 --> 00:18:56,556
+il prend le bus...
+
+333
+00:18:56,596 --> 00:18:59,380
+Earl recevra un gros chèque
+dès qu'il deviendra pro.
+
+334
+00:18:59,420 --> 00:19:02,000
+Pourquoi accepter l'argent de Taft
+s'il ne le dépense pas ?
+
+335
+00:19:02,040 --> 00:19:03,870
+Ça ne colle pas.
+
+336
+00:19:03,910 --> 00:19:05,740
+Nous devons entrer dans la tête d'Earl.
+
+337
+00:19:05,780 --> 00:19:07,370
+Tu veux que je ressorte les
+enregistrements,
+
+338
+00:19:07,410 --> 00:19:09,683
+voir s'il laisse échapper un truc
+quand il dit jouer pour Carver ?
+
+339
+00:19:09,723 --> 00:19:10,586
+Oui.
+
+340
+00:19:11,850 --> 00:19:14,230
+Quelle est la dernière vague de son ?
+
+341
+00:19:15,340 --> 00:19:18,320
+C'est toujours un plaisir de parler
+du basket de Carver, Dr. Foster.
+
+342
+00:19:18,360 --> 00:19:20,010
+C'est quand Taft te rencontre.
+
+343
+00:19:20,050 --> 00:19:22,360
+Vous voyez comment le graphe est tout hérissé ?
+
+344
+00:19:22,400 --> 00:19:24,190
+Ça indique une excitation.
+
+345
+00:19:24,230 --> 00:19:25,376
+Apparemment le panier
+
+346
+00:19:25,416 --> 00:19:27,980
+n'était pas la seule chose
+que notre sportif voulait monter.
+
+347
+00:19:28,020 --> 00:19:29,560
+Hey, puis-je...
+
+348
+00:19:29,600 --> 00:19:31,750
+S'il te plaît.
+
+349
+00:19:33,110 --> 00:19:35,450
+Le Sergent Major Scott a un passé.
+
+350
+00:19:35,490 --> 00:19:36,780
+Il a un casier judiciaire ?
+
+351
+00:19:36,820 --> 00:19:38,210
+Un chargé.
+
+352
+00:19:38,250 --> 00:19:40,410
+Je pensais qu'on ne pouvait pas entrer
+dans l'armée avec un casier.
+
+353
+00:19:40,450 --> 00:19:43,560
+En effet, à moins qu'ils t'accordent ce
+qu'ils appellent une renonciation morale.
+
+354
+00:19:43,600 --> 00:19:44,850
+Ça concernait juste les délits,
+
+355
+00:19:44,890 --> 00:19:47,910
+mais elle a tellement envie de recruter qu'
+elle les utilise pour enrôler des criminels.
+
+356
+00:19:47,950 --> 00:19:49,300
+Renonciation morale.
+
+357
+00:19:49,340 --> 00:19:50,876
+L'armée aime jouer avec les mots.
+
+358
+00:19:50,916 --> 00:19:52,486
+Sergent Scott a été arrêté pour...
+
+359
+00:19:52,526 --> 00:19:54,315
+possession de drogue, incendie criminel,
+agression et violence...
+
+360
+00:19:54,355 --> 00:19:55,870
+Il a été condamné pour incendie criminel ?
+
+361
+00:19:55,910 --> 00:19:57,600
+Il avait 16 ans, mais l'agression est plus récente.
+
+362
+00:19:57,640 --> 00:20:00,000
+Non, c'est l'incendie le plus significatif.
+
+363
+00:20:00,040 --> 00:20:02,500
+Incendie et viol ont une
+inhabituelle haute corrélation.
+
+364
+00:20:02,540 --> 00:20:05,230
+Ces deux crimes sont
+une affirmation de pouvoir.
+
+365
+00:20:05,270 --> 00:20:07,410
+Alors avec la condamnation d'incendie...
+
+366
+00:20:07,450 --> 00:20:10,780
+Oui. Ça rend le
+viol plus plausible.
+
+367
+00:20:15,430 --> 00:20:18,230
+Nous voyons des indicateurs prometteurs
+sur le marché du processeur Pentium.
+
+368
+00:20:18,270 --> 00:20:20,940
+Les revenus de Techspring devraient
+être plus importants que jamais.
+
+369
+00:20:22,260 --> 00:20:23,510
+Hey, patron.
+
+370
+00:20:23,550 --> 00:20:26,210
+Appelez mon courtier, dites-lui de retirer
+toutes mes actions sur Techspring.
+
+371
+00:20:26,250 --> 00:20:29,040
+Ok. Et je viens de parler
+au bureau du Major Harris.
+
+372
+00:20:29,080 --> 00:20:31,420
+Je leur ai dit que vous arriviez.
+
+373
+00:20:33,010 --> 00:20:34,980
+Regarde le haussement de la main.
+
+374
+00:20:35,020 --> 00:20:36,680
+Ce n'est pas le bon moment
+d'investir dans Techspring.
+
+375
+00:20:36,720 --> 00:20:38,960
+Nous devons parler du Sergent Scott.
+
+376
+00:20:40,100 --> 00:20:42,780
+C'est top secret. Comment l'avez-vous eu ?
+
+377
+00:20:42,820 --> 00:20:44,980
+De la même façon que tu l'aurais eu.
+
+378
+00:20:45,020 --> 00:20:46,950
+En donnant une correspondance entre
+l'incendie et le viol...
+
+379
+00:20:46,990 --> 00:20:49,590
+C'est intéressant, mais
+j'ai bien peur que ça ne révèle rien.
+
+380
+00:20:49,630 --> 00:20:52,830
+Les camarades de peloton de Lake
+avaient beaucoup de choses à dire.
+
+381
+00:20:52,870 --> 00:20:54,550
+Heidi a dit qu'elles
+ne veulent pas parler du viol.
+
+382
+00:20:54,590 --> 00:20:56,980
+Je ne les ai pas faites
+venir pour les écouter.
+
+383
+00:20:57,020 --> 00:21:00,120
+Je les ai faites venir pour les regarder écouter.
+
+384
+00:21:01,220 --> 00:21:03,590
+- Elles ont relancé la vidéo, hein ?
+- Ouais.
+
+385
+00:21:05,200 --> 00:21:07,390
+C'est dans la nature humaine.
+
+386
+00:21:09,320 --> 00:21:11,090
+Ils appuient toujours sur le bouton.
+
+387
+00:21:11,130 --> 00:21:14,160
+Hey, Naturelle. Qu'est-ce que tu vois ?
+
+388
+00:21:16,110 --> 00:21:18,290
+Rien. Je ne vois rien du tout.
+
+389
+00:21:18,330 --> 00:21:19,940
+Exactement.
+
+390
+00:21:19,980 --> 00:21:22,040
+- Je ne comprends pas.
+- Eh bien, regarde.
+
+391
+00:21:22,080 --> 00:21:26,650
+L'absence d'émotion est...
+
+392
+00:21:28,400 --> 00:21:31,995
+aussi importante que
+la présence d'émotion.
+
+393
+00:21:32,520 --> 00:21:36,010
+Maintenant, toi, tu as besoin de l'apprendre.
+
+394
+00:21:36,050 --> 00:21:39,740
+Quand des femmes écoutent une victime
+de viol, elles expriment certaines émotions.
+
+395
+00:21:39,780 --> 00:21:42,840
+Elles rougissent, détournent les
+yeux, leurs épaules sont voûtées.
+
+396
+00:21:42,880 --> 00:21:44,790
+Ces femmes ne montrent rien de tout ça.
+
+397
+00:21:44,830 --> 00:21:47,210
+Elles ne montrent aucun réflecteur.
+
+398
+00:21:47,250 --> 00:21:49,530
+Donc ils ne la croient pas.
+Cela ne prouve rien.
+
+399
+00:21:49,570 --> 00:21:54,550
+Lake a vécu avec elles pendant 3
+ans et aucune d'elles n'a réagi.
+
+400
+00:21:54,590 --> 00:21:57,380
+Elles savent que ce viol n'a jamais eu lieu.
+
+401
+00:22:01,060 --> 00:22:05,020
+Vous avez fait une fausse accusation
+contre votre sergent. C'est un crime.
+
+402
+00:22:08,100 --> 00:22:11,160
+Et il y a les autres femmes
+de votre peloton.
+
+403
+00:22:12,510 --> 00:22:15,100
+Nous avons des policiers militaires
+prêts à intervenir.
+
+404
+00:22:15,140 --> 00:22:20,590
+Si vos amies vous ont aidé à planifier ça,
+elles sont aussi coupables que vous ?
+
+405
+00:22:23,670 --> 00:22:26,090
+Elles savent que vous mentez, n'est-ce pas ?
+
+406
+00:22:32,820 --> 00:22:34,325
+C'est ce que je pensais.
+
+407
+00:22:34,365 --> 00:22:37,520
+Fais arrêter ses camarades de peloton.
+Elles sont toutes complices.
+
+408
+00:22:44,040 --> 00:22:47,900
+Non ! Ecoutez, elles n'ont ri...
+Elles n'ont rien à voir avec ça.
+
+409
+00:22:50,680 --> 00:22:51,910
+C'était mon idée.
+
+410
+00:22:51,950 --> 00:22:54,500
+Le Sergent Scott ne vous a pas violée ?
+
+411
+00:22:54,850 --> 00:22:55,848
+Non.
+
+412
+00:22:57,650 --> 00:23:00,260
+Emmenez le soldat spécial Lake
+en garde à vue.
+
+413
+00:23:00,300 --> 00:23:02,310
+Comment avez-vous pu faire ça ?
+
+414
+00:23:02,350 --> 00:23:03,970
+Vous savez à quel point c'est dur
+pour les femmes dans l'armée.
+
+415
+00:23:04,010 --> 00:23:06,650
+L'armée commence tout juste à prendre
+ces accusations sérieusement.
+
+416
+00:23:06,690 --> 00:23:09,460
+Il y a des victimes à l'extérieur
+qui ont besoin d'aide.
+
+417
+00:23:09,500 --> 00:23:11,480
+Beaucoup.
+
+418
+00:23:11,520 --> 00:23:13,380
+Vous devriez honte de vous.
+
+419
+00:23:13,420 --> 00:23:15,070
+Honte ?
+
+420
+00:23:15,110 --> 00:23:17,400
+J'ai peut-être menti mais j'ai fait
+ce qu'il fallait.
+
+421
+00:23:17,440 --> 00:23:19,860
+Ok, j'essayais de protéger
+mon peloton.
+
+422
+00:23:19,900 --> 00:23:21,970
+J'ai fait ce qu'il fallait.
+
+423
+00:23:22,010 --> 00:23:24,140
+J'ai fait ce qu'il fallait !
+
+424
+00:23:28,480 --> 00:23:32,560
+Mesdames, si vous pouviez attendre ici,
+je vous prendrais une à la fois.
+
+425
+00:23:32,600 --> 00:23:34,340
+Tu rejoues un de tes fantasmes
+préférés, Loker ?
+
+426
+00:23:34,380 --> 00:23:38,270
+J'étudie l'action psychologique des uniformes
+sur la crédibilité. Lightman voulait
+
+427
+00:23:38,310 --> 00:23:41,380
+voir comment elles affectent la capacité
+des gens à remarquer des mensonges.
+
+428
+00:23:41,420 --> 00:23:43,940
+Les femmes en uniforme ?
+
+429
+00:23:44,670 --> 00:23:46,840
+J'adore mon travail.
+
+430
+00:23:46,880 --> 00:23:48,070
+Comment ça se passe avec Lightman ?
+
+431
+00:23:48,110 --> 00:23:50,300
+Il n'est pas mon plus grand supporter.
+
+432
+00:23:50,340 --> 00:23:52,580
+C'est juste parce que
+tu es non instruite.
+
+433
+00:23:52,620 --> 00:23:53,660
+Pardon ?
+
+434
+00:23:53,700 --> 00:23:55,800
+C'est inné chez toi.
+
+435
+00:23:55,840 --> 00:23:59,320
+Les quelques naturels que Lightman
+a croisé ont une chose en commun.
+
+436
+00:23:59,360 --> 00:24:01,130
+Aucun diplôme.
+
+437
+00:24:01,170 --> 00:24:03,233
+On ne t'a pas demandé de te concentrer
+sur les compétences verbales
+
+438
+00:24:03,353 --> 00:24:05,310
+alors tu t'es concentrée sur
+le langage corporel.
+
+439
+00:24:05,430 --> 00:24:07,820
+Tu dis que je ne peux pas
+apprendre la science.
+
+440
+00:24:07,860 --> 00:24:10,050
+Je dis que tu n'as pas à le faire.
+
+441
+00:24:10,090 --> 00:24:13,036
+Ça doit être irritant pour un homme
+qui a passé deux décennies
+
+442
+00:24:13,076 --> 00:24:16,970
+à essayer de voir ce que tu vois
+depuis ta naissance.
+
+443
+00:24:17,010 --> 00:24:17,816
+Merci.
+
+444
+00:24:18,840 --> 00:24:20,943
+Ça ne te ressemble pas.
+
+445
+00:24:21,911 --> 00:24:24,533
+Je n'ai jamais été avec une latine.
+
+446
+00:24:26,026 --> 00:24:27,337
+N'abuse pas.
+
+447
+00:24:32,100 --> 00:24:33,290
+Comment ça avance avec
+le joueur de baseball ?
+
+448
+00:24:33,330 --> 00:24:34,960
+Les joueurs de base-ball
+jouent au base-ball.
+
+449
+00:24:35,000 --> 00:24:35,790
+Boulette de poulet ?
+
+450
+00:24:35,830 --> 00:24:38,320
+Oh, non. Je ne mange jamais
+de viande que je ne peux pas voir.
+
+451
+00:24:38,360 --> 00:24:42,740
+Non. Vraiment. Non. Tu n'as
+aucune idée de ce qu'il y a dedans.
+
+452
+00:24:44,380 --> 00:24:45,580
+Regarde ça.
+
+453
+00:24:45,620 --> 00:24:47,560
+Earl White participe au championnat
+d'Etat pour la troisième fois.
+
+454
+00:24:47,600 --> 00:24:49,980
+Le gamin est sur la liste
+de tous les recruteurs NBA du pays,
+
+455
+00:24:50,020 --> 00:24:52,700
+mais quand il est interviewé
+sur la possibilité de passer pro...
+
+456
+00:24:54,260 --> 00:24:55,550
+Mouvement du menton.
+Il est en colère.
+
+457
+00:24:55,840 --> 00:24:56,990
+Très.
+
+458
+00:24:57,030 --> 00:25:00,200
+Earl White devrait être au top.
+Pourquoi est-il secrètement en colère ?
+
+459
+00:25:01,860 --> 00:25:04,630
+Je repère les menteurs.
+Tu t'occupes des sentiments.
+
+460
+00:25:06,540 --> 00:25:07,607
+Suis-moi.
+
+461
+00:25:08,656 --> 00:25:10,472
+J'ai quelque chose pour toi.
+
+462
+00:25:11,178 --> 00:25:15,373
+Ok, est-ce que tu mentirais pour
+rétablir un tort ?
+
+463
+00:25:16,120 --> 00:25:18,140
+Ça dépend. Pourquoi ?
+
+464
+00:25:21,750 --> 00:25:24,320
+Lake a menti mais a ensuite dit qu'elle
+protégeait son peloton.
+
+465
+00:25:24,360 --> 00:25:26,300
+J'ai fait ce qu'il fallait.
+
+466
+00:25:26,340 --> 00:25:29,640
+Elle l'a dit avec conviction et
+sans aucune trace de tromperie.
+
+467
+00:25:29,680 --> 00:25:32,330
+Comment est-ce qu'accuser ton commandant
+de viol protège ton peloton ?
+
+468
+00:25:32,370 --> 00:25:33,630
+C'est ce que je me suis demandé.
+
+469
+00:25:33,670 --> 00:25:37,860
+Ok, voici les entretiens individuels
+de ses camarades de peloton.
+
+470
+00:25:37,900 --> 00:25:41,250
+Regarde ce qu'il se passe quand
+elles parlent du Sergent Scott.
+
+471
+00:25:42,800 --> 00:25:43,940
+Le Sergent Scott est un leader fort.
+
+472
+00:25:43,980 --> 00:25:46,190
+Je suis contente que le
+Sergent Scott soit aux commandes.
+
+473
+00:25:46,230 --> 00:25:48,540
+- Dégoût masqué.
+- Ouaip.
+
+474
+00:25:49,300 --> 00:25:51,270
+La même chose à chaque fois.
+
+475
+00:25:51,310 --> 00:25:53,102
+Elles savent
+qu'il n'a pas violé Sheila Lake
+
+476
+00:25:53,222 --> 00:25:55,590
+mais elles ressentent un profond
+dégoût pour lui.
+
+477
+00:25:55,710 --> 00:25:56,720
+Ça m'a fait penser.
+
+478
+00:25:56,760 --> 00:25:59,980
+Et si Sheila Lake n'avait pas
+menti sur tout ?
+
+479
+00:26:00,020 --> 00:26:03,611
+Et si elle avait menti sur la victime,
+mais pas sur le crime ?
+
+480
+00:26:05,120 --> 00:26:07,630
+Donc tu penses que le Sergent Scott a
+violé quelqu'un d'autre dans le peloton ?
+
+481
+00:26:07,670 --> 00:26:10,189
+Le rapport de harcèlement,
+la condamnation pour incendie criminel...
+
+482
+00:26:10,229 --> 00:26:12,540
+les deux concordent avec
+le profil d'un violeur, non ?
+
+483
+00:26:12,580 --> 00:26:16,720
+Et si la vraie victime avait
+trop peur de se faire connaître ?
+
+484
+00:26:16,760 --> 00:26:19,800
+Alors Lake accuse le Sergent Scott
+pour rétablir un tort passé
+
+485
+00:26:19,840 --> 00:26:23,070
+et pour protéger les autres
+femmes dans le peloton.
+
+486
+00:26:24,150 --> 00:26:26,310
+Est-ce que tu penses que Scott
+a violé l'une d'entre elles ?
+
+487
+00:26:26,600 --> 00:26:31,220
+Non. Aucune d'elles
+ne montre de la peur.
+
+488
+00:26:31,260 --> 00:26:34,870
+Ça aurait pu être quelqu'un qui a été
+transféré ou tué au combat.
+
+489
+00:26:36,260 --> 00:26:37,500
+Je pensais qu'on en avait fini
+avec ce cas.
+
+490
+00:26:37,540 --> 00:26:41,860
+Non. C'est possible que le Sergent Scott
+ait violé quelqu'un du peloton.
+
+491
+00:26:42,980 --> 00:26:45,290
+Encore ce rictus.
+
+492
+00:26:45,330 --> 00:26:47,260
+Ce n'est... Je n'ai pas dit...
+
+493
+00:26:47,300 --> 00:26:49,320
+Oh, regarde.
+Maintenant tu es embarrassée.
+
+494
+00:26:49,360 --> 00:26:51,280
+Tu as toutes les raisons de l'être.
+Tu t'es trompée, n'est-ce pas ?
+
+495
+00:26:51,320 --> 00:26:53,920
+- Le Sergent Scott n'a pas violé S. Lake.
+- Cal...
+
+496
+00:26:53,960 --> 00:26:56,470
+Quoi ? C'est elle qui fait des remarques
+méprisantes. Regarde son visage.
+
+497
+00:26:56,510 --> 00:26:58,273
+Comment vous faites pour
+travailler ici ?
+
+498
+00:26:58,313 --> 00:27:00,010
+Le Sergent Scott part dans 24 heures.
+
+499
+00:27:00,050 --> 00:27:01,550
+Je veux que tu entres en contact
+avec le personnel militaire.
+
+500
+00:27:01,590 --> 00:27:04,300
+Je veux l'historique de service
+du peloton tout de suite.
+
+501
+00:27:04,340 --> 00:27:05,970
+J'y vais.
+
+502
+00:27:07,880 --> 00:27:09,323
+Quoi ?
+
+503
+00:27:10,430 --> 00:27:12,180
+Oh, quoi, maintenant tu commences
+avec moi ?
+
+504
+00:27:12,220 --> 00:27:14,740
+Ne dis pas quelque chose
+que tu regretterais. Et je l'ai vu.
+
+505
+00:27:16,600 --> 00:27:18,640
+Est-ce que je peux avoir un muffin ?
+
+506
+00:27:19,490 --> 00:27:22,260
+Ah, non. Non, non, vous ne voulez pas
+ces muffins là. Ils sont horribles.
+
+507
+00:27:22,300 --> 00:27:25,480
+Ils ont le goût des coussins du canapé
+sous des noix moisies dont grand-mère
+
+508
+00:27:25,520 --> 00:27:27,910
+gardait dans ce vieux pot sur sa...
+- Ok, ok.
+
+509
+00:27:28,240 --> 00:27:30,106
+Entre toi et Lightman, une fille pourrait
+mourir de faim.
+
+510
+00:27:30,146 --> 00:27:32,120
+- Est-ce que tu as quelque chose ?
+- Ouais...
+
+511
+00:27:32,160 --> 00:27:35,630
+J'ai vu des vidéos de Earl pour tenter de
+savoir ce qu'il y a derrière la colère.
+
+512
+00:27:35,670 --> 00:27:40,020
+Rien pour l'instant, mais je suis
+arrivé à cette expression.
+
+513
+00:27:42,790 --> 00:27:47,810
+J'ai regardé dans le livre des expressions
+et il y a des éléments du AU-4 et du AU-5.
+
+514
+00:27:47,850 --> 00:27:50,140
+- Mais ce n'est pas la colère.
+- Non.
+
+515
+00:27:50,180 --> 00:27:51,062
+Non.
+
+516
+00:27:51,102 --> 00:27:54,190
+Est-ce qu'on peut sortir les stats
+complètes de Earl de l'année ?
+
+517
+00:27:54,230 --> 00:27:56,770
+Bien sûr.
+C'est quelle émotion ?
+
+518
+00:27:57,050 --> 00:27:59,060
+Ce n'est pas une émotion.
+
+519
+00:28:01,810 --> 00:28:05,870
+Un peu plus tôt, le PDG Robert Rosiello
+a essayé de calmer les investisseurs
+
+520
+00:28:05,990 --> 00:28:07,932
+après que les actions de
+Techspring soient tombées
+
+521
+00:28:08,052 --> 00:28:10,690
+en dessous de la barre
+des résultats du 1er trimestre.
+
+522
+00:28:10,810 --> 00:28:12,770
+C'est complètement inattendu.
+
+523
+00:28:12,810 --> 00:28:15,510
+Je suis sûr que nous rebondirons
+au second trimestre.
+
+524
+00:28:15,550 --> 00:28:18,150
+Tu sais, pour un PDG,
+ce mec est un horrible menteur.
+
+525
+00:28:18,190 --> 00:28:19,510
+Tu as parlé au personnel à Fort Meade ?
+
+526
+00:28:19,550 --> 00:28:21,083
+Aucune des femmes de la 23ème division
+n'est tombée au combat
+
+527
+00:28:21,203 --> 00:28:22,940
+mais il y en a une qui a disparue.
+
+528
+00:28:23,060 --> 00:28:26,140
+Rebecca Metz était sur la liste
+de la 23ème division en Afghanistan.
+
+529
+00:28:26,180 --> 00:28:29,530
+Elle a disparu il y a quatre mois, peu de
+temps après le refus de son transfert.
+
+530
+00:28:29,570 --> 00:28:31,390
+Elle a essayé de changer de peloton ?
+
+531
+00:28:31,430 --> 00:28:32,450
+Ce n'est pas tout.
+
+532
+00:28:32,490 --> 00:28:36,110
+Voici une copie du rapport anonyme
+de harcèlement contre le Sergent Scott.
+
+533
+00:28:36,150 --> 00:28:37,630
+La même écriture.
+
+534
+00:28:37,670 --> 00:28:39,320
+Ils savent où elle se trouve ?
+
+535
+00:28:39,360 --> 00:28:43,230
+Non, mais le nombre de soldats disparus a
+doublé depuis l'invasion de l'Irak.
+
+536
+00:28:43,270 --> 00:28:45,600
+Je doute qu'ils aient la main d'oeuvre
+pour jouer autant à cache-cache.
+
+537
+00:28:45,640 --> 00:28:48,840
+- Elle a de la famille à Baltimore, non ?
+- Ouais.
+
+538
+00:28:48,880 --> 00:28:51,160
+Je déteste rater une réunion de famille.
+
+539
+00:28:59,280 --> 00:29:00,730
+Bonjour ?
+
+540
+00:29:00,770 --> 00:29:02,150
+Que puis-je faire pour vous ?
+
+541
+00:29:02,190 --> 00:29:04,740
+Nous cherchons votre
+petite-fille, Rebecca Metz ?
+
+542
+00:29:04,780 --> 00:29:06,610
+Elle n'est pas ici.
+
+543
+00:29:08,310 --> 00:29:11,080
+Ça sonne bien.
+Ça vous dérange si je vous emprunte ça ?
+
+544
+00:29:11,120 --> 00:29:13,600
+Quoi ? Où allez-vous ?
+
+545
+00:29:16,010 --> 00:29:17,384
+A l'aide !
+
+546
+00:29:19,660 --> 00:29:22,940
+- A l'aide !
+- Grand-père ? Grand...
+
+547
+00:29:26,240 --> 00:29:27,950
+A l'aide.
+
+548
+00:29:30,150 --> 00:29:34,490
+Sheila a admis avoir menti, mais elle a dit
+qu'elle essayait de protéger son peloton.
+
+549
+00:29:34,530 --> 00:29:36,480
+Je ne sais pas ce que ça a à voir avec moi.
+
+550
+00:29:36,520 --> 00:29:38,860
+Sheila n'a pas tout inventé.
+
+551
+00:29:38,900 --> 00:29:40,870
+Nous savons pourquoi
+vous avez disparu.
+
+552
+00:29:42,080 --> 00:29:44,140
+Nous ne sommes pas ici pour l'armée.
+
+553
+00:29:44,180 --> 00:29:46,440
+Nous voulons juste savoir
+ce qu'il s'est passé.
+
+554
+00:29:52,990 --> 00:29:54,147
+Je...
+
+555
+00:29:55,200 --> 00:29:58,730
+n'avais jamais eu de problèmes avec
+le Sergent Scott aux Etats-Unis.
+
+556
+00:29:59,040 --> 00:30:03,070
+Il n'était pas grande gueule ou brutal
+comme les autres hommes. Mais...
+
+557
+00:30:03,860 --> 00:30:09,630
+mais le premier jour
+en Afghanistan, après le couvre-feu,
+
+558
+00:30:10,400 --> 00:30:12,670
+il est venu dans ma tente.
+
+559
+00:30:12,710 --> 00:30:14,590
+Il vous a violé ?
+
+560
+00:30:14,630 --> 00:30:16,820
+Le sergent est en charge.
+
+561
+00:30:17,780 --> 00:30:20,360
+Il est supposé te soutenir.
+
+562
+00:30:21,040 --> 00:30:23,470
+Mon boulot est de dire oui.
+
+563
+00:30:23,970 --> 00:30:25,890
+Oui, monsieur.
+
+564
+00:30:25,930 --> 00:30:28,230
+C'est arrivé plus d'une fois ?
+
+565
+00:30:29,140 --> 00:30:32,570
+Presque toutes les nuits là-bas...
+pendant des mois.
+
+566
+00:30:33,060 --> 00:30:36,340
+Je ne pouvais plus le supporter.
+Quand nous sommes rentrés, j'ai juste...
+
+567
+00:30:36,380 --> 00:30:38,420
+Vous avez fui.
+
+568
+00:30:39,190 --> 00:30:41,000
+Vous devez venir avec nous.
+
+569
+00:30:41,040 --> 00:30:43,070
+Votre peloton se redéploie demain.
+
+570
+00:30:43,110 --> 00:30:44,800
+Vous ne pouvez pas laisser
+l'armée envoyer ces femmes
+
+571
+00:30:44,840 --> 00:30:45,930
+en Afghanistan...
+
+572
+00:30:45,970 --> 00:30:47,090
+-  avec le Sergent Scott.
+- Je ne peux pas y retourner.
+
+573
+00:30:47,130 --> 00:30:48,740
+Et Sheila ?
+Elle a menti pour vous.
+
+574
+00:30:48,780 --> 00:30:49,790
+- Je... Je ne peux pas.
+- Rebecca...
+
+575
+00:30:49,830 --> 00:30:51,500
+Non. Je...
+
+576
+00:30:51,540 --> 00:30:54,560
+Ok. Ok dans ce cas.
+
+577
+00:30:55,530 --> 00:30:58,430
+- Désolé d'avoir fait irruption.
+- Que faites-vous ?
+
+578
+00:30:58,830 --> 00:31:00,980
+- Je retourne à la base.
+- Mais...
+
+579
+00:31:01,020 --> 00:31:01,647
+Ok.
+
+580
+00:31:03,510 --> 00:31:06,480
+Comment est-ce que...
+Est-ce qu'ils nous ont suivi ici ?
+
+581
+00:31:06,520 --> 00:31:08,140
+Oh, non. Je les ai appelé.
+
+582
+00:31:18,140 --> 00:31:19,170
+Laissez-moi tranquille.
+
+583
+00:31:19,210 --> 00:31:20,990
+- Rebecca...
+- Je sais que vous avez appelé la police militaire.
+
+584
+00:31:21,030 --> 00:31:24,160
+J'espérais que vous parleriez, mais,
+ouais, ils étaient prêts à intervenir.
+
+585
+00:31:24,200 --> 00:31:25,930
+- Rebecca, si vous nous racontiez...
+- Ne comprenez-vous pas ?
+
+586
+00:31:25,970 --> 00:31:29,270
+Est-ce que vous avez une idée de ce que
+c'est que d'être une femme dans l'armée ?
+
+587
+00:31:29,310 --> 00:31:31,310
+Vous êtes soit une chienne,
+soit une putain.
+
+588
+00:31:31,350 --> 00:31:32,642
+Et ils attendent juste que vous échouiez,
+
+589
+00:31:32,682 --> 00:31:34,180
+que vous admettiez que
+vous ne pouvez pas le faire.
+
+590
+00:31:34,220 --> 00:31:36,710
+Alors, allez en prison.
+Ça leur montrera.
+
+591
+00:31:36,750 --> 00:31:39,060
+Soyez tout ce que vous pouvez être.
+
+592
+00:31:45,020 --> 00:31:46,670
+Vous avez peur.
+
+593
+00:31:46,710 --> 00:31:49,370
+Vous avez toujours peur du Sergent Scott.
+
+594
+00:31:49,410 --> 00:31:51,680
+Je n'ai pas peur de lui.
+
+595
+00:31:51,720 --> 00:31:54,050
+Vous avez peur de quelque chose.
+
+596
+00:31:54,850 --> 00:31:57,480
+J'ai peur qu'ils ne me croient pas.
+
+597
+00:31:58,180 --> 00:32:00,880
+Ah, peu importe
+qu'ils vous croient.
+
+598
+00:32:00,920 --> 00:32:03,040
+Ils me croiront.
+
+599
+00:32:09,900 --> 00:32:11,460
+Appelle-moi plus tard ?
+Un film ?
+
+600
+00:32:11,500 --> 00:32:13,970
+Hey Earl.
+Merci de prendre le temps.
+
+601
+00:32:14,010 --> 00:32:16,340
+Au fait, je suis une grande fan.
+Ça vous dérange ?
+
+602
+00:32:16,380 --> 00:32:18,410
+Oh, aucun problème.
+
+603
+00:32:20,960 --> 00:32:22,420
+Je parie que ça vaudra beaucoup un jour.
+
+604
+00:32:22,460 --> 00:32:23,660
+Oh, ouais.
+
+605
+00:32:23,700 --> 00:32:26,950
+Autographes, chaussures, figurines.
+
+606
+00:32:26,990 --> 00:32:29,330
+Le basket pro, c'est un gros business.
+
+607
+00:32:29,370 --> 00:32:30,800
+T'as vu le mouvement du menton ?
+
+608
+00:32:30,840 --> 00:32:31,760
+Quoi ?
+
+609
+00:32:31,800 --> 00:32:34,350
+Vous bougez votre menton vers l'avant.
+C'est un signe de colère.
+
+610
+00:32:34,390 --> 00:32:37,160
+Vous le faites dès que vous
+parlez de votre carrière pro.
+
+611
+00:32:37,200 --> 00:32:40,010
+Je pense que vous êtes furieux parce que
+vous savez que vous n'allez pas en avoir.
+
+612
+00:32:40,550 --> 00:32:42,510
+Hey, Earl, attrape.
+
+613
+00:32:43,100 --> 00:32:45,080
+Nous avons vu ça avant aussi.
+
+614
+00:32:45,120 --> 00:32:46,113
+Vous faites cette grimace
+
+615
+00:32:46,153 --> 00:32:48,530
+presque à chaque fois que vous
+attrapez une passe ces jours-ci.
+
+616
+00:32:50,970 --> 00:32:52,160
+C'est de l'intensité.
+
+617
+00:32:52,200 --> 00:32:55,040
+Non, en fait, c'est de la douleur.
+
+618
+00:32:55,080 --> 00:32:58,940
+Les docteurs l'appellent
+le visage premier de la douleur.
+
+619
+00:32:59,300 --> 00:33:01,430
+C'est universel.
+
+620
+00:33:01,470 --> 00:33:03,210
+Alors qu'est-ce que c'est, Earl ?
+
+621
+00:33:03,250 --> 00:33:05,910
+Tunnel carpien ? Arthrite ?
+
+622
+00:33:11,700 --> 00:33:15,220
+Ecoutez, vous savez combien d'heures j'ai
+passé à faire des lancers francs ?
+
+623
+00:33:15,260 --> 00:33:18,060
+Je me démène sur un court
+depuis que j'ai 9 ans.
+
+624
+00:33:18,100 --> 00:33:21,130
+J'élève mon frère,
+j'essaie de payer le loyer...
+
+625
+00:33:21,940 --> 00:33:25,160
+Un contrat pro allait
+changer tout ça.
+
+626
+00:33:25,580 --> 00:33:29,390
+Mais vous connaissez quelqu'un qui engagerait
+une personne qui a de l'arthrite érosive ?
+
+627
+00:33:29,770 --> 00:33:31,340
+Personne.
+
+628
+00:33:31,380 --> 00:33:32,530
+Donc vous avez pris le pot-de-vin.
+
+629
+00:33:32,570 --> 00:33:34,660
+Ecoutez, j'aurais pu devenir
+pro juste après le lycée,
+
+630
+00:33:34,700 --> 00:33:37,180
+mais l'Association Sportive avait besoin
+de son grand tournoi,
+
+631
+00:33:37,220 --> 00:33:40,960
+alors je dois passer ma dernière année à
+jouer à du basket d'université pour rien.
+
+632
+00:33:41,370 --> 00:33:45,590
+Ecoutez, le chèque de M. Taft était
+la seule paie que j'allais obtenir.
+
+633
+00:33:47,000 --> 00:33:49,870
+Vous me dites que vous n'auriez
+pas pris l'argent ?
+
+634
+00:33:55,730 --> 00:33:58,980
+J'ai dit au Commandant
+que tout était réglé.
+
+635
+00:33:59,020 --> 00:34:01,930
+Le Sergent Scott est essentiel
+pour nos missions.
+
+636
+00:34:02,260 --> 00:34:04,530
+Il est censé être dans
+un avion à 1 heure.
+
+637
+00:34:04,570 --> 00:34:08,600
+Si l'armée va mettre en danger la sûreté
+des femmes, ça doit être fait à l'heure, non ?
+
+638
+00:34:08,640 --> 00:34:11,520
+L'officier Metz était portée
+disparue depuis 5 mois.
+
+639
+00:34:11,560 --> 00:34:13,950
+Vous êtes sûr que son accusation
+est justifiée ?
+
+640
+00:34:13,990 --> 00:34:16,300
+Je vous dis qu'elle ne ment pas.
+
+641
+00:34:22,250 --> 00:34:23,480
+Sergent Scott.
+
+642
+00:34:23,520 --> 00:34:26,340
+Je convoque la cour martiale à une audience
+sur l'article 32 la semaine prochaine.
+
+643
+00:34:26,380 --> 00:34:27,730
+Défaites vos affaires, fils.
+
+644
+00:34:27,770 --> 00:34:31,410
+Commandant Harris, mon client aimerait
+éviter tout délai inutile.
+
+645
+00:34:31,450 --> 00:34:33,850
+Il veut plaider ?
+
+646
+00:34:36,040 --> 00:34:38,890
+Notre mission sur la frontière pakistanaise
+est essentielle pour notre sécurité ici
+
+647
+00:34:38,930 --> 00:34:41,390
+et j'ai une responsabilité
+envers mon peloton.
+
+648
+00:34:41,430 --> 00:34:44,520
+Donc, oui, je suis prêt à plaider
+coupable pour la fraternisation.
+
+649
+00:34:44,560 --> 00:34:45,660
+Fraternisation ?
+
+650
+00:34:45,700 --> 00:34:49,420
+Le Sergent Scott avait une relation
+consensuelle avec l'Officier Metz.
+
+651
+00:34:49,460 --> 00:34:52,250
+Becky était ma petite-amie, Monsieur.
+
+652
+00:34:53,000 --> 00:34:55,199
+Cette photo a été prise pendant
+la période durant laquelle...
+
+653
+00:34:55,239 --> 00:34:58,803
+mon client aurait supposément
+violé l'Officier Metz.
+
+654
+00:35:05,550 --> 00:35:07,990
+En avez-vous d'autres comme celle-ci ?
+
+655
+00:35:08,540 --> 00:35:10,810
+Nous en avons plusieurs, Commandant.
+
+656
+00:35:15,820 --> 00:35:18,700
+Vous affirmez toujours
+qu'elle ne ment pas ?
+
+657
+00:35:26,300 --> 00:35:28,550
+Isole Rebecca Metz.
+
+658
+00:35:31,300 --> 00:35:32,900
+Il y a quelque chose qui
+ne va pas sur son sourire.
+
+659
+00:35:32,940 --> 00:35:34,320
+Elle ne semble pas heureuse.
+
+660
+00:35:34,360 --> 00:35:36,430
+Zoome sur ses yeux.
+
+661
+00:35:37,910 --> 00:35:39,500
+Sourcils relevés, rapprochés.
+
+662
+00:35:39,540 --> 00:35:41,830
+Elle a peur.
+
+663
+00:35:42,520 --> 00:35:43,960
+Ouais, c'est un sourire de façade.
+
+664
+00:35:44,000 --> 00:35:47,680
+Elle sourit mais ses yeux
+disent qu'elle a peur.
+
+665
+00:35:47,720 --> 00:35:48,480
+Très peur.
+
+666
+00:35:48,520 --> 00:35:50,510
+- Peux-tu sortir les sourires de façade ?
+- Ouais.
+
+667
+00:35:52,270 --> 00:35:54,580
+Miss Caroline du Sud ne peut pas montrer
+de la peur aux juges ;
+
+668
+00:35:54,620 --> 00:35:57,150
+Sarah Palin a le
+même problème avec la presse.
+
+669
+00:35:57,190 --> 00:35:59,170
+Rebecca Metz avec son chef de peloton.
+
+670
+00:35:59,210 --> 00:36:01,040
+C'est ça, elle ne veut pas être
+impliquée avec le Sergent Scott,
+
+671
+00:36:01,080 --> 00:36:03,780
+mais c'est son commandant,
+elle doit faire ce qu'il dit.
+
+672
+00:36:04,270 --> 00:36:06,430
+Il veut du sexe, n'est-ce pas ?
+
+673
+00:36:06,470 --> 00:36:08,750
+Elle se sent forcée de lui donner.
+
+674
+00:36:08,790 --> 00:36:10,010
+Elle ne peut pas dire non.
+
+675
+00:36:10,050 --> 00:36:11,710
+Ce n'est pas mutuel.
+C'est du viol.
+
+676
+00:36:11,750 --> 00:36:14,600
+Les psychologues de l'armée ont signalé
+plusieurs cas récents comme celui-ci.
+
+677
+00:36:14,640 --> 00:36:16,170
+Ils l'appellent "viol par commandement".
+
+678
+00:36:16,210 --> 00:36:19,200
+C'est comparable à du harcèlement
+sexuel, mais beaucoup plus extrême.
+
+679
+00:36:19,240 --> 00:36:21,340
+Quand ton patron te fait des avances,
+tu as peur de perdre ton travail.
+
+680
+00:36:21,380 --> 00:36:23,910
+Mais si c'est ton chef de peloton,
+tu as peur de perdre la vie.
+
+681
+00:36:23,950 --> 00:36:27,430
+Le Sergent Scott redéploie ce soir,
+nous devons retourner à Fort Meade.
+
+682
+00:36:32,630 --> 00:36:34,000
+Ils ne croiront pas que c'était du viol.
+
+683
+00:36:34,040 --> 00:36:36,440
+Le Sergent Scott n'a jamais levé
+la main sur moi.
+
+684
+00:36:36,810 --> 00:36:39,590
+Peu importe s'il ne vous a pas
+attaquée physiquement.
+
+685
+00:36:39,630 --> 00:36:40,810
+Vous aviez été contrainte.
+
+686
+00:36:40,850 --> 00:36:43,240
+Personne ne va le voir de cette façon.
+
+687
+00:36:43,670 --> 00:36:45,520
+Je n'ai jamais dit non.
+
+688
+00:36:45,560 --> 00:36:48,190
+Il était responsable de votre sécurité.
+Vous deviez vous sentir menacée.
+
+689
+00:36:48,230 --> 00:36:49,860
+J'étais terrifiée.
+
+690
+00:36:49,900 --> 00:36:52,580
+Tous savaient que si tu t'opposais à lui,
+il te faisait conduire la tête.
+
+691
+00:36:52,620 --> 00:36:55,610
+- Conduire la tête ?
+- Conduire le premier camion dans le convoi.
+
+692
+00:36:55,650 --> 00:36:58,460
+C'est le plus vulnérable
+pour une bombe terroriste.
+
+693
+00:36:59,610 --> 00:37:01,370
+Un ami est mort de cette façon.
+
+694
+00:37:01,410 --> 00:37:04,130
+Je savais dès la première fois où il est
+venu dans ma tente que si je disais non,
+
+695
+00:37:04,170 --> 00:37:06,260
+je conduirais la tête pendant un mois.
+
+696
+00:37:06,300 --> 00:37:09,090
+Alors vous l'avez fait.
+Vous n'avez jamais dit non ?
+
+697
+00:37:11,730 --> 00:37:13,550
+C'est ce que vous
+direz au Commandant Harris.
+
+698
+00:37:13,590 --> 00:37:14,910
+Il ne me croira jamais.
+
+699
+00:37:14,950 --> 00:37:17,690
+Bien sûr que oui.
+Nous vous mettrons sur un détecteur.
+
+700
+00:37:17,730 --> 00:37:19,630
+Ils les adorent par ici.
+
+701
+00:37:20,460 --> 00:37:23,350
+Il ne le dira jamais de cette façon. Le
+Sergent ne m'a jamais fait conduire la tête.
+
+702
+00:37:23,390 --> 00:37:24,980
+Et il le dira jamais qu'il aurait dû.
+
+703
+00:37:25,020 --> 00:37:28,460
+Elle vrai. Nous n'avons pas de preuve
+qu'il liait sa sécurité au sexe.
+
+704
+00:37:28,840 --> 00:37:31,370
+La vérité n'est pas suffisante
+pour ces gens.
+
+705
+00:37:31,410 --> 00:37:34,243
+Qui a dit quoi que ce soit sur la vérité ?
+
+706
+00:37:45,920 --> 00:37:48,480
+- Est-ce que votre nom est Rebecca Metz ?
+- Oui.
+
+707
+00:37:49,560 --> 00:37:53,010
+Et êtes-vous un Officier de 1ère classe
+dans la 23ème division ?
+
+708
+00:37:53,050 --> 00:37:53,969
+Oui.
+
+709
+00:37:55,880 --> 00:37:59,040
+Aviez-vous une relation avec
+le Sergent Russell Scott ?
+
+710
+00:37:59,210 --> 00:37:59,882
+Non.
+
+711
+00:38:01,270 --> 00:38:04,030
+Officier Metz, laissez moi reformuler.
+
+712
+00:38:04,070 --> 00:38:09,420
+Aviez-vous une liaison avec le Sergent Scott
+pendant que vous serviez en Afghanistan ?
+
+713
+00:38:09,460 --> 00:38:12,780
+Oui. Il me forçait à coucher avec lui.
+
+714
+00:38:12,820 --> 00:38:14,550
+Nous avions une relation !
+
+715
+00:38:14,590 --> 00:38:16,520
+Il vous a ordonné de coucher avec lui ?
+
+716
+00:38:17,120 --> 00:38:20,870
+Non. Mais il était mon officier commandant,
+je n'avais pas le choix.
+
+717
+00:38:20,910 --> 00:38:24,020
+Avez-vous déjà refusé de coucher
+avec le Sergent Scott ?
+
+718
+00:38:25,670 --> 00:38:28,270
+Oui... une fois.
+
+719
+00:38:29,270 --> 00:38:31,570
+Il m'a forcé à conduire le camion
+de tête pendant une semaine.
+
+720
+00:38:31,610 --> 00:38:32,810
+C'est un mensonge.
+
+721
+00:38:32,850 --> 00:38:35,950
+Si elle ment, le graphique
+monte au-dessus de la barre rouge là ?
+
+722
+00:38:37,160 --> 00:38:38,880
+C'est ça. La machine dit que c'est vrai.
+
+723
+00:38:38,920 --> 00:38:40,850
+Ce n'est pas vrai !
+
+724
+00:38:40,890 --> 00:38:41,630
+Le détecteur dit que ça l'est.
+
+725
+00:38:41,670 --> 00:38:43,810
+Je me fous de ce que la machine dit.
+Elle invente.
+
+726
+00:38:43,850 --> 00:38:46,200
+Je ne l'ai jamais fait conduire la tête !
+
+727
+00:38:46,790 --> 00:38:48,830
+- Vous ne l'avez pas fait conduire la tête ?
+- Non !
+
+728
+00:38:48,870 --> 00:38:51,060
+Je pensais que tous devaient le faire.
+Vous ne lui avez jamais fait faire ?
+
+729
+00:38:51,100 --> 00:38:52,900
+Je... je ne lui ai jamais fait conduire
+la tête ! C'est un mensonge !
+
+730
+00:38:52,940 --> 00:38:54,670
+Sergent, vous n'avez pas à répondre.
+
+731
+00:38:54,710 --> 00:38:59,740
+Donc, tant qu'elle était dans une relation
+avec vous, elle n'avait pas conduit la tête.
+
+732
+00:38:59,780 --> 00:39:00,930
+- Est-ce que c'est vrai ?
+- Sergent Scott...
+
+733
+00:39:00,970 --> 00:39:02,350
+Est-ce que c'est vrai, Sergent Scott ?
+
+734
+00:39:02,390 --> 00:39:03,430
+Sergent Scott, ne...
+
+735
+00:39:03,470 --> 00:39:05,670
+- Est-ce que c'est vrai, Sergent Scott ?
+- Vous n'avez pas à répondre.
+
+736
+00:39:05,710 --> 00:39:08,170
+Oui ! Oui, c'est vrai.
+
+737
+00:39:12,690 --> 00:39:14,750
+Quoi ?
+Quoi ?
+
+738
+00:39:14,790 --> 00:39:17,750
+Sa sécurité était votre responsabilité.
+
+739
+00:39:17,790 --> 00:39:19,490
+Vous avez échangé sa sécurité
+contre du sexe.
+
+740
+00:39:19,540 --> 00:39:21,370
+Commandant Harris, mon
+client ne comprend pas...
+
+741
+00:39:21,410 --> 00:39:21,922
+Si.
+
+742
+00:39:23,230 --> 00:39:26,000
+Ce qu'il a fait n'était pas
+de la fraternisation.
+
+743
+00:39:26,040 --> 00:39:27,410
+C'était du viol.
+
+744
+00:39:27,450 --> 00:39:30,150
+Arrêtez-le en vertu de l'article 120.
+
+745
+00:39:30,750 --> 00:39:32,900
+Vous ne savez pas de quoi
+vous parlez.
+
+746
+00:39:32,960 --> 00:39:34,440
+Je suis un soldat médaillé !
+
+747
+00:39:34,480 --> 00:39:36,540
+Je n'ai rien fait de mal !
+
+748
+00:39:37,130 --> 00:39:39,620
+Ouais, ça sonne juste.
+
+749
+00:40:53,610 --> 00:40:55,590
+Que voulez-vous ?
+
+750
+00:40:55,630 --> 00:40:59,300
+Je suis déjà suspendu, ils m'enlèvent
+ma bourse, vous m'avez pris à la gorge.
+
+751
+00:40:59,340 --> 00:41:01,480
+C'est vous qui avez pris
+le pot-de-vin.
+
+752
+00:41:02,770 --> 00:41:04,720
+Le système est corrompu, Earl.
+
+753
+00:41:04,760 --> 00:41:06,130
+Et que suis-je supposé faire ?
+
+754
+00:41:06,170 --> 00:41:07,530
+Comment suis-je supposé
+m'occuper de mon frère ?
+
+755
+00:41:07,570 --> 00:41:09,490
+J'ai entendu que vous aviez réussi votre
+examen d'économie de mi-trimestre.
+
+756
+00:41:09,530 --> 00:41:11,810
+- Et alors ?
+- Vous voulez votre diplôme.
+
+757
+00:41:12,440 --> 00:41:15,620
+Donc j'ai convaincu le Dr Lightman de
+mettre nos honoraires sur un compte.
+
+758
+00:41:15,660 --> 00:41:19,790
+Probablement pas assez pour 4 ans à Carver
+mais ça vous mènera au Maryland.
+
+759
+00:41:23,430 --> 00:41:25,570
+Et si je ne veux pas de votre argent ?
+
+760
+00:41:25,610 --> 00:41:29,180
+Alors balancez-le. C'est votre choix.
+
+761
+00:41:44,650 --> 00:41:46,530
+Comment est-ce qu'elle a fait ?
+
+762
+00:41:46,570 --> 00:41:49,700
+Nous savons tous les deux que Metz mentait
+à propos de conduire le camion de tête.
+
+763
+00:41:49,740 --> 00:41:52,100
+Comment a-t-elle déjoué le détecteur ?
+
+764
+00:42:01,060 --> 00:42:03,360
+- Valium ?
+- Ouais.
+
+765
+00:42:03,400 --> 00:42:05,510
+Endors les nerfs.
+
+766
+00:42:05,970 --> 00:42:08,400
+Rend muette la réponse émotionnelle.
+
+767
+00:42:08,440 --> 00:42:11,320
+Vous... vous l'avez drogué
+pour qu'elle puisse mentir ?
+
+768
+00:42:11,650 --> 00:42:14,550
+Ne jamais laisser les faits se mettre
+en travers de la vérité.
+
+769
+00:42:17,530 --> 00:42:20,470
+- Vous savez, je voulais...
+- Ouais, je sais. Merci.
+
+770
+00:42:20,930 --> 00:42:22,100
+Pour quoi ?
+
+771
+00:42:22,140 --> 00:42:24,820
+Vous aviez un petit sourire de gratitude.
+
+772
+00:42:26,520 --> 00:42:29,270
+Quoi, vous êtes surpris ?
+Vraiment ?
+
+773
+00:42:30,798 --> 00:42:32,791
+Le fait que je ne connaisse pas votre science
+
+774
+00:42:32,831 --> 00:42:35,538
+ne signifie pas que
+je ne sache pas les choses.
+
+775
+00:42:36,230 --> 00:42:40,440
+Quand vous ne connaissez pas la science,
+vous ne voyez pas l'image entière.
+
+776
+00:42:40,480 --> 00:42:42,410
+Les gens peuvent être blessés, vous savez ?
+
+777
+00:42:42,450 --> 00:42:44,650
+Qu'est-ce que c'était ?
+Qu'est-ce qu'il s'est passé ?
+
+778
+00:42:44,690 --> 00:42:47,310
+- Quoi ?
+- Honte.
+
+779
+00:42:47,350 --> 00:42:50,860
+Quand vous avez dit que les gens étaient
+blessés, vous avez montré de la honte.
+
+780
+00:42:51,990 --> 00:42:54,500
+Je ne sais pas de quoi vous parlez.
+
+781
+00:42:54,790 --> 00:42:57,140
+Vous mentez.
+
+782
+00:42:57,180 --> 00:42:58,810
+Habituez-vous y.
+

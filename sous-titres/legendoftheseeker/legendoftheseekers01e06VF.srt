@@ -1,0 +1,2340 @@
+1
+00:00:11,386 --> 00:00:12,578
+Comment c'était ?
+
+2
+00:00:13,765 --> 00:00:16,915
+Essayons quelque chose
+de plus difficile.
+
+3
+00:00:24,949 --> 00:00:25,949
+Vas-y.
+
+4
+00:00:30,947 --> 00:00:34,023
+Mon destin est de sauver le monde
+de Darken Rahl,
+
+5
+00:00:34,148 --> 00:00:36,588
+ses soldats essaient de me tuer,
+
+6
+00:00:37,499 --> 00:00:40,711
+et moi, je coupe des fruits
+pour votre petit-déjeuner !
+
+7
+00:00:41,759 --> 00:00:44,136
+Rahl et ses larbins
+vivent dans l'ombre.
+
+8
+00:00:44,261 --> 00:00:46,544
+Certains se cachent
+avec la magie noire.
+
+9
+00:00:47,387 --> 00:00:49,464
+Le temps de poser
+les yeux sur eux...
+
+10
+00:00:51,998 --> 00:00:52,802
+Allez.
+
+11
+00:01:04,564 --> 00:01:07,399
+- Que fais-tu ?
+- Je suis mon instinct ?
+
+12
+00:01:08,033 --> 00:01:09,234
+Tu y vas au pif.
+
+13
+00:01:10,444 --> 00:01:12,071
+Règle numéro quatre :
+
+14
+00:01:12,595 --> 00:01:15,908
+"Pour voir ce qui n'est pas,
+concentre-toi sur ce qui est."
+
+15
+00:01:16,903 --> 00:01:19,639
+Tu dois apprendre à percevoir
+le monde comme nul autre.
+
+16
+00:01:19,846 --> 00:01:20,846
+Encore.
+
+17
+00:01:54,656 --> 00:01:55,774
+Ça a marché !
+
+18
+00:01:56,906 --> 00:01:59,256
+Ne te lance pas des roses si vite.
+
+19
+00:01:59,596 --> 00:02:02,892
+Tes ennemis seront
+beaucoup plus retors qu'un melon.
+
+20
+00:02:37,030 --> 00:02:38,741
+- Je suis désolé.
+- Qu'est-ce...
+
+21
+00:02:39,101 --> 00:02:40,821
+Je savais pas que tu étais là.
+
+22
+00:02:41,620 --> 00:02:43,496
+- Quelqu'un vole nos chevaux !
+- Quoi ?
+
+23
+00:02:43,967 --> 00:02:44,967
+Les chevaux !
+
+24
+00:03:39,052 --> 00:03:40,928
+Ecarlate Crew
+
+25
+00:03:42,143 --> 00:03:43,681
+1x06 - <i>Elixir</i>
+
+26
+00:03:46,533 --> 00:03:49,098
+Un bandit est parti
+avec nos chevaux,
+
+27
+00:03:49,223 --> 00:03:52,922
+- devant le nez du Sourcier !
+- J'étais distrait.
+
+28
+00:03:53,342 --> 00:03:55,985
+ Qu'est-ce qui aurait pu
+te distraire ?
+
+29
+00:03:59,467 --> 00:04:01,782
+ C'était un enfant,
+il n'avait pas plus de 16 ans.
+
+30
+00:04:01,950 --> 00:04:04,426
+- J'étais censé le tuer ?
+- "Où il n'y a pas de chemin,
+
+31
+00:04:04,551 --> 00:04:07,412
+"le Sourcier trouvera une piste",
+règle numéro 4.
+
+32
+00:04:07,968 --> 00:04:11,292
+- }Il y a déjà un numéro quatre !
+- Numéro cinq alors !
+
+33
+00:04:12,102 --> 00:04:14,610
+-  Vous les inventez ?
+- Par où est-il allé ?
+
+34
+00:04:15,030 --> 00:04:16,030
+Sud-est.
+
+35
+00:04:16,840 --> 00:04:18,092
+Il va vers Drundril.
+
+36
+00:04:18,217 --> 00:04:20,182
+Peut-être
+quelqu'un d'assez serviable
+
+37
+00:04:20,307 --> 00:04:22,668
+nous revendra nos chevaux.
+
+38
+00:04:26,191 --> 00:04:28,794
+Kahlan, pour ce qui s'est passé,
+
+39
+00:04:29,354 --> 00:04:30,578
+je n'ai rien vu.
+
+40
+00:04:33,170 --> 00:04:35,291
+Tu ne devrais pas mentir
+à une Inquisitrice.
+
+41
+00:04:56,280 --> 00:04:57,504
+Déjà de retour ?
+
+42
+00:04:58,468 --> 00:05:00,118
+Combien pour les chevaux ?
+
+43
+00:05:03,195 --> 00:05:04,211
+Une fiole.
+
+44
+00:05:04,717 --> 00:05:06,472
+- C'est tout ?
+- Tu la veux ou pas ?
+
+45
+00:05:19,843 --> 00:05:21,593
+Ce fut un plaisir.
+
+46
+00:05:29,066 --> 00:05:30,066
+Miranda.
+
+47
+00:05:30,716 --> 00:05:31,716
+Salut.
+
+48
+00:06:07,340 --> 00:06:08,593
+Laisse-moi tranquille.
+
+49
+00:06:11,888 --> 00:06:15,081
+- Alors, vous auriez une idée ?
+- Regardez autour de vous,
+
+50
+00:06:15,708 --> 00:06:17,870
+cette ville est pleine
+de voleurs et d'escrocs.
+
+51
+00:06:17,995 --> 00:06:20,712
+Des douzaines de garçons
+auraient pu voler vos chevaux.
+
+52
+00:06:22,291 --> 00:06:23,432
+Je vous l'offre,
+
+53
+00:06:24,104 --> 00:06:25,843
+ça vous sera utile.
+
+54
+00:06:26,387 --> 00:06:27,387
+Merci.
+
+55
+00:06:35,184 --> 00:06:38,536
+- Vous avez eu plus de chance que moi ?
+- Personne ne sait rien.
+
+56
+00:06:38,661 --> 00:06:41,931
+Tu pourrais tous les toucher,
+pour voir si quelqu'un ment.
+
+57
+00:06:42,679 --> 00:06:43,929
+Tu peux faire ça ?
+
+58
+00:06:55,679 --> 00:06:57,374
+Je sais où trouver notre voleur.
+
+59
+00:07:07,055 --> 00:07:10,086
+- Comment sais-tu où on va ?
+- Je sais pas, une impression.
+
+60
+00:07:10,211 --> 00:07:11,387
+C'est par là.
+
+61
+00:07:11,855 --> 00:07:15,082
+- C'est vous qui lui avez appris ?
+- Non, j'ai rien à voir là-dedans.
+
+62
+00:07:15,207 --> 00:07:17,349
+1 000 ans sont passés
+depuis le dernier sourcier.
+
+63
+00:07:17,474 --> 00:07:19,980
+On ne connaît pas
+le plein potentiel de Richard.
+
+64
+00:07:23,928 --> 00:07:24,928
+C'est lui.
+
+65
+00:07:25,977 --> 00:07:29,572
+Je n'aurais pas dû me moquer
+si vite de ton instinct.
+
+66
+00:07:36,363 --> 00:07:38,039
+Dis-nous où sont nos chevaux.
+
+67
+00:07:41,583 --> 00:07:45,005
+Je ne les ai plus, mais je peux
+vous dire qui les a pour 10...
+
+68
+00:07:45,602 --> 00:07:47,049
+Non, 20 pièces d'or.
+
+69
+00:07:49,819 --> 00:07:51,887
+Je n'ai qu'une pièce d'acier.
+
+70
+00:07:52,408 --> 00:07:54,301
+Dis-moi où ils sont.
+
+71
+00:07:54,426 --> 00:07:56,307
+Non, les marchands me tueraient.
+
+72
+00:07:56,804 --> 00:07:57,804
+Marchands ?
+
+73
+00:07:57,929 --> 00:08:00,779
+Peut-être que le toucher
+d'une Inquisitrice
+
+74
+00:08:01,010 --> 00:08:03,732
+- pourrait te convaincre.
+- C'est bon.
+
+75
+00:08:06,367 --> 00:08:07,701
+Je vous y conduis.
+
+76
+00:08:09,482 --> 00:08:12,161
+Je veux un truc
+qui me porte chance aux cartes.
+
+77
+00:08:12,795 --> 00:08:14,294
+J'ai rien pour la chance,
+
+78
+00:08:15,932 --> 00:08:17,622
+mais je peux te donner ça.
+
+79
+00:08:18,305 --> 00:08:21,238
+Tu pourras voir à travers les cartes
+de tes adversaires.
+
+80
+00:08:21,772 --> 00:08:22,772
+Monsieur,
+
+81
+00:08:23,491 --> 00:08:25,835
+je crois que vous avez des chevaux
+
+82
+00:08:26,318 --> 00:08:29,391
+qui nous ont été volés.
+On veut les récupérer.
+
+83
+00:08:31,545 --> 00:08:33,310
+Les chevaux qu'il m'a échangés ?
+
+84
+00:08:35,348 --> 00:08:38,559
+On vient pas se battre,
+on veut juste ce qui nous appartient.
+
+85
+00:08:39,927 --> 00:08:41,455
+Débarrassez-vous d'eux.
+
+86
+00:08:54,615 --> 00:08:55,615
+Toi !
+
+87
+00:08:58,250 --> 00:09:00,091
+Tu as amené ces gens ici !
+
+88
+00:09:36,385 --> 00:09:37,201
+Arrête !
+
+89
+00:09:39,052 --> 00:09:40,302
+Je te préviens.
+
+90
+00:09:47,985 --> 00:09:48,961
+Un sorcier !
+
+91
+00:09:58,797 --> 00:09:59,891
+Tu vas bien ?
+
+92
+00:10:04,173 --> 00:10:05,302
+Rebonjour.
+
+93
+00:10:06,551 --> 00:10:08,898
+Vous avez trouvé
+celui que vous cherchiez.
+
+94
+00:10:09,280 --> 00:10:11,865
+- Ravie d'avoir été utile.
+- Quoi ?
+
+95
+00:10:12,119 --> 00:10:14,142
+- Comment ça ?
+- La pinte que vous avez bue.
+
+96
+00:10:14,656 --> 00:10:16,657
+J'y ai mis une chose magique.
+
+97
+00:10:17,426 --> 00:10:18,426
+Un élixir,
+
+98
+00:10:18,925 --> 00:10:21,410
+qui aide à trouver
+tout ce qu'on cherche.
+
+99
+00:10:21,865 --> 00:10:23,787
+Vous l'avez mis dans mon verre ?
+
+100
+00:10:24,428 --> 00:10:27,042
+Vous ne pensiez pas vraiment
+avoir un pouvoir spécial ?
+
+101
+00:10:28,885 --> 00:10:30,253
+J'en ai encore,
+
+102
+00:10:30,864 --> 00:10:32,323
+ainsi que les autres.
+
+103
+00:10:32,760 --> 00:10:34,005
+Si ça vous intéresse,
+
+104
+00:10:35,046 --> 00:10:36,570
+vous savez où me trouver.
+
+105
+00:10:41,297 --> 00:10:43,684
+- Un souci ?
+- Non, ça va.
+
+106
+00:10:44,498 --> 00:10:45,614
+Messieurs,
+
+107
+00:10:47,241 --> 00:10:50,102
+voici mon magasin,
+si vous voulez des vivres.
+
+108
+00:10:50,734 --> 00:10:52,299
+Merci, on doit repartir.
+
+109
+00:10:54,848 --> 00:10:56,276
+J'ai vu votre épée.
+
+110
+00:10:57,842 --> 00:10:59,214
+Les marques.
+
+111
+00:11:02,990 --> 00:11:04,465
+C'est l'Épée de vérité ?
+
+112
+00:11:06,675 --> 00:11:07,675
+En effet.
+
+113
+00:11:09,464 --> 00:11:10,951
+Vous êtes le Sourcier.
+
+114
+00:11:12,175 --> 00:11:15,631
+Vous pouvez sauver cette ville
+des hommes qui veulent la détruire.
+
+115
+00:11:32,188 --> 00:11:34,233
+Il y a un autre sorcier au village.
+
+116
+00:11:36,987 --> 00:11:38,293
+Un autre sorcier.
+
+117
+00:11:42,869 --> 00:11:44,685
+Ce sera bien
+d'avoir de la compagnie.
+
+118
+00:11:45,875 --> 00:11:47,125
+Amenez-le-moi.
+
+119
+00:11:55,609 --> 00:11:59,198
+La prophétie dit
+que le Sourcier reviendra,
+
+120
+00:11:59,512 --> 00:12:02,465
+et enlèvera le voile
+des ténèbres de nos vies.
+
+121
+00:12:03,753 --> 00:12:06,030
+La plupart pensent
+que c'est une légende,
+
+122
+00:12:06,477 --> 00:12:07,557
+mais vous voilà,
+
+123
+00:12:08,246 --> 00:12:09,246
+prêt à...
+
+124
+00:12:09,705 --> 00:12:12,906
+sauver notre village
+des marchands de magie.
+
+125
+00:12:13,291 --> 00:12:14,824
+Ils vendent de la magie ?
+
+126
+00:12:15,589 --> 00:12:17,164
+Ils sont à chaque coin de rue,
+
+127
+00:12:17,793 --> 00:12:20,295
+dans la taverne... On dirait
+
+128
+00:12:20,585 --> 00:12:22,740
+que tous les villageois
+achètent leurs potions.
+
+129
+00:12:23,524 --> 00:12:26,762
+J'ai perdu presque tous mes clients.
+
+130
+00:12:27,603 --> 00:12:30,373
+Les fermiers n'ensemencent plus,
+
+131
+00:12:30,943 --> 00:12:33,915
+les enfants ne sont plus nourris,
+
+132
+00:12:35,021 --> 00:12:38,121
+- ce garçon avec vous, Jack...
+- Que lui est-il arrivé ?
+
+133
+00:12:40,088 --> 00:12:42,032
+C'était un gentil garçon,
+
+134
+00:12:42,682 --> 00:12:45,133
+jusqu'à ce que ses parents
+vendent tout pour de la magie.
+
+135
+00:12:45,474 --> 00:12:46,724
+Même leur maison.
+
+136
+00:12:47,281 --> 00:12:49,401
+Il a été abandonné à lui-même.
+
+137
+00:12:50,785 --> 00:12:52,937
+Quelles sortes de potions
+vendent-ils ?
+
+138
+00:12:54,036 --> 00:12:55,036
+Le genre
+
+139
+00:12:55,864 --> 00:12:58,289
+qui donne des pouvoirs
+qu'on ne devrait pas avoir.
+
+140
+00:12:59,288 --> 00:13:01,030
+Des malédictions, sorts,
+
+141
+00:13:02,164 --> 00:13:04,028
+enchantements de toutes sortes.
+
+142
+00:13:04,352 --> 00:13:05,951
+Ces marchands
+
+143
+00:13:06,965 --> 00:13:08,882
+ne sont ni magiciens, ni sorciers.
+
+144
+00:13:10,098 --> 00:13:12,206
+D'où vient la magie qu'ils vendent ?
+
+145
+00:13:13,479 --> 00:13:14,546
+J'en sais rien.
+
+146
+00:13:16,140 --> 00:13:18,587
+Ils sont juste arrivés un jour.
+
+147
+00:13:20,413 --> 00:13:23,760
+Avant leur arrivée,
+il faisait bon vivre ici.
+
+148
+00:13:26,004 --> 00:13:27,580
+Mais vu que le Sourcier est là,
+
+149
+00:13:29,701 --> 00:13:31,068
+ça va le redevenir.
+
+150
+00:13:42,669 --> 00:13:44,519
+Je veux aider ces gens,
+
+151
+00:13:44,849 --> 00:13:46,825
+mais ma mission
+est de combattre Rahl.
+
+152
+00:13:46,993 --> 00:13:49,575
+Rahl n'est pas le seul fléau
+de ce pays.
+
+153
+00:13:49,700 --> 00:13:52,267
+Il a ses sympathisants
+et collaborateurs.
+
+154
+00:13:52,846 --> 00:13:55,449
+Le devoir du Sourcier
+est de tous les combattre.
+
+155
+00:13:55,574 --> 00:13:56,574
+Souviens-toi,
+
+156
+00:13:56,708 --> 00:13:59,336
+"Avant de couper la tête,
+assure-toi que le buste est mort,
+
+157
+00:13:59,506 --> 00:14:02,179
+- "sinon la tête repoussera."
+- C'est quelle leçon, ça ?
+
+158
+00:14:02,535 --> 00:14:04,727
+Aucune, je l'ai apprise
+dans un livre de cuisine.
+
+159
+00:14:05,014 --> 00:14:06,014
+Ma Dame.
+
+160
+00:14:08,130 --> 00:14:09,389
+Tout va bien.
+
+161
+00:14:09,912 --> 00:14:11,477
+Theodoro Rymus,
+
+162
+00:14:12,428 --> 00:14:13,643
+à votre service.
+
+163
+00:14:18,598 --> 00:14:20,442
+J'ai poursuivi ceux
+qui vous menaçaient,
+
+164
+00:14:22,028 --> 00:14:24,163
+puis-je faire autre chose
+pour votre plaisir ?
+
+165
+00:14:24,466 --> 00:14:27,112
+C'est possible.
+Les potions que tu vends,
+
+166
+00:14:27,778 --> 00:14:30,159
+- d'où viennent-elles ?
+- Le temple du vieux prophète,
+
+167
+00:14:30,589 --> 00:14:33,205
+- à deux lieues d'ici, au nord.
+- Rends-nous nos chevaux.
+
+168
+00:14:34,590 --> 00:14:35,590
+Je suis désolé.
+
+169
+00:14:36,023 --> 00:14:38,279
+- Je les ai vendus à un marchand.
+- Quoi ?
+
+170
+00:14:40,028 --> 00:14:41,420
+Il est reparti ce matin.
+
+171
+00:14:42,107 --> 00:14:44,608
+- Mais je peux vous mener au temple.
+- Ce n'est pas la peine.
+
+172
+00:14:44,733 --> 00:14:47,301
+Dessine-nous une carte et ensuite,
+
+173
+00:14:48,572 --> 00:14:50,722
+- je veux que tu quittes ce village.
+- Comment ?
+
+174
+00:14:51,778 --> 00:14:53,307
+On va pas le laisser partir.
+
+175
+00:14:53,714 --> 00:14:56,561
+Quitte ce village,
+et trouve un travail honnête.
+
+176
+00:14:58,027 --> 00:14:59,258
+As-tu compris ?
+
+177
+00:15:00,621 --> 00:15:02,036
+Comme vous voulez.
+
+178
+00:15:13,146 --> 00:15:16,498
+Ce marchand de magie, Rymus.
+Que lui a fait Kahlan ?
+
+179
+00:15:16,792 --> 00:15:18,776
+Voilà pourquoi
+on l'appelle Inquisitrice.
+
+180
+00:15:18,901 --> 00:15:21,739
+D'un simple contact, elle peut plier
+n'importe qui à sa volonté.
+
+181
+00:15:22,127 --> 00:15:24,797
+Elle peut lui faire avouer la vérité,
+c'est sa fonction.
+
+182
+00:15:25,527 --> 00:15:28,300
+Ou le forcer à faire
+des choses inimaginables.
+
+183
+00:15:28,779 --> 00:15:30,118
+Elle l'a fait à Hartland,
+
+184
+00:15:30,243 --> 00:15:32,755
+elle a forcé un soldat D'Haran
+à tuer ses compagnons.
+
+185
+00:15:33,026 --> 00:15:36,475
+Je n'avais pas compris alors.
+Mais pourquoi Rymus est-il revenu ?
+
+186
+00:15:37,275 --> 00:15:39,187
+Et la manière
+dont il la regardait...
+
+187
+00:15:39,525 --> 00:15:41,814
+C'est une des répercussions
+de son pouvoir.
+
+188
+00:15:42,528 --> 00:15:43,528
+La victime
+
+189
+00:15:44,569 --> 00:15:47,007
+tombe amoureuse de l'Inquisitrice
+qui l'a touché.
+
+190
+00:15:47,277 --> 00:15:48,277
+Amoureux ?
+
+191
+00:15:49,086 --> 00:15:51,123
+- Je ne comprends pas.
+- C'est...
+
+192
+00:15:51,670 --> 00:15:53,952
+- compliqué.
+- J'aimerai savoir.
+
+193
+00:15:54,528 --> 00:15:57,330
+Ce n'est pas facile pour Kahlan.
+
+194
+00:15:57,528 --> 00:16:00,641
+Elle porte un lourd fardeau,
+ce n'est pas à moi de t'en parler.
+
+195
+00:16:00,918 --> 00:16:04,546
+Elle te le dira peut-être...
+Pas forcément maintenant !
+
+196
+00:16:48,543 --> 00:16:51,489
+- S'il se réveille ?
+- Tant qu'il porte ceci,
+
+197
+00:16:52,364 --> 00:16:54,219
+il ne pourra pas utiliser sa magie.
+
+198
+00:17:27,713 --> 00:17:28,713
+Il a disparu.
+
+199
+00:17:29,525 --> 00:17:30,975
+Il faut le retrouver.
+
+200
+00:17:36,275 --> 00:17:37,275
+Les marchands.
+
+201
+00:17:38,212 --> 00:17:40,062
+On sait où se trouve le temple.
+
+202
+00:17:54,961 --> 00:17:56,811
+Ce n'est peut-être pas ici.
+
+203
+00:17:57,024 --> 00:17:59,661
+- Peut-être que Rymus t'a menti.
+- Impossible.
+
+204
+00:18:03,588 --> 00:18:05,963
+Quoi ? Ils ont déménagé ?
+
+205
+00:18:06,712 --> 00:18:07,712
+Mais où ?
+
+206
+00:18:16,633 --> 00:18:17,774
+Jeziah ?
+
+207
+00:18:20,898 --> 00:18:22,099
+Zeddicus, mon ami.
+
+208
+00:18:23,881 --> 00:18:26,645
+Pardonne-moi, j'espère
+que tu n'es pas blessé.
+
+209
+00:18:27,611 --> 00:18:29,223
+Mes compagnons.
+
+210
+00:18:29,818 --> 00:18:31,043
+Il n'ont rien.
+
+211
+00:18:32,520 --> 00:18:34,323
+Si c'est l'accueil réservé aux amis,
+
+212
+00:18:34,448 --> 00:18:37,015
+ravi qu'on se soit quittés
+en bons termes.
+
+213
+00:18:37,654 --> 00:18:41,133
+Quand j'ai entendu parler d'un sorcier,
+j'ai pensé qu'il travaillait pour Rahl.
+
+214
+00:18:41,898 --> 00:18:44,601
+Si j'avais su que c'était toi,
+je t'aurais préparé une perdrix rôtie
+
+215
+00:18:44,726 --> 00:18:46,307
+au lieu de te faire enlever.
+
+216
+00:18:46,432 --> 00:18:48,947
+Pourquoi pensais-tu
+que je travaillerais pour lui ?
+
+217
+00:18:49,834 --> 00:18:52,705
+Les Contrées du Milieu ont changé
+depuis ton départ.
+
+218
+00:18:53,187 --> 00:18:55,576
+Ceux pratiquant la magie noire
+sont partout,
+
+219
+00:18:55,892 --> 00:18:58,254
+prêts à accomplir les voeux
+du plus offrant.
+
+220
+00:18:59,898 --> 00:19:01,702
+J'ai tant à te dire.
+
+221
+00:19:02,718 --> 00:19:03,834
+Mais d'abord...
+
+222
+00:19:05,462 --> 00:19:07,901
+Où étais-tu
+pendant toutes ces années ?
+
+223
+00:19:10,825 --> 00:19:11,872
+Pas de traces.
+
+224
+00:19:12,164 --> 00:19:13,164
+Nulle part.
+
+225
+00:19:13,636 --> 00:19:16,196
+Ils ont dû utiliser un sort
+pour masquer leurs pas.
+
+226
+00:19:17,012 --> 00:19:20,139
+Tu n'aurais pas dû laisser partir Rymus,
+il nous aurait aidés.
+
+227
+00:19:22,514 --> 00:19:23,514
+Quoi ?
+
+228
+00:19:28,388 --> 00:19:29,946
+Quand je touche quelqu'un,
+
+229
+00:19:31,507 --> 00:19:32,921
+il perd son libre arbitre,
+
+230
+00:19:34,324 --> 00:19:35,324
+il devient...
+
+231
+00:19:36,512 --> 00:19:37,762
+un esclave.
+
+232
+00:19:39,763 --> 00:19:42,496
+Ce n'est pas bien de continuer
+à les forcer à accomplir mes volontés
+
+233
+00:19:42,621 --> 00:19:45,557
+- plus de temps que nécessaire.
+- Même quelqu'un comme Rymus ?
+
+234
+00:19:45,889 --> 00:19:47,766
+Tout le monde mérite
+une seconde chance,
+
+235
+00:19:49,136 --> 00:19:51,230
+pour devenir quelqu'un de meilleur.
+
+236
+00:19:53,662 --> 00:19:55,973
+Ton instinct de Sourcier
+t'a mené au garçon.
+
+237
+00:19:56,763 --> 00:19:58,595
+Utilise-le pour retrouver Zedd.
+
+238
+00:20:02,038 --> 00:20:04,159
+Ce n'était pas mon instinct.
+
+239
+00:20:06,130 --> 00:20:07,781
+Mais tu as trouvé Jack.
+
+240
+00:20:08,649 --> 00:20:10,959
+La serveuse de la taverne a mis
+un truc dans mon verre.
+
+241
+00:20:11,701 --> 00:20:13,461
+- Une de ces potions.
+- Quoi ?
+
+242
+00:20:13,789 --> 00:20:16,380
+C'est comme ça que je l'ai trouvé,
+rien à voir avec moi.
+
+243
+00:20:20,011 --> 00:20:21,261
+Mais ça a marché.
+
+244
+00:20:22,758 --> 00:20:24,347
+Je peux y retourner en reprendre.
+
+245
+00:20:24,891 --> 00:20:27,314
+La magie ne doit pas
+être utilisée de cette manière.
+
+246
+00:20:27,636 --> 00:20:29,810
+Tu l'utilises, tu as touché Rymus.
+
+247
+00:20:30,072 --> 00:20:32,299
+Je suis née avec ce pouvoir.
+
+248
+00:20:32,934 --> 00:20:35,691
+- Je l'ai pas acheté dans une taverne.
+- Où est la différence ?
+
+249
+00:20:36,177 --> 00:20:38,424
+Tu as vu l'effet
+que ces potions peuvent faire,
+
+250
+00:20:39,072 --> 00:20:41,956
+- ce qui est advenu du village, de Jack.
+- Tu veux me protéger
+
+251
+00:20:42,081 --> 00:20:44,821
+- parce que je suis le Sourcier.
+- Ce n'est pas à cause de ça.
+
+252
+00:20:46,010 --> 00:20:47,010
+Richard, je...
+
+253
+00:20:48,730 --> 00:20:49,789
+Sourcier !
+
+254
+00:20:51,199 --> 00:20:53,261
+Venez tout de suite !
+
+255
+00:20:54,384 --> 00:20:56,021
+Jack a des problèmes !
+
+256
+00:21:00,262 --> 00:21:03,125
+On a traversé la Frontière,
+il y a deux mois,
+
+257
+00:21:03,304 --> 00:21:05,066
+et depuis, on est sur la route.
+
+258
+00:21:06,384 --> 00:21:08,348
+Et ce jeune homme
+avec qui tu voyages,
+
+259
+00:21:08,830 --> 00:21:11,090
+tu crois vraiment
+qu'il est le Sourcier ?
+
+260
+00:21:11,215 --> 00:21:13,061
+Il a beaucoup à apprendre, mais...
+
+261
+00:21:15,398 --> 00:21:17,150
+C'est le vrai de vrai.
+
+262
+00:21:20,123 --> 00:21:21,864
+De la part de quelqu'un qui le sait,
+
+263
+00:21:21,989 --> 00:21:24,365
+il n'aura pas
+de meilleur professeur que toi.
+
+264
+00:21:25,442 --> 00:21:28,172
+Les gens des Contrées du Milieu
+ont une raison d'espérer.
+
+265
+00:21:29,190 --> 00:21:31,680
+Puis-je demander
+ce que tu comptais faire avec moi
+
+266
+00:21:31,805 --> 00:21:34,117
+si je n'avais pas été un vieil ami ?
+
+267
+00:21:35,892 --> 00:21:37,087
+Je vais te montrer.
+
+268
+00:21:54,508 --> 00:21:55,556
+Un quillion ?
+
+269
+00:21:56,908 --> 00:21:59,512
+- Où as-tu...?
+- Ça n'a pas été facile.
+
+270
+00:22:00,823 --> 00:22:04,429
+Si tu avais travaillé pour Rahl,
+j'aurais absorbé ta magie avec,
+
+271
+00:22:05,380 --> 00:22:06,918
+et je l'aurais distillée
+
+272
+00:22:07,552 --> 00:22:08,728
+pour en faire ça.
+
+273
+00:22:11,732 --> 00:22:15,681
+Tu fabriques la magie qui est
+vendue dans les rues de Dundril.
+
+274
+00:22:18,760 --> 00:22:19,628
+Pourquoi ?
+
+275
+00:22:20,129 --> 00:22:23,228
+Les ventes de ces potions
+me permettront de lever une armée.
+
+276
+00:22:23,568 --> 00:22:25,618
+L'armée des Contrées du Milieu.
+
+277
+00:22:25,752 --> 00:22:28,450
+Une force assez puissante
+pour combattre Rahl.
+
+278
+00:22:28,575 --> 00:22:29,513
+Jeziah.
+
+279
+00:22:30,245 --> 00:22:33,142
+Je veux aussi détruire Darken Rahl.
+
+280
+00:22:33,458 --> 00:22:37,146
+Mais, vendre de la magie ?
+C'est contraire à nos croyances.
+
+281
+00:22:37,528 --> 00:22:39,204
+Tout ce que je t'ai appris.
+
+282
+00:22:39,432 --> 00:22:41,855
+Ces choses sont d'une autre époque.
+
+283
+00:22:42,375 --> 00:22:44,377
+Rahl ne suit aucune règle.
+
+284
+00:22:45,718 --> 00:22:49,134
+Et ça justifie d'exploiter
+ces villageois ?
+
+285
+00:22:49,827 --> 00:22:51,506
+Leurs vies sont ternes.
+
+286
+00:22:51,631 --> 00:22:53,881
+Ils suffoquent
+sous les lois de Rahl.
+
+287
+00:22:54,421 --> 00:22:57,819
+- La magie leur donne une échappatoire.
+- La magie est...
+
+288
+00:22:58,496 --> 00:22:59,496
+rare.
+
+289
+00:22:59,905 --> 00:23:00,962
+Elle est spéciale.
+
+290
+00:23:01,319 --> 00:23:05,049
+Tu ne peux pas la vendre
+dans la rue contre quelques pièces.
+
+291
+00:23:05,513 --> 00:23:09,012
+Entre de mauvaises mains,
+elle détruit des vies, et tue !
+
+292
+00:23:09,720 --> 00:23:13,212
+Un village est un petit prix à payer
+pour sauver le reste du pays.
+
+293
+00:23:16,372 --> 00:23:18,771
+Tu as oublié plus de magie
+que je n'en saurais jamais.
+
+294
+00:23:19,255 --> 00:23:20,578
+En travaillant ensemble,
+
+295
+00:23:21,241 --> 00:23:24,060
+on pourrait trouver les sorciers,
+et magiciens qui sont avec Rahl,
+
+296
+00:23:24,564 --> 00:23:27,322
+leur prendre leur magie
+et créer cette puissante armée !
+
+297
+00:23:28,096 --> 00:23:31,576
+- Tu penses que je vais t'aider ?
+- Écoute-moi.
+
+298
+00:23:31,744 --> 00:23:33,836
+J'en ai assez entendu !
+
+299
+00:23:38,462 --> 00:23:39,922
+Dis-leur de bouger.
+
+300
+00:23:47,878 --> 00:23:49,504
+Qu'est-ce que tu fais ?
+
+301
+00:23:49,629 --> 00:23:52,526
+Désolé, mon ami,
+mon travail est trop important.
+
+302
+00:23:59,747 --> 00:24:03,176
+J'ai payé Rymus avant que tes amis
+et toi ne l'expulsiez.
+
+303
+00:24:03,741 --> 00:24:05,900
+Alors, je veux soit mon argent,
+
+304
+00:24:06,242 --> 00:24:08,249
+soit la potion que j'ai achetée.
+
+305
+00:24:09,396 --> 00:24:10,792
+J'en ai aucun des deux !
+
+306
+00:24:13,567 --> 00:24:15,620
+Je vais donc devoir
+les récupérer sur ta tête.
+
+307
+00:24:16,590 --> 00:24:17,914
+Laissez-le !
+
+308
+00:24:22,011 --> 00:24:23,640
+Ce n'est pas ton village.
+
+309
+00:24:24,072 --> 00:24:25,505
+Qui es-tu pour t'en mêler ?
+
+310
+00:24:31,730 --> 00:24:33,051
+Dégagez !
+
+311
+00:24:38,258 --> 00:24:40,645
+- Prends soin de lui, je reviens.
+- Où vas-tu ?
+
+312
+00:24:41,892 --> 00:24:43,334
+C'est de pire en pire.
+
+313
+00:24:43,459 --> 00:24:45,942
+On doit trouver Zedd,
+qui sait ce qui lui est arrivé ?
+
+314
+00:24:46,067 --> 00:24:49,165
+Pas comme ça,
+tu ne peux pas utiliser ces potions.
+
+315
+00:24:50,062 --> 00:24:51,364
+Je ne le veux pas non plus.
+
+316
+00:24:52,414 --> 00:24:55,076
+Mais je n'ai pas d'autres idées,
+et toi ?
+
+317
+00:25:02,380 --> 00:25:04,112
+Je savais que vous reviendriez.
+
+318
+00:25:05,203 --> 00:25:07,452
+C'est pour la jolie fille
+qui vous accompagnait ?
+
+319
+00:25:07,577 --> 00:25:09,754
+J'ai vu comment vous la regardiez.
+
+320
+00:25:10,564 --> 00:25:13,830
+Je peux vous rendre
+irrésistible à ses yeux.
+
+321
+00:25:13,955 --> 00:25:15,814
+Non, je veux la même potion.
+
+322
+00:25:16,223 --> 00:25:17,642
+Combien pouvez-vous payer ?
+
+323
+00:25:18,768 --> 00:25:20,092
+J'ai pas d'argent.
+
+324
+00:25:20,391 --> 00:25:22,410
+Désolée, je ne peux rien pour vous.
+
+325
+00:25:24,402 --> 00:25:26,273
+Un ami est dans de sales draps.
+
+326
+00:25:26,614 --> 00:25:28,734
+Il y a bien quelque chose
+qui vous intéresse.
+
+327
+00:25:30,834 --> 00:25:32,483
+Ce pendentif est pas mal.
+
+328
+00:25:33,094 --> 00:25:36,575
+Mon père me l'a donné.
+C'est tout ce qui me reste de lui.
+
+329
+00:25:37,039 --> 00:25:39,494
+- Il doit avoir de la valeur.
+- Seulement pour moi.
+
+330
+00:25:39,619 --> 00:25:42,358
+Il y a sûrement autre chose
+qui vous intéresse, je vous en prie !
+
+331
+00:25:43,208 --> 00:25:44,804
+Je ne veux rien d'autre.
+
+332
+00:25:50,892 --> 00:25:51,897
+Parfait.
+
+333
+00:26:15,148 --> 00:26:18,680
+- Qu'avez-vous vu ?
+- Mon ami... il est blessé.
+
+334
+00:26:19,261 --> 00:26:21,395
+Il est sous terre.
+Y a des grottes ici ?
+
+335
+00:26:21,520 --> 00:26:22,872
+Plein, au sud du ravin.
+
+336
+00:26:24,095 --> 00:26:26,417
+- Comment trouver la bonne ?
+- La potion vous guidera.
+
+337
+00:26:26,783 --> 00:26:28,793
+Mais son effet est court.
+Faites vite !
+
+338
+00:26:36,433 --> 00:26:38,567
+C'est de votre faute,
+vous et vos amis.
+
+339
+00:26:38,692 --> 00:26:41,306
+Tu aurais dû voler des chevaux
+à d'autres.
+
+340
+00:26:41,960 --> 00:26:43,231
+J'en avais besoin.
+
+341
+00:26:43,600 --> 00:26:45,036
+Pour acheter une potion.
+
+342
+00:26:46,400 --> 00:26:47,806
+Dans quel but ?
+
+343
+00:26:48,014 --> 00:26:49,298
+Pour une fille.
+
+344
+00:26:49,660 --> 00:26:50,983
+Une fille ?
+
+345
+00:26:52,202 --> 00:26:53,454
+Parle-moi d'elle.
+
+346
+00:26:55,030 --> 00:26:56,575
+Elle s'appelle Miranda.
+
+347
+00:26:56,700 --> 00:26:58,423
+Elle vend des fleurs.
+
+348
+00:26:59,245 --> 00:27:01,092
+La plus belle fille de la ville.
+
+349
+00:27:01,830 --> 00:27:04,604
+Mais elle m'ignore,
+sauf quand je prends la potion.
+
+350
+00:27:06,587 --> 00:27:09,518
+- Tu as tenté de lui parler ?
+- Je ne sais pas quoi lui dire.
+
+351
+00:27:09,643 --> 00:27:11,772
+Je deviens fou
+quand je suis près d'elle.
+
+352
+00:27:13,690 --> 00:27:14,765
+Mais oui !
+
+353
+00:27:15,330 --> 00:27:18,009
+Vous pourriez
+la contraindre à m'aimer.
+
+354
+00:27:18,547 --> 00:27:21,419
+Pas seulement quelques minutes,
+mais pour toujours.
+
+355
+00:27:21,544 --> 00:27:23,766
+Je ne pourrais jamais faire cela.
+
+356
+00:27:25,602 --> 00:27:27,331
+Aimer est un choix que nous faisons.
+
+357
+00:27:28,079 --> 00:27:30,176
+Si tu ne prends pas cela
+en considération,
+
+358
+00:27:30,800 --> 00:27:32,823
+ce n'est plus vraiment de l'amour.
+
+359
+00:27:33,319 --> 00:27:34,767
+Quelqu'un qui t'aime,
+
+360
+00:27:35,753 --> 00:27:38,309
+qui veut vivre avec toi,
+parce que tu l'as contraint ?
+
+361
+00:27:40,489 --> 00:27:41,595
+Crois-moi,
+
+362
+00:27:43,014 --> 00:27:44,422
+tu serais malheureux.
+
+363
+00:27:46,425 --> 00:27:48,835
+Je peux trouver Zedd,
+mais il faut faire vite !
+
+364
+00:28:40,540 --> 00:28:43,638
+Je dis un mot et
+mon petit ami fera de toi son dîner.
+
+365
+00:28:45,725 --> 00:28:48,089
+Laisse-moi partir
+et je lui dirai de t'épargner.
+
+366
+00:28:55,275 --> 00:28:58,735
+Le quillion absorbera
+tout ton pouvoir en quelques heures.
+
+367
+00:29:01,629 --> 00:29:03,987
+À la fin, même les rats
+ne t'obéiront plus.
+
+368
+00:29:06,034 --> 00:29:07,536
+Mais tout cela pourrait cesser.
+
+369
+00:29:09,495 --> 00:29:11,687
+Où est ta milice, Jeziah ?
+
+370
+00:29:12,760 --> 00:29:15,291
+Je ne vois que des malfrats
+et des voleurs.
+
+371
+00:29:15,879 --> 00:29:19,842
+Seront-ils les généraux
+de l'armée des Contrées du Milieu ?
+
+372
+00:29:21,382 --> 00:29:24,195
+Si tu voulais combattre Rahl,
+tu serais déjà là-bas,
+
+373
+00:29:24,320 --> 00:29:25,805
+mais là n'est pas ton but.
+
+374
+00:29:25,930 --> 00:29:28,208
+Pour cela,
+j'ai besoin de temps et d'argent.
+
+375
+00:29:28,333 --> 00:29:30,410
+Ce que tu as ne te suffit pas ?
+
+376
+00:29:30,744 --> 00:29:32,895
+Les villageois
+t'ont déjà tout donné.
+
+377
+00:29:34,613 --> 00:29:38,149
+Es-tu sûr que ce n'est pas
+simplement pour t'enrichir ?
+
+378
+00:29:38,319 --> 00:29:41,362
+Utiliser la magie
+afin de contrôler les autres !
+
+379
+00:29:41,983 --> 00:29:44,285
+Ne me juge pas, Zeddicus.
+
+380
+00:29:44,410 --> 00:29:48,029
+Tu n'en as aucun droit. Tu as fui
+alors qu'on avait besoin de toi.
+
+381
+00:29:48,154 --> 00:29:50,286
+J'ai fui pour protéger le Sourcier !
+
+382
+00:29:50,530 --> 00:29:53,341
+Es-tu certain que ce n'est pas toi
+que tu protégeais ?
+
+383
+00:29:54,223 --> 00:29:57,552
+Utiliser la magie
+pour ton bénéfice personnel !
+
+384
+00:29:58,384 --> 00:30:00,607
+Tu disais vouloir détruire Rahl ?
+
+385
+00:30:01,299 --> 00:30:02,758
+Tu es tout comme lui.
+
+386
+00:30:09,728 --> 00:30:11,501
+Et toi, tu n'es qu'un vieux fou.
+
+387
+00:30:18,000 --> 00:30:19,000
+Par ici.
+
+388
+00:30:23,633 --> 00:30:26,896
+- Tu es en colère contre moi ?
+- Pas du tout.
+
+389
+00:30:27,021 --> 00:30:29,115
+Ton front se ride
+quand tu es fâchée.
+
+390
+00:30:30,814 --> 00:30:32,598
+Je ne suis pas fâchée.
+
+391
+00:30:33,534 --> 00:30:34,534
+Je suis...
+
+392
+00:30:42,980 --> 00:30:44,117
+Tu vas bien ?
+
+393
+00:30:48,071 --> 00:30:51,515
+J'aurais pas dû reprendre de la potion,
+mais admets que ça marche.
+
+394
+00:30:52,999 --> 00:30:56,497
+Et si la magie ne résout pas
+un problème, tu fais quoi alors ?
+
+395
+00:31:00,910 --> 00:31:03,388
+- Je vous protégerai.
+- Je t'avais dit de partir.
+
+396
+00:31:03,513 --> 00:31:05,944
+Vous m'avez dit
+de quitter le village,
+
+397
+00:31:06,069 --> 00:31:08,561
+mais je vous aime trop
+pour ne plus vous voir.
+
+398
+00:31:09,780 --> 00:31:12,536
+Je ne vous quitterai jamais,
+Ma Dame.
+
+399
+00:31:32,840 --> 00:31:34,349
+Ne lui fais pas de mal.
+
+400
+00:31:35,206 --> 00:31:37,930
+- Il a voulu me tuer.
+- Il pensait me protéger.
+
+401
+00:31:38,055 --> 00:31:40,590
+Je suis prêt à mourir pour elle.
+En feras-tu de même ?
+
+402
+00:31:41,305 --> 00:31:42,525
+Il n'y peut rien.
+
+403
+00:31:43,830 --> 00:31:45,819
+Il n'est pas maître
+de ses sentiments.
+
+404
+00:31:49,580 --> 00:31:51,106
+On doit trouver Zedd.
+
+405
+00:31:53,890 --> 00:31:55,064
+Par où va-t-on ?
+
+406
+00:31:56,255 --> 00:31:57,268
+Je l'ignore.
+
+407
+00:32:00,714 --> 00:32:01,766
+La potion...
+
+408
+00:32:03,623 --> 00:32:05,086
+son effet a disparu.
+
+409
+00:32:06,807 --> 00:32:08,068
+Rassemblez tout.
+
+410
+00:32:08,436 --> 00:32:11,104
+Nous partons
+dès que le quillion aura fini.
+
+411
+00:32:11,229 --> 00:32:13,843
+Pourquoi ?
+Personne ne nous trouvera ici.
+
+412
+00:32:14,518 --> 00:32:16,376
+Il voyage en compagnie du Sourcier.
+
+413
+00:32:18,847 --> 00:32:20,376
+Voulez-vous que je le tue ?
+
+414
+00:32:22,787 --> 00:32:24,942
+J'ignore ce qui serait
+le plus charitable :
+
+415
+00:32:25,982 --> 00:32:26,995
+le tuer...
+
+416
+00:32:27,681 --> 00:32:29,904
+ou le laisser vivre
+dépourvu de ses pouvoirs.
+
+417
+00:32:35,287 --> 00:32:38,515
+- C'est sa faute, il nous a retardés.
+- Tu travaillais pour eux,
+
+418
+00:32:38,640 --> 00:32:41,860
+- sais-tu où est leur grotte ?
+- Je ne connais que le temple.
+
+419
+00:32:43,358 --> 00:32:45,459
+- Où vas-tu ?
+- Je retourne à la taverne.
+
+420
+00:32:45,584 --> 00:32:48,414
+Tu peux le faire sans potion.
+Tu es le Sourcier.
+
+421
+00:32:48,539 --> 00:32:50,771
+Le Sourcier de vérité,
+mais pas de la magie.
+
+422
+00:32:50,896 --> 00:32:53,664
+La potion nous a menés ici,
+elle pourrait encore nous aider.
+
+423
+00:32:53,789 --> 00:32:55,735
+Qu'aurait dit Zedd s'il était ici ?
+
+424
+00:32:56,997 --> 00:33:00,135
+S'il te voyait compter sur la magie
+plus que sur tes talents,
+
+425
+00:33:00,260 --> 00:33:01,538
+et tes sens ?
+
+426
+00:33:04,551 --> 00:33:06,442
+Tu peux le faire
+sans magie, Richard.
+
+427
+00:33:08,281 --> 00:33:09,523
+Je crois en toi.
+
+428
+00:33:11,089 --> 00:33:12,655
+J'ignore par où commencer.
+
+429
+00:33:14,198 --> 00:33:16,754
+Rappelle-toi la vision
+que tu as eue de Zedd.
+
+430
+00:33:20,787 --> 00:33:22,121
+Il faisait sombre.
+
+431
+00:33:24,518 --> 00:33:26,344
+Il y avait de l'herbe sur les murs.
+
+432
+00:33:27,362 --> 00:33:28,838
+De la mousse fluorescente.
+
+433
+00:33:30,028 --> 00:33:31,353
+Ça peut nous aider ?
+
+434
+00:33:31,478 --> 00:33:33,809
+Elle pousse près des étendues d'eau,
+
+435
+00:33:34,496 --> 00:33:36,181
+telles qu'une rivière ou un lac.
+
+436
+00:33:36,306 --> 00:33:38,590
+- Le lac de l'Écho est tout près.
+- C'est sûrement ça.
+
+437
+00:33:38,715 --> 00:33:41,667
+Les grottes y sont nombreuses.
+Il faudra des jours de recherche.
+
+438
+00:33:41,792 --> 00:33:44,078
+La mousse était nourrie
+par l'eau ruisselante.
+
+439
+00:33:44,203 --> 00:33:46,023
+Elle est sous le niveau de l'eau.
+
+440
+00:33:46,148 --> 00:33:49,738
+Les Basses Terres, au sud du lac.
+Il y a seulement quelques grottes.
+
+441
+00:33:50,153 --> 00:33:52,761
+- Conduis-nous-y !
+- Je ne suis que ses ordres.
+
+442
+00:33:52,886 --> 00:33:54,336
+Conduis-nous là-bas.
+
+443
+00:34:04,749 --> 00:34:06,220
+De la mousse fluorescente.
+
+444
+00:34:23,199 --> 00:34:24,629
+Mon garçon...
+
+445
+00:34:25,157 --> 00:34:27,619
+Ils ont pris mes pouvoirs.
+
+446
+00:34:41,436 --> 00:34:43,119
+Ils ne cachent pas leurs traces.
+
+447
+00:34:43,244 --> 00:34:45,495
+Ils vont trop vite,
+ils n'ont pas le temps.
+
+448
+00:34:46,383 --> 00:34:47,709
+Les voilà.
+
+449
+00:34:54,175 --> 00:34:55,888
+Arrêtez le chariot !
+
+450
+00:35:00,178 --> 00:35:02,824
+- Ils ne sont que deux.
+- Tu oublies qui ils sont.
+
+451
+00:35:02,949 --> 00:35:03,975
+Arrêtez-les !
+
+452
+00:35:05,855 --> 00:35:08,771
+C'est le sorcier
+qui a volé mes pouvoirs.
+
+453
+00:35:16,269 --> 00:35:17,458
+Je vous sauverai !
+
+454
+00:35:44,216 --> 00:35:46,760
+Arrête-moi si tu peux, Sourcier.
+
+455
+00:35:54,270 --> 00:35:56,185
+<i>Pour voir ce qui n'est pas,</i>
+
+456
+00:35:56,310 --> 00:35:58,277
+<i>concentre-toi sur ce qui est.</i>
+
+457
+00:36:34,151 --> 00:36:35,400
+Richard, le sorcier !
+
+458
+00:37:23,751 --> 00:37:26,075
+- Ma Dame.
+- Ne bouge pas.
+
+459
+00:37:26,593 --> 00:37:27,752
+Toute ma vie...
+
+460
+00:37:28,500 --> 00:37:29,867
+j'ai été un voleur...
+
+461
+00:37:30,342 --> 00:37:31,330
+Un menteur.
+
+462
+00:37:32,700 --> 00:37:33,916
+Merci...
+
+463
+00:37:34,760 --> 00:37:36,471
+de m'avoir permis de mourir...
+
+464
+00:37:37,800 --> 00:37:39,122
+avec honneur.
+
+465
+00:37:45,147 --> 00:37:46,804
+Tu devrais me tuer.
+
+466
+00:37:46,974 --> 00:37:49,269
+Nous t'emmenons chez un guérisseur.
+
+467
+00:37:50,524 --> 00:37:53,112
+Tu porteras le Rada'han
+pour le restant de tes jours.
+
+468
+00:37:53,807 --> 00:37:57,511
+Tu ne seras plus jamais un sorcier,
+mon vieil ami.
+
+469
+00:37:58,630 --> 00:37:59,800
+Vous le connaissez ?
+
+470
+00:38:00,979 --> 00:38:02,528
+Je pensais le connaître.
+
+471
+00:38:10,629 --> 00:38:11,930
+Ça va mieux ?
+
+472
+00:38:13,462 --> 00:38:15,758
+J'ai retrouvé la plupart
+de mes pouvoirs.
+
+473
+00:38:16,230 --> 00:38:19,875
+Je ne suis pas complètement remis.
+Dans deux jours, peut-être.
+
+474
+00:38:20,000 --> 00:38:21,000
+Peut-être ?
+
+475
+00:38:21,831 --> 00:38:25,302
+L'exercice de la magie
+m'a appris que rien n'est absolu.
+
+476
+00:38:27,227 --> 00:38:29,021
+La magie a divisé cette ville.
+
+477
+00:38:29,640 --> 00:38:31,249
+Je l'ai utilisée deux fois.
+
+478
+00:38:31,374 --> 00:38:33,999
+Je l'aurais fait encore,
+si Kahlan m'avait pas arrêté.
+
+479
+00:38:34,124 --> 00:38:36,356
+Selon elle,
+ce sont tes talents de pisteur
+
+480
+00:38:36,481 --> 00:38:38,098
+qui ont permis de me retrouver.
+
+481
+00:38:38,760 --> 00:38:41,817
+Ton entraînement
+t'a aidé à battre Jeziah.
+
+482
+00:38:42,780 --> 00:38:43,782
+Mais...
+
+483
+00:38:44,468 --> 00:38:46,054
+si j'avais pas eu la potion,
+
+484
+00:38:47,219 --> 00:38:49,411
+j'aurais pas su
+que vous étiez dans la grotte.
+
+485
+00:38:49,867 --> 00:38:51,161
+Vous auriez pu mourir.
+
+486
+00:38:51,787 --> 00:38:55,081
+La magie serait donc
+une bonne chose ?
+
+487
+00:38:56,860 --> 00:39:00,465
+Rymus ne nous aurait pas suivis
+si Kahlan ne l'avait pas converti.
+
+488
+00:39:01,200 --> 00:39:02,296
+C'est bien vrai.
+
+489
+00:39:03,093 --> 00:39:05,229
+Mais d'un autre côté,
+il serait encore vivant.
+
+490
+00:39:06,900 --> 00:39:09,156
+Je comprends que ce soit
+un fardeau pour elle.
+
+491
+00:39:09,530 --> 00:39:13,005
+Alors, quelles leçons
+en as-tu tirées, Sourcier ?
+
+492
+00:39:14,980 --> 00:39:16,735
+Il n'y a pas de réponses faciles.
+
+493
+00:39:16,860 --> 00:39:19,278
+La magie n'est ni bonne
+ni mauvaise, elle est...
+
+494
+00:39:20,205 --> 00:39:21,108
+compliquée.
+
+495
+00:39:24,430 --> 00:39:26,029
+C'est la leçon numéro six.
+
+496
+00:39:27,930 --> 00:39:29,574
+Vous les inventez, hein ?
+
+497
+00:39:39,260 --> 00:39:42,045
+J'ai retrouvé quelque chose
+qui t'appartient.
+
+498
+00:39:47,300 --> 00:39:50,012
+- Comment as-tu...
+- Les Inquisitrices savent se montrer...
+
+499
+00:39:50,772 --> 00:39:51,866
+persuasives.
+
+500
+00:39:59,718 --> 00:40:01,274
+Comment vous remercier ?
+
+501
+00:40:01,399 --> 00:40:04,005
+Tous les villageois
+vous sont reconnaissants.
+
+502
+00:40:04,130 --> 00:40:06,699
+Même s'ils ne sont pas
+tout à fait d'accord.
+
+503
+00:40:08,736 --> 00:40:12,130
+Vos voisins devront se passer de magie
+pour résoudre leurs problèmes.
+
+504
+00:40:13,328 --> 00:40:15,681
+- Tu pourrais leur montrer comment.
+- Moi ?
+
+505
+00:40:22,830 --> 00:40:23,858
+Excuse-moi.
+
+506
+00:40:24,801 --> 00:40:26,506
+Une rose, je te prie. Une blanche.
+
+507
+00:40:27,830 --> 00:40:28,841
+Cinq sous.
+
+508
+00:40:34,324 --> 00:40:35,498
+Est-ce pour elle ?
+
+509
+00:40:36,300 --> 00:40:38,058
+Non, c'est pour toi.
+
+510
+00:40:38,887 --> 00:40:41,673
+Personne n'offre jamais
+de fleurs à une fleuriste.
+
+511
+00:40:45,173 --> 00:40:47,364
+Je sais que cela
+ne me fera pas pardonner,
+
+512
+00:40:47,930 --> 00:40:50,551
+mais j'espère être un jour ton ami.
+
+513
+00:40:59,781 --> 00:41:01,743
+Il y a peut-être
+de l'espoir pour eux.
+
+514
+00:41:02,700 --> 00:41:04,055
+Pour eux, peut-être,
+
+515
+00:41:05,030 --> 00:41:06,572
+mais pas pour vous.
+
+516
+00:41:09,515 --> 00:41:10,801
+De quoi parlez-vous ?
+
+517
+00:41:11,493 --> 00:41:13,512
+Richard a des sentiments pour toi.
+
+518
+00:41:16,513 --> 00:41:18,005
+Vous imaginez des choses.
+
+519
+00:41:18,130 --> 00:41:19,893
+"Pour voir ce qui n'est pas,
+
+520
+00:41:21,026 --> 00:41:22,853
+"concentre-toi sur ce qui est."
+
+521
+00:41:24,000 --> 00:41:26,108
+J'ai vu la façon qu'il a
+de te regarder,
+
+522
+00:41:26,600 --> 00:41:28,733
+et toi, de faire attention à lui.
+
+523
+00:41:29,738 --> 00:41:33,323
+Mais tu sais que ces sentiments
+sont sans lendemain.
+
+524
+00:41:34,644 --> 00:41:36,222
+La question est donc...
+
+525
+00:41:36,960 --> 00:41:38,619
+vas-tu le lui dire,
+
+526
+00:41:39,787 --> 00:41:41,321
+ou devrais-je le faire ?
+

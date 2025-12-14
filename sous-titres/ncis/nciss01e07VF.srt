@@ -1,0 +1,2726 @@
+1
+00:00:05,081 --> 00:00:07,595
+- Très, très sympa.
+- Merci.
+
+2
+00:00:07,637 --> 00:00:09,329
+De rien.
+
+3
+00:00:13,325 --> 00:00:15,097
+Prenons un peu de champagne.
+
+4
+00:00:22,256 --> 00:00:24,285
+- À notre réussite.
+- À notre réussite.
+
+5
+00:01:29,578 --> 00:01:31,215
+- C'est fait.
+- Bien.
+
+6
+00:01:32,332 --> 00:01:33,545
+Je dois y aller.
+
+7
+00:01:57,242 --> 00:02:00,130
+.: Team UnderCovers :.
+
+8
+00:02:11,172 --> 00:02:13,726
+NCIS Los Angeles
+1x07 - PushBack
+
+9
+00:02:27,505 --> 00:02:30,357
+- Tu fais quoi ?
+- J'ai l'air de faire quoi ?
+
+10
+00:02:32,672 --> 00:02:35,030
+- Tu ne bois pas de thé.
+- Non.
+
+11
+00:02:35,724 --> 00:02:38,198
+- Je fais du thé pour Hetty.
+- Tu fais du thé pour Hetty ?
+
+12
+00:02:38,925 --> 00:02:40,487
+Je lui ai promis d'essayer.
+
+13
+00:02:41,561 --> 00:02:43,120
+"Thé au chrysanthème
+
+14
+00:02:43,728 --> 00:02:45,705
+jaune des montagnes."
+Sympa.
+
+15
+00:02:50,320 --> 00:02:52,171
+Ça sent le moisi.
+
+16
+00:02:52,488 --> 00:02:54,451
+Peut-être que c'est supposé
+sentir le moisi.
+
+17
+00:02:55,020 --> 00:02:56,508
+Tu crois que je devrais lui dire ?
+
+18
+00:02:58,066 --> 00:03:00,274
+Ils ne vous apprennent pas ça
+à l'école des SEAL ?
+
+19
+00:03:00,316 --> 00:03:01,469
+Esquive et fuite.
+
+20
+00:03:03,970 --> 00:03:05,434
+Où est notre thé ?
+
+21
+00:03:05,925 --> 00:03:07,104
+Juste ici, Hetty.
+
+22
+00:03:07,146 --> 00:03:09,581
+Avez-vous réchauffé la théière
+comme je vous l'ai expliqué ?
+
+23
+00:03:10,112 --> 00:03:11,857
+- Oui.
+- Et l'eau ?
+
+24
+00:03:12,390 --> 00:03:14,860
+- Versée frémissante.
+- Excellent.
+
+25
+00:03:15,269 --> 00:03:17,029
+Vous ne devez jamais sous-estimer
+
+26
+00:03:17,197 --> 00:03:20,365
+les bénéfices cardio-vasculaires
+du thé.
+
+27
+00:03:20,533 --> 00:03:21,742
+Vous me remercierez.
+
+28
+00:03:23,203 --> 00:03:24,161
+Je suis servi.
+
+29
+00:03:24,546 --> 00:03:28,499
+Et vous ne sentez pas
+le goût du papier ?
+
+30
+00:03:32,632 --> 00:03:33,712
+Bien, maintenant,
+
+31
+00:03:34,106 --> 00:03:37,455
+le thé au chrysanthème
+n'est pas du thé au chrysanthème
+
+32
+00:03:38,216 --> 00:03:40,677
+s'il n'y a pas de baies de Goji.
+
+33
+00:03:40,845 --> 00:03:42,012
+"Baies de Goji."
+
+34
+00:03:42,480 --> 00:03:44,097
+Je veux que vous savouriez ça,
+
+35
+00:03:44,440 --> 00:03:47,142
+et que vous appréciiez
+ses qualités apaisantes,
+
+36
+00:03:47,457 --> 00:03:49,520
+sans parler des bénéfices
+pour la santé.
+
+37
+00:03:58,423 --> 00:03:59,530
+C'est délicieux.
+
+38
+00:04:05,161 --> 00:04:07,412
+Cet appel est pour vous.
+
+39
+00:04:08,948 --> 00:04:10,110
+Du directeur Vance.
+
+40
+00:04:21,626 --> 00:04:22,719
+Oui, directeur.
+
+41
+00:04:24,485 --> 00:04:25,352
+Attendez.
+
+42
+00:04:28,092 --> 00:04:29,385
+Comment elle fait ça ?
+
+43
+00:04:29,427 --> 00:04:32,354
+Je ne sais pas, mais c'est le pire thé
+que j'ai jamais bu.
+
+44
+00:04:50,601 --> 00:04:51,832
+Moisi.
+
+45
+00:04:54,018 --> 00:04:55,627
+<i>J'ai eu un appel de la police.</i>
+
+46
+00:04:56,232 --> 00:04:58,084
+<i>Une femme a été tuée
+dans un appartement</i>
+
+47
+00:04:58,126 --> 00:05:00,078
+<i>qui donne sur la marina
+il y a deux jours.</i>
+
+48
+00:05:00,269 --> 00:05:02,342
+<i>Ils ont trouvé une clé USB</i>
+
+49
+00:05:02,510 --> 00:05:04,102
+<i>cachée dans sa casquette.</i>
+
+50
+00:05:04,144 --> 00:05:05,470
+<i>Il y avait un dossier...</i>
+
+51
+00:05:05,638 --> 00:05:08,181
+<i>rempli de ce qui semble être
+des photos de surveillance.</i>
+
+52
+00:05:08,349 --> 00:05:10,085
+<i>Différents lieux,
+différentes personnes.</i>
+
+53
+00:05:10,293 --> 00:05:11,935
+- Des connaissances ?
+- <i>Oui.</i>
+
+54
+00:05:12,911 --> 00:05:14,104
+<i>Vous, agent Callen.</i>
+
+55
+00:05:15,453 --> 00:05:17,024
+<i>La police a lancé un programme</i>
+
+56
+00:05:17,192 --> 00:05:19,610
+<i>de reconnaissance faciale.
+Vous êtes le seul qu'ils ont identifié.</i>
+
+57
+00:05:20,655 --> 00:05:23,447
+<i>Quand ils ont vu votre statut
+confidentiel, ils m'ont appelé.</i>
+
+58
+00:05:25,678 --> 00:05:28,526
+- Qui est la victime ?
+- <i>Ils ne l'ont pas identifiée.</i>
+
+59
+00:05:29,792 --> 00:05:31,371
+<i>Quelqu'un vous surveillait.</i>
+
+60
+00:05:32,942 --> 00:05:34,875
+<i>J'ai besoin de savoir qui.
+Et pourquoi.</i>
+
+61
+00:05:35,635 --> 00:05:37,820
+<i>Quelque chose
+que vous auriez oublié de me dire ?</i>
+
+62
+00:05:38,393 --> 00:05:39,796
+Pas qui expliquerait ça.
+
+63
+00:05:40,942 --> 00:05:43,675
+La police accepte
+qu'on s'occupe aussi de cette enquête ?
+
+64
+00:05:43,994 --> 00:05:45,177
+<i>Totalement.</i>
+
+65
+00:05:45,345 --> 00:05:48,055
+<i>J'ai envoyé à Eric leur dossier,
+avec le contenu de la clé.</i>
+
+66
+00:05:49,103 --> 00:05:50,474
+<i>Si vous pouvez relier ça</i>
+
+67
+00:05:50,642 --> 00:05:53,853
+<i>à la tentative de meurtre sur vous
+il y a 6 mois, je dois le savoir.</i>
+
+68
+00:05:54,826 --> 00:05:57,392
+<i>Est-ce que je dois mettre ça
+par écrit, agent Callen ?</i>
+
+69
+00:05:58,606 --> 00:06:00,635
+- J'ai compris.
+- <i>Faites attention à vous.</i>
+
+70
+00:06:06,436 --> 00:06:09,701
+Le cryptage de la clé est faible.
+Vous voulez commencer par quoi ?
+
+71
+00:06:11,170 --> 00:06:13,277
+- Une paparazzi.
+- C'est un bon point de départ.
+
+72
+00:06:15,534 --> 00:06:17,250
+C'est près de ton ancien appart
+à Venice.
+
+73
+00:06:17,713 --> 00:06:19,127
+Avant qu'on me tire dessus.
+
+74
+00:06:19,474 --> 00:06:21,387
+Tu disais que tu te sentais observé.
+
+75
+00:06:21,429 --> 00:06:23,719
+Ils t'ont surveillé,
+trouvé ton adresse
+
+76
+00:06:23,761 --> 00:06:25,300
+et ont tiré en pleine rue.
+
+77
+00:06:25,584 --> 00:06:27,654
+Différents angles de vue :
+plusieurs en hauteur
+
+78
+00:06:27,696 --> 00:06:30,855
+depuis les fenêtres des derniers étages,
+d'autres au niveau de la rue.
+
+79
+00:06:30,897 --> 00:06:33,837
+- Toutes prises avec un téléobjectif.
+- Pendant combien de jours, G ?
+
+80
+00:06:34,288 --> 00:06:35,311
+2 ou 3.
+
+81
+00:06:36,563 --> 00:06:37,867
+Le dossier de la police.
+
+82
+00:06:38,690 --> 00:06:41,392
+Des photos de notre victime
+non identifiée sur la scène de crime.
+
+83
+00:06:41,434 --> 00:06:44,139
+Les meubles semblent être en kit,
+
+84
+00:06:44,330 --> 00:06:45,908
+elle a pu les amener elle-même.
+
+85
+00:06:46,823 --> 00:06:48,561
+L'appartement devait être libre.
+
+86
+00:07:04,293 --> 00:07:05,257
+C'est elle.
+
+87
+00:07:06,636 --> 00:07:07,634
+La fille russe.
+
+88
+00:07:08,180 --> 00:07:09,302
+C'est qui ?
+
+89
+00:07:10,645 --> 00:07:12,597
+Je l'ai vue
+avant de me faire tirer dessus.
+
+90
+00:07:29,073 --> 00:07:31,122
+Beaucoup de photos du même gars.
+
+91
+00:07:32,215 --> 00:07:33,932
+Aucune n'est très nette.
+
+92
+00:07:34,903 --> 00:07:37,157
+Notre jeune russe n'était pas
+une grande photographe.
+
+93
+00:07:37,311 --> 00:07:38,875
+Le modèle n'était pas disposé.
+
+94
+00:07:39,100 --> 00:07:40,994
+On peut trouver
+où elles ont été prises ?
+
+95
+00:07:41,036 --> 00:07:42,502
+La date est incrustée.
+
+96
+00:07:43,761 --> 00:07:45,978
+Les plus anciennes datent
+d'une semaine,
+
+97
+00:07:46,210 --> 00:07:48,550
+et les plus récentes sont d'hier.
+
+98
+00:07:49,197 --> 00:07:50,376
+Le jour de sa mort.
+
+99
+00:07:51,365 --> 00:07:52,873
+Une longue surveillance.
+
+100
+00:07:53,064 --> 00:07:54,850
+Elle travaillait pour quelqu'un.
+
+101
+00:07:55,188 --> 00:07:57,601
+Qui que soit ce type, il n'aime pas
+qu'on le photographie.
+
+102
+00:07:58,084 --> 00:08:00,395
+On en a assez pour lancer
+une reconnaissance faciale ?
+
+103
+00:08:00,563 --> 00:08:01,431
+J'en doute.
+
+104
+00:08:01,473 --> 00:08:04,399
+Ou c'est trop loin,
+ou en partie caché, ou flou.
+
+105
+00:08:06,246 --> 00:08:08,070
+Mais je vais essayer.
+
+106
+00:08:09,159 --> 00:08:11,170
+Quelques-unes
+ont été prises à la marina.
+
+107
+00:08:11,361 --> 00:08:13,165
+Y compris les photos d'elle.
+
+108
+00:08:13,771 --> 00:08:16,685
+Son corps a été retrouvé
+dans un appartement à Marina Del Rey.
+
+109
+00:08:21,305 --> 00:08:23,043
+Ce type mystérieux sur le yacht...
+
+110
+00:08:24,027 --> 00:08:27,464
+Il faut améliorer ces photos pour
+le programme de reconnaissance.
+
+111
+00:08:28,641 --> 00:08:29,674
+J'ai raté quoi ?
+
+112
+00:08:30,142 --> 00:08:32,759
+Une fille russe anonyme
+qui a vu Callen se faire tirer dessus.
+
+113
+00:08:33,028 --> 00:08:34,433
+Autrement dit une piste.
+
+114
+00:08:36,045 --> 00:08:38,681
+L'affaire en sommeil de Callen
+vient de se réveiller.
+
+115
+00:08:45,897 --> 00:08:48,072
+Je voudrais accéder
+à un dossier personnel.
+
+116
+00:08:49,112 --> 00:08:51,113
+Vous êtes notre psychiatre,
+
+117
+00:08:51,281 --> 00:08:53,406
+vous devez déjà y avoir accès.
+
+118
+00:08:53,921 --> 00:08:55,492
+Mon dossier n'est pas à jour.
+
+119
+00:08:58,066 --> 00:08:59,037
+Quel nom ?
+
+120
+00:09:19,386 --> 00:09:21,518
+Vous cherchez quelque chose
+en particulier ?
+
+121
+00:09:21,686 --> 00:09:23,895
+L'enquête sur la fusillade
+sur Callen.
+
+122
+00:09:25,937 --> 00:09:27,816
+Toujours pas résolue.
+
+123
+00:09:35,354 --> 00:09:38,160
+Vous avez peur que cette affaire
+rouvre de vieilles blessures ?
+
+124
+00:09:38,840 --> 00:09:40,954
+J'espère qu'on pourra aider
+à les guérir.
+
+125
+00:09:43,140 --> 00:09:45,377
+Novembre, alpha, slash,
+
+126
+00:09:45,960 --> 00:09:47,390
+sept, neuf, quatre.
+
+127
+00:09:50,372 --> 00:09:52,411
+- Merci
+- De rien.
+
+128
+00:10:13,475 --> 00:10:14,949
+Tu es sûr de vouloir y aller ?
+
+129
+00:10:14,991 --> 00:10:17,199
+- Ça va.
+- T'es sûr d'avoir le droit ?
+
+130
+00:10:17,367 --> 00:10:18,909
+Enquêter sur sa propre fusillade ?
+
+131
+00:10:19,077 --> 00:10:21,162
+C'est pas ma fusillade.
+C'est celle de la Russe.
+
+132
+00:10:21,204 --> 00:10:23,413
+Il continuera
+jusqu'à ce qu'on lui interdise.
+
+133
+00:10:23,581 --> 00:10:25,707
+- Quelqu'un à qui j'obéirais.
+- Donc pas moi.
+
+134
+00:10:25,875 --> 00:10:27,828
+Tu m'écoutes jamais,
+même quand tu devrais.
+
+135
+00:10:27,870 --> 00:10:29,092
+Cite-moi une fois.
+
+136
+00:10:29,134 --> 00:10:31,254
+- Maintenant, par exemple.
+- Si, je t'écoute.
+
+137
+00:10:31,422 --> 00:10:32,172
+Non.
+
+138
+00:10:34,232 --> 00:10:35,634
+Mariés depuis longtemps ?
+
+139
+00:10:39,486 --> 00:10:40,353
+Merci.
+
+140
+00:10:48,699 --> 00:10:50,607
+- Sans meubles.
+- Il est en vente.
+
+141
+00:10:54,711 --> 00:10:55,904
+Elle était assise là.
+
+142
+00:10:56,341 --> 00:10:57,520
+Dos à la porte.
+
+143
+00:10:59,659 --> 00:11:01,322
+Le tireur est arrivé par-derrière.
+
+144
+00:11:01,702 --> 00:11:04,062
+Vous voyez ces taches de sang ?
+Elles commencent en bas
+
+145
+00:11:04,104 --> 00:11:06,195
+et elles montent,
+donc elle ne s'est pas levée.
+
+146
+00:11:06,802 --> 00:11:07,963
+Pardon.
+
+147
+00:11:09,536 --> 00:11:10,752
+Un câble d'ordinateur,
+
+148
+00:11:10,920 --> 00:11:12,476
+et une prise vidéo ici.
+
+149
+00:11:12,518 --> 00:11:14,991
+Le tueur a embarqué l'ordinateur
+et la caméra vidéo.
+
+150
+00:11:15,033 --> 00:11:17,678
+Il a loupé la clé USB planquée
+dans sa casquette.
+
+151
+00:11:20,555 --> 00:11:21,410
+Bonjour.
+
+152
+00:11:21,678 --> 00:11:23,551
+On a trois marques ici.
+
+153
+00:11:24,141 --> 00:11:25,725
+La caméra était sur un trépied
+
+154
+00:11:27,193 --> 00:11:28,701
+exactement...
+
+155
+00:11:29,638 --> 00:11:30,355
+ici.
+
+156
+00:11:30,674 --> 00:11:31,940
+L'angle paraît bon.
+
+157
+00:11:32,356 --> 00:11:34,957
+Le type qu'elle observait était
+sur un de ces yachts.
+
+158
+00:11:36,657 --> 00:11:39,639
+On ne s'installe pas dans un appartement
+sans que ça se sache.
+
+159
+00:11:40,055 --> 00:11:42,951
+- Que dit le responsable ?
+- Il ne savait pas qu'elle était là.
+
+160
+00:11:43,344 --> 00:11:46,102
+- Alors d'où vient sa clé ?
+- Peut-être qu'elle n'en avait pas.
+
+161
+00:11:46,830 --> 00:11:49,124
+Elle peut avoir forcé la porte.
+Peut-être une pro.
+
+162
+00:11:49,865 --> 00:11:51,217
+C'est pas une pro.
+
+163
+00:11:51,497 --> 00:11:53,878
+Une pro n'aurait jamais tourné
+le dos à la porte.
+
+164
+00:11:56,092 --> 00:11:57,341
+Elle avait une clé.
+
+165
+00:12:00,549 --> 00:12:02,561
+- Combien de chambres ?
+- Rien que moi.
+
+166
+00:12:03,511 --> 00:12:06,521
+- Vue sur la mer ou la marina ?
+- Quelle est la différence ?
+
+167
+00:12:06,563 --> 00:12:08,384
+- À peu près 300 dollars.
+- Par mois ?
+
+168
+00:12:09,269 --> 00:12:11,813
+Par semaine, chérie. Je connais
+des endroits pas chers à Pico,
+
+169
+00:12:11,981 --> 00:12:13,274
+Je te filerai le numéro.
+
+170
+00:12:14,108 --> 00:12:16,234
+J'en ai besoin
+pour très peu de temps.
+
+171
+00:12:16,402 --> 00:12:18,165
+Je n'ai aucun meuble, je...
+
+172
+00:12:19,113 --> 00:12:20,655
+Il faut juste que je me pose.
+
+173
+00:12:21,219 --> 00:12:22,240
+Peu de temps ?
+
+174
+00:12:22,951 --> 00:12:23,957
+Trois semaines.
+
+175
+00:12:25,470 --> 00:12:27,037
+Ce sera en liquide et par avance.
+
+176
+00:12:30,263 --> 00:12:31,416
+J'en ai un de libre.
+
+177
+00:12:31,841 --> 00:12:33,803
+Les nouveaux proprios
+arrivent dans un mois.
+
+178
+00:12:35,004 --> 00:12:36,137
+300 $ la semaine.
+
+179
+00:12:36,179 --> 00:12:39,508
+Ou on peut trouver
+un autre arrangement.
+
+180
+00:12:43,866 --> 00:12:45,513
+Moins de 40 secondes.
+
+181
+00:12:46,433 --> 00:12:47,386
+Quoi ?
+
+182
+00:12:48,808 --> 00:12:50,369
+Moins de 40 secondes !
+
+183
+00:12:51,288 --> 00:12:53,438
+- Elle est forte.
+- Elle est plus que forte.
+
+184
+00:12:53,606 --> 00:12:54,731
+On lui doit 10 $.
+
+185
+00:12:55,368 --> 00:12:56,316
+5 chacun.
+
+186
+00:12:56,484 --> 00:12:58,860
+Tu as parié qu'il lui ferait pas
+d'offre en moins d'une minute.
+
+187
+00:12:59,165 --> 00:13:00,820
+Et tu m'as laissé faire.
+
+188
+00:13:01,567 --> 00:13:02,906
+Je te donnerai pas 5 $.
+
+189
+00:13:03,552 --> 00:13:04,971
+- Ah non ?
+- Non.
+
+190
+00:13:06,055 --> 00:13:07,355
+Elle est forte.
+
+191
+00:13:08,639 --> 00:13:11,206
+- C'est qui ?
+- Le NCIS, vous connaissez ?
+
+192
+00:13:13,858 --> 00:13:15,585
+FBI ? DEA ? CIA ?
+
+193
+00:13:16,896 --> 00:13:19,758
+C'est un malentendu.
+J'essayais de vous aider.
+
+194
+00:13:20,148 --> 00:13:22,064
+Comme vous avez aidé la Russe
+
+195
+00:13:22,106 --> 00:13:24,214
+qu'on a retrouvée morte
+dans son appartement ?
+
+196
+00:13:24,981 --> 00:13:27,128
+Je parie que vous avez oublié
+de dire à la police
+
+197
+00:13:27,170 --> 00:13:30,016
+que vous lui louiez l'appartement...
+pour du liquide.
+
+198
+00:13:31,470 --> 00:13:33,686
+- Freddy ?
+- C'est Teddy.
+
+199
+00:13:34,979 --> 00:13:35,688
+Mignon.
+
+200
+00:13:36,148 --> 00:13:38,489
+Les images de la caméra de surveillance
+de l'immeuble.
+
+201
+00:13:39,513 --> 00:13:42,201
+Marrant comme le gérant de l'appartement
+s'est soudain "souvenu"
+
+202
+00:13:42,243 --> 00:13:43,822
+ne pas avoir effacé les images.
+
+203
+00:13:45,408 --> 00:13:48,150
+- Que lui a coûté la chambre ?
+- Sa vie.
+
+204
+00:13:50,080 --> 00:13:52,091
+Son corps a été trouvé
+dimanche soir.
+
+205
+00:13:52,525 --> 00:13:55,625
+Le légiste a situé
+l'heure du décès à 17 h 30.
+
+206
+00:13:56,171 --> 00:13:57,710
+Avance rapide jusqu'à dimanche.
+
+207
+00:13:57,878 --> 00:14:01,005
+On devrait voir notre tueur partir
+avec son sac et un trépied.
+
+208
+00:14:03,856 --> 00:14:04,592
+Trouvé.
+
+209
+00:14:07,029 --> 00:14:10,223
+- Le dateur indique 17 h 47.
+- C'est sûrement notre homme.
+
+210
+00:14:11,671 --> 00:14:14,727
+Il ne regarde pas en sortant.
+Voyons au moment où il arrive.
+
+211
+00:14:22,403 --> 00:14:24,904
+- Il savait que la caméra était là.
+- C'est un pro.
+
+212
+00:14:25,373 --> 00:14:26,434
+Il est bon.
+
+213
+00:14:27,148 --> 00:14:30,535
+Mais il n'est pas infaillible.
+Il a laissé la clé USB.
+
+214
+00:14:30,877 --> 00:14:32,620
+Il n'a pas laissé que ça.
+
+215
+00:14:33,010 --> 00:14:36,207
+Elle sauvegardait ses fichiers
+sur un disque dur virtuel.
+
+216
+00:14:36,375 --> 00:14:39,586
+- Depuis l'appartement ?
+- Connectée sur le routeur de l'appart.
+
+217
+00:14:39,926 --> 00:14:42,755
+- On connaît son nom ?
+- Seulement son pseudo : Citizen25.
+
+218
+00:14:45,804 --> 00:14:47,969
+Ça fait beaucoup de fichiers
+à faire défiler.
+
+219
+00:14:49,682 --> 00:14:51,514
+Allez, commençons.
+
+220
+00:15:00,438 --> 00:15:03,176
+- Tu nous fais partager, G ?
+- Le fichier nommé Cosaque.
+
+221
+00:15:05,901 --> 00:15:07,228
+Et c'est quoi Cosaque ?
+
+222
+00:15:07,270 --> 00:15:09,490
+Opération inter-agence en Europe
+contre la mafia russe.
+
+223
+00:15:13,037 --> 00:15:15,663
+- Mince.
+- Équipe de trois hommes.
+
+224
+00:15:15,986 --> 00:15:17,040
+Ethan Stanhope.
+
+225
+00:15:18,136 --> 00:15:20,668
+- Il travaillait pour la CIA.
+- Ricky Taylor.
+
+226
+00:15:21,984 --> 00:15:23,662
+DEA. Comme moi.
+
+227
+00:15:24,465 --> 00:15:25,215
+Quand ?
+
+228
+00:15:26,007 --> 00:15:27,175
+Il y a dix ans.
+
+229
+00:15:28,729 --> 00:15:29,969
+J'ai quelque chose.
+
+230
+00:15:30,637 --> 00:15:31,429
+Stanhope
+
+231
+00:15:31,597 --> 00:15:32,972
+et Taylor sont morts.
+
+232
+00:15:34,649 --> 00:15:37,769
+Assassinés.
+Stanhope à Vegas. Taylor à Chicago.
+
+233
+00:15:38,429 --> 00:15:40,230
+Et ils ont été tués le même jour...
+
+234
+00:15:40,584 --> 00:15:41,523
+Le 5 mai.
+
+235
+00:15:44,151 --> 00:15:45,860
+<i>Reste avec moi.
+Ne me fais pas ça.</i>
+
+236
+00:15:47,130 --> 00:15:48,571
+Quand j'aurais dû mourir.
+
+237
+00:16:01,390 --> 00:16:05,004
+La caméra routière montre Stanhope
+se faisant tirer dessus à Las Vegas.
+
+238
+00:16:05,172 --> 00:16:07,340
+On a aussi tiré d'une voiture
+sur Taylor à Chicago.
+
+239
+00:16:07,660 --> 00:16:09,481
+- Comme...
+- Pour moi.
+
+240
+00:16:13,380 --> 00:16:14,764
+Quelqu'un a été inculpé ?
+
+241
+00:16:17,011 --> 00:16:18,768
+Quand les as-tu vu
+pour la dernière fois ?
+
+242
+00:16:19,774 --> 00:16:23,773
+À Berlin, pour le débriefing.
+Je ne les ai pas vus depuis dix ans.
+
+243
+00:16:23,941 --> 00:16:25,525
+Vous avez attrapé les méchants ?
+
+244
+00:16:27,012 --> 00:16:29,014
+C'était une opération commune
+avec la Russie.
+
+245
+00:16:29,240 --> 00:16:31,442
+Un gang essayait de contrôler
+le flux de pétrole
+
+246
+00:16:31,484 --> 00:16:33,908
+de la Mer Noire vers l'Europe, et...
+
+247
+00:16:34,234 --> 00:16:35,952
+quelqu'un leur a dit qu'on arrivait.
+
+248
+00:16:37,580 --> 00:16:39,974
+- Pourquoi la DEA était impliquée ?
+- Un prêt.
+
+249
+00:16:40,687 --> 00:16:42,697
+Taylor et moi
+parlions couramment le russe.
+
+250
+00:16:43,132 --> 00:16:44,294
+La CIA a organisé ?
+
+251
+00:16:45,508 --> 00:16:49,007
+Stanhope était l'interlocuteur.
+Mais on ne l'a jamais vu qu'au bar,
+
+252
+00:16:49,335 --> 00:16:51,593
+buvant de la vodka de luxe
+et mangeant du caviar.
+
+253
+00:16:52,255 --> 00:16:53,886
+Vous avez su qui vous avait trahi ?
+
+254
+00:16:56,001 --> 00:16:56,848
+Donc...
+
+255
+00:16:57,317 --> 00:16:59,901
+une fille russe est tuée
+alors qu'elle surveille
+
+256
+00:16:59,943 --> 00:17:02,467
+un homme non identifié sur un yacht,
+
+257
+00:17:02,665 --> 00:17:05,732
+impliqué dans une opération en Russie
+d'une certaine manière, il y a dix ans.
+
+258
+00:17:06,733 --> 00:17:09,074
+Qui était le contact russe
+pour l'opération Cosaque ?
+
+259
+00:17:10,300 --> 00:17:11,487
+Arkady Kolcheck.
+
+260
+00:17:12,294 --> 00:17:15,225
+C'était un officier du KGB.
+Sa dernière adresse connue est à Moscou.
+
+261
+00:17:15,534 --> 00:17:18,703
+La morte avait des fichiers sur
+toutes ses cibles, rien sur Kolcheck.
+
+262
+00:17:19,344 --> 00:17:20,622
+Eric, mort ou vivant ?
+
+263
+00:17:21,425 --> 00:17:23,446
+Vivant... et bien portant.
+
+264
+00:17:23,488 --> 00:17:26,169
+Et en 2007,
+un citoyen américain vivant à...
+
+265
+00:17:26,696 --> 00:17:27,719
+Studio City.
+
+266
+00:17:28,256 --> 00:17:31,221
+C'est à se demander
+ce qu'Arkady faisait le 5 mai ?
+
+267
+00:17:32,242 --> 00:17:35,053
+- Eric, il me faut l'adresse.
+- Déjà sur ton GPS.
+
+268
+00:17:35,312 --> 00:17:37,594
+- Trouvons qui était sur ce yacht.
+- J'y travaille.
+
+269
+00:17:38,528 --> 00:17:40,744
+Il me faut le profil d'Arkady.
+Tout ce que tu auras.
+
+270
+00:17:40,786 --> 00:17:43,647
+Ses amis, ses associés,
+ses alliés, ses ennemis...
+
+271
+00:17:43,689 --> 00:17:46,752
+Je veux savoir pourquoi il a quitté
+le KGB et qui il a payé pour venir ici.
+
+272
+00:17:46,794 --> 00:17:48,035
+Travaille avec Nate.
+
+273
+00:17:49,512 --> 00:17:52,720
+- Arkady Kolcheck.
+- Vous le connaissez ?
+
+274
+00:17:53,899 --> 00:17:57,492
+- Nous nous sommes vus quelques fois.
+- Je l'ai vu dans le dossier de Callen.
+
+275
+00:17:57,660 --> 00:17:59,869
+- Il y avait beaucoup à lire ?
+- Des pages.
+
+276
+00:18:00,276 --> 00:18:02,357
+Et 90 % a été réécrit.
+
+277
+00:18:03,189 --> 00:18:06,084
+Censuré par la personne
+qui a réécrit.
+
+278
+00:18:06,623 --> 00:18:09,102
+On peut avoir une copie
+non censurée ?
+
+279
+00:18:09,547 --> 00:18:13,341
+Vous avez déjà goûté du thé égyptien
+à la réglisse mentholée ?
+
+280
+00:18:23,561 --> 00:18:25,274
+Où trouve-t-elle tout ça ?
+
+281
+00:18:25,316 --> 00:18:27,647
+Rien n'est réécrit, pas un seul mot.
+
+282
+00:18:28,715 --> 00:18:30,379
+Et si c'était elle qui réécrivait ?
+
+283
+00:18:31,455 --> 00:18:32,877
+Ça fait peur.
+
+284
+00:18:32,919 --> 00:18:35,476
+Hetty, le bureau central pour tous
+les documents gouvernementaux
+
+285
+00:18:35,518 --> 00:18:37,175
+censurés divulgués au public.
+
+286
+00:18:39,931 --> 00:18:41,839
+C'est impossible.
+
+287
+00:18:44,787 --> 00:18:45,879
+Ridicule.
+
+288
+00:18:47,111 --> 00:18:47,960
+Bref...
+
+289
+00:18:48,126 --> 00:18:49,847
+Arkady s'en est bien sorti.
+
+290
+00:18:50,190 --> 00:18:51,796
+Il est consultant en sécurité
+
+291
+00:18:52,093 --> 00:18:54,799
+employé par de grosses sociétés
+et des gouvernements étrangers.
+
+292
+00:18:55,263 --> 00:18:59,262
+Et ça paye bien. Il a des propriétés
+à New York, Los Angeles et Paris.
+
+293
+00:18:59,650 --> 00:19:02,106
+Comment un ancien agent du KGB
+
+294
+00:19:02,148 --> 00:19:04,627
+devient si riche, si rapidement ?
+
+295
+00:19:05,787 --> 00:19:08,648
+Parce qu'il sait
+où sont enterrés les corps.
+
+296
+00:19:10,799 --> 00:19:13,504
+Probablement
+parce qu'il les a enterrés lui-même.
+
+297
+00:19:18,449 --> 00:19:20,876
+- On a un plan ?
+- On défonce sa porte et on lui demande
+
+298
+00:19:20,918 --> 00:19:22,952
+pourquoi c'est le seul
+sur qui on n'ait pas tiré ?
+
+299
+00:19:23,120 --> 00:19:25,121
+J'ai déjà fait ça,
+c'est un plan efficace.
+
+300
+00:19:25,990 --> 00:19:29,112
+C'est bon tant qu'on sait ce qu'il y a
+derrière la porte. Ça marche toujours.
+
+301
+00:19:34,716 --> 00:19:36,340
+<i>Bonne et mauvaise nouvelles.</i>
+
+302
+00:19:36,709 --> 00:19:40,011
+La mauvaise c'est que la maison d'Arkady
+est à la pointe de la technologie.
+
+303
+00:19:40,179 --> 00:19:43,181
+C'est très impressionnant. Il a dépensé
+une fortune pour la sécurité.
+
+304
+00:19:43,680 --> 00:19:46,819
+Le sol est couvert par un réseau
+de détecteurs de mouvements
+
+305
+00:19:46,861 --> 00:19:50,487
+et de micros. Il a des caméras
+infrarouges à haute définition.
+
+306
+00:19:50,529 --> 00:19:52,732
+C'est un système fermé.
+Je ne peux pas y accéder.
+
+307
+00:19:53,539 --> 00:19:54,927
+C'est une porte imposante.
+
+308
+00:19:55,611 --> 00:19:57,217
+Il va falloir frapper
+plusieurs fois.
+
+309
+00:19:57,259 --> 00:19:58,941
+- La bonne nouvelle ?
+- La bonne,
+
+310
+00:19:58,983 --> 00:20:01,574
+c'est que la voiture a un GPS.
+Je l'ai cracké.
+
+311
+00:20:01,892 --> 00:20:02,985
+Il bouge.
+
+312
+00:20:03,323 --> 00:20:04,744
+Dans une Maybach.
+
+313
+00:20:04,912 --> 00:20:06,324
+On l'envoie sur votre GPS.
+
+314
+00:20:06,366 --> 00:20:08,873
+Ça devrait apparaître bientôt
+sur votre écran, un point rouge.
+
+315
+00:20:11,253 --> 00:20:12,796
+Il vient justement vers nous.
+
+316
+00:20:14,634 --> 00:20:17,590
+- Il tourne à gauche...
+- Où à gauche ? Je veux un nom de rue.
+
+317
+00:20:17,911 --> 00:20:19,008
+Où va-t-il ?
+
+318
+00:20:19,323 --> 00:20:21,969
+Je sais pas, mais il y va sans nous
+si tu me dis pas où il tourne.
+
+319
+00:20:22,793 --> 00:20:23,710
+Des courses.
+
+320
+00:20:24,389 --> 00:20:25,699
+Il va faire des courses.
+
+321
+00:20:26,249 --> 00:20:27,571
+Allons faire des courses.
+
+322
+00:20:28,519 --> 00:20:29,969
+Allons faire des courses.
+
+323
+00:20:39,301 --> 00:20:41,628
+Les gardes du corps sont sérieux,
+disciplinés.
+
+324
+00:20:42,462 --> 00:20:44,092
+Sûrement d'anciens militaires.
+
+325
+00:20:44,828 --> 00:20:45,701
+C'est lui ?
+
+326
+00:20:46,988 --> 00:20:47,905
+C'est lui.
+
+327
+00:20:49,728 --> 00:20:51,219
+On a un autre plan ?
+
+328
+00:20:55,150 --> 00:20:56,798
+J'imagine que c'est le plan B ?
+
+329
+00:20:57,856 --> 00:20:58,714
+Compris.
+
+330
+00:21:26,206 --> 00:21:27,714
+Tanner, à 6 heures.
+
+331
+00:21:35,177 --> 00:21:36,252
+Je te reconnais.
+
+332
+00:21:36,420 --> 00:21:38,462
+- Je vous connais ?
+- Nan, mais ma fiancée.
+
+333
+00:21:39,239 --> 00:21:41,090
+- Pardon ?
+- Tu veux t'excuser ?
+
+334
+00:21:41,258 --> 00:21:43,426
+- M'excuser ?
+- Tu pensais que je le saurais pas ?
+
+335
+00:21:43,774 --> 00:21:46,485
+Regardez ce briseur de ménage !
+Tu devrais avoir honte.
+
+336
+00:21:46,527 --> 00:21:48,180
+- Il a des gosses !
+- Recule, l'ami.
+
+337
+00:21:48,348 --> 00:21:50,518
+Je suis pas ton pote,
+et le sien non plus !
+
+338
+00:21:50,560 --> 00:21:53,202
+- Il veut quoi ce type ?
+- J'essaye de lui dire
+
+339
+00:21:53,244 --> 00:21:55,062
+- que je le connais pas.
+- Tu te trompes.
+
+340
+00:21:55,230 --> 00:21:56,731
+Joelene. Les mardis et
+
+341
+00:21:56,899 --> 00:21:58,858
+vendredis
+dans la boutique du fleuriste !
+
+342
+00:21:59,026 --> 00:22:01,277
+N'essaye même pas de nier.
+J'ai des témoins !
+
+343
+00:22:01,445 --> 00:22:04,322
+Je ne vous connais pas.
+Pas plus que Joelene.
+
+344
+00:22:04,490 --> 00:22:07,433
+Une fine moustache.
+Joelene aux grosses cuisses,
+
+345
+00:22:07,739 --> 00:22:09,327
+avec les frisettes.
+
+346
+00:22:09,495 --> 00:22:11,662
+Maintenant, tu as honte
+de connaître Joelene ?
+
+347
+00:22:11,830 --> 00:22:14,540
+Elle est pas assez bien pour toi ?
+C'est ma copine !
+
+348
+00:22:19,864 --> 00:22:21,005
+Jolie voiture, Arkady.
+
+349
+00:22:22,433 --> 00:22:24,254
+C'est bon, Alex.
+
+350
+00:22:25,052 --> 00:22:27,722
+M. Callen est un vieil ami.
+
+351
+00:22:32,700 --> 00:22:34,352
+Je te croyais mort.
+
+352
+00:22:34,874 --> 00:22:36,145
+Comme Stanhope et Taylor ?
+
+353
+00:22:38,630 --> 00:22:41,817
+Et je suis le seul indemne.
+Donc tu me crois responsable ?
+
+354
+00:22:41,985 --> 00:22:42,860
+Tu l'es ?
+
+355
+00:22:48,646 --> 00:22:50,538
+Donne-moi une bonne raison
+de te croire.
+
+356
+00:22:52,271 --> 00:22:53,913
+J'ai envoyé quelqu'un te prévenir.
+
+357
+00:22:54,438 --> 00:22:57,403
+J'ai aussi prévenu
+Stanhope et Taylor.
+
+358
+00:22:57,629 --> 00:22:59,001
+Tu as envoyé qui me prévenir ?
+
+359
+00:23:00,255 --> 00:23:01,712
+Une Russe.
+
+360
+00:23:04,776 --> 00:23:07,445
+- Pourquoi pas toi-même ?
+- Tu ne m'aurais pas cru
+
+361
+00:23:07,487 --> 00:23:10,763
+à cause de ce qu'il s'est passé
+à Moscou il y a dix ans.
+
+362
+00:23:11,779 --> 00:23:14,183
+Qu'est-ce qui te fait croire
+que j'aurais cru une Russe ?
+
+363
+00:23:16,119 --> 00:23:17,561
+Tu la connaissais.
+
+364
+00:23:20,420 --> 00:23:24,276
+Quand tu étais jeune,
+tu la faisais sauter sur tes genoux.
+
+365
+00:23:31,416 --> 00:23:33,046
+- Elle s'appelait...
+- Alina.
+
+366
+00:23:35,040 --> 00:23:36,410
+Elle s'appelait Alina.
+
+367
+00:23:46,826 --> 00:23:48,340
+Jolie crèche, Arkady.
+
+368
+00:23:49,033 --> 00:23:52,346
+- Comment tu as su pour elle ?
+- Tu me l'as dit il y a dix ans.
+
+369
+00:23:53,110 --> 00:23:55,520
+Quand je t'avais demandé
+où tu avais appris le russe,
+
+370
+00:23:55,728 --> 00:23:57,646
+tu avais dit "avec une petite fille
+
+371
+00:23:57,688 --> 00:23:59,937
+qui s'appelle Alina Rostoff."
+
+372
+00:24:02,653 --> 00:24:04,213
+Je l'avais noté.
+
+373
+00:24:05,133 --> 00:24:07,057
+Il y a des choses
+que tu ne notes pas ?
+
+374
+00:24:07,734 --> 00:24:10,456
+Tout est utile un jour ou l'autre.
+
+375
+00:24:12,289 --> 00:24:14,127
+J'ai entendu des rumeurs,
+comme quoi...
+
+376
+00:24:14,474 --> 00:24:16,746
+on allait nous prendre pour cibles.
+
+377
+00:24:17,249 --> 00:24:20,458
+J'ai tenté de contacter
+tout le monde, de les prévenir,
+
+378
+00:24:20,769 --> 00:24:23,786
+- leur dire de faire attention.
+- T'as vu Joelene ?
+
+379
+00:24:25,464 --> 00:24:29,158
+Mais Stanhope et Taylor
+avaient pris leur retraite,
+
+380
+00:24:29,568 --> 00:24:30,342
+pris...
+
+381
+00:24:30,510 --> 00:24:33,669
+dans ce rêve que vous autres Américains
+poursuivez tous.
+
+382
+00:24:34,536 --> 00:24:36,773
+Tu étais le dernier dans le jeu, G.
+
+383
+00:24:37,450 --> 00:24:41,317
+Alors, on m'a fait la faveur
+de me donner une adresse où te trouver.
+
+384
+00:24:42,105 --> 00:24:45,816
+Je savais... que si elle te trouvait,
+tu la croirais.
+
+385
+00:24:46,131 --> 00:24:47,359
+Je t'aurais pas cru ?
+
+386
+00:24:49,894 --> 00:24:51,905
+- C'est le cas ?
+- Pas encore.
+
+387
+00:24:55,771 --> 00:24:59,371
+Mais je la connaissais à peine.
+J'avais 14 ans, elle en avait quatre.
+
+388
+00:24:59,786 --> 00:25:01,040
+Mon grand frère.
+
+389
+00:25:02,197 --> 00:25:04,085
+Elle m'avait dit
+qu'elle te saluerait comme ça,
+
+390
+00:25:05,399 --> 00:25:06,837
+et tu te souviendrais d'elle.
+
+391
+00:25:07,591 --> 00:25:08,978
+Elle a essayé une fois.
+
+392
+00:25:15,117 --> 00:25:16,574
+Je l'ai effrayée. J'ai...
+
+393
+00:25:17,345 --> 00:25:19,433
+La seconde fois, c'était trop tard.
+
+394
+00:25:20,865 --> 00:25:22,391
+Elle t'a pleuré.
+
+395
+00:25:25,946 --> 00:25:28,287
+Elle te croyait mort.
+Comme nous tous.
+
+396
+00:25:28,511 --> 00:25:31,390
+Callen a été chanceux.
+Stanhope et Taylor, moins.
+
+397
+00:25:31,910 --> 00:25:33,447
+Et toi, tu étais quoi, Arkady ?
+
+398
+00:25:33,887 --> 00:25:34,865
+Préparé.
+
+399
+00:25:36,410 --> 00:25:38,656
+Le jour où ils t'ont tiré dessus,
+ils sont venus pour moi.
+
+400
+00:25:38,698 --> 00:25:40,570
+Et deux autres fois depuis.
+
+401
+00:25:40,986 --> 00:25:43,374
+- Ils commencent à m'ennuyer.
+- Qui sont-ils ?
+
+402
+00:25:45,148 --> 00:25:46,210
+Tu te souviens
+
+403
+00:25:46,378 --> 00:25:48,045
+ce qu'était l'opération Cosaque ?
+
+404
+00:25:48,878 --> 00:25:49,755
+Bien sûr,
+
+405
+00:25:49,923 --> 00:25:51,774
+la mafia russe était payée
+
+406
+00:25:51,816 --> 00:25:54,107
+pour laisser le pétrole russe
+arriver jusqu'en Europe.
+
+407
+00:25:55,090 --> 00:25:58,264
+Notre boulot était d'infiltrer le gang
+et de trouver qui était corrompu.
+
+408
+00:25:58,978 --> 00:26:02,601
+Et avant même de commencer,
+nous avons été trahis.
+
+409
+00:26:03,166 --> 00:26:04,844
+Pourquoi revenir maintenant ?
+
+410
+00:26:05,361 --> 00:26:06,700
+La semaine prochaine,
+
+411
+00:26:07,377 --> 00:26:09,506
+ils signent un contrat
+d'un milliard de dollars,
+
+412
+00:26:09,548 --> 00:26:12,501
+ouvrant ainsi le pipeline
+de la Russie vers l'Europe.
+
+413
+00:26:12,883 --> 00:26:15,241
+Ils légalisent leur corruption.
+
+414
+00:26:16,199 --> 00:26:20,119
+L'affaire a été montée
+par un américain dans le pétrole.
+
+415
+00:26:20,872 --> 00:26:24,552
+- Il travaille pour le gang ?
+- C'est peut-être lui le gang.
+
+416
+00:26:25,182 --> 00:26:27,570
+Pour une raison que j'ignore,
+quelqu'un ne voulait pas
+
+417
+00:26:27,612 --> 00:26:30,633
+de nous quatre
+à la signature du marché.
+
+418
+00:26:35,209 --> 00:26:36,242
+Et Alina ?
+
+419
+00:26:41,384 --> 00:26:44,121
+Je lui ai demandé de trouver
+tout ce qu'elle pouvait sur Cole.
+
+420
+00:26:44,490 --> 00:26:46,675
+Elle a découvert
+qu'il aimait être sur un yacht.
+
+421
+00:26:48,295 --> 00:26:49,805
+J'ai monté la surveillance.
+
+422
+00:26:53,234 --> 00:26:55,279
+- Tu t'es servi d'elle.
+- Je l'ai entraînée.
+
+423
+00:26:55,563 --> 00:26:58,010
+- Parce qu'elle était jolie...
+- Elle voulait te venger.
+
+424
+00:27:03,232 --> 00:27:05,387
+Elle attendait, elle observait.
+
+425
+00:27:06,486 --> 00:27:08,125
+Et enfin, il est arrivé.
+
+426
+00:27:09,379 --> 00:27:11,598
+Et le lendemain, Alina était morte.
+
+427
+00:27:20,524 --> 00:27:22,304
+Tout ce que je sais sur John Cole.
+
+428
+00:27:33,347 --> 00:27:36,108
+La minceur de son dossier
+vous inquiète.
+
+429
+00:27:37,995 --> 00:27:41,208
+Chaque fois que je le relis, j'espère
+que quelqu'un a rempli les blancs.
+
+430
+00:27:41,641 --> 00:27:43,361
+Mais il n'y a toujours qu'une page.
+
+431
+00:27:44,070 --> 00:27:46,203
+Pas de famille. Pas de proches.
+
+432
+00:27:47,630 --> 00:27:49,856
+Tout ce qu'on considère
+comme normal.
+
+433
+00:27:54,919 --> 00:27:58,174
+Vous pensez que je ne devrais pas
+le laisser sur cette affaire.
+
+434
+00:28:00,668 --> 00:28:03,093
+Je pourrais faire
+une évaluation psychologique officielle
+
+435
+00:28:03,135 --> 00:28:05,057
+au directeur,
+demandant qu'on la lui retire.
+
+436
+00:28:06,731 --> 00:28:09,956
+Et le directeur serait obligé
+de suivre vos recommandations.
+
+437
+00:28:11,386 --> 00:28:14,027
+Et je perdrais la confiance
+de tout le monde dans l'équipe.
+
+438
+00:28:15,911 --> 00:28:19,425
+Ce que certains pourraient prendre
+pour une chose insignifiante
+
+439
+00:28:19,550 --> 00:28:22,095
+peut être une révélation
+pour Callen.
+
+440
+00:28:22,871 --> 00:28:25,243
+Un fil par ici, un morceau par là.
+
+441
+00:28:25,817 --> 00:28:29,425
+Cette fois peut-être,
+un petit morceau de sa vie.
+
+442
+00:28:30,819 --> 00:28:32,084
+Et si ça tourne mal ?
+
+443
+00:28:32,994 --> 00:28:35,521
+Vous me direz que j'avais tort.
+
+444
+00:28:38,234 --> 00:28:40,091
+Le directeur
+en rajoutera une couche.
+
+445
+00:28:44,382 --> 00:28:45,388
+Et Callen ?
+
+446
+00:28:46,945 --> 00:28:48,873
+Il fera ce qu'il fait toujours :
+
+447
+00:28:50,270 --> 00:28:51,270
+survivre.
+
+448
+00:28:53,601 --> 00:28:56,149
+Voyons ce qu'Arkady a pour nous.
+
+449
+00:28:57,373 --> 00:29:00,321
+Notre homme mystérieux du yacht
+a un nom : John Cole.
+
+450
+00:29:00,860 --> 00:29:02,280
+Il vit discrètement.
+
+451
+00:29:02,491 --> 00:29:05,870
+Il a une raffinerie qu'il a achetée
+il y a sept ans.
+
+452
+00:29:06,533 --> 00:29:07,609
+Qui est son ami ?
+
+453
+00:29:08,586 --> 00:29:11,748
+Il s'appelle... Max Tyrus.
+
+454
+00:29:12,158 --> 00:29:14,250
+- Peut-être un garde du corps.
+- Ou notre tueur.
+
+455
+00:29:14,461 --> 00:29:16,502
+Même physique
+que le type de la vidéo.
+
+456
+00:29:17,195 --> 00:29:19,475
+Bon, on a quoi d'autre ?
+
+457
+00:29:20,433 --> 00:29:23,562
+Pas grand-chose. Ce type a érigé
+des pare-feux solides
+
+458
+00:29:23,687 --> 00:29:25,899
+autour de sa vie personnelle
+et professionnelle.
+
+459
+00:29:26,024 --> 00:29:27,475
+Il a même son propre serveur.
+
+460
+00:29:27,709 --> 00:29:30,601
+- Où est-il ?
+- Les trucs habituels ne donnent rien.
+
+461
+00:29:31,352 --> 00:29:33,937
+Cole est aussi invisible
+qu'il est possible de l'être.
+
+462
+00:29:34,481 --> 00:29:36,926
+Il ne laisse
+aucune empreinte électronique.
+
+463
+00:29:37,560 --> 00:29:39,965
+Ton geste ressemble
+à un renoncement, Eric.
+
+464
+00:29:40,371 --> 00:29:41,694
+J'étirais mes bras.
+
+465
+00:29:42,233 --> 00:29:43,988
+Oublions Cole une seconde, OK ?
+
+466
+00:29:44,199 --> 00:29:46,408
+Trouve Max Tyrus.
+Si on trouve Tyrus, on trouve Cole.
+
+467
+00:29:51,153 --> 00:29:54,874
+D'accord, la chance tourne.
+J'ai un numéro de portable.
+
+468
+00:29:55,685 --> 00:29:58,586
+- Le GPS est bloqué.
+- Je sors son relevé d'appels.
+
+469
+00:30:00,542 --> 00:30:02,906
+Dernier appel passé
+depuis la raffinerie de Cole
+
+470
+00:30:03,031 --> 00:30:05,551
+vers une compagnie de charters,
+il y a 30 minutes.
+
+471
+00:30:05,762 --> 00:30:06,945
+Un voyage prévu.
+
+472
+00:30:07,529 --> 00:30:09,347
+Quand le marché doit-il être signé ?
+
+473
+00:30:09,903 --> 00:30:11,316
+- Fin de la semaine.
+- Où ?
+
+474
+00:30:11,817 --> 00:30:12,559
+Moscou.
+
+475
+00:30:13,494 --> 00:30:15,286
+Appelle la compagnie de charters.
+
+476
+00:30:19,526 --> 00:30:20,567
+<i>Brad Jet Charter.</i>
+
+477
+00:30:21,060 --> 00:30:24,548
+- J'ai appelé il y a 30 minutes.
+- <i>Votre nom, s'il vous plaît ?</i>
+
+478
+00:30:24,673 --> 00:30:28,199
+Max Tyrus, West Oil Consolidated,
+le charter pour Moscou.
+
+479
+00:30:28,410 --> 00:30:29,702
+- <i>Tyrus ?</i>
+- C'est ça.
+
+480
+00:30:30,027 --> 00:30:32,161
+- J'ai oublié les détails...
+- <i>Départ 6 h 30.</i>
+
+481
+00:30:32,631 --> 00:30:34,425
+- Et le retour ?
+- <i>Pas de retour prévu.</i>
+
+482
+00:30:35,185 --> 00:30:36,710
+Bien sûr, où avais-je la tête ?
+
+483
+00:30:36,835 --> 00:30:38,668
+- <i>Tout sera prêt.</i>
+- Merci beaucoup.
+
+484
+00:30:40,422 --> 00:30:42,046
+Il part dans moins de 4 heures.
+
+485
+00:30:42,171 --> 00:30:44,006
+- Le retour ?
+- Aller simple.
+
+486
+00:30:44,734 --> 00:30:47,488
+On n'a aucune preuve
+pour l'empêcher de quitter le pays.
+
+487
+00:30:47,930 --> 00:30:49,624
+On n'a droit qu'à un essai.
+
+488
+00:30:52,096 --> 00:30:53,097
+Tu as un plan ?
+
+489
+00:30:54,953 --> 00:30:56,637
+Il croit que je suis déjà mort.
+
+490
+00:30:59,460 --> 00:31:01,800
+Voyons comment il réagit
+quand il verra que c'est faux.
+
+491
+00:31:02,180 --> 00:31:03,812
+On doit entrer dans la raffinerie.
+
+492
+00:31:04,842 --> 00:31:06,112
+Attirer son attention.
+
+493
+00:31:07,441 --> 00:31:09,552
+Si je possédais une raffinerie,
+
+494
+00:31:11,338 --> 00:31:12,654
+de quoi aurais-je peur ?
+
+495
+00:31:14,063 --> 00:31:15,539
+Des inspecteurs de l'A.P.E.
+
+496
+00:31:17,785 --> 00:31:18,797
+Voilà.
+
+497
+00:31:19,921 --> 00:31:23,457
+Badges et directives de l'Agence
+de la Protection de l'Environnement,
+
+498
+00:31:23,973 --> 00:31:25,906
+de quoi vous faire ouvrir
+les portes.
+
+499
+00:31:28,025 --> 00:31:29,025
+Super.
+
+500
+00:31:29,515 --> 00:31:31,768
+Et pour nous, une caméra bouton.
+
+501
+00:31:32,877 --> 00:31:34,630
+Tu ne sais pas
+à quoi Cole ressemble.
+
+502
+00:31:34,755 --> 00:31:36,519
+D'après les photos,
+il est... un peu flou.
+
+503
+00:31:36,855 --> 00:31:38,829
+Mais lui te connaît,
+ce qui veut dire que
+
+504
+00:31:38,954 --> 00:31:40,897
+ta couverture est morte
+dès qu'il te voit.
+
+505
+00:31:41,251 --> 00:31:43,733
+Il me croit mort,
+ce qui me donne l'avantage.
+
+506
+00:31:44,195 --> 00:31:45,542
+Tu joues les appâts ?
+
+507
+00:31:46,193 --> 00:31:48,229
+Tu veux qu'il réagisse,
+qu'il t'attaque ?
+
+508
+00:31:48,703 --> 00:31:50,474
+Oui. Et s'il le fait, on l'aura.
+
+509
+00:31:51,290 --> 00:31:52,450
+Un problème ?
+
+510
+00:31:58,448 --> 00:32:00,476
+Les premières secondes
+seront cruciales.
+
+511
+00:32:02,967 --> 00:32:04,894
+Ne le laisse pas réfléchir,
+
+512
+00:32:05,745 --> 00:32:07,472
+sinon il comprendra ton jeu,
+
+513
+00:32:07,514 --> 00:32:09,282
+et il ne réagira pas
+comme tu le veux.
+
+514
+00:32:10,193 --> 00:32:10,928
+Merci.
+
+515
+00:32:14,476 --> 00:32:15,344
+Ça va ?
+
+516
+00:32:47,301 --> 00:32:48,115
+J'y suis.
+
+517
+00:32:50,966 --> 00:32:52,377
+Vous pouvez y aller.
+
+518
+00:32:57,651 --> 00:32:59,888
+Comment ça va ?
+A.P.E.
+
+519
+00:33:01,156 --> 00:33:03,729
+C'est l'heure
+de l'inspection sanitaire surprise.
+
+520
+00:33:04,691 --> 00:33:07,233
+Je dois vérifier si vous êtes
+en conformité réglementaire.
+
+521
+00:33:08,224 --> 00:33:09,072
+D'accord.
+
+522
+00:33:14,700 --> 00:33:15,785
+Merci bien.
+
+523
+00:33:22,407 --> 00:33:23,950
+L'A.P.E. est là.
+
+524
+00:33:30,592 --> 00:33:31,549
+Ça filme ?
+
+525
+00:33:33,257 --> 00:33:35,560
+- On a la vidéo.
+- Pardon, madame.
+
+526
+00:33:36,752 --> 00:33:37,555
+A.P.E.
+
+527
+00:33:38,206 --> 00:33:40,484
+- Je peux vous aider ?
+- Votre patron est là ?
+
+528
+00:33:41,592 --> 00:33:43,485
+Le préfabriqué,
+première porte à droite.
+
+529
+00:33:43,527 --> 00:33:44,446
+Merci.
+
+530
+00:34:01,298 --> 00:34:02,950
+Je les vois.
+
+531
+00:34:03,654 --> 00:34:04,488
+Pardon.
+
+532
+00:34:05,502 --> 00:34:08,869
+C'est la troisième inspection
+de l'A.P.E. cette année.
+
+533
+00:34:09,547 --> 00:34:12,791
+Et à chaque fois, toute cette paperasse,
+c'est exténuant.
+
+534
+00:34:12,833 --> 00:34:15,343
+Un rapport de quelques feuilles,
+ça suffirait.
+
+535
+00:34:17,080 --> 00:34:18,933
+Sauf s'il y a un problème.
+
+536
+00:34:19,781 --> 00:34:20,723
+Oh, mon Dieu.
+
+537
+00:34:20,892 --> 00:34:23,763
+Vous ne voulez pas de problème.
+Remplir ces formulaires E37.
+
+538
+00:34:23,805 --> 00:34:25,269
+Je vais appeler votre patron.
+
+539
+00:34:25,956 --> 00:34:27,580
+Je ne vous en empêche pas.
+
+540
+00:34:31,561 --> 00:34:33,694
+Ne m'empêchez pas
+de faire mon travail, non plus.
+
+541
+00:34:38,278 --> 00:34:42,244
+Montrez-moi tout. Le débit,
+les machines, les tests effectués.
+
+542
+00:34:42,581 --> 00:34:44,701
+- C'est quoi là ?
+- C'est interdit aux visiteurs.
+
+543
+00:34:46,181 --> 00:34:47,508
+On a l'air de visiteurs ?
+
+544
+00:34:47,981 --> 00:34:50,336
+- C'est une raffinerie, ici.
+- Nous sommes là pour ça.
+
+545
+00:34:54,108 --> 00:34:56,895
+G, derrière toi.
+Ça pourrait être Cole.
+
+546
+00:34:57,788 --> 00:34:59,232
+Quel est le problème ?
+
+547
+00:35:10,690 --> 00:35:13,819
+- Ils ont dit que t'étais mort.
+- Pareil pour toi.
+
+548
+00:35:17,918 --> 00:35:19,799
+Je te présente
+un vieil ami de Moscou :
+
+549
+00:35:20,876 --> 00:35:21,877
+Ethan Stanhope.
+
+550
+00:35:22,649 --> 00:35:23,995
+Devenu John Cole.
+
+551
+00:35:29,485 --> 00:35:31,295
+On vient de perdre notre avantage.
+
+552
+00:35:41,758 --> 00:35:44,303
+Quand tu payes, tu t'attends
+à ce que le boulot soit fini.
+
+553
+00:35:44,922 --> 00:35:46,307
+Demande un remboursement.
+
+554
+00:35:48,313 --> 00:35:50,893
+Falsifier un certificat de décès
+à Las Vegas a dû coûter cher.
+
+555
+00:35:51,253 --> 00:35:53,848
+- Ils ont tué qui ?
+- Quelqu'un qui ne manquera à personne.
+
+556
+00:35:54,152 --> 00:35:55,476
+Ça court les rues.
+
+557
+00:35:55,518 --> 00:35:58,404
+Il ne fallait pas qu'on se demande
+pourquoi j'étais le seul survivant.
+
+558
+00:35:58,573 --> 00:36:00,281
+Voilà pourquoi j'ai suspecté Arkady.
+
+559
+00:36:00,450 --> 00:36:02,199
+Tu as essayé de le tuer
+et ça a raté.
+
+560
+00:36:02,590 --> 00:36:05,578
+Deux fois. La 3ème sera la bonne,
+prévue la semaine prochaine.
+
+561
+00:36:06,340 --> 00:36:08,768
+- Je l'ai mal jugé.
+- Comme beaucoup.
+
+562
+00:36:09,574 --> 00:36:11,125
+L'histoire a la vie dure.
+
+563
+00:36:11,514 --> 00:36:13,711
+Même si le rideau et le mur
+sont tombés.
+
+564
+00:36:16,141 --> 00:36:17,715
+Je vais devoir m'excuser.
+
+565
+00:36:19,218 --> 00:36:20,634
+Tout ça pour du pétrole ?
+
+566
+00:36:22,367 --> 00:36:25,663
+Le marché va être signé.
+Je vais devenir une figure publique.
+
+567
+00:36:25,892 --> 00:36:27,850
+Et si l'un de ces hommes
+vous voyait...
+
+568
+00:36:28,019 --> 00:36:30,770
+Ça aurait été embarrassant,
+sans parler du coût.
+
+569
+00:36:31,435 --> 00:36:35,191
+C'est combien pour se faire acheter
+par le syndicat du crime russe ?
+
+570
+00:36:38,116 --> 00:36:39,493
+Plus que je dépenserai.
+
+571
+00:36:41,012 --> 00:36:44,336
+- Combien de balles t'as pris ?
+- Cinq, merci de demander.
+
+572
+00:36:44,960 --> 00:36:46,076
+Une me suffira.
+
+573
+00:36:50,792 --> 00:36:51,916
+Tu as un angle ?
+
+574
+00:36:52,085 --> 00:36:54,682
+Oui, mais ma balle pourrait toucher
+une citerne de pétrole.
+
+575
+00:36:57,882 --> 00:36:59,673
+Tu crois pas
+qu'on soit venus seuls ?
+
+576
+00:37:01,992 --> 00:37:04,222
+Ma voiture est
+devant la sortie de service. Vas-y.
+
+577
+00:38:52,998 --> 00:38:55,123
+Bouge pas !
+Ne bouge pas !
+
+578
+00:38:59,077 --> 00:39:00,620
+- C'est bon ?
+- Oui.
+
+579
+00:39:01,505 --> 00:39:04,275
+Tourne-toi, le dur.
+Tourne-toi.
+
+580
+00:39:06,316 --> 00:39:07,843
+Tes mains dans le dos.
+
+581
+00:39:24,139 --> 00:39:26,237
+C'était une bonne journée,
+finalement.
+
+582
+00:39:27,328 --> 00:39:28,248
+Choix risqué.
+
+583
+00:39:29,382 --> 00:39:31,076
+Mais c'était le bon.
+
+584
+00:39:32,245 --> 00:39:34,147
+Combien de foyers en tout ?
+
+585
+00:39:36,506 --> 00:39:37,222
+37.
+
+586
+00:39:38,308 --> 00:39:41,572
+De l'âge de 5 ans à ces 18 ans,
+
+587
+00:39:41,811 --> 00:39:43,893
+il a changé de maisons d'accueil,
+
+588
+00:39:45,027 --> 00:39:46,054
+chaque semaine,
+
+589
+00:39:46,355 --> 00:39:48,759
+parfois chaque jour.
+
+590
+00:39:50,039 --> 00:39:53,585
+Le plus longtemps
+a été dans la famille d'Alina Rostoff.
+
+591
+00:39:54,549 --> 00:39:55,599
+Trois mois.
+
+592
+00:39:57,569 --> 00:40:00,648
+J'ai vérifié.
+Les parents sont morts il y a longtemps.
+
+593
+00:40:01,561 --> 00:40:03,608
+Alina a gardé la maison, donc...
+
+594
+00:40:05,492 --> 00:40:06,880
+Trois mois ?
+
+595
+00:40:07,161 --> 00:40:09,059
+Ça a dû être particulier.
+
+596
+00:40:11,533 --> 00:40:12,823
+Vous ne croyez pas ?
+
+597
+00:40:24,718 --> 00:40:28,056
+Juste ciel ! Un converti.
+
+598
+00:40:29,015 --> 00:40:30,368
+J'avais le goût du papier.
+
+599
+00:40:31,936 --> 00:40:33,012
+De l'exotisme ?
+
+600
+00:40:33,445 --> 00:40:34,680
+Juste du thé.
+
+601
+00:40:35,260 --> 00:40:37,251
+Chaque voyage
+commence par un petit pas.
+
+602
+00:40:40,155 --> 00:40:41,506
+De la part d'Arkady.
+
+603
+00:40:42,781 --> 00:40:44,537
+Par les voies habituelles.
+
+604
+00:40:48,069 --> 00:40:48,907
+Appréciez.
+
+605
+00:40:59,573 --> 00:41:01,300
+Ma petite soeur.
+
+606
+00:43:18,633 --> 00:43:21,838
+.: Team UnderCovers :.
+

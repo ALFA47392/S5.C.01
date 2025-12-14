@@ -1,0 +1,3693 @@
+1
+00:00:00,184 --> 00:00:01,809
+www.Team-NCIS.com
+
+2
+00:00:06,742 --> 00:00:07,774
+You tired?
+
+3
+00:00:08,675 --> 00:00:09,898
+{\pos(192,220)}You can't catch me!
+
+4
+00:00:12,653 --> 00:00:14,125
+{\pos(192,220)}You're not getting away!
+
+5
+00:00:15,598 --> 00:00:16,973
+Give up, I got you!
+
+6
+00:00:17,057 --> 00:00:17,892
+Do not!
+
+7
+00:00:17,976 --> 00:00:19,824
+- You're done.
+- Am not!
+
+8
+00:00:22,857 --> 00:00:24,108
+Here I come!
+
+9
+00:00:25,499 --> 00:00:26,817
+Tag, you're it!
+
+10
+00:00:28,231 --> 00:00:29,327
+What's that?
+
+11
+00:00:30,897 --> 00:00:32,863
+It's a scarecrow, stupid.
+Now, come on, you're it.
+
+12
+00:00:32,947 --> 00:00:34,450
+Wait, that.
+
+13
+00:00:39,250 --> 00:00:40,706
+Let's just get out of here.
+
+14
+00:00:54,984 --> 00:00:56,222
+Run, run!
+
+15
+00:00:58,016 --> 00:01:01,602
+NCIS Season 7 Episode 09
+Child's Play 1.0 FQM
+
+16
+00:01:02,979 --> 00:01:04,146
+{\pos(192,240)}Synchro: Gaillots.
+
+17
+00:01:06,983 --> 00:01:09,402
+{\pos(192,240)}Rereading: Bruno & Magic Turtle.
+
+18
+00:01:23,500 --> 00:01:27,358
+{\a6}www.Team-NCIS.com
+
+19
+00:01:32,915 --> 00:01:34,425
+{\pos(192,210)}You're not taking the elevator.
+
+20
+00:01:34,663 --> 00:01:35,896
+{\pos(192,210)}Nope, took the stairs.
+
+21
+00:01:35,980 --> 00:01:38,013
+{\pos(192,210)}It's all about the cardio
+these days.
+
+22
+00:01:38,220 --> 00:01:41,225
+{\pos(192,230)}You have been looking increasingly
+Kate Moss-ish there, McTim.
+
+23
+00:01:41,351 --> 00:01:43,018
+{\pos(192,230)}What are you down...
+Two, three pounds?
+
+24
+00:01:43,399 --> 00:01:45,658
+{\pos(192,230)}15 pounds, actually,
+and thank you for noticing.
+
+25
+00:01:46,398 --> 00:01:48,774
+{\pos(192,230)}Well, that's what I do for a living.
+Eagle-eyed Special Agent.
+
+26
+00:01:50,375 --> 00:01:51,694
+{\pos(192,230)}- Girl?
+- No girl.
+
+27
+00:01:51,991 --> 00:01:52,737
+Come on{\, McGee}.
+
+28
+00:01:53,002 --> 00:01:55,604
+{\pos(192,230)}Nobody gives up the pizza
+and the donuts without a good reason.
+
+29
+00:01:56,575 --> 00:01:59,452
+{\pos(192,210)}{\All right, }You want the truth? I usually gain
+a few pounds during the holidays,
+
+30
+00:01:59,578 --> 00:02:01,451
+so, this year,
+I thought I would counter it.
+
+31
+00:02:01,681 --> 00:02:04,260
+{\pos(192,210)}Well, you can resume your diet
+
+32
+00:02:04,540 --> 00:02:06,375
+{\pos(192,210)}after Thanksgiving, Timothy.
+
+33
+00:02:07,239 --> 00:02:10,796
+{\pos(192,210)}The traditional Mallard table
+is not for anyone
+
+34
+00:02:11,381 --> 00:02:14,736
+{\pos(192,210)}whose body isn't
+into bountiful good cheer.
+
+35
+00:02:15,813 --> 00:02:18,261
+{\pos(192,210)}"A Thanksgiving supper
+at Mallard manor."
+
+36
+00:02:18,431 --> 00:02:20,135
+{\pos(192,210)}"All the fixin's."
+
+37
+00:02:21,103 --> 00:02:23,619
+{\pos(192,210)}I think you misspelled "fixings".
+
+38
+00:02:25,206 --> 00:02:26,996
+{\pos(192,210)}Ducky, Thanksgiving is in two days.
+
+39
+00:02:27,080 --> 00:02:28,997
+{\pos(192,210)}Yeah, well, I'm aware of that.
+
+40
+00:02:29,081 --> 00:02:30,524
+{\pos(192,210)}{\I a}Already {\have }plans with {\I'm gonna see }my sister.
+
+41
+00:02:30,843 --> 00:02:32,067
+Well, bring her with you.
+
+42
+00:02:32,638 --> 00:02:34,945
+{\pos(192,210)}I also have accepted an invitation
+
+43
+00:02:35,071 --> 00:02:37,198
+for Thanksgiving... a neighbor.
+
+44
+00:02:37,655 --> 00:02:40,828
+{\pos(192,210)}Oh, dear,
+and Mr. Palmer is already out of town.
+
+45
+00:02:41,870 --> 00:02:43,412
+I also have plans.
+
+46
+00:02:43,774 --> 00:02:47,474
+{\pos(192,210)}Are you letting some blonde
+bombshell baste your bird, Tony?
+
+47
+00:02:48,085 --> 00:02:50,753
+{\pos(192,210)}No, this bird's flying solo
+to a poker tournament
+
+48
+00:02:51,153 --> 00:02:52,847
+{\pos(192,190)}at the big bend Indian casino.
+
+49
+00:02:52,931 --> 00:02:54,718
+{\pos(192,190)}They've got
+an all-you-can-eat crab buffet.
+
+50
+00:02:54,802 --> 00:02:57,218
+{\pos(192,190)}Pilgrims and Indians
+gambling together that warms the heart.
+
+51
+00:02:57,344 --> 00:02:59,305
+{\pos(192,210)}What about your mother, Ducky?
+
+52
+00:02:59,832 --> 00:03:01,514
+{\pos(192,210)}Mother is comfortable, thank you.
+
+53
+00:03:01,848 --> 00:03:03,784
+The staff take good care of her.
+
+54
+00:03:04,873 --> 00:03:07,812
+{\pos(192,210)}Poor dear.
+She barely recognizes me when I visit.
+
+55
+00:03:08,627 --> 00:03:09,355
+{\Well }Then,
+
+56
+00:03:09,848 --> 00:03:11,482
+that leaves me with a 20-pound bird
+
+57
+00:03:11,608 --> 00:03:14,063
+{\pos(192,210)}and enough trimmings
+to feed Coxey's army.
+
+58
+00:03:14,276 --> 00:03:17,029
+{\pos(192,210)}Not army... Marines.
+Got a dead one in a cornfield.
+
+59
+00:03:17,952 --> 00:03:19,532
+What, you waiting for an invitation?
+
+60
+00:03:20,352 --> 00:03:21,075
+Yes,
+
+61
+00:03:21,309 --> 00:03:22,368
+here's yours.
+
+62
+00:03:22,588 --> 00:03:23,844
+Thanksgiving.
+
+63
+00:03:25,739 --> 00:03:26,664
+Here's yours.
+
+64
+00:03:27,461 --> 00:03:28,440
+{\pos(192,210)}Cornfield.
+
+65
+00:03:29,053 --> 00:03:29,881
+{\pos(192,210)}Let's go!
+
+66
+00:03:30,524 --> 00:03:31,921
+Maybe I'm amazed.
+
+67
+00:03:32,377 --> 00:03:33,840
+A maze of maize.
+
+68
+00:03:34,033 --> 00:03:34,884
+What?
+
+69
+00:03:35,425 --> 00:03:37,334
+Maize...
+it's the Indian word for corn.
+
+70
+00:03:37,607 --> 00:03:39,467
+The Indian word for corn is "makki".
+
+71
+00:03:39,594 --> 00:03:42,790
+Not Indians from India,
+Indians from, you know, here.
+
+72
+00:03:42,874 --> 00:03:45,454
+If they were Indians from here,
+they would be called American Indians,
+
+73
+00:03:45,538 --> 00:03:46,314
+you dork.
+
+74
+00:03:46,398 --> 00:03:49,186
+No, they'd be called native Americans,
+Miss Citizenship Test.
+
+75
+00:03:52,453 --> 00:03:53,440
+Process this.
+
+76
+00:03:55,387 --> 00:03:58,362
+Several sets of footprints,
+some of them very small.
+
+77
+00:03:58,892 --> 00:04:00,547
+A couple kids found him.
+
+78
+00:04:01,913 --> 00:04:03,440
+These aren't kids' footprints.
+
+79
+00:04:03,795 --> 00:04:06,912
+Over here, those are big ones.
+Come from that direction.
+
+80
+00:04:07,955 --> 00:04:08,873
+Drag marks,
+
+81
+00:04:09,197 --> 00:04:10,315
+which means that...
+
+82
+00:04:10,520 --> 00:04:12,885
+when they pulled our Marine,
+he was dead already.
+
+83
+00:04:13,628 --> 00:04:15,796
+Fresh corn.
+That gives me an idea.
+
+84
+00:04:16,288 --> 00:04:18,048
+Why don't we have corn chowder
+
+85
+00:04:18,174 --> 00:04:19,374
+as our first course?
+
+86
+00:04:19,642 --> 00:04:20,437
+Poker.
+
+87
+00:04:20,858 --> 00:04:21,567
+Sister.
+
+88
+00:04:22,573 --> 00:04:23,661
+Neighbors.
+
+89
+00:04:25,411 --> 00:04:26,240
+Later.
+
+90
+00:04:27,029 --> 00:04:28,975
+Based on the viscosity
+of the blood...
+
+91
+00:04:31,147 --> 00:04:32,969
+I'd say this is a recent demise.
+
+92
+00:04:33,794 --> 00:04:36,805
+My instinct tells me
+he was not shot here.
+
+93
+00:04:37,386 --> 00:04:39,862
+This is Marine Lance Corporal
+Trevor Lozada,
+
+94
+00:04:39,988 --> 00:04:41,595
+stationed out of Quantico, Boss.
+
+95
+00:04:41,757 --> 00:04:43,580
+The Corporal is missing a hand.
+
+96
+00:04:43,816 --> 00:04:45,868
+He was killed prior
+to it being removed.
+
+97
+00:04:46,249 --> 00:04:48,662
+Otherwise the blood pooling
+would be much greater.
+
+98
+00:04:49,496 --> 00:04:51,066
+Maybe the crows carried it off.
+
+99
+00:04:56,292 --> 00:04:57,504
+Sorry, I had to do it.
+
+100
+00:04:59,239 --> 00:05:01,258
+- Sorry, Boss.
+- Time of death...
+
+101
+00:05:01,384 --> 00:05:03,959
+eight to ten hours ago,
+between 3:00 and 5:00.
+
+102
+00:05:05,656 --> 00:05:06,365
+PCs...
+
+103
+00:05:06,514 --> 00:05:08,697
+Local gang,
+big up and down the East coast.
+
+104
+00:05:08,781 --> 00:05:09,934
+{\Of course, }You already know that.
+
+105
+00:05:10,273 --> 00:05:12,372
+Maybe this is some sort
+of initiation thing{\, you know}?
+
+106
+00:05:12,456 --> 00:05:14,660
+Kill a Marine and you're in,
+no questions asked.
+
+107
+00:05:14,744 --> 00:05:17,441
+Lance Corporal Lozada was
+a gang member before
+
+108
+00:05:17,567 --> 00:05:19,647
+he joined the Marines.
+His tat was lasered off.
+
+109
+00:05:19,731 --> 00:05:21,759
+Why would somebody shoot him,
+bring him out here,
+
+110
+00:05:21,843 --> 00:05:23,405
+carve him up, and cut off his hand?
+
+111
+00:05:27,369 --> 00:05:29,607
+- Get on DiNozzo's shoulders.
+- Boss?
+
+112
+00:05:30,028 --> 00:05:31,512
+I would rather not.
+
+113
+00:05:33,148 --> 00:05:34,208
+Bend over, Tony.
+
+114
+00:05:34,545 --> 00:05:35,376
+Boss...
+
+115
+00:05:35,610 --> 00:05:37,127
+Come on, Tony, use those quads.
+
+116
+00:05:41,921 --> 00:05:43,008
+Oh, God, Boss.
+
+117
+00:05:45,220 --> 00:05:46,010
+West.
+
+118
+00:05:46,900 --> 00:05:48,222
+- Turn this way.
+- Okay
+
+119
+00:05:48,738 --> 00:05:49,765
+Police cars.
+
+120
+00:05:50,039 --> 00:05:50,792
+North.
+
+121
+00:05:51,609 --> 00:05:53,268
+A farmer on a tractor.
+
+122
+00:05:53,394 --> 00:05:54,144
+East.
+
+123
+00:05:56,995 --> 00:05:57,731
+Barn...
+
+124
+00:05:58,122 --> 00:05:59,400
+200 yards away.
+
+125
+00:05:59,649 --> 00:06:01,924
+I got a cramp in my neck.
+I got a cramp.
+
+126
+00:06:02,008 --> 00:06:03,787
+I don't think
+they meant to hide him.
+
+127
+00:06:04,174 --> 00:06:06,584
+I mean,
+this place is not exactly isolated.
+
+128
+00:06:07,906 --> 00:06:09,610
+So, whoever put this body here...
+
+129
+00:06:09,694 --> 00:06:10,694
+wanted him found.
+
+130
+00:06:21,067 --> 00:06:23,173
+Marine Lance Corporal Trevor Lozada
+
+131
+00:06:23,465 --> 00:06:25,634
+had a spotless service record,
+multiple tours.
+
+132
+00:06:26,142 --> 00:06:28,747
+{\pos(192,220)}Rewarded
+with a very desirable duty post
+
+133
+00:06:28,831 --> 00:06:32,266
+{\pos(192,220)}guarding the Sattler Institute
+for Strategic Studies and Analysis.
+
+134
+00:06:32,507 --> 00:06:33,976
+{\pos(192,220)}R&D, government think tank.
+
+135
+00:06:34,468 --> 00:06:36,853
+{\pos(192,220)}Naval war College
+and Marine intel units use them.
+
+136
+00:06:36,981 --> 00:06:39,432
+Lance Corporal Lozada had been there
+about six months.
+
+137
+00:06:39,791 --> 00:06:41,775
+I'm gonna call them{\Sattler Institute},
+{\let 'em know}to tell we're heading over.
+
+138
+00:06:42,020 --> 00:06:43,360
+Current address on Lozada.
+
+139
+00:06:43,636 --> 00:06:45,571
+McGee,
+you and Ziva check out Lozada.
+
+140
+00:06:45,765 --> 00:06:47,823
+- DiNozzo, you're with me.
+- Sattler Institute?
+
+141
+00:06:48,753 --> 00:06:51,576
+Boss, shouldn't McSmarty-pants
+go to the nerd theme park?
+
+142
+00:06:51,704 --> 00:06:55,414
+I mean, it's got to be a nerd's paradise
+with the <i>World of Warcraft</i> wallpaper and
+
+143
+00:06:55,540 --> 00:06:57,461
+the pocket protectors
+and the elfin-shaped beds.
+
+144
+00:06:57,545 --> 00:06:59,789
+'Cause I probably shouldn't...
+I'll get the car.
+
+145
+00:07:02,545 --> 00:07:05,295
+Hi. NCIS.
+Special Agents Gibbs and DiNozzo.
+
+146
+00:07:06,676 --> 00:07:09,513
+Krista Dalton, facilities coordinator.
+I spoke with someone on the phone.
+
+147
+00:07:09,597 --> 00:07:12,470
+Something happened
+to Lance Corporal Lozada?
+
+148
+00:07:12,849 --> 00:07:14,975
+{\He Was}Found dead this morning
+about 20 miles from here.
+
+149
+00:07:15,700 --> 00:07:16,643
+Oh, my god.
+
+150
+00:07:17,085 --> 00:07:19,229
+- How did it happen?
+- Not very nicely, Krista.
+
+151
+00:07:20,288 --> 00:07:22,438
+What did Lance Corporal Lozada
+guard around here?
+
+152
+00:07:23,331 --> 00:07:24,374
+I'll show you.
+
+153
+00:07:24,560 --> 00:07:25,280
+Here.
+
+154
+00:07:26,141 --> 00:07:26,904
+This way.
+
+155
+00:07:30,442 --> 00:07:32,752
+- He guarded a day care center?
+- This isn't a day care.
+
+156
+00:07:32,836 --> 00:07:35,012
+This is
+our intelligence testing center.
+
+157
+00:07:35,518 --> 00:07:37,394
+You test the intelligence
+of these kids?
+
+158
+00:07:37,478 --> 00:07:38,999
+No, they test ours.
+
+159
+00:07:39,482 --> 00:07:41,418
+Hey, Parker, how's it going?
+
+160
+00:07:44,244 --> 00:07:47,287
+Parker's specialty is the redeployment
+of rapid response groups.
+
+161
+00:07:47,803 --> 00:07:50,018
+I thought we had people
+at the Pentagon who do that.
+
+162
+00:07:50,191 --> 00:07:50,969
+We do.
+
+163
+00:07:51,053 --> 00:07:54,181
+But we've found that gifted children
+have a less linear,
+
+164
+00:07:54,307 --> 00:07:56,350
+less bureaucratic way
+of approaching things...
+
+165
+00:07:56,738 --> 00:07:58,184
+Simpler, cleaner,
+
+166
+00:07:58,920 --> 00:07:59,708
+purer.
+
+167
+00:08:02,385 --> 00:08:03,597
+Where are their parents?
+
+168
+00:08:03,681 --> 00:08:05,400
+We have an arrangement
+with the families.
+
+169
+00:08:05,526 --> 00:08:07,611
+The kids visit us
+for a week or two at a time.
+
+170
+00:08:08,908 --> 00:08:11,115
+Helps maintain
+a nice balance between
+
+171
+00:08:11,349 --> 00:08:13,283
+home and here
+and keep the kids focused.
+
+172
+00:08:15,644 --> 00:08:16,695
+I guess it's fun.
+
+173
+00:08:16,779 --> 00:08:18,622
+These are just puzzles
+and games to them.
+
+174
+00:08:20,453 --> 00:08:22,543
+So you're telling me
+Lance Corporal Lozada was...
+
+175
+00:08:23,174 --> 00:08:24,537
+a babysitter, basically.
+
+176
+00:08:24,621 --> 00:08:26,120
+No, a bodyguard.
+
+177
+00:08:26,923 --> 00:08:29,925
+These kids are incredibly valuable
+to us and the military.
+
+178
+00:08:30,471 --> 00:08:32,508
+Hey, when do I get
+my mp3 player back?
+
+179
+00:08:32,777 --> 00:08:35,347
+When you stop wrapping the cord
+around the ceiling fan, Brett.
+
+180
+00:08:35,959 --> 00:08:38,895
+I was testing my aerodynamic theory
+of glide ratio versus inverted torque.
+
+181
+00:08:39,530 --> 00:08:41,853
+- What are you looking at?
+- Val Kilmer, real genius.
+
+182
+00:08:43,192 --> 00:08:45,023
+{\Brett, }You like to break things,
+which is why
+
+183
+00:08:45,149 --> 00:08:46,993
+you wrapped the cord
+around the ceiling fan.
+
+184
+00:08:47,077 --> 00:08:49,953
+You will get your mp3 player back
+after Thanksgiving.
+
+185
+00:08:50,501 --> 00:08:51,813
+Okay, whatever.
+
+186
+00:08:53,200 --> 00:08:55,275
+Brett's one of our prized students
+
+187
+00:08:55,769 --> 00:08:57,552
+as well as one of the oldest.
+
+188
+00:08:57,636 --> 00:08:59,789
+Yeah, he's a real smarty-pants.
+Lucky you.
+
+189
+00:08:59,983 --> 00:09:02,295
+Any of these kids
+personally close to Lozada?
+
+190
+00:09:03,167 --> 00:09:05,043
+One... Angela Kelp.
+
+191
+00:09:06,289 --> 00:09:08,192
+Angela had been acting
+distracted lately,
+
+192
+00:09:08,276 --> 00:09:10,872
+so I asked Lance Corporal Lozada
+to keep an eye on her.
+
+193
+00:09:11,256 --> 00:09:12,313
+They hit it off.
+
+194
+00:09:12,653 --> 00:09:14,850
+- She around here somewhere?
+- Yes, this way.
+
+195
+00:09:17,514 --> 00:09:18,686
+Sorry, Boss.
+
+196
+00:09:21,405 --> 00:09:23,058
+<i>Get us out of here! Drive!</i>
+
+197
+00:09:23,142 --> 00:09:25,075
+- I'm ready, Mr. Norvell.
+- What do you see?
+
+198
+00:09:25,462 --> 00:09:26,648
+Mistakes.
+
+199
+00:09:26,881 --> 00:09:29,795
+- Would you care to elaborate?
+- First, the sun.
+
+200
+00:09:30,841 --> 00:09:33,155
+It's almost 30 degrees,
+directly into our troops' eyes,
+
+201
+00:09:33,549 --> 00:09:35,866
+blinding them while concealing
+the bad guys on the rooftop.
+
+202
+00:09:36,297 --> 00:09:37,162
+Go on.
+
+203
+00:09:37,246 --> 00:09:39,828
+They should never have been in an open
+exposed area like this plaza.
+
+204
+00:09:40,321 --> 00:09:43,226
+It gives the enemy gunners a clear,
+unobstructed angle of fire.
+
+205
+00:09:43,310 --> 00:09:44,143
+Yeah,
+
+206
+00:09:44,616 --> 00:09:47,053
+but they were headed
+to rescue a unit under attack.
+
+207
+00:09:47,253 --> 00:09:49,074
+{\Yes. }That's why they took
+the most direct route.
+
+208
+00:09:49,158 --> 00:09:51,048
+{\What }They should have {\done was }taken
+a less direct route
+
+209
+00:09:51,349 --> 00:09:54,134
+on narrower streets
+with more vertical protection,
+
+210
+00:09:54,561 --> 00:09:55,677
+taller buildings.
+
+211
+00:09:56,335 --> 00:09:57,916
+Would have saved a lot of lives.
+
+212
+00:10:05,833 --> 00:10:06,772
+Impressive.
+
+213
+00:10:08,704 --> 00:10:09,733
+The art, I mean.
+
+214
+00:10:10,699 --> 00:10:11,408
+Thanks.
+
+215
+00:10:12,026 --> 00:10:14,179
+- That's my cat back home.
+- What's its name?
+
+216
+00:10:15,448 --> 00:10:16,214
+Kimba.
+
+217
+00:10:16,631 --> 00:10:17,950
+Lives with me and my mom.
+
+218
+00:10:18,554 --> 00:10:19,576
+What about dad?
+
+219
+00:10:20,328 --> 00:10:21,595
+Split when I was little.
+
+220
+00:10:21,679 --> 00:10:23,455
+Kimba's good at taking out Taliban.
+
+221
+00:10:23,987 --> 00:10:25,582
+You should see
+what she does to mice.
+
+222
+00:10:26,549 --> 00:10:27,793
+Agent Gibbs, NCIS,
+
+223
+00:10:28,078 --> 00:10:31,024
+this is Gregg Norvell,
+our director of youth programs.
+
+224
+00:10:31,605 --> 00:10:33,861
+Whatever you need,
+don't hesitate to ask.
+
+225
+00:10:33,945 --> 00:10:36,426
+- Thanks.
+- Something happened, didn't it?
+
+226
+00:10:37,406 --> 00:10:39,989
+- What do you mean?
+- To Lance Corporal Lozada.
+
+227
+00:10:40,903 --> 00:10:42,432
+Something happened to him, right?
+
+228
+00:10:45,548 --> 00:10:47,104
+Is there someplace {\the two of us}we could go talk?
+
+229
+00:10:48,365 --> 00:10:49,687
+Yeah, your room.
+
+230
+00:10:50,858 --> 00:10:52,655
+If you'd like to follow us...
+
+231
+00:10:56,375 --> 00:10:59,408
+I had a combined
+S.A.T. score of 950.
+
+232
+00:11:01,343 --> 00:11:02,327
+Is that good?
+
+233
+00:11:04,515 --> 00:11:06,511
+Do you want a cupcake?
+I made them.
+
+234
+00:11:11,522 --> 00:11:12,372
+Thanks.
+
+235
+00:11:20,345 --> 00:11:21,109
+So,
+
+236
+00:11:22,426 --> 00:11:25,100
+what makes you think something
+happened to Lance Corporal Lozada?
+
+237
+00:11:25,673 --> 00:11:28,039
+Well, you're here, he's not.
+
+238
+00:11:30,264 --> 00:11:32,751
+You want to talk to me because
+Trevor and I were friends, right?
+
+239
+00:11:37,960 --> 00:11:39,123
+Did somebody...
+
+240
+00:11:40,036 --> 00:11:40,866
+kill him?
+
+241
+00:11:41,831 --> 00:11:43,118
+Why would you ask that?
+
+242
+00:11:44,993 --> 00:11:47,205
+Because people emote more sympathy
+when it's an accident.
+
+243
+00:11:48,684 --> 00:11:49,708
+You're searching.
+
+244
+00:11:50,835 --> 00:11:51,820
+Curious.
+
+245
+00:11:55,707 --> 00:11:58,091
+Do you know that a Marine
+returning home from active duty
+
+246
+00:11:58,325 --> 00:12:01,890
+has a 38 % greater chance of being hurt
+or killed than when he's deployed?
+
+247
+00:12:06,148 --> 00:12:07,197
+Did you make these?
+
+248
+00:12:09,260 --> 00:12:11,204
+- They're good.
+- Thanks.
+
+249
+00:12:12,505 --> 00:12:15,214
+Krista says it's important
+for me to express myself.
+
+250
+00:12:15,298 --> 00:12:16,818
+Yeah, I think she's right.
+
+251
+00:12:18,746 --> 00:12:21,995
+Just like it's important that,
+if you know anything about Trevor,
+
+252
+00:12:22,909 --> 00:12:24,017
+you should call me.
+
+253
+00:12:30,709 --> 00:12:31,458
+Where?
+
+254
+00:12:34,333 --> 00:12:35,623
+Yeah, I'll be right there.
+
+255
+00:12:39,858 --> 00:12:40,717
+Thanks.
+
+256
+00:12:50,070 --> 00:12:52,604
+LEOs matched the car's registration
+to Lozada.
+
+257
+00:12:53,401 --> 00:12:56,950
+- {\What's the }Distance from the crime scene?
+- About, six miles.
+
+258
+00:12:58,070 --> 00:13:00,296
+Didn't find anything in his apartment,
+but you were right.
+
+259
+00:13:00,380 --> 00:13:02,531
+He was a member
+of a local gang, PCs.
+
+260
+00:13:06,065 --> 00:13:07,194
+Look at that.
+
+261
+00:13:07,355 --> 00:13:09,968
+There's one of the slugs
+we didn't find in the Lance Corporal.
+
+262
+00:13:10,287 --> 00:13:12,332
+I patched into his on board
+mapset program.
+
+263
+00:13:12,458 --> 00:13:15,417
+This was his route to
+and from Sattler Institute every day.
+
+264
+00:13:16,090 --> 00:13:18,918
+And based on the time of death,
+Lozada must have just left work.
+
+265
+00:13:21,037 --> 00:13:23,160
+Someone nicked the fuel line.
+Clean cut.
+
+266
+00:13:23,321 --> 00:13:25,887
+Followed him till his tank ran dry,
+pulled up and ambushed him?
+
+267
+00:13:26,013 --> 00:13:27,334
+Took him to the cornfield.
+
+268
+00:13:37,233 --> 00:13:38,612
+Yep, it's Lozada's.
+
+269
+00:13:38,804 --> 00:13:40,193
+Six incoming calls.
+
+270
+00:13:40,940 --> 00:13:42,320
+All listed to the same number.
+
+271
+00:13:42,577 --> 00:13:44,531
+- Billed to the same address.
+- Go.
+
+272
+00:13:44,975 --> 00:13:46,518
+Find our missing caller.
+
+273
+00:13:47,803 --> 00:13:48,792
+Got it. On it.
+
+274
+00:13:53,884 --> 00:13:57,325
+So, you brought me in here
+for making phone calls to a friend?
+
+275
+00:13:57,606 --> 00:14:01,131
+No, Eddie, because you
+and Lance Corporal Lozada were <i>esses</i>.
+
+276
+00:14:02,070 --> 00:14:04,048
+The file here says that,
+
+277
+00:14:04,263 --> 00:14:07,104
+he broke off his gang ties years ago.
+Clearly, you haven't.
+
+278
+00:14:07,472 --> 00:14:10,034
+We had our disagreements,
+but me and Trev were like brothers.
+
+279
+00:14:10,271 --> 00:14:11,683
+Brothers? Really?
+
+280
+00:14:12,065 --> 00:14:14,099
+Metro gang division says that,
+
+281
+00:14:14,648 --> 00:14:17,606
+you tried to kill your brother
+a few years ago, when he left the PCs.
+
+282
+00:14:18,078 --> 00:14:18,814
+No.
+
+283
+00:14:19,053 --> 00:14:21,675
+People felt betrayed,
+but we worked it out.
+
+284
+00:14:21,847 --> 00:14:23,341
+You worked it out.
+
+285
+00:14:24,196 --> 00:14:26,847
+That doesn't smell so good to me.
+Call me <i>Jaded</i>.
+
+286
+00:14:27,851 --> 00:14:29,715
+Lozada took an oath.
+He broke it.
+
+287
+00:14:29,941 --> 00:14:31,642
+It pissed you off.
+Admit it.
+
+288
+00:14:31,726 --> 00:14:34,122
+If I wanted to kill him back then,
+I would have.
+
+289
+00:14:34,856 --> 00:14:37,334
+Look, me and Trevor grew up together,
+and he burned me, so...
+
+290
+00:14:37,577 --> 00:14:39,375
+- So, it's a grudge.
+- No, we just
+
+291
+00:14:39,459 --> 00:14:40,920
+had some unsettled business.
+
+292
+00:14:41,233 --> 00:14:43,525
+- Like what?
+- Like you don't need to know about.
+
+293
+00:14:46,384 --> 00:14:47,284
+Eddie...
+
+294
+00:14:48,170 --> 00:14:50,855
+you are a real cool customer,
+aren't you?
+
+295
+00:14:52,063 --> 00:14:53,352
+Got to give you a hand.
+
+296
+00:14:54,126 --> 00:14:55,362
+Speaking of hands...
+
+297
+00:14:56,792 --> 00:14:58,355
+why'd you cut Trevor's off?
+
+298
+00:14:58,696 --> 00:15:00,274
+Carve "PC" into his arm?
+
+299
+00:15:02,152 --> 00:15:03,618
+That's a nice touch, Zorro.
+
+300
+00:15:03,898 --> 00:15:06,705
+It's kind of like putting up a billboard
+that says, "don't mess with the PCs",
+
+301
+00:15:06,789 --> 00:15:08,033
+and Eddie Castillo...
+
+302
+00:15:08,633 --> 00:15:09,908
+he's not afraid of anyone,
+
+303
+00:15:10,034 --> 00:15:11,952
+- including the Marines.
+- I didn't do that.
+
+304
+00:15:12,676 --> 00:15:14,162
+You got an alibi for last night?
+
+305
+00:15:14,402 --> 00:15:16,052
+- "Lullaby."
+- Alibi.
+
+306
+00:15:16,332 --> 00:15:18,636
+It's an after-hours club
+for rich kids.
+
+307
+00:15:18,980 --> 00:15:20,961
+We handle the... refreshments there.
+
+308
+00:15:21,386 --> 00:15:22,170
+Really?
+
+309
+00:15:23,182 --> 00:15:25,507
+Well, we'll see about that.
+In the meantime,
+
+310
+00:15:26,194 --> 00:15:28,552
+I hope you like being swabbed,
+poked and pricked.
+
+311
+00:15:28,971 --> 00:15:29,688
+Why?
+
+312
+00:15:29,772 --> 00:15:31,740
+'Cause we're checking you
+for gunshot residue,
+
+313
+00:15:32,056 --> 00:15:33,765
+blood and dirt from the crime scene.
+
+314
+00:15:34,230 --> 00:15:35,874
+Anything I can think of.
+You know why?
+
+315
+00:15:35,958 --> 00:15:37,769
+'Cause you're messing
+with my holidays.
+
+316
+00:15:39,022 --> 00:15:41,488
+And I don't like it when people mess
+with my Thanksgiving.
+
+317
+00:15:42,510 --> 00:15:43,984
+You're going to want to see this.
+
+318
+00:15:45,103 --> 00:15:47,946
+According to security sensors,
+Lance Corporal Lozada
+
+319
+00:15:48,202 --> 00:15:50,159
+entered the dorm wing
+this morning at 6:00 a.m.
+
+320
+00:15:50,309 --> 00:15:51,904
+That is impossible.
+He was dead.
+
+321
+00:15:51,988 --> 00:15:52,951
+Exactly.
+
+322
+00:15:53,687 --> 00:15:56,496
+Dorm access requires
+a palm scan, Boss.
+
+323
+00:15:56,852 --> 00:15:59,723
+Well, that clears up one mystery.
+Someone needed his hand.
+
+324
+00:15:59,981 --> 00:16:01,712
+Yeah, but here's the strange part.
+
+325
+00:16:05,166 --> 00:16:06,521
+That's Angela's room.
+
+326
+00:16:07,316 --> 00:16:08,623
+They take anything?
+
+327
+00:16:09,828 --> 00:16:11,600
+Figure walked out less
+than a minute later.
+
+328
+00:16:11,684 --> 00:16:13,805
+All he or she was carrying
+was Lozada's hand.
+
+329
+00:16:13,931 --> 00:16:15,804
+All they did was
+visit Angela's room.
+
+330
+00:16:15,888 --> 00:16:17,678
+- Then they left.
+- Empty-handed.
+
+331
+00:16:26,986 --> 00:16:29,372
+Angela, you didn't see
+anybody in your room this morning?
+
+332
+00:16:29,705 --> 00:16:30,415
+{\pos(192,220)}No.
+
+333
+00:16:30,920 --> 00:16:32,157
+{\pos(192,220)} But I was asleep.
+
+334
+00:16:33,620 --> 00:16:34,749
+{\pos(192,220)}Nothing missing?
+
+335
+00:16:42,466 --> 00:16:43,877
+Two of my collages are gone.
+
+336
+00:16:48,536 --> 00:16:50,062
+Anything special about them?
+
+337
+00:16:52,127 --> 00:16:53,460
+Just collages.
+
+338
+00:16:53,880 --> 00:16:54,971
+Stuff, art.
+
+339
+00:17:01,105 --> 00:17:02,976
+Hey, would you mind
+if I borrowed this?
+
+340
+00:17:12,679 --> 00:17:15,825
+So, you know that your mom knows
+you're coming with us
+
+341
+00:17:16,776 --> 00:17:18,244
+and that you're safe, right?
+
+342
+00:17:21,265 --> 00:17:22,620
+Sure you didn't see anything?
+
+343
+00:17:23,652 --> 00:17:24,709
+Positive.
+
+344
+00:17:25,390 --> 00:17:26,906
+Okay.
+Let's go.
+
+345
+00:17:37,456 --> 00:17:39,099
+Hang on a minute.
+This is important.
+
+346
+00:17:39,456 --> 00:17:41,559
+It's my great aunt's cranberry
+sauce recipe. I lost it,
+
+347
+00:17:41,685 --> 00:17:44,104
+so I'm trying to duplicate it
+before Ducky's Thanksgiving dinner.
+
+348
+00:17:44,505 --> 00:17:46,481
+I don't want to let Ducky's turkey down,
+you know?
+
+349
+00:17:50,452 --> 00:17:51,215
+Today.
+
+350
+00:17:52,087 --> 00:17:54,916
+What can I do for you, Gibblet?
+It's kind of a seasonal play on your...
+
+351
+00:17:55,269 --> 00:17:57,260
+- I'm ready, Sir.
+- Turn this into pictures.
+
+352
+00:17:58,809 --> 00:18:00,755
+Thought you were going
+to give me something hard.
+
+353
+00:18:05,450 --> 00:18:07,222
+So what are you bringing
+to Ducky's dinner?
+
+354
+00:18:07,306 --> 00:18:09,421
+- Not sure I'm going.
+- What do you mean, {\you're }not going?
+
+355
+00:18:09,547 --> 00:18:12,215
+Who's going to carve the turkey?
+Who's going to watch the game with me?
+
+356
+00:18:12,616 --> 00:18:14,304
+Who's going to eat too much pie?
+
+357
+00:18:15,632 --> 00:18:16,553
+The photos.
+
+358
+00:18:18,836 --> 00:18:20,051
+What am I looking for?
+
+359
+00:18:20,916 --> 00:18:21,766
+Girl's room.
+
+360
+00:18:22,103 --> 00:18:23,313
+Panning shot.
+
+361
+00:18:26,733 --> 00:18:29,315
+She listens to "H Is Orange".
+What a cool little chick.
+
+362
+00:18:31,583 --> 00:18:33,113
+<i>This is how geeks recreate.</i>
+
+363
+00:18:33,197 --> 00:18:34,281
+<i>Exhibit A.</i>
+
+364
+00:18:34,889 --> 00:18:36,330
+She's so cute.
+
+365
+00:18:38,051 --> 00:18:39,284
+All right, stop it there.
+
+366
+00:18:46,187 --> 00:18:47,886
+Okay, blow up that one and that one.
+
+367
+00:18:49,273 --> 00:18:50,994
+Those are cool. What are they?
+
+368
+00:18:51,381 --> 00:18:53,912
+- That's what you're gonna tell me.
+- Well, what am I looking for?
+
+369
+00:18:54,592 --> 00:18:57,010
+I have...
+absolutely no idea.
+
+370
+00:18:57,511 --> 00:18:58,807
+So it is hard.
+
+371
+00:19:02,599 --> 00:19:03,559
+More sugar.
+
+372
+00:19:10,129 --> 00:19:12,264
+You know
+that little bakery near you?
+
+373
+00:19:12,433 --> 00:19:16,228
+I'd appreciate it if you could bring
+a dozen of their dinner rolls.
+
+374
+00:19:16,312 --> 00:19:18,907
+- Got a confirmation of death, Duck?
+- Gunshot wound to the head.
+
+375
+00:19:19,952 --> 00:19:23,815
+Well, what I presume is
+the kill shot entered his head here,
+
+376
+00:19:23,914 --> 00:19:26,239
+just behind his right ear,
+traveled in an upward direction.
+
+377
+00:19:26,323 --> 00:19:29,083
+I was just about to find out
+what damage it caused.
+
+378
+00:19:29,431 --> 00:19:31,085
+- Before he was posted?
+- Yes.
+
+379
+00:19:31,658 --> 00:19:35,369
+Clearly, the killer's intention was
+to leave some sort of macabre message.
+
+380
+00:19:35,981 --> 00:19:39,021
+Yeah, and not too shy about
+indicating who was sending it.
+
+381
+00:19:39,346 --> 00:19:40,755
+Easy autograph to forge.
+
+382
+00:19:43,530 --> 00:19:45,837
+I need a psych evaluation
+on a 12-year-old girl.
+
+383
+00:19:47,655 --> 00:19:49,066
+Where do you go, Jethro?
+
+384
+00:19:50,481 --> 00:19:51,194
+What?
+
+385
+00:19:51,278 --> 00:19:54,067
+Over the past nine Thanksgivings,
+I've called your house.
+
+386
+00:19:54,193 --> 00:19:55,355
+You're never home.
+
+387
+00:19:55,439 --> 00:19:57,278
+Sometimes I even drive by.
+
+388
+00:19:59,820 --> 00:20:03,108
+So, I shall expect you
+promptly 1600 hours.
+
+389
+00:20:03,882 --> 00:20:05,258
+That reminds me...
+
+390
+00:20:05,731 --> 00:20:07,872
+I mustn't go home without him.
+
+391
+00:20:08,140 --> 00:20:10,622
+Avoid sourdough rolls if you can.
+
+392
+00:20:10,804 --> 00:20:13,252
+Their flavor clashes
+with my salad dressing.
+
+393
+00:20:13,403 --> 00:20:15,232
+White bread is okay,
+
+394
+00:20:15,447 --> 00:20:17,882
+but whole wheat would be preferable.
+
+395
+00:20:24,028 --> 00:20:25,125
+Oh, dear.
+
+396
+00:20:28,082 --> 00:20:28,893
+Thanks.
+
+397
+00:20:29,019 --> 00:20:30,979
+Can I get you something to drink,
+Mrs. McKinna?
+
+398
+00:20:33,601 --> 00:20:36,818
+- You remembered, Agent Gibbs.
+- Well, you're memorable, D'Arcy.
+
+399
+00:20:37,693 --> 00:20:39,469
+Holiday plans, Mrs. McKinna?
+
+400
+00:20:40,157 --> 00:20:43,514
+I'm sending a shopping list
+to my husband, as we speak.
+
+401
+00:20:43,673 --> 00:20:46,157
+- Are you cooking for the family?
+- That's the plan.
+
+402
+00:20:49,857 --> 00:20:51,749
+Why do I need
+a Legal Youth Advocate here?
+
+403
+00:20:52,050 --> 00:20:53,667
+It's the law, sweetie.
+
+404
+00:20:57,868 --> 00:20:59,437
+So, have you ever killed anybody?
+
+405
+00:21:00,967 --> 00:21:01,736
+Me?
+
+406
+00:21:04,075 --> 00:21:04,845
+No.
+
+407
+00:21:07,252 --> 00:21:08,049
+David.
+
+408
+00:21:09,983 --> 00:21:12,312
+Okay, I will bring her up.
+
+409
+00:21:12,788 --> 00:21:13,688
+Mrs. McKinna?
+
+410
+00:21:14,046 --> 00:21:16,357
+You go on ahead, Ziva.
+I'll be right there.
+
+411
+00:21:17,199 --> 00:21:20,405
+I got all my bars,
+and I'm only up to celery stalks.
+
+412
+00:21:25,985 --> 00:21:27,420
+Ducky's waiting.
+
+413
+00:21:28,211 --> 00:21:29,286
+I'll take her up.
+
+414
+00:21:33,292 --> 00:21:35,593
+You take the stairs up,
+but the elevator down?
+
+415
+00:21:37,170 --> 00:21:37,929
+Knees.
+
+416
+00:21:51,748 --> 00:21:52,829
+Got my attention.
+
+417
+00:21:54,049 --> 00:21:56,439
+You think I'm hiding something.
+About Trevor.
+
+418
+00:21:57,258 --> 00:21:58,158
+Are you?
+
+419
+00:22:02,276 --> 00:22:03,112
+I told you.
+
+420
+00:22:03,996 --> 00:22:04,989
+You're safe here.
+
+421
+00:22:06,870 --> 00:22:08,693
+I know. That's not it.
+
+422
+00:22:11,112 --> 00:22:12,288
+I'm not in danger.
+
+423
+00:22:13,170 --> 00:22:13,972
+Who is?
+
+424
+00:22:19,861 --> 00:22:20,806
+Nobody.
+
+425
+00:22:29,707 --> 00:22:30,848
+Glad we talked.
+
+426
+00:22:36,177 --> 00:22:38,189
+Hello, I'm Dr. Mallard.
+
+427
+00:22:38,594 --> 00:22:39,400
+Please.
+
+428
+00:22:40,080 --> 00:22:42,986
+And if you wish,
+you can call me Ducky.
+
+429
+00:22:44,446 --> 00:22:45,446
+Hello, Ducky.
+
+430
+00:22:45,930 --> 00:22:48,157
+Dr. Mallard, you may proceed.
+
+431
+00:22:49,078 --> 00:22:50,618
+I'm here if you need me, Angela.
+
+432
+00:22:51,530 --> 00:22:52,669
+Well, now, Angela.
+
+433
+00:22:53,046 --> 00:22:54,633
+Is this a psych evaluation?
+
+434
+00:22:55,089 --> 00:22:58,155
+I know there are three types:
+general, emergency and clinical.
+
+435
+00:22:58,891 --> 00:23:00,169
+This feels clinical to me.
+
+436
+00:23:08,613 --> 00:23:10,964
+- I was just coming to see you.
+- You all right, Duck?
+
+437
+00:23:11,048 --> 00:23:13,224
+Yeah, well,
+she had me talking about my first pet.
+
+438
+00:23:14,011 --> 00:23:16,101
+It was a guinea pig
+called Hunka Munka.
+
+439
+00:23:16,229 --> 00:23:18,551
+Passed away,
+about the time I was her age.
+
+440
+00:23:18,744 --> 00:23:21,538
+Duck, you were supposed
+to find out about her past.
+
+441
+00:23:22,107 --> 00:23:23,901
+Yeah, all that went extremely well.
+
+442
+00:23:24,118 --> 00:23:24,871
+And?
+
+443
+00:23:25,607 --> 00:23:27,733
+Well,
+if she is suppressing memories,
+
+444
+00:23:27,817 --> 00:23:30,992
+she does a remarkably good job of it.
+I didn't get anywhere there.
+
+445
+00:23:31,329 --> 00:23:33,303
+But I can tell you that beneath
+
+446
+00:23:33,454 --> 00:23:36,884
+that precocious bravado
+there is a very sensitive little girl.
+
+447
+00:23:37,457 --> 00:23:40,642
+She may act twice her age
+but inside she's anything but.
+
+448
+00:23:41,093 --> 00:23:41,969
+Secrets?
+
+449
+00:23:42,053 --> 00:23:44,255
+Yeah, and when she's ready,
+she will reveal them.
+
+450
+00:23:44,381 --> 00:23:45,756
+But I wouldn't push her.
+
+451
+00:23:45,883 --> 00:23:48,217
+Jethro, when I did just now,
+she pushed right back.
+
+452
+00:23:49,579 --> 00:23:52,138
+Hey, Boss, here you go.
+Eddie Castillo's here again.
+
+453
+00:23:52,627 --> 00:23:54,545
+- Go talk to him.
+- Me?
+
+454
+00:23:54,893 --> 00:23:56,684
+Yeah, you got
+something better to do?
+
+455
+00:23:56,880 --> 00:23:59,520
+- Yeah, I got travel plans.
+- No, go, talk.
+
+456
+00:23:59,825 --> 00:24:00,686
+Right.
+
+457
+00:24:06,403 --> 00:24:08,069
+Hey, miss me, Eddie?
+
+458
+00:24:08,153 --> 00:24:10,573
+{\Look, }I've got something to say.
+It's about why I was calling Trevor.
+
+459
+00:24:11,093 --> 00:24:11,991
+I'm all ears.
+
+460
+00:24:16,137 --> 00:24:18,277
+I have a cousin.
+He's nine years old.
+
+461
+00:24:18,739 --> 00:24:20,632
+He's already getting
+into trouble and...
+
+462
+00:24:21,610 --> 00:24:25,046
+I wanted to have Trevor talk to him,
+about that Marines stuff...
+
+463
+00:24:25,172 --> 00:24:27,381
+Help straighten him out.
+Give him somebody to look up to.
+
+464
+00:24:28,371 --> 00:24:29,608
+Other than you?
+
+465
+00:24:30,492 --> 00:24:32,623
+- That warms my heart.
+- I'm serious, man.
+
+466
+00:24:33,495 --> 00:24:35,031
+I can't let my crew find out
+
+467
+00:24:35,115 --> 00:24:37,517
+that I'm trying to keep
+my own blood out of this life.
+
+468
+00:24:37,643 --> 00:24:39,769
+{\Yeah}It's all about honor
+and integrity with you, isn't it{\, Eddie}?
+
+469
+00:24:40,035 --> 00:24:42,772
+- You don't know anything about me, man!
+- I know plenty about you!
+
+470
+00:24:43,523 --> 00:24:46,314
+I know you're not angry at Lozada,
+you're jealous of him.
+
+471
+00:24:46,813 --> 00:24:49,572
+'Cause he had the brains and the guts
+to get out of the gang. And you didn't.
+
+472
+00:24:49,656 --> 00:24:51,572
+And he made something of himself,
+
+473
+00:24:51,698 --> 00:24:52,573
+you didn't.
+
+474
+00:24:53,027 --> 00:24:56,160
+Trevor got out 'cause he had a real job
+and he could take care of his family.
+
+475
+00:24:56,403 --> 00:24:57,578
+They were proud of him.{\, you know.}
+
+476
+00:24:57,975 --> 00:25:00,289
+He earned that.
+But I didn't kill him!
+
+477
+00:25:01,268 --> 00:25:03,179
+Look, he needed something from me,
+too, okay?
+
+478
+00:25:03,330 --> 00:25:04,588
+He needed some advice.
+
+479
+00:25:04,966 --> 00:25:06,706
+Something about some girl
+in trouble.
+
+480
+00:25:06,790 --> 00:25:10,424
+You're telling me that a decorated
+Marine calls you instead of the cops?
+
+481
+00:25:10,550 --> 00:25:13,062
+He said if he went to the cops,
+the girl's life would be in danger.
+
+482
+00:25:13,146 --> 00:25:14,137
+I don't know why.
+
+483
+00:25:15,458 --> 00:25:16,514
+Girl have a name?
+
+484
+00:25:17,082 --> 00:25:17,899
+Angela.
+
+485
+00:25:22,695 --> 00:25:23,572
+Sorry,
+
+486
+00:25:24,131 --> 00:25:28,023
+my cousin Tetra's lime Jello
+with yams, marshmallows and pecans.
+
+487
+00:25:28,344 --> 00:25:30,633
+Some family traditions
+should not be upheld.
+
+488
+00:25:30,717 --> 00:25:31,863
+That really, really,
+
+489
+00:25:32,134 --> 00:25:33,231
+really sucked.
+
+490
+00:25:36,957 --> 00:25:37,972
+In a jiffy, Gibbs.
+
+491
+00:25:38,056 --> 00:25:40,305
+Did you know that "jiffy" is
+one one-hundredth of a second?
+
+492
+00:25:40,389 --> 00:25:41,660
+{\I mean, }It's an actual thing.
+
+493
+00:25:41,744 --> 00:25:44,876
+Unlike say, lickety-split, which has
+no scientific meaning whatsoever.
+
+494
+00:25:45,512 --> 00:25:46,710
+{\All right, }We're almost there.
+
+495
+00:25:46,838 --> 00:25:48,838
+Get there, Abs, in a jiffy.
+
+496
+00:25:49,812 --> 00:25:50,798
+There, okay.
+
+497
+00:25:50,882 --> 00:25:54,187
+I applied a biometric algorithm
+recognition program so,
+
+498
+00:25:54,392 --> 00:25:56,345
+the seemingly random
+artistic patterns of her...
+
+499
+00:25:56,471 --> 00:25:58,556
+You don't really care
+how I got there.
+
+500
+00:25:58,816 --> 00:26:00,225
+Okay, let's talk turkey.
+
+501
+00:26:01,354 --> 00:26:02,310
+A code.
+
+502
+00:26:02,558 --> 00:26:03,728
+It's more than a code.
+
+503
+00:26:03,854 --> 00:26:06,393
+It's her own language.
+She used 26 shades of color
+
+504
+00:26:06,477 --> 00:26:08,733
+to correspond
+with the 26 letters of the alphabet.
+
+505
+00:26:08,994 --> 00:26:11,819
+Once I figured that out, I was able
+to translate her art into letters.
+
+506
+00:26:14,709 --> 00:26:15,418
+A poem?
+
+507
+00:26:16,143 --> 00:26:16,852
+Yeah.
+
+508
+00:26:17,161 --> 00:26:18,849
+And it's dark and...
+
+509
+00:26:19,387 --> 00:26:20,933
+creepy.
+Very detailed.
+
+510
+00:26:21,017 --> 00:26:23,053
+It's called,
+"The Lady In A Fountain".
+
+511
+00:26:23,247 --> 00:26:24,248
+It's about death.
+
+512
+00:26:25,424 --> 00:26:26,792
+- It's a poem.
+- Can you just
+
+513
+00:26:27,015 --> 00:26:28,920
+ask me about the second collage?
+Please, please.
+
+514
+00:26:35,184 --> 00:26:36,644
+Abby, what am I looking at here?
+
+515
+00:26:36,728 --> 00:26:38,930
+It's a frequency-jamming signal,
+Gibbs.
+
+516
+00:26:39,324 --> 00:26:40,479
+Frequency?
+
+517
+00:26:41,184 --> 00:26:42,055
+For what?
+
+518
+00:26:42,303 --> 00:26:44,366
+It's every communication code
+
+519
+00:26:44,450 --> 00:26:47,647
+for every ship, plane and helicopter
+in the United States Navy
+
+520
+00:26:47,773 --> 00:26:48,949
+and Marine Corps.
+
+521
+00:26:49,587 --> 00:26:53,567
+I don't know why she was hiding military
+secrets in her collages, unless...
+
+522
+00:26:54,084 --> 00:26:56,155
+I don't know,
+she was gonna sell them?
+
+523
+00:26:56,397 --> 00:26:57,870
+Or someone else was for her.
+
+524
+00:26:59,225 --> 00:27:00,794
+Bank records for Angela's mother.
+
+525
+00:27:05,326 --> 00:27:07,235
+Angela's mom has called 13 times.
+
+526
+00:27:07,319 --> 00:27:09,355
+- She wants to see her daughter.
+- Yeah, she will.
+
+527
+00:27:09,439 --> 00:27:10,531
+What'd you find?
+
+528
+00:27:10,937 --> 00:27:14,864
+Angela's mom's average income
+for the past 16 years is $43,000.
+
+529
+00:27:15,316 --> 00:27:16,509
+Okay, more recently.
+
+530
+00:27:16,950 --> 00:27:20,263
+Over the last three months, her mother's
+made three additional deposits
+
+531
+00:27:20,389 --> 00:27:21,676
+totaling 60 grand.
+
+532
+00:27:22,106 --> 00:27:24,060
+So, either her mother's playing
+the ponies...
+
+533
+00:27:24,144 --> 00:27:26,102
+Or she's taking advantage
+of her little girl.
+
+534
+00:27:42,574 --> 00:27:44,601
+It's like those magic eye posters,
+
+535
+00:27:45,504 --> 00:27:47,957
+where you stare
+at them and then, suddenly,
+
+536
+00:27:48,471 --> 00:27:49,750
+you see that hidden image.
+
+537
+00:27:50,579 --> 00:27:52,292
+Tony, Abby already un-hid it.
+
+538
+00:27:52,495 --> 00:27:54,547
+It's frequency-jamming signals.
+
+539
+00:27:54,679 --> 00:27:55,679
+No, maybe if I...
+
+540
+00:27:56,384 --> 00:27:57,953
+{\pos(192,220)}Maybe if I try to unfocus...
+
+541
+00:27:58,233 --> 00:27:59,260
+{\pos(192,220)}Focus, DiNozzo.
+
+542
+00:27:59,921 --> 00:28:01,125
+{\pos(192,220)}That's it, Boss.
+
+543
+00:28:01,889 --> 00:28:04,098
+{\pos(192,220)}Out of focus.
+It's dolphins!
+
+544
+00:28:04,544 --> 00:28:05,433
+{\pos(192,220)}In moonlight!
+
+545
+00:28:06,538 --> 00:28:08,371
+- Thank you, Boss.
+- Anytime.
+
+546
+00:28:11,452 --> 00:28:12,302
+Anytime.
+
+547
+00:28:14,078 --> 00:28:16,194
+Boss,
+the... frequency-jamming signals
+
+548
+00:28:16,278 --> 00:28:19,030
+Abby pulled out of Angela's collages
+are linked to a naval/marine
+
+549
+00:28:19,157 --> 00:28:21,115
+maneuver called ballistic winter.
+
+550
+00:28:21,820 --> 00:28:24,660
+Copies of these jamming signals
+appeared on the black market
+
+551
+00:28:24,786 --> 00:28:27,407
+three months ago in China.
+It's an open NCIS investigation.
+
+552
+00:28:27,491 --> 00:28:30,476
+There is no way
+that girl stole state secrets.
+
+553
+00:28:30,560 --> 00:28:31,625
+She is a child.
+
+554
+00:28:31,874 --> 00:28:33,716
+You've clearly never seen
+<i>The Bad Seed</i>.
+
+555
+00:28:33,800 --> 00:28:35,060
+Interpol have suspects?
+
+556
+00:28:35,221 --> 00:28:36,047
+Just one.
+
+557
+00:28:38,071 --> 00:28:39,423
+Just follow along here, Boss.
+
+558
+00:28:39,507 --> 00:28:41,635
+C-Ten Dynamics
+is a U.S. defense firm
+
+559
+00:28:41,761 --> 00:28:43,307
+that does R&D in...
+
+560
+00:28:43,726 --> 00:28:45,514
+conjunction
+with the Sattler Institute.
+
+561
+00:28:47,222 --> 00:28:49,602
+C-Ten's sales rep is a woman
+named Debra Leigh Dalton.
+
+562
+00:28:50,174 --> 00:28:53,189
+Dalton. Same last name as our think
+tank coordinator, Krista Dalton.
+
+563
+00:28:53,898 --> 00:28:55,316
+- Sisters?
+- Affirmative.
+
+564
+00:28:55,442 --> 00:28:57,234
+Debra is Krista's younger sister.
+
+565
+00:28:57,454 --> 00:28:59,820
+Maybe that was Debra
+sneaking into Angela's room?
+
+566
+00:29:00,189 --> 00:29:01,995
+I want to talk to Debra Dalton.
+
+567
+00:29:02,587 --> 00:29:04,575
+Boss, that's gonna be
+a bit of a problem.
+
+568
+00:29:04,845 --> 00:29:06,744
+Miss Dalton flew into DC
+
+569
+00:29:06,870 --> 00:29:09,909
+five days ago
+but never got to her house.
+
+570
+00:29:10,123 --> 00:29:13,351
+And there's no record of any credit card
+or cell activity since she arrived.
+
+571
+00:29:13,706 --> 00:29:15,545
+A mom, a daughter and two sisters...
+
+572
+00:29:15,727 --> 00:29:17,254
+trading Government secrets.
+
+573
+00:29:17,672 --> 00:29:19,840
+It's like <i>Hannah and her Sisters</i>
+meets <i>The 39 Steps</i>.
+
+574
+00:29:20,842 --> 00:29:23,010
+- Sorry.
+- Get Krista Dalton in here.
+
+575
+00:29:23,821 --> 00:29:25,369
+Put Angela in a safe house.
+
+576
+00:29:26,186 --> 00:29:28,682
+Safe houses have been compromised...
+a computer glitch.
+
+577
+00:29:28,809 --> 00:29:30,630
+Should be cleared by tomorrow.
+Motel?
+
+578
+00:29:30,714 --> 00:29:32,728
+Good luck finding one
+right before Thanksgiving.
+
+579
+00:29:34,209 --> 00:29:35,620
+Ducky has an extra room.
+
+580
+00:29:37,889 --> 00:29:40,170
+You know, Boss, we've all got plans
+
+581
+00:29:40,254 --> 00:29:42,334
+- this holiday season and...
+- Cancel them.
+
+582
+00:29:50,931 --> 00:29:51,981
+Play again?
+
+583
+00:29:58,714 --> 00:30:00,339
+This kid's a ringer.
+Watch her.
+
+584
+00:30:00,465 --> 00:30:01,667
+I know that, Ray.
+
+585
+00:30:02,385 --> 00:30:03,426
+That's my money.
+
+586
+00:30:13,220 --> 00:30:14,499
+So, what's the buy-in?
+
+587
+00:30:15,047 --> 00:30:15,951
+For you?
+
+588
+00:30:17,546 --> 00:30:18,607
+Two bucks.
+
+589
+00:30:20,407 --> 00:30:22,570
+How about we play
+for different stakes?
+
+590
+00:30:22,880 --> 00:30:24,202
+What do you have in mind?
+
+591
+00:30:25,482 --> 00:30:27,658
+I win, you tell me the truth.
+
+592
+00:30:29,181 --> 00:30:30,504
+About Lozada,
+
+593
+00:30:31,515 --> 00:30:32,934
+military secrets,
+
+594
+00:30:33,999 --> 00:30:34,999
+everything.
+
+595
+00:30:38,873 --> 00:30:41,338
+Found the jamming signals
+that were hidden in your artwork.
+
+596
+00:30:43,348 --> 00:30:44,592
+I wasn't hiding anything.
+
+597
+00:30:45,206 --> 00:30:46,926
+It's just how my mind works.
+
+598
+00:30:47,902 --> 00:30:49,770
+It's how I work out puzzles
+they give me.
+
+599
+00:30:50,017 --> 00:30:51,922
+I do it through art, images.
+
+600
+00:30:52,157 --> 00:30:54,387
+Numbers, letters, colors and shapes.
+
+601
+00:30:57,522 --> 00:30:58,684
+You build things.
+
+602
+00:31:01,071 --> 00:31:02,603
+Woodwork, right?
+
+603
+00:31:03,474 --> 00:31:05,112
+My father made cabinets.
+
+604
+00:31:07,350 --> 00:31:09,533
+Didn't you ever express yourself
+in the things you made?
+
+605
+00:31:12,533 --> 00:31:14,597
+How many people
+at the institute know
+
+606
+00:31:15,178 --> 00:31:16,624
+what was in your artwork?
+
+607
+00:31:18,042 --> 00:31:19,210
+I'm not sure.
+
+608
+00:31:19,949 --> 00:31:21,277
+Safe house is ready.
+
+609
+00:31:30,413 --> 00:31:32,312
+What is going on here, Agent Gibbs?
+
+610
+00:31:32,396 --> 00:31:34,278
+Why is NCIS holding my daughter?
+
+611
+00:31:35,144 --> 00:31:37,155
+You've been getting
+a lot of money lately.
+
+612
+00:31:39,116 --> 00:31:41,857
+No, that is Angela's money.
+
+613
+00:31:42,427 --> 00:31:44,266
+I never wanted her to go there.
+
+614
+00:31:44,653 --> 00:31:46,771
+What mother wants
+to be without her child?
+
+615
+00:31:46,965 --> 00:31:49,842
+But Angela thought
+that it would be good for her.
+
+616
+00:31:50,242 --> 00:31:51,863
+She wanted to fit in somewhere.
+
+617
+00:31:52,051 --> 00:31:54,995
+You really thought she was getting
+paid all that just to play video games?
+
+618
+00:31:55,857 --> 00:31:58,999
+We were told Angela's work
+saved soldiers' lives.
+
+619
+00:31:59,692 --> 00:32:02,169
+The money didn't matter.
+She felt good about helping.
+
+620
+00:32:02,295 --> 00:32:05,256
+It all goes to her college fund.
+What are you suggesting?
+
+621
+00:32:05,491 --> 00:32:07,091
+How'd the dollars get to you?
+
+622
+00:32:09,991 --> 00:32:12,905
+The larger amounts came
+from this company,
+
+623
+00:32:13,572 --> 00:32:15,195
+C-Ten Dynamics.
+
+624
+00:32:15,464 --> 00:32:17,851
+I assumed they were projects
+Angela worked on.
+
+625
+00:32:23,378 --> 00:32:25,936
+Payments were approved
+by Debra Dalton.
+
+626
+00:32:26,517 --> 00:32:27,403
+You know her?
+
+627
+00:32:27,850 --> 00:32:30,173
+No, I only ever talked
+to Krista Dalton.
+
+628
+00:32:30,489 --> 00:32:31,991
+The checks come in the mail.
+
+629
+00:32:35,046 --> 00:32:36,036
+Yeah. Gibbs.
+
+630
+00:32:38,672 --> 00:32:39,414
+Where?
+
+631
+00:32:40,617 --> 00:32:41,537
+All right.
+
+632
+00:32:44,450 --> 00:32:46,622
+Wait, when can I see my daughter?
+
+633
+00:32:48,211 --> 00:32:48,924
+Soon.
+
+634
+00:32:52,767 --> 00:32:55,948
+A maintenance worker
+from the {\Sattler }Institute found the body.
+
+635
+00:32:56,399 --> 00:32:58,393
+That'll spoil your Thanksgiving.
+
+636
+00:33:00,356 --> 00:33:01,711
+Debra Dalton, Boss.
+
+637
+00:33:02,660 --> 00:33:04,148
+Fished her out of the culvert.
+
+638
+00:33:04,585 --> 00:33:08,004
+Whoever put her down there must've
+thought that the body would wash away.
+
+639
+00:33:08,303 --> 00:33:10,487
+It's a pretty public place
+for a murder. I mean,
+
+640
+00:33:11,144 --> 00:33:13,066
+employees, security guards...
+
+641
+00:33:13,851 --> 00:33:14,631
+Dorms.
+
+642
+00:33:16,123 --> 00:33:17,467
+Angela's room.
+
+643
+00:33:20,402 --> 00:33:21,771
+"Lady In A Fountain."
+
+644
+00:33:28,299 --> 00:33:30,633
+- Can I help?
+- I don't think so. Thank you.
+
+645
+00:33:30,864 --> 00:33:32,396
+Can I watch TV?
+
+646
+00:33:32,713 --> 00:33:34,511
+It's on the blink, I'm afraid.
+
+647
+00:33:35,386 --> 00:33:36,334
+Computer?
+
+648
+00:33:36,990 --> 00:33:39,350
+That's my laptop,
+and it's in my car.
+
+649
+00:33:40,814 --> 00:33:41,523
+Books?
+
+650
+00:33:42,103 --> 00:33:43,539
+Yes.
+The library.
+
+651
+00:33:43,809 --> 00:33:45,872
+Second door on the left.
+
+652
+00:33:49,001 --> 00:33:50,110
+Just a moment, Ziva.
+
+653
+00:33:50,506 --> 00:33:52,374
+We have to start the brining.
+
+654
+00:33:52,458 --> 00:33:54,087
+- Okay, but I have to...
+- No, no.
+
+655
+00:33:54,171 --> 00:33:55,487
+It'll only take a moment.
+
+656
+00:33:56,552 --> 00:33:57,913
+There we are.
+Now, then.
+
+657
+00:33:58,333 --> 00:34:01,288
+You know the secret to a good stuffing
+is not to get it too moist.
+
+658
+00:34:02,972 --> 00:34:04,249
+This is a bit awkward.
+
+659
+00:34:04,333 --> 00:34:06,703
+You know something?
+I think we need a second pair of hands.
+
+660
+00:34:07,023 --> 00:34:08,238
+Young lady?
+
+661
+00:34:25,350 --> 00:34:26,914
+Angela, where are you?
+
+662
+00:34:30,067 --> 00:34:32,583
+She isn't in the library
+and she didn't go out back.
+
+663
+00:34:39,604 --> 00:34:41,109
+Have you found her?
+
+664
+00:34:41,593 --> 00:34:43,088
+She's gone. Call Gibbs.
+
+665
+00:34:54,065 --> 00:34:56,827
+{\pos(192,220)}- Agents are canvassing the neighbors.
+- Amber alert. Bolos?
+
+666
+00:34:56,989 --> 00:34:59,140
+{\pos(192,220)}- No hits yet.
+- Traffic cameras.
+
+667
+00:34:59,224 --> 00:35:01,807
+{\pos(192,220)}D.O.T's are on full capacity
+for the holidays, but checking.
+
+668
+00:35:04,119 --> 00:35:05,673
+I looked everywhere.
+Nothing.
+
+669
+00:35:05,867 --> 00:35:07,561
+Nothing?
+You didn't hear anything?
+
+670
+00:35:07,991 --> 00:35:09,559
+Not car tires? Not voices?
+
+671
+00:35:09,643 --> 00:35:11,483
+Nothing. By the time I came{\ outside},
+she was gone.
+
+672
+00:35:11,609 --> 00:35:12,942
+It was all my fault.
+
+673
+00:35:13,293 --> 00:35:16,098
+- I was too busy preparing for tomorrow.
+- No, it was my fault.
+
+674
+00:35:16,365 --> 00:35:17,951
+I distracted you
+from doing your job.
+
+675
+00:35:18,035 --> 00:35:20,325
+It's both of your faults.
+Focus on fixing it.
+
+676
+00:35:20,934 --> 00:35:21,966
+Yeah. McGee.
+
+677
+00:35:22,504 --> 00:35:24,955
+I'll tell him.
+Krista Dalton's in interrogation.
+
+678
+00:35:25,081 --> 00:35:26,749
+You stay with Ducky.
+You two, with me.{\Come on.}
+
+679
+00:35:29,392 --> 00:35:31,044
+Are you accusing me of taking her?
+
+680
+00:35:32,137 --> 00:35:34,631
+The care and safety of those kids
+is my only concern.
+
+681
+00:35:36,381 --> 00:35:37,551
+I can see why.
+
+682
+00:35:38,371 --> 00:35:39,618
+Worth a lot to you.
+
+683
+00:35:40,123 --> 00:35:42,765
+We did some digging,
+and we found your overseas accounts.
+
+684
+00:35:43,231 --> 00:35:45,100
+It's... it's not what you think.
+
+685
+00:35:45,617 --> 00:35:46,684
+What am I thinking?
+
+686
+00:35:47,621 --> 00:35:48,937
+Because it sure looks
+
+687
+00:35:49,159 --> 00:35:52,417
+like you made money selling
+government secrets, using these kids.
+
+688
+00:35:53,291 --> 00:35:54,691
+- They're games.
+- Games?
+
+689
+00:35:54,775 --> 00:35:57,100
+We sold battle scenarios
+to game designers.
+
+690
+00:35:57,184 --> 00:35:58,234
+In China.
+
+691
+00:35:58,907 --> 00:35:59,919
+They paid a lot.
+
+692
+00:36:00,157 --> 00:36:01,700
+- You and your sister Debra.
+- Yes.
+
+693
+00:36:01,826 --> 00:36:04,661
+Debra made contacts through her trips
+to Asia for her firm.
+
+694
+00:36:04,836 --> 00:36:06,520
+C-Ten Dynamics.
+
+695
+00:36:06,604 --> 00:36:07,915
+We took some of the money...
+
+696
+00:36:08,041 --> 00:36:10,335
+Debra and I...
+The rest we gave to the families.
+
+697
+00:36:10,585 --> 00:36:13,128
+Sattler made a ton off those kids,
+never give anything back.
+
+698
+00:36:13,732 --> 00:36:17,031
+- It was old information. Useless!
+- Frequency jamming signals?
+
+699
+00:36:17,115 --> 00:36:19,300
+For "ballistic winter",
+that system was being phased out.
+
+700
+00:36:19,428 --> 00:36:20,635
+It's still classified.
+
+701
+00:36:20,852 --> 00:36:22,930
+- Technically, but...
+- Which makes it technically
+
+702
+00:36:23,325 --> 00:36:24,271
+treason.
+
+703
+00:36:27,612 --> 00:36:29,791
+Someone murdered
+Lance Corporal Lozada,
+
+704
+00:36:29,875 --> 00:36:32,481
+and you're talking to me
+about game sales?
+
+705
+00:36:32,697 --> 00:36:34,650
+I had nothing to do with his death!
+
+706
+00:36:40,319 --> 00:36:41,198
+Oh, my god.
+
+707
+00:36:43,255 --> 00:36:44,233
+That's...
+
+708
+00:36:45,771 --> 00:36:46,745
+that's Debra.
+
+709
+00:36:48,873 --> 00:36:49,977
+How did this...
+
+710
+00:36:50,934 --> 00:36:52,246
+When did this happen?
+
+711
+00:36:53,194 --> 00:36:54,494
+Found her today.
+
+712
+00:36:55,009 --> 00:36:56,004
+Your day off.
+
+713
+00:36:57,001 --> 00:36:58,301
+Two dead bodies.
+
+714
+00:36:58,625 --> 00:37:00,591
+Both tied to you and the Institute.
+
+715
+00:37:02,304 --> 00:37:03,404
+You think...
+
+716
+00:37:04,888 --> 00:37:06,431
+I killed my own sister?
+
+717
+00:37:07,308 --> 00:37:09,518
+Maybe to bury the trail.
+Maybe to keep the money.
+
+718
+00:37:10,515 --> 00:37:13,080
+Oh, my god.
+Angela is missing.
+
+719
+00:37:13,726 --> 00:37:16,275
+What does this dead marine and
+your dead sister have to do with her?
+
+720
+00:37:17,032 --> 00:37:18,510
+- I don't know.
+- Think!
+
+721
+00:37:18,594 --> 00:37:19,486
+I swear! I...
+
+722
+00:37:21,698 --> 00:37:24,700
+Debra was seeing someone.
+She was afraid of him.
+
+723
+00:37:24,826 --> 00:37:26,826
+- She {\was going}wanted to break it off...
+- {\Who? }Give me a name.
+
+724
+00:37:26,954 --> 00:37:29,200
+She never told me.
+She didn't want me involved.
+
+725
+00:37:29,373 --> 00:37:30,372
+You are involved!
+
+726
+00:37:38,973 --> 00:37:40,303
+No sightings, Boss.
+
+727
+00:37:40,387 --> 00:37:42,283
+Whoever's got her is keeping her
+out of sight.
+
+728
+00:37:42,367 --> 00:37:44,303
+If anyone has seen her.
+
+729
+00:37:44,677 --> 00:37:46,179
+I just borrowed these from Abby.
+
+730
+00:37:46,439 --> 00:37:48,682
+- I'm listening, Duck.
+- Well, apart from the cat...
+
+731
+00:37:48,808 --> 00:37:51,476
+everything in her room is
+from the outside world:
+
+732
+00:37:51,859 --> 00:37:53,979
+The posters she's chosen,
+the photographs,
+
+733
+00:37:54,590 --> 00:37:57,065
+the things she painted,
+the things she's drawn.
+
+734
+00:37:57,191 --> 00:37:58,731
+Yeah, there's nothing of herself.
+
+735
+00:37:58,815 --> 00:38:01,409
+It's as if she's resisting showing
+the rest of the world
+
+736
+00:38:01,493 --> 00:38:04,077
+what she really cares about.
+And when we talked,
+
+737
+00:38:04,393 --> 00:38:06,658
+she never once mentioned her home
+
+738
+00:38:06,974 --> 00:38:08,660
+or the town from whence she came.
+
+739
+00:38:08,786 --> 00:38:09,915
+She was guarding it.
+
+740
+00:38:10,246 --> 00:38:13,120
+Well, deep down I think
+she's just a scared little girl
+
+741
+00:38:13,204 --> 00:38:14,595
+trying to protect her mother.
+
+742
+00:38:15,326 --> 00:38:18,224
+I've been calling her mother's house
+every ten minutes, like you said, but
+
+743
+00:38:18,343 --> 00:38:20,672
+- no answer.
+- I just got a credit card hit.
+
+744
+00:38:21,589 --> 00:38:23,135
+One of Ducky's credit cards.
+
+745
+00:38:23,219 --> 00:38:25,049
+What?
+She took one of mine?
+
+746
+00:38:25,533 --> 00:38:26,716
+Clever girl.
+
+747
+00:38:27,049 --> 00:38:29,888
+Just bought a map of her hometown
+at a service station.
+
+748
+00:38:29,972 --> 00:38:32,351
+- She's dropping bread crumbs.
+- Wants us to come get her.
+
+749
+00:38:32,597 --> 00:38:34,895
+If the killer is thinking
+the same way we are...
+
+750
+00:38:35,021 --> 00:38:36,897
+He'll be waiting for her.
+Let's go.
+
+751
+00:38:39,908 --> 00:38:41,442
+Nice acceleration, Boss.
+
+752
+00:38:42,696 --> 00:38:45,293
+I don't think
+that clam chowder was any good.
+
+753
+00:38:46,218 --> 00:38:47,691
+I haven't felt this way since...
+
+754
+00:38:47,928 --> 00:38:50,455
+Aunt Lorraine's Thanksgiving,
+back in '86.
+
+755
+00:38:51,141 --> 00:38:52,329
+- Yeah, Abs.
+<i>- Gibbs.</i>
+
+756
+00:38:52,455 --> 00:38:54,480
+Ducky said you were looking for
+a connection between
+
+757
+00:38:54,564 --> 00:38:56,667
+{\Lance }Corporal Lozada
+and the woman found in the culvert.
+
+758
+00:38:56,932 --> 00:38:59,002
+Talk faster, Abs.
+You're breaking up.
+
+759
+00:38:59,501 --> 00:39:02,130
+<i>I found traces of beeswax
+and bleached linseed oil</i>
+
+760
+00:39:02,256 --> 00:39:03,854
+on both Lance Corporal Lozada's body
+
+761
+00:39:03,938 --> 00:39:06,218
+and on a thumb impression
+on the back of Debra Dalton's head.
+
+762
+00:39:06,344 --> 00:39:08,261
+It's like she was held down
+and drowned.
+
+763
+00:39:08,541 --> 00:39:10,847
+<i>We matched the water
+in her lungs to the fountain in front of</i>
+
+764
+00:39:10,973 --> 00:39:13,600
+the think tank building.
+Exact Chlorine and Alkali levels.
+
+765
+00:39:13,785 --> 00:39:16,819
+Both the oil and the wax are used
+as base ingredients in oil-based paints.
+
+766
+00:39:16,903 --> 00:39:17,854
+<i>Thanks, Abs.</i>
+
+767
+00:39:21,562 --> 00:39:24,143
+Nausea sort of comes in waves, Boss.
+But I'm working through it.
+
+768
+00:39:24,227 --> 00:39:26,429
+The paintings at Norvell's workstation
+at the Institute.
+
+769
+00:39:26,513 --> 00:39:28,425
+- They oil or water-based?
+- Oil.
+
+770
+00:39:29,103 --> 00:39:30,574
+Landscape, fruit bowls...
+
+771
+00:39:30,866 --> 00:39:32,890
+I really shouldn't have had
+that clam chowder.
+
+772
+00:39:43,322 --> 00:39:44,798
+- I'll take the back.
+- Hang on.
+
+773
+00:39:53,907 --> 00:39:55,017
+Baby, run.
+
+774
+00:39:56,315 --> 00:39:57,756
+Run, please.
+
+775
+00:39:59,326 --> 00:40:00,851
+It's going to be okay, mom.
+
+776
+00:40:01,378 --> 00:40:03,066
+Why are you doing this to us?!
+
+777
+00:40:03,647 --> 00:40:04,767
+Tell her, Angela.
+
+778
+00:40:05,399 --> 00:40:07,571
+Tell her what you told
+Lance Corporal Lozada.
+
+779
+00:40:08,172 --> 00:40:09,759
+What you wrote in your collages!
+
+780
+00:40:09,949 --> 00:40:11,783
+Angela, go, please.
+Just let her go! Shut up!
+
+781
+00:40:11,910 --> 00:40:13,326
+Why'd you kill that woman?
+
+782
+00:40:14,892 --> 00:40:16,305
+She humiliated me.
+
+783
+00:40:18,193 --> 00:40:19,489
+It had to be done.
+
+784
+00:40:20,644 --> 00:40:23,086
+Same thing with Lozada...
+once you told him.
+
+785
+00:40:24,380 --> 00:40:26,698
+I think they bought
+the whole gang retribution thing.
+
+786
+00:40:26,782 --> 00:40:27,819
+Don't you?
+
+787
+00:40:29,968 --> 00:40:31,420
+Time to take a little ride.
+
+788
+00:40:31,839 --> 00:40:32,679
+Let's go.
+
+789
+00:40:35,130 --> 00:40:36,050
+Move!
+
+790
+00:40:40,632 --> 00:40:41,480
+Let her go.
+
+791
+00:40:45,567 --> 00:40:46,401
+Back off!
+
+792
+00:40:48,999 --> 00:40:50,010
+I'll kill her!
+
+793
+00:40:59,373 --> 00:41:00,332
+Look at me.
+
+794
+00:41:00,877 --> 00:41:02,584
+Move back! Now!
+
+795
+00:41:05,103 --> 00:41:05,837
+Got it.
+
+796
+00:41:06,896 --> 00:41:08,090
+She'll miss.
+
+797
+00:41:10,445 --> 00:41:12,052
+What's the probability of that?
+
+798
+00:41:14,513 --> 00:41:16,181
+Based on the temperature
+and humidity.
+
+799
+00:41:17,255 --> 00:41:19,223
+No wind.
+Half moon, good light.
+
+800
+00:41:20,298 --> 00:41:21,812
+97.6 %.
+
+801
+00:41:24,228 --> 00:41:25,481
+Last chance, Norvell.
+
+802
+00:41:26,142 --> 00:41:27,317
+Move or I'll do it!!
+
+803
+00:41:28,099 --> 00:41:28,851
+Take it.
+
+804
+00:41:32,217 --> 00:41:33,779
+- Mom...
+- Oh, baby.
+
+805
+00:41:37,994 --> 00:41:38,787
+Love you.
+
+806
+00:41:49,361 --> 00:41:52,877
+It is such a pleasure
+to have you all here.
+
+807
+00:41:53,217 --> 00:41:54,372
+Even though
+
+808
+00:41:54,587 --> 00:41:57,296
+our togetherness
+was not your first choice.
+
+809
+00:41:58,333 --> 00:41:59,516
+It's just Indian poker,
+
+810
+00:42:00,129 --> 00:42:01,393
+all-you-can-eat crab legs,
+
+811
+00:42:01,879 --> 00:42:03,395
+- showgirls.
+- Relax, Tony.
+
+812
+00:42:04,278 --> 00:42:06,171
+- Plenty of wine.
+- Well, then...
+
+813
+00:42:07,775 --> 00:42:09,609
+I suppose it's time to carve.
+
+814
+00:42:10,251 --> 00:42:12,251
+And, apparently, we have a quorum.
+
+815
+00:42:22,122 --> 00:42:24,444
+You remembered the rolls!
+
+816
+00:42:24,874 --> 00:42:26,710
+There's not a lot
+available out there, Duck.
+
+817
+00:42:31,165 --> 00:42:33,550
+A superb selection.
+
+818
+00:42:34,844 --> 00:42:35,925
+A toast.
+
+819
+00:42:36,647 --> 00:42:38,889
+Close friends and dear family all.
+
+820
+00:42:39,206 --> 00:42:40,699
+A bountiful thanks
+
+821
+00:42:40,850 --> 00:42:42,559
+and good things for fall.
+
+822
+00:42:43,560 --> 00:42:44,769
+And to all a good night!
+
+823
+00:42:47,506 --> 00:42:48,661
+Wrong holiday.
+
+824
+00:42:50,272 --> 00:42:52,110
+- Cheers.
+- To all of us! Happy Thanksgiving.
+
+825
+00:42:52,249 --> 00:42:53,874
+- Cheers!
+- Jolly good!
+
+826
+00:42:54,949 --> 00:42:56,616
+www.Team-NCIS.com
+

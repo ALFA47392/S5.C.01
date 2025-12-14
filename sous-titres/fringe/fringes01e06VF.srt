@@ -1,0 +1,3533 @@
+1
+00:01:16,744 --> 00:01:18,181
+Vous désirez le menu ?
+
+2
+00:01:23,452 --> 00:01:24,613
+Vous allez bien ?
+
+3
+00:01:25,688 --> 00:01:28,883
+Vous voulez quelque chose à manger ?
+On a une bonne soupe de légumes.
+
+4
+00:01:34,529 --> 00:01:36,331
+- Donne-moi une soupe !
+- À l'oignon ?
+
+5
+00:01:36,431 --> 00:01:38,495
+Non, aux légumes,
+personne n'aime celle à l'oignon.
+
+6
+00:01:38,595 --> 00:01:41,233
+- Et appelle Marty s'il te plaît.
+- Pourquoi ?
+
+7
+00:01:41,815 --> 00:01:45,650
+Une femme qui semble avoir
+des problèmes. Elle a besoin d'aide.
+
+8
+00:01:54,889 --> 00:01:55,977
+Et voilà.
+
+9
+00:01:57,239 --> 00:01:58,023
+Merci.
+
+10
+00:02:13,338 --> 00:02:15,642
+J'adorais ces crackers
+quand j'étais enfant.
+
+11
+00:02:15,918 --> 00:02:19,701
+Ça énervait toujours ma mère car
+au restaurant j'en mangeais 3 paquets
+
+12
+00:02:20,122 --> 00:02:23,046
+avant que le repas soit servi
+et après je n'avais plus faim.
+
+13
+00:02:24,987 --> 00:02:26,627
+Qu'est-ce qu'il vous est arrivé ?
+
+14
+00:02:30,450 --> 00:02:32,583
+Bien que ce ne soit pas mes affaires.
+
+15
+00:02:33,320 --> 00:02:35,537
+Je vous laisse seule si vous voulez.
+
+16
+00:02:35,637 --> 00:02:37,059
+J'essaie de me rappeler.
+
+17
+00:02:42,160 --> 00:02:43,596
+J'étais au Thurber.
+
+18
+00:02:50,017 --> 00:02:51,482
+Je vais prendre un soda.
+
+19
+00:02:59,637 --> 00:03:00,856
+Vous allez bien ?
+
+20
+00:03:03,508 --> 00:03:04,756
+Vous êtes d'ici ?
+
+21
+00:03:08,013 --> 00:03:09,653
+Moi oui, je vis dans le coin.
+
+22
+00:03:11,347 --> 00:03:12,647
+Je vous ai jamais vu.
+
+23
+00:03:18,203 --> 00:03:20,641
+Je sais que je suis née à Boston.
+
+24
+00:03:22,752 --> 00:03:24,112
+Vous êtes née là-bas ?
+
+25
+00:03:26,231 --> 00:03:28,521
+Et maintenant, vous vivez où ?
+
+26
+00:03:29,031 --> 00:03:30,337
+Où habitez-vous ?
+
+27
+00:03:31,970 --> 00:03:33,334
+Je me rappelle pas.
+
+28
+00:03:34,320 --> 00:03:35,075
+Ils...
+
+29
+00:03:36,900 --> 00:03:38,336
+ils m'ont fait des choses.
+
+30
+00:03:40,582 --> 00:03:41,641
+Qui "ils" ?
+
+31
+00:03:43,399 --> 00:03:44,298
+Je...
+
+32
+00:03:47,550 --> 00:03:49,422
+je ne sais pas. Ils...
+
+33
+00:03:54,305 --> 00:03:56,510
+ils m'ont donné un médicament rouge.
+
+34
+00:03:57,609 --> 00:03:59,713
+C'était quoi ce médicament ?
+
+35
+00:04:00,004 --> 00:04:01,202
+Ils me l'ont pas dit.
+
+36
+00:04:02,119 --> 00:04:03,105
+Ça va aller.
+
+37
+00:04:05,710 --> 00:04:07,669
+Et un bleu aussi, il y avait du bleu.
+
+38
+00:04:12,102 --> 00:04:13,814
+Ils m'ont embrouillée.
+
+39
+00:04:15,742 --> 00:04:17,249
+Ils m'ont fait du mal.
+
+40
+00:04:18,827 --> 00:04:21,130
+Madame, vous devriez venir avec moi.
+
+41
+00:04:21,377 --> 00:04:22,524
+Je peux vous aider.
+
+42
+00:04:22,624 --> 00:04:24,285
+Vous n'aurez aucun problème.
+
+43
+00:04:24,385 --> 00:04:25,787
+Non, arrêtez !
+
+44
+00:04:25,887 --> 00:04:27,336
+Vous devez en parler à quelqu'un.
+
+45
+00:04:32,763 --> 00:04:37,421
+Officier Pitts. J'ai un 5150.
+Faites qu'Annah soit disponible ce soir.
+
+46
+00:04:45,671 --> 00:04:47,916
+J'ai besoin d'une ambulance
+immédiatement !
+
+47
+00:04:49,911 --> 00:04:51,456
+Que se passe-t-il ?
+
+48
+00:04:52,577 --> 00:04:53,829
+Qu'est-ce que...
+
+49
+00:05:23,550 --> 00:05:25,750
+<i><b>LIAISON team</b></i>
+
+50
+00:05:25,900 --> 00:05:26,900
+<i><b>présente</b></i>
+
+51
+00:05:27,050 --> 00:05:29,500
+<i><b>Saison 1 épisode 6
+- The Cure -</b></i>
+
+52
+00:05:29,600 --> 00:05:31,900
+<i><b>Arcueil, Ashley, Caya,
+Elessar, Elements, Gernevie,</b></i>
+
+53
+00:05:32,000 --> 00:05:34,600
+<i><b>Izanagi, John117, Kelpan,
+Marie1003, Neox, Petitegégé, Zail59</b></i>
+
+54
+00:05:34,700 --> 00:05:36,500
+<i><b>Retrouvez-nous chaque semaine</b></i>
+
+55
+00:05:36,700 --> 00:05:38,750
+<i><b>pour découvrir les énigmes de</b></i>
+
+56
+00:05:39,600 --> 00:05:42,900
+<i><b>on www.U-Sub.net</b></i>
+
+57
+00:05:43,000 --> 00:05:44,200
+<i><b>Bon épisode...</b></i>
+
+58
+00:05:58,465 --> 00:05:59,234
+Quoi ?
+
+59
+00:06:00,046 --> 00:06:01,642
+Ça ne te dérange pas ?
+
+60
+00:06:02,642 --> 00:06:03,716
+Tu plaisantes ?
+
+61
+00:06:04,367 --> 00:06:06,981
+Cet homme s'endort
+en comptant les chiffres après Pi.
+
+62
+00:06:07,081 --> 00:06:08,204
+C'est reposant.
+
+63
+00:06:10,688 --> 00:06:11,849
+Je fredonnais ?
+
+64
+00:06:12,542 --> 00:06:14,168
+Je croyais que c'était dans ma tête.
+
+65
+00:06:15,005 --> 00:06:15,908
+Non.
+
+66
+00:06:16,441 --> 00:06:17,821
+Excusez-moi Olivia.
+
+67
+00:06:18,052 --> 00:06:20,214
+Rien ne chante comme un kilovolt.
+
+68
+00:06:20,506 --> 00:06:21,592
+Un ton unique.
+
+69
+00:06:22,025 --> 00:06:24,187
+Il n'y a rien d'identique
+dans la nature.
+
+70
+00:06:25,547 --> 00:06:26,940
+Si vous le dites.
+
+71
+00:06:27,840 --> 00:06:29,287
+Qu'est-ce qui t'arrives ?
+
+72
+00:06:29,520 --> 00:06:31,043
+Je suis de mauvaise humeur.
+
+73
+00:06:32,816 --> 00:06:35,284
+La tension dans votre voix
+indique que vous portez
+
+74
+00:06:35,384 --> 00:06:38,609
+un lourd fardeau psychologique,
+torturé par les profondeurs de...
+
+75
+00:06:38,830 --> 00:06:40,842
+Je crois qu'elle préfère
+quand tu fredonnes.
+
+76
+00:06:41,833 --> 00:06:44,073
+L'incident a eu lieu
+il y a environ six heures.
+
+77
+00:06:44,260 --> 00:06:46,200
+Nous avons seulement pu déterminer
+
+78
+00:06:46,300 --> 00:06:48,638
+qu'ils ont été exposés
+à un haut taux de radiation.
+
+79
+00:06:48,954 --> 00:06:50,056
+Emily Kramer.
+
+80
+00:06:50,981 --> 00:06:53,249
+Première fois qu'elle a été vue
+en deux semaines,
+
+81
+00:06:53,409 --> 00:06:55,686
+depuis qu'elle a été
+portée disparue par ses parents.
+
+82
+00:06:55,786 --> 00:06:58,265
+Le policier a répondu
+à un appel pour une altercation.
+
+83
+00:06:58,365 --> 00:07:00,048
+Voilà pourquoi elle a des menottes.
+
+84
+00:07:00,208 --> 00:07:03,138
+- Vous pensez qu'elle avait fugué ?
+- Ses parents ne le pensent pas.
+
+85
+00:07:03,690 --> 00:07:05,303
+Ils disent qu'elle était heureuse.
+
+86
+00:07:05,463 --> 00:07:08,783
+Elle venait juste d'être acceptée
+dans une grande école qui lui plaisait.
+
+87
+00:07:09,860 --> 00:07:12,664
+Curieusement, le niveau de radiation
+provenant du corps d'Emily
+
+88
+00:07:12,764 --> 00:07:14,479
+est trois fois supérieur aux autres.
+
+89
+00:07:14,889 --> 00:07:17,599
+- Vous dites qu'elle en est la source ?
+- Je ne sais pas.
+
+90
+00:07:18,700 --> 00:07:20,222
+Dr. Bishop, des idées ?
+
+91
+00:07:20,857 --> 00:07:21,597
+Oui.
+
+92
+00:07:23,700 --> 00:07:26,199
+Où puis-je trouver
+une de ses combinaisons blanches ?
+
+93
+00:07:41,030 --> 00:07:43,148
+- Il n'y a pas de tête.
+- Elle était malade.
+
+94
+00:07:43,452 --> 00:07:45,718
+Probablement le lymphome de Bellini.
+
+95
+00:07:46,003 --> 00:07:48,221
+Des contusions sur son cou
+et ses avant-bras.
+
+96
+00:07:49,612 --> 00:07:51,099
+Tu sais de quoi il parle ?
+
+97
+00:07:51,300 --> 00:07:53,512
+Le lymphome de Bellini.
+Une maladie auto-immune.
+
+98
+00:07:53,612 --> 00:07:54,712
+Incurable.
+
+99
+00:07:54,812 --> 00:07:57,159
+Le corps détruit
+ses propres muscles et organes.
+
+100
+00:07:57,437 --> 00:07:59,091
+- Donc c'est fatal.
+- Ouais.
+
+101
+00:07:59,392 --> 00:08:02,267
+Je n'avais jamais vu
+une victime de Bellini perdre la tête.
+
+102
+00:08:02,687 --> 00:08:05,946
+Le plus curieux est que
+cette femme semblait être en rémission.
+
+103
+00:08:06,174 --> 00:08:07,132
+Guérie même.
+
+104
+00:08:07,232 --> 00:08:10,105
+Les rougeurs disparaissaient.
+Comme les tâches.
+
+105
+00:08:10,205 --> 00:08:13,979
+Je déteste demander ça, mais
+comment guérir une maladie incurable ?
+
+106
+00:08:14,371 --> 00:08:16,399
+Je n'en ai aucune idée.
+
+107
+00:08:16,797 --> 00:08:19,859
+Même si je l'ai déjà guérie en rêve.
+
+108
+00:08:20,204 --> 00:08:22,826
+L'opium, un truc génial.
+
+109
+00:08:23,319 --> 00:08:26,134
+Bien sûr je l'ai immédiatement oublié.
+
+110
+00:08:28,721 --> 00:08:31,783
+- Merci d'avoir prévenu.
+- 31°.
+
+111
+00:08:32,700 --> 00:08:35,679
+C'est contre-indicatif
+d'une tumeur hémorragique.
+
+112
+00:08:36,158 --> 00:08:39,564
+Vraisemblablement, les molécules d'eau
+se sont toutes animées en même temps.
+
+113
+00:08:39,730 --> 00:08:41,440
+Il dit que le cerveau a bouilli.
+
+114
+00:08:41,600 --> 00:08:43,276
+Comme un homard du Maine.
+
+115
+00:08:43,460 --> 00:08:47,697
+Il me faut ce corps et celui sans tête.
+Je les ramène dans mon labo.
+
+116
+00:08:48,883 --> 00:08:51,325
+Sa maladie, s'il n'y a pas de remède...
+
+117
+00:08:51,778 --> 00:08:53,215
+Toute la question est là.
+
+118
+00:08:53,621 --> 00:08:56,987
+Voilà ce qu'il faudra demander
+à celui qui la soignait.
+
+119
+00:08:57,087 --> 00:08:59,447
+Ce qui nous fait... trois questions.
+
+120
+00:08:59,864 --> 00:09:02,795
+L'autre étant, que s'est-il passé ici ?
+
+121
+00:09:02,955 --> 00:09:05,070
+- Ça ne fait que deux questions.
+- Vraiment ?
+
+122
+00:09:05,374 --> 00:09:06,608
+La 3e question !
+
+123
+00:09:08,379 --> 00:09:10,401
+Pourrais-je avoir
+un peu de cette soupe ?
+
+124
+00:09:10,501 --> 00:09:11,888
+Elle semble délicieuse.
+
+125
+00:09:19,091 --> 00:09:20,629
+Agent Dunham ?
+
+126
+00:09:21,060 --> 00:09:22,788
+Nadim Patel, ravi de vous rencontrer.
+
+127
+00:09:22,888 --> 00:09:24,915
+Merci beaucoup de prendre le temps...
+
+128
+00:09:25,015 --> 00:09:26,319
+- de me parler.
+- De rien.
+
+129
+00:09:26,479 --> 00:09:28,325
+Vous avez des nouvelles d'Emily Kramer.
+
+130
+00:09:28,425 --> 00:09:29,697
+Malheureusement oui.
+
+131
+00:09:29,900 --> 00:09:31,702
+Emily a été trouvée morte hier soir.
+
+132
+00:09:31,802 --> 00:09:33,066
+Quoi ? Comment ?
+
+133
+00:09:33,480 --> 00:09:35,870
+Je n'ai pas la liberté d'en discuter
+avec vous.
+
+134
+00:09:38,036 --> 00:09:39,414
+Excusez-moi, c'est juste...
+
+135
+00:09:40,514 --> 00:09:43,422
+L'investissement émotionnel
+avec les patients. Un risque du métier.
+
+136
+00:09:43,927 --> 00:09:47,583
+Ses parents doivent être anéantis.
+Après tout ce qu'ils ont déjà traversé.
+
+137
+00:09:47,830 --> 00:09:50,431
+Oui.
+Et je n'aime pas vous déranger avec ça
+
+138
+00:09:50,681 --> 00:09:53,725
+mais nous avons appris qu'Emily
+était atteinte d'une maladie incurable.
+
+139
+00:09:53,968 --> 00:09:55,651
+Depuis peu en rémission.
+
+140
+00:09:56,099 --> 00:09:57,098
+C'est vrai.
+
+141
+00:09:59,706 --> 00:10:01,938
+Savez-vous comment c'est possible ?
+
+142
+00:10:02,229 --> 00:10:03,481
+Médicalement, non.
+
+143
+00:10:03,700 --> 00:10:06,192
+La soigniez-vous
+avec une thérapie par radiation ?
+
+144
+00:10:07,201 --> 00:10:09,740
+Radiations ? Non, pourquoi ?
+
+145
+00:10:12,229 --> 00:10:15,558
+Les circonstances entourant
+la mort d'Emily sont inhabituelles.
+
+146
+00:10:16,000 --> 00:10:18,246
+Et il est possible que son état
+
+147
+00:10:18,406 --> 00:10:19,777
+est été un facteur.
+
+148
+00:10:22,486 --> 00:10:24,765
+Je vais vous donner son dossier
+si ça peut vous aider.
+
+149
+00:10:26,594 --> 00:10:28,495
+Elle recommençait enfin à vivre.
+
+150
+00:10:31,070 --> 00:10:32,841
+Il faut vraiment que je sois là ?
+
+151
+00:10:33,247 --> 00:10:35,923
+- Tu ne pouvais pas utiliser une pince ?
+- Bien sûr que si.
+
+152
+00:10:36,257 --> 00:10:37,969
+Mais j'aime la compagnie.
+
+153
+00:10:38,763 --> 00:10:40,643
+Passer un bon moment en famille.
+
+154
+00:10:41,957 --> 00:10:43,854
+Ouais, c'est comme se lancer la balle.
+
+155
+00:10:44,060 --> 00:10:47,876
+- C'est quoi cette odeur ?
+- Hyacinthe, ma 3e fleur préférée.
+
+156
+00:10:48,337 --> 00:10:50,517
+Associée dans la mythologie
+à la renaissance,
+
+157
+00:10:50,617 --> 00:10:52,363
+ce qui est ici cruellement ironique.
+
+158
+00:10:52,530 --> 00:10:53,781
+Ça vient d'elle ?
+
+159
+00:10:53,960 --> 00:10:57,102
+En effet, ce qui indique,
+soit une mutation génétique,
+
+160
+00:10:57,987 --> 00:10:59,412
+soit elle mangeait des fleurs.
+
+161
+00:10:59,572 --> 00:11:02,039
+- Ou peut-être son parfum.
+- Ça avance ?
+
+162
+00:11:02,721 --> 00:11:05,391
+Rejoins-nous.
+On a déjà appris des choses.
+
+163
+00:11:05,871 --> 00:11:09,088
+- On ne pense pas qu'elle ait fugué.
+- Des marques de ligatures.
+
+164
+00:11:09,300 --> 00:11:10,923
+Elle était prisonnière.
+
+165
+00:11:11,083 --> 00:11:13,801
+Soit ça, soit elle avait une propension
+pour l'esclavage sexuel.
+
+166
+00:11:14,095 --> 00:11:16,910
+Une observation scientifique,
+pas un jugement.
+
+167
+00:11:17,010 --> 00:11:19,471
+- J'ai certains souvenirs...
+- Walter, arrête !
+
+168
+00:11:19,571 --> 00:11:21,358
+Quoi que t'allais dire, ne le dis pas !
+
+169
+00:11:21,458 --> 00:11:22,631
+Il y a aussi ceci.
+
+170
+00:11:23,134 --> 00:11:25,343
+Marques d'injections sous-cutanées.
+
+171
+00:11:26,631 --> 00:11:28,441
+On la traitait par intraveineuse.
+
+172
+00:11:28,601 --> 00:11:31,986
+Celui qui la gardait captive
+la droguait.
+
+173
+00:11:32,146 --> 00:11:33,788
+Oui, et pas du genre agréable.
+
+174
+00:11:33,888 --> 00:11:34,789
+En fait...
+
+175
+00:11:35,065 --> 00:11:37,778
+Ça ne ressemble à rien que j'ai déjà vu.
+
+176
+00:11:40,861 --> 00:11:41,674
+Ça va ?
+
+177
+00:11:42,719 --> 00:11:44,112
+Ça devrait aller ?
+
+178
+00:11:45,269 --> 00:11:47,155
+Comment elle a fini dans ce resto ?
+
+179
+00:11:47,255 --> 00:11:48,940
+- Elle s'est échappée ?
+- Peut-être pas.
+
+180
+00:11:49,792 --> 00:11:53,724
+Il y a deux méthodes distinctes
+dans l'expérimentation scientifique.
+
+181
+00:11:54,276 --> 00:11:56,552
+Essais en labo et essais sur le terrain.
+
+182
+00:11:57,011 --> 00:11:59,263
+Vous pensez
+qu'ils l'ont laissée partir exprès ?
+
+183
+00:11:59,363 --> 00:12:02,391
+Les responsables voulaient être sûrs
+que ce qu'ils lui ont fait marchait.
+
+184
+00:12:02,600 --> 00:12:05,534
+Donc c'est quelque chose à l'intérieur
+d'elle qui a tué ces personnes.
+
+185
+00:12:05,634 --> 00:12:07,130
+- Et pour sa...
+- Tête ?
+
+186
+00:12:08,055 --> 00:12:09,782
+Je ne suis pas encore sûr.
+
+187
+00:12:10,460 --> 00:12:11,889
+C'est une théorie.
+
+188
+00:12:11,989 --> 00:12:15,095
+J'aurai plus de certitudes
+quand j'aurai identifié cette substance,
+
+189
+00:12:15,930 --> 00:12:18,117
+- ou quand celui qui a fait ça...
+- Oui, Charlie.
+
+190
+00:12:18,217 --> 00:12:20,103
+... tentera de répéter ses résultats.
+
+191
+00:12:20,203 --> 00:12:21,952
+S'ils utilisent une autre femme ?
+
+192
+00:12:22,130 --> 00:12:25,122
+D'après le langage gestuel
+de l'agent Dunham...
+
+193
+00:12:25,300 --> 00:12:27,302
+On dirait que c'est le cas.
+
+194
+00:12:31,360 --> 00:12:34,202
+Une autre personne a disparu,
+signalée depuis 4h.
+
+195
+00:12:34,637 --> 00:12:36,044
+Elle s'appelle Claire Williams.
+
+196
+00:12:36,144 --> 00:12:38,803
+On lui a diagnostiquée
+un lymphome de Bellini il y a trois ans.
+
+197
+00:12:38,963 --> 00:12:41,348
+Les gens atteints de cette maladie
+sont visés ?
+
+198
+00:12:41,736 --> 00:12:43,738
+Ou alors, c'est une sacrée coïncidence.
+
+199
+00:12:52,130 --> 00:12:53,243
+J'ai compris.
+
+200
+00:12:53,823 --> 00:12:54,897
+Compris quoi ?
+
+201
+00:12:55,981 --> 00:12:58,823
+Une jeune femme, ce qu'ils lui ont fait.
+
+202
+00:12:59,188 --> 00:13:01,568
+Tu sais, ça arrive aujourd'hui.
+
+203
+00:13:05,838 --> 00:13:06,911
+C'est bon.
+
+204
+00:13:07,376 --> 00:13:08,547
+Je vais bien.
+
+205
+00:13:11,910 --> 00:13:13,782
+Je sais que tu n'aimes pas le fêter,
+
+206
+00:13:14,943 --> 00:13:16,481
+mais joyeux anniversaire.
+
+207
+00:13:19,013 --> 00:13:20,136
+Ken Williams ?
+
+208
+00:13:20,954 --> 00:13:23,597
+Olivia Dunham, Charlie Francis, FBI.
+
+209
+00:13:23,800 --> 00:13:25,166
+Vous avez trouvé Claire ?
+
+210
+00:13:25,266 --> 00:13:29,311
+J'ai peur de ne pas avoir de nouvelles,
+mais on doit vous poser des questions.
+
+211
+00:13:32,249 --> 00:13:33,962
+Elle s'appelle Emily Kramer.
+
+212
+00:13:34,644 --> 00:13:37,069
+Elle avait la même maladie
+que votre femme.
+
+213
+00:13:37,357 --> 00:13:38,659
+Vous l'avez déjà vue ?
+
+214
+00:13:39,806 --> 00:13:42,741
+Un autre cas ? Que lui est-il arrivé ?
+
+215
+00:13:42,841 --> 00:13:44,952
+Vous la connaissez, M. Williams ?
+
+216
+00:13:46,792 --> 00:13:48,533
+Non, je ne crois pas.
+
+217
+00:13:49,749 --> 00:13:51,867
+On ne connait personne d'autre
+avec un Bellini.
+
+218
+00:13:52,847 --> 00:13:55,313
+Ce qu'on a traversé
+pour combattre sa maladie.
+
+219
+00:13:55,604 --> 00:13:57,214
+Et cette douleur incessante.
+
+220
+00:14:00,716 --> 00:14:03,345
+Elle a arrêté de sortir lorsque
+les lésions sont apparues.
+
+221
+00:14:04,757 --> 00:14:07,683
+Cette maladie nous a presque tout pris.
+Même notre mariage.
+
+222
+00:14:08,917 --> 00:14:11,854
+Ensuite... c'était comme un miracle.
+
+223
+00:14:12,629 --> 00:14:15,065
+- Un miracle ?
+- Elle a commencé à aller mieux.
+
+224
+00:14:15,370 --> 00:14:17,401
+La douleur est partie.
+
+225
+00:14:18,182 --> 00:14:20,750
+- Elle est entrée en rémission ?
+- Il y a six semaines.
+
+226
+00:14:21,559 --> 00:14:23,824
+Elle était de nouveau elle-même.
+
+227
+00:14:23,984 --> 00:14:24,992
+Et maintenant...
+
+228
+00:14:28,270 --> 00:14:30,142
+S'il vous plaît, retrouvez ma femme.
+
+229
+00:14:30,476 --> 00:14:32,261
+S'il vous plaît, retrouvez-la pour moi.
+
+230
+00:15:01,864 --> 00:15:03,097
+Que se passe-t-il ?
+
+231
+00:15:06,485 --> 00:15:08,575
+S'il vous plaît,
+ne me faites pas de mal.
+
+232
+00:15:26,290 --> 00:15:28,698
+La dernière était un essai.
+Celle-là est la bonne.
+
+233
+00:15:29,972 --> 00:15:32,518
+- Est-elle une candidate ?
+- Même mieux.
+
+234
+00:15:33,011 --> 00:15:34,339
+Alors, allons-y.
+
+235
+00:15:40,979 --> 00:15:44,530
+Pour comprendre ce qui s'est passé,
+nous utiliserons M. Papaye.
+
+236
+00:15:49,445 --> 00:15:50,505
+Dégagez !
+
+237
+00:15:53,907 --> 00:15:56,683
+C'est triste
+car il est le fruit le plus amical.
+
+238
+00:16:02,447 --> 00:16:05,009
+Nous avons une gluantufication.
+
+239
+00:16:05,752 --> 00:16:07,871
+- C'est le terme scientifique ?
+- Attendez.
+
+240
+00:16:08,984 --> 00:16:11,248
+Le spectacle n'est pas encore fini.
+
+241
+00:16:14,941 --> 00:16:17,330
+C'est ce qui arrivé aux personnes
+dans le restaurant ?
+
+242
+00:16:18,100 --> 00:16:21,150
+Ce rayon émet des ondes de haute énergie
+
+243
+00:16:21,666 --> 00:16:26,088
+qui font vibrer rapidement
+les molécules de M. Papaye.
+
+244
+00:16:26,188 --> 00:16:28,630
+Ce qui cause une friction et
+produit de la chaleur.
+
+245
+00:16:29,030 --> 00:16:31,118
+Un micro-ondes fait cuire
+la nourriture comme ça.
+
+246
+00:16:31,247 --> 00:16:33,704
+Dans ce cas, Emily Kramer était le four.
+
+247
+00:16:33,864 --> 00:16:35,456
+Mais de quoi Emily est morte ?
+
+248
+00:16:35,616 --> 00:16:39,050
+Cette démonstration est plus efficace
+avec des tissus vivants.
+
+249
+00:16:39,666 --> 00:16:42,235
+- J'ai des gerbilles disponibles.
+- Non !
+
+250
+00:16:42,335 --> 00:16:44,399
+Aucun souci, ça va vous plaire !
+
+251
+00:16:44,499 --> 00:16:46,330
+Walter, laisse tomber.
+
+252
+00:16:46,580 --> 00:16:48,359
+Attendez, j'ai raté quelque chose.
+
+253
+00:16:48,459 --> 00:16:51,336
+Comment Emily... peut cuire les gens ?
+
+254
+00:16:51,924 --> 00:16:54,492
+Dans son sang, j'ai trouvé...
+
+255
+00:16:55,203 --> 00:16:57,936
+des traces d'isotopes radioactifs.
+
+256
+00:16:58,305 --> 00:16:59,495
+Strontium 90.
+
+257
+00:17:00,173 --> 00:17:05,160
+Je crois que ces capsules microscopiques
+sont faites pour libérer
+
+258
+00:17:05,260 --> 00:17:09,733
+la juste quantité de radiations
+à un certain moment, pour la soigner.
+
+259
+00:17:10,038 --> 00:17:13,827
+- Ces capsules lui ont sauvé la vie ?
+- Pense à de la chimio à retardement.
+
+260
+00:17:13,987 --> 00:17:15,873
+Oui, mais dans le cas d'Emily,
+
+261
+00:17:16,323 --> 00:17:19,800
+le remède peut aussi la transformer
+en arme.
+
+262
+00:17:19,900 --> 00:17:22,020
+Ce qu'on lui a injecté dans le sang...
+
+263
+00:17:22,120 --> 00:17:25,198
+a fait éclater toutes les capsules
+en même temps,
+
+264
+00:17:25,726 --> 00:17:27,925
+envoyant un souffle de micro-ondes.
+
+265
+00:17:29,237 --> 00:17:33,212
+Si on pense que sa tête
+était la source d'énergie... Boum !
+
+266
+00:17:34,065 --> 00:17:36,850
+Dr. Patel, le rhumatologue d'Emily,
+
+267
+00:17:37,083 --> 00:17:39,519
+aurait-il eu accès
+à ce genre d'isotopes ?
+
+268
+00:17:39,619 --> 00:17:42,181
+J'en doute. Ils ne sont utilisés
+que dans quelques thérapies.
+
+269
+00:17:42,281 --> 00:17:44,568
+Et ils sont très contrôlés. Pourquoi ?
+
+270
+00:17:45,188 --> 00:17:47,600
+- Tu penses que Patel est mêlé à ça ?
+- Je ne sais pas.
+
+271
+00:17:47,700 --> 00:17:51,217
+Mais 83% des personnes enlevées le sont
+par quelqu'un qu'elles connaissent.
+
+272
+00:17:51,827 --> 00:17:53,793
+Je vais aller parler avec ses parents.
+
+273
+00:17:54,914 --> 00:17:56,216
+Je viens avec toi.
+
+274
+00:17:57,493 --> 00:18:00,330
+Si tu sors, pourrais-tu me rapporter
+de la barbe à papa ?
+
+275
+00:18:00,430 --> 00:18:02,259
+- De la barbe à papa.
+- Ouais.
+
+276
+00:18:02,359 --> 00:18:03,794
+De la bleue, pas rose.
+
+277
+00:18:05,070 --> 00:18:07,330
+J'ai faim. Ça doit venir des jacinthes.
+
+278
+00:18:07,430 --> 00:18:09,425
+Ces adorables fleurs bleues.
+
+279
+00:18:19,038 --> 00:18:20,939
+Tu as sûrement déjà deviné, mais...
+
+280
+00:18:21,592 --> 00:18:23,562
+j'ai remarqué des ressemblances gênantes
+
+281
+00:18:23,662 --> 00:18:25,941
+entre cette affaire et d'autres
+qu'on a résolues.
+
+282
+00:18:26,348 --> 00:18:28,402
+Le nombre de cobayes humains augmente.
+
+283
+00:18:28,562 --> 00:18:30,670
+À mon avis, si tout ça
+fait partie du Dessein,
+
+284
+00:18:30,770 --> 00:18:33,033
+et si ces gens n'étaient pas
+que des expériences ?
+
+285
+00:18:33,607 --> 00:18:35,827
+Et si quelqu'un préparait
+quelque chose ?
+
+286
+00:18:43,610 --> 00:18:45,250
+On devrait revenir plus tard.
+
+287
+00:18:46,490 --> 00:18:49,965
+Avant ou après qu'ils fassent
+la même chose à Claire Williams ?
+
+288
+00:18:50,393 --> 00:18:51,904
+Olivia, c'est une veillée.
+
+289
+00:18:52,004 --> 00:18:53,934
+Ces gens portent
+le deuil de leur enfant.
+
+290
+00:19:11,313 --> 00:19:12,056
+Non.
+
+291
+00:19:12,924 --> 00:19:14,865
+Il te faut pas un mandat pour ça ?
+
+292
+00:19:15,265 --> 00:19:16,825
+Olivia, arrête !
+
+293
+00:19:18,986 --> 00:19:20,790
+Bousiller une veillée c'est
+déjà répugnant,
+
+294
+00:19:20,890 --> 00:19:22,646
+mais fouiller les affaires d'une morte ?
+
+295
+00:19:22,746 --> 00:19:25,032
+C'est notre seul espoir de
+trouver une piste tangible
+
+296
+00:19:25,132 --> 00:19:26,210
+alors aide-moi.
+
+297
+00:19:27,835 --> 00:19:29,199
+Qu'est-ce qu'on cherche ?
+
+298
+00:19:29,299 --> 00:19:31,673
+N'importe quoi, toute relation
+qu'elle aurait pu...
+
+299
+00:19:33,864 --> 00:19:35,619
+Que faites-vous ici ? Qui êtes-vous ?
+
+300
+00:19:35,719 --> 00:19:37,599
+Que faites-vous dans
+la chambre de ma fille ?
+
+301
+00:19:37,699 --> 00:19:40,130
+Mme Kramer nous vous
+présentons nos condoléances.
+
+302
+00:19:40,230 --> 00:19:41,913
+- Nous sommes du FBI.
+- Le FBI.
+
+303
+00:19:42,325 --> 00:19:45,187
+- Aujourd'hui ? Vous venez aujourd'hui ?
+- Mme Kramer, écoutez-moi.
+
+304
+00:19:45,287 --> 00:19:47,284
+La vie d'une autre
+jeune fille est en jeu.
+
+305
+00:19:47,879 --> 00:19:49,316
+Quelle autre fille ?
+
+306
+00:19:49,416 --> 00:19:51,463
+- Son nom est Claire Williams.
+- Claire ?
+
+307
+00:19:53,266 --> 00:19:55,008
+Qu'est-il arrivé à Claire ?
+
+308
+00:19:55,108 --> 00:19:56,371
+Vous la connaissez ?
+
+309
+00:19:58,558 --> 00:20:00,046
+Un thérapeute...
+
+310
+00:20:00,673 --> 00:20:02,255
+lui a dit de mettre par écrit
+
+311
+00:20:02,355 --> 00:20:05,430
+toute la douleur et les troubles
+qu'elle ressentait.
+
+312
+00:20:06,067 --> 00:20:09,600
+C'est tout ce qu'il lui restait...
+jusqu'aux traitements.
+
+313
+00:20:09,700 --> 00:20:11,822
+- Les traitements ?
+- Pour son Bellini.
+
+314
+00:20:11,922 --> 00:20:14,633
+Elles se sont rencontrées car
+elles avaient la même maladie.
+
+315
+00:20:18,630 --> 00:20:20,734
+Elles sont devenues
+de très bonnes amies.
+
+316
+00:20:35,715 --> 00:20:37,573
+Pourquoi m'avez-vous menti M. Williams ?
+
+317
+00:20:40,206 --> 00:20:42,022
+On a rencontré Emily à l'hôpital
+
+318
+00:20:42,122 --> 00:20:43,830
+en attendant des tests sanguins.
+
+319
+00:20:44,342 --> 00:20:46,153
+Elle et Claire ont commencé à discuter
+
+320
+00:20:46,253 --> 00:20:48,499
+partageant d'horribles
+histoires sur leur maladie.
+
+321
+00:20:49,297 --> 00:20:50,858
+Elles sont devenues amies.
+
+322
+00:20:51,238 --> 00:20:54,729
+Un soir, après dîner, on en est venus
+à comment la communauté médicale
+
+323
+00:20:54,829 --> 00:20:56,000
+nous avait abandonnés.
+
+324
+00:20:56,100 --> 00:20:59,474
+Il n'y a que 3000 personnes dans ce pays
+qui souffrent de la maladie de Bellini.
+
+325
+00:20:59,574 --> 00:21:02,659
+Pas assez pour que les entreprises
+pharmaceutiques fassent de profit.
+
+326
+00:21:02,759 --> 00:21:05,099
+Donc elles ne cherchent pas
+à élaborer de médicaments.
+
+327
+00:21:05,199 --> 00:21:07,978
+On a parlé à des personnes qui
+avaient également la maladie.
+
+328
+00:21:08,532 --> 00:21:11,259
+Un microbiologiste,
+un banquier d'investissement,
+
+329
+00:21:11,532 --> 00:21:13,226
+la mère d'un athlète professionnel.
+
+330
+00:21:13,633 --> 00:21:16,450
+On a réfléchi aux moyens possibles
+si on concentrait nos ressources.
+
+331
+00:21:16,550 --> 00:21:18,780
+Donc Claire et Emily
+s'auto-médicalisaient.
+
+332
+00:21:19,243 --> 00:21:20,709
+On n'avait pas d'autre choix.
+
+333
+00:21:21,507 --> 00:21:22,900
+On était désespérés.
+
+334
+00:21:23,589 --> 00:21:26,999
+On a essayé des thérapies extrêmes
+inenvisageables pour les médecins.
+
+335
+00:21:28,447 --> 00:21:30,918
+Il y a trois mois,
+on a trouvé un remède.
+
+336
+00:21:31,116 --> 00:21:32,878
+Des capsules radioactives à retardement.
+
+337
+00:21:34,610 --> 00:21:36,595
+Je ne comprends pas, pourquoi mentir ?
+
+338
+00:21:36,695 --> 00:21:38,927
+Parce que les gens que
+nous aimons en dépendent.
+
+339
+00:21:39,276 --> 00:21:41,800
+Je ne pouvais pas prendre
+le risque que vous arrêtiez ça.
+
+340
+00:21:42,235 --> 00:21:44,059
+Claire n'aurait pas voulu ça.
+
+341
+00:21:44,622 --> 00:21:46,560
+Cela nous a rendu nos vies.
+
+342
+00:21:46,660 --> 00:21:48,438
+M. Williams, on va avoir besoin
+
+343
+00:21:48,538 --> 00:21:50,299
+des noms des autres patients.
+
+344
+00:21:50,639 --> 00:21:52,711
+Quelques-uns oui,
+mais je ne les connais pas tous.
+
+345
+00:21:53,575 --> 00:21:55,275
+Vous devriez voir le Dr Nadim Patel.
+
+346
+00:21:56,480 --> 00:21:57,723
+Le docteur d'Emily.
+
+347
+00:21:58,800 --> 00:22:01,772
+- Il savait ce qui se passait ?
+- Assez pour nous aider.
+
+348
+00:22:01,872 --> 00:22:04,326
+Le traitement.
+Vous avez un échantillon ?
+
+349
+00:22:16,553 --> 00:22:19,508
+C'est mon médicament pour le Bellini ?
+
+350
+00:22:22,308 --> 00:22:24,004
+Dites-moi ce que vous faites.
+
+351
+00:22:25,495 --> 00:22:27,614
+Dites-moi ce que vous me faites.
+
+352
+00:22:28,486 --> 00:22:30,560
+Nous connaissons bien
+votre maladie, Claire.
+
+353
+00:22:30,660 --> 00:22:32,354
+Nous savons que ça...
+
+354
+00:22:32,816 --> 00:22:34,426
+vous fait du bien.
+
+355
+00:22:37,713 --> 00:22:38,772
+Mais ça...
+
+356
+00:22:42,509 --> 00:22:44,234
+ça va vous rendre spéciale.
+
+357
+00:22:50,681 --> 00:22:51,943
+Qu'est-ce que c'est ?
+
+358
+00:22:52,043 --> 00:22:54,030
+Je vous avais parlé
+des événements exceptionnels
+
+359
+00:22:54,130 --> 00:22:55,442
+entourant la mort d'Emily.
+
+360
+00:22:55,542 --> 00:22:56,600
+Les voici.
+
+361
+00:22:57,247 --> 00:22:59,892
+- Je ne comprends pas.
+- On est au courant, Dr Patel.
+
+362
+00:23:00,526 --> 00:23:02,230
+Ken Williams nous a tout raconté.
+
+363
+00:23:02,330 --> 00:23:04,774
+Mais nous ne savons pas
+qui d'autre était impliqué.
+
+364
+00:23:05,064 --> 00:23:07,629
+Je ne suis pas responsable de ça.
+Pas ça.
+
+365
+00:23:07,963 --> 00:23:10,502
+- Je leur ai donné que des mises à jour.
+- Qui "eux" ?
+
+366
+00:23:11,384 --> 00:23:13,459
+- Qui "eux" ?
+- Intrepus.
+
+367
+00:23:14,049 --> 00:23:16,256
+- L'entreprise pharmaceutique ?
+- Vous devriez partir.
+
+368
+00:23:16,356 --> 00:23:17,430
+Vous ne savez pas
+
+369
+00:23:17,530 --> 00:23:19,824
+- dans quoi vous mettez les pieds.
+- Il me faut un nom.
+
+370
+00:23:31,350 --> 00:23:32,467
+Dr Patel ?
+
+371
+00:23:37,060 --> 00:23:37,878
+Dr Patel.
+
+372
+00:23:39,088 --> 00:23:41,329
+- Lâchez ça !
+- Il s'agissait que de mises à jour.
+
+373
+00:23:41,429 --> 00:23:43,280
+- Lâchez votre arme !
+- Je suis médecin.
+
+374
+00:23:43,380 --> 00:23:45,266
+Un guérisseur. Vous voulez un nom ?
+
+375
+00:23:46,064 --> 00:23:47,993
+David Esterbrook.
+
+376
+00:24:18,495 --> 00:24:19,801
+Je l'ai trouvé.
+
+377
+00:24:23,645 --> 00:24:24,806
+David Esterbrook.
+
+378
+00:24:25,358 --> 00:24:27,830
+Il dirige la division
+recherche pharmaceutique d'Intrepus.
+
+379
+00:24:28,053 --> 00:24:30,200
+D'après les comptes,
+il est aussi responsable
+
+380
+00:24:30,300 --> 00:24:33,058
+d'un lobby qui
+fait pression sur le Congrès
+
+381
+00:24:33,218 --> 00:24:36,915
+pour autoriser Intrepus à approfondir
+des recherches très controversées.
+
+382
+00:24:37,300 --> 00:24:38,729
+Précise "controversées".
+
+383
+00:24:39,679 --> 00:24:41,259
+Thérapie génique prénatale.
+
+384
+00:24:41,635 --> 00:24:43,729
+Études d'hybridations humain-animal.
+
+385
+00:24:44,014 --> 00:24:45,559
+Guerre bactériologique.
+
+386
+00:24:45,897 --> 00:24:47,348
+Que des trucs marrants.
+
+387
+00:24:49,125 --> 00:24:50,513
+Il est à Manhattan aujourd'hui.
+
+388
+00:24:50,613 --> 00:24:52,662
+Il fait un discours à
+un forum d'aide humanitaire.
+
+389
+00:24:53,166 --> 00:24:54,138
+Écoute, Liv.
+
+390
+00:24:55,542 --> 00:24:57,269
+Même si le docteur avait raison.
+
+391
+00:24:57,776 --> 00:25:00,627
+Même si Esterbrook est mêlé
+à ce qui est arrivé à ces femmes.
+
+392
+00:25:01,245 --> 00:25:03,505
+Je n'en tirerai rien.
+Il n'avouera jamais.
+
+393
+00:25:03,958 --> 00:25:07,551
+Je veux le voir dans ses yeux, Charlie.
+J'ai besoin de savoir que c'est lui.
+
+394
+00:25:08,424 --> 00:25:09,530
+M. Esterbrook ?
+
+395
+00:25:10,209 --> 00:25:13,459
+Désolée de vous interrompre.
+Amanda Bennet, Baxil.
+
+396
+00:25:13,706 --> 00:25:16,027
+Écoutez,
+au risque de paraître obséquieuse
+
+397
+00:25:17,101 --> 00:25:18,844
+j'ai suivi vos travaux depuis Yale.
+
+398
+00:25:18,944 --> 00:25:20,399
+Trois diplômes
+
+399
+00:25:20,499 --> 00:25:23,160
+y compris un doctorat en
+neurobiologie thérapeutique.
+
+400
+00:25:23,885 --> 00:25:27,230
+J'étais obligé de copier sur ma voisine
+pour réussir l'examen de biochimie.
+
+401
+00:25:31,013 --> 00:25:32,014
+Je suis désolée.
+
+402
+00:25:32,114 --> 00:25:34,640
+Ça doit vous sembler
+incroyablement idiot.
+
+403
+00:25:35,322 --> 00:25:36,396
+Non, difficilement.
+
+404
+00:25:37,434 --> 00:25:39,435
+La science et la technologie
+
+405
+00:25:39,535 --> 00:25:41,522
+ont atteint un point où
+
+406
+00:25:41,941 --> 00:25:44,700
+nos moyens rejoignent enfin
+nos imaginations.
+
+407
+00:25:45,057 --> 00:25:46,691
+Et la seule chose qui nous empêche
+
+408
+00:25:46,791 --> 00:25:49,104
+d'accomplir des travaux
+véritablement visionnaires
+
+409
+00:25:49,204 --> 00:25:53,129
+sont ces restrictions morales
+que les législateurs mettent en place
+
+410
+00:25:53,422 --> 00:25:54,975
+au nom du bien public.
+
+411
+00:25:57,175 --> 00:25:58,653
+Ça et l'argent.
+
+412
+00:25:58,929 --> 00:26:01,018
+On a toujours besoin de plus d'argent.
+
+413
+00:26:01,635 --> 00:26:04,057
+Je vais vous dire
+un petit secret, Amanda.
+
+414
+00:26:04,929 --> 00:26:06,360
+Il ne s'agit pas d'argent.
+
+415
+00:26:07,606 --> 00:26:09,275
+Il s'agit de détermination.
+
+416
+00:26:13,287 --> 00:26:15,368
+Je n'ai pas été complètement
+honnête avec vous.
+
+417
+00:26:16,079 --> 00:26:18,934
+Je ne travaille pas pour Baxil
+mais je connais un de vos collègues.
+
+418
+00:26:19,412 --> 00:26:20,718
+Le dr Nadim Patel.
+
+419
+00:26:21,295 --> 00:26:24,377
+- Et comment va Nadim ces jours-ci ?
+- Ces jours-ci ? Mort.
+
+420
+00:26:26,304 --> 00:26:29,049
+- Navré de l'apprendre.
+- Moins que moi quand je l'ai vu faire.
+
+421
+00:26:30,882 --> 00:26:32,812
+Le vol d'identité est un crime fédéral.
+
+422
+00:26:33,969 --> 00:26:37,031
+Tout comme le kidnapping et le meurtre.
+Et c'est agent Dunham.
+
+423
+00:26:37,131 --> 00:26:38,997
+Qu'espériez-vous de cette conversation ?
+
+424
+00:26:39,097 --> 00:26:40,446
+Je l'ai déjà obtenu.
+
+425
+00:26:42,702 --> 00:26:43,907
+Quel âge avez-vous ?
+
+426
+00:26:44,864 --> 00:26:45,572
+28 ?
+
+427
+00:26:46,722 --> 00:26:47,444
+29 ?
+
+428
+00:26:48,528 --> 00:26:51,583
+Vous êtes une jeune femme attirante
+qui voudra fonder une famille un jour.
+
+429
+00:26:53,775 --> 00:26:57,148
+Ce serait une honte...
+s'il vous arrivait quelque chose.
+
+430
+00:27:15,478 --> 00:27:16,290
+Broyles.
+
+431
+00:27:19,628 --> 00:27:20,392
+Quand ?
+
+432
+00:27:29,466 --> 00:27:30,360
+Dunham.
+
+433
+00:27:32,799 --> 00:27:33,612
+Bonjour.
+
+434
+00:27:34,111 --> 00:27:36,491
+Vous avez rendu une petite visite
+à David Esterbrook.
+
+435
+00:27:36,768 --> 00:27:39,090
+Les nouvelles vont vite. J'allais
+vous faire mon rapport...
+
+436
+00:27:39,190 --> 00:27:40,981
+En public, au bar d'un hôtel.
+
+437
+00:27:41,779 --> 00:27:44,916
+Je ne savais pas que mes interrogatoires
+étaient examinés à la loupe.
+
+438
+00:27:45,076 --> 00:27:47,252
+Tout ce que nous faisons
+est examiné à la loupe.
+
+439
+00:27:48,520 --> 00:27:51,538
+Cette unité dont
+vous faites partie est pour le moins...
+
+440
+00:27:52,191 --> 00:27:53,395
+controversée.
+
+441
+00:27:54,005 --> 00:27:55,629
+Il nous faut être irréprochables.
+
+442
+00:27:56,036 --> 00:27:59,560
+Essayer d'intimider un suspect
+haut placé dans une enquête pour meurtre
+
+443
+00:27:59,660 --> 00:28:01,751
+- est au mieux imprudent.
+- Claire Williams...
+
+444
+00:28:02,022 --> 00:28:03,935
+est prisonnière à cet instant.
+
+445
+00:28:04,068 --> 00:28:06,473
+Avec Dieu sait quoi
+d'injecté dans son corps.
+
+446
+00:28:06,730 --> 00:28:08,921
+Et David Esterbrook sait où elle est.
+
+447
+00:28:10,833 --> 00:28:12,039
+Il est coupable
+
+448
+00:28:12,139 --> 00:28:14,399
+et il pense qu'il ne sera
+jamais puni pour ça.
+
+449
+00:28:14,820 --> 00:28:16,166
+Alors excusez-moi,
+
+450
+00:28:16,528 --> 00:28:19,142
+mais pour l'instant,
+j'en ai rien à foutre de la politique.
+
+451
+00:28:19,242 --> 00:28:21,860
+Ce qui est exactement votre problème
+et maintenant le mien.
+
+452
+00:28:22,580 --> 00:28:25,159
+Vous pensez être la seule
+à vouloir retrouver Claire Williams ?
+
+453
+00:28:25,826 --> 00:28:28,166
+Vous avez violé la règle
+fondamentale de notre profession.
+
+454
+00:28:28,266 --> 00:28:30,507
+Vous avez laissé vos sentiments
+diriger vos décisions.
+
+455
+00:28:30,607 --> 00:28:33,363
+Vous avez mis en danger
+non seulement la vie de Claire Williams
+
+456
+00:28:33,463 --> 00:28:34,799
+mais tout notre boulot.
+
+457
+00:28:34,899 --> 00:28:37,599
+Si je ne peux pas vous faire confiance
+pour contrôler vos émotions
+
+458
+00:28:37,699 --> 00:28:39,499
+alors je ne peux pas
+vous faire confiance.
+
+459
+00:28:40,145 --> 00:28:41,320
+C'est clair ?
+
+460
+00:28:43,304 --> 00:28:46,079
+Vous aurez mon rapport sur l'entretien
+avec Esterbrook dans l'heure.
+
+461
+00:28:46,179 --> 00:28:47,479
+Je l'attendrai.
+
+462
+00:28:51,882 --> 00:28:54,960
+Y a-t-il autre chose dont
+vous souhaiteriez que je vous informe ?
+
+463
+00:28:55,782 --> 00:28:57,029
+Pas autre chose.
+
+464
+00:28:58,045 --> 00:28:58,800
+Tout.
+
+465
+00:29:41,737 --> 00:29:42,936
+Comment ça se passe ?
+
+466
+00:29:43,356 --> 00:29:44,522
+Elle est presque prête.
+
+467
+00:29:44,622 --> 00:29:45,832
+Les capsules dans son sang
+
+468
+00:29:45,932 --> 00:29:47,691
+peuvent-elles être
+déclenchées à distance ?
+
+469
+00:29:47,791 --> 00:29:49,034
+Comme demandé.
+
+470
+00:29:49,134 --> 00:29:51,586
+Elle sera stable et prête pour
+le transport demain matin.
+
+471
+00:29:52,819 --> 00:29:55,169
+J'appelle le client pour
+planifier la livraison.
+
+472
+00:29:56,422 --> 00:29:57,622
+Beau travail !
+
+473
+00:30:22,545 --> 00:30:24,618
+Qu'est-ce qui m'arrive ?
+
+474
+00:30:30,426 --> 00:30:31,967
+- Des progrès ?
+- Tout à fait.
+
+475
+00:30:32,067 --> 00:30:34,884
+Esterbrook est notre seule piste,
+pour savoir où est Claire Williams
+
+476
+00:30:34,984 --> 00:30:36,258
+et je peux pas l'approcher.
+
+477
+00:30:36,358 --> 00:30:38,109
+Le gars est plus blanc que neige.
+
+478
+00:30:38,379 --> 00:30:40,591
+Même pas de contraventions impayées.
+
+479
+00:30:42,306 --> 00:30:44,155
+Nous, on progresse.
+
+480
+00:30:44,836 --> 00:30:46,373
+Walter pensait avoir pu isoler
+
+481
+00:30:46,473 --> 00:30:48,454
+le composant présent
+dans le sang d'Emily Kramer,
+
+482
+00:30:48,554 --> 00:30:51,075
+mais il a été distrait par la licorne
+qui courait dans le labo.
+
+483
+00:30:51,427 --> 00:30:52,514
+Très drôle.
+
+484
+00:30:55,940 --> 00:30:56,955
+Autre chose ?
+
+485
+00:30:57,390 --> 00:30:58,741
+D'autres blagues ?
+
+486
+00:31:00,434 --> 00:31:02,296
+Quelque chose t'a perturbée
+toute la journée.
+
+487
+00:31:02,438 --> 00:31:04,229
+Quelque chose d'autre
+que Claire Williams.
+
+488
+00:31:04,329 --> 00:31:07,604
+Et c'est bon car on a tous
+le droit d'avoir nos mauvais jours.
+
+489
+00:31:07,777 --> 00:31:10,032
+Mais tu ne peux pas
+m'en rendre responsable.
+
+490
+00:31:10,132 --> 00:31:11,820
+Je veux la trouver autant que toi.
+
+491
+00:31:11,920 --> 00:31:13,535
+Tu as raison, je suis désolée...
+
+492
+00:31:16,664 --> 00:31:17,801
+Je suis désolée.
+
+493
+00:31:24,041 --> 00:31:25,213
+D'accord.
+
+494
+00:31:25,937 --> 00:31:27,225
+J'avais un beau-père.
+
+495
+00:31:29,273 --> 00:31:31,016
+Quand il était bourré,
+il accusait ma mère
+
+496
+00:31:31,116 --> 00:31:33,042
+de voir d'autres hommes
+et il la battait.
+
+497
+00:31:34,095 --> 00:31:35,652
+Et elle faisait avec.
+
+498
+00:31:36,783 --> 00:31:39,438
+Elle n'a jamais appelé la police,
+pas une seule fois.
+
+499
+00:31:40,463 --> 00:31:43,214
+Et un jour il l'a frappée si fort
+qu'il lui a cassé le nez.
+
+500
+00:31:43,314 --> 00:31:44,365
+J'avais 9 ans.
+
+501
+00:31:44,736 --> 00:31:47,385
+Il est sorti en courant,
+a pris sa voiture et est parti.
+
+502
+00:31:47,559 --> 00:31:50,351
+Ma mère pleurait et je
+ne pouvais pas l'aider.
+
+503
+00:31:52,335 --> 00:31:54,118
+Et j'ai entendu sa voiture.
+
+504
+00:31:55,176 --> 00:31:56,642
+Il avait fait demi-tour.
+
+505
+00:31:59,672 --> 00:32:02,759
+Il gardait une arme dans
+la table de chevet.
+
+506
+00:32:04,009 --> 00:32:06,630
+Quand il a ouvert la porte,
+j'ai appuyé sur la gâchette.
+
+507
+00:32:07,401 --> 00:32:08,844
+Et j'ai appuyé encore.
+
+508
+00:32:11,957 --> 00:32:14,180
+Et je vois toujours son visage
+
+509
+00:32:15,773 --> 00:32:17,961
+me défiant pratiquement d'en finir.
+
+510
+00:32:21,090 --> 00:32:22,414
+Mais je n'ai pas pu.
+
+511
+00:32:26,028 --> 00:32:29,085
+Ils l'ont amené à l'hôpital en disant
+qu'il ne pourrait pas être sauvé,
+
+512
+00:32:29,185 --> 00:32:30,449
+mais il n'est pas mort.
+
+513
+00:32:31,399 --> 00:32:32,551
+Il s'est rétabli.
+
+514
+00:32:32,888 --> 00:32:34,726
+Et une nuit il s'est enfui.
+
+515
+00:32:35,156 --> 00:32:36,933
+On ne l'a plus jamais revu.
+
+516
+00:32:37,339 --> 00:32:39,570
+Et je m'en suis toujours voulue
+de ne pas l'avoir fait.
+
+517
+00:32:39,670 --> 00:32:40,988
+J'aurais dû le tuer.
+
+518
+00:32:41,446 --> 00:32:42,416
+Et je sais bien
+
+519
+00:32:42,516 --> 00:32:45,509
+qu'il n'est pas responsable de toutes
+les mauvaises choses dans le monde,
+
+520
+00:32:45,609 --> 00:32:47,994
+mais il est responsable
+pour quelques-unes.
+
+521
+00:32:49,329 --> 00:32:51,824
+Et tous les ans il m'envoie une carte
+pour mon anniversaire.
+
+522
+00:32:51,924 --> 00:32:53,681
+Juste pour me faire savoir...
+
+523
+00:32:54,336 --> 00:32:56,062
+qu'il est toujours là.
+
+524
+00:32:59,495 --> 00:33:01,261
+C'est ton anniversaire aujourd'hui.
+
+525
+00:33:10,449 --> 00:33:12,878
+Personne n'est intouchable, Olivia.
+
+526
+00:33:14,358 --> 00:33:16,047
+Si tu veux vraiment Esterbrook
+
+527
+00:33:16,147 --> 00:33:18,251
+va parler à ton amie Nina Sharp.
+
+528
+00:33:18,846 --> 00:33:21,522
+Massive Dynamic a 3 divisions
+pharmaceutiques différentes.
+
+529
+00:33:21,622 --> 00:33:23,821
+Elles sont en concurrence
+directe avec Intrepus.
+
+530
+00:33:23,921 --> 00:33:25,844
+Leur budget annuel
+pour l'espionnage industriel
+
+531
+00:33:25,944 --> 00:33:27,626
+pourrait nourrir un pays entier.
+
+532
+00:33:27,726 --> 00:33:31,794
+Je te garantis qu'elle a quelque
+chose sur David Esterbrook.
+
+533
+00:33:32,209 --> 00:33:34,777
+- Même si tu as raison je ne peux pas.
+- Pourquoi ?
+
+534
+00:33:34,877 --> 00:33:37,231
+Parce que malgré leur budget annuel
+
+535
+00:33:37,331 --> 00:33:39,396
+l'espionnage industriel est illégal.
+
+536
+00:33:39,496 --> 00:33:41,899
+Tu crois vraiment qu'elle
+admettra ça devant moi ?
+
+537
+00:33:45,828 --> 00:33:47,585
+C'est là quelque part, je le sais.
+
+538
+00:33:48,787 --> 00:33:50,642
+Je dois juste regarder de plus près.
+
+539
+00:34:00,968 --> 00:34:02,028
+Je sors !
+
+540
+00:34:04,851 --> 00:34:05,879
+Peter !
+
+541
+00:34:06,201 --> 00:34:08,435
+Je ne savais même pas que tu étais là.
+
+542
+00:34:17,675 --> 00:34:18,722
+Merci.
+
+543
+00:34:21,009 --> 00:34:23,063
+Excusez-moi, Mlle Sharp ?
+
+544
+00:34:24,375 --> 00:34:25,814
+Bonjour, je suis Peter...
+
+545
+00:34:25,914 --> 00:34:27,875
+Peter Bishop, le fils de Walter Bishop.
+
+546
+00:34:28,335 --> 00:34:30,319
+Vous n'êtes pas le seul
+à avoir fait ses devoirs.
+
+547
+00:34:30,479 --> 00:34:32,688
+Qu'est-ce que je peux faire
+pour vous M. Bishop ?
+
+548
+00:34:33,361 --> 00:34:35,862
+J'espérais pouvoir prendre
+quelques minutes de votre temps.
+
+549
+00:34:37,149 --> 00:34:38,790
+Mlle Dunham sait-elle que
+vous êtes ici ?
+
+550
+00:34:40,441 --> 00:34:42,305
+Non, elle ne le sait pas.
+
+551
+00:34:42,979 --> 00:34:44,170
+Eh bien, Peter,
+
+552
+00:34:45,107 --> 00:34:46,422
+allons marcher.
+
+553
+00:34:47,623 --> 00:34:52,103
+Vous pensez qu'Intrepus fait des tests
+illégaux sur des êtres humains.
+
+554
+00:34:52,203 --> 00:34:55,929
+C'est une accusation
+plutôt grave, M. Bishop.
+
+555
+00:34:56,581 --> 00:34:58,634
+Avez-vous des preuves de ça ?
+
+556
+00:34:59,581 --> 00:35:00,937
+Vous les confronteriez à ça ?
+
+557
+00:35:04,807 --> 00:35:07,319
+Supposons une seconde que
+ce que je dis est vrai.
+
+558
+00:35:08,282 --> 00:35:09,538
+Où le feraient-ils ?
+
+559
+00:35:10,634 --> 00:35:12,706
+Ils n'utiliseraient pas
+une de leurs installation.
+
+560
+00:35:12,806 --> 00:35:14,417
+Ça doit être un endroit reculé.
+
+561
+00:35:15,675 --> 00:35:18,160
+Vous êtes exactement le même
+que quand vous étiez enfant.
+
+562
+00:35:18,335 --> 00:35:19,879
+Vous ne devez pas vous en souvenir
+
+563
+00:35:19,979 --> 00:35:22,541
+mais vous et moi avons passé
+pas mal de temps ensemble.
+
+564
+00:35:22,641 --> 00:35:23,701
+Juste ici.
+
+565
+00:35:25,790 --> 00:35:29,834
+Votre père et moi étions plutôt proches
+quand nous étions plus jeunes.
+
+566
+00:35:32,859 --> 00:35:35,809
+J'ai toutes sortes d'informations,
+
+567
+00:35:35,909 --> 00:35:37,849
+et certaines ne me sont pas favorables.
+
+568
+00:35:38,846 --> 00:35:42,543
+Prenons par exemple les Aymaras
+du centre du Pérou.
+
+569
+00:35:43,421 --> 00:35:45,848
+Je sais que le sous-sol de leurs terres
+
+570
+00:35:45,948 --> 00:35:48,490
+abrite un alliage métallique
+
+571
+00:35:48,590 --> 00:35:50,817
+qui est potentiellement hyperconductif.
+
+572
+00:35:50,917 --> 00:35:52,633
+Je sais aussi
+
+573
+00:35:52,733 --> 00:35:56,578
+que vous avez réussi à faire
+des affaires avec eux,
+
+574
+00:35:56,678 --> 00:36:00,009
+et avec d'autres tribus dans le monde
+
+575
+00:36:00,109 --> 00:36:02,362
+qui sont d'habitude résistantes
+au développement.
+
+576
+00:36:04,204 --> 00:36:06,989
+Je suis désolé, Mlle Sharp.
+Je n'ai pas entendu votre question.
+
+577
+00:36:07,286 --> 00:36:08,864
+Ma question est :
+
+578
+00:36:09,481 --> 00:36:11,232
+voulez-vous faire un marché ?
+
+579
+00:36:12,378 --> 00:36:15,052
+Je vous donne votre information
+et en échange,
+
+580
+00:36:15,214 --> 00:36:17,050
+je viendrai vous voir un jour,
+
+581
+00:36:17,150 --> 00:36:19,221
+et vous me retournerez la faveur.
+
+582
+00:36:19,575 --> 00:36:20,907
+Sans poser de questions.
+
+583
+00:36:23,287 --> 00:36:24,712
+On a un accord ?
+
+584
+00:36:39,700 --> 00:36:40,939
+Vous sentez ça ?
+
+585
+00:36:41,388 --> 00:36:43,937
+Oui et la prochaine fois prévenez-moi.
+
+586
+00:36:46,519 --> 00:36:47,639
+Ce n'est pas ça.
+
+587
+00:36:48,318 --> 00:36:49,662
+Méthyleugenol.
+
+588
+00:36:49,888 --> 00:36:52,850
+Le produit chimique responsable
+de l'arôme de la jacinthe.
+
+589
+00:36:53,019 --> 00:36:54,023
+Quel est le rapport ?
+
+590
+00:36:54,165 --> 00:36:57,558
+J'essaye de déterminer ce qui a fait
+que les capsules radioactives
+
+591
+00:36:57,658 --> 00:37:00,374
+dans le système sanguin d'Emily Kramer
+explosent immédiatement.
+
+592
+00:37:00,671 --> 00:37:02,652
+C'est ça, Asterisk.
+
+593
+00:37:02,968 --> 00:37:05,218
+Astrid. Son nom est Astrid.
+
+594
+00:37:05,432 --> 00:37:09,073
+Je l'ai, Peter.
+Le méthyleugenol est la clé !
+
+595
+00:37:09,541 --> 00:37:11,215
+C'est ce qu'ils lui ont injecté.
+
+596
+00:37:11,418 --> 00:37:14,548
+C'est pour ça que ces femmes
+étaient choisies.
+
+597
+00:37:15,578 --> 00:37:18,800
+Tout seul c'est inoffensif mais
+en les traitant avec...
+
+598
+00:37:18,900 --> 00:37:20,900
+Ça cause l'explosion
+de toutes les capsules.
+
+599
+00:37:21,140 --> 00:37:22,498
+Ils l'ont rendue radioactive.
+
+600
+00:37:22,834 --> 00:37:24,279
+Ils l'ont transformée en arme.
+
+601
+00:37:24,545 --> 00:37:27,863
+Ça sera un composé bleu,
+
+602
+00:37:28,093 --> 00:37:29,452
+et maintenant ce que je...
+
+603
+00:37:32,308 --> 00:37:33,644
+Oui ! Oui !
+
+604
+00:37:33,960 --> 00:37:35,851
+C'est ça, un agent de liaison.
+
+605
+00:37:36,285 --> 00:37:37,492
+Ça marchera.
+
+606
+00:37:37,758 --> 00:37:40,265
+Ça interférera avec le processus.
+
+607
+00:37:40,629 --> 00:37:41,663
+Combien de temps ?
+
+608
+00:37:41,875 --> 00:37:43,637
+Combien de temps
+pour fabriquer le remède ?
+
+609
+00:37:43,737 --> 00:37:45,528
+Pas longtemps maintenant que je sais.
+
+610
+00:37:45,902 --> 00:37:47,055
+Où est Olivia ?
+
+611
+00:38:00,862 --> 00:38:01,899
+C'est arrivé quand ?
+
+612
+00:38:02,851 --> 00:38:04,727
+Quand est-ce devenu
+le monde où l'on vit ?
+
+613
+00:38:04,939 --> 00:38:06,855
+Patel, Esterbrook.
+
+614
+00:38:06,955 --> 00:38:09,213
+On fait confiance à ces gens
+pour prendre soin de nous.
+
+615
+00:38:09,313 --> 00:38:11,354
+5620 Stapleton avenue.
+
+616
+00:38:12,819 --> 00:38:15,239
+Le complexe où Claire
+Williams est retenue.
+
+617
+00:38:17,146 --> 00:38:18,099
+Comment as-tu pu... ?
+
+618
+00:38:18,199 --> 00:38:20,305
+Les isotopes radioactifs ont
+une signature thermique
+
+619
+00:38:20,405 --> 00:38:22,301
+qui est visible grâce à des
+satellites espions.
+
+620
+00:38:22,401 --> 00:38:24,762
+Un ami du Bureau de
+Reconnaissance National l'a retrouvé.
+
+621
+00:38:24,862 --> 00:38:26,112
+Tu as un ami au BRN.
+
+622
+00:38:26,212 --> 00:38:28,370
+J'ai un ami qui a piraté
+leur système de contrôle.
+
+623
+00:38:31,996 --> 00:38:34,741
+Si je fais ça,
+et que l'information n'est pas bonne !
+
+624
+00:38:34,841 --> 00:38:35,908
+Elle est bonne.
+
+625
+00:38:36,755 --> 00:38:37,799
+Elle est bonne.
+
+626
+00:38:44,574 --> 00:38:47,012
+Charlie, j'ai une piste solide.
+
+627
+00:38:48,046 --> 00:38:50,229
+Une équipe d'intervention, prête à tout.
+
+628
+00:38:50,553 --> 00:38:52,139
+- On y est ?
+- Presque.
+
+629
+00:38:52,239 --> 00:38:53,434
+On est sûr, c'est celui-là !
+
+630
+00:38:53,534 --> 00:38:55,837
+On a une signature thermique visible
+des isotopes.
+
+631
+00:38:55,937 --> 00:38:59,391
+Les isotopes radioactifs
+ne donnent pas...
+
+632
+00:38:59,511 --> 00:39:00,500
+Walter !
+
+633
+00:39:01,381 --> 00:39:02,361
+On en est où ?
+
+634
+00:39:08,403 --> 00:39:09,579
+Voilà l'antidote.
+
+635
+00:39:09,699 --> 00:39:11,469
+OK, Charlie on arrive.
+
+636
+00:39:11,569 --> 00:39:12,265
+Écoutez-moi.
+
+637
+00:39:12,561 --> 00:39:15,591
+Vous devez l'injecter directement
+dans son système sanguin.
+
+638
+00:39:15,691 --> 00:39:17,177
+Dans la jugulaire de préférence.
+
+639
+00:39:18,740 --> 00:39:21,390
+<i>On a localisé l'endroit
+sur le bord sud de Framingham.</i>
+
+640
+00:39:21,840 --> 00:39:23,500
+Les équipes de surveillance ont constaté
+
+641
+00:39:23,600 --> 00:39:25,130
+une sécurité armée dans les locaux.
+
+642
+00:39:25,300 --> 00:39:26,890
+Nous nous attendons à de la résistance
+
+643
+00:39:27,250 --> 00:39:28,760
+alors ce sera une entrée tactique.
+
+644
+00:39:28,860 --> 00:39:29,900
+Notre objectif principal
+
+645
+00:39:30,000 --> 00:39:32,130
+est de mettre en sécurité la
+victime, Claire Williams.
+
+646
+00:39:32,570 --> 00:39:33,530
+D'après la disposition
+
+647
+00:39:33,630 --> 00:39:35,630
+c'est probablement au sous-sol
+qu'elle est retenue.
+
+648
+00:39:36,060 --> 00:39:38,070
+Nous entrerons
+par le nord-ouest du bâtiment.
+
+649
+00:39:38,170 --> 00:39:41,330
+L'équipe Alpha entrera par devant
+inspectant le côté ouest du bâtiment.
+
+650
+00:39:41,430 --> 00:39:43,450
+L'équipe Bravo s'occupera des
+niveaux inférieurs.
+
+651
+00:39:43,550 --> 00:39:44,350
+C'est clair ?
+
+652
+00:39:46,620 --> 00:39:47,770
+Alors allons-y.
+
+653
+00:39:49,730 --> 00:39:51,240
+<i>FBI, vous êtes en état d'arrestation.</i>
+
+654
+00:39:51,720 --> 00:39:52,820
+<i>Couchez-vous tout de suite !</i>
+
+655
+00:39:53,300 --> 00:39:54,250
+<i>Mains derrière la tête.</i>
+
+656
+00:39:54,390 --> 00:39:55,200
+<i>La pièce est dégagée.</i>
+
+657
+00:39:56,630 --> 00:39:57,800
+<i>Quelqu'un avec moi !</i>
+
+658
+00:40:00,110 --> 00:40:00,910
+<i>Attention !</i>
+
+659
+00:40:01,420 --> 00:40:02,220
+Homme à terre !
+
+660
+00:40:05,310 --> 00:40:07,610
+On a un homme à terre.
+Besoin de secours immédiatement.
+
+661
+00:40:07,750 --> 00:40:08,550
+Faites-les entrer.
+
+662
+00:40:09,330 --> 00:40:10,130
+Restez avec lui.
+
+663
+00:40:10,620 --> 00:40:13,240
+Niveau sécurisé.
+On en a quelques-uns en garde à vue.
+
+664
+00:40:13,340 --> 00:40:14,630
+- Des signes de Claire ?
+- Non.
+
+665
+00:40:15,430 --> 00:40:17,200
+- Je vais en bas.
+- Fais attention.
+
+666
+00:40:25,010 --> 00:40:26,600
+Restez loin de ça, s'il vous plaît.
+
+667
+00:40:27,020 --> 00:40:29,090
+Où-est elle ? Où est Claire Williams ?
+
+668
+00:40:33,990 --> 00:40:37,090
+Vous pouvez pas aller dans cette pièce.
+Les radiations vont tous nous tuer.
+
+669
+00:40:37,300 --> 00:40:38,120
+Claire !
+
+670
+00:40:40,130 --> 00:40:41,590
+Claire, je m'appelle Olivia Dunham.
+
+671
+00:40:41,690 --> 00:40:42,850
+Je suis du FBI.
+
+672
+00:40:48,360 --> 00:40:50,570
+Je sais que vous avez peur
+mais écoutez-moi.
+
+673
+00:40:50,670 --> 00:40:52,320
+Venez jusqu'à la porte.
+
+674
+00:40:52,420 --> 00:40:53,410
+Je ne peux pas entrer.
+
+675
+00:40:53,510 --> 00:40:55,550
+Ma tête... ça fait mal.
+
+676
+00:40:55,650 --> 00:40:57,280
+Écoutez-moi ! C'est un médicament.
+
+677
+00:40:57,540 --> 00:40:59,570
+Il faut que vous veniez ici
+et que vous le preniez.
+
+678
+00:40:59,670 --> 00:41:00,810
+Je ne peux pas rentrer.
+
+679
+00:41:03,570 --> 00:41:04,370
+Claire !
+
+680
+00:41:07,070 --> 00:41:09,060
+Claire regardez-moi ! C'est bon.
+
+681
+00:41:09,160 --> 00:41:12,000
+Maintenant venez jusqu'à la porte.
+Continuez.
+
+682
+00:41:12,100 --> 00:41:13,760
+Vous devez prendre la seringue.
+
+683
+00:41:13,860 --> 00:41:15,410
+Je vais vous dire quoi faire
+
+684
+00:41:17,760 --> 00:41:19,480
+Bien. Bien... Claire.
+
+685
+00:41:21,810 --> 00:41:22,610
+Claire !
+
+686
+00:41:22,710 --> 00:41:23,690
+Regardez-moi Claire !
+
+687
+00:41:23,790 --> 00:41:26,060
+Claire. Je suis là avec vous.
+
+688
+00:41:26,630 --> 00:41:27,430
+Claire !
+
+689
+00:41:27,920 --> 00:41:29,930
+Claire. Vous devez faire
+la piqûre vous-même
+
+690
+00:41:30,030 --> 00:41:31,520
+dans votre jugulaire dans le cou.
+
+691
+00:41:31,620 --> 00:41:34,290
+Oh mon dieu. Ma tête !
+
+692
+00:41:35,340 --> 00:41:37,080
+Claire ! Claire !
+
+693
+00:41:37,180 --> 00:41:40,180
+Claire. Faites-le !
+Vous pouvez le faire.
+
+694
+00:41:40,590 --> 00:41:42,360
+Allez-y. Je sais
+que vous pouvez le faire.
+
+695
+00:41:42,460 --> 00:41:43,300
+Plantez-la dedans.
+
+696
+00:42:11,530 --> 00:42:12,330
+Agent Dunham.
+
+697
+00:42:13,690 --> 00:42:16,020
+Apparemment,
+je n'ai pas été assez clair.
+
+698
+00:42:16,270 --> 00:42:17,680
+Je croyais que vous aimeriez savoir
+
+699
+00:42:17,780 --> 00:42:19,240
+que Claire Williams est en sécurité.
+
+700
+00:42:20,070 --> 00:42:22,230
+Je ne peux pas dire que
+ce nom me soit familier.
+
+701
+00:42:22,330 --> 00:42:23,130
+C'est étrange.
+
+702
+00:42:23,830 --> 00:42:26,490
+Parce qu'une de vos employés,
+Elizabeth Sarnoff,
+
+703
+00:42:26,820 --> 00:42:28,300
+a reconnu que vous lui aviez fourni
+
+704
+00:42:28,400 --> 00:42:29,670
+l'endroit et l'équipement
+
+705
+00:42:29,770 --> 00:42:32,260
+pour faire d'Emily Kramer
+et Mlle Williams
+
+706
+00:42:32,360 --> 00:42:33,610
+des armes humaines.
+
+707
+00:42:33,890 --> 00:42:36,010
+Une ancienne employée mécontente
+
+708
+00:42:36,500 --> 00:42:38,240
+dira n'importe quoi
+
+709
+00:42:38,340 --> 00:42:40,120
+pour diffamer le patron qui l'a virée.
+
+710
+00:42:40,220 --> 00:42:43,040
+Donc ça vous gêne pas de me suivre
+pour répondre à quelques questions.
+
+711
+00:42:43,140 --> 00:42:45,440
+Pensez-vous honnêtement que
+cela mène quelque part ?
+
+712
+00:42:47,150 --> 00:42:49,750
+J'ai une société d'avocats
+qui inculpe plus en une heure
+
+713
+00:42:49,850 --> 00:42:51,350
+que vous ne le faites en une année.
+
+714
+00:42:51,840 --> 00:42:54,850
+Alors je vous suggèrerais de leur
+conseiller de venir vous voir au FBI.
+
+715
+00:42:56,120 --> 00:42:58,190
+Je pense que je vais ajouter
+le harcèlement policier
+
+716
+00:42:58,290 --> 00:43:00,720
+à la multitude de charges
+dont je vais vous faire inculper.
+
+717
+00:43:00,820 --> 00:43:03,050
+Je vais vous faire sortir
+d'ici avec les menottes
+
+718
+00:43:03,150 --> 00:43:04,530
+pour refus d'obtempérer.
+
+719
+00:43:05,070 --> 00:43:06,860
+Alors les journalistes que j'ai prévenus
+
+720
+00:43:07,620 --> 00:43:10,330
+pourront étaler votre photo
+partout aux infos.
+
+721
+00:43:11,150 --> 00:43:12,610
+Vous pouvez ne pas me répondre
+
+722
+00:43:13,710 --> 00:43:14,820
+ni au gouvernement fédéral
+
+723
+00:43:15,810 --> 00:43:18,250
+mais vous devez des réponses
+à un ensemble de dirigeants.
+
+724
+00:43:19,690 --> 00:43:22,660
+Et je me demande
+quelle sera leur réaction
+
+725
+00:43:23,180 --> 00:43:25,060
+quand leur entreprise se retrouvera
+
+726
+00:43:25,160 --> 00:43:27,350
+au centre d'une enquête pour meurtre.
+
+727
+00:44:11,170 --> 00:44:12,420
+Je suppose qu'on vous a dit.
+
+728
+00:44:12,610 --> 00:44:14,810
+Que vous avez arrêté un dirigeant
+
+729
+00:44:14,910 --> 00:44:17,100
+d'un conglomérat multimilliardaire
+dans son bureau ?
+
+730
+00:44:17,850 --> 00:44:19,840
+Ouais. J'ai entendu.
+
+731
+00:44:20,830 --> 00:44:22,020
+Il y a quelques caméras ici.
+
+732
+00:44:23,830 --> 00:44:24,630
+Les journalistes.
+
+733
+00:44:26,090 --> 00:44:27,820
+Ils ont toujours leur quantité de chair.
+
+734
+00:44:30,360 --> 00:44:33,290
+Je comprends que vous pensiez que
+j'ai agi en suivant trop mes émotions.
+
+735
+00:44:34,298 --> 00:44:37,460
+Même si les hommes disent toujours ça
+des femmes avec qui ils travaillent.
+
+736
+00:44:37,560 --> 00:44:38,780
+Je vais être claire.
+
+737
+00:44:38,880 --> 00:44:42,360
+<i>Je suis émotionnelle.
+Ça influence mon travail.</i>
+
+738
+00:44:42,500 --> 00:44:43,750
+C'est ce qui me motive.
+
+739
+00:44:45,180 --> 00:44:47,030
+Ça m'aide à me mettre à la place
+
+740
+00:44:47,130 --> 00:44:47,930
+de nos victimes,
+
+741
+00:44:48,480 --> 00:44:49,530
+à voir ce qu'elles ont vu.
+
+742
+00:44:50,940 --> 00:44:53,720
+Même si je ne le veux pas.
+Même si ça me fait peur.
+
+743
+00:44:55,030 --> 00:44:57,170
+Et je pense que ça fait
+de moi un meilleur agent.
+
+744
+00:44:59,870 --> 00:45:02,110
+Si vous avez un problème avec
+ça, j'en suis désolée.
+
+745
+00:45:04,140 --> 00:45:05,240
+Vous pouvez me virer.
+
+746
+00:45:10,560 --> 00:45:12,170
+Mais j'espère que vous ne le ferez pas.
+
+747
+00:45:15,000 --> 00:45:17,290
+Vous ne vous en sortirez pas
+si facilement, agent Dunham.
+
+748
+00:45:19,880 --> 00:45:21,060
+Je vous verrai demain matin.
+
+749
+00:45:28,300 --> 00:45:30,080
+<i>Aujourd'hui le pic du prix du pétrole</i>
+
+750
+00:45:30,180 --> 00:45:32,160
+<i>a encore fait trembler
+les marchés financiers.</i>
+
+751
+00:45:32,730 --> 00:45:34,010
+<i>Mais concernant le choc</i>
+
+752
+00:45:34,110 --> 00:45:36,420
+<i>rien ne dépasse
+la très publique détention</i>
+
+753
+00:45:36,520 --> 00:45:39,280
+<i>de David Esterbrook
+de Intrepus par le FBI.</i>
+
+754
+00:45:39,840 --> 00:45:42,150
+<i>Le titre Intrepus en prend un sacré coup</i>
+
+755
+00:45:42,250 --> 00:45:43,420
+<i>dans les échanges de la nuit.</i>
+
+756
+00:45:43,520 --> 00:45:45,280
+<i>Et les analystes prédisent une ouverture</i>
+
+757
+00:45:45,380 --> 00:45:46,890
+<i>à 23$ l'action,</i>
+
+758
+00:45:46,990 --> 00:45:48,560
+<i>prix le plus bas depuis dix ans.</i>
+
+759
+00:45:48,660 --> 00:45:50,340
+<i>Ce qui est une très bonne nouvelle</i>
+
+760
+00:45:50,440 --> 00:45:51,820
+<i>pour les concurrents d'Intrepus,</i>
+
+761
+00:45:52,100 --> 00:45:54,430
+<i>en particulier Massive Dynamic.</i>
+
+762
+00:45:54,530 --> 00:45:57,100
+<i>Les actions de MD grimpent d'environ 12%</i>
+
+763
+00:45:57,200 --> 00:45:58,660
+<i>comme les investisseurs se réfugient</i>
+
+764
+00:45:58,760 --> 00:46:00,540
+<i>vers la marque
+la plus fiable du secteur.</i>
+
+765
+00:46:03,210 --> 00:46:05,130
+- Salut.
+- Olivia !
+
+766
+00:46:05,230 --> 00:46:06,890
+Vous vous êtes encore enfermée dehors ?
+
+767
+00:46:07,340 --> 00:46:08,960
+En fait, Walter c'est notre hôtel.
+
+768
+00:46:11,790 --> 00:46:12,870
+J'ai besoin de te parler.
+
+769
+00:46:13,200 --> 00:46:15,160
+Bien sûr.
+Je te retrouve là-haut, d'accord ?
+
+770
+00:46:18,610 --> 00:46:19,600
+C'est bon de vous voir.
+
+771
+00:46:20,690 --> 00:46:21,510
+Bonne nuit Walter.
+
+772
+00:46:21,730 --> 00:46:23,520
+Et souviens-toi ce soir s'il te plaît :
+
+773
+00:46:23,950 --> 00:46:25,770
+la brosse à dents rouge,
+c'est la mienne.
+
+774
+00:46:29,280 --> 00:46:30,340
+Blanc pour Walter.
+
+775
+00:46:31,910 --> 00:46:33,770
+C'est moi. N'est-ce pas ?
+
+776
+00:46:34,480 --> 00:46:35,280
+Oui.
+
+777
+00:46:39,190 --> 00:46:40,310
+Tout va bien ?
+
+778
+00:46:49,680 --> 00:46:51,440
+Je sais d'où tu tiens tes informations.
+
+779
+00:46:52,770 --> 00:46:54,010
+À propos de Claire Williams.
+
+780
+00:46:56,900 --> 00:46:57,850
+Quel était son prix ?
+
+781
+00:46:58,870 --> 00:47:00,380
+Que voulait Nina Sharp en retour ?
+
+782
+00:47:04,430 --> 00:47:06,180
+Rien de fâcheux
+si c'est ce qui t'inquiète.
+
+783
+00:47:06,280 --> 00:47:07,150
+Peter.
+
+784
+00:47:07,490 --> 00:47:09,160
+Tu n'as pas à t'inquiéter pour moi.
+
+785
+00:47:09,260 --> 00:47:11,610
+Je suis un grand garçon.
+Je peux m'occuper de moi tout seul.
+
+786
+00:47:14,180 --> 00:47:15,240
+Tu as fait attention à moi,
+
+787
+00:47:15,340 --> 00:47:16,690
+donc je te renvoie l'ascenceur.
+
+788
+00:47:22,420 --> 00:47:23,220
+Merci.
+
+789
+00:47:26,880 --> 00:47:28,690
+Il n'y avait pas de lettre
+aujourd'hui, hein ?
+
+790
+00:47:32,190 --> 00:47:32,990
+Non.
+
+791
+00:47:35,160 --> 00:47:36,090
+Joyeux anniversaire.
+
+792
+00:47:46,700 --> 00:47:48,490
+Tu devrais plutôt remonter
+
+793
+00:47:48,590 --> 00:47:50,320
+avant que Walter ne s'endorme
+dans ton lit.
+
+794
+00:47:53,450 --> 00:47:54,250
+Ouais.
+
+795
+00:47:55,720 --> 00:47:57,270
+En fait il l'a déjà fait auparavant.
+
+796
+00:47:58,150 --> 00:47:59,120
+Pendant que je dormais.
+
+797
+00:47:59,700 --> 00:48:01,690
+Ce n'est pas le reveil idéal.
+
+798
+00:48:06,110 --> 00:48:06,910
+Bonne nuit.
+
+799
+00:48:10,040 --> 00:48:10,840
+Bonne nuit.
+
+800
+00:48:55,743 --> 00:48:57,838
+<i>Je pense à toi.</i>
+
+801
+00:48:59,100 --> 00:49:01,500
+<b><i>Merci de votre fidélité
+et de votre patience...</b></i>
+
+802
+00:49:01,600 --> 00:49:04,000
+<b><i>On se retrouve le 11 novembre pour</b></i>
+
+803
+00:49:04,100 --> 00:49:06,200
+<b><i>FRINGE - 107
+- In Which We Meet Mr. Jones -</b></i>
+
+804
+00:49:06,401 --> 00:49:08,440
+<b><i>LIAISON TEAM on www.U-Sub.net
+Bizoo...</b></i>
+

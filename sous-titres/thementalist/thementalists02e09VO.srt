@@ -1,0 +1,2982 @@
+1
+00:01:24,298 --> 00:01:25,416
+Which one's ours?
+
+2
+00:01:25,673 --> 00:01:28,389
+The one who looks like
+she blows her nose with $100 bills.
+
+3
+00:01:29,678 --> 00:01:31,475
+- They all look like that.
+- Joke.
+
+4
+00:01:32,467 --> 00:01:34,552
+That's her over there.
+Let's go.
+
+5
+00:01:35,525 --> 00:01:37,445
+We shouldn't have
+to be asking for charity.
+
+6
+00:01:37,570 --> 00:01:39,111
+The department needs the money.
+
+7
+00:01:39,236 --> 00:01:40,236
+Smile.
+
+8
+00:02:02,563 --> 00:02:04,252
+Mrs. Doverton? Hi.
+
+9
+00:02:04,584 --> 00:02:06,655
+I'm Teresa Lisbon.
+This is Kimball Cho.
+
+10
+00:02:10,218 --> 00:02:11,463
+We're with the CBI.
+
+11
+00:02:11,588 --> 00:02:13,257
+You're sponsoring us, I believe.
+
+12
+00:02:14,870 --> 00:02:16,010
+Of course. Yes.
+
+13
+00:02:16,222 --> 00:02:17,115
+Welcome.
+
+14
+00:02:17,240 --> 00:02:19,263
+I was very sorry
+for your terrible loss.
+
+15
+00:02:21,195 --> 00:02:22,975
+- You know, those agents.
+- Thank you.
+
+16
+00:02:23,485 --> 00:02:25,644
+I can only imagine
+what you must all be feeling.
+
+17
+00:02:26,025 --> 00:02:27,188
+We don't talk about it.
+
+18
+00:02:29,183 --> 00:02:29,940
+Thanks.
+
+19
+00:02:43,825 --> 00:02:46,249
+I'd like to introduce you
+to my nephews.
+
+20
+00:02:46,374 --> 00:02:47,624
+This is Thomas.
+
+21
+00:02:49,240 --> 00:02:50,454
+Say hello, Thomas.
+
+22
+00:02:53,215 --> 00:02:54,465
+Please call me Tom.
+
+23
+00:02:55,811 --> 00:02:56,967
+And this is George.
+
+24
+00:02:58,343 --> 00:02:59,600
+So, Miss Lisbon,
+
+25
+00:03:00,476 --> 00:03:02,540
+what entertainment
+you've planned tonight?
+
+26
+00:03:02,735 --> 00:03:05,725
+Actually, a member of our team
+used to be in show business.
+
+27
+00:03:05,895 --> 00:03:07,182
+He's sort of a magician,
+
+28
+00:03:07,774 --> 00:03:10,424
+And he's going to entertain us,
+hopefully.
+
+29
+00:03:14,380 --> 00:03:15,277
+How nice.
+
+30
+00:03:45,133 --> 00:03:45,933
+What?
+
+31
+00:03:46,662 --> 00:03:47,812
+Just a smile.
+
+32
+00:03:49,876 --> 00:03:51,034
+He just smiled.
+
+33
+00:03:51,159 --> 00:03:52,368
+<i>Ladies and gentlemen,</i>
+
+34
+00:03:52,493 --> 00:03:56,193
+<i>Please welcome Patrick Jane
+of California Bureau Investigation.</i>
+
+35
+00:04:03,300 --> 00:04:04,424
+<i>Good evening.</i>
+
+36
+00:04:05,341 --> 00:04:06,865
+<i>You're a very good-looking crowd.</i>
+
+37
+00:04:06,990 --> 00:04:09,434
+<i>Thank you for coming this evening.
+You, too, back there.</i>
+
+38
+00:04:09,758 --> 00:04:12,045
+<i>You look very regal
+up there in the window.</i>
+
+39
+00:04:12,170 --> 00:04:14,662
+<i>My name is Patrick Jane.
+I'm from the CBI.</i>
+
+40
+00:04:14,965 --> 00:04:16,223
+<i>This is an egg.</i>
+
+41
+00:04:17,130 --> 00:04:20,296
+<i>I'm supposed to do magic tricks
+and read minds for you,</i>
+
+42
+00:04:21,020 --> 00:04:22,797
+<i>But after some thought, I...</i>
+
+43
+00:04:23,340 --> 00:04:24,693
+<i>decided what the hell?</i>
+
+44
+00:04:24,923 --> 00:04:28,128
+<i>I don't really want to do
+that corny old stuff, so...</i>
+
+45
+00:04:39,400 --> 00:04:42,594
+<i>Instead what I'd like to do
+is much cooler.</i>
+
+46
+00:04:42,949 --> 00:04:44,699
+<i>I would like to transform</i>
+
+47
+00:04:45,118 --> 00:04:46,301
+<i>your consciousness.</i>
+
+48
+00:04:47,872 --> 00:04:51,206
+<i>Have any of you ever stopped to consider
+what lucky bastards you all are...</i>
+
+49
+00:04:53,877 --> 00:04:56,701
+<i>If you think about all the suffering
+and the injustice in the world?</i>
+
+50
+00:04:57,375 --> 00:05:00,240
+<i>Every second of every day
+there is someone,</i>
+
+51
+00:05:00,891 --> 00:05:01,891
+<i>somewhere</i>
+
+52
+00:05:02,410 --> 00:05:04,310
+<i>crying out in pain and fear.</i>
+
+53
+00:05:07,791 --> 00:05:09,141
+<i>A woman is raped.</i>
+
+54
+00:05:09,399 --> 00:05:11,093
+<i>A child starves to death.</i>
+
+55
+00:05:11,218 --> 00:05:14,118
+<i>A man is executed
+for a crime he didn't commit.</i>
+
+56
+00:05:15,648 --> 00:05:16,920
+<i>But here we are.</i>
+
+57
+00:05:17,765 --> 00:05:21,154
+<i>We could be standing on a roof
+in some bangladeshi village,</i>
+
+58
+00:05:21,461 --> 00:05:23,739
+<i>waiting for the flood waters
+to recede.</i>
+
+59
+00:05:29,828 --> 00:05:30,663
+<i>But, no,</i>
+
+60
+00:05:31,230 --> 00:05:32,732
+<i>here we are, In this</i>
+
+61
+00:05:32,857 --> 00:05:34,157
+<i>lavish ballroom,</i>
+
+62
+00:05:35,859 --> 00:05:37,749
+<i>Sipping french champagne,</i>
+
+63
+00:05:37,922 --> 00:05:40,172
+<i>declining the hors d'oeuvres.
+Thank you very much.</i>
+
+64
+00:05:42,454 --> 00:05:44,149
+<i>Put your hands in the air,</i>
+
+65
+00:05:44,687 --> 00:05:46,139
+<i>Anyone that feels lucky.</i>
+
+66
+00:05:46,351 --> 00:05:49,066
+<i>If you think you are lucky,
+put your hands up.</i>
+
+67
+00:05:49,191 --> 00:05:50,191
+<i>That's right.</i>
+
+68
+00:05:50,474 --> 00:05:52,935
+<i>We here are all blessed by fortune.</i>
+
+69
+00:05:54,065 --> 00:05:56,230
+<i>If you disagree,
+put down your hands.</i>
+
+70
+00:05:57,187 --> 00:05:58,232
+<i>If you don't think</i>
+
+71
+00:05:58,426 --> 00:06:01,249
+<i>you need to express your thanks
+for that blessing,</i>
+
+72
+00:06:01,919 --> 00:06:03,369
+<i>put down your hand.</i>
+
+73
+00:06:06,045 --> 00:06:09,192
+<i>If you're not willing to write a check.
+That will save actual lives,</i>
+
+74
+00:06:09,317 --> 00:06:11,203
+<i>then please put down your hands.</i>
+
+75
+00:06:13,957 --> 00:06:14,970
+<i>That's great.</i>
+
+76
+00:06:16,516 --> 00:06:17,516
+<i>Very good.</i>
+
+77
+00:06:19,173 --> 00:06:20,173
+<i>Now magic.</i>
+
+78
+00:06:21,282 --> 00:06:23,787
+<i>You, sir, put your left hand
+in your jacket pocket</i>
+
+79
+00:06:23,912 --> 00:06:26,878
+<i>and take out whatever is in there.
+And show it to everybody.</i>
+
+80
+00:06:33,888 --> 00:06:34,888
+Thank you.
+
+81
+00:06:50,569 --> 00:06:52,327
+Make those checks legible.
+
+82
+00:06:52,691 --> 00:06:54,698
+A novel way of raising money,
+I must say.
+
+83
+00:06:55,145 --> 00:06:56,957
+The direct approach
+sometimes the best.
+
+84
+00:06:57,715 --> 00:06:58,865
+Do excuse me.
+
+85
+00:07:00,502 --> 00:07:02,841
+You son of a bitch.
+You scared the crap out of me.
+
+86
+00:07:02,966 --> 00:07:06,050
+Please, like I don't know
+how to work a fat crowd of suckers.
+
+87
+00:07:09,546 --> 00:07:10,546
+What?
+
+88
+00:07:15,701 --> 00:07:17,101
+What's the matter?
+
+89
+00:07:17,538 --> 00:07:18,888
+Carl's been shot.
+
+90
+00:07:29,509 --> 00:07:30,767
+
+
+91
+00:07:33,743 --> 00:07:35,537
+Whoever they were, they were.
+
+92
+00:07:35,706 --> 00:07:37,621
+Bypassed the alarm system somehow,
+
+93
+00:07:37,746 --> 00:07:40,342
+shut off the security cameras.
+Prints are unlikely.
+
+94
+00:07:40,906 --> 00:07:43,058
+When was the last time
+you changed the lock code?
+
+95
+00:07:43,588 --> 00:07:45,334
+That was a classified b vault door.
+
+96
+00:07:45,459 --> 00:07:47,466
+I was told that no one
+could get through it.
+
+97
+00:07:47,635 --> 00:07:49,230
+Insurance had damn well better pay.
+
+98
+00:07:49,355 --> 00:07:52,491
+Good safecracker get through anything
+with the right tools and enough time.
+
+99
+00:07:52,679 --> 00:07:55,038
+- This is beautiful. Look at that.
+- Excuse me.
+
+100
+00:07:57,274 --> 00:07:58,435
+Would you stop that?
+
+101
+00:07:59,177 --> 00:08:00,061
+Sure.
+
+102
+00:08:00,186 --> 00:08:02,147
+Just having a look.
+Got some cool stuff in here.
+
+103
+00:08:04,107 --> 00:08:05,107
+Very cool.
+
+104
+00:08:06,399 --> 00:08:07,694
+You are brothers, right?
+
+105
+00:08:08,304 --> 00:08:09,304
+Indeed.
+
+106
+00:08:09,485 --> 00:08:11,845
+Nice to see that the case
+is in such perceptive hands.
+
+107
+00:08:11,970 --> 00:08:13,742
+Can hands be perceptive?
+I don't think so.
+
+108
+00:08:15,452 --> 00:08:17,041
+So is it usual that your uncle
+
+109
+00:08:17,166 --> 00:08:18,704
+is here after closing?
+
+110
+00:08:19,043 --> 00:08:20,761
+He's not our uncle exactly.
+
+111
+00:08:21,011 --> 00:08:24,061
+I'm sorry.
+The man having sex with your aunt then.
+
+112
+00:08:31,684 --> 00:08:33,744
+But tonight was the benefit.
+Carl must have
+
+113
+00:08:34,097 --> 00:08:37,057
+forgotten something, come back
+and surprised the thieves.
+
+114
+00:08:37,945 --> 00:08:38,851
+Sure did.
+
+115
+00:08:42,026 --> 00:08:44,281
+What's the deal
+with Carl and your aunt?
+
+116
+00:08:44,406 --> 00:08:45,788
+How did they get together?
+
+117
+00:08:45,913 --> 00:08:47,683
+They met four years ago at the club.
+
+118
+00:08:47,808 --> 00:08:49,897
+The labor day
+senior tennis tournament.
+
+119
+00:08:50,022 --> 00:08:51,697
+He was a pro back east.
+
+120
+00:08:52,545 --> 00:08:54,850
+And they married,
+and he joined the family business?
+
+121
+00:08:55,148 --> 00:08:56,443
+Yes, that's correct.
+
+122
+00:08:56,716 --> 00:08:59,163
+Does your resentment of him
+create any tension?
+
+123
+00:08:59,994 --> 00:09:00,956
+Resentment?
+
+124
+00:09:01,464 --> 00:09:02,916
+Well, the old girl gets laid.
+
+125
+00:09:04,127 --> 00:09:06,340
+Next thing you know,
+you got a new business partner.
+
+126
+00:09:07,313 --> 00:09:09,089
+Come on. You resent him.
+
+127
+00:09:10,372 --> 00:09:11,717
+Carl's been a godsend.
+
+128
+00:09:12,362 --> 00:09:14,761
+A natural salesman,
+and he's made Esther very happy.
+
+129
+00:09:15,149 --> 00:09:17,097
+Yes, that's the main thing.
+
+130
+00:09:17,511 --> 00:09:18,724
+If I may say so,
+
+131
+00:09:18,892 --> 00:09:21,935
+what I do very much resent
+is the tone of your questioning.
+
+132
+00:09:22,312 --> 00:09:24,621
+- Sorry if we've offended you.
+- Don't say that.
+
+133
+00:09:24,746 --> 00:09:27,900
+This is a murder investigation.
+I can be as hard-ass as I'd like to be.
+
+134
+00:09:28,401 --> 00:09:30,777
+Actually,
+it's not a murder investigation yet.
+
+135
+00:09:31,357 --> 00:09:33,459
+If Mr. Ward dies,
+which seems likely,
+
+136
+00:09:33,584 --> 00:09:35,461
+It'll become a murder investigation.
+
+137
+00:09:35,867 --> 00:09:37,767
+That's right. He's not dead.
+
+138
+00:09:39,518 --> 00:09:41,418
+I apologize for my rudeness.
+
+139
+00:09:44,232 --> 00:09:45,083
+Let's go.
+
+140
+00:09:54,766 --> 00:09:56,595
+We get a break in the case, boss.
+
+141
+00:09:56,968 --> 00:09:58,376
+This is last night's footage
+
+142
+00:09:58,501 --> 00:10:00,529
+from a parking lot camera
+across the street.
+
+143
+00:10:00,707 --> 00:10:03,085
+That's Doverton & Co.
+Back there on the right.
+
+144
+00:10:03,951 --> 00:10:06,433
+So now we zoom in like this...
+
+145
+00:10:06,773 --> 00:10:08,267
+and there, that's him.
+
+146
+00:10:09,758 --> 00:10:12,110
+Then I checked the new cameras
+the city put in,
+
+147
+00:10:12,278 --> 00:10:14,046
+to catch traffic light violations.
+
+148
+00:10:14,171 --> 00:10:17,475
+I figured I'd look at the ones nearest
+to Doverton's around that time of night.
+
+149
+00:10:19,077 --> 00:10:22,204
+Car's registered to Doyle Murphy.
+His sheet's a mile long and
+
+150
+00:10:22,372 --> 00:10:23,914
+safecracking was his specialty.
+
+151
+00:10:24,425 --> 00:10:25,874
+I got an address in locke.
+
+152
+00:10:26,122 --> 00:10:27,167
+Nice work.
+
+153
+00:10:27,572 --> 00:10:28,481
+Quick.
+
+154
+00:10:28,753 --> 00:10:31,171
+It's your hook. Contact local P.D.
+and have them pick him up.
+
+155
+00:10:31,339 --> 00:10:32,810
+- Take Rigsby.
+- Thanks.
+
+156
+00:10:32,935 --> 00:10:34,729
+It's all very neat and easy.
+
+157
+00:10:35,796 --> 00:10:38,845
+- Sometimes it happens that way.
+- I'll take a layup anytime, thank you.
+
+158
+00:10:39,913 --> 00:10:41,431
+You're the professionals here,
+
+159
+00:10:41,872 --> 00:10:44,309
+but is it usual
+that there is a single perpetrator
+
+160
+00:10:44,434 --> 00:10:46,144
+for this kind of a jewelry heist?
+
+161
+00:10:46,312 --> 00:10:48,605
+No, at least two.
+Sometimes maybe three or four.
+
+162
+00:10:49,045 --> 00:10:51,250
+Then there's the timing
+of the robbery.
+
+163
+00:10:51,555 --> 00:10:53,652
+Weren't those diamonds supposed
+to be picked up?
+
+164
+00:10:53,820 --> 00:10:55,362
+Yeah, 10:15, when they opened.
+
+165
+00:10:55,933 --> 00:10:57,572
+You think maybe it's an inside job?
+
+166
+00:10:57,945 --> 00:10:58,865
+Yes, I do.
+
+167
+00:10:59,033 --> 00:11:00,688
+Guess what? We're way ahead of you,
+
+168
+00:11:00,813 --> 00:11:03,098
+we're doing background checks
+on the Doverton staff list.
+
+169
+00:11:03,223 --> 00:11:06,023
+My provisional bet,
+provisional... Carl Ward.
+
+170
+00:11:07,047 --> 00:11:08,667
+Hello? He was shot three times.
+
+171
+00:11:09,129 --> 00:11:11,378
+- Best accomplice is a dead one.
+- But he's not dead.
+
+172
+00:11:11,745 --> 00:11:13,542
+- Nobody's perfect.
+- That's it?
+
+173
+00:11:14,143 --> 00:11:16,008
+Carl Ward is crooked
+because he got shot?
+
+174
+00:11:16,176 --> 00:11:18,010
+- He's an ex-tennis pro.
+- So?
+
+175
+00:11:18,458 --> 00:11:21,062
+Shady people, by definition,
+disappointed.
+
+176
+00:11:21,187 --> 00:11:22,830
+Should be on center court,
+Wimbledon.
+
+177
+00:11:22,955 --> 00:11:24,892
+Instead is tossing lobs
+to rich old ladies.
+
+178
+00:11:25,017 --> 00:11:27,019
+- Makes him bitter and twisted.
+- Case closed.
+
+179
+00:11:27,431 --> 00:11:28,501
+I'm just saying.
+
+180
+00:11:28,713 --> 00:11:31,148
+Go talk to Murphy.
+See what he has to say about it.
+
+181
+00:11:32,565 --> 00:11:33,601
+I'm just saying.
+
+182
+00:11:48,825 --> 00:11:51,340
+Jane knows about us.
+I'm sure he does.
+
+183
+00:11:54,308 --> 00:11:56,757
+Why would it be so bad
+i people figured out we're together?
+
+184
+00:11:57,956 --> 00:11:59,006
+Because....
+
+185
+00:12:00,989 --> 00:12:02,054
+What do you mean?
+
+186
+00:12:02,851 --> 00:12:03,951
+I just mean,
+
+187
+00:12:05,030 --> 00:12:07,059
+- is this it?
+- What? This building?
+
+188
+00:12:07,944 --> 00:12:08,964
+I mean us.
+
+189
+00:12:09,620 --> 00:12:11,350
+Is this all it's gonna be,
+
+190
+00:12:11,475 --> 00:12:14,207
+Sneaking around all the time,
+afraid someone's gonna find out?
+
+191
+00:12:14,332 --> 00:12:17,361
+It's just the bureau rules.
+The rules are the rules, right?
+
+192
+00:12:18,435 --> 00:12:19,863
+Maybe I'm sick of the rules.
+
+193
+00:12:20,615 --> 00:12:21,808
+Thar she blows.
+
+194
+00:12:37,131 --> 00:12:41,135
+- You don't want to talk about it?
+- I do, but not here, not on the job.
+
+195
+00:12:41,896 --> 00:12:44,304
+- We'll have to talk about it sometime.
+- Yeah. Soon.
+
+196
+00:12:46,994 --> 00:12:47,903
+CBI.
+
+197
+00:12:48,587 --> 00:12:51,747
+I'd like to know about the resident
+who owns the blue beater there.
+
+198
+00:12:52,171 --> 00:12:53,090
+Murphy?
+
+199
+00:12:53,837 --> 00:12:56,024
+Pays his rent, makes no trouble.
+
+200
+00:12:57,286 --> 00:12:58,287
+What'd he do?
+
+201
+00:12:59,343 --> 00:13:01,016
+Has he had any visitors recently?
+
+202
+00:13:02,167 --> 00:13:03,907
+Wait. Yeah, couple hours ago.
+
+203
+00:13:04,752 --> 00:13:06,159
+Big guy in a cowboy hat,
+
+204
+00:13:06,663 --> 00:13:07,807
+pimped-out truck.
+
+205
+00:13:07,932 --> 00:13:10,333
+Stayed... five minutes, split.
+
+206
+00:13:10,623 --> 00:13:13,411
+Does Murphy's room have any rear exit
+of any kind? A window?
+
+207
+00:13:16,167 --> 00:13:17,170
+What did he do?
+
+208
+00:13:19,918 --> 00:13:22,088
+State agents.
+We need to talk to you.
+
+209
+00:13:35,398 --> 00:13:36,307
+Go.
+
+210
+00:13:37,660 --> 00:13:38,569
+Clear.
+
+211
+00:13:47,160 --> 00:13:49,453
+I guess that lets Carl Ward
+off the hook then, huh?
+
+212
+00:14:03,885 --> 00:14:05,802
+Ballistics owes me,
+expedited the report.
+
+213
+00:14:06,405 --> 00:14:09,264
+This gun was used to shoot
+both Doyle Murphy and Carl Ward.
+
+214
+00:14:09,432 --> 00:14:12,267
+There were no jewels in the room
+or the car. No prints on the gun.
+
+215
+00:14:12,907 --> 00:14:15,459
+Start going through all
+of Murphy's known associates.
+
+216
+00:14:15,584 --> 00:14:17,397
+Looking for a cowboy
+in a fancy truck.
+
+217
+00:14:17,618 --> 00:14:19,716
+Kind of a thin trail.
+Murphy's a career criminal.
+
+218
+00:14:19,841 --> 00:14:21,450
+He has a lot of associates.
+
+219
+00:14:23,478 --> 00:14:24,571
+Maybe I can help.
+
+220
+00:14:24,959 --> 00:14:25,931
+Just maybe?
+
+221
+00:14:26,532 --> 00:14:28,408
+Feeling unsure about yourself,
+are you?
+
+222
+00:14:28,695 --> 00:14:30,577
+Don't let one wrong hunch throw you.
+
+223
+00:14:31,076 --> 00:14:33,541
+<i>A, we don't know yet
+that I'm wrong about Ward,</i>
+
+224
+00:14:33,871 --> 00:14:36,583
+<i>And b, bring the motel desk
+clerk in.</i>
+
+225
+00:14:37,085 --> 00:14:40,879
+Maybe he can recall a little more detail
+than he thinks about this cowboy.
+
+226
+00:14:43,346 --> 00:14:44,480
+Can you see him?
+
+227
+00:14:46,363 --> 00:14:47,564
+What's he doing?
+
+228
+00:14:47,961 --> 00:14:49,471
+He's getting out of the truck.
+
+229
+00:14:50,848 --> 00:14:52,807
+And he's walking across
+the forecourt
+
+230
+00:14:53,150 --> 00:14:54,389
+to Murphy's room.
+
+231
+00:14:55,746 --> 00:14:57,938
+Can you read the license plate
+on the truck?
+
+232
+00:15:00,080 --> 00:15:01,107
+Look closer.
+
+233
+00:15:03,137 --> 00:15:04,861
+No, I can't. It's blocked.
+
+234
+00:15:05,123 --> 00:15:06,404
+What's he wearing?
+
+235
+00:15:06,707 --> 00:15:08,266
+Cowboy hat, brown.
+
+236
+00:15:10,344 --> 00:15:11,444
+Black jeans.
+
+237
+00:15:12,170 --> 00:15:13,970
+Sunglasses, aviator style.
+
+238
+00:15:14,793 --> 00:15:16,231
+That's very good, Marty.
+
+239
+00:15:17,690 --> 00:15:19,170
+What else can you see?
+
+240
+00:15:20,914 --> 00:15:23,171
+He's wearing a T-shirt with a bulldog
+on the front,
+
+241
+00:15:24,213 --> 00:15:26,090
+Under it, "true blue."
+
+242
+00:15:51,585 --> 00:15:52,843
+Donald Culpepper?
+
+243
+00:15:54,126 --> 00:15:55,412
+Who the hell are you?
+
+244
+00:15:58,053 --> 00:15:59,053
+Quiet.
+
+245
+00:16:01,002 --> 00:16:03,335
+I've reason to believe
+that you visited with Doyle Murphy
+
+246
+00:16:03,460 --> 00:16:05,449
+at the starlite motor court.
+Is that correct?
+
+247
+00:16:06,279 --> 00:16:07,629
+That's partially correct.
+
+248
+00:16:07,754 --> 00:16:10,218
+I went to see him.
+He wasn't there, so I left.
+
+249
+00:16:10,386 --> 00:16:11,778
+Why'd you go see him?
+
+250
+00:16:12,546 --> 00:16:15,557
+Social visit. Catching up.
+He was married to my sister.
+
+251
+00:16:15,788 --> 00:16:18,685
+We have sad news.
+Your ex-brother-in-law is dead.
+
+252
+00:16:19,431 --> 00:16:20,567
+I'm in shock.
+
+253
+00:16:22,334 --> 00:16:23,440
+How'd that happen?
+
+254
+00:16:23,873 --> 00:16:24,973
+He was shot.
+
+255
+00:16:25,318 --> 00:16:26,901
+Any idea who might want to do that?
+
+256
+00:16:28,826 --> 00:16:29,779
+How about you?
+
+257
+00:16:30,156 --> 00:16:32,160
+I have nothing but love for Murph.
+
+258
+00:16:32,630 --> 00:16:35,463
+- Why would you think otherwise?
+- Because we read your rap sheet.
+
+259
+00:16:35,588 --> 00:16:38,371
+You're a professional criminal
+Implicated in several murders.
+
+260
+00:16:38,539 --> 00:16:41,423
+I'm a dynamic businessman
+who pushes the envelope.
+
+261
+00:16:41,999 --> 00:16:45,003
+Anybody can imply anything.
+It's another thing to make it stick.
+
+262
+00:16:46,631 --> 00:16:47,577
+Get out.
+
+263
+00:16:47,702 --> 00:16:49,758
+We need to continue
+this conversation downtown.
+
+264
+00:16:56,243 --> 00:16:57,152
+Thanks.
+
+265
+00:16:58,945 --> 00:17:01,519
+I deduce from the irritated tone
+of your phone conversation
+
+266
+00:17:01,687 --> 00:17:03,229
+That I was right about Carl Ward.
+
+267
+00:17:04,969 --> 00:17:05,969
+Half right.
+
+268
+00:17:06,644 --> 00:17:07,400
+Go on.
+
+269
+00:17:09,724 --> 00:17:11,498
+His real name's Carl Wysocki.
+
+270
+00:17:11,623 --> 00:17:13,676
+He was in jail for kiting checks.
+
+271
+00:17:13,801 --> 00:17:15,784
+He's got an ex-wife in Bayonne,
+New Jersey,
+
+272
+00:17:16,683 --> 00:17:18,933
+Who's owed $90,000 in back alimony.
+
+273
+00:17:20,689 --> 00:17:21,598
+Half?
+
+274
+00:17:31,975 --> 00:17:34,275
+So he changed his name.
+What of it?
+
+275
+00:17:34,816 --> 00:17:36,262
+Did you know about the jail time?
+
+276
+00:17:36,807 --> 00:17:37,931
+Of course I did.
+
+277
+00:17:38,444 --> 00:17:39,599
+And the ex-wife?
+
+278
+00:17:40,196 --> 00:17:41,851
+Of course. He told me everything.
+
+279
+00:17:42,207 --> 00:17:42,936
+Liar.
+
+280
+00:17:44,021 --> 00:17:44,938
+Bad liar.
+
+281
+00:17:45,344 --> 00:17:46,272
+How dare you.
+
+282
+00:17:46,501 --> 00:17:48,855
+It's a compliment to your character.
+
+283
+00:17:48,980 --> 00:17:50,453
+You rather be a good liar?
+
+284
+00:17:53,856 --> 00:17:56,156
+I knew everything about Carl's past.
+
+285
+00:17:56,998 --> 00:17:58,472
+We're glad he told you, Ma'am,
+
+286
+00:17:58,597 --> 00:18:01,208
+Because we have to consider
+the possibility that he was somehow
+
+287
+00:18:01,333 --> 00:18:04,009
+involved in the jewel heist
+and double-crossed.
+
+288
+00:18:04,273 --> 00:18:07,473
+His honesty with you
+makes him far less of a suspect.
+
+289
+00:18:07,656 --> 00:18:10,004
+Do you have anything further?
+My husband needs me.
+
+290
+00:18:10,569 --> 00:18:11,798
+No, Ma'am. Thank you.
+
+291
+00:18:13,949 --> 00:18:15,135
+How's he doing?
+
+292
+00:18:15,760 --> 00:18:16,810
+He'll live.
+
+293
+00:18:17,974 --> 00:18:20,502
+They're going to bring him
+out of sedation tomorrow.
+
+294
+00:18:20,627 --> 00:18:21,558
+Excellent.
+
+295
+00:18:40,290 --> 00:18:41,959
+Why did you visit with Doyle Murphy?
+
+296
+00:18:42,084 --> 00:18:43,834
+I didn't. He wasn't home.
+
+297
+00:18:45,804 --> 00:18:48,038
+If he had been home,
+what would you've said to him?
+
+298
+00:18:49,112 --> 00:18:50,503
+"Give me my money."
+
+299
+00:18:50,814 --> 00:18:52,088
+He owed you. How much?
+
+300
+00:18:52,553 --> 00:18:54,103
+200 grand and change.
+
+301
+00:18:55,270 --> 00:18:56,717
+He comes out of incarceration
+
+302
+00:18:56,842 --> 00:18:58,928
+this last bit he did
+and needed to go into rehab.
+
+303
+00:18:59,690 --> 00:19:02,474
+Junkie son of a gun
+was there over a month on my dime.
+
+304
+00:19:02,906 --> 00:19:04,476
+That's very generous of you.
+
+305
+00:19:05,489 --> 00:19:06,939
+What am I gonna do?
+
+306
+00:19:07,271 --> 00:19:10,023
+At the time, this was 2 years back,
+he's married to my sister.
+
+307
+00:19:10,550 --> 00:19:11,274
+Moron.
+
+308
+00:19:11,511 --> 00:19:14,652
+Then he kicks your sister to the curb
+after some domestic violence problems.
+
+309
+00:19:14,777 --> 00:19:16,196
+And he still owes you 200 grand.
+
+310
+00:19:17,016 --> 00:19:17,876
+One,
+
+311
+00:19:18,124 --> 00:19:19,851
+my sister is a goblin shark.
+
+312
+00:19:19,976 --> 00:19:21,710
+Freakin' Gandhi
+would take a pop at her.
+
+313
+00:19:21,835 --> 00:19:24,120
+I got no beef with Doyle over that,
+believe me.
+
+314
+00:19:24,595 --> 00:19:25,504
+And two,
+
+315
+00:19:25,661 --> 00:19:27,261
+this money is what I'm telling ya.
+
+316
+00:19:27,386 --> 00:19:29,436
+Why'd I kill a guy
+who owes me that much money?
+
+317
+00:19:29,561 --> 00:19:31,287
+Because he just made
+a very big score.
+
+318
+00:19:31,412 --> 00:19:33,115
+- Is that right?
+- Yes, it is.
+
+319
+00:19:33,240 --> 00:19:35,948
+Maybe you decided to take
+what's owed you, and a little bit more.
+
+320
+00:19:36,614 --> 00:19:39,268
+- What score is this? Doverton's?
+- You heard about that.
+
+321
+00:19:39,393 --> 00:19:41,180
+Was on the TV. Nice work.
+
+322
+00:19:41,826 --> 00:19:43,076
+Doyle did that?
+
+323
+00:19:44,808 --> 00:19:46,309
+Did you ever own a Beretta 950?
+
+324
+00:19:46,685 --> 00:19:49,235
+As a matter of fact,
+I did use to have one of those.
+
+325
+00:19:49,360 --> 00:19:50,647
+I didn't like the balance.
+
+326
+00:19:51,337 --> 00:19:53,037
+<i>I sold it to Doyle. Why?</i>
+
+327
+00:19:57,140 --> 00:19:59,331
+- Well...
+- I don't care what you're gonna say.
+
+328
+00:19:59,456 --> 00:20:00,657
+I like him for it.
+
+329
+00:20:00,825 --> 00:20:02,325
+Why, you don't care?
+
+330
+00:20:02,662 --> 00:20:04,877
+He's obvious,
+so you're gonna say he's not the guy,
+
+331
+00:20:05,002 --> 00:20:06,759
+Because that would be boring.
+
+332
+00:20:06,884 --> 00:20:09,550
+No, he looks good for it,
+superficially, at least.
+
+333
+00:20:09,675 --> 00:20:11,934
+I was merely to say
+and we need to find out the links,
+
+334
+00:20:12,059 --> 00:20:14,963
+between him and Doyle
+and someone inside Doverton's.
+
+335
+00:20:15,131 --> 00:20:17,196
+I thought Carl Ward
+was your man on the inside.
+
+336
+00:20:17,584 --> 00:20:18,591
+I noted
+
+337
+00:20:19,055 --> 00:20:21,928
+that he was a tennis pro
+and extrapolated from there.
+
+338
+00:20:22,096 --> 00:20:23,596
+No, you said he was the guy.
+
+339
+00:20:24,061 --> 00:20:25,466
+- If you recall...
+- Guys.
+
+340
+00:20:25,941 --> 00:20:29,046
+I mean, boss. I think I found the link
+you're talking about.
+
+341
+00:20:29,669 --> 00:20:31,677
+The old footage
+from the store's security cameras
+
+342
+00:20:31,802 --> 00:20:33,358
+is saved on a hard drive off-site.
+
+343
+00:20:33,483 --> 00:20:35,513
+I figured if Murphy
+had been casing the store,
+
+344
+00:20:35,638 --> 00:20:37,357
+I could find him on the old footage.
+
+345
+00:20:39,853 --> 00:20:40,853
+Who's that?
+
+346
+00:20:40,979 --> 00:20:41,948
+I'll enhance it.
+
+347
+00:20:46,475 --> 00:20:47,625
+Tom Doverton.
+
+348
+00:20:53,205 --> 00:20:54,605
+It's a customer...
+
+349
+00:20:54,976 --> 00:20:56,796
+I guess.
+I'm talking to a customer.
+
+350
+00:20:58,033 --> 00:21:00,800
+That's the man who robbed
+your family's store and shot your uncle.
+
+351
+00:21:01,213 --> 00:21:02,635
+Sure you don't know him?
+
+352
+00:21:02,858 --> 00:21:04,846
+'Cause you're talking
+like you're old friends.
+
+353
+00:21:05,720 --> 00:21:08,767
+I'm just helping a customer
+with their purchase.
+
+354
+00:21:08,961 --> 00:21:09,961
+That's all.
+
+355
+00:21:11,412 --> 00:21:13,633
+And you've never seen
+that man before?
+
+356
+00:21:14,878 --> 00:21:17,086
+And you don't know the name
+"Doyle Murphy"?
+
+357
+00:21:21,991 --> 00:21:24,032
+The kid's aunt and brother
+are here with a lawyer.
+
+358
+00:21:24,200 --> 00:21:26,367
+Darn. We haven't gotten
+anywhere with him yet.
+
+359
+00:21:26,746 --> 00:21:28,096
+You want me to stall 'em?
+
+360
+00:21:28,221 --> 00:21:31,556
+It's best just to cut him loose.
+He's denying everything anyway.
+
+361
+00:21:32,124 --> 00:21:34,374
+Unless we can make some
+connection to Culpepper and Doyle,
+
+362
+00:21:34,499 --> 00:21:36,008
+we've got nothing to hold him on.
+
+363
+00:21:37,378 --> 00:21:40,287
+You go and ask Culpepper about Tom.
+I'll deal with the family.
+
+364
+00:21:51,268 --> 00:21:54,479
+You can take Tom home now.
+We just need to question him.
+
+365
+00:21:55,061 --> 00:21:56,105
+What questions?
+
+366
+00:21:56,631 --> 00:21:58,608
+I'm sure he'll fill you in
+on the details.
+
+367
+00:21:59,905 --> 00:22:02,028
+I'd appreciate it
+if next time you wish
+
+368
+00:22:02,196 --> 00:22:03,780
+to speak To a member of my family,
+
+369
+00:22:03,948 --> 00:22:05,348
+you call me first.
+
+370
+00:22:06,579 --> 00:22:09,243
+I'm sorry, ma'am.
+That's not our practice.
+
+371
+00:22:11,308 --> 00:22:13,039
+Can I walk you to the elevator?
+
+372
+00:22:18,572 --> 00:22:20,824
+You do know why
+I'm letting you go, don't you?
+
+373
+00:22:21,173 --> 00:22:22,423
+Let me guess...
+
+374
+00:22:22,795 --> 00:22:23,716
+I'm innocent.
+
+375
+00:22:25,727 --> 00:22:27,261
+No, I figured you're stupid.
+
+376
+00:22:28,592 --> 00:22:29,514
+Is that so?
+
+377
+00:22:30,757 --> 00:22:33,047
+Either you really didn't know
+that Doyle was gonna
+
+378
+00:22:33,172 --> 00:22:35,478
+rob the jewelry store,
+stupid innocent...
+
+379
+00:22:35,859 --> 00:22:38,064
+Or you did know
+and you're gonna lead us to a clue...
+
+380
+00:22:38,748 --> 00:22:39,948
+Stupid guilty.
+
+381
+00:22:41,833 --> 00:22:44,028
+You should be more careful
+how you talk to people.
+
+382
+00:22:44,317 --> 00:22:46,517
+Yeah, figure I'm pretty safe here.
+
+383
+00:22:47,183 --> 00:22:48,408
+What are you gonna do?
+
+384
+00:22:49,756 --> 00:22:51,369
+You think I care where we are?
+
+385
+00:22:54,568 --> 00:22:55,568
+Go ahead.
+
+386
+00:22:55,913 --> 00:22:57,940
+Do something,
+you miserable little sadist.
+
+387
+00:22:58,752 --> 00:22:59,711
+Hello, Lisbon.
+
+388
+00:22:59,879 --> 00:23:00,837
+Hi, Dovertons.
+
+389
+00:23:01,005 --> 00:23:03,965
+- What's going on, Jane?
+- I'm just letting Mr. Culpepper go.
+
+390
+00:23:04,133 --> 00:23:06,000
+We don't need him
+for anything, do we?
+
+391
+00:23:07,571 --> 00:23:09,914
+Sometime, when you least expect it,
+
+392
+00:23:11,275 --> 00:23:12,475
+I'll find you.
+
+393
+00:23:16,025 --> 00:23:18,146
+- You...
+- We'll wait for the next one.
+
+394
+00:23:18,389 --> 00:23:19,389
+All right.
+
+395
+00:23:20,466 --> 00:23:21,567
+So long, partner.
+
+396
+00:23:21,692 --> 00:23:22,842
+Happy trails.
+
+397
+00:23:25,724 --> 00:23:27,363
+Okay, what the hell was that?
+
+398
+00:23:27,670 --> 00:23:29,901
+- What was what?
+- Letting Donny Culpepper go.
+
+399
+00:23:30,026 --> 00:23:32,871
+You've no right whatsoever
+to make those kind of decisions.
+
+400
+00:23:32,996 --> 00:23:35,734
+You weren't gonna keep him here,
+on what? For what?
+
+401
+00:23:35,859 --> 00:23:37,707
+He wasn't gonna talk. Be honest.
+
+402
+00:23:37,875 --> 00:23:39,935
+I could have held him
+on the weapons charge.
+
+403
+00:23:40,060 --> 00:23:41,430
+- Please...
+- Stop.
+
+404
+00:23:41,555 --> 00:23:43,179
+There's principle involved.
+
+405
+00:23:43,930 --> 00:23:45,506
+I know what you're doing.
+
+406
+00:23:46,221 --> 00:23:47,383
+What do you mean?
+
+407
+00:23:47,551 --> 00:23:49,273
+Showing the Dovertons
+to Donny Culpepper.
+
+408
+00:23:49,398 --> 00:23:51,763
+You wanted to see
+if he recognized one of them.
+
+409
+00:23:51,931 --> 00:23:53,891
+You watch too much tv.
+There was no reason
+
+410
+00:23:54,016 --> 00:23:55,349
+to keep Donny Culpepper here.
+
+411
+00:23:55,767 --> 00:23:58,936
+That's annoying. You're not even putting
+any effort into the lie.
+
+412
+00:23:59,386 --> 00:24:02,273
+Hey, boss. Coroner's here.
+She's got something to show us.
+
+413
+00:24:09,903 --> 00:24:11,499
+That's really beautiful.
+
+414
+00:24:13,243 --> 00:24:15,328
+I found it in Doyle Murphy's
+lower intestine.
+
+415
+00:24:16,392 --> 00:24:18,384
+My supposition
+is that he swallowed it
+
+416
+00:24:18,572 --> 00:24:20,517
+in an attempt to get
+a larger share of the loot
+
+417
+00:24:20,642 --> 00:24:22,434
+before it was divided
+with any partners.
+
+418
+00:24:22,559 --> 00:24:24,702
+I guess Murphy misread
+that situation?
+
+419
+00:24:25,256 --> 00:24:27,292
+Did you find
+anything surprising other than that?
+
+420
+00:24:27,417 --> 00:24:28,417
+Just that.
+
+421
+00:24:30,924 --> 00:24:32,220
+What the hell was that?
+
+422
+00:24:36,456 --> 00:24:38,267
+Had a hunch that it was a fake.
+
+423
+00:24:39,895 --> 00:24:41,270
+Guess I'm wrong about that.
+
+424
+00:24:43,565 --> 00:24:44,440
+Where is it?
+
+425
+00:24:44,738 --> 00:24:46,843
+Well, the good news is
+it's not out there.
+
+426
+00:24:47,194 --> 00:24:48,757
+So it's in here somewhere.
+
+427
+00:24:48,882 --> 00:24:49,808
+I'll find it.
+
+428
+00:24:51,194 --> 00:24:52,686
+Anyone see a little...
+
+429
+00:25:00,941 --> 00:25:04,252
+There's gotta be a connection
+between D. Murphy and T. Doverton.
+
+430
+00:25:04,500 --> 00:25:05,594
+What was it?
+
+431
+00:25:05,808 --> 00:25:08,381
+- What would bring those 2 together?
+- They've nothing in common.
+
+432
+00:25:08,550 --> 00:25:10,408
+- What are you looking for?
+- A diamond.
+
+433
+00:25:10,533 --> 00:25:12,814
+- What'd he do?
+- Hit it with a fire extinguisher.
+
+434
+00:25:12,939 --> 00:25:14,580
+- Of course.
+- I got it!
+
+435
+00:25:14,888 --> 00:25:16,678
+Oh, thank god. Where was it?
+
+436
+00:25:16,803 --> 00:25:20,017
+No, I got where Doyle and Tom connect.
+Doyle was in rehab
+
+437
+00:25:21,354 --> 00:25:23,271
+and Tom Doverton does look
+the rehab type.
+
+438
+00:25:24,398 --> 00:25:25,955
+Find out where Doyle went to rehab.
+
+439
+00:25:26,080 --> 00:25:27,230
+Keep looking.
+
+440
+00:25:27,486 --> 00:25:29,663
+Don't worry.
+This is the justice department.
+
+441
+00:25:29,788 --> 00:25:32,275
+- Who's gonna steal it here?
+- You be quiet!
+
+442
+00:25:41,481 --> 00:25:43,883
+Windward Clarity
+has the highest ratio
+
+443
+00:25:44,008 --> 00:25:46,297
+of staff-to-patient
+of any facility in the state.
+
+444
+00:25:46,898 --> 00:25:49,351
+Our philosophy mixes
+traditional western practices
+
+445
+00:25:49,603 --> 00:25:51,937
+with spiritual aspects of the east.
+
+446
+00:25:53,257 --> 00:25:55,658
+May I ask which one of you
+needs our help.
+
+447
+00:25:55,783 --> 00:25:56,972
+Or is it both?
+
+448
+00:25:57,371 --> 00:25:58,994
+- We just wanted...
+- It's her.
+
+449
+00:25:59,909 --> 00:26:01,184
+Darling, please.
+
+450
+00:26:01,398 --> 00:26:03,186
+Can we just this once do it my way?
+
+451
+00:26:03,354 --> 00:26:04,354
+Just once?
+
+452
+00:26:05,139 --> 00:26:06,048
+Thank you.
+
+453
+00:26:06,850 --> 00:26:09,030
+In the beginning
+it was just social, but
+
+454
+00:26:10,558 --> 00:26:11,615
+more recently,
+
+455
+00:26:12,741 --> 00:26:14,557
+It's been starting
+to worry both of us.
+
+456
+00:26:15,096 --> 00:26:16,346
+Right, darling?
+
+457
+00:26:18,232 --> 00:26:19,243
+Right this way.
+
+458
+00:26:19,411 --> 00:26:21,412
+I'll introduce you
+to one of our specialists.
+
+459
+00:26:21,706 --> 00:26:22,706
+Fantastic.
+
+460
+00:26:24,436 --> 00:26:26,792
+That's the office.
+I'm gonna have to take this.
+
+461
+00:26:26,917 --> 00:26:29,409
+Baby, you go ahead, take a look.
+I'll be 5 minutes.
+
+462
+00:26:29,534 --> 00:26:30,727
+I'll be right there.
+
+463
+00:26:30,852 --> 00:26:32,102
+Look after her.
+
+464
+00:26:33,037 --> 00:26:34,363
+I'm very proud of you.
+
+465
+00:26:34,871 --> 00:26:37,121
+- I understand your nervousness.
+- I love you.
+
+466
+00:27:32,407 --> 00:27:35,266
+Our kitchen is capable
+of preparing food for any diet.
+
+467
+00:27:35,391 --> 00:27:38,620
+And of course, we have a pair
+of on-site nutritionists.
+
+468
+00:27:40,748 --> 00:27:42,900
+Your husband
+is taking quite a long time.
+
+469
+00:27:43,662 --> 00:27:46,102
+You should understand,
+he's not really my husband.
+
+470
+00:27:46,373 --> 00:27:47,422
+That's all right.
+
+471
+00:27:47,547 --> 00:27:49,580
+We're not judgmental
+about such things here.
+
+472
+00:27:50,462 --> 00:27:51,764
+That's not what I mean.
+
+473
+00:27:57,552 --> 00:28:01,117
+Uppers and downers. Uppers and...
+You're so rock'n'roll, doctor.
+
+474
+00:28:01,961 --> 00:28:05,099
+That is private material.
+Doctor-patient privilege is sacrosanct.
+
+475
+00:28:05,461 --> 00:28:07,685
+Yes, I know.
+That's why we did it this way.
+
+476
+00:28:07,853 --> 00:28:10,501
+This is a murder investigation.
+We can be as hard-ass as we want.
+
+477
+00:28:10,626 --> 00:28:11,522
+I found it.
+
+478
+00:28:11,883 --> 00:28:14,775
+The patient roster for the first 2 weeks
+of Doyle Murphy's stay.
+
+479
+00:28:14,944 --> 00:28:18,362
+Guess who his acting sponsor
+was when he first arrived?
+
+480
+00:28:18,530 --> 00:28:20,023
+- Tom Doverton?
+- No!
+
+481
+00:28:20,639 --> 00:28:22,408
+- George.
+- The brother?
+
+482
+00:28:23,892 --> 00:28:25,202
+I'll call your superiors.
+
+483
+00:28:25,470 --> 00:28:27,522
+Lot of people say that to me,
+you know what I say?
+
+484
+00:28:27,647 --> 00:28:28,873
+- I say...
+- Let's go.
+
+485
+00:28:29,601 --> 00:28:30,499
+Come on.
+
+486
+00:28:34,433 --> 00:28:36,422
+Get some help, doc.
+That stuff will kill you.
+
+487
+00:28:46,014 --> 00:28:47,117
+George isn't here.
+
+488
+00:28:47,760 --> 00:28:49,072
+He's already left.
+
+489
+00:28:49,937 --> 00:28:51,287
+He's not guilty, you know.
+
+490
+00:28:51,758 --> 00:28:54,919
+- How'd you know we were coming?
+- The director of the clinic called.
+
+491
+00:28:55,513 --> 00:28:56,971
+He told us what you'd done.
+
+492
+00:28:58,445 --> 00:29:00,423
+George was in rehab
+with Doyle Murphy,
+
+493
+00:29:00,548 --> 00:29:02,406
+That's true,
+but that's all that it was.
+
+494
+00:29:02,575 --> 00:29:05,117
+So you're saying if we dig,
+we won't find any more contact
+
+495
+00:29:05,285 --> 00:29:06,744
+between George and Doyle?
+
+496
+00:29:06,912 --> 00:29:08,079
+He came into the store.
+
+497
+00:29:08,882 --> 00:29:10,956
+A guy like that
+at Doverton & Company?
+
+498
+00:29:11,417 --> 00:29:13,584
+Come on...
+If my aunt found out...
+
+499
+00:29:13,977 --> 00:29:15,503
+We need to talk to George.
+
+500
+00:29:15,672 --> 00:29:16,629
+He's gone.
+
+501
+00:29:16,797 --> 00:29:17,671
+Really?
+
+502
+00:29:19,673 --> 00:29:21,342
+I think he's hiding behind the door.
+
+503
+00:29:26,207 --> 00:29:27,807
+George, come out.
+
+504
+00:29:38,968 --> 00:29:39,777
+Sorry.
+
+505
+00:29:40,951 --> 00:29:42,238
+You were trying to help,
+
+506
+00:29:43,452 --> 00:29:45,166
+But we both know there's no
+
+507
+00:29:45,366 --> 00:29:46,951
+hiding from something like this.
+
+508
+00:29:51,869 --> 00:29:54,712
+I had nothing to do with the robbery
+or Doyle Murphy's murder.
+
+509
+00:29:54,837 --> 00:29:57,064
+I only lied
+to protect my aunt from...
+
+510
+00:29:58,071 --> 00:29:59,463
+the shame of my addiction.
+
+511
+00:30:02,476 --> 00:30:06,261
+Call Dicky Purcell.
+Tell him to meet me at the CBI offices.
+
+512
+00:30:07,016 --> 00:30:08,016
+After you.
+
+513
+00:30:19,350 --> 00:30:21,084
+Excuse me. Do you work here?
+
+514
+00:30:21,209 --> 00:30:23,556
+Certainly, sir.
+How can I help you?
+
+515
+00:30:23,967 --> 00:30:25,817
+My wife, it's her birthday.
+
+516
+00:30:26,560 --> 00:30:27,469
+Of course.
+
+517
+00:30:28,531 --> 00:30:29,481
+Michelle?
+
+518
+00:30:29,828 --> 00:30:31,742
+Michelle here would be happy
+to help you.
+
+519
+00:30:32,613 --> 00:30:33,597
+Mr. Doverton?
+
+520
+00:30:34,464 --> 00:30:35,875
+I need a signature for this.
+
+521
+00:30:41,742 --> 00:30:42,673
+There you go.
+
+522
+00:30:50,068 --> 00:30:52,057
+"You'll get a call in 2 hours.
+
+523
+00:30:52,225 --> 00:30:54,128
+"Take the jewels where you are told.
+
+524
+00:30:55,131 --> 00:30:56,040
+"No cops
+
+525
+00:30:56,379 --> 00:30:57,563
+"or your aunt dies."
+
+526
+00:31:08,204 --> 00:31:09,254
+She's gone.
+
+527
+00:31:12,199 --> 00:31:14,455
+Why would anybody
+kidnap aunt Esther?
+
+528
+00:31:14,815 --> 00:31:17,791
+Someone thinks your brother
+was partners with Doyle Murphy.
+
+529
+00:31:17,960 --> 00:31:19,834
+You think so.
+Why shouldn't everyone else?
+
+530
+00:31:19,959 --> 00:31:21,060
+Donny Culpepper.
+
+531
+00:31:22,004 --> 00:31:22,963
+Who's he?
+
+532
+00:31:23,155 --> 00:31:25,212
+You saw him
+when we were waiting for the elevator.
+
+533
+00:31:25,337 --> 00:31:27,119
+Doyle Murphy owed him
+a lot of money.
+
+534
+00:31:27,244 --> 00:31:29,803
+He might think
+that debt transfers with the diamonds.
+
+535
+00:31:29,971 --> 00:31:31,889
+- We don't have them.
+- He doesn't know that.
+
+536
+00:31:32,405 --> 00:31:34,183
+You've to go arrest him right away.
+
+537
+00:31:34,479 --> 00:31:36,268
+That's what we're trying to do.
+
+538
+00:31:37,361 --> 00:31:39,904
+Agent Van Pelt is working
+with local police as we speak.
+
+539
+00:31:40,232 --> 00:31:41,649
+We're pursuing several leads.
+
+540
+00:31:41,980 --> 00:31:43,400
+But the note says no police.
+
+541
+00:31:43,843 --> 00:31:45,446
+It's a little late for that.
+
+542
+00:31:46,571 --> 00:31:48,906
+So? How are you gonna get
+our aunt back?
+
+543
+00:31:49,075 --> 00:31:51,218
+We'll do everything we can
+to find her.
+
+544
+00:31:51,823 --> 00:31:53,872
+In the meantime,
+when the kidnappers call,
+
+545
+00:31:53,997 --> 00:31:55,621
+you've to try and stall them.
+
+546
+00:31:59,129 --> 00:32:00,129
+Take that.
+
+547
+00:32:15,736 --> 00:32:18,536
+- It's almost time. You ready?
+- Yeah, ready.
+
+548
+00:32:18,825 --> 00:32:19,734
+And you?
+
+549
+00:32:20,332 --> 00:32:21,382
+I don't know.
+
+550
+00:32:22,715 --> 00:32:23,790
+Just stay calm.
+
+551
+00:32:24,400 --> 00:32:27,038
+Keep the kidnapper on the line
+and keep him calm.
+
+552
+00:32:27,163 --> 00:32:29,577
+Remember,
+keep going as long as you can, okay?
+
+553
+00:32:32,100 --> 00:32:34,126
+- Headphones?
+- Yeah, other room.
+
+554
+00:32:38,447 --> 00:32:39,416
+Here we go.
+
+555
+00:32:45,871 --> 00:32:46,780
+Hello?
+
+556
+00:32:47,340 --> 00:32:49,290
+<i>Do you have the jewels ready?</i>
+
+557
+00:32:53,402 --> 00:32:55,265
+How do I know you have my aunt?
+
+558
+00:32:55,766 --> 00:32:56,974
+I demand to...
+
+559
+00:32:57,564 --> 00:33:00,144
+<i>You don't demand anything.
+You shut up and you listen.</i>
+
+560
+00:33:01,011 --> 00:33:01,972
+I'm sorry.
+
+561
+00:33:03,315 --> 00:33:05,636
+<i>- I just need proof before...
+- Proof?</i>
+
+562
+00:33:06,151 --> 00:33:07,526
+<i>I'll give you proof.</i>
+
+563
+00:33:07,915 --> 00:33:09,047
+<i>Hello? George?</i>
+
+564
+00:33:11,013 --> 00:33:12,865
+<i>- Are you all right?
+- There.</i>
+
+565
+00:33:12,990 --> 00:33:14,166
+<i>That's your proof.</i>
+
+566
+00:33:15,368 --> 00:33:17,101
+<i>If you want to see her alive again,</i>
+
+567
+00:33:17,226 --> 00:33:18,454
+<i>bring me the diamonds.</i>
+
+568
+00:33:21,833 --> 00:33:24,098
+- I can't do that.
+- Got it.
+
+569
+00:33:24,223 --> 00:33:25,973
+<i>You think this is a game?</i>
+
+570
+00:33:27,012 --> 00:33:27,838
+I'm sorry.
+
+571
+00:33:28,257 --> 00:33:30,472
+<i>Are you gonna give me the jewels?</i>
+
+572
+00:33:31,736 --> 00:33:34,174
+I don't have the jewels.
+I'm trying to tell you.
+
+573
+00:33:34,299 --> 00:33:35,599
+<i>All right, then.</i>
+
+574
+00:33:36,157 --> 00:33:37,552
+<i>This is your decision.</i>
+
+575
+00:33:39,297 --> 00:33:40,271
+Aunt Esther.
+
+576
+00:33:41,361 --> 00:33:42,355
+<i>You're next.</i>
+
+577
+00:33:43,210 --> 00:33:44,773
+<i>Now I'm coming for you.</i>
+
+578
+00:33:46,412 --> 00:33:47,394
+Oh, my god.
+
+579
+00:33:51,942 --> 00:33:53,161
+Stay right there.
+
+580
+00:34:19,179 --> 00:34:20,088
+Hello?
+
+581
+00:34:20,559 --> 00:34:22,292
+<i>Where are the jewels, Tom?</i>
+
+582
+00:34:22,763 --> 00:34:24,513
+<i>We both know you have'em.</i>
+
+583
+00:34:24,911 --> 00:34:26,637
+They're going to catch you.
+
+584
+00:34:26,762 --> 00:34:28,482
+They're going to get you right now.
+
+585
+00:34:31,196 --> 00:34:32,734
+<i>I'm gonna get you, Tom.</i>
+
+586
+00:34:33,941 --> 00:34:35,723
+<i>I know everything about you.</i>
+
+587
+00:34:36,583 --> 00:34:38,492
+<i>Doyle Murphy told me everything.</i>
+
+588
+00:34:39,391 --> 00:34:40,391
+Screw you.
+
+589
+00:34:41,594 --> 00:34:43,328
+I'll give you $50,000,
+
+590
+00:34:44,205 --> 00:34:46,562
+50 grand to leave me
+and my brother alone.
+
+591
+00:34:47,394 --> 00:34:49,231
+<i>You think you're so tough.</i>
+
+592
+00:34:49,356 --> 00:34:52,589
+<i>You give me what I want,
+or I will come and take it from you.</i>
+
+593
+00:34:53,031 --> 00:34:54,581
+I'll make it $75,000,
+
+594
+00:34:54,908 --> 00:34:55,934
+but no more.
+
+595
+00:34:56,552 --> 00:34:58,378
+<i>I'm not giving up the diamonds.</i>
+
+596
+00:34:58,603 --> 00:35:00,549
+You stupid, rich brat.
+
+597
+00:35:02,374 --> 00:35:04,419
+You think you can dictate terms?
+
+598
+00:35:05,071 --> 00:35:06,061
+Not this time.
+
+599
+00:35:07,310 --> 00:35:08,506
+<i>Not this time.</i>
+
+600
+00:35:08,631 --> 00:35:10,231
+<i>I'm gonna make you pay</i>
+
+601
+00:35:10,700 --> 00:35:12,450
+<i>- and pay.
+- You try it.</i>
+
+602
+00:35:13,572 --> 00:35:15,320
+You try it,
+and you see what happens.
+
+603
+00:35:16,621 --> 00:35:17,728
+Tough guy, huh?
+
+604
+00:35:18,491 --> 00:35:20,993
+You're gonna give me
+the same thing that D. Murphy?
+
+605
+00:35:21,280 --> 00:35:22,430
+<i>That's right.</i>
+
+606
+00:35:23,655 --> 00:35:26,087
+<i>You push me hard enough,
+and you'll see.</i>
+
+607
+00:35:28,991 --> 00:35:30,791
+Thanks, Tom. That's great.
+
+608
+00:35:31,807 --> 00:35:33,079
+Got it all on tape.
+
+609
+00:35:33,204 --> 00:35:34,965
+You're going down.
+Give me the phone.
+
+610
+00:35:35,445 --> 00:35:36,967
+<i>Hands behind your back.</i>
+
+611
+00:35:37,589 --> 00:35:40,215
+<i>You're under arrest
+for the murder of Doyle Murphy.</i>
+
+612
+00:35:44,120 --> 00:35:45,070
+<i>Let's go.</i>
+
+613
+00:35:47,039 --> 00:35:48,190
+Like a charm.
+
+614
+00:35:53,641 --> 00:35:54,526
+Tea.
+
+615
+00:35:55,017 --> 00:35:55,926
+Lovely.
+
+616
+00:36:00,617 --> 00:36:01,767
+Ms. Doverton?
+
+617
+00:36:03,316 --> 00:36:04,203
+I'm sorry,
+
+618
+00:36:04,328 --> 00:36:07,080
+but we've had to mislead you a little
+to solve this crime.
+
+619
+00:36:10,095 --> 00:36:12,085
+I'm afraid I've got
+some difficult news.
+
+620
+00:36:12,855 --> 00:36:15,563
+Your nephew, Tom,
+was involved in this robbery.
+
+621
+00:36:57,625 --> 00:36:59,325
+Hey, Carl. Welcome back.
+
+622
+00:37:02,402 --> 00:37:04,137
+- Where am I?
+- In the hospital.
+
+623
+00:37:05,236 --> 00:37:07,575
+You just came out
+of an induced coma.
+
+624
+00:37:07,989 --> 00:37:10,615
+- Can I ask you a question?
+- What happened to me?
+
+625
+00:37:10,828 --> 00:37:12,767
+- Who are you?
+- Never mind that.
+
+626
+00:37:12,892 --> 00:37:13,801
+Tell me,
+
+627
+00:37:14,430 --> 00:37:15,607
+Esther Doverton
+
+628
+00:37:17,371 --> 00:37:19,121
+It was all a scam, right?
+
+629
+00:37:19,996 --> 00:37:22,531
+You just wanted
+to cash in with a rich, old broad.
+
+630
+00:37:23,086 --> 00:37:25,195
+- Excuse me?
+- Oh, come on.
+
+631
+00:37:25,803 --> 00:37:28,287
+You don't need to be coy with me.
+It was a great score.
+
+632
+00:37:29,022 --> 00:37:31,206
+Plus, she's,
+she's pretty good-looking,
+
+633
+00:37:31,541 --> 00:37:33,667
+Which is an added bonus
+with these kind of scams.
+
+634
+00:37:34,905 --> 00:37:36,905
+Are you talking about my wife?
+
+635
+00:37:37,516 --> 00:37:38,922
+Who do you think you are?
+
+636
+00:37:39,198 --> 00:37:41,863
+Wouldn't that be a better question
+for me to ask you,
+
+637
+00:37:42,196 --> 00:37:43,296
+Mr. Wysocki?
+
+638
+00:37:45,852 --> 00:37:46,680
+That's it.
+
+639
+00:37:47,009 --> 00:37:48,509
+Had to end sometime.
+
+640
+00:37:49,135 --> 00:37:50,503
+You had a pretty good run.
+
+641
+00:37:50,768 --> 00:37:53,259
+Between you and me,
+I think you could squeeze
+
+642
+00:37:53,384 --> 00:37:55,429
+a little more nickel out of this
+poor old bat.
+
+643
+00:37:55,554 --> 00:37:58,690
+- What do you think?
+- Don't you talk about her like that.
+
+644
+00:37:59,184 --> 00:38:02,012
+That woman is the only good thing
+that's ever happened to me.
+
+645
+00:38:02,137 --> 00:38:03,070
+I love her.
+
+646
+00:38:04,199 --> 00:38:06,241
+- You sure?
+- Shut up and get out of here,
+
+647
+00:38:06,453 --> 00:38:08,076
+- you son of a...
+- All right. Gotcha.
+
+648
+00:38:14,872 --> 00:38:16,280
+Told you he loves you.
+
+649
+00:38:23,314 --> 00:38:24,801
+You trying to kill yourself?
+
+650
+00:38:25,264 --> 00:38:27,814
+I'm so sorry.
+I never meant to hurt you.
+
+651
+00:38:54,175 --> 00:38:56,579
+A long time ago,
+that might have been a frog
+
+652
+00:38:56,835 --> 00:39:00,295
+or a fern or a dinosaur.
+Then it died, turned into coal...
+
+653
+00:39:00,723 --> 00:39:02,880
+I know.
+I did first grade geology, too.
+
+654
+00:39:03,049 --> 00:39:04,349
+I'm just saying,
+
+655
+00:39:05,052 --> 00:39:07,348
+just compressed carbon to me.
+If you want to keep it,
+
+656
+00:39:07,473 --> 00:39:09,169
+- I never saw a thing.
+- What?
+
+657
+00:39:09,294 --> 00:39:11,848
+Get outta here.
+I wasn't even thinking about that.
+
+658
+00:39:12,548 --> 00:39:13,976
+Well, if you say so.
+
+659
+00:39:14,410 --> 00:39:16,812
+Seriously, you'd let me just
+walk out of here with this?
+
+660
+00:39:17,880 --> 00:39:19,288
+- Do you want to?
+- No.
+
+661
+00:39:19,413 --> 00:39:21,358
+Of course not.
+I mean, yes, I'm tempted.
+
+662
+00:39:21,594 --> 00:39:23,193
+Then., put it in your pocket.
+
+663
+00:39:24,282 --> 00:39:26,440
+- This is a trap, isn't it?
+- Are you nuts?
+
+664
+00:39:27,110 --> 00:39:30,107
+- What do I care about your integrity?
+- Oh yeah, trap.
+
+665
+00:39:31,770 --> 00:39:32,681
+Okay.
+
+666
+00:39:40,007 --> 00:39:41,670
+Rigsby put something in your pocket.
+
+667
+00:39:42,367 --> 00:39:43,276
+What?
+
+668
+00:39:55,723 --> 00:39:57,101
+He's messing with you.
+
+669
+00:39:59,192 --> 00:40:00,729
+It's compressed carbon.
+
+670
+00:40:00,854 --> 00:40:02,341
+If you want to keep it...
+
+671
+00:40:02,466 --> 00:40:04,317
+I don't know about Rigsby but,
+
+672
+00:40:05,856 --> 00:40:07,430
+I wouldn't tell a soul.
+

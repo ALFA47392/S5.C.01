@@ -1,0 +1,3067 @@
+1
+00:00:09,800 --> 00:00:12,363
+- C'était quoi ce truc ?
+- C'est apparu de nulle part.
+
+2
+00:00:12,483 --> 00:00:14,699
+Et ce cri ?
+Ça m'a foutu les jetons !
+
+3
+00:00:14,819 --> 00:00:18,479
+- Une espèce de singe volant ?
+- Un singe volant ? La planète d'Oz ?
+
+4
+00:00:18,640 --> 00:00:21,330
+Il me semble
+que c'était plus un saut qu'un vol.
+
+5
+00:00:21,450 --> 00:00:23,901
+- C'était un sacré bond.
+- J'ai dit "on dirait un singe".
+
+6
+00:00:24,021 --> 00:00:26,197
+- Les bras, les jambes...
+- Et un bec.
+
+7
+00:00:26,317 --> 00:00:29,121
+- Il avait pas de bec.
+- Quoi ? Là, je l'ai pris.
+
+8
+00:00:30,652 --> 00:00:32,076
+C'est sûr, c'est plus clair.
+
+9
+00:00:32,237 --> 00:00:34,663
+- Tu voulais quoi ? Il allait me tuer.
+- Mais c'est quoi ?
+
+10
+00:00:35,180 --> 00:00:38,159
+Envoyons des biologistes là-bas,
+qu'ils cherchent ça.
+
+11
+00:00:38,279 --> 00:00:40,239
+On pourrait y faire un site alpha.
+
+12
+00:00:40,359 --> 00:00:43,238
+La planète semble appropriée.
+Bon climat, nourriture abondante.
+
+13
+00:00:43,358 --> 00:00:46,091
+- Excellent choix pour une base annexe.
+- Sauf les singes volants.
+
+14
+00:00:46,652 --> 00:00:49,094
+OK, on arrive à portée, Rodney.
+
+15
+00:00:57,012 --> 00:00:59,729
+Il y a des pics d'énergie importants.
+C'est étrange.
+
+16
+00:01:00,222 --> 00:01:01,882
+- Qu'y a-t-il ?
+- Je sais pas.
+
+17
+00:01:02,002 --> 00:01:03,927
+Ces données sont toutes confuses.
+
+18
+00:01:04,047 --> 00:01:06,778
+J'ai perdu le pilotage.
+Les nacelles ne se rétracteront pas.
+
+19
+00:01:07,071 --> 00:01:10,355
+- Fais quelque chose.
+- Je le ferais si je le pouvais.
+
+20
+00:01:10,475 --> 00:01:13,173
+- Attendez, attendez.
+- Si les nacelles se rétractent pas...
+
+21
+00:01:13,293 --> 00:01:15,870
+- Je sais, donne-moi une seconde !
+- On ne l'a pas !
+
+22
+00:01:17,313 --> 00:01:18,331
+Qu'est-ce que...
+
+23
+00:01:20,743 --> 00:01:23,044
+- On a plus d'énergie.
+- Cramponnez-vous.
+
+24
+00:01:40,638 --> 00:01:43,873
+Les Teams Projet-SG & SG-66
+
+25
+00:01:48,198 --> 00:01:51,628
+présentent :
+
+26
+00:01:54,402 --> 00:01:56,661
+Saison 5 Épisode 05
+Ghost in the Machine (v. 1.00)
+
+27
+00:01:59,237 --> 00:02:02,234
+Synchro :
+
+28
+00:02:05,542 --> 00:02:08,552
+Golgi, Linwelin,
+Pikes et Ricana.
+
+29
+00:02:13,433 --> 00:02:16,638
+Traduction par :
+
+30
+00:02:19,502 --> 00:02:22,762
+Mickey, nitrogenc et Ody.
+
+31
+00:02:23,433 --> 00:02:26,474
+Relecture par :
+
+32
+00:02:29,506 --> 00:02:32,572
+Golgi, Linwelin, Mickey,
+Pikes et Poloneill.
+
+33
+00:02:32,897 --> 00:02:35,074
+www.projet-sg.net
+www.seriestele.net
+
+34
+00:02:48,219 --> 00:02:51,103
+C'est bon. J'avais tort,
+on a toujours de l'énergie.
+
+35
+00:02:51,223 --> 00:02:55,004
+Mais pas dans les systèmes principaux.
+Ni les secondaires.
+
+36
+00:02:55,223 --> 00:02:57,531
+- Pourquoi ?
+- Il y a une sorte d'interférence.
+
+37
+00:02:57,651 --> 00:02:59,473
+J'ai des pics partout.
+
+38
+00:02:59,633 --> 00:03:02,602
+C'est déréglé. Les inhibiteurs d'inertie
+ne sont pas touchés, Dieu merci.
+
+39
+00:03:02,993 --> 00:03:04,228
+Ouais, pas encore.
+
+40
+00:03:05,241 --> 00:03:06,939
+Bon sang !
+C'était quoi ça ?
+
+41
+00:03:07,125 --> 00:03:09,034
+Du courant de déplacement.
+Haute tension !
+
+42
+00:03:09,154 --> 00:03:10,726
+- N'y touchez pas.
+- Tu crois ?
+
+43
+00:03:10,846 --> 00:03:13,230
+- Ça vient peut-être de la planète.
+- C'est pas sûr, OK ?
+
+44
+00:03:13,350 --> 00:03:16,073
+Il y avait pas de technologie
+sur cette planète... ancienne ou non.
+
+45
+00:03:16,233 --> 00:03:17,865
+C'était purement primitif.
+
+46
+00:03:17,985 --> 00:03:20,321
+J'ai rien détecté d'inhabituel
+sur cette planète.
+
+47
+00:03:20,441 --> 00:03:23,616
+Il a dû y avoir un problème
+dans les condensateurs du Jumper.
+
+48
+00:03:23,736 --> 00:03:25,708
+Une seconde,
+je vérifie comment...
+
+49
+00:03:26,666 --> 00:03:27,567
+Oh, non.
+
+50
+00:03:28,047 --> 00:03:28,866
+Quoi ?
+
+51
+00:03:29,681 --> 00:03:32,686
+Heurter la Porte à cette vitesse
+nous a mis en décrochage orbital.
+
+52
+00:03:32,806 --> 00:03:35,401
+Si l'énergie ne revient pas,
+on va brûler dans l'atmosphère.
+
+53
+00:03:35,521 --> 00:03:38,220
+Essaie de faire fonctionner le DHD.
+On pourra demander de l'aide.
+
+54
+00:03:38,555 --> 00:03:41,432
+J'ai essayé, mais les communications
+radio sont touchées aussi.
+
+55
+00:03:43,879 --> 00:03:45,310
+Les nacelles refonctionnent.
+
+56
+00:03:45,430 --> 00:03:48,564
+Juste une, mais j'ai rien fait.
+C'est tout simplement revenu.
+
+57
+00:03:48,724 --> 00:03:50,535
+- Tout seul.
+- Peu importe.
+
+58
+00:03:50,655 --> 00:03:52,902
+Répare le DHD.
+J'essaie de nous mettre à portée.
+
+59
+00:04:01,269 --> 00:04:03,870
+- Une bonne et une mauvaise nouvelle.
+- Lesquelles ?
+
+60
+00:04:03,990 --> 00:04:07,570
+Aucune chance que le DHD fonctionne.
+Le système est complètement mort.
+
+61
+00:04:07,690 --> 00:04:10,286
+Ça prendrait trop de temps
+de détourner l'énergie...
+
+62
+00:04:10,406 --> 00:04:12,004
+Quelle est la bonne nouvelle ?
+
+63
+00:04:12,488 --> 00:04:15,527
+C'était la bonne.
+On a aussi perdu les systèmes vitaux.
+
+64
+00:04:15,803 --> 00:04:16,902
+Plus d'air ?
+
+65
+00:04:17,368 --> 00:04:20,224
+- Oui, c'est la mauvaise nouvelle.
+- OK, on est à portée.
+
+66
+00:04:20,367 --> 00:04:23,852
+Continue de réparer le DHD.
+Ça pourrait être notre dernière chance.
+
+67
+00:04:25,974 --> 00:04:28,436
+- Qu'est qui s'est passé ?
+- Je sais pas, tout est revenu.
+
+68
+00:04:28,556 --> 00:04:29,556
+DHD ?
+
+69
+00:04:29,753 --> 00:04:32,358
+Tout. On a l'hyperpropulsion,
+les systèmes vitaux, etc.
+
+70
+00:04:37,439 --> 00:04:38,823
+Atlantis, ici Sheppard.
+
+71
+00:04:39,299 --> 00:04:41,158
+On arrive,
+mais nos systèmes sont perturbés.
+
+72
+00:04:41,494 --> 00:04:44,370
+Si on est pas là dans dix secondes,
+envoyez un Jumper.
+
+73
+00:04:44,531 --> 00:04:47,131
+- <i>Compris, colonel.</i>
+- Accrochez-vous, encore.
+
+74
+00:05:04,693 --> 00:05:06,613
+Aucun autre Jumper n'a eu de problème ?
+
+75
+00:05:06,733 --> 00:05:09,058
+Non. Sûrement un incident isolé,
+
+76
+00:05:09,178 --> 00:05:10,954
+McKay et Zelenka vérifient.
+
+77
+00:05:11,074 --> 00:05:14,049
+On devrait consigner les Jumpers
+tant qu'on ignore ce qu'est le problème.
+
+78
+00:05:14,169 --> 00:05:16,966
+Très bien.
+Mais la planète, pour un site alpha ?
+
+79
+00:05:17,086 --> 00:05:18,099
+Parfaite.
+
+80
+00:05:18,470 --> 00:05:21,180
+À l'exception de ces créatures,
+des espèces de singes volants,
+
+81
+00:05:21,300 --> 00:05:23,387
+- mais on doit pouvoir régler ça.
+- Des singes ?
+
+82
+00:05:23,507 --> 00:05:26,405
+Oui, McKay a des photos.
+Il vous les montrera.
+
+83
+00:05:27,609 --> 00:05:29,123
+Vous avez dit "volants" ?
+
+84
+00:05:31,802 --> 00:05:34,055
+Alors, ça avance, les gars ?
+Réparé ?
+
+85
+00:05:34,175 --> 00:05:35,475
+Il n'y a rien à réparer.
+
+86
+00:05:35,595 --> 00:05:37,568
+On a fait des tests.
+Le Jumper va très bien.
+
+87
+00:05:37,688 --> 00:05:39,810
+- Comment ça a pu merder ?
+- Je sais pas.
+
+88
+00:05:39,930 --> 00:05:42,183
+On pourrait recréer
+une de ces prétendues anomalies.
+
+89
+00:05:42,303 --> 00:05:43,925
+M. Sceptique, il l'a vu aussi !
+
+90
+00:05:44,045 --> 00:05:46,326
+Ronon et Teyla aussi.
+Tout le système était mort.
+
+91
+00:05:46,446 --> 00:05:48,633
+- C'est bon, je te crois.
+- Je ne pense pas.
+
+92
+00:05:48,753 --> 00:05:51,285
+Je pense que le problème
+pourrait être causé
+
+93
+00:05:51,405 --> 00:05:54,496
+- par un truc que, inconsciemment, tu...
+- J'ai rien fait ! Sciemment ou non.
+
+94
+00:05:54,616 --> 00:05:57,845
+- OK, rien ne cloche avec le Jumper.
+- Plus maintenant.
+
+95
+00:05:57,965 --> 00:06:00,571
+- Je pense qu'il y avait rien.
+- Bon, ça va.
+
+96
+00:06:32,089 --> 00:06:33,489
+S'il te plaît...
+
+97
+00:06:35,574 --> 00:06:37,415
+Salle de contrôle ?
+Ici Richard Woolsey.
+
+98
+00:06:37,535 --> 00:06:40,400
+J'ai pris un mauvais virage
+dans le transporteur et je suis...
+
+99
+00:06:40,985 --> 00:06:42,484
+Je ne sais où.
+
+100
+00:06:43,212 --> 00:06:44,846
+La porte ne s'ouvre pas.
+
+101
+00:06:44,966 --> 00:06:48,369
+Pourriez-vous me localiser,
+et m'ouvrir, s'il vous plaît ?
+
+102
+00:06:50,343 --> 00:06:51,227
+Allô ?
+
+103
+00:06:57,867 --> 00:06:58,877
+<i>Vas-y.</i>
+
+104
+00:06:58,997 --> 00:07:01,757
+Tu touches encore à l'électricité ?
+Les lumières clignotent.
+
+105
+00:07:02,033 --> 00:07:04,760
+Ouais, je reçois des rapports
+d'un peu partout...
+
+106
+00:07:05,181 --> 00:07:05,886
+Allô ?
+
+107
+00:07:10,751 --> 00:07:12,324
+- Tu as remarqué les...
+- Oui.
+
+108
+00:07:12,444 --> 00:07:14,235
+- Et tu as des...
+- Pas encore.
+
+109
+00:07:14,355 --> 00:07:15,310
+C'est local ?
+
+110
+00:07:15,430 --> 00:07:17,451
+On a des perturbations
+dans toute la Cité.
+
+111
+00:07:17,571 --> 00:07:19,932
+- Les ZPM ?
+- Connectés, énergie à foison.
+
+112
+00:07:20,052 --> 00:07:22,903
+C'est devenu subitement... instable.
+
+113
+00:07:23,846 --> 00:07:25,942
+Ça ressemble
+à ton expérience dans le Jumper.
+
+114
+00:07:26,062 --> 00:07:28,290
+Oui, étonnamment similaire.
+
+115
+00:07:29,130 --> 00:07:31,730
+- L'anomalie s'est propagée à la Cité ?
+- Impossible.
+
+116
+00:07:31,850 --> 00:07:35,757
+J'ai coupé le réseau entre le Jumper
+et Atlantis avant qu'on passe la Porte.
+
+117
+00:07:38,474 --> 00:07:39,524
+OK, alors...
+
+118
+00:07:40,465 --> 00:07:41,861
+Coïncidence, donc ?
+
+119
+00:07:45,170 --> 00:07:46,604
+J'ai essayé de t'appeler...
+
+120
+00:07:46,724 --> 00:07:49,197
+- Les communications sont coupées.
+- Oui. Qu'y a-t-il ?
+
+121
+00:07:49,599 --> 00:07:52,141
+- On est dessus.
+- Un éclair a failli me griller.
+
+122
+00:07:52,921 --> 00:07:55,171
+- Du courant de déplacement ?
+- Dans le couloir, oui.
+
+123
+00:07:55,291 --> 00:07:58,105
+- Comme dans le Jumper.
+- Donc, c'est pas une coïncidence.
+
+124
+00:07:58,265 --> 00:08:00,569
+- La Porte n'est plus alimentée !
+- Quoi ?
+
+125
+00:08:00,689 --> 00:08:03,235
+Peut-être un virus qui s'est téléchargé.
+
+126
+00:08:03,823 --> 00:08:06,071
+J'ai désactivé le réseau
+du Jumper pour éviter ça.
+
+127
+00:08:06,231 --> 00:08:09,200
+L'anomalie n'a pas pu passer
+dans les systèmes de la Cité.
+
+128
+00:08:15,659 --> 00:08:17,329
+Tu ferais bien de vérifier...
+
+129
+00:08:17,449 --> 00:08:19,627
+Ce qui était dans ce Jumper
+est dans la Cité.
+
+130
+00:08:27,445 --> 00:08:28,607
+Où étiez-vous ?
+
+131
+00:08:28,727 --> 00:08:30,100
+À l'autre bout de la Cité.
+
+132
+00:08:30,220 --> 00:08:32,931
+Les transporteurs sont déréglés
+et m'ont envoyé sur la jetée Est.
+
+133
+00:08:33,051 --> 00:08:34,420
+J'ai dû marcher jusqu'ici.
+
+134
+00:08:34,540 --> 00:08:36,666
+On a des soucis électriques
+dans toute la Cité.
+
+135
+00:08:36,786 --> 00:08:38,560
+Presque tous les systèmes sont touchés.
+
+136
+00:08:38,680 --> 00:08:41,065
+L'anomalie dans le Jumper
+a dû infecter Atlantis.
+
+137
+00:08:41,225 --> 00:08:43,317
+C'est une des nombreuses possibilités
+qu'on étudie.
+
+138
+00:08:43,477 --> 00:08:45,819
+- Nombreuses ?
+- C'est une possibilité.
+
+139
+00:08:45,979 --> 00:08:48,489
+Le truc c'est qu'on ignore
+ce qui se passe.
+
+140
+00:08:48,649 --> 00:08:51,367
+- Un éclair a failli me toucher.
+- Bienvenue au club.
+
+141
+00:08:51,527 --> 00:08:53,649
+L'énergie s'accumule à un endroit,
+et se libère
+
+142
+00:08:53,769 --> 00:08:56,054
+dans un fort courant de déplacement.
+
+143
+00:08:56,174 --> 00:08:57,748
+Très irrégulier, très mortel.
+
+144
+00:08:57,978 --> 00:09:00,542
+- J'ai essayé la radio.
+- Les communications sont mortes.
+
+145
+00:09:01,079 --> 00:09:02,211
+La Porte aussi.
+
+146
+00:09:03,405 --> 00:09:06,532
+- On ne peut pas appeler la Terre ?
+- Vous inquiétez pas. D'accord ?
+
+147
+00:09:06,652 --> 00:09:09,899
+Je vais réparer ça.
+J'ai lancé des diagnostics, réduit le...
+
+148
+00:09:16,385 --> 00:09:18,071
+Bon, ça sent pas bon.
+
+149
+00:09:23,641 --> 00:09:25,192
+Très bien. On...
+
+150
+00:09:26,391 --> 00:09:28,595
+On va former des équipes,
+se répartir dans la Cité,
+
+151
+00:09:28,715 --> 00:09:31,657
+maintenir le calme
+jusqu'à ce qu'on trouve ce qui...
+
+152
+00:09:35,964 --> 00:09:37,947
+Le portable vient de démarrer.
+
+153
+00:09:38,067 --> 00:09:41,083
+- Sûrement la batterie.
+- Non, il est branché sur le système.
+
+154
+00:09:41,934 --> 00:09:44,286
+Alors, tout est hors service
+sauf votre ordinateur ?
+
+155
+00:09:44,406 --> 00:09:46,672
+Je suis aussi perdu que vous.
+
+156
+00:09:52,926 --> 00:09:55,889
+- C'est quoi ?
+- On dirait une espèce de code.
+
+157
+00:09:56,678 --> 00:09:58,767
+- Peut-être.
+- Ça pourrait être un message.
+
+158
+00:10:02,516 --> 00:10:04,189
+<i>à l'aide</i>
+
+159
+00:10:07,012 --> 00:10:08,109
+"À l'aide ?"
+
+160
+00:10:09,813 --> 00:10:11,716
+<i>Qui êtes-vous ?</i>
+
+161
+00:10:28,366 --> 00:10:29,360
+Dr Weir ?
+
+162
+00:10:31,232 --> 00:10:32,490
+Elle est morte.
+
+163
+00:10:33,380 --> 00:10:35,158
+C'est ce qu'on nous a dit.
+
+164
+00:10:38,890 --> 00:10:40,189
+Peut-être que...
+
+165
+00:10:40,848 --> 00:10:42,658
+vous devriez lui répondre.
+
+166
+00:10:44,592 --> 00:10:45,428
+Oui.
+
+167
+00:10:48,686 --> 00:10:50,469
+<i>Où êtes-vous ?</i>
+
+168
+00:10:50,589 --> 00:10:53,823
+<i>ordinateur</i>
+
+169
+00:10:54,489 --> 00:10:57,076
+Dans l'ordinateur ?
+Comment peut-elle y être ?
+
+170
+00:10:57,539 --> 00:11:01,956
+<i>état actuel difficile</i>
+
+171
+00:11:04,660 --> 00:11:06,202
+<i>Que vous est-il arrivé ?</i>
+
+172
+00:11:10,027 --> 00:11:15,837
+<i>sous-espace
+contrôle difficile</i>
+
+173
+00:11:15,957 --> 00:11:18,722
+<i>j'essaie de</i>
+
+174
+00:11:25,306 --> 00:11:27,858
+<i>C'est vous qui avez fait ça ?</i>
+
+175
+00:11:34,648 --> 00:11:39,126
+<i>Vous êtes toujours là ?</i>
+
+176
+00:11:40,580 --> 00:11:44,123
+<i>aidez-moi</i>
+
+177
+00:11:51,567 --> 00:11:52,871
+Rodney, réponds.
+
+178
+00:11:54,790 --> 00:11:57,333
+- Rodney ? Tu m'entends ?
+- <i>Vas-y.</i>
+
+179
+00:11:57,567 --> 00:12:00,598
+J'ai fini les dérivations.
+Regarde et essaie. Quand tu es prêt.
+
+180
+00:12:00,833 --> 00:12:03,969
+- OK... Croisons les doigts.
+- Qu'est ce que tu fais ?
+
+181
+00:12:04,089 --> 00:12:08,054
+Quelle que soit cette entité,
+elle surcharge les systèmes de la Cité.
+
+182
+00:12:08,748 --> 00:12:12,990
+Elle est partout, des douzaines
+de programmes fragmentés
+
+183
+00:12:13,110 --> 00:12:16,095
+qui perturbent la gestion
+de l'énergie, les communications, etc.
+
+184
+00:12:16,215 --> 00:12:17,903
+J'ai réussi à les fusionner,
+
+185
+00:12:18,023 --> 00:12:21,815
+les réunir dans un énorme programme,
+
+186
+00:12:21,935 --> 00:12:25,387
+a) espérant rendre nos systèmes
+légèrement plus stables, et
+
+187
+00:12:25,507 --> 00:12:27,353
+b) pouvoir mieux communiquer avec
+
+188
+00:12:27,473 --> 00:12:29,960
+l'entité qui prétend être
+le docteur Weir.
+
+189
+00:12:30,715 --> 00:12:33,339
+La fusion de tous ces programmes
+n'est-elle pas dangereuse ?
+
+190
+00:12:33,700 --> 00:12:35,876
+Si ! Mais pas plus dangereux
+que de la laisser
+
+191
+00:12:35,996 --> 00:12:37,933
+faire des ravages dans les systèmes.
+
+192
+00:12:38,053 --> 00:12:39,880
+Ou de se prendre des éclairs.
+
+193
+00:12:40,802 --> 00:12:44,793
+Voyons si je peux synthétiser une voix
+pour communiquer avec Elizabeth.
+
+194
+00:12:44,986 --> 00:12:48,812
+Si je fais le bon étalonnage,
+elle devrait aussi nous entendre.
+
+195
+00:12:50,686 --> 00:12:51,607
+Maintenant...
+
+196
+00:12:57,153 --> 00:13:00,241
+C'est moi, ou...
+Elizabeth a une voix différente ?
+
+197
+00:13:00,615 --> 00:13:01,932
+Je m'en occupe.
+
+198
+00:13:09,678 --> 00:13:11,303
+Êtes-vous Elizabeth Weir ?
+
+199
+00:13:11,423 --> 00:13:12,628
+Oui, Rodney.
+
+200
+00:13:12,788 --> 00:13:14,421
+- C'est moi.
+- J'ai pas mieux.
+
+201
+00:13:15,963 --> 00:13:17,667
+Je suis désolée pour tous ces soucis.
+
+202
+00:13:17,787 --> 00:13:20,653
+Qui est avec vous ?
+John Sheppard est là ?
+
+203
+00:13:22,778 --> 00:13:25,599
+- Salut.
+- C'est bon d'entendre votre voix.
+
+204
+00:13:28,799 --> 00:13:31,638
+On pensait que vous étiez... morte.
+
+205
+00:13:32,115 --> 00:13:35,276
+Je dois l'être.
+Mon corps, en tout cas.
+
+206
+00:13:36,201 --> 00:13:38,288
+Mais ma conscience est intacte.
+
+207
+00:13:38,617 --> 00:13:40,739
+Alors... Que s'est-il passé ?
+
+208
+00:13:40,899 --> 00:13:43,784
+Vous vous souvenez quand
+je vous ai ordonné de m'abandonner ?
+
+209
+00:13:45,775 --> 00:13:46,537
+Partez !
+
+210
+00:13:51,565 --> 00:13:53,530
+Oui... Je m'en souviens.
+
+211
+00:13:53,650 --> 00:13:55,963
+Après, les Réplicateurs
+m'ont emmenée dans un labo.
+
+212
+00:13:56,415 --> 00:13:59,968
+Les nanites en moi étaient libres
+et pouvaient se reproduire.
+
+213
+00:14:00,175 --> 00:14:02,934
+Je me suis intégrée,
+mais même avec ma nouvelle apparence,
+
+214
+00:14:03,054 --> 00:14:05,868
+ma véritable personnalité
+était encore présente.
+
+215
+00:14:05,988 --> 00:14:07,384
+J'étais encore moi.
+
+216
+00:14:07,688 --> 00:14:11,187
+J'ai essayé de la cacher,
+mais certains la sentaient.
+
+217
+00:14:12,299 --> 00:14:14,648
+Ceux qui restaient
+de l'ancien groupe de Niam.
+
+218
+00:14:15,755 --> 00:14:18,119
+Vous avez dû rencontrer leur oeuvre.
+
+219
+00:14:18,239 --> 00:14:21,405
+Vos doubles Réplicateurs
+ainsi que le mien.
+
+220
+00:14:23,133 --> 00:14:26,890
+- Vous l'avez appris ?
+- Seulement après leur mort.
+
+221
+00:14:28,962 --> 00:14:32,158
+Votre autre vous...
+je veux dire l'humaine,
+
+222
+00:14:32,608 --> 00:14:34,448
+elle croit que vous avez été détruite.
+
+223
+00:14:34,568 --> 00:14:36,795
+C'est ce que nos chefs
+voulaient qu'elle pense.
+
+224
+00:14:37,429 --> 00:14:40,466
+Ils nous ont séparées
+pour des raisons de sécurité.
+
+225
+00:14:40,830 --> 00:14:43,367
+Je suis sûr que c'est très intéressant.
+
+226
+00:14:43,607 --> 00:14:45,927
+Mais cela n'explique pas
+comment vous êtes devenue
+
+227
+00:14:46,047 --> 00:14:48,932
+une voix désincarnée
+sur notre réseau d'ordinateurs.
+
+228
+00:14:49,628 --> 00:14:51,518
+Serait-ce... Richard Woolsey ?
+
+229
+00:14:52,672 --> 00:14:53,672
+En effet.
+
+230
+00:14:54,491 --> 00:14:56,589
+C'est moi. Je suis le...
+
+231
+00:14:57,481 --> 00:14:59,276
+- le nouveau...
+- Le nouveau vous.
+
+232
+00:14:59,648 --> 00:15:00,672
+Je vois.
+
+233
+00:15:02,827 --> 00:15:05,529
+Que s'est-il passé ?
+Comment avez-vous...
+
+234
+00:15:07,064 --> 00:15:07,958
+fini...
+
+235
+00:15:08,943 --> 00:15:10,037
+là-dedans ?
+
+236
+00:15:11,198 --> 00:15:12,466
+Nous fuyions.
+
+237
+00:15:12,844 --> 00:15:16,744
+Oberoth et les autres nous chassaient
+en raison de nos croyances.
+
+238
+00:15:17,046 --> 00:15:20,967
+C'était une question de temps
+avant qu'on nous capture ou détruise,
+
+239
+00:15:21,214 --> 00:15:22,758
+à moins qu'un miracle n'arrive.
+
+240
+00:15:23,902 --> 00:15:25,342
+Et ce fut le cas.
+
+241
+00:15:30,054 --> 00:15:33,106
+Nos infos étaient bonnes...
+La planète a bien été détruite.
+
+242
+00:15:33,257 --> 00:15:35,646
+Voyez-vous des traces
+de cellules de Réplicateurs ?
+
+243
+00:15:36,046 --> 00:15:38,426
+Négatif.
+Ils ont aussi été détruits.
+
+244
+00:15:39,736 --> 00:15:40,736
+Très bien...
+
+245
+00:15:41,637 --> 00:15:45,387
+On peut donc se remettre au travail,
+sans avoir à s'en soucier maintenant.
+
+246
+00:15:47,206 --> 00:15:48,790
+L'heure est venue...
+
+247
+00:15:52,267 --> 00:15:54,533
+C'était nous, le miracle, en fait.
+
+248
+00:15:54,653 --> 00:15:57,221
+On a détruit
+la planète des Réplicateurs.
+
+249
+00:15:57,341 --> 00:15:58,312
+Je sais.
+
+250
+00:15:58,662 --> 00:16:00,765
+Et nous vous en remercions grandement,
+
+251
+00:16:00,885 --> 00:16:03,215
+car nous avons pu poursuivre
+notre but en paix.
+
+252
+00:16:04,251 --> 00:16:06,719
+- Vous parlez de l'ascension ?
+- En effet, Teyla.
+
+253
+00:16:07,762 --> 00:16:10,684
+Nous avons trouvé une planète
+qui convienne et avons commencé.
+
+254
+00:16:11,300 --> 00:16:13,238
+J'ai fait ce que j'ai pu pour les aider.
+
+255
+00:16:13,358 --> 00:16:14,772
+J'ai essayé de les guider,
+
+256
+00:16:14,892 --> 00:16:17,695
+de leur enseigner
+comment "déposer leur fardeau",
+
+257
+00:16:18,244 --> 00:16:19,835
+mais c'était difficile.
+
+258
+00:16:21,799 --> 00:16:24,820
+C'est le fait d'être des machines
+qui vous a posé problème ?
+
+259
+00:16:25,344 --> 00:16:26,345
+En effet.
+
+260
+00:16:26,773 --> 00:16:29,736
+J'aimerais pouvoir dire
+qu'on ne s'y attendait pas...
+
+261
+00:16:29,856 --> 00:16:31,899
+mais... en fait, si.
+
+262
+00:16:32,475 --> 00:16:34,304
+Un de notre groupe, Koracen,
+
+263
+00:16:34,424 --> 00:16:38,383
+disait que c'était une erreur de renier
+notre origine technologique,
+
+264
+00:16:38,503 --> 00:16:41,628
+que nous devions l'accepter
+et trouver une solution technologique.
+
+265
+00:16:42,482 --> 00:16:44,846
+On sait que l'esprit d'un Réplicateur
+peut être numérisé
+
+266
+00:16:44,966 --> 00:16:47,461
+et transféré d'un corps à l'autre.
+
+267
+00:16:47,872 --> 00:16:51,864
+Mais j'ai découvert une méthode
+qui nous permet d'exister définitivement
+
+268
+00:16:52,647 --> 00:16:54,210
+comme champ énergétique...
+
+269
+00:16:54,402 --> 00:16:57,173
+Et cela, en nous transférant
+dans le sous-espace
+
+270
+00:16:57,529 --> 00:16:59,813
+où nous pourrons nous déplacer
+dans la galaxie
+
+271
+00:16:59,957 --> 00:17:01,922
+débarrassés de toute attache physique.
+
+272
+00:17:02,042 --> 00:17:03,881
+Qu'arrivera-t-il à nos corps ?
+
+273
+00:17:04,195 --> 00:17:06,722
+Les liens entre les nanites
+seront coupés.
+
+274
+00:17:06,842 --> 00:17:08,811
+- Nos corps seront détruits ?
+- Oui,
+
+275
+00:17:08,931 --> 00:17:10,452
+mais on n'en a plus besoin.
+
+276
+00:17:10,572 --> 00:17:12,923
+- Koracen, si ça échoue...
+- Ça marchera.
+
+277
+00:17:14,978 --> 00:17:16,862
+Tu as dit que l'ascension était achevée
+
+278
+00:17:16,982 --> 00:17:20,299
+quand le corps devenait pure énergie.
+
+279
+00:17:21,149 --> 00:17:22,973
+Et ça, je peux le faire.
+
+280
+00:17:23,481 --> 00:17:26,117
+Une fois dans le sous-espace,
+rien ne peut plus nous empêcher
+
+281
+00:17:26,237 --> 00:17:29,323
+de continuer
+vers le plan d'existence suivant...
+
+282
+00:17:30,749 --> 00:17:32,095
+Vous êtes prête ?
+
+283
+00:17:45,734 --> 00:17:46,749
+C'est fait.
+
+284
+00:17:49,982 --> 00:17:51,856
+Une machine pour s'élever ?
+
+285
+00:17:52,551 --> 00:17:54,406
+Sauf que ça ne marchait pas.
+
+286
+00:17:54,526 --> 00:17:56,245
+Il n'y avait pas d'étape suivante,
+
+287
+00:17:56,500 --> 00:17:59,623
+pas d'"ascension"
+en quelque sens que ce soit.
+
+288
+00:18:00,076 --> 00:18:02,251
+Depuis, nous sommes coincés
+dans le sous-espace.
+
+289
+00:18:03,188 --> 00:18:04,774
+Ça ressemble à quoi ?
+
+290
+00:18:05,561 --> 00:18:08,848
+En constant mouvement.
+Et un bruit assourdissant.
+
+291
+00:18:09,302 --> 00:18:12,102
+Imaginez la pire migraine possible.
+
+292
+00:18:12,378 --> 00:18:14,572
+Je sais pas,
+j'en ai eu des vraiment horribles.
+
+293
+00:18:14,692 --> 00:18:16,139
+On a parcouru la galaxie,
+
+294
+00:18:16,533 --> 00:18:19,685
+pour trouver un moyen
+de reprendre forme humaine.
+
+295
+00:18:20,030 --> 00:18:22,771
+Nous avons trouvé
+quelques autres peuples avancés...
+
+296
+00:18:23,427 --> 00:18:25,078
+Non ? Dans la galaxie ?
+
+297
+00:18:25,407 --> 00:18:27,865
+Vous seriez surpris par leur nombre,
+
+298
+00:18:27,985 --> 00:18:29,991
+se cachant des Wraith.
+
+299
+00:18:30,453 --> 00:18:33,907
+Nous avons occupé beaucoup de systèmes,
+même wraith pendant un moment.
+
+300
+00:18:34,938 --> 00:18:38,787
+- De la technologie Wraith ? Vraiment ?
+- C'était particulièrement déplaisant.
+
+301
+00:18:39,339 --> 00:18:42,637
+En fait, où que nous regardions,
+nous ne trouvions aucune technologie
+
+302
+00:18:42,757 --> 00:18:47,159
+qui aurait pu nous permettre d'avoir
+une existence semblable à la précédente.
+
+303
+00:18:48,117 --> 00:18:49,841
+C'est pourquoi vous êtes venue.
+
+304
+00:18:50,051 --> 00:18:52,236
+Vous saviez les ordinateurs d'Atlantis
+assez grands
+
+305
+00:18:52,356 --> 00:18:54,450
+et puissants pour accueillir
+votre programme.
+
+306
+00:18:54,570 --> 00:18:57,180
+Les autres étaient de plus en plus
+frustrés et amers.
+
+307
+00:18:57,622 --> 00:19:00,225
+Je les ai laissés
+et suis partie à votre recherche.
+
+308
+00:19:00,935 --> 00:19:02,810
+Des mois durant,
+j'ai fouillé la galaxie,
+
+309
+00:19:02,930 --> 00:19:05,758
+puis j'ai détecté votre Jumper
+et je m'y suis connectée.
+
+310
+00:19:05,878 --> 00:19:08,073
+Nous tuant presque à l'occasion.
+
+311
+00:19:08,305 --> 00:19:09,610
+J'en suis désolée.
+
+312
+00:19:10,303 --> 00:19:14,281
+Mon état actuel est très volatile,
+difficile à contrôler.
+
+313
+00:19:14,807 --> 00:19:18,512
+Surtout lors de la familiarisation
+avec les nouvelles technologies.
+
+314
+00:19:18,632 --> 00:19:20,988
+Je ne savais pas
+vers quel autre endroit me tourner.
+
+315
+00:19:21,243 --> 00:19:22,915
+Vous êtes les seuls amis que j'aie.
+
+316
+00:19:30,648 --> 00:19:33,296
+Pour moi, c'est un piège.
+C'est pas le Dr Weir.
+
+317
+00:19:33,416 --> 00:19:35,032
+Et si c'était elle ?
+
+318
+00:19:35,273 --> 00:19:38,780
+Et la machine utilisée pour Fran ?
+Je peux faire un autre Réplicateur...
+
+319
+00:19:38,900 --> 00:19:39,683
+Non.
+
+320
+00:19:39,803 --> 00:19:41,714
+J'y mettrais des protections.
+
+321
+00:19:41,834 --> 00:19:44,019
+Les progrès accomplis m'ont permis de...
+
+322
+00:19:44,455 --> 00:19:47,846
+Je respecte votre travail,
+mais une chose demeure néanmoins...
+
+323
+00:19:47,966 --> 00:19:50,692
+Les Réplicateurs sont trop forts
+pour qu'on leur fasse confiance.
+
+324
+00:19:51,750 --> 00:19:55,113
+Ils ont ravagé deux galaxies.
+Ça n'a pas été facile de les éliminer.
+
+325
+00:19:55,329 --> 00:19:57,608
+- Que faire d'elle ?
+- Elle ne peut pas rester.
+
+326
+00:19:57,728 --> 00:19:59,159
+Elle ralentit le réseau.
+
+327
+00:19:59,994 --> 00:20:02,838
+On pourrait la transférer... ou le...
+
+328
+00:20:03,378 --> 00:20:06,792
+ou quoi que ce soit,
+dans une réalité virtuelle, comme Ava ?
+
+329
+00:20:07,220 --> 00:20:10,303
+C'est pas sûr que ça fonctionne,
+surtout si elle veut pas.
+
+330
+00:20:10,641 --> 00:20:12,411
+On va... lui parler.
+
+331
+00:20:13,261 --> 00:20:16,638
+On détecte des pics d'énergie anormaux
+au niveau du pilier sud.
+
+332
+00:20:16,758 --> 00:20:19,471
+- La machine à Réplicateurs.
+- Elle se construit un corps.
+
+333
+00:20:19,904 --> 00:20:22,107
+- Elle a dû la découvrir.
+- Désactivez ce labo.
+
+334
+00:20:22,227 --> 00:20:25,310
+J'ai essayé, et la radio aussi,
+mais les communications sont coupées.
+
+335
+00:20:29,547 --> 00:20:30,869
+Qu'est-ce qu'il y a ?
+
+336
+00:20:31,193 --> 00:20:32,275
+C'est verrouillé.
+
+337
+00:20:32,395 --> 00:20:34,097
+- Pas moyen d'entrer.
+- OK, bougez !
+
+338
+00:20:34,217 --> 00:20:37,011
+Allez chercher hommes et armes lourdes,
+et couvrez le périmètre.
+
+339
+00:20:37,131 --> 00:20:38,961
+Prenez du C-4.
+On va la faire sauter.
+
+340
+00:20:39,081 --> 00:20:40,741
+Le panneau d'accès est grillé.
+
+341
+00:20:42,414 --> 00:20:44,454
+On peut utiliser une autre porte ?
+
+342
+00:20:48,997 --> 00:20:50,012
+Bonjour.
+
+343
+00:20:57,031 --> 00:20:59,623
+Écoutez-moi... Je suis Elizabeth Weir.
+
+344
+00:20:59,871 --> 00:21:02,305
+Elle était pressée,
+elle a utilisé le modèle
+
+345
+00:21:02,425 --> 00:21:05,089
+qui était paramétré : Fran.
+
+346
+00:21:05,209 --> 00:21:07,478
+John, je ne représente pas une menace.
+
+347
+00:21:07,815 --> 00:21:11,690
+Construire un Réplicateur est assez
+menaçant, je vous dirais.
+
+348
+00:21:11,850 --> 00:21:13,817
+Elizabeth Weir ne ferait jamais ça.
+
+349
+00:21:13,977 --> 00:21:16,313
+Très bien... La machine...
+
+350
+00:21:16,433 --> 00:21:17,735
+est désactivée.
+
+351
+00:21:17,855 --> 00:21:20,695
+J'ai enlevé le cristal de contrôle,
+pour empêcher d'autres créations.
+
+352
+00:21:20,815 --> 00:21:24,535
+Croyez-moi,
+cela me préoccupe tout autant que vous.
+
+353
+00:21:24,783 --> 00:21:28,749
+Mais les modifications apportées
+par Rodney écartent tout danger.
+
+354
+00:21:29,120 --> 00:21:32,739
+Je ne peux pas me répliquer.
+Et ma conscience contrôlant mon corps,
+
+355
+00:21:32,859 --> 00:21:34,379
+- je...
+- Votre conscience ?
+
+356
+00:21:34,741 --> 00:21:38,092
+Navré, mais je suis pas convaincu
+que vous êtes qui vous dites.
+
+357
+00:21:38,773 --> 00:21:40,288
+On est deux, alors.
+
+358
+00:21:41,370 --> 00:21:45,275
+Je comprends votre réserve,
+mais je suis Elizabeth Weir.
+
+359
+00:21:46,139 --> 00:21:48,004
+J'aimerais pouvoir vous le prouver.
+
+360
+00:21:48,124 --> 00:21:49,311
+Ce sera difficile.
+
+361
+00:21:49,635 --> 00:21:52,981
+Les informations personnelles
+ou souvenirs ont pu être extraits
+
+362
+00:21:53,141 --> 00:21:55,565
+de la conscience du Dr Weir
+par les Réplicateurs.
+
+363
+00:21:55,685 --> 00:21:56,811
+Je sais.
+
+364
+00:21:57,278 --> 00:21:59,530
+Laissez-moi vous offrir
+quelque chose de valeur.
+
+365
+00:21:59,884 --> 00:22:01,036
+On vous écoute.
+
+366
+00:22:01,817 --> 00:22:05,119
+Les technologies
+des civilisations qu'on a rencontrées...
+
+367
+00:22:06,184 --> 00:22:07,830
+dont la technologie Wraith...
+
+368
+00:22:09,499 --> 00:22:12,061
+Elles ont été téléchargées
+dans vos ordinateurs.
+
+369
+00:22:12,623 --> 00:22:14,845
+Vraiment ?
+Eh bien... C'est super.
+
+370
+00:22:15,078 --> 00:22:17,587
+Je veux juste vous prouver
+que je suis digne de confiance.
+
+371
+00:22:19,749 --> 00:22:22,924
+Je ne ferais jamais rien
+qui puisse vous nuire, à vous
+
+372
+00:22:23,044 --> 00:22:24,262
+ou à Atlantis.
+
+373
+00:22:35,187 --> 00:22:37,877
+Bonne nouvelle :
+maintenant qu'elle a un corps,
+
+374
+00:22:37,997 --> 00:22:40,386
+elle ne perturbe plus les ordinateurs.
+
+375
+00:22:40,506 --> 00:22:43,875
+Énergie stable, la Porte fonctionne,
+les communications sont opérationnelles.
+
+376
+00:22:43,995 --> 00:22:45,712
+T'es sûr qu'elle se répliquera pas ?
+
+377
+00:22:45,832 --> 00:22:48,006
+Absolument.
+Elle a placé toutes les sécurités.
+
+378
+00:22:48,126 --> 00:22:49,956
+Si on la met dans une pièce gardée,
+
+379
+00:22:50,076 --> 00:22:51,809
+- alors je pense...
+- Attendez !
+
+380
+00:22:51,929 --> 00:22:54,751
+Vous ne parlez pas de la garder ici,
+quand même ?
+
+381
+00:22:55,358 --> 00:22:58,521
+Je dis que gardée par des soldats,
+cela minimiserait les risques,
+
+382
+00:22:58,641 --> 00:23:00,316
+si risques il y avait.
+
+383
+00:23:00,436 --> 00:23:03,049
+Ça donnerait plus de temps
+pour l'étudier.
+
+384
+00:23:04,753 --> 00:23:07,623
+Cette chose là-dedans
+est un Réplicateur.
+
+385
+00:23:07,743 --> 00:23:11,696
+Ça peut déraper de beaucoup de façons,
+même gardée en permanence.
+
+386
+00:23:11,816 --> 00:23:15,138
+Tout le monde doutait de ma Fran,
+et elle s'est montrée sans danger
+
+387
+00:23:15,258 --> 00:23:17,724
+- et fiable.
+- C'est vrai, vous l'avez construite.
+
+388
+00:23:17,844 --> 00:23:19,567
+Vous avez créé sa conscience.
+
+389
+00:23:19,687 --> 00:23:22,850
+Mais, même si vous croyez
+que cette nouvelle Fran est le Dr Weir,
+
+390
+00:23:22,970 --> 00:23:24,965
+nous ne pouvons en être sûrs.
+
+391
+00:23:25,085 --> 00:23:27,201
+Autant qu'on sache,
+ça pourrait être Oberoth.
+
+392
+00:23:27,563 --> 00:23:28,803
+C'est flippant.
+
+393
+00:23:29,704 --> 00:23:31,391
+Et si c'est le Dr Weir ?
+
+394
+00:23:32,227 --> 00:23:35,250
+Écoutez, c'est ma faute, c'est moi
+qui ai réactivé les nanites d'Elizabeth.
+
+395
+00:23:35,793 --> 00:23:37,603
+Oui, pour la sauver, mais...
+
+396
+00:23:38,380 --> 00:23:40,574
+J'ai créé tous ces problèmes.
+
+397
+00:23:40,752 --> 00:23:44,009
+Je pense que c'est à moi de réparer.
+
+398
+00:23:46,673 --> 00:23:48,482
+Je dois bien ça à Elizabeth.
+
+399
+00:23:51,295 --> 00:23:52,440
+Je suis désolé...
+
+400
+00:23:53,230 --> 00:23:54,971
+Mais c'est trop dangereux.
+
+401
+00:23:56,644 --> 00:23:58,718
+On garde notre plan initial.
+
+402
+00:23:58,838 --> 00:24:01,226
+On met sa conscience
+dans une réalité virtuelle.
+
+403
+00:24:01,346 --> 00:24:03,111
+Laissez-lui faire ses preuves,
+
+404
+00:24:03,776 --> 00:24:06,209
+là où elle ne représente aucun risque.
+
+405
+00:24:15,297 --> 00:24:16,565
+Un enfant ?
+
+406
+00:24:21,633 --> 00:24:23,237
+Je suis contente pour toi.
+
+407
+00:24:26,913 --> 00:24:28,178
+C'est un garçon, ou...
+
+408
+00:24:28,879 --> 00:24:29,879
+Un garçon.
+
+409
+00:24:30,752 --> 00:24:31,848
+Quel est son nom ?
+
+410
+00:24:33,894 --> 00:24:36,019
+Torren John Emmagan.
+
+411
+00:24:36,993 --> 00:24:38,886
+Torren, pour ton père.
+
+412
+00:24:39,940 --> 00:24:42,317
+John... Le colonel Sheppard ?
+
+413
+00:24:42,753 --> 00:24:43,753
+C'est cela.
+
+414
+00:24:45,631 --> 00:24:48,130
+Attends, me dis pas
+que John Sheppard est...
+
+415
+00:24:48,250 --> 00:24:49,316
+Non...
+
+416
+00:24:51,405 --> 00:24:53,194
+Son père est un Athosien.
+
+417
+00:24:53,572 --> 00:24:55,247
+Laisse-moi deviner : Kanaan ?
+
+418
+00:24:56,318 --> 00:24:57,624
+Oui. Mais comment...
+
+419
+00:24:59,057 --> 00:25:01,786
+Chaque fois que tu parlais de lui,
+cet "ami",
+
+420
+00:25:02,280 --> 00:25:04,844
+il y avait cette étincelle
+dans tes yeux.
+
+421
+00:25:07,326 --> 00:25:10,024
+Donc le bébé est avec toi ici,
+sur Atlantis ?
+
+422
+00:25:12,003 --> 00:25:12,963
+Non.
+
+423
+00:25:13,690 --> 00:25:15,199
+Il est avec son père.
+
+424
+00:25:15,319 --> 00:25:16,518
+Ailleurs.
+
+425
+00:25:21,317 --> 00:25:23,760
+- Désolé de vous interrompre.
+- Non, c'est bon.
+
+426
+00:25:23,993 --> 00:25:25,420
+Nous avions fini.
+
+427
+00:25:34,569 --> 00:25:37,713
+- Désolé pour tout ça.
+- Ça va, je comprends.
+
+428
+00:25:38,817 --> 00:25:40,250
+Super nouvelle pour Teyla.
+
+429
+00:25:48,195 --> 00:25:52,138
+On veut tous croire
+que vous êtes bien celle que vous dites.
+
+430
+00:25:52,258 --> 00:25:53,917
+Je vous comprends...
+
+431
+00:25:54,037 --> 00:25:55,765
+Vous devez être prudents,
+
+432
+00:25:56,505 --> 00:25:58,274
+mais c'est bien moi, John.
+
+433
+00:26:01,757 --> 00:26:03,760
+Laissez-moi du temps.
+
+434
+00:26:04,062 --> 00:26:05,941
+Vous verrez que...
+
+435
+00:26:12,057 --> 00:26:14,581
+- Quoi ?
+- Ils m'ont trouvée.
+
+436
+00:26:16,337 --> 00:26:17,383
+Qui ?
+
+437
+00:26:17,900 --> 00:26:19,539
+Les autres Réplicateurs.
+
+438
+00:26:20,136 --> 00:26:22,358
+Ils se dirigent vers Atlantis.
+
+439
+00:26:24,622 --> 00:26:26,267
+- Combien sont-ils ?
+- Huit.
+
+440
+00:26:26,387 --> 00:26:29,132
+- On a vu les dégâts d'un seul...
+- On déconnecte le ZPM ?
+
+441
+00:26:29,532 --> 00:26:30,999
+En dernier recours.
+
+442
+00:26:31,119 --> 00:26:33,470
+Je dois étudier
+quelques contre-mesures éventuelles.
+
+443
+00:26:34,008 --> 00:26:36,449
+- Ils seront là quand ?
+- Dans quelques minutes.
+
+444
+00:26:36,569 --> 00:26:39,450
+Peut-on protéger la Cité ?
+Pouvez-vous installer un pare-feu ?
+
+445
+00:26:39,570 --> 00:26:42,687
+Un pare-feu, ça n'ira pas.
+Ils traversent le sous-espace.
+
+446
+00:26:42,847 --> 00:26:44,889
+Ici, là, impossible à prédire.
+
+447
+00:26:46,296 --> 00:26:49,162
+Je peux écrire un programme
+bloquant les comportements suspects,
+
+448
+00:26:49,282 --> 00:26:52,290
+comme un antivirus.
+Mais ça va prendre un peu de temps.
+
+449
+00:26:52,410 --> 00:26:53,466
+Faites au mieux.
+
+450
+00:26:53,586 --> 00:26:56,730
+Gardez Fran, le Dr Weir,
+qui que ce soit, sous bonne garde.
+
+451
+00:26:56,963 --> 00:26:59,144
+On ne la transfère pas
+dans la RV maintenant.
+
+452
+00:26:59,264 --> 00:27:01,623
+Elle pourrait nous aider contre eux.
+
+453
+00:27:05,245 --> 00:27:06,628
+- C'était un piège !
+- Non !
+
+454
+00:27:07,012 --> 00:27:09,714
+Honnêtement, je pensais être parvenue
+à les semer.
+
+455
+00:27:10,221 --> 00:27:12,175
+Dites-leur de rester loin d'Atlantis.
+
+456
+00:27:12,402 --> 00:27:15,351
+Je vais essayer, mais c'est plus simple
+s'ils sont proches.
+
+457
+00:27:15,571 --> 00:27:17,305
+Ils ont de bonnes intentions.
+
+458
+00:27:17,614 --> 00:27:20,356
+Dites-leur de continuer,
+d'aller ailleurs.
+
+459
+00:27:20,476 --> 00:27:21,518
+Ça pourrait...
+
+460
+00:27:23,888 --> 00:27:26,106
+- <i>Sheppard !</i>
+- Vas-y, Rodney.
+
+461
+00:27:26,734 --> 00:27:30,248
+<i>... c'est arrivé... Impossible de...
+programmer le système...</i>
+
+462
+00:27:31,062 --> 00:27:34,413
+L'alimentation ne va pas résister
+à leurs assauts conjoints !
+
+463
+00:27:36,065 --> 00:27:38,827
+- Ils sont là ?
+- Tous, ils attaquent les ordinateurs !
+
+464
+00:27:38,947 --> 00:27:42,247
+- Et l'antivirus ?
+- J'ai manqué de temps...
+
+465
+00:27:42,407 --> 00:27:44,791
+Radek, tu dois retirer le ZPM,
+
+466
+00:27:44,951 --> 00:27:47,122
+et éteindre les générateurs à naquadah.
+
+467
+00:27:48,702 --> 00:27:49,921
+La radio est morte !
+
+468
+00:27:52,199 --> 00:27:55,625
+Rodney, j'essaie de dériver l'énergie,
+mais ça devient trop instable.
+
+469
+00:27:55,927 --> 00:27:58,025
+On devrait retirer le ZPM maintenant ?
+
+470
+00:28:01,907 --> 00:28:05,270
+Allons-y. Retirez le ZPM.
+Coupez tout sauf le circuit principal.
+
+471
+00:28:14,951 --> 00:28:15,952
+Oh, bon Dieu.
+
+472
+00:28:16,173 --> 00:28:17,174
+Il est mort.
+
+473
+00:28:20,115 --> 00:28:23,285
+On est en contact
+avec le Réplicateur nommé Koracen.
+
+474
+00:28:23,405 --> 00:28:25,198
+Il dit parler au nom des autres.
+
+475
+00:28:25,318 --> 00:28:27,166
+Koracen ?
+C'est Elizabeth Weir.
+
+476
+00:28:28,552 --> 00:28:30,702
+- On s'inquiétait pour vous.
+- Écoutez-moi.
+
+477
+00:28:30,822 --> 00:28:32,567
+Vous devez quitter cet endroit.
+
+478
+00:28:32,687 --> 00:28:34,341
+Vous faites trop de dégâts.
+
+479
+00:28:34,501 --> 00:28:35,619
+On partira.
+
+480
+00:28:35,739 --> 00:28:38,065
+Mais qu'on nous donne d'abord un corps,
+comme à vous.
+
+481
+00:28:38,185 --> 00:28:40,568
+On vous a déjà dit
+que c'était hors de question.
+
+482
+00:28:40,688 --> 00:28:42,415
+Pourtant Elizabeth en a reçu un.
+
+483
+00:28:42,535 --> 00:28:45,950
+On n'y pouvait rien,
+et on ne compte pas le lui laisser.
+
+484
+00:28:46,070 --> 00:28:48,072
+On ne veut blesser personne.
+
+485
+00:28:48,334 --> 00:28:50,405
+L'un des nôtres est déjà mort,
+
+486
+00:28:50,525 --> 00:28:52,618
+alors épargnez-nous
+vos "On vient en paix" !
+
+487
+00:28:52,738 --> 00:28:54,157
+Koracen, s'il vous plaît.
+
+488
+00:28:54,277 --> 00:28:56,530
+Quittez la Cité et laissez-moi négocier.
+
+489
+00:28:57,267 --> 00:28:59,950
+Je suis sûre
+qu'on arrivera à vous aider.
+
+490
+00:29:00,110 --> 00:29:03,078
+Vous nous aiderez en replaçant
+le cristal de contrôle de l'appareil
+
+491
+00:29:03,238 --> 00:29:05,739
+pour qu'on crée
+des corps de Réplicateurs.
+
+492
+00:29:05,933 --> 00:29:07,735
+C'est ça que vous ferez.
+
+493
+00:29:07,951 --> 00:29:09,252
+Et sinon ?
+
+494
+00:29:13,873 --> 00:29:15,795
+C'est pas bon !
+
+495
+00:29:15,915 --> 00:29:18,657
+- La Porte est encore coupée !
+- On perd le contrôle de la Cité.
+
+496
+00:29:18,777 --> 00:29:20,220
+Ils ont enfermé les Jumpers !
+
+497
+00:29:20,678 --> 00:29:22,556
+Ils nous empêchent de partir.
+
+498
+00:29:23,842 --> 00:29:26,530
+- Vous pouvez passer outre ?
+- Je suis déconnecté !
+
+499
+00:29:26,650 --> 00:29:27,352
+Non.
+
+500
+00:29:27,512 --> 00:29:29,403
+Ils ont activé le ZPM.
+
+501
+00:29:29,878 --> 00:29:32,691
+- Le niveau énergétique grimpe vite !
+- Que font-ils ?
+
+502
+00:29:33,593 --> 00:29:35,002
+Ils coulent la Cité.
+
+503
+00:29:35,122 --> 00:29:37,487
+- Levez le bouclier.
+- Ils l'ont désactivé.
+
+504
+00:29:47,825 --> 00:29:50,125
+- Une idée ?
+- Non, on plonge.
+
+505
+00:29:50,564 --> 00:29:53,515
+Les ponts inférieurs
+des jetées extérieures frôlent l'eau.
+
+506
+00:29:53,635 --> 00:29:55,462
+Elle va envahir les couloirs de la Cité.
+
+507
+00:30:15,976 --> 00:30:18,138
+Transmettez-leur un message
+de ma part.
+
+508
+00:30:18,258 --> 00:30:21,030
+J'essaie de leur dire d'arrêter.
+
+509
+00:30:21,377 --> 00:30:23,741
+- Ils n'écoutent pas.
+- Je ne veux pas leur dire ça.
+
+510
+00:30:24,630 --> 00:30:25,451
+Non ?
+
+511
+00:30:25,964 --> 00:30:27,966
+Dites-leur... de continuer.
+
+512
+00:30:28,604 --> 00:30:29,989
+De couler la Cité.
+
+513
+00:30:30,505 --> 00:30:34,482
+De détruire leur seule chance
+de retrouver une forme physique.
+
+514
+00:30:35,060 --> 00:30:37,211
+Vous avez parcouru toute la galaxie.
+
+515
+00:30:37,331 --> 00:30:39,587
+Vous savez que le monde
+des Réplicateurs est détruit.
+
+516
+00:30:39,707 --> 00:30:43,470
+Le dernier endroit possédant
+la technologie nécessaire à vos desseins
+
+517
+00:30:44,555 --> 00:30:45,763
+est ici.
+
+518
+00:30:46,701 --> 00:30:48,402
+Alors, allez-y, détruisez-le.
+
+519
+00:30:49,488 --> 00:30:51,554
+Restez dans les limbes à jamais.
+
+520
+00:30:54,765 --> 00:30:57,982
+Le premier niveau de la jetée sud
+est totalement sous eau.
+
+521
+00:30:59,304 --> 00:31:00,862
+Ils n'arrêteront pas.
+
+522
+00:31:01,676 --> 00:31:02,609
+Parfait.
+
+523
+00:31:03,418 --> 00:31:05,253
+On mourra tous ensemble.
+
+524
+00:31:23,658 --> 00:31:25,720
+Ils réduisent la charge du ZPM !
+
+525
+00:31:27,673 --> 00:31:29,014
+La Cité se stabilise.
+
+526
+00:31:36,939 --> 00:31:37,940
+D'accord.
+
+527
+00:31:38,604 --> 00:31:40,208
+Là, on peut négocier.
+
+528
+00:31:45,983 --> 00:31:48,951
+J'ai une proposition.
+Je l'ai déjà communiquée aux autres,
+
+529
+00:31:49,111 --> 00:31:51,298
+et les ai convaincus d'agréer.
+
+530
+00:31:51,418 --> 00:31:52,468
+Écoutons-la.
+
+531
+00:31:52,588 --> 00:31:53,831
+Des corps humains,
+
+532
+00:31:54,249 --> 00:31:57,370
+à base de nanites,
+mais de chair et de sang.
+
+533
+00:31:57,490 --> 00:31:59,719
+Comme cette Elizabeth Weir
+que vous avez rencontrée.
+
+534
+00:31:59,839 --> 00:32:01,672
+On n'a pas cette technologie ici.
+
+535
+00:32:02,227 --> 00:32:05,384
+Nous, si. Donnez-nous
+des corps de Réplicateurs temporaires,
+
+536
+00:32:05,544 --> 00:32:08,220
+et un labo pour travailler,
+on pourra les assembler nous-mêmes.
+
+537
+00:32:08,380 --> 00:32:11,316
+Vous transférerez votre conscience
+du corps de Réplicateur vers l'humain ?
+
+538
+00:32:11,436 --> 00:32:12,451
+Exactement.
+
+539
+00:32:12,571 --> 00:32:15,863
+Une fois humains, nous serons
+aussi vulnérables que quiconque.
+
+540
+00:32:15,983 --> 00:32:18,856
+On mangera, dormira,
+tombera malade... et mourra.
+
+541
+00:32:19,478 --> 00:32:20,954
+De préférence vieux.
+
+542
+00:32:21,074 --> 00:32:24,612
+Et l'ascension ?
+Ça doit toujours être d'actualité ?
+
+543
+00:32:24,895 --> 00:32:26,697
+- Oui.
+- Une seconde.
+
+544
+00:32:26,935 --> 00:32:29,549
+Construire des humains...
+Ça va prendre du temps, non ?
+
+545
+00:32:29,669 --> 00:32:33,037
+Vous devez créer la technologie...
+On parle de nanites...
+
+546
+00:32:33,197 --> 00:32:36,499
+Assembler chaque corps, du début,
+depuis le niveau moléculaire.
+
+547
+00:32:36,725 --> 00:32:39,001
+Puis créer la machine
+de transfert de conscience.
+
+548
+00:32:39,161 --> 00:32:40,735
+Ça va prendre combien de temps ?
+
+549
+00:32:40,855 --> 00:32:43,297
+Les Réplicateurs, vous savez,
+travaillent très vite.
+
+550
+00:32:43,603 --> 00:32:45,557
+Pas de pause, de nourriture,
+de sommeil.
+
+551
+00:32:45,677 --> 00:32:47,092
+Ça vaut la peine d'y penser.
+
+552
+00:32:47,410 --> 00:32:50,631
+Il a peut-être raison.
+On récupérera le contrôle de la Cité.
+
+553
+00:32:50,751 --> 00:32:53,224
+Tant qu'ils sont dans nos ordinateurs,
+Atlantis est menacée.
+
+554
+00:32:54,416 --> 00:32:55,617
+Si on fait ça,
+
+555
+00:32:55,974 --> 00:32:58,798
+je veux de sérieuses restrictions
+sur leurs capacités...
+
+556
+00:32:58,918 --> 00:33:00,397
+Ni réplication, ni morphing.
+
+557
+00:33:00,557 --> 00:33:02,897
+Le modèle de base, oui.
+Pas de fioritures.
+
+558
+00:33:03,017 --> 00:33:05,624
+De petites réparations
+seront possibles, mais c'est tout.
+
+559
+00:33:05,744 --> 00:33:08,180
+Scellez le labo,
+entourez-le d'un champ de force,
+
+560
+00:33:08,300 --> 00:33:10,805
+faites tout
+pour vous sentir en sécurité.
+
+561
+00:33:10,925 --> 00:33:13,577
+Mais j'ai déjà convaincu les autres
+que c'est la seule option.
+
+562
+00:33:14,548 --> 00:33:16,121
+Ils ne causeront pas de problème.
+
+563
+00:33:19,070 --> 00:33:20,472
+Vous avez ma parole.
+
+564
+00:33:23,009 --> 00:33:23,910
+Allez-y.
+
+565
+00:33:29,762 --> 00:33:31,771
+OK, déploiement du champ de force.
+
+566
+00:33:38,729 --> 00:33:41,146
+- Vos équipes sont en place ?
+- Surveillance 24h/24.
+
+567
+00:33:41,266 --> 00:33:42,136
+Bien.
+
+568
+00:33:42,256 --> 00:33:44,603
+Une fois ces corps humains créés,
+
+569
+00:33:44,723 --> 00:33:47,831
+et qu'ils sont transférés dedans...
+que fait-on ?
+
+570
+00:33:47,951 --> 00:33:51,731
+Ils seront comme tout autre être humain,
+je ne vois pas pourquoi les retenir.
+
+571
+00:33:51,851 --> 00:33:55,494
+- Ils pourraient faire de bons alliés.
+- Et si l'un d'eux veut rester ?
+
+572
+00:33:57,087 --> 00:33:59,610
+Chaque chose en son temps, d'accord ?
+
+573
+00:34:03,463 --> 00:34:04,413
+Ça avance ?
+
+574
+00:34:04,533 --> 00:34:07,256
+C'est presque fini.
+Le dernier se finalise.
+
+575
+00:34:17,217 --> 00:34:18,318
+Ça a été rapide.
+
+576
+00:34:18,438 --> 00:34:22,114
+Créer des Réplicateurs,
+c'est plutôt simple, comparativement.
+
+577
+00:34:22,234 --> 00:34:23,720
+Des humains, pas autant.
+
+578
+00:34:23,840 --> 00:34:27,109
+Plus vite c'est fait, mieux c'est.
+Et dès que les transferts sont finis,
+
+579
+00:34:27,269 --> 00:34:29,872
+je veux qu'on détruise ces Réplicateurs.
+
+580
+00:34:31,669 --> 00:34:33,965
+Ils ne perdent vraiment pas
+de temps, n'est-ce pas ?
+
+581
+00:34:34,085 --> 00:34:35,285
+Non, c'est sûr.
+
+582
+00:34:35,569 --> 00:34:38,746
+Ni pause, ni bavardages,
+ni interactions sociales.
+
+583
+00:34:39,118 --> 00:34:41,517
+L'environnement de travail parfait.
+
+584
+00:34:45,033 --> 00:34:47,354
+Vous n'êtes pas obligé de rester là,
+vous savez.
+
+585
+00:34:47,474 --> 00:34:48,339
+Ça va.
+
+586
+00:34:48,499 --> 00:34:51,800
+Parler, c'est tout ce qu'il fait.
+On peut pas le faire taire.
+
+587
+00:34:52,291 --> 00:34:53,873
+Tenez-moi au courant.
+
+588
+00:35:18,408 --> 00:35:21,011
+- Panne de courant !
+- Mer... Le champ de force !
+
+589
+00:35:46,193 --> 00:35:48,194
+- Qu'y a-t-il ?
+- Un Réplicateur s'est enfui.
+
+590
+00:35:48,314 --> 00:35:50,654
+Koracen, le chef,
+a dû écrire un programme
+
+591
+00:35:50,774 --> 00:35:54,019
+pour couper le courant
+une fois téléchargé dans leur corps.
+
+592
+00:35:54,139 --> 00:35:57,283
+Le champ de force coupé,
+ils ont pu forcer les portes.
+
+593
+00:35:57,403 --> 00:36:00,116
+- Où est-elle ?
+- À la poursuite de Koracen.
+
+594
+00:36:00,276 --> 00:36:02,718
+Trois équipes les poursuivent.
+On a perdu le contact radio.
+
+595
+00:36:02,838 --> 00:36:05,806
+Rejoignez-les. Va en salle de contrôle,
+et tâche de rétablir le courant.
+
+596
+00:36:05,926 --> 00:36:07,957
+- Et eux ?
+- Tirez dessus.
+
+597
+00:36:08,077 --> 00:36:09,282
+N'arrêtez pas.
+
+598
+00:36:09,826 --> 00:36:12,128
+- Ils finiront par s'éteindre.
+- Attendez !
+
+599
+00:36:13,706 --> 00:36:16,547
+On connaissait pas du tout
+le plan de Koracen.
+
+600
+00:36:17,076 --> 00:36:19,510
+Si on en faisait partie,
+on ne serait pas ici.
+
+601
+00:36:21,224 --> 00:36:24,181
+S'il vous plaît.
+On respecte votre volonté.
+
+602
+00:36:28,637 --> 00:36:30,354
+Rien ne passe cette porte.
+
+603
+00:36:31,136 --> 00:36:32,636
+Ils bougent un doigt...
+
+604
+00:36:33,142 --> 00:36:34,241
+Abattez-les.
+
+605
+00:36:54,499 --> 00:36:55,500
+Stop !
+
+606
+00:36:57,899 --> 00:37:00,092
+Vous pouviez pas attendre
+les corps humains, hein ?
+
+607
+00:37:01,931 --> 00:37:04,345
+Le corps humain est fragile, faible...
+
+608
+00:37:05,036 --> 00:37:07,184
+Chaque seconde le rapproche de la mort.
+
+609
+00:37:07,304 --> 00:37:10,269
+Ouais, et l'ascension...
+Vous abandonnez ?
+
+610
+00:37:11,389 --> 00:37:14,192
+Pas du tout.
+Je suis sûr qu'il y a un autre moyen.
+
+611
+00:37:14,656 --> 00:37:15,959
+Avec ce corps,
+
+612
+00:37:16,735 --> 00:37:19,403
+j'ai tout le temps de le découvrir.
+
+613
+00:37:31,491 --> 00:37:33,764
+- Tu y arrives ?
+- Ils ont tout coupé.
+
+614
+00:37:33,884 --> 00:37:35,841
+Plus de courant
+dans les systèmes critiques.
+
+615
+00:37:35,961 --> 00:37:39,129
+Sauf le DHD et la Porte.
+Ils veulent sans doute les utiliser.
+
+616
+00:37:39,249 --> 00:37:41,529
+J'ai réussi à me connecter
+à l'ordinateur central.
+
+617
+00:37:41,649 --> 00:37:43,908
+Je crée une dérivation pour rétablir
+
+618
+00:37:44,028 --> 00:37:46,455
+le courant dans les systèmes primaires
+de la Tour.
+
+619
+00:37:46,575 --> 00:37:49,975
+- Le minimum, par sécurité, et de là...
+- Réécrire le programme réplicateur
+
+620
+00:37:50,095 --> 00:37:51,747
+et relancer les autres systèmes.
+
+621
+00:37:51,867 --> 00:37:54,769
+- Exactement.
+- Faites vite. On a besoin du courant.
+
+622
+00:37:55,082 --> 00:37:58,220
+- OK, je peux faire quelque chose ?
+- Oui, pour commencer, tu peux
+
+623
+00:37:58,340 --> 00:37:59,803
+me laisser bosser.
+
+624
+00:37:59,923 --> 00:38:01,424
+Oui. OK. Bien.
+
+625
+00:38:07,959 --> 00:38:08,853
+Et te taire.
+
+626
+00:38:09,917 --> 00:38:10,718
+Stop !
+
+627
+00:38:11,531 --> 00:38:13,931
+John, restez là.
+Laissez-moi m'en occuper.
+
+628
+00:38:15,001 --> 00:38:17,962
+- Vous en avez pas déjà fait assez ?
+- J'essaie de vous aider.
+
+629
+00:38:18,270 --> 00:38:20,422
+Comment ? En fuyant ?
+
+630
+00:38:20,820 --> 00:38:23,980
+- Je ne savais pas qu'il ferait ça.
+- Bien sûr que si !
+
+631
+00:38:24,687 --> 00:38:26,699
+Elizabeth a été volontaire
+
+632
+00:38:26,819 --> 00:38:28,889
+dans nos desseins dès le début.
+
+633
+00:38:29,049 --> 00:38:32,054
+C'était son idée de venir ici.
+
+634
+00:38:33,194 --> 00:38:36,895
+Vous avez dit être séparée d'eux,
+qu'ils pouvaient pas vous pister.
+
+635
+00:38:37,262 --> 00:38:38,190
+La pister ?
+
+636
+00:38:38,689 --> 00:38:41,902
+C'est elle qui nous a avertis
+du bon moment pour venir.
+
+637
+00:38:42,699 --> 00:38:44,446
+On ne faisait que suivre ses ordres.
+
+638
+00:38:44,606 --> 00:38:45,781
+John, écoutez-moi.
+
+639
+00:38:46,211 --> 00:38:48,013
+Je devais les amener ici.
+
+640
+00:38:48,760 --> 00:38:50,635
+C'était notre seule chance...
+
+641
+00:38:50,791 --> 00:38:52,545
+Notre seule échappatoire.
+
+642
+00:38:52,880 --> 00:38:56,375
+Je ne savais pas
+que Koracen causerait ces problèmes.
+
+643
+00:38:56,809 --> 00:39:00,411
+- Je ne pensais blesser personne.
+- Vous pensiez qu'on ferait quoi ?
+
+644
+00:39:00,531 --> 00:39:02,923
+Vous donner des corps de Réplicateurs
+et vous laisser partir ?
+
+645
+00:39:03,287 --> 00:39:05,843
+Je pensais vraiment
+qu'on ne serait pas une menace.
+
+646
+00:39:06,303 --> 00:39:09,889
+Vous pensez être encore Elizabeth,
+mais c'est faux.
+
+647
+00:39:35,959 --> 00:39:39,558
+Si vous voulez reprendre
+votre travail, je l'autorise.
+
+648
+00:39:39,821 --> 00:39:42,755
+On rétablit le champ de force, bien sûr.
+On renforce la sécurité.
+
+649
+00:39:44,347 --> 00:39:45,902
+C'est trop risqué.
+
+650
+00:39:47,695 --> 00:39:50,925
+Je pensais
+qu'amener les autres serait sûr.
+
+651
+00:39:51,045 --> 00:39:52,304
+J'avais tort.
+
+652
+00:39:52,722 --> 00:39:56,277
+Je ne peux plus garantir
+qu'ils ne causeront plus de problèmes.
+
+653
+00:39:56,397 --> 00:39:57,394
+Ou moi.
+
+654
+00:39:59,310 --> 00:40:00,408
+D'accord...
+
+655
+00:40:02,398 --> 00:40:04,100
+Que voulez-vous faire ?
+
+656
+00:40:05,970 --> 00:40:09,487
+Je me souviens qu'après
+que vous ayez réactivé mes nanites,
+
+657
+00:40:09,607 --> 00:40:11,443
+j'ai dit que c'était une mauvaise idée.
+
+658
+00:40:11,563 --> 00:40:13,577
+Tant de choses ont dérapé depuis.
+
+659
+00:40:16,434 --> 00:40:19,737
+Mais je pense savoir
+comment enfin tout arranger.
+
+660
+00:40:25,339 --> 00:40:26,340
+Allez-y.
+
+661
+00:40:45,854 --> 00:40:48,685
+Si vous avez besoin de quelque chose,
+dites-le-nous.
+
+662
+00:40:48,805 --> 00:40:50,106
+Merci, Rodney.
+
+663
+00:40:50,357 --> 00:40:54,339
+Promettez de rester tranquilles
+avant de finir les corps humains.
+
+664
+00:40:54,751 --> 00:40:56,291
+Ne quittez pas votre planète,
+
+665
+00:40:56,411 --> 00:40:59,982
+pas de communication avec
+d'autres civilisations qu'Atlantis.
+
+666
+00:41:00,102 --> 00:41:03,002
+Vous avez ma parole.
+Bonne chance aux commandes, Richard.
+
+667
+00:41:03,219 --> 00:41:06,338
+C'est rassurant de savoir qu'Atlantis
+est en de bonnes mains.
+
+668
+00:41:07,721 --> 00:41:08,722
+Merci.
+
+669
+00:41:09,363 --> 00:41:10,508
+On y va ?
+
+670
+00:41:13,912 --> 00:41:14,913
+C'est bon.
+
+671
+00:41:15,554 --> 00:41:16,861
+Je passe devant.
+
+672
+00:41:46,877 --> 00:41:48,358
+Il n'y a aucun risque.
+
+673
+00:42:16,553 --> 00:42:19,559
+Vous êtes sûr
+que la reconfiguration du DHD a marché ?
+
+674
+00:42:20,044 --> 00:42:20,844
+Oui.
+
+675
+00:42:21,672 --> 00:42:24,250
+On les a envoyés
+vers une Porte dans l'espace.
+
+676
+00:42:24,990 --> 00:42:28,830
+Je suppose que ça répond à la question
+de savoir si c'était bien Elizabeth.
+

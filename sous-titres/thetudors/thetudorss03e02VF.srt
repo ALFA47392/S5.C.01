@@ -1,0 +1,2815 @@
+1
+00:00:04,042 --> 00:00:07,858
+[ www.sub-way.fr ]
+Présente :
+
+2
+00:00:14,719 --> 00:00:17,979
+THE TUDORS
+Saison 3 - Épisode 2
+
+3
+00:00:18,973 --> 00:00:22,484
+Traduction : dmbmh
+
+4
+00:00:22,644 --> 00:00:25,612
+Relecture : poloneill
+
+5
+00:00:25,814 --> 00:00:28,823
+Resynchro : kasius
+
+6
+00:01:22,448 --> 00:01:23,584
+Sir Thomas.
+
+7
+00:01:25,650 --> 00:01:28,948
+- Quelles sont les nouvelles ?
+- Cette affaire agit comme la peste,
+
+8
+00:01:29,068 --> 00:01:31,164
+reculant un jour,
+et avançant un autre.
+
+9
+00:01:31,481 --> 00:01:34,139
+Avec la promesse du pardon
+et la menace de l'avancée
+
+10
+00:01:34,419 --> 00:01:36,890
+de l'armée royale,
+les rebelles du Lincolnshire
+
+11
+00:01:37,130 --> 00:01:38,681
+sont rentrés chez eux.
+
+12
+00:01:39,064 --> 00:01:40,519
+Et dans le Yorkshire ?
+
+13
+00:01:48,805 --> 00:01:51,293
+Dans le Yorkshire et tout le nord,
+
+14
+00:01:51,413 --> 00:01:54,779
+nous faisons face à la plus grande
+insurrection jamais vue.
+
+15
+00:01:55,610 --> 00:01:58,417
+Les rebelles sont entrés
+dans la ville de York, il y a 3 jours.
+
+16
+00:01:58,687 --> 00:02:02,414
+Ils ont célébré la messe,
+et entendent se diriger vers le sud.
+
+17
+00:02:24,330 --> 00:02:27,399
+"Votre Majesté, je vous écris
+au sujet d'une urgente affaire.
+
+18
+00:02:28,322 --> 00:02:30,865
+"Nous avons été informés
+sur l'avancée de l'armée des pèlerins
+
+19
+00:02:30,985 --> 00:02:33,322
+"vers le château de Pontefract
+qui est sous mon commandement.
+
+20
+00:02:34,680 --> 00:02:36,344
+"Je suis contraint de vous dire
+
+21
+00:02:36,464 --> 00:02:39,453
+"que je ne peux le défendre
+sans renforts de soldats et d'armes.
+
+22
+00:02:42,075 --> 00:02:44,609
+"En tant que gardien
+de ces frontières,
+
+23
+00:02:44,729 --> 00:02:47,533
+"et un membre loyal
+du Conseil de Votre Majesté,
+
+24
+00:02:47,653 --> 00:02:51,336
+"j'implore Votre Majesté d'envisager
+de négocier avec ces pèlerins.
+
+25
+00:02:53,118 --> 00:02:55,923
+"Je demeure votre humble
+et dévoué serviteur.
+
+26
+00:02:56,902 --> 00:02:58,175
+"Darcy."
+
+27
+00:03:12,986 --> 00:03:16,240
+- Qu'avez-vous trouvé ?
+- Un éclat d'os, Majesté.
+
+28
+00:03:17,807 --> 00:03:21,047
+Avant qu'elle ne devienne un ulcère,
+vous me disiez qu'elle était guérie.
+
+29
+00:03:21,167 --> 00:03:24,198
+- Une telle plaie, Votre Majesté...
+- Doux Jésus !
+
+30
+00:03:24,488 --> 00:03:27,042
+Vous ignorez ce que c'est,
+n'est-ce pas ?
+
+31
+00:03:27,203 --> 00:03:29,770
+Ne vous inquiétez pas,
+nous appliquerons un cataplasme
+
+32
+00:03:29,890 --> 00:03:32,089
+pour attirer plus d'éclats
+vers la surface.
+
+33
+00:03:32,510 --> 00:03:35,349
+Nous trouverons par la suite
+d'autres remèdes
+
+34
+00:03:35,469 --> 00:03:37,686
+qui guériront définitivement
+la plaie de Votre Majesté.
+
+35
+00:03:38,635 --> 00:03:40,440
+Vous me prenez pour un idiot.
+
+36
+00:03:41,502 --> 00:03:43,891
+Tous ici me prennent pour un idiot.
+
+37
+00:03:44,888 --> 00:03:45,973
+Sortez.
+
+38
+00:03:47,484 --> 00:03:48,848
+Sortez !
+
+39
+00:03:51,186 --> 00:03:53,151
+Imposteurs ! Charlatans !
+
+40
+00:03:54,740 --> 00:03:56,280
+Je trouverai mon propre remède.
+
+41
+00:04:16,176 --> 00:04:18,635
+- Votre Grâce.
+- Milord,
+
+42
+00:04:19,092 --> 00:04:21,852
+promesse m'a été faite
+d'avoir des armes à mon arrivée,
+
+43
+00:04:21,972 --> 00:04:23,682
+mais je n'en vois aucune.
+
+44
+00:04:23,963 --> 00:04:26,689
+Nous avons des armes,
+mais nous n'avons trouvé
+
+45
+00:04:26,809 --> 00:04:29,229
+aucun cheval ou chariot
+pour les transporter.
+
+46
+00:04:31,144 --> 00:04:33,518
+Peut-être n'avez-vous pas compris.
+
+47
+00:04:33,638 --> 00:04:36,174
+Je suis ici, mandaté par le Roi.
+
+48
+00:04:36,294 --> 00:04:39,318
+Si vous ne pouvez réquisitionner
+de chevaux pour Sa Majesté,
+
+49
+00:04:39,575 --> 00:04:41,742
+vous ne méritez pas d'être
+le Maire de Londres.
+
+50
+00:04:42,273 --> 00:04:45,321
+Je ne voulais produire de panique
+en contraignant les gens
+
+51
+00:04:45,441 --> 00:04:47,456
+à mobiliser leurs chevaux
+et leurs chariots.
+
+52
+00:04:48,173 --> 00:04:49,261
+Idiot !
+
+53
+00:04:50,468 --> 00:04:53,985
+Vous avez deux jours
+pour trouver des chevaux
+
+54
+00:04:54,105 --> 00:04:56,517
+afin d'acheminer ces armes
+à notre armée,
+
+55
+00:04:56,637 --> 00:04:59,181
+sinon je vous tiendrai
+pour responsable.
+
+56
+00:04:59,301 --> 00:05:01,215
+Avec un peu de chance, M. le Maire,
+
+57
+00:05:01,498 --> 00:05:05,349
+j'aurais la chance de voir
+vos entrailles exposées à Tyburn !
+
+58
+00:05:17,183 --> 00:05:18,664
+- Lady Rochford ?
+- Madame.
+
+59
+00:05:19,593 --> 00:05:22,574
+Le Roi est confiné dans sa chambre
+sur ordre de ses médecins,
+
+60
+00:05:23,266 --> 00:05:25,994
+mais vous envoie ses excuses
+et espère que vous allez bien.
+
+61
+00:05:27,481 --> 00:05:31,196
+Je m'inquiète tant pour lui,
+surtout en pareils moments.
+
+62
+00:05:32,052 --> 00:05:34,442
+Votre Majesté a toutes les raisons
+de l'être.
+
+63
+00:05:34,562 --> 00:05:36,838
+Ces rebelles ne sont rien d'autre
+que des bandits.
+
+64
+00:05:37,442 --> 00:05:40,634
+Ils se sont complètement écartés
+de la vraie religion.
+
+65
+00:05:40,795 --> 00:05:42,636
+Voulant nous ramener
+aux jours sombres
+
+66
+00:05:42,896 --> 00:05:45,652
+de l'ignorance et des superstitions.
+
+67
+00:05:45,772 --> 00:05:47,467
+Et par la force !
+
+68
+00:05:48,294 --> 00:05:50,475
+Je prie pour qu'ils soient
+rapidement maîtrisés.
+
+69
+00:05:52,619 --> 00:05:55,107
+Je veux que vous organisiez
+quelque chose pour moi.
+
+70
+00:05:57,436 --> 00:05:59,911
+Je suis sûre que cela procurera
+une grande joie au Roi.
+
+71
+00:06:01,016 --> 00:06:04,408
+CHÂTEAU DE PONTEFRACT
+YORKSHIRE, NORD DE L'ANGLETERRE
+
+72
+00:06:23,635 --> 00:06:27,097
+Mon Dieu, Lord Darcy,
+quelle vision d'horreur est-ce là.
+
+73
+00:06:28,806 --> 00:06:31,059
+De maudits rebelles
+contre Sa Majesté le Roi,
+
+74
+00:06:31,220 --> 00:06:34,300
+exhibant insolemment
+leurs honteux étendards.
+
+75
+00:06:34,420 --> 00:06:36,575
+En effet, Votre Grâce.
+
+76
+00:06:36,695 --> 00:06:40,590
+Je n'aurais jamais pensé un jour
+avoir pareille vision.
+
+77
+00:06:41,678 --> 00:06:44,083
+Qu'allez-vous faire ?
+Leur tirer dessus ?
+
+78
+00:06:44,203 --> 00:06:47,579
+Vous savez parfaitement
+que je n'ai pas d'armes.
+
+79
+00:06:47,699 --> 00:06:50,547
+Nous pouvons résister
+en fermant les portes.
+
+80
+00:06:50,977 --> 00:06:54,162
+Après tout, ce sont là
+les ordres du Roi.
+
+81
+00:06:54,282 --> 00:06:58,236
+Je pense avant tout
+qu'il est préférable de leur parler.
+
+82
+00:06:58,947 --> 00:07:02,257
+En tant que compatriotes...
+et chrétiens.
+
+83
+00:07:03,923 --> 00:07:07,656
+Je vais rencontrer leurs chefs,
+en dehors des murs du château.
+
+84
+00:07:08,243 --> 00:07:09,504
+Gardes !
+
+85
+00:07:27,246 --> 00:07:28,200
+Lord Darcy.
+
+86
+00:07:30,574 --> 00:07:32,746
+- Nous venons en paix.
+- M. Aske,
+
+87
+00:07:33,142 --> 00:07:36,893
+en tant que représentant du Roi,
+j'ai mission de vous arrêter,
+
+88
+00:07:37,269 --> 00:07:40,132
+et d'occasionner certains
+dommages à votre cause.
+
+89
+00:07:40,252 --> 00:07:44,174
+Ce Pèlerinage de Grâce
+est motivé par le bien de tous.
+
+90
+00:07:45,089 --> 00:07:48,470
+Pour l'amour que nous portons à Dieu,
+et à notre Sainte-Église.
+
+91
+00:07:49,347 --> 00:07:51,681
+Pour la sauvegarde
+de notre souverain, le Roi,
+
+92
+00:07:52,362 --> 00:07:55,644
+et pour dénoncer les brigands
+et les conseillers malveillants.
+
+93
+00:07:56,797 --> 00:07:58,523
+Nous voulons demander au Roi
+
+94
+00:07:58,816 --> 00:08:01,936
+d'interrompre
+la destruction illégale
+
+95
+00:08:02,056 --> 00:08:04,569
+- de nos monastères et abbayes.
+- M. Aske,
+
+96
+00:08:05,369 --> 00:08:07,940
+vous prétendez être loyal au Roi,
+
+97
+00:08:08,060 --> 00:08:12,035
+mais tous vos actes défient
+et désavouent l'autorité du Roi.
+
+98
+00:08:12,482 --> 00:08:16,463
+Au contraire, Archevêque,
+aucun homme en Angleterre
+
+99
+00:08:16,583 --> 00:08:20,252
+n'est plus fidèle au Roi que moi,
+et le temps m'aidera à le prouver.
+
+100
+00:08:20,413 --> 00:08:24,266
+Nos différends ne sont pas avec lui,
+mais avec ceux qui l'entourent.
+
+101
+00:08:24,386 --> 00:08:26,779
+Vous osez à présent parler
+d'une voix haute et puissante,
+
+102
+00:08:26,899 --> 00:08:30,276
+alors que ceux de votre espèce
+êtes aussi responsables
+
+103
+00:08:30,396 --> 00:08:32,472
+de ne pas avoir prévenu le Roi
+
+104
+00:08:32,986 --> 00:08:35,016
+sur la propagation de l'hérésie
+
+105
+00:08:35,255 --> 00:08:37,060
+et des abus dans tout son royaume.
+
+106
+00:08:37,911 --> 00:08:41,281
+Car que sont Cromwell et Cranmer
+sinon des hérétiques
+
+107
+00:08:41,401 --> 00:08:44,490
+et des exploiteurs manifestes
+de la communauté ?
+
+108
+00:08:46,446 --> 00:08:49,614
+Je vous l'ai dit,
+nous voulons de mal à personne.
+
+109
+00:08:50,098 --> 00:08:52,894
+Nous demandons asile
+et libre passage.
+
+110
+00:08:53,014 --> 00:08:55,287
+Tous nos pèlerins ont prêté serment
+
+111
+00:08:55,722 --> 00:08:59,705
+de ne point occire ou tuer
+sans raison.
+
+112
+00:09:00,940 --> 00:09:04,129
+D'écarter la peur de la communauté,
+
+113
+00:09:04,410 --> 00:09:07,138
+et de marcher, guidé
+par la Croix du Christ,
+
+114
+00:09:07,258 --> 00:09:09,843
+et par la foi qu'ils ont en eux.
+
+115
+00:09:10,124 --> 00:09:12,201
+Mais nous nous battrons...
+
+116
+00:09:12,733 --> 00:09:14,319
+et nous mourrons...
+
+117
+00:09:15,519 --> 00:09:17,726
+si vous cherchez à nous arrêter.
+
+118
+00:09:22,918 --> 00:09:25,823
+Je vous charge d'établir
+la défense de la ville.
+
+119
+00:09:25,943 --> 00:09:28,375
+Nous devons lever
+de nouvelles forces.
+
+120
+00:09:29,440 --> 00:09:32,038
+Que tous les seigneurs
+mobilisent leurs troupes.
+
+121
+00:09:32,158 --> 00:09:35,035
+Prenez de la Tour toutes les armes
+et les munitions qu'il vous faut.
+
+122
+00:09:35,316 --> 00:09:38,079
+Achetez-en si nécessaire
+des commerçants de la ville.
+
+123
+00:09:38,361 --> 00:09:40,693
+C'est donc vrai,
+nous sommes en danger.
+
+124
+00:09:42,368 --> 00:09:44,169
+- Idiot !
+- M. Cromwell,
+
+125
+00:09:45,206 --> 00:09:47,178
+Sa Majesté va vous recevoir.
+
+126
+00:10:01,578 --> 00:10:04,064
+Je viens de recevoir une lettre
+de Lord Darcy.
+
+127
+00:10:05,241 --> 00:10:09,039
+Il dit qu'il est en grand danger
+et qu'il ne pourra résister.
+
+128
+00:10:10,020 --> 00:10:12,389
+Et pourtant, il continue
+à tenir le château...
+
+129
+00:10:12,509 --> 00:10:14,507
+d'une manière ferme.
+
+130
+00:10:15,508 --> 00:10:17,744
+N'envisage-t-il pas d'en finir
+avec ces traîtres ?
+
+131
+00:10:18,148 --> 00:10:20,785
+Votre Majesté,
+on vient de m'informer
+
+132
+00:10:20,905 --> 00:10:24,451
+que les rebelles ont déjà investi
+la ville de Pontefract...
+
+133
+00:10:24,571 --> 00:10:26,253
+en nombre considérable.
+
+134
+00:10:35,678 --> 00:10:38,203
+Pontefract est la porte d'accès
+vers le sud.
+
+135
+00:10:38,854 --> 00:10:41,434
+Elle a une grande importance
+stratégique.
+
+136
+00:10:44,109 --> 00:10:46,690
+Vous allez écrire une lettre
+à Lord Darcy.
+
+137
+00:10:47,323 --> 00:10:50,161
+Vous lui direz que j'attends
+de lui qu'il tienne ce château.
+
+138
+00:10:50,281 --> 00:10:52,320
+À n'importe quel prix !
+
+139
+00:10:55,232 --> 00:10:56,908
+Et qu'en est-il de l'armée royale ?
+
+140
+00:10:57,189 --> 00:10:59,077
+Que font-ils pour écraser
+cette révolte ?
+
+141
+00:10:59,469 --> 00:11:01,204
+Où est le Duc de Suffolk ?
+
+142
+00:11:02,203 --> 00:11:05,083
+Et ce bâtard de Shrewsberry,
+je l'avais également mandaté.
+
+143
+00:11:08,359 --> 00:11:10,582
+Mon Dieu,
+que font donc ces hommes ?
+
+144
+00:11:27,814 --> 00:11:31,067
+- Messieurs, gens de York, amis...
+- Lord Darcy.
+
+145
+00:11:38,230 --> 00:11:42,180
+Darcy et York m'ont trahi ?
+Nous verrons quelle en sera la fin.
+
+146
+00:11:42,714 --> 00:11:45,380
+Pourquoi Shrewsberry et Suffolk
+n'ont-ils pas encore attaqué ?
+
+147
+00:11:45,500 --> 00:11:47,750
+Tout ce que j'entends
+ce sont leurs plaintes
+
+148
+00:11:47,870 --> 00:11:49,705
+et leurs excuses !
+
+149
+00:11:50,623 --> 00:11:52,043
+Savez-vous ce que je crois ?
+
+150
+00:11:52,163 --> 00:11:54,848
+Je crois qu'ils ont peur
+de leurs ombres.
+
+151
+00:11:55,732 --> 00:11:57,861
+J'ai l'intention de m'y rendre,
+moi-même.
+
+152
+00:11:57,981 --> 00:11:59,566
+Je conduirais l'armée.
+
+153
+00:11:59,686 --> 00:12:02,545
+Et j'apprendrais
+à ces bâtards de rebelles
+
+154
+00:12:02,665 --> 00:12:06,115
+comment nous conduisons
+un massacre !
+
+155
+00:12:15,983 --> 00:12:19,157
+- J'espère que vous n'en ferez rien.
+- Pourquoi donc ?
+
+156
+00:12:19,318 --> 00:12:22,202
+- Suis-je trop faible ?
+- La vie de Votre Majesté
+
+157
+00:12:22,363 --> 00:12:24,524
+est trop précieuse pour la risquer
+
+158
+00:12:24,644 --> 00:12:26,900
+contre de vulgaires rebelles.
+
+159
+00:12:27,020 --> 00:12:30,458
+Bien sûr, si vous y allez, vous serez
+tel le lion au milieu des loups.
+
+160
+00:12:30,578 --> 00:12:33,546
+Sir Francis,
+nul besoin de me flatter.
+
+161
+00:12:36,760 --> 00:12:38,983
+Envoyez un message clair à Suffolk.
+
+162
+00:12:39,103 --> 00:12:41,498
+Demandez-lui pourquoi
+il refuse de m'obéir
+
+163
+00:12:41,618 --> 00:12:43,098
+et s'il est un lâche.
+
+164
+00:12:46,100 --> 00:12:49,187
+Si les choses vont mal,
+je sais qui en sera responsable.
+
+165
+00:12:57,649 --> 00:12:59,948
+Puis-je soulager votre douleur ?
+
+166
+00:13:02,598 --> 00:13:05,300
+Je suis persuadé que vous pouvez.
+
+167
+00:13:08,481 --> 00:13:12,335
+FERME DE NEWARK
+QUARTIER GÉNÉRAL DE BRANDON
+
+168
+00:13:29,412 --> 00:13:31,563
+Votre Grâce,
+le Comte de Shrewsbury est ici.
+
+169
+00:13:39,180 --> 00:13:41,580
+- Laissez-nous, messieurs.
+- À vos ordres, Votre Grâce.
+
+170
+00:13:50,700 --> 00:13:52,928
+Nous faisons face
+à une grave situation.
+
+171
+00:13:53,048 --> 00:13:56,129
+Non seulement les rebelles sont
+plus nombreux et plus forts,
+
+172
+00:13:56,369 --> 00:13:59,476
+mais je ne peux faire confiance
+aux hommes que j'ai.
+
+173
+00:13:59,851 --> 00:14:02,302
+Nombreux pensent que la cause
+des rebelles est pieuse.
+
+174
+00:14:05,851 --> 00:14:09,388
+Pourtant, le Roi nous incite
+à attaquer le plus vite possible.
+
+175
+00:14:10,661 --> 00:14:13,791
+Il ne le ferait pas s'il voyait
+la situation que nous vivons.
+
+176
+00:14:13,911 --> 00:14:16,354
+Je n'ai presque pas de cavaliers,
+et ceux que j'ai,
+
+177
+00:14:16,474 --> 00:14:17,984
+préfèrent les couleurs du nord.
+
+178
+00:14:18,920 --> 00:14:22,322
+Engageriez-vous une bataille
+où la défaite est certaine ?
+
+179
+00:14:22,797 --> 00:14:25,283
+- Vous avez un autre plan ?
+- Parlementer avec eux.
+
+180
+00:14:25,823 --> 00:14:27,243
+- Parlementer ?
+- Milord,
+
+181
+00:14:27,889 --> 00:14:31,593
+notre but est de les empêcher
+de marcher vers le sud.
+
+182
+00:14:31,906 --> 00:14:33,917
+Quand ils parlent,
+ils ne marchent pas.
+
+183
+00:14:34,967 --> 00:14:36,683
+À vous d'informer le Roi.
+
+184
+00:14:46,025 --> 00:14:47,842
+Les armées de Shrewsbury sont ici...
+
+185
+00:14:47,962 --> 00:14:49,682
+Suffolk est ici,
+non loin de Newark.
+
+186
+00:14:50,661 --> 00:14:52,706
+Il semble que leur plan premier
+
+187
+00:14:52,826 --> 00:14:55,272
+soit de tenir la ligne ici,
+le long de la rivière Trent,
+
+188
+00:14:55,594 --> 00:14:57,441
+pour bloquer notre avancée
+vers le sud.
+
+189
+00:14:57,972 --> 00:14:59,734
+Combien sont-ils ?
+
+190
+00:14:59,854 --> 00:15:02,722
+Shrewsbury doit avoir 6 000 hommes.
+
+191
+00:15:02,842 --> 00:15:04,500
+Suffolk, beaucoup moins.
+
+192
+00:15:04,868 --> 00:15:07,613
+Ils sont aussi à court
+de chevaux et de canons.
+
+193
+00:15:07,856 --> 00:15:09,359
+Et combien sommes-nous ?
+
+194
+00:15:10,558 --> 00:15:13,046
+D'après mes estimations, plus de...
+
+195
+00:15:13,430 --> 00:15:14,866
+30 000 hommes.
+
+196
+00:15:16,944 --> 00:15:19,332
+Nous maintenons
+de nombreux effectifs
+
+197
+00:15:20,258 --> 00:15:22,211
+ici à Doncaster,
+
+198
+00:15:22,904 --> 00:15:24,240
+à l'abbaye de Jervaux,
+
+199
+00:15:24,774 --> 00:15:28,722
+et assiégeons actuellement
+le Comte de Cumberland à Skipton.
+
+200
+00:15:29,852 --> 00:15:31,308
+Le nord de la rivière étant fait,
+
+201
+00:15:31,652 --> 00:15:34,408
+nous avons pris le contrôle
+de presque tout le pays.
+
+202
+00:15:38,716 --> 00:15:40,269
+Laissons-les venir à nous.
+
+203
+00:15:41,640 --> 00:15:43,416
+Avec l'aide de Dieu, M. Aske,
+
+204
+00:15:44,401 --> 00:15:45,698
+nous triompherons.
+
+205
+00:15:51,908 --> 00:15:53,805
+Pauvre de Vous, Votre Majesté.
+
+206
+00:15:55,238 --> 00:15:56,878
+Appliquez cet onguent.
+
+207
+00:16:00,644 --> 00:16:03,924
+Je sens une odeur d'oseille et...
+de graines de lin ?
+
+208
+00:16:04,629 --> 00:16:06,184
+Herbe des prés,
+
+209
+00:16:06,304 --> 00:16:09,053
+perles pilées et feuilles d'agrumes,
+entre autres.
+
+210
+00:16:09,173 --> 00:16:12,220
+Je l'ai moi-même composé, je n'ai
+aucune confiance en mes médecins.
+
+211
+00:16:12,340 --> 00:16:13,655
+Ne bougez pas.
+
+212
+00:16:14,907 --> 00:16:16,353
+Vous êtes bien courageuse.
+
+213
+00:16:17,600 --> 00:16:19,718
+Plus courageuse que mes capitaines.
+
+214
+00:16:21,242 --> 00:16:22,609
+Et bien plus jolie.
+
+215
+00:16:28,056 --> 00:16:30,571
+Voilà, c'est fini.
+
+216
+00:16:32,011 --> 00:16:33,704
+J'espère que Votre Majesté va mieux.
+
+217
+00:16:41,537 --> 00:16:43,676
+Votre Majesté veut-elle
+que je reste ?
+
+218
+00:17:02,712 --> 00:17:05,727
+Nous avons eu tort de croire
+que le Roi d'Angleterre
+
+219
+00:17:05,847 --> 00:17:09,818
+allait reconnaître ses erreurs
+et la menace qui pèse sur son âme.
+
+220
+00:17:10,633 --> 00:17:12,825
+Au lieu de cela,
+il encourage Cromwell
+
+221
+00:17:13,351 --> 00:17:15,897
+à vandaliser et profaner
+les maisons de Dieu,
+
+222
+00:17:16,017 --> 00:17:18,005
+et à voler leurs trésors
+
+223
+00:17:18,596 --> 00:17:20,983
+pour sa jouissance
+et son usage personnel.
+
+224
+00:17:23,379 --> 00:17:26,382
+Cependant, même dans l'obscurité
+naît une lumière.
+
+225
+00:17:27,574 --> 00:17:31,261
+Je veux parler de ce merveilleux
+soulèvement des croyants.
+
+226
+00:17:32,634 --> 00:17:35,849
+- Le Pèlerinage de Grâce.
+- J'en ai eu vent, aussi.
+
+227
+00:17:36,307 --> 00:17:38,976
+Des pèlerins qui marchent
+derrière la bannière du Christ.
+
+228
+00:17:39,257 --> 00:17:42,922
+Le Saint-Père vous demande
+de rédiger un pamphlet en anglais,
+
+229
+00:17:43,042 --> 00:17:46,929
+dénonçant le Roi et ses conseillers
+comme hérétiques.
+
+230
+00:17:47,712 --> 00:17:48,528
+Bien sûr.
+
+231
+00:17:49,433 --> 00:17:52,783
+- Je commence sur-le-champ.
+- Attendez, attendez.
+
+232
+00:17:53,232 --> 00:17:56,122
+Sa Sainteté veut plus de vous
+qu'une simple signature.
+
+233
+00:17:57,196 --> 00:18:00,890
+Avec mon soutien,
+il a décidé de vous nommer
+
+234
+00:18:01,010 --> 00:18:02,476
+son représentant officiel.
+
+235
+00:18:03,114 --> 00:18:06,173
+Vous vous rendrez en France
+et dans les Pays-Bas,
+
+236
+00:18:06,293 --> 00:18:09,820
+où vous rencontrerez des représentants
+du Roi et de l'Empereur.
+
+237
+00:18:11,748 --> 00:18:15,215
+Vous les convaincrez
+de fournir argent,
+
+238
+00:18:15,335 --> 00:18:17,782
+armes et mercenaires,
+
+239
+00:18:17,902 --> 00:18:21,598
+afin de soutenir cette sainte croisade
+en Angleterre.
+
+240
+00:18:23,281 --> 00:18:26,631
+Si c'est ce que Sa Sainteté veut,
+
+241
+00:18:26,751 --> 00:18:28,963
+alors bien sûr, je m'y soumettrai,
+
+242
+00:18:29,083 --> 00:18:31,655
+tel un fils obéissant à son père.
+
+243
+00:18:32,485 --> 00:18:35,282
+Sa Sainteté a consenti...
+
+244
+00:18:35,402 --> 00:18:37,296
+à vous nommer Cardinal.
+
+245
+00:18:39,425 --> 00:18:41,376
+Voici votre barrette.
+
+246
+00:18:42,555 --> 00:18:44,297
+Je ne peux accepter.
+
+247
+00:18:45,226 --> 00:18:46,510
+Pourquoi donc ?
+
+248
+00:18:47,897 --> 00:18:49,214
+Je n'en suis pas digne.
+
+249
+00:18:49,763 --> 00:18:52,580
+En d'autres termes,
+vous préférez votre jugement
+
+250
+00:18:52,700 --> 00:18:54,636
+à celui du Pape, Votre Saint-Père.
+
+251
+00:18:55,460 --> 00:18:57,639
+Et vous pensez que ceci
+vous fera paraître humble.
+
+252
+00:18:59,499 --> 00:19:02,818
+Mais en fait,
+c'est un péché d'orgueil,
+
+253
+00:19:02,938 --> 00:19:04,247
+Père Pole.
+
+254
+00:19:12,784 --> 00:19:15,616
+Sa Grâce informe Votre Majesté
+qu'il n'a nul autre choix
+
+255
+00:19:16,050 --> 00:19:17,242
+que de parlementer.
+
+256
+00:19:18,819 --> 00:19:22,039
+Ainsi, il espère amener un membre
+de la noblesse à la traîtrise.
+
+257
+00:19:22,361 --> 00:19:25,362
+Pour leur bien et dans leur intérêt,
+ils désavoueront les communs,
+
+258
+00:19:25,482 --> 00:19:28,670
+si nous leur promettons le pardon,
+comme dans le Lincolnshire.
+
+259
+00:19:29,734 --> 00:19:31,757
+Ils ne seront pas tous pardonnés.
+
+260
+00:19:32,311 --> 00:19:35,515
+Pas leurs chefs... Jamais les chefs.
+
+261
+00:19:36,809 --> 00:19:40,098
+Qu'a donc offert Suffolk à ces gens
+pour qu'ils rentrent chez eux ?
+
+262
+00:19:42,976 --> 00:19:45,877
+Sa Grâce n'est pas entrée
+dans les détails, mais...
+
+263
+00:19:46,315 --> 00:19:49,873
+pour soulager vos craintes,
+il a écrit de sa propre main :
+
+264
+00:19:50,430 --> 00:19:52,900
+"J'implore Votre Majesté de consentir
+à toutes les offres
+
+265
+00:19:53,020 --> 00:19:55,164
+"que je ferais à ces rebelles,
+
+266
+00:19:55,284 --> 00:19:58,211
+"car assurément,
+je ne tiendrai aucune d'elles."
+
+267
+00:20:32,233 --> 00:20:34,903
+Êtes-vous heureux, à présent ?
+
+268
+00:20:35,733 --> 00:20:38,282
+Quelle lubie, quelle folie
+vous a conduit
+
+269
+00:20:38,603 --> 00:20:41,063
+à envisager une révolte
+aussi éhontée...
+
+270
+00:20:41,183 --> 00:20:45,037
+contre le souverain
+le plus noble et le plus juste ?
+
+271
+00:20:55,771 --> 00:20:56,967
+N'avez-vous pas honte ?
+
+272
+00:20:58,056 --> 00:20:59,303
+Comment avez-vous osé ?
+
+273
+00:20:59,945 --> 00:21:03,395
+Non content d'offenser
+votre seigneur,
+
+274
+00:21:04,190 --> 00:21:06,283
+vous lui donnez l'occasion
+de vous combattre,
+
+275
+00:21:06,673 --> 00:21:08,506
+alors qu'il vous aime plus que tout,
+
+276
+00:21:08,626 --> 00:21:11,565
+et vous a toujours considérés
+comme ses meilleurs amis.
+
+277
+00:21:14,251 --> 00:21:16,612
+Nous ne voulons nullement
+offenser Sa Majesté.
+
+278
+00:21:18,624 --> 00:21:22,451
+Mais nous avons une requête
+que nous voulons lui soumettre,
+
+279
+00:21:23,484 --> 00:21:26,344
+pour la restauration
+de nombreuses choses
+
+280
+00:21:26,464 --> 00:21:29,124
+qui ont été réduites en poussière
+dans ce royaume.
+
+281
+00:21:29,829 --> 00:21:32,480
+Nous demandons
+la restitution de nos abbayes
+
+282
+00:21:32,600 --> 00:21:34,723
+et de nos droits anciens.
+
+283
+00:21:34,974 --> 00:21:36,967
+Qu'un nouveau parlement
+soit constitué
+
+284
+00:21:37,087 --> 00:21:39,295
+pour répondre sincèrement
+aux doléances des gens.
+
+285
+00:21:46,275 --> 00:21:50,020
+Je ne peux rien décider ici.
+Mais, je propose une trêve.
+
+286
+00:21:51,815 --> 00:21:53,565
+Durant laquelle,
+deux de vos capitaines
+
+287
+00:21:53,887 --> 00:21:57,361
+pourront présenter vos requêtes
+à Sa Majesté.
+
+288
+00:21:58,317 --> 00:22:00,706
+La trêve sera maintenue
+jusqu'à leur retour.
+
+289
+00:22:08,285 --> 00:22:09,747
+Lord Darcy, puis-je vous parler ?
+
+290
+00:22:28,710 --> 00:22:31,728
+Vous plus que quiconque
+devez être reconnaissant au Roi,
+
+291
+00:22:33,556 --> 00:22:36,005
+pour la confiance qu'il a en vous,
+
+292
+00:22:36,245 --> 00:22:38,593
+et il aimerait pouvoir
+encore compter sur vous.
+
+293
+00:22:39,982 --> 00:22:42,608
+Mais, je vous vois vous associer
+
+294
+00:22:42,728 --> 00:22:44,949
+à des rebelles et des traîtres.
+
+295
+00:22:45,843 --> 00:22:48,829
+Pour ma part, je suis et resterai,
+
+296
+00:22:48,949 --> 00:22:51,608
+fidèle au Roi, notre souverain,
+
+297
+00:22:52,038 --> 00:22:54,166
+comme je l'ai été
+pour son père avant lui.
+
+298
+00:22:54,447 --> 00:22:57,197
+Si vous êtes aussi fidèle
+que vous le dites,
+
+299
+00:22:57,959 --> 00:22:59,876
+vous pouvez nous le prouver,
+
+300
+00:23:00,314 --> 00:23:03,586
+en remettant votre capitaine, M. Aske,
+entre nos mains.
+
+301
+00:23:03,706 --> 00:23:06,550
+Je ne peux ni veux y consentir.
+
+302
+00:23:07,260 --> 00:23:09,681
+Car si un homme promet
+d'être fidèle à quelqu'un
+
+303
+00:23:09,910 --> 00:23:12,853
+puis le trompe, il méritera sûrement
+d'être appelé un traître.
+
+304
+00:23:17,455 --> 00:23:19,542
+Sa Majesté, le Roi !
+
+305
+00:23:37,193 --> 00:23:39,171
+Je suis ravie de vous voir
+aussi plein de vie.
+
+306
+00:23:39,781 --> 00:23:41,555
+J'ai de bons médecins.
+
+307
+00:23:41,879 --> 00:23:45,213
+Néanmoins, nous devrons rendre visite
+à la tombe de Sir Thomas Becket
+
+308
+00:23:45,333 --> 00:23:46,677
+pour le remercier.
+
+309
+00:23:47,755 --> 00:23:49,395
+J'ai prévu autre chose,
+
+310
+00:23:49,515 --> 00:23:52,601
+qui, j'espère de tout coeur,
+vous apportera grand plaisir.
+
+311
+00:23:57,801 --> 00:24:00,773
+Votre Majesté, Lady Mary Tudor !
+
+312
+00:24:15,723 --> 00:24:17,416
+Je demande votre bénédiction.
+
+313
+00:24:18,911 --> 00:24:20,028
+Ma fille.
+
+314
+00:24:22,276 --> 00:24:25,022
+Je vous présente Sa Majesté,
+la Reine Jane.
+
+315
+00:24:28,778 --> 00:24:30,765
+Je me souviens
+que certains d'entre vous
+
+316
+00:24:30,885 --> 00:24:32,723
+voulaient que j'en finisse
+avec cette perle.
+
+317
+00:24:42,159 --> 00:24:43,901
+Je vous tiens.
+Vous êtes en sécurité.
+
+318
+00:24:45,919 --> 00:24:47,752
+Réjouissez-vous, Mary,
+
+319
+00:24:48,369 --> 00:24:50,894
+car je vous promets
+que rien ne vous arrivera.
+
+320
+00:25:00,281 --> 00:25:01,494
+Continuez !
+
+321
+00:25:05,077 --> 00:25:07,050
+- Êtes-vous heureuse ?
+- Oui, Votre Majesté.
+
+322
+00:25:07,897 --> 00:25:10,337
+Sa Majesté vous a octroyé
+des appartements à Hampton Court,
+
+323
+00:25:10,457 --> 00:25:12,830
+et d'autres à Greenwich Palace.
+
+324
+00:25:12,950 --> 00:25:15,720
+Je les ai vus tous les deux.
+Ils sont splendides.
+
+325
+00:25:16,680 --> 00:25:19,143
+Je suis très reconnaissante
+à Sa Majesté...
+
+326
+00:25:19,263 --> 00:25:21,106
+et à vous aussi.
+
+327
+00:25:22,248 --> 00:25:24,842
+Tous prétendent
+que ma fille est innocente.
+
+328
+00:25:24,962 --> 00:25:27,397
+Qu'elle ne connaît nulle souillure
+ou discours injurieux.
+
+329
+00:25:28,848 --> 00:25:30,392
+Le croyez-vous ?
+
+330
+00:25:31,437 --> 00:25:34,190
+Croyez-vous qu'une personne
+puisse être aussi innocente ?
+
+331
+00:25:36,329 --> 00:25:38,040
+Allez le vérifier.
+
+332
+00:25:52,419 --> 00:25:54,748
+Je voulais m'excuser
+pour mon comportement.
+
+333
+00:25:54,868 --> 00:25:57,091
+J'espère que votre coeur
+pourra me pardonner.
+
+334
+00:25:57,745 --> 00:25:59,180
+J'essayerai, Sir Francis.
+
+335
+00:26:00,015 --> 00:26:01,812
+Jésus a incité au pardon.
+
+336
+00:26:03,112 --> 00:26:04,482
+Aimez-vous les jeux ?
+
+337
+00:26:06,020 --> 00:26:08,067
+Un nouveau jeu à la cour
+pourrait vous plaire.
+
+338
+00:26:08,187 --> 00:26:11,531
+- Qu'est-ce donc ?
+- On le nomme cunnilingus.
+
+339
+00:26:11,854 --> 00:26:14,765
+- C'est une vieille pratique.
+- Comment y joue-t-on ?
+
+340
+00:26:14,885 --> 00:26:16,660
+Eh bien, vous...
+
+341
+00:26:18,141 --> 00:26:19,122
+Vous...
+
+342
+00:26:22,106 --> 00:26:23,542
+Je pense que vous riez de moi.
+
+343
+00:26:41,269 --> 00:26:43,103
+Vous ne pouvez me toucher.
+
+344
+00:26:43,891 --> 00:26:46,279
+À César... j'appartiens.
+
+345
+00:27:00,890 --> 00:27:03,536
+Votre Majesté, Sir Ralph Ellerker
+
+346
+00:27:03,697 --> 00:27:05,742
+et M. John Constable !
+
+347
+00:27:45,018 --> 00:27:46,746
+Messieurs, je vous demande ceci :
+
+348
+00:27:47,314 --> 00:27:50,541
+Quel Roi a gardé ses sujets si longtemps
+dans l'opulence et la paix ?
+
+349
+00:27:51,790 --> 00:27:54,806
+Jugeant équitablement
+aussi bien le riche que l'indigent,
+
+350
+00:27:55,578 --> 00:27:58,424
+et vous protégeant
+de tous les ennemis extérieurs ?
+
+351
+00:28:00,670 --> 00:28:02,340
+J'ai lu votre requête.
+
+352
+00:28:03,619 --> 00:28:05,807
+Votre premier prétexte
+est de maintenir la foi.
+
+353
+00:28:06,576 --> 00:28:07,850
+Mais je vous le dis,
+
+354
+00:28:08,183 --> 00:28:11,574
+rien n'est aussi contraire
+aux injonctions divines que la révolte.
+
+355
+00:28:12,409 --> 00:28:14,899
+Se dresser comme des enragés
+contre votre Roi,
+
+356
+00:28:15,288 --> 00:28:18,812
+délaissant vos terres et vos récoltes,
+ce ne sont point les agissements
+
+357
+00:28:18,932 --> 00:28:21,114
+de la brillante communauté
+que vous prétendez être.
+
+358
+00:28:21,274 --> 00:28:23,657
+- Majesté, je me dois de...
+- Silence !
+
+359
+00:28:23,777 --> 00:28:25,618
+Vous êtes en présence du Roi !
+
+360
+00:28:26,391 --> 00:28:29,455
+De fausses allégations ont été faites
+sur nos desseins à l'égard de l'Église.
+
+361
+00:28:29,835 --> 00:28:32,921
+Nous n'avons rien fait sans
+que le clergé à York et Canterbury
+
+362
+00:28:33,041 --> 00:28:35,618
+n'aient admis être en accord
+avec la Loi de Dieu.
+
+363
+00:28:35,738 --> 00:28:36,963
+La Loi de Dieu !
+
+364
+00:28:39,836 --> 00:28:42,424
+Alors, comment de simples gens
+osent-ils dire le contraire ?
+
+365
+00:28:43,254 --> 00:28:45,711
+Quelle arrogance
+et quelle folie les a pris
+
+366
+00:28:45,831 --> 00:28:49,100
+de prétendre connaître la Loi divine
+quand ils sont ignorants...
+
+367
+00:28:49,367 --> 00:28:53,043
+et encore moins instruits et devraient
+plutôt connaître leurs devoirs ?
+
+368
+00:29:05,943 --> 00:29:09,829
+Vous avez vu à Lincolnshire et ailleurs
+notre propension à la mansuétude.
+
+369
+00:29:10,560 --> 00:29:13,082
+Cette rébellion est dirigée
+contre l'exigence divine.
+
+370
+00:29:13,242 --> 00:29:17,223
+Je déclare mon intention, guidée
+par la clémence de Notre coeur princier,
+
+371
+00:29:17,453 --> 00:29:21,257
+de pardonner à tous ceux
+qui se sont rebellés,
+
+372
+00:29:21,417 --> 00:29:24,622
+à condition
+que vous déposiez vos armes.
+
+373
+00:29:24,742 --> 00:29:26,053
+Le Duc de Suffolk
+
+374
+00:29:26,213 --> 00:29:29,682
+vous accompagnera dans le Yorkshire
+pour conclure la paix,
+
+375
+00:29:30,079 --> 00:29:31,508
+et confirmer votre reddition.
+
+376
+00:29:33,815 --> 00:29:35,354
+Bonne journée, messieurs.
+
+377
+00:30:00,873 --> 00:30:02,502
+Vous devez savoir
+
+378
+00:30:02,622 --> 00:30:05,449
+que notre armée de pèlerins
+ne renoncera pas
+
+379
+00:30:05,569 --> 00:30:08,888
+simplement sur la promesse
+d'un pardon.
+
+380
+00:30:10,508 --> 00:30:13,351
+- Notre pèlerinage n'est pas achevé.
+- Je le sais
+
+381
+00:30:14,125 --> 00:30:16,045
+et je m'en suis entretenu
+avec le Roi.
+
+382
+00:30:16,165 --> 00:30:19,155
+Il m'a accordé la permission
+d'entamer les négociations,
+
+383
+00:30:19,436 --> 00:30:21,163
+en toute confiance.
+
+384
+00:30:21,283 --> 00:30:22,777
+Sur la base de notre requête.
+
+385
+00:30:25,248 --> 00:30:28,180
+Votre Grâce a-t-il
+un gage le prouvant ?
+
+386
+00:30:28,300 --> 00:30:30,015
+Vous ne me croyez pas ?
+
+387
+00:30:30,135 --> 00:30:32,880
+Ce n'est point pour moi,
+mais pour notre chef, M. Aske.
+
+388
+00:30:33,000 --> 00:30:34,524
+Il est notre avocat.
+
+389
+00:30:36,424 --> 00:30:38,698
+Voici un engagement,
+rédigé par Sa Majesté,
+
+390
+00:30:38,818 --> 00:30:41,254
+de négocier avec vous ouvertement,
+et raisonnablement
+
+391
+00:30:41,839 --> 00:30:43,274
+comme des sujets bien-aimés.
+
+392
+00:30:48,611 --> 00:30:51,637
+Nous sommes reconnaissants
+et redevables à Sa Majesté.
+
+393
+00:30:54,392 --> 00:30:55,999
+Bonne nuit, messieurs.
+
+394
+00:31:04,260 --> 00:31:06,717
+Celle-ci est pour le messager
+du Lincolnshire.
+
+395
+00:31:06,837 --> 00:31:08,781
+Assurez-vous qu'elle soit envoyée.
+
+396
+00:31:43,189 --> 00:31:44,599
+M. Constable,
+
+397
+00:31:46,102 --> 00:31:48,571
+je vous supplie de ne pas croire
+
+398
+00:31:48,731 --> 00:31:50,297
+M. Cromwell.
+
+399
+00:31:57,071 --> 00:32:00,095
+Je remercie Dieu et Votre Majesté
+pour sa grande miséricorde.
+
+400
+00:32:02,630 --> 00:32:04,583
+Vous êtes le plus gentil des régents,
+
+401
+00:32:05,465 --> 00:32:07,825
+et je voudrais que le monde entier
+le sache.
+
+402
+00:32:08,806 --> 00:32:10,968
+Le monde choisit
+ce qu'il veut savoir.
+
+403
+00:32:11,953 --> 00:32:14,026
+Mais vous pouvez le changer.
+
+404
+00:32:14,974 --> 00:32:17,296
+Je vous implore
+de restaurer les abbayes.
+
+405
+00:32:18,605 --> 00:32:20,269
+Imaginez ce que le monde pensera,
+
+406
+00:32:21,414 --> 00:32:24,062
+en sachant que vous écoutez
+votre peuple et votre coeur.
+
+407
+00:32:25,036 --> 00:32:26,810
+Je vous l'ai déjà dit,
+
+408
+00:32:27,867 --> 00:32:30,308
+ne vous mêlez pas de mes affaires.
+
+409
+00:32:33,826 --> 00:32:35,993
+Souvenez-vous de celle
+qui vous a précédée.
+
+410
+00:32:41,187 --> 00:32:43,112
+Je vous aime plus qu'elle.
+
+411
+00:32:44,872 --> 00:32:46,712
+Et plus encore que Catherine.
+
+412
+00:32:50,168 --> 00:32:51,576
+Ne gâchez pas cela.
+
+413
+00:33:03,013 --> 00:33:05,898
+PAYS-BAS ESPAGNOLS
+
+414
+00:33:11,836 --> 00:33:13,194
+Cardinal Pole.
+
+415
+00:33:17,319 --> 00:33:19,161
+Je suis Diego Hurtado de Mendoza
+
+416
+00:33:19,322 --> 00:33:21,914
+et ces messieurs sont les conseillers
+de Sa Majesté Impériale,
+
+417
+00:33:22,034 --> 00:33:23,562
+le Roi Charles Quint.
+
+418
+00:33:26,214 --> 00:33:29,380
+J'apporte cette lettre de représentation
+et d'autorité du Pape Paul.
+
+419
+00:33:30,744 --> 00:33:32,092
+Asseyons-nous.
+
+420
+00:33:39,737 --> 00:33:43,391
+Nous sommes conscients
+que vous êtes venu ici pour...
+
+421
+00:33:43,511 --> 00:33:45,784
+Pardonnez-moi,
+nous restons un peu hésitants
+
+422
+00:33:45,904 --> 00:33:48,310
+sur la nature exacte
+de votre mission.
+
+423
+00:33:48,430 --> 00:33:50,768
+Vous avez certainement été informé
+sur le soulèvement
+
+424
+00:33:50,888 --> 00:33:53,796
+qui s'est étendu dans toute
+l'Angleterre contre le Roi,
+
+425
+00:33:54,060 --> 00:33:56,630
+Cromwell, cet hérétique,
+et toute sa secte.
+
+426
+00:33:56,750 --> 00:34:00,065
+Certainement, nous en avons eu vent
+
+427
+00:34:00,185 --> 00:34:01,855
+et bien sûr,
+nous sommes intrigués.
+
+428
+00:34:03,588 --> 00:34:06,236
+Ce soulèvement populaire...
+
+429
+00:34:06,356 --> 00:34:08,968
+est la meilleure chance
+que nous ayons eue
+
+430
+00:34:09,088 --> 00:34:12,085
+pour restaurer la vraie religion
+en Angleterre.
+
+431
+00:34:12,205 --> 00:34:15,217
+Mais les gens pieux de mon pays
+ont besoin d'assistance.
+
+432
+00:34:16,349 --> 00:34:19,279
+Chacun de nous, M. Mendoza,
+
+433
+00:34:19,776 --> 00:34:21,335
+à sa manière,
+
+434
+00:34:22,010 --> 00:34:25,899
+doit encourager la poursuite
+et l'expansion de ce soulèvement.
+
+435
+00:34:31,225 --> 00:34:34,361
+Même si cela implique
+la destitution du Roi
+
+436
+00:34:35,113 --> 00:34:37,526
+et pas seulement
+celle de ses conseillers ?
+
+437
+00:34:41,511 --> 00:34:44,000
+Nous pouvons envisager
+cela sans aucune crainte,
+
+438
+00:34:44,957 --> 00:34:47,321
+car il y a une prétendante au trône
+
+439
+00:34:47,441 --> 00:34:49,704
+avec un droit légitime
+et une foi véritable :
+
+440
+00:34:51,112 --> 00:34:52,218
+Lady Mary.
+
+441
+00:34:55,248 --> 00:34:56,509
+Hormis elle...
+
+442
+00:34:57,926 --> 00:35:00,675
+un autre catholique
+a également droit au trône.
+
+443
+00:35:01,545 --> 00:35:04,181
+Un descendant des Plantagenêt
+qui ont régné avant les Tudor,
+
+444
+00:35:04,301 --> 00:35:06,477
+et régneraient volontiers après eux.
+
+445
+00:35:08,265 --> 00:35:10,569
+De qui voulez-vous parler,
+Éminence ?
+
+446
+00:35:13,462 --> 00:35:15,272
+Je parle de moi,
+
+447
+00:35:15,697 --> 00:35:17,246
+M. Mendoza.
+
+448
+00:35:25,627 --> 00:35:27,402
+Ralph, John,
+
+449
+00:35:27,522 --> 00:35:29,208
+nous avons prié pour votre retour.
+
+450
+00:35:29,368 --> 00:35:30,810
+Dieu merci.
+
+451
+00:35:30,930 --> 00:35:32,920
+Le Roi dans sa bienveillance
+nous a offert
+
+452
+00:35:33,081 --> 00:35:34,953
+son pardon général.
+
+453
+00:35:35,677 --> 00:35:38,592
+Il a envoyé le Duc de Suffolk
+pour négocier un traité
+
+454
+00:35:38,899 --> 00:35:41,804
+sans condition préalable
+et sur la base de notre requête.
+
+455
+00:35:44,924 --> 00:35:46,016
+Est-ce vrai ?
+
+456
+00:35:46,559 --> 00:35:48,644
+Je crois en la bonne volonté
+et la mansuétude du Roi.
+
+457
+00:35:48,982 --> 00:35:50,475
+En voici la preuve.
+
+458
+00:35:51,001 --> 00:35:52,719
+Nous nous rencontrerons ici.
+
+459
+00:36:00,456 --> 00:36:02,366
+Vous n'avez encore rien dit, John.
+
+460
+00:36:02,616 --> 00:36:05,130
+Est-ce car vous n'êtes pas
+d'accord avec Sir Ralph ?
+
+461
+00:36:06,332 --> 00:36:08,247
+Non, je ne peux l'être.
+
+462
+00:36:08,698 --> 00:36:10,875
+Comment le serais-je
+quand je sais que ce diable
+
+463
+00:36:11,150 --> 00:36:14,096
+Cromwell a une telle emprise sur le Roi
+que je suspecte
+
+464
+00:36:14,216 --> 00:36:16,338
+ces promesses d'être
+complètement vaines.
+
+465
+00:36:16,773 --> 00:36:20,759
+- Devrons-nous refuser cette rencontre ?
+- Il nous faut les démasquer.
+
+466
+00:36:20,919 --> 00:36:23,983
+Appelons à un rassemblement général,
+prenons le contrôle de tout le nord,
+
+467
+00:36:24,103 --> 00:36:25,966
+et ensuite seulement...
+
+468
+00:36:26,086 --> 00:36:27,725
+nous consentirons à cette rencontre.
+
+469
+00:36:28,766 --> 00:36:31,228
+Quelle raison avez-vous
+de ne pas les croire ?
+
+470
+00:36:31,911 --> 00:36:32,938
+Celle-ci.
+
+471
+00:36:33,798 --> 00:36:35,065
+Qu'est-ce donc ?
+
+472
+00:36:35,545 --> 00:36:38,136
+La copie d'une lettre de Cromwell
+
+473
+00:36:38,256 --> 00:36:39,945
+à la noblesse du Yorkshire.
+
+474
+00:36:41,260 --> 00:36:43,073
+J'en lis un passage pour vous.
+
+475
+00:36:44,051 --> 00:36:46,327
+"Il y a un espoir
+qu'ils se rendent pacifiquement.
+
+476
+00:36:47,058 --> 00:36:50,378
+"Mais si ces rebelles persistent
+dans leur rassemblement illégal,
+
+477
+00:36:50,908 --> 00:36:54,443
+"et leur provocation,
+la rébellion sera alors anéantie
+
+478
+00:36:54,563 --> 00:36:56,140
+"d'une manière si intense
+
+479
+00:36:56,413 --> 00:36:59,250
+"qu'ils seront un exemple
+pour tous nos sujets
+
+480
+00:36:59,370 --> 00:37:02,215
+"jusqu'à la fin des temps."
+
+481
+00:37:07,199 --> 00:37:09,642
+"Jusqu'à la fin des temps",
+messieurs.
+
+482
+00:37:12,532 --> 00:37:14,504
+Mais ils ne peuvent pas
+nous anéantir,
+
+483
+00:37:14,624 --> 00:37:17,161
+et c'est pourquoi
+le Duc est obligé de négocier.
+
+484
+00:37:17,601 --> 00:37:21,403
+Ce signe évident de diablerie
+ne vous impressionne donc pas !
+
+485
+00:37:26,159 --> 00:37:28,452
+Il nous faudra maintenir
+notre vigilance,
+
+486
+00:37:29,019 --> 00:37:30,900
+et nous préparer à cette rencontre.
+
+487
+00:37:31,020 --> 00:37:34,469
+Clarifions nos positions
+et consolidons nos arguments.
+
+488
+00:37:34,589 --> 00:37:36,974
+Que nos hommes de foi
+les approuvent.
+
+489
+00:37:42,350 --> 00:37:44,243
+Qu'avons-nous à craindre, John,
+
+490
+00:37:44,363 --> 00:37:46,136
+quand nous défendons
+la parole de Dieu ?
+
+491
+00:37:46,388 --> 00:37:47,906
+Je le sais bien, mais...
+
+492
+00:37:53,949 --> 00:37:55,855
+J'espère seulement qu'aucun de nous
+
+493
+00:37:56,306 --> 00:38:00,164
+ou de nos petits-enfants
+ne regrettera ce moment.
+
+494
+00:38:02,123 --> 00:38:04,339
+Je voulais te souhaiter
+le succès dans ta mission,
+
+495
+00:38:04,459 --> 00:38:06,405
+et dans ta rencontre
+avec les rebelles.
+
+496
+00:38:06,525 --> 00:38:08,179
+Je remercie Votre Majesté.
+
+497
+00:38:09,568 --> 00:38:11,537
+Tu sais que je veux
+une solution pacifique.
+
+498
+00:38:13,153 --> 00:38:16,139
+Tu as permission de prolonger
+la trêve autant que nécessaire.
+
+499
+00:38:16,858 --> 00:38:19,962
+Tu pourras offrir mon pardon
+à tous les rebelles.
+
+500
+00:38:20,082 --> 00:38:23,841
+À l'exception des chefs.
+Je veux qu'ils se rendent...
+
+501
+00:38:24,966 --> 00:38:26,938
+avec des chaînes autour du cou.
+
+502
+00:38:31,853 --> 00:38:33,898
+Votre Majesté sait que les rebelles,
+
+503
+00:38:34,018 --> 00:38:37,438
+injustement, sans aucun doute,
+accusent M. Cromwell
+
+504
+00:38:37,599 --> 00:38:39,084
+pour nombre de leurs maux.
+
+505
+00:38:39,772 --> 00:38:42,934
+Ils ont fréquemment demandé
+son départ et sa sanction.
+
+506
+00:38:44,821 --> 00:38:46,071
+Que dois-je leur dire ?
+
+507
+00:39:01,762 --> 00:39:03,458
+Sais-tu ce que c'est ?
+
+508
+00:39:04,089 --> 00:39:05,634
+Des fruits du Nouveau-Monde.
+
+509
+00:39:06,427 --> 00:39:07,801
+De nouvelles choses arrivent
+
+510
+00:39:08,722 --> 00:39:10,194
+... tout change.
+
+511
+00:39:11,634 --> 00:39:13,645
+J'ai un féroce appétit
+pour la nouveauté.
+
+512
+00:39:16,225 --> 00:39:17,519
+Dis-leur ce que tu veux.
+
+513
+00:39:33,612 --> 00:39:36,466
+J'ai lu votre nouvelle requête.
+Parmi d'autres articles,
+
+514
+00:39:36,586 --> 00:39:40,501
+vous demandez l'établissement
+d'une session spéciale du Parlement,
+
+515
+00:39:40,662 --> 00:39:43,875
+pour débattre sans crainte
+et sans courroucer Sa Majesté,
+
+516
+00:39:43,995 --> 00:39:45,923
+les questions d'hérésie,
+
+517
+00:39:46,083 --> 00:39:49,718
+de suprématie royale
+et du maintien de la religion.
+
+518
+00:39:50,051 --> 00:39:53,639
+Je peux vous dire que le Roi
+a consenti à votre requête.
+
+519
+00:39:56,207 --> 00:39:59,533
+Un parlement spécial sera instauré.
+Il sera établi...
+
+520
+00:39:59,653 --> 00:40:02,439
+non pas à Westminster, mais ici
+
+521
+00:40:02,715 --> 00:40:06,576
+à York, pour débattre et statuer
+sur toutes ces questions.
+
+522
+00:40:07,749 --> 00:40:10,656
+Merci. Nous avons aussi demandé
+
+523
+00:40:10,817 --> 00:40:14,670
+que les hérésies de Luther,
+Wycliffe et Tyndale
+
+524
+00:40:15,189 --> 00:40:17,037
+soient annulées et détruites.
+
+525
+00:40:17,913 --> 00:40:21,106
+Nous demandons que les évêques
+hérétiques et les laïques
+
+526
+00:40:21,226 --> 00:40:22,793
+soient punis.
+
+527
+00:40:22,953 --> 00:40:26,755
+Que Cromwell, Audley et
+Sir Richard Rich
+
+528
+00:40:27,293 --> 00:40:30,843
+soient punis comme les destructeurs
+des bonnes lois de ce royaume,
+
+529
+00:40:31,207 --> 00:40:33,720
+et les tenants des fausses sectes.
+
+530
+00:40:34,275 --> 00:40:36,957
+Ce n'est pas à moi de le décider,
+
+531
+00:40:37,603 --> 00:40:39,680
+quels que soient mes sentiments,
+
+532
+00:40:40,588 --> 00:40:43,730
+mais ces points sont ceux
+que devra traiter ce parlement.
+
+533
+00:40:45,388 --> 00:40:48,054
+Est-il possible que ce parlement
+puisse débattre
+
+534
+00:40:48,174 --> 00:40:51,271
+de l'obéissance au Pape,
+de la préservation des âmes,
+
+535
+00:40:51,391 --> 00:40:53,643
+et de la légitimité de Lady Mary ?
+
+536
+00:40:53,763 --> 00:40:56,768
+Oui, M. Aske. Je peux garantir
+que toutes ces affaires
+
+537
+00:40:56,888 --> 00:41:00,066
+pourront être soulevées au parlement
+sans aucune crainte ou faveur.
+
+538
+00:41:00,412 --> 00:41:03,667
+Le Roi est-il encore prêt
+à offrir un pardon général ?
+
+539
+00:41:04,124 --> 00:41:07,620
+Oui, et je le dis sans hésitation.
+
+540
+00:41:08,245 --> 00:41:11,633
+Plus Sa Majesté comprend
+les raisons de ce soulèvement,
+
+541
+00:41:11,793 --> 00:41:14,845
+et la loyauté des pèlerins
+à sa personne et à son règne,
+
+542
+00:41:15,393 --> 00:41:17,681
+plus il insiste pour montrer
+de la clémence.
+
+543
+00:41:19,671 --> 00:41:21,497
+Il y a autre chose.
+
+544
+00:41:22,729 --> 00:41:24,597
+Vous savez que nous demandons
+
+545
+00:41:24,717 --> 00:41:27,143
+que la suppression
+des abbayes cesse
+
+546
+00:41:27,263 --> 00:41:28,942
+et que celles-ci soient restaurées.
+
+547
+00:41:29,408 --> 00:41:31,067
+C'est notre point essentiel.
+
+548
+00:41:31,850 --> 00:41:34,824
+Nous sommes encore déterminés
+à nous battre et mourir
+
+549
+00:41:34,944 --> 00:41:37,326
+pour le maintien
+de nos lieux de cultes.
+
+550
+00:41:37,589 --> 00:41:40,938
+À ce sujet, je peux dire
+que la destruction des abbayes
+
+551
+00:41:41,058 --> 00:41:43,999
+cessera jusqu'à la réunion
+du parlement.
+
+552
+00:41:44,277 --> 00:41:47,470
+Il sera alors des prérogatives
+du parlement de décider quand
+
+553
+00:41:48,645 --> 00:41:50,546
+les autres seront restaurées.
+
+554
+00:41:51,483 --> 00:41:52,749
+Rentrez chez vous...
+
+555
+00:41:53,010 --> 00:41:55,027
+et déposez les armes.
+
+556
+00:41:55,965 --> 00:41:57,309
+En nous unissant,
+
+557
+00:41:58,704 --> 00:42:00,882
+et en résistant...
+
+558
+00:42:01,002 --> 00:42:04,939
+nous avons obtenu beaucoup plus
+que nous eussions espéré...
+
+559
+00:42:05,059 --> 00:42:08,273
+quand nous avons décidé
+d'exécuter notre pèlerinage.
+
+560
+00:42:08,434 --> 00:42:11,652
+Ce sera bientôt Noël.
+Rentrez chez vous
+
+561
+00:42:11,813 --> 00:42:15,781
+et célébrez la naissance
+de Notre Seigneur, Jésus Christ.
+
+562
+00:42:16,326 --> 00:42:18,353
+Nous remercions Dieu...
+
+563
+00:42:18,473 --> 00:42:21,078
+autant que Sa Majesté, le Roi...
+
+564
+00:42:21,374 --> 00:42:25,082
+que tout cela ait été obtenu
+sans effusion de sang.
+
+565
+00:42:25,809 --> 00:42:28,217
+Je vous prie d'écouter
+le messager du Roi.
+
+566
+00:42:35,122 --> 00:42:38,663
+"Sa Gracieuse Majesté,
+le Roi Henry VIII,
+
+567
+00:42:39,668 --> 00:42:42,253
+"par ce présent édit pardonne...
+
+568
+00:42:42,373 --> 00:42:45,900
+"à tous les sujets
+qui ont contrevenu
+
+569
+00:42:46,020 --> 00:42:48,772
+"et se sont soulevés
+en une rébellion illégale."
+
+570
+00:42:48,932 --> 00:42:51,066
+À présent, je vous demande tous
+
+571
+00:42:51,524 --> 00:42:53,367
+de vous disperser,
+
+572
+00:42:53,487 --> 00:42:56,743
+regagnez vos foyers
+et mettez vos armes de côté.
+
+573
+00:42:57,441 --> 00:43:00,393
+En sachant fermement
+que notre religion...
+
+574
+00:43:00,513 --> 00:43:04,121
+sera maintenue et non pas détruite !
+
+575
+00:43:19,588 --> 00:43:21,805
+- Qu'y a-t-il, époux ?
+- Une lettre du Roi.
+
+576
+00:43:33,113 --> 00:43:34,151
+Que dit-il ?
+
+577
+00:43:39,130 --> 00:43:41,092
+"Mon fidèle et bien-aimé Aske.
+
+578
+00:43:41,212 --> 00:43:44,379
+"J'ai été informé
+que malgré les offenses
+
+579
+00:43:44,499 --> 00:43:48,000
+"commises contre Nous,
+et votre tentative de rébellion,
+
+580
+00:43:48,120 --> 00:43:49,875
+"vous vous êtes à présent repenti.
+
+581
+00:43:50,389 --> 00:43:53,467
+"Et puisque vous êtes déterminé
+à être un loyal sujet,
+
+582
+00:43:53,853 --> 00:43:57,215
+"Nous avons éprouvé le désir
+de vous parler..."
+
+583
+00:43:58,498 --> 00:44:01,117
+- Père !
+- Silence et écoutez votre père.
+
+584
+00:44:01,237 --> 00:44:03,513
+"... afin de connaître les circonstances
+
+585
+00:44:03,674 --> 00:44:05,215
+"précédant à cette affaire."
+
+586
+00:44:06,531 --> 00:44:08,560
+Le Roi veut me parler.
+Vous vous rendez compte ?
+
+587
+00:44:09,811 --> 00:44:12,189
+"De ce fait, je vous ordonne
+en tant que loyal sujet,
+
+588
+00:44:12,349 --> 00:44:15,321
+"ainsi que nous le savons,
+de venir à la cour pour Noël.
+
+589
+00:44:16,019 --> 00:44:18,779
+"Nul ne doit le savoir, mais
+vous pourrez faire preuve de sincérité
+
+590
+00:44:18,939 --> 00:44:22,032
+"et de franchise dans tout
+ce que nous vous demanderons,
+
+591
+00:44:22,192 --> 00:44:24,785
+"ce pour quoi nous pourrons
+vous récompenser en supplément.
+
+592
+00:44:26,290 --> 00:44:28,121
+Il y est joint une mention disant :
+
+593
+00:44:28,502 --> 00:44:30,973
+"Vous serez reçu à la cour
+en toute sécurité
+
+594
+00:44:31,093 --> 00:44:33,210
+"et vous repartirez
+avant le 12e jour de Noël."
+
+595
+00:44:33,738 --> 00:44:35,379
+Assurez-vous simplement
+
+596
+00:44:35,947 --> 00:44:39,859
+qu'il entend honorer les promesses,
+que Lord Suffolk a faites.
+
+597
+00:44:39,979 --> 00:44:42,537
+N'est-ce pas évident que le Roi
+prend cette affaire à coeur ?
+
+598
+00:44:42,657 --> 00:44:44,422
+Il a lui-même rédigé cette lettre.
+
+599
+00:44:44,542 --> 00:44:46,807
+Vous êtes trop confiant.
+À votre place, je refuserais.
+
+600
+00:44:47,561 --> 00:44:50,074
+Promesse a été faite sur mon retour.
+
+601
+00:44:50,194 --> 00:44:51,869
+Elles peuvent toutes être brisées.
+
+602
+00:44:51,989 --> 00:44:54,207
+M. Constable, les promesses d'un roi
+
+603
+00:44:54,327 --> 00:44:56,817
+ont nettement plus de valeurs
+que celles de gens ordinaires.
+
+604
+00:44:56,978 --> 00:44:58,693
+Voici ce que nous ferons :
+
+605
+00:44:59,114 --> 00:45:01,059
+Je posterai des cavaliers
+
+606
+00:45:01,368 --> 00:45:04,103
+tout le long de la route
+qui mène à Londres.
+
+607
+00:45:04,223 --> 00:45:06,701
+De telle sorte que si,
+Dieu nous en préserve,
+
+608
+00:45:07,538 --> 00:45:10,831
+vous étiez emprisonné
+ou maltraité,
+
+609
+00:45:11,243 --> 00:45:13,180
+je le saurai immédiatement
+
+610
+00:45:13,300 --> 00:45:15,710
+et réunirai les gens à nouveau
+pour vous délivrer.
+
+611
+00:45:17,737 --> 00:45:19,038
+Merci, Lord Darcy.
+
+612
+00:45:27,681 --> 00:45:31,143
+[ www.sub-way.fr ]
+version 1.0
+

@@ -1,0 +1,2336 @@
+1
+00:00:06,630 --> 00:00:07,876
+<i>In the future,</i>
+
+2
+00:00:08,205 --> 00:00:11,163
+<i>my son will lead mankind
+in a war against Skynet,</i>
+
+3
+00:00:12,587 --> 00:00:15,810
+<i>a computer system programmed
+to destroy the world.</i>
+
+4
+00:00:17,368 --> 00:00:20,035
+<i>It has sent machines
+back through time...</i>
+
+5
+00:00:20,475 --> 00:00:21,903
+<i>some to kill him...</i>
+
+6
+00:00:22,305 --> 00:00:23,735
+<i>one to protect him.</i>
+
+7
+00:00:24,065 --> 00:00:27,456
+<i>Today we fight to stop Skynet
+from ever being created.</i>
+
+8
+00:00:27,819 --> 00:00:29,621
+<i>To change our future.</i>
+
+9
+00:00:30,407 --> 00:00:31,996
+<i>To change his fate.</i>
+
+10
+00:00:33,299 --> 00:00:36,247
+<i>The war to save mankind begins now.</i>
+
+11
+00:00:37,408 --> 00:00:39,176
+Season 1 Episode 5
+Queen's Gambit (<i>v. 1.00</i>)
+
+12
+00:00:39,296 --> 00:00:41,796
+http://Projet-SG.net
+Transcript: Sadgeezer.com
+
+13
+00:00:42,289 --> 00:00:45,006
+<i>Previously on</i> Terminator:
+The Sarah Connor Chronicles...
+
+14
+00:00:46,501 --> 00:00:47,300
+<i>He's here.</i>
+
+15
+00:00:47,502 --> 00:00:49,469
+Are you forgetting
+that I blew his head off?
+
+16
+00:00:50,880 --> 00:00:53,390
+- He came through. He knows we're here.
+- It's just a head.
+
+17
+00:00:54,467 --> 00:00:56,182
+<i>We're programmed to repair ourselves.</i>
+
+18
+00:00:56,976 --> 00:00:59,062
+<i>We're programmed to blend in.</i>
+
+19
+00:01:00,387 --> 00:01:02,440
+- There are other people here.
+- Resistance fighters.
+
+20
+00:01:02,600 --> 00:01:04,555
+<i>Humans sent back from
+the future by John.</i>
+
+21
+00:01:04,675 --> 00:01:06,528
+<i>Who have money and guns.</i>
+
+22
+00:01:06,688 --> 00:01:08,446
+<i>Jumper outside the gym!</i>
+
+23
+00:01:08,606 --> 00:01:10,115
+It's my new friend.
+
+24
+00:01:10,275 --> 00:01:12,117
+- The crying one.
+- We gotta help her!
+
+25
+00:01:12,237 --> 00:01:12,937
+No.
+
+26
+00:01:17,221 --> 00:01:19,874
+<i>I need you to look at these photographs.
+Tell me if you recognize anybody.</i>
+
+27
+00:01:20,399 --> 00:01:22,510
+<i>The young one.
+His name is Andrew Goode.</i>
+
+28
+00:01:22,960 --> 00:01:25,070
+He was an intern
+at Cyberdyne one summer.
+
+29
+00:01:25,620 --> 00:01:27,497
+Do you wanna have dinner with me?
+
+30
+00:01:27,840 --> 00:01:30,054
+My turk plays chess
+at at level that could defeat
+
+31
+00:01:30,713 --> 00:01:32,429
+every human player that's ever lived,
+
+32
+00:01:32,589 --> 00:01:35,473
+- and probably ever will live.
+- <i>You talk about it like it's human.</i>
+
+33
+00:01:35,978 --> 00:01:36,975
+You never know.
+
+34
+00:01:46,982 --> 00:01:48,749
+<i>Andy Goode must be killed.</i>
+
+35
+00:02:08,797 --> 00:02:12,219
+<i>Of all the training my son received
+in the jungles of Central America,</i>
+
+36
+00:02:12,905 --> 00:02:15,430
+<i>nothing prepared him better for combat</i>
+
+37
+00:02:16,499 --> 00:02:18,266
+<i>than the game of chess.</i>
+
+38
+00:02:21,472 --> 00:02:24,763
+<i>It taught him almost everything
+he needed to know about war.</i>
+
+39
+00:02:29,102 --> 00:02:30,779
+<i>That to win you must be patient,</i>
+
+40
+00:02:33,224 --> 00:02:34,252
+<i>bold,</i>
+
+41
+00:02:36,170 --> 00:02:37,294
+<i>calculating,</i>
+
+42
+00:02:39,403 --> 00:02:40,789
+<i>and most of all...</i>
+
+43
+00:02:42,980 --> 00:02:44,636
+<i>willing to sacrifice.</i>
+
+44
+00:03:11,205 --> 00:03:12,136
+Andy.
+
+45
+00:03:12,442 --> 00:03:14,051
+Haven't heard from you in a while.
+
+46
+00:03:14,171 --> 00:03:16,991
+<i>Sorry I've been out of touch.
+But after the fire in my house...</i>
+
+47
+00:03:17,436 --> 00:03:19,994
+<i>How can I explain?
+It was kind of a blessing.</i>
+
+48
+00:03:20,595 --> 00:03:22,705
+- <i>Can you meet me?</i>
+- Where are you?
+
+49
+00:03:22,865 --> 00:03:25,376
+A hotel in Pasadena.
+I'm checking into a tournament.
+
+50
+00:03:25,496 --> 00:03:26,417
+<i>A tournament?</i>
+
+51
+00:03:26,577 --> 00:03:27,836
+Yeah, you know, chess.
+
+52
+00:03:31,332 --> 00:03:33,800
+Charley Dixon?
+Agent Kester, FBI.
+
+53
+00:03:34,961 --> 00:03:37,178
+- I need to ask you a few questions.
+- What is this about?
+
+54
+00:03:37,338 --> 00:03:38,752
+Sarah Connor.
+
+55
+00:03:48,679 --> 00:03:50,546
+Are you really good at math?
+
+56
+00:03:50,998 --> 00:03:51,875
+Yes.
+
+57
+00:03:54,189 --> 00:03:55,669
+You wanna do mine?
+
+58
+00:03:56,258 --> 00:03:57,080
+Yes.
+
+59
+00:03:59,299 --> 00:04:00,368
+We got a problem.
+
+60
+00:04:00,778 --> 00:04:02,996
+Andy Goode rebuilt his chess computer.
+
+61
+00:04:05,251 --> 00:04:06,199
+The Turk.
+
+62
+00:04:06,809 --> 00:04:08,412
+- But you napalmed it.
+- Apparently
+
+63
+00:04:08,532 --> 00:04:11,045
+he spent every minute since then
+in a coffee shop in Van Nuys
+
+64
+00:04:11,205 --> 00:04:12,922
+rewriting the code from memory.
+
+65
+00:04:13,912 --> 00:04:16,426
+A good code is like a song in your head.
+It's gotta come out.
+
+66
+00:04:16,586 --> 00:04:18,761
+The song might just blow up the world.
+
+67
+00:04:18,921 --> 00:04:21,133
+You should have killed him
+when you had the chance.
+
+68
+00:04:21,470 --> 00:04:24,183
+And I'm surprised it's taken you
+this long to bring that up.
+
+69
+00:04:24,758 --> 00:04:26,634
+I'm doing John's homework.
+
+70
+00:04:30,558 --> 00:04:32,358
+Andy entered it into a tournament.
+
+71
+00:04:32,888 --> 00:04:35,525
+- Computer versus human?
+- Computer versus computer.
+
+72
+00:04:35,645 --> 00:04:36,889
+It's the new thing.
+
+73
+00:04:37,129 --> 00:04:39,616
+These programs are too smart and
+powerful to play people anymore.
+
+74
+00:04:39,776 --> 00:04:42,121
+It gets better the more
+we talk about it.
+
+75
+00:04:42,358 --> 00:04:43,623
+You're going to school.
+
+76
+00:04:43,743 --> 00:04:45,830
+You and Tin miss
+can meet me there later.
+
+77
+00:04:45,990 --> 00:04:47,707
+You don't know anything about chess.
+
+78
+00:04:47,867 --> 00:04:49,925
+I know a little bit about Andy.
+
+79
+00:04:50,180 --> 00:04:52,795
+Besides, you can't be absent.
+Absent gets you on the radar.
+
+80
+00:04:53,372 --> 00:04:54,714
+Okay, I get it.
+
+81
+00:04:55,276 --> 00:04:57,592
+You go.
+Can I have some money for lunch?
+
+82
+00:05:24,920 --> 00:05:26,386
+Isn't this awesome?
+
+83
+00:05:27,345 --> 00:05:28,998
+God, I love robots.
+
+84
+00:05:34,497 --> 00:05:35,623
+Come here.
+
+85
+00:05:43,038 --> 00:05:46,584
+- So is this one better or worse?
+- Well, it's different, really.
+
+86
+00:05:47,145 --> 00:05:48,851
+More adaptable, but less predictable.
+
+87
+00:05:49,011 --> 00:05:50,818
+Not as powerful for now,
+
+88
+00:05:50,938 --> 00:05:52,355
+but quicker on its feet.
+
+89
+00:05:52,515 --> 00:05:54,023
+It has a hunger for learning,
+
+90
+00:05:55,251 --> 00:05:58,361
+- but sometimes the lessons it learns...
+- Sounds more human.
+
+91
+00:05:59,075 --> 00:06:01,581
+Well, if you want an analogy,
+I'd say that Turk I
+
+92
+00:06:01,701 --> 00:06:03,449
+had grown into a brooding teenager,
+
+93
+00:06:03,609 --> 00:06:06,285
+and Turk II is still
+more of a precocious child.
+
+94
+00:06:07,718 --> 00:06:09,639
+Speaking of brooding and precocious,
+
+95
+00:06:09,759 --> 00:06:11,815
+this is my partner, Dimitri Shipkov.
+
+96
+00:06:12,103 --> 00:06:15,420
+I built the Turk,
+but Dimitri taught it to play chess.
+
+97
+00:06:16,439 --> 00:06:18,840
+She'll never sleep with you.
+<i>Da, poka.</i>
+
+98
+00:06:19,375 --> 00:06:21,458
+- You should plug that in.
+- Yep.
+
+99
+00:06:23,164 --> 00:06:26,383
+Don't listen to him. He's just worked up
+about the military contract.
+
+100
+00:06:26,599 --> 00:06:28,451
+We have a deal to split the money.
+
+101
+00:06:28,634 --> 00:06:30,184
+What military contract?
+
+102
+00:06:30,534 --> 00:06:31,811
+The one the winner gets.
+
+103
+00:06:39,020 --> 00:06:41,863
+Why don't you get your story straight?
+Is she dead or isn't she?
+
+104
+00:06:42,023 --> 00:06:44,507
+Sarah Connor survived
+the explosion in the bank vault.
+
+105
+00:06:44,627 --> 00:06:45,658
+So did her son.
+
+106
+00:06:45,818 --> 00:06:48,967
+Yeah, that was eight years ago.
+You guys just figured that out?
+
+107
+00:06:57,999 --> 00:06:58,755
+Yes.
+
+108
+00:06:59,191 --> 00:07:00,027
+Yes?
+
+109
+00:07:00,670 --> 00:07:01,507
+Yes, what?
+
+110
+00:07:02,013 --> 00:07:03,381
+We just figured that out.
+
+111
+00:07:03,544 --> 00:07:05,470
+Babe, who was that at the door?
+
+112
+00:07:08,174 --> 00:07:09,474
+Good morning, ma'am.
+
+113
+00:07:09,890 --> 00:07:11,247
+He's from the FBI.
+
+114
+00:07:11,367 --> 00:07:13,061
+I'm asking a few questions.
+
+115
+00:07:14,151 --> 00:07:16,568
+- Charley, is something wrong?
+- No.
+
+116
+00:07:16,766 --> 00:07:18,941
+- I'm looking for the Connors.
+- Sarah Connor?
+
+117
+00:07:19,101 --> 00:07:20,026
+Your ex?
+
+118
+00:07:20,186 --> 00:07:22,070
+- I'm looking for them here.
+- Here?
+
+119
+00:07:22,230 --> 00:07:24,655
+Mr. Dixon wanted to marry
+Sarah Connor before you.
+
+120
+00:07:24,815 --> 00:07:26,961
+She's alive.
+Maybe he's hiding her here.
+
+121
+00:07:27,186 --> 00:07:29,452
+What?
+I already told you, no.
+
+122
+00:07:30,650 --> 00:07:32,047
+No, okay?
+
+123
+00:07:32,573 --> 00:07:35,897
+Look, all due respect, Agent Kester,
+
+124
+00:07:36,842 --> 00:07:39,157
+the woman that I knew,
+Sarah Reese,
+
+125
+00:07:39,362 --> 00:07:41,589
+she blew herself up
+in a bank eight years ago.
+
+126
+00:07:44,541 --> 00:07:45,828
+I never knew,
+
+127
+00:07:46,102 --> 00:07:48,554
+and I do not know Sarah Connor.
+
+128
+00:07:56,930 --> 00:07:59,355
+If you see or hear anything, call me.
+
+129
+00:08:01,519 --> 00:08:02,533
+Any time,
+
+130
+00:08:03,286 --> 00:08:04,570
+I never sleep.
+
+131
+00:08:18,453 --> 00:08:21,593
+Just a reminder, grief counseling
+will be available in my office
+
+132
+00:08:21,713 --> 00:08:22,797
+throughout the week.
+
+133
+00:08:31,650 --> 00:08:34,517
+- What are they doing?
+- They're writing notes.
+
+134
+00:08:34,924 --> 00:08:36,102
+For Jordan.
+
+135
+00:08:38,431 --> 00:08:39,647
+She's dead.
+
+136
+00:08:40,458 --> 00:08:42,400
+Yeah, I remember watching her fall.
+
+137
+00:08:42,560 --> 00:08:43,431
+Me too.
+
+138
+00:08:44,349 --> 00:08:45,938
+How will she get the notes?
+
+139
+00:08:46,785 --> 00:08:47,864
+She won't.
+
+140
+00:08:48,760 --> 00:08:49,846
+But you said...
+
+141
+00:08:49,966 --> 00:08:53,206
+Sometimes things happen
+and they're so bad,
+
+142
+00:08:54,238 --> 00:08:56,186
+people don't know how to deal
+with their sadness.
+
+143
+00:08:56,306 --> 00:08:57,498
+They write it in a note.
+
+144
+00:08:57,658 --> 00:09:00,042
+But I thought people cried
+when they were sad.
+
+145
+00:09:00,563 --> 00:09:02,128
+Sometimes it's not enough.
+
+146
+00:09:15,911 --> 00:09:16,973
+Are you gonna...?
+
+147
+00:09:19,569 --> 00:09:21,199
+I didn't really know her.
+
+148
+00:09:22,528 --> 00:09:23,691
+I didn't either.
+
+149
+00:09:25,569 --> 00:09:27,153
+I like the note part.
+
+150
+00:10:11,190 --> 00:10:13,157
+Nice accent, white boy.
+
+151
+00:10:21,213 --> 00:10:24,043
+I have no idea what's with those guys.
+They're always messing with me.
+
+152
+00:10:26,506 --> 00:10:27,964
+Yeah, man, I've no idea.
+
+153
+00:10:28,249 --> 00:10:29,249
+I'm Morris.
+
+154
+00:10:29,708 --> 00:10:30,508
+John.
+
+155
+00:10:31,252 --> 00:10:33,503
+I saw you talking to Cheryl Weston
+this morning.
+
+156
+00:10:33,623 --> 00:10:36,681
+Maybe no one told you cause you're new
+but she's damaged goods.
+
+157
+00:10:37,461 --> 00:10:39,200
+She's my chem partner.
+
+158
+00:10:39,320 --> 00:10:41,502
+- Do you know her or something?
+- No one knows her.
+
+159
+00:10:41,626 --> 00:10:43,980
+Something crazy went on
+at the last school she was in, but
+
+160
+00:10:44,141 --> 00:10:45,819
+no one knows what it is.
+
+161
+00:10:45,939 --> 00:10:47,733
+Her dad's got her locked down tight.
+
+162
+00:10:49,623 --> 00:10:51,112
+It's a pretty boring rumor.
+
+163
+00:10:51,679 --> 00:10:52,571
+It's truth.
+
+164
+00:10:52,731 --> 00:10:53,981
+Not much of it.
+
+165
+00:10:56,094 --> 00:10:57,702
+I'm just looking out for you, bro.
+
+166
+00:10:59,936 --> 00:11:01,956
+Yeah, you and everyone else.
+
+167
+00:11:04,298 --> 00:11:05,584
+<i>An extremely close match</i>
+
+168
+00:11:05,744 --> 00:11:07,127
+<i>between the American and</i>
+
+169
+00:11:07,289 --> 00:11:09,694
+<i>Japanese computers here
+in the finals.</i>
+
+170
+00:11:10,207 --> 00:11:11,840
+<i>The Americans, led by programmer</i>
+
+171
+00:11:12,002 --> 00:11:15,072
+<i>Andrew Goode,
+have a slight positional advantage.</i>
+
+172
+00:11:27,186 --> 00:11:29,337
+<i>The Japanese seize control
+of the center</i>
+
+173
+00:11:29,457 --> 00:11:31,027
+<i>with bishop to C5.</i>
+
+174
+00:12:15,872 --> 00:12:18,522
+Do you know how many
+grand masters are here?
+
+175
+00:12:20,372 --> 00:12:21,660
+How's Andy doing?
+
+176
+00:12:21,820 --> 00:12:24,204
+Well, that depends on
+what your plans are for Andy.
+
+177
+00:12:24,622 --> 00:12:26,915
+On the one hand,
+he's in the final round,
+
+178
+00:12:27,873 --> 00:12:29,323
+on the other hand...
+
+179
+00:12:30,061 --> 00:12:32,045
+the winner gets a military contract.
+
+180
+00:12:33,617 --> 00:12:34,507
+Military?
+
+181
+00:12:34,667 --> 00:12:35,917
+Are you serious?
+
+182
+00:12:40,256 --> 00:12:41,406
+What do we do?
+
+183
+00:12:43,498 --> 00:12:45,378
+Cheer very hard for the Japanese
+
+184
+00:12:45,498 --> 00:12:47,248
+or Cameron will kill him.
+
+185
+00:12:57,986 --> 00:12:59,740
+<i>An unorthodox move by the Japanese,</i>
+
+186
+00:13:00,636 --> 00:13:02,951
+<i>leaving their queen
+hanging on D6 square.</i>
+
+187
+00:13:03,441 --> 00:13:05,870
+<i>The American computer
+calculating a response.</i>
+
+188
+00:13:12,454 --> 00:13:14,409
+- What just happened?
+- That bishop on C5
+
+189
+00:13:14,529 --> 00:13:15,772
+totally hammered him.
+
+190
+00:13:15,892 --> 00:13:17,550
+Black's in total zugzwang.
+
+191
+00:13:17,710 --> 00:13:18,642
+Translation?
+
+192
+00:13:18,762 --> 00:13:20,728
+The Japanese just lost their queen.
+
+193
+00:13:20,848 --> 00:13:22,096
+They're in big trouble.
+
+194
+00:13:22,455 --> 00:13:23,805
+Andy's gonna win.
+
+195
+00:13:32,330 --> 00:13:34,580
+So that was quite a speech earlier.
+
+196
+00:13:34,909 --> 00:13:35,943
+With the agent.
+
+197
+00:13:36,329 --> 00:13:38,498
+That wasn't a speech,
+it's was just...
+
+198
+00:13:38,618 --> 00:13:39,864
+it's just what it was.
+
+199
+00:13:42,514 --> 00:13:44,034
+What it was, was a lie.
+
+200
+00:13:45,313 --> 00:13:46,036
+What?
+
+201
+00:13:46,196 --> 00:13:47,020
+A lie.
+
+202
+00:13:48,970 --> 00:13:50,220
+You have a tell.
+
+203
+00:13:52,455 --> 00:13:53,904
+A what? A tell?
+
+204
+00:13:54,373 --> 00:13:55,623
+You have a tell.
+
+205
+00:13:56,230 --> 00:13:57,339
+When you lie.
+
+206
+00:13:59,174 --> 00:14:01,087
+Do you know why you love me,
+Charley?
+
+207
+00:14:01,207 --> 00:14:03,457
+I'm gonna tell you why you love me.
+
+208
+00:14:04,204 --> 00:14:06,154
+It's cause I'm not that girl.
+
+209
+00:14:06,580 --> 00:14:08,330
+I'm not that jealous girl.
+
+210
+00:14:08,830 --> 00:14:10,680
+I'm not that insecure girl.
+
+211
+00:14:10,981 --> 00:14:12,187
+I'm not that petty girl.
+
+212
+00:14:12,348 --> 00:14:14,189
+- Of course not.
+- Yeah, so just don't
+
+213
+00:14:14,350 --> 00:14:17,124
+make me into that girl
+by lying to me.
+
+214
+00:14:18,643 --> 00:14:21,393
+If that woman is alive,
+if you've seen her...
+
+215
+00:14:22,580 --> 00:14:23,740
+this is important.
+
+216
+00:14:33,579 --> 00:14:34,835
+I saw John.
+
+217
+00:14:36,456 --> 00:14:37,305
+What?
+
+218
+00:14:38,471 --> 00:14:39,298
+Where?
+
+219
+00:14:39,458 --> 00:14:40,307
+Here.
+
+220
+00:14:40,925 --> 00:14:42,075
+In our house.
+
+221
+00:14:42,915 --> 00:14:44,065
+In our house?
+
+222
+00:14:45,143 --> 00:14:46,096
+In our house?
+
+223
+00:14:46,256 --> 00:14:47,264
+What did he want?
+
+224
+00:14:47,892 --> 00:14:49,042
+I don't know.
+
+225
+00:14:50,248 --> 00:14:52,101
+I think he just wanted to see me.
+
+226
+00:14:53,519 --> 00:14:55,063
+What are you gonna do about it?
+
+227
+00:14:56,580 --> 00:14:57,565
+I don't know.
+
+228
+00:14:57,828 --> 00:14:59,297
+They're fugitives, Charlie.
+
+229
+00:14:59,417 --> 00:15:01,237
+They're dangerous people.
+
+230
+00:15:01,697 --> 00:15:03,042
+Sarah's not dangerous.
+
+231
+00:15:03,162 --> 00:15:04,740
+Maybe not the Sarah you knew.
+
+232
+00:15:04,900 --> 00:15:07,450
+Sarah Reese,
+but Sarah Connor killed a man.
+
+233
+00:15:07,860 --> 00:15:10,610
+- We don't know that.
+- Well, what do we know?
+
+234
+00:15:11,893 --> 00:15:13,243
+What do you know?
+
+235
+00:15:27,078 --> 00:15:28,680
+<i>The Japanese desperately hoping</i>
+
+236
+00:15:28,842 --> 00:15:30,886
+<i>for counterplay after
+the disastrous loss</i>
+
+237
+00:15:31,052 --> 00:15:32,302
+<i>of their queen.</i>
+
+238
+00:15:33,203 --> 00:15:34,519
+<i>Victory appears imminent</i>
+
+239
+00:15:34,680 --> 00:15:35,980
+<i>for the Americans.</i>
+
+240
+00:15:36,140 --> 00:15:39,208
+<i>Andy Goode's Turk seized control
+of the match in the middle game,</i>
+
+241
+00:15:39,328 --> 00:15:42,078
+<i>and now appears just
+moves away from winning.</i>
+
+242
+00:15:54,032 --> 00:15:55,213
+<i>Rook to C2.</i>
+
+243
+00:15:56,814 --> 00:15:59,083
+<i>Checkmate.
+A shocking turn of events.</i>
+
+244
+00:15:59,203 --> 00:16:01,325
+<i>The Japanese team has won
+the tournament</i>
+
+245
+00:16:01,445 --> 00:16:03,048
+<i>and the military contract.</i>
+
+246
+00:16:07,883 --> 00:16:08,883
+It's over.
+
+247
+00:16:10,320 --> 00:16:12,386
+- Andy lost.
+- But the other team...
+
+248
+00:16:12,506 --> 00:16:14,763
+They didn't lose their queen,
+they sacrificed it.
+
+249
+00:16:14,928 --> 00:16:17,378
+Just like Byrne-Fischer
+all over again.
+
+250
+00:16:17,870 --> 00:16:19,356
+Byrne-Fischer, 1956?
+
+251
+00:16:20,819 --> 00:16:23,527
+- Never mind. The point is...
+- The Turk fell for a trap?
+
+252
+00:16:23,687 --> 00:16:25,404
+It's like it just... choked.
+
+253
+00:16:25,841 --> 00:16:26,822
+So now, what?
+
+254
+00:16:27,717 --> 00:16:29,575
+- We go after them now?
+- No, their names
+
+255
+00:16:29,735 --> 00:16:31,285
+weren't in the safe house.
+
+256
+00:16:31,507 --> 00:16:32,745
+Andy's was.
+
+257
+00:16:32,905 --> 00:16:36,600
+What computational error? You put
+the bishop on E6 to begin with!
+
+258
+00:16:36,720 --> 00:16:38,258
+I can't help it if it's stupid!
+
+259
+00:16:38,378 --> 00:16:40,461
+Nobody's gonna want
+Andy's program now.
+
+260
+00:16:40,707 --> 00:16:44,089
+- That thing's kind of crazy.
+- He could still be a threat.
+
+261
+00:16:45,452 --> 00:16:48,509
+- It could still become Skynet.
+- It could also become Pong.
+
+262
+00:16:49,331 --> 00:16:50,554
+What are you gonna do?
+
+263
+00:16:51,131 --> 00:16:52,281
+I don't know.
+
+264
+00:16:52,632 --> 00:16:55,224
+Maybe I'll just sit Andy
+down and tell him everything.
+
+265
+00:17:19,101 --> 00:17:20,101
+Andy.
+
+266
+00:18:06,596 --> 00:18:07,506
+Who are you?
+
+267
+00:18:19,949 --> 00:18:21,477
+Put your hands above your head!
+
+268
+00:18:21,850 --> 00:18:22,774
+Do it now!
+
+269
+00:18:22,894 --> 00:18:23,624
+Turn!
+
+270
+00:18:23,744 --> 00:18:24,599
+Turn!
+
+271
+00:18:25,539 --> 00:18:26,539
+Spread 'em!
+
+272
+00:18:26,977 --> 00:18:28,776
+Put your hands behind your back.
+
+273
+00:18:30,289 --> 00:18:31,289
+Over here.
+
+274
+00:18:51,538 --> 00:18:53,099
+I'm so sorry, Andy.
+
+275
+00:19:15,461 --> 00:19:16,366
+What's this?
+
+276
+00:19:17,163 --> 00:19:19,013
+You should write Andy a note
+
+277
+00:19:19,351 --> 00:19:20,701
+if you can't cry.
+
+278
+00:19:39,216 --> 00:19:41,349
+Doesn't bother you
+that he's dead, does it?
+
+279
+00:19:41,726 --> 00:19:43,351
+The world is safer without him.
+
+280
+00:19:44,296 --> 00:19:45,436
+That was way too easy.
+
+281
+00:19:45,597 --> 00:19:47,647
+LAPD firewalls really blow.
+
+282
+00:19:48,059 --> 00:19:50,423
+- Show me what you found.
+- Okay.
+
+283
+00:19:51,022 --> 00:19:51,889
+No name,
+
+284
+00:19:52,009 --> 00:19:52,758
+but
+
+285
+00:19:53,158 --> 00:19:54,695
+he's got this tattoo on his arm.
+
+286
+00:19:55,821 --> 00:19:56,907
+He's one of them.
+
+287
+00:19:59,945 --> 00:20:01,951
+That's a tattoo from a Skynet work camp.
+
+288
+00:20:02,071 --> 00:20:03,413
+He's a resistance fighter.
+
+289
+00:20:03,626 --> 00:20:06,291
+From the future.
+Like the three guys in the safe house?
+
+290
+00:20:06,451 --> 00:20:08,385
+- He was the fourth.
+- Then you know him.
+
+291
+00:20:08,505 --> 00:20:10,303
+- In the future.
+- So do you.
+
+292
+00:20:10,872 --> 00:20:12,972
+He's one of your best soldiers.
+
+293
+00:20:13,725 --> 00:20:15,425
+They've been watching Andy Goode.
+
+294
+00:20:15,585 --> 00:20:17,094
+Doing surveillance.
+
+295
+00:20:17,254 --> 00:20:18,355
+Same as us.
+
+296
+00:20:18,605 --> 00:20:20,273
+Well, not exactly the same.
+
+297
+00:20:20,525 --> 00:20:23,141
+- He actually killed the guy.
+- That was not his mission.
+
+298
+00:20:24,344 --> 00:20:25,936
+You sent him here to wait for us.
+
+299
+00:20:26,545 --> 00:20:29,106
+Well, then I guess he changed his mind.
+A lot.
+
+300
+00:20:30,423 --> 00:20:32,025
+I have to talk to him.
+
+301
+00:20:33,434 --> 00:20:34,962
+Talk to him?
+How?
+
+302
+00:20:35,689 --> 00:20:37,209
+He's in lockdown.
+
+303
+00:21:02,084 --> 00:21:03,190
+Freeze.
+
+304
+00:21:14,352 --> 00:21:15,569
+What are you doing?
+
+305
+00:21:15,945 --> 00:21:16,951
+Math.
+
+306
+00:21:17,709 --> 00:21:19,114
+I already did your homework.
+
+307
+00:21:19,274 --> 00:21:21,408
+Yeah, I know,
+but I still have to take the test.
+
+308
+00:21:22,454 --> 00:21:24,256
+I need to know this stuff.
+
+309
+00:21:25,386 --> 00:21:27,539
+Then why did you ask me to do it?
+
+310
+00:21:31,144 --> 00:21:34,223
+Because maybe it's kinda hard
+to concentrate on geometry when
+
+311
+00:21:34,401 --> 00:21:36,131
+people keep dying around you.
+
+312
+00:21:38,935 --> 00:21:41,104
+You have no idea
+what I'm talking about, do you?
+
+313
+00:21:41,368 --> 00:21:42,387
+You're grieving.
+
+314
+00:21:45,708 --> 00:21:46,850
+Grieving?
+
+315
+00:21:47,816 --> 00:21:49,436
+How do you know what grieving is?
+
+316
+00:21:49,775 --> 00:21:51,275
+I read all the notes.
+
+317
+00:21:51,395 --> 00:21:54,066
+Cameron Baum,
+Mr. Harris wants to see you.
+
+318
+00:22:02,816 --> 00:22:05,716
+I know this is difficult
+for you to talk about,
+
+319
+00:22:05,955 --> 00:22:08,254
+so I'm gonna need you to be strong.
+
+320
+00:22:09,088 --> 00:22:09,990
+Okay?
+
+321
+00:22:10,408 --> 00:22:12,556
+- Can you do that for me?
+- Yes.
+
+322
+00:22:12,676 --> 00:22:13,974
+I can be strong.
+
+323
+00:22:14,617 --> 00:22:16,296
+People say you were the last person
+
+324
+00:22:16,456 --> 00:22:18,215
+to speak with Jordan before she...
+
+325
+00:22:19,096 --> 00:22:20,096
+Died.
+
+326
+00:22:20,825 --> 00:22:22,724
+- Is that true?
+- I don't know.
+
+327
+00:22:23,463 --> 00:22:27,463
+Are you asking me if people say
+I was the last person to talk to Jordan,
+
+328
+00:22:27,734 --> 00:22:30,602
+or are you asking me if I was
+the last one to talk to her?
+
+329
+00:22:31,275 --> 00:22:34,272
+- I guess I'm asking if you were.
+- I don't know.
+
+330
+00:22:35,034 --> 00:22:37,150
+What did she say
+when you did talk to her?
+
+331
+00:22:37,765 --> 00:22:39,895
+I mean,
+was it something
+
+332
+00:22:40,438 --> 00:22:42,261
+upsetting for you to hear?
+
+333
+00:22:44,257 --> 00:22:45,356
+She said,
+
+334
+00:22:46,883 --> 00:22:48,335
+"You saw it, right?
+
+335
+00:22:48,540 --> 00:22:50,417
+"Right?
+You saw it?
+
+336
+00:22:51,136 --> 00:22:53,836
+It's so freakin' big
+and right out there."
+
+337
+00:23:01,215 --> 00:23:03,515
+She was talking about the graffiti?
+
+338
+00:23:04,004 --> 00:23:05,405
+It's freakin' big.
+
+339
+00:23:07,075 --> 00:23:07,873
+Yes.
+
+340
+00:23:09,696 --> 00:23:10,851
+Yes, it is.
+
+341
+00:23:11,215 --> 00:23:12,294
+And no.
+
+342
+00:23:12,499 --> 00:23:13,201
+No?
+
+343
+00:23:13,321 --> 00:23:16,023
+No, it wasn't upsetting
+for me to hear it.
+
+344
+00:23:16,183 --> 00:23:17,964
+Did Jordan mention any names?
+
+345
+00:23:18,084 --> 00:23:19,547
+Any specific people
+
+346
+00:23:19,667 --> 00:23:20,944
+that she was upset with?
+
+347
+00:23:21,203 --> 00:23:22,404
+Her parents.
+
+348
+00:23:22,564 --> 00:23:24,614
+- Anyone else?
+- The hall monitors.
+
+349
+00:23:24,774 --> 00:23:25,907
+Anyone else?
+
+350
+00:23:27,805 --> 00:23:29,536
+You ask that question a lot.
+
+351
+00:23:31,531 --> 00:23:34,229
+Is there anything else
+you want to tell me?
+
+352
+00:23:36,585 --> 00:23:39,024
+I don't think I told you anything.
+
+353
+00:23:43,354 --> 00:23:44,468
+Can I go now?
+
+354
+00:23:45,564 --> 00:23:48,638
+I'm done with grief counseling,
+and I feel much better.
+
+355
+00:23:48,798 --> 00:23:49,701
+Yeah,
+
+356
+00:23:50,258 --> 00:23:51,573
+please.
+Go.
+
+357
+00:24:18,078 --> 00:24:20,234
+Yo, John Doe, you got a visitor.
+
+358
+00:24:27,095 --> 00:24:28,246
+Those hurt?
+
+359
+00:24:30,632 --> 00:24:34,331
+Sometimes they crank those tight
+before they bring you in here.
+
+360
+00:24:34,857 --> 00:24:37,505
+That way,
+you might ask me to loosen them up.
+
+361
+00:24:37,625 --> 00:24:39,898
+And I am able
+to accommodate you in that.
+
+362
+00:24:41,126 --> 00:24:42,726
+It's a trick they do.
+
+363
+00:24:43,895 --> 00:24:45,695
+It gives us a connection.
+
+364
+00:24:48,005 --> 00:24:50,206
+But we already got a connection.
+
+365
+00:24:58,694 --> 00:25:00,595
+Your prints are everywhere.
+
+366
+00:25:06,996 --> 00:25:09,056
+Oven, light switch, toilet.
+
+367
+00:25:10,123 --> 00:25:11,068
+Safe.
+
+368
+00:25:13,485 --> 00:25:16,082
+Wasn't us who found it.
+But somebody did.
+
+369
+00:25:17,491 --> 00:25:19,586
+After the police thought
+they cleared the scene,
+
+370
+00:25:19,706 --> 00:25:22,607
+somebody came back and
+emptied the safe right quick.
+
+371
+00:25:22,974 --> 00:25:24,684
+Didn't force it either.
+
+372
+00:25:24,804 --> 00:25:26,608
+They knew the combination.
+
+373
+00:25:28,005 --> 00:25:28,806
+So.
+
+374
+00:25:30,116 --> 00:25:33,869
+We've got you running from the
+scene of Andrew Goode's murder.
+
+375
+00:25:34,445 --> 00:25:36,204
+And we've got you living at,
+
+376
+00:25:36,364 --> 00:25:39,035
+and disappearing from,
+and most likely returning
+
+377
+00:25:39,155 --> 00:25:41,668
+to the scene
+of these three murders.
+
+378
+00:25:43,256 --> 00:25:46,057
+All of which would be
+a prosecutorial bounty.
+
+379
+00:25:47,056 --> 00:25:50,177
+But I've also got forensic evidence,
+
+380
+00:25:50,337 --> 00:25:51,685
+linking this
+
+381
+00:25:53,985 --> 00:25:54,986
+to this
+
+382
+00:25:58,081 --> 00:25:59,246
+and this.
+
+383
+00:26:02,935 --> 00:26:04,536
+Feeling connected yet?
+
+384
+00:26:12,034 --> 00:26:13,232
+What is it?
+
+385
+00:26:15,395 --> 00:26:17,645
+The forensic evidence
+linking all these people...
+
+386
+00:26:17,765 --> 00:26:18,788
+What is it?
+
+387
+00:26:19,316 --> 00:26:20,262
+Blood.
+
+388
+00:26:22,330 --> 00:26:23,481
+Not my blood.
+
+389
+00:26:24,455 --> 00:26:26,458
+No, not your blood.
+
+390
+00:26:28,424 --> 00:26:30,342
+And, technically, not even blood.
+
+391
+00:26:31,295 --> 00:26:33,094
+Some kind of synthetic.
+
+392
+00:26:35,935 --> 00:26:37,732
+Come on, man, help me out.
+
+393
+00:26:38,315 --> 00:26:40,414
+Tell me something I don't know.
+
+394
+00:26:50,475 --> 00:26:52,190
+We're all gonna die.
+
+395
+00:26:58,714 --> 00:27:01,514
+Yeah,
+I want him out of local custody today.
+
+396
+00:27:01,844 --> 00:27:05,440
+He has more to say and I want him
+on federal turf when he says it.
+
+397
+00:27:21,375 --> 00:27:22,925
+Yes, this is Cameron's mother.
+
+398
+00:27:23,045 --> 00:27:27,045
+<i>Mrs. Baum, do you aware of the recent
+tragedy we've had here at school?</i>
+
+399
+00:27:27,526 --> 00:27:29,651
+- Jordan somebody.
+<i>- Tallen.</i>
+
+400
+00:27:29,811 --> 00:27:31,525
+When I spoke to Cameron about it,
+
+401
+00:27:31,645 --> 00:27:34,152
+she seemed strangely
+
+402
+00:27:34,524 --> 00:27:35,665
+unaffected.
+
+403
+00:27:35,785 --> 00:27:38,243
+I'm sure you're doing
+all you can as a parent.
+
+404
+00:27:38,545 --> 00:27:40,755
+It's been overwhelming for all of us,
+
+405
+00:27:40,875 --> 00:27:42,576
+first with the tornado,
+
+406
+00:27:43,535 --> 00:27:45,638
+<i>- then the move.</i>
+- Tornado?
+
+407
+00:27:46,619 --> 00:27:48,921
+<i>I'm sorry,
+she didn't mention that.</i>
+
+408
+00:27:49,754 --> 00:27:52,132
+<i>That might explain what I think</i>
+
+409
+00:27:52,292 --> 00:27:55,970
+- might be post-traumatic stress.
+- You're gonna have to speak up.
+
+410
+00:28:18,896 --> 00:28:20,243
+You shouldn't be here.
+
+411
+00:28:20,403 --> 00:28:23,304
+- I know who you are.
+- And I know who you are.
+
+412
+00:28:26,426 --> 00:28:27,896
+Who else but Sarah Connor
+
+413
+00:28:28,016 --> 00:28:30,378
+would have burned down
+that poor kid's house?
+
+414
+00:28:30,686 --> 00:28:32,225
+It was you, wasn't it?
+
+415
+00:28:32,410 --> 00:28:34,758
+On Andy's porch that night.
+You've been watching.
+
+416
+00:28:36,686 --> 00:28:38,094
+You wanted to kill him,
+
+417
+00:28:38,664 --> 00:28:40,347
+the poor kid, and you did.
+
+418
+00:28:44,665 --> 00:28:45,966
+I didn't do it.
+
+419
+00:28:48,875 --> 00:28:50,675
+All I wanted was the Turk.
+
+420
+00:28:51,171 --> 00:28:53,193
+Somebody else killed him
+and took the machine.
+
+421
+00:28:53,653 --> 00:28:54,544
+What?
+
+422
+00:28:54,873 --> 00:28:56,859
+He was dead when I got there.
+
+423
+00:28:57,273 --> 00:28:58,884
+He was dead and the Turk was gone,
+
+424
+00:28:59,004 --> 00:29:01,527
+- and I hoped you'd done it.
+- You thought I killed him?
+
+425
+00:29:01,647 --> 00:29:02,702
+But you're here.
+
+426
+00:29:04,185 --> 00:29:05,983
+And the Turk is out there.
+
+427
+00:29:08,626 --> 00:29:10,338
+So we both failed.
+
+428
+00:29:18,086 --> 00:29:19,636
+You gotta get out of here.
+
+429
+00:29:20,264 --> 00:29:23,125
+If you haven't figured it out,
+I have a T-888 on my ass.
+
+430
+00:29:23,245 --> 00:29:24,748
+Now if you found me,
+
+431
+00:29:25,834 --> 00:29:26,933
+it will too.
+
+432
+00:29:27,178 --> 00:29:28,645
+- We should get you out.
+- Go.
+
+433
+00:29:30,295 --> 00:29:33,483
+Find the partner, the Russian.
+He's gotta be neck-deep in this also.
+
+434
+00:29:33,643 --> 00:29:35,026
+- You're dead in here.
+- Go!
+
+435
+00:29:36,016 --> 00:29:37,019
+Please.
+
+436
+00:29:39,482 --> 00:29:42,700
+I won't be the bastard who brings
+metal down on the Connors, so just go.
+
+437
+00:29:49,167 --> 00:29:51,000
+You're prettier than your picture.
+
+438
+00:29:52,155 --> 00:29:53,155
+Picture?
+
+439
+00:29:54,686 --> 00:29:56,589
+Yeah, it's actually how I clocked you.
+
+440
+00:29:58,984 --> 00:30:01,219
+My brother carried your snap for luck.
+
+441
+00:30:01,379 --> 00:30:02,720
+Who's your brother?
+
+442
+00:30:03,996 --> 00:30:05,297
+What does it matter?
+
+443
+00:30:05,599 --> 00:30:08,380
+You don't know the Reese boys,
+and you never will.
+
+444
+00:30:09,585 --> 00:30:10,603
+Reese boys?
+
+445
+00:30:10,763 --> 00:30:11,983
+Derek Reese.
+
+446
+00:30:13,736 --> 00:30:15,037
+Brother's Kyle.
+
+447
+00:30:23,757 --> 00:30:26,428
+<i>When John sent Kyle Reese
+back to protect me,</i>
+
+448
+00:30:26,949 --> 00:30:28,621
+<i>we had two days together.</i>
+
+449
+00:30:29,661 --> 00:30:31,708
+<i>He told me about the future,</i>
+
+450
+00:30:33,140 --> 00:30:34,743
+<i>about the apocalypse,</i>
+
+451
+00:30:36,044 --> 00:30:38,729
+<i>and the terror of a world
+run by machines.</i>
+
+452
+00:30:54,165 --> 00:30:56,000
+<i>Kyle reese saved my life.</i>
+
+453
+00:30:56,576 --> 00:30:58,109
+<i>He gave me a son.</i>
+
+454
+00:31:03,328 --> 00:31:05,902
+<i>He never told me
+that he had a brother.</i>
+
+455
+00:31:07,286 --> 00:31:09,793
+<i>He never told me
+we would have family.</i>
+
+456
+00:31:10,697 --> 00:31:12,957
+<i>That in our grief we are not alone.</i>
+
+457
+00:31:19,705 --> 00:31:20,725
+Cheri.
+
+458
+00:31:22,801 --> 00:31:24,383
+- Cheri.
+- Walk away.
+
+459
+00:31:25,838 --> 00:31:27,000
+John, please.
+
+460
+00:31:42,034 --> 00:31:44,197
+Lock and key, bro.
+Lock and key.
+
+461
+00:31:45,417 --> 00:31:46,560
+Mom's here.
+
+462
+00:31:48,951 --> 00:31:49,661
+Hi.
+
+463
+00:31:49,821 --> 00:31:52,580
+I'm Morris.
+Your brother's new best friend.
+
+464
+00:31:54,575 --> 00:31:55,625
+Cameron.
+
+465
+00:31:56,613 --> 00:31:57,685
+Nice grip.
+
+466
+00:32:02,175 --> 00:32:03,503
+Watch yourself.
+
+467
+00:32:04,106 --> 00:32:05,654
+Just lookin' out for ya.
+
+468
+00:32:12,051 --> 00:32:13,017
+Field trip.
+
+469
+00:32:13,177 --> 00:32:14,489
+I call shotgun.
+
+470
+00:32:15,599 --> 00:32:17,065
+I call 9-millimeter.
+
+471
+00:32:17,765 --> 00:32:19,819
+What's the ETA on my prisoner?
+
+472
+00:32:20,503 --> 00:32:21,551
+All right.
+
+473
+00:33:26,561 --> 00:33:27,550
+Drop it.
+
+474
+00:33:27,710 --> 00:33:28,479
+Now.
+
+475
+00:33:28,599 --> 00:33:29,355
+Run.
+
+476
+00:33:30,254 --> 00:33:31,304
+You stay close.
+
+477
+00:33:31,465 --> 00:33:33,149
+Take the jeep and follow us.
+
+478
+00:33:38,473 --> 00:33:39,729
+You metal bitch.
+
+479
+00:33:41,224 --> 00:33:42,732
+She's on our side.
+
+480
+00:33:49,334 --> 00:33:51,199
+T-888.
+Lose him.
+
+481
+00:35:07,643 --> 00:35:09,188
+- Let's go.
+- Where's Cameron?
+
+482
+00:35:09,308 --> 00:35:11,571
+- Leave her, let's go.
+- Let's go.
+
+483
+00:35:18,154 --> 00:35:19,203
+Stay back!
+
+484
+00:35:33,377 --> 00:35:34,136
+Get out!
+
+485
+00:35:55,439 --> 00:35:56,741
+Bring me the toolbox.
+
+486
+00:36:06,809 --> 00:36:08,044
+Switchblade.
+
+487
+00:36:12,604 --> 00:36:13,549
+Pliers.
+
+488
+00:36:45,969 --> 00:36:47,342
+We have to help him.
+
+489
+00:36:47,462 --> 00:36:49,836
+- Don't let it touch me.
+- We have to stop your bleeding.
+
+490
+00:36:49,996 --> 00:36:51,504
+- Get away.
+- Don't move.
+
+491
+00:36:51,664 --> 00:36:53,650
+You're increasing your blood loss.
+
+492
+00:37:04,260 --> 00:37:05,268
+I can't fix it.
+
+493
+00:37:05,428 --> 00:37:06,811
+You took a bullet outta me.
+
+494
+00:37:06,971 --> 00:37:08,229
+He has internal damage.
+
+495
+00:37:08,389 --> 00:37:11,226
+He needs medical attention,
+or he's gonna die.
+
+496
+00:37:19,483 --> 00:37:20,491
+A stun gun.
+
+497
+00:37:20,651 --> 00:37:23,114
+- Are you nuts?
+- He needs a doctor.
+
+498
+00:37:23,333 --> 00:37:25,079
+You're gonna go out and kidnap one?
+
+499
+00:37:25,239 --> 00:37:27,623
+There's an ER a mile away.
+It's almost dark.
+
+500
+00:37:27,783 --> 00:37:30,251
+Mom, this is crazy, all right.
+Even for you, it's insane.
+
+501
+00:37:30,411 --> 00:37:33,035
+- We have to save him.
+- And what happens when you get caught?
+
+502
+00:37:33,205 --> 00:37:35,354
+- We have to save him.
+- You don't know who he is.
+
+503
+00:37:35,541 --> 00:37:37,024
+He's your uncle.
+
+504
+00:37:39,365 --> 00:37:40,428
+He doesn't know.
+
+505
+00:37:41,995 --> 00:37:43,823
+He's your father's brother.
+
+506
+00:37:44,577 --> 00:37:45,892
+His name's Derek Reese.
+
+507
+00:37:53,726 --> 00:37:54,724
+John.
+
+508
+00:37:57,605 --> 00:37:58,838
+Two females,
+
+509
+00:37:59,249 --> 00:38:02,209
+approximately 5'6",
+120 pounds,
+
+510
+00:38:02,893 --> 00:38:05,140
+overpower you
+and your partner,
+
+511
+00:38:06,524 --> 00:38:08,009
+ambush your secure vehicle,
+
+512
+00:38:08,129 --> 00:38:09,677
+and kidnap my prisoner.
+
+513
+00:38:10,664 --> 00:38:13,628
+That an accurate summation of
+what happened out here today, officer?
+
+514
+00:38:17,475 --> 00:38:18,352
+Yeah.
+
+515
+00:38:24,914 --> 00:38:26,242
+5'6".
+
+516
+00:38:27,831 --> 00:38:29,133
+5'6".
+
+517
+00:38:51,201 --> 00:38:53,996
+<i>If there is a flaw in chess
+as a game of war,</i>
+
+518
+00:38:54,201 --> 00:38:55,434
+<i>it is this:</i>
+
+519
+00:38:56,247 --> 00:38:57,529
+<i>unlike war,</i>
+
+520
+00:38:57,803 --> 00:38:59,720
+<i>the rules of chess are constant.</i>
+
+521
+00:38:59,840 --> 00:39:01,638
+<i>The pieces unchangeable.</i>
+
+522
+00:39:02,349 --> 00:39:05,651
+<i>You will never win the heart
+of a rook or the mind of a knight.</i>
+
+523
+00:39:06,144 --> 00:39:08,281
+<i>They are deaf to your arguments.</i>
+
+524
+00:39:08,952 --> 00:39:10,267
+<i>And so be it.</i>
+
+525
+00:39:20,605 --> 00:39:23,523
+<i>The goal of a chess game
+is total annihilation.</i>
+
+526
+00:39:25,852 --> 00:39:28,523
+<i>But, in war, even as the blood
+beats in your ears</i>
+
+527
+00:39:28,643 --> 00:39:30,579
+<i>and you race after your enemy,</i>
+
+528
+00:39:30,913 --> 00:39:33,365
+<i>there is the hope that saner minds
+than yours will stop you</i>
+
+529
+00:39:33,485 --> 00:39:35,584
+<i>before you reach your target.</i>
+
+530
+00:39:36,406 --> 00:39:37,433
+<i>In war,</i>
+
+531
+00:39:37,981 --> 00:39:40,283
+<i>unlike chess, rules can be changed.</i>
+
+532
+00:39:40,747 --> 00:39:42,309
+<i>Truces can be called.</i>
+
+533
+00:39:42,583 --> 00:39:46,213
+<i>The greatest of enemies
+can become the best of friends.</i>
+
+534
+00:39:46,733 --> 00:39:47,774
+Derek.
+
+535
+00:39:49,816 --> 00:39:50,829
+Derek.
+
+536
+00:39:52,405 --> 00:39:53,857
+He's not breathing.
+
+537
+00:39:54,268 --> 00:39:55,281
+Reese!
+
+538
+00:39:56,191 --> 00:39:57,064
+Reese!
+
+539
+00:40:13,342 --> 00:40:15,958
+<i>In war, there is hope.</i>
+

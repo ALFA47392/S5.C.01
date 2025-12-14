@@ -1,0 +1,2544 @@
+1
+00:00:00,166 --> 00:00:02,252
+<i>C'est Chuck.
+Voici quelques informations utiles.</i>
+
+2
+00:00:02,502 --> 00:00:04,296
+Je viens de me faire licencier.
+
+3
+00:00:04,702 --> 00:00:06,631
+Vous rencontrer
+est une bonne compensation.
+
+4
+00:00:07,799 --> 00:00:09,801
+Si vous y allez
+et que vous êtes au chômage,
+
+5
+00:00:10,051 --> 00:00:12,805
+mon directeur adjoint
+m'est très redevable.
+
+6
+00:00:12,972 --> 00:00:14,347
+Elle me plaît.
+
+7
+00:00:14,597 --> 00:00:16,770
+Y a quelque de louche
+entre Chuck et Devon.
+
+8
+00:00:16,937 --> 00:00:18,894
+Ils ont un secret.
+
+9
+00:00:19,144 --> 00:00:20,604
+Enfin, quelqu'un de sensé.
+
+10
+00:00:20,854 --> 00:00:22,230
+On va tirer ça au clair.
+
+11
+00:00:22,480 --> 00:00:24,232
+Mes meilleurs hommes y travaillent.
+
+12
+00:01:33,693 --> 00:01:34,693
+Super.
+
+13
+00:01:36,510 --> 00:01:38,848
+Casey, ça devient critique, ici.
+
+14
+00:01:41,000 --> 00:01:43,228
+J'espère que l'Intersect
+n'est pas occupé.
+
+15
+00:01:43,979 --> 00:01:44,771
+Occupé ?
+
+16
+00:01:45,176 --> 00:01:47,023
+Pour toi ?
+Jamais.
+
+17
+00:01:48,311 --> 00:01:49,484
+Je veux apprendre.
+
+18
+00:01:49,734 --> 00:01:50,610
+Ah oui ?
+
+19
+00:01:50,860 --> 00:01:53,988
+Tu dois parler de l'art du Nerd Herd,
+mais je te préviens,
+
+20
+00:01:54,238 --> 00:01:57,575
+la voie vers la lumière informatique
+est longue et semée d'embûches.
+
+21
+00:01:58,184 --> 00:02:00,078
+Envoie.
+En parlant de ça...
+
+22
+00:02:00,568 --> 00:02:02,330
+Tu m'emmènes sur une installation ?
+
+23
+00:02:02,580 --> 00:02:03,835
+Du calme.
+
+24
+00:02:04,002 --> 00:02:06,751
+Avant de courir,
+tu dois apprendre à marcher.
+
+25
+00:02:07,805 --> 00:02:09,429
+Tu préfères y aller avec Jeff ?
+
+26
+00:02:09,596 --> 00:02:12,682
+Collés l'un à l'autre
+dans la petite voiture Nerd Herd.
+
+27
+00:02:13,311 --> 00:02:14,134
+Bien joué.
+
+28
+00:02:14,606 --> 00:02:17,012
+- La prochaine fois, tu pourras venir.
+- Super.
+
+29
+00:02:20,781 --> 00:02:22,251
+Excuse-moi un instant.
+
+30
+00:02:25,187 --> 00:02:26,187
+Qu'y a-t-il ?
+
+31
+00:02:26,437 --> 00:02:27,939
+- C'est Shaw.
+- C'est grave ?
+
+32
+00:02:28,189 --> 00:02:31,109
+- Tu veux qu'il finisse asphyxié ?
+- De quoi tu parles ?
+
+33
+00:02:34,344 --> 00:02:35,456
+Quoi de neuf ?
+
+34
+00:02:37,099 --> 00:02:40,160
+- Si tu veux visiter le coin...
+- C'est qui ?
+
+35
+00:02:40,696 --> 00:02:43,580
+Une blonde sexy avec un coeur de pierre,
+c'est son ex, Sarah.
+
+36
+00:02:45,043 --> 00:02:48,084
+- À quoi ils jouent ?
+- Elle l'a plaqué,
+
+37
+00:02:48,334 --> 00:02:49,544
+lui a brisé le coeur
+
+38
+00:02:49,794 --> 00:02:51,755
+et elle vient
+en remettre une couche.
+
+39
+00:02:52,148 --> 00:02:53,173
+Regarde-le.
+
+40
+00:02:53,423 --> 00:02:54,536
+Le pauvre.
+
+41
+00:02:55,842 --> 00:02:58,178
+- Ça va ?
+- Oui, j'ai une urgence Nerd Herd.
+
+42
+00:02:59,254 --> 00:03:00,737
+J'ai pas reçu d'appel.
+
+43
+00:03:00,904 --> 00:03:03,099
+Techniquement,
+tout doit passer par moi.
+
+44
+00:03:04,619 --> 00:03:05,477
+Tu vas où ?
+
+45
+00:03:05,727 --> 00:03:07,771
+T'as entendu le patron ?
+Y a une urgence.
+
+46
+00:03:08,021 --> 00:03:09,021
+Vas-y.
+
+47
+00:03:10,343 --> 00:03:11,691
+C'est moi, le patron !
+
+48
+00:03:30,145 --> 00:03:32,212
+- T'as été long.
+- Content de te voir aussi.
+
+49
+00:03:32,462 --> 00:03:34,589
+Que fait Shaw
+dans cette chambre forte ?
+
+50
+00:03:34,839 --> 00:03:36,424
+Il lui reste cinq minutes.
+
+51
+00:03:36,674 --> 00:03:37,825
+Je dois faire quoi ?
+
+52
+00:03:37,992 --> 00:03:39,896
+Accède au serveur,
+redémarre le système
+
+53
+00:03:40,063 --> 00:03:41,860
+et ouvre la porte
+avant qu'il étouffe.
+
+54
+00:03:42,027 --> 00:03:44,766
+- J'aurai jamais accès au serveur.
+- Je l'ai fait planter.
+
+55
+00:03:45,016 --> 00:03:47,894
+À moins d'accéder au serveur,
+on peut pas ouvrir la porte.
+
+56
+00:03:48,730 --> 00:03:49,896
+À toi de jouer.
+
+57
+00:03:51,850 --> 00:03:53,900
+Dieu merci, vous êtes là.
+
+58
+00:03:54,150 --> 00:03:55,193
+Un problème ?
+
+59
+00:03:55,443 --> 00:03:57,086
+Je suis le conservateur du musée.
+
+60
+00:03:57,253 --> 00:03:59,322
+Je n'ai jamais touché à ce truc.
+
+61
+00:03:59,572 --> 00:04:02,117
+Je sais que le musée
+est complètement verrouillé.
+
+62
+00:04:02,367 --> 00:04:04,410
+C'est une protection ignifuge.
+
+63
+00:04:04,661 --> 00:04:06,329
+Il faut le réparer afin de contrôler
+
+64
+00:04:06,579 --> 00:04:08,331
+la température et l'humidité.
+
+65
+00:04:08,581 --> 00:04:10,831
+<i>Certaines pièces
+sont très sensibles.</i>
+
+66
+00:04:10,998 --> 00:04:11,876
+Moi aussi.
+
+67
+00:04:14,738 --> 00:04:16,214
+<i>On est juste au-dessus.</i>
+
+68
+00:04:16,464 --> 00:04:18,020
+On essaie d'ouvrir la porte.
+
+69
+00:04:19,085 --> 00:04:20,093
+Impossible.
+
+70
+00:04:20,781 --> 00:04:22,929
+Faut faire sauter la trappe.
+T'as du C-4 ?
+
+71
+00:04:23,179 --> 00:04:24,681
+Ça risque de tuer Shaw.
+
+72
+00:04:27,161 --> 00:04:28,977
+À toi de jouer pour ouvrir la porte.
+
+73
+00:04:29,575 --> 00:04:32,021
+Certaines pièces
+ont plus de 3 000 ans.
+
+74
+00:04:32,272 --> 00:04:34,691
+Perdurer aussi longtemps
+et être anéanties
+
+75
+00:04:34,941 --> 00:04:36,609
+par un ordinateur débile.
+
+76
+00:04:36,859 --> 00:04:39,904
+Ça vous dérangerait
+de me laisser respirer ?
+
+77
+00:04:41,665 --> 00:04:44,578
+Effectivement.
+Laissez faire les professionnels.
+
+78
+00:04:45,776 --> 00:04:47,600
+- Qu'est-ce que tu fais là ?
+- Surprise.
+
+79
+00:04:47,767 --> 00:04:51,040
+J'ai vu ta voiture dehors.
+Et tu m'avais promis de m'emmener.
+
+80
+00:04:51,291 --> 00:04:52,864
+<i>Quel est le problème ?</i>
+
+81
+00:04:53,517 --> 00:04:55,795
+- Débarrasse-t'en.
+- Shaw a moins d'une minute.
+
+82
+00:04:59,899 --> 00:05:02,927
+Que l'un de vous
+fasse quelque chose !
+
+83
+00:05:03,843 --> 00:05:07,056
+- T'as déjà réinitialisé un serveur ?
+- Et tu m'insultes, en plus.
+
+84
+00:05:07,523 --> 00:05:08,657
+Montre-moi ça.
+
+85
+00:05:10,980 --> 00:05:12,896
+Arrête le script du serveur.
+
+86
+00:05:15,994 --> 00:05:17,108
+Fait. Ensuite ?
+
+87
+00:05:19,540 --> 00:05:20,653
+Faites-la exploser.
+
+88
+00:05:23,063 --> 00:05:24,616
+<i>Faites exploser la trappe.</i>
+
+89
+00:05:25,348 --> 00:05:27,577
+- Et pour le masque ?
+- Je vais mourir.
+
+90
+00:05:28,558 --> 00:05:29,370
+Compris.
+
+91
+00:05:36,336 --> 00:05:37,921
+- Ça va exploser.
+- Non !
+
+92
+00:05:40,443 --> 00:05:43,598
+Non, ordinateur !
+Je parle à l'ordinateur.
+
+93
+00:05:43,765 --> 00:05:45,476
+Ça m'aide, des fois.
+
+94
+00:05:46,926 --> 00:05:48,222
+Redémarre à trois.
+
+95
+00:05:58,232 --> 00:05:59,192
+On a réussi.
+
+96
+00:06:11,726 --> 00:06:13,456
+Pas mal pour ta première mission.
+
+97
+00:06:13,706 --> 00:06:14,499
+Superbe.
+
+98
+00:06:14,749 --> 00:06:15,917
+Impressionnant.
+
+99
+00:06:16,167 --> 00:06:17,585
+Comment vous remerciez ?
+
+100
+00:06:17,835 --> 00:06:18,920
+À votre service.
+
+101
+00:06:19,170 --> 00:06:20,588
+Pourquoi pas demain soir ?
+
+102
+00:06:21,141 --> 00:06:22,141
+Quoi ?
+
+103
+00:06:22,882 --> 00:06:24,568
+Au vernissage du masque d'Alexandre.
+
+104
+00:06:24,735 --> 00:06:27,971
+Il y aura des invités importants.
+J'aimerais que vous soyez des nôtres.
+
+105
+00:06:28,339 --> 00:06:29,847
+C'est très gentil, mais...
+
+106
+00:06:30,098 --> 00:06:32,475
+Ce n'est pas une invitation.
+Je vous engage.
+
+107
+00:06:33,126 --> 00:06:34,018
+Je vous veux
+
+108
+00:06:34,268 --> 00:06:36,104
+pour m'assurer qu'il n'y aura pas...
+
+109
+00:06:36,951 --> 00:06:39,023
+de bugs, comme vous dites.
+
+110
+00:06:39,528 --> 00:06:40,720
+<i>Accepte, Chuck.</i>
+
+111
+00:06:41,584 --> 00:06:43,861
+Vous allez nous aider
+à voler le masque d'Alexandre.
+
+112
+00:06:45,756 --> 00:06:47,649
+Qu'est-ce que t'en dis, partenaire ?
+
+113
+00:06:50,052 --> 00:06:51,065
+Ça marche.
+
+114
+00:06:52,864 --> 00:06:54,414
+- Magnifique.
+- N'est-ce pas ?
+
+115
+00:06:54,664 --> 00:06:56,124
+La Yvonne's Team présente :
+
+116
+00:07:00,461 --> 00:07:03,256
+Épisode 307 :
+<i>Chuck Versus the Mask</i>
+
+117
+00:07:30,199 --> 00:07:31,701
+.: La Fabrique :.
+(V 1.00)
+
+118
+00:07:45,985 --> 00:07:48,426
+- C'est quoi ?
+- Un expresso, sans crème ni sucre.
+
+119
+00:07:48,750 --> 00:07:49,802
+Comme tu l'aimes.
+
+120
+00:07:51,315 --> 00:07:52,735
+J'ai failli oublier.
+
+121
+00:07:54,773 --> 00:07:57,018
+Je sais que t'aimes la mordiller
+quand t'es stressée.
+
+122
+00:08:01,870 --> 00:08:02,870
+Salut.
+
+123
+00:08:06,016 --> 00:08:07,820
+- Qu'y a-t-il ?
+- Merci d'être là.
+
+124
+00:08:08,326 --> 00:08:09,781
+Vous vous doutez que la CIA
+
+125
+00:08:10,031 --> 00:08:12,075
+ne veut pas voler
+le masque d'Alexandre.
+
+126
+00:08:12,482 --> 00:08:13,534
+Cet objet,
+
+127
+00:08:13,784 --> 00:08:16,871
+et peut-être d'autres,
+sert à passer des objets en fraude.
+
+128
+00:08:17,121 --> 00:08:17,996
+Du genre ?
+
+129
+00:08:18,677 --> 00:08:20,420
+Des objets utiles à l'Alliance.
+
+130
+00:08:20,833 --> 00:08:23,740
+C'était il y a trois mois,
+au Musée national de Damas.
+
+131
+00:08:24,265 --> 00:08:26,672
+Une équipe est entrée par effraction,
+mais n'a rien volé.
+
+132
+00:08:26,922 --> 00:08:28,925
+Il auraient caché un objet
+dans le masque ?
+
+133
+00:08:29,441 --> 00:08:31,969
+Malin.
+Ces oeuvres sont moins contrôlées.
+
+134
+00:08:32,290 --> 00:08:34,472
+Il faut trouver le masque
+avant l'Alliance.
+
+135
+00:08:35,152 --> 00:08:38,017
+Chuck sera au centre de contrôle,
+au cas où on aurait un souci.
+
+136
+00:08:38,267 --> 00:08:39,852
+Casey montera la garde.
+
+137
+00:08:41,270 --> 00:08:43,523
+Sarah et moi jouerons des invités
+à la soirée.
+
+138
+00:08:48,652 --> 00:08:51,303
+On échange les masques
+avant le vernissage.
+
+139
+00:08:51,470 --> 00:08:53,282
+Des questions ?
+Des préoccupations ?
+
+140
+00:08:53,532 --> 00:08:55,660
+Autres qu'impliquer un civil
+dans cette mission ?
+
+141
+00:08:56,869 --> 00:08:59,914
+- J'ai des fléchettes à essayer.
+- Je m'occupe d'Hannah.
+
+142
+00:09:00,164 --> 00:09:04,419
+Et elle pourra me remplacer
+si jamais il faut sortir l'artillerie.
+
+143
+00:09:07,463 --> 00:09:09,674
+Quand je parle d'artillerie,
+c'est moi, l'Intersect.
+
+144
+00:09:09,924 --> 00:09:10,925
+Pour flasher...
+
+145
+00:09:11,407 --> 00:09:13,052
+Ravi d'en avoir discuté.
+
+146
+00:09:24,063 --> 00:09:25,880
+Chuck râlerait s'il savait ça.
+
+147
+00:09:28,503 --> 00:09:30,945
+Tu disais que Jeff et Lester
+découvriraient son secret.
+
+148
+00:09:31,309 --> 00:09:33,013
+Je les ai surestimés.
+
+149
+00:09:33,829 --> 00:09:34,782
+En tout cas,
+
+150
+00:09:35,126 --> 00:09:38,244
+Chuck est loin d'être toujours
+à son poste.
+
+151
+00:09:38,494 --> 00:09:40,830
+Il s'esquive en prétextant
+des appels de Nerd Herd.
+
+152
+00:09:41,155 --> 00:09:42,915
+Comme son mystérieux voyage à Paris.
+
+153
+00:09:43,165 --> 00:09:46,043
+- Depuis, il est bizarre.
+- Tu veux savoir ce que je pense ?
+
+154
+00:09:46,473 --> 00:09:48,463
+- Pas vraiment.
+- Il nous protège.
+
+155
+00:09:48,920 --> 00:09:49,755
+De quoi ?
+
+156
+00:09:50,301 --> 00:09:53,009
+Il veut pas qu'on sache
+qu'il a renoué avec son côté sombre.
+
+157
+00:09:54,895 --> 00:09:57,346
+- Tu veux dire...
+- Oui. Quand Jill l'a largué.
+
+158
+00:09:57,714 --> 00:09:59,682
+Il a joué à la console
+pendant trois mois.
+
+159
+00:10:01,013 --> 00:10:02,913
+Il en a chopé, des ampoules.
+
+160
+00:10:03,103 --> 00:10:04,298
+C'est cohérent.
+
+161
+00:10:04,932 --> 00:10:08,399
+Sarah lui a brisé le coeur
+et ça le rend dépressif.
+
+162
+00:10:08,649 --> 00:10:11,319
+Pas de panique. Pas de panique.
+Je vais me renseigner.
+
+163
+00:10:12,192 --> 00:10:13,029
+Comment ?
+
+164
+00:10:13,635 --> 00:10:16,574
+Je suis directeur adjoint au Buy More.
+J'ai mes méthodes.
+
+165
+00:10:17,018 --> 00:10:19,327
+- Alors, jeu de tournevis Phillips ?
+- C'est bon.
+
+166
+00:10:20,578 --> 00:10:22,330
+- Artefact factice ?
+- C'est bon.
+
+167
+00:10:22,581 --> 00:10:24,040
+- Harnais ?
+- C'est bon.
+
+168
+00:10:24,290 --> 00:10:26,959
+- Et pince demi-ronde.
+- C'est bon.
+
+169
+00:10:27,357 --> 00:10:28,669
+Descendeur d'escalade.
+
+170
+00:10:31,125 --> 00:10:32,225
+Fantastique.
+
+171
+00:10:34,489 --> 00:10:37,369
+On est parés.
+
+172
+00:10:38,797 --> 00:10:39,597
+Prête ?
+
+173
+00:10:40,597 --> 00:10:41,432
+Bien sûr.
+
+174
+00:10:42,751 --> 00:10:44,435
+C'est notre première mission
+
+175
+00:10:45,089 --> 00:10:46,270
+sur le terrain.
+
+176
+00:10:46,785 --> 00:10:49,205
+Je m'assure qu'on est
+sur la même longueur d'onde.
+
+177
+00:10:51,148 --> 00:10:53,277
+- Prête pour ta première mission ?
+- Mission ?
+
+178
+00:10:53,784 --> 00:10:55,704
+Je veux juste dire que...
+
+179
+00:10:55,871 --> 00:10:58,032
+On sait jamais ce qui peut se passer
+
+180
+00:10:58,282 --> 00:10:59,909
+à l'extérieur du Buy More.
+
+181
+00:11:00,159 --> 00:11:02,286
+On franchit les lignes ennemies.
+
+182
+00:11:04,031 --> 00:11:05,831
+On devrait parler de nos conquêtes.
+
+183
+00:11:06,917 --> 00:11:08,459
+On joue un couple, ce soir.
+
+184
+00:11:09,348 --> 00:11:11,003
+D'après toi ?
+Une, deux ?
+
+185
+00:11:11,705 --> 00:11:13,923
+- Cinq ?
+- Quel intérêt ?
+
+186
+00:11:15,253 --> 00:11:18,261
+C'est pour notre couverture.
+L'alchimie, le langage du corps.
+
+187
+00:11:18,878 --> 00:11:20,596
+Par exemple, on a couché ensemble ?
+
+188
+00:11:22,157 --> 00:11:24,183
+- Tu plaisantes ?
+- Non, ça change tout.
+
+189
+00:11:25,309 --> 00:11:28,187
+Dans ce cas, non.
+On n'a pas couché ensemble.
+
+190
+00:11:29,993 --> 00:11:31,143
+Bon à savoir.
+
+191
+00:11:48,352 --> 00:11:50,626
+Bien, faites comme chez vous.
+
+192
+00:11:50,935 --> 00:11:53,421
+J'espère ne pas vous revoir ce soir.
+
+193
+00:11:53,671 --> 00:11:56,215
+La chambre forte
+doit s'ouvrir à 20 h.
+
+194
+00:11:56,824 --> 00:11:58,759
+Le vernissage doit se passer
+sans accroc.
+
+195
+00:11:59,009 --> 00:12:00,970
+Fini les bugs, les pannes, les...
+
+196
+00:12:01,220 --> 00:12:03,586
+- Aucun problème.
+- ... problèmes.
+
+197
+00:12:08,224 --> 00:12:10,606
+Le masque est dans la chambre forte.
+Elle s'ouvre à 20 h.
+
+198
+00:12:10,773 --> 00:12:12,880
+On a peu de temps
+pour faire l'échange.
+
+199
+00:12:14,163 --> 00:12:17,111
+Je croyais avoir été claire
+à propos de la couverture.
+
+200
+00:12:17,361 --> 00:12:19,092
+Ne pas avoir couché ensemble
+
+201
+00:12:19,390 --> 00:12:22,116
+ne veut pas dire
+qu'on doit agir comme des écoliers.
+
+202
+00:12:23,654 --> 00:12:25,536
+Là-bas, derrière cette porte,
+
+203
+00:12:26,671 --> 00:12:29,123
+il y a un escalier qui mène
+au-dessus de la chambre forte.
+
+204
+00:12:30,981 --> 00:12:32,781
+Fais attention aux caméras
+
+205
+00:12:33,589 --> 00:12:34,889
+sur ta droite
+
+206
+00:12:35,532 --> 00:12:36,982
+et droit devant.
+
+207
+00:12:39,171 --> 00:12:40,426
+Tout va bien ?
+
+208
+00:12:40,676 --> 00:12:42,667
+Très bien, merci.
+
+209
+00:12:45,806 --> 00:12:47,391
+L'empire d'Alexandre le Grand
+
+210
+00:12:47,641 --> 00:12:49,393
+est vraiment impressionnant.
+
+211
+00:12:50,257 --> 00:12:52,688
+- Tu vois ?
+- Tu sais garder un secret ?
+
+212
+00:12:56,105 --> 00:12:57,705
+C'est ma grande force.
+
+213
+00:12:58,643 --> 00:13:01,443
+Tu veux savoir pourquoi
+j'ai pris ce boulot ?
+
+214
+00:13:04,001 --> 00:13:05,612
+La tenue qui en jette ?
+
+215
+00:13:05,893 --> 00:13:07,743
+Le salaire misérable ?
+
+216
+00:13:08,590 --> 00:13:09,590
+Toi.
+
+217
+00:13:12,855 --> 00:13:13,667
+Moi ?
+
+218
+00:13:14,510 --> 00:13:16,462
+Je n'arrête pas
+de t'envoyer des signes.
+
+219
+00:13:18,768 --> 00:13:20,678
+J'espère ne pas aller trop vite.
+
+220
+00:13:22,831 --> 00:13:23,719
+Pas du tout.
+
+221
+00:13:24,948 --> 00:13:26,148
+Dans ce cas...
+
+222
+00:13:46,166 --> 00:13:47,701
+J'ai fait quelque chose de mal ?
+
+223
+00:13:48,030 --> 00:13:49,536
+Ton ex...
+
+224
+00:13:50,905 --> 00:13:52,062
+Qui ? Sarah ?
+
+225
+00:13:52,229 --> 00:13:54,229
+Morgan a dit que c'était fini.
+
+226
+00:13:54,765 --> 00:13:56,331
+Fini à 100 %, pourquoi ?
+
+227
+00:13:57,105 --> 00:13:59,197
+C'est elle, n'est-ce pas ?
+
+228
+00:14:01,856 --> 00:14:03,551
+Tu sais ce qu'elle fait là ?
+
+229
+00:14:05,121 --> 00:14:07,346
+À part te rendre jaloux
+
+230
+00:14:07,596 --> 00:14:10,686
+avec un ami ridiculement beau.
+
+231
+00:14:11,183 --> 00:14:13,033
+Ridiculement...
+Lui ? Non.
+
+232
+00:14:13,953 --> 00:14:16,939
+Sauf si t'es fan des types baraqués,
+du genre Superman.
+
+233
+00:14:28,694 --> 00:14:29,743
+Je reviens.
+
+234
+00:14:38,085 --> 00:14:39,044
+Tu fais quoi ?
+
+235
+00:14:39,521 --> 00:14:42,757
+Vasillis, l'agent de l'Alliance
+qui s'est introduit à Damas, est ici.
+
+236
+00:14:44,508 --> 00:14:46,469
+Et je veux dire dans cette pièce.
+
+237
+00:14:47,286 --> 00:14:49,451
+Regardez par là.
+
+238
+00:14:54,281 --> 00:14:55,394
+On annule.
+
+239
+00:14:57,050 --> 00:14:59,648
+On n'a pas le choix.
+J'ai déjà eu affaire à Vasillis.
+
+240
+00:15:00,151 --> 00:15:01,317
+Il te reconnaîtra ?
+
+241
+00:15:02,898 --> 00:15:05,404
+On se souvient du mec
+qui vous a cramé le visage.
+
+242
+00:15:08,784 --> 00:15:11,118
+D'ailleurs,
+on dirait que ton ami n'est pas seul.
+
+243
+00:15:12,969 --> 00:15:14,830
+Il sont en repérage
+pour voler le masque.
+
+244
+00:15:15,150 --> 00:15:17,875
+- Il faut faire quelque chose.
+- Tu n'iras pas seule.
+
+245
+00:15:18,281 --> 00:15:20,753
+- Je l'accompagne.
+- Tu sais pas à qui t'as affaire.
+
+246
+00:15:27,754 --> 00:15:29,386
+Pars, tu vas griller la couverture.
+
+247
+00:15:29,871 --> 00:15:31,347
+On va récupérer le masque.
+
+248
+00:15:33,179 --> 00:15:35,601
+Très bien.
+Je serai avec Casey dans le van.
+
+249
+00:15:40,050 --> 00:15:43,150
+- Alors, qu'en dis-tu, partenaire ?
+- Allons-y.
+
+250
+00:15:53,081 --> 00:15:54,870
+Fais gaffe aux caméras.
+
+251
+00:15:55,120 --> 00:15:56,977
+L'Alliance doit aussi
+y être connectée.
+
+252
+00:15:57,414 --> 00:16:00,167
+J'ai de l'avance sur toi.
+Pardon, Hannah.
+
+253
+00:16:13,955 --> 00:16:15,182
+C'est quoi, ce bruit ?
+
+254
+00:16:15,993 --> 00:16:18,269
+- Où est votre partenaire ?
+- Il est...
+
+255
+00:16:20,464 --> 00:16:21,564
+Aucune idée.
+
+256
+00:16:22,356 --> 00:16:24,316
+Les invités viennent de très loin.
+
+257
+00:16:24,622 --> 00:16:27,653
+Quel que soit le problème,
+réparez-le.
+
+258
+00:16:27,903 --> 00:16:30,703
+Vous avez cinq minutes
+avant le vernissage.
+
+259
+00:16:30,961 --> 00:16:31,866
+Au travail !
+
+260
+00:16:37,930 --> 00:16:40,249
+Tu vas devoir
+me faire descendre manuellement.
+
+261
+00:16:43,210 --> 00:16:45,588
+Vous vous amusiez bien, avec Shaw.
+
+262
+00:16:45,838 --> 00:16:46,672
+Quoi ?
+
+263
+00:16:47,212 --> 00:16:49,592
+Vous êtes mignons à deux,
+c'est tout.
+
+264
+00:16:50,315 --> 00:16:52,011
+<i>C'est une couverture.</i>
+
+265
+00:16:53,090 --> 00:16:54,054
+<i>Si tu le dis.</i>
+
+266
+00:16:56,247 --> 00:16:57,891
+Ils ont coupé leurs micros ?
+
+267
+00:16:58,141 --> 00:16:59,220
+Non, c'est moi.
+
+268
+00:16:59,387 --> 00:17:02,438
+En mission, on dirait des adolescentes.
+Un véritable supplice.
+
+269
+00:17:02,751 --> 00:17:04,523
+- C'est ridicule.
+- Ridicule ?
+
+270
+00:17:05,018 --> 00:17:07,901
+Il ne t'a pas lâché de la soirée.
+Et il t'apporte du café le matin.
+
+271
+00:17:11,155 --> 00:17:12,698
+T'es complètement aveugle.
+
+272
+00:17:13,731 --> 00:17:15,004
+Tu peux parler.
+
+273
+00:17:15,864 --> 00:17:16,660
+Quoi ?
+
+274
+00:17:16,910 --> 00:17:19,711
+Depuis que Hannah est au Buy More,
+
+275
+00:17:19,878 --> 00:17:21,707
+elle ne t'a pas lâché non plus.
+
+276
+00:17:21,957 --> 00:17:24,061
+Vous êtes mignons, à deux.
+
+277
+00:17:24,612 --> 00:17:26,420
+C'est une collègue.
+
+278
+00:17:27,297 --> 00:17:30,424
+Pardonne-moi de vouloir être
+professionnel.
+
+279
+00:17:31,217 --> 00:17:34,987
+Je ne savais pas que ça nécessitait
+de sentir son parfum.
+
+280
+00:17:36,722 --> 00:17:38,557
+Allez, on a un masque à voler.
+
+281
+00:17:38,807 --> 00:17:40,360
+Nous sommes prêts, monsieur.
+
+282
+00:17:51,622 --> 00:17:53,781
+Il a envoyé ses hommes.
+Ils ont sûrement le code.
+
+283
+00:17:54,031 --> 00:17:54,865
+Walker ?
+
+284
+00:17:57,090 --> 00:17:58,035
+Bartowski ?
+
+285
+00:17:59,095 --> 00:18:00,955
+Je suis un peu occupé, là.
+
+286
+00:18:06,005 --> 00:18:06,919
+Salut.
+
+287
+00:18:20,599 --> 00:18:21,999
+Tiens bon, Chuck !
+
+288
+00:18:32,235 --> 00:18:33,237
+Il est 20 h 05.
+
+289
+00:18:33,487 --> 00:18:36,156
+- La chambre forte ne s'ouvre pas !
+- Du calme, ça vient.
+
+290
+00:18:41,070 --> 00:18:42,329
+Allez...
+
+291
+00:18:51,535 --> 00:18:53,382
+Bartowski devait gérer
+la chambre forte.
+
+292
+00:18:54,292 --> 00:18:55,431
+C'est Hannah.
+
+293
+00:18:55,708 --> 00:18:58,429
+Elle doit être sur le PC de Bartowski.
+On est toujours connectés ?
+
+294
+00:18:59,680 --> 00:19:00,889
+Ouverture.
+
+295
+00:19:01,945 --> 00:19:02,745
+Merci.
+
+296
+00:19:10,983 --> 00:19:12,983
+Qu'est-ce qui se passe ?
+
+297
+00:19:39,803 --> 00:19:40,721
+Je l'ai !
+
+298
+00:19:54,652 --> 00:19:56,195
+Elle nous a déconnectés.
+
+299
+00:20:06,079 --> 00:20:07,699
+<i>C'est bon, on est sortis.</i>
+
+300
+00:20:30,035 --> 00:20:33,890
+Je vous retrouve à la Tour,
+le temps de ranger et de gérer Hannah.
+
+301
+00:20:37,597 --> 00:20:39,297
+Vraiment désolé, Hannah.
+
+302
+00:20:41,512 --> 00:20:42,760
+T'étais où ?
+
+303
+00:20:43,648 --> 00:20:46,954
+Comment t'as pu me lâcher
+sur ma première mission ?
+
+304
+00:20:48,622 --> 00:20:49,873
+Je sais où tu étais.
+
+305
+00:20:50,436 --> 00:20:51,250
+Ah ?
+
+306
+00:20:54,327 --> 00:20:56,171
+Je t'ai vu avec ton ex.
+
+307
+00:20:57,806 --> 00:21:01,051
+Tu m'avais dit que c'était fini,
+mais ce n'est visiblement pas le cas.
+
+308
+00:21:02,327 --> 00:21:03,470
+C'est pas ça.
+
+309
+00:21:04,818 --> 00:21:06,056
+C'est quoi, alors ?
+
+310
+00:21:07,024 --> 00:21:08,963
+Sarah et moi,
+
+311
+00:21:09,787 --> 00:21:11,562
+on a une relation très particulière.
+
+312
+00:21:13,863 --> 00:21:15,566
+Ça a l'air très spécial.
+
+313
+00:21:19,693 --> 00:21:23,678
+Comment j'ai pu me ridiculiser
+en t'embrassant comme ça ?
+
+314
+00:21:24,074 --> 00:21:26,243
+Non, c'est moi qui suis ridicule.
+
+315
+00:21:26,493 --> 00:21:27,793
+Assurément, oui.
+
+316
+00:21:28,195 --> 00:21:30,539
+On devrait se limiter
+à une relation professionnelle.
+
+317
+00:21:32,332 --> 00:21:34,585
+- Laisse-moi me rattraper.
+- Laisse tomber.
+
+318
+00:21:35,218 --> 00:21:36,336
+T'embête pas.
+
+319
+00:21:37,909 --> 00:21:39,339
+On se verra au boulot.
+
+320
+00:21:41,204 --> 00:21:42,050
+Cinglé.
+
+321
+00:21:56,686 --> 00:21:57,858
+Il manque six coups.
+
+322
+00:21:58,108 --> 00:22:00,027
+Je connais pas le code.
+Je peux entrer ?
+
+323
+00:22:00,561 --> 00:22:01,361
+Il dort.
+
+324
+00:22:02,006 --> 00:22:05,282
+Il est rentré à pas d'heure.
+Je sais pas ce qu'il a fait.
+
+325
+00:22:05,939 --> 00:22:07,075
+Il bossait, non ?
+
+326
+00:22:07,430 --> 00:22:09,870
+C'est ce que je pensais
+avant d'être appelé par le musée.
+
+327
+00:22:10,460 --> 00:22:12,728
+Chuck a abandonné sa partenaire.
+
+328
+00:22:13,575 --> 00:22:16,418
+- Ça te rappelle quelque chose ?
+- Retour à la case départ.
+
+329
+00:22:16,908 --> 00:22:18,879
+Pas forcément.
+J'ai eu une épiphanie.
+
+330
+00:22:19,129 --> 00:22:21,089
+- Quoi ?
+- Une révélation soudaine.
+
+331
+00:22:21,548 --> 00:22:23,345
+- J'ai cherché.
+- Je sais ce que c'est.
+
+332
+00:22:23,512 --> 00:22:24,801
+Quelle épiphanie ?
+
+333
+00:22:26,659 --> 00:22:27,846
+On s'y est mal pris.
+
+334
+00:22:28,793 --> 00:22:30,765
+Coinçons-le
+pour faire une intervention.
+
+335
+00:22:31,253 --> 00:22:34,018
+On le forcera à être honnête.
+On sera fixés.
+
+336
+00:22:34,269 --> 00:22:35,368
+Fixer quoi ?
+
+337
+00:22:36,578 --> 00:22:38,065
+Rien. Un tableau.
+
+338
+00:22:39,136 --> 00:22:41,068
+- Bonjour.
+- Salut, vous deux.
+
+339
+00:22:45,940 --> 00:22:47,490
+On va être en retard.
+
+340
+00:22:48,909 --> 00:22:50,661
+Ça alors, dis donc !
+
+341
+00:22:50,911 --> 00:22:53,580
+- Et l'intervention ?
+- Pas maintenant.
+
+342
+00:22:55,949 --> 00:22:56,750
+Lâche !
+
+343
+00:23:06,592 --> 00:23:08,465
+Voilà qui m'a pris mon masque.
+
+344
+00:23:13,805 --> 00:23:15,005
+Mets en pause.
+
+345
+00:23:15,962 --> 00:23:17,043
+C'est qui, elle ?
+
+346
+00:23:19,540 --> 00:23:20,649
+Il est doué.
+
+347
+00:23:21,242 --> 00:23:22,651
+Un véritable tombeur.
+
+348
+00:23:23,324 --> 00:23:26,364
+Il se sert de la blonde
+pour entrer dans la chambre forte.
+
+349
+00:23:26,531 --> 00:23:29,741
+Et il séduit l'informaticienne
+pour accéder au système de sécurité.
+
+350
+00:23:31,056 --> 00:23:32,680
+Nous allons voir
+
+351
+00:23:33,028 --> 00:23:35,956
+si notre voleur au coeur de pierre
+est vraiment insensible.
+
+352
+00:23:42,025 --> 00:23:43,433
+Ça a été dur, au musée ?
+
+353
+00:23:44,490 --> 00:23:47,009
+- Le conservateur m'a résumé.
+- Qu'est-ce qu'il a dit ?
+
+354
+00:23:47,732 --> 00:23:49,082
+Je sais pas trop.
+
+355
+00:23:49,376 --> 00:23:52,097
+J'ai du mal
+avec l'accent britannique.
+
+356
+00:23:52,347 --> 00:23:53,932
+Du vrai charabia.
+
+357
+00:23:54,589 --> 00:23:56,351
+Comme dans <i>Madame Doubtfire</i>.
+
+358
+00:23:57,056 --> 00:23:58,856
+Un super film, au passage.
+
+359
+00:23:59,771 --> 00:24:01,408
+Qu'est-ce qui s'est passé ?
+
+360
+00:24:01,575 --> 00:24:03,817
+Je veux dénoncer personne.
+
+361
+00:24:04,067 --> 00:24:05,736
+On balance pas, une règle de la rue.
+
+362
+00:24:06,816 --> 00:24:08,266
+De quoi tu parles ?
+
+363
+00:24:08,520 --> 00:24:11,825
+Tu es loyale envers Chuck.
+Je comprends, tu protèges ton patron.
+
+364
+00:24:12,075 --> 00:24:13,869
+Mais son patron, c'est moi.
+
+365
+00:24:14,638 --> 00:24:16,623
+Ne me vois pas
+comme le patron de ton patron,
+
+366
+00:24:16,790 --> 00:24:19,458
+mais plutôt comme un ami,
+finalement.
+
+367
+00:24:19,708 --> 00:24:21,668
+Un ami à qui tu peux tout dire.
+
+368
+00:24:24,016 --> 00:24:25,216
+Vraiment tout.
+
+369
+00:24:28,926 --> 00:24:29,885
+Excuse-moi.
+
+370
+00:24:31,002 --> 00:24:33,355
+- Nerd Herd.
+- <i>J'appelle du musée.</i>
+
+371
+00:24:34,106 --> 00:24:36,626
+Encore un crétin avec un accent.
+Fou, non ?
+
+372
+00:24:37,343 --> 00:24:38,143
+Oui ?
+
+373
+00:24:38,501 --> 00:24:40,854
+On a un nouveau problème
+informatique.
+
+374
+00:24:41,818 --> 00:24:43,607
+Vous pouvez envoyer
+la fille d'hier ?
+
+375
+00:24:44,402 --> 00:24:45,331
+Hannah ?
+
+376
+00:24:45,859 --> 00:24:46,754
+C'est ça.
+
+377
+00:24:49,571 --> 00:24:52,824
+Elle viendra vous dépanner avec plaisir.
+Et, pour nous rattraper, c'est offert.
+
+378
+00:24:54,218 --> 00:24:55,494
+Son chef l'accompagnera.
+
+379
+00:24:56,210 --> 00:24:57,454
+Non, il n'est pas...
+
+380
+00:24:58,155 --> 00:24:58,955
+dispo.
+
+381
+00:24:59,205 --> 00:25:03,207
+- Elle y arrivera très bien toute seule.
+- <i>Absolument.</i>
+
+382
+00:25:05,462 --> 00:25:07,047
+Merci, tu es un ami précieux.
+
+383
+00:25:08,814 --> 00:25:12,662
+C'est gentil de ta part.
+Et plutôt touchant.
+
+384
+00:25:12,927 --> 00:25:15,197
+C'est un bon début.
+
+385
+00:25:15,472 --> 00:25:18,000
+Tu vois ?
+Et on peut partir de là.
+
+386
+00:25:19,177 --> 00:25:20,177
+Mon Dieu.
+
+387
+00:25:24,427 --> 00:25:25,627
+Bonjour, Walker.
+
+388
+00:25:26,913 --> 00:25:29,211
+- Il faut qu'on parle.
+- D'hier soir ?
+
+389
+00:25:29,486 --> 00:25:31,530
+De tout.
+De limites professionnelles,
+
+390
+00:25:31,780 --> 00:25:33,782
+du café que tu m'apportes le matin,
+
+391
+00:25:34,032 --> 00:25:36,409
+du fait que tu as noté
+que je mordille ma touillette.
+
+392
+00:25:36,659 --> 00:25:37,787
+C'est gênant.
+
+393
+00:25:38,078 --> 00:25:40,330
+Nous sommes collègues
+et ça restera comme ça.
+
+394
+00:25:40,715 --> 00:25:44,161
+Alors, garde ton café
+et tes encouragements ridicules.
+
+395
+00:25:44,328 --> 00:25:45,127
+Compris ?
+
+396
+00:25:48,636 --> 00:25:49,965
+Remettons-nous au boulot.
+
+397
+00:25:50,215 --> 00:25:52,551
+Je devrais m'excuser
+auprès de Casey.
+
+398
+00:25:55,244 --> 00:25:58,130
+Merci pour le café.
+Comme je l'aime, noir et amer.
+
+399
+00:26:17,622 --> 00:26:18,622
+Nerd Herd.
+
+400
+00:26:20,321 --> 00:26:21,780
+On m'a appelée.
+
+401
+00:26:21,947 --> 00:26:24,066
+En effet, merci d'être venue.
+
+402
+00:26:25,414 --> 00:26:28,420
+- Où est le conservateur ?
+- Il est occupé.
+
+403
+00:26:29,020 --> 00:26:30,380
+Je suis l'assistant.
+
+404
+00:26:30,630 --> 00:26:31,658
+C'est par là.
+
+405
+00:26:31,825 --> 00:26:34,960
+On a des problèmes
+avec la sécurité de la chambre forte.
+
+406
+00:26:35,127 --> 00:26:36,887
+Si vous pouviez y jeter un oeil.
+
+407
+00:26:37,467 --> 00:26:39,139
+Je m'occupe d'ordinateurs.
+
+408
+00:26:39,389 --> 00:26:42,809
+Vous avez l'air astucieuse.
+Vous identifierez le problème.
+
+409
+00:26:45,383 --> 00:26:48,523
+- Vous avez un portable ?
+- Je l'ai laissé dans la voiture.
+
+410
+00:26:49,037 --> 00:26:50,314
+C'est pas grave.
+
+411
+00:27:10,617 --> 00:27:13,089
+- Que puis-je pour vous ?
+- <i>Me rapporter mon masque.</i>
+
+412
+00:27:14,943 --> 00:27:16,259
+C'est un faux numéro.
+
+413
+00:27:16,509 --> 00:27:17,587
+Je reformule.
+
+414
+00:27:17,754 --> 00:27:20,597
+Tu m'apportes le masque
+ou je tue ta petite amie.
+
+415
+00:27:23,516 --> 00:27:26,102
+Morgan, tu as vu Hannah ?
+
+416
+00:27:26,985 --> 00:27:28,355
+Elle est au musée.
+
+417
+00:27:35,426 --> 00:27:38,615
+Déjà, je n'ai pas de petite amie,
+pour que ça soit bien clair.
+
+418
+00:27:38,865 --> 00:27:42,145
+Ensuite, c'est le rayon informatique.
+Si vous avez un problème d'ordinateur...
+
+419
+00:27:42,312 --> 00:27:43,479
+<i>Je sais qui tu es.</i>
+
+420
+00:27:43,894 --> 00:27:46,623
+Viens au musée
+si tu veux revoir ta petite amie.
+
+421
+00:27:47,083 --> 00:27:48,083
+Seul.
+
+422
+00:27:48,333 --> 00:27:50,922
+<i>Elle sera à court d'oxygène
+dans 15 minutes.</i>
+
+423
+00:27:51,949 --> 00:27:54,089
+Rapporte-moi mon masque.
+
+424
+00:27:59,703 --> 00:28:01,846
+- Il faut qu'on parle.
+- C'est pas le moment.
+
+425
+00:28:06,284 --> 00:28:07,635
+Je m'en fiche.
+
+426
+00:28:14,411 --> 00:28:16,319
+J'étais ton meilleur ami, mec.
+
+427
+00:28:17,295 --> 00:28:20,073
+Je mérite... j'exige, même,
+de savoir ce qui te prend ces temps-ci.
+
+428
+00:28:23,770 --> 00:28:25,170
+Il se fout de moi.
+
+429
+00:28:27,003 --> 00:28:28,282
+Vérifie le socle.
+
+430
+00:28:39,306 --> 00:28:41,336
+Il me faut le masque.
+Vasillis sait qu'on l'a.
+
+431
+00:28:41,594 --> 00:28:43,839
+<i>Il le veut.
+Il détient Hannah. J'arrive.</i>
+
+432
+00:28:46,737 --> 00:28:48,778
+- C'est pas bon.
+- Ne viens pas.
+
+433
+00:28:49,060 --> 00:28:50,360
+Le masque est...
+
+434
+00:29:16,384 --> 00:29:18,423
+- C'est du poison !
+- Tu crois ?
+
+435
+00:29:18,673 --> 00:29:21,468
+C'est une arme de terrain,
+il y a un antidote.
+
+436
+00:29:21,718 --> 00:29:24,596
+- Il faut le prendre dans l'heure.
+- Sinon, il se passe quoi ?
+
+437
+00:29:25,825 --> 00:29:29,436
+Je vais le prendre à Vasillis,
+il l'a forcément.
+
+438
+00:29:29,603 --> 00:29:30,803
+Ça doit être...
+
+439
+00:29:38,547 --> 00:29:41,097
+Casey, équipe-toi.
+On retourne au musée.
+
+440
+00:29:51,767 --> 00:29:54,751
+- Ça va pas marcher.
+- Ça va marcher. Tiens.
+
+441
+00:30:00,809 --> 00:30:03,468
+Si on gruge Vassilis
+avec un autre faux masque,
+
+442
+00:30:03,718 --> 00:30:06,842
+on sauve Hannah,
+mais ça nous donne pas l'antidote.
+
+443
+00:30:07,096 --> 00:30:10,392
+Et Sarah et Shaw ?
+On aura le temps de les sauver ?
+
+444
+00:30:12,945 --> 00:30:15,017
+J'ai trouvé ! On le gaze.
+
+445
+00:30:15,665 --> 00:30:18,421
+Super plan.
+Sauf que le gaz a déjà été utilisé.
+
+446
+00:30:18,872 --> 00:30:21,027
+Mais Vassilis ne le sait pas.
+
+447
+00:30:24,550 --> 00:30:26,282
+J'ai des grenades fumigènes.
+
+448
+00:30:27,867 --> 00:30:30,328
+Bizarre,
+j'ai pas l'impression de mourir.
+
+449
+00:30:30,578 --> 00:30:32,435
+Chuck va nous sauver.
+
+450
+00:30:33,202 --> 00:30:34,675
+S'il n'y arrive pas...
+
+451
+00:30:35,869 --> 00:30:37,406
+Je voudrais être clair.
+
+452
+00:30:38,624 --> 00:30:41,791
+En fait, je n'ai pas été
+totalement franc.
+
+453
+00:30:42,669 --> 00:30:44,008
+Ni sur le café
+
+454
+00:30:44,953 --> 00:30:47,003
+ni sur mon comportement au musée.
+
+455
+00:30:49,412 --> 00:30:50,849
+Je te draguais.
+
+456
+00:30:54,664 --> 00:30:57,702
+C'était peu professionnel
+et je m'en excuse.
+
+457
+00:31:01,777 --> 00:31:04,612
+Je m'excuse aussi.
+J'ai réagi de manière excessive.
+
+458
+00:31:09,493 --> 00:31:10,867
+Quand tu m'as...
+
+459
+00:31:11,758 --> 00:31:13,809
+embrassée dans le cou, à la soirée,
+
+460
+00:31:15,290 --> 00:31:17,041
+c'était plutôt sympa.
+
+461
+00:31:18,990 --> 00:31:19,815
+Vraiment ?
+
+462
+00:31:21,355 --> 00:31:22,355
+Vraiment.
+
+463
+00:31:24,677 --> 00:31:26,885
+Je suis heureux qu'on ait parlé.
+
+464
+00:31:29,896 --> 00:31:30,896
+Moi aussi.
+
+465
+00:31:36,885 --> 00:31:38,938
+Le poison est neutralisé.
+La pièce est saine.
+
+466
+00:31:40,189 --> 00:31:43,193
+T'as plus besoin de l'antidote que moi.
+Sortons d'ici.
+
+467
+00:31:59,968 --> 00:32:01,168
+Ne bouge plus.
+
+468
+00:32:02,646 --> 00:32:03,963
+Montre-moi le masque.
+
+469
+00:32:11,163 --> 00:32:13,848
+- Montrez-moi l'informaticienne.
+- Elle est dans la chambre forte.
+
+470
+00:32:14,272 --> 00:32:15,767
+Vous avez vu l'heure ?
+
+471
+00:32:16,017 --> 00:32:17,769
+L'air doit commencer à se raréfier.
+
+472
+00:32:23,274 --> 00:32:26,015
+S'il l'ouvre pas, je fais tout péter.
+Ça risque de la blesser.
+
+473
+00:32:26,182 --> 00:32:28,154
+J'ai apporté le masque,
+laissez-la sortir.
+
+474
+00:32:28,404 --> 00:32:31,366
+Si ça ne tenait qu'à moi,
+je la laisserais sortir.
+
+475
+00:32:31,858 --> 00:32:33,993
+Mais les gens à qui tu l'as volé,
+
+476
+00:32:34,541 --> 00:32:37,288
+l'Alliance,
+ne sont pas aussi indulgents.
+
+477
+00:32:37,538 --> 00:32:39,999
+Faites ce que vous voulez de moi,
+mais laissez-la.
+
+478
+00:32:40,670 --> 00:32:42,627
+Tu n'es pas en position d'exiger.
+
+479
+00:32:43,319 --> 00:32:45,380
+Tu as perdu tout moyen de pression,
+
+480
+00:32:46,349 --> 00:32:48,591
+dès que tu es entré avec le masque.
+
+481
+00:32:48,841 --> 00:32:50,044
+Pas tout à fait.
+
+482
+00:32:51,677 --> 00:32:53,179
+On sait ce qu'il y a dedans.
+
+483
+00:32:53,737 --> 00:32:55,056
+Ouvrez cette porte
+
+484
+00:32:55,961 --> 00:32:57,559
+ou je libère le gaz.
+
+485
+00:32:58,437 --> 00:32:59,644
+Je te crois pas.
+
+486
+00:33:00,546 --> 00:33:01,396
+Dommage.
+
+487
+00:33:01,758 --> 00:33:02,814
+Vous auriez dû.
+
+488
+00:33:08,027 --> 00:33:09,362
+Tu nous as tous tués.
+
+489
+00:33:09,935 --> 00:33:11,781
+- Crétin !
+- Où est l'antidote ?
+
+490
+00:33:12,031 --> 00:33:13,116
+Dans un vase.
+
+491
+00:33:14,617 --> 00:33:15,660
+Y en a plein.
+
+492
+00:33:16,061 --> 00:33:18,037
+- Lequel ?
+- Comment je le saurais ?
+
+493
+00:33:18,287 --> 00:33:21,291
+- Je comptais pas le voler.
+- Et c'est moi, le crétin ?
+
+494
+00:33:26,432 --> 00:33:29,215
+Allez, Chuck !
+Il y en a un qui est différent.
+
+495
+00:34:01,292 --> 00:34:04,208
+- Le temps est écoulé.
+- Attends, j'ai l'antidote.
+
+496
+00:34:04,458 --> 00:34:06,094
+<i>Rejoins-moi à la salle de contrôle.</i>
+
+497
+00:34:06,379 --> 00:34:08,739
+Quand est-ce que je pourrai
+faire péter un truc ?
+
+498
+00:34:13,426 --> 00:34:15,637
+Casey, tiens.
+Combien de temps il reste ?
+
+499
+00:34:15,887 --> 00:34:17,847
+T'inquiète pas.
+Sors-la de la chambre forte.
+
+500
+00:34:19,600 --> 00:34:22,101
+- Il reste pas assez de temps, hein ?
+- Concentre-toi.
+
+501
+00:34:22,992 --> 00:34:25,104
+Même si on les perd,
+on a une civile à sauver.
+
+502
+00:34:25,526 --> 00:34:26,751
+Sors-la de là !
+
+503
+00:34:45,353 --> 00:34:46,538
+Allez !
+
+504
+00:34:59,221 --> 00:35:00,530
+Voilà l'antidote.
+
+505
+00:35:01,440 --> 00:35:02,867
+Je m'occupe du conservateur.
+
+506
+00:35:12,830 --> 00:35:14,160
+- Ça va ?
+- Oui.
+
+507
+00:35:15,254 --> 00:35:16,254
+Merci.
+
+508
+00:35:34,840 --> 00:35:36,089
+Que s'est-il passé ?
+
+509
+00:35:36,828 --> 00:35:38,076
+Tu t'es évanouie.
+
+510
+00:35:38,422 --> 00:35:41,264
+Tu as dû te laisser piéger
+dans la chambre forte.
+
+511
+00:35:41,514 --> 00:35:42,568
+Mon Dieu.
+
+512
+00:35:43,304 --> 00:35:44,757
+J'aurais pu mourir.
+
+513
+00:35:48,562 --> 00:35:49,981
+Tu m'as sauvé la vie.
+
+514
+00:35:50,368 --> 00:35:51,369
+En fait...
+
+515
+00:35:59,069 --> 00:36:02,076
+- J'ai agi bizarrement, l'autre fois...
+- Oublie ça.
+
+516
+00:36:24,541 --> 00:36:25,597
+Bon boulot.
+
+517
+00:36:26,342 --> 00:36:28,015
+Je te revaudrai ça, Bartowski.
+
+518
+00:36:28,182 --> 00:36:31,189
+Arrête, je t'ai juste sauvé la vie.
+Deux fois.
+
+519
+00:36:32,983 --> 00:36:33,983
+Je t'en prie.
+
+520
+00:36:34,647 --> 00:36:36,092
+Pas que la mienne.
+
+521
+00:36:37,688 --> 00:36:39,697
+Tu as aussi récupéré
+une arme chimique.
+
+522
+00:36:41,397 --> 00:36:44,535
+J'apprécie
+que vous me lanciez des fleurs,
+
+523
+00:36:44,785 --> 00:36:46,704
+mais j'étais pas seul.
+
+524
+00:36:47,367 --> 00:36:49,415
+Ce qui nous amène au point suivant.
+
+525
+00:36:51,584 --> 00:36:53,377
+On ne sera pas là éternellement.
+
+526
+00:36:53,791 --> 00:36:57,173
+L'Intersect a été conçu
+pour un agent autonome.
+
+527
+00:36:59,091 --> 00:37:01,636
+Nous sommes les roulettes
+de ton vélo.
+
+528
+00:37:01,886 --> 00:37:04,464
+Et ta performance montre que tu peux
+te passer de nous.
+
+529
+00:37:05,131 --> 00:37:07,183
+J'espère que t'es prêt
+pour le grand vélo.
+
+530
+00:37:19,904 --> 00:37:22,240
+Je voulais m'assurer
+que tu vas bien.
+
+531
+00:37:22,956 --> 00:37:24,992
+J'étais habitué
+à travailler en équipe.
+
+532
+00:37:25,763 --> 00:37:27,245
+On part pas tout de suite.
+
+533
+00:37:28,187 --> 00:37:29,205
+Shaw a raison.
+
+534
+00:37:29,537 --> 00:37:32,197
+Je ferai que te ralentir.
+
+535
+00:37:32,477 --> 00:37:34,669
+Et pas que professionnellement.
+
+536
+00:37:35,686 --> 00:37:36,686
+Exact.
+
+537
+00:37:38,252 --> 00:37:40,216
+T'es sûre que c'est bon
+vis-à-vis d'Hannah ?
+
+538
+00:37:41,184 --> 00:37:43,494
+J'aurais pas dû t'en vouloir.
+
+539
+00:37:43,661 --> 00:37:45,213
+Elle est très bien...
+
+540
+00:37:46,620 --> 00:37:48,013
+Et Shaw et toi,
+
+541
+00:37:48,180 --> 00:37:50,184
+vous allez bien ensemble.
+
+542
+00:37:51,685 --> 00:37:52,728
+C'est écoeurant.
+
+543
+00:37:53,979 --> 00:37:55,273
+Mais réconfortant,
+
+544
+00:37:55,705 --> 00:37:56,804
+dans un sens.
+
+545
+00:38:01,021 --> 00:38:03,364
+Il t'a portée sur son dos,
+
+546
+00:38:03,894 --> 00:38:05,670
+alors que vous alliez mourir.
+
+547
+00:38:07,002 --> 00:38:10,037
+Si tu dois être avec quelqu'un,
+autant que ce soit avec un héros.
+
+548
+00:38:12,063 --> 00:38:14,375
+J'y peux rien, j'ai un type de mecs.
+
+549
+00:38:21,925 --> 00:38:22,925
+À plus tard.
+
+550
+00:38:46,043 --> 00:38:47,892
+- Bien, le code.
+- C'est vrai ?
+
+551
+00:38:48,782 --> 00:38:51,214
+- Où est Chuck ?
+- Il doit se terrer quelque part.
+
+552
+00:38:51,381 --> 00:38:54,290
+- T'es prête ?
+- Il est temps d'intervenir.
+
+553
+00:38:59,114 --> 00:39:00,421
+Que fait-il ici si tard ?
+
+554
+00:39:01,312 --> 00:39:03,588
+C'est le comportement
+dont je te parlais.
+
+555
+00:39:03,755 --> 00:39:05,009
+Ton frère...
+
+556
+00:39:05,259 --> 00:39:06,636
+agit bizarrement.
+
+557
+00:39:11,295 --> 00:39:12,517
+Les caméras...
+
+558
+00:39:13,267 --> 00:39:15,978
+On doit savoir
+ce qui se passe derrière cette porte.
+
+559
+00:39:17,802 --> 00:39:18,856
+C'est pour Chuck.
+
+560
+00:39:20,146 --> 00:39:21,149
+Pour Chuck.
+
+561
+00:39:21,559 --> 00:39:22,818
+- Toi, d'abord.
+- Toi.
+
+562
+00:39:40,989 --> 00:39:42,171
+Mon Dieu !
+
+563
+00:39:42,606 --> 00:39:44,215
+Chuck a une petite amie secrète.
+
+564
+00:39:44,465 --> 00:39:47,593
+Il tourne la page
+et il ne noie pas son chagrin
+
+565
+00:39:47,843 --> 00:39:49,348
+dans les jeux vidéo.
+
+566
+00:39:49,515 --> 00:39:51,076
+Je suis soulagée.
+
+567
+00:39:52,304 --> 00:39:53,691
+Quel soulagement !
+
+568
+00:40:08,656 --> 00:40:11,033
+Je m'en vais, vous venez ?
+
+569
+00:40:11,693 --> 00:40:13,160
+Non, j'ai un truc à finir.
+
+570
+00:40:14,013 --> 00:40:15,959
+J'ai plein de boulot, donc...
+
+571
+00:41:33,972 --> 00:41:35,743
+On sait que c'est dangereux.
+
+572
+00:41:37,293 --> 00:41:38,515
+Du calme, Sarah.
+
+573
+00:41:39,978 --> 00:41:41,668
+Tu es en sécurité avec moi.
+
+574
+00:41:55,919 --> 00:41:57,681
+Vous êtes sûr que c'était lui ?
+
+575
+00:41:57,931 --> 00:42:00,726
+Je ne peux me tromper,
+c'est bien Daniel Shaw.
+
+576
+00:42:03,989 --> 00:42:05,773
+Quel sort lui réservez-vous ?
+
+577
+00:42:07,235 --> 00:42:09,026
+Le même qu'à vous.
+

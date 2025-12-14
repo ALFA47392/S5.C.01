@@ -1,0 +1,1452 @@
+1
+00:00:25,242 --> 00:00:26,627
+<i>Paul, c'est April.</i>
+
+2
+00:00:27,158 --> 00:00:29,430
+<i>J'ai mes résultats d'analyse.</i>
+
+3
+00:00:30,025 --> 00:00:32,572
+<i>Je voudrais venir
+à une dernière séance.</i>
+
+4
+00:00:34,974 --> 00:00:36,324
+<i>À cet après-midi.</i>
+
+5
+00:00:45,170 --> 00:00:46,540
+<i>Paul, c'est April.</i>
+
+6
+00:00:46,909 --> 00:00:49,622
+<i>J'ai mes résultats d'analyse.</i>
+
+7
+00:00:50,990 --> 00:00:53,469
+<i>Je voudrais venir
+à une dernière séance.</i>
+
+8
+00:00:54,051 --> 00:00:55,722
+<i>À cet après-midi.</i>
+
+9
+00:01:13,781 --> 00:01:17,598
+April - Mardi 12 h
+
+10
+00:01:22,847 --> 00:01:24,084
+C'est mon chapeau ?
+
+11
+00:01:26,389 --> 00:01:28,505
+Il est très bien.
+
+12
+00:01:29,330 --> 00:01:30,674
+Il est moche.
+
+13
+00:01:33,915 --> 00:01:37,080
+D'après votre message,
+vous avez vos résultats...
+
+14
+00:01:37,247 --> 00:01:39,140
+Ça gratte à mort.
+
+15
+00:01:40,198 --> 00:01:41,685
+Enlevez-le si vous...
+
+16
+00:01:43,790 --> 00:01:45,320
+Daniel me l'a offert.
+
+17
+00:01:47,024 --> 00:01:49,275
+- Ah, vous lui avez dit...
+- Non, pas moi.
+
+18
+00:01:49,750 --> 00:01:50,750
+Ma mère.
+
+19
+00:01:52,925 --> 00:01:54,075
+J'avais peur.
+
+20
+00:01:54,426 --> 00:01:55,698
+De sa réaction ?
+
+21
+00:01:57,389 --> 00:02:00,453
+J'avais peur
+qu'il n'ait aucune réaction.
+
+22
+00:02:00,703 --> 00:02:04,328
+J'avais peur qu'il s'en aille
+
+23
+00:02:04,582 --> 00:02:07,436
+en parlant de stats de baseball
+ou je ne sais quoi.
+
+24
+00:02:09,205 --> 00:02:12,496
+À la mort de notre chien,
+il a rien remarqué.
+
+25
+00:02:13,064 --> 00:02:14,714
+Pourtant, il l'adorait.
+
+26
+00:02:15,518 --> 00:02:19,421
+Et trois mois après,
+comme la fille dans <i>L'Exorciste</i>,
+
+27
+00:02:19,588 --> 00:02:22,962
+il s'est mis à dire à tout le monde
+qu'ils allaient mourir.
+
+28
+00:02:23,173 --> 00:02:26,929
+Elle lui a dit avant ou après
+l'arrivée des résultats ?
+
+29
+00:02:27,321 --> 00:02:28,429
+Juste après.
+
+30
+00:02:28,941 --> 00:02:30,504
+Ils sont venus me visiter.
+
+31
+00:02:30,671 --> 00:02:32,686
+Ma mère m'a amené un gâteau
+
+32
+00:02:33,274 --> 00:02:34,946
+et Daniel, ce chapeau.
+
+33
+00:02:37,165 --> 00:02:38,700
+On aurait dit mon anniversaire.
+
+34
+00:02:38,950 --> 00:02:42,245
+Vous avez donc
+quelque chose à fêter ?
+
+35
+00:02:43,740 --> 00:02:44,622
+C'est bon.
+
+36
+00:02:45,639 --> 00:02:48,288
+Ma tumeur rétrécit.
+
+37
+00:02:49,171 --> 00:02:52,119
+Ça veut dire
+que le pronostic est bon.
+
+38
+00:02:56,345 --> 00:02:58,011
+En voilà, une bonne nouvelle !
+
+39
+00:02:58,261 --> 00:02:59,261
+Ça me...
+
+40
+00:03:01,229 --> 00:03:03,440
+soulage.
+Comment vous sentez-vous ?
+
+41
+00:03:06,359 --> 00:03:07,187
+Mitigée.
+
+42
+00:03:08,526 --> 00:03:11,554
+Mitigée ?
+Ça ne vous ressemble pas.
+
+43
+00:03:12,483 --> 00:03:13,785
+Ça fait bizarre.
+
+44
+00:03:13,995 --> 00:03:16,524
+Vous avez été surprise
+quand ils vous l'ont annoncé ?
+
+45
+00:03:16,905 --> 00:03:18,615
+Vous les avez crus ?
+
+46
+00:03:19,903 --> 00:03:21,234
+Vous vivez seul ?
+
+47
+00:03:23,884 --> 00:03:25,474
+Vous avez pas des enfants ?
+
+48
+00:03:25,641 --> 00:03:28,117
+Vous me l'aviez dit.
+
+49
+00:03:28,380 --> 00:03:29,380
+Exact.
+
+50
+00:03:31,169 --> 00:03:32,170
+Où sont-ils ?
+
+51
+00:03:32,896 --> 00:03:35,633
+Ils habitent chez leur mère.
+
+52
+00:03:37,004 --> 00:03:38,957
+Vous avez pas réussi de votre côté,
+
+53
+00:03:39,268 --> 00:03:40,715
+tout en étant thérapeute.
+
+54
+00:03:41,868 --> 00:03:45,058
+Voilà pourquoi les thérapeutes
+ne parlent pas de leur vie.
+
+55
+00:03:49,299 --> 00:03:50,952
+Kyle et Sienna ont rompu.
+
+56
+00:03:52,377 --> 00:03:54,425
+- Quand ?
+- La semaine dernière.
+
+57
+00:03:56,550 --> 00:03:57,908
+Il m'a invitée à diner.
+
+58
+00:03:58,075 --> 00:04:00,741
+Il m'a offert ce collier.
+
+59
+00:04:01,324 --> 00:04:03,173
+C'est une espèce de bréchet
+
+60
+00:04:03,975 --> 00:04:05,537
+accroché à une chaîne en soie,
+
+61
+00:04:06,783 --> 00:04:09,194
+qui est censé se casser, et...
+
+62
+00:04:09,864 --> 00:04:12,417
+à ce moment-là, faut faire un voeu.
+
+63
+00:04:13,320 --> 00:04:14,937
+Et que sera votre voeu ?
+
+64
+00:04:16,359 --> 00:04:19,551
+On a passé deux ans ensemble
+et il m'a jamais offert de bijou.
+
+65
+00:04:21,471 --> 00:04:22,921
+Qu'en pensez-vous ?
+
+66
+00:04:24,923 --> 00:04:26,308
+Qu'il culpabilise.
+
+67
+00:04:27,220 --> 00:04:28,542
+C'est possible.
+
+68
+00:04:29,794 --> 00:04:33,940
+Vous allez sans doute me dire
+qu'il veut me montrer qu'il tient à moi.
+
+69
+00:04:34,254 --> 00:04:36,816
+C'est une autre possibilité.
+
+70
+00:04:42,282 --> 00:04:43,506
+C'est trop tard.
+
+71
+00:04:44,516 --> 00:04:45,410
+Pourquoi ?
+
+72
+00:04:46,609 --> 00:04:47,719
+Il reste rien.
+
+73
+00:04:49,704 --> 00:04:50,853
+Vous voulez dire
+
+74
+00:04:51,353 --> 00:04:54,657
+qu'il ne vous reste plus
+de sentiments pour lui ?
+
+75
+00:04:55,591 --> 00:04:57,231
+La fille qu'il aimait,
+
+76
+00:04:57,398 --> 00:05:01,398
+la fille qu'il croit aimer...
+
+77
+00:05:03,529 --> 00:05:05,054
+Elle n'existe plus.
+
+78
+00:05:06,620 --> 00:05:09,517
+Même si mes cheveux repoussent
+et que je suis en rémission,
+
+79
+00:05:09,767 --> 00:05:12,362
+maintenant, je devrai dire
+à tous ceux que je croise
+
+80
+00:05:12,703 --> 00:05:14,421
+que j'ai eu un cancer.
+
+81
+00:05:14,671 --> 00:05:15,671
+Pourquoi ?
+
+82
+00:05:16,562 --> 00:05:17,700
+C'est la vérité.
+
+83
+00:05:17,867 --> 00:05:21,687
+Donc pour vous, le cancer a effacé
+tout ce qui s'est passé avant
+
+84
+00:05:21,854 --> 00:05:24,407
+et l'ancienne April a disparu ?
+
+85
+00:05:26,885 --> 00:05:29,739
+J'étais assise en face de Kyle
+
+86
+00:05:31,336 --> 00:05:33,041
+et j'aurais pu le ramener chez moi.
+
+87
+00:05:34,193 --> 00:05:35,741
+Même sans mes cheveux.
+
+88
+00:05:38,097 --> 00:05:39,189
+Il me manque.
+
+89
+00:05:40,275 --> 00:05:43,073
+Mais l'idée de dormir avec lui,
+
+90
+00:05:43,843 --> 00:05:46,862
+de me déshabiller,
+de le laisser me toucher...
+
+91
+00:05:49,704 --> 00:05:53,516
+Ça me dégoûte.
+Je veux plus jamais le faire.
+
+92
+00:05:54,062 --> 00:05:56,089
+Vous ressentez ça maintenant,
+mais ça passera.
+
+93
+00:05:56,256 --> 00:05:57,899
+Qui ne veut pas de sexe ?
+
+94
+00:05:58,241 --> 00:06:01,022
+Vous voyez ?
+Il reste rien, je suis morte.
+
+95
+00:06:01,189 --> 00:06:02,533
+Vous n'êtes pas morte.
+
+96
+00:06:02,700 --> 00:06:05,677
+Vous êtes en convalescence.
+
+97
+00:06:06,521 --> 00:06:10,328
+Pour l'instant, vous êtes assez forte
+pour une chose : guérir.
+
+98
+00:06:11,559 --> 00:06:12,622
+Vous avez raison.
+
+99
+00:06:15,690 --> 00:06:18,419
+- Quoi ?
+- Vous ne l'aviez encore jamais dit.
+
+100
+00:06:20,755 --> 00:06:22,465
+C'est mon cadeau d'adieu.
+
+101
+00:06:24,032 --> 00:06:26,783
+C'est votre façon
+de me rappeler votre message,
+
+102
+00:06:28,340 --> 00:06:30,303
+que c'est la dernière séance ?
+
+103
+00:06:33,896 --> 00:06:36,788
+N'essayez pas
+de me persuader de rester.
+
+104
+00:06:36,989 --> 00:06:39,235
+Il est simplement important
+pour votre guérison
+
+105
+00:06:39,402 --> 00:06:42,653
+de parler
+de tous vos autres problèmes.
+
+106
+00:06:42,820 --> 00:06:45,363
+- J'ai pas envie.
+- Je le sais,
+
+107
+00:06:45,751 --> 00:06:48,849
+mais vous recommencez, April.
+On a pourtant travaillé sur ça.
+
+108
+00:06:49,016 --> 00:06:50,759
+Vous me repoussez.
+
+109
+00:06:51,118 --> 00:06:53,005
+Laissez-moi vous aider.
+
+110
+00:06:53,371 --> 00:06:54,732
+- Je peux pas.
+- Mais si.
+
+111
+00:06:54,899 --> 00:06:57,828
+J'aimerais organiser des séances
+avec vos parents,
+
+112
+00:06:57,995 --> 00:07:01,113
+qu'ils participent à la thérapie,
+peut-être amener aussi Daniel.
+
+113
+00:07:01,280 --> 00:07:02,795
+Arrêtez, j'ai dit non.
+
+114
+00:07:02,962 --> 00:07:06,030
+- Votre mère et Daniel...
+- Mais ferme-la, espèce de connard.
+
+115
+00:07:26,466 --> 00:07:27,666
+Tout va bien ?
+
+116
+00:07:30,142 --> 00:07:31,983
+Je devais aller me gratter la tête.
+
+117
+00:07:36,043 --> 00:07:37,043
+Pardon.
+
+118
+00:07:37,437 --> 00:07:38,804
+Ne vous excusez pas.
+
+119
+00:07:39,759 --> 00:07:42,754
+Pourquoi je dois pas m'excuser ?
+Parce que je suis malade ?
+
+120
+00:07:43,124 --> 00:07:44,554
+Je suis votre thérapeute.
+
+121
+00:07:44,875 --> 00:07:45,875
+Et alors ?
+
+122
+00:07:46,294 --> 00:07:47,414
+Vous êtes humain.
+
+123
+00:07:47,581 --> 00:07:50,678
+On vous traite de connard
+et vous vous en fichez ?
+
+124
+00:07:51,670 --> 00:07:53,455
+Je vous ai dit le premier jour
+
+125
+00:07:53,681 --> 00:07:56,726
+que je ne voulais pas
+que vous vous occupiez de mon ressenti.
+
+126
+00:07:56,976 --> 00:07:59,064
+C'est quoi,
+l'intérêt d'une thérapie, alors ?
+
+127
+00:07:59,231 --> 00:08:01,207
+Apprendre aux gens
+à être égocentrique ?
+
+128
+00:08:01,374 --> 00:08:04,400
+Vous pensez vraiment
+que j'ai besoin d'aide à ce niveau ?
+
+129
+00:08:07,430 --> 00:08:08,923
+Vous voulez vous asseoir ?
+
+130
+00:08:27,903 --> 00:08:32,049
+Votre réaction tient peut-être du fait
+qu'une partie de vous veut partir,
+
+131
+00:08:32,216 --> 00:08:35,056
+mais peut-être avez-vous réagi
+violemment car...
+
+132
+00:08:35,846 --> 00:08:40,090
+alors qu'une partie de vous veut partir,
+une autre partie se rend compte
+
+133
+00:08:40,484 --> 00:08:42,814
+qu'on accomplit
+quelque chose d'important ici.
+
+134
+00:08:43,864 --> 00:08:45,543
+Je pourrais être parfaite.
+
+135
+00:08:46,306 --> 00:08:48,400
+Je pourrais atteindre le nirvana.
+
+136
+00:08:49,897 --> 00:08:52,657
+Et je pourrais me réveiller demain
+avec une boule dans un sein.
+
+137
+00:08:54,148 --> 00:08:56,279
+Vous vous demandez
+quel est l'intérêt.
+
+138
+00:08:58,815 --> 00:09:00,164
+Quel est l'intérêt ?
+
+139
+00:09:05,265 --> 00:09:06,674
+Vous n'avez qu'à l'enlever.
+
+140
+00:09:10,193 --> 00:09:11,443
+J'ai pas envie.
+
+141
+00:09:12,577 --> 00:09:15,260
+Et j'ai pas envie de parler
+du pourquoi,
+
+142
+00:09:15,427 --> 00:09:19,259
+ni pourquoi Daniel m'a offert
+le mauvais chapeau,
+
+143
+00:09:19,426 --> 00:09:23,354
+ni pourquoi je ne veux pas
+que vous me voyez chauve.
+
+144
+00:09:24,225 --> 00:09:26,023
+- Je comprends.
+- Au contraire !
+
+145
+00:09:28,173 --> 00:09:29,223
+C'est vrai.
+
+146
+00:09:37,018 --> 00:09:38,327
+J'ai arrêté les études.
+
+147
+00:09:39,775 --> 00:09:40,775
+Quand ?
+
+148
+00:09:41,521 --> 00:09:42,864
+La semaine dernière.
+
+149
+00:09:44,909 --> 00:09:46,461
+C'est à cause de la chimio ?
+
+150
+00:09:47,796 --> 00:09:50,423
+Mais vous avez presque fini.
+Vous ne voulez pas être diplômée ?
+
+151
+00:09:52,280 --> 00:09:54,582
+Je serai jamais architecte
+de toute façon.
+
+152
+00:09:54,749 --> 00:09:57,542
+- Pourquoi dites-vous ça ?
+- Ma maquette, c'était de la merde.
+
+153
+00:09:57,709 --> 00:09:59,190
+Je ne suis pas d'accord.
+
+154
+00:10:00,344 --> 00:10:01,642
+Ça ne fait rien.
+
+155
+00:10:01,892 --> 00:10:04,671
+Je suis trop à la bourre,
+je peux plus rattraper mon retard.
+
+156
+00:10:05,185 --> 00:10:07,764
+En fait, vous n'avez pas manqué
+tant de cours que ça.
+
+157
+00:10:08,209 --> 00:10:10,240
+Je suis sûr
+que l'école s'arrangerait...
+
+158
+00:10:10,407 --> 00:10:12,528
+J'y allais même pas pour moi.
+
+159
+00:10:12,791 --> 00:10:14,359
+J'y allais pour ma mère.
+
+160
+00:10:14,699 --> 00:10:17,273
+Elle a flippé quand j'ai fini la fac
+
+161
+00:10:17,440 --> 00:10:19,346
+parce que je n'avais pas de plan.
+
+162
+00:10:20,801 --> 00:10:23,583
+Elle voulait
+que j'obtienne un meilleur diplôme
+
+163
+00:10:23,750 --> 00:10:25,791
+pour ne pas avoir à s'inquiéter
+pour moi.
+
+164
+00:10:26,825 --> 00:10:29,026
+Parce que j'étais
+sur le chemin du succès.
+
+165
+00:10:30,198 --> 00:10:31,172
+Elle disait :
+
+166
+00:10:31,907 --> 00:10:35,747
+"Une mère n'est aussi heureuse
+que son enfant le moins heureux."
+
+167
+00:10:36,849 --> 00:10:39,430
+Puis elle regardait Daniel
+et soupirait.
+
+168
+00:10:40,284 --> 00:10:41,448
+Et je me disais :
+
+169
+00:10:42,877 --> 00:10:44,977
+"Tu regardes le mauvais gamin,
+ma grande."
+
+170
+00:10:54,087 --> 00:10:55,589
+Admettons...
+
+171
+00:10:56,931 --> 00:10:58,838
+que vous voulez vraiment
+faire une pause.
+
+172
+00:10:59,005 --> 00:11:01,494
+Pourquoi ne pas juste prendre
+une année sabbatique ?
+
+173
+00:11:02,409 --> 00:11:03,789
+Je n'y retournerai pas.
+
+174
+00:11:05,195 --> 00:11:09,175
+Vous ne coupez donc pas les liens
+qu'avec moi, mais avec tout.
+
+175
+00:11:09,379 --> 00:11:10,795
+Je suis censée faire quoi ?
+
+176
+00:11:12,403 --> 00:11:15,492
+M'asseoir dans une salle de classe ?
+Lécher le cul de mes profs ?
+
+177
+00:11:15,707 --> 00:11:18,111
+Sniffer de la Ritalin avec mes amis ?
+Vraiment ?
+
+178
+00:11:19,342 --> 00:11:20,471
+J'ai un cancer.
+
+179
+00:11:21,529 --> 00:11:23,670
+J'ai 23 ans et j'ai un cancer.
+
+180
+00:11:24,266 --> 00:11:26,380
+Comment je suis censée
+faire mieux que ça ?
+
+181
+00:11:27,833 --> 00:11:29,772
+Qu'est-ce que je fais, maintenant ?
+
+182
+00:11:30,977 --> 00:11:34,724
+Si vous pouviez aller où vous voulez,
+n'importe où, où iriez-vous ?
+
+183
+00:11:40,793 --> 00:11:41,993
+Dans le passé.
+
+184
+00:11:42,671 --> 00:11:44,614
+- Vous voulez dire chez vous ?
+- Oui.
+
+185
+00:11:47,493 --> 00:11:51,752
+Mais ça remonte à tellement longtemps
+et c'est loin, non ?
+
+186
+00:11:53,586 --> 00:11:54,880
+Vous vous souvenez ?
+
+187
+00:12:00,514 --> 00:12:03,903
+Il y a ces fermes organiques
+partout dans le monde.
+
+188
+00:12:05,149 --> 00:12:08,144
+Vous êtes logé et nourri gratuit
+si vous travaillez pour eux.
+
+189
+00:12:09,122 --> 00:12:12,113
+Je pensais faire la tournée
+de ces fermes.
+
+190
+00:12:12,962 --> 00:12:14,427
+Pendant combien de temps ?
+
+191
+00:12:15,139 --> 00:12:16,389
+Je ne sais pas.
+
+192
+00:12:17,571 --> 00:12:19,801
+Jusqu'à ce que j'oublie mon nom.
+
+193
+00:12:22,096 --> 00:12:24,295
+À moins que
+vous ne soyez frappée d'amnésie,
+
+194
+00:12:24,462 --> 00:12:27,538
+c'est très peu probable
+que ça arrive.
+
+195
+00:12:29,999 --> 00:12:32,140
+Il y avait une fille en chimio
+avec moi.
+
+196
+00:12:33,257 --> 00:12:35,088
+Elle avait à peu près mon âge.
+
+197
+00:12:35,736 --> 00:12:37,184
+Elle s'appelait Lyric...
+
+198
+00:12:37,950 --> 00:12:39,241
+Lyric Merriman.
+
+199
+00:12:40,913 --> 00:12:42,548
+C'était un si beau nom.
+
+200
+00:12:44,692 --> 00:12:46,034
+Elle n'a pas survécu ?
+
+201
+00:12:50,368 --> 00:12:51,354
+Elle est morte.
+
+202
+00:12:52,476 --> 00:12:53,490
+Désolé.
+
+203
+00:12:54,801 --> 00:12:57,606
+La dernière fois que je l'ai vue,
+on était assise côte à côte
+
+204
+00:12:57,773 --> 00:12:59,348
+avec nos intraveineuses.
+
+205
+00:13:00,829 --> 00:13:04,181
+On aurait dit
+qu'elle gribouillait son bloc-notes.
+
+206
+00:13:05,454 --> 00:13:08,736
+Je me suis penchée
+pour regarder, et...
+
+207
+00:13:15,418 --> 00:13:16,817
+Elle écrivait son nom.
+
+208
+00:13:19,418 --> 00:13:20,843
+Encore et encore.
+
+209
+00:13:21,925 --> 00:13:23,359
+De plusieurs façons.
+
+210
+00:13:24,849 --> 00:13:26,051
+Juste son nom.
+
+211
+00:13:27,672 --> 00:13:29,850
+Elle avait peut-être peur
+d'être oubliée.
+
+212
+00:13:32,686 --> 00:13:35,042
+C'est difficile
+d'être celle qui survit.
+
+213
+00:13:39,160 --> 00:13:40,528
+J'ai pas envie.
+
+214
+00:13:41,132 --> 00:13:42,183
+De survivre ?
+
+215
+00:13:45,184 --> 00:13:46,151
+Ça...
+
+216
+00:13:47,379 --> 00:13:49,416
+a l'air tellement pénible.
+
+217
+00:13:51,304 --> 00:13:52,206
+De vivre ?
+
+218
+00:13:54,959 --> 00:13:57,837
+Est-ce que vivre vous paraissait pénible
+avant votre maladie ?
+
+219
+00:14:02,621 --> 00:14:04,410
+Il y avait ce chemin tout tracé.
+
+220
+00:14:05,888 --> 00:14:07,888
+Et il était...
+
+221
+00:14:09,724 --> 00:14:12,512
+Il était raide et fatigant,
+
+222
+00:14:12,679 --> 00:14:14,188
+mais il était...
+
+223
+00:14:15,485 --> 00:14:16,480
+bien éclairé.
+
+224
+00:14:17,594 --> 00:14:20,233
+- Mais il n'est plus là.
+- Il a complètement disparu.
+
+225
+00:14:23,205 --> 00:14:24,858
+Est-ce que j'ai tout inventé ?
+
+226
+00:14:26,490 --> 00:14:28,507
+Vous avez été redirigée, c'est tout.
+
+227
+00:14:29,696 --> 00:14:31,447
+Le chemin de votre vie a changé
+
+228
+00:14:32,883 --> 00:14:34,188
+sans votre accord.
+
+229
+00:14:38,002 --> 00:14:39,712
+Ça doit être dur à accepter.
+
+230
+00:14:44,118 --> 00:14:46,155
+Ce que vous ressentez est normal.
+
+231
+00:14:46,408 --> 00:14:49,096
+C'est parfaitement logique.
+
+232
+00:14:49,346 --> 00:14:51,934
+Mais vous allez grandir.
+
+233
+00:14:52,933 --> 00:14:56,549
+Vous allez retrouver l'amour
+et avoir des enfants si vous le voulez.
+
+234
+00:14:57,479 --> 00:14:59,191
+Vous vivrez des aventures.
+
+235
+00:14:59,358 --> 00:15:02,067
+- Vous serez heureuse.
+- Vous en saviez rien
+
+236
+00:15:02,402 --> 00:15:03,802
+et j'en sais rien.
+
+237
+00:15:03,969 --> 00:15:06,371
+Non, bien sûr qu'on ne le sait pas.
+Mais parfois,
+
+238
+00:15:06,727 --> 00:15:09,492
+il faut faire comme si on le savait.
+
+239
+00:15:10,147 --> 00:15:11,658
+Ça va pas le faire.
+
+240
+00:15:12,485 --> 00:15:14,455
+Écoutez, le pire est derrière vous.
+
+241
+00:15:14,705 --> 00:15:17,875
+Vous ne le voyez pas, mais vous avez
+déjà commencé à sortir du gouffre.
+
+242
+00:15:28,510 --> 00:15:29,720
+Ça va ?
+
+243
+00:15:47,688 --> 00:15:49,862
+Je vais être seule toute ma vie.
+
+244
+00:15:50,923 --> 00:15:52,324
+Pourquoi dites-vous ça ?
+
+245
+00:15:52,491 --> 00:15:53,581
+C'est juste...
+
+246
+00:15:54,747 --> 00:15:57,331
+une sorte de pressentiment.
+Une prémonition.
+
+247
+00:15:58,053 --> 00:15:59,522
+Je ne m'imagine pas
+
+248
+00:16:00,334 --> 00:16:02,084
+aimer une autre personne.
+
+249
+00:16:03,397 --> 00:16:05,574
+J'ignore comment j'ai fait
+la première fois.
+
+250
+00:16:07,691 --> 00:16:08,954
+C'est épuisant.
+
+251
+00:16:11,160 --> 00:16:12,301
+Je comprends.
+
+252
+00:16:14,254 --> 00:16:16,874
+Moi, j'ai un cancer.
+Vous, c'est quoi, votre prétexte ?
+
+253
+00:16:17,775 --> 00:16:20,477
+Je n'ai plus 23 ans.
+
+254
+00:16:28,292 --> 00:16:30,508
+Hier soir, je suis retournée
+sur votre page.
+
+255
+00:16:31,316 --> 00:16:32,316
+Ma quoi ?
+
+256
+00:16:33,095 --> 00:16:34,034
+Votre page,
+
+257
+00:16:34,577 --> 00:16:35,724
+sur internet,
+
+258
+00:16:35,891 --> 00:16:38,282
+où on peut laisser des commentaires
+sur vous.
+
+259
+00:16:38,747 --> 00:16:42,334
+Ah oui, mon site internet
+tout triste et désert.
+
+260
+00:16:42,606 --> 00:16:44,239
+Sauf qu'il n'est plus désert.
+
+261
+00:16:45,035 --> 00:16:46,645
+On a laissé un commentaire...
+
+262
+00:16:46,812 --> 00:16:48,799
+Une certaine Sophie.
+
+263
+00:16:49,452 --> 00:16:50,936
+C'était votre patiente ?
+
+264
+00:16:53,660 --> 00:16:57,726
+Je ne suis pas autorisé
+à parler de mes autres patients.
+
+265
+00:16:58,457 --> 00:16:59,560
+Même avec moi ?
+
+266
+00:17:05,289 --> 00:17:06,942
+Elle a dit que vous l'avez sauvée.
+
+267
+00:17:09,855 --> 00:17:11,769
+Vous devriez aller y faire un tour.
+
+268
+00:17:12,910 --> 00:17:15,151
+Elle dit beaucoup de bien sur vous.
+
+269
+00:17:17,470 --> 00:17:18,719
+Elle est à la fac.
+
+270
+00:17:18,990 --> 00:17:20,247
+Elle a l'air heureuse.
+
+271
+00:17:21,093 --> 00:17:22,504
+J'irai voir.
+
+272
+00:17:24,512 --> 00:17:25,512
+Merci.
+
+273
+00:17:26,178 --> 00:17:27,375
+Merci de l'info.
+
+274
+00:17:35,028 --> 00:17:36,639
+Vous m'avez grandement aidée.
+
+275
+00:17:37,810 --> 00:17:41,148
+April, je n'ai pas fait grand-chose.
+
+276
+00:17:41,697 --> 00:17:44,439
+Je vous ai conduite à la chimio.
+Je l'ai dit à votre mère.
+
+277
+00:17:44,893 --> 00:17:47,024
+Le reste, vous êtes responsable.
+
+278
+00:17:47,274 --> 00:17:50,096
+- Laissez-moi vous remercier.
+- Mais l'important est que vous voyiez
+
+279
+00:17:50,263 --> 00:17:52,779
+que vous vous êtes assumée
+
+280
+00:17:53,339 --> 00:17:54,448
+en me consultant.
+
+281
+00:17:54,698 --> 00:17:56,391
+Laissez-moi vous remercier.
+
+282
+00:17:58,320 --> 00:18:00,162
+Et ensuite, laissez-moi partir.
+
+283
+00:18:02,218 --> 00:18:04,359
+Vous êtes certaine ?
+
+284
+00:18:05,677 --> 00:18:09,452
+On a accompli tant de choses ici.
+
+285
+00:18:10,945 --> 00:18:14,510
+Vous n'êtes plus la même personne
+qui est venue deux mois plus tôt.
+
+286
+00:18:15,259 --> 00:18:17,715
+Je suis venue avec un cancer,
+je repars avec un cancer.
+
+287
+00:18:17,882 --> 00:18:19,700
+Je ne parle pas de ça, April.
+
+288
+00:18:20,265 --> 00:18:23,185
+Vous regorgiez de colère
+à votre arrivée.
+
+289
+00:18:23,435 --> 00:18:26,630
+- Je suis toujours en colère.
+- Oui, mais aujourd'hui, vous en parlez.
+
+290
+00:18:27,019 --> 00:18:28,190
+Au début,
+
+291
+00:18:28,440 --> 00:18:31,026
+vous ne conceviez pas
+qu'on puisse vous faire du mal.
+
+292
+00:18:31,276 --> 00:18:32,982
+Aujourd'hui, tout me fait mal.
+
+293
+00:18:33,667 --> 00:18:34,982
+La pluie me fait mal.
+
+294
+00:18:35,149 --> 00:18:37,324
+J'ai l'impression
+de ne pas avoir de peau.
+
+295
+00:18:38,418 --> 00:18:40,708
+Thérapeutiquement parlant,
+
+296
+00:18:41,428 --> 00:18:43,872
+c'est bon signe.
+
+297
+00:18:46,802 --> 00:18:50,754
+Vous avez beaucoup appris sur vous,
+appris à faire confiance et accepter,
+
+298
+00:18:51,004 --> 00:18:53,865
+à ne pas vouloir
+être perfaite en tout.
+
+299
+00:18:54,032 --> 00:18:56,010
+C'est difficile de le voir là,
+mais...
+
+300
+00:18:56,419 --> 00:18:59,689
+la connaissance de soi a un avantage,
+c'est qu'une fois qu'on l'a...
+
+301
+00:19:00,515 --> 00:19:01,588
+... on l'a.
+
+302
+00:19:01,755 --> 00:19:05,310
+Et vous ne pouvez pas
+vous empêcher de l'utiliser.
+
+303
+00:19:08,719 --> 00:19:11,150
+Vous avez encore
+des épreuves à venir,
+
+304
+00:19:11,467 --> 00:19:14,841
+c'est pourquoi vous devriez continuer
+de consulter quelqu'un.
+
+305
+00:19:15,172 --> 00:19:17,023
+Peut-être, mais pas vous.
+
+306
+00:19:18,406 --> 00:19:19,641
+C'est pas possible.
+
+307
+00:19:20,283 --> 00:19:22,244
+Parce que je vous ai conduite
+à la chimio ?
+
+308
+00:19:22,494 --> 00:19:24,705
+Parce que vous m'avez sauvé la vie.
+
+309
+00:19:31,175 --> 00:19:33,464
+Vous voulez
+que je vous renvoie à un autre psy ?
+
+310
+00:19:33,954 --> 00:19:35,365
+Plus tard, peut-être.
+
+311
+00:19:35,717 --> 00:19:37,473
+Pas maintenant.
+Là...
+
+312
+00:19:38,860 --> 00:19:41,638
+J'ai juste envie de souffler
+et de guérir.
+
+313
+00:19:42,618 --> 00:19:44,683
+Je suis content de l'entendre.
+
+314
+00:19:46,037 --> 00:19:48,253
+Les gens survivent sans thérapie.
+
+315
+00:19:49,299 --> 00:19:51,085
+C'est difficile à entendre,
+
+316
+00:19:53,442 --> 00:19:54,693
+mais ça doit être vrai.
+
+317
+00:20:00,699 --> 00:20:02,162
+Attendez, bougez pas...
+
+318
+00:20:22,244 --> 00:20:25,160
+Il doit être plus confortable
+pour votre tête...
+
+319
+00:20:26,210 --> 00:20:28,576
+- C'est du cuir.
+- Il est magnifique.
+
+320
+00:20:29,534 --> 00:20:31,146
+Il appartenait à mon père.
+
+321
+00:20:32,251 --> 00:20:33,847
+Bien, gardez-le.
+
+322
+00:20:34,232 --> 00:20:35,532
+C'est pour vous.
+
+323
+00:20:35,947 --> 00:20:37,197
+Vous êtes sûr ?
+
+324
+00:20:42,991 --> 00:20:44,952
+- Je peux l'essayer ?
+- Bien sûr.
+
+325
+00:21:09,711 --> 00:21:11,636
+Ma mère va adorer.
+
+326
+00:21:12,351 --> 00:21:15,274
+Elle s'habille beaucoup
+comme Amelia Earhart.
+
+327
+00:21:15,865 --> 00:21:18,771
+Elle aime bien les vestes en cuir
+et les écharpes en soie.
+
+328
+00:21:18,938 --> 00:21:20,689
+Je croyais qu'elle aimait Cuba.
+
+329
+00:21:21,154 --> 00:21:22,536
+Elle est compliquée...
+
+330
+00:21:26,267 --> 00:21:28,370
+Tout n'est pas noir et blanc, Paul.
+
+331
+00:21:28,620 --> 00:21:30,205
+Je tâcherai de m'en souvenir.
+
+332
+00:21:38,919 --> 00:21:40,269
+Je vous remercie.
+

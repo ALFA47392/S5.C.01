@@ -1,0 +1,2663 @@
+1
+00:00:00,867 --> 00:00:02,168
+PRECEDEMMENT DANS
+
+2
+00:00:03,253 --> 00:00:05,630
+Alerte "Agent en danger".
+C'est le portable de Dom.
+
+3
+00:00:05,756 --> 00:00:07,217
+Dom est porté disparu, pas mort.
+
+4
+00:00:07,259 --> 00:00:09,976
+Faites tout ce que vous avez
+à faire pour le trouver.
+
+5
+00:00:10,101 --> 00:00:11,719
+J'ai donné une nouvelle vie à Moe.
+
+6
+00:00:11,887 --> 00:00:13,554
+Tout ce que tu m'as dit
+est mensonge.
+
+7
+00:00:13,806 --> 00:00:15,447
+- Au revoir, monsieur.
+- Moe...
+
+8
+00:01:15,878 --> 00:01:18,559
+.: Team UnderCovers :.
+
+9
+00:01:28,797 --> 00:01:31,325
+NCIS Los Angeles 1x21
+- Found -
+
+10
+00:02:01,172 --> 00:02:03,539
+<i>Kensi, on a quelque chose.
+Tu peux venir vite ?</i>
+
+11
+00:02:03,891 --> 00:02:05,250
+<i>Tu peux traduire ça ?</i>
+
+12
+00:02:09,492 --> 00:02:10,887
+<i>Ceci devrait être traduit.</i>
+
+13
+00:02:18,855 --> 00:02:22,594
+<i>G, on a une piste. Viens tout de suite.
+On a reçu une vidéo.</i>
+
+14
+00:02:22,805 --> 00:02:23,559
+Quand ?
+
+15
+00:02:24,750 --> 00:02:25,950
+On sait quoi ?
+
+16
+00:02:25,992 --> 00:02:28,439
+Ceci est apparu
+sur un site jihadiste connu,
+
+17
+00:02:28,815 --> 00:02:30,293
+il y a moins d'une heure.
+
+18
+00:02:31,629 --> 00:02:33,363
+L'empire maléfique de l'Occident
+
+19
+00:02:33,778 --> 00:02:35,822
+se cache derrière
+ses mensonges de paix
+
+20
+00:02:36,200 --> 00:02:37,817
+et ses Nations Unies...
+
+21
+00:02:38,366 --> 00:02:39,797
+L'armée infidèle
+
+22
+00:02:39,985 --> 00:02:41,965
+conçue uniquement
+pour détruire l'Islam
+
+23
+00:02:42,106 --> 00:02:43,805
+et le monde musulman.
+
+24
+00:02:43,975 --> 00:02:47,560
+Si vous ne relâchez pas notre frère
+Ala El Din Keshwar, indûment accusé,
+
+25
+00:02:47,995 --> 00:02:49,669
+sous 24 heures...
+
+26
+00:02:52,424 --> 00:02:53,881
+cet homme sera exécuté.
+
+27
+00:03:01,472 --> 00:03:03,792
+Ça semble avoir été mis en ligne
+dans un cybercafé
+
+28
+00:03:03,834 --> 00:03:06,310
+- de Rabat, au Maroc.
+- Décortique-moi cette vidéo.
+
+29
+00:03:06,605 --> 00:03:08,550
+Je veux toutes les données
+audio et vidéo,
+
+30
+00:03:08,691 --> 00:03:11,190
+empreinte vocale, la totale.
+Identifie tout ce qu'on voit,
+
+31
+00:03:11,274 --> 00:03:13,276
+leurs habits, le bruit de fond.
+
+32
+00:03:13,589 --> 00:03:16,261
+Envoie des copies au FBI, à la NSA,
+tous ceux qui peuvent aider.
+
+33
+00:03:18,318 --> 00:03:21,033
+Kensi, trouve qui sont ces gens.
+Où sont-ils basés ?
+
+34
+00:03:21,117 --> 00:03:22,640
+Qui les financent ?
+
+35
+00:03:22,682 --> 00:03:25,136
+Rassemble ce que tu peux
+sur ce Ala El Din Keshwar
+
+36
+00:03:25,178 --> 00:03:27,023
+- et informe le directeur Vance.
+- OK.
+
+37
+00:03:27,065 --> 00:03:29,354
+- Et pour les parents de Dom ?
+- Oui ?
+
+38
+00:03:29,699 --> 00:03:31,117
+On devrait pas les avertir ?
+
+39
+00:03:31,159 --> 00:03:33,629
+Pour dire quoi, "Il n'est pas mort,
+mais il va être exécuté" ?
+
+40
+00:03:33,755 --> 00:03:35,699
+Au moins, ils pourraient prier.
+
+41
+00:03:35,741 --> 00:03:38,090
+- Ils doivent connaître la vérité.
+- Nate s'en charge.
+
+42
+00:03:38,512 --> 00:03:42,263
+Avec de la chance, avant qu'on puisse
+leur parler, il sera sain et sauf.
+
+43
+00:03:42,649 --> 00:03:44,181
+Il nous faut un transport.
+
+44
+00:03:44,265 --> 00:03:47,500
+On pourra rassembler
+une équipe de base une fois sur place.
+
+45
+00:03:47,652 --> 00:03:51,147
+Sur place où ?
+On ne sait même pas où il est.
+
+46
+00:03:51,596 --> 00:03:54,244
+Non, mais une fois dans l'avion,
+on peut atterrir où on veut,
+
+47
+00:03:54,286 --> 00:03:57,740
+au Moyen Orient ou en Afrique du Nord
+dès qu'on trouve qui est Ala El Din,
+
+48
+00:03:57,782 --> 00:03:59,677
+qui retient Dom, et où.
+
+49
+00:03:59,719 --> 00:04:02,104
+Et si, au milieu de l'Atlantique,
+
+50
+00:04:02,257 --> 00:04:05,202
+on s'aperçoit qu'il est
+aux Philippines ou en Indonésie ?
+
+51
+00:04:12,245 --> 00:04:14,976
+- Ça fait deux mois qu'ils l'ont, G.
+- Il avait l'air fort.
+
+52
+00:04:18,133 --> 00:04:19,842
+Il avait l'air de tenir le coup.
+
+53
+00:04:21,456 --> 00:04:24,492
+Tout ce temps, et on ne sait pas
+qui l'a enlevé ni pourquoi,
+
+54
+00:04:24,726 --> 00:04:26,724
+ni ce qu'ils espéraient
+tirer d'un bleu.
+
+55
+00:04:27,527 --> 00:04:29,894
+C'est peut-être
+un otage d'opportunité.
+
+56
+00:04:30,140 --> 00:04:33,397
+Ils ont envoyé des Colombiens.
+Ils ont pris des pros.
+
+57
+00:04:34,821 --> 00:04:36,720
+Quelqu'un voudrait
+s'en prendre à nous ?
+
+58
+00:04:37,589 --> 00:04:38,843
+S'ils ont Dom,
+
+59
+00:04:39,171 --> 00:04:40,576
+c'est déjà fait.
+
+60
+00:04:43,537 --> 00:04:45,447
+Vous ne me donnez que des excuses,
+
+61
+00:04:45,489 --> 00:04:47,828
+et je n'ai pas
+le temps pour ça, Dick.
+
+62
+00:04:48,084 --> 00:04:48,983
+Monty,
+
+63
+00:04:49,724 --> 00:04:51,207
+vous me le devez, n'est-ce pas ?
+
+64
+00:04:51,291 --> 00:04:52,291
+Bougez-vous.
+
+65
+00:05:02,719 --> 00:05:06,449
+Écoutez bien, bande de bureaucrates
+eunuques et mollassons.
+
+66
+00:05:06,639 --> 00:05:09,976
+Je veux une pleine coopération
+de la part de vos agences
+
+67
+00:05:10,254 --> 00:05:12,061
+et un accès illimité
+
+68
+00:05:12,145 --> 00:05:13,583
+à l'espace aérien tunisien,
+
+69
+00:05:13,625 --> 00:05:16,065
+ou mon prochain appel
+est pour Fradkov,
+
+70
+00:05:16,404 --> 00:05:19,814
+et je sous-traite
+cette satanée opération.
+
+71
+00:05:27,118 --> 00:05:28,215
+Ça va mieux ?
+
+72
+00:05:28,870 --> 00:05:30,329
+Vous avez déjà fait ça.
+
+73
+00:05:30,413 --> 00:05:31,552
+Où en sommes-nous ?
+
+74
+00:05:31,594 --> 00:05:34,078
+On joue à chat dans le noir
+et l'horloge tourne.
+
+75
+00:05:34,542 --> 00:05:36,544
+Je connais quelqu'un
+qui pourrait aider.
+
+76
+00:05:36,628 --> 00:05:39,258
+- On attend quoi ?
+- Je sais qu'il peut nous aider.
+
+77
+00:05:39,464 --> 00:05:40,548
+Je crains
+
+78
+00:05:40,753 --> 00:05:42,258
+qu'il ne le veuille pas,
+
+79
+00:05:42,886 --> 00:05:45,280
+mais il est vraiment mon obligé.
+
+80
+00:05:45,512 --> 00:05:46,971
+Demandez-lui gentiment.
+
+81
+00:05:48,329 --> 00:05:50,349
+Comme avec
+ces gentils messieurs au téléphone.
+
+82
+00:05:50,433 --> 00:05:54,105
+Aucun d'entre eux n'est gentil,
+et encore moins un monsieur.
+
+83
+00:05:55,863 --> 00:05:57,231
+Qui est ce contact ?
+
+84
+00:06:05,883 --> 00:06:08,367
+Elle t'a pas dit son nom ?
+Il est de quelle agence ?
+
+85
+00:06:08,409 --> 00:06:09,598
+Elle l'a pas dit.
+
+86
+00:06:10,289 --> 00:06:11,566
+On perd du temps.
+
+87
+00:06:11,707 --> 00:06:14,123
+Si ça se trouve,
+ce type est de la SPA.
+
+88
+00:06:14,352 --> 00:06:15,678
+J'ai confiance en Hetty.
+
+89
+00:06:16,655 --> 00:06:18,294
+Comment va
+la Reine de la Fourberie ?
+
+90
+00:06:19,643 --> 00:06:20,768
+Elle va bien.
+
+91
+00:06:21,049 --> 00:06:22,214
+Vous la connaissez ?
+
+92
+00:06:23,346 --> 00:06:26,260
+Elle m'a sorti
+de la mouise une paire de fois.
+
+93
+00:06:26,344 --> 00:06:28,814
+- Vous connaissez nos adversaires ?
+- Pas vraiment.
+
+94
+00:06:29,503 --> 00:06:32,975
+Ala El Din est nouveau. Personne
+n'a réussi à l'identifier vraiment.
+
+95
+00:06:33,299 --> 00:06:34,477
+Il bosse pour qui ?
+
+96
+00:06:34,561 --> 00:06:36,370
+On pense que son groupe est le TAJ.
+
+97
+00:06:36,749 --> 00:06:38,226
+Talib al Jihadiya...
+
+98
+00:06:38,448 --> 00:06:41,108
+et ils font tout
+pour se bâtir une réputation.
+
+99
+00:06:41,952 --> 00:06:44,820
+Il a été déclaré mort
+suite à un bombardement au Pakistan.
+
+100
+00:06:45,163 --> 00:06:46,464
+TAJ a démenti.
+
+101
+00:06:46,996 --> 00:06:48,927
+Selon la dernière rumeur,
+
+102
+00:06:49,337 --> 00:06:50,627
+il a été capturé
+
+103
+00:06:51,353 --> 00:06:52,870
+par une de nos agences,
+
+104
+00:06:53,181 --> 00:06:54,705
+mais personne ne l'admet.
+
+105
+00:06:55,384 --> 00:06:56,665
+Qui le détient ?
+
+106
+00:06:57,398 --> 00:07:00,151
+Renseignement militaire,
+la Division des Opérations Spéciales,
+
+107
+00:07:00,292 --> 00:07:02,378
+le Service Clandestin de la CIA...
+choisissez.
+
+108
+00:07:02,659 --> 00:07:04,593
+Celui qui l'a ne partage pas.
+
+109
+00:07:05,155 --> 00:07:06,884
+Pourquoi on est pas au courant ?
+
+110
+00:07:08,292 --> 00:07:09,512
+Personne ne l'est.
+
+111
+00:07:11,433 --> 00:07:13,224
+À mon avis, celui qui l'a
+
+112
+00:07:13,308 --> 00:07:16,348
+tient sa capture secrète
+et espère serrer tout son groupe,
+
+113
+00:07:17,692 --> 00:07:20,773
+vu que celui qui a
+les plus beaux trophées a les crédits.
+
+114
+00:07:21,876 --> 00:07:24,044
+- Vous savez où il peut être ?
+- Non.
+
+115
+00:07:25,075 --> 00:07:27,029
+C'est tout ce que j'ai sur le TAJ.
+
+116
+00:07:27,469 --> 00:07:30,116
+On pense qu'ils ont des camps au Soudan,
+en Érythrée,
+
+117
+00:07:30,645 --> 00:07:31,992
+peut-être en Somalie,
+
+118
+00:07:32,180 --> 00:07:33,786
+mais rien de confirmé.
+
+119
+00:07:34,758 --> 00:07:35,996
+Navré pour votre gars.
+
+120
+00:07:37,254 --> 00:07:38,916
+Personne ne devrait mourir comme ça.
+
+121
+00:07:40,055 --> 00:07:41,502
+Il n'est pas encore mort.
+
+122
+00:07:44,579 --> 00:07:45,575
+Bonne chance.
+
+123
+00:07:47,058 --> 00:07:47,885
+Et...
+
+124
+00:07:48,604 --> 00:07:52,073
+dites à Hetty que sa photo est
+toujours dans ce bar de Velika Krusa.
+
+125
+00:07:53,339 --> 00:07:55,132
+Ça va lui faire plaisir.
+
+126
+00:08:00,146 --> 00:08:01,307
+Non, ici.
+
+127
+00:08:07,145 --> 00:08:09,008
+- L'autre.
+- Tu peux arrêter ?
+
+128
+00:08:09,050 --> 00:08:10,332
+J'essaie de t'aider.
+
+129
+00:08:10,374 --> 00:08:12,575
+C'est raté.
+C'est un ordinateur, c'est que pour un.
+
+130
+00:08:12,659 --> 00:08:14,034
+Apparemment pas.
+
+131
+00:08:14,235 --> 00:08:17,163
+Je n'ai rien réussi
+à trouver sur ce Ala El Din.
+
+132
+00:08:17,247 --> 00:08:18,797
+- Pas plus qu'Eric.
+- Ou toi.
+
+133
+00:08:19,123 --> 00:08:21,574
+- Se disputer n'aidera pas.
+- Ceci le pourrait.
+
+134
+00:08:21,834 --> 00:08:22,746
+C'est quoi ?
+
+135
+00:08:22,788 --> 00:08:25,055
+Des informations
+sur des terroristes du TAJ.
+
+136
+00:08:25,207 --> 00:08:26,881
+- Regardons.
+- Où t'as eu ça ?
+
+137
+00:08:26,965 --> 00:08:29,899
+- Je peux pas te le dire.
+- On n'a que de la vidéo, pas d'audio.
+
+138
+00:08:30,047 --> 00:08:32,469
+On n'a rien pu trouver.
+Vraiment rien.
+
+139
+00:08:32,553 --> 00:08:34,180
+Ala El Din doit être un pseudo.
+
+140
+00:08:34,756 --> 00:08:37,016
+- Il nous reste combien ?
+- Au plus 20 heures.
+
+141
+00:08:37,100 --> 00:08:40,060
+On pourrait reculer la limite
+si on pouvait persuader les terroristes
+
+142
+00:08:40,144 --> 00:08:42,948
+qu'il y a du progrès
+quant à leurs exigences.
+
+143
+00:08:43,314 --> 00:08:44,356
+Arrête la vidéo.
+
+144
+00:08:45,245 --> 00:08:46,300
+Agrandis.
+
+145
+00:08:49,452 --> 00:08:50,821
+C'est pas ton ami Moe ?
+
+146
+00:09:13,207 --> 00:09:14,026
+Merci.
+
+147
+00:09:15,334 --> 00:09:18,599
+La famille d'accueil de Moe n'a pas eu
+de ses nouvelles depuis son départ,
+
+148
+00:09:18,683 --> 00:09:20,461
+la nuit de l'enlèvement de Dom.
+
+149
+00:09:20,503 --> 00:09:22,761
+Safar Jadallah a recruté
+Moe et les autres
+
+150
+00:09:22,803 --> 00:09:25,223
+au Centre des Jeunes Éthiopiens
+pour en faire des Jihadi.
+
+151
+00:09:25,411 --> 00:09:28,176
+- Il doit savoir quelque chose.
+- Non, il est à Guantanamo.
+
+152
+00:09:28,218 --> 00:09:30,871
+Il faut 8 heures pour l'amener ici.
+Qu'ils l'interrogent là-bas.
+
+153
+00:09:30,913 --> 00:09:32,691
+D'accord, je les informe.
+
+154
+00:09:33,740 --> 00:09:35,159
+Le père de Moe était Janjaweed.
+
+155
+00:09:35,201 --> 00:09:37,409
+Ils ont été engagés
+pour combattre les rebelles.
+
+156
+00:09:37,962 --> 00:09:39,718
+Mais ils étaient pires qu'eux.
+
+157
+00:09:39,760 --> 00:09:41,393
+D'où leurs surnoms :
+
+158
+00:09:41,606 --> 00:09:44,083
+"Les diables à cheval
+avec des fusils. "
+
+159
+00:09:44,491 --> 00:09:47,920
+J'ai tué le père de Moe, en sauvant
+des bénévoles. Une revanche peut-être.
+
+160
+00:09:48,636 --> 00:09:50,506
+Si Moe est chez Ala El Din,
+
+161
+00:09:50,590 --> 00:09:53,309
+et qu'ils retiennent Dom,
+ils sont sûrement au Soudan.
+
+162
+00:09:53,672 --> 00:09:57,633
+Il peut aussi bien être retenu
+au Tchad, en Libye ou en Somalie.
+
+163
+00:09:58,324 --> 00:10:00,928
+On ne sait rien sur Moe
+après son arrivée au Tchad,
+
+164
+00:10:00,970 --> 00:10:02,518
+on ignore où il est maintenant.
+
+165
+00:10:02,602 --> 00:10:05,466
+Si on prend un avion pour le Kenya,
+on se rapproche.
+
+166
+00:10:05,508 --> 00:10:09,233
+On ferait mieux de travailler d'ici,
+et d'utiliser toutes nos ressources.
+
+167
+00:10:09,318 --> 00:10:12,653
+- On doit être là-bas. Pour Dom.
+- Trouvons-le d'abord, d'accord ?
+
+168
+00:10:13,420 --> 00:10:16,824
+L'implication de Moe est une avancée.
+On a un point de départ.
+
+169
+00:10:17,617 --> 00:10:19,009
+Le Centre des Jeunes.
+
+170
+00:10:26,525 --> 00:10:29,795
+- Je peux vous aider ?
+- Agents fédéraux, nous sommes du NCIS.
+
+171
+00:10:30,088 --> 00:10:32,548
+On a un mandat du Foreign
+Intelligence Surveillance Act.
+
+172
+00:10:32,632 --> 00:10:35,050
+Vous avez déjà enquêté ici
+il y a deux mois,
+
+173
+00:10:35,134 --> 00:10:37,148
+Safar Jadallah a déjà été arrêté.
+
+174
+00:10:37,387 --> 00:10:40,723
+Nous enquêtons sur une organisation
+terroriste appelée Talib Al Jihadiya.
+
+175
+00:10:41,926 --> 00:10:43,209
+Quelqu'un s'enfuit.
+
+176
+00:10:46,457 --> 00:10:47,521
+Agent fédéral !
+
+177
+00:10:49,127 --> 00:10:49,912
+Stop !
+
+178
+00:11:16,435 --> 00:11:17,958
+Lâchez-moi ! Lâchez-moi !
+
+179
+00:11:18,000 --> 00:11:19,095
+Laissez-moi !
+
+180
+00:11:19,568 --> 00:11:21,055
+- Du calme !
+- Laissez-moi !
+
+181
+00:11:21,139 --> 00:11:22,389
+Ne bouge pas !
+
+182
+00:11:26,269 --> 00:11:27,561
+Bien joué, Flipper.
+
+183
+00:11:30,391 --> 00:11:32,107
+On va en tirer quelque chose ?
+
+184
+00:11:32,192 --> 00:11:33,734
+Mon Dieu, j'espère bien.
+
+185
+00:12:06,058 --> 00:12:07,643
+J'ai pas demandé le room service.
+
+186
+00:13:02,416 --> 00:13:03,407
+Où est-il ?
+
+187
+00:13:03,491 --> 00:13:06,577
+- Je sais même pas qui c'est.
+- Mowadh Dusa,
+
+188
+00:13:06,661 --> 00:13:07,703
+appelé Moe.
+
+189
+00:13:08,194 --> 00:13:09,830
+Il traînait au Centre des Jeunes
+
+190
+00:13:10,032 --> 00:13:13,834
+jusqu'à son départ pour intégrer
+le groupe terroriste Talib Al Jihadiya.
+
+191
+00:13:14,886 --> 00:13:16,023
+Si vous le dites.
+
+192
+00:13:19,257 --> 00:13:20,224
+Et lui ?
+
+193
+00:13:21,547 --> 00:13:24,094
+Agent spécial Dominic Vail.
+Appelé Dom.
+
+194
+00:13:24,259 --> 00:13:26,508
+Kidnappé et détenu
+par les terroristes du TAJ.
+
+195
+00:13:26,550 --> 00:13:28,182
+qui menacent de l'exécuter.
+
+196
+00:13:28,705 --> 00:13:31,916
+- Jamais entendu parler.
+- Alors, pourquoi vous enfuir ?
+
+197
+00:13:31,958 --> 00:13:33,228
+J'étais en retard.
+
+198
+00:13:33,312 --> 00:13:36,023
+- L'ordinateur dans la piscine ?
+- Il m'a échappé.
+
+199
+00:13:36,107 --> 00:13:37,983
+Le couteau contre mon partenaire ?
+
+200
+00:13:38,067 --> 00:13:39,827
+<i>Je voulais juste le lui tendre.</i>
+
+201
+00:13:41,053 --> 00:13:42,242
+Il est suffisant.
+
+202
+00:13:42,284 --> 00:13:43,380
+<i>Je peux partir ?</i>
+
+203
+00:13:43,871 --> 00:13:45,532
+Je déteste les gens suffisants.
+
+204
+00:13:45,875 --> 00:13:47,284
+Non, c'est bien.
+
+205
+00:13:47,369 --> 00:13:49,077
+Il se croit plus malin que Callen.
+
+206
+00:13:50,774 --> 00:13:52,474
+Alors, votre verdict ?
+
+207
+00:13:52,915 --> 00:13:54,823
+Pas de bain pour votre ordinateur.
+
+208
+00:13:56,938 --> 00:13:59,587
+Pour bien faire, je devrais le rincer
+à l'eau distillée
+
+209
+00:13:59,672 --> 00:14:01,965
+et le sécher plusieurs jours
+avec un gel de silice.
+
+210
+00:14:02,007 --> 00:14:04,478
+Il ne s'agit pas de bien faire,
+mais de faire vite.
+
+211
+00:14:04,520 --> 00:14:07,227
+Cet ordinateur contient
+des informations vitales.
+
+212
+00:14:07,269 --> 00:14:08,876
+Je sais. Mais si je l'allume,
+
+213
+00:14:08,918 --> 00:14:10,731
+et qu'il reste de l'humidité,
+
+214
+00:14:10,773 --> 00:14:13,175
+la carte mère grille,
+et court-circuite l'unité centrale.
+
+215
+00:14:13,394 --> 00:14:15,374
+Mais sinon,
+on perd un temps précieux.
+
+216
+00:14:15,528 --> 00:14:17,837
+Cet ordinateur est peut-être
+notre seule chance
+
+217
+00:14:17,879 --> 00:14:19,358
+de retrouver Dom
+
+218
+00:14:19,443 --> 00:14:21,074
+à temps pour le sauver.
+
+219
+00:14:21,723 --> 00:14:22,569
+Allez.
+
+220
+00:14:23,153 --> 00:14:24,154
+Faites-le.
+
+221
+00:14:32,029 --> 00:14:33,306
+Saloperie ! Je...
+
+222
+00:14:34,040 --> 00:14:34,998
+J'avais dit...
+
+223
+00:14:36,681 --> 00:14:39,169
+- Je suis censé faire quoi ?
+- Réparez-le.
+
+224
+00:14:40,296 --> 00:14:41,476
+Tu m'aides,
+
+225
+00:14:42,062 --> 00:14:43,507
+et je peux t'aider.
+
+226
+00:14:43,592 --> 00:14:44,716
+Mais sinon,
+
+227
+00:14:44,801 --> 00:14:47,823
+ça m'échappe, et tu gagnes
+un aller simple pour Guantanamo.
+
+228
+00:14:48,763 --> 00:14:50,122
+Et je te garantis
+
+229
+00:14:50,637 --> 00:14:52,699
+que leur conception
+des sports nautiques
+
+230
+00:14:53,455 --> 00:14:55,892
+- c'est pas une journée de plage.
+- Vos menaces...
+
+231
+00:14:56,771 --> 00:14:58,318
+ne me font pas peur.
+
+232
+00:14:58,731 --> 00:15:00,579
+Tu connais la différence
+entre courage
+
+233
+00:15:00,621 --> 00:15:02,276
+et stupidité, Yari ?
+
+234
+00:15:05,154 --> 00:15:07,406
+Pourquoi les terroristes
+ciblent les jeunes ?
+
+235
+00:15:08,575 --> 00:15:10,872
+Parce que les jeunes
+sont impressionnables.
+
+236
+00:15:11,950 --> 00:15:14,580
+Il est plus facile de pousser
+des ados à un attentat-suicide.
+
+237
+00:15:14,665 --> 00:15:15,831
+Devenir un martyr,
+
+238
+00:15:15,916 --> 00:15:16,792
+un <i>Shahid</i>,
+
+239
+00:15:17,551 --> 00:15:19,988
+c'est mourir
+pour ce en quoi on croit.
+
+240
+00:15:21,546 --> 00:15:24,394
+Le vieux débat
+<i>Istishhad</i> contre <i>Intihar</i>.
+
+241
+00:15:26,357 --> 00:15:28,010
+J'en ai une autre pour toi.
+
+242
+00:15:28,326 --> 00:15:31,361
+Tu connais la différence
+entre un kamikaze et un martyr ?
+
+243
+00:15:33,429 --> 00:15:34,519
+Question piège.
+
+244
+00:15:34,724 --> 00:15:36,165
+Il n'y en a pas.
+
+245
+00:15:37,408 --> 00:15:39,730
+On les ramasse tous les deux
+dans des sacs mortuaires.
+
+246
+00:15:44,711 --> 00:15:46,679
+C'est difficile à voir, mais...
+
+247
+00:15:47,886 --> 00:15:49,539
+ce truc qui ressemble
+
+248
+00:15:50,066 --> 00:15:51,727
+à un bol de salade de fruits,
+
+249
+00:15:53,038 --> 00:15:55,157
+c'est ce qui reste du crâne
+
+250
+00:15:55,685 --> 00:15:57,374
+d'un garçon de 11 ans
+
+251
+00:15:58,186 --> 00:16:00,764
+qui s'est fait sauter avec sa bombe
+attachée à sa poitrine.
+
+252
+00:16:02,651 --> 00:16:05,631
+Les vierges célestes savent y faire
+avec un cavalier sans tête ?
+
+253
+00:16:07,690 --> 00:16:08,583
+<i>Écoutez,</i>
+
+254
+00:16:09,468 --> 00:16:11,029
+si vous voulez aider cet homme,
+
+255
+00:16:12,265 --> 00:16:14,765
+échangez-le contre Ala El Din.
+
+256
+00:16:14,849 --> 00:16:17,059
+Pourquoi on perd du temps
+avec ce sac à merde ?
+
+257
+00:16:17,143 --> 00:16:19,804
+- On négocie pas avec les terroristes.
+- Dommage...
+
+258
+00:16:20,062 --> 00:16:21,021
+pour lui.
+
+259
+00:16:22,498 --> 00:16:24,669
+J'imagine son regard
+
+260
+00:16:25,023 --> 00:16:26,943
+quand ils lui couperont la tête.
+
+261
+00:16:29,864 --> 00:16:31,573
+Ce sera complicité de meurtre.
+
+262
+00:16:34,702 --> 00:16:35,933
+Sam, laisse tomber.
+
+263
+00:16:36,203 --> 00:16:38,387
+Je lui donne ce qu'il veut.
+Pourquoi tu résistes ?
+
+264
+00:16:38,429 --> 00:16:40,593
+- Tu cherches le martyre ?
+- Arrête, ça suffit !
+
+265
+00:16:40,916 --> 00:16:44,211
+Tu veux être un <i>Shahid</i> ?
+T'es en route pour le paradis, mec.
+
+266
+00:16:44,295 --> 00:16:47,214
+Sam, écoute,
+il ne nous sert à rien mort.
+
+267
+00:16:49,973 --> 00:16:51,385
+Il ne sert à personne.
+
+268
+00:16:53,363 --> 00:16:55,681
+D'ailleurs, tu mérites pas
+de mourir de mes mains.
+
+269
+00:17:28,538 --> 00:17:29,792
+J'ai merdé, G.
+
+270
+00:17:30,993 --> 00:17:32,181
+Il s'en remettra.
+
+271
+00:17:32,974 --> 00:17:35,238
+Je pensais qu'amener Moe ici
+était bien.
+
+272
+00:17:35,405 --> 00:17:36,587
+C'était bien.
+
+273
+00:17:36,987 --> 00:17:39,864
+Où serait-il maintenant
+si tu l'avais laissé au Soudan ?
+
+274
+00:17:40,380 --> 00:17:41,493
+Il serait mort.
+
+275
+00:17:42,987 --> 00:17:44,312
+Et Dom sain et sauf.
+
+276
+00:17:44,604 --> 00:17:47,253
+Le seul à penser que c'est de ta faute,
+c'est toi.
+
+277
+00:17:48,096 --> 00:17:50,610
+Tu te blâmeras
+quand on aura retrouvé Dom, d'accord ?
+
+278
+00:17:51,275 --> 00:17:53,280
+Pour l'instant, je te veux affûté.
+
+279
+00:17:54,550 --> 00:17:55,687
+Et Dom aussi.
+
+280
+00:17:58,903 --> 00:18:00,848
+Tu crois que ce Yari va parler ?
+
+281
+00:18:01,574 --> 00:18:02,594
+Peut-être...
+
+282
+00:18:03,367 --> 00:18:05,792
+si tu lui fourres
+du Jihad dans le cul.
+
+283
+00:18:08,774 --> 00:18:10,988
+Ce type est un terroriste de salon,
+au mieux.
+
+284
+00:18:12,242 --> 00:18:14,578
+On lui a fait clairement comprendre
+qu'on plaisantait pas.
+
+285
+00:18:20,726 --> 00:18:22,267
+Des bonnes nouvelles, Kensi.
+
+286
+00:18:22,351 --> 00:18:24,895
+J'ai une lettre de démission
+d'une ancienne employée.
+
+287
+00:18:24,979 --> 00:18:26,011
+Son nom ?
+
+288
+00:18:27,547 --> 00:18:28,398
+Super.
+
+289
+00:18:29,205 --> 00:18:31,193
+Envoie-moi ça sur mon téléphone.
+
+290
+00:18:32,566 --> 00:18:35,824
+Kensi a trouvé une lettre de démission
+d'une employée du Centre.
+
+291
+00:18:36,257 --> 00:18:39,398
+Une femme appelée
+Ameenah Shah, qui a démissionné
+
+292
+00:18:39,616 --> 00:18:41,870
+car elle désapprouvait
+ce qui s'y passait.
+
+293
+00:18:42,348 --> 00:18:44,905
+- Je l'aime déjà.
+- Oh, allez !
+
+294
+00:18:45,652 --> 00:18:46,507
+Allez.
+
+295
+00:18:46,750 --> 00:18:49,226
+Savez-vous
+que je déteste votre garde-robe ?
+
+296
+00:18:50,084 --> 00:18:52,423
+Particulièrement ces savates.
+
+297
+00:18:52,952 --> 00:18:56,051
+Sans parler de votre planche de surf
+dangereusement
+
+298
+00:18:56,136 --> 00:18:57,372
+proche de ma voiture,
+
+299
+00:18:57,513 --> 00:18:59,930
+le sable que vous dispersez
+dans tout le centre,
+
+300
+00:19:00,014 --> 00:19:03,379
+les millions de dollars
+de technologie top secrète
+
+301
+00:19:03,421 --> 00:19:05,727
+détournée
+pour vos jeux vidéo frivoles.
+
+302
+00:19:05,812 --> 00:19:07,687
+J'ai laissé mon surf juste une fois.
+
+303
+00:19:10,302 --> 00:19:11,106
+Deux.
+
+304
+00:19:11,509 --> 00:19:13,777
+- Mais plus maintenant.
+- Mais j'ai toléré...
+
+305
+00:19:14,002 --> 00:19:14,904
+tout cela...
+
+306
+00:19:15,596 --> 00:19:18,420
+en grande partie.
+Vous savez pourquoi,
+
+307
+00:19:18,813 --> 00:19:21,617
+- M. Beale ?
+- Ma personnalité de chaton espiègle ?
+
+308
+00:19:24,028 --> 00:19:25,770
+Pourquoi j'ai dit ça ?
+
+309
+00:19:26,829 --> 00:19:28,696
+Je plaisante quand je suis nerveux.
+
+310
+00:19:29,301 --> 00:19:32,032
+L'humour en mécanisme de défense.
+Sale habitude.
+
+311
+00:19:32,893 --> 00:19:34,506
+Pourquoi je parle encore ?
+
+312
+00:19:35,061 --> 00:19:36,344
+Je l'ai toléré
+
+313
+00:19:37,121 --> 00:19:38,760
+parce que vous êtes sans égal
+
+314
+00:19:39,250 --> 00:19:40,483
+dans votre travail.
+
+315
+00:19:40,763 --> 00:19:44,183
+Je suis comme je suis
+parce que je demande le meilleur.
+
+316
+00:19:44,600 --> 00:19:46,790
+Nous sommes une unité d'élite,
+
+317
+00:19:47,353 --> 00:19:49,201
+dont les succès sans équivalent
+
+318
+00:19:49,435 --> 00:19:53,017
+reposent sur les énormes talents
+de ceux qui y travaillent.
+
+319
+00:19:53,359 --> 00:19:55,201
+C'est pourquoi je sais
+
+320
+00:19:55,243 --> 00:19:57,503
+que si quelqu'un
+peut réparer ceci...
+
+321
+00:19:59,413 --> 00:20:00,353
+c'est vous.
+
+322
+00:20:02,308 --> 00:20:03,738
+- J'essaie.
+- Je sais.
+
+323
+00:20:03,780 --> 00:20:05,287
+Je sais, et je suis désolée.
+
+324
+00:20:05,372 --> 00:20:07,734
+J'aurais dû vous écouter avant.
+
+325
+00:20:08,148 --> 00:20:11,289
+Et à cause de mes ordres,
+j'ai peut-être tout gâché.
+
+326
+00:20:12,050 --> 00:20:14,696
+Mais j'ai une confiance aveugle
+en vous,
+
+327
+00:20:15,092 --> 00:20:16,093
+M. Beale.
+
+328
+00:20:16,728 --> 00:20:18,130
+Faites au mieux.
+
+329
+00:20:22,937 --> 00:20:24,332
+Pour vous porter chance.
+
+330
+00:20:25,046 --> 00:20:25,937
+Merci.
+
+331
+00:20:36,910 --> 00:20:38,069
+Allez bébé.
+
+332
+00:20:41,423 --> 00:20:42,665
+Viens voir papa.
+
+333
+00:20:44,804 --> 00:20:47,412
+Merci d'être venus.
+Profitez du reste de votre visite.
+
+334
+00:20:48,372 --> 00:20:50,498
+Bonne journée.
+Au revoir. Merci.
+
+335
+00:20:51,100 --> 00:20:52,212
+Ameenah Shah ?
+
+336
+00:20:53,676 --> 00:20:56,004
+Agent spécial Callen
+et agent spécial Sam Hanna.
+
+337
+00:20:56,088 --> 00:20:58,715
+- On est du NCIS.
+- On a quelques questions
+
+338
+00:20:58,799 --> 00:21:01,384
+sur votre dernier emploi
+au Centre des Jeunes Éthiopiens.
+
+339
+00:21:02,803 --> 00:21:05,016
+Vous connaissez
+un jeune Soudanais au centre,
+
+340
+00:21:05,366 --> 00:21:06,389
+Mowadh Dusa ?
+
+341
+00:21:07,949 --> 00:21:10,727
+Je me suis surtout occupée
+du côté administratif...
+
+342
+00:21:10,811 --> 00:21:14,423
+- Les emplois du temps, les classes.
+- Votre lettre de démission parlait
+
+343
+00:21:14,465 --> 00:21:16,169
+de désaccord avec les enseignements.
+
+344
+00:21:16,650 --> 00:21:18,568
+Les différences d'idées
+ne sont pas un crime.
+
+345
+00:21:18,652 --> 00:21:20,528
+Si elles conduisent au terrorisme,
+oui.
+
+346
+00:21:20,612 --> 00:21:22,322
+Je dois retourner travailler.
+
+347
+00:21:22,457 --> 00:21:24,015
+L'homme sur cette vidéo...
+
+348
+00:21:24,596 --> 00:21:25,961
+est un agent fédéral.
+
+349
+00:21:26,338 --> 00:21:29,704
+C'est aussi un ami qui sera exécuté
+si on ne le retrouve pas.
+
+350
+00:21:31,992 --> 00:21:32,997
+Désolée,
+
+351
+00:21:33,217 --> 00:21:35,250
+- mais je ne sais rien là-dessus.
+- Ameenah,
+
+352
+00:21:35,292 --> 00:21:37,478
+vous avez un diplôme
+dans l'éducation des jeunes.
+
+353
+00:21:37,520 --> 00:21:39,214
+Les enfants vous importent.
+
+354
+00:21:39,711 --> 00:21:42,926
+Quelque chose s'est passé au centre
+qui vous a fait partir.
+
+355
+00:21:43,010 --> 00:21:44,653
+Je pense que c'est la même chose
+
+356
+00:21:44,695 --> 00:21:47,097
+qui a causé la disparition
+de jeunes comme Moe.
+
+357
+00:21:47,310 --> 00:21:48,848
+Ces mêmes jeunes
+
+358
+00:21:49,308 --> 00:21:52,435
+vont exécuter un agent fédéral
+et deviendront des terroristes.
+
+359
+00:21:52,855 --> 00:21:55,189
+C'est votre chance
+de sauver beaucoup de vies.
+
+360
+00:21:58,719 --> 00:21:59,918
+Un homme...
+
+361
+00:22:00,852 --> 00:22:03,074
+a commencé
+à donner des cours religieux...
+
+362
+00:22:03,843 --> 00:22:05,949
+qui sont devenus
+de plus en plus radicaux.
+
+363
+00:22:06,033 --> 00:22:07,117
+Safar Jadallah ?
+
+364
+00:22:09,745 --> 00:22:12,539
+On l'a arrêté récemment.
+Qui d'autre ?
+
+365
+00:22:15,772 --> 00:22:18,503
+Un autre homme a commencé à venir
+
+366
+00:22:18,587 --> 00:22:20,588
+après l'arrestation de Safar.
+
+367
+00:22:22,208 --> 00:22:24,658
+Il était très en colère
+que Safar soit parti.
+
+368
+00:22:25,071 --> 00:22:27,843
+Je crois qu'il finançait le centre.
+
+369
+00:22:28,597 --> 00:22:29,931
+Il s'appelait Kalil.
+
+370
+00:22:31,784 --> 00:22:34,144
+Je ne connais pas son nom de famille.
+Désolée.
+
+371
+00:22:34,953 --> 00:22:36,312
+Je dois aller travailler.
+
+372
+00:22:37,945 --> 00:22:39,182
+<i>Shukran jazeerun</i>.
+
+373
+00:22:40,071 --> 00:22:40,996
+<i>Al'afw</i>.
+
+374
+00:22:43,477 --> 00:22:44,988
+<i>Eric, c'est Callen.</i>
+
+375
+00:22:45,072 --> 00:22:47,346
+J'ai besoin d'infos
+sur un gars appelé Kalil.
+
+376
+00:22:47,388 --> 00:22:48,847
+Il est connecté au centre.
+
+377
+00:22:48,889 --> 00:22:51,161
+Je n'ai pas de nom de famille,
+mais il finançait le centre.
+
+378
+00:22:51,450 --> 00:22:53,455
+Son nom
+est dans l'ordinateur de Yari.
+
+379
+00:22:53,539 --> 00:22:55,373
+- Tu l'as réparé ?
+- <i>Presque.</i>
+
+380
+00:22:55,457 --> 00:22:57,250
+Et voilà, Kalil Abramson.
+
+381
+00:22:57,334 --> 00:22:59,834
+<i>Magnat de l'immobilier commercial.</i>
+Célibataire,
+
+382
+00:23:00,091 --> 00:23:01,987
+énorme compte en banque.
+
+383
+00:23:02,216 --> 00:23:05,001
+Une amende pour un parcmètre
+à Robertson.
+
+384
+00:23:05,043 --> 00:23:06,051
+<i>Trouve-le.</i>
+
+385
+00:23:50,847 --> 00:23:52,785
+- Et voilà, monsieur.
+- Merci.
+
+386
+00:24:02,274 --> 00:24:03,399
+Kalil Abramson.
+
+387
+00:24:05,436 --> 00:24:06,647
+Agents fédéraux.
+
+388
+00:24:06,689 --> 00:24:09,275
+On a quelques questions
+sur votre implication
+
+389
+00:24:09,317 --> 00:24:11,324
+avec le Centre
+des Jeunes Éthiopiens.
+
+390
+00:24:11,408 --> 00:24:13,260
+C'est l'un de mes projets favoris.
+
+391
+00:24:13,302 --> 00:24:15,610
+Je suis très concerné
+par l'environnement, la jeunesse.
+
+392
+00:24:15,652 --> 00:24:17,831
+Asseyez-vous, joignez-vous à nous.
+
+393
+00:24:17,915 --> 00:24:20,625
+Ce n'est pas une bonne idée,
+sachant que vos cartes de crédit
+
+394
+00:24:20,987 --> 00:24:22,931
+et vos comptes ont été gelés.
+
+395
+00:24:23,741 --> 00:24:25,380
+Pardon, je ne comprends pas.
+
+396
+00:24:25,464 --> 00:24:27,215
+Accompagnez-nous,
+on vous expliquera.
+
+397
+00:24:27,507 --> 00:24:30,260
+Excusez-moi, mais je suis
+au milieu d'un rendez-vous d'affaires.
+
+398
+00:24:30,417 --> 00:24:32,971
+- Pourquoi nous avoir invités alors ?
+- J'étais poli.
+
+399
+00:24:33,096 --> 00:24:34,055
+Moi non.
+
+400
+00:24:34,428 --> 00:24:37,767
+Vous êtes en état d'arrestation pour
+financement d'activités terroristes.
+
+401
+00:24:38,142 --> 00:24:41,217
+Alors, je suis content d'être ici
+en compagnie
+
+402
+00:24:41,890 --> 00:24:43,093
+de mes avocats.
+
+403
+00:25:33,365 --> 00:25:35,422
+On va avoir besoin
+d'une nouvelle caméra.
+
+404
+00:25:57,032 --> 00:25:58,697
+Kalil Abramson a été prévenu.
+
+405
+00:25:58,739 --> 00:26:01,471
+Il était entouré d'avocats
+avant qu'on arrive jusqu'à lui.
+
+406
+00:26:01,513 --> 00:26:03,758
+Il ne va pas nous aider
+si ça l'implique.
+
+407
+00:26:03,800 --> 00:26:05,842
+Peut-être,
+si on l'inculpe de trahison,
+
+408
+00:26:05,884 --> 00:26:07,675
+terrorisme et meurtre
+d'un agent fédéral.
+
+409
+00:26:07,717 --> 00:26:10,722
+Pas de meurtre. Dom est vivant.
+Arrête de parler de lui au passé.
+
+410
+00:26:10,764 --> 00:26:12,820
+J'envisage le pire scénario
+pour Abramson.
+
+411
+00:26:12,904 --> 00:26:15,597
+Oublie le pire scénario,
+il n'y a qu'un seul scénario,
+
+412
+00:26:15,639 --> 00:26:17,492
+trouver et sauver Dom.
+
+413
+00:26:19,192 --> 00:26:21,955
+Moe disait qu'il se sentait en sécurité
+avec ses amis du centre.
+
+414
+00:26:22,039 --> 00:26:23,737
+Il les voit peut-être toujours.
+
+415
+00:26:23,779 --> 00:26:27,403
+S'ils voulaient recruter
+de potentiels jihadistes, ils viseraient
+
+416
+00:26:27,445 --> 00:26:30,765
+- des jeunes comme Moe...
+- Il y a une équipe de SEAL en attente
+
+417
+00:26:30,951 --> 00:26:32,715
+à bord du USS Cole.
+
+418
+00:26:32,799 --> 00:26:34,384
+Ils sont à la Corne de l'Afrique
+
+419
+00:26:34,468 --> 00:26:37,633
+pour participer à l'opération
+de sécurisation des mers de l'OTAN.
+
+420
+00:26:38,364 --> 00:26:41,099
+À la seconde où on leur donne
+une destination,
+
+421
+00:26:41,183 --> 00:26:42,975
+ils frapperont fort.
+
+422
+00:26:43,977 --> 00:26:47,529
+J'ai fait appel à tous les services
+qu'on me devait.
+
+423
+00:26:48,617 --> 00:26:51,100
+Je ne sais pas
+si j'arriverais à le supporter.
+
+424
+00:26:51,142 --> 00:26:54,821
+- On va le retrouver, Hetty.
+- Vous le croyez vraiment ?
+
+425
+00:26:56,308 --> 00:26:58,533
+On n'arrêtera pas
+tant qu'on l'aura pas retrouvé.
+
+426
+00:26:58,617 --> 00:27:00,970
+Je vous prends au mot.
+
+427
+00:27:03,246 --> 00:27:05,123
+Des situations extrêmes
+
+428
+00:27:05,333 --> 00:27:08,751
+nécessitent occasionnellement
+des mesures extrêmes, M. Callen.
+
+429
+00:27:10,048 --> 00:27:11,808
+Mais au final,
+
+430
+00:27:12,272 --> 00:27:15,267
+on remet rarement en cause
+les méthodes
+
+431
+00:27:15,657 --> 00:27:18,748
+qui fournissent
+le résultat souhaité.
+
+432
+00:27:26,924 --> 00:27:27,778
+Avance.
+
+433
+00:27:29,522 --> 00:27:31,359
+Où as-tu appris l'anglais ?
+
+434
+00:27:31,710 --> 00:27:32,900
+À la télévision.
+
+435
+00:27:36,528 --> 00:27:38,239
+Quelle est ton émission préférée ?
+
+436
+00:27:46,757 --> 00:27:47,915
+Quel est ton nom ?
+
+437
+00:27:48,975 --> 00:27:50,418
+T'aurais pas dû faire ça.
+
+438
+00:27:51,068 --> 00:27:53,713
+Pourquoi pas ?
+Vous allez me tuer de toute façon.
+
+439
+00:27:53,797 --> 00:27:56,090
+- Ce n'est pas sûr.
+- Mon pays...
+
+440
+00:27:56,682 --> 00:27:58,863
+ne négocie pas avec les terroristes.
+
+441
+00:28:00,321 --> 00:28:02,179
+Si tu ne m'aides pas à m'échapper,
+
+442
+00:28:02,595 --> 00:28:04,261
+tu seras un meurtrier toi aussi.
+
+443
+00:28:08,502 --> 00:28:10,730
+Et tu ne veux pas
+avoir mon sang sur tes mains.
+
+444
+00:28:11,155 --> 00:28:12,607
+Comment tu le sais ?
+
+445
+00:28:15,765 --> 00:28:17,362
+Parce que tu me parles...
+
+446
+00:28:18,707 --> 00:28:19,838
+en anglais.
+
+447
+00:28:33,312 --> 00:28:34,468
+Tu le connais ?
+
+448
+00:28:35,672 --> 00:28:36,714
+Tu le connais ?
+
+449
+00:28:39,584 --> 00:28:41,763
+L'un de vous a prévenu
+Kalil Abramson.
+
+450
+00:28:43,071 --> 00:28:44,555
+Me regardez pas.
+
+451
+00:29:04,358 --> 00:29:05,785
+Vous faites quoi ?
+
+452
+00:29:06,457 --> 00:29:09,436
+Je veux savoir qui a prévenu Kalil.
+
+453
+00:29:09,706 --> 00:29:12,901
+Je sais même pas qui c'est.
+J'ai jamais vu ce type de ma vie.
+
+454
+00:29:12,943 --> 00:29:14,419
+Dis-lui qu'on se connaît pas.
+
+455
+00:29:32,229 --> 00:29:34,647
+Je le connais pas
+et j'ai pas prévenu Kalil.
+
+456
+00:29:34,731 --> 00:29:36,837
+- Je jure devant Dieu.
+- Devant quel Dieu ?
+
+457
+00:29:36,879 --> 00:29:38,544
+Tu penses que je crois en Dieu ?
+
+458
+00:29:38,586 --> 00:29:40,418
+Ne faites pas ça.
+J'ai rien fait.
+
+459
+00:29:40,460 --> 00:29:41,779
+Il disait ça aussi.
+
+460
+00:29:41,989 --> 00:29:44,406
+- Pitié... Je vous aiderai.
+- Tu ne sais rien.
+
+461
+00:29:44,491 --> 00:29:46,866
+Et en plus,
+tu m'as vu tuer un homme.
+
+462
+00:29:46,908 --> 00:29:49,537
+Attendez.
+Je sais des choses sur Mowadh Dusa
+
+463
+00:29:49,864 --> 00:29:52,214
+et les autres jeunes du centre
+qui sont allés au Tchad.
+
+464
+00:29:52,256 --> 00:29:54,000
+- Tu sais où ils sont ?
+- Non.
+
+465
+00:29:54,084 --> 00:29:55,793
+Tu sais
+où ils retiennent l'agent Vail ?
+
+466
+00:29:55,878 --> 00:29:58,291
+Je sais qui le retient...
+Kalil Abramson.
+
+467
+00:29:58,547 --> 00:30:01,215
+Il a payé pour le recrutement
+des jeunes en jihadistes.
+
+468
+00:30:01,463 --> 00:30:03,946
+Il a payé leurs billets d'avion,
+leur entraînement.
+
+469
+00:30:03,988 --> 00:30:06,163
+Il a même payé
+les kidnappeurs colombiens.
+
+470
+00:30:06,205 --> 00:30:07,680
+Il a tout orchestré.
+
+471
+00:30:08,075 --> 00:30:09,910
+Il sait où est votre ami.
+
+472
+00:30:11,927 --> 00:30:14,951
+- Agent Nassir, ça va ?
+- Bien. Il a parlé ?
+
+473
+00:30:15,814 --> 00:30:18,774
+- Kalil Abramson est derrière tout ça.
+- Et pour ses avocats ?
+
+474
+00:30:18,858 --> 00:30:21,110
+Il va lui falloir plus
+que des avocats cette fois.
+
+475
+00:30:39,689 --> 00:30:42,463
+Quelque chose des terroristes TAJ ?
+Messages ? Vidéos ?
+
+476
+00:30:42,505 --> 00:30:43,883
+- Quelque chose ?
+- Rien.
+
+477
+00:30:43,967 --> 00:30:46,626
+On a moins de 40 minutes
+avant la limite des 24 heures.
+
+478
+00:30:46,668 --> 00:30:50,139
+Qu'est-ce qu'on a sur Abramson ?
+Des choses sur l'ordinateur de Yari ?
+
+479
+00:30:50,223 --> 00:30:53,142
+L'argent est dur à suivre.
+Kalil a été très prudent.
+
+480
+00:30:53,765 --> 00:30:55,993
+Il a aussi beaucoup voyagé.
+
+481
+00:30:56,505 --> 00:31:00,441
+Surtout en Europe, mais le 6 avril,
+il a pris un avion d'Athènes au Caire.
+
+482
+00:31:00,818 --> 00:31:03,447
+Puis il est parti d'Égypte
+jusqu'à Khartoum au Soudan,
+
+483
+00:31:03,489 --> 00:31:05,578
+et enfin jusqu'à Asmara,
+en Érythrée.
+
+484
+00:31:05,620 --> 00:31:09,116
+Il y est resté quelques jours,
+puis il est allé à Berbera en Somalie,
+
+485
+00:31:09,200 --> 00:31:11,744
+- avant d'aller au Yémen.
+- C'est un circuit pour terroristes.
+
+486
+00:31:11,828 --> 00:31:14,531
+Soudan, Érythrée et Somalie
+sont les mêmes pays
+
+487
+00:31:14,573 --> 00:31:17,667
+connus pour avoir des camps
+d'entraînement pour Talib al Jihadiya.
+
+488
+00:31:18,076 --> 00:31:21,337
+Dom est dans un de ces camps,
+et Kalil Abramson sait lequel.
+
+489
+00:31:22,422 --> 00:31:24,753
+- Tu as accès au téléphone de Kalil ?
+- Suivez-moi.
+
+490
+00:31:26,755 --> 00:31:29,201
+Malheureusement,
+je n'ai pas pu avoir le son.
+
+491
+00:31:29,243 --> 00:31:31,097
+Son téléphone est chez lui à Malibu.
+
+492
+00:31:31,589 --> 00:31:34,100
+- Il n'a pas bougé depuis des heures.
+- Ce salaud dort
+
+493
+00:31:34,142 --> 00:31:37,144
+- alors que Dom va être exécuté.
+- Je suis ouvert aux idées, les gars.
+
+494
+00:31:37,385 --> 00:31:39,365
+Pensez. On court contre le temps.
+
+495
+00:31:39,407 --> 00:31:40,356
+Pourquoi pas
+
+496
+00:31:40,698 --> 00:31:42,586
+une détention extraordinaire ?
+
+497
+00:31:42,776 --> 00:31:46,195
+Non. Kalil Abramson a la citoyenneté
+américaine depuis six ans.
+
+498
+00:31:46,279 --> 00:31:48,739
+La citoyenneté peut être annulée
+pour acte de trahison.
+
+499
+00:31:48,823 --> 00:31:50,741
+Rarement,
+et après un long processus.
+
+500
+00:31:53,887 --> 00:31:55,915
+J'ai préparé un équipage complet,
+
+501
+00:31:56,150 --> 00:31:59,709
+un C-130 avec le plein
+sur la base d'Edwards.
+
+502
+00:31:59,948 --> 00:32:03,323
+Si vous deviez mettre
+Kalil Abramson dans cet avion
+
+503
+00:32:04,077 --> 00:32:07,133
+sous l'accusation
+de combattant ennemi hors-la-loi,
+
+504
+00:32:07,217 --> 00:32:09,808
+ce qu'il est,
+pour toutes les intentions et buts...
+
+505
+00:32:09,850 --> 00:32:12,073
+En direction d'un site secret
+pour l'interroger.
+
+506
+00:32:12,115 --> 00:32:15,065
+J'ai entendu dire
+que Bondsteel au Kosovo
+
+507
+00:32:15,107 --> 00:32:16,309
+était terrible.
+
+508
+00:32:16,798 --> 00:32:19,103
+Vous suggérez de le torturer
+par procuration ?
+
+509
+00:32:19,187 --> 00:32:20,354
+Bien sûr que non.
+
+510
+00:32:20,513 --> 00:32:24,141
+Mais si Kalil pense
+que c'est ce qu'il se passe,
+
+511
+00:32:24,373 --> 00:32:26,573
+je suis sûre
+qu'il commencera à parler
+
+512
+00:32:26,615 --> 00:32:29,739
+- avant que vous soyez à Barstow.
+- Ça tiendra pas au tribunal.
+
+513
+00:32:29,890 --> 00:32:32,055
+Il s'agit pas de monter un dossier
+pour le tribunal.
+
+514
+00:32:32,097 --> 00:32:33,721
+Il s'agit de sauver Dom.
+
+515
+00:32:33,763 --> 00:32:35,578
+Que vous sauviez Dom ou non,
+
+516
+00:32:35,662 --> 00:32:37,952
+Kalil et ses avocats
+nous poursuivront
+
+517
+00:32:37,994 --> 00:32:41,723
+pour se venger, et Abramson
+en sortira libre. Sans oublier que,
+
+518
+00:32:41,765 --> 00:32:44,786
+ce genre de choses peut mettre fin
+à la carrière de chacun ici.
+
+519
+00:32:44,828 --> 00:32:47,923
+Sauver un agent est plus important
+qu'une carrière, Nate.
+
+520
+00:32:51,469 --> 00:32:52,511
+Avec Sam.
+
+521
+00:32:53,205 --> 00:32:54,152
+Moi aussi.
+
+522
+00:33:02,777 --> 00:33:05,594
+Quelqu'un m'a dit un jour
+que les situations extrêmes
+
+523
+00:33:06,167 --> 00:33:08,310
+entraînent des mesures extrêmes.
+
+524
+00:33:15,982 --> 00:33:17,282
+Et puis quoi ?
+
+525
+00:33:17,324 --> 00:33:19,205
+J'ai toujours voulu être magicien.
+
+526
+00:33:20,653 --> 00:33:22,127
+Loin de moi l'idée
+
+527
+00:33:22,169 --> 00:33:26,155
+de contrecarrer vos rêves
+de prestidigitation, M. Getz,
+
+528
+00:33:26,896 --> 00:33:30,299
+mais si quelqu'un doit tomber
+pour ça, ça sera moi.
+
+529
+00:33:30,383 --> 00:33:32,415
+Il est en mouvement...
+Kalil... Il bouge.
+
+530
+00:33:32,457 --> 00:33:33,557
+Allons-y.
+
+531
+00:33:46,796 --> 00:33:49,752
+- Tu sais combien de temps j'ai ?
+- Non.
+
+532
+00:33:54,938 --> 00:33:55,783
+Attends.
+
+533
+00:33:57,401 --> 00:33:59,545
+Je voudrais envoyer un message
+à mes parents.
+
+534
+00:34:00,273 --> 00:34:02,123
+Je peux pas vous aider.
+
+535
+00:34:02,836 --> 00:34:03,836
+Je suis désolé.
+
+536
+00:34:07,026 --> 00:34:08,476
+Mangez votre petit déjeuner.
+
+537
+00:34:47,407 --> 00:34:49,257
+Il tourne sur Broadway.
+
+538
+00:34:52,907 --> 00:34:54,657
+On dirait qu'il s'arrête.
+
+539
+00:35:27,953 --> 00:35:30,002
+Eric, il entre au théâtre Palace.
+
+540
+00:35:30,221 --> 00:35:31,848
+C'est un peu tôt pour une matinée.
+
+541
+00:35:31,963 --> 00:35:34,141
+Il a acheté ce théâtre
+il y a quelques années.
+
+542
+00:35:34,183 --> 00:35:36,550
+Soi-disant pour le transformer
+en un centre des arts scéniques.
+
+543
+00:35:36,806 --> 00:35:37,884
+Magnifique.
+
+544
+00:35:37,969 --> 00:35:41,263
+Les bénéfices de la performance
+d'Equus de ce soir
+
+545
+00:35:41,347 --> 00:35:44,183
+serviront à soutenir
+votre taliban local.
+
+546
+00:35:44,267 --> 00:35:46,393
+<i>On doit garder une ligne ouverte
+avec l'USS Cole.</i>
+
+547
+00:35:46,477 --> 00:35:48,437
+<i>Dès que Kalil nous aura dit
+où est Dom</i>
+
+548
+00:35:48,521 --> 00:35:50,856
+- <i>ils devront brouiller le signal.</i>
+- Je m'en occupe.
+
+549
+00:35:53,014 --> 00:35:55,444
+- On peut avoir un plan de cet endroit ?
+- Compris.
+
+550
+00:35:55,968 --> 00:35:56,818
+C'est bon.
+
+551
+00:37:26,455 --> 00:37:28,055
+Il y a quelqu'un ?
+
+552
+00:37:33,751 --> 00:37:35,127
+On a des coups de feu.
+
+553
+00:37:35,211 --> 00:37:38,255
+- <i>Ça a l'air de venir d'au-dessus.</i>
+- J'essaye de trouver une caméra.
+
+554
+00:38:12,450 --> 00:38:14,959
+<i>J'ai trouvé des caméras de sécurité
+sur l'immeuble d'à côté.</i>
+
+555
+00:38:15,043 --> 00:38:16,799
+<i>J'essaye d'y accéder.</i>
+
+556
+00:38:29,243 --> 00:38:30,093
+Mon Dieu.
+
+557
+00:38:30,512 --> 00:38:32,017
+<i>Kensi, qu'est-ce qu'il y a ?</i>
+
+558
+00:38:32,867 --> 00:38:36,063
+Je suis là où ils détenaient Dom.
+C'est là qu'ils ont tourné la vidéo.
+
+559
+00:38:36,870 --> 00:38:38,670
+Callen, il n'a jamais quitté L.A.
+
+560
+00:38:40,184 --> 00:38:42,893
+<i>J'ai deux caméras.
+Ils sont sur le toit d'à côté.</i>
+
+561
+00:38:49,039 --> 00:38:50,244
+Moe, attends.
+
+562
+00:38:52,380 --> 00:38:54,480
+Je vois Dom.
+Il est sur le toit.
+
+563
+00:38:57,919 --> 00:39:00,004
+- Dom est sur le toit.
+- Moe est là, aussi.
+
+564
+00:39:00,088 --> 00:39:02,590
+<i>Il est un étage au-dessus de toi, G.</i>
+Je vais sur le toit.
+
+565
+00:39:09,496 --> 00:39:11,640
+Je l'ai, j'ai Dom.
+Il est en vie.
+
+566
+00:39:11,724 --> 00:39:12,624
+Allez !
+
+567
+00:39:24,237 --> 00:39:25,154
+Couche-toi !
+
+568
+00:39:27,281 --> 00:39:28,969
+- Allez !
+- <i>Zoom avec la caméra B.</i>
+
+569
+00:39:29,011 --> 00:39:31,901
+- Il y a un tireur sur le toit.
+- Ah, vraiment ?
+
+570
+00:40:05,482 --> 00:40:06,987
+Kalil est dans la cage d'escalier.
+
+571
+00:40:08,145 --> 00:40:10,324
+- Ça va ?
+- Oui. Je savais que vous me trouveriez.
+
+572
+00:40:13,184 --> 00:40:14,078
+Attention !
+
+573
+00:40:23,045 --> 00:40:25,100
+Non ! Dom ! Dom a été touché !
+
+574
+00:40:25,673 --> 00:40:28,342
+Dom est touché ! Il est à terre !
+Dom est à terre !
+
+575
+00:40:28,426 --> 00:40:29,885
+Les secours, maintenant.
+
+576
+00:40:29,969 --> 00:40:32,054
+- D'accord.
+- Tiens le coup, mon pote.
+
+577
+00:40:34,015 --> 00:40:35,315
+Je suis repéré !
+
+578
+00:41:07,111 --> 00:41:08,261
+Kalil est à terre !
+
+579
+00:41:09,383 --> 00:41:10,590
+Rien à signaler !
+
+580
+00:41:10,885 --> 00:41:12,886
+- Les secours arrivent.
+- Ouvre les yeux.
+
+581
+00:41:12,970 --> 00:41:14,888
+Allez !
+Tiens le coup, Dom !
+
+582
+00:41:20,625 --> 00:41:21,436
+Allez.
+
+583
+00:41:22,688 --> 00:41:24,588
+Il est touché à l'artère fémorale.
+
+584
+00:41:24,732 --> 00:41:26,650
+- Où sont les secours ?
+- Allez !
+
+585
+00:41:26,734 --> 00:41:27,982
+Ils arrivent.
+
+586
+00:41:46,775 --> 00:41:49,339
+Tu ne fais que sortir
+ce qui lui reste de sang.
+
+587
+00:41:49,423 --> 00:41:52,092
+- Allez, Dom, bats-toi, mec !
+- Sam...
+
+588
+00:41:52,784 --> 00:41:55,387
+- Il est parti, Sam.
+- Je l'abandonnerai pas, G.
+
+589
+00:41:56,478 --> 00:41:57,727
+Tu ne l'as pas fait.
+
+590
+00:41:59,340 --> 00:42:00,559
+Personne ne l'a fait.
+
+591
+00:43:22,772 --> 00:43:24,851
+.: Team UnderCovers :.
+

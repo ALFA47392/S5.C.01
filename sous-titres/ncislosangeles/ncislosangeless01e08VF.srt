@@ -1,0 +1,2711 @@
+1
+00:01:34,302 --> 00:01:37,204
+. : Team UnderCovers :.
+
+2
+00:01:48,192 --> 00:01:51,652
+NCIS Los Angeles
+1x08 - Ambush
+
+3
+00:01:54,994 --> 00:01:57,305
+Les encouragements positifs
+ont fait leurs preuves.
+
+4
+00:01:57,347 --> 00:02:00,332
+Je préfère les négatifs.
+La loi du silence, l'accueil glacial.
+
+5
+00:02:00,374 --> 00:02:02,099
+Avec la peur, on devient performant.
+
+6
+00:02:02,141 --> 00:02:04,414
+Et c'est aussi faire preuve
+de savoir-vivre.
+
+7
+00:02:04,456 --> 00:02:06,143
+Dont je n'ai rien à faire.
+
+8
+00:02:06,185 --> 00:02:08,805
+Un peu comme le breakdance.
+
+9
+00:02:08,847 --> 00:02:11,697
+Qu'importe. C'est le meilleur
+rapport d'opérations que t'as jamais vu,
+
+10
+00:02:11,739 --> 00:02:14,148
+- que tu l'admettes ou pas.
+- Fais-moi voir.
+
+11
+00:02:17,331 --> 00:02:18,613
+Il est beau.
+
+12
+00:02:18,796 --> 00:02:21,614
+On a les signets en couleur.
+Les points importants en fluo.
+
+13
+00:02:22,274 --> 00:02:23,582
+Attends une minute.
+
+14
+00:02:24,055 --> 00:02:25,542
+Ta mère t'a aidé à le faire ?
+
+15
+00:02:25,584 --> 00:02:27,438
+Je t'ai déjà dit d'arrêter
+avec ma mère.
+
+16
+00:02:28,024 --> 00:02:30,606
+Très joli. Je suis sûr
+qu'Hetty te donnera une médaille en or.
+
+17
+00:02:31,151 --> 00:02:33,411
+J'ai hâte de voir ton projet
+pour la foire des sciences.
+
+18
+00:02:33,453 --> 00:02:34,903
+On devrait faire un volcan.
+
+19
+00:02:35,030 --> 00:02:36,864
+- Je devrais...
+- M'en mettre une.
+
+20
+00:02:37,725 --> 00:02:39,235
+C'est pas ce que j'allais dire.
+
+21
+00:02:40,244 --> 00:02:42,287
+Ravi de voir que vous êtes
+plus copains que jamais.
+
+22
+00:02:42,329 --> 00:02:44,567
+Mike Renko,
+de retour de chez les morts.
+
+23
+00:02:45,107 --> 00:02:47,639
+- Comment étaient ces vacances ?
+- Très drôle.
+
+24
+00:02:47,800 --> 00:02:50,617
+Expliquez-moi comment je me retrouve
+coincé dans la jungle
+
+25
+00:02:50,659 --> 00:02:53,781
+à tuer les moustiques
+pendant que vous arpentez les plages ?
+
+26
+00:02:53,823 --> 00:02:55,466
+T'as la tête à ça, je suppose.
+
+27
+00:02:55,750 --> 00:02:57,134
+T'as tué des méchants ?
+
+28
+00:02:57,786 --> 00:03:00,971
+J'enquêtais sur une milice.
+Ils se font appeler AFO.
+
+29
+00:03:01,294 --> 00:03:03,056
+"Améliorer les Forces de l'Ordre."
+
+30
+00:03:04,932 --> 00:03:07,352
+Ça a été dur, mais j'ai fini
+par trouver un indic.
+
+31
+00:03:07,918 --> 00:03:11,023
+Il peut nous aider à les relier
+à une disparition d'armes à Pendleton.
+
+32
+00:03:12,371 --> 00:03:14,703
+On dirait que t'as retrouvé
+ton copain de chambrée, G.
+
+33
+00:03:14,869 --> 00:03:16,110
+<i>La croisière s'amuse</i>...
+
+34
+00:03:16,449 --> 00:03:17,828
+Sans moi à bord.
+
+35
+00:03:18,180 --> 00:03:19,838
+Je vais rester ici avec une...
+
+36
+00:03:20,351 --> 00:03:21,074
+amie.
+
+37
+00:03:22,115 --> 00:03:23,827
+- Super.
+- Attends un peu.
+
+38
+00:03:25,163 --> 00:03:28,499
+T'es revenu depuis 24 heures,
+et tu restes avec "une amie" ?
+
+39
+00:03:29,501 --> 00:03:30,834
+- C'est...
+- Ahurissant.
+
+40
+00:03:31,002 --> 00:03:34,505
+Ahurissant qu'une personne
+aussi dénuée de charme...
+
+41
+00:03:34,673 --> 00:03:36,048
+À l'hygiène douteuse...
+
+42
+00:03:36,744 --> 00:03:38,842
+puisse lever des coups comme...
+
+43
+00:03:40,464 --> 00:03:41,878
+Hetty vous demande. En haut.
+
+44
+00:03:42,386 --> 00:03:44,348
+Elle a dit :
+un point au premier arrivé.
+
+45
+00:03:59,655 --> 00:04:00,848
+Tu te fous de nous ?
+
+46
+00:04:01,062 --> 00:04:03,360
+- Vaut mieux pas.
+- Non monsieur, je ferais jamais ça.
+
+47
+00:04:03,402 --> 00:04:06,339
+- Alors, elle est où ?
+<i>- Je suis partout, M. Renko.</i>
+
+48
+00:04:06,654 --> 00:04:09,957
+<i>Votre mission a été si longue
+pour que vous ayez oublié ça ?</i>
+
+49
+00:04:10,125 --> 00:04:12,466
+- Elle est à Washington.
+- Je m'excuse
+
+50
+00:04:12,508 --> 00:04:14,007
+de ne pas être avec vous,
+
+51
+00:04:14,049 --> 00:04:16,985
+mais le monde politique m'appelle.
+
+52
+00:04:17,387 --> 00:04:21,176
+Mais notre travail ne s'arrête pas
+pendant que Washington bricole.
+
+53
+00:04:21,451 --> 00:04:22,469
+Alors, allons-y...
+
+54
+00:04:23,438 --> 00:04:25,199
+<i>M. Beale, passez la bande.</i>
+
+55
+00:04:26,871 --> 00:04:30,363
+<i>L'homme derrière la vitre
+est un marine réserviste</i>
+
+56
+00:04:30,552 --> 00:04:33,230
+<i>qui travaillait comme armurier
+au Camp Pendleton.</i>
+
+57
+00:04:34,488 --> 00:04:35,995
+Personne ne trouve ça bizarre ?
+
+58
+00:04:36,424 --> 00:04:38,434
+- On trouve tous ça bizarre.
+- Je vérifiais.
+
+59
+00:04:39,065 --> 00:04:40,679
+<i>J'ai entendu, M. Callen.</i>
+
+60
+00:04:41,116 --> 00:04:43,615
+- Comment ?
+<i>- Vice-caporal</i> Edward MacKaye.
+
+61
+00:04:44,109 --> 00:04:47,927
+<i>MacKaye a été étranglé
+à l'aquarium marin de Cabrillo.</i>
+
+62
+00:04:48,384 --> 00:04:50,914
+<i>Toute la scène a été filmée
+par quelque chose appelée</i>
+
+63
+00:04:51,082 --> 00:04:55,049
+<i>une caméra-poisson,
+qui diffuse 24h/24</i>
+
+64
+00:04:55,269 --> 00:04:58,013
+<i>- sur internet.</i>
+- Il était réserviste,
+
+65
+00:04:58,055 --> 00:05:00,007
+c'est pas une affaire
+pour la police locale ?
+
+66
+00:05:00,316 --> 00:05:02,426
+Je laisse M. Renko vous expliquer.
+
+67
+00:05:03,159 --> 00:05:05,198
+<i>C'est votre affaire, M. Callen.</i>
+
+68
+00:05:07,046 --> 00:05:09,291
+MacKaye ne se contentait pas
+de pointer.
+
+69
+00:05:10,611 --> 00:05:13,145
+C'était mon indic dans l'affaire d'armes
+dont je m'occupe.
+
+70
+00:05:13,272 --> 00:05:14,146
+Tout est là.
+
+71
+00:05:15,746 --> 00:05:19,741
+En trois mois,
+6 missiles antichars Dragon ont disparu
+
+72
+00:05:20,207 --> 00:05:23,349
+quelque part entre l'usine
+et l'Afghanistan.
+
+73
+00:05:26,025 --> 00:05:28,118
+Têtes interchangeables,
+petits, portables,
+
+74
+00:05:28,286 --> 00:05:29,323
+très dangereux.
+
+75
+00:05:29,876 --> 00:05:31,955
+On l'a reliée
+à l'armurerie de Pendleton.
+
+76
+00:05:32,505 --> 00:05:34,833
+Notre premier suspect
+est le soldat Scott Riley.
+
+77
+00:05:35,221 --> 00:05:38,659
+Riley est très malin.
+On n'a rien pu trouver contre ce type.
+
+78
+00:05:38,701 --> 00:05:41,632
+On n'a jamais trouvé comment il sortait
+les Dragon de la base.
+
+79
+00:05:42,607 --> 00:05:44,343
+Montre-nous ce qu'on a sur MacKaye.
+
+80
+00:05:46,221 --> 00:05:48,159
+On a pu approcher
+le caporal Mackaye.
+
+81
+00:05:48,956 --> 00:05:50,963
+Un bon marine. Un gosse réglo.
+
+82
+00:05:51,737 --> 00:05:53,791
+Il travaillait à l'armurerie
+avec Riley.
+
+83
+00:05:54,479 --> 00:05:56,188
+MacKaye devait juste regarder,
+écouter,
+
+84
+00:05:56,411 --> 00:05:58,789
+et nous dire si Riley préparait
+quelque chose de suspect.
+
+85
+00:05:58,831 --> 00:06:00,817
+Comment tout ceci
+est relié à la milice ?
+
+86
+00:06:01,296 --> 00:06:04,029
+On savait que l'AFO cherchait
+des armes lourdes.
+
+87
+00:06:04,612 --> 00:06:07,091
+Je cherche leur base opérationnelle
+depuis des mois,
+
+88
+00:06:07,133 --> 00:06:09,993
+mais ces types bougent sans cesse.
+Surtout près des frontières.
+
+89
+00:06:10,329 --> 00:06:12,475
+- Comme les coyotes.
+- Exact.
+
+90
+00:06:13,031 --> 00:06:16,208
+Les clandestins traversent,
+et l'AFO les attend.
+
+91
+00:06:17,153 --> 00:06:19,662
+On a examiné les écoutes téléphoniques
+sur 10 ans.
+
+92
+00:06:20,130 --> 00:06:22,839
+Il se trouve que le soldat Riley
+a un passé...
+
+93
+00:06:23,505 --> 00:06:25,750
+avec deux des chefs présumés
+de l'AFO.
+
+94
+00:06:25,792 --> 00:06:28,596
+Voici Malcolm Tallridge,
+le fondateur charismatique,
+
+95
+00:06:29,682 --> 00:06:31,413
+et son numéro 2, John Bordinay.
+
+96
+00:06:32,028 --> 00:06:33,304
+Un dingue paranoïaque.
+
+97
+00:06:34,038 --> 00:06:35,352
+La tête et les jambes.
+
+98
+00:06:35,520 --> 00:06:38,307
+On pense que c'est Bordinay
+qui est derrière le fusil
+
+99
+00:06:38,556 --> 00:06:40,610
+dans cette vidéo récupérée
+sur internet.
+
+100
+00:06:44,678 --> 00:06:47,406
+Cet été, ces mecs ont poursuivi
+20 personnes dans le désert.
+
+101
+00:06:48,639 --> 00:06:50,909
+Elles sont toutes mortes de soif,
+dont trois enfants.
+
+102
+00:06:51,178 --> 00:06:52,628
+Ça ne les dérange pas.
+
+103
+00:06:52,992 --> 00:06:54,579
+Les morts prouvent leur opinion :
+
+104
+00:06:54,899 --> 00:06:57,599
+la situation nous échappe,
+ils doivent faire quelque chose.
+
+105
+00:06:58,229 --> 00:07:00,283
+Ils prétendent protéger
+notre liberté.
+
+106
+00:07:00,980 --> 00:07:04,631
+On espère arrêter ces types
+avant qu'ils ne déraillent complètement.
+
+107
+00:07:04,799 --> 00:07:07,273
+Comme s'équiper de missiles Dragon ?
+
+108
+00:07:09,158 --> 00:07:10,816
+C'est ce qu'ils viennent de faire.
+
+109
+00:07:29,484 --> 00:07:31,134
+Bienvenue à Washington, Henrietta.
+
+110
+00:07:31,586 --> 00:07:32,792
+Directeur Vance.
+
+111
+00:07:33,406 --> 00:07:36,580
+Service à domicile.
+Ce n'est pas dans mes habitudes.
+
+112
+00:07:36,868 --> 00:07:39,541
+Les gens peuvent changer.
+Et je vous en dois une belle.
+
+113
+00:07:39,850 --> 00:07:43,754
+Oui, surtout que vous m'avez forcé
+à laisser l'agence aux enfants.
+
+114
+00:07:44,067 --> 00:07:46,057
+Quel mal peuvent-ils faire
+en 8 heures ?
+
+115
+00:07:46,099 --> 00:07:48,857
+Je suis ici pour tant de temps ?
+
+116
+00:07:49,274 --> 00:07:52,516
+Mon Dieu. Vous m'avez dit
+qu'ils avaient quelques questions
+
+117
+00:07:52,558 --> 00:07:55,744
+à propos de la sécurité
+de vos fonds secrets.
+
+118
+00:07:56,360 --> 00:08:00,145
+Pensez-y plutôt comme à une discussion
+entre amis au coin du feu,
+
+119
+00:08:00,819 --> 00:08:03,065
+sur l'efficacité du processus
+de distribution
+
+120
+00:08:03,233 --> 00:08:05,601
+des fonds pour les opérations
+fédérales inter-agences.
+
+121
+00:08:05,846 --> 00:08:08,653
+Pourquoi ils ne m'envoient pas
+dans un puits pour voir si je flotte ?
+
+122
+00:08:09,107 --> 00:08:10,662
+Ce n'est pas un piège, Hetty.
+
+123
+00:08:11,002 --> 00:08:13,867
+Je me rappelle qu'on avait dit
+la même chose à celle qui m'a précédée
+
+124
+00:08:13,909 --> 00:08:15,506
+avant qu'elle disparaisse.
+
+125
+00:08:15,548 --> 00:08:16,820
+Aux dernières nouvelles,
+
+126
+00:08:16,862 --> 00:08:20,540
+Macy travaillait
+dans un préfabriqué à Djibouti.
+
+127
+00:08:37,145 --> 00:08:40,167
+MacKaye ne serait jamais allé
+dans l'aquarium pour voir quelqu'un.
+
+128
+00:08:40,393 --> 00:08:43,021
+Pas pendant le nettoyage.
+Je pense que...
+
+129
+00:08:43,336 --> 00:08:45,941
+quelqu'un le suivait
+Donc, il a été dans l'aquarium,
+
+130
+00:08:46,109 --> 00:08:48,838
+pour se cacher.
+Le méchant l'a suivi, et... paf.
+
+131
+00:08:49,287 --> 00:08:51,279
+MacKaye apparaît sur la caméra.
+
+132
+00:08:51,752 --> 00:08:54,700
+Donc, Riley va sur la plage,
+notre indic le suit.
+
+133
+00:08:54,742 --> 00:08:58,177
+Il est repéré.
+Le méchant voit rouge, il panique,
+
+134
+00:08:58,500 --> 00:09:01,039
+- il le tue.
+- Pourquoi le méchant était là ?
+
+135
+00:09:01,506 --> 00:09:03,291
+Il n'y avait pas
+de cible potentielle.
+
+136
+00:09:03,589 --> 00:09:06,464
+Il y a des gens partout,
+c'est bien trop exposé, et c'est...
+
+137
+00:09:06,506 --> 00:09:09,673
+blindé de policiers à cause
+du port en face.
+
+138
+00:09:11,802 --> 00:09:13,859
+Un missile tiendrait
+dans un sac à voiles ?
+
+139
+00:09:14,971 --> 00:09:15,886
+Largement.
+
+140
+00:09:17,691 --> 00:09:19,639
+Vous croyez
+que Riley fait de la planche ?
+
+141
+00:09:20,696 --> 00:09:22,393
+Les vidéos de sécurité de Pendleton.
+
+142
+00:09:22,587 --> 00:09:25,480
+Riley quitte la base dans son 4x4
+avec son équipement
+
+143
+00:09:25,648 --> 00:09:28,692
+sur le toit. Les gardes vérifient tout :
+l'avant, l'arrière
+
+144
+00:09:28,955 --> 00:09:31,796
+partout, mais ils n'ouvrent jamais
+le sac à voiles.
+
+145
+00:09:31,838 --> 00:09:33,780
+Riley va à la plage
+et brouille les pistes.
+
+146
+00:09:33,907 --> 00:09:35,615
+Ou c'est là qu'il a livré les armes.
+
+147
+00:09:35,887 --> 00:09:38,022
+Ils prennent son sac,
+il prend leur sac.
+
+148
+00:09:38,394 --> 00:09:40,078
+Il retourne à la base et recommence.
+
+149
+00:09:40,442 --> 00:09:43,206
+Six fois, ce qui explique
+que Renko n'ait rien trouvé.
+
+150
+00:09:43,714 --> 00:09:45,110
+<i>Tu entends ça, Kensi ?</i>
+
+151
+00:09:45,152 --> 00:09:47,919
+Oui. La voiture de Riley
+est juste devant moi.
+
+152
+00:09:48,087 --> 00:09:50,463
+<i>- Il est garé devant son appartement.</i>
+- Et Riley ?
+
+153
+00:09:50,918 --> 00:09:52,132
+Je ne l'ai pas vu.
+
+154
+00:09:52,738 --> 00:09:53,664
+Tu sais quoi ?
+
+155
+00:09:53,706 --> 00:09:56,493
+Je vais aller un peu fureter,
+<i>voir s'il a transporté des explosifs.</i>
+
+156
+00:10:48,481 --> 00:10:49,829
+Mauvaise idée, soldat.
+
+157
+00:10:50,437 --> 00:10:52,594
+- Tu as commencé sans moi.
+- Oh, mon Dieu.
+
+158
+00:10:52,784 --> 00:10:54,402
+Tu visitais le quartier ?
+
+159
+00:10:54,696 --> 00:10:56,404
+Je vérifiais son courrier.
+
+160
+00:10:56,731 --> 00:10:58,573
+Pas un merci
+pour avoir sauvé ton cul ?
+
+161
+00:10:59,512 --> 00:11:00,784
+C'était pas la peine.
+
+162
+00:11:00,952 --> 00:11:02,827
+- Mais si.
+- Je suis sûre que non.
+
+163
+00:11:03,634 --> 00:11:04,705
+Tes mains.
+
+164
+00:11:04,747 --> 00:11:06,957
+Si un cul mérite d'être sauvé,
+c'est bien le tien.
+
+165
+00:11:09,075 --> 00:11:11,303
+Je croyais que vous me voliez
+ma planche.
+
+166
+00:11:11,345 --> 00:11:12,902
+Donc vous m'étranglez ?
+
+167
+00:11:12,944 --> 00:11:15,840
+- Vous me jetez contre une voiture ?
+- C'est un quartier difficile.
+
+168
+00:11:16,466 --> 00:11:18,666
+Vous auriez pu avoir un ami
+ou une arme.
+
+169
+00:11:19,596 --> 00:11:21,107
+Pas de bol, vous aviez les deux.
+
+170
+00:11:21,782 --> 00:11:24,833
+Pourquoi ne pas me parler plutôt
+de vos relations avec l'AFO ?
+
+171
+00:11:26,281 --> 00:11:27,060
+Qui ?
+
+172
+00:11:32,917 --> 00:11:35,191
+Les gars à qui vous avez vendu
+les Dragon.
+
+173
+00:11:37,813 --> 00:11:41,349
+C'est pas dangereux qu'elle soit
+seule avec lui ? Il est immense.
+
+174
+00:11:41,486 --> 00:11:43,243
+Il est plus grand,
+plus fort, mais...
+
+175
+00:11:43,631 --> 00:11:44,911
+elle est plus méchante.
+
+176
+00:11:46,404 --> 00:11:48,790
+On a fouillé son appartement.
+Il n'y a rien de valeur.
+
+177
+00:11:49,276 --> 00:11:52,577
+Eric et Dom ont passé au peigne fin
+ses comptes, ses cartes de crédit.
+
+178
+00:11:52,943 --> 00:11:56,009
+Si ce gars est impliqué,
+il sait garder le contrôle.
+
+179
+00:11:58,075 --> 00:12:01,918
+Riley a réussi à sortir un missile
+de la base six fois.
+
+180
+00:12:01,960 --> 00:12:03,471
+C'est malin.
+
+181
+00:12:03,840 --> 00:12:07,464
+Mais quand MacKaye l'a suivi...
+Riley le tue devant la caméra ?
+
+182
+00:12:08,514 --> 00:12:10,774
+- Pas si malin.
+- C'est impulsif, désespéré.
+
+183
+00:12:12,343 --> 00:12:14,734
+Je ne sais pas. J'ai l'impression
+que la donne a changé.
+
+184
+00:12:15,702 --> 00:12:19,446
+Il ment, parle pour ne rien dire,
+et il m'embrouille.
+
+185
+00:12:19,773 --> 00:12:21,364
+On dirait un second rendez-vous.
+
+186
+00:12:22,480 --> 00:12:24,159
+Tu n'auras jamais à t'en soucier.
+
+187
+00:12:25,995 --> 00:12:28,944
+Il a même utilisé une autre corde
+quand il m'a étranglée.
+
+188
+00:12:30,976 --> 00:12:32,428
+Je suis sûre d'une chose.
+
+189
+00:12:33,277 --> 00:12:34,614
+Il a volé les missiles...
+
+190
+00:12:35,347 --> 00:12:36,713
+et il a tué MacKaye.
+
+191
+00:12:37,152 --> 00:12:39,912
+Ce gars est à la fois Tim Mcveigh,
+et un pilote du 11 septembre.
+
+192
+00:12:39,954 --> 00:12:41,468
+Il ne trahira pas sa cause.
+
+193
+00:12:41,839 --> 00:12:43,928
+- Libérer l'Amérique ?
+- Mais c'est un suiveur,
+
+194
+00:12:44,415 --> 00:12:45,388
+pas un leader.
+
+195
+00:12:45,999 --> 00:12:47,724
+Quelque chose lui fait peur.
+
+196
+00:12:48,346 --> 00:12:49,564
+Ou quelqu'un.
+
+197
+00:13:05,576 --> 00:13:06,409
+Sors.
+
+198
+00:13:12,997 --> 00:13:14,000
+Soldat Riley ?
+
+199
+00:13:14,540 --> 00:13:15,450
+Merci.
+
+200
+00:13:22,330 --> 00:13:23,510
+Il est tout à vous.
+
+201
+00:13:31,024 --> 00:13:32,608
+On se voit demain, Scott.
+
+202
+00:13:33,268 --> 00:13:34,677
+On parlera un peu plus.
+
+203
+00:13:42,455 --> 00:13:43,613
+Tu regardes quoi ?
+
+204
+00:14:07,249 --> 00:14:08,666
+Sympa la bétaillère.
+
+205
+00:14:09,442 --> 00:14:11,687
+Mais l'aménagement, c'était trop cher ?
+C'est ça ?
+
+206
+00:14:16,454 --> 00:14:18,022
+Je suis enfermé depuis 3 jours.
+
+207
+00:14:18,190 --> 00:14:20,709
+Je veux me doucher, me raser
+et un uniforme propre.
+
+208
+00:14:21,142 --> 00:14:23,903
+- Il ne fallait pas le déshonorer.
+- J'ai des droits.
+
+209
+00:14:24,472 --> 00:14:27,173
+Vous y avez renoncé.
+Vous appartenez à l'Oncle Sam.
+
+210
+00:14:27,409 --> 00:14:29,868
+Vous l'avez cherché.
+Ça en valait le coup j'espère, caporal.
+
+211
+00:14:30,036 --> 00:14:31,602
+"Ça en valait le coup j'espère."
+
+212
+00:14:32,633 --> 00:14:33,580
+Écoute-le.
+
+213
+00:14:36,416 --> 00:14:38,058
+Mate-moi cette tenue de MP.
+
+214
+00:14:38,491 --> 00:14:40,656
+Il a fait ces chevrons
+en arts manuels, tu crois ?
+
+215
+00:14:40,698 --> 00:14:43,030
+- Laisse-moi en dehors de ça.
+- "Laisse-moi en dehors de ça."
+
+216
+00:14:43,072 --> 00:14:45,649
+Écoutez-vous.
+Vous devriez prendre une chambre à deux.
+
+217
+00:14:48,820 --> 00:14:51,258
+Combien de MP il faut
+pour changer une ampoule ?
+
+218
+00:14:54,258 --> 00:14:54,975
+50.
+
+219
+00:14:55,916 --> 00:14:58,600
+Un qui change l'ampoule,
+49 <i>qui montent la garde</i>.
+
+220
+00:14:58,747 --> 00:15:00,827
+C'est la pire blague
+que j'aie jamais entendue.
+
+221
+00:15:00,869 --> 00:15:02,859
+Sans blague. Il fait quoi Callen ?
+
+222
+00:15:03,027 --> 00:15:05,153
+Règle 101 du manuel :
+forger un lien avec Riley
+
+223
+00:15:05,321 --> 00:15:07,593
+en créant un ennemi commun, Sam.
+
+224
+00:15:07,769 --> 00:15:09,143
+- <i>Une autre ?</i>
+- Non !
+
+225
+00:15:10,286 --> 00:15:12,869
+Pourquoi les MP ne se douchent pas
+avant un combat ?
+
+226
+00:15:13,295 --> 00:15:15,675
+Parce qu'ils seront douchés
+sur le rivage de toute façon.
+
+227
+00:15:17,597 --> 00:15:19,134
+T'as eu droit à un sourire.
+
+228
+00:15:20,227 --> 00:15:22,131
+Un petit sourire.
+Comment ça va ?
+
+229
+00:15:28,552 --> 00:15:30,803
+Vous savez toujours qui vous êtes,
+c'est bien.
+
+230
+00:15:32,497 --> 00:15:33,640
+Vous vous amusez ?
+
+231
+00:15:33,982 --> 00:15:36,133
+Le dernier à s'être amusé
+à Washington
+
+232
+00:15:36,268 --> 00:15:38,228
+fut le Général Jubal Early
+
+233
+00:15:38,645 --> 00:15:42,064
+<i>en 1864.</i>
+Il attaquait la ville à l'époque.
+
+234
+00:15:43,840 --> 00:15:46,569
+<i>Les patients</i>
+n'ont pas encore mis le feu à l'asile ?
+
+235
+00:15:46,820 --> 00:15:48,237
+Jusqu'ici tout va bien.
+
+236
+00:15:48,478 --> 00:15:51,115
+<i>- Comment va M. Callen ?</i>
+- Il est opérationnel.
+
+237
+00:15:52,095 --> 00:15:53,076
+Opérationnel ?
+
+238
+00:15:53,244 --> 00:15:55,995
+L'opération de Renko contre la milice,
+on a eu une ouverture.
+
+239
+00:15:57,569 --> 00:15:59,707
+Quel genre d'ouverture, Eric ?
+
+240
+00:15:59,834 --> 00:16:02,669
+Ces gars n'ont pas de lignes fixes
+ni de portables, mais Riley
+
+241
+00:16:02,837 --> 00:16:05,838
+a utilisé son ordinateur pour chercher
+du porno, des sites de propagande et...
+
+242
+00:16:07,328 --> 00:16:10,106
+247 adresses sur Google Maps.
+
+243
+00:16:11,777 --> 00:16:14,980
+<i>C'est une opération cinglée
+et farfelue.</i>
+
+244
+00:16:15,920 --> 00:16:19,519
+<i>Je pars quelques heures,
+et vous devenez tous fous !</i>
+
+245
+00:16:20,141 --> 00:16:22,443
+Ces milices sont plus paranoïaques
+
+246
+00:16:22,485 --> 00:16:24,591
+que vous ne pourriez jamais
+l'imaginer.
+
+247
+00:16:24,795 --> 00:16:26,526
+Voilà ce que j'attends de vous.
+
+248
+00:16:28,053 --> 00:16:31,049
+<i>Si vous désirez passer un appel,
+raccrochez et réessayez.</i>
+
+249
+00:16:31,416 --> 00:16:32,608
+C'était pas moi.
+
+250
+00:16:35,017 --> 00:16:38,762
+Seigneur Dieu ! Bon sang !
+
+251
+00:16:44,140 --> 00:16:47,858
+Hetty, c'est Nate. Nous avons fait
+une analyse des risques,
+
+252
+00:16:47,900 --> 00:16:50,383
+nous l'avons soumise au directeur Vance,
+et il l'a approuvée.
+
+253
+00:16:50,784 --> 00:16:52,824
+Et pourquoi
+ne m'avez-vous pas informée ?
+
+254
+00:16:53,190 --> 00:16:54,971
+<i>Vous étiez à une audience du Sénat.</i>
+
+255
+00:16:55,820 --> 00:16:58,975
+<i>Vous n'avez aucune idée
+de ce que vous affrontez.</i>
+
+256
+00:16:59,157 --> 00:17:02,103
+<i>Votre analyse de risques
+est inutile.</i>
+
+257
+00:17:02,271 --> 00:17:04,814
+<i>Les dangers sont incommensurables.</i>
+
+258
+00:17:04,982 --> 00:17:06,750
+M. Callen pourrait être...
+
+259
+00:17:07,691 --> 00:17:09,902
+tué... ou pire.
+
+260
+00:17:10,070 --> 00:17:12,595
+Mme Lange ?
+Le comité vous attend.
+
+261
+00:17:13,000 --> 00:17:15,510
+Stoppez tout, Nate.
+
+262
+00:17:16,079 --> 00:17:17,504
+Hetty, c'est... <i>trop tard.</i>
+
+263
+00:17:22,988 --> 00:17:24,476
+Mademoiselle Lange.
+
+264
+00:17:27,354 --> 00:17:29,047
+J'ai quelque chose.
+
+265
+00:17:30,216 --> 00:17:31,778
+Les résultats sur Google Maps...
+
+266
+00:17:31,820 --> 00:17:34,385
+Les 247 correspondent
+à des bâtiments fédéraux.
+
+267
+00:17:35,523 --> 00:17:37,324
+Ce sont des centres d'immigrations.
+
+268
+00:17:39,308 --> 00:17:41,495
+C'est sûrement une liste
+de cibles potentielles.
+
+269
+00:17:43,157 --> 00:17:44,437
+Tu t'entraînes souvent ?
+
+270
+00:17:44,831 --> 00:17:47,094
+En tant que MP,
+tu dois avoir le temps.
+
+271
+00:17:47,635 --> 00:17:49,420
+Essayages, défilés...
+
+272
+00:17:50,003 --> 00:17:53,071
+Poursuivre les gars comme moi,
+au lieu des ennemis de l'Amérique.
+
+273
+00:17:54,386 --> 00:17:55,615
+Je suis patriote.
+
+274
+00:17:55,783 --> 00:17:57,334
+Je suis fier de mon pays.
+
+275
+00:17:58,895 --> 00:18:00,703
+C'est le gouvernement qui est nul.
+
+276
+00:18:17,388 --> 00:18:19,013
+C'est quoi ça ?
+Quelqu'un tire.
+
+277
+00:18:29,024 --> 00:18:30,232
+C'est pas trop tôt !
+
+278
+00:18:30,401 --> 00:18:32,151
+- Je suis là, non ?
+- Prends les clés.
+
+279
+00:18:32,798 --> 00:18:33,879
+Le flingue !
+
+280
+00:18:35,167 --> 00:18:37,163
+- Il se passe quoi, là ?
+- Ça te regarde pas.
+
+281
+00:18:37,205 --> 00:18:38,759
+- Vous êtes qui ?
+- Ta gueule !
+
+282
+00:18:50,668 --> 00:18:51,546
+Attends.
+
+283
+00:18:52,086 --> 00:18:53,648
+- Merde.
+- Attends !
+
+284
+00:18:54,114 --> 00:18:54,841
+Idiots.
+
+285
+00:18:55,493 --> 00:18:57,215
+Et moi ?
+Tu peux pas me laisser ici.
+
+286
+00:18:57,257 --> 00:18:59,262
+- Je te laisse en dehors de ça.
+- Détache-moi !
+
+287
+00:18:59,430 --> 00:19:01,681
+Je peux nous aider. J'ai des amis.
+
+288
+00:19:02,063 --> 00:19:05,160
+- Tu sais quoi ? On a tous des amis.
+- Écoute. Ce gars a des connexions.
+
+289
+00:19:05,419 --> 00:19:07,145
+Il a des gens partout dans le pays.
+
+290
+00:19:07,313 --> 00:19:09,824
+Il peut nous aider.
+Il a des armes, de la nourriture,
+
+291
+00:19:09,866 --> 00:19:11,357
+des planques sûres, tu vois ?
+
+292
+00:19:11,525 --> 00:19:13,192
+Ils ne nous trouveront jamais.
+
+293
+00:19:16,655 --> 00:19:17,943
+Riley mord à l'hameçon.
+
+294
+00:19:17,985 --> 00:19:21,942
+Callen a fait en deux heures
+ce qui prend facilement deux ans,
+
+295
+00:19:22,257 --> 00:19:24,454
+infiltrer un groupe extrémiste
+paranoïaque.
+
+296
+00:19:45,517 --> 00:19:47,707
+- La fête est finie les gars.
+- Bon boulot.
+
+297
+00:19:50,878 --> 00:19:52,148
+Nettoyez-moi ça.
+
+298
+00:19:52,715 --> 00:19:55,151
+- On a la localisation GPS ?
+- Un signal fort et précis.
+
+299
+00:19:55,319 --> 00:19:56,858
+- Vêtements ?
+- À l'arrière.
+
+300
+00:19:56,900 --> 00:19:57,945
+Allez, on y va !
+
+301
+00:20:36,106 --> 00:20:37,970
+Ne me dis pas qu'on va camper.
+
+302
+00:20:38,337 --> 00:20:40,310
+- On va camper ?
+- Non, on ne va pas camper.
+
+303
+00:20:40,352 --> 00:20:41,405
+Je hais le camping.
+
+304
+00:20:45,668 --> 00:20:48,616
+Baisse ton flingue, Jay !
+C'est Riley !
+
+305
+00:20:49,743 --> 00:20:52,250
+- Donne-moi ton arme.
+- Je crois pas.
+
+306
+00:20:52,645 --> 00:20:55,795
+L'homme qu'on va voir n'accueille pas
+très amicalement les étrangers armés.
+
+307
+00:21:04,863 --> 00:21:06,417
+Vous vous foutez de moi.
+
+308
+00:21:06,878 --> 00:21:08,766
+Un des frères Jonas m'a tiré dessus.
+
+309
+00:21:09,504 --> 00:21:11,811
+<i>Je crois que je vais rencontrer
+le reste de la famille.</i>
+
+310
+00:21:14,985 --> 00:21:17,066
+Pointe encore ce truc sur moi
+et je te brise le cou.
+
+311
+00:21:19,703 --> 00:21:22,344
+- Emmène-moi voir Malcolm.
+- Il déteste les étrangers.
+
+312
+00:21:22,572 --> 00:21:24,305
+Bien, c'est ton enterrement.
+
+313
+00:21:25,479 --> 00:21:28,035
+C'est Jay, je reviens.
+On a de la compagnie.
+
+314
+00:21:28,077 --> 00:21:29,829
+Il y aura une salle de bains
+là où on va ?
+
+315
+00:21:30,727 --> 00:21:31,959
+Tu iras dans les bois.
+
+316
+00:21:32,001 --> 00:21:34,711
+Je le savais. Je te sauve la vie
+et tu m'emmènes camper.
+
+317
+00:21:35,547 --> 00:21:37,898
+Au moins, il y avait des toilettes
+là où j'étais.
+
+318
+00:21:38,260 --> 00:21:39,734
+Et une télé et de l'ambiance !
+
+319
+00:21:39,953 --> 00:21:42,611
+Au moins d'où je viens,
+on sait fermer sa gueule.
+
+320
+00:21:45,664 --> 00:21:47,857
+Au moins d'où je viens,
+on a pas un bouc appalache.
+
+321
+00:21:49,638 --> 00:21:51,403
+Au moins,
+je peux en faire pousser un.
+
+322
+00:22:02,506 --> 00:22:05,281
+Nate, t'as une minute ?
+Il faut que tu entendes ça.
+
+323
+00:22:05,646 --> 00:22:09,072
+Il y a dix ans, Hetty a travaillé
+avec un agent nommé Sullivan.
+
+324
+00:22:09,245 --> 00:22:11,203
+Il a été tué
+en infiltrant une milice.
+
+325
+00:22:11,542 --> 00:22:12,955
+Ça explique sa réaction.
+
+326
+00:22:13,082 --> 00:22:14,666
+Oui, mais il y a autre chose.
+
+327
+00:22:14,829 --> 00:22:17,976
+Elle l'a elle-même recruté...
+au NCIS.
+
+328
+00:22:19,125 --> 00:22:22,930
+Elle était responsable d'une opération
+menée conjointement avec la police.
+
+329
+00:22:23,767 --> 00:22:26,594
+Elle lui a écrit
+sa lettre de recommandation,
+
+330
+00:22:27,113 --> 00:22:29,956
+disant qu'il était le meilleur jeune
+lieutenant qu'elle ait jamais vu.
+
+331
+00:22:32,122 --> 00:22:34,074
+"Posé, confiant,
+
+332
+00:22:34,116 --> 00:22:36,604
+et mentalement prêt
+pour le travail sous couverture."
+
+333
+00:22:37,441 --> 00:22:38,875
+Ça te rappelle quelqu'un ?
+
+334
+00:22:42,441 --> 00:22:44,362
+- Désolé, c'est une réunion privée.
+- Jack,
+
+335
+00:22:44,530 --> 00:22:45,543
+c'est bon.
+
+336
+00:22:46,519 --> 00:22:49,467
+Bon sang,
+pourquoi ne m'avoir rien dit, Leon ?
+
+337
+00:22:49,509 --> 00:22:51,459
+Excusez-moi, sénateurs.
+
+338
+00:22:53,591 --> 00:22:56,678
+Il y a très peu de façons d'infiltrer
+une milice, il faut saisir l'occasion...
+
+339
+00:22:56,720 --> 00:22:58,250
+La difficulté vient du fait
+
+340
+00:22:58,418 --> 00:23:01,128
+qu'ils sont fous,
+paranoïaques et dangereux.
+
+341
+00:23:01,811 --> 00:23:03,464
+Callen n'est pas Sullivan.
+
+342
+00:23:04,371 --> 00:23:07,362
+Aujourd'hui, on s'occupe de terroristes,
+de cartels et de gangs chaque jour.
+
+343
+00:23:07,404 --> 00:23:09,136
+Pas de raisons
+que ce soit différent.
+
+344
+00:23:10,681 --> 00:23:12,966
+Pouvez-vous ramener
+Mlle Lange à l'audition,
+
+345
+00:23:13,008 --> 00:23:15,220
+- qu'elle puisse finir de témoigner.
+- C'est par là.
+
+346
+00:23:16,215 --> 00:23:17,478
+Je vais faire attention
+
+347
+00:23:18,177 --> 00:23:19,234
+Je le promets.
+
+348
+00:23:20,247 --> 00:23:23,275
+Certaines promesses
+sont intenables, Leon.
+
+349
+00:23:31,339 --> 00:23:33,577
+Il y a eu beaucoup
+de circulation par là,
+
+350
+00:23:34,487 --> 00:23:37,196
+je dirais au moins
+cinq véhicules différents,
+
+351
+00:23:37,238 --> 00:23:38,627
+peut-être un camion.
+
+352
+00:23:43,645 --> 00:23:45,319
+J'ai trouvé l'oreillette de Callen.
+
+353
+00:23:46,025 --> 00:23:47,758
+G avait peur d'être fouillé.
+
+354
+00:23:48,028 --> 00:23:49,830
+La paranoïa est contagieuse.
+
+355
+00:24:08,439 --> 00:24:09,913
+Bien, nous y voilà.
+
+356
+00:24:29,575 --> 00:24:30,968
+Voilà un Dragon.
+
+357
+00:24:35,153 --> 00:24:37,683
+C'est Malcolm Tallridge,
+le fondateur de l'AFO.
+
+358
+00:24:37,725 --> 00:24:40,644
+Le crasseux à ses côtés,
+c'est John Bordinay, son bras droit.
+
+359
+00:24:42,439 --> 00:24:44,440
+Malcolm, Bordinay.
+
+360
+00:24:45,081 --> 00:24:46,358
+Riley, qui est ton ami ?
+
+361
+00:24:46,526 --> 00:24:49,320
+Il était dans le fourgon.
+Ses potes nous ont libérés.
+
+362
+00:24:49,488 --> 00:24:51,030
+- Où sont ses potes ?
+- Morts.
+
+363
+00:24:53,435 --> 00:24:56,619
+On doit être au centre opérationnel.
+Tous les missiles sont dans la cabane.
+
+364
+00:24:59,846 --> 00:25:01,029
+Tu tues un marine,
+
+365
+00:25:01,938 --> 00:25:04,210
+tu te fais choper,
+tu t'évades d'un fourgon,
+
+366
+00:25:04,921 --> 00:25:07,213
+et t'amènes un étranger ici ?
+
+367
+00:25:07,850 --> 00:25:10,428
+- Tu nous mets en danger.
+- C'est plus sûr comme ça.
+
+368
+00:25:11,090 --> 00:25:13,330
+Personne n'est arrêté,
+personne n'est interrogé.
+
+369
+00:25:13,877 --> 00:25:16,048
+Toute la milice est là.
+
+370
+00:25:17,724 --> 00:25:19,217
+Des renforts. Maintenant.
+
+371
+00:25:19,559 --> 00:25:20,400
+Compris.
+
+372
+00:25:22,134 --> 00:25:23,059
+Ils arrivent.
+
+373
+00:25:23,290 --> 00:25:25,940
+Callen va foutre le camp de là
+à la première occasion, non ?
+
+374
+00:25:26,587 --> 00:25:28,442
+S'il fait pas le mariole,
+on y arrivera.
+
+375
+00:25:28,719 --> 00:25:29,902
+Une partie de plaisir.
+
+376
+00:25:32,587 --> 00:25:33,512
+Il a raison.
+
+377
+00:25:40,122 --> 00:25:41,455
+Ne tirez pas sauf obligation.
+
+378
+00:25:47,606 --> 00:25:49,505
+Cessez le feu ! Cessez le feu !
+
+379
+00:25:49,632 --> 00:25:51,507
+Ne l'abattez pas !
+Ne tirez pas !
+
+380
+00:25:56,071 --> 00:25:57,319
+Qu'est-ce qu'on fait ?
+
+381
+00:26:00,971 --> 00:26:02,718
+Je veux pas d'ennuis, Malcolm.
+
+382
+00:26:05,091 --> 00:26:07,166
+Vous avez tous l'air
+de citoyens patriotes.
+
+383
+00:26:07,629 --> 00:26:09,859
+Vous savez conclure une affaire,
+je me trompe ?
+
+384
+00:26:10,276 --> 00:26:11,704
+Qui est dans les bois, mec ?
+
+385
+00:26:12,293 --> 00:26:13,154
+Dis-le-moi.
+
+386
+00:26:13,721 --> 00:26:15,906
+Je veux juste les clés de ce camion
+et je me casse.
+
+387
+00:26:16,129 --> 00:26:17,324
+Personne ne sera blessé.
+
+388
+00:26:18,263 --> 00:26:19,785
+T'inquiète, ils tireront pas.
+
+389
+00:26:21,266 --> 00:26:22,548
+J'en suis pas sûr.
+
+390
+00:26:26,896 --> 00:26:28,346
+Rappelle-les, Malcolm !
+
+391
+00:26:29,498 --> 00:26:30,713
+Vas-y, tue le môme.
+
+392
+00:26:31,643 --> 00:26:33,382
+Il est prêt à mourir pour la cause.
+
+393
+00:26:34,581 --> 00:26:35,718
+C'est vrai, Jay ?
+
+394
+00:26:38,982 --> 00:26:40,790
+Il aimerait mieux pas, Malcolm.
+
+395
+00:26:41,954 --> 00:26:44,685
+Et si on se parlait tous les deux ?
+T'en dis quoi ?
+
+396
+00:26:45,087 --> 00:26:47,102
+Je veux le directeur Vance
+au téléphone.
+
+397
+00:26:47,587 --> 00:26:50,362
+Je veux les renforts maintenant !
+J'ai un agent en danger.
+
+398
+00:26:50,404 --> 00:26:52,193
+Je viens de les avoir, ils arrivent.
+
+399
+00:26:52,575 --> 00:26:54,737
+- Hetty avait raison.
+- Hetty a toujours raison.
+
+400
+00:26:56,540 --> 00:26:57,777
+Jay est un gosse.
+
+401
+00:26:58,125 --> 00:26:59,987
+T'as pas besoin
+de ce genre de publicité.
+
+402
+00:27:01,068 --> 00:27:02,953
+Ça va faire mauvais genre
+pour ton recrutement.
+
+403
+00:27:06,127 --> 00:27:07,295
+Que fait Sam ?
+
+404
+00:27:09,405 --> 00:27:10,461
+Restez calme.
+
+405
+00:27:12,374 --> 00:27:13,615
+Je suis pas armé !
+
+406
+00:27:13,932 --> 00:27:15,163
+Je suis de l'ATF.
+
+407
+00:27:15,799 --> 00:27:17,426
+Le camp est encerclé.
+
+408
+00:27:18,431 --> 00:27:20,387
+Je suis autorisé
+à négocier votre reddition.
+
+409
+00:27:20,865 --> 00:27:22,736
+On ne veut pas un autre Ruby Ridge.
+
+410
+00:27:23,433 --> 00:27:25,996
+<i>On sait pour les missiles.
+On sait pour Mackaye.</i>
+
+411
+00:27:26,662 --> 00:27:28,835
+<i>Nos agents vous surveillent
+depuis trois semaines.</i>
+
+412
+00:27:28,974 --> 00:27:31,621
+- <i>Je suis venu pour parler.</i>
+- Mais qu'est-ce qu'il fout ?
+
+413
+00:27:32,212 --> 00:27:34,652
+- L'autre type, c'est un agent ?
+- Oui, l'agent Callen.
+
+414
+00:27:34,925 --> 00:27:36,987
+Tout le monde se calme,
+personne ne viendra.
+
+415
+00:27:37,228 --> 00:27:38,989
+On a 30 minutes
+pour passer un accord.
+
+416
+00:27:42,756 --> 00:27:44,397
+Pourvu que les renforts arrivent.
+
+417
+00:27:44,918 --> 00:27:45,934
+Gaffe.
+
+418
+00:27:48,780 --> 00:27:51,576
+- On n'a pas le choix, si ?
+- Principe de base de la négociation.
+
+419
+00:27:51,715 --> 00:27:54,361
+Il fait croire
+qu'il a des atouts en réserve.
+
+420
+00:27:54,587 --> 00:27:55,589
+Mais il a rien.
+
+421
+00:27:57,448 --> 00:27:58,759
+Voyons si t'es si bon.
+
+422
+00:27:58,886 --> 00:28:00,715
+Va chercher ton pote,
+faut qu'on discute.
+
+423
+00:28:03,172 --> 00:28:04,265
+Laissez-le passer.
+
+424
+00:28:10,252 --> 00:28:11,604
+G, je viens vers toi.
+
+425
+00:28:13,820 --> 00:28:15,743
+J'espère
+que t'as un meilleur plan que ça.
+
+426
+00:28:16,685 --> 00:28:17,945
+Enlevez ces corps.
+
+427
+00:28:29,078 --> 00:28:30,692
+Bon, tout va bien.
+
+428
+00:28:34,297 --> 00:28:35,170
+Maintenant ?
+
+429
+00:28:35,483 --> 00:28:39,258
+Vous croyez que l'ATF va débarquer
+en tirant, alors qu'il y a des otages ?
+
+430
+00:28:39,930 --> 00:28:41,593
+Vous verrez bien dans 30 minutes.
+
+431
+00:28:44,045 --> 00:28:45,586
+Jay, viens là.
+
+432
+00:28:49,539 --> 00:28:50,510
+Viens là.
+
+433
+00:28:55,578 --> 00:28:56,859
+Allez mec.
+
+434
+00:28:56,986 --> 00:28:58,902
+- T'étais pas obligé.
+- G !
+
+435
+00:29:24,702 --> 00:29:26,707
+- J'ai été KO longtemps ?
+- Quelques minutes,
+
+436
+00:29:26,749 --> 00:29:28,196
+je t'ai donné des coups de pied.
+
+437
+00:29:28,767 --> 00:29:30,308
+Sur le côté de la tête ?
+
+438
+00:29:33,938 --> 00:29:35,022
+On est pas morts ?
+
+439
+00:29:35,366 --> 00:29:37,691
+Ils veulent savoir
+s'ils sont vraiment encerclés.
+
+440
+00:29:38,099 --> 00:29:39,276
+Ça sera long ?
+
+441
+00:29:39,444 --> 00:29:42,951
+Le temps de plier bagage et de réaliser
+que personne ne leur tire dessus.
+
+442
+00:29:43,614 --> 00:29:45,449
+Avant ou après nous avoir tués ?
+
+443
+00:29:45,674 --> 00:29:47,493
+Après, c'est sûr.
+
+444
+00:29:48,248 --> 00:29:49,453
+Tu veux t'expliquer ?
+
+445
+00:29:49,732 --> 00:29:52,352
+M'expliquer ?
+Je t'ai sauvé le cul.
+
+446
+00:29:52,948 --> 00:29:55,417
+Dis donc, j'avais un fusil
+et un otage avant que t'arrives.
+
+447
+00:29:56,063 --> 00:29:59,231
+Maintenant je suis enchaîné
+et j'ai un trauma crânien.
+
+448
+00:30:00,412 --> 00:30:02,541
+- Joli sauvetage.
+- Dix secondes de plus
+
+449
+00:30:02,583 --> 00:30:04,385
+et t'avais 12 balles
+de plus dans le corps.
+
+450
+00:30:04,783 --> 00:30:05,677
+Maintenant ?
+
+451
+00:30:06,020 --> 00:30:07,763
+J'attendais tes idées.
+
+452
+00:30:08,344 --> 00:30:10,379
+Je veux mon fusil et mon otage.
+
+453
+00:30:11,830 --> 00:30:12,960
+Excusez-moi.
+
+454
+00:30:15,271 --> 00:30:16,780
+Désolé de vous interrompre.
+
+455
+00:30:17,835 --> 00:30:19,058
+Ça va si mal ?
+
+456
+00:30:20,347 --> 00:30:22,529
+Ils ont Callen et Sam.
+
+457
+00:30:23,462 --> 00:30:24,886
+Les renforts arrivent.
+
+458
+00:30:28,073 --> 00:30:29,076
+C'est tout ?
+
+459
+00:30:30,135 --> 00:30:32,542
+Le bureau de Los Angeles
+fait tout ce qu'il peut.
+
+460
+00:30:33,532 --> 00:30:35,376
+Vous ne pouvez rien faire
+de plus d'ici.
+
+461
+00:30:36,478 --> 00:30:38,051
+On en saura plus bientôt.
+
+462
+00:30:41,475 --> 00:30:43,071
+L'hélico est à 23 minutes.
+
+463
+00:30:43,113 --> 00:30:45,578
+Ce sera fini dans 10 minutes.
+Ils emballent déjà les missiles.
+
+464
+00:30:45,620 --> 00:30:47,136
+Alors, il faut gagner du temps.
+
+465
+00:30:47,471 --> 00:30:50,055
+- T'as une idée ?
+- Entrer avec une autre voiture ?
+
+466
+00:30:50,471 --> 00:30:51,932
+Tu crois que ça marcherait ?
+
+467
+00:30:52,672 --> 00:30:53,892
+Regarde ça.
+
+468
+00:31:00,618 --> 00:31:02,025
+Tu connais encore le Morse ?
+
+469
+00:31:05,744 --> 00:31:07,114
+C'était le dernier.
+
+470
+00:31:16,920 --> 00:31:18,459
+Les choses s'arrangent.
+
+471
+00:31:18,866 --> 00:31:20,154
+Ça clignote ?
+
+472
+00:31:20,620 --> 00:31:21,970
+Je sens que ça clignote.
+
+473
+00:31:22,778 --> 00:31:24,443
+Parce que c'est du Morse.
+
+474
+00:31:26,108 --> 00:31:27,282
+- Je l'ai.
+- Quoi ?
+
+475
+00:31:27,324 --> 00:31:28,635
+L'épingle à cheveux.
+
+476
+00:31:28,803 --> 00:31:31,219
+Je l'ai depuis les années 90.
+Je m'en étais plus servi.
+
+477
+00:31:31,389 --> 00:31:33,301
+Voici enfin la preuve
+que ton entraînement
+
+478
+00:31:33,343 --> 00:31:35,142
+a été vraiment efficace.
+
+479
+00:31:36,081 --> 00:31:36,879
+Oh, non.
+
+480
+00:31:37,653 --> 00:31:39,062
+- Quoi ?
+- Je l'ai lâchée.
+
+481
+00:31:39,472 --> 00:31:41,868
+- Tu l'as lâchée ? Mais comment ?
+- Elle a sauté.
+
+482
+00:31:43,174 --> 00:31:44,693
+Je l'ai. Ça va.
+
+483
+00:31:45,558 --> 00:31:47,942
+- Continue de déchiffrer.
+- Arrête de bouger la tête.
+
+484
+00:31:48,561 --> 00:31:49,999
+D'accord. Ça va là ?
+
+485
+00:31:53,657 --> 00:31:55,829
+Kensi dit que l'hélico est à 20 min.
+
+486
+00:31:56,878 --> 00:31:58,970
+Comment tu sais
+que c'est Kensi et pas Renko ?
+
+487
+00:32:00,297 --> 00:32:01,543
+Kensi contre Renko.
+
+488
+00:32:02,591 --> 00:32:04,173
+Qui se rappelle son Morse ?
+
+489
+00:32:04,836 --> 00:32:06,006
+Tu peux répondre ?
+
+490
+00:32:07,727 --> 00:32:10,871
+Oui, bien sûr. Ça s'appelle
+l'entraînement et être attentif.
+
+491
+00:32:12,548 --> 00:32:15,763
+- Tu disais que j'étais bien préparé.
+- Sûrement le syndrome de Stockholm.
+
+492
+00:32:27,371 --> 00:32:28,320
+"Maskelyne ?"
+
+493
+00:32:28,763 --> 00:32:31,754
+- <i>C'est quoi "Maskelyne" ?</i>
+- Maskelyne ? Je ne sais pas.
+
+494
+00:32:32,058 --> 00:32:33,411
+C'est peut-être un code.
+
+495
+00:32:33,703 --> 00:32:35,285
+Hetty appelle.
+
+496
+00:32:35,969 --> 00:32:37,760
+Hetty, on est tous là.
+Ne criez pas.
+
+497
+00:32:37,802 --> 00:32:39,039
+<i>Je ne crie pas.</i>
+
+498
+00:32:39,344 --> 00:32:40,541
+Quelles nouvelles ?
+
+499
+00:32:40,786 --> 00:32:43,252
+Les renforts arriveront dans 18 min.
+
+500
+00:32:44,163 --> 00:32:46,545
+<i>Hetty, ils ne tiendront pas
+aussi longtemps.</i>
+
+501
+00:32:47,315 --> 00:32:50,082
+<i>Nate a eu un message de Kensi</i>
+par Callen en Morse
+
+502
+00:32:50,124 --> 00:32:51,992
+<i>sur une chose appelée "Maskelyne".</i>
+
+503
+00:32:54,389 --> 00:32:55,865
+Maskelyne !
+
+504
+00:32:56,886 --> 00:32:58,977
+Ce n'est pas une chose,
+mais quelqu'un.
+
+505
+00:32:59,332 --> 00:33:02,627
+C'était un magicien
+pendant la 2ème guerre mondiale.
+
+506
+00:33:03,213 --> 00:33:04,898
+Il a inventé le subterfuge.
+
+507
+00:33:05,313 --> 00:33:09,313
+Il pouvait faire disparaître
+un escadron entier de tanks.
+
+508
+00:33:10,678 --> 00:33:13,083
+Il a trompé les Nazis
+en leur faisant croire
+
+509
+00:33:13,125 --> 00:33:15,533
+qu'une poignée d'hommes
+était une division entière.
+
+510
+00:33:15,702 --> 00:33:17,859
+- Fumées et miroirs.
+- <i>Écoutez.</i>
+
+511
+00:33:18,530 --> 00:33:21,847
+Ces miliciens, ils croient déjà
+qu'ils sont poursuivis
+
+512
+00:33:21,889 --> 00:33:24,418
+par toutes les unités
+du gouvernement des États-Unis.
+
+513
+00:33:24,586 --> 00:33:26,664
+- Donc on joue sur leur peur.
+- <i>Exactement.</i>
+
+514
+00:33:33,172 --> 00:33:35,419
+J'ai brouillé tous les signaux radio
+dans la zone.
+
+515
+00:33:35,597 --> 00:33:38,015
+Ils vont essayer
+de capter une fréquence,
+
+516
+00:33:38,183 --> 00:33:39,640
+et tomber sur nous.
+
+517
+00:33:39,809 --> 00:33:42,223
+L'idée, c'est de leur faire croire
+qu'ils sont encerclés.
+
+518
+00:33:42,265 --> 00:33:44,000
+- Un devient dix.
+- Oui.
+
+519
+00:33:45,226 --> 00:33:46,564
+M. le Secrétaire.
+
+520
+00:33:47,871 --> 00:33:48,772
+Henrietta.
+
+521
+00:33:49,732 --> 00:33:50,944
+Je peux vous aider ?
+
+522
+00:33:51,387 --> 00:33:53,477
+Desmond, j'ai besoin d'une faveur.
+
+523
+00:33:53,996 --> 00:33:55,059
+Une petite.
+
+524
+00:33:56,425 --> 00:33:57,649
+Équipes en place.
+
+525
+00:33:57,691 --> 00:34:01,136
+Équipe 1, 2 et 3 au nord,
+nord-ouest et sud-ouest.
+
+526
+00:34:01,494 --> 00:34:03,040
+<i>Équipe 4 et 5, tireurs en place.</i>
+
+527
+00:34:04,497 --> 00:34:07,271
+<i>Tireur Un, cible identifiée.
+Tireur deux, cible en vue.</i>
+
+528
+00:34:07,432 --> 00:34:10,878
+<i>Reçu, tireur trois, cible identifiée,
+le leader. Permission de tirer ?</i>
+
+529
+00:34:11,063 --> 00:34:12,913
+Malcolm, tu entends ?
+
+530
+00:34:13,506 --> 00:34:14,468
+Vas-y.
+
+531
+00:34:16,633 --> 00:34:18,180
+<i>Ça tire par ici.</i>
+
+532
+00:34:35,038 --> 00:34:37,017
+- On pourrait s'échapper en courant ?
+- Non.
+
+533
+00:34:37,981 --> 00:34:39,158
+Si on essayait ?
+
+534
+00:34:40,169 --> 00:34:41,203
+Lâchez ça.
+
+535
+00:34:43,733 --> 00:34:46,207
+- On va pas encore faire ça.
+- Joli nez.
+
+536
+00:34:46,704 --> 00:34:48,738
+Ils sont pas très sympas avec toi.
+
+537
+00:34:48,780 --> 00:34:50,420
+Au moins, je ne mens pas.
+
+538
+00:34:50,868 --> 00:34:53,548
+Au moins, je ne traîne pas
+avec des pseudo Rambo.
+
+539
+00:34:54,229 --> 00:34:56,551
+Tu devrais jouer à Guitar Hero
+avec tes potes,
+
+540
+00:34:56,770 --> 00:34:58,649
+ou draguer des filles à la plage.
+
+541
+00:34:58,806 --> 00:35:01,098
+Pas camper avec les tarés
+de <i>La colline a des yeux</i>.
+
+542
+00:35:01,588 --> 00:35:03,517
+À quoi tu crois
+que servent les missiles ?
+
+543
+00:35:03,811 --> 00:35:04,765
+Auto-défense ?
+
+544
+00:35:05,766 --> 00:35:08,060
+Tu dois choisir de quel côté tu es.
+
+545
+00:35:23,919 --> 00:35:27,290
+Il y a 20 agents à l'entrée.
+Ils viennent pour nous !
+
+546
+00:35:28,251 --> 00:35:31,657
+Tu es sûr ?
+Tu ne l'as pas juste imaginé ?
+
+547
+00:35:32,270 --> 00:35:34,894
+Ils arrivent, je te jure.
+On doit partir d'ici.
+
+548
+00:36:11,808 --> 00:36:13,211
+On dirait qu'ils y ont cru.
+
+549
+00:36:48,298 --> 00:36:49,581
+Il ne va pas s'arrêter.
+
+550
+00:36:50,083 --> 00:36:51,500
+- Mais si.
+- Non.
+
+551
+00:36:53,711 --> 00:36:54,919
+Non, tu as raison.
+
+552
+00:37:27,120 --> 00:37:29,143
+- D'accord, agent Callen.
+- Merci, agent Hunt.
+
+553
+00:37:42,378 --> 00:37:44,867
+J'ai parlé à l'agent en charge,
+
+554
+00:37:46,115 --> 00:37:49,390
+qui a parlé au procureur,
+et tu vas pouvoir rentrer chez toi,
+
+555
+00:37:49,831 --> 00:37:50,905
+pour l'instant.
+
+556
+00:37:52,968 --> 00:37:54,312
+Tu sais où aller ?
+
+557
+00:37:57,212 --> 00:37:58,673
+Je peux appeler ma mère ?
+
+558
+00:38:04,450 --> 00:38:05,495
+626
+
+559
+00:38:06,736 --> 00:38:07,644
+555
+
+560
+00:38:08,476 --> 00:38:09,290
+01
+
+561
+00:38:09,848 --> 00:38:10,687
+10
+
+562
+00:38:12,220 --> 00:38:14,040
+Au moins,
+je sais composer un numéro.
+
+563
+00:38:17,056 --> 00:38:18,628
+Au moins, je vais pas en prison.
+
+564
+00:38:21,264 --> 00:38:23,414
+Au moins,
+je n'ai pas rejoint une milice.
+
+565
+00:38:26,269 --> 00:38:27,472
+Au moins, je...
+
+566
+00:38:27,698 --> 00:38:29,599
+me suis réveillé et vous ai sauvé.
+
+567
+00:38:37,048 --> 00:38:38,462
+Au moins, tu es de mon côté.
+
+568
+00:38:48,717 --> 00:38:49,601
+Maman.
+
+569
+00:38:55,693 --> 00:38:57,847
+Des F-22. Bien joué.
+
+570
+00:38:58,497 --> 00:39:00,805
+Tout le budget
+que j'ai négocié aujourd'hui,
+
+571
+00:39:00,847 --> 00:39:04,674
+- a été dépensé là-dedans.
+- Tant pis pour mes fonds secrets.
+
+572
+00:39:08,476 --> 00:39:09,366
+Vous saviez.
+
+573
+00:39:10,603 --> 00:39:13,219
+- Vous saviez que j'irais...
+- Je m'en doutais.
+
+574
+00:39:15,453 --> 00:39:16,470
+Vous...
+
+575
+00:39:16,863 --> 00:39:19,522
+vous vous êtes servi de moi.
+
+576
+00:39:19,871 --> 00:39:23,652
+Vous m'avez sortie de cette audition
+et vous vous êtes servi de moi
+
+577
+00:39:23,859 --> 00:39:26,528
+pour aller voir le SecAF,
+pour ne pas avoir à le faire.
+
+578
+00:39:27,183 --> 00:39:28,782
+Il ne l'aurait pas fait pour moi.
+
+579
+00:39:29,238 --> 00:39:30,200
+Et comme ça,
+
+580
+00:39:31,325 --> 00:39:33,551
+j'ai dépensé mon capital politique,
+
+581
+00:39:33,593 --> 00:39:36,456
+et vous n'avez pas eu
+à toucher au vôtre, Leon.
+
+582
+00:39:45,885 --> 00:39:47,411
+Sullivan était un bon agent.
+
+583
+00:39:48,715 --> 00:39:50,449
+Il serait devenu excellent.
+
+584
+00:39:51,675 --> 00:39:52,597
+Comme Callen.
+
+585
+00:39:56,012 --> 00:39:58,380
+Je n'avais perdu aucun agent
+avant Sullivan.
+
+586
+00:39:59,476 --> 00:40:01,072
+Et vous venez d'en sauver deux.
+
+587
+00:40:02,682 --> 00:40:04,109
+Vous devriez être fière.
+
+588
+00:40:19,074 --> 00:40:21,960
+C'était vraiment stupide
+de venir me chercher.
+
+589
+00:40:22,367 --> 00:40:23,638
+Tu me trouves stupide ?
+
+590
+00:40:24,099 --> 00:40:26,836
+Tu voulais te la jouer
+Butch Cassidy jusqu'au bout.
+
+591
+00:40:27,091 --> 00:40:28,894
+C'était pas ma meilleure idée.
+
+592
+00:40:29,956 --> 00:40:31,970
+Tu voulais te la jouer à la Custer.
+
+593
+00:40:32,532 --> 00:40:34,069
+Tu voulais rejouer Alamo.
+
+594
+00:40:36,879 --> 00:40:38,633
+Tu vas mettre ça dans ton rapport
+
+595
+00:40:39,239 --> 00:40:40,645
+avec des signets de couleurs ?
+
+596
+00:40:42,648 --> 00:40:44,515
+Avec un signet marqué : idée débile.
+
+597
+00:40:46,180 --> 00:40:47,318
+Beau boulot,
+
+598
+00:40:48,451 --> 00:40:50,104
+agent spécial Hanna.
+
+599
+00:40:54,479 --> 00:40:56,828
+Tu l'as dit.
+Tu te sens bien ?
+
+600
+00:40:59,713 --> 00:41:01,046
+Ça déprécie le travail.
+
+601
+00:41:03,962 --> 00:41:07,296
+.: Team UnderCovers :.
+

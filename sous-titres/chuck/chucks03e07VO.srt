@@ -1,0 +1,3546 @@
+1
+00:00:00,000 --> 00:00:01,333
+<i>Hi. I'm Chuck.
+Here's a few things</i>
+
+2
+00:00:01,334 --> 00:00:02,446
+<i>that you might need to know.</i>
+
+3
+00:00:02,447 --> 00:00:07,191
+I just got fired from my job.
+Meeting you, almost makes it worth it.
+
+4
+00:00:07,226 --> 00:00:09,711
+If you ever find yourself in
+Burbank and is still without a job,
+
+5
+00:00:09,746 --> 00:00:12,568
+my assistant manager owes me
+about a million and a half favors.
+
+6
+00:00:12,603 --> 00:00:14,478
+Here's the thing.
+I like her.
+
+7
+00:00:14,479 --> 00:00:16,712
+I think there's something weird
+going on between Chuck and Devon,
+
+8
+00:00:16,747 --> 00:00:18,819
+it's like they're keeping
+this big secret from me.
+
+9
+00:00:18,854 --> 00:00:20,867
+Finally someone with
+some common sense.
+
+10
+00:00:20,902 --> 00:00:22,544
+We have to figure
+out what's going on.
+
+11
+00:00:22,545 --> 00:00:24,978
+Don't worry about it,
+I've got my best men on it.
+
+12
+00:01:33,367 --> 00:01:35,267
+Perfect.
+
+13
+00:01:36,367 --> 00:01:38,701
+Casey, things are getting
+a little hairy in here.
+
+14
+00:01:40,500 --> 00:01:43,101
+Please tell me the
+Intersect isn't busy.
+
+15
+00:01:43,168 --> 00:01:44,700
+<i>Busy?</i>
+
+16
+00:01:44,701 --> 00:01:46,867
+For you? Never.
+
+17
+00:01:46,934 --> 00:01:49,333
+I want you to teach me, Chuck.
+
+18
+00:01:49,400 --> 00:01:50,766
+Oh, really? Do you?
+
+19
+00:01:50,767 --> 00:01:52,167
+Well, I assume that you're
+referring to the ancient art
+
+20
+00:01:52,168 --> 00:01:53,900
+of Nerd Herding, but I must warn you,
+
+21
+00:01:53,901 --> 00:01:55,700
+the road to computer enlightenment
+
+22
+00:01:55,701 --> 00:01:57,499
+is a long and treacherous one.
+
+23
+00:01:57,500 --> 00:01:58,533
+Bring it on.
+
+24
+00:01:58,534 --> 00:02:00,000
+Speaking of,
+
+25
+00:02:00,001 --> 00:02:02,168
+how about you bring me
+on your next install?
+
+26
+00:02:02,233 --> 00:02:03,366
+Whoa, easy there.
+
+27
+00:02:03,367 --> 00:02:05,100
+Before you can run,
+you must first learn
+
+28
+00:02:05,101 --> 00:02:06,666
+to crawl, young grasshopper.
+
+29
+00:02:06,667 --> 00:02:09,134
+Okay. Well, maybe you would
+prefer to go with Jeff, then.
+
+30
+00:02:09,200 --> 00:02:11,134
+Just the two of you,
+cramped into that tiny,
+
+31
+00:02:11,200 --> 00:02:12,833
+hot Nerd Herd mobile.
+
+32
+00:02:12,834 --> 00:02:14,033
+Well played, newbie.
+
+33
+00:02:14,034 --> 00:02:15,666
+Next assignment,
+you get to ride shotgun.
+
+34
+00:02:15,667 --> 00:02:17,567
+Nice.
+
+35
+00:02:19,534 --> 00:02:21,500
+Excuse me for just one second.
+
+36
+00:02:24,567 --> 00:02:26,100
+What's going on?
+I'm in the middle of something here.
+
+37
+00:02:26,101 --> 00:02:27,866
+- It's Shaw. It's bad.
+- Can't it wait?
+
+38
+00:02:27,867 --> 00:02:29,366
+No. Not unless you want him
+to suffocate to death.
+
+39
+00:02:29,367 --> 00:02:31,267
+Suffocate to death?
+What are you talking about?
+
+40
+00:02:32,934 --> 00:02:34,834
+'Sup, Hannah?
+
+41
+00:02:35,967 --> 00:02:37,266
+Hey, just wanted to let you know,
+
+42
+00:02:37,267 --> 00:02:38,900
+if you need anyone to show
+you around the, uh, Buy More...
+
+43
+00:02:38,901 --> 00:02:40,067
+Who is that?
+
+44
+00:02:40,068 --> 00:02:41,866
+Super hot blonde, heart of ice?
+
+45
+00:02:41,867 --> 00:02:43,466
+Yeah, that's Chuck's ex, Sarah.
+
+46
+00:02:43,467 --> 00:02:45,634
+Oh. What's their deal?
+
+47
+00:02:45,701 --> 00:02:47,901
+Well, deal is Sarah dumped his ass
+
+48
+00:02:47,967 --> 00:02:49,466
+and, uh, broke his heart.
+
+49
+00:02:49,467 --> 00:02:51,600
+And now she can't resist
+coming back here to stomp on it.
+
+50
+00:02:51,667 --> 00:02:53,100
+Look at my boy.
+
+51
+00:02:53,101 --> 00:02:55,434
+Ah, poor sap.
+
+52
+00:02:55,500 --> 00:02:56,599
+Everything all right, buddy?
+
+53
+00:02:56,600 --> 00:02:58,100
+Yeah, got to run.
+Nerd Herd emergency.
+
+54
+00:02:58,101 --> 00:03:01,734
+Right now? I didn't get the call
+and technically, all onsites
+
+55
+00:03:01,801 --> 00:03:03,000
+should run through
+the assistant manager.
+
+56
+00:03:03,001 --> 00:03:05,333
+I gu... Wait, where are you going?
+
+57
+00:03:05,400 --> 00:03:07,600
+You heard the boss.
+Nerd Herd emergency.
+
+58
+00:03:07,667 --> 00:03:09,667
+Ah, Carry on.
+
+59
+00:03:09,734 --> 00:03:11,566
+Wait a minute. I'm the boss.
+
+60
+00:03:28,701 --> 00:03:29,866
+Hey.
+
+61
+00:03:29,867 --> 00:03:30,966
+Took you long enough.
+
+62
+00:03:30,967 --> 00:03:32,133
+Yeah, good to see you, too.
+
+63
+00:03:32,134 --> 00:03:33,199
+You mind telling me what Shaw's doing
+
+64
+00:03:33,200 --> 00:03:34,499
+breaking into a museum vault?
+
+65
+00:03:34,500 --> 00:03:36,332
+Forget it. He's only got
+five minutes of air left.
+
+66
+00:03:36,333 --> 00:03:37,766
+Fine. What am I doing?
+
+67
+00:03:37,767 --> 00:03:39,366
+Getting on the museum's server,
+rebooting the system,
+
+68
+00:03:39,367 --> 00:03:41,033
+and opening the vault door
+before Shaw gets snuffed.
+
+69
+00:03:41,034 --> 00:03:42,533
+They're never going to
+let me on their server, Casey.
+
+70
+00:03:42,534 --> 00:03:44,600
+Well, I took the liberty of crashing it.
+
+71
+00:03:44,667 --> 00:03:45,966
+It was the only way to stop the alarm.
+
+72
+00:03:45,967 --> 00:03:47,800
+Unless you get on that server,
+there's no way
+
+73
+00:03:47,801 --> 00:03:49,734
+to open the vault door.
+Now get in there, Bartowski.
+
+74
+00:03:51,101 --> 00:03:53,734
+Oh, you're here.
+Thank heavens someone called you.
+
+75
+00:03:53,801 --> 00:03:55,100
+Yeah, uh, what seems to be the problem?
+
+76
+00:03:55,101 --> 00:03:56,533
+I'm the curator of Classical Art.
+
+77
+00:03:56,534 --> 00:03:59,168
+I've never even touched one
+of these machines in my life.
+
+78
+00:03:59,233 --> 00:04:01,967
+All I know is the museum went
+into full lockdown mode.
+
+79
+00:04:02,034 --> 00:04:04,267
+It's designed to protect
+the collections from fire,
+
+80
+00:04:04,333 --> 00:04:06,233
+but unless you fix it,
+there's no way to control
+
+81
+00:04:06,268 --> 00:04:08,168
+the temperature or-or the humidity.
+
+82
+00:04:08,233 --> 00:04:10,534
+Some of these pieces
+are extremely sensitive.
+
+83
+00:04:10,600 --> 00:04:12,500
+So am I, Chuck.
+
+84
+00:04:13,734 --> 00:04:16,068
+Chuck, we're in the
+crawl space above the vault.
+
+85
+00:04:16,134 --> 00:04:18,134
+We're trying to get the door open.
+
+86
+00:04:18,200 --> 00:04:20,000
+It's four inches of solid steel.
+
+87
+00:04:20,001 --> 00:04:21,533
+We could try blowing the hatches.
+
+88
+00:04:21,534 --> 00:04:22,833
+We'll have to use C4.
+
+89
+00:04:22,834 --> 00:04:24,734
+No. Shaw's too close.
+You're going to kill him.
+
+90
+00:04:26,034 --> 00:04:27,666
+It's up to you, Chuck.
+
+91
+00:04:27,667 --> 00:04:28,933
+You've got to get this door open.
+
+92
+00:04:28,934 --> 00:04:31,867
+Some of these artifacts
+are over 3,000 years old.
+
+93
+00:04:31,934 --> 00:04:34,534
+To have survive that long
+and then to be ruined
+
+94
+00:04:34,600 --> 00:04:36,500
+by some stupid computer system.
+
+95
+00:04:36,534 --> 00:04:38,067
+You know, if you don't mind,
+
+96
+00:04:38,068 --> 00:04:39,833
+I could really use
+a little breathing room.
+
+97
+00:04:39,834 --> 00:04:41,067
+Hmm.
+
+98
+00:04:41,068 --> 00:04:43,001
+That's right. Step aside.
+
+99
+00:04:43,068 --> 00:04:45,200
+We are the professionals.
+
+100
+00:04:45,267 --> 00:04:46,633
+Hannah, what are you doing here?
+
+101
+00:04:46,634 --> 00:04:49,034
+Surprise. I saw your Nerd Herder
+parked outside the museum.
+
+102
+00:04:49,101 --> 00:04:50,933
+And you said that I could ride shotgun.
+
+103
+00:04:50,934 --> 00:04:52,834
+So, what's the problem?
+
+104
+00:04:52,867 --> 00:04:54,232
+Get rid of her, Chuck.
+
+105
+00:04:54,233 --> 00:04:56,133
+Shaw's got less than a minute.
+
+106
+00:04:59,400 --> 00:05:01,300
+Look, I don't care which of you it is,
+
+107
+00:05:01,335 --> 00:05:02,866
+but please do something.
+
+108
+00:05:02,867 --> 00:05:05,168
+Have you ever restarted a server
+from the backup database?
+
+109
+00:05:05,233 --> 00:05:06,966
+Oh, now you're just insulting me.
+
+110
+00:05:06,967 --> 00:05:08,867
+Show me what you got.
+
+111
+00:05:09,701 --> 00:05:12,734
+Run the context script off server one.
+
+112
+00:05:14,534 --> 00:05:16,967
+Validated. Next?
+
+113
+00:05:18,767 --> 00:05:20,667
+Just blow the hatch.
+
+114
+00:05:22,233 --> 00:05:24,467
+Blow the hatch.
+
+115
+00:05:24,534 --> 00:05:25,766
+What about the mask?
+
+116
+00:05:25,767 --> 00:05:27,466
+I'm dying.
+
+117
+00:05:27,467 --> 00:05:29,367
+Roger that.
+
+118
+00:05:34,267 --> 00:05:36,701
+Fire in the hole.
+
+119
+00:05:36,767 --> 00:05:38,667
+No, don't!
+
+120
+00:05:39,400 --> 00:05:42,034
+Don't, computer. Don't do...
+
+121
+00:05:42,101 --> 00:05:43,332
+I'm just talking to the computer.
+
+122
+00:05:43,333 --> 00:05:45,934
+'Cause sometimes,
+I feel like it helps. Ha.
+
+123
+00:05:46,001 --> 00:05:48,068
+I need you to reboot
+on the count of three.
+
+124
+00:05:48,134 --> 00:05:50,034
+One, two...
+
+125
+00:05:57,901 --> 00:05:59,100
+Oh, my God. We did it!
+
+126
+00:05:59,101 --> 00:06:01,001
+We did it! Hi!
+
+127
+00:06:08,500 --> 00:06:10,100
+We did it!
+
+128
+00:06:10,101 --> 00:06:13,300
+Not bad for your first mission.
+
+129
+00:06:13,367 --> 00:06:15,767
+Splendid work, absolutely top notch.
+
+130
+00:06:15,834 --> 00:06:17,499
+Really, I mean,
+I can't thank you enough.
+
+131
+00:06:17,500 --> 00:06:18,833
+Well, you know, hey. Any time.
+
+132
+00:06:18,834 --> 00:06:21,037
+Oh, all right.
+Um, how about tomorrow night?
+
+133
+00:06:21,038 --> 00:06:21,233
+What?
+
+134
+00:06:21,300 --> 00:06:24,333
+Well, it's the unveiling
+of the Mask of Alexander.
+
+135
+00:06:24,400 --> 00:06:26,033
+Everyone in the art world's
+going to be there,
+
+136
+00:06:26,034 --> 00:06:27,866
+and I'd like you to be also.
+
+137
+00:06:27,867 --> 00:06:30,100
+Not that I don't appreciate
+the invitation...
+
+138
+00:06:30,135 --> 00:06:32,333
+Oh, no, no. I'm not inviting you.
+I'm hiring you.
+
+139
+00:06:32,400 --> 00:06:33,966
+I want you there
+
+140
+00:06:33,967 --> 00:06:35,967
+to ensure that, well,
+there's no more, uh,
+
+141
+00:06:36,034 --> 00:06:37,833
+what do you call them?
+
+142
+00:06:37,834 --> 00:06:38,966
+Bugs.
+
+143
+00:06:38,967 --> 00:06:40,967
+Take the job, Chuck.
+
+144
+00:06:41,034 --> 00:06:42,332
+You and your new partner
+
+145
+00:06:42,333 --> 00:06:44,233
+are going to help us steal
+the Mask of Alexander.
+
+146
+00:06:45,634 --> 00:06:47,600
+So, what do you say, partner?
+
+147
+00:06:49,801 --> 00:06:51,701
+It's a date.
+
+148
+00:06:52,400 --> 00:06:54,300
+Magnificent. Isn't it?
+
+149
+00:06:58,294 --> 00:07:03,835
+Sync by Guga - Corrected by 4be1
+www.addic7ed.com
+
+150
+00:07:45,267 --> 00:07:46,699
+What is that?
+
+151
+00:07:46,700 --> 00:07:48,667
+Double shot Americano.
+No cream, no sugar.
+
+152
+00:07:48,734 --> 00:07:50,100
+The way you like it.
+
+153
+00:07:50,101 --> 00:07:52,001
+Oh, I almost forgot.
+
+154
+00:07:54,767 --> 00:07:57,301
+I noticed you like to chew them
+when you get nervous.
+
+155
+00:08:01,001 --> 00:08:02,901
+Hey, gang.
+
+156
+00:08:05,001 --> 00:08:06,833
+Hey, hey, hey.
+What's going on?
+
+157
+00:08:06,834 --> 00:08:08,133
+Thanks for joining us, gentlemen.
+
+158
+00:08:08,134 --> 00:08:10,034
+I'm sure you've all
+guessed that the CIA
+
+159
+00:08:10,101 --> 00:08:12,334
+is not interested in stealing
+the Mask of Alexander.
+
+160
+00:08:12,401 --> 00:08:13,833
+We believe that this artifact
+
+161
+00:08:13,834 --> 00:08:15,233
+and possibly others,
+
+162
+00:08:15,234 --> 00:08:17,134
+are being used to smuggle
+items through Customs.
+
+163
+00:08:17,167 --> 00:08:18,300
+What sort of items?
+
+164
+00:08:18,301 --> 00:08:20,000
+Items of interest to the Ring.
+
+165
+00:08:20,001 --> 00:08:21,934
+This was three months ago
+
+166
+00:08:22,001 --> 00:08:23,967
+at the National Museum of Damascus.
+
+167
+00:08:24,034 --> 00:08:26,934
+A team broke in,
+but didn't take anything.
+
+168
+00:08:27,001 --> 00:08:28,033
+You think the Ring broke in just
+
+169
+00:08:28,034 --> 00:08:29,266
+to hide something inside the mask?
+
+170
+00:08:29,267 --> 00:08:31,066
+That's pretty smart.
+Traveling exhibitions
+
+171
+00:08:31,067 --> 00:08:32,300
+don't have to go through
+normal screening.
+
+172
+00:08:32,301 --> 00:08:33,433
+All I know is that we
+have to secure the mask
+
+173
+00:08:33,434 --> 00:08:34,799
+before the Ring does.
+
+174
+00:08:34,800 --> 00:08:36,800
+Chuck, you'll be in the
+museum's control room
+
+175
+00:08:36,867 --> 00:08:38,333
+in case we have any other snags.
+
+176
+00:08:38,334 --> 00:08:40,166
+Casey, you'll handle surveillance.
+
+177
+00:08:40,167 --> 00:08:43,800
+Sarah, you and I will pose
+as guests at the party.
+
+178
+00:08:47,468 --> 00:08:48,699
+We'll break in
+
+179
+00:08:48,700 --> 00:08:50,300
+and swap the mask, before the unveiling
+
+180
+00:08:50,301 --> 00:08:52,500
+with this reproduction.
+Any questions?
+
+181
+00:08:52,567 --> 00:08:53,933
+Concerns?
+
+182
+00:08:53,934 --> 00:08:55,934
+You mean other than us bringing
+a civilian on the mission?
+
+183
+00:08:56,001 --> 00:08:58,468
+I do have some new tranq darts
+I'd like to try out.
+
+184
+00:08:58,533 --> 00:09:00,233
+No, no. I can handle Hannah.
+
+185
+00:09:00,234 --> 00:09:02,368
+Besides, she can cover for me
+in my Nerd Herd duties
+
+186
+00:09:02,434 --> 00:09:04,700
+in case you guys need
+to call in the big guns.
+
+187
+00:09:06,034 --> 00:09:07,532
+And that would... that would be me.
+
+188
+00:09:07,533 --> 00:09:08,733
+When I say "big guns", I'm referring
+
+189
+00:09:08,734 --> 00:09:10,000
+to the Intersect, to myself.
+
+190
+00:09:10,001 --> 00:09:11,233
+You know, if I need to flash.
+
+191
+00:09:11,234 --> 00:09:13,301
+Glad we had this talk.
+
+192
+00:09:20,401 --> 00:09:22,301
+- Morgan.
+- Hey.
+
+193
+00:09:23,301 --> 00:09:25,700
+Chuck would freak if he knew
+we were meeting like this.
+
+194
+00:09:27,368 --> 00:09:29,200
+Morgan, you told me
+
+195
+00:09:29,201 --> 00:09:31,201
+that Jeff and Lester would get
+to the bottom of Chuck's secret.
+
+196
+00:09:31,267 --> 00:09:33,334
+I may have overstated
+their abilities at bit.
+
+197
+00:09:33,401 --> 00:09:35,100
+What I can tell you
+
+198
+00:09:35,101 --> 00:09:38,500
+is that Chuck is hardly ever at work.
+
+199
+00:09:38,567 --> 00:09:41,101
+Always ducking in and out on, uh,
+weird Nerd Herd calls.
+
+200
+00:09:41,167 --> 00:09:43,167
+Yeah. Like his
+mysterious trip to Paris.
+
+201
+00:09:43,234 --> 00:09:44,632
+He's been acting weird ever since.
+
+202
+00:09:44,633 --> 00:09:46,367
+Right.
+You want to know what I think?
+
+203
+00:09:46,368 --> 00:09:47,666
+- Not really.
+- All right.
+
+204
+00:09:47,667 --> 00:09:48,766
+I think Chuck's protecting us.
+
+205
+00:09:48,767 --> 00:09:50,066
+Protect us from what?
+
+206
+00:09:50,067 --> 00:09:51,166
+I don't think he wants us to know
+
+207
+00:09:51,167 --> 00:09:53,267
+that he's gone to the dark place.
+
+208
+00:09:53,334 --> 00:09:55,600
+Oh, you don't mean...
+
+209
+00:09:55,667 --> 00:09:57,600
+Yeah. Junior year.
+When Jill dumped him.
+
+210
+00:09:57,667 --> 00:09:59,967
+Sat in his room and played GoldenEye
+for what, three months?
+
+211
+00:10:00,034 --> 00:10:02,401
+Who knew you could get bedsores
+from playing video games?
+
+212
+00:10:02,468 --> 00:10:04,401
+This makes total sense.
+
+213
+00:10:04,468 --> 00:10:06,734
+This time, Sarah breaks Chuck's heart,
+
+214
+00:10:06,800 --> 00:10:08,700
+sends Chuck into an emotional tailspin.
+
+215
+00:10:08,734 --> 00:10:10,300
+Oh, let's not panic.
+Let's not panic.
+
+216
+00:10:10,301 --> 00:10:11,632
+I'll... I'll see what I can find out,
+you know?
+
+217
+00:10:11,633 --> 00:10:13,367
+How?
+
+218
+00:10:13,368 --> 00:10:15,334
+I'm the assistant manager
+at the Buy More, okay?
+
+219
+00:10:15,401 --> 00:10:16,899
+I have my methods.
+
+220
+00:10:16,900 --> 00:10:18,632
+All right, Let's see here.
+Phillips head screwdriver set?
+
+221
+00:10:18,633 --> 00:10:20,567
+Check.
+
+222
+00:10:20,633 --> 00:10:21,699
+Dummy artifact?
+
+223
+00:10:21,700 --> 00:10:23,532
+- Check.
+- Harnesses?
+
+224
+00:10:23,533 --> 00:10:26,301
+- Check.
+- And needle-nose pliers.
+
+225
+00:10:26,368 --> 00:10:28,900
+- Check.
+- Descender line.
+
+226
+00:10:28,967 --> 00:10:30,867
+Check.
+
+227
+00:10:30,900 --> 00:10:32,967
+Fantastic.
+
+228
+00:10:33,034 --> 00:10:34,699
+Well...
+
+229
+00:10:34,700 --> 00:10:38,401
+Lock and load.
+
+230
+00:10:38,468 --> 00:10:39,966
+<i>You ready, Agent Walker?</i>
+
+231
+00:10:39,967 --> 00:10:41,799
+Of course I'm ready.
+
+232
+00:10:41,800 --> 00:10:44,734
+It's just, this is our first mission
+
+233
+00:10:44,800 --> 00:10:46,632
+in the field, so...
+
+234
+00:10:46,633 --> 00:10:48,567
+I want to make sure that
+we're both on the same page.
+
+235
+00:10:48,633 --> 00:10:50,567
+Hmm.
+
+236
+00:10:50,633 --> 00:10:52,533
+So, you ready for your
+first mission, Hannah?
+
+237
+00:10:52,568 --> 00:10:53,632
+Mission?
+
+238
+00:10:53,633 --> 00:10:55,100
+Well, I'm just trying to say
+
+239
+00:10:55,101 --> 00:10:56,699
+that, you know, you never know
+
+240
+00:10:56,700 --> 00:10:58,367
+what's going to happen out there
+
+241
+00:10:58,368 --> 00:11:00,266
+outside the protection of the Buy More.
+
+242
+00:11:00,267 --> 00:11:02,567
+You and me, we're...
+we're going behind enemy lines.
+
+243
+00:11:02,633 --> 00:11:04,734
+- Okay.
+- You know, maybe we should talk
+
+244
+00:11:04,800 --> 00:11:06,200
+about how many dates we've been on.
+
+245
+00:11:06,201 --> 00:11:08,767
+You know, we are playing
+a couple tonight, so...
+
+246
+00:11:08,834 --> 00:11:09,866
+What do you think?
+
+247
+00:11:09,867 --> 00:11:11,367
+Uh, one, two?
+
+248
+00:11:11,368 --> 00:11:12,566
+Five?
+
+249
+00:11:12,567 --> 00:11:14,300
+Does it really make a difference?
+
+250
+00:11:14,301 --> 00:11:16,334
+It informs our cover.
+
+251
+00:11:16,401 --> 00:11:18,567
+Our chemistry, body language.
+
+252
+00:11:18,633 --> 00:11:20,900
+For instance,
+have we slept together yet?
+
+253
+00:11:20,967 --> 00:11:23,001
+You got to be kidding me.
+
+254
+00:11:23,067 --> 00:11:24,532
+No, it changes the whole dynamic.
+
+255
+00:11:24,533 --> 00:11:26,233
+Well, in that case, no,
+
+256
+00:11:26,234 --> 00:11:28,500
+we definitely have not slept together.
+
+257
+00:11:29,533 --> 00:11:31,667
+Good to know.
+
+258
+00:11:48,368 --> 00:11:50,934
+All right, well, uh,
+make yourselves comfortable.
+
+259
+00:11:51,001 --> 00:11:52,233
+I trust I shan't be seeing
+
+260
+00:11:52,234 --> 00:11:53,766
+either of you two again this evening.
+
+261
+00:11:53,767 --> 00:11:56,500
+The vault is scheduled
+to open at precisely 8:00.
+
+262
+00:11:56,567 --> 00:11:59,034
+The unveiling must go
+off without a hitch.
+
+263
+00:11:59,101 --> 00:12:01,267
+No more bugs,
+no more crashes, no more...
+
+264
+00:12:01,334 --> 00:12:02,400
+No problem.
+
+265
+00:12:02,401 --> 00:12:04,368
+Problems.
+
+266
+00:12:08,101 --> 00:12:09,499
+The mask is in this vault.
+
+267
+00:12:09,500 --> 00:12:10,766
+It opens at 8:00.
+
+268
+00:12:10,767 --> 00:12:13,967
+Doesn't give us much time
+to make the swap.
+
+269
+00:12:14,034 --> 00:12:17,401
+I thought I made myself
+clear about our cover.
+
+270
+00:12:17,468 --> 00:12:18,899
+Just because we haven't slept together
+
+271
+00:12:18,900 --> 00:12:20,467
+doesn't mean we have to act
+
+272
+00:12:20,468 --> 00:12:22,434
+like this is a middle school dance.
+
+273
+00:12:22,500 --> 00:12:25,867
+Over there, behind that door,
+
+274
+00:12:25,934 --> 00:12:27,666
+is a staircase that leads
+
+275
+00:12:27,667 --> 00:12:29,567
+up to the top of the vault.
+
+276
+00:12:30,734 --> 00:12:33,401
+Keep an eye out on the security cameras
+
+277
+00:12:33,468 --> 00:12:35,266
+up to your right
+
+278
+00:12:35,267 --> 00:12:37,167
+and straight ahead.
+
+279
+00:12:39,134 --> 00:12:40,799
+Are we good, Agent Walker?
+
+280
+00:12:40,800 --> 00:12:41,966
+Yes, we're fine.
+
+281
+00:12:41,967 --> 00:12:43,867
+Thank you.
+
+282
+00:12:45,967 --> 00:12:47,799
+Man, it really is impressive...
+
+283
+00:12:47,800 --> 00:12:49,734
+The size of Alexander's empire.
+
+284
+00:12:49,800 --> 00:12:51,166
+You know what I mean?
+
+285
+00:12:51,167 --> 00:12:53,067
+Can you keep a secret, Chuck?
+
+286
+00:12:53,134 --> 00:12:55,301
+Huh? Uh... uh...
+
+287
+00:12:55,368 --> 00:12:58,167
+Yeah, yeah, it's, uh, kind of my forte.
+
+288
+00:12:58,234 --> 00:13:00,134
+Do you want to know the real reason
+
+289
+00:13:00,167 --> 00:13:02,167
+that I took this job?
+
+290
+00:13:02,234 --> 00:13:05,434
+Um... Was it the snazzy outfits?
+
+291
+00:13:05,500 --> 00:13:07,900
+No, it was the barely livable wage.
+
+292
+00:13:07,967 --> 00:13:09,867
+You.
+
+293
+00:13:11,500 --> 00:13:14,001
+Uh... me... me? Really, me?
+
+294
+00:13:14,067 --> 00:13:16,834
+It's not like I haven't been
+giving you signals.
+
+295
+00:13:18,600 --> 00:13:20,500
+I hope this isn't too forward.
+
+296
+00:13:21,334 --> 00:13:22,933
+No.
+
+297
+00:13:22,934 --> 00:13:24,166
+No, forward is good.
+
+298
+00:13:24,167 --> 00:13:26,067
+In that case...
+
+299
+00:13:45,267 --> 00:13:46,433
+What did I do?
+
+300
+00:13:46,434 --> 00:13:48,100
+What did I...
+Is there something wrong?
+
+301
+00:13:48,101 --> 00:13:50,201
+You and your ex-girlfriend...
+
+302
+00:13:50,267 --> 00:13:52,201
+Yeah, what? Who? Sarah?
+
+303
+00:13:52,267 --> 00:13:54,334
+Yeah. Morgan said that
+you guys were done.
+
+304
+00:13:54,401 --> 00:13:56,301
+100% done-zo. Why?
+
+305
+00:13:57,101 --> 00:13:59,267
+That is her, right?
+
+306
+00:14:01,867 --> 00:14:03,900
+Any idea what she's doing here?
+
+307
+00:14:06,067 --> 00:14:07,766
+Other than making you jealous
+
+308
+00:14:07,767 --> 00:14:09,900
+with that ridiculously good-looking
+
+309
+00:14:09,967 --> 00:14:11,000
+date of hers.
+
+310
+00:14:11,001 --> 00:14:12,100
+R...  ridiculously good...
+
+311
+00:14:12,101 --> 00:14:13,300
+Him? Him? Nah.
+
+312
+00:14:13,301 --> 00:14:15,533
+Yeah, if you're into the...
+
+313
+00:14:15,600 --> 00:14:17,367
+the strong, kind of Superman-y
+
+314
+00:14:17,368 --> 00:14:19,268
+type of a guy.
+
+315
+00:14:27,567 --> 00:14:30,101
+Um, I am going to be right back.
+
+316
+00:14:38,267 --> 00:14:39,467
+Chuck, what are you doing here?
+
+317
+00:14:39,468 --> 00:14:41,401
+The Ring agent who broke
+into the museum
+
+318
+00:14:41,468 --> 00:14:43,166
+in Damascus, Vasillis,
+
+319
+00:14:43,167 --> 00:14:44,666
+is here, and when I say "here",
+
+320
+00:14:44,667 --> 00:14:46,834
+I mean in the same room, here.
+
+321
+00:14:46,900 --> 00:14:49,434
+Look over there.
+
+322
+00:14:54,134 --> 00:14:56,034
+We have to abort.
+
+323
+00:14:56,667 --> 00:14:58,266
+We don't have a choice.
+
+324
+00:14:58,267 --> 00:15:00,100
+Vasillis and I have a history.
+
+325
+00:15:00,101 --> 00:15:01,766
+Are you sure he remembers you?
+
+326
+00:15:01,767 --> 00:15:03,934
+You tend to remember the guy
+
+327
+00:15:04,001 --> 00:15:05,901
+who set your face on fire.
+
+328
+00:15:08,334 --> 00:15:11,468
+Uh, yeah, looks like
+your friend isn't alone, either.
+
+329
+00:15:12,700 --> 00:15:13,966
+They're casing the place.
+
+330
+00:15:13,967 --> 00:15:15,266
+They're here to grab the mask.
+
+331
+00:15:15,267 --> 00:15:16,799
+We better move right now.
+
+332
+00:15:16,800 --> 00:15:18,300
+I'm not sending you in alone.
+
+333
+00:15:18,301 --> 00:15:20,166
+Hey, it's okay.
+No problem. I'll go with her.
+
+334
+00:15:20,167 --> 00:15:22,134
+You don't know
+what you're dealing with.
+
+335
+00:15:27,633 --> 00:15:29,734
+Get out of here, Shaw,
+unless you want to blow the cover.
+
+336
+00:15:29,800 --> 00:15:31,700
+Chuck and I can handle the mask.
+
+337
+00:15:31,767 --> 00:15:33,499
+All right.
+
+338
+00:15:33,500 --> 00:15:36,001
+Casey and I will be in
+the van if you need us.
+
+339
+00:15:39,700 --> 00:15:41,967
+Well, what do you say, partner?
+
+340
+00:15:42,034 --> 00:15:43,934
+Let's go.
+
+341
+00:15:52,733 --> 00:15:54,033
+<i>Watch those security cameras.</i>
+
+342
+00:15:54,034 --> 00:15:55,266
+<i>We have to assume</i>
+
+343
+00:15:55,267 --> 00:15:57,099
+the Ring has tapped
+into those, as well.
+
+344
+00:15:57,100 --> 00:15:59,334
+Yeah, I'm, uh, one step ahead of you.
+
+345
+00:15:59,401 --> 00:16:01,301
+Sorry, Hannah.
+
+346
+00:16:02,700 --> 00:16:03,966
+Oh, no.
+
+347
+00:16:03,967 --> 00:16:06,201
+No, no, no, no, no, no.
+
+348
+00:16:14,401 --> 00:16:15,633
+What's that beeping noise?
+
+349
+00:16:15,634 --> 00:16:17,033
+Uh... And where's your partner?
+
+350
+00:16:17,034 --> 00:16:18,934
+Um, he's, uh...
+
+351
+00:16:19,733 --> 00:16:21,200
+Actually, I don't know.
+
+352
+00:16:21,201 --> 00:16:22,500
+Look, people have traveled
+
+353
+00:16:22,501 --> 00:16:24,668
+from all over the world
+to be here tonight.
+
+354
+00:16:24,733 --> 00:16:26,466
+Now, I don't care what's going on,
+
+355
+00:16:26,467 --> 00:16:28,066
+just fix it.
+
+356
+00:16:28,067 --> 00:16:30,700
+You have five minutes
+until the grand unveiling.
+
+357
+00:16:30,767 --> 00:16:32,667
+Now, go!
+
+358
+00:16:37,100 --> 00:16:39,201
+Okay, you're going to have to lower me
+
+359
+00:16:39,267 --> 00:16:40,667
+into the vault by hand.
+
+360
+00:16:40,668 --> 00:16:41,699
+Here.
+
+361
+00:16:41,700 --> 00:16:43,366
+So...
+
+362
+00:16:43,367 --> 00:16:44,600
+you and Shaw looked like you
+
+363
+00:16:44,601 --> 00:16:46,033
+were having fun at the party tonight.
+
+364
+00:16:46,034 --> 00:16:47,133
+What's that supposed to mean?
+
+365
+00:16:47,134 --> 00:16:48,233
+I'm just saying...
+
+366
+00:16:48,234 --> 00:16:50,033
+you two make a cute couple.
+
+367
+00:16:50,034 --> 00:16:52,401
+Shaw and I are playing a cover.
+
+368
+00:16:52,467 --> 00:16:54,434
+Whatever.
+
+369
+00:16:54,501 --> 00:16:55,799
+But the guy's a...
+
+370
+00:16:55,800 --> 00:16:58,267
+Walker and Bartowski turn off
+their mics for some reason?
+
+371
+00:16:58,334 --> 00:16:59,466
+No, I did.
+
+372
+00:16:59,467 --> 00:17:01,033
+Those two gab like little schoolgirls
+
+373
+00:17:01,034 --> 00:17:02,934
+when they're out in the field.
+It's murder on the ears.
+
+374
+00:17:02,969 --> 00:17:04,967
+- That's ridiculous.
+- Ridiculous?
+
+375
+00:17:05,034 --> 00:17:06,799
+He couldn't keep his
+hands off of you all night.
+
+376
+00:17:06,800 --> 00:17:08,700
+And the way he brings you
+coffee every morning?
+
+377
+00:17:10,234 --> 00:17:11,400
+Seriously?
+
+378
+00:17:11,401 --> 00:17:13,233
+You don't see the...
+You got to be blind.
+
+379
+00:17:13,234 --> 00:17:14,832
+You're one to talk.
+
+380
+00:17:14,833 --> 00:17:17,100
+Well, what is that supposed to mean?
+
+381
+00:17:17,167 --> 00:17:18,366
+Oh, nothing. It's just that,
+
+382
+00:17:18,367 --> 00:17:20,166
+ever since Hannah showed
+up at the Buy More,
+
+383
+00:17:20,167 --> 00:17:22,167
+she hasn't been able to
+keep her hands off you.
+
+384
+00:17:22,234 --> 00:17:23,400
+Cut the girl a break.
+
+385
+00:17:23,401 --> 00:17:24,766
+You guys are cute together.
+
+386
+00:17:24,767 --> 00:17:26,867
+Hannah and I are colleagues.
+
+387
+00:17:26,934 --> 00:17:30,867
+Forgive me for trying
+to be professional.
+
+388
+00:17:30,934 --> 00:17:32,033
+Oh, I'm sorry.
+
+389
+00:17:32,034 --> 00:17:33,366
+I didn't realize professional meant
+
+390
+00:17:33,367 --> 00:17:35,733
+having her perfume
+lathered all over you.
+
+391
+00:17:36,967 --> 00:17:39,000
+Come on. We got a mask to steal.
+
+392
+00:17:39,067 --> 00:17:41,000
+Sir, we're ready.
+
+393
+00:17:50,867 --> 00:17:52,767
+Vasillis sent his men into the vault.
+
+394
+00:17:52,800 --> 00:17:54,300
+They must have the code.
+
+395
+00:17:54,301 --> 00:17:56,201
+Walker, you've got company.
+
+396
+00:17:57,134 --> 00:17:58,533
+Bartowski, you copy?
+
+397
+00:17:58,534 --> 00:17:59,567
+Incoming.
+
+398
+00:17:59,568 --> 00:18:01,468
+My hands are kind of full here.
+
+399
+00:18:06,134 --> 00:18:08,034
+Hi there.
+
+400
+00:18:10,201 --> 00:18:12,101
+- Sarah.
+ -Chuck.
+
+401
+00:18:19,601 --> 00:18:21,767
+Hang on, Chuck. I got you.
+
+402
+00:18:21,833 --> 00:18:24,000
+Okay.
+
+403
+00:18:32,534 --> 00:18:33,766
+It's five past 8:00.
+
+404
+00:18:33,767 --> 00:18:35,066
+Why isn't the vault opening?
+
+405
+00:18:35,067 --> 00:18:36,967
+Keep your shirt on.
+Almost there.
+
+406
+00:18:41,067 --> 00:18:42,967
+Almost there.
+
+407
+00:18:48,401 --> 00:18:50,301
+Yes!
+
+408
+00:18:51,534 --> 00:18:53,867
+Bartowski, I thought you
+took care of the vault.
+
+409
+00:18:53,934 --> 00:18:55,366
+It's the girl, Hannah.
+
+410
+00:18:55,367 --> 00:18:57,301
+She must be using Bartowski's laptop.
+
+411
+00:18:57,367 --> 00:18:58,966
+We still tapped in remotely?
+
+412
+00:18:58,967 --> 00:18:59,966
+Go.
+
+413
+00:18:59,967 --> 00:19:01,433
+Opening the vault right now.
+
+414
+00:19:01,434 --> 00:19:03,233
+Thank you so much.
+
+415
+00:19:03,234 --> 00:19:05,134
+Oh...
+
+416
+00:19:09,800 --> 00:19:11,266
+No, no.
+
+417
+00:19:11,267 --> 00:19:13,601
+Why is this happening?
+Why is this happening?
+
+418
+00:19:19,034 --> 00:19:21,000
+Oh...
+
+419
+00:19:23,467 --> 00:19:25,367
+Oh...
+
+420
+00:19:36,634 --> 00:19:38,534
+Chuck.
+
+421
+00:19:39,234 --> 00:19:41,234
+I got it, I got it! Chuck.
+
+422
+00:19:54,568 --> 00:19:56,668
+She broke the connection.
+
+423
+00:19:56,733 --> 00:19:58,433
+Come on, man.
+
+424
+00:19:58,434 --> 00:20:00,434
+Go, go, go, go!
+
+425
+00:20:05,034 --> 00:20:06,366
+Clear! Clear!
+
+426
+00:20:06,367 --> 00:20:08,267
+We're clear.
+
+427
+00:20:17,034 --> 00:20:18,934
+Ta-da.
+
+428
+00:20:28,700 --> 00:20:30,601
+Hey. I'll meet you back at Castle.
+
+429
+00:20:30,668 --> 00:20:32,301
+Just give me a few minutes to pack up
+
+430
+00:20:32,302 --> 00:20:33,866
+and smooth things over with Hannah.
+
+431
+00:20:33,867 --> 00:20:36,000
+Bye.
+
+432
+00:20:37,067 --> 00:20:38,500
+Hey, Hannah.
+
+433
+00:20:38,501 --> 00:20:40,401
+Sorry about that.
+
+434
+00:20:41,301 --> 00:20:42,699
+Where the hell have you been?
+
+435
+00:20:42,700 --> 00:20:44,934
+How could you abandon me like that
+
+436
+00:20:45,000 --> 00:20:47,467
+on my first Nerd Herd assignment?
+
+437
+00:20:48,900 --> 00:20:50,400
+Forget it.
+I know where you were.
+
+438
+00:20:50,401 --> 00:20:52,301
+You do?
+
+439
+00:20:52,800 --> 00:20:54,166
+Yes.
+
+440
+00:20:54,167 --> 00:20:56,634
+I saw you with your ex-girlfriend.
+
+441
+00:20:56,700 --> 00:20:59,568
+Why would you tell me
+that things were over
+
+442
+00:20:59,634 --> 00:21:01,534
+between you when they're clearly not?
+
+443
+00:21:01,568 --> 00:21:04,301
+It's... it just...
+it's not what you think.
+
+444
+00:21:05,334 --> 00:21:06,933
+Okay. Then, what is it?
+
+445
+00:21:06,934 --> 00:21:09,967
+Sarah and I have a very...
+
+446
+00:21:10,034 --> 00:21:12,367
+unique relationship.
+
+447
+00:21:12,434 --> 00:21:13,899
+Wow.
+
+448
+00:21:13,900 --> 00:21:16,367
+That sounds really special.
+
+449
+00:21:19,234 --> 00:21:22,367
+I... I cannot believe
+that I made such an ass
+
+450
+00:21:22,434 --> 00:21:24,634
+- out of myself, kissing you like that.
+- No, no!
+
+451
+00:21:24,700 --> 00:21:27,034
+You didn't make an ass out of yourself.
+I'm... I'm the ass.
+
+452
+00:21:27,100 --> 00:21:28,366
+Yes, clearly.
+
+453
+00:21:28,367 --> 00:21:30,233
+I think we should just
+keep things professional
+
+454
+00:21:30,234 --> 00:21:31,400
+between us from now on.
+
+455
+00:21:31,401 --> 00:21:32,933
+No, Hannah, let... let me
+
+456
+00:21:32,934 --> 00:21:34,099
+make it up to you.
+
+457
+00:21:34,100 --> 00:21:35,433
+Forget it.
+
+458
+00:21:35,434 --> 00:21:37,200
+Chuck, don't bother.
+
+459
+00:21:37,201 --> 00:21:40,201
+I'll see you at work.
+
+460
+00:21:56,600 --> 00:21:58,200
+That's, like, six knocks short.
+
+461
+00:21:58,201 --> 00:21:59,366
+I don't know the knock.
+
+462
+00:21:59,367 --> 00:22:00,366
+Can I come in?
+
+463
+00:22:00,367 --> 00:22:01,699
+Yes, yes, he's asleep.
+
+464
+00:22:01,700 --> 00:22:03,934
+He didn't get home till God knows when
+
+465
+00:22:04,001 --> 00:22:05,599
+after doing God knows what.
+
+466
+00:22:05,600 --> 00:22:07,399
+Wait, I thought he was at work.
+
+467
+00:22:07,400 --> 00:22:08,699
+Yeah, so did I till I got
+
+468
+00:22:08,700 --> 00:22:10,167
+a pissed off call from the museum.
+
+469
+00:22:10,168 --> 00:22:13,067
+Chuck bailed on a Nerd Herd
+and left his partner behind.
+
+470
+00:22:13,134 --> 00:22:14,299
+Does that sound familiar?
+
+471
+00:22:14,300 --> 00:22:15,399
+That's great.
+
+472
+00:22:15,400 --> 00:22:16,733
+So now we're back at square one.
+
+473
+00:22:16,734 --> 00:22:17,800
+Not necessarily.
+
+474
+00:22:17,801 --> 00:22:19,233
+I had an epiphany last night.
+
+475
+00:22:19,234 --> 00:22:21,367
+- What's that?
+- It's a sudden, intuitive realization.
+
+476
+00:22:21,433 --> 00:22:23,299
+- I looked it up.
+- I know what an epiphany is, Morgan.
+
+477
+00:22:23,300 --> 00:22:25,133
+I'm asking what epiphany you had.
+
+478
+00:22:25,134 --> 00:22:26,332
+Ah, right, well, I think
+
+479
+00:22:26,333 --> 00:22:28,200
+that we might be going
+about this all wrong.
+
+480
+00:22:28,201 --> 00:22:30,101
+Okay, let's just sit Chuck down
+and have an intervention,
+
+481
+00:22:30,136 --> 00:22:32,036
+force him to be honest with us.
+
+482
+00:22:32,101 --> 00:22:34,051
+It's the only way to get
+to the bottom of this.
+
+483
+00:22:34,052 --> 00:22:35,067
+Get to the bottom of what?
+
+484
+00:22:36,168 --> 00:22:38,333
+Nothing, probably my breakfast.
+
+485
+00:22:38,400 --> 00:22:39,800
+No, what? Good morning.
+
+486
+00:22:39,801 --> 00:22:41,701
+Hi, morning. Morning, Ellie.
+
+487
+00:22:45,101 --> 00:22:47,134
+Okay, well, we're going
+to be late for work.
+
+488
+00:22:47,201 --> 00:22:48,966
+Oh, look at that.
+
+489
+00:22:48,967 --> 00:22:50,901
+- My goodness.
+- You...
+
+490
+00:22:50,967 --> 00:22:52,867
+- We can't do this right now.
+- What are you talking about?
+
+491
+00:22:52,934 --> 00:22:53,933
+You just said "intervention".
+
+492
+00:22:53,934 --> 00:22:55,834
+What is wrong with you?
+
+493
+00:22:55,901 --> 00:22:57,801
+You are a coward.
+
+494
+00:23:06,234 --> 00:23:08,201
+That's who stole my mask.
+
+495
+00:23:12,834 --> 00:23:14,734
+Pause it.
+
+496
+00:23:16,101 --> 00:23:18,001
+Who is she?
+
+497
+00:23:18,333 --> 00:23:20,901
+Oh, he's good.
+
+498
+00:23:20,967 --> 00:23:22,901
+A real Casanova, this one.
+
+499
+00:23:22,967 --> 00:23:26,300
+He used the blonde
+to get into the vault
+
+500
+00:23:26,367 --> 00:23:30,067
+and seduced the computer girl
+to access the security system.
+
+501
+00:23:30,134 --> 00:23:34,168
+It's time to see how coldhearted
+
+502
+00:23:34,234 --> 00:23:36,268
+our thief really is.
+
+503
+00:23:40,934 --> 00:23:42,934
+Tough night at the museum?
+
+504
+00:23:44,367 --> 00:23:45,800
+Curator called me
+and gave me an earful.
+
+505
+00:23:45,801 --> 00:23:47,332
+Oh, really? What did he say?
+
+506
+00:23:47,333 --> 00:23:49,033
+You know, I don't really know.
+
+507
+00:23:49,034 --> 00:23:51,367
+I have a hard time making out
+British accents, you know.
+
+508
+00:23:51,433 --> 00:23:52,432
+To me, it's just
+
+509
+00:23:52,433 --> 00:23:54,267
+"Oi, blighty this."
+
+510
+00:23:54,268 --> 00:23:56,600
+You know, it kind of just
+reminds me of Mrs. Doubtfire,
+
+511
+00:23:56,667 --> 00:23:58,567
+which is an awesome flick.
+
+512
+00:23:59,433 --> 00:24:00,800
+So what did happen last night?
+
+513
+00:24:00,801 --> 00:24:03,101
+Well, you know, I...
+I don't want to point any fingers...
+
+514
+00:24:03,168 --> 00:24:04,167
+Don't snitch...
+
+515
+00:24:04,168 --> 00:24:06,066
+code of the streets.
+
+516
+00:24:06,067 --> 00:24:07,817
+What are you talking about?
+
+517
+00:24:07,818 --> 00:24:09,499
+Well, your loyalty to Chuck.
+
+518
+00:24:09,500 --> 00:24:10,866
+You know, I get it.
+You want to protect
+
+519
+00:24:10,867 --> 00:24:12,167
+your boss, but here's the thing.
+
+520
+00:24:12,168 --> 00:24:14,134
+I'm his boss is what I'm saying.
+
+521
+00:24:14,201 --> 00:24:16,433
+Actually, I don't want you
+to think of me as your boss' boss.
+
+522
+00:24:16,500 --> 00:24:17,866
+I'd rather you think of me as a friend
+
+523
+00:24:17,867 --> 00:24:19,767
+ultimately, you know,
+
+524
+00:24:19,801 --> 00:24:21,967
+and a friend you can tell anything to.
+
+525
+00:24:23,700 --> 00:24:25,801
+And I do mean anything.
+
+526
+00:24:27,901 --> 00:24:30,134
+Excuse me.
+
+527
+00:24:30,201 --> 00:24:32,000
+Hello. Nerd Herd.
+
+528
+00:24:32,001 --> 00:24:33,733
+I'm calling from the museum.
+
+529
+00:24:33,734 --> 00:24:34,766
+Another doofus with an accent.
+
+530
+00:24:34,767 --> 00:24:36,934
+Can you believe this?
+
+531
+00:24:37,001 --> 00:24:38,599
+How may I help you?
+
+532
+00:24:38,600 --> 00:24:41,234
+We are still having problems
+with our computer system.
+
+533
+00:24:41,300 --> 00:24:43,967
+Perhaps you can send the
+girl you sent last night.
+
+534
+00:24:44,034 --> 00:24:45,967
+Uh, you must mean Hannah.
+
+535
+00:24:46,034 --> 00:24:48,433
+Right.
+
+536
+00:24:48,500 --> 00:24:49,766
+Hannah.
+
+537
+00:24:49,767 --> 00:24:51,332
+Absolutely, I think she'd be
+happy to come back out,
+
+538
+00:24:51,333 --> 00:24:53,233
+and in fact, to make up for the hiccup,
+it's on the house.
+
+539
+00:24:53,268 --> 00:24:55,133
+I can even send her supervisor along.
+
+540
+00:24:55,134 --> 00:24:57,801
+But I... cannot do that actually, um...
+
+541
+00:24:57,867 --> 00:24:59,399
+He is busy.
+
+542
+00:24:59,400 --> 00:25:01,200
+I'm sure she'll be able to
+handle the problem herself.
+
+543
+00:25:01,201 --> 00:25:04,034
+She-she will indeed, absolutely.
+
+544
+00:25:04,101 --> 00:25:05,666
+- Okay.
+- Thank you,
+
+545
+00:25:05,667 --> 00:25:07,499
+Morgan, you are a great friend.
+
+546
+00:25:07,500 --> 00:25:10,034
+That's very sweet of you...
+
+547
+00:25:10,101 --> 00:25:13,067
+and also very poignant because...
+
+548
+00:25:13,134 --> 00:25:15,600
+I believe that that's
+a great place to start,
+
+549
+00:25:15,667 --> 00:25:18,400
+you know, and then
+we can build from there.
+
+550
+00:25:18,467 --> 00:25:20,834
+Oh, God.
+
+551
+00:25:24,001 --> 00:25:26,634
+Good morning, Walker.
+
+552
+00:25:26,700 --> 00:25:28,299
+Okay, we need to talk.
+
+553
+00:25:28,300 --> 00:25:29,666
+- About last night?
+- About everything.
+
+554
+00:25:29,667 --> 00:25:31,901
+About professional boundaries,
+
+555
+00:25:31,967 --> 00:25:33,000
+about you bringing me coffee
+
+556
+00:25:33,001 --> 00:25:34,200
+to work every morning and noticing
+
+557
+00:25:34,201 --> 00:25:36,767
+that I like to chew
+on my swizzle sticks.
+
+558
+00:25:36,834 --> 00:25:38,233
+You're embarrassing us both.
+
+559
+00:25:38,234 --> 00:25:39,599
+We are just colleagues and that is
+
+560
+00:25:39,600 --> 00:25:40,766
+all we are ever going to be,
+
+561
+00:25:40,767 --> 00:25:42,667
+so please keep your coffee
+
+562
+00:25:42,700 --> 00:25:44,366
+and your cheesy come-ons to yourself.
+
+563
+00:25:44,367 --> 00:25:46,267
+Okay, you got that?
+
+564
+00:25:47,400 --> 00:25:50,367
+Good, now let's get back to work.
+
+565
+00:25:50,433 --> 00:25:53,001
+I feel like I should probably
+apologize to Colonel Casey.
+
+566
+00:25:54,234 --> 00:25:56,066
+Hey, Shaw, thanks for the coffee.
+
+567
+00:25:56,067 --> 00:25:59,001
+Just the way I like it. Black and bitter.
+
+568
+00:26:12,234 --> 00:26:14,867
+Hello?
+
+569
+00:26:17,467 --> 00:26:19,567
+Nerd Herd.
+
+570
+00:26:19,634 --> 00:26:21,867
+Hi, someone called.
+
+571
+00:26:21,934 --> 00:26:24,467
+Yes, thank you for coming.
+
+572
+00:26:24,534 --> 00:26:26,967
+Where's the old curator?
+
+573
+00:26:27,034 --> 00:26:28,866
+He's tied up.
+
+574
+00:26:28,867 --> 00:26:30,767
+I'm the assistant curator.
+
+575
+00:26:30,801 --> 00:26:31,866
+This way.
+
+576
+00:26:31,867 --> 00:26:33,100
+We've been having problems
+
+577
+00:26:33,101 --> 00:26:34,933
+with the security system in the vault,
+
+578
+00:26:34,934 --> 00:26:36,133
+if you don't mind
+
+579
+00:26:36,134 --> 00:26:37,299
+having a look.
+
+580
+00:26:37,300 --> 00:26:39,500
+I really just fix computers.
+
+581
+00:26:39,567 --> 00:26:42,001
+You seem like a smart girl.
+
+582
+00:26:42,067 --> 00:26:43,233
+You'll figure it out.
+
+583
+00:26:43,234 --> 00:26:46,700
+Oh, you don't happen to have a phone?
+
+584
+00:26:46,767 --> 00:26:48,901
+No, I left it in the car.
+
+585
+00:26:48,967 --> 00:26:51,101
+Don't worry.
+
+586
+00:26:58,134 --> 00:26:59,633
+Hey.
+
+587
+00:26:59,634 --> 00:27:01,734
+Hey!
+
+588
+00:27:10,300 --> 00:27:11,800
+Nerd Herd. How can I help you?
+
+589
+00:27:11,801 --> 00:27:13,499
+You can bring me my mask.
+
+590
+00:27:13,500 --> 00:27:16,600
+Uh, I think you might have
+the wrong number, sir.
+
+591
+00:27:16,667 --> 00:27:18,033
+Let me rephrase.
+
+592
+00:27:18,034 --> 00:27:20,967
+Either you bring me the mask or
+I kill your girlfriend.
+
+593
+00:27:23,700 --> 00:27:26,467
+Morgan, have, uh, have you seen Hannah?
+
+594
+00:27:26,534 --> 00:27:28,767
+Yeah, she's out on a call.
+Something at the museum.
+
+595
+00:27:35,001 --> 00:27:37,433
+Sir, first of all,
+I... I don't have a girlfriend,
+
+596
+00:27:37,500 --> 00:27:39,033
+just for clarification's sake,
+
+597
+00:27:39,034 --> 00:27:40,233
+and second, like I mentioned earlier,
+
+598
+00:27:40,234 --> 00:27:41,299
+this is the Nerd Herd desk,
+
+599
+00:27:41,300 --> 00:27:42,399
+so unless you have
+a computer-related...
+
+600
+00:27:42,400 --> 00:27:43,933
+I know who you are.
+
+601
+00:27:43,934 --> 00:27:46,967
+If you want to see the girl alive,
+you'll come to the museum
+
+602
+00:27:47,034 --> 00:27:48,499
+and come alone.
+
+603
+00:27:48,500 --> 00:27:51,867
+She runs out of air in 30 minutes.
+
+604
+00:27:51,934 --> 00:27:54,467
+Bring me my mask.
+
+605
+00:27:58,500 --> 00:27:59,633
+Hey, buddy.
+
+606
+00:27:59,634 --> 00:28:00,800
+Uh, here we go.
+
+607
+00:28:00,801 --> 00:28:03,333
+- Chuck, I think we need to talk.
+- Not a good time.
+
+608
+00:28:05,667 --> 00:28:07,934
+You know what?
+I don't care anymore.
+
+609
+00:28:13,201 --> 00:28:16,667
+Listen, I'm your best friend, dude,
+or at least I used to be,
+
+610
+00:28:16,734 --> 00:28:17,933
+and I deserve to know what...
+
+611
+00:28:17,934 --> 00:28:19,100
+No, I demand to know
+
+612
+00:28:19,101 --> 00:28:21,001
+what the hell is going
+on with you lately.
+
+613
+00:28:22,967 --> 00:28:25,867
+Chuck...
+You got to be kidding me.
+
+614
+00:28:25,934 --> 00:28:27,834
+Hmm, check the base.
+
+615
+00:28:37,333 --> 00:28:39,200
+- Chuck.
+- Sarah...
+
+616
+00:28:39,201 --> 00:28:40,666
+Sarah, I need the mask now.
+
+617
+00:28:40,667 --> 00:28:41,800
+Vasillis knows we took it
+
+618
+00:28:41,801 --> 00:28:43,167
+and he wants it back.
+He grabbed Hannah.
+
+619
+00:28:43,168 --> 00:28:45,068
+I'm coming down the tunnel.
+
+620
+00:28:46,667 --> 00:28:47,866
+That can't be good.
+
+621
+00:28:47,867 --> 00:28:51,134
+Uh, Chuck, don't come in here.
+ We think the mask is some kind of a...
+
+622
+00:28:54,767 --> 00:28:56,834
+No.
+
+623
+00:29:14,767 --> 00:29:16,466
+Oh, no.
+
+624
+00:29:16,467 --> 00:29:17,766
+Guys, guys, it's poison.
+
+625
+00:29:17,767 --> 00:29:19,033
+You think?
+
+626
+00:29:19,034 --> 00:29:20,699
+It's a designer weapon
+developed for battlefield use,
+
+627
+00:29:20,700 --> 00:29:21,900
+but th... there's a counteragent
+
+628
+00:29:21,901 --> 00:29:23,366
+that can be taken up to
+30 minutes after exposure.
+
+629
+00:29:23,367 --> 00:29:25,033
+Or what?
+
+630
+00:29:25,034 --> 00:29:26,866
+Look, don't worry.
+
+631
+00:29:26,867 --> 00:29:28,299
+I'm gonna get the
+counteragent from Vasillis.
+
+632
+00:29:28,300 --> 00:29:29,533
+He wouldn't have shipped
+the weapon without it.
+
+633
+00:29:29,534 --> 00:29:31,734
+It's got to be back at the...
+
+634
+00:29:37,901 --> 00:29:39,934
+Casey, gear up.
+We're heading back to the museum.
+
+635
+00:29:51,467 --> 00:29:53,367
+- This is never gonna work.
+- It'll work.
+
+636
+00:29:53,400 --> 00:29:55,300
+Here.
+
+637
+00:29:57,867 --> 00:30:00,500
+Okay... okay, fine.
+
+638
+00:30:00,567 --> 00:30:02,200
+So let's say we're able
+to fool Vasillis
+
+639
+00:30:02,201 --> 00:30:03,633
+with another fake mask
+and we save Hannah.
+
+640
+00:30:03,634 --> 00:30:04,933
+That still doesn't solve the problem
+
+641
+00:30:04,934 --> 00:30:06,934
+of how we convince him
+to give us the counteragent.
+
+642
+00:30:07,001 --> 00:30:08,233
+What about Sarah and Shaw?
+
+643
+00:30:08,234 --> 00:30:10,467
+Do we have enough time
+to save them, too?
+
+644
+00:30:12,667 --> 00:30:14,167
+Wait, wait, I got it, I got it.
+
+645
+00:30:14,168 --> 00:30:15,167
+We gas him.
+
+646
+00:30:15,168 --> 00:30:16,800
+That's a great plan,
+
+647
+00:30:16,801 --> 00:30:18,599
+except the chemical weapon's
+already been deployed.
+
+648
+00:30:18,600 --> 00:30:21,168
+Yeah, but Vasillis doesn't know that.
+
+649
+00:30:23,867 --> 00:30:26,367
+I got some smoke grenades in the back.
+
+650
+00:30:27,767 --> 00:30:30,433
+Funny, I don't feel like I'm dying.
+
+651
+00:30:30,500 --> 00:30:32,534
+Chuck will come through for us.
+
+652
+00:30:32,600 --> 00:30:35,500
+In case he doesn't...
+
+653
+00:30:35,567 --> 00:30:37,500
+I wanted to clear the air between us.
+
+654
+00:30:37,567 --> 00:30:40,467
+It turns out I haven't been
+
+655
+00:30:40,534 --> 00:30:44,101
+completely honest about, uh, the coffee
+
+656
+00:30:44,168 --> 00:30:47,834
+and how I was acting at the museum.
+
+657
+00:30:48,934 --> 00:30:50,967
+Truth is I was hitting on you.
+
+658
+00:30:53,867 --> 00:30:55,666
+It was completely unprofessional
+
+659
+00:30:55,667 --> 00:30:58,734
+and I apologize.
+
+660
+00:31:00,767 --> 00:31:02,967
+I owe you an apology as well.
+
+661
+00:31:03,034 --> 00:31:04,934
+I overreacted.
+
+662
+00:31:09,300 --> 00:31:13,667
+The way you touched
+my neck at the party...
+
+663
+00:31:15,001 --> 00:31:17,134
+I guess it was kind of nice.
+
+664
+00:31:17,201 --> 00:31:19,901
+Really?
+
+665
+00:31:19,967 --> 00:31:22,901
+Really.
+
+666
+00:31:22,967 --> 00:31:27,067
+Well, then,
+I... I'm glad we had this talk.
+
+667
+00:31:27,134 --> 00:31:31,467
+Yeah, me, too.
+
+668
+00:31:36,201 --> 00:31:38,000
+The poison has been contained.
+
+669
+00:31:38,001 --> 00:31:39,901
+The room has been cleared.
+
+670
+00:31:41,867 --> 00:31:43,767
+We got to get you out of here.
+
+671
+00:31:59,534 --> 00:32:01,467
+Stop there.
+
+672
+00:32:01,534 --> 00:32:04,168
+Show me my mask.
+
+673
+00:32:10,867 --> 00:32:12,500
+Show me my Nerd Herder.
+
+674
+00:32:12,501 --> 00:32:14,066
+She's in the vault.
+
+675
+00:32:14,067 --> 00:32:15,967
+Oh, look at the time.
+
+676
+00:32:16,001 --> 00:32:17,934
+Air must be getting a little thin.
+
+677
+00:32:21,767 --> 00:32:24,600
+If he doesn't open the door,
+I'm going to blow the vault.
+
+678
+00:32:24,667 --> 00:32:25,900
+I can't promise she'll be okay.
+
+679
+00:32:25,901 --> 00:32:27,332
+I did what you asked
+and I brought the mask.
+
+680
+00:32:27,333 --> 00:32:28,366
+Now let her out.
+
+681
+00:32:28,367 --> 00:32:30,333
+If it were up to me, sure.
+
+682
+00:32:30,400 --> 00:32:31,633
+She would walk free.
+
+683
+00:32:31,634 --> 00:32:34,168
+But the people you've stolen from,
+
+684
+00:32:34,234 --> 00:32:37,467
+the Ring, they're not so forgiving.
+
+685
+00:32:37,534 --> 00:32:38,766
+Do what you want to me
+
+686
+00:32:38,767 --> 00:32:40,233
+but the girl had nothing
+to do with this.
+
+687
+00:32:40,234 --> 00:32:42,801
+You're in no position to make demands.
+
+688
+00:32:42,867 --> 00:32:45,534
+You gave up any leverage
+you might've had
+
+689
+00:32:45,600 --> 00:32:48,734
+when you walked in with the mask.
+
+690
+00:32:48,801 --> 00:32:50,701
+Not quite.
+
+691
+00:32:51,634 --> 00:32:53,399
+I think we all know
+what's inside this mask.
+
+692
+00:32:53,400 --> 00:32:55,267
+So either you open that
+door and let her out
+
+693
+00:32:55,268 --> 00:32:57,700
+or I release the gas.
+
+694
+00:32:57,767 --> 00:32:59,801
+I don't believe you.
+
+695
+00:32:59,867 --> 00:33:01,599
+Well, that's too bad.
+
+696
+00:33:01,600 --> 00:33:03,500
+You should've.
+
+697
+00:33:08,001 --> 00:33:09,599
+You've killed us all.
+
+698
+00:33:09,600 --> 00:33:10,900
+You idiot!
+
+699
+00:33:10,901 --> 00:33:12,000
+Well, there's a counteragent, right?
+Where is it?
+
+700
+00:33:12,001 --> 00:33:13,901
+It's in a vase.
+
+701
+00:33:14,634 --> 00:33:15,900
+There's hundred of them.
+
+702
+00:33:15,901 --> 00:33:16,733
+Which one?
+
+703
+00:33:16,734 --> 00:33:18,299
+How am I supposed to know?
+
+704
+00:33:18,300 --> 00:33:20,200
+I wasn't going to steal it personally.
+
+705
+00:33:20,201 --> 00:33:22,101
+Oh, I see, and I'm the idiot?
+
+706
+00:33:26,234 --> 00:33:27,499
+Come on, Chuck.
+
+707
+00:33:27,500 --> 00:33:29,433
+One of these things
+is not like the others.
+
+708
+00:33:53,700 --> 00:33:55,600
+Oh. Oh.
+
+709
+00:34:00,067 --> 00:34:01,967
+Time's up, Chuck.
+
+710
+00:34:02,001 --> 00:34:03,267
+No, Casey, wait!
+
+711
+00:34:03,268 --> 00:34:04,499
+I found the counteragent.
+
+712
+00:34:04,500 --> 00:34:06,100
+Meet me in the control room.
+
+713
+00:34:06,101 --> 00:34:09,201
+When do I get to blow something up?
+
+714
+00:34:13,467 --> 00:34:14,733
+Casey, here, here.
+
+715
+00:34:14,734 --> 00:34:15,933
+How time we got left?
+
+716
+00:34:15,934 --> 00:34:17,100
+Don't worry about that.
+
+717
+00:34:17,101 --> 00:34:19,400
+You get her out of the vault.
+
+718
+00:34:19,467 --> 00:34:20,900
+You don't have enough time, do you?
+
+719
+00:34:20,901 --> 00:34:22,399
+Focus, Bartowski.
+
+720
+00:34:22,400 --> 00:34:24,133
+Even if they are lost,
+
+721
+00:34:24,134 --> 00:34:25,399
+we still have a civilian in there.
+
+722
+00:34:25,400 --> 00:34:27,367
+Get her out of there!
+
+723
+00:34:45,300 --> 00:34:46,533
+Come on, come on.
+
+724
+00:34:46,534 --> 00:34:48,434
+Yes!
+
+725
+00:34:57,567 --> 00:34:59,267
+Sarah? Shaw? What the...?
+
+726
+00:34:59,268 --> 00:35:00,432
+Here's the counteragent.
+
+727
+00:35:00,433 --> 00:35:03,034
+I'll go release the curator.
+
+728
+00:35:12,168 --> 00:35:14,101
+- You okay?
+- Yeah.
+
+729
+00:35:14,168 --> 00:35:16,168
+Yeah, thank you.
+
+730
+00:35:32,801 --> 00:35:34,801
+Hannah? Hannah? Hannah?
+
+731
+00:35:34,867 --> 00:35:36,699
+- What happened?
+- You, uh...
+
+732
+00:35:36,700 --> 00:35:39,467
+You passed out and I think, uh,
+
+733
+00:35:39,534 --> 00:35:41,467
+somehow you got trapped in the vault.
+
+734
+00:35:41,534 --> 00:35:43,167
+Oh, my God.
+
+735
+00:35:43,168 --> 00:35:45,134
+I could've died in here.
+
+736
+00:35:48,101 --> 00:35:50,201
+You saved my life, Chuck.
+
+737
+00:35:50,268 --> 00:35:51,633
+Well, I don't...
+
+738
+00:35:51,634 --> 00:35:53,600
+Oh, hey.
+
+739
+00:35:55,367 --> 00:35:58,201
+Hey, hey.
+
+740
+00:35:58,268 --> 00:36:00,234
+Look, I know I was acting really weird
+
+741
+00:36:00,300 --> 00:36:02,300
+- the other night...
+- Forget it.
+
+742
+00:36:24,800 --> 00:36:26,399
+Nice work, everyone.
+
+743
+00:36:26,400 --> 00:36:27,599
+And you...
+
+744
+00:36:27,600 --> 00:36:29,399
+- I owe you one, Bartowski.
+- Oh, come on.
+
+745
+00:36:29,400 --> 00:36:31,901
+Just 'cause I saved your life. Twice.
+
+746
+00:36:33,368 --> 00:36:34,766
+Don't mention it.
+
+747
+00:36:34,767 --> 00:36:36,267
+It wasn't just my life.
+
+748
+00:36:36,268 --> 00:36:37,766
+Yeah.
+
+749
+00:36:37,767 --> 00:36:38,866
+You also helped
+
+750
+00:36:38,867 --> 00:36:40,466
+secure a rogue chemical weapon.
+
+751
+00:36:40,467 --> 00:36:41,966
+Guys.
+
+752
+00:36:41,967 --> 00:36:43,901
+Look, I appreciate a ticker tape parade
+
+753
+00:36:43,967 --> 00:36:45,300
+just like the next guy,
+
+754
+00:36:45,301 --> 00:36:47,400
+but, come on, I got a great team.
+
+755
+00:36:47,467 --> 00:36:50,134
+And that brings us to our
+next point of business.
+
+756
+00:36:50,201 --> 00:36:52,101
+Well, uh, Chuck,
+
+757
+00:36:52,101 --> 00:36:54,067
+you're not going to have us forever.
+
+758
+00:36:54,134 --> 00:36:56,101
+The Intersect was originally designed
+
+759
+00:36:56,167 --> 00:36:58,067
+so that agents could work autonomously.
+
+760
+00:36:59,634 --> 00:37:01,100
+We're your training wheels.
+
+761
+00:37:01,101 --> 00:37:02,432
+And your performance tells me
+
+762
+00:37:02,433 --> 00:37:05,368
+that it's about time for
+us to come off.
+
+763
+00:37:05,433 --> 00:37:07,901
+Hope you're ready for your
+big boy bike, Bartowski.
+
+764
+00:37:09,967 --> 00:37:12,368
+Huh.
+
+765
+00:37:17,067 --> 00:37:19,334
+Hey.
+
+766
+00:37:19,400 --> 00:37:22,934
+Uh, I just wanted to
+make sure you were okay.
+
+767
+00:37:23,001 --> 00:37:25,700
+Yeah. I mean, I guess
+I've gotten used to us being a team,
+
+768
+00:37:25,767 --> 00:37:27,934
+- you know.
+- Well, we're not going anywhere yet.
+
+769
+00:37:28,001 --> 00:37:29,934
+But Shaw's right.
+
+770
+00:37:30,001 --> 00:37:32,934
+At some point I'm just going
+to be standing in your way,
+
+771
+00:37:33,001 --> 00:37:35,400
+and not just professionally.
+
+772
+00:37:35,467 --> 00:37:37,433
+Right.
+
+773
+00:37:38,934 --> 00:37:40,934
+Are you sure you're okay
+with the whole Hannah thing?
+
+774
+00:37:41,001 --> 00:37:43,934
+Oh, I should've have
+given you a hard time.
+
+775
+00:37:44,001 --> 00:37:46,433
+She's great and...
+
+776
+00:37:46,500 --> 00:37:48,600
+How do you think
+I feel about you and Shaw?
+
+777
+00:37:48,667 --> 00:37:50,901
+I mean, you two are perfect together.
+
+778
+00:37:52,201 --> 00:37:53,499
+It's disgusting.
+
+779
+00:37:53,500 --> 00:37:54,499
+Oh.
+
+780
+00:37:54,500 --> 00:37:56,033
+In... in... in a heartwarming
+
+781
+00:37:56,034 --> 00:37:58,067
+kind of way.
+
+782
+00:38:01,134 --> 00:38:03,034
+Look, all I know is the guy carried you
+
+783
+00:38:03,069 --> 00:38:04,133
+out of Castle on his back
+
+784
+00:38:04,134 --> 00:38:07,301
+while you were both dying.
+
+785
+00:38:07,368 --> 00:38:09,166
+So, if I have to see you
+with someone else
+
+786
+00:38:09,167 --> 00:38:10,833
+it might as well be a hero, right?
+
+787
+00:38:10,834 --> 00:38:13,034
+What can I say?
+
+788
+00:38:13,101 --> 00:38:15,101
+I have a type.
+
+789
+00:38:21,167 --> 00:38:23,634
+I'll see you, Sarah.
+
+790
+00:38:23,700 --> 00:38:26,433
+Bye, Chuck.
+
+791
+00:38:45,433 --> 00:38:47,368
+Well done on the knock.
+
+792
+00:38:47,433 --> 00:38:48,866
+- Really?
+- Yeah.
+
+793
+00:38:48,867 --> 00:38:50,066
+Is Chuck here?
+
+794
+00:38:50,067 --> 00:38:51,866
+Slinking around somewhere, yeah.
+
+795
+00:38:51,867 --> 00:38:53,100
+Uh, you ready to do this?
+
+796
+00:38:53,101 --> 00:38:55,001
+Time for an intervention.
+
+797
+00:38:59,001 --> 00:39:01,134
+What is Chuck doing here so late?
+
+798
+00:39:01,201 --> 00:39:02,866
+This is exactly the behavior
+
+799
+00:39:02,867 --> 00:39:04,367
+I was talking about, Ellie, okay.
+
+800
+00:39:04,368 --> 00:39:05,766
+Your brother...
+
+801
+00:39:05,767 --> 00:39:07,399
+He is into something weird here.
+
+802
+00:39:07,400 --> 00:39:09,400
+No, no...
+
+803
+00:39:11,767 --> 00:39:13,734
+- Cameras, cameras, cameras.
+- Morgan, listen to me.
+
+804
+00:39:13,800 --> 00:39:15,499
+Whatever is going on behind that door,
+
+805
+00:39:15,500 --> 00:39:17,400
+we need to know about, okay?
+
+806
+00:39:18,234 --> 00:39:19,633
+This is for Chuck.
+
+807
+00:39:19,634 --> 00:39:21,399
+For Chuck.
+
+808
+00:39:21,400 --> 00:39:22,599
+- Yes.
+- You go.
+
+809
+00:39:22,600 --> 00:39:24,500
+- You go.
+- Okay, I will.
+
+810
+00:39:41,500 --> 00:39:42,966
+Oh, my God!
+
+811
+00:39:42,967 --> 00:39:44,934
+Chuck has a secret girlfriend.
+
+812
+00:39:45,001 --> 00:39:46,733
+This means he's moving
+on with his life,
+
+813
+00:39:46,734 --> 00:39:48,399
+and he's not wallowing in self-pity,
+
+814
+00:39:48,400 --> 00:39:49,900
+and playing video games.
+
+815
+00:39:49,901 --> 00:39:51,834
+This is such a relief.
+
+816
+00:39:51,901 --> 00:39:54,001
+Such a relief.
+
+817
+00:39:54,067 --> 00:39:56,001
+Man.
+
+818
+00:40:09,167 --> 00:40:10,933
+Okay, I'm going to head out.
+
+819
+00:40:10,934 --> 00:40:11,966
+You two coming?
+
+820
+00:40:11,967 --> 00:40:13,867
+Uh, no, I'm going to finish up in here.
+
+821
+00:40:13,934 --> 00:40:15,901
+Yeah, I'm... I'm pretty buried, too.
+
+822
+00:40:15,967 --> 00:40:17,799
+So...
+
+823
+00:40:17,800 --> 00:40:19,767
+Ah.
+
+824
+00:41:34,134 --> 00:41:36,500
+We both know how dangerous this is.
+
+825
+00:41:36,567 --> 00:41:39,500
+Relax, Sarah.
+
+826
+00:41:39,567 --> 00:41:41,734
+I'm the safest guy in the world.
+
+827
+00:41:56,167 --> 00:41:58,433
+Are you sure it was him?
+
+828
+00:41:58,500 --> 00:42:01,500
+I'd never mistake Daniel Shaw.
+
+829
+00:42:03,734 --> 00:42:06,533
+What are you going to do to him?
+
+830
+00:42:06,600 --> 00:42:09,800
+Same thing I'm going to do to you.
+
+831
+00:42:09,801 --> 00:42:19,801
+Sync by Guga - Corrected by 4be1
+www.addic7ed.com
+

@@ -1,0 +1,3629 @@
+1
+00:01:01,000 --> 00:01:02,487
+Ça va ?
+
+2
+00:01:02,487 --> 00:01:03,988
+Eh, petit, allez.
+
+3
+00:01:03,988 --> 00:01:06,055
+Essayez de...
+essayez de retirer son casque.
+
+4
+00:01:06,122 --> 00:01:07,322
+Que s'est-il passé ?
+
+5
+00:01:07,389 --> 00:01:08,322
+Oh, mon Dieu.
+
+6
+00:01:08,389 --> 00:01:10,921
+Oh mon Dieu, il ne respire plus.
+
+7
+00:01:17,255 --> 00:01:19,050
+Freddy St. John est
+
+8
+00:01:19,050 --> 00:01:20,300
+le 3ème gamin de 11 ans
+
+9
+00:01:20,300 --> 00:01:22,753
+à mourir d'une crise cardiaque
+ces 4 dernières semaines.
+
+10
+00:01:22,753 --> 00:01:24,999
+Et sinon, il était en parfaite santé ?
+
+11
+00:01:24,999 --> 00:01:25,487
+Ouais.
+
+12
+00:01:25,552 --> 00:01:27,925
+Les médecins locaux
+n'y comprennent rien.
+
+13
+00:01:30,919 --> 00:01:34,886
+La ville veut des réponses, Hood.
+
+14
+00:01:34,953 --> 00:01:38,120
+Bienvenue à Pooler,
+Georgia.
+
+15
+00:01:38,186 --> 00:01:40,237
+Rachel,
+
+16
+00:01:40,237 --> 00:01:40,707
+regardez.
+
+17
+00:01:40,707 --> 00:01:42,886
+Que manque t-il ?
+
+18
+00:01:48,120 --> 00:01:51,253
+Des enfants.
+
+19
+00:01:51,320 --> 00:01:53,300
+Il n'y a pas d'enfants.
+
+20
+00:01:54,050 --> 00:01:56,086
+Quelqu'un a mis
+la crainte de Dieu ici.
+
+21
+00:01:56,153 --> 00:01:58,253
+Dieu n'a rien à voir avec ça.
+
+22
+00:01:58,320 --> 00:01:59,853
+Les gens ont peur de
+ce qu'ils ne comprennent pas,
+
+23
+00:01:59,919 --> 00:02:01,853
+et en ce moment,
+ce qu'ils ne comprennent pas
+
+24
+00:02:01,919 --> 00:02:03,652
+c'est que des enfants de 11 ans
+
+25
+00:02:03,719 --> 00:02:05,552
+meurent de crise cardiaque.
+
+26
+00:02:05,700 --> 00:02:07,600
+<i>Transcript :
+-==http://www.ragbear.com==-</i>
+
+27
+00:02:07,760 --> 00:02:09,560
+<i>Traduction : Eligyah</i>
+
+28
+00:02:09,600 --> 00:02:11,500
+<i>Synchro : RoD</i>
+
+29
+00:02:15,550 --> 00:02:20,300
+<i>The Eleventh Hour 1x02
+- Cardiac</i>
+
+30
+00:02:26,331 --> 00:02:28,175
+Comment allez-vous ?
+
+31
+00:02:28,175 --> 00:02:29,050
+Bonjour.
+
+32
+00:02:29,050 --> 00:02:30,487
+Bill Larsson.
+
+33
+00:02:30,487 --> 00:02:33,287
+Dr. Jacob Hood, conseiller scientifique
+pour le FBI.
+
+34
+00:02:33,354 --> 00:02:35,287
+Voici l'agent spécial Young.
+
+35
+00:02:35,354 --> 00:02:36,654
+Enchanté.
+
+36
+00:02:36,721 --> 00:02:39,454
+Écoutez, sans vouloir vous offenser,
+
+37
+00:02:39,521 --> 00:02:42,254
+un tas de docteurs sont venus et aucun
+
+38
+00:02:42,320 --> 00:02:43,987
+n'a trouvé de réponses.
+
+39
+00:02:44,053 --> 00:02:46,621
+Je ne suis pas vraiment 
+ce type de docteur,
+
+40
+00:02:46,687 --> 00:02:49,654
+mais je garderai ça à l'esprit.
+
+41
+00:02:51,654 --> 00:02:53,587
+Si vous voulez me suivre,
+
+42
+00:02:53,654 --> 00:02:55,953
+l'administratrice de l'hôpital
+nous attend.
+
+43
+00:03:01,425 --> 00:03:03,581
+<i>Nous avons dû faire venir des médecins</i>
+
+44
+00:03:03,581 --> 00:03:05,863
+<i>de Savannah et de Garden City
+en renfort.</i>
+
+45
+00:03:05,863 --> 00:03:07,050
+<i>Chaque parent</i>
+
+46
+00:03:07,050 --> 00:03:09,717
+d'un garçon de 11 ans veut
+une ECG, un test d'effort,
+
+47
+00:03:09,784 --> 00:03:11,450
+et une recherche de problèmes cardiaques
+visibles grâce aux ongles de leur fils,
+
+48
+00:03:11,517 --> 00:03:13,216
+et ce, que leur assurance
+les couvre ou non.
+
+49
+00:03:13,283 --> 00:03:15,216
+Je ne peux pas dire
+que je les blâme pour ça.
+
+50
+00:03:15,283 --> 00:03:16,417
+Les trois victimes
+
+51
+00:03:16,483 --> 00:03:17,983
+ne présentaient aucun signe
+
+52
+00:03:18,050 --> 00:03:20,849
+de problème génétique
+ou d'antécédents cardiaques.
+
+53
+00:03:20,916 --> 00:03:23,283
+Les tests sanguins n'ont rien révélé.
+
+54
+00:03:23,350 --> 00:03:25,684
+Les autopsies n'ont rien donné d'autre
+
+55
+00:03:25,750 --> 00:03:28,083
+qu'un arrêt cardiaque.
+
+56
+00:03:28,150 --> 00:03:29,517
+Daniel Harker,
+première victime,
+
+57
+00:03:29,583 --> 00:03:30,849
+âgé de 11 ans,
+
+58
+00:03:30,916 --> 00:03:32,717
+<i>il était asthmatique;</i>
+
+59
+00:03:32,784 --> 00:03:34,583
+<i>la deuxième victime
+Peter LaTerriere,</i>
+
+60
+00:03:34,650 --> 00:03:36,383
+<i>11 ans, était...</i>
+
+61
+00:03:36,450 --> 00:03:37,784
+légèrement en surpoids;
+et la troisième victime
+
+62
+00:03:37,849 --> 00:03:39,550
+<i>Freddy St. John</i>
+
+63
+00:03:39,617 --> 00:03:41,183
+était un sportif.
+
+64
+00:03:42,503 --> 00:03:45,722
+Les gamins de 11 ans ne meurent pas
+d'une crise cardiaque comme ça.
+
+65
+00:03:46,583 --> 00:03:48,216
+C'est mon fils, Stephen.
+
+66
+00:03:48,283 --> 00:03:50,116
+Maman je peux rentrer à la maison ?
+
+67
+00:03:50,183 --> 00:03:51,949
+Salut, Steve.
+
+68
+00:03:52,016 --> 00:03:53,784
+Va m'attendre dans le bureau 
+des infirmières.
+
+69
+00:03:53,849 --> 00:03:55,250
+Ravi de te rencontrer.
+
+70
+00:03:56,317 --> 00:03:58,216
+Certains d'entre nous avons décidé
+
+71
+00:03:58,283 --> 00:03:59,317
+de garder nos enfants à la maison
+
+72
+00:03:59,383 --> 00:04:00,617
+jusqu'à ce que nous sachions
+ce qu'il se passe.
+
+73
+00:04:01,660 --> 00:04:02,941
+L'école n'est pas vraiment
+
+74
+00:04:02,941 --> 00:04:04,784
+à la hauteur de nos attentes,
+
+75
+00:04:04,849 --> 00:04:06,816
+bien peu le sont.
+
+76
+00:04:06,883 --> 00:04:08,517
+Nous allons commencer par l'école.
+
+77
+00:04:10,283 --> 00:04:12,050
+<i>Nous devons aller</i>
+
+78
+00:04:12,116 --> 00:04:15,116
+dans le bureau, en haut.
+
+79
+00:04:15,183 --> 00:04:17,116
+Où allez-vous ?
+
+80
+00:04:17,183 --> 00:04:19,550
+Je vais juste jeter un œil.
+
+81
+00:04:20,583 --> 00:04:22,016
+Et nous, on fait quoi ?
+
+82
+00:04:23,238 --> 00:04:25,717
+Passez par la porte
+comme des gens normaux.
+
+83
+00:04:31,050 --> 00:04:32,417
+Et l'ours dit:
+"Vous n'êtes pas venu
+
+84
+00:04:32,483 --> 00:04:34,050
+ici pour chasser, n'est-ce pas ?"
+
+85
+00:04:36,383 --> 00:04:38,684
+Non, merci.
+
+86
+00:04:38,750 --> 00:04:39,684
+Cet ours.
+
+87
+00:04:42,717 --> 00:04:44,517
+Je croyais t'avoir dit de m'attendre
+
+88
+00:04:44,583 --> 00:04:45,849
+dans le couloir.
+
+89
+00:04:45,916 --> 00:04:47,410
+- Pardon.
+- Pardon ne suffit pas.
+
+90
+00:04:47,410 --> 00:04:48,083
+Tu devrais le savoir.
+
+91
+00:04:48,150 --> 00:04:49,691
+Et tu ne devrais pas traîner
+
+92
+00:04:49,691 --> 00:04:51,083
+avec ces gamins.
+
+93
+00:04:51,150 --> 00:04:53,016
+Retourne dans mon bureau.
+
+94
+00:04:56,517 --> 00:04:58,517
+File.
+
+95
+00:05:03,717 --> 00:05:04,754
+Je vous le dis.
+
+96
+00:05:04,754 --> 00:05:07,216
+J'espère que vous et votre partenaire
+pourrez résoudre cette affaire.
+
+97
+00:05:07,283 --> 00:05:10,983
+Le Dr. Hood n'est pas mon partenaire.
+Il est ma responsabilité.
+
+98
+00:05:12,583 --> 00:05:14,425
+Oh, bonjour.
+
+99
+00:05:14,425 --> 00:05:16,456
+Vous devez être le Dr. Hood.
+
+100
+00:05:16,456 --> 00:05:18,183
+Je suis Charlie Craig.
+
+101
+00:05:18,250 --> 00:05:19,949
+Je suis le proviseur ici.
+
+102
+00:05:20,016 --> 00:05:22,450
+Vous pourriez me dire ce que...
+
+103
+00:05:22,517 --> 00:05:23,849
+vous faisiez là haut ?
+
+104
+00:05:23,916 --> 00:05:26,350
+Vous avez une poche de CO
+dans votre ventilation.
+
+105
+00:05:26,417 --> 00:05:27,784
+Une quoi ?
+
+106
+00:05:27,883 --> 00:05:28,916
+Du monoxyde de carbone.
+
+107
+00:05:28,983 --> 00:05:30,717
+Il y a un, un creux
+dans le conduit
+
+108
+00:05:30,784 --> 00:05:32,738
+où le monoxyde de carbone
+aime s'accumuler.
+
+109
+00:05:32,738 --> 00:05:33,583
+J'y ai trouvé un rat mort.
+
+110
+00:05:33,650 --> 00:05:36,113
+Il a été empoisonné par le CO.
+
+111
+00:05:36,113 --> 00:05:38,550
+- Et vous pouvez nous dire ça par...?
+- Le sang.
+
+112
+00:05:38,617 --> 00:05:39,916
+Le sang.
+
+113
+00:05:39,983 --> 00:05:42,883
+Le monoxyde de carbone
+s'accroche à l'hémoglobine
+
+114
+00:05:42,949 --> 00:05:44,717
+et rend le sang
+
+115
+00:05:44,784 --> 00:05:47,050
+rouge vif.
+
+116
+00:05:47,116 --> 00:05:48,644
+Vous voyez comme mon sang avant
+
+117
+00:05:48,644 --> 00:05:51,350
+est plus foncé
+
+118
+00:05:51,417 --> 00:05:53,383
+que le sang exposé au CO.
+
+119
+00:05:53,450 --> 00:05:55,216
+Et c'est ce qui tue les enfants ?
+
+120
+00:05:55,283 --> 00:05:56,924
+Le monoxyde de carbone est
+potentiellement mortel,
+
+121
+00:05:56,925 --> 00:05:58,566
+mais je ne pense pas
+
+122
+00:05:58,566 --> 00:06:00,684
+que votre fuite est assez importante
+pour causer des crises cardiaques.
+
+123
+00:06:00,750 --> 00:06:01,883
+Néanmoins, c'est un danger.
+
+124
+00:06:01,949 --> 00:06:03,116
+Vous devriez faire vérifier ça.
+
+125
+00:06:03,183 --> 00:06:04,483
+Rachel, Inspecteur,
+
+126
+00:06:04,550 --> 00:06:06,383
+allons voir le reste du bâtiment.
+
+127
+00:06:11,317 --> 00:06:13,784
+<i>Maman, je veux retourner à l'école.</i>
+
+128
+00:06:13,849 --> 00:06:16,916
+Tu iras, quand tout ça sera terminé.
+
+129
+00:06:18,016 --> 00:06:20,550
+C'était qui les gens ?
+
+130
+00:06:20,617 --> 00:06:21,878
+Le gouvernement les a envoyés
+
+131
+00:06:21,878 --> 00:06:24,629
+pour trouver ce qui est arrivé
+à ces garçons.
+
+132
+00:06:24,816 --> 00:06:26,250
+Tu as fini tes devoirs ?
+
+133
+00:06:26,317 --> 00:06:28,483
+Oui.
+
+134
+00:06:29,650 --> 00:06:31,383
+Je vais rentrer à la maison, d'accord ?
+
+135
+00:06:31,450 --> 00:06:32,717
+Tout seul ?
+
+136
+00:06:32,784 --> 00:06:35,150
+Tu dois encore travailler pendant 2h.
+
+137
+00:06:35,216 --> 00:06:36,650
+Il ne va rien m'arriver.
+
+138
+00:06:36,717 --> 00:06:37,650
+Promis.
+
+139
+00:06:37,717 --> 00:06:39,016
+Tu as tes clefs ?
+
+140
+00:06:39,083 --> 00:06:40,183
+Ouais.
+
+141
+00:06:40,250 --> 00:06:42,393
+Très bien. Tu m'appelles
+dès que tu es à la maison.
+
+142
+00:06:42,393 --> 00:06:43,363
+O.K. ?
+
+143
+00:06:44,183 --> 00:06:45,650
+Promis.
+
+144
+00:06:45,717 --> 00:06:46,949
+Eh, ton sac à dos.
+
+145
+00:06:47,016 --> 00:06:48,816
+Oh, merci.
+
+146
+00:06:55,983 --> 00:06:58,150
+Faire votre inspection
+environnementale de l'école
+
+147
+00:06:58,216 --> 00:06:59,150
+était la partie facile du boulot.
+
+148
+00:06:59,216 --> 00:07:00,283
+Que voulez-vous dire ?
+
+149
+00:07:00,350 --> 00:07:02,150
+À partir de maintenant, dans
+chaque endroit que nous visiterons
+
+150
+00:07:02,216 --> 00:07:04,983
+nous verrons des parents en deuil.
+
+151
+00:07:05,050 --> 00:07:07,150
+Que cherchez-vous exactement ?
+
+152
+00:07:07,216 --> 00:07:08,684
+Tout ce qui pourrait
+nous aider à comprendre
+
+153
+00:07:08,750 --> 00:07:10,999
+ce qui a provoqué la crise
+cardiaque de Daniel, madame.
+
+154
+00:07:13,417 --> 00:07:15,450
+Vous permettez ?
+
+155
+00:07:24,583 --> 00:07:26,517
+L'un de vous deux s'y connaît en...
+
+156
+00:07:26,583 --> 00:07:27,784
+ordinateurs ?
+
+157
+00:07:27,849 --> 00:07:30,583
+Non, c'était le truc
+de notre fils, pas le nôtre.
+
+158
+00:07:33,016 --> 00:07:34,450
+Vous avez trouvé quelque chose ?
+
+159
+00:07:34,517 --> 00:07:35,550
+Non.
+
+160
+00:07:43,565 --> 00:07:44,675
+Mme Harker?
+
+161
+00:07:45,916 --> 00:07:48,450
+Vous devriez venir jeter un œil à ça.
+
+162
+00:07:52,450 --> 00:07:56,083
+Il me semble que
+
+163
+00:07:56,150 --> 00:08:00,250
+Daniel tenait une sorte de journal vidéo.
+
+164
+00:08:00,317 --> 00:08:01,949
+Vous voyez, d'après tous ces posts ici,
+
+165
+00:08:02,016 --> 00:08:05,050
+il semble qu'il remonte
+longtemps en arrière, peut-être
+
+166
+00:08:05,116 --> 00:08:07,317
+6 mois.
+
+167
+00:08:07,383 --> 00:08:09,150
+Je vous montre comment ça marche.
+
+168
+00:08:10,816 --> 00:08:13,925
+<i>Trisha Gordon m'a souri 
+2 fois aujourd'hui</i>
+
+169
+00:08:13,925 --> 00:08:15,050
+et je pense qu'elle a changé
+de place
+
+170
+00:08:15,116 --> 00:08:16,317
+avec Cindy Mollo
+
+171
+00:08:16,383 --> 00:08:18,738
+pour venir dans mon équipe
+de softball.
+
+172
+00:08:19,883 --> 00:08:21,717
+Les filles sont un peu stupides
+
+173
+00:08:21,784 --> 00:08:24,317
+mais elle, elle est cool.
+
+174
+00:08:24,383 --> 00:08:27,550
+Oh mon Dieu.
+
+175
+00:08:44,450 --> 00:08:46,983
+Stephen,
+Jesse l'a eu.
+
+176
+00:08:47,050 --> 00:08:49,883
+Ouais, comme je l'avais dit.
+
+177
+00:08:55,483 --> 00:08:58,016
+Tu viens ?
+
+178
+00:08:58,083 --> 00:08:59,883
+Je suppose.
+
+179
+00:08:59,949 --> 00:09:03,216
+Ouais.
+
+180
+00:09:24,250 --> 00:09:26,316
+Je veux pas faire ça, Jesse.
+
+181
+00:09:26,316 --> 00:09:27,550
+Moi non plus.
+
+182
+00:09:27,617 --> 00:09:29,483
+On devrait peut-être pas,
+Jesse.
+
+183
+00:09:29,550 --> 00:09:31,831
+- Je pense que c'est dangereux.
+- Moi aussi.
+
+184
+00:09:31,831 --> 00:09:32,949
+Oh, poule mouillée.
+
+185
+00:09:35,350 --> 00:09:37,083
+Poule mouillée !
+
+186
+00:09:37,150 --> 00:09:39,717
+Allez, fais-le.
+
+187
+00:09:39,784 --> 00:09:41,216
+Montre à ces mauviettes
+que tu es un dur.
+
+188
+00:09:41,283 --> 00:09:42,650
+Il a trop peur.
+
+189
+00:09:42,717 --> 00:09:44,925
+Ha, ha, regarde
+ce que j'ai pour toi.
+
+190
+00:09:44,925 --> 00:09:46,253
+Regarde ça.
+
+191
+00:09:46,253 --> 00:09:47,583
+Lèche le, lèche le.
+
+192
+00:09:47,650 --> 00:09:49,956
+Allez, Stephen.
+Lèche le.
+
+193
+00:09:49,956 --> 00:09:51,050
+Tu dois le lécher.
+
+194
+00:09:51,116 --> 00:09:52,216
+Fais-le, mec.
+
+195
+00:09:52,283 --> 00:09:53,417
+Allez, poule mouillée.
+
+196
+00:09:53,483 --> 00:09:56,283
+Allez. Lèche le. Vas-y mon pote.
+
+197
+00:09:56,350 --> 00:09:58,417
+C'est ça.
+
+198
+00:09:59,737 --> 00:10:00,815
+Vous voyez quelque chose ici
+
+199
+00:10:00,815 --> 00:10:02,628
+qui pourrait avoir provoqué
+ces morts ?
+
+200
+00:10:02,628 --> 00:10:03,784
+Malheureusement, je n'ai rien vu
+
+201
+00:10:03,849 --> 00:10:06,300
+dans cette ville qui aurait pu
+provoquer ça.
+
+202
+00:10:07,983 --> 00:10:10,175
+C'est Neal St. John,
+Le père de Freddy.
+
+203
+00:10:11,684 --> 00:10:13,383
+Vous allez venir chez moi,
+
+204
+00:10:13,450 --> 00:10:15,216
+voir ce que j'ai à la maison qui
+aurait pu tuer mon fils ?
+
+205
+00:10:15,283 --> 00:10:17,016
+- Doucement, Neal, allez.
+- C'est ça votre super plan ?
+
+206
+00:10:17,083 --> 00:10:19,417
+Doucement, monsieur, nous
+essayons juste de trouver
+
+207
+00:10:19,483 --> 00:10:21,425
+ce qui a provoqué les crises
+cardiaques.
+
+208
+00:10:21,425 --> 00:10:22,116
+Et vous avez trouvé quoi ?
+
+209
+00:10:22,183 --> 00:10:24,175
+Ça ne te regarde pas, Neal.
+
+210
+00:10:24,175 --> 00:10:25,999
+Oh, non ?!
+
+211
+00:10:25,999 --> 00:10:27,644
+Ben tu as tout faux là, Bill.
+
+212
+00:10:27,644 --> 00:10:28,175
+Non, Neal,
+
+213
+00:10:28,175 --> 00:10:29,800
+j'ai raison à 100%
+
+214
+00:10:29,800 --> 00:10:31,266
+et à moins que tu veuilles
+commémorer
+
+215
+00:10:31,333 --> 00:10:33,200
+la mort tragique de ton fils
+en te retrouvant en prison,
+
+216
+00:10:33,266 --> 00:10:35,050
+tu vas t'en aller.
+
+217
+00:10:39,925 --> 00:10:41,066
+Vous êtes qui vous ?
+
+218
+00:10:41,133 --> 00:10:43,567
+M. St. John,
+tout ce qui compte c'est que
+
+219
+00:10:43,633 --> 00:10:46,899
+je suis là pour trouver ce qui,
+ou qui a tué votre fils.
+
+220
+00:10:48,933 --> 00:10:53,233
+Très bien.
+
+221
+00:10:53,300 --> 00:10:55,367
+Mais je vais pas attendre
+pour toujours.
+
+222
+00:10:55,433 --> 00:10:57,899
+Rentre.
+
+223
+00:11:03,722 --> 00:11:06,200
+Nous pourrions peut-être réunir
+les parents d'élèves à l'école.
+
+224
+00:11:06,266 --> 00:11:08,133
+Vous savez, vous les rassemblez
+et vous leur parlez
+
+225
+00:11:08,200 --> 00:11:09,667
+à tous, une seule fois.
+
+226
+00:11:10,700 --> 00:11:13,033
+Peut-être.
+
+227
+00:11:13,100 --> 00:11:14,734
+Asseyez-vous.
+
+228
+00:11:14,800 --> 00:11:16,033
+Du calme.
+On va commencer.
+
+229
+00:11:16,100 --> 00:11:17,866
+Très bien, laissez-moi juste
+parler.
+
+230
+00:11:17,933 --> 00:11:19,200
+Asseyez-vous.
+S'il vous plaît.
+
+231
+00:11:19,266 --> 00:11:20,600
+Laissez-nous commencer.
+
+232
+00:11:20,667 --> 00:11:23,467
+Bill, c'est vraiment pas bon.
+
+233
+00:11:23,533 --> 00:11:24,767
+Vous pourriez venir par là ?
+
+234
+00:11:24,834 --> 00:11:26,600
+Vous ne voyez pas qu'ils sont...
+
+235
+00:11:26,667 --> 00:11:28,600
+Très bien, silence.
+Silence. Silence. Silence.
+
+236
+00:11:28,667 --> 00:11:30,533
+Silence, s'il vous plaît.
+
+237
+00:11:30,600 --> 00:11:32,533
+Du calme, je vous en prie.
+
+238
+00:11:32,600 --> 00:11:33,800
+Du calme.
+
+239
+00:11:33,866 --> 00:11:35,200
+On va trouver ce qu'il se passe.
+
+240
+00:11:35,266 --> 00:11:36,734
+On va trouver ce qu'il se passe.
+
+241
+00:11:36,800 --> 00:11:38,565
+Je vous remercie d'être tous
+venus ici ce soir.
+
+242
+00:11:38,565 --> 00:11:39,633
+Les remerciements
+ne nous intéressent pas.
+
+243
+00:11:39,700 --> 00:11:41,675
+Nous voulons savoir si nos enfants
+sont en sécurité !
+
+244
+00:11:43,367 --> 00:11:44,667
+Calmez-vous tous.
+
+245
+00:11:44,734 --> 00:11:46,100
+Devons-nous quitter la ville ?
+
+246
+00:11:46,166 --> 00:11:48,300
+Comment allez-vous protéger
+nos enfants ?
+
+247
+00:11:50,166 --> 00:11:50,999
+Bon, ne cédons pas
+
+248
+00:11:50,999 --> 00:11:52,567
+à l'hystérie,
+écoutez-moi tous.
+
+249
+00:11:52,633 --> 00:11:54,133
+S'il vous plaît, calmez-vous.
+
+250
+00:11:54,200 --> 00:11:55,467
+Le gouvernement essaie
+de nous aider.
+
+251
+00:11:55,533 --> 00:11:56,567
+Ils nous ont envoyé
+
+252
+00:11:56,633 --> 00:11:58,734
+un scientifique du FBI.
+
+253
+00:11:58,800 --> 00:12:00,033
+Il va nous aider.
+
+254
+00:12:00,100 --> 00:12:01,400
+Je voudrais... je voudrais vous
+le présenter.
+
+255
+00:12:01,467 --> 00:12:03,567
+C'est le Dr Jacob Hood.
+
+256
+00:12:03,633 --> 00:12:04,925
+Dr Hood.
+
+257
+00:12:09,999 --> 00:12:11,999
+Hood ?
+
+258
+00:12:14,999 --> 00:12:19,166
+Hood ?
+
+259
+00:12:31,066 --> 00:12:32,667
+Hood.
+
+260
+00:12:32,734 --> 00:12:35,500
+Ils nous attendent dans la salle.
+
+261
+00:12:35,567 --> 00:12:37,633
+Aucune drogue ou virus.
+
+262
+00:12:37,700 --> 00:12:39,667
+Pas de poison.
+
+263
+00:12:39,734 --> 00:12:42,400
+Aucun signe visible de blessure,
+
+264
+00:12:42,467 --> 00:12:45,066
+de traumatisme ou de tension.
+
+265
+00:12:45,133 --> 00:12:50,066
+Dénominateur commun :
+même âge, même sexe, même école.
+
+266
+00:12:50,133 --> 00:12:52,066
+Alors qu'est-ce que
+je ne vois pas ?
+
+267
+00:12:52,133 --> 00:12:53,333
+Nous sommes venus ici
+
+268
+00:12:53,400 --> 00:12:54,800
+pour parler aux parents.
+
+269
+00:12:54,866 --> 00:12:57,500
+Alors vous ne pensez pas
+que nous devrions aller...
+
+270
+00:13:04,567 --> 00:13:07,300
+Tu vas bien ?
+
+271
+00:13:07,367 --> 00:13:09,567
+Qui... qui êtes-vous ?
+
+272
+00:13:09,633 --> 00:13:10,767
+Nous sommes là pour t'aider.
+
+273
+00:13:13,200 --> 00:13:15,166
+Je suis le Dr. Hood, Stephen.
+
+274
+00:13:15,233 --> 00:13:16,999
+Nous nous sommes rencontrés
+à l'hôpital.
+
+275
+00:13:17,066 --> 00:13:20,550
+Je dois trouver ma mère.
+
+276
+00:13:22,100 --> 00:13:23,899
+Stephen. Allez.
+
+277
+00:13:23,966 --> 00:13:25,237
+Respire profondément.
+
+278
+00:13:27,333 --> 00:13:28,600
+Il est en train d'hyperventiler.
+
+279
+00:13:28,667 --> 00:13:30,367
+Chatham County.
+
+280
+00:13:30,433 --> 00:13:32,266
+École élémentaire McKinley.
+
+281
+00:13:32,333 --> 00:13:34,100
+Nous avons besoin d'une ambulance.
+
+282
+00:13:34,166 --> 00:13:35,500
+Ça pourrait être
+un arrêt cardiaque.
+
+283
+00:13:35,567 --> 00:13:36,467
+Maman !
+
+284
+00:13:41,933 --> 00:13:43,933
+Stephen,
+
+285
+00:13:43,999 --> 00:13:45,766
+tu m'as fait peur.
+
+286
+00:13:45,833 --> 00:13:47,466
+J'aurais pu te perdre.
+
+287
+00:13:47,533 --> 00:13:49,500
+Je suis désolé.
+
+288
+00:13:49,566 --> 00:13:51,166
+Que s'est-il passé ?
+
+289
+00:13:51,233 --> 00:13:52,500
+Tu n'es jamais rentré à la maison.
+Où es-tu allé ?
+
+290
+00:13:52,566 --> 00:13:54,867
+Bonjour à nouveau,
+
+291
+00:13:54,933 --> 00:13:56,366
+Stephen.
+
+292
+00:13:56,433 --> 00:13:58,199
+Dr. Hood ?
+
+293
+00:13:58,266 --> 00:13:59,533
+C'est cela.
+
+294
+00:13:59,600 --> 00:14:01,700
+Comment te sens-tu ?
+
+295
+00:14:03,733 --> 00:14:05,032
+Stephen,
+
+296
+00:14:05,099 --> 00:14:06,999
+dis-moi ce qui s'est passé.
+
+297
+00:14:07,366 --> 00:14:08,612
+Stephen,
+
+298
+00:14:08,612 --> 00:14:10,166
+qui protèges-tu ?
+
+299
+00:14:13,199 --> 00:14:14,399
+Enlevez-ça !
+
+300
+00:14:14,466 --> 00:14:15,500
+Non, Stephen, non !
+
+301
+00:14:15,566 --> 00:14:16,700
+Les aiguilles le terrifient !
+
+302
+00:14:16,766 --> 00:14:17,566
+On a besoin d'une infirmière.
+
+303
+00:14:17,633 --> 00:14:19,266
+Je suis là.
+
+304
+00:14:21,700 --> 00:14:23,633
+Merci beaucoup.
+
+305
+00:14:23,700 --> 00:14:26,566
+Le rapport toxicologique montre
+des traces de bufoténine.
+
+306
+00:14:26,633 --> 00:14:28,500
+C'est quoi la bufoténine ?
+
+307
+00:14:28,566 --> 00:14:29,691
+C'est un hallucinogène,
+
+308
+00:14:29,691 --> 00:14:33,032
+tout à fait capable de provoquer
+une crise cardiaque.
+
+309
+00:14:35,333 --> 00:14:37,733
+Il était avec garçon qui s'appelle
+Jesse Freeman
+
+310
+00:14:37,800 --> 00:14:39,166
+au marais.
+
+311
+00:14:39,233 --> 00:14:41,099
+Ils se défonçaient.
+
+312
+00:14:41,166 --> 00:14:42,833
+Il n'a pas voulu me dire avec quoi.
+
+313
+00:14:42,900 --> 00:14:43,900
+Merci, Mme Brown.
+
+314
+00:14:43,967 --> 00:14:45,503
+Cela... cela nous aide.
+
+315
+00:14:47,999 --> 00:14:49,600
+Jesse Freeman.
+
+316
+00:14:49,666 --> 00:14:50,833
+Mme LaTerriere
+
+317
+00:14:50,900 --> 00:14:52,333
+l'a nommé aussi.
+
+318
+00:14:52,399 --> 00:14:54,199
+Où ont-ils eu la bufoténine ?
+
+319
+00:14:54,266 --> 00:14:55,867
+Vous pouvez en trouver dans
+des champignons,
+
+320
+00:14:55,933 --> 00:14:59,600
+mais plus facilement dans la peau
+d'un certain crapaud.
+
+321
+00:15:01,633 --> 00:15:03,700
+C'est un serpent noir des marais,
+Rachel.
+
+322
+00:15:03,766 --> 00:15:05,533
+N'ayez pas peur.
+
+323
+00:15:05,600 --> 00:15:06,867
+Il est totalement inoffensif.
+
+324
+00:15:06,933 --> 00:15:08,900
+C'est juste un bébé.
+
+325
+00:15:08,967 --> 00:15:10,266
+Miam, miam.
+
+326
+00:15:10,333 --> 00:15:11,800
+C'est très bon.
+
+327
+00:15:11,867 --> 00:15:13,933
+Il y en a un là !
+
+328
+00:15:15,233 --> 00:15:16,900
+Hood, que cherchons-nous ici exactement ?
+
+329
+00:15:16,967 --> 00:15:19,366
+<i>- Ici ?
+- Un Bufo alvarius.</i>
+
+330
+00:15:19,433 --> 00:15:22,032
+Un crapaud du Colorado.
+
+331
+00:15:22,099 --> 00:15:23,399
+En Géorgie ?
+
+332
+00:15:23,466 --> 00:15:25,967
+C'est l'espèce qui porte la
+bufoténine.
+
+333
+00:15:26,032 --> 00:15:27,967
+Ces gamins ont dû l'avoir quelque part.
+
+334
+00:15:28,032 --> 00:15:31,132
+Ce marais est ce que nous avons
+de plus ressemblant
+
+335
+00:15:31,199 --> 00:15:34,132
+à l'habitat naturel d'un crapaud.
+
+336
+00:15:40,633 --> 00:15:42,700
+Salut.
+
+337
+00:15:42,766 --> 00:15:45,956
+Je te connais.
+
+338
+00:15:46,967 --> 00:15:50,700
+Je l'ai.
+
+339
+00:15:53,666 --> 00:15:55,633
+Crôa.
+
+340
+00:15:55,700 --> 00:15:57,066
+Vous voyez, ce ptit gars -
+
+341
+00:15:57,132 --> 00:15:59,237
+dis bonjour.
+
+342
+00:15:59,237 --> 00:16:01,566
+Lorsqu'il est énervé comme ceci,
+
+343
+00:16:01,633 --> 00:16:04,633
+produit ce poison qui est
+un hallucinogène,
+
+344
+00:16:04,700 --> 00:16:05,967
+la bufoténine.
+
+345
+00:16:06,032 --> 00:16:07,633
+En général, les gens...
+
+346
+00:16:07,700 --> 00:16:09,299
+brûlent le composant vénimeux,
+
+347
+00:16:09,366 --> 00:16:10,933
+le rendent inoffensif;
+puis ils le fument.
+
+348
+00:16:10,999 --> 00:16:14,299
+Mais si c'est inoffensif, pourquoi
+Stephen a-t-il fait une attaque ?
+
+349
+00:16:14,366 --> 00:16:15,466
+Eh bien, je pense que
+
+350
+00:16:15,533 --> 00:16:17,466
+ce que nos gamins ont fait, c'est
+
+351
+00:16:17,533 --> 00:16:19,733
+un truc appelé "lèche-crapaud".
+
+352
+00:16:19,800 --> 00:16:22,425
+Vous l'énervez.
+
+353
+00:16:23,500 --> 00:16:25,488
+Un peu comme maintenant.
+
+354
+00:16:25,488 --> 00:16:27,456
+Dès qu'il commence à sécréter
+le poison,
+
+355
+00:16:27,456 --> 00:16:29,706
+vous le léchez et êtes défoncé.
+
+356
+00:16:30,099 --> 00:16:31,800
+C'est immonde.
+
+357
+00:16:31,867 --> 00:16:33,967
+Mais si lécher le crapaud a provoqué
+
+358
+00:16:34,032 --> 00:16:35,399
+les arrêts cardiaques,
+
+359
+00:16:35,466 --> 00:16:37,233
+pourquoi les tests sur les autres garçons
+ne sont-ils pas revenus positifs
+
+360
+00:16:37,299 --> 00:16:38,500
+à la bufoténine ?
+
+361
+00:16:38,566 --> 00:16:40,500
+Rachel, c'est une très bonne question.
+
+362
+00:16:40,566 --> 00:16:42,066
+J'en ai une autre pour vous.
+
+363
+00:16:42,132 --> 00:16:44,216
+Comment un crapaud des
+rivières du Colorado
+
+364
+00:16:44,217 --> 00:16:46,300
+est arrivé dans
+un marais en Géorgie ?
+
+365
+00:16:46,300 --> 00:16:46,967
+C'est simple.
+
+366
+00:16:47,066 --> 00:16:48,333
+Quelqu'un l'a amené.
+
+367
+00:16:48,399 --> 00:16:49,566
+Mais qui ?
+
+368
+00:16:49,633 --> 00:16:51,700
+Je pense que nous devrions demander
+à Jesse Freeman.
+
+369
+00:16:51,766 --> 00:16:54,999
+Il semble être notre dealer
+de crapaud local.
+
+370
+00:16:55,066 --> 00:16:57,566
+Je vais te le redemander, Jesse.
+
+371
+00:16:57,633 --> 00:16:59,867
+Où as-tu eu les crapauds ?
+
+372
+00:16:59,933 --> 00:17:02,700
+Stephen Brown
+a failli faire une crise cardiaque
+
+373
+00:17:02,766 --> 00:17:04,967
+à cause de ça.
+
+374
+00:17:05,032 --> 00:17:07,700
+Tu en as donné aux autre garçons
+qui sont morts ?
+
+375
+00:17:09,099 --> 00:17:10,199
+Non.
+
+376
+00:17:10,266 --> 00:17:12,833
+Je traîne jamais avec ces nuls
+
+377
+00:17:12,900 --> 00:17:15,366
+sauf à l'école
+
+378
+00:17:15,433 --> 00:17:17,378
+quand j'ai pas le choix.
+
+379
+00:17:18,099 --> 00:17:19,366
+Jesse,
+
+380
+00:17:19,433 --> 00:17:21,366
+pourquoi ne rends-tu
+pas service à ta mère
+
+381
+00:17:21,433 --> 00:17:22,633
+en étant honnête avec nous ?
+
+382
+00:17:22,700 --> 00:17:24,166
+Si tu coopères, je verrais
+avec l'adjoint ici
+
+383
+00:17:24,233 --> 00:17:26,113
+et tu n'auras pas de problèmes.
+
+384
+00:17:27,166 --> 00:17:29,099
+Dis leur, Jesse.
+
+385
+00:17:34,237 --> 00:17:35,566
+D'accord.
+
+386
+00:17:36,032 --> 00:17:38,378
+Je les ai pris chez Lizzie Summers.
+
+387
+00:17:39,066 --> 00:17:41,266
+Je n'ai jamais voulu
+blesser quelqu'un.
+
+388
+00:17:41,333 --> 00:17:43,666
+C'était juste pour m'amuser.
+
+389
+00:17:43,733 --> 00:17:45,733
+O.K.
+
+390
+00:17:46,766 --> 00:17:48,766
+Merci.
+
+391
+00:17:50,800 --> 00:17:53,233
+Que fait la mère de Stephen ici ?
+
+392
+00:18:20,800 --> 00:18:24,733
+Lizzie Summers est en ville
+depuis environ 3 ans.
+
+393
+00:18:24,800 --> 00:18:26,066
+Elle s'est installée
+
+394
+00:18:26,132 --> 00:18:28,166
+comme pharmacienne homéopathique.
+
+395
+00:18:35,867 --> 00:18:37,867
+Mlle Summers !
+
+396
+00:18:42,533 --> 00:18:45,466
+Adjoint, que puis-je pour vous ?
+
+397
+00:18:45,533 --> 00:18:47,132
+Mlle Summers,
+
+398
+00:18:47,199 --> 00:18:49,132
+ces gens sont de
+Washington, DC.
+
+399
+00:18:49,199 --> 00:18:51,166
+Ils sont là pour nous aider à trouver
+
+400
+00:18:51,233 --> 00:18:53,199
+comment ces garçons sont morts.
+
+401
+00:18:53,266 --> 00:18:55,233
+Agent Spécial Rachel Young
+
+402
+00:18:55,299 --> 00:18:57,175
+- du FBI.
+- Bonjour.
+
+403
+00:18:57,175 --> 00:18:59,066
+Dr. Jacob Hood.
+
+404
+00:18:59,132 --> 00:19:01,433
+<i>Le Jacob Hood ?</i>
+
+405
+00:19:01,500 --> 00:19:04,199
+Euh, je suppose.
+
+406
+00:19:04,266 --> 00:19:06,366
+J'ai lu votre article
+sur la matière noire.
+
+407
+00:19:06,433 --> 00:19:08,600
+"Inconnue,
+
+408
+00:19:08,666 --> 00:19:10,933
+"intangible, infinie
+
+409
+00:19:10,999 --> 00:19:13,597
+et pourtant sans elle
+le ciel tomberait."
+
+410
+00:19:14,378 --> 00:19:16,433
+J'espérais que vous gagneriez
+le Prix Nobel cette année.
+
+411
+00:19:16,500 --> 00:19:18,099
+Oh dans ce cas, vous êtes l'une
+des 3 seules personnes
+
+412
+00:19:18,166 --> 00:19:20,132
+de l'hémisphère ouest,
+mais merci quand même.
+
+413
+00:19:20,199 --> 00:19:20,833
+Ouais.
+
+414
+00:19:20,900 --> 00:19:22,833
+Vous faites pousser de la
+
+415
+00:19:22,900 --> 00:19:24,500
+<i>sceletium tortuosum ?</i>
+
+416
+00:19:24,566 --> 00:19:25,999
+Oh oui et de la canne.
+
+417
+00:19:26,066 --> 00:19:28,032
+Je l'utilise comme remède
+contre l'anxiété.
+
+418
+00:19:28,099 --> 00:19:30,299
+Oui, mais c'est bien plus
+que cela, n'est-ce pas ?
+
+419
+00:19:30,366 --> 00:19:32,299
+La canne remonte à la Préhistoire.
+
+420
+00:19:32,366 --> 00:19:34,900
+Les premiers chasseurs
+l'utilisaient comme coupe-faim
+
+421
+00:19:34,967 --> 00:19:36,299
+et ainsi ils pouvaient chasser
+
+422
+00:19:36,366 --> 00:19:38,199
+pendant des jours sans avoir faim.
+
+423
+00:19:40,233 --> 00:19:43,112
+Mais montrez nous où vous gardez
+les crapauds du Colorado.
+
+424
+00:19:47,900 --> 00:19:51,233
+Vous avez une belle collection
+d'animaux et d'insectes
+
+425
+00:19:51,299 --> 00:19:52,566
+dangereux ici.
+
+426
+00:19:52,633 --> 00:19:53,666
+Oui, parfois les venins et
+
+427
+00:19:53,733 --> 00:19:55,199
+les poisons les plus dangereux
+
+428
+00:19:55,266 --> 00:19:56,900
+peuvent sauver des vies.
+
+429
+00:19:58,363 --> 00:20:01,233
+Que faites-vous de ces crapauds ?
+
+430
+00:20:01,299 --> 00:20:03,666
+Oh, des remèdes pour soigner
+les problèmes d'érection.
+
+431
+00:20:03,733 --> 00:20:05,666
+J'en vends par internet,
+
+432
+00:20:05,733 --> 00:20:07,733
+ainsi que d'autres remèdes.
+
+433
+00:20:07,800 --> 00:20:09,766
+Mlle Summers,
+
+434
+00:20:09,833 --> 00:20:11,233
+nous avons trouvé de la bufoténine
+
+435
+00:20:11,299 --> 00:20:13,366
+dans le sang d'un garçon de 11 ans
+
+436
+00:20:13,433 --> 00:20:15,733
+qui a failli avoir une
+crise cardiaque.
+
+437
+00:20:15,800 --> 00:20:17,666
+Jesse Freeman
+
+438
+00:20:17,733 --> 00:20:20,466
+nous a dit avoir eu
+le crapaud qui la sécrète ici.
+
+439
+00:20:28,500 --> 00:20:31,433
+Ce hangar est sûr.
+
+440
+00:20:31,500 --> 00:20:33,433
+Mais ces crapauds se reproduisent
+comme des lapins,
+
+441
+00:20:33,500 --> 00:20:35,266
+et j'ai du mal à en garder
+un compte exact.
+
+442
+00:20:35,333 --> 00:20:37,766
+Maintenant si quelqu'un voulait essayer
+
+443
+00:20:37,833 --> 00:20:39,099
+de s'introduire ici et d'en voler un,
+
+444
+00:20:39,166 --> 00:20:40,800
+je ne sais pas
+comment faire pour l'arrêter.
+
+445
+00:20:40,867 --> 00:20:43,299
+Mais si je dois installer du barbelé,
+
+446
+00:20:43,366 --> 00:20:45,433
+j'ai autant retourner en ville.
+
+447
+00:20:45,500 --> 00:20:47,466
+Ouais, si vous étiez restée en ville
+
+448
+00:20:47,533 --> 00:20:50,066
+ces 3 garçons seraient
+peut-être encore en vie.
+
+449
+00:21:03,900 --> 00:21:06,900
+Jesse, Jesse, Jesse.
+
+450
+00:21:22,867 --> 00:21:25,299
+Qu'y-a-t-il mon poussin ?
+
+451
+00:21:25,366 --> 00:21:29,050
+Maman, pourquoi Jesse est si froid ?
+
+452
+00:21:43,566 --> 00:21:46,833
+Non !
+
+453
+00:21:58,972 --> 00:22:00,987
+Il est plutôt tard.
+
+454
+00:22:00,987 --> 00:22:01,987
+Désolé de l'heure tardive,
+
+455
+00:22:01,987 --> 00:22:04,621
+Béatrice, mais nous devons vous parler.
+
+456
+00:22:04,688 --> 00:22:05,920
+Mon fils dort.
+
+457
+00:22:05,987 --> 00:22:07,554
+Il a eu une journée difficile.
+
+458
+00:22:07,621 --> 00:22:10,487
+Jesse Freeman est mort.
+
+459
+00:22:10,554 --> 00:22:13,020
+Une autre crise cardiaque.
+
+460
+00:22:16,421 --> 00:22:19,175
+J'ai de la sympathie pour sa mère.
+
+461
+00:22:20,054 --> 00:22:22,787
+Dieu sait qu'elle a
+beaucoup souffert à cause de lui.
+
+462
+00:22:22,853 --> 00:22:24,521
+Ce n'est rien comparé à sa souffrance
+maintenant qu'il est mort.
+
+463
+00:22:24,588 --> 00:22:26,128
+Que faisiez-vous
+
+464
+00:22:26,128 --> 00:22:28,534
+devant la maison des Freeman
+aujourd'hui, Mme Brown?
+
+465
+00:22:28,534 --> 00:22:30,378
+Je suis allée dire le fond
+de ma pensée à ce garçon
+
+466
+00:22:30,378 --> 00:22:32,277
+et lui dire de ne plus
+s'approcher de mon fils.
+
+467
+00:22:33,478 --> 00:22:35,945
+Et j'ai vu que vous m'aviez devancée.
+
+468
+00:22:36,012 --> 00:22:39,362
+Vous permettez que je jette un œil
+à votre salle de bain et votre cuisine ?
+
+469
+00:22:39,362 --> 00:22:40,113
+Pourquoi ?
+
+470
+00:22:40,113 --> 00:22:43,237
+Pour satisfaire ma...
+curiosité scientifique.
+
+471
+00:22:45,144 --> 00:22:46,487
+Je vous en prie.
+
+472
+00:22:46,487 --> 00:22:47,787
+Merci. Par ici ?
+
+473
+00:23:10,784 --> 00:23:12,581
+Pas de télé ?
+
+474
+00:23:12,581 --> 00:23:13,320
+Nous n'avons pas de télé.
+
+475
+00:23:13,386 --> 00:23:15,720
+C'est une distraction inutile.
+
+476
+00:23:19,520 --> 00:23:21,553
+Avez-vous trouvé ce que vous cherchiez,
+
+477
+00:23:21,620 --> 00:23:23,220
+Dr. Hood ?
+
+478
+00:23:24,550 --> 00:23:26,487
+Pas encore, Mme Brown.
+
+479
+00:23:30,687 --> 00:23:32,253
+Merci. Bonne nuit.
+
+480
+00:23:33,378 --> 00:23:36,190
+C'était une réponse intéressante
+à la mort de Jesse.
+
+481
+00:23:36,190 --> 00:23:37,425
+Je dirais.
+
+482
+00:23:38,353 --> 00:23:40,687
+Je n'ai trouvé aucune
+toxine environnementale
+
+483
+00:23:40,753 --> 00:23:43,019
+qui pourrait causer des crises
+cardiaques chez les enfants.
+
+484
+00:23:43,086 --> 00:23:44,628
+<i>Pourriez-vous venir immédiatement ?</i>
+
+485
+00:23:44,628 --> 00:23:46,894
+Les nouvelles vont vite.
+
+486
+00:23:46,894 --> 00:23:49,113
+Le père de Freddy St. John a entendu
+parler du venin du crapaud.
+
+487
+00:23:49,113 --> 00:23:51,479
+Il est allé chez Lizzie Summers
+et il a tout retourné.
+
+488
+00:23:51,546 --> 00:23:53,988
+Je vais aller l'arrêter.
+
+489
+00:23:56,675 --> 00:23:58,878
+Mlle Summers.
+
+490
+00:23:58,878 --> 00:23:59,988
+Nous avons entendu ce qui arrivé.
+
+491
+00:23:59,988 --> 00:24:01,316
+Ça va ?
+
+492
+00:24:01,316 --> 00:24:02,800
+Non. Pas vraiment.
+
+493
+00:24:05,112 --> 00:24:08,712
+Je ne comprends pas que quelqu'un
+passe sa colère sur les plantes.
+
+494
+00:24:16,646 --> 00:24:17,999
+L'adjoint Larsson est allé arrêter
+
+495
+00:24:17,999 --> 00:24:19,733
+Neal St. John
+chez lui.
+
+496
+00:24:20,925 --> 00:24:22,932
+Non, non, je ne vais pas porter plainte.
+
+497
+00:24:22,999 --> 00:24:24,433
+C'est juste...
+
+498
+00:24:24,499 --> 00:24:26,800
+Je ne peux pas en vouloir à un homme
+qui vient juste de perdre son fils.
+
+499
+00:24:28,533 --> 00:24:30,266
+J'aurais besoin d'un verre.
+
+500
+00:24:31,466 --> 00:24:32,800
+Vous vous joignez à moi ?
+
+501
+00:24:32,865 --> 00:24:34,433
+Bien sûr.
+
+502
+00:24:37,191 --> 00:24:38,190
+Lizzie ?
+
+503
+00:24:38,987 --> 00:24:41,175
+Vous portez toujours ces gants ?
+
+504
+00:24:41,175 --> 00:24:43,099
+Chaque fois que je manipule
+des plantes toxiques.
+
+505
+00:24:43,166 --> 00:24:46,499
+<i>Du poison ? Vous voulez dire comme
+la Digitalis purpurea?</i>
+
+506
+00:24:46,566 --> 00:24:49,633
+Je n'en ai pas vu dans votre jardin.
+
+507
+00:24:49,700 --> 00:24:50,425
+Je ne la cultive pas ici.
+
+508
+00:24:50,425 --> 00:24:52,399
+Pas besoin.
+
+509
+00:24:52,466 --> 00:24:54,166
+Elle pousse à l'état sauvage
+dans les champs.
+
+510
+00:24:54,232 --> 00:24:55,366
+Comment avez-vous su ?
+
+511
+00:24:55,433 --> 00:24:57,433
+Des pétales violets.
+
+512
+00:24:57,499 --> 00:25:00,099
+Vous pouvez nous montrer ?
+
+513
+00:25:03,965 --> 00:25:05,965
+Les voilà.
+
+514
+00:25:10,965 --> 00:25:12,899
+<i>Digitalis purpurea.</i>
+
+515
+00:25:14,599 --> 00:25:16,599
+La ganteline ou "gant du renard".
+
+516
+00:25:17,733 --> 00:25:19,299
+Une plante incroyablement toxique.
+
+517
+00:25:20,499 --> 00:25:23,633
+De nombreuses propriétés médicinales.
+
+518
+00:25:23,700 --> 00:25:25,932
+À l'origine un remède pour le cœur.
+
+519
+00:25:26,999 --> 00:25:28,862
+Pourquoi l'appelle-t-on 
+"gant du renard" ?
+
+520
+00:25:28,862 --> 00:25:31,499
+C'est un ancien conte
+de bonne femme du Moyen Âge.
+
+521
+00:25:31,566 --> 00:25:32,425
+Ils pensaient que
+
+522
+00:25:32,425 --> 00:25:35,366
+les renards mettaient
+leurs pattes dans les fleurs
+
+523
+00:25:35,433 --> 00:25:38,366
+pour couvrir le bruit
+lorsqu'ils allaient voler des poulets.
+
+524
+00:25:38,433 --> 00:25:40,599
+Plutôt mortel, surtout si
+vous vous trompez dans le dosage.
+
+525
+00:25:40,666 --> 00:25:43,433
+Je sais ce que vous pensez,
+mais vous perdez votre temps.
+
+526
+00:25:43,499 --> 00:25:45,132
+Après la mort du premier garçon,
+
+527
+00:25:45,199 --> 00:25:48,488
+<i>j'ai appelé l'hôpital et
+j'ai suggéré la digitale.</i>
+
+528
+00:25:48,488 --> 00:25:49,599
+Ah oui ?
+
+529
+00:25:49,666 --> 00:25:51,132
+Il n'y en avait aucune trace
+dans les prises de sang
+
+530
+00:25:51,199 --> 00:25:52,700
+des victimes.
+
+531
+00:25:55,333 --> 00:25:57,266
+Ma foi,
+
+532
+00:25:57,333 --> 00:26:00,166
+le mystère demeure entier,
+n'est-ce pas ?
+
+533
+00:26:00,232 --> 00:26:02,733
+Juste pour satisfaire ma curiosité,
+
+534
+00:26:02,800 --> 00:26:05,925
+vous utilisez de la ganteline
+pour faire un médicament pour le cœur ?
+
+535
+00:26:05,925 --> 00:26:06,800
+- C'est exact.
+- Et pour ?
+
+536
+00:26:06,865 --> 00:26:08,333
+Quelqu'un en ville ?
+
+537
+00:26:08,399 --> 00:26:11,266
+Il y a quelqu'un -
+Sam Tewsbury.
+
+538
+00:26:11,333 --> 00:26:13,466
+Le professeur de maths de l'école.
+
+539
+00:26:13,533 --> 00:26:14,932
+D'après Larsson,
+
+540
+00:26:14,999 --> 00:26:16,865
+Tewsbury est très apprécié en ville,
+
+541
+00:26:16,932 --> 00:26:19,066
+et les enfants l'aiment comme professeur,
+
+542
+00:26:19,132 --> 00:26:21,999
+mais ça n'a pas toujours été le cas.
+
+543
+00:26:22,066 --> 00:26:24,316
+Expliquez.
+
+544
+00:26:24,316 --> 00:26:26,050
+À l'époque,
+il était le premier
+
+545
+00:26:26,050 --> 00:26:28,099
+professeur afro-américain
+à l'école.
+
+546
+00:26:28,166 --> 00:26:30,333
+Les grands-parents d'au moins une
+
+547
+00:26:30,399 --> 00:26:32,366
+des victimes voulaient qu'il soit
+
+548
+00:26:32,433 --> 00:26:34,128
+chassé de la ville.
+
+549
+00:26:34,128 --> 00:26:35,238
+D'accord.
+
+550
+00:26:35,238 --> 00:26:37,232
+Il a beaucoup souffert.
+
+551
+00:26:37,299 --> 00:26:39,965
+Ça pourrait être un mobile.
+
+552
+00:26:40,032 --> 00:26:42,066
+Venger les péchés du père.
+
+553
+00:26:42,132 --> 00:26:44,965
+Pourquoi le faire maintenant,
+après toutes ces années ?
+
+554
+00:26:45,032 --> 00:26:46,499
+Il est vieux
+
+555
+00:26:46,566 --> 00:26:47,932
+et malade.
+
+556
+00:26:47,999 --> 00:26:50,999
+Il essaie de remettre les pendules
+à l'heure avant sa mort.
+
+557
+00:26:52,433 --> 00:26:54,132
+Les gens deviennent un peu cinglés
+
+558
+00:26:54,199 --> 00:26:56,066
+lorsqu'ils vieillissent parfois.
+
+559
+00:26:56,132 --> 00:26:58,633
+Parfois même quand ils sont plus jeunes.
+
+560
+00:26:58,700 --> 00:27:00,733
+Ça s'appelle la démence.
+
+561
+00:27:00,800 --> 00:27:03,099
+Et je pourrais être atteint
+n'importe quand.
+
+562
+00:27:06,300 --> 00:27:07,832
+Désolé, c'est tout ce que
+je peux vous offrir
+
+563
+00:27:07,832 --> 00:27:09,899
+à cette heure.
+
+564
+00:27:09,965 --> 00:27:11,847
+De la limonade faite maison.
+
+565
+00:27:13,499 --> 00:27:14,599
+Merci.
+
+566
+00:27:14,666 --> 00:27:15,613
+Je vous en prie.
+
+567
+00:27:15,613 --> 00:27:17,238
+Vous avez une collection impressionnante
+de premières éditions
+
+568
+00:27:17,238 --> 00:27:20,666
+de livres de mathématique
+et de philosophie, M. Tewsbury.
+
+569
+00:27:20,733 --> 00:27:22,766
+Avicenna.
+
+570
+00:27:22,832 --> 00:27:25,266
+<i>Descartes.
+Les Règles pour la direction de l'esprit</i>
+
+571
+00:27:25,333 --> 00:27:27,932
+René Descartes.
+
+572
+00:27:27,999 --> 00:27:29,832
+C'était un innovateur.
+
+573
+00:27:29,899 --> 00:27:31,599
+"Ne considérez rien
+
+574
+00:27:31,666 --> 00:27:32,832
+comme vérité à moins que ce ne soit... "
+
+575
+00:27:32,899 --> 00:27:34,113
+L'évidence même. "
+
+576
+00:27:34,113 --> 00:27:37,999
+"Et vérifiez toujours le raisonnement
+
+577
+00:27:38,066 --> 00:27:39,175
+derrière chaque problème. "
+
+578
+00:27:39,175 --> 00:27:41,099
+Vous souffrez d'une
+insuffisance cardiaque ?
+
+579
+00:27:48,800 --> 00:27:50,733
+Quelque chose me dit
+
+580
+00:27:50,800 --> 00:27:52,566
+que vous savez que c'est le cas.
+
+581
+00:27:52,633 --> 00:27:54,366
+Vous prenez aussi
+
+582
+00:27:54,433 --> 00:27:56,399
+un remède homéopathique
+
+583
+00:27:56,466 --> 00:27:58,366
+que Lizzie Summers fabrique à partir de
+
+584
+00:27:58,433 --> 00:28:00,433
+<i>Digitalis purpurea.</i>
+
+585
+00:28:03,285 --> 00:28:04,800
+Je pensais que nous allions
+
+586
+00:28:04,800 --> 00:28:06,899
+parler de mes élèves,
+Dr. Hood.
+
+587
+00:28:06,965 --> 00:28:08,266
+Ouais.
+
+588
+00:28:08,333 --> 00:28:10,999
+Les morts.
+
+589
+00:28:11,066 --> 00:28:13,099
+Qui sont tous morts
+d'une crise cardiaque.
+
+590
+00:28:13,166 --> 00:28:16,333
+Plusieurs témoins vous placent à l'hôpital
+
+591
+00:28:16,399 --> 00:28:18,366
+après la mort de chaque élève.
+
+592
+00:28:18,433 --> 00:28:21,099
+Je m'inquiétais pour mes élèves.
+
+593
+00:28:21,166 --> 00:28:24,378
+Ils ont eu des temps difficiles.
+
+594
+00:28:27,666 --> 00:28:29,800
+Et maintenant,
+
+595
+00:28:29,865 --> 00:28:32,700
+je vais vous demander à
+tous deux de quitter ma maison
+
+596
+00:28:32,766 --> 00:28:34,766
+tout de suite.
+
+597
+00:28:40,132 --> 00:28:42,066
+Merci de votre temps.
+
+598
+00:28:50,766 --> 00:28:52,519
+Très bien, recopiez tout
+
+599
+00:28:52,519 --> 00:28:55,232
+et rendez-moi vos devoirs demain.
+
+600
+00:28:55,299 --> 00:28:56,633
+Arrête !
+
+601
+00:28:59,399 --> 00:29:01,266
+Tu fais chier !
+
+602
+00:29:01,333 --> 00:29:02,433
+Hé ! Hé !
+
+603
+00:29:02,499 --> 00:29:03,366
+Je vais te casser la gueule !
+
+604
+00:29:03,433 --> 00:29:04,700
+Ça suffit !
+
+605
+00:29:04,766 --> 00:29:05,865
+Une bagarre ! Une bagarre !
+
+606
+00:29:05,932 --> 00:29:07,533
+Une bagarre ! Une bagarre !
+
+607
+00:29:07,599 --> 00:29:08,733
+Une bagarre ! Une bagarre !
+
+608
+00:29:08,800 --> 00:29:10,200
+Mais qu'est-ce qui vous prends !
+
+609
+00:29:10,800 --> 00:29:13,700
+Ça suffit ! Arrêtez !
+
+610
+00:29:14,488 --> 00:29:16,112
+Qu'est-ce qui vous prend ?
+
+611
+00:29:16,112 --> 00:29:18,253
+Il a commencé ! Il tapait dans ma chaise.
+
+612
+00:29:18,253 --> 00:29:19,800
+Non, c'est pas vrai, menteur !
+
+613
+00:29:19,800 --> 00:29:22,691
+Ça suffit ! Vous savez
+vous me décevez vraiment
+
+614
+00:29:22,691 --> 00:29:24,050
+tous les deux
+
+615
+00:29:24,487 --> 00:29:27,599
+Je voudrais que tu sois mort,
+comme les autres.
+
+616
+00:29:27,666 --> 00:29:29,899
+Que dis-tu ?
+
+617
+00:29:29,965 --> 00:29:32,433
+Vous savez quelque chose sur ces morts ?
+
+618
+00:29:35,232 --> 00:29:37,800
+Si c'est le cas, dites-le moi !
+
+619
+00:29:39,633 --> 00:29:42,050
+Vous devriez avoir honte de vous.
+
+620
+00:29:44,832 --> 00:29:46,399
+Allez, filez.
+
+621
+00:29:46,466 --> 00:29:48,466
+Prenez vos affaires.
+
+622
+00:30:14,433 --> 00:30:16,366
+Nous avons réanalysé deux fois
+le sang de Jesse Freeman
+
+623
+00:30:16,433 --> 00:30:18,366
+<i>pour toutes les espèces de
+digitales.</i>
+
+624
+00:30:18,433 --> 00:30:20,366
+Nous n'avons rien trouvé.
+
+625
+00:30:20,433 --> 00:30:21,932
+Vous êtes sûre ?
+
+626
+00:30:21,999 --> 00:30:23,499
+Deux fois.
+
+627
+00:30:59,766 --> 00:31:02,550
+<i>"Meilleur professeur de l'école."</i>
+
+628
+00:31:28,066 --> 00:31:30,099
+<i>Très bien, nous allons vérifier.</i>
+
+629
+00:31:30,166 --> 00:31:31,766
+Merci.
+
+630
+00:31:31,832 --> 00:31:33,132
+C'était Lizzie Summers.
+
+631
+00:31:33,199 --> 00:31:35,299
+Sam Tewsbury
+lui a commandé plus
+
+632
+00:31:35,366 --> 00:31:36,472
+de potion pour le cœur,
+mais il n'est pas venu la chercher.
+
+633
+00:31:36,472 --> 00:31:39,865
+Elle a essayé de le joindre
+toute la journée. Pas de réponse.
+
+634
+00:31:41,433 --> 00:31:42,999
+M. Tewsbury ?!
+
+635
+00:31:48,132 --> 00:31:50,099
+M. Tewsbury ?!
+
+636
+00:31:51,766 --> 00:31:53,766
+Sam ?!
+
+637
+00:32:09,266 --> 00:32:11,738
+M. Tewsbury?
+
+638
+00:32:15,800 --> 00:32:17,112
+Il est mort.
+
+639
+00:32:28,733 --> 00:32:31,166
+<i>"Ainsi parlait... ?"</i>
+
+640
+00:32:31,232 --> 00:32:32,366
+<i>Zarathoustra.</i>
+
+641
+00:32:33,466 --> 00:32:34,733
+N'y touchez pas.
+
+642
+00:32:53,333 --> 00:32:54,487
+Qu'est-ce que c'est ?
+
+643
+00:32:56,032 --> 00:32:57,199
+De la ganteline.
+
+644
+00:32:57,266 --> 00:32:58,733
+Quelqu'un
+
+645
+00:32:58,800 --> 00:33:01,865
+a pris le temps et a eu la patience
+
+646
+00:33:01,932 --> 00:33:04,299
+de coller les pages avec.
+
+647
+00:33:04,366 --> 00:33:06,566
+Comment des pages qui collent
+peuvent-elles tuer quelqu'un ?
+
+648
+00:33:06,633 --> 00:33:08,366
+Tout dépend de votre façon de lire.
+
+649
+00:33:08,433 --> 00:33:10,865
+Mais si vous humidifiez vos doigts
+pour tourner les pages,
+
+650
+00:33:10,932 --> 00:33:12,965
+vous finirez sans doute
+par ingérer le poison.
+
+651
+00:33:13,032 --> 00:33:14,999
+Catherine De Medicis,
+
+652
+00:33:15,066 --> 00:33:17,899
+au 16ème siècle en France,
+utilisait cette méthode
+
+653
+00:33:17,965 --> 00:33:20,488
+pour se débarasser de ses ennemis.
+
+654
+00:33:21,894 --> 00:33:24,800
+je dois voir tout ce que
+les victimes portaient
+
+655
+00:33:24,865 --> 00:33:26,499
+ou transportaient
+lorsqu'elles sont mortes.
+
+656
+00:33:26,566 --> 00:33:28,232
+Je vais vous faire amener ça.
+
+657
+00:33:28,299 --> 00:33:29,333
+Merci.
+
+658
+00:33:29,399 --> 00:33:31,999
+Nietzsche ?
+
+659
+00:33:32,066 --> 00:33:36,675
+Quelqu'un ici...
+tue les faibles.
+
+660
+00:33:37,066 --> 00:33:38,566
+Faisant de la place pour le surhomme.
+
+661
+00:33:38,633 --> 00:33:40,599
+Le surhomme.
+
+662
+00:33:40,666 --> 00:33:41,932
+Rachel.
+
+663
+00:33:42,865 --> 00:33:43,899
+Je vais avoir besoin 
+
+664
+00:33:43,965 --> 00:33:45,466
+de bourdons terrestres.
+
+665
+00:33:48,032 --> 00:33:49,865
+Dans la salle de bain.
+
+666
+00:33:55,166 --> 00:33:56,499
+Et voilà.
+
+667
+00:33:57,832 --> 00:33:59,700
+Pourquoi sommes-nous
+dans la salle de bain, Hood ?
+
+668
+00:33:59,766 --> 00:34:01,366
+Parce que nous voulons
+un environnement sain,
+
+669
+00:34:01,433 --> 00:34:03,099
+sans pollen.
+
+670
+00:34:03,166 --> 00:34:05,865
+S'il y a de la ganteline sur
+les affaires des victimes,
+
+671
+00:34:05,932 --> 00:34:08,999
+ce sera la première chose
+qui attirera nos petits amis.
+
+672
+00:34:10,700 --> 00:34:12,299
+Et voilà.
+
+673
+00:34:12,366 --> 00:34:14,166
+Je pense que je vais attendre dehors
+
+674
+00:34:14,232 --> 00:34:15,700
+si ça ne vous dérange pas.
+
+675
+00:34:18,399 --> 00:34:20,333
+Oui, ça fait beaucoup de bourdons.
+
+676
+00:34:20,399 --> 00:34:22,099
+Voici vos gants.
+
+677
+00:34:22,166 --> 00:34:23,666
+- Oh, merci.
+- Mettez votre casque.
+
+678
+00:34:39,633 --> 00:34:41,032
+C'est parti.
+
+679
+00:34:41,099 --> 00:34:42,466
+Elles vont droit
+
+680
+00:34:42,533 --> 00:34:44,366
+sur la ganteline sur
+les affaires des victimes :
+
+681
+00:34:44,433 --> 00:34:45,800
+le sac à dos,
+
+682
+00:34:45,865 --> 00:34:47,232
+l'inhalateur,
+
+683
+00:34:47,299 --> 00:34:49,466
+la boîte repas,
+
+684
+00:34:49,533 --> 00:34:51,733
+et le vélo de Freddy St. John.
+
+685
+00:34:54,999 --> 00:34:56,232
+<i>La ganteline était sur toutes</i>
+
+686
+00:34:56,299 --> 00:34:57,499
+les affaires des victimes.
+
+687
+00:34:57,566 --> 00:34:59,299
+Donc maintenant nous savons ce
+qui a provoqué leur crise cardiaque.
+
+688
+00:34:59,366 --> 00:35:02,199
+<i>La Digitalis purpurea n'apparaît dans
+aucune des autopsies. Pourquoi ?</i>
+
+689
+00:35:03,800 --> 00:35:06,466
+Je veux des tests ADN de toutes
+les victimes et leurs parents.
+
+690
+00:35:06,533 --> 00:35:08,099
+Mais que ce ne se soit pas
+fait au labo de l'hôpital.
+
+691
+00:35:08,166 --> 00:35:09,666
+Demandez à vos gars à Quantico
+de s'en occuper.
+
+692
+00:35:11,899 --> 00:35:13,266
+D'accord, mon chou.
+
+693
+00:35:13,333 --> 00:35:14,766
+Au revoir
+
+694
+00:35:17,066 --> 00:35:18,499
+Les résultats ADN.
+Écoutez ça.
+
+695
+00:35:18,566 --> 00:35:20,032
+D'après les échantillons de sang
+
+696
+00:35:20,099 --> 00:35:21,533
+que l'hôpital a donné à Quantico,
+
+697
+00:35:21,599 --> 00:35:24,599
+aucun des garçons morts n'a
+de lien avec ses parents.
+
+698
+00:35:24,666 --> 00:35:25,932
+C'est ridicule.
+
+699
+00:35:25,999 --> 00:35:27,932
+Je connais ces familles
+depuis très longtemps.
+
+700
+00:35:27,999 --> 00:35:29,399
+J'ai vu la plupart revenir de l'hôpital.
+
+701
+00:35:29,466 --> 00:35:30,865
+Je suis d'accord avec le shérif.
+
+702
+00:35:30,932 --> 00:35:33,399
+Quelqu'un a dû intervertir
+les échantillons.
+
+703
+00:35:37,533 --> 00:35:39,166
+Non...
+
+704
+00:35:41,700 --> 00:35:43,132
+Attendez.
+
+705
+00:35:47,499 --> 00:35:48,899
+Attendez.
+
+706
+00:35:48,965 --> 00:35:50,299
+Qu'avez-vous trouvé ?
+
+707
+00:35:56,633 --> 00:35:59,099
+D'après ces marqueurs ADN,
+
+708
+00:35:59,166 --> 00:36:00,800
+tout le sang doit venir
+
+709
+00:36:00,899 --> 00:36:05,333
+d'un garçon pubère.
+
+710
+00:36:07,399 --> 00:36:10,666
+L'école est peut-être
+la source de nos morts.
+
+711
+00:36:11,999 --> 00:36:14,132
+Pas l'environnement.
+
+712
+00:36:14,199 --> 00:36:15,533
+Un élève.
+
+713
+00:36:17,566 --> 00:36:19,434
+Vous avez un plan ?
+
+714
+00:36:19,501 --> 00:36:21,533
+Plutôt une hypothèse.
+
+715
+00:36:21,600 --> 00:36:24,000
+Vous voulez partager ?
+
+716
+00:36:24,067 --> 00:36:26,050
+Faites-moi confiance.
+
+717
+00:36:26,600 --> 00:36:28,565
+Il sait ce qu'il fait ?
+
+718
+00:36:28,565 --> 00:36:29,925
+La plupart du temps.
+
+719
+00:36:31,050 --> 00:36:32,167
+Très bien, on s'assoit.
+
+720
+00:36:32,234 --> 00:36:34,487
+On s'assoit. Faites attention.
+
+721
+00:36:34,487 --> 00:36:35,800
+Par ici.
+On s'assoit.
+
+722
+00:36:35,867 --> 00:36:39,300
+Très bien. Ils sont à vous.
+
+723
+00:36:41,666 --> 00:36:42,867
+Merci.
+
+724
+00:36:47,034 --> 00:36:50,175
+Je m'appelle Jacob Hood.
+
+725
+00:36:50,175 --> 00:36:52,050
+Je suis un scientifique,
+
+726
+00:36:52,050 --> 00:36:55,067
+et je travaille avec le... FBI.
+
+727
+00:36:55,134 --> 00:36:57,200
+Bon,
+
+728
+00:36:57,267 --> 00:37:00,367
+j'ai rencontré votre professeur
+de maths
+
+729
+00:37:00,434 --> 00:37:05,363
+Sam Tewsbury,
+avant sa mort.
+
+730
+00:37:05,363 --> 00:37:06,533
+Comme vous le savez, Sam,
+
+731
+00:37:06,600 --> 00:37:08,900
+a consacré sa vie à cette école.
+
+732
+00:37:08,967 --> 00:37:11,566
+Avant de mourir, il m'a demandé
+
+733
+00:37:11,633 --> 00:37:15,234
+de vous soumettre un problème
+de mathématique
+
+734
+00:37:15,300 --> 00:37:17,501
+comme une sorte de concours.
+
+735
+00:37:17,566 --> 00:37:19,034
+Il disait que certains d'entre vous
+
+736
+00:37:19,100 --> 00:37:21,167
+devenaient trop intelligents pour lui.
+
+737
+00:37:21,234 --> 00:37:24,700
+Et bien qu'il ne soit pas là,
+
+738
+00:37:24,767 --> 00:37:28,100
+je voudrais...
+
+739
+00:37:31,401 --> 00:37:35,987
+...vous donner une chance de résoudre
+mon problème pour lui.
+
+740
+00:37:36,267 --> 00:37:39,034
+Oh, et le gagnant
+
+741
+00:37:39,100 --> 00:37:42,867
+reçoit une vraie paire
+de menottes du FBI.
+
+742
+00:37:48,134 --> 00:37:50,933
+Soyez attentifs.
+
+743
+00:37:51,000 --> 00:37:53,401
+Bien.
+
+744
+00:37:53,467 --> 00:37:56,300
+Le premier étage "F"
+
+745
+00:37:56,367 --> 00:37:59,434
+d'une fusée brûle 25 secondes
+
+746
+00:37:59,501 --> 00:38:02,600
+plus longtemps que le deuxième étage,
+que nous appellerons "S".
+
+747
+00:38:02,666 --> 00:38:06,100
+Si le temps total de combustion
+des deux étages
+
+748
+00:38:06,167 --> 00:38:10,401
+est 145 secondes,
+
+749
+00:38:10,467 --> 00:38:15,925
+combien de temps brûle chaque étage ?
+
+750
+00:38:16,633 --> 00:38:18,833
+Quelqu'un ?
+
+751
+00:38:22,666 --> 00:38:24,867
+Personne ?
+
+752
+00:38:29,347 --> 00:38:31,050
+Non ?
+
+753
+00:38:35,315 --> 00:38:35,925
+Très bien.
+
+754
+00:38:36,467 --> 00:38:39,050
+Je vais vous dire ce que je vais faire.
+
+755
+00:38:39,425 --> 00:38:42,700
+Je vais laisser ça sur le tableau
+
+756
+00:38:42,767 --> 00:38:44,700
+jusqu'à demain.
+
+757
+00:38:44,767 --> 00:38:46,815
+Nous n'avons qu'à
+
+758
+00:38:46,815 --> 00:38:48,690
+attendre et voir ce que vous savez faire.
+
+759
+00:38:50,467 --> 00:38:53,675
+Merci beaucoup.
+
+760
+00:38:53,675 --> 00:38:54,988
+Je vous le retourne.
+
+761
+00:39:19,134 --> 00:39:22,175
+C'est violet, Stephen.
+
+762
+00:39:22,334 --> 00:39:24,363
+Mais ce n'est pas de la ganteline.
+
+763
+00:39:24,867 --> 00:39:26,467
+C'est de la teinture
+
+764
+00:39:26,566 --> 00:39:29,941
+issue d'un indigo japonais.
+
+765
+00:39:30,331 --> 00:39:31,550
+Juste un aperçu
+
+766
+00:39:31,550 --> 00:39:32,767
+de ta propre médecine.
+
+767
+00:39:35,501 --> 00:39:38,334
+Sauf que cette plante ne va pas te tuer.
+
+768
+00:39:41,000 --> 00:39:43,212
+Nous devons parler des
+raisons pour lesquelles
+
+769
+00:39:43,213 --> 00:39:45,425
+tu as tué tes
+camarades, Stephen.
+
+770
+00:39:45,425 --> 00:39:47,222
+Il n'a pas tué ces petits salauds.
+
+771
+00:39:47,222 --> 00:39:47,894
+C'est moi.
+
+772
+00:39:47,894 --> 00:39:50,000
+- Maman.
+- Tais-toi, Stephen.
+
+773
+00:39:50,067 --> 00:39:52,237
+Mme Brown,
+reculez s'il vous plaît.
+
+774
+00:39:52,237 --> 00:39:53,134
+Je les ai tués.
+
+775
+00:39:53,200 --> 00:39:54,800
+J'avais accès
+
+776
+00:39:54,867 --> 00:39:56,167
+au labo de toxicologie à l'hôpital
+
+777
+00:39:56,234 --> 00:39:58,503
+J'ai utilisé le sang de Stephen.
+J'ai échangé les échantillons.
+
+778
+00:39:58,503 --> 00:40:01,367
+Chacun de ces enfants
+n'apportait que des problèmes.
+
+779
+00:40:01,434 --> 00:40:03,000
+Ils ont fait boire de la bière à
+mon fils, l'ont fait se défoncer.
+
+780
+00:40:03,067 --> 00:40:04,362
+Ta mère essaie
+
+781
+00:40:04,362 --> 00:40:06,867
+de te protéger, Stephen.
+
+782
+00:40:06,933 --> 00:40:09,300
+Apparemment elle
+
+783
+00:40:09,367 --> 00:40:11,367
+t'aime beaucoup
+
+784
+00:40:11,434 --> 00:40:13,334
+Mais nous savons cependant
+
+785
+00:40:13,401 --> 00:40:16,666
+<i>qu'elle n'aurait pas pu extraire
+la digitale</i>
+
+786
+00:40:16,733 --> 00:40:18,833
+des plants de ganteline.
+
+787
+00:40:20,767 --> 00:40:23,691
+Toi en revanche, si.
+
+788
+00:40:23,691 --> 00:40:24,867
+N'est-ce pas ?
+
+789
+00:40:26,034 --> 00:40:28,501
+Les policiers ont trouvé par hasard
+
+790
+00:40:28,566 --> 00:40:31,300
+ton kit de chimie.
+
+791
+00:40:31,666 --> 00:40:33,675
+Il était couvert de ganteline.
+
+792
+00:40:33,675 --> 00:40:35,237
+Ce n'est pas le sien. C'est le mien !
+
+793
+00:40:35,237 --> 00:40:36,467
+Non !
+Stop !
+
+794
+00:40:36,533 --> 00:40:37,733
+Mme Brown,
+le numéro de série
+
+795
+00:40:37,800 --> 00:40:39,800
+sur les ustensiles
+vient de l'école.
+
+796
+00:40:39,800 --> 00:40:42,440
+Pour l'amour de Dieu,
+il n'a qu'11 ans !
+
+797
+00:40:42,440 --> 00:40:43,740
+Il est tout ce qui me reste.
+
+798
+00:40:43,807 --> 00:40:45,907
+- Vous comprenez ça ?
+- Arrête, maman.
+
+799
+00:40:45,973 --> 00:40:49,206
+Tu ne devrais pas payer
+pour ce que j'ai fait.
+
+800
+00:40:51,140 --> 00:40:53,074
+Je devais les tuer.
+
+801
+00:40:53,140 --> 00:40:54,673
+Ils me ralentissaient.
+
+802
+00:40:54,740 --> 00:40:58,306
+Ils ralentissaient toute l'école.
+
+803
+00:40:58,373 --> 00:41:00,206
+Toute l'école souffrait
+
+804
+00:41:00,273 --> 00:41:01,873
+à cause de ces gamins stupides
+
+805
+00:41:01,940 --> 00:41:03,640
+À cause de
+
+806
+00:41:03,707 --> 00:41:06,040
+nos mauvais résultats
+
+807
+00:41:06,107 --> 00:41:07,273
+Même certains professeurs
+
+808
+00:41:07,339 --> 00:41:08,907
+partaient dans d'autres écoles.
+
+809
+00:41:08,973 --> 00:41:10,800
+Quelqu'un devait faire quelque chose.
+
+810
+00:41:11,128 --> 00:41:13,206
+Pourquoi Sam Tewsbury ?
+
+811
+00:41:14,540 --> 00:41:16,940
+J'ai vu M. Tewsbury
+dans la classe.
+
+812
+00:41:17,007 --> 00:41:19,940
+Je l'ai entendu poser des questions
+aux élèves.
+
+813
+00:41:21,440 --> 00:41:24,573
+J'étais sûr qu'il suspectait qu'un élève
+était derrière ces morts.
+
+814
+00:41:24,640 --> 00:41:25,425
+Ce n'était qu'une question de temps
+
+815
+00:41:25,425 --> 00:41:27,273
+avant qu'il ne découvre tout.
+
+816
+00:41:27,339 --> 00:41:29,506
+C'était un homme intelligent.
+
+817
+00:41:29,573 --> 00:41:32,239
+Presque autant que moi.
+
+818
+00:41:32,306 --> 00:41:35,973
+Alors tu lui as envoyé le livre de
+Nietzsche ?
+
+819
+00:41:36,040 --> 00:41:38,239
+Le livre de ma mère en fait.
+
+820
+00:41:38,306 --> 00:41:40,040
+C'est son code de vie.
+
+821
+00:41:40,107 --> 00:41:43,206
+"Ce qui ne te tue pas,
+te rends plus fort. "
+
+822
+00:41:43,273 --> 00:41:46,040
+Tu as quand même pris des risques
+en léchant ce venin de crapaud.
+
+823
+00:41:46,107 --> 00:41:47,473
+Pourquoi ?
+
+824
+00:41:47,540 --> 00:41:49,174
+Pour me mêler aux autre.
+
+825
+00:41:49,239 --> 00:41:51,675
+Pour éviter qu'on me soupçonne.
+
+826
+00:41:51,675 --> 00:41:54,473
+Tu t'es fait ta propre prise de sang,
+tu as échangé les échantillons
+
+827
+00:41:54,540 --> 00:41:58,107
+et tu as fait croire à ta mère
+que tu avais peur des aiguilles.
+
+828
+00:41:58,174 --> 00:42:00,007
+Je lui ai fait croire beaucoup de choses.
+
+829
+00:42:01,540 --> 00:42:03,815
+Quand allais-tu t'arrêter ?
+
+830
+00:42:03,815 --> 00:42:07,238
+Quand quelqu'un aurait été assez
+intelligent pour m'arrêter, je suppose.
+
+831
+00:42:08,007 --> 00:42:09,425
+Vous saviez que le comics,
+
+832
+00:42:09,425 --> 00:42:12,640
+<i>Superman, était fondé
+sur la philosophie de Nietzsche ?</i>
+
+833
+00:42:13,550 --> 00:42:18,074
+"Up, up and away...* "
+(titre du comics, ndlt)
+
+834
+00:42:27,873 --> 00:42:30,840
+Que diriez-vous d'être le psychiatre
+désigné par la cour
+
+835
+00:42:30,907 --> 00:42:32,740
+dont le travail serait
+d'observer
+
+836
+00:42:32,807 --> 00:42:34,940
+le petit Stephen Brown
+pendant une décennie ou deux ?
+
+837
+00:42:35,007 --> 00:42:38,707
+Je pourrais avoir pire à faire
+de mes journées.
+
+838
+00:42:40,373 --> 00:42:43,074
+Alors, Hood...
+
+839
+00:42:43,140 --> 00:42:45,640
+à quoi vous ressembliez
+quand vous aviez 11 ans ?
+
+840
+00:42:49,238 --> 00:42:51,675
+Je devais être un peu comme
+Stephen, je suppose.
+
+841
+00:42:53,107 --> 00:42:55,406
+Je voulais rivaliser avec les meilleurs
+
+842
+00:42:55,473 --> 00:42:57,925
+Mais c'est dur de connaître son niveau,
+
+843
+00:42:57,925 --> 00:42:59,573
+quand on tue la compétition.
+
+844
+00:43:02,074 --> 00:43:04,540
+En tout cas je suis soulagée
+
+845
+00:43:04,606 --> 00:43:07,040
+que vous utilisez votre esprit
+pour le bien.
+
+846
+00:43:07,107 --> 00:43:08,606
+Merci.
+
+847
+00:43:08,673 --> 00:43:10,873
+Peut-être que je n'ai jamais été pris.
+
+

@@ -1,0 +1,2690 @@
+1
+00:00:48,007 --> 00:00:49,669
+Voudriez-vous un traitement ?
+
+2
+00:00:50,560 --> 00:00:53,260
+Je me suis assis
+parce que je suis...
+
+3
+00:00:53,704 --> 00:00:54,518
+fatigué.
+
+4
+00:00:54,768 --> 00:00:57,175
+La vie de chaperon
+est assez fatigante.
+
+5
+00:00:57,958 --> 00:00:59,257
+Je préfère mon job.
+
+6
+00:00:59,706 --> 00:01:02,256
+- Vous êtes en repos ?
+- Pour quelques heures.
+
+7
+00:01:03,022 --> 00:01:05,022
+Mais je n'arrive pas à dormir.
+
+8
+00:01:05,395 --> 00:01:08,584
+- C'est dur d'imaginer Echo être...
+- Vous avez touché ça ?
+
+9
+00:01:09,363 --> 00:01:10,511
+J'ai pas...
+
+10
+00:01:10,812 --> 00:01:12,154
+C'est pas un jouet.
+
+11
+00:01:12,901 --> 00:01:14,823
+Laissez ça aux adultes.
+
+12
+00:01:16,577 --> 00:01:17,700
+Alors, Echo...
+
+13
+00:01:19,250 --> 00:01:21,121
+- Sympa, non ?
+- C'est étrange.
+
+14
+00:01:21,837 --> 00:01:24,685
+Pas la relation, l'autre protocole.
+
+15
+00:01:24,935 --> 00:01:25,959
+Honnêtement,
+
+16
+00:01:26,404 --> 00:01:28,668
+je me suis épaté moi-même
+cette fois-ci.
+
+17
+00:01:29,713 --> 00:01:31,132
+Une requête un peu spéciale,
+
+18
+00:01:31,382 --> 00:01:33,967
+un minuscule changement
+dans la physiologie d'Echo.
+
+19
+00:01:34,219 --> 00:01:35,302
+Et j'ai ouvert
+
+20
+00:01:35,554 --> 00:01:37,278
+de nouveaux horizons pour nous.
+
+21
+00:01:38,599 --> 00:01:39,968
+C'est nouveau pour moi.
+
+22
+00:01:41,054 --> 00:01:42,393
+Oui, mais ça...
+
+23
+00:01:44,671 --> 00:01:46,502
+J'ai écrit un code pour le cerveau
+
+24
+00:01:46,907 --> 00:01:49,171
+qui a modifié le corps.
+
+25
+00:01:49,850 --> 00:01:51,110
+Et je parle pas...
+
+26
+00:01:51,739 --> 00:01:53,811
+de mémoire musculaire pour...
+
+27
+00:01:54,205 --> 00:01:55,521
+exceller au piano.
+
+28
+00:01:55,923 --> 00:01:58,915
+J'ai fait des changements
+au niveau glandulaire.
+
+29
+00:02:00,423 --> 00:02:02,955
+Vous imaginez ce que ça implique ?
+
+30
+00:02:03,236 --> 00:02:04,440
+Je suis tout ouïe.
+
+31
+00:02:05,012 --> 00:02:06,012
+Il semble
+
+32
+00:02:06,497 --> 00:02:09,251
+qu'on puisse
+programmer le cerveau à...
+
+33
+00:02:10,764 --> 00:02:11,922
+combattre le cancer.
+
+34
+00:02:13,300 --> 00:02:14,699
+Ou faire de la télékinésie.
+
+35
+00:02:14,949 --> 00:02:18,178
+Ou à ne pas s'étouffer
+quand on mange des oursins.
+
+36
+00:02:18,430 --> 00:02:19,513
+Ou autre.
+
+37
+00:02:19,765 --> 00:02:22,554
+Les possibilités
+sont presque infinies,
+
+38
+00:02:22,804 --> 00:02:24,268
+c'est ça, l'idée.
+
+39
+00:02:25,535 --> 00:02:28,089
+Je veux pas prononcer
+le mot "génie",
+
+40
+00:02:28,838 --> 00:02:30,733
+mais je vous empêcherai pas
+de le faire.
+
+41
+00:02:32,055 --> 00:02:34,307
+Vous pourriez me faire tout ça
+avec ce siège ?
+
+42
+00:02:34,557 --> 00:02:36,207
+Pas à vous. À un actif.
+
+43
+00:02:36,871 --> 00:02:39,118
+Je peux pas bricoler
+une personnalité non effacée.
+
+44
+00:02:39,368 --> 00:02:41,107
+L'esprit, c'est comme Van Halen.
+
+45
+00:02:41,357 --> 00:02:44,873
+Si on change un élément constamment,
+ça dégénère.
+
+46
+00:02:46,491 --> 00:02:47,666
+Je comprends pas.
+
+47
+00:02:48,935 --> 00:02:51,235
+Mais c'est si mignon d'essayer.
+
+48
+00:02:54,829 --> 00:02:55,977
+Chouette discussion.
+
+49
+00:02:59,750 --> 00:03:01,350
+Passez le bonjour à Echo.
+
+50
+00:03:02,063 --> 00:03:04,600
+Dites-lui qu'on est tous très fiers.
+
+51
+00:04:04,778 --> 00:04:05,994
+J'ai cru t'entendre.
+
+52
+00:04:14,049 --> 00:04:15,399
+Ne réveille pas papa.
+
+53
+00:05:13,647 --> 00:05:16,131
+Épisode 202 : <i>Instinct</i>
+v. 1.00
+
+54
+00:05:16,381 --> 00:05:17,691
+www.subbercafe.fr
+
+55
+00:05:39,679 --> 00:05:41,173
+Petit bonhomme.
+
+56
+00:05:41,425 --> 00:05:43,508
+Maman a besoin de caféine.
+
+57
+00:05:43,760 --> 00:05:45,510
+Alors, sois sage deux minutes.
+
+58
+00:05:51,260 --> 00:05:52,435
+Bébé, un café ?
+
+59
+00:05:58,867 --> 00:06:00,317
+Nate, tu es là ?
+
+60
+00:06:06,890 --> 00:06:09,076
+Bonjour, tu t'es levé tôt.
+
+61
+00:06:09,328 --> 00:06:10,740
+Tout va bien ?
+
+62
+00:06:12,848 --> 00:06:14,414
+Oui, ça va. Je vais bien.
+
+63
+00:06:14,913 --> 00:06:16,708
+J'ai dit bonjour.
+
+64
+00:06:21,278 --> 00:06:23,840
+On voulait aller au parc
+pour nourrir les canards.
+
+65
+00:06:24,173 --> 00:06:25,842
+Bonne idée. Faites donc ça.
+
+66
+00:06:26,252 --> 00:06:28,011
+Tu pourrais rester
+et venir avec nous.
+
+67
+00:06:28,263 --> 00:06:30,430
+Oui... Je crois pas.
+
+68
+00:06:31,295 --> 00:06:33,392
+Peux-tu le prendre
+pendant que je fais le café ?
+
+69
+00:06:34,247 --> 00:06:35,247
+Je vais...
+
+70
+00:06:40,324 --> 00:06:41,733
+Allez, tu vas pas le briser.
+
+71
+00:06:42,033 --> 00:06:44,486
+Il va pas te mordre ou prendre feu.
+
+72
+00:06:44,818 --> 00:06:47,489
+Tu as un master d'ingénierie.
+Ça devrait être un jeu d'enfant.
+
+73
+00:06:47,741 --> 00:06:49,599
+Désolé. Je vais...
+
+74
+00:06:54,617 --> 00:06:56,289
+Je vais être en retard.
+
+75
+00:06:56,541 --> 00:06:57,707
+Nate, attends.
+
+76
+00:07:01,314 --> 00:07:04,654
+- Tu vas rentrer pour le dîner ?
+- Non, j'ai un dîner d'affaires.
+
+77
+00:07:04,904 --> 00:07:06,299
+Ne m'attends pas.
+
+78
+00:07:20,246 --> 00:07:22,718
+Puis, il devait emmener Jack
+jouer avec les voisins,
+
+79
+00:07:22,968 --> 00:07:25,843
+et à la dernière minute,
+un rendez-vous, comme d'habitude.
+
+80
+00:07:26,093 --> 00:07:28,592
+Nate est un drogué du travail.
+Il a toujours été comme ça.
+
+81
+00:07:28,842 --> 00:07:30,094
+C'est plus que ça.
+
+82
+00:07:30,344 --> 00:07:31,832
+Quand je lui donne le bébé,
+
+83
+00:07:32,082 --> 00:07:34,329
+il agit
+comme si je lui passais une grenade.
+
+84
+00:07:34,579 --> 00:07:36,163
+Tous des femmelettes.
+
+85
+00:07:36,681 --> 00:07:38,972
+C'est lui qui voulait des enfants
+tout de suite.
+
+86
+00:07:39,222 --> 00:07:41,377
+Moi, je voulais attendre
+quelques années.
+
+87
+00:07:41,628 --> 00:07:44,475
+Dis-lui qu'il doit aider.
+Tu peux pas l'élever toute seule.
+
+88
+00:07:44,725 --> 00:07:45,732
+Il aide.
+
+89
+00:07:45,982 --> 00:07:48,448
+Il change les couches,
+il fait les courses, la lessive.
+
+90
+00:07:48,698 --> 00:07:50,021
+Il a lu tous les livres.
+
+91
+00:07:50,271 --> 00:07:52,171
+Voilà. J'ai envie d'échanger.
+
+92
+00:07:53,913 --> 00:07:56,683
+C'est incroyable
+à quel point j'aime ce petit garçon.
+
+93
+00:07:58,520 --> 00:08:00,645
+Et je sais même pas si Nate l'aime.
+
+94
+00:08:02,352 --> 00:08:03,877
+Ni s'il m'aime, d'ailleurs.
+
+95
+00:08:04,443 --> 00:08:05,817
+Nate est fou de toi.
+
+96
+00:08:09,485 --> 00:08:10,989
+Je pense qu'il a une maîtresse.
+
+97
+00:08:14,467 --> 00:08:16,748
+À quand remonte
+ta dernière nuit complète ?
+
+98
+00:08:18,560 --> 00:08:20,707
+- Je me souviens pas.
+- Tu es épuisée.
+
+99
+00:08:20,959 --> 00:08:22,544
+Tes hormones sont chamboulées.
+
+100
+00:08:22,794 --> 00:08:24,169
+C'est pas les hormones.
+
+101
+00:08:24,421 --> 00:08:27,298
+Il n'est jamais là.
+Il bosse sans arrêt.
+
+102
+00:08:27,549 --> 00:08:30,107
+Et presque tous les soirs,
+il a un dîner ou un cocktail.
+
+103
+00:08:30,357 --> 00:08:33,027
+Et quand il est là,
+il téléphone tout le temps dehors
+
+104
+00:08:33,277 --> 00:08:34,680
+pour que je n'entende rien.
+
+105
+00:08:34,930 --> 00:08:36,223
+Ça ne veut rien dire.
+
+106
+00:08:37,067 --> 00:08:39,602
+- Alors, il trempe dans l'illégalité.
+- Quoi ?
+
+107
+00:08:40,228 --> 00:08:41,387
+D'où tu sors ça ?
+
+108
+00:08:41,646 --> 00:08:45,300
+Je vois un camion noir
+garé devant, tous les jours.
+
+109
+00:08:46,142 --> 00:08:47,234
+On est surveillés.
+
+110
+00:08:47,563 --> 00:08:49,528
+Personne ne te surveille, Emily.
+
+111
+00:08:49,863 --> 00:08:52,823
+Tu manques de sommeil,
+ça te rend un peu parano.
+
+112
+00:08:53,485 --> 00:08:54,367
+Écoute,
+
+113
+00:08:54,617 --> 00:08:58,245
+certains hommes mettent du temps
+à se faire à l'idée d'être papa.
+
+114
+00:08:58,926 --> 00:09:01,164
+- Mais ça va s'arranger.
+- T'es sûre ?
+
+115
+00:09:01,585 --> 00:09:02,684
+Certaine.
+
+116
+00:09:03,305 --> 00:09:06,211
+Et puis, c'est pas le genre de Nate,
+d'avoir une aventure.
+
+117
+00:09:06,867 --> 00:09:09,714
+Tu as besoin
+d'une bonne nuit de sommeil.
+
+118
+00:09:09,966 --> 00:09:12,634
+Confie le bébé à Nate, ce soir.
+Prends un verre,
+
+119
+00:09:12,886 --> 00:09:15,795
+mets des boules Quiès,
+et pense à autre chose.
+
+120
+00:09:17,332 --> 00:09:18,807
+Ça va s'arranger, je t'assure.
+
+121
+00:09:20,224 --> 00:09:22,352
+J'ai vraiment de la chance
+de t'avoir, Kelly.
+
+122
+00:09:22,604 --> 00:09:24,645
+Je deviendrais folle, sans toi.
+
+123
+00:09:25,651 --> 00:09:27,274
+Je suis là pour ça.
+
+124
+00:09:28,685 --> 00:09:29,686
+Et t'as raison.
+
+125
+00:09:29,936 --> 00:09:31,684
+Je vais plus m'en faire pour ça.
+
+126
+00:09:31,934 --> 00:09:33,687
+Je vais laisser Nate respirer.
+
+127
+00:09:33,937 --> 00:09:36,137
+et se débrouiller tout seul.
+
+128
+00:09:39,246 --> 00:09:42,122
+On va découvrir ce que papa fabrique,
+hein, mon bébé ?
+
+129
+00:09:42,874 --> 00:09:43,832
+Eh oui !
+
+130
+00:09:47,045 --> 00:09:49,103
+Et s'il a rien à cacher,
+
+131
+00:09:49,745 --> 00:09:52,758
+ça le dérangera pas
+si je fouille ses affaires, hein ?
+
+132
+00:09:53,009 --> 00:09:54,967
+Non, ça le dérangera pas.
+
+133
+00:10:11,278 --> 00:10:12,194
+Bonsoir ?
+
+134
+00:10:13,165 --> 00:10:14,415
+Y a quelqu'un ?
+
+135
+00:10:24,485 --> 00:10:25,985
+Emily ? Tu es là ?
+
+136
+00:10:38,395 --> 00:10:41,139
+- Mon Dieu. Tu...
+- Qui est-ce ?
+
+137
+00:10:47,772 --> 00:10:49,941
+- Où est Jack ?
+- Il dort dans sa chambre.
+
+138
+00:10:50,192 --> 00:10:52,235
+Et tu m'as toujours pas répondu.
+
+139
+00:10:52,486 --> 00:10:53,615
+Qui est-ce, Nate ?
+
+140
+00:10:53,865 --> 00:10:56,113
+- Tu n'es pas censée...
+- Je le savais.
+
+141
+00:10:56,364 --> 00:10:58,783
+- Je savais que tu avais une liaison.
+- C'est mon bureau.
+
+142
+00:10:59,034 --> 00:11:01,368
+- C'est privé, ce sont mes affaires.
+- Privé ?
+
+143
+00:11:02,412 --> 00:11:04,247
+C'est le lieu de notre lune de miel.
+
+144
+00:11:04,497 --> 00:11:05,870
+Dis-moi qui c'est !
+
+145
+00:11:15,755 --> 00:11:17,705
+Je l'ai connue
+avant de te rencontrer.
+
+146
+00:11:18,545 --> 00:11:19,678
+J'étais amoureux.
+
+147
+00:11:20,585 --> 00:11:21,638
+Espèce d'enfoiré.
+
+148
+00:11:22,285 --> 00:11:23,785
+Mais elle est morte.
+
+149
+00:11:27,815 --> 00:11:29,271
+Ça a été très dur...
+
+150
+00:11:30,445 --> 00:11:31,445
+pour moi.
+
+151
+00:11:32,345 --> 00:11:34,545
+J'ai mis du temps à m'en remettre.
+
+152
+00:11:35,497 --> 00:11:37,654
+Je m'en remettrai jamais totalement.
+
+153
+00:11:39,305 --> 00:11:41,172
+Mais je n'aurais pas dû
+te le cacher.
+
+154
+00:11:41,422 --> 00:11:42,867
+J'ai eu tort. Désolé.
+
+155
+00:11:46,525 --> 00:11:47,905
+Tu aurais dû me le dire.
+
+156
+00:11:48,155 --> 00:11:49,155
+Je sais.
+
+157
+00:11:49,645 --> 00:11:50,667
+Tu as raison.
+
+158
+00:11:51,093 --> 00:11:52,210
+C'était une erreur.
+
+159
+00:11:53,895 --> 00:11:55,895
+Tout ça est une énorme erreur.
+
+160
+00:11:59,614 --> 00:12:00,635
+Je suis désolée.
+
+161
+00:12:01,845 --> 00:12:05,598
+J'aurais dû rester calme.
+J'aurais dû venir t'en parler.
+
+162
+00:12:07,285 --> 00:12:08,985
+Je suis si fatiguée.
+
+163
+00:12:15,375 --> 00:12:17,569
+Va donc te coucher. Maintenant.
+
+164
+00:12:18,186 --> 00:12:20,405
+Je m'occupe de Jack, ce soir.
+Je peux bien faire ça.
+
+165
+00:12:21,595 --> 00:12:23,395
+On discutera demain, d'accord ?
+
+166
+00:12:27,325 --> 00:12:28,325
+Merci.
+
+167
+00:12:34,935 --> 00:12:36,862
+Les choses iront mieux au réveil.
+
+168
+00:12:55,685 --> 00:12:57,085
+C'est un désastre.
+
+169
+00:12:59,875 --> 00:13:03,156
+Vos résultats ne sont pas
+à la hauteur de vos promesses.
+
+170
+00:13:03,425 --> 00:13:04,616
+Ça ne marche pas.
+
+171
+00:13:04,945 --> 00:13:06,145
+J'arrête tout.
+
+172
+00:13:06,955 --> 00:13:08,605
+Débarrassez-moi d'elle.
+
+173
+00:13:10,055 --> 00:13:11,706
+Je me débarrasserai du bébé.
+
+174
+00:13:16,465 --> 00:13:18,381
+Je crois que j'ai fait une erreur.
+
+175
+00:13:18,632 --> 00:13:20,085
+Je me suis précipité ?
+
+176
+00:13:20,335 --> 00:13:22,259
+- À quel sujet ?
+- La conférence de presse.
+
+177
+00:13:23,275 --> 00:13:26,145
+J'espérais qu'en rendant ça public,
+des témoins se présenteraient.
+
+178
+00:13:26,395 --> 00:13:28,390
+Et l'homme avec le chapeau
+en papier alu ?
+
+179
+00:13:29,415 --> 00:13:32,228
+Il n'a pas dit que Rossum
+a envoyé son foie sur Saturne ?
+
+180
+00:13:32,479 --> 00:13:34,979
+Pour l'instant,
+c'est notre témoin clé.
+
+181
+00:13:36,385 --> 00:13:40,389
+On a des preuves anecdotiques
+que Rossum et les autres réalisent
+
+182
+00:13:40,685 --> 00:13:43,988
+des actes médicaux illégaux
+et des expériences illicites.
+
+183
+00:13:44,274 --> 00:13:45,907
+Mais ça reste anecdotique.
+
+184
+00:13:47,619 --> 00:13:49,120
+Tu as une source à la NSA ?
+
+185
+00:13:49,371 --> 00:13:51,956
+J'en avais une.
+Comme tous les autres, il se cache.
+
+186
+00:13:52,207 --> 00:13:54,082
+Tu as leurs finances.
+
+187
+00:13:55,585 --> 00:13:58,295
+Beaucoup de transactions dissimulées
+pour de la recherche médicale.
+
+188
+00:14:00,905 --> 00:14:03,551
+Ça devrait pas être difficile
+de prouver le blanchiment d'argent.
+
+189
+00:14:07,097 --> 00:14:08,147
+C'est joli.
+
+190
+00:14:09,391 --> 00:14:10,591
+Concentre-toi.
+
+191
+00:14:11,101 --> 00:14:14,151
+Tu es le seul espoir
+de l'homme au chapeau en alu.
+
+192
+00:14:17,825 --> 00:14:19,399
+Reste assis. J'y vais.
+
+193
+00:14:23,947 --> 00:14:25,905
+Je cherche pas
+un blanchiment d'argent.
+
+194
+00:14:26,645 --> 00:14:28,495
+Rossum est allé trop loin.
+
+195
+00:14:29,455 --> 00:14:32,203
+Ils font certainement pression
+sur des gens pour les faire taire.
+
+196
+00:14:35,845 --> 00:14:37,445
+Ils en ont les moyens.
+
+197
+00:14:50,775 --> 00:14:52,375
+Il n'y avait personne.
+
+198
+00:15:04,320 --> 00:15:05,720
+Bonjour, Madeline.
+
+199
+00:15:06,364 --> 00:15:07,664
+Je peux entrer ?
+
+200
+00:15:11,355 --> 00:15:12,605
+C'est charmant.
+
+201
+00:15:13,315 --> 00:15:15,715
+Je lui ai rendu
+son cachet d'origine.
+
+202
+00:15:16,575 --> 00:15:17,641
+Et le travail ?
+
+203
+00:15:18,726 --> 00:15:21,170
+Je n'ai pas travaillé un seul jour
+depuis mon retour.
+
+204
+00:15:21,675 --> 00:15:24,635
+- Merci infiniment, ma chère.
+- Je devrais m'en sentir coupable.
+
+205
+00:15:24,885 --> 00:15:26,410
+Mais pas du tout !
+
+206
+00:15:26,660 --> 00:15:27,800
+Absolument pas.
+
+207
+00:15:28,475 --> 00:15:31,085
+Vous savez que des gens tueraient
+pour avoir une telle liberté ?
+
+208
+00:15:31,335 --> 00:15:34,683
+C'est bizarre. J'avais jamais imaginé
+faire partie des riches désoeuvrés.
+
+209
+00:15:34,934 --> 00:15:38,103
+Vous devriez voyager.
+Vous y êtes autorisée, maintenant.
+
+210
+00:15:38,376 --> 00:15:39,175
+Non.
+
+211
+00:15:39,425 --> 00:15:42,440
+Je suis partie si longtemps !
+Je préfère rester près de chez moi.
+
+212
+00:15:43,536 --> 00:15:45,652
+Il y a un jeune homme
+qui vous garde près d'ici ?
+
+213
+00:15:46,335 --> 00:15:49,572
+- Peut-être. Je ne suis pas sûre.
+- Il me semblait bien. Racontez-moi.
+
+214
+00:15:54,457 --> 00:15:57,080
+Comprenez-moi bien,
+ça me fait plaisir de vous voir.
+
+215
+00:15:58,025 --> 00:16:01,105
+Mais j'ai cette peur irrationnelle
+que si je prononce un mot de travers,
+
+216
+00:16:01,355 --> 00:16:04,254
+des hommes en costume vont me jeter
+dans un fourgon noir et m'emmener.
+
+217
+00:16:05,172 --> 00:16:06,130
+Pas du tout.
+
+218
+00:16:07,045 --> 00:16:09,786
+Votre contrat envers la Dollhouse
+est terminé.
+
+219
+00:16:10,971 --> 00:16:12,929
+Donc vous êtes là pour bavarder ?
+
+220
+00:16:14,606 --> 00:16:16,432
+Vous n'êtes pas venue
+pour votre examen.
+
+221
+00:16:16,684 --> 00:16:20,478
+Même si vous nous avez quittés,
+vous n'êtes pas livrée à vous-même.
+
+222
+00:16:21,987 --> 00:16:23,273
+Je m'inquiète pour vous.
+
+223
+00:16:23,715 --> 00:16:24,937
+C'est gentil.
+
+224
+00:16:25,920 --> 00:16:29,404
+Vous êtes aussi inquiète
+à l'idée que je dénonce la Dollhouse.
+
+225
+00:16:32,105 --> 00:16:35,410
+- Une crainte n'empêche pas l'autre.
+- Je me demande...
+
+226
+00:16:35,975 --> 00:16:39,247
+Ça a un rapport avec la fin anticipée
+de mon contrat ?
+
+227
+00:16:40,075 --> 00:16:41,250
+Des années plus tôt.
+
+228
+00:16:42,901 --> 00:16:43,751
+Pourquoi ?
+
+229
+00:16:45,005 --> 00:16:46,505
+Quelque chose est arrivé ?
+
+230
+00:16:46,755 --> 00:16:48,355
+Les circonstances ont changé.
+
+231
+00:16:49,615 --> 00:16:51,759
+Je ne suis pas libre d'en parler.
+
+232
+00:16:52,145 --> 00:16:53,678
+Pour votre bien-être,
+
+233
+00:16:54,045 --> 00:16:55,638
+venez passer votre examen.
+
+234
+00:16:57,016 --> 00:16:58,916
+Je n'accepterai aucun refus.
+
+235
+00:17:01,445 --> 00:17:02,645
+Je m'en doute.
+
+236
+00:17:09,085 --> 00:17:10,335
+Où allez-vous ?
+
+237
+00:17:11,295 --> 00:17:13,741
+On va se promener.
+Une balade dehors.
+
+238
+00:17:13,991 --> 00:17:15,066
+On revient.
+
+239
+00:17:16,305 --> 00:17:18,355
+Tu as pris tes clés de voiture.
+
+240
+00:17:19,695 --> 00:17:23,495
+On va au parc en voiture,
+puis on fait la promenade.
+
+241
+00:17:25,665 --> 00:17:28,504
+Je pensais qu'on pourrait prendre
+le petit déjeuner ensemble.
+
+242
+00:17:29,225 --> 00:17:32,676
+J'ai découvert que je pouvais faire
+ce qu'on appelle des oeufs brouillés
+
+243
+00:17:32,927 --> 00:17:35,929
+et, sans me vanter,
+ils sont plutôt réussis.
+
+244
+00:17:37,645 --> 00:17:40,895
+Tu sais, ça a l'air super,
+mais j'ai pas faim.
+
+245
+00:17:42,665 --> 00:17:45,813
+- T'es pas censé être au boulot ?
+- J'ai pris ma journée.
+
+246
+00:17:46,745 --> 00:17:47,745
+C'est...
+
+247
+00:17:48,045 --> 00:17:49,026
+génial, chéri.
+
+248
+00:17:49,277 --> 00:17:50,485
+Il était temps.
+
+249
+00:17:52,006 --> 00:17:54,155
+J'oubliais,
+tu peux pas bouger aujourd'hui.
+
+250
+00:17:55,610 --> 00:17:56,449
+Pourquoi ?
+
+251
+00:17:56,701 --> 00:17:58,381
+Ta voiture est au garage
+
+252
+00:17:58,631 --> 00:18:00,578
+et j'ai laissé le siège bébé dedans.
+
+253
+00:18:01,007 --> 00:18:02,778
+Tu l'auras sans doute demain.
+
+254
+00:18:04,817 --> 00:18:06,709
+- C'était pas nécessaire.
+- Je sais.
+
+255
+00:18:06,961 --> 00:18:08,164
+J'essaie d'aider.
+
+256
+00:18:11,174 --> 00:18:12,181
+Tu sais quoi ?
+
+257
+00:18:12,737 --> 00:18:14,927
+Retourne donc au lit
+et je m'occupe de lui.
+
+258
+00:18:15,177 --> 00:18:16,874
+- Repose-toi.
+- Attends.
+
+259
+00:18:17,613 --> 00:18:18,680
+Mais si, vas-y.
+
+260
+00:18:19,340 --> 00:18:21,754
+On va passer un peu de temps
+entre hommes.
+
+261
+00:18:22,309 --> 00:18:23,319
+Il doit manger.
+
+262
+00:18:24,236 --> 00:18:26,579
+J'avais oublié, je dois le nourrir.
+
+263
+00:18:29,447 --> 00:18:30,447
+D'accord.
+
+264
+00:18:32,915 --> 00:18:34,696
+Fais donc une sieste après.
+
+265
+00:18:35,254 --> 00:18:36,254
+Promis.
+
+266
+00:18:49,837 --> 00:18:50,944
+Ça va aller.
+
+267
+00:18:57,459 --> 00:18:59,637
+- Viens nous chercher.
+- <i>Qu'est-ce qu'il y a ?</i>
+
+268
+00:18:59,889 --> 00:19:02,391
+Nate nous empêche de sortir.
+Je crois qu'il veut me tuer.
+
+269
+00:19:02,831 --> 00:19:04,684
+- C'est dingue.
+- <i>J'ai pas de voiture !</i>
+
+270
+00:19:04,936 --> 00:19:06,723
+Viens nous chercher.
+Je te raconterai.
+
+271
+00:19:07,521 --> 00:19:08,646
+J'arrive.
+
+272
+00:19:08,898 --> 00:19:09,898
+Merci.
+
+273
+00:19:28,584 --> 00:19:29,690
+Dieu merci.
+
+274
+00:20:09,427 --> 00:20:10,684
+Elle est là-haut.
+
+275
+00:20:12,951 --> 00:20:15,047
+Selon le mari, elle semble parano.
+
+276
+00:20:15,298 --> 00:20:17,090
+Elle a l'enfant, laissez-moi faire.
+
+277
+00:20:17,340 --> 00:20:18,842
+Évitons que ça dégénère.
+
+278
+00:20:38,332 --> 00:20:39,802
+Voulez-vous un traitement ?
+
+279
+00:20:40,052 --> 00:20:41,453
+<i>Reste calme, Jack.</i>
+
+280
+00:20:42,742 --> 00:20:43,852
+<i>Ça va aller.</i>
+
+281
+00:20:44,102 --> 00:20:46,196
+- C'est quoi, ça ?
+- <i>Ne pleure pas.</i>
+
+282
+00:20:50,349 --> 00:20:52,917
+<i>Ne pleure pas, s'il te plaît.</i>
+
+283
+00:21:00,473 --> 00:21:01,837
+C'est une blague !
+
+284
+00:21:03,430 --> 00:21:04,762
+Ça va aller.
+
+285
+00:21:05,922 --> 00:21:07,503
+Tout va bien se passer.
+
+286
+00:21:12,282 --> 00:21:14,921
+- Asseyez-vous, M. Jordan.
+- Non merci.
+
+287
+00:21:15,877 --> 00:21:18,448
+Votre zombie a pris mon fils
+et vous buvez un thé.
+
+288
+00:21:18,698 --> 00:21:19,957
+Faites quelque chose.
+
+289
+00:21:20,207 --> 00:21:21,696
+Echo ne lui fera aucun mal.
+
+290
+00:21:23,125 --> 00:21:25,449
+- Elle l'aime. C'est sa mère.
+- Pardon ?
+
+291
+00:21:25,701 --> 00:21:28,536
+Vous vous écoutez parler ?
+Ce n'est pas sa mère.
+
+292
+00:21:28,941 --> 00:21:29,941
+Mais si.
+
+293
+00:21:30,191 --> 00:21:32,337
+Ce n'est pas un jeu.
+
+294
+00:21:32,587 --> 00:21:35,084
+Dans son esprit,
+elle a planifié ce bébé.
+
+295
+00:21:35,565 --> 00:21:36,574
+Elle l'a porté.
+
+296
+00:21:36,838 --> 00:21:38,462
+Elle a accouché et elle l'a élevé.
+
+297
+00:21:39,012 --> 00:21:41,088
+En fait, Jack est son bébé.
+
+298
+00:21:41,338 --> 00:21:44,364
+Je vous ai donné de l'argent,
+beaucoup d'argent,
+
+299
+00:21:44,614 --> 00:21:47,722
+et vous m'avez envoyé une dingue
+qui a kidnappé mon enfant.
+
+300
+00:21:48,893 --> 00:21:50,433
+Je vous ai payés pour quoi ?
+
+301
+00:21:50,685 --> 00:21:51,685
+Une mère.
+
+302
+00:21:52,102 --> 00:21:53,978
+Au lieu d'une nounou,
+une baby-sitter,
+
+303
+00:21:54,766 --> 00:21:57,732
+vous vouliez quelqu'un
+qui se lie profondément à lui
+
+304
+00:21:58,357 --> 00:22:00,643
+comme vous ne pouviez pas
+le faire vous-même.
+
+305
+00:22:01,453 --> 00:22:02,893
+C'est compréhensible.
+
+306
+00:22:08,142 --> 00:22:10,786
+Je n'aurais pas dû,
+c'était une très mauvaise idée.
+
+307
+00:22:19,140 --> 00:22:21,631
+Les premiers mois d'un bébé
+sont cruciaux.
+
+308
+00:22:23,633 --> 00:22:26,886
+Un enfant qui se sent aimé
+voit le monde comme un lieu sûr.
+
+309
+00:22:27,485 --> 00:22:30,824
+Un enfant qui ne se sent pas aimé
+devient en grandissant...
+
+310
+00:22:32,672 --> 00:22:34,232
+un sociopathe.
+
+311
+00:22:37,768 --> 00:22:40,591
+Et un enfant enlevé
+par une étrangère ?
+
+312
+00:22:41,583 --> 00:22:43,043
+Désolée, M. Jordan,
+
+313
+00:22:43,735 --> 00:22:46,280
+mais votre plan de secours
+était de faire adopter l'enfant.
+
+314
+00:22:51,733 --> 00:22:52,826
+Trouvez-le.
+
+315
+00:22:54,814 --> 00:22:56,791
+Nous savons où ils se trouvent.
+
+316
+00:22:57,662 --> 00:22:59,682
+Nous sommes en train
+de les récupérer.
+
+317
+00:23:01,813 --> 00:23:03,567
+On fait un saut à la banque.
+
+318
+00:23:04,048 --> 00:23:06,526
+On retire le maximum autorisé
+du compte de papa.
+
+319
+00:23:06,776 --> 00:23:08,544
+Et on prend la route, mon coeur.
+
+320
+00:23:08,794 --> 00:23:10,194
+On va s'amuser.
+
+321
+00:23:30,822 --> 00:23:33,786
+Monsieur l'agent !
+S'il vous plaît, aidez-moi.
+
+322
+00:23:34,038 --> 00:23:35,746
+Quelqu'un veut me prendre mon bébé.
+
+323
+00:23:36,046 --> 00:23:37,046
+Où ?
+
+324
+00:23:41,086 --> 00:23:43,337
+Ils étaient là, pourtant.
+Vous devez me croire.
+
+325
+00:23:43,935 --> 00:23:45,673
+Mon mari veut me faire tuer.
+
+326
+00:23:47,899 --> 00:23:49,927
+Vous êtes en sécurité.
+Venez avec nous.
+
+327
+00:23:52,932 --> 00:23:56,517
+Je sais que ça a l'air dingue.
+Même moi, je trouve ça dingue.
+
+328
+00:23:58,188 --> 00:23:59,309
+Je l'ai entendu.
+
+329
+00:24:00,438 --> 00:24:04,025
+Mon mari veut me prendre mon bébé
+et me faire tuer.
+
+330
+00:24:04,939 --> 00:24:07,194
+Ça n'a aucun sens.
+Je n'ai rien fait.
+
+331
+00:24:07,446 --> 00:24:09,321
+Vous avez bien fait de venir.
+
+332
+00:24:09,573 --> 00:24:11,559
+Trop de femmes pensent
+qu'elles en rajoutent
+
+333
+00:24:11,809 --> 00:24:14,326
+ou que ça va s'améliorer,
+mais ce n'est pas le cas.
+
+334
+00:24:14,578 --> 00:24:16,579
+Vous devez comprendre,
+c'est pas un violeur.
+
+335
+00:24:17,101 --> 00:24:19,759
+Il ne m'a jamais frappée.
+Il ne hausse même pas la voix.
+
+336
+00:24:20,009 --> 00:24:21,667
+Je ne suis pas une victime.
+
+337
+00:24:21,919 --> 00:24:24,336
+Pas encore.
+Ça doit continuer.
+
+338
+00:24:25,809 --> 00:24:29,258
+Vous avez eu un bébé.
+Ça fait craquer certains hommes.
+
+339
+00:24:29,510 --> 00:24:30,587
+Pas lui.
+
+340
+00:24:31,378 --> 00:24:32,378
+Il est...
+
+341
+00:24:32,811 --> 00:24:34,311
+parti, vous comprenez ?
+
+342
+00:24:36,120 --> 00:24:38,647
+Comme si celui que je connaissais
+n'était plus là.
+
+343
+00:24:39,997 --> 00:24:42,447
+Un étranger a pris sa place.
+
+344
+00:24:43,287 --> 00:24:44,774
+Je dis n'importe quoi.
+
+345
+00:24:45,026 --> 00:24:45,906
+Mais non.
+
+346
+00:24:46,156 --> 00:24:47,652
+Vous avez bien fait de partir.
+
+347
+00:24:50,204 --> 00:24:51,447
+Et maintenant ?
+
+348
+00:24:51,699 --> 00:24:54,575
+On va prendre votre déposition
+et convoquer votre mari.
+
+349
+00:24:54,920 --> 00:24:56,787
+Un juge va faire une injonction.
+
+350
+00:24:58,831 --> 00:25:00,873
+C'est lui.
+Mon Dieu, c'est lui.
+
+351
+00:25:02,119 --> 00:25:04,448
+Avec un des hommes
+qui est entré chez moi.
+
+352
+00:25:04,698 --> 00:25:06,223
+Ils parlent à mon capitaine.
+
+353
+00:25:06,732 --> 00:25:08,328
+Vous êtes en sécurité.
+
+354
+00:25:08,674 --> 00:25:11,092
+Restez là,
+je vais voir ce qui se passe.
+
+355
+00:25:30,488 --> 00:25:31,821
+Je suis à l'abri, ici.
+
+356
+00:25:32,823 --> 00:25:34,532
+Si tu me veux du mal, c'est raté.
+
+357
+00:25:34,916 --> 00:25:36,283
+Vous en êtes sûr ?
+
+358
+00:25:36,535 --> 00:25:38,161
+C'est mon bébé, pas ma femme.
+
+359
+00:25:38,839 --> 00:25:41,873
+On ne vous fera pas de mal.
+Cet agent veut seulement vous parler.
+
+360
+00:25:42,404 --> 00:25:43,950
+Ne vous approchez pas.
+
+361
+00:25:44,200 --> 00:25:45,377
+Promis, ça va aller.
+
+362
+00:25:45,886 --> 00:25:47,211
+Ne vous approchez pas.
+
+363
+00:25:49,546 --> 00:25:51,466
+Rendez-moi mon bébé !
+
+364
+00:25:54,097 --> 00:25:55,678
+Je ne vous veux pas de mal.
+
+365
+00:25:56,443 --> 00:25:58,681
+Ne luttez pas.
+Je ne vous ferai pas de mal.
+
+366
+00:25:59,139 --> 00:26:00,260
+Rendez-le-moi.
+
+367
+00:26:00,510 --> 00:26:02,449
+Lâchez-moi, je vous en prie.
+
+368
+00:26:02,699 --> 00:26:03,887
+Rendez-le-moi !
+
+369
+00:26:04,230 --> 00:26:05,351
+Rendez-le-moi !
+
+370
+00:26:08,223 --> 00:26:11,632
+72, 65, 58,
+
+371
+00:26:12,083 --> 00:26:12,958
+51...
+
+372
+00:26:13,208 --> 00:26:14,283
+Merci.
+
+373
+00:26:14,533 --> 00:26:16,034
+Répétez ces mots.
+
+374
+00:26:16,284 --> 00:26:18,492
+Bateau, concombre, câble.
+
+375
+00:26:19,285 --> 00:26:21,126
+Bateau, concombre, câble.
+
+376
+00:26:21,376 --> 00:26:22,660
+Très bien.
+
+377
+00:26:23,311 --> 00:26:25,083
+Maux de tête, vertiges ?
+
+378
+00:26:25,333 --> 00:26:26,126
+Aucun.
+
+379
+00:26:26,376 --> 00:26:29,671
+Cauchemars, sensations de déjà vu ?
+Vous pouvez manger des oursins ?
+
+380
+00:26:30,197 --> 00:26:31,046
+Pardon ?
+
+381
+00:26:31,631 --> 00:26:32,631
+Non, rien.
+
+382
+00:26:33,682 --> 00:26:35,901
+Je ne suis pas cassée ?
+
+383
+00:26:37,018 --> 00:26:38,101
+Vous allez bien.
+
+384
+00:26:38,351 --> 00:26:39,514
+Et je n'ai trouvé
+
+385
+00:26:39,764 --> 00:26:42,017
+ni fichier fantôme
+ni souvenir aléatoire.
+
+386
+00:26:42,267 --> 00:26:43,684
+Vous êtes intacte.
+
+387
+00:26:44,227 --> 00:26:46,856
+- C'est terminé, alors ?
+- Redites-moi les trois mots.
+
+388
+00:26:47,148 --> 00:26:48,606
+Bateau, concombre, câble.
+
+389
+00:26:49,551 --> 00:26:50,790
+En parfaite santé.
+
+390
+00:26:51,040 --> 00:26:53,756
+Comme promis, vous êtes comme neuve.
+
+391
+00:26:54,006 --> 00:26:56,322
+On devrait vous mettre
+sur le DVD de recrutement.
+
+392
+00:26:57,099 --> 00:26:58,349
+Merci beaucoup.
+
+393
+00:26:59,285 --> 00:27:00,853
+Comment je sors d'ici ?
+
+394
+00:27:01,103 --> 00:27:03,678
+Je vais les prévenir
+que vous êtes prête à partir.
+
+395
+00:27:05,915 --> 00:27:09,919
+En attendant, vous voudriez
+des capacités supplémentaires ?
+
+396
+00:27:10,559 --> 00:27:11,713
+C'est offert.
+
+397
+00:27:11,963 --> 00:27:14,211
+J'ai développé
+des aptitudes incroyables.
+
+398
+00:27:14,461 --> 00:27:16,530
+Que diriez-vous d'être ventriloque ?
+
+399
+00:27:17,539 --> 00:27:19,595
+C'est très tentant, mais non merci.
+
+400
+00:27:20,301 --> 00:27:21,680
+Cet art se perd.
+
+401
+00:27:24,278 --> 00:27:25,393
+Je veux mon fils !
+
+402
+00:27:25,643 --> 00:27:26,728
+Je veux mon fils !
+
+403
+00:27:26,978 --> 00:27:28,681
+- Aidez-moi.
+- Dans le fauteuil.
+
+404
+00:27:28,931 --> 00:27:30,065
+Mon bébé !
+
+405
+00:27:30,458 --> 00:27:33,359
+- Vous avez parlé d'un traitement ?
+- Excellente idée, Topher.
+
+406
+00:27:33,987 --> 00:27:35,611
+Pourquoi personne ne m'aide ?
+
+407
+00:27:44,455 --> 00:27:45,712
+Lâchez-moi !
+
+408
+00:27:56,776 --> 00:28:00,095
+Vous l'avez anesthésiée ?
+Je vais pas pouvoir l'effacer.
+
+409
+00:28:00,752 --> 00:28:01,679
+Réfléchissez.
+
+410
+00:28:03,180 --> 00:28:04,266
+Allez.
+
+411
+00:28:04,558 --> 00:28:06,988
+Mettez-la dans le fauteuil.
+Je l'effacerai au réveil.
+
+412
+00:28:07,238 --> 00:28:08,853
+Quand elle se réveillera.
+
+413
+00:28:21,860 --> 00:28:25,359
+- Qu'est-ce que vous faites là ?
+- Je suis venue pour un examen.
+
+414
+00:28:28,048 --> 00:28:29,291
+C'était très violent.
+
+415
+00:28:29,886 --> 00:28:31,036
+Vous saignez.
+
+416
+00:28:34,545 --> 00:28:36,195
+Je me souviens de vous.
+
+417
+00:28:37,735 --> 00:28:39,633
+Le dernier jour.
+Je signais des papiers.
+
+418
+00:28:42,740 --> 00:28:43,972
+Venez soigner ça.
+
+419
+00:28:48,525 --> 00:28:49,385
+Ça va.
+
+420
+00:28:49,645 --> 00:28:51,260
+Vous n'avez pas besoin de sutures.
+
+421
+00:28:51,510 --> 00:28:52,510
+Merci.
+
+422
+00:28:57,542 --> 00:28:58,892
+Vous allez bien ?
+
+423
+00:28:59,455 --> 00:29:00,705
+Je ne sais pas.
+
+424
+00:29:01,798 --> 00:29:03,699
+Personne n'a enlevé de bébé.
+
+425
+00:29:04,114 --> 00:29:06,994
+C'est une active.
+Tout était faux.
+
+426
+00:29:07,392 --> 00:29:09,830
+- C'est toujours comme ça ?
+- Comment ?
+
+427
+00:29:10,298 --> 00:29:13,209
+Elle croyait corps et âme
+qu'on lui avait pris son enfant.
+
+428
+00:29:14,362 --> 00:29:15,878
+Ce n'était pas réel.
+
+429
+00:29:16,864 --> 00:29:18,364
+Pour elle, ça l'était.
+
+430
+00:29:18,617 --> 00:29:20,382
+Toutes ces émotions,
+cette souffrance.
+
+431
+00:29:22,051 --> 00:29:23,344
+J'ai été dans cet état ?
+
+432
+00:29:24,221 --> 00:29:25,429
+<i>Séparons-nous.</i>
+
+433
+00:29:25,764 --> 00:29:28,515
+<i>- Arrête d'être si cruel.
+- Tu t'en remettras.</i>
+
+434
+00:29:30,809 --> 00:29:32,859
+Je ne suis pas là depuis longtemps.
+
+435
+00:29:33,294 --> 00:29:34,605
+Je ne sais pas vraiment.
+
+436
+00:29:36,231 --> 00:29:37,481
+Elle va s'en sortir.
+
+437
+00:29:39,006 --> 00:29:40,456
+- Qui ?
+- La fille.
+
+438
+00:29:41,117 --> 00:29:42,730
+Vous vous inquiétez pour elle.
+
+439
+00:29:42,980 --> 00:29:45,574
+Elle va oublier le bébé.
+Elle va tout oublier.
+
+440
+00:29:46,396 --> 00:29:49,003
+Elle ne souffrira plus.
+Elle ne sera plus malheureuse.
+
+441
+00:29:50,010 --> 00:29:51,830
+C'est comme ça que ça fonctionne.
+
+442
+00:29:52,484 --> 00:29:53,874
+Pour moi, ça a marché.
+
+443
+00:29:55,432 --> 00:29:57,753
+J'avais une fille. Elle est morte.
+
+444
+00:29:59,678 --> 00:30:00,757
+Je suis désolé.
+
+445
+00:30:01,007 --> 00:30:02,365
+Elle avait un rhume.
+
+446
+00:30:02,743 --> 00:30:05,558
+Puis il s'est avéré que ce rhume,
+c'était un cancer.
+
+447
+00:30:05,929 --> 00:30:07,054
+En phase terminale.
+
+448
+00:30:07,720 --> 00:30:09,306
+Mon monde s'est écroulé.
+
+449
+00:30:09,801 --> 00:30:11,181
+Elle est morte en six mois.
+
+450
+00:30:11,431 --> 00:30:15,258
+Je me suis retrouvée seule,
+incapable de faire quoi que ce soit.
+
+451
+00:30:15,790 --> 00:30:17,106
+Je ne savais pas du tout.
+
+452
+00:30:17,651 --> 00:30:19,027
+Vous ne pouviez pas savoir.
+
+453
+00:30:19,511 --> 00:30:23,487
+Mais tout s'est arrangé.
+J'ai rencontré Adelle.
+
+454
+00:30:24,759 --> 00:30:26,486
+Elle vous a contactée ?
+
+455
+00:30:26,736 --> 00:30:28,618
+Elle m'a proposé
+de ne plus souffrir.
+
+456
+00:30:29,464 --> 00:30:31,037
+Je m'endormais durant cinq ans
+
+457
+00:30:31,287 --> 00:30:32,997
+et je me réveillais guérie.
+
+458
+00:30:33,709 --> 00:30:36,187
+Alors, vous êtes heureuse ?
+
+459
+00:30:40,059 --> 00:30:41,430
+Je ne suis pas triste.
+
+460
+00:30:44,343 --> 00:30:45,551
+C'était un plaisir.
+
+461
+00:30:52,309 --> 00:30:53,959
+Vous avez l'air gentil.
+
+462
+00:30:54,498 --> 00:30:56,089
+Aidez-moi, je vous en prie.
+
+463
+00:30:57,002 --> 00:30:59,498
+Ils vont faire du mal à mon fils.
+
+464
+00:31:00,041 --> 00:31:01,341
+Je suis gentil.
+
+465
+00:31:02,295 --> 00:31:03,445
+Ça va aller.
+
+466
+00:31:03,987 --> 00:31:05,279
+Je vous le promets.
+
+467
+00:31:05,531 --> 00:31:06,905
+Je vais tout arranger.
+
+468
+00:31:07,340 --> 00:31:08,790
+Vous allez m'aider ?
+
+469
+00:31:09,576 --> 00:31:10,534
+Absolument.
+
+470
+00:31:47,567 --> 00:31:49,990
+Bonjour, Echo.
+Comment te sens-tu ?
+
+471
+00:31:50,692 --> 00:31:52,092
+J'ai dormi ?
+
+472
+00:31:52,567 --> 00:31:53,785
+Un petit moment.
+
+473
+00:32:02,819 --> 00:32:04,311
+Je peux partir ?
+
+474
+00:32:05,930 --> 00:32:06,966
+Bon Dieu !
+
+475
+00:32:07,216 --> 00:32:10,135
+- Qu'est-ce que c'est ?
+- Des rapports de mise sur écoute.
+
+476
+00:32:10,387 --> 00:32:13,473
+Ça dépasse le trafic médical
+et l'entorse à l'éthique.
+
+477
+00:32:13,723 --> 00:32:16,044
+C'est de la prostitution.
+
+478
+00:32:18,849 --> 00:32:20,270
+Du trafic d'être humain.
+
+479
+00:32:21,073 --> 00:32:22,649
+Peut-être des meurtres.
+
+480
+00:32:24,569 --> 00:32:26,519
+Ils prennent des gens et...
+
+481
+00:32:27,006 --> 00:32:29,489
+ils en font ce qu'ils veulent.
+
+482
+00:32:30,446 --> 00:32:31,868
+C'est impossible.
+
+483
+00:32:32,159 --> 00:32:34,128
+C'est possible.
+J'ai tout lu à ce propos.
+
+484
+00:32:34,378 --> 00:32:37,246
+Quand maman était malade,
+Rossum pouvait la soigner.
+
+485
+00:32:37,506 --> 00:32:39,120
+Mais ils ont préféré...
+
+486
+00:32:42,711 --> 00:32:44,754
+Quand on s'est plongés là-dedans,
+
+487
+00:32:45,004 --> 00:32:47,881
+je pensais qu'il s'agissait
+d'un trophée,
+
+488
+00:32:48,614 --> 00:32:50,450
+de la prochaine étape
+de ta carrière.
+
+489
+00:32:51,136 --> 00:32:52,536
+J'ai peur, Daniel.
+
+490
+00:32:53,096 --> 00:32:54,805
+Ces gens ont un pouvoir infini...
+
+491
+00:32:57,259 --> 00:32:59,559
+- Tu veux que j'abandonne ?
+- Non.
+
+492
+00:33:01,305 --> 00:33:03,182
+Tiens tes promesses.
+
+493
+00:33:03,680 --> 00:33:05,030
+Ça doit cesser.
+
+494
+00:33:06,320 --> 00:33:09,486
+On va tout vérifier.
+On va trouver des preuves.
+
+495
+00:33:10,770 --> 00:33:12,670
+Nous avons mieux que des preuves.
+
+496
+00:33:14,121 --> 00:33:15,450
+Nous avons un nom.
+
+497
+00:33:30,467 --> 00:33:31,830
+Démarre, s'il te plaît.
+
+498
+00:33:48,402 --> 00:33:50,569
+Qu'est-ce qu'elle vous a dit,
+exactement ?
+
+499
+00:33:50,819 --> 00:33:54,184
+Je me souviens de l'avoir effacée
+et, soudain, mon visage a explosé.
+
+500
+00:33:54,434 --> 00:33:55,434
+C'est tout.
+
+501
+00:33:55,826 --> 00:33:57,184
+Où va-t-elle ?
+
+502
+00:33:57,659 --> 00:33:58,861
+D'après le GPS...
+
+503
+00:33:59,111 --> 00:34:01,267
+Chez Nate Jordan.
+Elle va récupérer le bébé.
+
+504
+00:34:01,517 --> 00:34:03,637
+Mais vous auriez dû l'effacer !
+
+505
+00:34:03,887 --> 00:34:05,332
+Et je l'ai fait.
+
+506
+00:34:05,582 --> 00:34:07,420
+C'est un autre amalgame, M. Brink ?
+
+507
+00:34:08,148 --> 00:34:09,254
+Je ne crois pas.
+
+508
+00:34:10,330 --> 00:34:12,157
+C'est à cause de son génie.
+
+509
+00:34:12,700 --> 00:34:15,093
+Ça me dérange de l'entendre,
+en fait.
+
+510
+00:34:15,411 --> 00:34:17,609
+Vous l'avez modifiée
+au niveau glandulaire.
+
+511
+00:34:17,859 --> 00:34:19,598
+Son corps prend peut-être le dessus.
+
+512
+00:34:23,167 --> 00:34:27,147
+L'instinct maternel est très pur,
+il résiste à un effacement normal.
+
+513
+00:34:28,525 --> 00:34:30,037
+Battu à mon propre jeu.
+
+514
+00:34:31,392 --> 00:34:33,011
+- C'est comme les échecs.
+- Non.
+
+515
+00:34:33,261 --> 00:34:35,822
+Echo a souffert
+car vous n'avez pas bien réfléchi.
+
+516
+00:34:36,122 --> 00:34:39,828
+Même si elle a oublié le nom du bébé,
+elle se sent obligée de le retrouver.
+
+517
+00:34:40,120 --> 00:34:43,128
+Je suis peut-être allé trop loin
+en provoquant la lactation.
+
+518
+00:34:44,339 --> 00:34:46,500
+- C'est en faisant des erreurs...
+- Allez-y.
+
+519
+00:34:56,135 --> 00:34:58,344
+Ça devrait tenir.
+Qu'est-ce que tu en dis ?
+
+520
+00:35:01,578 --> 00:35:03,596
+Sacrée journée, hein ?
+
+521
+00:35:04,768 --> 00:35:06,116
+Mais tout ira bien.
+
+522
+00:35:06,366 --> 00:35:09,020
+On va bien s'en sortir,
+tous les deux.
+
+523
+00:35:10,481 --> 00:35:11,608
+Et voilà.
+
+524
+00:35:19,450 --> 00:35:22,285
+Je vais te préparer un biberon.
+
+525
+00:35:23,200 --> 00:35:25,706
+Ne bouge surtout pas, hein ?
+
+526
+00:35:29,091 --> 00:35:30,415
+Papa revient.
+
+527
+00:35:45,750 --> 00:35:47,270
+Ça sent le poisson.
+
+528
+00:35:59,214 --> 00:36:00,214
+Merde !
+
+529
+00:36:02,204 --> 00:36:03,660
+J'arrive !
+
+530
+00:36:04,955 --> 00:36:06,413
+J'arrive tout de suite.
+
+531
+00:36:07,863 --> 00:36:09,583
+- Allô ?
+- <i>M. Jordan, Adelle DeWitt.</i>
+
+532
+00:36:09,835 --> 00:36:12,085
+Quittez votre maison
+avec votre fils immédiatement.
+
+533
+00:36:12,337 --> 00:36:14,899
+- Pourquoi ?
+- Pas le temps de discuter.
+
+534
+00:36:15,216 --> 00:36:18,542
+Notre active se dirige vers vous.
+Une équipe va l'intercepter.
+
+535
+00:36:19,044 --> 00:36:20,721
+Sortez immédiatement.
+
+536
+00:36:21,013 --> 00:36:22,621
+Elle vient ici ? Pourquoi ?
+
+537
+00:36:54,421 --> 00:36:55,826
+Où est-ce que tu es ?
+
+538
+00:37:00,156 --> 00:37:01,427
+Maman est là.
+
+539
+00:37:06,457 --> 00:37:08,975
+- Ne lui fais pas de mal.
+- Tu m'as enlevé mon bébé.
+
+540
+00:37:11,193 --> 00:37:12,938
+- Pourquoi ?
+- Désolé.
+
+541
+00:37:14,472 --> 00:37:16,694
+Rends-le-moi, s'il te plaît.
+
+542
+00:37:16,944 --> 00:37:17,917
+Je l'aime.
+
+543
+00:37:18,702 --> 00:37:20,322
+Je ne veux pas te le donner.
+
+544
+00:37:20,764 --> 00:37:21,863
+Je suis son père.
+
+545
+00:37:22,115 --> 00:37:23,573
+C'est mon bébé.
+
+546
+00:37:26,286 --> 00:37:28,245
+Tu crois que c'est ton bébé.
+
+547
+00:37:28,495 --> 00:37:30,580
+Pars immédiatement.
+
+548
+00:37:32,606 --> 00:37:33,906
+Je ne peux pas.
+
+549
+00:37:36,552 --> 00:37:39,002
+- Les bébés ont besoin d'une mère.
+- Je sais.
+
+550
+00:37:39,808 --> 00:37:42,178
+- Mais tu n'es pas sa mère.
+- Menteur !
+
+551
+00:37:42,428 --> 00:37:44,221
+Je ne veux plus te parler !
+
+552
+00:37:44,513 --> 00:37:47,055
+Tu aimes énormément Jack...
+
+553
+00:37:48,433 --> 00:37:50,351
+mais ce n'est pas ton fils.
+
+554
+00:37:50,655 --> 00:37:52,853
+J'ai peur que tu lui fasses du mal.
+
+555
+00:37:58,819 --> 00:38:01,194
+Ce n'est pas moi.
+Il y a un problème.
+
+556
+00:38:04,257 --> 00:38:05,282
+Tu te souviens ?
+
+557
+00:38:05,980 --> 00:38:08,088
+Ils ont fait de toi
+quelqu'un d'autre.
+
+558
+00:38:08,619 --> 00:38:09,844
+Tu n'es pas réelle.
+
+559
+00:38:10,503 --> 00:38:11,663
+Rien n'est réel.
+
+560
+00:38:11,997 --> 00:38:15,083
+Je ne suis pas réelle.
+Vous savez qui est réel ?
+
+561
+00:38:17,345 --> 00:38:18,296
+Non.
+
+562
+00:38:18,706 --> 00:38:19,906
+Désolé.
+
+563
+00:38:20,799 --> 00:38:22,107
+C'est de ma faute.
+
+564
+00:38:22,595 --> 00:38:25,218
+Je t'ai fait vivre un calvaire.
+
+565
+00:38:27,116 --> 00:38:29,848
+Je leur ai demandé de faire en sorte
+que tu aimes Jack.
+
+566
+00:38:33,413 --> 00:38:34,561
+Pourquoi ?
+
+567
+00:38:35,090 --> 00:38:36,090
+Ma femme,
+
+568
+00:38:36,893 --> 00:38:37,893
+Karen...
+
+569
+00:38:38,888 --> 00:38:40,914
+Elle est morte
+en mettant Jack au monde.
+
+570
+00:38:41,340 --> 00:38:43,069
+Je n'ai pas pu le supporter,
+
+571
+00:38:43,330 --> 00:38:44,906
+alors j'en ai voulu à Jack.
+
+572
+00:38:46,699 --> 00:38:48,993
+J'en ai voulu à un bébé.
+Tu imagines ?
+
+573
+00:38:49,913 --> 00:38:52,739
+Et après sa mort,
+j'avais besoin de quelqu'un
+
+574
+00:38:53,282 --> 00:38:54,748
+qui aimerait Jack
+
+575
+00:38:55,254 --> 00:38:57,334
+parce que moi, je n'y arrivais pas.
+
+576
+00:39:02,304 --> 00:39:03,840
+Je peux être sa maman ?
+
+577
+00:39:08,043 --> 00:39:09,043
+Désolé.
+
+578
+00:39:09,723 --> 00:39:10,639
+Mais non.
+
+579
+00:39:11,458 --> 00:39:13,270
+Karen fait partie de Jack.
+
+580
+00:39:16,508 --> 00:39:17,535
+Pas toi.
+
+581
+00:39:19,700 --> 00:39:21,608
+C'est tout ce qu'il me reste d'elle.
+
+582
+00:39:26,573 --> 00:39:29,658
+Tu peux me faire
+tout ce que tu veux.
+
+583
+00:39:31,617 --> 00:39:34,537
+Mais ne fais pas de mal au bébé.
+
+584
+00:39:45,803 --> 00:39:47,134
+Mon petit garçon.
+
+585
+00:40:19,354 --> 00:40:20,482
+Tout va bien.
+
+586
+00:40:35,255 --> 00:40:36,405
+Ça va ?
+
+587
+00:40:38,877 --> 00:40:40,027
+J'avais un bébé.
+
+588
+00:40:43,714 --> 00:40:45,664
+Maintenant, je ne l'ai plus.
+
+589
+00:40:47,793 --> 00:40:49,119
+Je me sens triste.
+
+590
+00:40:49,920 --> 00:40:50,920
+Désolé.
+
+591
+00:40:52,289 --> 00:40:53,739
+Toutes ces choses
+
+592
+00:40:54,349 --> 00:40:55,785
+qui m'arrivent...
+
+593
+00:40:57,116 --> 00:40:58,216
+Je les sens.
+
+594
+00:41:00,553 --> 00:41:01,703
+Je sais, Echo.
+
+595
+00:41:02,949 --> 00:41:04,211
+Tu te souviens de tout.
+
+596
+00:41:05,401 --> 00:41:06,847
+Je ne m'en souviens pas.
+
+597
+00:41:08,080 --> 00:41:09,169
+Je le ressens.
+
+598
+00:41:12,369 --> 00:41:13,569
+J'étais mariée.
+
+599
+00:41:15,322 --> 00:41:16,724
+J'ai ressenti de l'amour.
+
+600
+00:41:18,099 --> 00:41:19,826
+Et de la douleur, de la peur.
+
+601
+00:41:22,516 --> 00:41:23,980
+Moi, je ne fais pas semblant.
+
+602
+00:41:27,332 --> 00:41:29,677
+Ils m'ont forcée
+à aimer mon petit garçon.
+
+603
+00:41:31,345 --> 00:41:33,245
+Et ensuite, ils me l'ont enlevé.
+
+604
+00:41:36,959 --> 00:41:38,495
+Ça a l'air si réel.
+
+605
+00:41:40,179 --> 00:41:42,992
+À chaque fois, ça a l'air si réel.
+
+606
+00:41:46,059 --> 00:41:47,559
+Pourquoi ils font ça ?
+
+607
+00:41:48,579 --> 00:41:51,729
+Tu veux que je t'aide
+à démanteler la Dollhouse,
+
+608
+00:41:53,114 --> 00:41:54,807
+mais c'est peut-être trop dur.
+
+609
+00:41:55,422 --> 00:41:57,122
+Je peux y arriver seul.
+
+610
+00:41:58,567 --> 00:42:01,601
+Je te promets de te sortir de là.
+De tous vous sortir de là.
+
+611
+00:42:06,287 --> 00:42:07,387
+Si tu veux,
+
+612
+00:42:08,265 --> 00:42:09,860
+je dirai à Topher ce qui t'arrive
+
+613
+00:42:10,659 --> 00:42:12,059
+et il arrangera ça.
+
+614
+00:42:12,828 --> 00:42:15,769
+Il trouvera comment t'effacer.
+Tu ne te souviendras de rien.
+
+615
+00:42:17,396 --> 00:42:19,285
+Tu ne te sentiras plus triste.
+
+616
+00:42:20,289 --> 00:42:22,205
+Ce serait pire, de ne rien sentir.
+
+617
+00:42:23,299 --> 00:42:25,041
+Ce serait comme avant.
+
+618
+00:42:26,644 --> 00:42:27,837
+Quand je dormais.
+
+619
+00:42:30,932 --> 00:42:32,246
+Je suis réveillée.
+
+620
+00:42:34,443 --> 00:42:36,443
+Je ne veux pas me rendormir.
+

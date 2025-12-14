@@ -1,0 +1,2514 @@
+1
+00:00:00,595 --> 00:00:01,993
+<i>Je m'appelle Jane Vasco.</i>
+
+2
+00:00:02,049 --> 00:00:03,355
+Je peux vous prendre
+dans mon équipe.
+
+3
+00:00:03,468 --> 00:00:07,017
+<i>Je travaille pour une agence
+secrète qui chasse les Neuros.</i>
+
+4
+00:00:07,064 --> 00:00:10,405
+<i>Des gens qui peuvent faire
+des choses dangereuses avec leur esprit.</i>
+
+5
+00:00:11,162 --> 00:00:12,650
+<i>À ma première mission,</i>
+
+6
+00:00:12,688 --> 00:00:14,765
+<i>un truc un peu bizarre est arrivé...</i>
+
+7
+00:00:14,905 --> 00:00:17,799
+<i>D'accord, un truc vraiment bizarre.</i>
+
+8
+00:00:18,395 --> 00:00:21,308
+<i>En attendant des réponses,
+ma vie suit son cours,</i>
+
+9
+00:00:21,663 --> 00:00:23,039
+<i>je fais mon boulot.</i>
+
+10
+00:00:23,144 --> 00:00:25,067
+<i>Stockez de l'aspirine,</i>
+
+11
+00:00:25,081 --> 00:00:27,743
+<i>parce que... je vous le dis,</i>
+
+12
+00:00:28,492 --> 00:00:30,321
+<i>la douleur, ça craint !</i>
+
+13
+00:00:49,951 --> 00:00:54,351
+Alors, tu penses qu'il va attaquer quoi d'abord,
+la caisse ou la chambre forte ?
+
+14
+00:00:54,451 --> 00:00:58,767
+- On va bien voir.
+- Ou pas...
+
+15
+00:01:57,762 --> 00:02:01,632
+Agents fédéraux ! Tout est sous contrôle !
+Connor, va chercher la voiture.
+
+16
+00:02:02,626 --> 00:02:04,694
+- Bon sang, mais qui êtes-vous ?
+- Allons-y.
+
+17
+00:02:06,482 --> 00:02:08,318
+Vous allez me dire ce qui se passe ?
+
+18
+00:02:09,224 --> 00:02:13,397
+On t'emmène à la foire aux monstres, mon gars.
+
+19
+00:02:27,348 --> 00:02:29,287
+Pas mal, un point pour nous.
+
+20
+00:02:29,488 --> 00:02:32,266
+C'est ce que c'est pour toi ? Un sport ?
+
+21
+00:02:32,367 --> 00:02:36,909
+C'est eux contre nous, chérie, donc,
+ouais, tant qu'on gagne, ça me va.
+
+22
+00:02:53,939 --> 00:02:55,834
+C'est quoi ce bordel !
+
+23
+00:02:58,198 --> 00:03:00,046
+La ventilation déconne.
+
+24
+00:03:02,204 --> 00:03:03,700
+C'est quoi ce bordel !
+
+25
+00:03:03,801 --> 00:03:05,496
+Ça surchauffe.
+
+26
+00:03:06,730 --> 00:03:08,318
+Arrête la voiture.
+
+27
+00:03:08,419 --> 00:03:10,304
+- Arrête la voiture.
+- Je peux pas.
+
+28
+00:03:10,405 --> 00:03:12,670
+Coupe-moi cette merde !
+
+29
+00:03:13,505 --> 00:03:15,366
+C'est pas une surchauffe, les gars.
+
+30
+00:03:17,746 --> 00:03:19,357
+Accrochez-vous.
+
+31
+00:03:33,683 --> 00:03:36,524
+Halte ! Stop ! Stop !
+
+32
+00:03:36,925 --> 00:03:39,967
+- Arrêtez-vous sur le champ !
+- Connor !
+
+33
+00:03:41,525 --> 00:03:43,638
+Arrêtez ou je tire !
+
+34
+00:03:51,703 --> 00:03:54,004
+Vous pouvez me dire ce qui vient de se passer ?
+
+35
+00:03:56,056 --> 00:03:57,809
+Le gars était marqué.
+
+36
+00:04:00,000 --> 00:04:02,000
+VO
+subXpacio and TusSeries
+
+37
+00:04:02,001 --> 00:04:04,001
+VF
+Neuro's Team
+
+38
+00:04:04,002 --> 00:04:06,002
+PKJ S01E15
+"The Healer"
+
+39
+00:04:07,007 --> 00:04:11,541
+Bon, j'ai effectué deux douzaines de tests
+en incluant celui post mortem...
+
+40
+00:04:11,911 --> 00:04:14,459
+Je n'ai trouvé aucune variation
+du gène standard Neuro.
+
+41
+00:04:14,560 --> 00:04:17,460
+Alors comment expliquer
+qu'un Neuro marqué soit encore une menace ?
+
+42
+00:04:17,561 --> 00:04:20,642
+Je ne peux pas. Cependant, je doute fortement
+
+43
+00:04:20,677 --> 00:04:23,175
+que cet homme soit responsable de
+ce qui est arrivé à la voiture.
+
+44
+00:04:23,176 --> 00:04:25,408
+La moitié du moteur a été fondu.
+
+45
+00:04:25,809 --> 00:04:28,608
+Croyez-moi, doc, c'est bien plus
+qu'un simple problème de transmission.
+
+46
+00:04:28,709 --> 00:04:31,534
+D'accord, selon le diagramme de cet homme,
+
+47
+00:04:31,735 --> 00:04:33,494
+sa capacité était cellulaire.
+
+48
+00:04:33,595 --> 00:04:36,045
+L'invisibilité implique une réorganisation
+de la structure cellulaire,
+
+49
+00:04:36,080 --> 00:04:37,999
+pour absorber davantage
+les reflets lumineux.
+
+50
+00:04:38,100 --> 00:04:40,274
+Ce qui n'a rien à voir avec le fait
+de faire fondre un moteur.
+
+51
+00:04:40,575 --> 00:04:44,776
+Exactement. Jusque là, on a jamais rencontré
+de Neuro avec plusieurs capacités.
+
+52
+00:04:44,858 --> 00:04:47,042
+Tu penses qu'il s'agit
+d'une sorte de mutation ?
+
+53
+00:04:47,143 --> 00:04:50,568
+Même si c'est le cas, et je vois rien
+qui l'indique, cet homme a été marqué.
+
+54
+00:04:50,669 --> 00:04:52,473
+Ou alors la puce
+n'a pas fonctionné ?
+
+55
+00:04:52,888 --> 00:04:54,798
+Mon test confirme
+que la puce fonctionnait.
+
+56
+00:04:54,799 --> 00:04:57,479
+Et puis, si elle ne fonctionnait pas,
+pourquoi n'a-t'il pas utilisé son invisibilité
+
+57
+00:04:57,514 --> 00:04:59,160
+quand il a tenté de s'échapper ?
+
+58
+00:04:59,415 --> 00:05:01,428
+Quelque chose a attaqué
+cette voiture, doc.
+
+59
+00:05:01,668 --> 00:05:06,224
+C'est sûr. Ou alors quelqu'un.
+Mais qu'importe qui ou quoi,
+
+60
+00:05:06,918 --> 00:05:08,906
+ce n'est pas l'homme
+que vous avez arrêté.
+
+61
+00:05:09,836 --> 00:05:10,972
+Des idées ?
+
+62
+00:05:11,073 --> 00:05:12,961
+Ouais, la foire aux monstres
+fait de plus en plus peur.
+
+63
+00:05:12,996 --> 00:05:14,499
+Des idées constructives ?
+
+64
+00:05:15,264 --> 00:05:17,657
+Si ce type avait
+plusieurs capacités,
+
+65
+00:05:17,790 --> 00:05:20,391
+elles résidaient peut-être
+dans différentes parties de son cerveau,
+
+66
+00:05:20,726 --> 00:05:23,700
+et quand on l'a marqué,
+on en a seulement bloqué la moitié.
+
+67
+00:05:23,801 --> 00:05:26,622
+C'est une bonne idée, mais Seth
+aurait trouvé des indices.
+
+68
+00:05:26,830 --> 00:05:29,206
+Donc, pour le moment,
+on ne sait pas à quoi on a eu à faire.
+
+69
+00:05:29,407 --> 00:05:33,187
+Riley, du nouveau sur le Neuro
+qu'on recherche ? Jennifer Town ?
+
+70
+00:05:33,592 --> 00:05:38,062
+Elle est introuvable. Aucun achat par carte de crédit,
+pas de retraits bancaires ni d'utilisation de portable...
+
+71
+00:05:38,163 --> 00:05:41,356
+Elle a une ordonnance,
+une prescription de "Glucofash".
+
+72
+00:05:41,557 --> 00:05:43,121
+Aucun achat en pharmacie non plus.
+
+73
+00:05:43,222 --> 00:05:46,099
+- Quelque chose par surveillance satellite ?
+- Nada. Rien.
+
+74
+00:05:46,200 --> 00:05:49,240
+J'ai un tas d'employés
+qui me donnent un tas de rien.
+
+75
+00:05:52,032 --> 00:05:54,302
+Je vous préviens dès
+que j'ai quelque chose.
+
+76
+00:05:55,980 --> 00:05:58,330
+C'est plus facile d'affronter
+de vrais hommes armés.
+
+77
+00:05:58,572 --> 00:06:00,079
+Rien n'est facile.
+
+78
+00:06:00,080 --> 00:06:04,423
+Pour notre Neuro invisible, je crois toujours
+qu'on ne peut pas écarter la possibilité d'une mutation
+
+79
+00:06:04,424 --> 00:06:08,066
+que Seth n'aurait pas pu identifier et
+qui nous fait craindre une nouvelle menace.
+
+80
+00:06:08,167 --> 00:06:11,182
+Au moins, regarde le bon coté des choses,
+tu aurais pu être avocat.
+
+81
+00:06:12,777 --> 00:06:14,085
+Je te laisse.
+
+82
+00:06:14,302 --> 00:06:16,644
+J'attends encore tes rapports
+sur les dernières affaires.
+
+83
+00:06:16,645 --> 00:06:19,429
+Ils sont en cours sur mon bureau.
+
+84
+00:06:20,669 --> 00:06:23,472
+Comme tu le sais, la paperasse
+c'est pas mon truc.
+
+85
+00:06:23,573 --> 00:06:26,377
+T'as pas à aimer ça,
+Jane, t'as juste à le faire.
+
+86
+00:06:27,679 --> 00:06:32,822
+Brian et moi avons prévu quelque chose ce soir.
+C'est une sorte d'anniversaire.
+
+87
+00:06:33,906 --> 00:06:35,664
+Ça peut attendre un jour de plus ?
+
+88
+00:06:37,031 --> 00:06:39,574
+Ça va pas faire
+le troisième jour de plus ?
+
+89
+00:06:42,382 --> 00:06:45,619
+Vas-y. Au moins une personne
+se sera divertie aujourd'hui.
+
+90
+00:06:46,900 --> 00:06:49,040
+- Merci.
+- Amuse-toi bien.
+
+91
+00:06:51,834 --> 00:06:54,754
+<i>C'est bon de prendre une douche
+après une rude journée.</i>
+
+92
+00:06:54,755 --> 00:06:57,997
+<i>Pas seulement pour nettoyer
+le corps, mais aussi l'esprit.</i>
+
+93
+00:06:58,101 --> 00:07:02,240
+<i>Pas que le mien soit spécialement sombre,
+même si j'ai aussi mes périodes,</i>
+
+94
+00:07:02,517 --> 00:07:04,563
+<i>je fais allusion
+à la conscience.</i>
+
+95
+00:07:08,953 --> 00:07:11,216
+Brian, qu'est-ce que
+tu fais là ?
+
+96
+00:07:11,994 --> 00:07:14,938
+Tu veux pas la refaire,
+mais cette fois avec un...
+
+97
+00:07:14,939 --> 00:07:18,881
+"Brian ! C'est génial !
+Je croyais que tu étais en voyage...
+
+98
+00:07:18,989 --> 00:07:21,705
+Je suis si heureuse que tu sois
+rentré un jour plus tôt."
+
+99
+00:07:23,049 --> 00:07:25,246
+Bien sûr que je suis
+contente de te voir.
+
+100
+00:07:26,947 --> 00:07:28,599
+Mais...
+
+101
+00:07:28,800 --> 00:07:30,694
+Mais...
+
+102
+00:07:31,538 --> 00:07:33,475
+Je m'y attendais pas...
+
+103
+00:07:33,906 --> 00:07:36,884
+et j'ai un rapport
+à rendre...
+
+104
+00:07:37,085 --> 00:07:40,211
+et j'ai promis de le faire
+pour demain matin.
+
+105
+00:07:40,698 --> 00:07:43,326
+- Pourquoi pas plus tard ?
+- Je dois le faire.
+
+106
+00:07:48,228 --> 00:07:51,099
+Très bien, très bien.
+Je comprends.
+
+107
+00:07:52,381 --> 00:07:56,473
+Je présume qu'il y a une autre
+belle et brillante femme en ville qui...
+
+108
+00:07:56,674 --> 00:07:58,697
+ne se fichera pas
+d'une visite surprise.
+
+109
+00:07:59,199 --> 00:08:01,290
+Je te promets de me faire pardonner.
+
+110
+00:08:02,182 --> 00:08:05,182
+- Mais le rapport est prioritaire.
+- Juste ce soir.
+
+111
+00:08:23,762 --> 00:08:27,328
+<i>Je devais m'assurer que mon nez n'était pas
+trop près du visage de Brian...</i>
+
+112
+00:08:27,438 --> 00:08:29,348
+<i>ou j'aurai pu lui crever l'oeil.</i>
+
+113
+00:08:29,482 --> 00:08:33,538
+<i>Pour les mensonges, Pinocchio
+n'a rien à m'envier aujourd'hui.</i>
+
+114
+00:08:35,834 --> 00:08:39,549
+<i>Qui a dit un jour: "Peu importe si tu te sens mal,</i>
+
+115
+00:08:40,261 --> 00:08:42,309
+<i>la culpabilité n'arrangera rien."</i>
+
+116
+00:08:43,317 --> 00:08:45,774
+<i>Mais attendez... C'est moi.</i>
+
+117
+00:08:53,941 --> 00:08:56,459
+Bonsoir. Merci.
+
+118
+00:09:23,254 --> 00:09:25,123
+- Je suis dessus !
+- Flash spécial !
+
+119
+00:09:25,158 --> 00:09:27,514
+Notre Neuro paralysante...
+Je l'ai trouvée.
+
+120
+00:09:30,205 --> 00:09:33,000
+Jennifer Talon. Je crois qu'elle s'est
+enfin risquée à utiliser son portable.
+
+121
+00:09:33,035 --> 00:09:35,026
+- J'espère que c'était important.
+- Le lieu ?
+
+122
+00:09:38,067 --> 00:09:39,502
+La Marina.
+
+123
+00:09:40,151 --> 00:09:41,858
+J'utilise le satellite
+pour affiner le résultat.
+
+124
+00:09:41,893 --> 00:09:43,290
+Très bien, c'est parti.
+
+125
+00:09:45,504 --> 00:09:47,190
+Restez à distance de Jennifer Talon.
+
+126
+00:09:47,258 --> 00:09:48,935
+Je suis pas idiot, chef.
+
+127
+00:09:49,047 --> 00:09:52,676
+Fusil longue portée pour tirer la puce.
+Silencieux aussi, effet garanti.
+
+128
+00:09:53,911 --> 00:09:57,092
+C'est préférable. Si on s'approche de cette femme,
+on ne sait pas de quoi elle est capable.
+
+129
+00:09:57,427 --> 00:09:59,574
+Alors, si vous devez
+vous approcher d'elle...
+
+130
+00:10:01,079 --> 00:10:02,684
+Ça fera l'affaire.
+
+131
+00:10:11,516 --> 00:10:14,123
+La croisière était
+merveilleuse, merci.
+
+132
+00:10:14,272 --> 00:10:16,057
+J'espère qu'il y en
+aura d'autres.
+
+133
+00:10:25,610 --> 00:10:27,228
+Désolé, Je...
+
+134
+00:10:31,098 --> 00:10:32,932
+Ne lutte pas Adam...
+
+135
+00:10:33,044 --> 00:10:34,639
+Ça ne servira à rien.
+
+136
+00:10:36,640 --> 00:10:42,410
+Je sais, ça doit être déconcertant
+de se sentir complètement paralysé.
+
+137
+00:10:43,311 --> 00:10:45,998
+L'esprit fonctionne,
+
+138
+00:10:46,299 --> 00:10:48,413
+réagit à ce qui
+se passe mais...
+
+139
+00:10:49,849 --> 00:10:53,964
+le corps ne répond pas.
+
+140
+00:10:55,412 --> 00:10:58,679
+Ça doit être terrible.
+
+141
+00:11:10,176 --> 00:11:12,689
+Tu disais que j'étais inestimable.
+
+142
+00:11:15,250 --> 00:11:16,687
+Tu avais tort.
+
+143
+00:11:16,688 --> 00:11:19,788
+- Riley  ?
+- À droite, le dernier bateau.
+
+144
+00:11:19,823 --> 00:11:20,881
+Je le vois.
+
+145
+00:11:21,116 --> 00:11:23,925
+- Très bien, faites attention.
+- Merci.
+
+146
+00:11:38,882 --> 00:11:41,070
+Droit devant vous.
+
+147
+00:12:05,375 --> 00:12:08,396
+Les effets de la paralysie disparaîtront
+une fois que je serais partie.
+
+148
+00:12:09,169 --> 00:12:11,028
+Tu devrais être un peu sonné.
+
+149
+00:12:14,500 --> 00:12:16,475
+Prends deux aspirines.
+
+150
+00:12:16,776 --> 00:12:18,758
+Ne m'appelle pas demain matin.
+
+151
+00:12:59,358 --> 00:13:01,596
+- Tu vas bien ?
+- Oui, continuez.
+
+152
+00:13:01,597 --> 00:13:03,575
+- Connor est touché !
+- J'arrive.
+
+153
+00:13:41,519 --> 00:13:45,755
+- Prends ça.
+- Je vais bien, continuez.
+
+154
+00:13:46,090 --> 00:13:47,528
+Appuie.
+
+155
+00:13:59,973 --> 00:14:03,402
+Je sais,
+je peux être une vraie salope parfois.
+
+156
+00:14:03,437 --> 00:14:04,897
+Viens ici.
+
+157
+00:14:10,207 --> 00:14:12,837
+- Tu vas bien ?
+- C'est Jennifer Talon ?
+
+158
+00:14:13,362 --> 00:14:15,285
+Quel talent gâché.
+
+159
+00:14:16,484 --> 00:14:18,865
+Tu as raison.
+
+160
+00:14:19,204 --> 00:14:22,767
+Ramène-le au QG, que Seth l'examine.
+Je nettoierai ici.
+
+161
+00:14:28,670 --> 00:14:30,333
+Qu’allez-vous faire de moi  ?
+
+162
+00:14:30,356 --> 00:14:33,658
+On va vous emmener dans un endroit
+rempli de personnes comme vous.
+
+163
+00:14:38,459 --> 00:14:40,198
+Très bien, tout est en ordre.
+
+164
+00:14:41,526 --> 00:14:44,191
+- Alors quels sont les dégâts  ?
+- À part son visage  ?
+
+165
+00:14:44,441 --> 00:14:46,757
+La coupure était profonde. J'enlèverai
+les points dans quelques jours.
+
+166
+00:14:46,934 --> 00:14:49,091
+Essaye juste de ne pas trop forcer dessus.
+
+167
+00:14:49,354 --> 00:14:52,478
+Merci doc, j'en ferai part au prochain
+Neuro qui essaiera de me tuer.
+
+168
+00:14:55,078 --> 00:14:58,349
+Nous étions à plus de 100 m du bateau.
+Elle n'a pas pu nous repérer.
+
+169
+00:14:58,426 --> 00:15:02,224
+Essaye de dire ça à ma rate.
+Elle a dû nous repérer.
+
+170
+00:15:02,259 --> 00:15:03,763
+Je ne pense pas.
+
+171
+00:15:04,207 --> 00:15:07,567
+C'est comme la dernière fois.
+Jennifer Talon peut provoquer la paralysie.
+
+172
+00:15:07,652 --> 00:15:09,510
+Ça n'est pas ce qui s'est
+passé sur le quai.
+
+173
+00:15:09,570 --> 00:15:11,318
+Tu penses que c'est la même mutation ?
+
+174
+00:15:11,365 --> 00:15:13,792
+- Deux fois de suite ?
+- Une simple coïncidence.
+
+175
+00:15:14,127 --> 00:15:16,531
+- Quoi sinon ?
+- Je pense que nous avons un second Neuro.
+
+176
+00:15:16,566 --> 00:15:19,178
+Il nous a attaqué ce matin
+ainsi qu'à la Marina cet après-midi.
+
+177
+00:15:19,413 --> 00:15:21,182
+Je peux vous aider là-dessus.
+
+178
+00:15:21,917 --> 00:15:25,150
+Certains éléments sont similaires
+à ce qui est arrivé à notre véhicule.
+
+179
+00:15:25,650 --> 00:15:28,914
+Qu’essayes-tu de dire  ?
+Nous avons des Neuros qui traquent l'équipe.
+
+180
+00:15:29,589 --> 00:15:31,213
+Ça y ressemble bien.
+
+181
+00:15:33,058 --> 00:15:35,080
+Ils ont besoin d'un accès à notre réseau.
+
+182
+00:15:35,115 --> 00:15:36,610
+Ils l'ont.
+
+183
+00:15:36,745 --> 00:15:38,311
+Une fuite.
+
+184
+00:15:38,746 --> 00:15:41,560
+Pas sur mon système. C'est pas possible.
+
+185
+00:15:41,595 --> 00:15:44,867
+Ils l'ont fait. J'ai besoin que tu
+revérifies tout ton système.
+
+186
+00:15:44,902 --> 00:15:46,595
+- Écoute...
+- Fais-le.
+
+187
+00:15:48,874 --> 00:15:51,929
+La fuite peut être humaine, pas technique.
+
+188
+00:15:52,528 --> 00:15:55,730
+- Même l'un d'entre nous.
+- Non, c'est extérieur. Des employés de Morgan.
+
+189
+00:15:56,065 --> 00:15:58,253
+- Je me chargerai d'en finir.
+- Et d'en finir avec nous ?
+
+190
+00:15:58,950 --> 00:16:01,665
+Ça n'a aucun sens. Tout ce qui
+s'est passé nous a mis en danger.
+
+191
+00:16:01,700 --> 00:16:05,087
+En plus, je vous fais
+entièrement confiance.
+
+192
+00:16:21,790 --> 00:16:23,780
+Quelque chose vous tracasse ?
+
+193
+00:16:24,484 --> 00:16:27,911
+Ça va faire 5 semaines qu'on
+travaille ensemble.
+
+194
+00:16:29,764 --> 00:16:31,778
+Avez-vous remarqué des changements ?
+
+195
+00:16:32,364 --> 00:16:34,005
+Je ne sais pas.
+
+196
+00:16:34,340 --> 00:16:37,952
+Je pense que je vais finir par devenir
+une femme de fer au QI surdimensionné.
+
+197
+00:16:38,287 --> 00:16:40,887
+- Et ça vous fait peur ?
+- Ça devrait pas ?
+
+198
+00:16:42,689 --> 00:16:44,416
+Étrange, non ?
+
+199
+00:16:44,651 --> 00:16:49,221
+Quelqu'un qui vient voir un guérisseur dans
+l'espoir qu'il puisse l'aider à ne pas guérir.
+
+200
+00:16:51,826 --> 00:16:54,263
+Dieu choisit différents chemins
+pour ses enfants.
+
+201
+00:16:54,677 --> 00:16:57,410
+On voit beaucoup de morts
+quand on s'en écarte.
+
+202
+00:16:58,335 --> 00:17:00,517
+Quelque chose d'autre vous tracasse.
+
+203
+00:17:00,945 --> 00:17:04,132
+Je vous ai dit avant que j'avais des
+doutes à propos de mon travail.
+
+204
+00:17:04,467 --> 00:17:06,827
+Je ne suis pas toujours sûre
+que l'on agisse de la bonne façon.
+
+205
+00:17:07,075 --> 00:17:08,282
+Et...
+
+206
+00:17:08,612 --> 00:17:10,861
+Je ne suis pas censée en parler...
+
+207
+00:17:11,047 --> 00:17:13,824
+Mais maintenant, vous m'avez assurée
+que tout ce qu'on peut se dire
+
+208
+00:17:13,838 --> 00:17:16,601
+- reste strictement confidentiel.
+- Et ça l'est.
+
+209
+00:17:18,168 --> 00:17:19,772
+Vous me faites confiance ?
+
+210
+00:17:23,794 --> 00:17:25,358
+Oui.
+
+211
+00:17:32,686 --> 00:17:34,535
+Vous avez toujours ces maux de tête ?
+
+212
+00:17:36,953 --> 00:17:39,194
+Peut-être que j'ai juste besoin
+d'un peu de sommeil.
+
+213
+00:17:40,854 --> 00:17:43,086
+Je m'en sortirai.
+
+214
+00:17:44,051 --> 00:17:46,481
+Puis-je me permettre de vous demander
+une dernière chose avant de partir ?
+
+215
+00:17:47,262 --> 00:17:49,181
+- Un câlin ?
+- Bien sûr.
+
+216
+00:17:56,755 --> 00:17:59,423
+Je serai disponible aussi souvent
+que vous en aurez besoin, Jane.
+
+217
+00:18:00,029 --> 00:18:01,308
+Merci.
+
+218
+00:18:27,262 --> 00:18:29,836
+Ça a intérêt à être important.
+Je déteste perdre mon temps.
+
+219
+00:18:29,892 --> 00:18:31,920
+Ça l'est Morgan.
+Nous avons une fuite.
+
+220
+00:18:32,933 --> 00:18:34,537
+- Un seul cas ?
+- Plusieurs.
+
+221
+00:18:34,946 --> 00:18:37,783
+- Des conséquences ?
+- Des dégâts, rien de fatal encore.
+
+222
+00:18:38,218 --> 00:18:40,653
+- Réglez ça avant que ça le soit.
+- C'est pourquoi je suis ici.
+
+223
+00:18:41,613 --> 00:18:44,310
+Vos insinuations ne me
+plaisent pas du tout.
+
+224
+00:18:44,763 --> 00:18:47,590
+Soyez assuré que ma plomberie est propre.
+S’il y a une fuite,
+
+225
+00:18:47,825 --> 00:18:49,644
+ça vient de votre cuisine.
+
+226
+00:18:51,005 --> 00:18:53,786
+Jusqu'à que ça soit résolu,
+je place mon équipe dans l'ombre.
+
+227
+00:18:54,115 --> 00:18:56,896
+- Les gens dans l'ombre ratent souvent la marche.
+- Ça n'arrivera pas.
+
+228
+00:19:00,512 --> 00:19:02,567
+- Faites-le, mais surveillez vos pas.
+
+229
+00:19:12,926 --> 00:19:14,291
+Tu es encore là ?
+
+230
+00:19:14,447 --> 00:19:16,006
+Bien sûr que je suis encore là !
+
+231
+00:19:16,099 --> 00:19:18,738
+Il a dit de revérifier tout mon système.
+
+232
+00:19:18,794 --> 00:19:21,811
+Tu ne peux pas t'attaquer à ça
+et être rentré pour 17h.
+
+233
+00:19:22,050 --> 00:19:24,021
+Désolée d'avoir demandé.
+
+234
+00:19:24,486 --> 00:19:26,172
+- Seth est encore dans le laboratoire ?
+- Il y est pas en permanence ?
+
+235
+00:19:29,419 --> 00:19:32,076
+Revérifier tout mon système.
+
+236
+00:19:32,687 --> 00:19:34,330
+Incroyable.
+
+237
+00:19:36,903 --> 00:19:38,909
+Qu'est-ce que tu fais ?
+
+238
+00:19:39,824 --> 00:19:41,608
+Tu m'as fait peur.
+
+239
+00:19:41,944 --> 00:19:43,440
+- Je suis désolée...
+- Ce n'est rien.
+
+240
+00:19:44,253 --> 00:19:46,129
+Qu'est-ce que tu fais si tard ?
+
+241
+00:19:46,483 --> 00:19:48,311
+Une théorie sur laquelle je travaille.
+
+242
+00:19:48,935 --> 00:19:50,860
+- Parle-m’en.
+- Vraiment ?
+
+243
+00:19:51,074 --> 00:19:52,796
+Oui, c'est à propos de quoi ?
+
+244
+00:19:53,697 --> 00:19:55,725
+D'accord, l'homme de Néandertal.
+
+245
+00:19:56,089 --> 00:19:57,585
+- L'homme de Néandertal ?
+- En effet !
+
+246
+00:19:57,667 --> 00:19:59,896
+L'une des questions a
+10.000 euros en génétique,
+
+247
+00:19:59,920 --> 00:20:02,804
+enfin de l'évolution
+biologique en général, est...
+
+248
+00:20:02,845 --> 00:20:05,493
+qu'est-il arrivé à l'homme de Néandertal ?
+
+249
+00:20:09,370 --> 00:20:12,318
+Je ne sais pas. Que lui est-il arrivé ?
+
+250
+00:20:12,353 --> 00:20:16,183
+Pas lui, eux. Je ne sais pas en fait,
+mais la question est très intéressante.
+
+251
+00:20:16,218 --> 00:20:19,016
+C'est juste une de mes passions.
+Tout ce que je sais c'est que...
+
+252
+00:20:19,051 --> 00:20:23,620
+l'ADN des néandertaliens peut être
+caché dans la population humaine.
+
+253
+00:20:23,655 --> 00:20:24,970
+- Caché ?
+- Oui.
+
+254
+00:20:25,105 --> 00:20:26,869
+- Fascinant.
+- Oui !
+
+255
+00:20:26,904 --> 00:20:28,569
+Veux-tu voir la structure du génome ?
+
+256
+00:20:28,597 --> 00:20:31,381
+Tu sais que j'adorerais,
+Seth, mais je dois...
+
+257
+00:20:31,416 --> 00:20:33,779
+J'ai ce rapport à faire et...
+
+258
+00:20:33,814 --> 00:20:36,111
+- Peut-être une autre fois.
+- Oui, absolument.
+
+259
+00:20:36,620 --> 00:20:39,144
+Ah, au fait, peux-tu...
+
+260
+00:20:39,547 --> 00:20:41,365
+me rendre un service ?
+
+261
+00:20:41,998 --> 00:20:44,185
+Des cheveux ? Humains ?
+
+262
+00:20:44,930 --> 00:20:46,879
+À moins qu'ils ne soient néandertaliens...
+
+263
+00:20:48,282 --> 00:20:49,374
+Je plaisante Seth.
+
+264
+00:20:50,743 --> 00:20:53,813
+Peux-tu faire un test ADN pour moi et...
+
+265
+00:20:54,370 --> 00:20:56,127
+garder ça entre nous.
+
+266
+00:20:57,312 --> 00:20:59,502
+André doit autoriser tous les tests.
+
+267
+00:20:59,533 --> 00:21:03,776
+Oui, c'est vrai.
+Ceux dont il a entendu parler.
+
+268
+00:21:07,618 --> 00:21:11,111
+C'est l'équipement du gouvernement des USA Jane.
+Tous les tests doivent être autorisés.
+
+269
+00:21:11,178 --> 00:21:13,359
+Même pour ma passion,
+André a dû être averti.
+
+270
+00:21:13,886 --> 00:21:17,489
+Je ne te demande pas de faire
+quelque chose de vraiment illégal, Seth.
+
+271
+00:21:17,924 --> 00:21:20,683
+Les tests ADN sont importants
+pour notre travail.
+
+272
+00:21:20,918 --> 00:21:24,214
+- Oui effectivement.
+- Donc on ne fait rien de mal ici,
+
+273
+00:21:24,249 --> 00:21:26,894
+et si les résultats sont positifs,
+
+274
+00:21:27,314 --> 00:21:28,788
+je le dirais directement à André.
+
+275
+00:21:28,823 --> 00:21:30,818
+Jane, où as-tu eu cet échantillon ?
+
+276
+00:21:30,853 --> 00:21:34,309
+Seth, je te demande juste de...
+
+277
+00:21:34,344 --> 00:21:37,093
+de me faire une faveur, d'accord ?
+
+278
+00:21:37,328 --> 00:21:40,911
+Je veux dire, nous sommes plus évolués
+que l'homme de Néandertal, non ?
+
+279
+00:21:41,349 --> 00:21:45,480
+Nous sommes suffisamment intelligents
+pour savoir quand nous pouvons...
+
+280
+00:21:45,863 --> 00:21:48,209
+modifier les règles.
+
+281
+00:21:49,899 --> 00:21:51,529
+D'accord.
+
+282
+00:21:51,664 --> 00:21:53,212
+Merci.
+
+283
+00:22:00,914 --> 00:22:02,595
+Seth !
+
+284
+00:22:03,206 --> 00:22:04,993
+Quel genre de personne êtes-vous ?
+
+285
+00:22:06,454 --> 00:22:08,638
+C'est quoi ? Vous croyez être
+au dessus des règles, c'est ça ?
+
+286
+00:22:08,672 --> 00:22:11,492
+- Riley. Laisse-moi t'expliquer, c'est moi.
+
+287
+00:22:14,029 --> 00:22:16,124
+Laisse Seth s'expliquer.
+
+288
+00:22:19,653 --> 00:22:23,467
+- Je ne sais pas quoi dire.
+- Car y'a rien à dire.
+
+289
+00:22:26,551 --> 00:22:29,120
+Quand vous finissez la dernière
+tasse de café,
+
+290
+00:22:29,757 --> 00:22:31,623
+vous en faites du nouveau.
+
+291
+00:22:32,740 --> 00:22:36,377
+Vous en faites du nouveau.
+
+292
+00:22:37,455 --> 00:22:39,123
+Purement et simplement.
+
+293
+00:22:46,034 --> 00:22:48,556
+- Je pense ce que j'ai dit.
+- Oui, écoute,
+
+294
+00:22:48,713 --> 00:22:50,838
+- appelle-moi pour les résultats.
+- Immédiatement.
+
+295
+00:23:04,704 --> 00:23:06,438
+- Allo.
+- Jane, ici Seth.
+
+296
+00:23:06,501 --> 00:23:09,809
+Je pense que tu seras heureuse de
+savoir que le test est Neuro négatif.
+
+297
+00:23:11,631 --> 00:23:13,085
+Merci.
+
+298
+00:23:22,393 --> 00:23:25,894
+Bien, je veux juste te remercier
+
+299
+00:23:25,956 --> 00:23:28,576
+Jane ! Félicitations pour ta
+nouvelle promotion.
+
+300
+00:23:29,286 --> 00:23:32,520
+J'ai entendu que tu avais
+autorisé un test ADN hier.
+
+301
+00:23:36,527 --> 00:23:38,383
+- Oui.
+- Je veux toute l'histoire.
+
+302
+00:23:38,584 --> 00:23:40,895
+Qui ? Quoi ? Quand ?
+
+303
+00:23:41,273 --> 00:23:42,807
+Pourquoi ?
+
+304
+00:23:43,574 --> 00:23:45,689
+Il y a quelque temps, j'ai
+traversé une fenêtre,
+
+305
+00:23:46,745 --> 00:23:48,671
+je suis descendue 46 étages.
+
+306
+00:23:50,335 --> 00:23:52,710
+Tout du long, j'ai cru que
+c'était la fin.
+
+307
+00:23:54,430 --> 00:23:56,076
+Apparemment, ça ne l'était pas.
+
+308
+00:23:57,208 --> 00:23:59,383
+Mais ça continue de me déranger depuis.
+
+309
+00:23:59,443 --> 00:24:02,802
+Le sens de la vie, tout ça.
+Ce que je suis.
+
+310
+00:24:02,890 --> 00:24:05,230
+Est-ce ta tentative de réponse
+à ma question ?
+
+311
+00:24:06,617 --> 00:24:09,742
+- Que sais-tu de notre sort ?
+- Pas autant que je le voudrais.
+
+312
+00:24:10,077 --> 00:24:14,216
+Exact, tout comme moi, mais ce type,
+Joseph Grace, il est différent.
+
+313
+00:24:14,351 --> 00:24:15,787
+Joseph Grace ?
+
+314
+00:24:15,822 --> 00:24:17,458
+Tu connais ce type ?
+
+315
+00:24:17,693 --> 00:24:20,822
+Oui, il a été le sujet d'une controverse
+dans la littérature médicale,
+
+316
+00:24:20,957 --> 00:24:24,629
+impliquant des cas de cancer en
+phase de rémission, ce genre de choses.
+
+317
+00:24:24,864 --> 00:24:26,304
+Tu dis qu'il est sérieux ?
+
+318
+00:24:26,339 --> 00:24:28,272
+Ça dépend de ce que tu entends.
+
+319
+00:24:28,282 --> 00:24:31,308
+Si je pense que des gens ont
+guéri sous son influence, probable.
+
+320
+00:24:31,428 --> 00:24:33,759
+C'est un effet perceptible reconnu
+sur le corps humain.
+
+321
+00:24:33,879 --> 00:24:37,705
+J'attribuerais la moitié de ses prétendus
+miracles à cela, l'autre à l'exagération.
+
+322
+00:24:38,036 --> 00:24:40,282
+Très bien, je veux en savoir
+plus sur ce gars.
+
+323
+00:24:40,317 --> 00:24:42,422
+Toi, avec moi.
+
+324
+00:24:43,993 --> 00:24:46,956
+Je suis désolé, je pensais qu'il savait.
+Je pensais qu'il savait.
+
+325
+00:24:47,391 --> 00:24:49,421
+Et tu voyais cet homme depuis
+environ un mois ?
+
+326
+00:24:49,656 --> 00:24:50,656
+Oui.
+
+327
+00:24:51,122 --> 00:24:53,215
+Et quand on a su pour la fuite,
+tu as dû te demander
+
+328
+00:24:53,238 --> 00:24:55,261
+si c'était le Neuro qui
+nous poursuivait.
+
+329
+00:24:56,807 --> 00:25:00,200
+Quand Joseph m'a soignée,
+j'ai ressenti quelque chose.
+
+330
+00:25:00,412 --> 00:25:02,996
+Comme une énergie me traversant.
+
+331
+00:25:04,147 --> 00:25:08,562
+Je suppose que j'ai dû considérer la
+possibilité que tout venait pas de Dieu.
+
+332
+00:25:09,922 --> 00:25:13,484
+- Tu lui as dit certaines choses.
+- Rien qui ne compromette l'équipe.
+
+333
+00:25:13,519 --> 00:25:16,915
+Joseph est un homme bien, et il a été
+testé Neuro négatif.
+
+334
+00:25:16,950 --> 00:25:18,781
+Et dans le cas contraire ?
+
+335
+00:25:19,820 --> 00:25:22,519
+Je suppose que ça aurait été
+notre dernière conversation.
+
+336
+00:25:24,377 --> 00:25:26,138
+Vraiment ?
+
+337
+00:25:28,436 --> 00:25:30,522
+Plus jamais de coup en douce.
+
+338
+00:25:31,182 --> 00:25:33,978
+Tu as un problème,
+tu viens m'en parler.
+
+339
+00:25:36,128 --> 00:25:37,128
+Très bien.
+
+340
+00:25:45,470 --> 00:25:47,502
+Riley, qu'est-ce que
+tu as sur ce type ?
+
+341
+00:25:47,622 --> 00:25:50,732
+Joseph Grace. Il n'a pas de casier,
+n'a jamais été poursuivi.
+
+342
+00:25:50,933 --> 00:25:52,977
+Les docteurs pensent que c'est un
+charlatan, mais ne peuvent rien prouver.
+
+343
+00:25:53,097 --> 00:25:54,640
+Ça ne veut pas dire que ça n'en est pas un.
+
+344
+00:25:54,832 --> 00:25:58,254
+Pas d'après les 9 cas de rémissions de
+cancer de ces 5 dernières années.
+
+345
+00:25:58,659 --> 00:26:00,999
+Peu importe ce qui a soigné ces gens,
+c'était pas ce clown.
+
+346
+00:26:01,454 --> 00:26:03,326
+Et puis, de quoi il voulait
+soigner Jane ? Je ...
+
+347
+00:26:03,349 --> 00:26:06,140
+c'est bien le truc pour lequel
+elle n’a pas besoin d'aide, non ?
+
+348
+00:26:06,467 --> 00:26:08,925
+Elle peut guérir des blessures,
+pas de la douleur.
+
+349
+00:26:09,060 --> 00:26:10,346
+T'as trouvé ça tout seul ?
+
+350
+00:26:11,010 --> 00:26:13,761
+- Je l'ai lu dans un biscuit chinois.
+- Connor,
+
+351
+00:26:14,267 --> 00:26:15,622
+- ...tu te sens pas bien.
+- Quoi ?
+
+352
+00:26:15,630 --> 00:26:19,274
+Ouais, tu te sens un peu malade.
+Prends un rendez-vous avec Joseph Grace.
+
+353
+00:26:19,361 --> 00:26:22,143
+- Vois ce que tu peux trouver.
+- Je sais déjà ce que je vais trouver.
+
+354
+00:26:22,189 --> 00:26:24,657
+Le type a été testé Neuro négatif.
+C'est une perte de temps.
+
+355
+00:26:24,929 --> 00:26:26,296
+Ne discute pas.
+
+356
+00:26:46,718 --> 00:26:49,068
+S'il pose ses mains sur moi...
+
+357
+00:27:01,492 --> 00:27:03,804
+L'apparence spirituelle semble pas mal.
+
+358
+00:27:21,099 --> 00:27:23,781
+Bonjour, je m'appelle Joseph.
+
+359
+00:27:25,157 --> 00:27:28,144
+Merci d'être venu.
+Vous voulez bien entrer ?
+
+360
+00:27:36,370 --> 00:27:39,112
+Douleur constante.
+Ils disent qu'on y peut rien.
+
+361
+00:27:39,147 --> 00:27:42,413
+J'ai tout essayé.
+C'est mon dernier recours.
+
+362
+00:27:42,448 --> 00:27:46,289
+La foi. C'est notre foi qui nous
+rapproche de notre créateur.
+
+363
+00:27:47,718 --> 00:27:50,824
+J'ai essayé, et j'y ai pris part.
+
+364
+00:27:53,434 --> 00:27:55,231
+Vous pensez pouvoir m'aider ?
+
+365
+00:27:55,855 --> 00:27:57,642
+Détendez-vous.
+
+366
+00:27:59,396 --> 00:28:00,899
+Fermez vos yeux.
+
+367
+00:28:02,925 --> 00:28:05,077
+Videz votre esprit de vos soucis...
+
+368
+00:28:05,377 --> 00:28:06,713
+De vos questions...
+
+369
+00:28:09,221 --> 00:28:10,987
+Donnez-moi vos mains.
+
+370
+00:28:12,201 --> 00:28:14,315
+Je vous les rendrai, promis.
+
+371
+00:28:20,067 --> 00:28:23,167
+Maintenant, détendez-vous.
+
+372
+00:29:16,994 --> 00:29:18,938
+Écoutez, chef,
+
+373
+00:29:19,223 --> 00:29:23,597
+On doit parler, soit ce gars est un
+Neuro, soit c'est un vrai guérisseur.
+
+374
+00:29:25,121 --> 00:29:26,595
+Compris.
+
+375
+00:29:31,224 --> 00:29:33,266
+- Qu'est-ce que tu as doc ?
+- Voilà.
+
+376
+00:29:34,834 --> 00:29:37,733
+Ces images viennent d'une enquête
+médicale sur Joseph Grace...
+
+377
+00:29:37,768 --> 00:29:39,141
+conduite au Mass General.
+
+378
+00:29:39,176 --> 00:29:41,447
+Ceci est un fémur fracturé qui
+a guéri normalement.
+
+379
+00:29:41,482 --> 00:29:43,901
+Ceci est un fémur ravagé par
+un cancer osseux qui fut...
+
+380
+00:29:43,936 --> 00:29:45,677
+entre guillemets "guéri par Joseph Grace".
+
+381
+00:29:45,723 --> 00:29:47,080
+Docteur, je sais pas ce
+qu'on cherche ici.
+
+382
+00:29:47,121 --> 00:29:49,472
+Voilà, ceci est un os guéri normalement.
+
+383
+00:29:49,630 --> 00:29:51,140
+Et voilà l'autre.
+
+384
+00:29:51,633 --> 00:29:53,486
+Ils sont différents.
+
+385
+00:29:53,521 --> 00:29:56,159
+Oui, ils sont différents, mais ça
+nous montre bien que Joseph....
+
+386
+00:29:56,460 --> 00:29:58,849
+a vraiment un effet.
+Il guérit réellement les gens.
+
+387
+00:29:58,968 --> 00:30:01,187
+- Je suis stupéfait.
+- Tout comme Connor.
+
+388
+00:30:01,675 --> 00:30:03,425
+Apparemment, sa blessure a déjà guéri.
+
+389
+00:30:03,799 --> 00:30:05,986
+Vraiment ? J'y jetterai un oeil.
+
+390
+00:30:07,794 --> 00:30:09,737
+Docteur, dites-moi quelque chose.
+
+391
+00:30:10,272 --> 00:30:13,265
+Cette guérison, peut-elle avoir des
+mauvais effets secondaires ?
+
+392
+00:30:13,300 --> 00:30:14,830
+Ça peut-être dangereux ?
+
+393
+00:30:16,125 --> 00:30:17,707
+Pour M. tout le monde ?
+
+394
+00:30:17,735 --> 00:30:20,495
+Je ne peux pas le dire. Ça guérit
+les cellules, mais...
+
+395
+00:30:21,549 --> 00:30:23,320
+celles-ci viennent de Jane.
+
+396
+00:30:24,010 --> 00:30:26,749
+C'est d'avant, d'il y a quelques jours.
+
+397
+00:30:26,836 --> 00:30:29,582
+C'est pareil. Tout ce que je vois
+est que l'effet guérisseur sur Jane
+
+398
+00:30:29,617 --> 00:30:31,494
+- est le même que sur les autres.
+- Oui, mais...
+
+399
+00:30:31,526 --> 00:30:34,413
+vous devez vous rappeler que Jane
+n'est pas comme les autres.
+
+400
+00:30:38,432 --> 00:30:39,982
+Chef, vous faites quoi ?
+
+401
+00:30:43,401 --> 00:30:45,354
+Non, tout va bien, j'ai
+fait ça toute la nuit.
+
+402
+00:30:45,410 --> 00:30:47,895
+J'ai une intuition sur le Neuro
+qui nous a pris en embuscade.
+
+403
+00:30:48,015 --> 00:30:49,485
+Il est temps de changer la donne.
+
+404
+00:30:49,509 --> 00:30:52,280
+Tu as découvert comment il
+avait accès à nos information ?
+
+405
+00:30:52,378 --> 00:30:54,074
+Non, on le marque d'abord, on pose
+des questions après.
+
+406
+00:30:54,162 --> 00:30:55,453
+C'est ce dont je parlais.
+
+407
+00:30:55,921 --> 00:30:58,650
+J'ai ce cliché de surveillance
+tiré de la base de données du FBI.
+
+408
+00:30:58,736 --> 00:31:00,977
+C'est un mercenaire.
+Il travaille pour les grandes pontes.
+
+409
+00:31:01,212 --> 00:31:03,653
+Il me semble très capable d'éviter
+la surveillance du FBI à volonté.
+
+410
+00:31:03,761 --> 00:31:06,511
+Il était sur les lieux de
+chaque embuscade jusqu'alors.
+
+411
+00:31:08,124 --> 00:31:11,729
+Je sais parfaitement où et quand
+te trouver, sale enfoiré.
+
+412
+00:32:02,434 --> 00:32:03,831
+Connor ?
+
+413
+00:32:04,086 --> 00:32:06,455
+Ouais, je suis en position.
+Pas de signe du suspect.
+
+414
+00:32:06,701 --> 00:32:08,734
+- Vasco.
+- En position.
+
+415
+00:32:09,952 --> 00:32:11,426
+Je n'ai rien non plus.
+
+416
+00:32:11,777 --> 00:32:13,250
+Riley, parle-moi.
+
+417
+00:32:13,852 --> 00:32:16,191
+Le véhicule du suspect
+est entré dans la zone.
+
+418
+00:32:16,514 --> 00:32:18,986
+À moins qu'il soit au courant
+et que ce soit un leurre.
+
+419
+00:32:19,030 --> 00:32:20,818
+Non, non.
+Continuez.
+
+420
+00:32:29,875 --> 00:32:32,341
+Je le tiens. Il entre dans
+le parc côté est.
+
+421
+00:32:36,881 --> 00:32:39,328
+Je n'ai pas de champs
+de tir dégagé.
+
+422
+00:32:48,185 --> 00:32:49,428
+Je l'ai.
+
+423
+00:33:02,867 --> 00:33:04,206
+Bon sang !
+
+424
+00:33:22,276 --> 00:33:23,548
+Il se déplace !
+
+425
+00:34:21,482 --> 00:34:23,412
+Ne t'ennuie pas.
+
+426
+00:34:24,760 --> 00:34:26,953
+C'est Edward Small.
+Un de mes amis.
+
+427
+00:34:31,130 --> 00:34:32,552
+Sauve-toi, veux-tu ?
+
+428
+00:34:35,901 --> 00:34:37,488
+Tu le laisses partir comme ça ?
+
+429
+00:34:38,527 --> 00:34:42,527
+- C'est lui qui nous a attaqués !
+- Non, Jane, c'est toi.
+
+430
+00:34:46,888 --> 00:34:48,453
+Il n'y a aucun doute.
+
+431
+00:34:48,520 --> 00:34:51,998
+Il devrait y en avoir. Je ne ferais jamais
+rien qui mette cette équipe en danger.
+
+432
+00:34:52,121 --> 00:34:54,455
+Tu ne ferais jamais rien consciemment.
+
+433
+00:34:54,505 --> 00:34:56,910
+J'ai découvert comment la capacité
+de guérison de Joseph fonctionne.
+
+434
+00:34:57,062 --> 00:35:01,823
+En fait, il est en quelque sorte capable d'énergiser chaque
+cellule en la stimulant pour qu'elle s'auto-régénère.
+
+435
+00:35:01,880 --> 00:35:04,109
+Et cette énergie crée une force d'attraction...
+
+436
+00:35:04,156 --> 00:35:07,030
+qui avec de la chance reforme
+l'organe ou le tissu.
+
+437
+00:35:07,228 --> 00:35:09,928
+- Mais ?
+- Mais ta constitution n'est pas habituelle.
+
+438
+00:35:11,031 --> 00:35:12,244
+Tu m'en diras tant.
+
+439
+00:35:12,305 --> 00:35:16,629
+En appliquant l'énergie de Joseph à quelqu'un
+comme toi, les résultats sont imprévisibles.
+
+440
+00:35:17,364 --> 00:35:21,245
+Même en l'admettant, quel est
+le lien avec moi sabotant l'équipe ?
+
+441
+00:35:21,246 --> 00:35:24,784
+Jane, tu as plus d'une fois fait entendre
+tes doutes sur ce qu'on doit faire,
+
+442
+00:35:24,785 --> 00:35:28,723
+et soyons francs, en de multiples occasions,
+tu as délibérément désobéi à mes ordres.
+
+443
+00:35:30,223 --> 00:35:34,221
+Ouais, mais lors de ces attaques, j'étais
+autant en danger que toi et Connor.
+
+444
+00:35:40,081 --> 00:35:42,246
+Tu crois que j'essaie de me mettre
+moi-même sur la touche ?
+
+445
+00:35:42,589 --> 00:35:47,174
+Nous pensons que l'énergie de Joseph t'a
+affectée, toi ou ton esprit, de telle sorte,
+
+446
+00:35:47,705 --> 00:35:50,141
+que tes doutes ont
+commencé à se manifester
+
+447
+00:35:50,196 --> 00:35:52,397
+et nuisent maintenant à l'équipe.
+
+448
+00:35:52,811 --> 00:35:54,296
+Tu n'y crois quand même pas ?
+
+449
+00:35:56,773 --> 00:35:58,196
+Jane,
+
+450
+00:35:58,733 --> 00:36:02,378
+ton profil génétique actuel est une chose
+que nous ne comprenons pas complètement.
+
+451
+00:36:02,690 --> 00:36:05,675
+Tu guéris vite,
+ton QI augmente constamment,
+
+452
+00:36:05,826 --> 00:36:07,955
+on ne peut vraiment pas dire
+de quoi tu es capable.
+
+453
+00:36:08,141 --> 00:36:10,605
+Même tenter de saboter ma propre équipe ?
+
+454
+00:36:10,667 --> 00:36:12,263
+Il y a autre chose.
+
+455
+00:36:12,518 --> 00:36:14,983
+Joseph Grace a été testé Neuro positif.
+
+456
+00:36:15,301 --> 00:36:17,065
+Comment est-ce possible ?
+
+457
+00:36:17,253 --> 00:36:18,996
+- Seth m'a dit que...
+- Quand Seth a effectué le premier test,
+
+458
+00:36:19,090 --> 00:36:22,133
+- tu étais à proximité.
+- Premier test ?
+
+459
+00:36:22,571 --> 00:36:25,168
+On a retesté avec un échantillon
+que Connor a obtenu.
+
+460
+00:36:25,517 --> 00:36:27,677
+Et avec toi hors d'ici,
+
+461
+00:36:27,816 --> 00:36:29,647
+il a été testé positif.
+
+462
+00:36:30,327 --> 00:36:32,175
+Alors, attend une minute,
+vous êtes en train de me dire que,
+
+463
+00:36:32,950 --> 00:36:37,794
+en quelque sorte, j'ai pu amener
+l'échantillon que je t'ai apporté, à changer ?
+
+464
+00:36:39,149 --> 00:36:41,400
+- Je n'y crois pas.
+- Non, je ne pensais pas que tu le ferais.
+
+465
+00:36:42,095 --> 00:36:44,032
+Jane, je n'ai parlé à personne d'autre
+
+466
+00:36:44,043 --> 00:36:46,389
+de ton état, personne
+en dehors de l'équipe.
+
+467
+00:36:46,424 --> 00:36:48,832
+- Merci, ton avis ?
+- J'ai commis une erreur.
+
+468
+00:36:49,226 --> 00:36:50,417
+Je ne t'en veux pas,
+
+469
+00:36:51,578 --> 00:36:53,879
+mais visiblement, tu es devenue un problème.
+
+470
+00:36:54,493 --> 00:36:58,848
+Maintenant, je préférerais ne
+pas avoir recours à la force.
+
+471
+00:37:22,028 --> 00:37:24,098
+C'était assez convaincant pour toi ?
+
+472
+00:37:27,223 --> 00:37:30,735
+Seth semble assez sûr que, une fois
+que tu auras arrêté de voir Grace,
+
+473
+00:37:30,947 --> 00:37:33,899
+tu t'en remettras,
+quoi qu'il te soit arrivé.
+
+474
+00:37:34,467 --> 00:37:36,522
+Je guérirai du guérisseur.
+
+475
+00:37:36,649 --> 00:37:38,470
+On doit encore éliminer la source.
+
+476
+00:37:38,562 --> 00:37:42,357
+Quoi que Joseph m'ait fait, il
+n'y est pour rien. C'est ma faute.
+
+477
+00:37:42,492 --> 00:37:44,500
+Tout ce qu'il a fait
+c'est aider les gens.
+
+478
+00:37:44,544 --> 00:37:48,877
+Jane, c'est une voix dans ta tête qui
+essaie de justifier pourquoi une part de toi
+
+479
+00:37:48,878 --> 00:37:51,142
+interfère là-dedans.
+Joseph est un Neuro.
+
+480
+00:37:51,377 --> 00:37:54,887
+Tu es au premier plan pour connaître les effets
+désastreux que peuvent avoir ses guérisons.
+
+481
+00:37:54,979 --> 00:37:56,608
+Ouais, sur quelqu'un comme moi.
+
+482
+00:37:56,631 --> 00:37:58,128
+On doit le marquer.
+
+483
+00:37:59,714 --> 00:38:02,239
+D'accord, alors, laisse-moi le faire.
+
+484
+00:38:02,840 --> 00:38:04,090
+Ce n'est pas nécessaire.
+
+485
+00:38:04,470 --> 00:38:06,465
+Non, je dois surmonter ça.
+
+486
+00:38:08,544 --> 00:38:10,357
+Mettons fin à tout ça.
+
+487
+00:38:15,231 --> 00:38:17,548
+Quand vous avez appelé,
+ça m'a paru important.
+
+488
+00:38:17,562 --> 00:38:18,901
+Tout va bien ?
+
+489
+00:38:22,269 --> 00:38:24,673
+Je crois qu'il est temps que
+vous sachiez quel est mon travail.
+
+490
+00:38:25,678 --> 00:38:28,094
+Pour une raison inconnue,
+
+491
+00:38:28,224 --> 00:38:32,169
+une aberration neurologique est
+apparue au sein de notre population.
+
+492
+00:38:32,193 --> 00:38:37,135
+Cette aberration permet à des gens
+de faire se produire des choses.
+
+493
+00:38:38,325 --> 00:38:41,727
+Certaines de ces choses sont
+assez fantastiques,
+
+494
+00:38:42,338 --> 00:38:45,804
+alors que d'autres sont très dangereuses.
+
+495
+00:38:46,777 --> 00:38:50,391
+J'ai vu des gens faire
+sauter les autres d'un bâtiment,
+
+496
+00:38:51,058 --> 00:38:55,247
+ou démarrer des incendies,
+par la seule volonté.
+
+497
+00:38:56,468 --> 00:38:58,776
+Même réveiller les morts.
+
+498
+00:38:59,251 --> 00:39:00,896
+Doux Jésus.
+
+499
+00:39:01,328 --> 00:39:04,817
+On appelle ces gens des Neuros.
+
+500
+00:39:06,155 --> 00:39:09,437
+Mon travail est d'aller trouver ces Neuros
+
+501
+00:39:09,438 --> 00:39:12,391
+et de leur implanter une puce qui
+
+502
+00:39:12,615 --> 00:39:15,729
+neutralise leurs capacités.
+
+503
+00:39:18,067 --> 00:39:19,996
+Joseph, vous êtes un Neuro.
+
+504
+00:39:34,143 --> 00:39:36,366
+Mon don est un cadeau de Dieu.
+
+505
+00:39:36,699 --> 00:39:41,360
+Quelle qu'en soit la forme, qui êtes-vous,
+ou qui sont-ils pour me le retirer ?
+
+506
+00:39:42,721 --> 00:39:46,284
+Les maladies que vous guérissez
+sont données par Dieu.
+
+507
+00:39:46,319 --> 00:39:48,985
+Nous ne sommes peut-être
+pas censés interférer avec elles.
+
+508
+00:39:49,173 --> 00:39:51,159
+Si je m'enfuis ?
+
+509
+00:39:51,661 --> 00:39:53,958
+Je ne pense pas que vous le fassiez.
+
+510
+00:39:57,656 --> 00:39:59,586
+Ça va faire mal ?
+
+511
+00:40:02,360 --> 00:40:03,807
+Je ne sais pas.
+
+512
+00:40:40,509 --> 00:40:42,618
+Allez, par là, mon pote.
+
+513
+00:40:54,841 --> 00:40:56,200
+Bonnes nouvelles.
+
+514
+00:40:56,256 --> 00:41:00,107
+Les anomalies cellulaires causées par la
+guérison de Joseph semblent avoir disparu.
+
+515
+00:41:00,747 --> 00:41:02,022
+Génial.
+
+516
+00:41:02,153 --> 00:41:05,955
+Alors, je suis revenue à ma
+normale anormalité.
+
+517
+00:41:07,999 --> 00:41:10,385
+Je me demande si tu trouveras
+jamais un remède à ça.
+
+518
+00:41:12,155 --> 00:41:14,484
+C'est pour ça que tu allais voir Joseph ?
+
+519
+00:41:16,476 --> 00:41:19,501
+Tu as dit que les anomalies avaient disparu.
+
+520
+00:41:19,638 --> 00:41:21,919
+Ça veut-il dire que, quoi que c'était,
+
+521
+00:41:22,120 --> 00:41:24,949
+le dernier problème chez moi a également disparu ?
+
+522
+00:41:28,355 --> 00:41:29,904
+Tu veux la vérité ?
+
+523
+00:41:31,205 --> 00:41:32,944
+Probablement pas.
+
+524
+00:41:36,120 --> 00:41:37,875
+On se voit plus tard, doc.
+
+525
+00:41:41,496 --> 00:41:43,671
+Oui, Monsieur. Tout de suite.
+
+526
+00:41:43,817 --> 00:41:45,929
+C'était Morgan !
+On est tous augmentés.
+
+527
+00:41:45,964 --> 00:41:47,860
+C'était Morgan et on a un problème.
+
+528
+00:41:47,917 --> 00:41:50,260
+- Encore un ?
+- Ça n'arrête jamais ?
+
+529
+00:41:50,954 --> 00:41:52,412
+Tu sais quelque chose là-dessus ?
+
+530
+00:41:52,463 --> 00:41:54,928
+Quand ça a un rapport avec
+Morgan, je préfère pas savoir.
+
+531
+00:42:00,634 --> 00:42:03,769
+D'après des informations reçues, on aurait
+un problème potentiel dans la zone d'internement.
+
+532
+00:42:04,496 --> 00:42:08,006
+N.I.C.O. est à 7600 km.
+En quoi cela concerne-t-il mon équipe ?
+
+533
+00:42:08,186 --> 00:42:09,825
+Si mes informations sont fiables,
+
+534
+00:42:09,996 --> 00:42:12,994
+quelqu'un au courant de l'existence
+de N.I.C.O. a pu être corrompu.
+
+535
+00:42:13,029 --> 00:42:15,473
+Le seul physicien de mon équipe est
+Seth, je ne peux pas imaginer...
+
+536
+00:42:15,508 --> 00:42:17,820
+Lorsque le problème peut s'étendre
+au personnel médical,
+
+537
+00:42:17,855 --> 00:42:20,546
+notre souci premier est
+la sécurité et l'administration.
+
+538
+00:42:21,611 --> 00:42:24,251
+Vous ne pouvez pas être sûr du coupable si vous
+ne pouvez faire confiance à personne sur place.
+
+539
+00:42:25,451 --> 00:42:27,560
+Je vous tiendrai informé dès qu'on aura
+des renseignements, mais pour l'instant
+
+540
+00:42:27,595 --> 00:42:29,394
+on doit absolument le savoir.
+
+541
+00:42:29,566 --> 00:42:31,143
+On ne doit pas laisser traîner ça.
+
+542
+00:42:43,759 --> 00:42:46,735
+<i>Quelqu'un a dit un jour que nous
+sommes notre pire ennemi.</i>
+
+543
+00:42:47,933 --> 00:42:51,916
+<i>Son travail n'impliquait sûrement pas
+de traquer les aberrations neurologiques,</i>
+
+544
+00:42:52,572 --> 00:42:54,804
+<i>mais après ces derniers jours...</i>
+
+545
+00:42:55,405 --> 00:42:57,268
+<i>Je devrais sûrement être d'accord avec lui.</i>
+
+546
+00:42:57,759 --> 00:43:00,563
+<i>C'est déjà assez dur de gérer
+ses propres bouleversements internes.</i>
+
+547
+00:43:00,850 --> 00:43:03,727
+<i>Si ça se manifeste sur
+le plan physique...</i>
+
+548
+00:43:04,169 --> 00:43:06,267
+<i>je ne peux même pas imaginer à
+quoi ce monde ressemblerait.</i>
+
+549
+00:43:06,705 --> 00:43:08,705
+-=www.seriesub.com=-
+
+550
+00:43:08,706 --> 00:43:10,706
+<i>Membres de la Neuro's Team</i>
+
+551
+00:43:10,707 --> 00:43:13,707
+Trad:
+Kra, Daemon, IceFre@k, Jganakin
+
+552
+00:43:13,708 --> 00:43:16,708
+Resynchro : 
+Sw38, Slayerdev
+
+553
+00:43:16,709 --> 00:43:19,709
+Relecture : 
+Medjai, OuRs256, Mariobross
+

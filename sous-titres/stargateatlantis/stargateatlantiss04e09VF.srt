@@ -1,0 +1,3345 @@
+1
+00:00:04,626 --> 00:00:05,891
+Et si on...
+
+2
+00:00:07,483 --> 00:00:08,228
+Non.
+
+3
+00:00:09,256 --> 00:00:09,975
+Non.
+
+4
+00:00:14,316 --> 00:00:16,173
+<i>Pourquoi ne pas ramener le Wraith ?</i>
+
+5
+00:00:16,293 --> 00:00:17,095
+Non.
+
+6
+00:00:17,836 --> 00:00:21,670
+<i>Beaucoup de ces lignes de code nanites
+sont écrites par lui, donc peut-être...</i>
+
+7
+00:00:21,790 --> 00:00:25,832
+A) Il ne voudrait pas nous aider,
+B) on a pas besoin de son aide et C)...
+
+8
+00:00:26,239 --> 00:00:27,747
+que quelqu'un me ramène du café.
+
+9
+00:00:28,515 --> 00:00:30,574
+<i>Vous êtes resté silencieux
+devant ce tableau</i>
+
+10
+00:00:30,995 --> 00:00:32,267
+pendant trois heures.
+
+11
+00:00:32,387 --> 00:00:35,537
+- Oui. Ça va venir.
+- Envoie-lui un e-mail, pour commencer.
+
+12
+00:00:39,459 --> 00:00:40,465
+Excuse-moi ?
+
+13
+00:00:40,797 --> 00:00:42,044
+<i>Rodney, on est bloqués.</i>
+
+14
+00:00:42,284 --> 00:00:44,281
+On est bloqués depuis dix heures.
+
+15
+00:00:44,410 --> 00:00:46,691
+Demande-lui de l'aide,
+s'il te plaît.
+
+16
+00:00:46,994 --> 00:00:49,379
+- Je ne suis pas bloqué.
+- La dernière fois qu'on a été coincés,
+
+17
+00:00:49,499 --> 00:00:51,294
+- elle nous a aidés.
+- C'était différent.
+
+18
+00:00:51,414 --> 00:00:55,557
+Je ne peux pas rester à attendre que
+tu aies une épiphanie ! J'en ai marre !
+
+19
+00:00:58,546 --> 00:01:01,099
+Je suppose que je pourrais bosser
+sur des choses plus importantes.
+
+20
+00:01:01,219 --> 00:01:03,315
+Invente n'importe quelle excuse,
+c'est parfait.
+
+21
+00:01:15,252 --> 00:01:16,558
+<i>- Fini !
+- Fini !</i>
+
+22
+00:01:16,678 --> 00:01:18,624
+- Juste un gros cookie ?
+- Ouais.
+
+23
+00:01:18,744 --> 00:01:22,176
+- Tu ne veux pas utiliser tes coupeurs ?
+- Nan. J'en veux juste un gros.
+
+24
+00:01:26,181 --> 00:01:28,633
+Tu devrais pétrir la pâte un petit peu.
+
+25
+00:01:30,494 --> 00:01:31,266
+<i>Non.</i>
+
+26
+00:01:31,386 --> 00:01:34,001
+<i>Non ? Juste un énorme cookie ?
+C'est ça que tu veux ?</i>
+
+27
+00:01:34,121 --> 00:01:34,922
+<i>OK !</i>
+
+28
+00:01:36,125 --> 00:01:38,481
+- <i>Tout va bien ?</i>
+- C'est mon frère.
+
+29
+00:01:39,846 --> 00:01:42,146
+Il est encore coincé !
+Ça te dérange si je...
+
+30
+00:01:42,838 --> 00:01:44,070
+Ouais, je m'occupe de ça.
+
+31
+00:01:44,207 --> 00:01:46,009
+- Là, tu veux que je t'aide ?
+- OK.
+
+32
+00:01:46,129 --> 00:01:46,892
+OK.
+
+33
+00:01:47,012 --> 00:01:48,879
+Je veux plein de farine.
+
+34
+00:01:49,783 --> 00:01:52,170
+<i>- Combien de pépites de chocolat ?
+- Pas le bol entier.</i>
+
+35
+00:01:52,290 --> 00:01:53,968
+<i>Non, ce serait trop.</i>
+
+36
+00:02:05,887 --> 00:02:07,140
+Tu ne peux pas dormir ?
+
+37
+00:02:07,843 --> 00:02:09,394
+J'ai cru entendre quelque chose.
+
+38
+00:02:09,514 --> 00:02:10,519
+Madison ?
+
+39
+00:02:11,653 --> 00:02:12,676
+Je ne sais pas.
+
+40
+00:02:14,084 --> 00:02:15,426
+Je vais voir.
+
+41
+00:02:16,400 --> 00:02:18,522
+Elle a dû descendre en douce
+chercher d'autres cookies.
+
+42
+00:02:18,642 --> 00:02:20,309
+En fait, ce n'est pas une mauvaise idée.
+
+43
+00:02:21,754 --> 00:02:22,759
+À terre !
+
+44
+00:02:30,454 --> 00:02:31,966
+Vous venez avec nous.
+
+45
+00:02:35,404 --> 00:02:38,639
+Les Teams Projet-SG & SG-66
+
+46
+00:02:42,964 --> 00:02:46,394
+présentent :
+
+47
+00:02:49,139 --> 00:02:51,089
+Saison 4 Épisode 09
+Miller's Crossing (v. 1.0)
+
+48
+00:02:53,797 --> 00:02:56,667
+Transcription par :
+swsub.com
+
+49
+00:02:58,731 --> 00:03:01,891
+Synchro par : Golgi,
+Linwelin, Malikay, Obusco, Ricana.
+
+50
+00:03:04,518 --> 00:03:07,392
+Traduction par :
+
+51
+00:03:12,555 --> 00:03:15,516
+Linwelin, Malikay, Mickey,
+Nemexis, Niko, Thor.
+
+52
+00:03:24,349 --> 00:03:27,042
+Relecture par :
+Linwelin, Mickey, Thor.
+
+53
+00:03:27,456 --> 00:03:29,798
+www.projet-sg.net
+www.seriestele.net
+
+54
+00:03:42,323 --> 00:03:43,355
+<i>Messieurs.</i>
+
+55
+00:03:43,844 --> 00:03:46,876
+Je suis l'agent Barrett. Du NID.
+Monsieur Woolsey m'a demandé
+
+56
+00:03:46,996 --> 00:03:50,061
+de vous aider. Désolé de ne pas
+vous rencontrer à un meilleur moment.
+
+57
+00:03:50,181 --> 00:03:51,982
+Les ravisseurs ont tenté
+de nous contacter ?
+
+58
+00:03:52,102 --> 00:03:54,111
+- Non, j'en ai peur.
+- Je dois aller à Vancouver.
+
+59
+00:03:54,231 --> 00:03:56,585
+Le Daedalus est en orbite,
+donc ce sera rapide.
+
+60
+00:03:56,705 --> 00:03:58,596
+Avez-vous appris autre chose ?
+
+61
+00:03:58,716 --> 00:04:01,702
+Non, pas encore. Le NID est
+en liaison avec le CSIS sur le terrain.
+
+62
+00:04:01,822 --> 00:04:03,662
+- Ils nous attendent.
+- "C" quoi cette fois ?
+
+63
+00:04:03,859 --> 00:04:05,566
+Canadian Security Intelligence Services.
+
+64
+00:04:05,686 --> 00:04:07,269
+La même chose que notre CIA.
+
+65
+00:04:07,689 --> 00:04:08,689
+"CSIS" ?
+
+66
+00:04:08,838 --> 00:04:11,047
+C'est le mieux
+que vous puissiez faire, hein ?
+
+67
+00:04:11,582 --> 00:04:13,314
+On sera à l'air libre, donc...
+
+68
+00:04:14,019 --> 00:04:16,129
+peut-être qu'un changement
+de vêtements s'impose ?
+
+69
+00:04:17,627 --> 00:04:18,435
+Quoi ?
+
+70
+00:04:31,408 --> 00:04:32,618
+Je ressemble à rien.
+
+71
+00:04:33,398 --> 00:04:35,016
+Ça t'aide à te mélanger un peu.
+
+72
+00:04:35,136 --> 00:04:37,379
+On me remarquera de toute façon.
+
+73
+00:04:37,499 --> 00:04:38,464
+En effet.
+
+74
+00:04:51,310 --> 00:04:53,094
+Regarde. C'est ton oncle Mer.
+
+75
+00:04:53,457 --> 00:04:54,569
+Mademoiselle.
+
+76
+00:04:55,005 --> 00:04:56,440
+Tu vas dire bonjour ?
+
+77
+00:04:56,820 --> 00:04:57,933
+Où est maman ?
+
+78
+00:04:58,898 --> 00:05:00,269
+Euh, elle est...
+
+79
+00:05:00,389 --> 00:05:02,289
+Je te l'ai dit.
+Elle a dû s'absenter un moment,
+
+80
+00:05:02,409 --> 00:05:04,506
+mais elle va revenir bientôt, d'accord ?
+
+81
+00:05:05,267 --> 00:05:06,270
+Je peux...
+
+82
+00:05:06,483 --> 00:05:07,284
+Ouais.
+
+83
+00:05:07,848 --> 00:05:09,014
+OK, ma puce.
+
+84
+00:05:14,144 --> 00:05:16,108
+- Qui a fait ça ?
+- On n'en est pas sûrs, mais
+
+85
+00:05:16,228 --> 00:05:18,693
+les meilleurs au monde y travaillent,
+et toutes les ressources...
+
+86
+00:05:18,813 --> 00:05:22,712
+À ton retour l'année dernière, elle a
+hésité à repartir avec toi sur Atlantis.
+
+87
+00:05:22,983 --> 00:05:25,177
+J'ai dit, "Vas-y, tu dois le faire.
+
+88
+00:05:25,333 --> 00:05:27,086
+- ou tu le regretteras."
+- Je sais.
+
+89
+00:05:27,206 --> 00:05:29,623
+Elle connaissait les risques,
+mais vous et vos compétitions...
+
+90
+00:05:29,785 --> 00:05:32,167
+- Écoute-moi. On va...
+- C'est de ta faute,
+
+91
+00:05:32,329 --> 00:05:34,657
+- Une seconde.
+- On l'a enlevée par ta faute.
+
+92
+00:05:34,777 --> 00:05:36,964
+- On n'en sait rien.
+- <i>Ah bon ?</i>
+
+93
+00:05:37,646 --> 00:05:40,289
+Vraiment ? Tu penses que quatre hommes
+armés entreraient par effraction
+
+94
+00:05:40,409 --> 00:05:42,573
+pour voler sa recette secrète
+des chaussons aux pommes ?
+
+95
+00:05:42,693 --> 00:05:44,500
+- <i>Ou des voisins jaloux ?</i>
+- Tu es en colère.
+
+96
+00:05:44,620 --> 00:05:47,645
+- Tu as toutes les raisons de l'être...
+- Si quelque chose lui arrive...
+
+97
+00:05:47,817 --> 00:05:48,620
+<i>Kaleb.</i>
+
+98
+00:05:50,109 --> 00:05:51,478
+On va la trouver.
+
+99
+00:05:53,795 --> 00:05:54,896
+Simplement...
+
+100
+00:05:55,541 --> 00:05:57,316
+Ramène-la. Ramène-la à la maison.
+
+101
+00:05:59,295 --> 00:06:00,332
+Je le ferai.
+
+102
+00:06:03,661 --> 00:06:04,857
+Allons-y, Mad.
+
+103
+00:06:05,660 --> 00:06:07,976
+- Où on va ?
+- On va faire un petit tour.
+
+104
+00:06:12,625 --> 00:06:16,205
+Je lui ai dit d'aller à l'hôtel.
+Ils n'ont aucune raison de rester ici.
+
+105
+00:06:16,325 --> 00:06:18,718
+Très bien, merci, les gars.
+Laissez-nous, s'il vous plaît.
+
+106
+00:06:26,281 --> 00:06:28,750
+- <i>Alors, par où on commence ?</i>
+- Jeanie et moi, on s'envoyait
+
+107
+00:06:28,870 --> 00:06:31,253
+des e-mails.
+Elle était...
+
+108
+00:06:33,300 --> 00:06:35,770
+- Je reprenais certaines de ses idées.
+- À quel sujet ?
+
+109
+00:06:35,890 --> 00:06:37,866
+Avant que le Wraith
+de Sheppard n'arrive,
+
+110
+00:06:37,986 --> 00:06:40,273
+je perfectionnais mon programme médical
+basé sur des nanites.
+
+111
+00:06:40,393 --> 00:06:41,945
+Le truc utilisé pour sauver Weir ?
+
+112
+00:06:42,065 --> 00:06:45,157
+Ouais, en version plus complète,
+mais c'est ça.
+
+113
+00:06:45,897 --> 00:06:48,918
+<i>Bien sûr, dès qu'on a vu que les
+Réplicateurs s'en prenaient aux humains</i>
+
+114
+00:06:49,038 --> 00:06:52,784
+on s'est concentrés sur le moyen
+de les stopper une fois pour toutes.
+
+115
+00:06:53,335 --> 00:06:55,588
+Et vous lui avez envoyé
+votre programme ?
+
+116
+00:06:55,708 --> 00:06:57,397
+J'avais besoin d'un regard neuf.
+
+117
+00:06:57,517 --> 00:07:00,360
+La question est, qu'est-ce que ça a
+à voir avec son enlèvement ?
+
+118
+00:07:00,593 --> 00:07:03,592
+Ouais. Peut-être la Confrérie
+ou une autre organisation terrienne
+
+119
+00:07:03,754 --> 00:07:06,522
+<i>voulait des informations sur moi,
+ou le Programme, mais en tout cas,</i>
+
+120
+00:07:06,642 --> 00:07:09,319
+mon e-mail et sa capture sont trop
+rapprochés pour ne pas être liés.
+
+121
+00:07:09,643 --> 00:07:11,718
+D'accord. Ça semble être
+un bon point de départ.
+
+122
+00:07:11,955 --> 00:07:14,887
+- On a touché à son ordinateur ?
+- Non, je leur ai dit que vous voudriez
+
+123
+00:07:15,007 --> 00:07:18,152
+- y jeter un oeil. On ne l'a pas touché.
+- Je vais devoir l'examiner de près.
+
+124
+00:07:19,012 --> 00:07:20,834
+Ça va prendre du temps.
+Retournez à l'hôtel.
+
+125
+00:07:20,954 --> 00:07:23,392
+- J'appelle si je trouve quelque chose.
+- C'est bon, on reste.
+
+126
+00:07:23,512 --> 00:07:24,401
+Sérieusement.
+
+127
+00:07:24,524 --> 00:07:27,240
+Ça peut prendre de 10 à 12 heures.
+Vous ne pouvez rien faire ici.
+
+128
+00:07:27,402 --> 00:07:29,803
+<i>Retournez à l'hôtel.
+J'appellerai si je trouve quelque chose.</i>
+
+129
+00:07:55,466 --> 00:07:56,419
+<i>Par ici.</i>
+
+130
+00:08:02,782 --> 00:08:04,277
+Non... Attendez, s'il vous plaît.
+
+131
+00:08:05,951 --> 00:08:07,178
+Tout va bien.
+
+132
+00:08:09,236 --> 00:08:10,572
+Vous permettez ?
+
+133
+00:08:19,154 --> 00:08:20,355
+Qui êtes-vous ?
+
+134
+00:08:22,678 --> 00:08:24,384
+Je m'appelle Henry Wallace.
+
+135
+00:08:25,281 --> 00:08:26,470
+Désolé pour...
+
+136
+00:08:28,298 --> 00:08:30,881
+Il faut que vous fassiez
+un travail pour moi.
+
+137
+00:08:44,580 --> 00:08:45,392
+Allô ?
+
+138
+00:08:45,512 --> 00:08:48,393
+On surveillait bien l'ordinateur
+de ma soeur. Je pense avoir piraté
+
+139
+00:08:48,513 --> 00:08:51,366
+leur cheval de Troie, j'ai une adresse.
+Barrett et moi nous y rendons.
+
+140
+00:08:51,495 --> 00:08:53,227
+Tu disais que ça allait
+prendre 10 heures.
+
+141
+00:08:53,363 --> 00:08:55,832
+Parfois, même moi
+je sous-estime mon intelligence.
+
+142
+00:08:55,952 --> 00:08:58,257
+<i>Très bien, attends à la maison,
+on ira ensemble.</i>
+
+143
+00:08:58,377 --> 00:08:59,857
+Trop tard, on y est presque.
+
+144
+00:08:59,980 --> 00:09:01,828
+<i>Je te donne une adresse.
+Rejoignez-nous.</i>
+
+145
+00:09:03,106 --> 00:09:04,254
+OK, c'est où ?
+
+146
+00:09:08,516 --> 00:09:10,048
+On dirait que c'est ici.
+
+147
+00:09:10,171 --> 00:09:12,720
+On ne devrait pas attendre
+Sheppard et Ronon ?
+
+148
+00:09:14,183 --> 00:09:14,983
+OK...
+
+149
+00:09:15,469 --> 00:09:16,439
+Reculez.
+
+150
+00:09:20,430 --> 00:09:22,385
+OK, eh bien, ça marche aussi.
+
+151
+00:09:26,185 --> 00:09:29,887
+- Vous n'en auriez pas un autre, non ?
+- Ouais, j'ai un fusil dans la voiture.
+
+152
+00:09:47,202 --> 00:09:48,708
+Ça va ? Que diable s'est-il passé ?
+
+153
+00:09:48,828 --> 00:09:50,649
+Deux hommes, ils ont dû nous suivre.
+
+154
+00:09:50,769 --> 00:09:51,769
+McKay !
+
+155
+00:09:51,892 --> 00:09:53,553
+Il n'est pas là. Ils l'ont emmené.
+
+156
+00:10:04,226 --> 00:10:05,338
+Meredith ?
+
+157
+00:10:06,845 --> 00:10:09,825
+- Jeanie. Dieu merci tu es vivante !
+- Que fais-tu là ?
+
+158
+00:10:09,945 --> 00:10:11,869
+Je suis rentré
+en apprenant ton kidnapping.
+
+159
+00:10:11,989 --> 00:10:14,967
+- Tu as vu Madison et Kaleb ?
+- Ils sont un peu choqués, mais ça va.
+
+160
+00:10:15,090 --> 00:10:17,202
+J'ai assigné une équipe
+de sécurité, ne t'inquiète pas.
+
+161
+00:10:17,413 --> 00:10:18,482
+Et comment as-tu...
+
+162
+00:10:18,602 --> 00:10:20,870
+J'ai été piégé en traquant
+ceux qui t'ont enlevée.
+
+163
+00:10:20,990 --> 00:10:22,638
+Oh, génial. Tout bonnement génial.
+
+164
+00:10:22,774 --> 00:10:24,421
+D'abord, tu me fais enlever, puis tu...
+
+165
+00:10:24,558 --> 00:10:26,441
+Je te fais enlever ?
+Comment tu as déduit ça ?
+
+166
+00:10:26,561 --> 00:10:28,873
+Allons ! Ils surveillaient
+mon ordinateur, non ?
+
+167
+00:10:28,993 --> 00:10:30,482
+- Ouais, et ?
+- Je serais ici
+
+168
+00:10:30,602 --> 00:10:33,863
+- si tu n'avais pas envoyé ces e-mails ?
+- Peut-être. C'est quoi ? Un labo ?
+
+169
+00:10:34,400 --> 00:10:36,990
+C'est du travail de grand détective,
+Nancy Drew.
+
+170
+00:10:37,737 --> 00:10:39,989
+- Où diable sommes-nous ?
+- Je n'en ai aucune idée.
+
+171
+00:10:40,109 --> 00:10:41,748
+Ils m'ont mise dans un avion...
+
+172
+00:10:41,868 --> 00:10:44,563
+Ouais, moi aussi.
+Une idée de qui est derrière tout ça ?
+
+173
+00:10:48,816 --> 00:10:49,987
+Docteur McKay.
+
+174
+00:10:52,456 --> 00:10:54,024
+J'ai beaucoup entendu parler de vous.
+
+175
+00:10:54,144 --> 00:10:55,352
+C'est un plaisir.
+
+176
+00:10:56,862 --> 00:11:00,217
+Je pensais que vous vous montreriez
+si votre soeur disparaissait.
+
+177
+00:11:00,552 --> 00:11:03,948
+On ne pouvait pas le savoir, évidemment,
+mais c'est un beau bonus.
+
+178
+00:11:04,680 --> 00:11:05,581
+Bonus ?
+
+179
+00:11:06,280 --> 00:11:09,962
+Je ne sais pas qui vous êtes, mais
+m'amener ici est une terrible erreur.
+
+180
+00:11:10,113 --> 00:11:11,844
+Je suggère de nous relâcher
+tous les deux,
+
+181
+00:11:11,964 --> 00:11:14,098
+sinon, une centaine de marines
+vont venir défoncer
+
+182
+00:11:14,218 --> 00:11:17,742
+- votre entrée dans deux minutes.
+- Je suis quasi sûr que non, en fait.
+
+183
+00:11:18,286 --> 00:11:21,141
+On a désactivé
+votre transmetteur sous-cutané.
+
+184
+00:11:24,447 --> 00:11:25,539
+Qui êtes-vous ?
+
+185
+00:11:26,611 --> 00:11:28,580
+J'aurais dû commencer par ça.
+
+186
+00:11:29,613 --> 00:11:31,867
+Je m'appelle Henry Wallace.
+
+187
+00:11:32,925 --> 00:11:35,393
+- Je suis le président de...
+- DMT. Génial.
+
+188
+00:11:35,866 --> 00:11:37,539
+Vous savez donc qui je suis.
+
+189
+00:11:37,659 --> 00:11:39,461
+Je connais vos travaux.
+
+190
+00:11:39,760 --> 00:11:40,868
+C'est quoi, DMT ?
+
+191
+00:11:40,988 --> 00:11:42,414
+Devlin Medical Technologies.
+
+192
+00:11:42,534 --> 00:11:44,743
+<i>Un contractant surtout
+financé par le gouvernement,</i>
+
+193
+00:11:44,910 --> 00:11:47,007
+et, malheureusement pour nous,
+ils fabriquent
+
+194
+00:11:47,127 --> 00:11:48,927
+nos transmetteurs sous-cutanés.
+
+195
+00:11:49,066 --> 00:11:50,345
+- Génial.
+- Ouais.
+
+196
+00:11:50,928 --> 00:11:52,803
+<i>Comment connaissez-vous
+mon existence ?</i>
+
+197
+00:11:52,931 --> 00:11:56,088
+Votre compagnie n'a que des informations
+privées sur des publications récentes
+
+198
+00:11:56,208 --> 00:11:57,902
+d'expériences menées
+par les militaires.
+
+199
+00:11:58,022 --> 00:12:01,071
+Non, plus précisément,
+ma compagnie a un accès limité
+
+200
+00:12:01,191 --> 00:12:04,100
+à des avancées extraterrestres
+dues au Programme Porte des Étoiles,
+
+201
+00:12:05,194 --> 00:12:08,778
+<i>et doit les intégrer dans
+des technologies médicales terriennes.</i>
+
+202
+00:12:10,051 --> 00:12:12,403
+- Vous ne pouvez pas savoir ça.
+- Non,
+
+203
+00:12:12,919 --> 00:12:14,367
+je n'y suis pas autorisé.
+
+204
+00:12:14,552 --> 00:12:16,250
+Mais après des années
+
+205
+00:12:16,370 --> 00:12:21,047
+d'être abasourdi des progrès militaires
+incessants et incroyables,
+
+206
+00:12:21,705 --> 00:12:23,660
+j'ai commencé à fouiller un peu.
+
+207
+00:12:24,174 --> 00:12:26,666
+J'ai donc découvert le SGC,
+
+208
+00:12:27,334 --> 00:12:28,370
+<i>Atlantis,</i>
+
+209
+00:12:29,065 --> 00:12:29,876
+<i>vous...</i>
+
+210
+00:12:31,550 --> 00:12:34,654
+Et c'est pourquoi nous surveillons
+les e-mails de votre famille depuis
+
+211
+00:12:34,908 --> 00:12:36,365
+un certain temps.
+
+212
+00:12:39,920 --> 00:12:41,221
+Que me voulez-vous ?
+
+213
+00:12:47,429 --> 00:12:48,766
+Je suis face à un mur
+
+214
+00:12:49,417 --> 00:12:50,796
+et j'ai besoin d'aide.
+
+215
+00:12:57,922 --> 00:12:59,628
+Ma fille, Sharon.
+
+216
+00:13:00,157 --> 00:13:01,318
+Quel est son problème ?
+
+217
+00:13:01,441 --> 00:13:04,052
+Elle souffre
+d'une leucémie lymphoïde aiguë.
+
+218
+00:13:05,056 --> 00:13:06,304
+Vraiment désolé, mais...
+
+219
+00:13:06,424 --> 00:13:09,868
+Elle ne réagit pas
+à la chimiothérapie par induction...
+
+220
+00:13:10,645 --> 00:13:13,756
+ni à la Prednisone, la Vincristine,
+l'irradiation crânienne...
+
+221
+00:13:13,876 --> 00:13:16,164
+Je ne connais même pas ça.
+Comment je pourrais aider ?
+
+222
+00:13:16,284 --> 00:13:19,687
+Les meilleurs docteurs lui ont dit
+de commencer à faire ses adieux,
+
+223
+00:13:20,861 --> 00:13:22,241
+<i>à organiser ses funérailles...</i>
+
+224
+00:13:22,361 --> 00:13:26,361
+C'est ce que je dis. Aucun de nous
+n'est docteur. J'ai un PhD, 2, même...
+
+225
+00:13:26,486 --> 00:13:29,474
+Le dernier projet mené
+par ma compagnie pour le SGC
+
+226
+00:13:29,594 --> 00:13:32,138
+concerne l'utilisation
+de progrès en nanotechnologie
+
+227
+00:13:32,258 --> 00:13:33,926
+<i>pour soigner blessures et maladies.</i>
+
+228
+00:13:34,423 --> 00:13:36,443
+<i>- On avait presque un prototype.</i>
+- Un instant.
+
+229
+00:13:36,685 --> 00:13:40,050
+Il y a une semaine, on a injecté
+à Sharon les premières nanites.
+
+230
+00:13:40,361 --> 00:13:42,886
+Vous aviez à peine maîtrisé
+la fabrication. Je fais le codage.
+
+231
+00:13:43,009 --> 00:13:44,576
+Il faudra des mois ! C'est pas prêt !
+
+232
+00:13:44,798 --> 00:13:47,057
+Mon équipe pensait avoir
+débuggué le gros du codage.
+
+233
+00:13:47,177 --> 00:13:48,864
+"Débuggué"? Ce n'est pas si simple.
+
+234
+00:13:48,984 --> 00:13:50,556
+Maintenant, je le sais.
+
+235
+00:13:51,010 --> 00:13:53,111
+- Il y a un dysfonctionnement.
+- Oui, évidemment.
+
+236
+00:13:53,231 --> 00:13:55,551
+Et ce n'est pas seulement
+que ça ne marche pas, ça...
+
+237
+00:13:56,797 --> 00:13:59,199
+ça provoque en fait
+plus de problèmes que le cancer.
+
+238
+00:14:00,299 --> 00:14:02,028
+Son corps les rejette.
+
+239
+00:14:02,985 --> 00:14:05,213
+Quand j'ai intercepté
+votre correspondance avec Jeanie,
+
+240
+00:14:05,383 --> 00:14:08,808
+il me fallait désespérément quelqu'un
+connaissant le programme pour le fixer.
+
+241
+00:14:09,109 --> 00:14:10,977
+- Alors, Jeanie était juste l'appât.
+- Non.
+
+242
+00:14:11,335 --> 00:14:14,241
+À ce que j'ai vu, elle comprend
+mieux le code que vous.
+
+243
+00:14:14,361 --> 00:14:17,660
+C'est injuste de me juger sur quelques
+e-mails. Ils ne reflètent pas...
+
+244
+00:14:17,967 --> 00:14:20,512
+- C'est pas important.
+- Si on n'agit pas rapidement,
+
+245
+00:14:21,245 --> 00:14:22,759
+Sharon va mourir.
+
+246
+00:14:24,819 --> 00:14:27,994
+Rendez les nanites opérationnelles,
+et je vous laisserai partir.
+
+247
+00:14:28,986 --> 00:14:30,013
+Vraiment ?
+
+248
+00:14:30,548 --> 00:14:32,664
+- Absolument.
+- Et sinon ?
+
+249
+00:14:35,237 --> 00:14:38,324
+C'est exact, Monsieur.
+Ils ont dû neutraliser le transmetteur.
+
+250
+00:14:38,861 --> 00:14:40,951
+Et pour la piste que vous suiviez ?
+
+251
+00:14:41,071 --> 00:14:43,631
+Une impasse. C'est une petite
+chambre louée, avec un routeur
+
+252
+00:14:43,751 --> 00:14:45,595
+qui acheminait
+les données vers Singapour.
+
+253
+00:14:45,987 --> 00:14:48,054
+Qui sait où ça a pu
+être redirigé de là-bas.
+
+254
+00:14:48,174 --> 00:14:50,365
+Nos meilleurs informaticiens
+sont sur le coup.
+
+255
+00:14:50,485 --> 00:14:53,436
+On va examiner la paperasse, avec un peu
+de chance ça nous donnera une piste.
+
+256
+00:14:53,717 --> 00:14:56,307
+Et on analyse les caméras
+des routes et des banques du coin.
+
+257
+00:14:56,427 --> 00:14:58,337
+Des agents postés,
+l'interrogation des témoins.
+
+258
+00:14:58,457 --> 00:15:00,528
+La moitié de la police
+de Vancouver est sur le coup.
+
+259
+00:15:01,150 --> 00:15:02,684
+On va les avoir.
+
+260
+00:15:09,549 --> 00:15:11,174
+<i>- Elles ne communiquent pas.</i>
+- Quoi ?
+
+261
+00:15:11,294 --> 00:15:14,355
+Les nanites. Le problème vient de là,
+elles s'occupent des mêmes cellules,
+
+262
+00:15:14,475 --> 00:15:17,669
+en ignorent d'autres, et ont bouché
+partiellement au moins 3 artères...
+
+263
+00:15:18,042 --> 00:15:20,943
+<i>Quelque chose dans leur code
+les empêche de se comprendre.</i>
+
+264
+00:15:21,063 --> 00:15:21,865
+Génial.
+
+265
+00:15:22,724 --> 00:15:25,011
+- Tu m'écoutes au moins ?
+- Tu m'as perdu à "nanites".
+
+266
+00:15:25,213 --> 00:15:27,177
+Hé, l'idiot, on doit résoudre
+ce problème de code.
+
+267
+00:15:27,297 --> 00:15:29,403
+Non, ce qu'on doit faire,
+c'est foutre le camp d'ici.
+
+268
+00:15:29,523 --> 00:15:31,643
+Je sais, en résolvant
+le problème dans le code.
+
+269
+00:15:31,763 --> 00:15:34,012
+- Si jeune et si naïve.
+- Tu as une meilleure idée ?
+
+270
+00:15:34,132 --> 00:15:36,735
+Oui. Ils ont donné l'accès
+réseau à ces ordinateurs
+
+271
+00:15:36,933 --> 00:15:38,888
+pour qu'on puisse observer
+Sharon en temps réel.
+
+272
+00:15:39,008 --> 00:15:41,359
+Ce qui signifie que je peux
+aussi hacker le serveur central.
+
+273
+00:15:42,245 --> 00:15:43,549
+Et pour Sharon ?
+
+274
+00:15:43,673 --> 00:15:46,616
+- Et pour nous ?
+- On peut le faire, aider cette fille.
+
+275
+00:15:46,736 --> 00:15:48,858
+Et puis après ?
+Il va simplement nous laisser partir ?
+
+276
+00:15:49,414 --> 00:15:51,055
+Tu crois qu'il va abandonner sa vie,
+
+277
+00:15:51,175 --> 00:15:54,115
+perdre sa compagnie, aller en prison ?
+Tu crois qu'il sera d'accord avec ça ?
+
+278
+00:15:54,235 --> 00:15:56,773
+Il est désespéré.
+N'importe quel parent comprendrait...
+
+279
+00:15:56,893 --> 00:15:58,613
+Tu crois ça ?
+OK, imaginons une seconde
+
+280
+00:15:58,733 --> 00:16:01,798
+qu'on vive dans le monde magique
+des licornes, des magiciens
+
+281
+00:16:01,920 --> 00:16:04,814
+et des gens pleins de bonté que l'on
+peut croire sur parole. Supposons...
+
+282
+00:16:04,934 --> 00:16:07,035
+qu'il nous laisse partir si on la sauve.
+
+283
+00:16:07,181 --> 00:16:10,579
+Et si on échoue, hein ? Si elle meurt ?
+Tu crois qu'il sera toujours content ?
+
+284
+00:16:10,699 --> 00:16:13,016
+Tu penses qu'il nous laissera
+partir avec un "Oh, zut,
+
+285
+00:16:13,178 --> 00:16:15,300
+<i>on aura plus de chance
+la prochaine fois, Tiger" ?</i>
+
+286
+00:16:15,983 --> 00:16:16,983
+<i>Exactement.</i>
+
+287
+00:16:17,860 --> 00:16:21,623
+On doit s'échapper. J'ai bossé sur
+un code pour déverrouiller les portes.
+
+288
+00:16:23,511 --> 00:16:26,472
+- Tu es prête ?
+- Et après que tu aies ouvert la porte ?
+
+289
+00:16:26,922 --> 00:16:29,660
+J'ai mémorisé les plans du bâtiment
+à partir de cet ordinateur.
+
+290
+00:16:30,457 --> 00:16:31,284
+OK.
+
+291
+00:16:41,673 --> 00:16:42,550
+Allez.
+
+292
+00:16:48,341 --> 00:16:49,141
+Viens.
+
+293
+00:17:01,077 --> 00:17:03,533
+Tu as dit qu'il y avait
+une cage d'escaliers.
+
+294
+00:17:03,653 --> 00:17:05,276
+Il devrait y en avoir une.
+
+295
+00:17:05,396 --> 00:17:08,114
+OK. Attends, attends, attends.
+On doit repartir.
+
+296
+00:17:08,234 --> 00:17:10,940
+- Repartir ? Pourquoi ?
+- Parce que je me suis embrouillé.
+
+297
+00:17:11,060 --> 00:17:13,656
+On doit réessayer. J'ai peut-être
+mélangé nord et sud. Difficile à dire.
+
+298
+00:17:13,776 --> 00:17:16,051
+Je n'y crois pas, ma vie
+dépend de ton sens de l'orientation.
+
+299
+00:17:16,171 --> 00:17:17,467
+Il est excellent.
+
+300
+00:17:17,587 --> 00:17:20,560
+Tu te souviens du magasin, quand papa
+a dû appeler la police pour te trouver ?
+
+301
+00:17:20,682 --> 00:17:22,795
+- Il est immense !
+- Avec des plans tous les 7 mètres !
+
+302
+00:17:22,915 --> 00:17:25,070
+Ils sont trompeurs.
+Bon, allez. On doit y retourner.
+
+303
+00:17:25,190 --> 00:17:26,163
+Bordel.
+
+304
+00:17:39,710 --> 00:17:40,736
+Oh, merde.
+
+305
+00:17:42,956 --> 00:17:44,047
+Cours ! Cours !
+
+306
+00:18:13,140 --> 00:18:14,687
+Pourquoi avez-vous fait ça ?
+
+307
+00:18:15,967 --> 00:18:17,062
+Pourquoi...
+
+308
+00:18:19,490 --> 00:18:20,916
+Ma fille est mourante.
+
+309
+00:18:21,295 --> 00:18:23,957
+Vous nous avez kidnappés.
+Vous vous attendiez à quoi ?
+
+310
+00:18:24,077 --> 00:18:26,006
+Je n'aurais pas dû
+vous donner accès au réseau.
+
+311
+00:18:26,126 --> 00:18:28,097
+Ouais, erreur de débutant.
+
+312
+00:18:29,672 --> 00:18:32,881
+Vous ne voudrez jamais m'aider.
+N'est-ce pas ?
+
+313
+00:18:33,001 --> 00:18:35,274
+Vous nous tuerez de toute façon.
+Pourquoi on le ferait ?
+
+314
+00:18:35,394 --> 00:18:36,739
+Je vous ai donné ma parole.
+
+315
+00:18:36,859 --> 00:18:39,135
+Ce qui ne signifie
+absolument rien pour moi.
+
+316
+00:18:44,699 --> 00:18:45,929
+S'il vous plaît.
+
+317
+00:18:47,778 --> 00:18:49,719
+Ma femme est morte il y a 3 ans.
+
+318
+00:18:51,331 --> 00:18:53,140
+Je ne peux pas revivre ça.
+
+319
+00:18:53,526 --> 00:18:55,021
+<i>Sharon est tout ce que j'ai.</i>
+
+320
+00:18:56,190 --> 00:18:59,135
+- Vous pouvez la sauver.
+- C'est un programme expérimental.
+
+321
+00:18:59,255 --> 00:19:01,339
+Ça pourrait ne jamais marcher,
+tout ça pour rien.
+
+322
+00:19:01,462 --> 00:19:04,652
+Dans le pire des cas, je pensais
+avoir des semaines avec Sharon.
+
+323
+00:19:05,122 --> 00:19:08,051
+Là, si ça n'évolue pas, je serai
+chanceux d'avoir quelques jours.
+
+324
+00:19:08,171 --> 00:19:10,507
+Vous n'auriez jamais
+dû les lui injecter.
+
+325
+00:19:13,149 --> 00:19:13,949
+Non.
+
+326
+00:19:14,576 --> 00:19:15,364
+<i>Non.</i>
+
+327
+00:19:17,511 --> 00:19:18,672
+Ça marchera.
+
+328
+00:19:20,544 --> 00:19:21,892
+Ça doit marcher.
+
+329
+00:19:22,706 --> 00:19:25,201
+- Qu'est-ce que c'est ?
+- Une dose de nanites.
+
+330
+00:19:25,544 --> 00:19:27,460
+- Meredith...
+- Attendez, s'il vous plaît.
+
+331
+00:19:27,690 --> 00:19:29,197
+<i>- Non.</i>
+- Je suis désolé.
+
+332
+00:19:29,874 --> 00:19:31,442
+Vous avez besoin d'une motivation.
+
+333
+00:19:31,969 --> 00:19:32,723
+Non !
+
+334
+00:19:41,254 --> 00:19:42,377
+Fixez-les.
+
+335
+00:19:43,109 --> 00:19:45,099
+Ou elles mourront toutes les deux.
+
+336
+00:20:01,205 --> 00:20:02,231
+Ça va ?
+
+337
+00:20:03,502 --> 00:20:04,930
+Ouais, je vais bien.
+
+338
+00:20:06,575 --> 00:20:09,372
+T'avais raison. Elles ne communiquent
+pas. En fait, elles ne font rien
+
+339
+00:20:09,506 --> 00:20:11,494
+- de ce qu'elles devraient faire.
+- Ouais, je sais.
+
+340
+00:20:11,616 --> 00:20:14,090
+<i>Le truc, c'est que même si DMT
+a fabriqué ses propres nanites,</i>
+
+341
+00:20:14,662 --> 00:20:16,114
+le code, la programmation...
+
+342
+00:20:16,234 --> 00:20:18,468
+la majeure partie est copiée
+directement des Réplicateurs.
+
+343
+00:20:18,588 --> 00:20:20,866
+Et le problème,
+même si j'ai du mal à l'admettre,
+
+344
+00:20:20,986 --> 00:20:22,985
+c'est qu'on commence
+juste à comprendre ce code.
+
+345
+00:20:23,105 --> 00:20:25,539
+Le Wraith avec qui on a travaillé
+nous a aidés à progresser...
+
+346
+00:20:25,659 --> 00:20:27,409
+Attends, tu travailles avec un Wraith ?
+
+347
+00:20:27,529 --> 00:20:30,627
+Ouais, c'est une longue histoire.
+Ce que j'essaie de dire, c'est que
+
+348
+00:20:30,747 --> 00:20:34,800
+ce programme qu'on développe
+est conçu pour les limiter...
+
+349
+00:20:34,920 --> 00:20:37,736
+précisément afin d'en garder
+le contrôle. À tel point qu'elles...
+
+350
+00:20:37,856 --> 00:20:40,578
+- Sont complètement inefficaces.
+- Comme si on les avait ligotées.
+
+351
+00:20:40,698 --> 00:20:44,118
+- Donc il faut qu'on les détache.
+- Exact. Elles ne peuvent se répliquer.
+
+352
+00:20:44,546 --> 00:20:47,487
+Techniquement, en les libérant,
+on pourrait régler tous nos problèmes.
+
+353
+00:20:47,607 --> 00:20:48,378
+OK,
+
+354
+00:20:48,879 --> 00:20:52,267
+ça ne devrait pas être trop dur. Changer
+2000, peut-être 3000 lignes de code.
+
+355
+00:20:52,419 --> 00:20:54,272
+- Ouais... fastoche.
+- Ouais.
+
+356
+00:20:57,610 --> 00:21:01,029
+- Écoute, je suis vraiment désolé...
+- Je ne veux pas en parler là, OK ?
+
+357
+00:21:01,149 --> 00:21:03,201
+On doit coder ce programme
+et me l'uploader.
+
+358
+00:21:03,324 --> 00:21:05,077
+Je te crierai dessus plus tard,
+d'accord ?
+
+359
+00:21:20,931 --> 00:21:22,735
+On tourne en rond.
+
+360
+00:21:23,323 --> 00:21:25,305
+Je ne comprends même pas ce qu'on fait.
+
+361
+00:21:26,275 --> 00:21:28,585
+On essaie d'associer les compagnies.
+
+362
+00:21:29,588 --> 00:21:31,895
+La compagnie qui a loué l'espace
+pour le routeur internet
+
+363
+00:21:32,015 --> 00:21:34,784
+appartenait à une autre compagnie,
+possédée par une autre, et une autre.
+
+364
+00:21:34,904 --> 00:21:37,165
+On essaie de lier la compagnie
+qui surveillait l'ordinateur
+
+365
+00:21:37,285 --> 00:21:39,147
+<i>de Jeanie à une autre
+qui voudrait l'enlever.</i>
+
+366
+00:21:39,270 --> 00:21:41,990
+Elle doit appartenir à la Confrérie.
+Mais on a pas encore trouvé le lien.
+
+367
+00:21:42,141 --> 00:21:44,103
+<i>Ils en savaient assez
+pour couper le transmetteur.</i>
+
+368
+00:21:44,223 --> 00:21:46,670
+Exactement. Le fait qu'ils savaient ça
+nous dit qu'ils sont
+
+369
+00:21:46,790 --> 00:21:49,655
+intimes avec les opérations
+du programme Porte des Étoiles.
+
+370
+00:21:49,775 --> 00:21:51,346
+À nouveau, la Confrérie.
+
+371
+00:21:52,393 --> 00:21:55,305
+On devrait élargir le spectre.
+Ce n'est peut-être pas eux.
+
+372
+00:21:56,311 --> 00:21:57,838
+D'autres groupes ennemis connus ?
+
+373
+00:21:58,307 --> 00:22:00,623
+- Ou un allié.
+- Les Chinois ? Les Russes ?
+
+374
+00:22:00,743 --> 00:22:04,021
+McKay a dit qu'il travaillait sur un
+programme désactivant les Réplicateurs.
+
+375
+00:22:04,141 --> 00:22:06,304
+Travaillait-il en tandem
+avec quelqu'un sur Terre ?
+
+376
+00:22:06,424 --> 00:22:08,238
+Non, pas que je sache.
+
+377
+00:22:08,370 --> 00:22:10,988
+Attendez. Il y a une compagnie
+médicale qui travaillait sur
+
+378
+00:22:11,108 --> 00:22:13,763
+d'autres programmes liés aux nanites
+mais sans lien direct avec lui.
+
+379
+00:22:13,883 --> 00:22:15,154
+Quelle compagnie ?
+
+380
+00:22:15,731 --> 00:22:18,431
+Je ne sais plus.
+Donnez-moi une minute. Je vais chercher.
+
+381
+00:22:20,966 --> 00:22:23,413
+- Où est-ce que tu vas ?
+- Je vais manger.
+
+382
+00:22:23,533 --> 00:22:26,840
+Si tu as oublié, McKay
+et sa soeur sont toujours manquants.
+
+383
+00:22:27,558 --> 00:22:31,142
+Quoi ? Tu veux que je t'aide à disséquer
+des structures de compagnies ?
+
+384
+00:22:31,443 --> 00:22:33,400
+Quand on aura quelqu'un
+à mettre en joue,
+
+385
+00:22:33,520 --> 00:22:34,764
+fais-le moi savoir.
+
+386
+00:22:34,914 --> 00:22:36,157
+Soit.
+
+387
+00:22:40,832 --> 00:22:42,506
+Ça fait quoi ? Quelques heures ?
+
+388
+00:22:42,720 --> 00:22:45,211
+- Quelque chose du genre.
+- Et alors ? Pas de nouvelles ?
+
+389
+00:22:45,331 --> 00:22:47,853
+D'accord, on est des otages
+et tout ça, mais, allez...
+
+390
+00:22:48,071 --> 00:22:49,834
+Ça m'a pris 10 secondes
+pour te l'uploader.
+
+391
+00:22:49,985 --> 00:22:52,554
+- Qu'est-ce qui prend autant de temps ?
+- Ça prend du temps pour savoir
+
+392
+00:22:52,677 --> 00:22:54,756
+si notre patch fait combattre
+le cancer aux nanites.
+
+393
+00:22:54,876 --> 00:22:57,248
+En les activant chez Weir,
+ça l'a guérie quasi instantanément.
+
+394
+00:22:57,368 --> 00:23:00,102
+Là, les cellules réplicateurs
+ont remplacé les cellules défectueuses.
+
+395
+00:23:00,238 --> 00:23:01,605
+Les nôtres doivent les guérir.
+
+396
+00:23:01,728 --> 00:23:04,581
+Tout de même, ils auraient dû constater
+des changements massifs.
+
+397
+00:23:04,701 --> 00:23:07,957
+- Pourquoi ne nous disent-ils rien ?
+- Assis ! Tu me rends dingue.
+
+398
+00:23:18,583 --> 00:23:21,056
+- Alors, tu vas épouser cette Katie ?
+- Quoi ?
+
+399
+00:23:21,176 --> 00:23:23,314
+<i>- Tu m'as comprise.</i>
+- Comment en es-tu arrivée là ?
+
+400
+00:23:23,434 --> 00:23:26,212
+J'essaie d'oublier que j'ai
+des robots minuscules dans mes veines,
+
+401
+00:23:26,332 --> 00:23:29,235
+car tu as besoin d'aide pour finir
+tes devoirs. Tu préfères parler de ça ?
+
+402
+00:23:29,360 --> 00:23:30,233
+Pas vraiment.
+
+403
+00:23:30,383 --> 00:23:32,202
+<i>- Alors, tu vas l'épouser ?</i>
+- Je ne sais pas.
+
+404
+00:23:32,325 --> 00:23:34,035
+<i>Vous sortez ensemble
+depuis plus d'un an.</i>
+
+405
+00:23:34,155 --> 00:23:35,363
+Je sais, merci.
+
+406
+00:23:35,483 --> 00:23:38,192
+- Tu penses trouver quelqu'un de mieux ?
+- Non, ce n'est pas ça.
+
+407
+00:23:38,312 --> 00:23:39,788
+Parce que tu ne trouveras pas.
+
+408
+00:23:40,065 --> 00:23:40,880
+Attends.
+
+409
+00:23:41,042 --> 00:23:44,084
+Le fait que tu aies trouvé une jolie
+fille qui veuille bien faire avec tous
+
+410
+00:23:44,204 --> 00:23:45,748
+tes petits défauts tient du miracle.
+
+411
+00:23:45,868 --> 00:23:47,589
+- Écoute.
+<i>- En plus, physiquement, tu...</i>
+
+412
+00:23:48,057 --> 00:23:49,601
+Comment dire ?
+
+413
+00:23:49,721 --> 00:23:51,211
+Tu n'es pas John Sheppard.
+
+414
+00:23:51,805 --> 00:23:52,633
+OK.
+
+415
+00:23:53,530 --> 00:23:57,063
+Retournons à tout est de ma faute,
+je crois que je préférais ça.
+
+416
+00:23:57,183 --> 00:23:58,052
+Venez.
+
+417
+00:24:03,836 --> 00:24:05,175
+Entrez, entrez.
+
+418
+00:24:05,743 --> 00:24:09,385
+Sharon, je veux te présenter
+Rodney McKay et Jeanie Miller.
+
+419
+00:24:10,057 --> 00:24:11,657
+Ce sont eux qui t'ont sauvée.
+
+420
+00:24:12,701 --> 00:24:14,464
+Ravie de vous rencontrer.
+
+421
+00:24:14,870 --> 00:24:16,115
+Merci beaucoup.
+
+422
+00:24:16,320 --> 00:24:17,540
+Comment tu te sens ?
+
+423
+00:24:17,714 --> 00:24:19,357
+Mieux que depuis des années.
+
+424
+00:24:19,477 --> 00:24:20,500
+<i>Et le cancer ?</i>
+
+425
+00:24:21,056 --> 00:24:22,761
+On n'en trouve plus trace.
+
+426
+00:24:29,429 --> 00:24:32,396
+<i>Et je suis nerveux, normal ? Parce que
+c'est à un amiral que je m'adresse,</i>
+
+427
+00:24:32,516 --> 00:24:33,801
+<i>alors je lui dis,</i>
+
+428
+00:24:34,182 --> 00:24:38,966
+<i>"Monsieur, si vous utilisez
+un formulaire I37 au lieu d'un N1,</i>
+
+429
+00:24:39,102 --> 00:24:43,282
+ça vous évite d'utiliser quelque chose
+comme, une centaine de G72,"
+
+430
+00:24:43,979 --> 00:24:45,753
+puis il y a ce silence.
+
+431
+00:24:47,617 --> 00:24:49,343
+Personne ne dit rien pendant,
+
+432
+00:24:49,497 --> 00:24:51,437
+je ne sais pas, ça m'a paru des minutes,
+
+433
+00:24:51,902 --> 00:24:55,346
+et finalement, l'amiral regarde
+Landry et dit : "Hank,
+
+434
+00:24:56,054 --> 00:24:58,020
+votre garçon n'a pas seulement raison,
+
+435
+00:24:58,464 --> 00:25:02,753
+mais je crois qu'on a trouvé un nouvel
+animateur pour les soirées bingo."
+
+436
+00:25:03,867 --> 00:25:04,763
+Bingo !
+
+437
+00:25:05,115 --> 00:25:06,117
+Mon Dieu !
+
+438
+00:25:06,636 --> 00:25:07,647
+<i>"I37 !"</i>
+
+439
+00:25:07,825 --> 00:25:08,713
+<i>"N1 !"</i>
+
+440
+00:25:08,850 --> 00:25:10,592
+"G72 !" Bingo !
+
+441
+00:25:13,667 --> 00:25:16,072
+Qui a dit que l'amiral n'avait pas
+le sens de l'humour ?
+
+442
+00:25:17,769 --> 00:25:20,451
+Et puis il y avait aussi cette fois
+où le général O'Neill et moi,
+
+443
+00:25:20,571 --> 00:25:23,040
+- nous étions...
+- Dis-moi que tu as quelque chose.
+
+444
+00:25:23,591 --> 00:25:25,969
+- Devlin Medical Technologies.
+- Ce qui veut dire ?
+
+445
+00:25:26,089 --> 00:25:28,713
+- On a quelqu'un à mettre en joue.
+- Cool.
+
+446
+00:25:38,370 --> 00:25:40,721
+- Qu'allez-vous faire de nous ?
+- Hé !
+
+447
+00:25:41,391 --> 00:25:42,842
+C'est une célébration.
+
+448
+00:25:42,965 --> 00:25:45,511
+Elle a toujours des nanites en elle,
+et nous sommes toujours otages,
+
+449
+00:25:45,631 --> 00:25:48,132
+alors, vous m'excuserez
+si je passe le champagne.
+
+450
+00:25:48,353 --> 00:25:50,089
+Je suis un homme de parole.
+
+451
+00:25:51,366 --> 00:25:53,872
+- Je vais vous laisser partir.
+- Quoi, juste comme ça ?
+
+452
+00:25:54,400 --> 00:25:55,406
+Juste comme ça.
+
+453
+00:25:55,526 --> 00:25:58,048
+- Mais vous serez arrêté.
+- Ça n'aide pas.
+
+454
+00:25:58,510 --> 00:25:59,510
+Je sais.
+
+455
+00:26:01,240 --> 00:26:04,955
+J'ai su que j'irais en prison au
+moment où j'ai décidé de vous kidnapper.
+
+456
+00:26:05,805 --> 00:26:06,956
+Je m'en fiche.
+
+457
+00:26:07,867 --> 00:26:09,471
+Ma fille vivra.
+
+458
+00:26:10,302 --> 00:26:11,781
+C'est tout ce qui compte.
+
+459
+00:26:12,792 --> 00:26:15,784
+- Je n'espère pas que vous compreniez.
+- En effet, je ne comprends pas.
+
+460
+00:26:17,169 --> 00:26:19,477
+Nous avons réalisé
+un miracle aujourd'hui.
+
+461
+00:26:19,858 --> 00:26:21,723
+Et pas seulement pour ma fille.
+
+462
+00:26:22,360 --> 00:26:24,819
+<i>Nous avons peut-être guéri le cancer.</i>
+
+463
+00:26:25,048 --> 00:26:26,359
+<i>Donc, s'il vous plaît,</i>
+
+464
+00:26:26,967 --> 00:26:27,967
+un toast.
+
+465
+00:26:31,300 --> 00:26:32,359
+Au futur.
+
+466
+00:26:34,608 --> 00:26:36,525
+Nous avons un problème, Monsieur.
+
+467
+00:26:41,336 --> 00:26:42,346
+Dégagez !
+
+468
+00:26:45,172 --> 00:26:46,764
+Rien. Je réessaie.
+
+469
+00:26:47,732 --> 00:26:48,764
+<i>Chargez.</i>
+
+470
+00:26:50,295 --> 00:26:51,295
+Dégagez !
+
+471
+00:26:58,856 --> 00:26:59,901
+Débranchez-la.
+
+472
+00:27:06,982 --> 00:27:08,196
+Je suis désolé.
+
+473
+00:27:10,606 --> 00:27:11,907
+Elle allait bien.
+
+474
+00:27:13,139 --> 00:27:15,225
+- Je ne comprends pas.
+- Son coeur s'est juste arrêté.
+
+475
+00:27:15,345 --> 00:27:17,083
+On n'a pas pu le relancer.
+
+476
+00:27:17,325 --> 00:27:19,036
+Je ne sais pas ce qui s'est passé.
+
+477
+00:27:30,216 --> 00:27:32,264
+- On doit partir d'ici.
+- Je sais.
+
+478
+00:27:32,384 --> 00:27:33,932
+Je dois te ramener au SGC.
+
+479
+00:27:34,052 --> 00:27:36,418
+- Tes nanites ont le même codage.
+- Je sais.
+
+480
+00:27:36,538 --> 00:27:40,023
+OK. Je vais essayer de distraire
+le garde, tu dois partir. Jeanie ?
+
+481
+00:27:40,143 --> 00:27:41,894
+Qu'est-ce que tu fais ?
+
+482
+00:27:44,563 --> 00:27:45,775
+Je suis désolée.
+
+483
+00:27:48,044 --> 00:27:49,829
+Mon frère et moi devons partir.
+
+484
+00:27:50,152 --> 00:27:53,173
+Nous avons besoin d'un plus grand
+labo avec plus de scientifiques.
+
+485
+00:27:53,982 --> 00:27:55,220
+S'il vous plaît.
+
+486
+00:27:58,071 --> 00:27:59,675
+Je ne sais pas quoi faire.
+
+487
+00:28:00,195 --> 00:28:03,601
+Je ne peux pas imaginer
+ce que vous traversez.
+
+488
+00:28:03,721 --> 00:28:06,514
+Je sais que vous êtes en colère.
+Je le serais aussi, mais...
+
+489
+00:28:07,260 --> 00:28:09,104
+si on ne me soigne pas...
+
+490
+00:28:10,450 --> 00:28:13,068
+<i>Écoutez, j'ai une famille,
+un mari, une fille.</i>
+
+491
+00:28:13,230 --> 00:28:14,432
+S'il vous plaît.
+
+492
+00:28:15,160 --> 00:28:17,698
+J'ai besoin d'aide,
+mais autre que celle d'ici.
+
+493
+00:28:20,043 --> 00:28:21,187
+Je suis désolé.
+
+494
+00:28:33,885 --> 00:28:36,674
+- Vous disiez qu'elle était morte.
+- Elle l'était.
+
+495
+00:28:51,065 --> 00:28:52,611
+Les nanites sont encore actives.
+
+496
+00:28:52,731 --> 00:28:55,073
+Une fois le cancer vaincu,
+elles doivent se couper seules.
+
+497
+00:28:55,193 --> 00:28:58,347
+On n'a jamais testé sur un sujet vivant,
+ça n'a que peu marché en simulation.
+
+498
+00:28:58,467 --> 00:29:01,419
+Écoute, je te l'ai dit, ce programme
+n'est vraiment pas prêt pour les essais.
+
+499
+00:29:01,556 --> 00:29:02,925
+Attendez, vous dites
+
+500
+00:29:03,045 --> 00:29:04,659
+que les nanites l'ont ramenée ?
+
+501
+00:29:04,779 --> 00:29:06,288
+C'est la seule explication.
+
+502
+00:29:06,450 --> 00:29:09,833
+Alors, pourquoi est-elle morte ? Elles
+n'auraient pas dû la garder en vie ?
+
+503
+00:29:09,995 --> 00:29:11,335
+- Il a raison.
+- Attends.
+
+504
+00:29:11,472 --> 00:29:14,213
+Le docteur a dit que son coeur s'est
+arrêté ? Visiblement sans raison ?
+
+505
+00:29:14,375 --> 00:29:15,372
+Exact.
+
+506
+00:29:15,563 --> 00:29:17,876
+A-t-elle des soucis cardiaques ?
+Sans lien avec le cancer ?
+
+507
+00:29:17,999 --> 00:29:20,773
+Oui, elle a un problème
+de régurgitation mitrale.
+
+508
+00:29:21,188 --> 00:29:22,521
+<i>Un souffle au coeur.</i>
+
+509
+00:29:22,780 --> 00:29:25,108
+- Quoi, tu crois...
+- Nous avons étendu les paramètres.
+
+510
+00:29:25,228 --> 00:29:27,480
+Elles n'étaient pas programmées
+que pour soigner le cancer.
+
+511
+00:29:27,617 --> 00:29:29,812
+Après la leucémie,
+elles sont allées vers le coeur.
+
+512
+00:29:29,974 --> 00:29:32,346
+<i>- Le meilleur moyen de le soigner...</i>
+- Le couper.
+
+513
+00:29:32,469 --> 00:29:34,569
+<i>Ça n'a aucun sens.
+Arrêter le coeur et priver</i>
+
+514
+00:29:34,692 --> 00:29:37,260
+le cerveau d'oxygène
+peut causer de sévères lésions.
+
+515
+00:29:37,384 --> 00:29:40,521
+- Des lésions qu'elles peuvent soigner.
+- Elles peuvent réparer les tissus, mais
+
+516
+00:29:40,658 --> 00:29:43,121
+<i>le patient perdrait la mémoire,
+la parole,</i>
+
+517
+00:29:43,241 --> 00:29:45,695
+- la conscience de soi.
+- Elles s'en moquent.
+
+518
+00:29:45,815 --> 00:29:48,982
+Écoute, on les a créées pour soigner
+le corps des maladies physiques.
+
+519
+00:29:49,102 --> 00:29:51,276
+Préserver la conscience
+n'est pas dans leurs directives.
+
+520
+00:29:51,399 --> 00:29:52,401
+<i>Donc...</i>
+
+521
+00:29:53,247 --> 00:29:55,629
+Elle va rester dans cet état végétatif ?
+
+522
+00:29:56,230 --> 00:29:58,694
+Techniquement, son cerveau va très bien.
+
+523
+00:29:58,814 --> 00:30:00,472
+C'est comme si on l'avait
+
+524
+00:30:00,759 --> 00:30:02,344
+remise à zéro, pour ainsi dire.
+
+525
+00:30:03,448 --> 00:30:06,829
+Meredith. Et moi ?
+Je n'ai pas de cancer.
+
+526
+00:30:06,965 --> 00:30:08,958
+Elles vont chercher et foncer vers...
+
+527
+00:30:09,078 --> 00:30:10,428
+Ton épilepsie.
+
+528
+00:30:10,890 --> 00:30:12,354
+Je ne veux pas mourir.
+
+529
+00:30:12,516 --> 00:30:14,398
+OK, la première chose à faire est de...
+
+530
+00:30:20,149 --> 00:30:21,393
+- Ça va ?
+<i>- Comment ?</i>
+
+531
+00:30:21,516 --> 00:30:23,907
+Jeanie doit aller au SGC de suite !
+Le Daedalus est en orbite ?
+
+532
+00:30:24,069 --> 00:30:25,951
+De rien. C'était un sauvetage audacieux.
+
+533
+00:30:26,113 --> 00:30:28,829
+Merci, mais rien n'est réglé.
+On doit aller au SGC tout de suite !
+
+534
+00:30:30,373 --> 00:30:31,835
+Daedalus, ici Sheppard.
+
+535
+00:30:31,958 --> 00:30:33,188
+On doit monter.
+
+536
+00:30:43,001 --> 00:30:46,536
+OK, j'ai plongé Jeanie dans le coma
+et je lui ai cassé les jambes.
+
+537
+00:30:46,700 --> 00:30:47,807
+Vous quoi ?
+
+538
+00:30:48,217 --> 00:30:49,666
+Il faut ralentir les nanites.
+
+539
+00:30:49,789 --> 00:30:51,904
+On peut gagner 10 heures, au moins.
+
+540
+00:30:52,024 --> 00:30:53,822
+Tu lui as cassé les jambes ?
+
+541
+00:30:53,942 --> 00:30:55,286
+Pourquoi pas une maladie ?
+
+542
+00:30:55,406 --> 00:30:57,316
+Il fallait un traumatisme
+immédiat et important.
+
+543
+00:30:57,478 --> 00:30:59,759
+Et si on les coupe avant
+qu'elle soit soignée,
+
+544
+00:30:59,879 --> 00:31:01,361
+elle n'a que quelques os cassés.
+
+545
+00:31:01,523 --> 00:31:03,412
+Au lieu d'une maladie à combattre seule.
+
+546
+00:31:03,532 --> 00:31:06,575
+Oui. Je suis presque sûr qu'on ne peut
+pas continuer. Tôt ou tard,
+
+547
+00:31:06,737 --> 00:31:08,497
+les nanites abandonneront ses os cassés
+
+548
+00:31:08,617 --> 00:31:10,524
+pour son cerveau,
+donc on doit aller vite.
+
+549
+00:31:10,644 --> 00:31:12,818
+Et lui envoyer
+une impulsion électromagnétique ?
+
+550
+00:31:12,938 --> 00:31:15,978
+Ces nanites ont été créées pour résister
+aux fluctuations électromagnétiques.
+
+551
+00:31:16,115 --> 00:31:18,106
+- Génial.
+- Donc on a 10 heures pour trouver
+
+552
+00:31:18,226 --> 00:31:20,464
+- un programme pour couper les nanites ?
+- Exact.
+
+553
+00:31:21,088 --> 00:31:22,379
+Quel est le plan ?
+
+554
+00:31:22,839 --> 00:31:25,154
+Même si c'est embarrassant à dire...
+
+555
+00:31:25,810 --> 00:31:27,095
+j'ai besoin d'aide.
+
+556
+00:31:31,427 --> 00:31:32,838
+C'était une mauvaise idée.
+
+557
+00:31:32,958 --> 00:31:35,226
+Ouais, mais c'est la seule que j'ai eue.
+
+558
+00:31:49,768 --> 00:31:51,955
+Pourquoi m'avoir amené ici ?
+
+559
+00:31:55,181 --> 00:31:57,834
+<i>Écoutez, vous comprenez mieux
+que quiconque le code réplicateur.</i>
+
+560
+00:31:57,957 --> 00:31:59,795
+<i>Si on doit faire vite, alors</i>
+
+561
+00:32:00,047 --> 00:32:01,372
+on a besoin de votre aide.
+
+562
+00:32:04,467 --> 00:32:06,636
+Qu'en avez-vous à faire ?
+On va vous tuer de toute façon.
+
+563
+00:32:06,756 --> 00:32:08,245
+C'est ce que vous pensez ?
+
+564
+00:32:10,029 --> 00:32:12,051
+OK. Donc, la motivation...
+
+565
+00:32:13,596 --> 00:32:15,894
+D'abord, on n'a
+aucun intérêt à vous tuer.
+
+566
+00:32:16,287 --> 00:32:18,312
+Vous vous en êtes sans doute
+déjà aperçu, mais
+
+567
+00:32:18,432 --> 00:32:20,014
+on doit vous garder, parce que
+
+568
+00:32:20,134 --> 00:32:22,991
+vous en savez trop sur Atlantis. Sauf si
+vous prouvez qu'on peut vous croire...
+
+569
+00:32:23,160 --> 00:32:25,751
+<i>Et il en faudrait beaucoup
+pour le prouver.</i>
+
+570
+00:32:27,474 --> 00:32:28,353
+Exact.
+
+571
+00:32:29,157 --> 00:32:31,748
+Ouais, je pense
+que je n'y croirais pas non plus.
+
+572
+00:32:35,807 --> 00:32:37,082
+Vous avez des proches ?
+
+573
+00:32:40,728 --> 00:32:44,063
+Les Wraith ont des frères et soeurs ?
+Je ne sais pas comment ça marche...
+
+574
+00:32:46,313 --> 00:32:47,926
+Mais chez nous, chez
+
+575
+00:32:48,088 --> 00:32:49,128
+les miens,
+
+576
+00:32:50,343 --> 00:32:52,163
+ces liens comptent beaucoup.
+
+577
+00:32:54,746 --> 00:32:56,380
+Ma soeur a des problèmes, et
+
+578
+00:32:56,898 --> 00:32:58,746
+c'est plus ou moins de ma faute.
+
+579
+00:32:59,810 --> 00:33:02,024
+Vous pouvez nous aider.
+Vous pouvez la sauver.
+
+580
+00:33:07,011 --> 00:33:09,273
+Ça ne signifie rien
+pour vous, n'est-ce pas ?
+
+581
+00:33:10,436 --> 00:33:13,464
+Je crois que ça ne compterait pas
+pour moi non plus, à votre place.
+
+582
+00:33:20,100 --> 00:33:21,370
+Nous savons tous les deux
+
+583
+00:33:21,493 --> 00:33:23,968
+que si on trouve comment
+éteindre ces nanites terriennes,
+
+584
+00:33:24,088 --> 00:33:26,423
+on ferait un grand pas vers
+l'extinction des Réplicateurs.
+
+585
+00:33:27,448 --> 00:33:29,056
+Oui, vous avez perdu votre ruche.
+
+586
+00:33:29,176 --> 00:33:32,413
+Je ne sais pas à quel point
+ça a pu être horrible pour vous,
+
+587
+00:33:32,949 --> 00:33:35,765
+mais sachant qu'ils sont toujours là,
+que vous seul pouvez régler ça,
+
+588
+00:33:35,885 --> 00:33:37,635
+ça doit vous rendre fou.
+
+589
+00:33:39,699 --> 00:33:41,265
+Alors, ne le faites pas pour moi,
+
+590
+00:33:41,525 --> 00:33:43,384
+ni pour ma soeur...
+
+591
+00:33:44,073 --> 00:33:45,502
+Faites-le pour vous.
+
+592
+00:33:46,227 --> 00:33:48,249
+Faites-le, car vous savez
+que vous le pouvez,
+
+593
+00:33:48,372 --> 00:33:51,782
+et que vous savez que ça aidera à
+détruire les Réplicateurs à tout jamais.
+
+594
+00:33:53,557 --> 00:33:54,873
+<i>Vous en dites quoi ?</i>
+
+595
+00:34:02,072 --> 00:34:03,072
+Merci.
+
+596
+00:34:45,497 --> 00:34:48,437
+OK, il reste quelques bugs
+à régler, mais je pense qu'on approche.
+
+597
+00:34:48,574 --> 00:34:49,443
+On ?
+
+598
+00:34:49,696 --> 00:34:53,564
+Hé, j'ai aidé. Maintenant, si
+je peux suggérer quelques... cibles...
+
+599
+00:34:54,753 --> 00:34:55,997
+Vous allez bien ?
+
+600
+00:34:57,623 --> 00:34:58,531
+Non.
+
+601
+00:35:03,869 --> 00:35:05,063
+<i>Et s'il fait semblant ?</i>
+
+602
+00:35:05,388 --> 00:35:07,411
+Il fait peut-être ça juste
+pour qu'on le nourrisse.
+
+603
+00:35:07,531 --> 00:35:08,567
+Non, je le crois.
+
+604
+00:35:08,729 --> 00:35:11,309
+Il ne peut pas finir le code
+sans se nourrir.
+
+605
+00:35:11,563 --> 00:35:13,312
+Je comprends ce qu'il fait, mais
+
+606
+00:35:13,435 --> 00:35:15,452
+il est bien plus doué que moi
+pour l'implémenter.
+
+607
+00:35:15,572 --> 00:35:17,332
+Peut être avec
+quelques semaines, mais
+
+608
+00:35:17,455 --> 00:35:19,159
+lui seul peut le faire
+en une journée.
+
+609
+00:35:19,291 --> 00:35:21,683
+Je ne sais pas quoi dire,
+mais le NID ne nous fournira pas
+
+610
+00:35:21,806 --> 00:35:23,540
+un humain pour le nourrir.
+
+611
+00:35:24,010 --> 00:35:25,023
+Je sais.
+
+612
+00:35:27,241 --> 00:35:28,526
+Ça doit être moi.
+
+613
+00:35:29,196 --> 00:35:30,072
+Quoi ?
+
+614
+00:35:32,011 --> 00:35:33,915
+Je veux qu'il se nourrisse de moi.
+
+615
+00:35:38,227 --> 00:35:39,306
+Tu veux quoi ?
+
+616
+00:35:39,468 --> 00:35:41,728
+Laisse-le se nourrir de moi,
+retrouver ses forces,
+
+617
+00:35:41,854 --> 00:35:44,095
+pour qu'il finisse
+le code et sauve Jeanie.
+
+618
+00:35:44,215 --> 00:35:46,677
+Et après ?
+On le forcera à te rendre ta vie ?
+
+619
+00:35:46,797 --> 00:35:48,855
+- Il ne le fera pas.
+- Sharon est morte.
+
+620
+00:35:49,507 --> 00:35:50,860
+Il y a une heure et demie.
+
+621
+00:35:51,727 --> 00:35:54,202
+Je ne comprend pas. Comment ?
+Je croyais que les nanites allaient...
+
+622
+00:35:54,325 --> 00:35:56,329
+Cette fois,
+pas de problème avec le programme.
+
+623
+00:35:56,457 --> 00:35:58,319
+C'était un défaut de fabrication.
+
+624
+00:35:58,452 --> 00:36:00,452
+Écoute, selon Layman,
+
+625
+00:36:00,572 --> 00:36:03,928
+les nanites ont manqué de puissance
+pendant qu'elles réparaient ses artères.
+
+626
+00:36:04,100 --> 00:36:07,083
+Elle a fait une hémorragie interne.
+On n'a rien pu faire.
+
+627
+00:36:09,476 --> 00:36:11,478
+Je ne peux pas perdre ma soeur, John.
+
+628
+00:36:12,066 --> 00:36:14,299
+Comment expliquer
+ça à son mari ? À son enfant ?
+
+629
+00:36:15,038 --> 00:36:16,384
+Ce Wraith te tuera.
+
+630
+00:36:17,335 --> 00:36:19,596
+- C'est à moi de choisir.
+- Non.
+
+631
+00:36:20,290 --> 00:36:23,972
+Tu es un membre inestimable de
+mon équipe, et tu es sous mes ordres.
+
+632
+00:36:24,123 --> 00:36:25,727
+On parle chaîne de commandement ?
+
+633
+00:36:25,941 --> 00:36:28,919
+- Tu ne le feras pas.
+- Elle est ici à cause de moi.
+
+634
+00:36:29,917 --> 00:36:33,033
+Je ne peux pas résoudre le problème,
+mais je peux aider quelqu'un qui peut.
+
+635
+00:36:33,635 --> 00:36:35,927
+Écoute, la décision était dure
+à prendre.
+
+636
+00:36:36,450 --> 00:36:38,323
+- Je ne peux pas.
+- S'il te plaît.
+
+637
+00:36:43,493 --> 00:36:44,621
+Je suis désolé.
+
+638
+00:36:51,555 --> 00:36:54,803
+On analyse les données.
+On ne comprend pas ce qui s'est passé.
+
+639
+00:36:56,181 --> 00:36:57,292
+Je suis désolé.
+
+640
+00:37:00,655 --> 00:37:01,746
+Et Jeanie ?
+
+641
+00:37:01,980 --> 00:37:03,648
+Elle ne s'en sortira pas.
+
+642
+00:37:06,505 --> 00:37:08,177
+On est allés chercher un...
+
+643
+00:37:09,347 --> 00:37:12,312
+spécialiste de la galaxie de Pégase.
+
+644
+00:37:13,161 --> 00:37:15,430
+Un membre d'une race
+ennemie appelée les Wraith.
+
+645
+00:37:16,013 --> 00:37:18,318
+Peu importe comment,
+McKay l'a convaincu de
+
+646
+00:37:19,229 --> 00:37:22,318
+créer un programme pour éteindre
+les nanites de Jeanie.
+
+647
+00:37:23,548 --> 00:37:24,414
+Et ?
+
+648
+00:37:24,817 --> 00:37:26,938
+Il était proche, vraiment proche, mais
+
+649
+00:37:27,184 --> 00:37:29,794
+il n'a pas mangé depuis
+quelques semaines et il s'est évanoui.
+
+650
+00:37:30,316 --> 00:37:33,068
+Il est trop faible
+pour finir de modifier le code.
+
+651
+00:37:35,610 --> 00:37:37,154
+Je ne comprends pas.
+
+652
+00:37:37,578 --> 00:37:40,267
+Si ça signifie sauver sa vie,
+pourquoi ne pas le nourrir ?
+
+653
+00:37:40,387 --> 00:37:42,178
+Eh bien, il se nourrit...
+
+654
+00:37:43,996 --> 00:37:45,133
+d'humains.
+
+655
+00:37:45,636 --> 00:37:47,098
+De leur force vitale.
+
+656
+00:37:48,629 --> 00:37:49,723
+Je vois.
+
+657
+00:37:49,859 --> 00:37:51,882
+C'est dur de trouver des volontaires.
+
+658
+00:37:53,932 --> 00:37:56,318
+- Alors Jeanie va...
+- Elle va mourir.
+
+659
+00:37:57,390 --> 00:37:59,112
+Exactement comme Sharon.
+
+660
+00:38:01,632 --> 00:38:03,269
+Je suis tellement désolé.
+
+661
+00:38:05,153 --> 00:38:06,479
+Je suis sûr que vous l'êtes.
+
+662
+00:38:16,880 --> 00:38:19,285
+<i>C'est Kaleb,</i>
+
+663
+00:38:19,927 --> 00:38:21,280
+<i>son mari...</i>
+
+664
+00:38:21,582 --> 00:38:24,452
+<i>et Madison, sa petite fille.</i>
+
+665
+00:38:32,952 --> 00:38:34,648
+Je n'ai jamais voulu
+que tout ça arrive.
+
+666
+00:38:35,289 --> 00:38:37,412
+Je sais que vous ne le vouliez pas...
+
+667
+00:38:37,943 --> 00:38:39,376
+Mais c'est arrivé.
+
+668
+00:38:41,234 --> 00:38:43,412
+Maintenant McKay se rend responsable.
+
+669
+00:38:43,735 --> 00:38:45,302
+Je sais qu'il ne l'est pas.
+
+670
+00:38:48,066 --> 00:38:49,329
+Vous aussi.
+
+671
+00:39:02,625 --> 00:39:03,627
+Allez !
+
+672
+00:39:05,612 --> 00:39:07,995
+- Je peux vous aider, Monsieur ?
+- Non, pas de problème.
+
+673
+00:39:08,397 --> 00:39:09,781
+Puis-je voir ça, Monsieur ?
+
+674
+00:39:11,766 --> 00:39:14,890
+- Non, vous ne pouvez pas.
+- Monsieur, la carte, s'il vous plaît.
+
+675
+00:39:18,447 --> 00:39:21,021
+- Vous n'êtes pas le Dr Lee, Monsieur.
+- C'est la carte de Lee ?
+
+676
+00:39:21,167 --> 00:39:23,858
+On vient de faire de la gym et on a dû
+échanger nos pantalons, donc,
+
+677
+00:39:23,986 --> 00:39:27,044
+- vous voulez bien l'ouvrir pour moi ?
+- Pas sans carte, Monsieur.
+
+678
+00:39:27,164 --> 00:39:29,697
+Je suis Rodney McKay. C'est mon labo.
+Vous voulez bien l'ouvrir ?
+
+679
+00:39:29,838 --> 00:39:32,087
+- Je ne peux pas.
+- C'est une question de vie ou de mort,
+
+680
+00:39:32,214 --> 00:39:33,844
+Ouvrez la porte ! Je suis sous...
+
+681
+00:39:34,715 --> 00:39:36,386
+- Sheppard ?
+- Laissez-le entrer.
+
+682
+00:39:45,624 --> 00:39:48,159
+- Quoi...
+- Je montrais les labos à Wallace.
+
+683
+00:39:48,279 --> 00:39:50,010
+<i>Le Wraith a eu le dessus.</i>
+
+684
+00:39:50,130 --> 00:39:52,392
+- <i>C'est ce que dira le rapport.</i>
+- sTu...
+
+685
+00:39:53,975 --> 00:39:56,490
+- Allez, tu as du travail.
+- Non, il n'en a pas.
+
+686
+00:39:57,238 --> 00:39:58,815
+J'ai terminé le programme.
+
+687
+00:39:59,464 --> 00:40:00,666
+<i>Ça a été rapide.</i>
+
+688
+00:40:01,214 --> 00:40:02,580
+Et bien, uploade-le.
+
+689
+00:40:19,841 --> 00:40:21,592
+- Jeanie ?
+- Mer...
+
+690
+00:40:21,891 --> 00:40:23,548
+Ça va aller, ça va aller.
+
+691
+00:40:24,320 --> 00:40:27,179
+Bon sang.
+Les comas provoqués sont bizarres.
+
+692
+00:40:27,731 --> 00:40:28,933
+Ouais, et ?
+
+693
+00:40:29,243 --> 00:40:31,264
+Tu n'es pas la première à le dire.
+
+694
+00:40:32,379 --> 00:40:34,258
+- As-tu...
+- Oui.
+
+695
+00:40:34,548 --> 00:40:35,699
+Alors, je suis...
+
+696
+00:40:35,890 --> 00:40:37,337
+<i>Tu vas parfaitement bien.</i>
+
+697
+00:40:37,534 --> 00:40:40,834
+Je veux dire, à part quelques nanites
+inactives dans ton corps.
+
+698
+00:40:42,450 --> 00:40:43,627
+Merci, Mer.
+
+699
+00:40:44,274 --> 00:40:45,349
+Tu sais...
+
+700
+00:40:46,881 --> 00:40:48,446
+Je suis vraiment désolé pour tout ça.
+
+701
+00:40:48,566 --> 00:40:51,559
+Oh, je vais te le le reprocher pour...
+
+702
+00:40:52,064 --> 00:40:53,064
+toujours.
+
+703
+00:40:53,649 --> 00:40:55,740
+- C'est vraiment mérité.
+- Tu vas manger beaucoup
+
+704
+00:40:55,860 --> 00:40:58,320
+de nourriture végétarienne,
+et sans te plaindre.
+
+705
+00:40:58,440 --> 00:40:59,440
+Bien sûr.
+
+706
+00:41:00,160 --> 00:41:02,934
+Et tu liras à Madison trois histoires
+au lieu de ses deux habituelles.
+
+707
+00:41:03,054 --> 00:41:04,054
+Très bien.
+
+708
+00:41:04,443 --> 00:41:06,169
+Tu vas m'acheter une voiture.
+
+709
+00:41:06,289 --> 00:41:08,637
+- Ne t'emporte pas.
+- Tu m'as presque fait tuer.
+
+710
+00:41:08,757 --> 00:41:10,518
+Ça vaut bien une voiture. Une jolie.
+
+711
+00:41:10,682 --> 00:41:13,023
+- Une hybride.
+- On en parlera en rentrant à la maison.
+
+712
+00:41:14,172 --> 00:41:16,007
+La maison... ça sonne bien.
+
+713
+00:41:20,161 --> 00:41:21,199
+Je t'aime.
+
+714
+00:41:21,817 --> 00:41:22,654
+Ouais.
+
+715
+00:41:26,526 --> 00:41:27,691
+Je t'aime aussi.
+
+716
+00:41:41,038 --> 00:41:42,379
+- Salut.
+<i>- Salut.</i>
+
+717
+00:41:42,499 --> 00:41:44,569
+Regarde qui est de retour.
+Comment va la famille ?
+
+718
+00:41:45,530 --> 00:41:46,714
+Ils vont bien.
+
+719
+00:41:47,455 --> 00:41:48,802
+Je leur ai acheté une Prius.
+
+720
+00:41:49,038 --> 00:41:50,585
+- La culpabilité ?
+- Ouais.
+
+721
+00:41:50,728 --> 00:41:51,752
+Écoute.
+
+722
+00:41:52,597 --> 00:41:55,194
+- C'est incroyable que tu aies fait ça.
+- Je n'ai pas envie d'en parler.
+
+723
+00:41:55,314 --> 00:41:57,395
+Tu as convaincu Wallace
+de se sacrifier.
+
+724
+00:41:57,515 --> 00:41:58,989
+Non, je ne l'ai pas fait.
+
+725
+00:41:59,213 --> 00:42:01,146
+- Alors, comment il a...
+- Je...
+
+726
+00:42:04,312 --> 00:42:06,082
+J'ai présenté la situation.
+
+727
+00:42:08,487 --> 00:42:09,717
+Il était volontaire.
+
+728
+00:42:12,589 --> 00:42:14,508
+Mais tu as convaincu
+un homme de se suicider.
+
+729
+00:42:14,628 --> 00:42:16,832
+Il voulait remettre
+les choses à leur place.
+
+730
+00:42:18,142 --> 00:42:19,380
+J'ai simplement...
+
+731
+00:42:21,658 --> 00:42:23,193
+Présenté la situation ?
+
+732
+00:42:25,697 --> 00:42:26,607
+Ouais.
+
+733
+00:42:30,261 --> 00:42:31,050
+Merci.
+
+734
+00:42:38,308 --> 00:42:39,948
+Tu veux manger quelque chose ?
+
+735
+00:42:41,676 --> 00:42:42,676
+Bien sûr.
+
+736
+00:42:46,944 --> 00:42:47,800
+Dis...
+
+737
+00:42:48,366 --> 00:42:51,099
+Toi et moi, on se vaut
+question apparence, hein ?
+
+738
+00:42:51,278 --> 00:42:53,095
+- Qui t'a menti ?
+- Non, je suis sérieux.
+
+739
+00:42:53,215 --> 00:42:54,388
+Moi aussi.
+
+740
+00:42:54,508 --> 00:42:56,213
+Qui t'a menti ?
+

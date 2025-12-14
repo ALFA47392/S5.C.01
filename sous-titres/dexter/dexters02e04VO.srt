@@ -1,0 +1,3853 @@
+1
+00:00:14,000 --> 00:00:20,000
+Dexter
+Season02  Ep04
+
+2
+00:00:21,500 --> 00:00:26,500
+声明：本字幕由YYeTs美剧字幕组原创翻译制作
+仅供正版用户方便理解剧情和学习英文使用 禁止用于任何视频内嵌
+与发布 如果因为内嵌视频散发所带来的版权问题一律与本组织无关
+
+3
+00:00:27,000 --> 00:00:33,000
+=====本字幕由以下成员荣誉制作 感谢他们的无私奉献======
+翻译：小鱼　星晴　战　DreamHooker  饭饭 
+校对：阿武  何何 时间轴：jhlw 
+========== 字幕总监制：何何 ==========
+
+4
+00:00:54,400 --> 00:00:54,500
+==============| YYeTs字幕组招募启示 |==============
+英文字幕录制(居住在加拿大和美国) 双语字幕校正 时间轴调整 
+英语翻译 欧美影视新闻翻译 影视评论 论坛版主 美工人员 
+服务器提供者 发布宣传 联系地址：www.YYeTs.com
+==== YYeTs属于网络爱好者组织 加入者仅凭个人兴趣爱好 无报酬 ====
+
+5
+00:01:46,000 --> 00:01:48,460
+Previously on "dexter"...
+
+6
+00:01:48,500 --> 00:01:51,200
+two treasure hunters made
+a ghastly discovery today
+
+7
+00:01:51,230 --> 00:01:53,300
+When they stumbled
+on what appears to be
+
+8
+00:01:53,330 --> 00:01:54,530
+An underwater graveyard
+
+9
+00:01:54,560 --> 00:01:56,460
+In a crevice
+off the coast of miami.
+
+10
+00:01:56,500 --> 00:01:59,060
+Agent lundy has requested
+the following officers
+
+11
+00:01:59,100 --> 00:02:00,630
+For his joint task force.
+
+12
+00:02:00,660 --> 00:02:04,230
+We're a team, and our first play
+is i.D.Ing those bodies.
+
+13
+00:02:04,260 --> 00:02:05,830
+I'm dexter morgan.
+
+14
+00:02:05,860 --> 00:02:07,130
+I know who you are.
+
+15
+00:02:07,160 --> 00:02:08,730
+Hoping they'll talk to you?
+
+16
+00:02:08,760 --> 00:02:10,230
+They always speak.
+
+17
+00:02:10,260 --> 00:02:12,760
+You just got to ask
+the right question.
+
+18
+00:02:12,800 --> 00:02:14,460
+Harry was right.
+
+19
+00:02:14,500 --> 00:02:18,230
+Nothing stays buried,
+perhaps not even me.
+
+20
+00:02:18,260 --> 00:02:19,960
+Should i be worried
+about pascal?
+
+21
+00:02:20,000 --> 00:02:21,730
+And you're asking me
+because?
+
+22
+00:02:21,760 --> 00:02:23,430
+Because you've done
+the job.
+
+23
+00:02:23,460 --> 00:02:25,560
+So, if she's out,
+that means you're back in.
+
+24
+00:02:25,600 --> 00:02:29,130
+I won't dignify rumors, captain.
+Pascal's fine.
+
+25
+00:02:29,160 --> 00:02:30,800
+You need to, uh,
+wrap your wrists
+
+26
+00:02:30,830 --> 00:02:32,530
+So you don't hurt
+yourself again.
+
+27
+00:02:35,830 --> 00:02:38,230
+I'm sorry.
+
+28
+00:02:38,260 --> 00:02:40,260
+We'll get you
+into a program,
+
+29
+00:02:40,300 --> 00:02:42,700
+We'll get you the help
+you need,
+
+30
+00:02:42,730 --> 00:02:44,660
+And i will be there
+for you.
+
+31
+00:02:44,700 --> 00:02:48,460
+I'm dexter,
+and i'm not sure what i am.
+
+32
+00:02:48,500 --> 00:02:52,030
+Everyone in that room has heard
+or lived far worse
+
+33
+00:02:52,060 --> 00:02:53,560
+Than anything
+you've ever done.
+
+34
+00:02:53,600 --> 00:02:56,130
+I doubt it.
+
+35
+00:02:56,160 --> 00:02:57,930
+How full of shit are you?
+
+36
+00:02:57,960 --> 00:02:59,660
+The mask is slipping.
+
+37
+00:02:59,700 --> 00:03:03,700
+People who never mattered before
+are suddenly starting to matter.
+
+38
+00:03:03,730 --> 00:03:05,330
+Didn't your tour
+in the army
+
+39
+00:03:05,360 --> 00:03:07,900
+Include some special op
+in haiti?
+
+40
+00:03:09,000 --> 00:03:11,160
+There's my sponsor.
+Really, where?
+
+41
+00:03:27,230 --> 00:03:31,000
+Just as the worst heat wave
+in years hits miami,
+
+42
+00:03:31,030 --> 00:03:33,230
+The heat is also on me.
+
+43
+00:03:33,260 --> 00:03:34,530
+It's week three
+
+44
+00:03:34,560 --> 00:03:36,860
+Of the bay harbor butcher
+investigation,
+
+45
+00:03:36,900 --> 00:03:38,600
+And superduper
+special agent lundy
+
+46
+00:03:38,630 --> 00:03:40,860
+Has yet to throw up
+his hands and say,
+
+47
+00:03:40,900 --> 00:03:44,300
+"Wow, this guy's good.
+I give up."
+
+48
+00:03:44,330 --> 00:03:46,100
+Dexter, please.
+
+49
+00:03:46,130 --> 00:03:47,230
+Do you want me to help?
+
+50
+00:03:47,260 --> 00:03:48,930
+No, i just -
+I just need you to move.
+
+51
+00:03:48,960 --> 00:03:50,600
+Ah.
+
+52
+00:03:50,630 --> 00:03:54,500
+I'm sorry. It's just, you know,
+my mother's coming today.
+
+53
+00:03:54,530 --> 00:03:55,800
+I certainly do.
+
+54
+00:03:55,830 --> 00:03:57,800
+I haven't seen her
+in so long,
+
+55
+00:03:57,830 --> 00:04:00,200
+And i just want everything
+to be nice.
+
+56
+00:04:00,230 --> 00:04:02,200
+We kind of ended things
+on bad terms.
+
+57
+00:04:02,230 --> 00:04:05,060
+She and paul didn't get along
+so well.
+
+58
+00:04:05,100 --> 00:04:07,160
+A lot of people and paul
+didn't get along so well.
+
+59
+00:04:07,200 --> 00:04:08,500
+Yeah.
+
+60
+00:04:08,530 --> 00:04:12,530
+But i - I think she's willing
+to put that behind us.
+
+61
+00:04:12,560 --> 00:04:14,200
+She heard
+about paul's passing,
+
+62
+00:04:14,230 --> 00:04:16,260
+And she wanted to come
+and be supportive.
+
+63
+00:04:16,300 --> 00:04:18,060
+That sounds promising,
+right?
+
+64
+00:04:18,100 --> 00:04:20,300
+Absolutely.
+
+65
+00:04:21,960 --> 00:04:25,560
+You'll like her, dexter.
+She's great.
+
+66
+00:04:25,600 --> 00:04:27,630
+She's a very strong woman.
+
+67
+00:04:27,660 --> 00:04:29,000
+I'll keep that in mind
+
+68
+00:04:29,030 --> 00:04:31,400
+In case i have any
+heavy lifting to do.
+
+69
+00:04:31,430 --> 00:04:32,930
+It's too hot.
+
+70
+00:04:32,960 --> 00:04:35,830
+I know, honey.
+Hopefully it'll cool down soon.
+
+71
+00:04:35,860 --> 00:04:37,700
+Did you sleep any better
+last night?
+
+72
+00:04:37,730 --> 00:04:39,060
+More nightmares?
+
+73
+00:04:39,100 --> 00:04:41,500
+What was it, the big,
+scary ghost or the alligator?
+
+74
+00:04:41,530 --> 00:04:43,960
+No, the bay harbor butcher.
+
+75
+00:04:45,430 --> 00:04:46,460
+Oh, honey.
+
+76
+00:04:46,500 --> 00:04:48,330
+He would never hurt you.
+
+77
+00:04:48,360 --> 00:04:52,260
+But i'll let you in
+on a secret.
+
+78
+00:04:52,300 --> 00:04:54,100
+My sister, debra,
+
+79
+00:04:54,130 --> 00:04:56,260
+Who is a secret police agent
+ninja warrior,
+
+80
+00:04:56,300 --> 00:04:58,100
+Said he only kills
+bad people,
+
+81
+00:04:58,130 --> 00:05:00,260
+And you're not a bad person,
+are you?
+
+82
+00:05:00,300 --> 00:05:01,530
+No.
+
+83
+00:05:01,560 --> 00:05:03,030
+Then you're quite safe.
+
+84
+00:05:03,060 --> 00:05:04,800
+Why don't you go get dressed,
+
+85
+00:05:04,830 --> 00:05:07,460
+And i will make you
+some breakfast, okay?
+
+86
+00:05:10,360 --> 00:05:11,700
+It makes me so angry
+
+87
+00:05:11,730 --> 00:05:16,160
+That there's some monster
+out there scaring my son.
+
+88
+00:05:16,200 --> 00:05:18,260
+I got to go to work.
+
+89
+00:05:18,300 --> 00:05:20,360
+You know,
+i hope they catch him today.
+
+90
+00:05:20,400 --> 00:05:23,200
+And i'm not a violent person,
+but i hope they hurt him.
+
+91
+00:05:23,230 --> 00:05:25,500
+Have a good day.
+
+92
+00:05:25,530 --> 00:05:27,760
+Make up your mind.
+
+93
+00:05:37,630 --> 00:05:39,400
+In our most paranoid moments,
+
+94
+00:05:39,430 --> 00:05:42,160
+We fear that everyone
+is talking about us.
+
+95
+00:05:42,200 --> 00:05:43,760
+That's become my reality.
+
+96
+00:05:45,500 --> 00:05:48,030
+I can't hear what they're
+saying, but i know it's not nice.
+
+97
+00:05:48,060 --> 00:05:50,000
+All right,
+let's get started.
+
+98
+00:05:50,030 --> 00:05:53,500
+We have positive i.D.S on all 18
+of our complete bodies.
+
+99
+00:05:53,530 --> 00:05:56,530
+13 of those have felony records.
+
+100
+00:05:56,560 --> 00:05:58,260
+Organized crime.
+
+101
+00:05:58,300 --> 00:06:00,800
+Nope. No connection
+to organized crime,
+
+102
+00:06:00,830 --> 00:06:02,160
+No mutual gang
+affiliation, either.
+
+103
+00:06:02,200 --> 00:06:07,830
+But all 13 were either tried
+for murder, or at least suspected of murder.
+
+104
+00:06:07,860 --> 00:06:09,330
+Still,
+you have your pattern.
+
+105
+00:06:09,360 --> 00:06:11,160
+Yes, we just don't know
+what it means.
+
+106
+00:06:15,100 --> 00:06:17,460
+I think we go out
+with this news immediately.
+
+107
+00:06:17,500 --> 00:06:19,430
+What news is that?
+
+108
+00:06:19,460 --> 00:06:23,230
+The news that our serial killer, is
+only killing the dregs of society,
+
+109
+00:06:23,260 --> 00:06:26,460
+That good, moral people
+have nothing to fear.
+
+110
+00:06:26,500 --> 00:06:28,700
+But, captain, that's all -
+Uh...
+
+111
+00:06:28,730 --> 00:06:30,760
+this is the only lead
+we have.
+
+112
+00:06:30,800 --> 00:06:32,930
+We need to keep it
+tightly wrapped.
+
+113
+00:06:32,960 --> 00:06:36,200
+Last night,
+an elderly man shot his son, when he came home late,
+
+114
+00:06:36,230 --> 00:06:38,260
+Thought it was
+the bay harbor butcher.
+
+115
+00:06:38,300 --> 00:06:40,730
+We've got a city
+in chaos here, frank.
+
+116
+00:06:40,760 --> 00:06:43,260
+I understand you wanting
+to reassure the people.
+
+117
+00:06:43,300 --> 00:06:44,800
+Good.
+Then we're in agreement.
+
+118
+00:06:50,760 --> 00:06:54,060
+Dex, i got this huge break
+in the bay harbor case.
+
+119
+00:06:54,100 --> 00:06:55,360
+Bullshit.
+
+120
+00:06:55,430 --> 00:06:57,400
+I mean, really?
+
+121
+00:06:57,430 --> 00:07:01,630
+Guys, guys. You are not going to...
+
+122
+00:07:01,660 --> 00:07:05,530
+i refuse to believe
+that vince masuka is the man
+
+123
+00:07:05,560 --> 00:07:07,560
+Who single-Handedly
+brings me down.
+
+124
+00:07:07,600 --> 00:07:11,700
+I also know denial is the first
+stage of the grieving process
+
+125
+00:07:11,730 --> 00:07:14,730
+For those who learn
+they're going to die.
+
+126
+00:07:18,530 --> 00:07:20,800
+I need to find out
+what masuka knows,
+
+127
+00:07:20,830 --> 00:07:27,630
+But i've got to be calm
+and centered... and focused.
+
+128
+00:07:27,660 --> 00:07:30,800
+Time for a visit to my sponsor.
+
+129
+00:07:30,830 --> 00:07:33,030
+I need help.
+
+130
+00:07:52,360 --> 00:07:53,700
+Hi!
+
+131
+00:07:53,730 --> 00:07:56,260
+Hey! Just a minute!
+
+132
+00:07:59,360 --> 00:08:00,500
+Dexter.
+
+133
+00:08:00,530 --> 00:08:02,160
+Hope i'm not interrupting anything.
+
+134
+00:08:02,200 --> 00:08:05,100
+No.
+Glad you called.
+
+135
+00:08:06,400 --> 00:08:08,360
+Just give me a minute.
+
+136
+00:08:08,400 --> 00:08:10,860
+Yeah, have a look around.
+
+137
+00:08:20,730 --> 00:08:24,860
+So, hey, i was gonna go and get
+some art supplies.
+
+138
+00:08:24,900 --> 00:08:27,760
+Is that all right?
+Do you want to come?
+
+139
+00:08:27,800 --> 00:08:30,100
+Yeah, i'm just
+on my lunch break.
+
+140
+00:08:30,130 --> 00:08:32,160
+Excellent.
+
+141
+00:08:32,200 --> 00:08:34,260
+Why are they eating
+each other?
+
+142
+00:08:34,300 --> 00:08:37,330
+Don't know. Ask them.
+
+143
+00:08:41,230 --> 00:08:44,060
+* it's a long way home
+
+144
+00:08:44,100 --> 00:08:46,930
+* and it's all i see
+is darkness *
+
+145
+00:08:46,960 --> 00:08:49,960
+* it's a long way home
+
+146
+00:08:50,000 --> 00:08:52,360
+Do you like the heat?
+
+147
+00:08:52,400 --> 00:08:56,230
+Um... not really.
+I'm partial to air-Conditioning.
+
+148
+00:08:56,260 --> 00:08:57,900
+I love it.
+
+149
+00:08:57,930 --> 00:09:01,860
+It makes me feel like
+the whole world could explode at any moment.
+
+150
+00:09:01,900 --> 00:09:03,800
+That's a pleasant thought.
+
+151
+00:09:03,830 --> 00:09:06,330
+Is there an art store
+near here?
+
+152
+00:09:06,360 --> 00:09:07,900
+So, you been using?
+
+153
+00:09:07,930 --> 00:09:09,500
+Using what? Oh.
+
+154
+00:09:09,530 --> 00:09:11,230
+Uh, no.
+
+155
+00:09:11,260 --> 00:09:13,900
+No drugs.
+Perfectly clean.
+
+156
+00:09:13,930 --> 00:09:15,130
+Look what we have here!
+
+157
+00:09:17,160 --> 00:09:18,730
+Jesus.
+What are you -
+
+158
+00:09:21,930 --> 00:09:23,430
+Come on.
+
+159
+00:09:28,330 --> 00:09:31,230
+Are you gonna help or what?
+
+160
+00:09:44,600 --> 00:09:47,230
+That was a little weird.
+
+161
+00:09:47,260 --> 00:09:51,030
+So, if you're perfectly clean,
+why'd you call?
+
+162
+00:09:51,060 --> 00:09:55,760
+I- I'm under a lot of pressure
+at work.
+
+163
+00:09:55,800 --> 00:09:58,900
+I was hoping you could maybe
+give me some quick tips
+
+164
+00:09:58,930 --> 00:10:00,900
+On how to deal
+with the urges.
+
+165
+00:10:00,930 --> 00:10:03,600
+There are no quick tips.
+
+166
+00:10:03,630 --> 00:10:06,260
+Oh. I see.
+
+167
+00:10:16,800 --> 00:10:19,130
+Someone's gonna hear that. They'll think it's the wind.
+
+168
+00:10:19,160 --> 00:10:21,430
+I thought we were going
+to get art supplies.
+
+169
+00:10:21,460 --> 00:10:25,860
+That's exactly
+what we're doing.
+
+170
+00:10:25,900 --> 00:10:29,060
+I work with found art.
+
+171
+00:10:29,100 --> 00:10:31,430
+It's more like stolen art.
+
+172
+00:10:31,460 --> 00:10:34,430
+Is this what a sponsor normally
+does on their first meeting?
+
+173
+00:10:34,460 --> 00:10:35,830
+I don't know.
+
+174
+00:10:35,860 --> 00:10:37,960
+I've never sponsored
+anyone before.
+
+175
+00:10:38,000 --> 00:10:38,960
+Really?
+
+176
+00:10:39,000 --> 00:10:40,160
+Yeah, but don't worry.
+
+177
+00:10:40,200 --> 00:10:42,400
+I've had all kinds
+of sponsors.
+
+178
+00:10:42,430 --> 00:10:44,360
+Learnt from the best.
+
+179
+00:10:44,400 --> 00:10:46,960
+You do realize i work
+with the police department?
+
+180
+00:10:47,000 --> 00:10:50,560
+If we get caught,
+you can flash your badge.
+
+181
+00:10:50,600 --> 00:10:54,460
+I don't have a badge.
+I have a laminate.
+
+182
+00:10:58,530 --> 00:11:01,330
+Could we talk
+about why i called you?
+
+183
+00:11:01,360 --> 00:11:03,500
+Yeah, sure.
+
+184
+00:11:03,530 --> 00:11:06,000
+Um
+you want help.
+
+185
+00:11:07,200 --> 00:11:08,930
+So, tell me.
+
+186
+00:11:12,000 --> 00:11:13,630
+Why do you use?
+
+187
+00:11:15,900 --> 00:11:18,700
+Why?
+
+188
+00:11:18,730 --> 00:11:21,160
+I don't know.
+It's just part of who i am.
+
+189
+00:11:22,860 --> 00:11:24,860
+And who are you?
+
+190
+00:11:26,930 --> 00:11:28,400
+I'm a...
+
+191
+00:11:30,300 --> 00:11:32,060
+...bad person.
+
+192
+00:11:33,560 --> 00:11:37,330
+You haven't got the first idea
+who you are, have you?
+
+193
+00:11:37,360 --> 00:11:40,760
+Dexter, meet dexter.
+
+194
+00:11:40,800 --> 00:11:44,730
+I'm gonna help the two of you
+get to know each other.
+
+195
+00:11:46,300 --> 00:11:48,860
+That doesn't really seem
+necessary.
+
+196
+00:11:48,900 --> 00:11:51,830
+The first step to recovery
+is accepting who you are.
+
+197
+00:11:51,860 --> 00:11:55,130
+I thought the first step was
+admitting you have a problem.
+
+198
+00:11:55,160 --> 00:11:57,100
+And before you can accept
+who you are,
+
+199
+00:11:57,130 --> 00:11:58,600
+You have to know
+who you are.
+
+200
+00:11:58,630 --> 00:12:00,960
+So that's our first job.
+
+201
+00:12:01,000 --> 00:12:04,860
+You're going to tell me all
+your deepest, darkest secrets.
+
+202
+00:12:07,800 --> 00:12:11,100
+There is something off
+about him, harry.
+
+203
+00:12:11,130 --> 00:12:13,760
+You know why.
+
+204
+00:12:13,800 --> 00:12:15,860
+All right, look.
+
+205
+00:12:15,900 --> 00:12:19,030
+It wouldn't hurt to have him
+tested, would it?
+
+206
+00:12:26,060 --> 00:12:28,900
+Hello? Yes.
+
+207
+00:12:28,930 --> 00:12:30,660
+It - Just a sec.
+
+208
+00:12:30,700 --> 00:12:33,460
+I got to get back.
+Dead body.
+
+209
+00:12:33,500 --> 00:12:36,200
+Hmm. How many times have you
+used that one before?
+
+210
+00:12:38,530 --> 00:12:43,330
+So, the husband's name
+is barnes, b-A-R-N-E-S.
+
+211
+00:12:43,360 --> 00:12:46,230
+What do we have?
+
+212
+00:12:46,260 --> 00:12:47,760
+Hello, dexter.
+
+213
+00:12:47,800 --> 00:12:51,160
+Uh, gunshot victim,
+alisha barnes, 36.
+
+214
+00:12:55,130 --> 00:12:56,760
+So, i heard there may be
+some big break
+
+215
+00:12:56,800 --> 00:12:58,160
+In the bay harbor
+butcher case.
+
+216
+00:12:58,200 --> 00:12:59,860
+Uh, could be.
+
+217
+00:12:59,900 --> 00:13:04,330
+The neighbor heard the victim arguing
+with her husband last night, curtis barnes.
+
+218
+00:13:04,360 --> 00:13:05,760
+Masuka was pretty excited
+about it.
+
+219
+00:13:05,800 --> 00:13:07,530
+Husband's car is gone.
+
+220
+00:13:07,560 --> 00:13:09,530
+Nobody knows where he is.
+Any idea what they found?
+
+221
+00:13:09,560 --> 00:13:13,360
+Can we concentrate
+on this case here, please?
+
+222
+00:13:13,400 --> 00:13:15,630
+Sure.
+
+223
+00:13:15,660 --> 00:13:20,530
+The killer was standing
+right about where you are, sergeant doakes.
+
+224
+00:13:20,560 --> 00:13:22,830
+Two shots to the chest.
+
+225
+00:13:22,860 --> 00:13:24,460
+I only see one hole
+in the chest.
+
+226
+00:13:24,500 --> 00:13:26,160
+Yeah, they are
+that close together.
+
+227
+00:13:26,200 --> 00:13:27,600
+It's very impressive shooting.
+
+228
+00:13:27,630 --> 00:13:33,300
+It looks like the bullets took
+nearly identical exit paths, judging from the spray.
+
+229
+00:13:33,330 --> 00:13:35,600
+And this was all topped off
+by a final shot to the head.
+
+230
+00:13:35,630 --> 00:13:37,960
+She was mozambiqued.
+
+231
+00:13:38,000 --> 00:13:39,230
+What?
+
+232
+00:13:39,260 --> 00:13:41,830
+Triple-Tapped.
+
+233
+00:13:46,230 --> 00:13:47,360
+Oh, shit.
+
+234
+00:13:47,400 --> 00:13:50,800
+I'm guessing
+this is curtis barnes.
+
+235
+00:13:50,830 --> 00:13:55,460
+Here he is in what looks like somalia,
+afghanistan, a russian grenade, a kurdish dagger,
+
+236
+00:13:55,500 --> 00:13:58,130
+And tell me that shit wasn't
+stolen from saddam's palace.
+
+237
+00:13:58,160 --> 00:13:59,500
+What are you saying?
+
+238
+00:13:59,530 --> 00:14:02,400
+I'm saying
+asshole's special ops.
+
+239
+00:14:02,430 --> 00:14:03,960
+There's no doubt about it.
+
+240
+00:14:04,000 --> 00:14:06,860
+Huh, they're generally known for settling their arguments
+so peaceably.
+
+241
+00:14:06,900 --> 00:14:09,530
+Don't get smug with me.
+
+242
+00:14:10,600 --> 00:14:13,100
+Sounds like we're
+in your world, james.
+
+243
+00:14:13,130 --> 00:14:15,830
+Yeah, i'll take lead
+on this one.
+
+244
+00:14:24,600 --> 00:14:26,700
+Pick a body.
+
+245
+00:14:26,730 --> 00:14:27,730
+Sir?
+
+246
+00:14:27,760 --> 00:14:29,900
+I want you each to pick a body.
+
+247
+00:14:29,930 --> 00:14:32,330
+This is where the case
+is going to be made.
+
+248
+00:14:32,360 --> 00:14:39,100
+We have 13 suspected murderers, and then we have
+these gentlemen.
+
+249
+00:14:39,130 --> 00:14:44,860
+Robert thatcher,
+janitor for the school district with no criminal record.
+
+250
+00:14:44,900 --> 00:14:46,560
+Marcus white,
+
+251
+00:14:46,600 --> 00:14:48,630
+Tow-Truck driver,
+
+252
+00:14:48,660 --> 00:14:51,300
+No criminal record.
+
+253
+00:14:51,330 --> 00:14:54,060
+And this - This is...
+
+254
+00:14:54,100 --> 00:14:57,460
+oscar sota.
+
+255
+00:15:00,000 --> 00:15:01,800
+What's his story?
+
+256
+00:15:01,830 --> 00:15:05,000
+Naval engineer
+for the port of miami,
+
+257
+00:15:05,030 --> 00:15:08,430
+Member of
+the stewardship council of st. Tarsicia catholic church,
+
+258
+00:15:08,460 --> 00:15:11,260
+Married, loved, respected.
+
+259
+00:15:11,300 --> 00:15:14,560
+But he was found in a bag
+under the sea with 13 killers.
+
+260
+00:15:14,600 --> 00:15:16,000
+Why?
+
+261
+00:15:16,030 --> 00:15:18,430
+Answer that question,
+then we really know something.
+
+262
+00:15:18,460 --> 00:15:21,100
+I... i got him.
+
+263
+00:15:21,130 --> 00:15:22,830
+Oscar sota.
+
+264
+00:15:25,160 --> 00:15:27,900
+Why did the killer cut them up
+like this?
+
+265
+00:15:27,930 --> 00:15:30,300
+Ease of disposal. Or for fun.
+
+266
+00:15:33,060 --> 00:15:36,030
+You don't kill this many people
+because it's a chore.
+
+267
+00:15:36,060 --> 00:15:37,860
+You do it
+'cause you like it.
+
+268
+00:15:39,500 --> 00:15:42,000
+Okay.
+
+269
+00:15:42,030 --> 00:15:43,130
+Great.
+
+270
+00:15:44,530 --> 00:15:47,430
+Tomorrow.
+The barnes case?
+
+271
+00:15:47,460 --> 00:15:49,830
+Yeah, that was a buddy of mine
+from special ops.
+
+272
+00:15:49,860 --> 00:15:51,960
+He heard curtis barnes
+was still in miami.
+
+273
+00:15:52,000 --> 00:15:53,360
+Oh.
+
+274
+00:15:53,400 --> 00:15:56,700
+The only part of that
+that i find surprising is that you have a buddy.
+
+275
+00:15:57,760 --> 00:16:01,130
+It turns out barnes and i
+both were ranger rrd.
+
+276
+00:16:01,160 --> 00:16:03,300
+Regimental reconnaissance
+detachment,
+
+277
+00:16:03,330 --> 00:16:07,130
+The guys you're not supposed to know
+about who get in before everybody else.
+
+278
+00:16:07,160 --> 00:16:10,300
+A brother in arms. Something like that.
+
+279
+00:16:10,330 --> 00:16:13,130
+My buddy put me in touch
+with a guy from curtis' unit.
+
+280
+00:16:13,160 --> 00:16:14,630
+He's willing to talk to me.
+
+281
+00:16:14,660 --> 00:16:15,830
+Good.
+
+282
+00:16:15,860 --> 00:16:17,000
+I got your blood report.
+
+283
+00:16:17,030 --> 00:16:18,960
+It's all pretty
+straightforward.
+
+284
+00:16:19,000 --> 00:16:20,330
+I'd be careful, though.
+
+285
+00:16:20,360 --> 00:16:22,360
+Why is that?
+
+286
+00:16:22,430 --> 00:16:24,160
+The trajectory of the bullets
+are all level,
+
+287
+00:16:24,200 --> 00:16:25,630
+Exact same angle of origin.
+
+288
+00:16:25,660 --> 00:16:27,760
+I'd say all three shots were
+fired in less than a second.
+
+289
+00:16:27,800 --> 00:16:30,000
+It's very impressive shooting.
+
+290
+00:16:32,600 --> 00:16:34,160
+Morgan.
+
+291
+00:16:41,160 --> 00:16:43,560
+I'm gonna need you to run
+some tests on this shirt.
+
+292
+00:16:43,600 --> 00:16:45,300
+Is there blood?
+
+293
+00:16:45,330 --> 00:16:46,330
+No blood.
+
+294
+00:16:46,360 --> 00:16:48,330
+I'm really the blood guy.
+
+295
+00:16:48,360 --> 00:16:52,030
+It's a smell.
+It smells like a woman.
+
+296
+00:16:53,500 --> 00:16:54,700
+Which part?
+
+297
+00:16:56,630 --> 00:16:58,360
+Who can identify this
+for me?
+
+298
+00:16:58,400 --> 00:17:01,330
+Uh...
+
+299
+00:17:01,360 --> 00:17:05,030
+you know, that's really
+masuka's area.
+
+300
+00:17:05,060 --> 00:17:06,230
+He's definitely your man.
+
+301
+00:17:09,460 --> 00:17:11,000
+Thanks.
+
+302
+00:17:17,200 --> 00:17:20,260
+Anything i can do to overburden
+masuka is to my advantage.
+
+303
+00:17:20,300 --> 00:17:23,000
+Trust me, i'm not above
+sending pizzas and hookers
+
+304
+00:17:23,030 --> 00:17:25,330
+To his house
+in the middle of the night.
+
+305
+00:17:34,030 --> 00:17:36,230
+Well, everything's unpacked.
+
+306
+00:17:36,260 --> 00:17:40,600
+The back bedroom's small,
+but it's quieter.
+
+307
+00:17:40,630 --> 00:17:42,960
+I'm just happy to be here,
+that's all.
+
+308
+00:17:43,000 --> 00:17:44,060
+You're always welcome.
+
+309
+00:17:44,100 --> 00:17:45,700
+Am i?
+
+310
+00:17:45,730 --> 00:17:46,930
+I wasn't sure.
+
+311
+00:17:46,960 --> 00:17:48,300
+Of course you are.
+
+312
+00:17:50,630 --> 00:17:53,930
+All these years
+without an invitation.
+
+313
+00:17:53,960 --> 00:17:56,060
+I just - I thought
+you didn't want to come.
+
+314
+00:17:56,100 --> 00:17:57,900
+I mean, you and paul -
+Oh, nonsense.
+
+315
+00:17:57,930 --> 00:18:02,260
+I wasn't gonna let that keep me away
+from my daughter and my grandchildren.
+
+316
+00:18:02,300 --> 00:18:06,060
+But you did let it
+keep you away.
+
+317
+00:18:06,100 --> 00:18:08,330
+Let's not assign
+blame, rita.
+
+318
+00:18:08,360 --> 00:18:10,800
+Nothing good ever
+comes of that.
+
+319
+00:18:10,830 --> 00:18:13,660
+We'll just have to make up
+for lost time, that's all.
+
+320
+00:18:15,630 --> 00:18:17,730
+Hi.
+Hey.
+
+321
+00:18:20,730 --> 00:18:23,030
+Dexter,
+this is my mother.
+
+322
+00:18:23,060 --> 00:18:25,860
+Gail.
+So nice to meet you.
+
+323
+00:18:25,900 --> 00:18:27,530
+Nice to meet you, too,
+dexter.
+
+324
+00:18:31,830 --> 00:18:36,930
+I've always been good
+with parents.
+
+325
+00:18:36,960 --> 00:18:39,630
+The key is to simply think
+of them as aliens
+
+326
+00:18:39,660 --> 00:18:42,130
+From a distant universe.
+
+327
+00:18:44,130 --> 00:18:48,600
+"You have fibers and threads
+unknown to us.
+
+328
+00:18:50,230 --> 00:18:52,500
+Your ancient customs
+intrigue me."
+
+329
+00:18:55,160 --> 00:18:59,360
+So, dexter, tell me everything
+there is to know about you.
+
+330
+00:18:59,400 --> 00:19:03,760
+"You have made me your
+sworn enemy, evil woman."
+
+331
+00:19:03,800 --> 00:19:07,800
+I work in
+the forensics department for the miami metro p.D.,
+
+332
+00:19:07,830 --> 00:19:10,030
+And i'm very fond
+of your daughter.
+
+333
+00:19:11,360 --> 00:19:13,830
+Good answer. I'm also very fond
+of my daughter.
+
+334
+00:19:13,860 --> 00:19:15,760
+You did a good job
+raising her.
+
+335
+00:19:15,800 --> 00:19:17,360
+30 years as a schoolteacher.
+
+336
+00:19:17,400 --> 00:19:22,330
+I've got a little experience with children,
+and i see a young man who is not eating.
+
+337
+00:19:22,360 --> 00:19:23,930
+I'm not hungry.
+
+338
+00:19:23,960 --> 00:19:26,000
+He's scared the butcher's
+gonna get him.
+
+339
+00:19:26,030 --> 00:19:29,460
+Oh, well, remember,
+he only gets bad people.
+
+340
+00:19:29,500 --> 00:19:33,260
+I was bad today.
+I threw a ball at tommy alvarez.
+
+341
+00:19:33,300 --> 00:19:37,500
+Well, that's not too bad, and even if it was,
+
+342
+00:19:37,530 --> 00:19:39,060
+The bay harbor butcher
+doesn't hurt kids.
+
+343
+00:19:39,100 --> 00:19:40,630
+He doesn't?
+
+344
+00:19:40,660 --> 00:19:42,300
+Definitely not.
+You're safe.
+
+345
+00:19:44,760 --> 00:19:46,700
+When are they gonna hurry up
+and catch this guy?
+
+346
+00:19:46,730 --> 00:19:49,360
+They are working as hard
+as they can.
+
+347
+00:19:49,400 --> 00:19:52,960
+If what i've heard is true - That
+he only goes after criminals -
+
+348
+00:19:53,000 --> 00:19:55,700
+I say leave him alone.
+
+349
+00:19:55,730 --> 00:19:57,960
+He's got my seal of approval.
+
+350
+00:20:00,730 --> 00:20:05,030
+Perhaps i have misjudged you,
+o wise one.
+
+351
+00:20:20,900 --> 00:20:22,300
+Really?
+
+352
+00:20:22,330 --> 00:20:25,230
+Yeah, sister
+spilled everything.
+
+353
+00:20:25,260 --> 00:20:28,430
+Thinks he killed their parents and
+made it look like a car accident.
+
+354
+00:20:28,460 --> 00:20:30,000
+The living trust
+was in his name.
+
+355
+00:20:31,930 --> 00:20:33,930
+Nice work.
+
+356
+00:20:33,960 --> 00:20:36,730
+So, what's it gonna be
+tonight?
+
+357
+00:20:36,760 --> 00:20:39,000
+Chinese, italian?
+
+358
+00:20:39,030 --> 00:20:43,760
+Uh, actually, i have
+a, uh, social appointment.
+
+359
+00:20:44,960 --> 00:20:47,530
+You mean like a date?
+
+360
+00:20:47,560 --> 00:20:50,260
+I guess you could
+call it that.
+
+361
+00:20:50,300 --> 00:20:52,460
+Wow, look at you.
+
+362
+00:20:52,500 --> 00:20:55,600
+New in town
+and already hooking up.
+
+363
+00:20:55,630 --> 00:20:57,560
+It's an introduction
+arranged by a friend.
+
+364
+00:20:57,600 --> 00:21:00,600
+One needs to get out and have
+a little fun on occasion.
+
+365
+00:21:00,630 --> 00:21:03,560
+It's something i strongly
+recommend for you as well.
+
+366
+00:21:03,600 --> 00:21:06,360
+Yeah.
+With the hours we work...
+
+367
+00:21:06,400 --> 00:21:09,360
+i'm serious.
+Make time for it.
+
+368
+00:21:09,400 --> 00:21:11,600
+It'll help keep you
+better balanced.
+
+369
+00:21:11,630 --> 00:21:14,060
+Yes, sir.
+
+370
+00:21:22,530 --> 00:21:24,460
+Are you okay?
+
+371
+00:21:24,500 --> 00:21:27,360
+Yeah, it's just...
+
+372
+00:21:28,960 --> 00:21:30,760
+...something at work.
+
+373
+00:21:32,430 --> 00:21:34,460
+Are you handling it okay?
+
+374
+00:21:35,800 --> 00:21:38,730
+I ended up seeing my sponsor
+today at lunch.
+
+375
+00:21:41,730 --> 00:21:43,400
+How'd that go?
+
+376
+00:21:43,430 --> 00:21:45,060
+Not so great.
+
+377
+00:21:45,100 --> 00:21:47,760
+She's a little odd.
+
+378
+00:21:47,800 --> 00:21:50,160
+Plays a little loose
+with the 12 steps.
+
+379
+00:21:50,200 --> 00:21:53,700
+That doesn't seem smart -
+Making up your own.
+
+380
+00:21:53,730 --> 00:21:57,330
+Maybe it's 'cause it's
+her first time being a sponsor.
+
+381
+00:21:57,360 --> 00:21:59,560
+Oh.
+
+382
+00:21:59,600 --> 00:22:02,760
+Well, maybe you should try
+someone else.
+
+383
+00:22:04,100 --> 00:22:07,700
+I just want to do what's best
+for my recovery.
+
+384
+00:22:07,730 --> 00:22:13,200
+Well, maybe someone older,
+more like you, more manly.
+
+385
+00:22:13,230 --> 00:22:16,160
+Yeah, maybe.
+
+386
+00:22:16,200 --> 00:22:18,530
+Yeah.
+
+387
+00:22:48,330 --> 00:22:51,230
+Hey.
+
+388
+00:22:54,830 --> 00:22:56,400
+You remember me?
+
+389
+00:22:56,430 --> 00:22:58,000
+Yeah.
+
+390
+00:22:58,030 --> 00:23:00,030
+You're the girl
+who doesn't like tape.
+
+391
+00:23:00,060 --> 00:23:01,730
+Debra, actually.
+
+392
+00:23:01,760 --> 00:23:03,530
+I'm gabriel.
+
+393
+00:23:05,330 --> 00:23:07,060
+Done for the night?
+
+394
+00:23:07,100 --> 00:23:08,800
+Yeah.
+
+395
+00:23:10,460 --> 00:23:13,800
+Any interest
+in grabbing a drink?
+
+396
+00:23:19,360 --> 00:23:21,630
+Usually a lady has to buy me
+dinner first.
+
+397
+00:23:21,660 --> 00:23:23,430
+Stop talking
+and get your pants off.
+
+398
+00:23:26,100 --> 00:23:28,300
+Are you always like this?
+No.
+
+399
+00:23:28,330 --> 00:23:31,230
+No, i haven't even had sex
+since...
+
+400
+00:23:31,260 --> 00:23:32,560
+since what?
+
+401
+00:23:35,660 --> 00:23:36,860
+You all right?
+
+402
+00:23:36,900 --> 00:23:38,160
+Yeah, just one second.
+
+403
+00:23:38,200 --> 00:23:39,760
+Look, we don't have to do this,
+you know?
+
+404
+00:23:39,800 --> 00:23:41,300
+Oh.
+
+405
+00:23:41,330 --> 00:23:45,730
+Oh, you're into
+the kinky stuff, huh?
+
+406
+00:23:45,760 --> 00:23:48,360
+No, the last guy i had sex with
+tried to kill me.
+
+407
+00:24:02,430 --> 00:24:06,400
+"Who is
+the bay harbor butcher?"
+
+408
+00:24:06,430 --> 00:24:07,700
+God.
+
+409
+00:24:07,730 --> 00:24:10,030
+This obsession with him
+is relentless,
+
+410
+00:24:10,060 --> 00:24:12,660
+Just like deb
+and that damn treadmill.
+
+411
+00:24:22,330 --> 00:24:24,660
+Deb, do you ever stop?
+
+412
+00:24:24,700 --> 00:24:27,130
+Dexter, jesus, you're supposed
+to be at rita's!
+
+413
+00:24:27,160 --> 00:24:28,730
+Sorry. Sorry.
+
+414
+00:24:31,960 --> 00:24:33,530
+Fuck.
+
+415
+00:24:47,630 --> 00:24:49,660
+Good morning.
+
+416
+00:24:49,700 --> 00:24:53,000
+So, that was a little weird
+last night.
+
+417
+00:24:53,030 --> 00:24:56,200
+No, yeah.
+Well, it was dark.
+
+418
+00:24:56,230 --> 00:24:59,430
+My eyes hadn't adjusted.
+All i could see were shadows.
+
+419
+00:24:59,460 --> 00:25:04,560
+Yeah, well, please put those
+shadows out of your mind.
+
+420
+00:25:04,600 --> 00:25:08,100
+So, what's this big break
+in the bay harbor butcher case
+
+421
+00:25:08,130 --> 00:25:09,530
+I keep hearing about?
+
+422
+00:25:09,560 --> 00:25:10,800
+Algae.
+
+423
+00:25:10,830 --> 00:25:12,030
+Algae?
+
+424
+00:25:12,060 --> 00:25:13,200
+Yeah.
+
+425
+00:25:13,230 --> 00:25:14,930
+Masuka found
+microscopic algae
+
+426
+00:25:14,960 --> 00:25:17,160
+Inside the garbage bags
+with the bodies.
+
+427
+00:25:17,200 --> 00:25:21,530
+Algae under the sea -
+Imagine that.
+
+428
+00:25:21,560 --> 00:25:22,860
+How does that help?
+
+429
+00:25:22,900 --> 00:25:26,530
+'Cause there are over 100,000
+species, all different.
+
+430
+00:25:26,560 --> 00:25:28,260
+Masuka thinks he can use them
+to pinpoint
+
+431
+00:25:28,300 --> 00:25:30,400
+In which harbor the killer
+keeps his boat.
+
+432
+00:25:30,430 --> 00:25:32,100
+Oh.
+
+433
+00:25:32,130 --> 00:25:34,460
+He's got some marine biologists
+coming down to take a look.
+
+434
+00:25:34,500 --> 00:25:35,960
+Can you imagine
+something so little
+
+435
+00:25:36,000 --> 00:25:37,600
+Being the thing
+that breaks this case?
+
+436
+00:25:37,630 --> 00:25:40,060
+I got to go.
+
+437
+00:25:40,100 --> 00:25:41,930
+I'll see you at the station.
+
+438
+00:25:44,060 --> 00:25:45,760
+It doesn't make sense.
+
+439
+00:25:45,800 --> 00:25:47,630
+If there's algae on my victims,
+
+440
+00:25:47,660 --> 00:25:50,730
+It would have to come from
+the ocean where i dumped them.
+
+441
+00:25:50,760 --> 00:25:52,830
+Obviously,
+i'm missing something,
+
+442
+00:25:52,860 --> 00:25:54,700
+And i don't like that.
+
+443
+00:25:57,160 --> 00:25:58,300
+Mrs. Sota, i understand
+
+444
+00:25:58,330 --> 00:26:00,760
+You wanting to protect
+your husband's reputation,
+
+445
+00:26:00,800 --> 00:26:03,030
+But i also have to tell you
+that your cooperation
+
+446
+00:26:03,060 --> 00:26:04,760
+Could help us catch
+a serial killer.
+
+447
+00:26:04,800 --> 00:26:05,930
+I am cooperating.
+
+448
+00:26:05,960 --> 00:26:07,730
+You haven't told me anything.
+
+449
+00:26:07,760 --> 00:26:08,860
+'Cause there's nothing
+to tell!
+
+450
+00:26:17,130 --> 00:26:18,960
+Maria.
+
+451
+00:26:19,000 --> 00:26:21,300
+You off to meet the man
+from curtis' unit?
+
+452
+00:26:21,330 --> 00:26:22,860
+Yeah,
+at the blue wing marina.
+
+453
+00:26:22,900 --> 00:26:24,630
+You have backup?
+
+454
+00:26:24,660 --> 00:26:26,060
+Oh, yeah,
+all kinds of backup.
+
+455
+00:26:26,100 --> 00:26:27,300
+Helicopters and shit.
+
+456
+00:26:27,330 --> 00:26:28,660
+James.
+
+457
+00:26:28,700 --> 00:26:30,930
+Listen, we got a missing
+murder suspect.
+
+458
+00:26:30,960 --> 00:26:34,060
+This guy's a friend of his.
+I'm just gonna go talk to him.
+
+459
+00:26:36,600 --> 00:26:38,660
+Right.
+
+460
+00:26:38,700 --> 00:26:40,930
+You're the lone holdout.
+
+461
+00:26:40,960 --> 00:26:43,430
+Every other suspect
+has a criminal past,
+
+462
+00:26:43,460 --> 00:26:45,530
+And not just
+any criminal past.
+
+463
+00:26:45,560 --> 00:26:47,660
+They were all linked
+to murder.
+
+464
+00:26:47,700 --> 00:26:49,700
+Oscar never murdered
+anybody.
+
+465
+00:26:49,730 --> 00:26:51,060
+Then why was he killed?
+
+466
+00:26:51,100 --> 00:26:53,230
+I don't know. Maybe he found out
+who the serial killer is!
+
+467
+00:26:53,260 --> 00:26:57,460
+Okay, so your husband
+is an engineer and a secret crime fighter.
+
+468
+00:26:57,500 --> 00:26:58,560
+Por favor, olivia.
+
+469
+00:26:58,600 --> 00:26:59,600
+Are you through?
+
+470
+00:26:59,630 --> 00:27:01,330
+You're gonna tell me
+what he did.
+
+471
+00:27:01,360 --> 00:27:03,500
+Oh, no.
+You are through.
+
+472
+00:27:06,430 --> 00:27:07,960
+Just what i needed.
+
+473
+00:27:30,530 --> 00:27:32,930
+Hello?
+
+474
+00:27:43,730 --> 00:27:45,160
+You doakes?
+
+475
+00:27:45,200 --> 00:27:47,900
+I am.
+
+476
+00:27:47,930 --> 00:27:50,400
+And i'm guessing you're not
+gonna tell me your name.
+
+477
+00:27:50,430 --> 00:27:52,630
+I'm curtis barnes.
+
+478
+00:27:55,700 --> 00:27:57,160
+I checked you out.
+
+479
+00:27:57,200 --> 00:27:59,000
+We know a lot
+of the same people.
+
+480
+00:27:59,030 --> 00:28:01,000
+Everyone says
+i can trust you.
+
+481
+00:28:01,030 --> 00:28:03,660
+You can trust me.
+
+482
+00:28:03,700 --> 00:28:04,930
+I just need 48 hours.
+
+483
+00:28:04,960 --> 00:28:06,960
+Now, i got somebody who's gonna
+take me to cuba,
+
+484
+00:28:07,000 --> 00:28:09,330
+But it's gonna take a day
+to get the papers i need.
+
+485
+00:28:09,360 --> 00:28:10,530
+So, what are you asking?
+
+486
+00:28:10,560 --> 00:28:12,400
+Stall the investigation.
+
+487
+00:28:17,360 --> 00:28:19,160
+Let me ask you
+one question.
+
+488
+00:28:21,000 --> 00:28:22,000
+Yeah.
+
+489
+00:28:23,860 --> 00:28:25,830
+Did you kill your wife?
+
+490
+00:28:30,130 --> 00:28:32,830
+Yeah. I killed alisha.
+
+491
+00:28:34,700 --> 00:28:35,730
+Turn around.
+
+492
+00:28:36,630 --> 00:28:38,260
+Turn the fuck around!
+
+493
+00:28:38,300 --> 00:28:39,400
+No, you are not
+arresting me.
+
+494
+00:28:39,430 --> 00:28:40,900
+Put the fucking gun down
+and turn around!
+
+495
+00:28:40,930 --> 00:28:41,930
+I don't think so.
+
+496
+00:28:53,700 --> 00:28:56,830
+So, how'd your social
+appointment go last night?
+
+497
+00:28:56,860 --> 00:28:59,630
+Oh, you know...
+
+498
+00:29:01,600 --> 00:29:02,960
+i took your advice.
+
+499
+00:29:03,000 --> 00:29:05,560
+My advice?
+
+500
+00:29:05,600 --> 00:29:08,060
+To get out and have some fun.
+
+501
+00:29:08,100 --> 00:29:10,900
+Got laid big-Time.
+
+502
+00:29:10,930 --> 00:29:12,430
+Oh.
+
+503
+00:29:13,800 --> 00:29:16,230
+Well.
+
+504
+00:29:17,900 --> 00:29:18,960
+Oh -
+
+505
+00:29:19,000 --> 00:29:21,660
+Oh, i mean...
+
+506
+00:29:21,700 --> 00:29:25,260
+i don't usually just go to
+the gym and pick up strangers.
+
+507
+00:29:25,300 --> 00:29:28,400
+The gym?
+
+508
+00:29:28,430 --> 00:29:30,230
+Really, you have
+to save me here,
+
+509
+00:29:30,260 --> 00:29:32,500
+Or i'm gonna go outside
+and shoot myself.
+
+510
+00:29:32,530 --> 00:29:35,100
+The way you're going,
+you'd probably miss.
+
+511
+00:29:35,130 --> 00:29:37,460
+Thanks.
+
+512
+00:29:37,500 --> 00:29:40,660
+My date... was horrible.
+
+513
+00:29:40,700 --> 00:29:43,200
+I picked her up, and i don't
+know miami, of course,
+
+514
+00:29:43,230 --> 00:29:44,630
+So i got us completely lost.
+
+515
+00:29:44,660 --> 00:29:48,830
+And she was chattering away the whole time
+about this yogi master i just have to meet,
+
+516
+00:29:48,860 --> 00:29:50,360
+So by the time we got
+to the restaurant,
+
+517
+00:29:50,400 --> 00:29:51,360
+I was tearing my hair out.
+
+518
+00:29:51,400 --> 00:29:53,030
+Oh, god. I'm sorry.
+
+519
+00:29:53,060 --> 00:29:54,460
+No, it was good.
+
+520
+00:29:54,500 --> 00:29:59,200
+It was a reminder that, uh,
+i shouldn't be dating.
+
+521
+00:29:59,230 --> 00:30:01,830
+Of course you should be.
+
+522
+00:30:01,860 --> 00:30:04,330
+No.
+
+523
+00:30:04,360 --> 00:30:07,230
+It all comes down
+to simple mathematics.
+
+524
+00:30:07,260 --> 00:30:12,360
+A really beautiful relationship
+is a once-In-A-Lifetime thing,
+
+525
+00:30:12,400 --> 00:30:14,700
+And i've already had mine.
+
+526
+00:30:18,630 --> 00:30:20,160
+Lundy.
+
+527
+00:30:28,960 --> 00:30:32,730
+Hey, so, i heard you found some algae
+that might help crack the big case.
+
+528
+00:30:32,760 --> 00:30:33,930
+You heard right.
+
+529
+00:30:33,960 --> 00:30:35,330
+What kind of algae?
+
+530
+00:30:35,360 --> 00:30:36,700
+Diatoms.
+
+531
+00:30:38,800 --> 00:30:40,700
+Eukaryotic algae.
+
+532
+00:30:40,730 --> 00:30:42,430
+Okay, this is the first time
+
+533
+00:30:42,460 --> 00:30:44,660
+I regret not being
+a bigger nerd.
+
+534
+00:30:44,700 --> 00:30:45,830
+Eukaryotic?
+
+535
+00:30:45,860 --> 00:30:47,300
+I'll let manny explain it
+to you.
+
+536
+00:30:47,330 --> 00:30:48,930
+He's picking up
+the evidence tomorrow
+
+537
+00:30:48,960 --> 00:30:50,460
+So he can study it
+in his own lab.
+
+538
+00:30:50,500 --> 00:30:53,460
+You know marine biologists -
+Real prima donnas.
+
+539
+00:30:53,500 --> 00:30:55,730
+Any chance you could show me? Masuka.
+
+540
+00:30:55,760 --> 00:30:57,200
+Up front.
+
+541
+00:30:57,230 --> 00:30:58,830
+Oh, no.
+It's that crazy witch.
+
+542
+00:31:07,130 --> 00:31:08,960
+What is this shit?
+
+543
+00:31:09,000 --> 00:31:11,130
+I told you to find a smell.
+
+544
+00:31:11,160 --> 00:31:12,930
+How fucking hard
+can that be?
+
+545
+00:31:12,960 --> 00:31:13,730
+Uh, look, i told you,
+
+546
+00:31:13,760 --> 00:31:19,130
+A smell isn't it smells like another woman.
+I can smell it!
+
+547
+00:31:19,160 --> 00:31:20,530
+Why can't you?!
+
+548
+00:31:20,560 --> 00:31:23,460
+This man is ruining
+my life,
+
+549
+00:31:23,500 --> 00:31:26,660
+And you all go on like
+nothing is happening!
+
+550
+00:31:28,500 --> 00:31:30,030
+Esmee.
+
+551
+00:31:31,430 --> 00:31:32,500
+Come on, come on.
+
+552
+00:31:35,360 --> 00:31:36,860
+This is the kind of thing
+
+553
+00:31:36,900 --> 00:31:39,300
+That makes me glad
+i have no feelings.
+
+554
+00:31:39,330 --> 00:31:40,630
+Like they always say,
+
+555
+00:31:40,660 --> 00:31:43,100
+Never take your dirty laundry
+to work.
+
+556
+00:32:01,500 --> 00:32:02,960
+We can stand here
+all fucking day.
+
+557
+00:32:03,000 --> 00:32:05,200
+I don't give a fuck, but you're
+gonna put that gun down.
+
+558
+00:32:05,230 --> 00:32:08,000
+Now, we were both rangers.
+That bond goes deep.
+
+559
+00:32:08,030 --> 00:32:10,130
+That doesn't mean anything
+to you?
+
+560
+00:32:10,160 --> 00:32:13,300
+If you weren't a ranger,
+i'd have shot your ass by now.
+
+561
+00:32:15,230 --> 00:32:17,300
+You killed your wife, man.
+
+562
+00:32:21,800 --> 00:32:24,760
+I didn't mean to.
+
+563
+00:32:24,800 --> 00:32:27,830
+It happened, man.
+
+564
+00:32:30,260 --> 00:32:31,800
+You married?
+
+565
+00:32:31,830 --> 00:32:34,400
+No.
+
+566
+00:32:34,430 --> 00:32:36,560
+Ever?
+
+567
+00:32:36,600 --> 00:32:39,030
+Once.
+
+568
+00:32:39,060 --> 00:32:41,830
+She dropped your ass,
+didn't she?
+
+569
+00:32:43,260 --> 00:32:44,630
+What -
+
+570
+00:32:44,660 --> 00:32:48,200
+Got tired of you punching holes
+in the walls,
+
+571
+00:32:48,230 --> 00:32:51,160
+Waking up in the middle
+of the night screaming?
+
+572
+00:32:51,200 --> 00:32:57,030
+Was she always yelling,
+"you got to get help"?
+
+573
+00:32:57,060 --> 00:32:59,960
+So she sends you
+to some doctor,
+
+574
+00:33:00,000 --> 00:33:02,630
+But you don't go,
+
+575
+00:33:02,660 --> 00:33:07,700
+'Cause you know there's no help
+for this kind of fucked up.
+
+576
+00:33:07,730 --> 00:33:10,430
+And finally,
+she can't take it anymore,
+
+577
+00:33:10,460 --> 00:33:15,560
+And she just says, "adi骃."
+
+578
+00:33:20,960 --> 00:33:23,760
+That sound about right?
+
+579
+00:33:25,760 --> 00:33:28,130
+You got it wrong, man.
+
+580
+00:33:29,860 --> 00:33:32,360
+I left her.
+
+581
+00:33:32,400 --> 00:33:35,900
+And why was that?
+
+582
+00:33:35,930 --> 00:33:40,700
+'Cause i was afraid if i didn't,
+i'd kill her.
+
+583
+00:33:45,730 --> 00:33:48,230
+Let's take the boat out.
+
+584
+00:33:50,130 --> 00:33:52,430
+Now, why would we want
+to do that, man?
+
+585
+00:33:52,460 --> 00:33:54,530
+We'd get out of this heat,
+for one.
+
+586
+00:33:54,560 --> 00:33:58,230
+Nice ocean breeze.
+
+587
+00:33:58,260 --> 00:34:00,960
+Maybe head toward cuba.
+
+588
+00:34:01,000 --> 00:34:03,660
+No.
+
+589
+00:34:03,700 --> 00:34:05,700
+Come on, just get me
+to within sight.
+
+590
+00:34:05,730 --> 00:34:06,960
+I could swim from there.
+
+591
+00:34:07,000 --> 00:34:08,600
+Once i'm there,
+i could find the -
+
+592
+00:34:08,630 --> 00:34:09,700
+You're wasting your time.
+
+593
+00:34:11,430 --> 00:34:14,000
+Curtis, you're going back
+to the station with me.
+
+594
+00:34:14,030 --> 00:34:17,200
+No.
+I'm not going to prison.
+
+595
+00:34:17,230 --> 00:34:19,130
+I didn't mean to kill her.
+
+596
+00:34:19,160 --> 00:34:21,060
+It's the only way
+out of here.
+
+597
+00:34:24,630 --> 00:34:27,360
+Can't get you
+to reconsider?
+
+598
+00:34:29,100 --> 00:34:31,760
+Not a chance.
+
+599
+00:34:31,800 --> 00:34:34,400
+Well, that's too bad...
+
+600
+00:34:34,430 --> 00:34:38,330
+'cause like i said,
+i'm not going to prison.
+
+601
+00:34:38,360 --> 00:34:41,060
+Put the fucking gun down,
+curtis.
+
+602
+00:34:41,100 --> 00:34:42,360
+Don't make me do it,
+curtis!
+
+603
+00:34:51,430 --> 00:34:53,460
+Motherfucker.
+
+604
+00:35:06,630 --> 00:35:09,130
+You gonna tell me
+how you're doing?
+
+605
+00:35:09,160 --> 00:35:12,100
+I'm fine.
+
+606
+00:35:12,130 --> 00:35:15,130
+Come on, dex.
+Open up.
+
+607
+00:35:15,160 --> 00:35:17,630
+Very fine?
+
+608
+00:35:19,830 --> 00:35:21,860
+You're gonna have to do better
+than that.
+
+609
+00:35:21,900 --> 00:35:25,760
+What's going on inside
+your head?
+
+610
+00:35:25,800 --> 00:35:28,460
+What are you thinking?
+
+611
+00:35:30,060 --> 00:35:32,530
+I'm afraid we're...
+
+612
+00:35:32,560 --> 00:35:34,030
+done...
+
+613
+00:35:34,060 --> 00:35:36,900
+you and i.
+
+614
+00:35:36,930 --> 00:35:39,930
+Serious?
+
+615
+00:35:39,960 --> 00:35:42,700
+You're breaking up with me?
+
+616
+00:35:42,730 --> 00:35:47,460
+Actually, i don't think i want
+to answer any more questions.
+
+617
+00:35:47,500 --> 00:35:51,600
+Listen, dexter, whatever you
+think is right is wrong.
+
+618
+00:35:51,630 --> 00:35:52,800
+He asks you a question,
+
+619
+00:35:52,830 --> 00:35:54,930
+I want you to think
+of your answer first
+
+620
+00:35:54,960 --> 00:35:58,530
+And then tell him
+the exact opposite, okay?
+
+621
+00:35:58,560 --> 00:36:00,800
+So, let's just jump in,
+all right?
+
+622
+00:36:00,830 --> 00:36:01,930
+Does it make you angry
+
+623
+00:36:01,960 --> 00:36:03,400
+When your teachers tell you
+what to do?
+
+624
+00:36:05,260 --> 00:36:07,560
+No.
+
+625
+00:36:07,600 --> 00:36:09,930
+Are you often bored?
+
+626
+00:36:12,000 --> 00:36:13,660
+No.
+
+627
+00:36:13,700 --> 00:36:16,460
+Have you ever killed
+an animal?
+
+628
+00:36:16,500 --> 00:36:19,030
+No. Never.
+
+629
+00:36:26,530 --> 00:36:29,630
+I should get back to work.
+
+630
+00:36:29,660 --> 00:36:33,330
+Thanks...
+for everything.
+
+631
+00:36:47,500 --> 00:36:50,500
+I heard about pascal's
+little meltdown.
+
+632
+00:36:50,530 --> 00:36:53,230
+She's been under a lot
+of stress.
+
+633
+00:36:53,260 --> 00:36:55,030
+You're still doing it.
+
+634
+00:36:55,060 --> 00:36:56,230
+What's that?
+
+635
+00:36:56,260 --> 00:36:58,100
+Sticking up for her.
+
+636
+00:36:58,130 --> 00:37:00,630
+She is my superior.
+
+637
+00:37:02,130 --> 00:37:05,660
+You know, i may have
+misjudged you, maria.
+
+638
+00:37:05,700 --> 00:37:09,360
+Maybe you are more
+than a political animal.
+
+639
+00:37:09,400 --> 00:37:11,730
+You just might be
+a real cop.
+
+640
+00:37:11,760 --> 00:37:15,160
+That's what i've been trying
+to tell you.
+
+641
+00:37:15,200 --> 00:37:17,630
+You're back in charge
+of homicide,
+
+642
+00:37:17,660 --> 00:37:20,330
+Effective immediately.
+
+643
+00:37:23,400 --> 00:37:24,960
+Thank you.
+
+644
+00:37:27,330 --> 00:37:30,700
+Pascal just set women in
+the department back 20 years.
+
+645
+00:37:30,730 --> 00:37:33,100
+It's up to you
+to turn that around.
+
+646
+00:37:42,360 --> 00:37:46,930
+There it is,
+like a gigantic white whale.
+
+647
+00:37:46,960 --> 00:37:48,800
+My moby dick.
+
+648
+00:37:53,460 --> 00:37:57,830
+Man, this heat.
+I can't take it.
+
+649
+00:37:59,300 --> 00:38:03,730
+I've got to get in my car
+before i fucking melt.
+
+650
+00:38:05,760 --> 00:38:08,100
+Which is exactly
+what needs to happen
+
+651
+00:38:08,130 --> 00:38:10,800
+To my dearly departed friends.
+
+652
+00:38:21,800 --> 00:38:24,430
+Lila, what are you
+doing here?
+
+653
+00:38:24,460 --> 00:38:25,900
+Hey. Dexter.
+
+654
+00:38:25,930 --> 00:38:30,330
+You know, i've been thinking
+about you breaking up with me,
+
+655
+00:38:30,360 --> 00:38:35,100
+And, well, i don't think
+it's in your best interest.
+
+656
+00:38:38,860 --> 00:38:40,530
+I'm tired...
+
+657
+00:38:40,560 --> 00:38:43,060
+and hot,
+and i have somewhere to be.
+
+658
+00:38:43,100 --> 00:38:45,260
+I think you should give me
+another chance.
+
+659
+00:38:45,300 --> 00:38:47,930
+There's nothing you can do
+to help me.
+
+660
+00:38:47,960 --> 00:38:49,700
+It's not even you.
+It's me.
+
+661
+00:38:49,730 --> 00:38:53,300
+I am who i am,
+and nobody's gonna change that.
+
+662
+00:38:53,330 --> 00:38:56,100
+Whatever you think you are,
+
+663
+00:38:56,130 --> 00:38:59,300
+You don't have to be that.
+
+664
+00:39:00,600 --> 00:39:02,360
+That's where you're wrong.
+
+665
+00:39:02,400 --> 00:39:05,330
+Stop judging yourself.
+
+666
+00:39:05,360 --> 00:39:07,760
+There are no absolutes.
+
+667
+00:39:07,800 --> 00:39:11,130
+No one's all good or evil.
+
+668
+00:39:16,630 --> 00:39:20,500
+You're just gonna have
+to trust me on this.
+
+669
+00:39:20,530 --> 00:39:23,800
+Jesus, dexter! What are you
+so fucking scared of?
+
+670
+00:39:23,830 --> 00:39:25,860
+You make yourself
+into a monster
+
+671
+00:39:25,900 --> 00:39:29,030
+So you no longer bear
+responsibility for what you do.
+
+672
+00:39:29,060 --> 00:39:30,860
+"I can't help it.
+I'm a monster.
+
+673
+00:39:30,900 --> 00:39:33,460
+Oh, of course i was gonna
+do that - I'm a monster."
+
+674
+00:39:33,500 --> 00:39:36,560
+It's sad
+and it's pathetic...
+
+675
+00:39:36,600 --> 00:39:39,300
+and it breaks my heart.
+
+676
+00:39:39,330 --> 00:39:42,330
+You don't think there are
+monsters in this world?
+
+677
+00:39:42,360 --> 00:39:44,600
+You don't believe people
+are evil?
+
+678
+00:39:49,830 --> 00:39:52,060
+I'll show you evil.
+
+679
+00:40:08,030 --> 00:40:10,500
+Well, you want me
+to open one?
+
+680
+00:40:22,900 --> 00:40:25,160
+Joseph cepeda.
+
+681
+00:40:31,960 --> 00:40:34,160
+Wow.
+
+682
+00:40:35,900 --> 00:40:38,600
+Can i touch?
+
+683
+00:40:40,130 --> 00:40:42,130
+Okay.
+
+684
+00:40:48,400 --> 00:40:51,160
+This isn't exactly the reaction
+i was looking for.
+
+685
+00:40:51,200 --> 00:40:55,460
+Well, i've never seen anything
+like this before.
+
+686
+00:40:55,500 --> 00:40:58,860
+You're not disgusted...
+
+687
+00:40:58,900 --> 00:41:01,530
+appalled, horrified?
+
+688
+00:41:04,330 --> 00:41:06,530
+It's...
+
+689
+00:41:06,560 --> 00:41:09,530
+incredible.
+
+690
+00:41:11,700 --> 00:41:14,160
+But the person
+who did this...
+
+691
+00:41:14,200 --> 00:41:17,130
+is a person just like me,
+
+692
+00:41:17,160 --> 00:41:18,560
+Like you.
+
+693
+00:41:18,600 --> 00:41:22,300
+We're all good, dexter,
+
+694
+00:41:22,330 --> 00:41:24,700
+And we're all evil.
+
+695
+00:41:27,200 --> 00:41:29,000
+I thought i closed the door
+
+696
+00:41:29,030 --> 00:41:31,230
+To anyone ever seeing me
+for who i am,
+
+697
+00:41:31,260 --> 00:41:33,330
+But this woman sees me.
+
+698
+00:41:33,360 --> 00:41:34,860
+She doesn't know it,
+
+699
+00:41:34,900 --> 00:41:37,530
+But she's looking
+behind the mask,
+
+700
+00:41:37,560 --> 00:41:38,900
+And she's not turning away.
+
+701
+00:41:41,100 --> 00:41:43,330
+You really impressed me
+in there today, son.
+
+702
+00:41:43,360 --> 00:41:46,330
+I don't know how you did it,
+but great job.
+
+703
+00:41:46,360 --> 00:41:49,430
+I just pretended to be
+someone else.
+
+704
+00:41:49,460 --> 00:41:50,900
+Well, it's working.
+Keep doing it.
+
+705
+00:41:50,930 --> 00:41:53,730
+I mean, that doctor didn't even
+see the monster inside you.
+
+706
+00:41:57,900 --> 00:41:59,160
+I mean, not monster.
+
+707
+00:41:59,200 --> 00:42:02,600
+It's just, son, you know
+that you have these dark urges.
+
+708
+00:42:02,630 --> 00:42:05,400
+Anyway, good job.
+
+709
+00:42:10,530 --> 00:42:13,760
+And somehow,
+even under all this pressure,
+
+710
+00:42:13,800 --> 00:42:18,560
+She's able to make me feel okay
+about who i am and what i am.
+
+711
+00:42:26,100 --> 00:42:28,330
+So...
+
+712
+00:42:30,530 --> 00:42:32,500
+...see you soon?
+
+713
+00:42:34,430 --> 00:42:36,000
+Yes.
+
+714
+00:42:43,700 --> 00:42:45,200
+I'm here for you.
+
+715
+00:43:16,830 --> 00:43:18,500
+I've already told you
+everything.
+
+716
+00:43:18,530 --> 00:43:20,930
+I know. I'm sorry.
+
+717
+00:43:20,960 --> 00:43:24,100
+I came here to apologize.
+
+718
+00:43:24,130 --> 00:43:26,860
+You were very rude.
+
+719
+00:43:26,900 --> 00:43:27,860
+I was.
+
+720
+00:43:29,360 --> 00:43:30,660
+It was shameful of me
+
+721
+00:43:30,700 --> 00:43:33,130
+To disgrace the memory
+of your husband.
+
+722
+00:43:35,500 --> 00:43:37,860
+Thank you.
+
+723
+00:43:39,500 --> 00:43:42,300
+It's been a rough few days,
+
+724
+00:43:42,330 --> 00:43:46,700
+Not that you should care
+about that, but...
+
+725
+00:43:46,730 --> 00:43:50,200
+you know,
+all these bodies -
+
+726
+00:43:50,230 --> 00:43:52,800
+I've never seen anything
+like it.
+
+727
+00:43:52,830 --> 00:43:57,400
+All murdered...
+
+728
+00:43:57,430 --> 00:44:00,530
+cut into pieces.
+
+729
+00:44:00,560 --> 00:44:04,660
+The only way i could
+make sense out of it
+
+730
+00:44:04,700 --> 00:44:08,130
+Was to convince myself
+that they deserved it.
+
+731
+00:44:08,160 --> 00:44:11,830
+They all needed
+to be bad people.
+
+732
+00:44:11,860 --> 00:44:15,000
+But i should never have
+taken it out on you.
+
+733
+00:44:25,100 --> 00:44:27,030
+Can you feel it?
+
+734
+00:44:27,060 --> 00:44:29,860
+The breeze?
+
+735
+00:44:29,900 --> 00:44:33,360
+Coming over the water?
+
+736
+00:44:33,400 --> 00:44:35,530
+It's nice.
+
+737
+00:44:35,560 --> 00:44:37,330
+Yeah.
+
+738
+00:44:37,360 --> 00:44:39,330
+It's finally cooling down.
+
+739
+00:44:46,060 --> 00:44:48,100
+Have a nice evening.
+
+740
+00:44:48,130 --> 00:44:50,830
+Wait.
+
+741
+00:44:54,660 --> 00:44:56,800
+My husband -
+
+742
+00:44:56,830 --> 00:45:00,130
+He kept guns hidden
+in the walls.
+
+743
+00:45:00,160 --> 00:45:02,160
+I can show you.
+
+744
+00:45:28,730 --> 00:45:31,700
+I've never broken into my own
+place of employment,
+
+745
+00:45:31,730 --> 00:45:33,730
+But desperate times...
+
+746
+00:45:46,460 --> 00:45:48,830
+garbagemen can be so careless.
+
+747
+00:45:50,800 --> 00:45:54,860
+I say put this bay harbor
+butcher on the city payroll.
+
+748
+00:45:54,900 --> 00:45:57,030
+Give him a corner office,
+a company car,
+
+749
+00:45:57,060 --> 00:45:58,830
+And all the ammunition
+he needs.
+
+750
+00:45:58,860 --> 00:46:01,800
+At least somebody is doing
+something to clean up miami,
+
+751
+00:46:01,830 --> 00:46:03,330
+Which is more than i can say
+
+752
+00:46:03,360 --> 00:46:05,400
+For those folks
+down at city hall.
+
+753
+00:46:14,330 --> 00:46:15,360
+Hey, debra.
+
+754
+00:46:15,400 --> 00:46:16,430
+Hi.
+
+755
+00:46:16,460 --> 00:46:19,400
+Sorry about last night.
+
+756
+00:46:20,530 --> 00:46:22,700
+Don't be.
+
+757
+00:46:22,730 --> 00:46:26,560
+Maybe we can, uh,
+do it again.
+
+758
+00:46:28,200 --> 00:46:30,560
+How would you feel
+about a real date -
+
+759
+00:46:30,600 --> 00:46:34,130
+You know, with clothes on?
+
+760
+00:46:34,160 --> 00:46:37,030
+Where we actually talk
+and get to know each other?
+
+761
+00:46:37,060 --> 00:46:38,330
+Something like that.
+
+762
+00:46:38,360 --> 00:46:41,730
+Sounds good.
+How about saturday?
+
+763
+00:46:41,760 --> 00:46:43,860
+Deal.
+
+764
+00:46:45,200 --> 00:46:47,700
+Pick you up at 8:00.
+
+765
+00:46:53,160 --> 00:46:54,560
+And with us right now,
+
+766
+00:46:54,600 --> 00:46:56,200
+We have psychologist
+sandy ramos
+
+767
+00:46:56,230 --> 00:46:58,830
+To provide insight into
+the bay harbor butcher -
+
+768
+00:46:58,860 --> 00:47:02,700
+Evil serial killer
+or avenging force for good?
+
+769
+00:47:05,700 --> 00:47:09,000
+This is the last time.
+
+770
+00:47:09,030 --> 00:47:10,960
+Bertrand?
+
+771
+00:47:12,200 --> 00:47:14,930
+Babe, come on.
+You don't mean that.
+
+772
+00:47:14,960 --> 00:47:17,260
+No, i do mean it.
+I do.
+
+773
+00:47:17,300 --> 00:47:18,900
+I can't see you anymore.
+
+774
+00:47:18,930 --> 00:47:21,730
+Wait, wait, wait, wait, no.
+No, wait, no.
+
+775
+00:47:21,760 --> 00:47:24,200
+I don't understand, maria.
+
+776
+00:47:24,230 --> 00:47:26,560
+This - This is done.
+
+777
+00:47:26,600 --> 00:47:28,860
+She's gone.
+It's over with.
+
+778
+00:47:28,900 --> 00:47:33,460
+We can finally be out
+in the open.
+
+779
+00:47:33,500 --> 00:47:35,930
+Just you and me, okay?
+
+780
+00:47:35,960 --> 00:47:38,930
+Just like what we wanted.
+
+781
+00:47:38,960 --> 00:47:41,830
+No, bertrand, stop.
+
+782
+00:47:41,860 --> 00:47:45,330
+Stop it.
+Stop, stop, stop. Stop!
+
+783
+00:47:47,330 --> 00:47:50,430
+Go back to esmee.
+
+784
+00:47:53,660 --> 00:47:55,700
+So, what,
+this is how it is?
+
+785
+00:47:58,000 --> 00:47:59,700
+You get your job back,
+
+786
+00:47:59,730 --> 00:48:02,500
+And now you - You're -
+You're through with me?
+
+787
+00:48:02,530 --> 00:48:03,900
+Look, don't play the victim.
+
+788
+00:48:03,930 --> 00:48:06,100
+You knew what this was
+from the beginning.
+
+789
+00:48:08,600 --> 00:48:12,260
+You are one coldhearted bitch,
+i'll tell you that.
+
+790
+00:48:13,600 --> 00:48:16,000
+No, you don't get
+to tell me anything!
+
+791
+00:48:16,030 --> 00:48:19,200
+I am not the piece of shit
+fucking another woman
+
+792
+00:48:19,230 --> 00:48:20,430
+Behind his fianc镋's back!
+
+793
+00:48:20,460 --> 00:48:22,730
+You try and judge me,
+asshole.
+
+794
+00:48:25,660 --> 00:48:28,260
+You don't know
+the first thing about me.
+
+795
+00:48:40,760 --> 00:48:43,760
+Yeah, so,
+i think i misjudged lila.
+
+796
+00:48:43,800 --> 00:48:46,430
+Are you sure?
+
+797
+00:48:46,460 --> 00:48:47,760
+I mean,
+she's unconventional,
+
+798
+00:48:47,800 --> 00:48:51,430
+But i think she's the best
+sponsor... for me.
+
+799
+00:48:53,500 --> 00:48:56,460
+Well, if she can help
+keep you clean.
+
+800
+00:48:56,500 --> 00:48:58,330
+Chop, chop, chop, chop,
+chop, chop, chop, chop!
+
+801
+00:48:58,360 --> 00:49:01,600
+Whoa, who's this?
+Could it be robin hood?
+
+802
+00:49:01,630 --> 00:49:03,960
+No, i'm the butcher man!
+
+803
+00:49:04,000 --> 00:49:05,200
+I made it for him.
+
+804
+00:49:05,230 --> 00:49:08,000
+I thought it might help
+with the nightmares.
+
+805
+00:49:08,030 --> 00:49:10,260
+Bet you didn't know
+you could fly.
+
+806
+00:49:16,830 --> 00:49:22,260
+Have i misjudged lila?
+I have no idea.
+
+807
+00:49:22,300 --> 00:49:25,460
+I do know she's helping me look
+at myself in a different way.
+
+808
+00:49:28,130 --> 00:49:30,000
+He's good, that one.
+
+809
+00:49:30,030 --> 00:49:32,560
+I know.
+I got lucky.
+
+810
+00:49:32,600 --> 00:49:35,960
+Quite an actor.
+
+811
+00:49:36,000 --> 00:49:39,300
+He's hiding something.
+I'm sure of it.
+
+812
+00:49:48,630 --> 00:49:51,030
+For example,
+we find the genus nitzschia,
+
+813
+00:49:51,060 --> 00:49:54,030
+And we know we're talking
+about a freshwater marina,
+
+814
+00:49:54,060 --> 00:49:55,800
+And the algae
+can tell us more
+
+815
+00:49:55,830 --> 00:49:58,230
+About what kind of pollutants
+are in the water,
+
+816
+00:49:58,260 --> 00:50:00,660
+Which would even further
+narrow...
+
+817
+00:50:18,630 --> 00:50:20,130
+damn it!
+
+818
+00:50:22,030 --> 00:50:23,530
+For the first time,
+
+819
+00:50:23,560 --> 00:50:27,560
+I feel the future might hold
+something different for me.
+
+820
+00:50:27,600 --> 00:50:30,760
+It's possible
+i'm just fooling myself,
+
+821
+00:50:30,800 --> 00:50:32,960
+But i'm willing
+to take the risk.
+
+822
+00:50:35,260 --> 00:50:37,200
+Fucking garbagemen.
+
+823
+00:50:37,230 --> 00:50:38,330
+Oh?
+
+824
+00:50:38,360 --> 00:50:39,760
+Broke the
+refrigeration unit.
+
+825
+00:50:39,800 --> 00:50:41,360
+It blew hot air all night.
+
+826
+00:50:41,400 --> 00:50:44,160
+It turned the bodies
+into pink mush.
+
+827
+00:50:44,200 --> 00:50:46,500
+How awful!
+
+828
+00:50:46,530 --> 00:50:47,930
+Completely ruined.
+
+829
+00:50:49,960 --> 00:50:53,330
+You brought your marine
+biologist and everything.
+
+830
+00:50:53,360 --> 00:50:56,630
+Yeah.
+It made him vomit.
+
+831
+00:51:00,300 --> 00:51:03,130
+Anyway, good thing the heat
+didn't affect the rocks.
+
+832
+00:51:03,160 --> 00:51:06,260
+Lundy had us store them
+separately.
+
+833
+00:51:06,300 --> 00:51:07,900
+The rocks?
+
+834
+00:51:07,930 --> 00:51:10,260
+Yeah. The algae we found
+on the rocks.
+
+835
+00:51:10,300 --> 00:51:13,260
+The bay harbor butcher used them
+to weigh his bags down.
+
+836
+00:51:13,300 --> 00:51:16,330
+We're assuming he picked them up
+where he docks his boat.
+
+837
+00:51:20,500 --> 00:51:22,700
+But i thought
+the marine biologist
+
+838
+00:51:22,730 --> 00:51:24,330
+Came to examine the bodies.
+
+839
+00:51:24,360 --> 00:51:26,830
+No. No, it's all about
+the rocks, baby.
+
+840
+00:51:26,860 --> 00:51:28,330
+Manny took him to his lab.
+
+841
+00:51:28,360 --> 00:51:29,800
+Should have results
+in a week or so.
+
+842
+00:51:29,830 --> 00:51:33,860
+That should help us narrow down
+what marina they came from.
+
+843
+00:51:33,900 --> 00:51:36,460
+It's an odd sensation
+to be experiencing
+
+844
+00:51:36,500 --> 00:51:39,900
+What might be called hope
+for the first time in my life.
+
+845
+00:51:39,930 --> 00:51:41,230
+At the same time,
+
+846
+00:51:41,260 --> 00:51:43,400
+I suddenly find myself
+weighing the benefits
+
+847
+00:51:43,430 --> 00:51:46,560
+Of electrocution
+versus lethal injection.
+
+848
+00:51:46,600 --> 00:51:48,260
+But here i am.

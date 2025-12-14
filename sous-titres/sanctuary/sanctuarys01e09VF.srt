@@ -1,0 +1,2433 @@
+1
+00:00:03,045 --> 00:00:04,049
+Allez...
+
+2
+00:00:06,485 --> 00:00:07,586
+Ça marche.
+
+3
+00:00:22,375 --> 00:00:23,407
+Allez.
+
+4
+00:00:32,491 --> 00:00:33,589
+Non, pas ça.
+
+5
+00:00:37,865 --> 00:00:38,865
+Quoi ?
+
+6
+00:00:46,605 --> 00:00:47,797
+Ne faites pas ça.
+
+7
+00:00:48,525 --> 00:00:49,775
+S'il vous plaît !
+
+8
+00:00:50,255 --> 00:00:53,051
+Vous ne pouvez pas faire ça !
+<i>S'il vous plaît !</i>
+
+9
+00:01:09,105 --> 00:01:10,447
+Laissez-moi sortir !
+
+10
+00:01:11,385 --> 00:01:12,445
+S'il vous plaît !
+
+11
+00:01:40,977 --> 00:01:42,268
+La Team Projet-SG
+
+12
+00:01:42,803 --> 00:01:43,978
+présente :
+
+13
+00:01:44,146 --> 00:01:47,189
+Sanctuary - Saison 1 Épisode 09
+Requiem (v. 1.00)
+
+14
+00:01:47,357 --> 00:01:51,694
+Synchro par : Arrow,
+Kujathemas, nitrogenc, Salomon.
+
+15
+00:01:51,862 --> 00:01:55,572
+Traduction par : Kujathemas,
+nitrogenc, Salomon.
+
+16
+00:01:55,740 --> 00:02:00,911
+Relecture par : Arrow, Kujathemas,
+nitrogenc, Salomon.
+
+17
+00:02:08,717 --> 00:02:10,753
+http://projet-sg.net
+
+18
+00:02:12,395 --> 00:02:16,395
+140 KM AU NORD DE PORTO RICO
+
+19
+00:02:16,520 --> 00:02:20,086
+6 HEURES PLUS TÔT
+
+20
+00:02:22,655 --> 00:02:24,624
+- H.G. Wells ?
+- Oui.
+
+21
+00:02:25,885 --> 00:02:27,455
+Ensuite, Jules Verne...
+
+22
+00:02:27,776 --> 00:02:30,426
+Évidemment, d'où le nom
+de mon sous-marin.
+
+23
+00:02:32,535 --> 00:02:34,998
+- Louis Pasteur ?
+- C'était mon parrain.
+
+24
+00:02:35,945 --> 00:02:38,125
+Mon père et lui
+étaient de bons amis.
+
+25
+00:02:39,025 --> 00:02:40,370
+- Roosevelt ?
+- Les deux.
+
+26
+00:02:40,495 --> 00:02:42,077
+Teddy était plus sympa que Frank.
+
+27
+00:02:43,145 --> 00:02:45,120
+Ça vaut pour les autres
+présidents, aussi ?
+
+28
+00:02:45,245 --> 00:02:46,123
+La plupart.
+
+29
+00:02:46,605 --> 00:02:49,460
+Hoover était un imbécile fini,
+et Harding, disons que malheureusement,
+
+30
+00:02:49,585 --> 00:02:51,837
+il n'a pu garder forme humaine
+assez longtemps.
+
+31
+00:02:53,495 --> 00:02:54,495
+Harding...
+
+32
+00:02:55,445 --> 00:02:56,549
+était un anormal ?
+
+33
+00:02:56,674 --> 00:03:00,140
+Vous pensez qu'une personne normale
+choisirait un boulot aussi difficile ?
+
+34
+00:03:00,265 --> 00:03:01,730
+Ne soyez pas ridicule.
+
+35
+00:03:01,855 --> 00:03:03,700
+Les gens
+que vous avez rencontrés,
+
+36
+00:03:03,825 --> 00:03:05,990
+l'Histoire
+dont vous êtes témoin,
+
+37
+00:03:06,115 --> 00:03:07,860
+comment vous liez-vous aux gens ?
+
+38
+00:03:07,985 --> 00:03:11,300
+- Le dîner devait être un enfer.
+- L'Histoire n'est que ça.
+
+39
+00:03:11,425 --> 00:03:12,610
+C'est l'Histoire.
+
+40
+00:03:12,735 --> 00:03:15,944
+On l'a tous vécue. J'ai juste plus
+d'expérience que la plupart des gens.
+
+41
+00:03:17,405 --> 00:03:19,640
+Vous étiez à Reims
+quand les Nazis se sont rendus.
+
+42
+00:03:19,765 --> 00:03:21,992
+Vous étiez dans la pièce,
+quand ça s'est produit.
+
+43
+00:03:22,355 --> 00:03:25,162
+Parce que Eisenhower a refusé
+d'être en compagnie du général Jodl,
+
+44
+00:03:25,525 --> 00:03:28,900
+et a demandé à ce que j'accompagne Smith
+pour s'assurer que tout se passe bien.
+
+45
+00:03:29,025 --> 00:03:32,586
+Ike ne voulait sûrement pas respirer
+le même air que les officiers Nazis.
+
+46
+00:03:32,754 --> 00:03:35,040
+Certains ne respiraient
+même pas d'air.
+
+47
+00:03:36,355 --> 00:03:37,725
+Ça doit être Henry.
+
+48
+00:03:40,575 --> 00:03:42,054
+<i>Ohé, moussaillons !</i>
+
+49
+00:03:44,285 --> 00:03:46,016
+<i>C'est parce que vous êtes en mer.</i>
+
+50
+00:03:46,625 --> 00:03:49,144
+Henry, tu es sûr que ce sont
+les bonnes coordonnées ?
+
+51
+00:03:49,365 --> 00:03:51,605
+<i>Absolument.
+Le signal psychique que Sally a reçu</i>
+
+52
+00:03:51,773 --> 00:03:53,440
+<i>provient de là où vous vous trouvez,</i>
+
+53
+00:03:53,608 --> 00:03:55,670
+<i>mais elle dit
+que depuis votre départ du port,</i>
+
+54
+00:03:55,795 --> 00:03:58,650
+<i>elle n'a pas eu de nouveaux contacts
+avec son peuple.</i>
+
+55
+00:03:58,775 --> 00:04:01,573
+- Tu as dit Sally ?
+- <i>C'était son idée.</i>
+
+56
+00:04:02,385 --> 00:04:04,868
+C'est notre surnom
+pour la sirène du Sanctuaire.
+
+57
+00:04:05,115 --> 00:04:08,163
+- Elle a déjà un nom, vous savez.
+- Qui est imprononçable.
+
+58
+00:04:08,505 --> 00:04:09,665
+<i>C'est vrai.</i>
+
+59
+00:04:09,833 --> 00:04:12,918
+En plus, c'est mieux si son nom
+lui correspond, comme... Ariel.
+
+60
+00:04:13,385 --> 00:04:15,212
+- <i>Marina.</i>
+- Oceana.
+
+61
+00:04:15,380 --> 00:04:17,547
+- <i>Ursula.</i>
+- Vous avez fini tous les deux ?
+
+62
+00:04:17,715 --> 00:04:20,050
+<i>Alors, vous y êtes ?
+Au milieu de lui, en ce moment ?</i>
+
+63
+00:04:20,218 --> 00:04:21,885
+Ce n'est pas aussi excitant.
+
+64
+00:04:22,053 --> 00:04:24,877
+<i>Vous plaisantez ? Doc, vous êtes
+en plein Triangle des Bermudes !</i>
+
+65
+00:04:25,002 --> 00:04:27,557
+<i>Les gens ont spéculé sur ce coin d'océan
+pendant des siècles.</i>
+
+66
+00:04:28,125 --> 00:04:29,768
+<i>Navires et avions y disparaissent.</i>
+
+67
+00:04:29,936 --> 00:04:31,353
+- <i>Allez !</i>
+- Il a raison.
+
+68
+00:04:31,521 --> 00:04:34,606
+On parle de fuites temporelles
+et de portes interdimensionnelles...
+
+69
+00:04:34,875 --> 00:04:38,220
+- <i>Des enlèvements extraterrestres ?</i>
+- C'est l'océan. Sérieusement.
+
+70
+00:04:40,345 --> 00:04:43,090
+On te rappellera après avoir
+pris contact avec les sirènes.
+
+71
+00:04:43,215 --> 00:04:45,695
+<i>OK, mais si vous trouvez
+ces aviateurs de la 2nde Guerre...</i>
+
+72
+00:04:49,935 --> 00:04:52,145
+Je dois l'admettre,
+c'est assez cool,
+
+73
+00:04:52,485 --> 00:04:54,305
+vous savez, d'être dans un...
+
+74
+00:04:54,656 --> 00:04:56,235
+lieu aussi mythique.
+
+75
+00:04:57,025 --> 00:04:59,340
+À part une forte concentration
+d'anormaux des mers,
+
+76
+00:04:59,465 --> 00:05:01,570
+cet endroit n'a rien
+de vraiment extraordinaire.
+
+77
+00:05:01,695 --> 00:05:03,910
+Pourquoi toutes les sirènes
+décident de vivre ici ?
+
+78
+00:05:04,035 --> 00:05:05,820
+Pourquoi une espèce vit
+à un endroit ?
+
+79
+00:05:05,945 --> 00:05:08,139
+Réserve de nourriture,
+climat agréable, sécurité.
+
+80
+00:05:08,345 --> 00:05:09,440
+Donc c'est pas...
+
+81
+00:05:09,565 --> 00:05:12,740
+des ondes magnétiques,
+une porte temporelle, ou autre chose ?
+
+82
+00:05:12,865 --> 00:05:16,710
+- Vous avez vu trop de films de série B.
+- Notre vie entière en est un.
+
+83
+00:05:16,835 --> 00:05:19,484
+C'est un classique,
+à moins que je me trompe, mais...
+
+84
+00:05:24,305 --> 00:05:27,033
+On est beaucoup plus bas
+que leur habitat naturel.
+
+85
+00:05:27,201 --> 00:05:29,910
+Mais elle est sûre d'avoir entendu
+un signal de détresse ?
+
+86
+00:05:30,285 --> 00:05:33,570
+Ouais, elle l'a décrit comme
+une série d'images à peine visibles.
+
+87
+00:05:33,695 --> 00:05:36,293
+Des flashs de colère, de violence,
+et puis plus rien.
+
+88
+00:05:37,055 --> 00:05:38,355
+C'est effrayant.
+
+89
+00:05:38,795 --> 00:05:40,588
+Silence radio
+depuis sa ville natale.
+
+90
+00:05:45,675 --> 00:05:48,820
+Je pensais que les sirènes
+étaient une espèce pacifique.
+
+91
+00:05:48,945 --> 00:05:50,065
+Elles le sont.
+
+92
+00:05:50,775 --> 00:05:53,015
+Quelque chose a changé.
+Regardez ça.
+
+93
+00:06:08,915 --> 00:06:10,525
+Une sorte de massacre.
+
+94
+00:06:12,305 --> 00:06:13,441
+Il semblerait.
+
+95
+00:06:14,035 --> 00:06:16,166
+Les scans n'indiquent
+aucun signe de vie.
+
+96
+00:06:18,245 --> 00:06:21,530
+Regardez ça, c'est comme si
+elles avaient été déchiquetées.
+
+97
+00:06:21,655 --> 00:06:24,000
+C'est peut-être
+un nouveau type d'espèce,
+
+98
+00:06:24,125 --> 00:06:27,217
+un prédateur qui aura revendiqué
+son territoire de chasse.
+
+99
+00:06:27,386 --> 00:06:30,950
+Comme un requin géant, ou une créature
+de la mer ? Peut-être un Kraken ?
+
+100
+00:06:31,075 --> 00:06:33,877
+Un Kraken ?
+Sérieusement, ce n'est qu'un mythe.
+
+101
+00:06:35,025 --> 00:06:36,980
+Heureusement,
+j'ai pas dit "Requin-Pieuvre".
+
+102
+00:06:37,105 --> 00:06:40,491
+Je ne vois pas ce qui aurait pu
+causer un tel carnage
+
+103
+00:06:41,295 --> 00:06:42,637
+à cette espèce.
+
+104
+00:06:54,445 --> 00:06:56,875
+Le torse est tranché
+au niveau du plastron.
+
+105
+00:06:57,425 --> 00:07:01,130
+Sans décomposition, difficile de dire
+depuis combien de temps elle est morte.
+
+106
+00:07:01,255 --> 00:07:03,840
+Vous savez,
+ce sont des marques de dents,
+
+107
+00:07:03,965 --> 00:07:06,174
+ce qui corrobore
+notre théorie du prédateur.
+
+108
+00:07:07,855 --> 00:07:09,624
+C'est peut-être
+une espèce pacifique,
+
+109
+00:07:09,749 --> 00:07:12,160
+mais elles ne sont pas sans ressource
+ni détermination.
+
+110
+00:07:12,285 --> 00:07:14,760
+Elles savent comment répliquer
+si on les provoque.
+
+111
+00:07:14,885 --> 00:07:18,355
+Bien, donc si elles n'ont pas été
+mangées par une autre créature,
+
+112
+00:07:18,480 --> 00:07:20,123
+c'était une attaque.
+
+113
+00:07:20,845 --> 00:07:22,800
+Vous pensez qu'il peut
+s'agir d'humains ?
+
+114
+00:07:22,925 --> 00:07:23,926
+Possible.
+
+115
+00:07:24,385 --> 00:07:26,986
+Au vu du nombre de morts,
+ça pourrait être un génocide.
+
+116
+00:07:27,305 --> 00:07:28,910
+Et si c'était un accident ?
+
+117
+00:07:29,035 --> 00:07:32,660
+Une manoeuvre militaire, une grenade
+sous-marine, ou une mine flottante ?
+
+118
+00:07:32,785 --> 00:07:35,495
+Il y aurait eu des brûlures, des éclats.
+Je ne vois aucun des deux.
+
+119
+00:07:36,105 --> 00:07:37,215
+Excusez-moi.
+
+120
+00:07:39,255 --> 00:07:41,343
+Je dis juste, pour information,
+
+121
+00:07:42,105 --> 00:07:44,974
+- Triangle des Bermudes égal mystère.
+- Regardez.
+
+122
+00:07:45,945 --> 00:07:49,934
+Il y a ce fluide que je n'arrive pas à
+identifier derrière la paroi crânienne.
+
+123
+00:07:51,965 --> 00:07:54,472
+Des analyses nous éclairerons mieux
+sur ce que c'est.
+
+124
+00:07:55,255 --> 00:07:58,334
+Savez-vous pourquoi
+cette espèce a pu s'entretuer ?
+
+125
+00:07:59,061 --> 00:08:01,210
+Elles s'entraident
+beaucoup pour survivre.
+
+126
+00:08:01,335 --> 00:08:03,356
+Leur société
+est incroyablement bienveillante.
+
+127
+00:08:03,705 --> 00:08:07,276
+- Combien de mortes d'après vous ?
+- J'en ai compté plus d'une centaine.
+
+128
+00:08:07,444 --> 00:08:10,446
+Du fait de la rareté de leur espèce,
+c'est catastrophique.
+
+129
+00:08:20,355 --> 00:08:22,406
+Très bien, on a tout remballé.
+
+130
+00:08:23,375 --> 00:08:25,753
+Écoutez, vous êtes sûre
+de vouloir rentrer ?
+
+131
+00:08:26,565 --> 00:08:30,290
+Il doit bien y avoir des preuves, ici,
+pour nous dire ce qu'il s'est passé.
+
+132
+00:08:30,415 --> 00:08:33,553
+On a balayé plusieurs fois la zone.
+Jusqu'ici il n'y a rien d'autre dehors.
+
+133
+00:08:33,721 --> 00:08:36,259
+Plus vite on fera une analyse détaillée
+de ces échantillons,
+
+134
+00:08:36,384 --> 00:08:38,723
+plus vite on en saura
+sur cet événement.
+
+135
+00:08:39,035 --> 00:08:42,436
+J'apprécie que vous souhaitiez rester.
+Ashley a dit que vous appréhendiez ça.
+
+136
+00:08:43,525 --> 00:08:45,980
+Honnêtement, être coincé
+pendant dix heures dans une boîte
+
+137
+00:08:46,105 --> 00:08:48,125
+n'est pas pour moi
+des plus attirants.
+
+138
+00:08:48,250 --> 00:08:50,800
+Mais c'est dix heures coincé
+dans une boîte avec moi
+
+139
+00:08:50,925 --> 00:08:52,485
+et toutes vos questions.
+
+140
+00:08:53,535 --> 00:08:54,448
+C'est vrai.
+
+141
+00:08:54,825 --> 00:08:57,214
+On devrait être de retour à San Juan
+dans six heures.
+
+142
+00:08:57,339 --> 00:08:59,552
+Je vais faire une sieste
+avant qu'on arrive au port.
+
+143
+00:08:59,677 --> 00:09:00,677
+D'accord.
+
+144
+00:09:44,041 --> 00:09:44,915
+Ça va ?
+
+145
+00:09:46,085 --> 00:09:47,635
+Quelque chose ne va pas.
+
+146
+00:09:51,355 --> 00:09:53,299
+- Ma tête !
+- Vous saignez.
+
+147
+00:09:53,467 --> 00:09:55,552
+- Vous ne ressentez pas la pression ?
+- Ça va.
+
+148
+00:09:55,677 --> 00:09:57,147
+- On doit s'arrêter.
+- Quoi ?
+
+149
+00:09:57,272 --> 00:09:59,745
+- On doit s'arrêter de remonter !
+- Qu'est-ce qui se passe ?
+
+150
+00:09:59,870 --> 00:10:03,642
+Je n'en sais rien ! Juste que ça empire
+quand on remonte vers la surface !
+
+151
+00:10:03,810 --> 00:10:06,345
+Comment pouvez-vous souffrir
+de la maladie des caissons ?
+
+152
+00:10:06,470 --> 00:10:07,780
+Nous devons descendre !
+
+153
+00:10:07,905 --> 00:10:10,193
+Non, écoutez, je pense
+qu'on doit vous soigner.
+
+154
+00:10:10,395 --> 00:10:12,610
+Un saignement extra-crânien
+n'est pas bon signe.
+
+155
+00:10:13,045 --> 00:10:15,863
+Je ne résisterai pas à une autre
+remontée. Nous devons redescendre.
+
+156
+00:10:16,031 --> 00:10:18,199
+- Non, ça pourrait empirer.
+- Je sais ! Mais...
+
+157
+00:10:19,993 --> 00:10:21,213
+Que faites-vous ?
+
+158
+00:10:21,338 --> 00:10:24,239
+Je ne nous ramène à la bonne profondeur
+pour qu'on comprenne mieux.
+
+159
+00:10:24,364 --> 00:10:27,682
+- Je sais pas si c'est une bonne idée.
+- Je n'ai pas le choix !
+
+160
+00:10:41,535 --> 00:10:43,940
+On est revenus
+à la profondeur initiale.
+
+161
+00:10:44,065 --> 00:10:47,175
+Normalement, ce n'est pas moi
+qui ai des problèmes.
+
+162
+00:10:48,515 --> 00:10:52,231
+Si je devais me prononcer, je dirais
+que vous avez eu une petite crise.
+
+163
+00:10:52,356 --> 00:10:55,957
+Votre pression sanguine grimpe.
+Les temps de réaction sont lents.
+
+164
+00:10:56,885 --> 00:10:59,170
+Vous aviez encore raison
+à propos de redescendre.
+
+165
+00:10:59,295 --> 00:11:03,096
+- Ça a atténué la douleur, on dirait.
+- Mais je suis la seule touchée.
+
+166
+00:11:04,195 --> 00:11:07,700
+Ça doit venir de votre physiologie,
+qui interagit avec les profondeurs.
+
+167
+00:11:07,825 --> 00:11:10,660
+J'ai déjà plongé des centaines de fois.
+Rien ne s'est jamais produit,
+
+168
+00:11:10,785 --> 00:11:13,712
+et comme vous l'avez dit, l'atmosphère
+est celle du niveau de la mer, ici.
+
+169
+00:11:14,165 --> 00:11:16,535
+Nous ne devrions rien ressentir
+quand on refait surface.
+
+170
+00:11:16,660 --> 00:11:20,515
+Néanmoins, saignement de l'oreille
+et du nez, désorientation, vertiges...
+
+171
+00:11:20,835 --> 00:11:23,425
+- Ce n'est pas la maladie des caissons.
+- C'est autre chose.
+
+172
+00:11:23,550 --> 00:11:25,800
+Avec un scanner, on en saurait plus.
+
+173
+00:11:26,434 --> 00:11:29,395
+Il faut que j'analyse mon sang,
+pour vérifier mes niveaux d'azote,
+
+174
+00:11:30,235 --> 00:11:33,675
+et écarter toute infection ou maladie
+qui ait pu déclencher cela.
+
+175
+00:11:40,175 --> 00:11:43,100
+Donnez-lui du temps. Je lui ai demandé
+de contrôler beaucoup de points.
+
+176
+00:11:43,225 --> 00:11:45,369
+- Vous vous sentez comment ?
+- Bien.
+
+177
+00:11:48,005 --> 00:11:49,305
+Vous êtes sûre ?
+
+178
+00:11:49,885 --> 00:11:51,115
+J'en suis sûre.
+
+179
+00:11:58,815 --> 00:12:01,427
+Désolé.
+Je ne voulais pas vous suivre.
+
+180
+00:12:01,595 --> 00:12:04,467
+Si vous préférez être seule pendant
+l'attente, je peux rester derrière.
+
+181
+00:12:04,592 --> 00:12:06,155
+Ne soyez pas ridicule.
+
+182
+00:12:07,705 --> 00:12:10,595
+Si vous avez d'autres questions,
+c'est le moment.
+
+183
+00:12:11,935 --> 00:12:15,378
+- Allons, vous me faites marcher.
+- Non, rien de mieux à faire
+
+184
+00:12:15,775 --> 00:12:18,195
+pendant que l'ordinateur
+analyse mon sang.
+
+185
+00:12:29,775 --> 00:12:33,775
+Vu le récent silence d'Ashley,
+j'en conclus qu'elle sait
+
+186
+00:12:34,475 --> 00:12:36,950
+- que Druitt est son père.
+- En effet.
+
+187
+00:12:40,185 --> 00:12:42,101
+- Et ?
+- Et quoi ?
+
+188
+00:12:43,025 --> 00:12:45,222
+Eh bien, elle vient d'apprendre
+que son père est...
+
+189
+00:12:45,347 --> 00:12:47,389
+celui qu'on nomme Jack l'Éventreur.
+
+190
+00:12:48,175 --> 00:12:51,000
+Ça a dû créer quelques tensions
+entre vous.
+
+191
+00:12:51,125 --> 00:12:52,603
+Elle va bien. On a parlé.
+
+192
+00:12:57,015 --> 00:12:58,270
+Affaire classée.
+
+193
+00:13:00,815 --> 00:13:02,487
+Je connais ma fille, Dr Zimmerman.
+
+194
+00:13:03,865 --> 00:13:05,174
+Elle reviendra,
+
+195
+00:13:05,705 --> 00:13:08,395
+quand elle aura compris
+pourquoi je lui cachais la vérité.
+
+196
+00:13:12,565 --> 00:13:15,200
+Regardez, vous venez de le faire.
+À l'instant.
+
+197
+00:13:15,325 --> 00:13:18,140
+Vous vous proposez à répondre,
+et quand ça ne vous va plus,
+
+198
+00:13:18,265 --> 00:13:20,422
+- vous vous enfuyez.
+- C'est un peu normal.
+
+199
+00:13:20,590 --> 00:13:23,300
+Vous m'avez appelé "Dr Zimmerman"
+et quitté la pièce.
+
+200
+00:13:29,345 --> 00:13:30,891
+- Je suis frustrée.
+- De quoi ?
+
+201
+00:13:31,059 --> 00:13:33,769
+- De ne pouvoir refaire surface ?
+- De peiner à parler avec Ashley.
+
+202
+00:13:34,335 --> 00:13:38,065
+Elle a 23 ans. Personne sur Terre
+ne peut dialoguer avec ceux de son âge.
+
+203
+00:13:38,445 --> 00:13:41,276
+Épargnez-moi les platitudes.
+Vous n'avez pas idée de ce que ça a été.
+
+204
+00:13:43,545 --> 00:13:45,410
+C'est pour ça que je pose
+ces questions.
+
+205
+00:13:45,535 --> 00:13:48,241
+Pourquoi ? Parce que vous me voyez
+comme une curiosité ?
+
+206
+00:13:49,145 --> 00:13:52,251
+Une sorte de divertissement pervers
+que vous appréciez ?
+
+207
+00:13:52,376 --> 00:13:53,726
+Non, pas du tout.
+
+208
+00:13:54,025 --> 00:13:56,041
+C'est parce que
+je n'ai jamais eu ça...
+
+209
+00:13:57,005 --> 00:13:58,035
+Un défi,
+
+210
+00:13:58,635 --> 00:14:00,504
+un mentor en qui je puisse croire.
+
+211
+00:14:01,945 --> 00:14:03,447
+Vous savez, Magnus,
+
+212
+00:14:03,800 --> 00:14:06,968
+travailler au Sanctuaire est plus
+qu'un simple emploi pour moi.
+
+213
+00:14:07,245 --> 00:14:08,261
+Quoi ?
+
+214
+00:14:10,075 --> 00:14:12,264
+C'est la seule famille
+que j'ai jamais eue.
+
+215
+00:14:22,360 --> 00:14:24,953
+Quand on vit
+depuis aussi longtemps que moi...
+
+216
+00:14:26,845 --> 00:14:29,145
+On apprend à ne pas trop s'attacher.
+
+217
+00:14:30,665 --> 00:14:33,078
+J'ai enterré nombre d'amis,
+de collègues,
+
+218
+00:14:33,515 --> 00:14:34,515
+d'amants.
+
+219
+00:14:35,005 --> 00:14:36,331
+Plus qu'on ne l'imagine.
+
+220
+00:14:38,205 --> 00:14:40,502
+Vous me demandiez
+comment je faisais pour dialoguer ?
+
+221
+00:14:42,345 --> 00:14:44,415
+Les dîners de famille sont un enfer.
+
+222
+00:14:46,515 --> 00:14:48,360
+Vous voulez dire
+que je suis ennuyeux ?
+
+223
+00:14:48,485 --> 00:14:49,511
+Pas du tout.
+
+224
+00:14:49,679 --> 00:14:52,122
+En fait, vous êtes mon premier protégé
+depuis des décennies
+
+225
+00:14:52,247 --> 00:14:54,015
+qui se soit avéré prometteur.
+
+226
+00:14:55,393 --> 00:14:57,769
+Vous êtes brillant,
+je devrais vous le dire plus souvent.
+
+227
+00:14:58,695 --> 00:14:59,521
+Vraiment ?
+
+228
+00:15:01,075 --> 00:15:03,720
+Je sais que s'il devait
+m'arriver quelque chose,
+
+229
+00:15:05,305 --> 00:15:07,195
+vous continueriez mon travail.
+
+230
+00:15:07,945 --> 00:15:09,990
+Allons, il est un peu tôt
+pour commencer à...
+
+231
+00:15:10,158 --> 00:15:12,075
+Vous êtes prêt,
+mais vous ne le savez pas.
+
+232
+00:15:15,215 --> 00:15:17,935
+- Merde.
+- Il faut vous conduire à l'hôpital.
+
+233
+00:15:18,060 --> 00:15:20,320
+On n'a pas le matériel médical
+nécessaire pour...
+
+234
+00:15:20,445 --> 00:15:21,930
+- Descendez !
+- On peut pas !
+
+235
+00:15:22,055 --> 00:15:22,919
+Faites-le !
+
+236
+00:15:26,475 --> 00:15:28,540
+D'accord,
+dites-moi ce que je dois faire.
+
+237
+00:15:28,665 --> 00:15:30,191
+Navigation, moins 9 mètres.
+
+238
+00:15:30,316 --> 00:15:32,536
+Navigation.
+C'est cette commande-là ?
+
+239
+00:15:35,115 --> 00:15:37,020
+Joystick, 20 degrés à tribord.
+
+240
+00:15:55,152 --> 00:15:55,952
+Calmée ?
+
+241
+00:16:00,835 --> 00:16:03,843
+Pas de narcose à l'azote.
+Aucune toxine détectée.
+
+242
+00:16:04,625 --> 00:16:07,530
+Pas de signe de méningite,
+vos lymphocytes vont bien...
+
+243
+00:16:07,655 --> 00:16:10,466
+Ce qui ne nous en dit pas plus
+concernant mon état,
+
+244
+00:16:10,705 --> 00:16:12,162
+sauf que ça empire.
+
+245
+00:16:16,115 --> 00:16:19,898
+Ne vous inquiétez pas. C'est la coque
+qui subit la pression. C'est normal.
+
+246
+00:16:22,275 --> 00:16:24,140
+À quelle profondeur
+descend le Nautilus ?
+
+247
+00:16:24,265 --> 00:16:25,265
+Plus bas.
+
+248
+00:16:26,358 --> 00:16:29,190
+C'est destiné à l'immersion normale,
+pas l'exploration en eau profonde.
+
+249
+00:16:29,315 --> 00:16:32,322
+La profondeur limite est à 730 m,
+et nous sommes à...
+
+250
+00:16:32,635 --> 00:16:34,449
+Juste en-dessous de 490 m.
+
+251
+00:16:35,185 --> 00:16:38,012
+- Et pour l'oxygène ?
+- On a encore un jour et demi.
+
+252
+00:16:41,565 --> 00:16:42,624
+Bien, donc...
+
+253
+00:16:42,792 --> 00:16:45,270
+Tant qu'on reste bas
+et qu'on a de l'air,
+
+254
+00:16:46,435 --> 00:16:48,485
+on devrait pouvoir résoudre ça.
+
+255
+00:16:51,325 --> 00:16:54,385
+- On doit pas chercher au bon endroit.
+- C'est-à-dire ?
+
+256
+00:16:55,755 --> 00:16:59,515
+On se sert de l'ordinateur pour déceler
+des signes de la maladie des caissons,
+
+257
+00:16:59,683 --> 00:17:01,850
+des infections qui provoquent
+un saignement du cerveau,
+
+258
+00:17:01,975 --> 00:17:04,379
+des indicateurs
+de certaines maladies.
+
+259
+00:17:04,695 --> 00:17:07,590
+Et si c'est quelque chose
+que nous n'avons encore jamais vu ?
+
+260
+00:17:07,715 --> 00:17:09,859
+Quelque chose de nouveau
+qui passe du cerveau au sang ?
+
+261
+00:17:10,027 --> 00:17:11,986
+- Une sorte de parasite ?
+- Ouais.
+
+262
+00:17:13,115 --> 00:17:14,210
+Vous avez évoqué
+
+263
+00:17:14,335 --> 00:17:17,675
+un fluide non-identifié
+dans la paroi crânienne de cette sirène.
+
+264
+00:17:18,205 --> 00:17:20,161
+Je modifie les critères d'analyse.
+
+265
+00:17:20,705 --> 00:17:22,830
+- Vous cherchez quoi ?
+- N'importe quoi chez moi
+
+266
+00:17:22,998 --> 00:17:24,435
+qu'on ne peut pas identifier.
+
+267
+00:17:24,560 --> 00:17:27,077
+Je cherche aussi
+dans le liquide céphalo-rachidien.
+
+268
+00:17:32,715 --> 00:17:33,841
+Mon Dieu.
+
+269
+00:17:36,475 --> 00:17:37,934
+Bon Dieu, c'est quoi ?
+
+270
+00:17:39,095 --> 00:17:42,844
+Un parasite microscopique dans la couche
+pyramidale de mon tronc cérébral.
+
+271
+00:17:46,605 --> 00:17:49,398
+- Il se multiplie.
+- À une vitesse alarmante.
+
+272
+00:17:51,585 --> 00:17:53,054
+Il prend le dessus.
+
+273
+00:18:07,495 --> 00:18:10,225
+- Je déteste avoir raison.
+- <i>Je n'aime pas ça.</i>
+
+274
+00:18:11,325 --> 00:18:13,995
+Le système limbique
+est totalement détruit.
+
+275
+00:18:14,655 --> 00:18:17,700
+Le centre logique cérébral a été dégradé
+plus que sérieusement.
+
+276
+00:18:17,825 --> 00:18:20,330
+Une idée de comment
+vous l'avez attrapé ?
+
+277
+00:18:20,455 --> 00:18:22,921
+On portait des combinaisons
+tout le temps.
+
+278
+00:18:23,165 --> 00:18:24,515
+<i>Oui, en effet.</i>
+
+279
+00:18:27,555 --> 00:18:29,689
+<i>Des trous presque invisibles
+dans les gants</i>
+
+280
+00:18:29,857 --> 00:18:32,407
+dont je me suis servie
+la première fois.
+
+281
+00:18:32,605 --> 00:18:34,729
+Notre nouvelle forme de vie
+est plutôt agressive,
+
+282
+00:18:34,903 --> 00:18:36,865
+même au niveau microscopique.
+
+283
+00:18:37,655 --> 00:18:41,655
+<i>Vos gants étaient intacts, et votre sang
+est normal, donc je suppose que,</i>
+
+284
+00:18:42,315 --> 00:18:44,613
+<i>comme on n'a pas échangé
+de fluide corporel,</i>
+
+285
+00:18:44,738 --> 00:18:46,682
+<i>vous ne devriez pas être infecté.</i>
+
+286
+00:18:51,855 --> 00:18:54,800
+<i>Vous voulez quelque chose
+pendant que vous travaillez ?</i>
+
+287
+00:18:54,925 --> 00:18:56,048
+<i>À manger ?</i>
+
+288
+00:18:56,755 --> 00:18:57,925
+<i>De la musique ?</i>
+
+289
+00:18:58,775 --> 00:19:00,326
+<i>Moins de profondeur ?</i>
+
+290
+00:19:16,069 --> 00:19:17,215
+<i>Je vais bien.</i>
+
+291
+00:19:22,595 --> 00:19:26,595
+Vous voyez une raison de s'attaquer
+au cerveau plutôt qu'à un autre organe ?
+
+292
+00:19:26,905 --> 00:19:30,160
+<i>N'y a-t-il pas plus de nutriments
+dans l'estomac par exemple ?</i>
+
+293
+00:19:30,285 --> 00:19:33,587
+Ça se nourrit peut-être d'adrénaline,
+de fluide crânien.
+
+294
+00:19:34,572 --> 00:19:37,256
+Quoi que ce soit,
+c'est quelque chose de nouveau.
+
+295
+00:19:37,424 --> 00:19:40,585
+<i>Enfin, si c'est vrai, on sait
+ce qui est arrivé aux sirènes.</i>
+
+296
+00:19:42,405 --> 00:19:46,140
+- Le système limbique...
+- Inclut l'hippocampe et les amygdales.
+
+297
+00:19:46,575 --> 00:19:49,643
+<i>Il contrôle la peur, les émotions,
+la colère.</i>
+
+298
+00:19:49,811 --> 00:19:52,413
+<i>Si quelque chose impactait négativement
+leurs centres du comportement...</i>
+
+299
+00:19:52,538 --> 00:19:53,939
+Elles se sont entretuées.
+
+300
+00:19:54,107 --> 00:19:58,105
+<i>C'est pour ça qu'il n'y avait pas signe
+de l'espèce ou d'humains dans la zone.</i>
+
+301
+00:20:00,045 --> 00:20:02,712
+- Magnus, dans combien de temps...
+- <i>Je ne sais pas.</i>
+
+302
+00:20:04,885 --> 00:20:07,620
+<i>Ça peut se chiffrer en heures
+ou en jours avant que ça ne m'affecte,</i>
+
+303
+00:20:07,995 --> 00:20:09,484
+mais ça va m'affecter.
+
+304
+00:20:15,705 --> 00:20:17,735
+Donc on remonte, ça vous tue.
+
+305
+00:20:18,705 --> 00:20:20,060
+On reste en bas,
+
+306
+00:20:20,185 --> 00:20:22,700
+il y a une chance
+que vous vous transformiez en tueuse.
+
+307
+00:20:22,825 --> 00:20:25,220
+À moins qu'on se retrouve
+à court d'air avant.
+
+308
+00:20:25,345 --> 00:20:27,431
+Pour une fois,
+je n'aime aucun des scénarios.
+
+309
+00:20:30,345 --> 00:20:33,729
+- Vous avez une idée qui marcherait ?
+- Je n'ai aucune drogue antiparasite,
+
+310
+00:20:33,897 --> 00:20:37,316
+ça va de soi,
+mais un cocktail d'antiviraux
+
+311
+00:20:37,484 --> 00:20:40,944
+- et d'antibiotiques pourrait aider.
+- Vous voulez mélanger ces produits ?
+
+312
+00:20:41,112 --> 00:20:43,146
+Au pire, ça me rendra très malade.
+
+313
+00:20:43,435 --> 00:20:46,796
+Au mieux, ça fera de mon corps
+un endroit moins hospitalier.
+
+314
+00:20:53,545 --> 00:20:57,164
+Il faudra peut-être plusieurs doses
+et du temps avant que ça fasse... Non...
+
+315
+00:21:00,255 --> 00:21:01,921
+- Plus bas.
+- Non.
+
+316
+00:21:04,636 --> 00:21:07,763
+- Allez plus bas.
+- On est presque au maximum.
+
+317
+00:21:23,144 --> 00:21:24,446
+On va aller plus bas.
+
+318
+00:22:00,685 --> 00:22:02,150
+Je veux m'excuser.
+
+319
+00:22:03,785 --> 00:22:06,363
+Je ne vous aurais jamais infecté
+délibérément. C'était juste...
+
+320
+00:22:08,605 --> 00:22:10,242
+que je devais vous convaincre.
+
+321
+00:22:10,717 --> 00:22:12,167
+C'était la douleur ?
+
+322
+00:22:13,815 --> 00:22:17,541
+- ou vous avez perdu le contrôle ?
+- C'était la douleur, je vous assure.
+
+323
+00:22:18,220 --> 00:22:20,670
+Vous êtes la personne
+la plus mesurée,
+
+324
+00:22:20,795 --> 00:22:23,595
+la plus rationnelle
+que j'ai jamais rencontrée,
+
+325
+00:22:23,835 --> 00:22:26,975
+et là, je vois des émotions
+très fortes, de la rage,
+
+326
+00:22:27,495 --> 00:22:28,719
+des menaces.
+
+327
+00:22:29,035 --> 00:22:31,631
+Ce sont des comportements contrôlés
+par le système limbique.
+
+328
+00:22:31,756 --> 00:22:35,017
+- Ce n'est pas dans votre nature.
+- Vous ne me faites plus confiance.
+
+329
+00:22:36,177 --> 00:22:38,729
+- Je devrais ?
+- Je suis toujours moi-même, Will.
+
+330
+00:22:40,815 --> 00:22:42,190
+Pour combien de temps ?
+
+331
+00:22:42,358 --> 00:22:44,640
+Aussi longtemps
+que je tiendrai tête.
+
+332
+00:22:44,765 --> 00:22:47,700
+Je ne comprends pas pourquoi
+ça réagit comme ça.
+
+333
+00:22:47,825 --> 00:22:51,070
+Si on descend, le sous-marin
+va imploser, vous allez mourir,
+
+334
+00:22:51,195 --> 00:22:52,868
+et le parasite perdra son hôte.
+
+335
+00:22:53,036 --> 00:22:56,286
+Je ne crois pas que ça soit
+une forme de vie rationnelle, pensante.
+
+336
+00:22:56,415 --> 00:23:00,110
+Ça envahit un hôte, ça vit dedans aussi
+longtemps que possible, et ça repart.
+
+337
+00:23:00,235 --> 00:23:04,129
+Je doute que ça soit aussi intelligent
+qu'un virus ou une bactérie.
+
+338
+00:23:04,595 --> 00:23:05,885
+Alors, que fait-on ?
+
+339
+00:23:06,215 --> 00:23:10,135
+Pour le moment, on essaie d'arrêter
+les effets du mieux possible.
+
+340
+00:23:10,794 --> 00:23:14,410
+Au moins jusqu'à ce que je trouve
+un moyen pour qu'il me rejette.
+
+341
+00:23:14,535 --> 00:23:15,815
+Ce qui signifie
+
+342
+00:23:16,005 --> 00:23:17,740
+qu'on continue de descendre.
+
+343
+00:23:18,685 --> 00:23:20,937
+Ça semble être la seule chose
+qui éloigne la douleur.
+
+344
+00:23:21,295 --> 00:23:22,574
+Et qui soit rationnelle.
+
+345
+00:23:22,699 --> 00:23:25,942
+Jusqu'à quelle profondeur
+on peut descendre en-dessous de 730 m ?
+
+346
+00:23:26,110 --> 00:23:29,202
+Je ne sais pas. Je n'ai jamais dépassé
+la profondeur maximale.
+
+347
+00:23:29,327 --> 00:23:32,800
+Mais on peut ajuster les niveaux
+d'azote, de CO2 et d'oxygène
+
+348
+00:23:32,925 --> 00:23:35,523
+pour s'accommoder
+à de plus grandes pressions, non ?
+
+349
+00:23:36,105 --> 00:23:38,294
+Oui, mais ça ne marchera
+qu'un temps.
+
+350
+00:23:38,975 --> 00:23:40,373
+Après, on devra ralentir.
+
+351
+00:23:46,515 --> 00:23:49,670
+On ne peut pas vous droguer ?
+Vous assommer, et remonter ?
+
+352
+00:23:49,795 --> 00:23:52,552
+À chaque sédatif essayé,
+le parasite a contre-attaqué.
+
+353
+00:23:52,955 --> 00:23:56,230
+Si on considère qu'il prend racine
+dans mes centres nerveux primaires,
+
+354
+00:23:56,355 --> 00:24:00,060
+les dégâts occasionnés si on remonte,
+me laisseraient en mort cérébrale.
+
+355
+00:24:04,545 --> 00:24:05,857
+Je hais quand ça fait ça.
+
+356
+00:24:06,025 --> 00:24:08,775
+On n'a pas encore passé
+le seuil de sécurité.
+
+357
+00:24:10,045 --> 00:24:12,447
+Il faut qu'on discute
+d'un autre scénario.
+
+358
+00:24:12,795 --> 00:24:15,909
+- Magnus...
+- Écoutez-moi, s'il vous plaît.
+
+359
+00:24:16,385 --> 00:24:17,439
+Dans le cas
+
+360
+00:24:17,735 --> 00:24:20,038
+où vous pensez que mon jugement
+n'est plus fiable,
+
+361
+00:24:20,625 --> 00:24:22,673
+ou que votre vie est en danger,
+
+362
+00:24:23,645 --> 00:24:27,379
+je compte sur vous pour gérer les choses
+de manière décisive.
+
+363
+00:24:28,365 --> 00:24:30,590
+- On n'arrivera pas jusque-là.
+- Ce parasite
+
+364
+00:24:30,758 --> 00:24:34,260
+a obligé une espèce intelligente
+et pacifique à s'entretuer.
+
+365
+00:24:34,925 --> 00:24:37,677
+On peut supposer
+qu'il en fera de même pour moi.
+
+366
+00:24:37,932 --> 00:24:41,142
+Je compte sur vous pour faire ce
+qu'il faut si la situation le demande.
+
+367
+00:24:41,267 --> 00:24:43,853
+- Vous ne pouvez pas vous attendre...
+- Bordel, Will !
+
+368
+00:24:45,995 --> 00:24:49,139
+J'ai vécu plus longtemps
+qu'un humain en a le droit.
+
+369
+00:24:50,236 --> 00:24:53,905
+Au final, tout ce que j'espère,
+c'est choisir comment ça se termine.
+
+370
+00:24:54,875 --> 00:24:58,743
+Être emporté par un parasite marin
+n'est pas sur la liste.
+
+371
+00:24:59,951 --> 00:25:01,560
+Et qu'est-ce qui l'est ?
+
+372
+00:25:03,746 --> 00:25:06,578
+Soyez créatif, si on en arrive là.
+
+373
+00:25:08,174 --> 00:25:09,571
+J'ai votre parole ?
+
+374
+00:25:17,935 --> 00:25:20,956
+Je vais voir s'il reste
+des médicaments dans la réserve.
+
+375
+00:26:41,313 --> 00:26:44,184
+- Que se passe-t-il ?
+- Les systèmes de lests et de pilotage
+
+376
+00:26:44,309 --> 00:26:47,310
+ne répondent pas !
+On est à 750 et on descend !
+
+377
+00:26:47,478 --> 00:26:49,281
+- On a passé la limite !
+- Je sais !
+
+378
+00:26:49,406 --> 00:26:52,523
+J'ai perdu la navigation !
+Je ne peux pas arrêter la descente !
+
+379
+00:27:08,749 --> 00:27:10,448
+Comment on va ralentir ?
+
+380
+00:27:11,235 --> 00:27:14,837
+Les systèmes de ballasts ont dû être
+détruits par la pression !
+
+381
+00:27:15,165 --> 00:27:17,089
+On doit relancer
+le système manuellement !
+
+382
+00:27:17,257 --> 00:27:19,527
+- Comment on fait ça ?
+- À l'arrière !
+
+383
+00:27:24,723 --> 00:27:26,887
+- Fermez la valve, là !
+- Où ?
+
+384
+00:27:27,012 --> 00:27:28,012
+Là !
+
+385
+00:27:34,566 --> 00:27:35,608
+Allez !
+
+386
+00:27:43,055 --> 00:27:44,909
+Il me faut une boîte à outils !
+
+387
+00:27:59,705 --> 00:28:02,605
+- Vous pensez pouvoir le réparer ?
+- Je sais pas !
+
+388
+00:28:35,836 --> 00:28:37,286
+Que s'est-il passé ?
+
+389
+00:28:37,675 --> 00:28:39,091
+On s'est arrêtés.
+
+390
+00:28:57,524 --> 00:29:00,730
+La salle des moteurs est inondée.
+Tout comme l'espace inférieur.
+
+391
+00:29:00,855 --> 00:29:03,055
+La réserve d'oxygène est endommagée.
+On est sous les 50 %.
+
+392
+00:29:03,180 --> 00:29:05,070
+Les filtres à CO2
+fonctionnent au maximum.
+
+393
+00:29:05,195 --> 00:29:07,901
+- Combien de temps ?
+- Moins de trois heures.
+
+394
+00:29:09,785 --> 00:29:11,070
+Et nos moteurs ?
+
+395
+00:29:13,065 --> 00:29:14,503
+Ils ne répondent pas.
+
+396
+00:29:14,804 --> 00:29:16,746
+Le contrôle à distance
+a dû être endommagé
+
+397
+00:29:16,871 --> 00:29:20,005
+- quand la salle moteur a été inondée.
+- Où sommes-nous ?
+
+398
+00:29:22,395 --> 00:29:24,924
+Sur un plateau au-dessus
+de la fosse portoricaine.
+
+399
+00:29:25,685 --> 00:29:27,561
+Ça a dû stopper notre descente.
+
+400
+00:29:30,181 --> 00:29:31,181
+Quelle chance.
+
+401
+00:29:35,935 --> 00:29:36,935
+En effet.
+
+402
+00:29:48,135 --> 00:29:49,135
+Ça va.
+
+403
+00:29:50,205 --> 00:29:51,455
+Vous allez bien.
+
+404
+00:29:52,705 --> 00:29:53,705
+On va bien.
+
+405
+00:29:54,785 --> 00:29:55,785
+Ça va.
+
+406
+00:29:59,395 --> 00:30:00,845
+Que se passe-t-il ?
+
+407
+00:30:01,235 --> 00:30:02,920
+Je pense que vous le savez.
+
+408
+00:30:03,326 --> 00:30:04,777
+Vous ne sentez rien ?
+
+409
+00:30:06,645 --> 00:30:07,717
+Sentir quoi ?
+
+410
+00:30:07,965 --> 00:30:10,118
+Menteur !
+Sale menteur !
+
+411
+00:30:12,315 --> 00:30:13,807
+Je peux le sentir.
+
+412
+00:30:15,535 --> 00:30:17,255
+C'est incroyable, hein ?
+
+413
+00:30:18,895 --> 00:30:20,457
+C'est comme le soleil.
+
+414
+00:30:20,795 --> 00:30:22,332
+C'est comme une drogue.
+
+415
+00:30:23,005 --> 00:30:25,736
+- Magnus, écoutez-moi.
+- "Vous n'êtes pas vous-même, Helen.
+
+416
+00:30:26,255 --> 00:30:28,294
+"Cette chose vous contrôle.
+
+417
+00:30:28,455 --> 00:30:30,505
+"Je peux vous aider, Helen."
+
+418
+00:30:33,095 --> 00:30:34,911
+Je sais ce que vous essayez
+de faire.
+
+419
+00:30:35,080 --> 00:30:37,423
+Vous essayer de m'évaluer,
+n'est-ce pas ?
+
+420
+00:30:38,215 --> 00:30:39,949
+Comme un simple criminel.
+
+421
+00:30:41,055 --> 00:30:43,507
+J'ai un petit secret
+pour votre gouverne...
+
+422
+00:30:45,382 --> 00:30:47,094
+Je ne suis pas si simple.
+
+423
+00:30:53,835 --> 00:30:55,057
+Non, c'est vrai.
+
+424
+00:30:56,355 --> 00:30:58,675
+Je vous ai démasqué,
+mon petit William.
+
+425
+00:30:59,715 --> 00:31:02,104
+Vous pensez devoir me soigner de ça.
+
+426
+00:31:02,345 --> 00:31:03,402
+En vérité,
+
+427
+00:31:03,675 --> 00:31:07,220
+vous êtes celui qu'il faut sauver,
+d'une vie de médiocrité,
+
+428
+00:31:07,345 --> 00:31:08,366
+de honte ?
+
+429
+00:31:09,345 --> 00:31:11,447
+Je vous ai déjà sauvé,
+je peux le refaire.
+
+430
+00:31:11,616 --> 00:31:12,699
+Vous avez fait ça.
+
+431
+00:31:13,945 --> 00:31:15,493
+Vous avez inondé les ballasts.
+
+432
+00:31:15,955 --> 00:31:19,163
+- Vous nous avez fait perdre contrôle.
+- Vous ne m'avez pas laissé le choix !
+
+433
+00:31:19,745 --> 00:31:21,375
+Je sais que vous voulez me tuer,
+
+434
+00:31:22,095 --> 00:31:23,961
+et ne dites pas
+que je vous l'ai demandé,
+
+435
+00:31:24,129 --> 00:31:27,297
+car ce n'est pas comme ça
+qu'on agit entre amis.
+
+436
+00:31:35,305 --> 00:31:36,875
+Je voulais vous tuer.
+
+437
+00:31:55,115 --> 00:31:58,734
+Je voulais vous tuer, mais je vois
+que ce n'est pas une bonne idée.
+
+438
+00:31:58,995 --> 00:32:01,163
+- Pourquoi ?
+- Parce que...
+
+439
+00:32:01,555 --> 00:32:04,444
+vous êtes la seule
+à pouvoir contrôler le sous-marin.
+
+440
+00:32:05,375 --> 00:32:08,321
+- C'est stupide de mourir tous les deux.
+- Vous voyez ?
+
+441
+00:32:09,345 --> 00:32:12,483
+Vous voyez comme c'est agréable
+de parler raisonnablement ?
+
+442
+00:32:13,945 --> 00:32:14,945
+Mais...
+
+443
+00:32:18,099 --> 00:32:21,017
+- Je crois que je devrais vous tuer.
+- Je pense pas que vous le voudriez.
+
+444
+00:32:21,485 --> 00:32:22,535
+Vraiment ?
+
+445
+00:32:23,215 --> 00:32:25,076
+Vous voulez que je le ressente.
+
+446
+00:32:27,965 --> 00:32:30,265
+- Le soleil ?
+- Oui...
+
+447
+00:32:30,825 --> 00:32:31,865
+La drogue ?
+
+448
+00:32:32,485 --> 00:32:34,906
+Alors, on...
+On doit descendre.
+
+449
+00:32:39,225 --> 00:32:40,641
+On doit descendre
+
+450
+00:32:41,485 --> 00:32:44,915
+- pour qu'on le ressente ensemble.
+- Descendre encore.
+
+451
+00:32:46,975 --> 00:32:48,294
+On peut pas rester là.
+
+452
+00:32:52,035 --> 00:32:53,398
+Vous avez raison.
+
+453
+00:32:55,335 --> 00:32:57,585
+- On doit aller ailleurs.
+- Ouais.
+
+454
+00:33:00,115 --> 00:33:01,195
+Bon garçon.
+
+455
+00:33:05,325 --> 00:33:06,395
+Pas bouger.
+
+456
+00:34:41,065 --> 00:34:42,238
+Très malin.
+
+457
+00:34:42,555 --> 00:34:44,132
+Mon meilleur protégé.
+
+458
+00:34:45,575 --> 00:34:47,163
+J'allais venir vous chercher.
+
+459
+00:34:49,405 --> 00:34:52,611
+Je peux réparer le contrôle des ballasts
+à condition d'accéder à un panneau.
+
+460
+00:34:52,736 --> 00:34:54,465
+J'ai besoin de votre aide.
+
+461
+00:34:55,325 --> 00:34:57,931
+Sauf si vous pensez attraper
+cette arme avant moi.
+
+462
+00:35:00,925 --> 00:35:02,887
+Après vous ! L'eau est délicieuse.
+
+463
+00:35:14,735 --> 00:35:15,850
+Ça gèle !
+
+464
+00:35:15,975 --> 00:35:18,035
+- Je peux pas rester là...
+- Regardez-moi !
+
+465
+00:35:18,160 --> 00:35:21,989
+Vous devez repousser ces barres pour
+que j'accède au panneau de contrôle.
+
+466
+00:35:22,158 --> 00:35:23,949
+- Faites-le !
+- D'accord...
+
+467
+00:35:30,105 --> 00:35:31,435
+Ça y est presque.
+
+468
+00:35:31,955 --> 00:35:34,955
+- C'est trop froid, je peux pas...
+- Tirez plus fort !
+
+469
+00:35:39,875 --> 00:35:42,345
+Ça devrait suffire.
+Oui, on a le contrôle.
+
+470
+00:35:46,845 --> 00:35:47,845
+Ça va ?
+
+471
+00:35:51,485 --> 00:35:52,588
+Pas vous.
+
+472
+00:36:08,955 --> 00:36:10,203
+Pas très créatif.
+
+473
+00:36:12,555 --> 00:36:13,833
+Ne me ratez pas.
+
+474
+00:36:25,215 --> 00:36:26,740
+Qu'attendez-vous ?
+
+475
+00:36:26,865 --> 00:36:28,805
+- Allez-y !
+- Résistez, Magnus.
+
+476
+00:36:29,125 --> 00:36:30,130
+Résistez !
+
+477
+00:36:31,505 --> 00:36:34,295
+Le parasite se fout
+que vous viviez ou pas !
+
+478
+00:36:34,975 --> 00:36:38,106
+Il trouvera un autre hôte
+et recommencera !
+
+479
+00:36:38,275 --> 00:36:39,880
+Tirez, espèce de lâche.
+
+480
+00:36:40,245 --> 00:36:42,975
+- Tirez !
+- Donnez-moi une raison de pas le faire.
+
+481
+00:36:43,395 --> 00:36:45,906
+Espèce de faible
+et pathétique enfoiré.
+
+482
+00:36:46,235 --> 00:36:49,255
+Vous pensez que c'est
+ce que je voulais ? Cette vie ?
+
+483
+00:36:52,166 --> 00:36:53,391
+J'ai souffert
+
+484
+00:36:53,945 --> 00:36:55,075
+si longtemps,
+
+485
+00:36:55,375 --> 00:36:56,733
+totalement seule,
+
+486
+00:36:58,375 --> 00:36:59,953
+et, franchement, Will...
+
+487
+00:37:03,375 --> 00:37:04,906
+personne n'est éternel.
+
+488
+00:37:14,085 --> 00:37:15,870
+Il est temps qu'on s'y mette.
+
+489
+00:37:41,535 --> 00:37:42,587
+Allez...
+
+490
+00:37:44,885 --> 00:37:46,306
+C'est mieux comme ça.
+
+491
+00:38:00,995 --> 00:38:02,010
+Allez...
+
+492
+00:38:16,957 --> 00:38:18,095
+Non, pas ça.
+
+493
+00:38:22,195 --> 00:38:23,195
+Quoi ?
+
+494
+00:38:30,965 --> 00:38:32,322
+<i>Ne faites pas ça !</i>
+
+495
+00:38:34,625 --> 00:38:35,765
+<i>S'il vous plaît !</i>
+
+496
+00:38:35,934 --> 00:38:37,795
+Vous ne pouvez pas faire ça !
+
+497
+00:38:38,563 --> 00:38:39,974
+<i>S'il vous plaît !</i>
+
+498
+00:38:57,125 --> 00:38:58,566
+<i>Laissez-moi sortir !</i>
+
+499
+00:38:59,465 --> 00:39:00,540
+S'il vous plaît !
+
+500
+00:40:30,845 --> 00:40:32,599
+Ça va aller, d'accord ?
+
+501
+00:40:41,434 --> 00:40:42,772
+Allez, allez...
+
+502
+00:40:46,185 --> 00:40:47,864
+Restez avec moi, Magnus !
+
+503
+00:40:57,755 --> 00:40:58,755
+Allez.
+
+504
+00:41:00,286 --> 00:41:01,546
+Restez avec moi !
+
+505
+00:41:11,135 --> 00:41:12,181
+Allez.
+
+506
+00:41:12,565 --> 00:41:14,299
+Magnus ! Ne faites pas ça !
+
+507
+00:41:19,848 --> 00:41:22,682
+Merci, Will.
+Ça devrait suffire.
+
+508
+00:41:30,155 --> 00:41:31,185
+Bien joué.
+
+509
+00:41:51,855 --> 00:41:53,103
+Vous allez bien ?
+
+510
+00:41:53,895 --> 00:41:54,895
+Moi ?
+
+511
+00:41:56,725 --> 00:41:57,759
+Et vous ?
+
+512
+00:41:58,835 --> 00:42:00,542
+Je me sens plus moi-même.
+
+513
+00:42:01,415 --> 00:42:02,415
+Merci.
+
+514
+00:42:05,095 --> 00:42:08,322
+- Je ne réalise pas ce que j'ai fait.
+- Vous deviez le faire.
+
+515
+00:42:08,885 --> 00:42:11,647
+On sait qu'il ne serait jamais parti
+tant que j'aurais été en vie.
+
+516
+00:42:13,255 --> 00:42:16,194
+Comme mort, c'était...
+très créatif.
+
+517
+00:42:18,605 --> 00:42:22,075
+Magnus, ne me...
+demandez plus jamais de vous tuer.
+
+518
+00:42:24,405 --> 00:42:26,412
+C'était une décision impossible.
+
+519
+00:42:27,665 --> 00:42:29,667
+Vous avez fait le bon choix, Will.
+
+520
+00:42:33,585 --> 00:42:34,690
+Vous savez,
+
+521
+00:42:34,815 --> 00:42:37,409
+je sais que vous êtes vivante
+depuis longtemps,
+
+522
+00:42:37,705 --> 00:42:40,949
+mais vous devez peut-être accepter
+le fait qu'il y ait une raison à ça.
+
+523
+00:42:41,985 --> 00:42:43,429
+Votre travail n'est pas fini.
+
+524
+00:42:44,375 --> 00:42:46,445
+Mon travail ne sera jamais terminé,
+
+525
+00:42:47,115 --> 00:42:49,685
+ce qui signifie que vous devez
+accepter le fait qu'un jour,
+
+526
+00:42:50,415 --> 00:42:52,764
+vous devrez peut-être
+continuer sans moi.
+
+527
+00:42:53,705 --> 00:42:54,705
+Bien.
+
+528
+00:42:56,295 --> 00:42:57,484
+Mais pas aujourd'hui.
+
+529
+00:42:59,165 --> 00:43:00,395
+Pas aujourd'hui.
+
+

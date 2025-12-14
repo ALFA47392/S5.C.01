@@ -1,0 +1,3311 @@
+1
+00:00:00,080 --> 00:00:01,713
+www.Team-NCIS.com
+
+2
+00:00:02,038 --> 00:00:03,944
+<i>Previously on NCIS...</i>
+
+3
+00:00:04,250 --> 00:00:07,848
+<i>The funeral was held this morning
+for NCIS Director, Jenny Shepard.</i>
+
+4
+00:00:08,171 --> 00:00:11,140
+<i>Assistant Director Leon Vance
+has been named to succeed her.</i>
+
+5
+00:00:12,154 --> 00:00:13,301
+Officer David,
+
+6
+00:00:13,886 --> 00:00:17,244
+the liaison position with NCIS
+is being terminated.
+
+7
+00:00:17,597 --> 00:00:18,601
+McGee...
+
+8
+00:00:18,849 --> 00:00:21,379
+I'm moving you across
+to the cyber crimes unit.
+
+9
+00:00:21,765 --> 00:00:23,825
+DiNozzo... you've been reassigned.
+
+10
+00:00:24,312 --> 00:00:26,679
+Agent afloat, USS Ronald Reagan.
+
+11
+00:00:27,399 --> 00:00:29,097
+Pack your bags.
+You fly out tomorrow.
+
+12
+00:00:29,613 --> 00:00:30,754
+Agent Gibbs...
+
+13
+00:00:32,559 --> 00:00:33,921
+... meet your new team.
+
+14
+00:02:04,158 --> 00:02:08,172
+NCIS Season 6 Episode 1
+Last Man Standing V1.0 Repack OTV
+
+15
+00:02:09,584 --> 00:02:11,926
+Synchro : ¤AkaZab¤
+
+16
+00:02:13,880 --> 00:02:15,972
+Relecture : Bruno and Magic Turtle.
+
+17
+00:02:32,372 --> 00:02:34,532
+www.Team-NCIS.com
+
+18
+00:02:43,749 --> 00:02:45,043
+You want to get that?
+
+19
+00:02:50,016 --> 00:02:50,756
+Hello.
+
+20
+00:02:52,176 --> 00:02:55,656
+No, Special Agent DiNozzo's
+been reassigned.
+
+21
+00:02:55,985 --> 00:02:58,148
+Special Agent Langer. Maybe I can,
+
+22
+00:02:59,361 --> 00:03:00,952
+I don't know, several months ago.
+
+23
+00:03:01,648 --> 00:03:04,659
+I'm not authorized to say, but you could
+try the personnel department and...
+
+24
+00:03:05,036 --> 00:03:05,771
+Hello?
+
+25
+00:03:08,060 --> 00:03:10,776
+Four months, I've been sitting here
+fielding calls for DiNozzo.
+
+26
+00:03:11,270 --> 00:03:13,154
+And I swear, they're all women.
+
+27
+00:03:13,959 --> 00:03:15,500
+And that surprises you?
+
+28
+00:03:16,609 --> 00:03:18,541
+Have you seen
+my Oman threat assessment?
+
+29
+00:03:19,551 --> 00:03:21,119
+Is that what this is?
+
+30
+00:03:22,496 --> 00:03:25,391
+And I thought it was copy
+for a travel brochure.
+
+31
+00:03:25,511 --> 00:03:27,751
+- "Come see sunny Oman".
+- Give me the file, Langer.
+
+32
+00:03:28,306 --> 00:03:30,919
+- Give her the file, Langer.
+- Give her the file, Langer.
+
+33
+00:03:31,039 --> 00:03:32,649
+- Good morning, sir.
+- Morning, sir.
+
+34
+00:03:32,925 --> 00:03:33,930
+Morning, sir.
+
+35
+00:03:34,128 --> 00:03:37,882
+So glad we all agree on something.
+Agent Lee, Oman threat assessment.
+
+36
+00:03:38,131 --> 00:03:39,221
+Right here, sir.
+
+37
+00:03:43,578 --> 00:03:44,792
+Sorry, sir.
+
+38
+00:03:45,655 --> 00:03:47,680
+Told you about calling me sir.
+
+39
+00:03:59,572 --> 00:04:00,930
+A call came in for you.
+
+40
+00:04:01,232 --> 00:04:02,844
+I took the message, sir...
+
+41
+00:04:04,318 --> 00:04:07,616
+Yes, I can see right here
+in the "message taken by" box
+
+42
+00:04:07,741 --> 00:04:09,745
+- Keating.
+- He said it was...
+
+43
+00:04:09,939 --> 00:04:10,862
+Urgent.
+
+44
+00:04:14,494 --> 00:04:16,311
+Special Agent Gibbs,
+for Detective Reynolds.
+
+45
+00:04:16,431 --> 00:04:17,613
+It'll get better.
+
+46
+00:04:17,863 --> 00:04:19,927
+Yeah... when he retires.
+
+47
+00:04:20,835 --> 00:04:21,836
+All right.
+
+48
+00:04:22,910 --> 00:04:23,948
+Grab your gear.
+
+49
+00:04:37,129 --> 00:04:37,946
+Sorry.
+
+50
+00:04:56,996 --> 00:05:00,802
+My God, my fault, sir.
+Gibbs, I was pressing the wrong thing.
+
+51
+00:05:00,924 --> 00:05:01,928
+She was.
+
+52
+00:05:08,126 --> 00:05:10,268
+Sorry... didn't mean to ruin your shot.
+
+53
+00:05:10,551 --> 00:05:11,555
+It's okay.
+
+54
+00:05:18,682 --> 00:05:20,697
+That's why they get
+the cheap rates, you see.
+
+55
+00:05:20,948 --> 00:05:22,526
+It's far away from everything.
+
+56
+00:05:23,479 --> 00:05:26,664
+Didn't worry him.
+Paid cash up front, 18 weeks.
+
+57
+00:05:26,784 --> 00:05:28,936
+Not curious you didn't see him
+all that time?
+
+58
+00:05:29,599 --> 00:05:32,049
+Life in the park bleeds
+the curiosity out of you.
+
+59
+00:05:32,622 --> 00:05:33,669
+Live and let live.
+
+60
+00:05:34,204 --> 00:05:36,368
+I only came to see him
+'cause his rent was due.
+
+61
+00:05:38,093 --> 00:05:40,748
+Body's been in that trailer
+at least four and a half months.
+
+62
+00:05:40,868 --> 00:05:42,966
+Explains why no one
+complained about the smell.
+
+63
+00:05:44,601 --> 00:05:45,606
+Agent Lee?
+
+64
+00:05:49,429 --> 00:05:50,574
+Found his stash.
+
+65
+00:05:52,445 --> 00:05:54,427
+Must be at least $5,000 here.
+
+66
+00:05:54,547 --> 00:05:57,792
+- He's lucky it wasn't stolen.
+- Keating, he's not lucky, he's dead.
+
+67
+00:05:58,644 --> 00:05:59,980
+I'll tag and bag it.
+
+68
+00:06:00,292 --> 00:06:01,120
+Langer.
+
+69
+00:06:04,885 --> 00:06:07,574
+Deceased is Petty Officer
+Steven Nicholas Vargo.
+
+70
+00:06:07,694 --> 00:06:10,620
+Failed to report for duty back in May,
+four and a half months ago.
+
+71
+00:06:10,830 --> 00:06:12,075
+- Where?
+- Navy yard.
+
+72
+00:06:12,471 --> 00:06:15,739
+Lived in auxiliary housing, left work,
+didn't return to his room.
+
+73
+00:06:16,379 --> 00:06:18,853
+I guess he found this little piece
+of paradise more appealing.
+
+74
+00:06:18,973 --> 00:06:20,813
+- What sort of job?
+- Strategic planning,
+
+75
+00:06:20,933 --> 00:06:23,093
+- building right next door to ours.
+- Security clearance?
+
+76
+00:06:23,213 --> 00:06:25,642
+- As high as they go.
+- Okay. Get a statement.
+
+77
+00:06:29,205 --> 00:06:32,749
+Mr. Palmer, tell Agent Gibbs
+he can send in the B team.
+
+78
+00:06:33,838 --> 00:06:35,747
+That implies there's an A team, Duck.
+
+79
+00:06:35,955 --> 00:06:36,971
+Isn't there?
+
+80
+00:06:37,851 --> 00:06:39,094
+They're all A teams.
+
+81
+00:06:39,305 --> 00:06:41,105
+Perhaps some even A-plus.
+
+82
+00:06:42,428 --> 00:06:43,428
+Sleeping?
+
+83
+00:06:43,548 --> 00:06:47,146
+There are other reasons why men take
+their clothes off to go to bed, Jethro.
+
+84
+00:06:47,321 --> 00:06:50,083
+- Any evidence of that?
+- I did come to a sticky end.
+
+85
+00:06:54,304 --> 00:06:55,717
+I'll go get the gurney.
+
+86
+00:06:57,443 --> 00:07:01,324
+Single gunshot wound to the upper
+temporal area, probably while asleep.
+
+87
+00:07:01,444 --> 00:07:04,265
+The pillow was held against his head
+to muffle the shot.
+
+88
+00:07:04,431 --> 00:07:06,408
+Nothing to suggest a struggle.
+
+89
+00:07:06,905 --> 00:07:09,830
+You know, the stench in here
+must have been unbearable.
+
+90
+00:07:10,029 --> 00:07:11,950
+Isn't anybody curious anymore?
+
+91
+00:07:12,225 --> 00:07:13,230
+Bled out.
+
+92
+00:07:14,752 --> 00:07:15,757
+Like him.
+
+93
+00:07:23,146 --> 00:07:25,317
+I need a hearing test.
+I'm going deaf. Am I talking loud?
+
+94
+00:07:25,437 --> 00:07:27,408
+'Cause sometimes people
+that don't hear very well,
+
+95
+00:07:27,528 --> 00:07:29,177
+they talk too loud, except sometimes,
+
+96
+00:07:29,297 --> 00:07:32,689
+when I get water in my ears, I talk so
+softly that people tell me to speak up,
+
+97
+00:07:32,810 --> 00:07:34,718
+I have that weird, you know,
+gurgling, swishing
+
+98
+00:07:34,838 --> 00:07:38,017
+sound in my head. Has that ever happened
+to you? Why didn't I hear the elevator?
+
+99
+00:07:38,222 --> 00:07:40,484
+- The stairs.
+- You don't take the stairs.
+
+100
+00:07:43,036 --> 00:07:43,839
+You
+
+101
+00:07:44,369 --> 00:07:45,826
+are taking the stairs
+
+102
+00:07:46,004 --> 00:07:48,088
+because you associate the elevator
+
+103
+00:07:48,340 --> 00:07:50,005
+with people you're trying to forget.
+
+104
+00:07:51,676 --> 00:07:53,365
+I'm not trying to forget anybody.
+
+105
+00:07:54,071 --> 00:07:55,186
+What do you got?
+
+106
+00:07:58,583 --> 00:08:00,504
+Nine-millimeter casing and
+
+107
+00:08:00,813 --> 00:08:03,473
+a 147-grain LE hollow-point slug.
+
+108
+00:08:03,848 --> 00:08:05,723
+We use LE hollow points,
+
+109
+00:08:06,027 --> 00:08:07,185
+and so do the FBI,
+
+110
+00:08:07,305 --> 00:08:10,187
+Secret Service, Navy SEALS and
+a bunch of other law enforcement,
+
+111
+00:08:10,415 --> 00:08:13,561
+but it's not the kind of slug
+that Joe Public can get his mitts on.
+
+112
+00:08:13,998 --> 00:08:14,999
+What else?
+
+113
+00:08:18,239 --> 00:08:19,178
+A number.
+
+114
+00:08:25,472 --> 00:08:27,011
+One, two, six?
+
+115
+00:08:27,462 --> 00:08:29,840
+One hundred and twenty-six.
+
+116
+00:08:30,457 --> 00:08:32,108
+That is the number of days
+
+117
+00:08:32,356 --> 00:08:34,718
+that Tony, McGee
+and Ziva have been gone.
+
+118
+00:08:35,008 --> 00:08:37,657
+I really didn't think you'd let it
+get into triple digits, Gibbs,
+
+119
+00:08:37,889 --> 00:08:39,647
+but now it's way more.
+It's like
+
+120
+00:08:39,767 --> 00:08:41,524
+the third of a whole year.
+
+121
+00:08:43,507 --> 00:08:44,401
+I miss them.
+
+122
+00:08:45,556 --> 00:08:48,306
+- You had lunch with McGee yesterday.
+- It's not the same.
+
+123
+00:08:48,690 --> 00:08:51,306
+I miss them collectively...
+as a group.
+
+124
+00:08:51,520 --> 00:08:53,090
+My three musketeers.
+
+125
+00:08:53,364 --> 00:08:54,950
+Tim is the only one I've seen.
+
+126
+00:08:55,070 --> 00:08:57,754
+No Tony, no Ziva.
+I get postcards from Tony.
+
+127
+00:08:59,244 --> 00:09:01,970
+I want them back, Gibbs.
+Please get them back.
+
+128
+00:09:08,768 --> 00:09:11,359
+You have ten days. Okay,
+I don't want to pressure you,
+
+129
+00:09:11,802 --> 00:09:12,679
+so 12...
+
+130
+00:09:13,648 --> 00:09:15,591
+but no more than two weeks.
+
+131
+00:09:21,814 --> 00:09:23,602
+And stop taking the stairs.
+
+132
+00:09:26,215 --> 00:09:28,037
+Agent Gibbs, I think I have something.
+
+133
+00:09:28,157 --> 00:09:30,642
+I have a connection between
+our murder victim, Petty Officer Vargo,
+
+134
+00:09:30,762 --> 00:09:33,113
+and former Navy Petty Officer
+Brian Roberts.
+
+135
+00:09:33,242 --> 00:09:35,499
+- He and the victim served together.
+- Put it up.
+
+136
+00:09:37,587 --> 00:09:39,080
+On the plasma, Keating.
+
+137
+00:09:40,379 --> 00:09:43,462
+That's Roberts on the left and our
+murder victim, Vargo, is on the right.
+
+138
+00:09:43,748 --> 00:09:46,568
+Roberts got out six months ago,
+but here's the kicker:
+
+139
+00:09:46,807 --> 00:09:49,591
+Roberts was killed by a bomb blast
+at a bar in Morocco overnight.
+
+140
+00:09:49,783 --> 00:09:52,013
+- Terrorist attack?
+- Trying to get more now.
+
+141
+00:09:53,118 --> 00:09:54,888
+Got a link to the raw feed out of ZNN.
+
+142
+00:09:55,139 --> 00:09:57,293
+- Unlucky coincidence.
+- Must be.
+
+143
+00:09:57,786 --> 00:09:59,442
+That's a hell of a bomb blast.
+
+144
+00:10:00,833 --> 00:10:01,836
+Casualties?
+
+145
+00:10:01,968 --> 00:10:04,236
+Four killed, including Roberts.
+13 injured.
+
+146
+00:10:08,915 --> 00:10:10,129
+Oh, my God.
+
+147
+00:10:10,692 --> 00:10:11,719
+Isn't that...?
+
+148
+00:10:23,166 --> 00:10:25,407
+<i>The number you are
+calling is not available.</i>
+
+149
+00:10:26,191 --> 00:10:28,134
+- Langer.
+- Trying to reach an Israeli contact.
+
+150
+00:10:28,254 --> 00:10:30,262
+He's got connections
+in the intelligence community.
+
+151
+00:10:30,382 --> 00:10:32,169
+Mossad wants us
+to put it through channels.
+
+152
+00:10:32,289 --> 00:10:34,660
+- They're not being very helpful.
+- Leave it. Roberts and Vargo.
+
+153
+00:10:34,780 --> 00:10:37,005
+I want everything. Phone records,
+bank accounts, e-mails,
+
+154
+00:10:37,125 --> 00:10:40,329
+last time they saw each other, last time
+they spoke with each other. Got it?
+
+155
+00:10:40,449 --> 00:10:41,222
+Got it.
+
+156
+00:10:42,026 --> 00:10:44,395
+- You find her, now.
+- I'll do my best...
+
+157
+00:10:47,514 --> 00:10:48,514
+Hey, boss?
+
+158
+00:10:49,131 --> 00:10:50,131
+Boss?
+
+159
+00:10:50,411 --> 00:10:51,195
+Yeah.
+
+160
+00:10:51,786 --> 00:10:54,428
+The logarithm of the quotient
+is the excess of
+
+161
+00:10:54,548 --> 00:10:57,632
+the logarithm of the dividend
+over that of the divisor.
+
+162
+00:10:57,756 --> 00:10:59,799
+High school math, Pringle.
+What's your point?
+
+163
+00:10:59,919 --> 00:11:01,423
+I put the wrong divisor.
+
+164
+00:11:01,543 --> 00:11:02,975
+Recalculate. Dallas.
+
+165
+00:11:03,108 --> 00:11:05,164
+- Boss?
+- Still need that encryption key.
+
+166
+00:11:05,297 --> 00:11:06,893
+Still working on it, boss.
+
+167
+00:11:08,409 --> 00:11:09,215
+Boss?
+
+168
+00:11:17,311 --> 00:11:18,062
+Boss.
+
+169
+00:11:23,708 --> 00:11:25,171
+I'm not really their boss.
+
+170
+00:11:25,291 --> 00:11:27,461
+They just...
+call me that because I'm a
+
+171
+00:11:28,327 --> 00:11:30,623
+field agent, you know,
+I carry the handgun.
+
+172
+00:11:31,707 --> 00:11:33,071
+It's good to see you, boss.
+
+173
+00:11:33,191 --> 00:11:34,280
+You heard from Ziva?
+
+174
+00:11:35,529 --> 00:11:36,335
+Yeah.
+
+175
+00:11:36,497 --> 00:11:38,186
+An e-mail every week, until
+
+176
+00:11:38,358 --> 00:11:40,742
+about three weeks ago.
+I thought maybe she went on vacation.
+
+177
+00:11:40,927 --> 00:11:42,362
+No. Try undercover, McGee.
+
+178
+00:11:42,796 --> 00:11:45,073
+Undercover would make sense,
+her being Mossad and all.
+
+179
+00:11:45,327 --> 00:11:46,963
+Know how to contact her?
+
+180
+00:11:47,557 --> 00:11:49,431
+- Cell phone?
+- No longer connected.
+
+181
+00:11:55,769 --> 00:11:57,303
+- Yeah. Gibbs.
+<i>- I found her.</i>
+
+182
+00:11:57,630 --> 00:11:59,216
+Had to call in a favor from a friend
+
+183
+00:11:59,338 --> 00:12:01,872
+at Pine Gap. You know, the big
+communications base we've got down...
+
+184
+00:12:01,992 --> 00:12:02,992
+<i>Put her on.</i>
+
+185
+00:12:03,112 --> 00:12:04,482
+Done. You're connected.
+
+186
+00:12:06,644 --> 00:12:07,645
+<i>You okay?</i>
+
+187
+00:12:08,047 --> 00:12:10,652
+- You heard.
+<i>- Yeah, raw feed out of ZNN.</i>
+
+188
+00:12:10,772 --> 00:12:12,232
+<i>You might want to call them.</i>
+
+189
+00:12:13,076 --> 00:12:14,905
+- Thanks for the tip.
+- What can you tell me?
+
+190
+00:12:15,027 --> 00:12:17,073
+<i>Not much.</i> I was undercover.
+
+191
+00:12:17,359 --> 00:12:19,943
+Trying to win the trust of a man
+showing an unhealthy interest in
+
+192
+00:12:20,180 --> 00:12:21,660
+Chechnyan terrorist group.
+
+193
+00:12:22,283 --> 00:12:23,387
+<i>Brian Roberts?</i>
+
+194
+00:12:25,884 --> 00:12:27,597
+Perhaps you should tell me
+what you know.
+
+195
+00:12:27,717 --> 00:12:30,126
+<i>Old Navy</i> friend of Roberts
+was found murdered this morning.
+
+196
+00:12:30,429 --> 00:12:33,791
+Steve Vargo. Worked strategic
+planning, top secret clearance.
+
+197
+00:12:36,481 --> 00:12:37,550
+Who was the target?
+
+198
+00:12:38,663 --> 00:12:40,804
+Roberts was meeting
+a Chechnyan terrorist
+
+199
+00:12:40,990 --> 00:12:42,680
+by the name of Milaana Shishani.
+
+200
+00:12:42,860 --> 00:12:44,502
+By sheer luck, she escaped the blast.
+
+201
+00:12:44,622 --> 00:12:46,764
+But Mossad does not believe
+she was the target.
+
+202
+00:12:47,275 --> 00:12:48,674
+- Roberts was.
+- Why?
+
+203
+00:12:49,087 --> 00:12:50,527
+<i>We can only</i> speculate.
+
+204
+00:12:50,939 --> 00:12:54,141
+But from what you've told me, it appears
+that someone wanted them both dead.
+
+205
+00:12:54,383 --> 00:12:56,070
+- Cleaning house?
+- Possibly.
+
+206
+00:12:56,450 --> 00:12:58,095
+Who tipped you off about Roberts?
+
+207
+00:13:04,088 --> 00:13:05,078
+Director Vance.
+
+208
+00:13:09,750 --> 00:13:10,986
+We miss you, Ziva.
+
+209
+00:13:13,603 --> 00:13:14,672
+I miss you, too.
+
+210
+00:13:14,965 --> 00:13:15,882
+All of you.
+
+211
+00:13:16,861 --> 00:13:18,042
+Even, Tony.
+
+212
+00:13:19,294 --> 00:13:20,295
+<i>Gotta go.</i>
+
+213
+00:13:22,269 --> 00:13:24,725
+- Take care, Gibbs.
+- Yeah, you take care, too.
+
+214
+00:13:30,724 --> 00:13:31,725
+Go home,
+
+215
+00:13:32,136 --> 00:13:32,981
+rest.
+
+216
+00:13:35,688 --> 00:13:37,079
+A kiss for your father.
+
+217
+00:13:51,153 --> 00:13:52,323
+Good night, Papa.
+
+218
+00:14:03,502 --> 00:14:05,854
+Steve Vargo.
+What do you know about him?
+
+219
+00:14:06,134 --> 00:14:08,804
+Boss, I'm not sure I can exactly
+tell you what I know.
+
+220
+00:14:09,730 --> 00:14:10,580
+Orders.
+
+221
+00:14:12,724 --> 00:14:13,724
+Yeah, him.
+
+222
+00:14:17,639 --> 00:14:18,741
+You okay, boss?
+
+223
+00:14:21,153 --> 00:14:22,985
+- Get back to work.
+- Yes, Boss.
+
+224
+00:14:28,227 --> 00:14:31,153
+People say this is one of the greatest
+sports photos ever taken.
+
+225
+00:14:31,661 --> 00:14:33,527
+Muhammad Ali and Sonny Liston.
+
+226
+00:14:33,989 --> 00:14:36,474
+May 25, 1965.
+
+227
+00:14:36,617 --> 00:14:38,410
+First round, first minute.
+
+228
+00:14:38,665 --> 00:14:40,807
+Ali hit him, Sonny went down,
+
+229
+00:14:41,396 --> 00:14:44,222
+stayed down.
+Then all hell broke loose.
+
+230
+00:14:44,804 --> 00:14:47,950
+Lot of people thought it was fixed,
+thought Sonny took a dive.
+
+231
+00:14:49,811 --> 00:14:51,092
+That what you think?
+
+232
+00:14:51,433 --> 00:14:55,186
+I think it's easy to jump to the wrong
+conclusions without all the facts.
+
+233
+00:14:58,120 --> 00:14:59,122
+Swing away.
+
+234
+00:14:59,242 --> 00:15:01,748
+You didn't break up my team because
+of Jenny's death.
+
+235
+00:15:02,732 --> 00:15:04,937
+Five months ago,
+I got a series of anonymous calls
+
+236
+00:15:05,057 --> 00:15:06,448
+from a Navy Petty Officer.
+
+237
+00:15:07,063 --> 00:15:10,187
+Eventually, he identified himself
+as Steve Vargo.
+
+238
+00:15:11,143 --> 00:15:14,275
+Said he had gambling debts
+and that he was being blackmailed
+
+239
+00:15:14,396 --> 00:15:17,067
+into supplying highly classified
+data to someone.
+
+240
+00:15:17,441 --> 00:15:18,526
+What sort of data?
+
+241
+00:15:18,646 --> 00:15:19,927
+He wouldn't tell me.
+
+242
+00:15:20,490 --> 00:15:22,621
+But Vargo was a specialist
+in the Middle East.
+
+243
+00:15:23,437 --> 00:15:25,709
+He said he'd downloaded
+a critical file,
+
+244
+00:15:25,829 --> 00:15:27,267
+but he hadn't passed it on.
+
+245
+00:15:27,938 --> 00:15:29,556
+- Change of heart.
+- I believed him.
+
+246
+00:15:30,831 --> 00:15:32,818
+On the director's orders,
+I flew to DC.
+
+247
+00:15:33,006 --> 00:15:35,624
+I arranged to meet him. He was gonna
+give me the name of that contact,
+
+248
+00:15:35,744 --> 00:15:37,126
+but he didn't turn up.
+
+249
+00:15:37,280 --> 00:15:39,190
+Next day, he didn't report for duty.
+
+250
+00:15:39,740 --> 00:15:40,832
+Now I know why.
+
+251
+00:15:41,660 --> 00:15:43,483
+You didn't answer the question, Leon.
+
+252
+00:15:43,603 --> 00:15:45,371
+The reason I broke up your team,
+Gibbs,
+
+253
+00:15:45,491 --> 00:15:49,198
+was because whoever was blackmailing
+Vargo was an NCIS agent.
+
+254
+00:15:49,318 --> 00:15:50,533
+Not one of mine.
+
+255
+00:15:51,196 --> 00:15:51,906
+No.
+
+256
+00:15:52,732 --> 00:15:55,832
+From what Vargo told me,
+I narrowed it down to three agents.
+
+257
+00:15:58,412 --> 00:16:01,139
+Only reason I broke up your team
+was so I could form a new one.
+
+258
+00:16:02,824 --> 00:16:05,716
+So you can help me find out
+which one of these three...
+
+259
+00:16:07,855 --> 00:16:09,489
+is betraying their country.
+
+260
+00:16:17,901 --> 00:16:20,214
+You were gonna get around
+to telling me?
+
+261
+00:16:20,858 --> 00:16:22,134
+Had no evidence.
+
+262
+00:16:22,256 --> 00:16:25,002
+I figured I put you with them,
+your radar would go off,
+
+263
+00:16:25,122 --> 00:16:27,752
+and one day you'd come to me and say
+you had a doubt about one of them.
+
+264
+00:16:27,872 --> 00:16:31,243
+A doubt? A doubt, Leon?!
+I got a doubt about every one of them.
+
+265
+00:16:31,686 --> 00:16:35,485
+Got a former FBI guy who doesn't listen.
+Got a boy genius who doesn't drive.
+
+266
+00:16:35,605 --> 00:16:37,475
+Got a lawyer who doesn't shoot.
+
+267
+00:16:38,957 --> 00:16:41,499
+Made the jump to NCIS
+eight months ago from the FBI.
+
+268
+00:16:41,619 --> 00:16:44,201
+- He got no special treatment.
+- But you did recommend him.
+
+269
+00:16:44,321 --> 00:16:46,474
+- He called me.
+- And you endorsed him.
+
+270
+00:16:46,836 --> 00:16:48,536
+Now you're having second thoughts.
+
+271
+00:16:48,656 --> 00:16:50,714
+Not the agent you thought
+you were getting.
+
+272
+00:16:50,847 --> 00:16:52,434
+Why don't you just say it?
+
+273
+00:16:53,369 --> 00:16:56,392
+- He used you to get inside the agency.
+- Doesn't make him guilty.
+
+274
+00:16:56,565 --> 00:16:57,611
+Just clever.
+
+275
+00:16:59,837 --> 00:17:01,690
+Pentagon knows there's
+a security breach.
+
+276
+00:17:02,347 --> 00:17:03,650
+They don't know how bad.
+
+277
+00:17:03,823 --> 00:17:06,416
+I've seized all of Vargo's
+computers and his hard drives.
+
+278
+00:17:06,536 --> 00:17:07,820
+We've been working on them.
+
+279
+00:17:10,137 --> 00:17:11,618
+That's why I moved him down there.
+
+280
+00:17:11,778 --> 00:17:14,224
+Seven levels of encryption, so far.
+
+281
+00:17:14,514 --> 00:17:16,746
+Every level harder to crack
+than the last.
+
+282
+00:17:17,575 --> 00:17:19,757
+I wasn't the only one
+who Vargo contacted.
+
+283
+00:17:20,093 --> 00:17:22,943
+Confided in his old Navy buddy,
+Brian Roberts.
+
+284
+00:17:23,391 --> 00:17:25,709
+Then a week ago,
+Roberts turned up in Tel Aviv.
+
+285
+00:17:26,750 --> 00:17:29,891
+- Vargo was a specialist in Israel.
+- And that's why you sent Ziva back.
+
+286
+00:17:31,343 --> 00:17:33,629
+Mossad mounted an operation.
+They were gonna pick up Roberts
+
+287
+00:17:33,749 --> 00:17:36,352
+last night in Morocco,
+but they weren't quick enough.
+
+288
+00:17:37,026 --> 00:17:39,267
+Someone is tying up a loose end.
+
+289
+00:17:39,746 --> 00:17:42,691
+I think Vargo told Roberts
+the name of the NCIS agent.
+
+290
+00:17:42,811 --> 00:17:44,755
+And I'm guessing Roberts
+was trying to sell that
+
+291
+00:17:44,875 --> 00:17:46,727
+name to anybody
+who was willing to pay.
+
+292
+00:17:46,896 --> 00:17:47,896
+So, what?
+
+293
+00:17:48,475 --> 00:17:50,064
+Four months, you got nothing.
+
+294
+00:17:50,916 --> 00:17:52,020
+We got nothing.
+
+295
+00:17:59,599 --> 00:18:01,851
+Vargo's computers have been seized.
+
+296
+00:18:02,181 --> 00:18:04,565
+Standard operating procedure.
+It's in the agents' manual,
+
+297
+00:18:04,956 --> 00:18:07,318
+section 35, sub-section two, clause E:
+
+298
+00:18:07,698 --> 00:18:09,903
+- "Seizure of evidence".
+- You're making that up.
+
+299
+00:18:10,578 --> 00:18:13,042
+- And this matters why?
+- They were seized four months ago.
+
+300
+00:18:13,335 --> 00:18:16,014
+After he failed to report to duty.
+Makes perfect sense.
+
+301
+00:18:16,248 --> 00:18:18,775
+- Who seized them?
+- Us. This agency.
+
+302
+00:18:19,311 --> 00:18:20,162
+NCIS.
+
+303
+00:18:20,812 --> 00:18:22,545
+Then it would've been logged.
+
+304
+00:18:24,770 --> 00:18:25,802
+Wasn't logged.
+
+305
+00:18:25,948 --> 00:18:28,266
+Legally, that could cause
+a chain of evidence problem.
+
+306
+00:18:28,438 --> 00:18:31,063
+- Got to be in the building somewhere.
+- Evidence locker maybe?
+
+307
+00:18:31,190 --> 00:18:32,405
+Down with the geeks.
+
+308
+00:18:36,190 --> 00:18:36,952
+What?
+
+309
+00:18:37,893 --> 00:18:39,438
+Okay. Talk to me.
+
+310
+00:18:41,829 --> 00:18:42,542
+Update.
+
+311
+00:18:43,772 --> 00:18:44,773
+Anyone?!
+
+312
+00:18:46,476 --> 00:18:48,342
+Sorry. Go, you go. Sir.
+
+313
+00:18:48,775 --> 00:18:52,090
+Keating. Vargo closed out two bank
+accounts the day before he disappeared,
+
+314
+00:18:52,335 --> 00:18:56,099
+withdrawing a total of $11,350.
+No credit card transactions since.
+
+315
+00:18:56,338 --> 00:18:58,167
+- Agent Lee.
+- Vargo's commanding officer
+
+316
+00:18:58,287 --> 00:19:00,753
+is refusing to see us
+without legal representation.
+
+317
+00:19:00,874 --> 00:19:03,359
+- Covering his butt.
+- I'm having trouble finding a JAG
+
+318
+00:19:03,480 --> 00:19:05,446
+officer with the appropriate
+security clearance.
+
+319
+00:19:05,682 --> 00:19:07,575
+You got anything, Special Agent?
+
+320
+00:19:07,695 --> 00:19:10,307
+We seized Vargo's computers
+the day after he disappeared,
+
+321
+00:19:10,427 --> 00:19:12,646
+but they were never logged
+into evidence.
+
+322
+00:19:12,899 --> 00:19:15,324
+Probably down in the basement
+with the rest of the...
+
+323
+00:19:17,172 --> 00:19:18,232
+I'll handle it.
+
+324
+00:19:19,306 --> 00:19:21,056
+- Witness statements.
+- Yes, sir.
+
+325
+00:19:36,504 --> 00:19:40,411
+This is Agent Lee, NCIS.
+Is Major Clay available?
+
+326
+00:19:43,683 --> 00:19:44,685
+I'll hold.
+
+327
+00:19:49,502 --> 00:19:51,365
+- Night, boss.
+- See you tomorrow, boss.
+
+328
+00:19:51,486 --> 00:19:52,921
+Night, boss. Good night.
+
+329
+00:19:53,052 --> 00:19:54,746
+- Night, boss.
+- Good night, boss.
+
+330
+00:19:57,219 --> 00:19:59,438
+- You call him?
+- Director's on his way down.
+
+331
+00:19:59,743 --> 00:20:01,543
+You like working down here, McGee?
+
+332
+00:20:02,949 --> 00:20:05,295
+Boss, I'm sorry.
+He made it very clear to me that
+
+333
+00:20:05,415 --> 00:20:07,198
+I couldn't talk to anyone
+except for him.
+
+334
+00:20:07,370 --> 00:20:09,101
+Wouldn't have stopped you in the past.
+
+335
+00:20:09,222 --> 00:20:11,212
+Well, it's not the same.
+We were a team.
+
+336
+00:20:11,383 --> 00:20:14,177
+I would give this up in a heartbeat to
+be back working with you and Ziva again.
+
+337
+00:20:14,297 --> 00:20:15,346
+And DiNozzo?
+
+338
+00:20:16,477 --> 00:20:17,526
+Yeah, him, too.
+
+339
+00:20:20,217 --> 00:20:21,449
+You can tell him.
+
+340
+00:20:21,569 --> 00:20:23,404
+We cracked the eighth level
+of encryption.
+
+341
+00:20:23,524 --> 00:20:25,929
+Which is not actually accurate
+because they're not really levels
+
+342
+00:20:26,049 --> 00:20:28,707
+of encryption so much as packets
+of information all
+
+343
+00:20:28,854 --> 00:20:31,035
+encrypted with a new layer of
+protection that...
+
+344
+00:20:31,786 --> 00:20:33,892
+... that you really
+don't need to know about.
+
+345
+00:20:34,188 --> 00:20:36,472
+Now,
+this next series of packets contained
+
+346
+00:20:36,635 --> 00:20:40,631
+system archives, logging information,
+time-stamped data transfer reports...
+
+347
+00:20:42,778 --> 00:20:44,964
+I really have been down here too long,
+haven't I?
+
+348
+00:20:45,465 --> 00:20:48,871
+The day before he disappeared, Vargo
+connected a thumb drive about this size
+
+349
+00:20:49,202 --> 00:20:52,832
+to a classified computer
+and downloaded a 2.75 gigabyte file.
+
+350
+00:20:52,999 --> 00:20:54,047
+What sort of data?
+
+351
+00:20:54,167 --> 00:20:56,275
+Don't know. Haven't cracked
+that level of encryption.
+
+352
+00:20:56,395 --> 00:20:57,925
+Something he could easily hide.
+
+353
+00:20:58,327 --> 00:20:59,709
+Probably took it with him.
+
+354
+00:20:59,829 --> 00:21:01,328
+Or put it some place safe.
+
+355
+00:21:02,973 --> 00:21:03,790
+Maybe.
+
+356
+00:21:04,457 --> 00:21:05,527
+Thank you, McGee.
+
+357
+00:21:05,803 --> 00:21:07,184
+Keep Agent Gibbs in the loop.
+
+358
+00:21:07,527 --> 00:21:08,436
+Will do.
+
+359
+00:21:10,678 --> 00:21:11,981
+Good night, Director.
+
+360
+00:21:13,080 --> 00:21:14,659
+- Good night, boss.
+- Night.
+
+361
+00:21:16,260 --> 00:21:18,756
+- Solve this first, then we'll talk.
+- Ziva, too.
+
+362
+00:21:25,573 --> 00:21:27,083
+Good morning, Dr. Gibbs.
+
+363
+00:21:27,203 --> 00:21:28,811
+Hey, Duck, what's this shadow here?
+
+364
+00:21:29,202 --> 00:21:30,522
+This area right here.
+
+365
+00:21:31,162 --> 00:21:34,562
+It's a clearly marked fracture
+of the ramus mandibulae.
+
+366
+00:21:34,691 --> 00:21:35,545
+Broken jaw.
+
+367
+00:21:36,585 --> 00:21:38,142
+Caused by a blunt instrument.
+
+368
+00:21:38,275 --> 00:21:39,800
+Possibly the butt of the gun.
+
+369
+00:21:40,279 --> 00:21:42,062
+No signs of a fight at the scene.
+
+370
+00:21:42,182 --> 00:21:44,430
+Already in the bed, possibly asleep.
+
+371
+00:21:44,613 --> 00:21:46,724
+Something disturbs him, a noise.
+
+372
+00:21:46,886 --> 00:21:49,067
+Before he can get up,
+the assailant strikes.
+
+373
+00:21:49,205 --> 00:21:51,687
+- Unconscious?
+- Or dazed, certainly.
+
+374
+00:21:51,933 --> 00:21:54,429
+Allowing the assailant time
+to pick up a pillow
+
+375
+00:21:54,903 --> 00:21:56,923
+to silence the fatal gunshot.
+
+376
+00:21:57,264 --> 00:21:58,624
+No surprises, Jethro.
+
+377
+00:21:58,754 --> 00:22:02,657
+No tell tale marks or bruises
+to help you with your investigation.
+
+378
+00:22:02,863 --> 00:22:06,362
+Just a rather unrevealing death,
+I'm sorry to say.
+
+379
+00:22:08,793 --> 00:22:09,997
+Did I miss something?
+
+380
+00:22:10,552 --> 00:22:11,678
+The pillow.
+
+381
+00:22:12,976 --> 00:22:14,896
+- The pillow?
+- Yeah. The pillow.
+
+382
+00:22:17,619 --> 00:22:18,646
+The pillow.
+
+383
+00:22:25,126 --> 00:22:26,660
+Abs, the pillow.
+
+384
+00:22:27,377 --> 00:22:28,892
+- Good morning, Gibbs.
+- Morning.
+
+385
+00:22:29,877 --> 00:22:31,787
+- Thanks.
+- You're welcome. The pillow.
+
+386
+00:22:31,980 --> 00:22:34,976
+The one with the bullet hole or the
+one with the blood and the bullet hole?
+
+387
+00:22:35,096 --> 00:22:36,741
+The one the killer fired through.
+
+388
+00:22:42,067 --> 00:22:43,496
+- Powder burns?
+- Some.
+
+389
+00:22:43,817 --> 00:22:44,817
+Problem?
+
+390
+00:22:44,937 --> 00:22:47,675
+There's just not as much
+as I would have expected,
+
+391
+00:22:47,801 --> 00:22:50,551
+and if you jam a gun into a pillow
+
+392
+00:22:50,671 --> 00:22:54,500
+to suppress the noise of a gunshot,
+there would be more powder burns.
+
+393
+00:22:54,662 --> 00:22:57,558
+They would leave a distinct pattern
+in the creases of the pillow.
+
+394
+00:22:59,506 --> 00:23:00,214
+See?
+
+395
+00:23:00,397 --> 00:23:02,219
+It's barely even scrunched up at all.
+
+396
+00:23:02,339 --> 00:23:06,004
+As a means of silencing a gunshot,
+this wouldn't be very effective.
+
+397
+00:23:06,257 --> 00:23:08,222
+Wasn't trying to silence the gunshot.
+
+398
+00:23:08,969 --> 00:23:11,066
+Just wanted to cover
+the victim's face.
+
+399
+00:23:12,906 --> 00:23:15,437
+Squeamish shooter.
+Sounds like something I would do.
+
+400
+00:23:15,668 --> 00:23:18,095
+I mean, if I were to do it.
+Not that I would ever do it,
+
+401
+00:23:18,238 --> 00:23:20,203
+- but if I were to do it.
+<i>- I got something here.</i>
+
+402
+00:23:20,325 --> 00:23:22,931
+- Be right down.
+- But if I did, I would shut my eyes.
+
+403
+00:23:23,704 --> 00:23:25,846
+Or... Or use a pillow.
+
+404
+00:23:27,000 --> 00:23:27,751
+Yeah.
+
+405
+00:23:29,457 --> 00:23:31,047
+Got something here, boss.
+
+406
+00:23:31,212 --> 00:23:32,581
+Want to call Vance?
+
+407
+00:23:33,438 --> 00:23:35,140
+No, he can wait.
+
+408
+00:23:35,273 --> 00:23:37,789
+We did an extensive search
+through Vargo's phone records.
+
+409
+00:23:37,997 --> 00:23:39,570
+Home, office, cell.
+
+410
+00:23:39,691 --> 00:23:41,249
+No unusual flagged numbers.
+
+411
+00:23:41,369 --> 00:23:44,758
+McGee, you did not get me down here
+to tell me something you didn't find.
+
+412
+00:23:45,004 --> 00:23:46,901
+The trailer park has a pay phone,
+
+413
+00:23:47,026 --> 00:23:49,842
+Searched through the phone records.
+The day after Vargo moved in,
+
+414
+00:23:49,962 --> 00:23:53,171
+there were three calls placed
+from that pay phone to NCIS.
+
+415
+00:23:53,291 --> 00:23:53,924
+Who?
+
+416
+00:23:54,044 --> 00:23:56,590
+Main switchboard.
+But by crosschecking the phone log
+
+417
+00:23:56,710 --> 00:23:59,790
+on the main server against all
+incoming calls at the time reference...
+
+418
+00:24:00,311 --> 00:24:01,567
+the legal department.
+
+419
+00:24:02,869 --> 00:24:04,371
+Special Agent Lee.
+
+420
+00:24:14,633 --> 00:24:17,448
+Is this something
+I should be seeking advice on?
+
+421
+00:24:17,631 --> 00:24:18,979
+You're the lawyer.
+
+422
+00:24:19,099 --> 00:24:21,181
+You feel you need counsel,
+by all means, call someone.
+
+423
+00:24:21,415 --> 00:24:25,200
+I never knowingly had any contact
+with Petty Officer Steve Vargo.
+
+424
+00:24:25,378 --> 00:24:27,552
+He called you three times
+
+425
+00:24:27,672 --> 00:24:30,463
+from a pay phone at the trailer park
+just before he was murdered.
+
+426
+00:24:32,991 --> 00:24:34,996
+Oh, my God. That was him.
+
+427
+00:24:35,470 --> 00:24:38,353
+- You remember talking to him?
+- The timing's right.
+
+428
+00:24:38,640 --> 00:24:39,811
+And, four months ago,
+
+429
+00:24:40,065 --> 00:24:43,480
+I received three calls from a man who
+refused to identify himself.
+
+430
+00:24:43,600 --> 00:24:46,385
+It was from a pay phone,
+I could hear him feeding the coins.
+
+431
+00:24:46,565 --> 00:24:48,437
+- He wanted legal advice.
+- About what?
+
+432
+00:24:48,609 --> 00:24:51,862
+He said he'd been stealing from
+the Pentagon. He wouldn't say what.
+
+433
+00:24:51,982 --> 00:24:55,025
+I figured it was siphoning off money
+from a Pentagon account.
+
+434
+00:24:55,145 --> 00:24:56,578
+He refused to say, and
+
+435
+00:24:56,764 --> 00:24:59,237
+- then he just stopped calling.
+- And you didn't tell anyone?
+
+436
+00:24:59,412 --> 00:25:01,399
+I filed a report and
+I put it in the system.
+
+437
+00:25:01,519 --> 00:25:03,322
+It was very thin. Nothing to go on.
+
+438
+00:25:03,442 --> 00:25:05,385
+Nobody ever asked me about it.
+
+439
+00:25:08,166 --> 00:25:10,898
+If you check my report filings
+for that week, you'll find them.
+
+440
+00:25:11,665 --> 00:25:13,200
+Shouldn't be a problem then.
+
+441
+00:25:14,328 --> 00:25:17,673
+Thank you, Agent Lee. Would you ask
+McGee to step in on your way out please?
+
+442
+00:25:18,345 --> 00:25:19,349
+Yes, sir.
+
+443
+00:25:20,210 --> 00:25:21,037
+Sir...
+
+444
+00:25:25,591 --> 00:25:26,883
+Sounds credible.
+
+445
+00:25:28,558 --> 00:25:30,378
+That's what Vargo said to me.
+
+446
+00:25:31,497 --> 00:25:32,378
+Maybe.
+
+447
+00:25:37,388 --> 00:25:38,565
+Check Lee's files
+
+448
+00:25:38,685 --> 00:25:41,550
+on the days that Vargo called and
+see if she logged in a report.
+
+449
+00:25:41,855 --> 00:25:44,533
+Full background checks on
+all of them Lee, Keating, Langer.
+
+450
+00:25:44,707 --> 00:25:46,478
+Phone records, bank cards,
+credit cards.
+
+451
+00:25:46,598 --> 00:25:48,674
+- Got it.
+- Any update with the hard drive?
+
+452
+00:25:48,844 --> 00:25:51,506
+Well, we're still trying
+to crack the encryption, but
+
+453
+00:25:51,626 --> 00:25:53,335
+there may be another way.
+
+454
+00:25:54,294 --> 00:25:56,036
+See, I think that we can find out
+
+455
+00:25:56,160 --> 00:25:58,258
+what classified material Vargo
+was downloading.
+
+456
+00:25:58,637 --> 00:25:59,457
+Go on.
+
+457
+00:25:59,577 --> 00:26:02,311
+The only information we have is
+the file's hash number.
+
+458
+00:26:02,558 --> 00:26:04,940
+- Every file has one.
+- And no two are the same.
+
+459
+00:26:05,102 --> 00:26:08,450
+If we can access the Pentagon's system,
+we can scan for that hash number,
+
+460
+00:26:08,570 --> 00:26:11,177
+and it should lead us
+to the file Vargo downloaded.
+
+461
+00:26:11,417 --> 00:26:13,752
+Of course, we would have
+to go through some channels.
+
+462
+00:26:13,882 --> 00:26:15,162
+That the fastest way?
+
+463
+00:26:16,525 --> 00:26:18,534
+I was worried you might ask me that.
+
+464
+00:26:21,837 --> 00:26:23,626
+We didn't have this conversation.
+
+465
+00:26:28,003 --> 00:26:29,703
+<i>McGoo, it's true.</i>
+
+466
+00:26:30,211 --> 00:26:31,592
+<i>TV really does add ten pounds.</i>
+
+467
+00:26:31,714 --> 00:26:33,819
+<i>You been hitting
+the jelly donuts again? How do I look?</i>
+
+468
+00:26:33,939 --> 00:26:36,958
+I never thought I'd say it and truly
+mean it, but it's good to see you, Tony.
+
+469
+00:26:37,654 --> 00:26:38,846
+I miss you, too, probie.
+
+470
+00:26:38,978 --> 00:26:41,932
+First the USS Ronald Reagan, now
+the Seahawk. How's life afloat?
+
+471
+00:26:42,784 --> 00:26:44,771
+Life on the ocean blue, me hearties.
+
+472
+00:26:45,059 --> 00:26:46,975
+<i>The scurvy doesn't get you,
+then the pox will.</i>
+
+473
+00:26:47,670 --> 00:26:50,220
+<i>And tell me this,
+me little McShipmate.</i>
+
+474
+00:26:50,523 --> 00:26:52,339
+<i>How is that scurrilous, black-hearted</i>
+
+475
+00:26:52,553 --> 00:26:55,556
+<i>pirate king of
+ours Captain One-Shot Gibbs?</i>
+
+476
+00:26:55,795 --> 00:26:57,307
+I'm just fine, DiNozzo.
+
+477
+00:27:03,078 --> 00:27:04,799
+<i>There you go, boss. Welcome aboard.</i>
+
+478
+00:27:04,974 --> 00:27:06,036
+Got work to do.
+
+479
+00:27:06,288 --> 00:27:07,951
+<i>I'm on it, boss. What am I on, McGee?</i>
+
+480
+00:27:08,124 --> 00:27:09,441
+Are you alone?
+
+481
+00:27:09,703 --> 00:27:10,487
+Yeah.
+
+482
+00:27:10,670 --> 00:27:14,326
+Just me and 5,000 of
+my closest friends. <i>I am never alone.</i>
+
+483
+00:27:17,058 --> 00:27:19,516
+- <i>I really need to come home, boss.</i>
+- I'm working on it.
+
+484
+00:27:19,636 --> 00:27:22,143
+The only way that we're gonna access
+this information
+
+485
+00:27:22,303 --> 00:27:25,435
+is from a secure naval
+communications room, so you are it.
+
+486
+00:27:25,742 --> 00:27:28,077
+Now here it is I'm gonna give you
+a code. You're gonna enter it
+
+487
+00:27:28,197 --> 00:27:30,091
+into the keyboard. When you do,
+
+488
+00:27:30,423 --> 00:27:33,233
+it's going to ask you for a password
+and an authorization key.
+
+489
+00:27:34,389 --> 00:27:35,152
+Dad!
+
+490
+00:27:36,160 --> 00:27:38,511
+<i>This is why I don't want Tim
+driving my car.</i>
+
+491
+00:27:38,779 --> 00:27:42,630
+<i>You know, I told Tim that's my car,
+and I... it's not a family car,</i>
+
+492
+00:27:42,750 --> 00:27:45,234
+<i>it's my car. I don't like the cut of
+your jib, McGee.</i>
+
+493
+00:27:45,354 --> 00:27:47,826
+<i>This sounds suspiciously
+like illegal activity, and, well,</i>
+
+494
+00:27:48,921 --> 00:27:52,237
+<i>a man of my delicate disposition
+is not suited to that kind of thing.</i>
+
+495
+00:27:52,357 --> 00:27:54,070
+Don't be such a girl, all right?
+
+496
+00:27:55,428 --> 00:27:59,033
+<i>Ready?</i> Seven, delta, x-ray, four,
+
+497
+00:27:59,341 --> 00:28:01,729
+niner, eight, three, three,
+
+498
+00:28:01,849 --> 00:28:04,074
+zero, six, <i>zulu.</i>
+
+499
+00:28:04,472 --> 00:28:06,867
+Password is bluemoon, one word.
+
+500
+00:28:07,349 --> 00:28:09,395
+Authorization key is foxtrot,
+
+501
+00:28:09,604 --> 00:28:11,558
+oscar, charlie, <i>bravo.</i>
+
+502
+00:28:11,933 --> 00:28:14,803
+Bravo.
+All right. Opened a search page.
+
+503
+00:28:16,308 --> 00:28:17,687
+<i>Is this hacking, McGee?</i>
+
+504
+00:28:17,851 --> 00:28:20,080
+<i>- Are we hacking?</i>
+- We are not hacking, Tony.
+
+505
+00:28:20,279 --> 00:28:23,207
+<i>But it is illegal, right?
+Don't answer that. I know it's illegal.</i>
+
+506
+00:28:24,079 --> 00:28:26,839
+- <i>I'm having fun.</i>
+- In the search parameters, enter
+
+507
+00:28:27,152 --> 00:28:30,404
+the hash symbol, then two-seven-five,
+
+508
+00:28:30,740 --> 00:28:34,726
+<i>three-one-nine,</i>
+forward, /, delta, x-ray.
+
+509
+00:28:34,995 --> 00:28:36,165
+<i>Click on file.</i>
+
+510
+00:28:38,456 --> 00:28:39,179
+Dad!
+
+511
+00:28:39,354 --> 00:28:41,192
+<i>It's my point exactly, Dad.</i>
+
+512
+00:28:41,424 --> 00:28:42,772
+<i>It's just not fair.</i>
+
+513
+00:28:43,336 --> 00:28:44,600
+<i>All right, it's searching.</i>
+
+514
+00:28:46,422 --> 00:28:47,184
+Waiting.
+
+515
+00:28:48,296 --> 00:28:49,951
+<i>- More waiting.</i>
+- What do you see?
+
+516
+00:28:50,142 --> 00:28:53,018
+<i>A short life, McGee.</i>
+Yours, if I get caught.
+
+517
+00:28:53,736 --> 00:28:54,462
+Great.
+
+518
+00:28:54,867 --> 00:28:56,236
+Next stop, Gitmo. I got a hit.
+
+519
+00:28:56,527 --> 00:28:58,558
+Download the summary file
+and e-mail it to me.
+
+520
+00:29:06,568 --> 00:29:09,339
+Well, it's been great talking
+with you, Pa. <i>Thanks, Tim.</i>
+
+521
+00:29:10,502 --> 00:29:13,410
+<i>You know I love you guys.</i> It's just
+that Tim always messes my stuff up.
+
+522
+00:29:13,624 --> 00:29:15,924
+<i>He doesn't know how to shift gears,
+he doesn't change the oil.</i>
+
+523
+00:29:16,420 --> 00:29:18,833
+Make sure you feed the chickens.
+<i>Say hi to Mom.</i>
+
+524
+00:29:19,787 --> 00:29:20,714
+He's insane.
+
+525
+00:29:21,017 --> 00:29:23,264
+- Oh, yeah.
+- Thank you, Tony.
+
+526
+00:29:23,551 --> 00:29:25,943
+Look after yourself.
+Don't fall overboard, okay?
+
+527
+00:29:26,063 --> 00:29:27,267
+<i>More likely to jump.</i>
+
+528
+00:29:29,452 --> 00:29:31,385
+- Pa?
+- You take care of yourself.
+
+529
+00:29:33,815 --> 00:29:35,239
+<i>Miss you, too, Dad.</i>
+
+530
+00:29:38,134 --> 00:29:39,713
+All right, got the e-mail.
+
+531
+00:29:44,495 --> 00:29:45,495
+Oh, boy!
+
+532
+00:29:47,900 --> 00:29:49,953
+Now we know what Vargo downloaded.
+
+533
+00:29:50,451 --> 00:29:53,421
+It's the Joint Chiefs' battle plans
+in the event of an attack on Israel.
+
+534
+00:29:54,091 --> 00:29:55,913
+I'm going to have to brief SECNAV.
+
+535
+00:29:59,317 --> 00:30:01,426
+Our ability to respond
+to any threat or attack
+
+536
+00:30:01,547 --> 00:30:03,623
+in the Middle East
+has been compromised.
+
+537
+00:30:04,135 --> 00:30:07,403
+If this gets in the wrong hands, every
+ship in the Gulf will be in danger.
+
+538
+00:30:08,879 --> 00:30:10,903
+Found something. Agent Lee
+
+539
+00:30:11,035 --> 00:30:14,249
+logged into the strategic planning
+office at the same time every Friday,
+
+540
+00:30:14,369 --> 00:30:16,919
+for a six-month period
+prior to Vargo disappearing.
+
+541
+00:30:17,182 --> 00:30:19,798
+Logged in at the same time,
+logged out 30 minutes later.
+
+542
+00:30:20,112 --> 00:30:22,378
+- Like clockwork.
+- She was meeting someone.
+
+543
+00:30:25,109 --> 00:30:26,834
+I wasn't meeting Vargo.
+
+544
+00:30:29,464 --> 00:30:31,429
+You logged in through
+the service area.
+
+545
+00:30:33,294 --> 00:30:35,044
+You never stayed more than 30 minutes.
+
+546
+00:30:35,166 --> 00:30:36,795
+I never even met Vargo.
+
+547
+00:30:36,915 --> 00:30:39,534
+The first time I saw him was
+his dead body at the trailer park.
+
+548
+00:30:39,656 --> 00:30:41,639
+Then who were you meeting
+in that building?
+
+549
+00:30:42,196 --> 00:30:43,664
+Not Vargo.
+
+550
+00:30:43,885 --> 00:30:46,026
+So you were meeting someone,
+Agent Lee.
+
+551
+00:30:46,932 --> 00:30:47,737
+Who?
+
+552
+00:30:48,834 --> 00:30:49,558
+Who?
+
+553
+00:30:56,162 --> 00:30:57,917
+Agent Gibbs. You startled me.
+
+554
+00:31:01,458 --> 00:31:03,027
+- Director Vance.
+- Mr. Palmer.
+
+555
+00:31:03,813 --> 00:31:05,908
+You've been seeing Agent Lee, Jimmy?
+
+556
+00:31:07,717 --> 00:31:08,441
+No.
+
+557
+00:31:14,320 --> 00:31:15,029
+Yes.
+
+558
+00:31:15,704 --> 00:31:18,248
+I mean... I mean, no.
+I mean... I mean, yes,
+
+559
+00:31:18,474 --> 00:31:20,815
+I was seeing her, and no,
+I'm not seeing her anymore.
+
+560
+00:31:21,066 --> 00:31:22,290
+Where and when?
+
+561
+00:31:26,093 --> 00:31:26,803
+Here...
+
+562
+00:31:28,151 --> 00:31:29,158
+and there.
+
+563
+00:31:29,771 --> 00:31:31,444
+Here and there. Mostly here.
+
+564
+00:31:32,592 --> 00:31:35,741
+Until Dr. Mallard almost caught us,
+and then, we had to change our...
+
+565
+00:31:40,404 --> 00:31:41,707
+... where we did it.
+
+566
+00:31:42,029 --> 00:31:42,798
+Where?
+
+567
+00:31:42,981 --> 00:31:44,660
+- Building next door.
+- When?
+
+568
+00:31:45,149 --> 00:31:46,700
+Every Friday morning.
+
+569
+00:31:47,385 --> 00:31:49,350
+She'd log in, and then...
+
+570
+00:31:50,738 --> 00:31:51,928
+she would open the...
+
+571
+00:31:54,128 --> 00:31:56,148
+Service door on the parking garage,
+
+572
+00:31:57,270 --> 00:31:59,290
+and we used the paint locker
+in the basement.
+
+573
+00:31:59,879 --> 00:32:00,879
+Paint locker.
+
+574
+00:32:02,460 --> 00:32:04,941
+- Think she got off on the fumes.
+- You still seeing her?
+
+575
+00:32:05,254 --> 00:32:07,875
+- No, sir. Ended a few months ago.
+- She end it?
+
+576
+00:32:08,910 --> 00:32:09,980
+No, I ended it.
+
+577
+00:32:10,829 --> 00:32:11,538
+Sir.
+
+578
+00:32:12,919 --> 00:32:14,826
+Felt I was... being used.
+
+579
+00:32:20,188 --> 00:32:21,502
+Am I gonna be fired?
+
+580
+00:32:24,364 --> 00:32:25,073
+No.
+
+581
+00:32:25,954 --> 00:32:28,737
+- And it will not happen again.
+- No, sir. It will not happen.
+
+582
+00:32:28,971 --> 00:32:31,069
+With anyone. Anywhere.
+
+583
+00:32:31,951 --> 00:32:34,313
+I... I mean,
+it will happen again. It...
+
+584
+00:32:34,547 --> 00:32:37,162
+But not with anyone here on the...
+
+585
+00:32:37,985 --> 00:32:38,935
+Thank you.
+
+586
+00:32:39,396 --> 00:32:40,202
+Sir.
+
+587
+00:32:42,143 --> 00:32:43,202
+I got it, thanks.
+
+588
+00:32:46,382 --> 00:32:47,342
+It was McGee.
+
+589
+00:32:47,505 --> 00:32:50,042
+He found the report that Lee filed
+on the anonymous
+
+590
+00:32:50,162 --> 00:32:53,392
+calls she received from Vargo
+while she was in the legal department.
+
+591
+00:32:54,470 --> 00:32:55,767
+Just like she said.
+
+592
+00:32:56,791 --> 00:32:57,894
+She's in the clear.
+
+593
+00:32:59,830 --> 00:33:01,177
+One down, two to go.
+
+594
+00:33:03,452 --> 00:33:04,766
+Langer or Keating.
+
+595
+00:33:11,759 --> 00:33:13,646
+Someone want to tell me
+what's going on?
+
+596
+00:33:15,730 --> 00:33:17,884
+- Anyone?
+- Isn't it your turn to get the coffee?
+
+597
+00:33:18,223 --> 00:33:20,132
+Someone been running
+a check on my bank records.
+
+598
+00:33:20,254 --> 00:33:21,700
+- Ex-wife?
+- Internal.
+
+599
+00:33:21,895 --> 00:33:23,397
+- Cyber unit.
+- How do you know?
+
+600
+00:33:23,517 --> 00:33:25,891
+Little security program I wrote
+to guard against identity theft.
+
+601
+00:33:26,084 --> 00:33:28,061
+- It just alerted me.
+- They can't do that.
+
+602
+00:33:28,182 --> 00:33:29,945
+It's illegal without a warrant.
+
+603
+00:33:30,065 --> 00:33:32,567
+You might want to write a letter
+to your congressman about that one.
+
+604
+00:33:32,688 --> 00:33:35,322
+So should you. They've been through
+your records, too.
+
+605
+00:33:35,442 --> 00:33:36,716
+How do you know that?
+
+606
+00:33:36,836 --> 00:33:39,133
+Because I checked. They've been
+through your records as well.
+
+607
+00:33:39,253 --> 00:33:40,902
+Yeah, I guessed that already.
+
+608
+00:33:41,094 --> 00:33:42,571
+So someone in Cyber Unit
+
+609
+00:33:42,691 --> 00:33:45,693
+is checking for irregularities
+in agents' banking records?
+
+610
+00:33:45,813 --> 00:33:47,963
+Not every agent. Just ours.
+
+611
+00:33:48,170 --> 00:33:49,817
+"We few, we happy few.
+
+612
+00:33:50,088 --> 00:33:51,479
+We band of brothers."
+
+613
+00:33:54,235 --> 00:33:55,703
+Am I under investigation?
+
+614
+00:33:58,250 --> 00:34:00,447
+- Should you be?
+- I'd like a straight yes or no, sir.
+
+615
+00:34:04,550 --> 00:34:05,681
+- Keating.
+- Sir?
+
+616
+00:34:05,890 --> 00:34:07,393
+Interrogation room, now.
+
+617
+00:34:10,504 --> 00:34:11,664
+You stay on base.
+
+618
+00:34:16,342 --> 00:34:17,738
+What the hell's going on?
+
+619
+00:34:18,429 --> 00:34:20,269
+They think one of us is a spy.
+
+620
+00:34:23,383 --> 00:34:25,088
+Somebody want to tell me...
+
+621
+00:34:28,737 --> 00:34:29,737
+I have rights.
+
+622
+00:34:30,406 --> 00:34:31,406
+What was that?
+
+623
+00:34:31,692 --> 00:34:33,115
+I said that I have rights.
+
+624
+00:34:33,661 --> 00:34:35,811
+Agent Gibbs, does he have rights?
+
+625
+00:34:36,095 --> 00:34:37,845
+Yeah, he's got the right
+to remain silent.
+
+626
+00:34:38,221 --> 00:34:40,570
+Might make us think he's got
+something to hide, though.
+
+627
+00:34:40,992 --> 00:34:43,209
+These are impressive
+computer skills, Daniel.
+
+628
+00:34:43,938 --> 00:34:46,462
+MIT grad. Programming.
+
+629
+00:34:46,623 --> 00:34:47,640
+Encryption.
+
+630
+00:34:48,098 --> 00:34:50,216
+I bet there's not much
+you don't know about computers.
+
+631
+00:34:50,629 --> 00:34:52,055
+No. Sir.
+
+632
+00:34:52,420 --> 00:34:55,179
+So tell me, you ever hacked
+into the Pentagon's database?
+
+633
+00:34:57,335 --> 00:35:00,268
+You might want to take a moment
+before you answer that one.
+
+634
+00:35:02,116 --> 00:35:03,270
+Computer stuff, right?
+
+635
+00:35:03,673 --> 00:35:04,772
+Gotta be Keating.
+
+636
+00:35:13,444 --> 00:35:14,449
+Brett, don't.
+
+637
+00:35:14,610 --> 00:35:15,756
+Just looking.
+
+638
+00:35:16,036 --> 00:35:16,736
+No.
+
+639
+00:35:26,369 --> 00:35:27,174
+Wait.
+
+640
+00:35:28,185 --> 00:35:28,979
+What?
+
+641
+00:35:30,398 --> 00:35:32,132
+This is a military access card.
+
+642
+00:35:32,386 --> 00:35:33,925
+Keating's a civilian like us.
+
+643
+00:35:34,839 --> 00:35:37,430
+It's for the computer archives
+in Building Three.
+
+644
+00:35:37,824 --> 00:35:38,825
+Vargo's.
+
+645
+00:35:39,221 --> 00:35:41,781
+This was evidence. He must have
+taken it from the crime scene.
+
+646
+00:35:41,901 --> 00:35:43,460
+And this looks like a password.
+
+647
+00:35:43,805 --> 00:35:45,035
+We should tell Gibbs.
+
+648
+00:35:45,155 --> 00:35:47,388
+Let's take a look first.
+
+649
+00:35:47,683 --> 00:35:50,693
+- He said not to leave the building.
+- No, he said the base not the building.
+
+650
+00:35:50,854 --> 00:35:52,110
+Don't go there.
+
+651
+00:35:52,272 --> 00:35:54,695
+I don't have access to Building Three.
+
+652
+00:35:56,699 --> 00:35:57,700
+But you do.
+
+653
+00:36:08,770 --> 00:36:09,932
+No one home.
+
+654
+00:36:10,461 --> 00:36:12,917
+No one ever is.
+It's computer controlled.
+
+655
+00:36:43,280 --> 00:36:44,538
+We shouldn't be here.
+
+656
+00:36:44,699 --> 00:36:46,999
+If we get caught,
+they'll think it's one of us.
+
+657
+00:37:01,564 --> 00:37:02,390
+What?
+
+658
+00:37:05,970 --> 00:37:08,980
+It's a simple question, Agent Keating.
+You've either met him or you haven't.
+
+659
+00:37:09,787 --> 00:37:11,439
+<i>Excuse me, Director Vance.</i>
+
+660
+00:37:11,601 --> 00:37:12,831
+<i>You need to hear this.</i>
+
+661
+00:37:15,146 --> 00:37:17,978
+We set up an alert system for
+all of Vargo's electronic information:
+
+662
+00:37:18,098 --> 00:37:20,501
+credit cards, toll cards, I.D.
+Everything.
+
+663
+00:37:20,621 --> 00:37:23,037
+If anyone tries to use them,
+the system sends us an alert.
+
+664
+00:37:23,488 --> 00:37:24,372
+It just did.
+
+665
+00:37:24,492 --> 00:37:26,728
+Someone is using Vargo's access card
+
+666
+00:37:26,848 --> 00:37:29,667
+to get into the computer archive
+section in Building Three next door.
+
+667
+00:37:35,124 --> 00:37:37,425
+Hell, it's Langer. You watch him.
+
+668
+00:37:43,543 --> 00:37:44,646
+Agent Lee?
+
+669
+00:37:45,867 --> 00:37:46,867
+Lee?
+
+670
+00:38:10,534 --> 00:38:11,600
+I got it.
+
+671
+00:38:13,703 --> 00:38:14,786
+It's okay.
+
+672
+00:38:27,013 --> 00:38:28,233
+It was him.
+
+673
+00:38:28,763 --> 00:38:29,998
+All the time.
+
+674
+00:38:30,969 --> 00:38:32,013
+It was him.
+
+675
+00:38:33,015 --> 00:38:34,857
+He's got Vargo's access card.
+
+676
+00:38:41,929 --> 00:38:43,282
+<i>Shalom alaikum, Eli.</i>
+
+677
+00:38:43,864 --> 00:38:45,003
+<i>Leon Vance.</i>
+
+678
+00:38:45,282 --> 00:38:46,424
+Leon, shalom.
+
+679
+00:38:47,316 --> 00:38:49,245
+It is good to hear your voice again,
+my friend.
+
+680
+00:38:49,406 --> 00:38:52,248
+- <i>How is your family?</i>
+- Complain they don't see enough of me.
+
+681
+00:38:52,410 --> 00:38:53,790
+The work of intrigue, yes?
+
+682
+00:38:53,910 --> 00:38:55,753
+It keeps us all away
+from our loved ones.
+
+683
+00:38:56,828 --> 00:38:57,904
+<i>Leon, thank you.</i>
+
+684
+00:38:58,024 --> 00:38:59,674
+<i>For sending my daughter home to me.</i>
+
+685
+00:39:00,614 --> 00:39:02,292
+Though I think you...
+
+686
+00:39:02,719 --> 00:39:04,131
+perhaps had other motives?
+
+687
+00:39:04,251 --> 00:39:05,719
+Ziva's greatly missed here.
+
+688
+00:39:07,056 --> 00:39:08,644
+She has many friends.
+
+689
+00:39:09,335 --> 00:39:11,085
+<i>Yes, and many </i>talents.
+
+690
+00:39:12,483 --> 00:39:13,562
+You have a daughter?
+
+691
+00:39:14,424 --> 00:39:15,424
+Yes.
+
+692
+00:39:16,395 --> 00:39:17,525
+Yeah. Kayla.
+
+693
+00:39:17,686 --> 00:39:20,820
+<i>You know, Leon,
+sometimes those who know</i>
+
+694
+00:39:20,981 --> 00:39:23,697
+ask me directly.
+The brave among them.
+
+695
+00:39:23,859 --> 00:39:27,012
+<i>But most of the time, the others,
+I can feel them looking at me</i>
+
+696
+00:39:27,132 --> 00:39:29,078
+<i>and silently wondering</i>
+
+697
+00:39:29,239 --> 00:39:31,134
+how can a father possibly
+
+698
+00:39:31,254 --> 00:39:33,916
+raise his daughter
+to be a professional killer.
+
+699
+00:39:34,159 --> 00:39:36,793
+A question that I've never asked you,
+because I know the answer.
+
+700
+00:39:37,527 --> 00:39:39,504
+Every day is a fight to survive.
+
+701
+00:39:39,666 --> 00:39:41,882
+<i>It is my dream that
+my daughter will not have</i>
+
+702
+00:39:42,043 --> 00:39:44,946
+to make that decision
+with her sons and her daughters.
+
+703
+00:39:45,066 --> 00:39:48,276
+I would like my grandchildren
+to be doctors and architects,
+
+704
+00:39:48,396 --> 00:39:49,835
+to live a happy life.
+
+705
+00:39:50,673 --> 00:39:52,219
+To grow fats...
+
+706
+00:39:52,709 --> 00:39:53,644
+and old.
+
+707
+00:39:57,559 --> 00:39:59,190
+You want her back, don't you?
+
+708
+00:39:59,988 --> 00:40:01,901
+Yes, Eli, I want her back.
+
+709
+00:40:02,799 --> 00:40:04,654
+Tell me, Leon, are we winning?
+
+710
+00:40:11,087 --> 00:40:12,163
+I don't know, Eli.
+
+711
+00:40:13,595 --> 00:40:15,245
+I like to think we are.
+
+712
+00:40:16,259 --> 00:40:17,465
+And then...
+
+713
+00:40:18,775 --> 00:40:20,212
+there's something else: a bomb,
+
+714
+00:40:20,372 --> 00:40:21,833
+<i>a kidnapping, an atrocity.</i>
+
+715
+00:40:24,403 --> 00:40:25,932
+Use her well, Leon.
+
+716
+00:40:27,520 --> 00:40:28,608
+Ziva
+
+717
+00:40:28,976 --> 00:40:31,223
+is the sharp end of the spear.
+
+718
+00:40:32,815 --> 00:40:33,976
+Thank you, Eli.
+
+719
+00:40:34,300 --> 00:40:35,518
+Shalom, my friend.
+
+720
+00:40:35,684 --> 00:40:36,684
+Shalom to you.
+
+721
+00:41:00,084 --> 00:41:01,618
+- Done?
+- Done.
+
+722
+00:41:02,952 --> 00:41:04,172
+Look... I
+
+723
+00:41:04,333 --> 00:41:07,843
+know you never thought
+much of me as a field agent.
+
+724
+00:41:08,196 --> 00:41:11,138
+You probably never thought
+much of me as a lawyer.
+
+725
+00:41:11,418 --> 00:41:13,349
+That's more the profession
+than the person.
+
+726
+00:41:13,668 --> 00:41:15,893
+But if you ever need... I mean...
+
+727
+00:41:16,743 --> 00:41:18,979
+If the chance ever comes up again...
+
+728
+00:41:24,926 --> 00:41:26,153
+Might be important.
+
+729
+00:41:28,573 --> 00:41:29,728
+It can wait.
+
+730
+00:41:34,196 --> 00:41:35,196
+I got it.
+
+731
+00:41:35,572 --> 00:41:36,572
+Thank you.
+
+732
+00:41:41,713 --> 00:41:42,978
+Do we know why he did it?
+
+733
+00:41:43,640 --> 00:41:45,256
+Money, probably.
+
+734
+00:41:47,008 --> 00:41:47,804
+Well,
+
+735
+00:41:48,324 --> 00:41:49,257
+thanks.
+
+736
+00:41:50,050 --> 00:41:51,053
+Be seeing you.
+
+737
+00:41:55,779 --> 00:41:59,337
+Oh, my God, I'm so excited.
+McGee, I can't believe it. Pinch me.
+
+738
+00:42:01,244 --> 00:42:02,244
+Thank you.
+
+739
+00:42:11,703 --> 00:42:12,426
+Hi.
+
+740
+00:42:13,361 --> 00:42:14,511
+Michelle. Hi.
+
+741
+00:42:14,820 --> 00:42:15,914
+There she is!
+
+742
+00:42:19,621 --> 00:42:20,624
+Welcome back.
+
+743
+00:42:21,298 --> 00:42:22,917
+It's good to be back.
+
+744
+00:42:24,403 --> 00:42:25,997
+You're back! You're back!
+
+745
+00:42:58,882 --> 00:43:02,119
+www.Team-NCIS.com
+

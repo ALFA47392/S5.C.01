@@ -1,0 +1,3712 @@
+1
+00:00:04,829 --> 00:00:06,168
+{\pos(192,210)}Cible numéro 1 éliminée.
+
+2
+00:00:06,293 --> 00:00:08,200
+{\pos(192,210)}2 et 3 ce sont échappées,
+poursuite en cours.
+
+3
+00:00:08,364 --> 00:00:09,932
+On ne doit pas avoir de témoins.
+
+4
+00:00:10,356 --> 00:00:12,879
+Il a donné l'ordre
+de tuer Jack Harkness.
+
+5
+00:00:13,084 --> 00:00:15,435
+- Vous en êtes sûre ?
+- Je l'ai vu de mes propres yeux.
+
+6
+00:00:15,815 --> 00:00:16,996
+Nous allons venir.
+
+7
+00:00:18,204 --> 00:00:19,155
+Nous allons venir.
+
+8
+00:00:19,364 --> 00:00:21,646
+Qui qu'ils soient, leur
+destination est la Grande Bretagne.
+
+9
+00:00:22,046 --> 00:00:23,280
+- Mais pourquoi ?
+- Exactement.
+
+10
+00:00:23,914 --> 00:00:25,833
+- Pourquoi ça, M. Frobisher ?
+
+11
+00:00:26,411 --> 00:00:29,029
+Il répète toujours la même
+chose, encore et encore.
+
+12
+00:00:30,589 --> 00:00:31,846
+Je ne veux pas vous effrayer.
+
+13
+00:00:31,966 --> 00:00:34,600
+Vous êtes en sécurité, mais je pense
+que des aliens parlent à travers vous.
+
+14
+00:00:34,801 --> 00:00:37,799
+- Qu'en pensez-vous ?
+- Ça n'existe pas.
+
+15
+00:00:39,614 --> 00:00:42,169
+Comment être sûr que
+les 456 ne diront rien ?
+
+16
+00:00:42,462 --> 00:00:43,320
+On ne l'est pas.
+
+17
+00:00:43,481 --> 00:00:45,439
+On ne peut qu'espérer
+qu'ils nous couvrent.
+
+18
+00:00:45,600 --> 00:00:48,265
+Transcript : bean
+Resynchro : Ori, Darkevil, LauCass
+
+19
+00:00:48,365 --> 00:00:51,569
+Traduction : Ash, Plumedephenix, Kecha
+Relecture : Arno, Killarney
+
+20
+00:00:51,669 --> 00:00:54,480
+~ Harkness Team / Allons-Y Team ~
+~ SeriesSub / U-Sub ~
+
+21
+00:01:15,073 --> 00:01:16,123
+Nous voilà.
+
+22
+00:01:17,065 --> 00:01:18,465
+{\pos(192,230)}C'est Torchwood.
+
+23
+00:01:19,899 --> 00:01:20,879
+{\pos(192,230)}Nous sommes chez nous.
+
+24
+00:01:24,254 --> 00:01:27,120
+<i>Les enfants parlaient de
+demain, et demain est arrivé.</i>
+
+25
+00:01:27,321 --> 00:01:30,040
+<i>Nos correspondants ont
+évalué la situation...</i>
+
+26
+00:01:33,837 --> 00:01:37,821
+<i>Le Sénat fait remarquer que l'on vit
+maintenant effrayés par nos enfants.</i>
+
+27
+00:01:38,241 --> 00:01:40,479
+<i>Effrayés par ce qu'ils
+diront la prochaine fois.</i>
+
+28
+00:01:40,920 --> 00:01:44,080
+<i>Effrayés par ce qui parle à travers eux.</i>
+
+29
+00:01:47,720 --> 00:01:49,119
+J'ai presque perdu mes sourcils !
+
+30
+00:01:49,462 --> 00:01:52,293
+Mais je sers à quelque chose,
+tu vois ? Merci les scouts.
+
+31
+00:01:52,641 --> 00:01:54,760
+- Je suis gelée.
+- Personne ne va nous trouver ici ?
+
+32
+00:01:54,961 --> 00:01:58,360
+- Avec ce feu ?
+- C'est abandonné depuis les années 90.
+
+33
+00:01:58,693 --> 00:02:00,880
+Ca appartenait à
+Torchwood. Torchwood Un.
+
+34
+00:02:01,041 --> 00:02:03,813
+- C'est déserté depuis des années.
+- Alors que fait-on ?
+
+35
+00:02:05,281 --> 00:02:06,760
+On reste assis là ?
+
+36
+00:02:06,961 --> 00:02:10,118
+Plus important, je dois vraiment garder
+ces habits ? Sérieusement !
+
+37
+00:02:10,394 --> 00:02:12,360
+Un pantalon de jogging ?
+C'est pas la classe.
+
+38
+00:02:12,561 --> 00:02:15,200
+Jack, ils arrivent aujourd'hui.
+Cette voix extraterrestre
+
+39
+00:02:15,401 --> 00:02:19,119
+{\pos(192,190)}a dit aujourd'hui, et on est
+coincé au milieu de nulle part.
+
+40
+00:02:21,374 --> 00:02:23,372
+Mais on est ensemble. La vieille équipe.
+
+41
+00:02:23,840 --> 00:02:25,320
+On est diminué, mais toujours là.
+
+42
+00:02:25,800 --> 00:02:27,880
+On a survécu à pire.
+
+43
+00:02:28,755 --> 00:02:31,520
+En plus, tu ne devrais pas
+trop te battre, dans ton état.
+
+44
+00:02:33,253 --> 00:02:34,586
+Qu'est-ce que ça veut dire ?
+
+45
+00:02:35,222 --> 00:02:37,532
+- Bon sang, Jack !
+- Il sait que tu es enceinte ?
+
+46
+00:02:37,841 --> 00:02:39,081
+Tu lui as dit avant moi ?
+
+47
+00:02:39,201 --> 00:02:41,520
+Il était là sur le moment,
+c'est arrivé très vite.
+
+48
+00:02:41,720 --> 00:02:44,727
+{\pos(192,210)}Le dernier au courant,
+bon sang, le dernier !
+
+49
+00:02:44,847 --> 00:02:46,400
+{\pos(192,210)}Ne sois pas bête ! Ne fais pas...
+
+50
+00:02:48,200 --> 00:02:50,160
+Tu pouvais pas la fermer ?
+
+51
+00:02:52,854 --> 00:02:53,959
+Tous ensemble.
+
+52
+00:02:54,951 --> 00:02:56,101
+La vieille équipe.
+
+53
+00:02:56,771 --> 00:03:00,159
+<i>La tension augmente tandis
+que la planète entière</i>
+
+54
+00:03:00,321 --> 00:03:01,960
+<i>attend le prochain incident.</i>
+
+55
+00:03:05,601 --> 00:03:07,581
+<i>Nous n'avons eu aucune réponse,</i>
+
+56
+00:03:07,701 --> 00:03:10,199
+<i>aucun espoir, aucune garantie</i>
+
+57
+00:03:10,361 --> 00:03:12,000
+<i>que nos enfants passeront en premier...</i>
+
+58
+00:03:12,294 --> 00:03:15,469
+<i>Le gouvernement refuse de
+spéculer quant à l'origine</i>
+
+59
+00:03:15,589 --> 00:03:19,280
+<i>de la voix ou de
+l'importance du mot "demain".</i>
+
+60
+00:03:19,521 --> 00:03:22,080
+<i>Nous nous rendons maintenant
+en direct, à Downing Street.</i>
+
+61
+00:03:22,280 --> 00:03:25,221
+À la lumière de ce qui
+arrive à nos enfants,
+
+62
+00:03:25,341 --> 00:03:27,680
+les écoles ont été
+temporairement fermées.
+
+63
+00:03:28,109 --> 00:03:31,480
+En outre, un couvre-feu
+temporaire a été instauré
+
+64
+00:03:31,600 --> 00:03:33,800
+pour toute personne
+de moins de 18 ans.
+
+65
+00:03:34,318 --> 00:03:36,920
+<i>Gardez vos enfants
+chez vous, en sécurité.</i>
+
+66
+00:03:37,600 --> 00:03:39,640
+<i>Le couvre-feu prend effet immédiatement</i>
+
+67
+00:03:39,841 --> 00:03:42,000
+et continuera jusqu'à
+nouvel ordre.
+
+68
+00:03:42,684 --> 00:03:43,720
+<i>Mais soyez tranquilles.</i>
+
+69
+00:03:44,254 --> 00:03:47,734
+<i>Nous faisons tout ce qui est en notre
+pouvoir pour comprendre,</i>
+
+70
+00:03:48,161 --> 00:03:52,120
+<i>pour préserver nos enfants et
+toute la population de notre nation.</i>
+
+71
+00:03:53,481 --> 00:03:56,713
+<i>En attendant, nous vous
+prions de rester calmes,</i>
+
+72
+00:03:57,462 --> 00:03:59,657
+<i>et de continuer à vivre normalement.</i>
+
+73
+00:04:00,698 --> 00:04:03,200
+<i>Rien ne prouve que
+nous sommes en danger,</i>
+
+74
+00:04:03,734 --> 00:04:06,334
+<i>et dès que nous en saurons plus,</i>
+
+75
+00:04:06,870 --> 00:04:08,626
+<i>la population en sera informée.</i>
+
+76
+00:04:09,229 --> 00:04:12,286
+<i>Et comme toujours,
+je vous remercie de votre confiance</i>
+
+77
+00:04:13,412 --> 00:04:14,862
+<i>et de votre foi.</i>
+
+78
+00:04:25,210 --> 00:04:27,027
+C'est moi, écoute,
+je ne peux pas parler,
+
+79
+00:04:27,147 --> 00:04:30,040
+mais lève le pouce, elle
+saura ce que ça signifie.
+
+80
+00:04:33,201 --> 00:04:34,479
+Super ! Merci, Mac !
+
+81
+00:04:40,152 --> 00:04:42,402
+Mac lève le pouce, Ianto est vivant !
+
+82
+00:04:43,356 --> 00:04:47,200
+C'est tout ? Imbécile, dis-moi
+où il est, ce qu'il fait !
+
+83
+00:04:47,531 --> 00:04:49,455
+Le pouce levé, c'est tout.
+Voilà Eliza,
+
+84
+00:04:49,575 --> 00:04:51,744
+elle fait une intolérance au
+lactose, alors pas de lait.
+
+85
+00:04:52,244 --> 00:04:53,999
+Bien. Enlève ton manteau,
+
+86
+00:04:54,161 --> 00:04:58,040
+va là-bas et joue, d'accord ?
+C'est tout, Johnny.
+
+87
+00:04:58,441 --> 00:05:00,553
+Plus d'autres enfants !
+Je n'en peux plus !
+
+88
+00:05:00,673 --> 00:05:03,747
+C'est du service public ! Les écoles
+sont fermées, les gens travaillent !
+
+89
+00:05:04,357 --> 00:05:06,520
+- La vie continue !
+- Et tu en tires profit.
+
+90
+00:05:06,720 --> 00:05:10,279
+£10 par môme. Ça pourrait être
+notre slogan, £10 par môme !
+
+91
+00:05:20,147 --> 00:05:23,594
+<i>Ici Jack Harkness, laissez un
+message et je vous rappellerai.</i>
+
+92
+00:05:31,675 --> 00:05:33,160
+Alors, on a... Des flingues,
+
+93
+00:05:34,506 --> 00:05:35,839
+et un couteau suisse.
+
+94
+00:05:36,680 --> 00:05:38,022
+Un PC portable, à plat.
+
+95
+00:05:38,400 --> 00:05:40,517
+Des cartes de crédit et un
+téléphone, qui peuvent être tracés.
+
+96
+00:05:40,637 --> 00:05:41,800
+De l'aspirine, des timbres,
+
+97
+00:05:41,920 --> 00:05:44,040
+des lentilles de contact, et £15.
+
+98
+00:05:44,481 --> 00:05:45,928
+Plus 25 pens.
+
+99
+00:05:46,048 --> 00:05:48,160
+Avec un mauvais coup alien
+qui s'annonce.
+
+100
+00:05:48,321 --> 00:05:49,919
+On a toujours une partie
+des logiciels.
+
+101
+00:05:50,081 --> 00:05:52,800
+On a perdu le QG, mais les logiciels
+sont toujours sur le serveur.
+
+102
+00:05:52,961 --> 00:05:56,120
+Par contre, il va nous falloir plus
+d'équipement, et surtout l'électricité.
+
+103
+00:05:56,320 --> 00:05:58,898
+Et comment allons-nous faire,
+planqués comme des criminels ?
+
+104
+00:06:00,542 --> 00:06:02,200
+C'est ça. Super !
+
+105
+00:06:02,857 --> 00:06:05,200
+- Quoi ?
+- Des criminels. Des voleurs.
+
+106
+00:06:05,978 --> 00:06:06,783
+Nous.
+
+107
+00:06:07,615 --> 00:06:10,235
+Ils nous traitent comme
+des criminels, soyons-en !
+
+108
+00:06:10,355 --> 00:06:11,919
+J'ai été entraînée dans la police,
+
+109
+00:06:12,081 --> 00:06:15,113
+je sais tout ce qu'il faut
+savoir ! J'ai tout vu !
+
+110
+00:06:15,233 --> 00:06:17,999
+Allez, les mecs. Vous
+allez apprendre des choses.
+
+111
+00:06:21,283 --> 00:06:22,588
+Tout va bien ?
+
+112
+00:06:22,708 --> 00:06:25,654
+- Oui, merci beaucoup.
+- Ça fera £15, s'il vous plaît.
+
+113
+00:07:05,684 --> 00:07:07,399
+Revenez, c'est ma voiture !
+
+114
+00:07:18,056 --> 00:07:20,925
+Je fais juste un tour dehors. Je
+reviens tout de suite, d'accord ?
+
+115
+00:07:30,672 --> 00:07:32,559
+Excusez-moi, je peux
+emprunter votre téléphone ?
+
+116
+00:07:33,126 --> 00:07:35,560
+Je veux juste appeler ma sœur,
+elle est inquiète pour les enfants.
+
+117
+00:07:35,720 --> 00:07:37,520
+Mon portable ne marche plus.
+Ça ne vous dérange pas ?
+
+118
+00:07:37,640 --> 00:07:40,160
+- Bien sûr.
+- Je fais vite. Merci beaucoup.
+
+119
+00:07:45,759 --> 00:07:47,906
+<i>Bonjour, poste de police de Cardiff Bay.</i>
+
+120
+00:07:49,231 --> 00:07:52,560
+<i>J'essaie de contacter le Capitaine
+Harkness, il travaille pour Torchwood.</i>
+
+121
+00:07:52,721 --> 00:07:54,587
+Je sais que ce n'est pas
+votre service, mais...
+
+122
+00:07:55,708 --> 00:07:57,649
+Je pense qu'il était
+dans cette explosion,
+
+123
+00:07:57,769 --> 00:08:00,405
+je n'arrive pas à le contacter.
+Il a un numéro privé...
+
+124
+00:08:00,525 --> 00:08:02,200
+<i>Il me faut vos nom et adresse.</i>
+
+125
+00:08:03,146 --> 00:08:04,640
+Je veux juste savoir où il est.
+
+126
+00:08:04,841 --> 00:08:07,045
+<i>Il me faut vos nom et adresse.</i>
+
+127
+00:08:10,293 --> 00:08:12,375
+<i>Nom et adresse, s'il vous plaît.</i>
+
+128
+00:08:13,279 --> 00:08:16,027
+Merci beaucoup.
+
+129
+00:08:34,903 --> 00:08:37,347
+Elle s'appelle Alice
+Carter, née Alice Sangster.
+
+130
+00:08:37,989 --> 00:08:39,880
+Fille de James et Mary Sangster.
+
+131
+00:08:40,040 --> 00:08:42,840
+C'est important, car ils
+n'ont jamais vraiment existé.
+
+132
+00:08:43,504 --> 00:08:45,737
+Ce sont des faux noms,
+utilisés au début des années 70
+
+133
+00:08:45,857 --> 00:08:49,075
+pour le personnel sous couverture
+ou sous protection des témoins.
+
+134
+00:08:49,241 --> 00:08:51,400
+En d'autres mots, son
+identité est fausse.
+
+135
+00:08:51,784 --> 00:08:54,434
+- Pouvez-vous découvrir qui elle est ?
+- Je m'en occupe.
+
+136
+00:08:57,841 --> 00:08:58,959
+Que la lumière soit !
+
+137
+00:09:03,207 --> 00:09:05,678
+- De vrais criminels !
+- Ça en jette, non ?
+
+138
+00:09:06,410 --> 00:09:08,240
+Tu fais maintenant
+officiellement partie de l'équipe.
+
+139
+00:09:08,360 --> 00:09:10,837
+Va te faire voir, mon pote.
+Occupe-toi de ces ordinateurs,
+
+140
+00:09:10,957 --> 00:09:12,237
+et ramène-moi à la maison.
+
+141
+00:09:12,357 --> 00:09:14,360
+Je vois qu'on a une nouvelle voiture.
+
+142
+00:09:14,708 --> 00:09:16,322
+Bien, très élégant.
+
+143
+00:09:16,442 --> 00:09:17,880
+On a cru que tu t'étais fait arrêter !
+
+144
+00:09:18,041 --> 00:09:19,640
+J'achetais les produits de base.
+
+145
+00:09:20,167 --> 00:09:21,424
+La technologie est une chose.
+
+146
+00:09:21,544 --> 00:09:24,039
+Mais il ne faut pas oublier le confort.
+Du café, bien sûr.
+
+147
+00:09:24,999 --> 00:09:27,107
+- Du PQ...
+- Dieu merci !
+
+148
+00:09:28,106 --> 00:09:29,756
+Et le plus important...
+
+149
+00:09:30,511 --> 00:09:33,359
+Je ne connaissais pas vos tailles,
+mais je crois que j'ai un bon œil.
+
+150
+00:09:36,136 --> 00:09:38,607
+Super ! Je pue.
+
+151
+00:09:39,057 --> 00:09:41,080
+- Pas mal !
+- Et pour monsieur...
+
+152
+00:09:42,096 --> 00:09:44,359
+- Les surplus de l'armée.
+- C'est pas vrai !
+
+153
+00:09:51,784 --> 00:09:52,841
+Je suis de retour !
+
+154
+00:10:11,132 --> 00:10:15,075
+Ça fait si longtemps. Mais
+tout revient, n'est-ce pas ?
+
+155
+00:10:15,871 --> 00:10:17,578
+A cause de cette odeur...
+
+156
+00:10:18,491 --> 00:10:20,057
+De plus en plus près.
+
+157
+00:10:21,360 --> 00:10:24,135
+C'est pour aujourd'hui, oui, c'est
+toujours aujourd'hui, n'est-ce pas ?
+
+158
+00:10:24,481 --> 00:10:26,065
+C'est comme hier.
+
+159
+00:10:26,681 --> 00:10:28,320
+Aujourd'hui et hier.
+
+160
+00:10:28,589 --> 00:10:31,200
+Je savais qu'ils reviendraient.
+Ces bâtards reviennent toujours.
+
+161
+00:10:32,217 --> 00:10:33,559
+Je peux les sentir.
+
+162
+00:10:35,640 --> 00:10:38,032
+Exactement comme la
+dernière fois, n'est-ce pas ?
+
+163
+00:10:38,934 --> 00:10:40,480
+Arrêtez. Arrêtez.
+
+164
+00:10:44,320 --> 00:10:45,200
+Arrêtez !
+
+165
+00:10:50,967 --> 00:10:52,119
+C'est lui...
+
+166
+00:10:52,646 --> 00:10:54,714
+- Ne m'emmenez pas, ils m'attraperont !
+- Ne bougez pas.
+
+167
+00:10:55,080 --> 00:10:57,680
+- Ne m'emmenez pas, allez-vous en !
+- C'est ça.
+
+168
+00:10:58,200 --> 00:11:00,257
+Allez... Vous aggravez les choses.
+
+169
+00:11:01,899 --> 00:11:02,880
+Arrêtez !
+
+170
+00:11:03,276 --> 00:11:04,919
+Ils m'attraperont, ils m'attraperont !
+
+171
+00:11:08,144 --> 00:11:10,120
+- Et on est connecté !
+- Comme au bon vieux temps.
+
+172
+00:11:10,240 --> 00:11:12,600
+Je me connecte aux nouvelles
+chaînes, voir ce qui se passe.
+
+173
+00:11:12,761 --> 00:11:14,879
+- Noir, sans sucre ?
+- C'est ça.
+
+174
+00:11:15,401 --> 00:11:16,929
+Aucun signe. Le ciel est vide.
+
+175
+00:11:17,049 --> 00:11:18,480
+Bien, que cherchons-nous ?
+
+176
+00:11:18,681 --> 00:11:20,279
+Fais une recherche
+sur Clement MacDonald.
+
+177
+00:11:20,441 --> 00:11:23,279
+Vois s'il y a du nouveau.
+Et les noms que Lois nous a donnés,
+
+178
+00:11:23,722 --> 00:11:26,280
+Capitaine Andrew Staines.
+Ellen Hunt, c'est ça ?
+
+179
+00:11:26,990 --> 00:11:30,200
+Michael quelque chose. Tous
+assassinés le jour de l'explosion.
+
+180
+00:11:30,401 --> 00:11:33,601
+Andrew Staines, Ellen Hunt, Michael
+Sanders, ça te dit quelque chose ?
+
+181
+00:11:33,721 --> 00:11:34,783
+Rien du tout.
+
+182
+00:11:35,787 --> 00:11:37,887
+Il faut qu'on arrive
+à pénétrer Whitehall.
+
+183
+00:11:40,581 --> 00:11:43,842
+- Tu as le logiciel I5, Ianto ?
+- Il est toujours en ligne, pourquoi ?
+
+184
+00:11:43,962 --> 00:11:47,480
+Télécharge-le sur l'ordinateur, car
+ce ne sont pas de simples lentilles.
+
+185
+00:11:47,681 --> 00:11:49,880
+Ce sont des lentilles
+de contact Torchwood.
+
+186
+00:11:50,081 --> 00:11:51,560
+Mais à quoi vont-elles nous servir ?
+
+187
+00:11:51,721 --> 00:11:53,600
+Il n'y a plus qu'une personne
+qui nous parle encore.
+
+188
+00:12:05,244 --> 00:12:07,667
+Y a-t-il une Lois ici ? Lois Habiba ?
+
+189
+00:12:08,508 --> 00:12:11,119
+- C'est moi.
+- C'est pas un centre d'appel, vite.
+
+190
+00:12:13,454 --> 00:12:15,055
+<i>Lois, regardez à votre droite.</i>
+
+191
+00:12:16,721 --> 00:12:20,305
+<i>Ne raccrochez pas.
+5 minutes, juste 5 minutes.</i>
+
+192
+00:12:23,681 --> 00:12:26,109
+Je vous ai déjà aidés
+une fois. Ça suffit.
+
+193
+00:12:26,561 --> 00:12:29,279
+Si on découvre ce que je
+fais... C'est de la trahison.
+
+194
+00:12:30,018 --> 00:12:33,107
+Littéralement, de la trahison.
+Je pourrais finir devant un juge.
+
+195
+00:12:33,207 --> 00:12:34,568
+Ils pourraient me faire n'importe quoi.
+
+196
+00:12:34,688 --> 00:12:37,560
+Vous dites qu'ils construisent
+quelque chose. On doit savoir quoi.
+
+197
+00:12:37,680 --> 00:12:39,768
+C'est le bâtiment le
+plus protégé du pays.
+
+198
+00:12:39,888 --> 00:12:42,680
+- Je ne peux pas vous faire entrer !
+- Ça ne sera pas la peine.
+
+199
+00:12:47,321 --> 00:12:49,839
+Gardez les yeux ouverts. Comme ça.
+
+200
+00:12:52,599 --> 00:12:53,437
+Mais...
+
+201
+00:12:54,158 --> 00:12:56,240
+D'où ça vient ?
+
+202
+00:12:57,295 --> 00:13:00,200
+C'est pas une webcam, c'est vous.
+
+203
+00:13:02,601 --> 00:13:03,880
+Et à droite.
+
+204
+00:13:06,641 --> 00:13:08,121
+Et à gauche.
+
+205
+00:13:12,241 --> 00:13:13,159
+Et on revient.
+
+206
+00:13:14,360 --> 00:13:16,200
+Où est la caméra ? Sur votre veste ?
+
+207
+00:13:16,553 --> 00:13:17,603
+Sur mes yeux.
+
+208
+00:13:18,623 --> 00:13:19,441
+Mon Dieu.
+
+209
+00:13:19,561 --> 00:13:22,869
+En les portant, une image de ce
+qui se passe nous sera transmise.
+
+210
+00:13:22,989 --> 00:13:25,280
+Et encore mieux, on a un
+logiciel pour lire sur les lèvres.
+
+211
+00:13:25,595 --> 00:13:28,199
+Regardez quelqu'un parler,
+et il nous traduira ces paroles.
+
+212
+00:13:29,132 --> 00:13:30,920
+Appuyez sur entrée. Allez-y.
+
+213
+00:13:32,869 --> 00:13:34,600
+Maintenant ça marche.
+Dites quelque chose.
+
+214
+00:13:35,147 --> 00:13:36,806
+<i>- Comme quoi ?
+- Comme quoi ?</i>
+
+215
+00:13:37,512 --> 00:13:39,838
+<i>- Mon Dieu, c'est curieux.
+- Mon Dieu, c'est curieux.</i>
+
+216
+00:13:40,997 --> 00:13:43,761
+Et on peut vous envoyer des messages.
+Tapez quelque chose.
+
+217
+00:13:44,281 --> 00:13:45,581
+Allez-y, n'importe quoi.
+
+218
+00:13:49,307 --> 00:13:52,200
+- Bonjour Lois.
+- Vous pouvez voir ça ? Sur vos yeux ?
+
+219
+00:13:52,938 --> 00:13:54,186
+C'est génial, n'est-ce pas ?
+
+220
+00:14:01,213 --> 00:14:03,439
+Si vous les portez, on pourra
+comprendre ce qu'il se passe.
+
+221
+00:14:03,601 --> 00:14:07,041
+- Et faire quelque chose.
+- Je ne peux pas. Et s'ils
+
+222
+00:14:08,054 --> 00:14:09,560
+détectent les mouchards ?
+
+223
+00:14:09,680 --> 00:14:12,039
+- Ils ne les trouveront pas. Promis.
+- Je ne peux pas.
+
+224
+00:14:12,994 --> 00:14:14,438
+Vous donner des infos est une chose.
+
+225
+00:14:14,601 --> 00:14:18,040
+- Là, je serais en première ligne.
+- Vous êtes notre seule alliée.
+
+226
+00:14:18,931 --> 00:14:21,551
+Même si je rentre dans
+la Maison de la Tamise,
+
+227
+00:14:22,113 --> 00:14:24,975
+je ne peux pas aller à l'étage 13,
+où ils construisent cette chose.
+
+228
+00:14:25,095 --> 00:14:27,959
+Frobisher n'y emmène que
+Mlle Spears, je ne suis que...
+
+229
+00:14:28,120 --> 00:14:29,907
+- Vous devrez trouver un moyen.
+- Comment ?
+
+230
+00:14:30,027 --> 00:14:31,000
+Je ne sais pas,
+
+231
+00:14:31,608 --> 00:14:34,128
+- vous trouverez quelque chose.
+- Je ne peux pas !
+
+232
+00:14:34,248 --> 00:14:35,760
+Désolée, je dois y aller.
+
+233
+00:14:35,880 --> 00:14:37,710
+Prenez-les, je vous en supplie.
+
+234
+00:14:37,830 --> 00:14:39,759
+- Je dois vraiment y aller.
+- S'il vous plaît, Lois.
+
+235
+00:14:42,036 --> 00:14:42,936
+Je ne peux pas.
+
+236
+00:14:44,026 --> 00:14:44,839
+S'il vous plaît.
+
+237
+00:14:57,761 --> 00:14:59,240
+Frobisher est la clé de tout ça.
+
+238
+00:14:59,360 --> 00:15:01,360
+C'est juste un fonctionnaire,
+il n'est rien.
+
+239
+00:15:02,081 --> 00:15:04,552
+Alors pourquoi autorise-t-il
+des exécutions ?
+
+240
+00:15:10,422 --> 00:15:11,934
+Comment c'était ?
+
+241
+00:15:12,636 --> 00:15:14,759
+Je veux dire, l'explosion.
+
+242
+00:15:17,099 --> 00:15:18,599
+C'était pas une partie de plaisir.
+
+243
+00:15:22,570 --> 00:15:24,439
+Mais... Tu l'as sentie ?
+
+244
+00:15:25,926 --> 00:15:27,870
+Ou c'est juste devenu tout noir ?
+
+245
+00:15:28,501 --> 00:15:29,607
+Je l'ai sentie.
+
+246
+00:15:30,894 --> 00:15:31,821
+Merde.
+
+247
+00:15:37,400 --> 00:15:40,639
+Tu penses qu'un jour,
+ta chance s'épuisera ?
+
+248
+00:15:43,239 --> 00:15:44,947
+Que tu ne reviendras pas.
+
+249
+00:15:50,024 --> 00:15:51,910
+Je suis un point fixe
+dans le temps et l'espace.
+
+250
+00:15:52,987 --> 00:15:54,887
+C'est ce que dit le Docteur.
+
+251
+00:15:57,503 --> 00:15:59,719
+Je pense que ça veut dire pour toujours.
+
+252
+00:16:01,792 --> 00:16:04,268
+Alors... Un jour, tu me verras mourir
+
+253
+00:16:05,206 --> 00:16:06,263
+de vieillesse.
+
+254
+00:16:07,555 --> 00:16:09,055
+Et tu continueras.
+
+255
+00:16:17,189 --> 00:16:18,679
+Il va falloir en profiter, alors.
+
+256
+00:16:20,991 --> 00:16:21,891
+Je suppose.
+
+257
+00:16:25,163 --> 00:16:26,399
+Maintenant ?
+
+258
+00:16:29,692 --> 00:16:31,440
+Ianto, c'est peut-être la fin du monde.
+
+259
+00:16:31,892 --> 00:16:33,492
+C'est toujours la fin du monde.
+
+260
+00:16:34,442 --> 00:16:36,199
+Et ce manteau m'a manqué.
+
+261
+00:16:41,386 --> 00:16:44,320
+Tu veux bien prendre la
+voiture et aller au magasin ?
+
+262
+00:16:44,440 --> 00:16:46,960
+Il nous faut des disques pour ces trucs.
+
+263
+00:16:47,391 --> 00:16:49,800
+- Ça devrait prendre environ... 20min ?
+- 30min.
+
+264
+00:16:50,001 --> 00:16:52,359
+J'irai plus tard, les
+haricots sont bientôt cuits !
+
+265
+00:16:53,838 --> 00:16:55,440
+Les haricots sont bientôt cuits.
+
+266
+00:16:56,326 --> 00:16:57,611
+Foutus haricots.
+
+267
+00:17:03,680 --> 00:17:06,840
+C'est génial, regarde-ça...
+Programme de reconnaissance faciale.
+
+268
+00:17:08,563 --> 00:17:09,458
+Et...
+
+269
+00:17:10,178 --> 00:17:12,861
+Arrêté il y a 2 heures à Londres.
+
+270
+00:17:13,275 --> 00:17:15,399
+Il ne veut pas donner son nom,
+mais c'est Clement MacDonald.
+
+271
+00:17:15,561 --> 00:17:17,660
+- C'est celui de l'hôpital.
+- Ça pourrait être utile.
+
+272
+00:17:19,302 --> 00:17:21,880
+Je lui ai donné les lentilles,
+mais je pense qu'elle a trop peur.
+
+273
+00:17:22,357 --> 00:17:23,780
+<i>On a une nouvelle mission pour toi.</i>
+
+274
+00:17:23,900 --> 00:17:26,291
+On a retrouvé Clem, à la
+station de police de Candem,
+
+275
+00:17:26,656 --> 00:17:28,787
+<i>arrêté pour vol et trouble mineur.</i>
+
+276
+00:17:29,081 --> 00:17:31,728
+- Tu peux le faire sortir ?
+- Et comment je fais ça ?
+
+277
+00:17:31,848 --> 00:17:33,000
+Tu es un agent de police.
+
+278
+00:17:33,120 --> 00:17:35,030
+Bon sang, et autre chose
+pendant que j'y suis ?
+
+279
+00:17:35,388 --> 00:17:38,803
+- Un bon steak, ça serait bien.
+- N'exagère pas, à plus tard.
+
+280
+00:17:39,441 --> 00:17:40,992
+Alors, Ianto,
+qu'est-ce qui lui est arrivé ?
+
+281
+00:17:41,530 --> 00:17:44,760
+Selon Gwen, il a été enlevé
+par des aliens étant petit, classique.
+
+282
+00:17:44,961 --> 00:17:45,806
+En 1965.
+
+283
+00:17:46,202 --> 00:17:48,319
+Il vivait à 15km d'Arbroath,
+
+284
+00:17:48,481 --> 00:17:50,646
+au Holly Tree Lodge,
+c'était un orphelinat.
+
+285
+00:17:51,541 --> 00:17:52,959
+J'ai cherché le dossier,
+
+286
+00:17:53,121 --> 00:17:56,407
+les enfants ont été enlevés en
+novembre 1965. Le Lodge fermait
+
+287
+00:17:56,527 --> 00:17:58,390
+et il fallait les emmener
+dans un autre orphelinat,
+
+288
+00:17:58,510 --> 00:18:00,682
+le Harbour Heights à Plymouth.
+Sauf que
+
+289
+00:18:01,010 --> 00:18:03,520
+c'est là que le dossier s'arrête,
+aucune trace de leur arrivée.
+
+290
+00:18:03,681 --> 00:18:06,240
+C'était les années 60,
+plein de papiers disparaissaient.
+
+291
+00:18:06,360 --> 00:18:09,693
+Mais s'il dit vrai, ils ne sont
+peut-être jamais arrivés.
+
+292
+00:18:10,280 --> 00:18:12,508
+- Montre-moi ces gens.
+- Qui ça ?
+
+293
+00:18:12,628 --> 00:18:14,440
+Andrew Staines, Ellen Hunt,
+Michael Sanders.
+
+294
+00:18:16,280 --> 00:18:18,800
+- Tu penses qu'il y a un lien ?
+- Montre-les moi !
+
+295
+00:18:20,464 --> 00:18:22,414
+Donne-moi leur historique,
+montre-les moi il y a 40 ans.
+
+296
+00:18:22,534 --> 00:18:24,320
+- Pourquoi ?
+- Mais fais-le !
+
+297
+00:18:35,855 --> 00:18:37,239
+Qui c'est, Jack ?
+
+298
+00:18:39,871 --> 00:18:41,271
+Tu les connaissais ?
+
+299
+00:18:45,739 --> 00:18:48,251
+- Je ne connaissais pas leurs noms.
+- Qui c'était ?
+
+300
+00:18:49,241 --> 00:18:50,599
+Dis-le-moi.
+Tu les connaissais ?
+
+301
+00:18:55,802 --> 00:18:57,039
+Les haricots sont prêts !
+
+302
+00:19:00,235 --> 00:19:04,105
+Alice Carter. J'ai cracké le dossier,
+vous allez adorer.
+
+303
+00:19:05,476 --> 00:19:07,061
+Qu'est-ce qu'il y a ?
+Des signes de Harkness ?
+
+304
+00:19:07,161 --> 00:19:09,560
+Les démons du passé. Vous saviez
+qu'il avait une fille ?
+
+305
+00:19:09,761 --> 00:19:10,814
+Depuis quand ?
+
+306
+00:19:12,058 --> 00:19:15,560
+Elle est sous couverture depuis 1977
+à la demande de sa mère.
+
+307
+00:19:16,033 --> 00:19:18,262
+Elle cherchait à éviter
+le Capitaine Jack.
+
+308
+00:19:18,382 --> 00:19:19,531
+On peut la comprendre.
+
+309
+00:19:19,651 --> 00:19:22,320
+<i>- Qui était la mère ?
+- Une certaine Lucia Moretti.</i>
+
+310
+00:19:22,520 --> 00:19:26,200
+Une italienne qui a travaillé
+pour Torchwood de 1968 à 1977.
+
+311
+00:19:26,907 --> 00:19:30,077
+Elle est morte d'un problème de cœur
+en 2006.
+
+312
+00:19:30,595 --> 00:19:32,526
+Une cause naturelle,
+c'est rare chez Torchwood.
+
+313
+00:19:33,430 --> 00:19:36,520
+<i>Et Alice Carter a un fils.
+Le petit-fils de Jack.</i>
+
+314
+00:19:37,265 --> 00:19:39,628
+<i>- Ça pourrait nous aider. Que fait-on ?
+- Amenez-les.</i>
+
+315
+00:19:40,084 --> 00:19:41,834
+C'est la réponse que j'attendais.
+
+316
+00:19:44,032 --> 00:19:46,600
+Pas de nouvelles de Jodrell Bank,
+mais nous devrions nous préparer.
+
+317
+00:19:47,078 --> 00:19:50,493
+Bridget, prenez tout ce qu'il vous faut,
+nous partons à la Maison de la Tamise.
+
+318
+00:19:51,760 --> 00:19:53,242
+Que dois-je faire ?
+
+319
+00:19:53,362 --> 00:19:55,560
+Exactement ce que vous faites :
+répondre au téléphone.
+
+320
+00:19:56,420 --> 00:19:59,520
+Je pourrais venir avec vous,
+je vous aiderais.
+
+321
+00:19:59,879 --> 00:20:01,212
+Je ne pense pas.
+
+322
+00:20:04,610 --> 00:20:07,560
+Mais M. Frobisher m'a demandé
+de venir.
+
+323
+00:20:09,458 --> 00:20:12,612
+- Quand ça ?
+- Il a dit qu'il me voulait.
+
+324
+00:20:14,319 --> 00:20:16,596
+- À ses côtés.
+- Pourquoi ?
+
+325
+00:20:17,087 --> 00:20:20,715
+- Pourquoi aurait-il besoin de vous ?
+- C'était
+
+326
+00:20:21,797 --> 00:20:23,586
+une conversation privée.
+
+327
+00:20:46,681 --> 00:20:49,120
+Vous n'êtes pas la première,
+vous savez.
+
+328
+00:20:49,321 --> 00:20:51,359
+Ne croyez pas être la première.
+
+329
+00:20:54,487 --> 00:20:57,599
+- Je peux venir, alors ?
+- Apparemment.
+
+330
+00:21:07,678 --> 00:21:08,887
+<i>Andy, écoute.</i>
+
+331
+00:21:09,007 --> 00:21:10,960
+<i>- Tu es vivante ?
+- Je suis vivante.</i>
+
+332
+00:21:11,161 --> 00:21:13,440
+- Tais-toi, j'ai besoin d'aide.
+- On a besoin de toi !
+
+333
+00:21:13,560 --> 00:21:15,245
+Tous ces gamins qui répètent
+"nous allons venir",
+
+334
+00:21:15,410 --> 00:21:17,240
+<i>et c'est pour aujourd'hui !
+Qu'est-ce que c'est ?</i>
+
+335
+00:21:17,360 --> 00:21:19,240
+<i>Un vaisseau spatial ?
+Godzilla ?</i>
+
+336
+00:21:19,441 --> 00:21:22,760
+Écoute, j'ai besoin que tu libères
+quelqu'un du poste de Camden.
+
+337
+00:21:23,363 --> 00:21:25,880
+<i>- C'est à Albany Street.
+- Qu'est-ce que tu fais à Camden ?</i>
+
+338
+00:21:26,081 --> 00:21:28,274
+<i>- C'est important ?
+- Pour moi, oui.</i>
+
+339
+00:21:29,572 --> 00:21:32,818
+Je sais, désolée. J'ai pas mes papiers,
+il faudrait que
+
+340
+00:21:32,938 --> 00:21:35,800
+tu te portes garant. Les charges ne sont
+pas lourdes, je peux le faire sortir
+
+341
+00:21:36,212 --> 00:21:38,960
+<i>si tu les appelles
+et leur faxes un WC242A.</i>
+
+342
+00:21:39,337 --> 00:21:41,920
+N'utilise pas mon nom,
+dis-leur que je m'appelle Lynda.
+
+343
+00:21:42,121 --> 00:21:44,199
+<i>Tu peux faire ça pour moi ?
+Maintenant ?</i>
+
+344
+00:21:56,801 --> 00:21:58,039
+Vous vous souvenez de moi, Clem ?
+
+345
+00:22:04,160 --> 00:22:05,410
+Tout va bien.
+
+346
+00:22:09,880 --> 00:22:11,030
+Je suis là.
+
+347
+00:22:18,281 --> 00:22:20,435
+C'est nul, je veux voir des aliens !
+
+348
+00:22:21,525 --> 00:22:24,119
+Attention à ce que tu demandes.
+Mets des dessins animés.
+
+349
+00:22:59,600 --> 00:23:01,111
+Viens, on y va, vite.
+
+350
+00:23:01,231 --> 00:23:04,781
+- La télé dit qu'il faut rester là.
+- C'est moi qui décide.
+
+351
+00:23:05,461 --> 00:23:07,640
+On va sortir et tu vas te taire,
+d'accord ?
+
+352
+00:23:08,230 --> 00:23:09,580
+Pas un bruit.
+
+353
+00:23:09,700 --> 00:23:11,880
+C'est comme ces jeux que mamie
+t'a appris, tu te souviens ?
+
+354
+00:23:12,996 --> 00:23:14,701
+Elle disait toujours que
+j'aurais des problèmes.
+
+355
+00:23:14,801 --> 00:23:17,720
+Alors fais ce qu'elle disait,
+pas un bruit.
+
+356
+00:23:17,920 --> 00:23:20,142
+Et ne me perds pas de vue.
+Viens.
+
+357
+00:23:23,676 --> 00:23:24,928
+Personne ! Personne !
+
+358
+00:23:49,678 --> 00:23:51,679
+- Écartez-vous de mon chemin.
+- Allez-y, tirez.
+
+359
+00:23:51,841 --> 00:23:53,384
+Voyons ce qu'il va se passer.
+
+360
+00:23:54,622 --> 00:23:57,360
+Vous êtes aussi immortelle que
+votre père ? Et le petit ?
+
+361
+00:23:59,761 --> 00:24:01,499
+On peut essayer.
+
+362
+00:24:02,116 --> 00:24:03,839
+Prenez-moi, laissez-le.
+
+363
+00:24:06,507 --> 00:24:09,095
+- Ce n'est qu'un enfant.
+- Et ?
+
+364
+00:24:11,300 --> 00:24:14,130
+Si nous voulions votre mort,
+nous aurions déjà tiré.
+
+365
+00:24:15,339 --> 00:24:16,939
+Posez votre arme.
+
+366
+00:24:18,540 --> 00:24:21,040
+- Qui êtes-vous ?
+- Posez votre arme.
+
+367
+00:24:21,742 --> 00:24:24,000
+Si vous lui faites du mal,
+je vous tue.
+
+368
+00:24:24,981 --> 00:24:26,006
+Compris.
+
+369
+00:24:33,686 --> 00:24:34,799
+Et le couteau.
+
+370
+00:24:39,119 --> 00:24:41,520
+Vous êtes bien la fille
+de votre père.
+
+371
+00:24:42,537 --> 00:24:44,037
+Viens, chéri.
+
+372
+00:24:46,489 --> 00:24:48,239
+Qu'est-ce qu'il y a,
+qu'est-ce que tu fais ?
+
+373
+00:24:50,147 --> 00:24:52,000
+- Qu'est-ce qu'il y a ?
+- Qu'est-ce qu'il montre ?
+
+374
+00:24:53,185 --> 00:24:54,040
+Arrête.
+
+375
+00:24:54,773 --> 00:24:56,880
+Arrête, s'il te plaît !
+Regarde-moi !
+
+376
+00:24:58,529 --> 00:24:59,429
+Arrête !
+
+377
+00:25:01,075 --> 00:25:01,879
+Ce sont eux.
+
+378
+00:25:05,001 --> 00:25:08,080
+Si je nettoie, c'est £2 de plus,
+dis-le à ta mère !
+
+379
+00:25:12,878 --> 00:25:13,928
+Qu'est-ce qu'il y a ?
+
+380
+00:25:14,964 --> 00:25:15,959
+Arrêtez.
+
+381
+00:25:22,984 --> 00:25:25,520
+Vous m'entendez ?
+Lilly, c'est maman !
+
+382
+00:25:27,394 --> 00:25:29,813
+Regarde-moi !
+Regarde-moi !
+
+383
+00:25:34,341 --> 00:25:35,508
+Qu'y a-t-il ?
+
+384
+00:25:43,080 --> 00:25:44,945
+Ce sont eux, tous ensemble.
+Les enfants.
+
+385
+00:25:45,065 --> 00:25:46,198
+Qu'est-ce qu'ils disent ?
+
+386
+00:25:46,318 --> 00:25:48,188
+Je ne sais pas, ils montrent
+quelque chose.
+
+387
+00:25:51,680 --> 00:25:54,055
+<i>Encore une fois, tous les enfants
+se sont arrêtés.</i>
+
+388
+00:25:54,175 --> 00:25:56,802
+<i>Tous les enfants du monde.</i>
+
+389
+00:25:57,441 --> 00:25:59,400
+<i>{\pos(192,220)}Apparemment,
+ils ne parlent pas.</i>
+
+390
+00:25:59,520 --> 00:26:03,080
+<i>{\pos(192,220)}Ils semblent montrer
+quelque chose dans le ciel.</i>
+
+391
+00:26:03,711 --> 00:26:05,363
+C'est aux infos,
+ils montrent quelque chose.
+
+392
+00:26:05,483 --> 00:26:07,520
+Je sais,
+mais c'est dans cette direction.
+
+393
+00:26:08,438 --> 00:26:09,838
+Qu'est-ce qu'il y a, là-bas ?
+
+394
+00:26:11,081 --> 00:26:13,456
+Tous les enfants d'Amérique
+désignent l'est.
+
+395
+00:26:13,576 --> 00:26:15,652
+Tous les enfants d'Europe
+désignent l'ouest.
+
+396
+00:26:16,075 --> 00:26:16,919
+C'est nous.
+
+397
+00:26:17,608 --> 00:26:18,800
+Ils nous montrent.
+
+398
+00:26:19,951 --> 00:26:23,349
+Si on va assez loin par là,
+c'est Londres.
+
+399
+00:26:24,560 --> 00:26:26,240
+Ils désignent Londres.
+
+400
+00:26:29,554 --> 00:26:30,665
+<i>D'après les rapports,</i>
+
+401
+00:26:30,785 --> 00:26:34,927
+<i>les enfants de Londres désignent tous
+le centre de la ville.</i>
+
+402
+00:26:35,047 --> 00:26:38,181
+<i>{\pos(192,220)}Je répète, les enfants
+de Londres désignent</i>
+
+403
+00:26:38,361 --> 00:26:39,680
+<i>le centre.</i>
+
+404
+00:26:39,841 --> 00:26:42,229
+C'est la Maison de la Tamise !
+Venez !
+
+405
+00:26:47,282 --> 00:26:48,532
+Ça commence !
+
+406
+00:27:08,269 --> 00:27:09,724
+Désolé, vous restez ici.
+
+407
+00:28:32,144 --> 00:28:33,542
+Nous sommes là.
+
+408
+00:28:40,162 --> 00:28:42,236
+Ce sont eux.
+Ils sont de retour.
+
+409
+00:28:44,858 --> 00:28:47,980
+Vous êtes lié à eux,
+il faut qu'on découvre comment.
+
+410
+00:29:14,880 --> 00:29:15,800
+<i>Parlez.</i>
+
+411
+00:29:20,103 --> 00:29:21,811
+Je m'appelle John Frobisher,
+
+412
+00:29:22,533 --> 00:29:24,505
+Secrétaire d'État
+
+413
+00:29:24,625 --> 00:29:27,066
+du Royaume-Uni
+et de l'Irlande du Nord.
+
+414
+00:29:28,356 --> 00:29:29,156
+Terre.
+
+415
+00:29:32,606 --> 00:29:34,080
+Au nom de la race humaine...
+
+416
+00:29:39,303 --> 00:29:41,053
+Quelque chose ne va pas ?
+
+417
+00:29:46,759 --> 00:29:48,360
+Voulez-vous que je continue ?
+
+418
+00:29:55,212 --> 00:29:56,212
+Alors...
+
+419
+00:29:58,248 --> 00:29:59,898
+Si je puis me permettre...
+
+420
+00:30:01,200 --> 00:30:03,450
+Pour favoriser la communication...
+
+421
+00:30:05,280 --> 00:30:08,349
+Nous ne connaissons pas le nom
+de votre espèce. Quel est-il ?
+
+422
+00:30:08,544 --> 00:30:12,129
+<i>Vous nous appelez les 456.</i>
+
+423
+00:30:13,210 --> 00:30:14,460
+C'est exact.
+
+424
+00:30:15,243 --> 00:30:17,640
+<i>Alors ceci est notre nom.</i>
+
+425
+00:30:36,255 --> 00:30:38,119
+Si je puis me permettre,
+
+426
+00:30:39,356 --> 00:30:41,205
+au nom de mon gouvernement,
+
+427
+00:30:43,716 --> 00:30:45,759
+que voulez-vous ?
+
+428
+00:30:52,512 --> 00:30:53,810
+Vous m'entendez ?
+
+429
+00:31:02,364 --> 00:31:05,215
+Je suis désolé, mais je dois le savoir
+avant de parler à mes supérieurs,
+
+430
+00:31:05,335 --> 00:31:06,840
+que voulez-vous ?
+
+431
+00:31:09,290 --> 00:31:12,906
+Je dois vous demander, officiellement,
+le motif de votre visite.
+
+432
+00:31:13,026 --> 00:31:14,113
+<i>Parler.</i>
+
+433
+00:31:14,233 --> 00:31:15,280
+Mais je parle !
+
+434
+00:31:16,284 --> 00:31:17,876
+<i>Nous voulons parler.</i>
+
+435
+00:31:20,008 --> 00:31:21,008
+À qui ?
+
+436
+00:31:21,900 --> 00:31:23,120
+<i>Au monde.</i>
+
+437
+00:31:28,560 --> 00:31:29,280
+Pourquoi ?
+
+438
+00:31:31,345 --> 00:31:33,040
+<i>Nous voulons parler.</i>
+
+439
+00:31:38,739 --> 00:31:40,846
+Peut-être que nous ne voyons pas
+les choses de la même façon,
+
+440
+00:31:40,966 --> 00:31:44,373
+mais pour nous, ce serait
+une liaison diplomatique.
+
+441
+00:31:45,280 --> 00:31:46,830
+Cela vous paraît-il correct ?
+
+442
+00:31:48,648 --> 00:31:50,406
+En un sens, nous sommes
+tous les deux ambassadeurs.
+
+443
+00:31:50,919 --> 00:31:54,155
+Selon le protocole, les conversations
+diplomatiques ne sont pas publiques.
+
+444
+00:31:54,275 --> 00:31:56,644
+Vous ne parleriez pas
+à toute la population,
+
+445
+00:31:56,764 --> 00:31:58,603
+mais aux représentants
+qu'ils ont élus.
+
+446
+00:31:58,723 --> 00:32:01,026
+C'est comme ça que ça marche.
+
+447
+00:32:02,250 --> 00:32:03,900
+C'est tout ce que j'ai à vous offrir.
+
+448
+00:32:08,301 --> 00:32:10,040
+Est-ce acceptable ?
+
+449
+00:32:14,215 --> 00:32:14,960
+Oui.
+
+450
+00:32:18,200 --> 00:32:19,200
+Bien.
+
+451
+00:32:20,840 --> 00:32:21,840
+Merci.
+
+452
+00:32:22,445 --> 00:32:23,774
+Amenez-les.
+
+453
+00:32:26,899 --> 00:32:27,899
+Merci.
+
+454
+00:32:39,427 --> 00:32:41,002
+J'ai une
+
+455
+00:32:41,997 --> 00:32:42,997
+condition.
+
+456
+00:32:46,266 --> 00:32:48,920
+Est-ce que vous comprenez ?
+Une condition ?
+
+457
+00:32:57,819 --> 00:33:00,920
+Les 456 ont pris contact
+avec ce pays par le passé.
+
+458
+00:33:03,325 --> 00:33:04,575
+Il y a longtemps.
+
+459
+00:33:06,440 --> 00:33:08,140
+Il serait mieux que...
+
+460
+00:33:10,338 --> 00:33:13,038
+Je veux dire, au vu de la nature
+de cette rencontre,
+
+461
+00:33:16,803 --> 00:33:19,229
+il serait bon pour assurer
+la relation diplomatique
+
+462
+00:33:19,349 --> 00:33:20,778
+entre la Terre et les 456
+
+463
+00:33:20,898 --> 00:33:23,520
+si cette première prise de contact
+restait secrète.
+
+464
+00:33:23,640 --> 00:33:25,840
+Je veux dire, privée.
+
+465
+00:33:28,103 --> 00:33:29,207
+Entre nous.
+
+466
+00:33:32,060 --> 00:33:33,360
+Est-ce que vous pouvez faire ça ?
+
+467
+00:33:43,477 --> 00:33:44,376
+<i>Oui.</i>
+
+468
+00:33:49,011 --> 00:33:50,011
+Merci.
+
+469
+00:33:50,669 --> 00:33:51,687
+<i>Vite.</i>
+
+470
+00:33:53,018 --> 00:33:53,720
+Pardon ?
+
+471
+00:33:54,280 --> 00:33:55,280
+<i>Revenez.</i>
+
+472
+00:33:55,938 --> 00:33:56,938
+<i>Vite.</i>
+
+473
+00:33:58,017 --> 00:33:59,017
+Je le ferai.
+
+474
+00:34:02,132 --> 00:34:03,132
+Merci.
+
+475
+00:34:31,458 --> 00:34:33,119
+<i>Le périmètre autour de
+la Maison de la Tamise</i>
+
+476
+00:34:33,279 --> 00:34:35,114
+<i>a été bouclé
+alors que le Gouvernement...</i>
+
+477
+00:34:35,336 --> 00:34:37,560
+C'est parti.
+
+478
+00:34:37,937 --> 00:34:39,920
+<i>{\pos(192,190)}- Pile quand on a besoin de Jack.
+- ... à Downing Street.</i>
+
+479
+00:34:40,040 --> 00:34:42,476
+<i>{\pos(192,190)}Ces images ont été filmées
+il y a 5 minutes.</i>
+
+480
+00:34:42,596 --> 00:34:45,043
+<i>{\pos(192,190)}Cet homme est le Colonel Oduya</i>
+
+481
+00:34:45,163 --> 00:34:47,480
+<i>{\pos(192,190)}de UNIT.</i>
+
+482
+00:34:48,036 --> 00:34:51,240
+<i>{\pos(192,190)}Et cet homme
+qui arrive est le Général Austin Pierce,</i>
+
+483
+00:34:51,400 --> 00:34:53,903
+<i>{\pos(192,190)}le représentant
+des Forces Armées Américaines.</i>
+
+484
+00:34:54,161 --> 00:34:56,440
+<i>{\pos(192,190)}Il entre à Downing Street
+à ce moment même.</i>
+
+485
+00:34:58,500 --> 00:35:01,402
+Le Président des États-Unis
+m'a chargé de vous transmettre
+
+486
+00:35:01,522 --> 00:35:03,040
+sa fureur absolue.
+
+487
+00:35:06,329 --> 00:35:08,600
+- Vous avez compris ?
+- Tout à fait.
+
+488
+00:35:08,800 --> 00:35:11,227
+Cet atterrissage n'était pas spontané,
+il avait été prévu.
+
+489
+00:35:11,347 --> 00:35:12,760
+Il avait été préparé
+par vous.
+
+490
+00:35:13,461 --> 00:35:16,120
+Et n'appelez pas ça de la diplomatie,
+M. Green.
+
+491
+00:35:16,320 --> 00:35:18,074
+Vous avez mené votre cour,
+
+492
+00:35:18,194 --> 00:35:20,160
+la cour souveraine de Grande-Bretagne,
+
+493
+00:35:20,612 --> 00:35:23,472
+en complète opposition
+avec les Nations Unies.
+
+494
+00:35:23,592 --> 00:35:26,240
+- Nous avions reçu des ordres.
+- Vous menaçaient-ils ?
+
+495
+00:35:27,617 --> 00:35:30,855
+Je pense qu'on peut dire que
+l'existence même des 456 est une menace.
+
+496
+00:35:30,975 --> 00:35:32,125
+Néanmoins,
+
+497
+00:35:32,920 --> 00:35:36,256
+vous avez un ambassadeur alien
+sur le sol britannique.
+
+498
+00:35:36,376 --> 00:35:39,040
+La Grande Bretagne n'a pas déclaré
+de droits de territoire
+
+499
+00:35:39,200 --> 00:35:41,440
+ou de souveraineté
+du vaisseau 456.
+
+500
+00:35:41,560 --> 00:35:42,480
+Mais il est là !
+
+501
+00:35:43,840 --> 00:35:45,200
+Vous ne pouvez pas le nier !
+
+502
+00:35:45,425 --> 00:35:48,469
+Vous avez exclu UNIT de toutes
+les étapes de cette négociation,
+
+503
+00:35:48,589 --> 00:35:51,160
+alors que nous sommes entraînés
+pour ces situations.
+
+504
+00:35:51,280 --> 00:35:52,580
+J'en suis désolé.
+
+505
+00:35:53,385 --> 00:35:55,705
+Le Président est invité
+à monter à l'étage 13, bien entendu,
+
+506
+00:35:55,825 --> 00:35:58,520
+comme tous les dirigeants
+du monde libre.
+
+507
+00:35:59,109 --> 00:36:00,920
+- J'en serais honoré.
+- Mais c'est impossible,
+
+508
+00:36:01,040 --> 00:36:02,080
+et vous le savez.
+
+509
+00:36:02,240 --> 00:36:05,571
+Nous n'amènerons pas le Président dans
+un lieu qui n'a pas été sécurisé,
+
+510
+00:36:05,691 --> 00:36:08,040
+et il faudrait des jours pour faire ça.
+Des semaines !
+
+511
+00:36:08,952 --> 00:36:10,298
+Je vous propose de vous retirer,
+alors.
+
+512
+00:36:12,294 --> 00:36:13,794
+Qu'est-ce que ça signifie ?
+
+513
+00:36:16,410 --> 00:36:19,610
+Je ne me jouerai pas des Nations Unies,
+ni d'aucune nation.
+
+514
+00:36:19,920 --> 00:36:23,440
+Je suggère que le dialogue avec les 456
+passe entre d'autres mains
+
+515
+00:36:24,560 --> 00:36:26,480
+et soit mené par un fonctionnaire.
+
+516
+00:36:27,355 --> 00:36:28,680
+Il sera quand même anglais.
+
+517
+00:36:28,840 --> 00:36:31,590
+Mais pas élu, sans autorité d'État.
+
+518
+00:36:35,120 --> 00:36:37,080
+C'est exactement ce dont
+nous avons besoin.
+
+519
+00:36:37,240 --> 00:36:38,160
+Un intermédiaire.
+
+520
+00:36:39,667 --> 00:36:43,280
+John Frobisher a déjà parlé avec eux,
+je suggère qu'il continue.
+
+521
+00:36:43,595 --> 00:36:45,240
+Moi, je suggère que UNIT intervienne.
+
+522
+00:36:46,920 --> 00:36:50,599
+J'aimerais que ce soit possible, mais
+les 456 ont choisi la Grande-Bretagne.
+
+523
+00:36:50,719 --> 00:36:52,669
+Ils ont choisi le lieu.
+
+524
+00:36:54,120 --> 00:36:55,770
+Ce n'est pas de mon ressort.
+
+525
+00:36:56,726 --> 00:36:58,926
+Vous voulez les mettre en colère ?
+
+526
+00:36:59,740 --> 00:37:00,740
+Écoutez...
+
+527
+00:37:02,228 --> 00:37:03,800
+John Frobisher est quelqu'un de bien.
+
+528
+00:37:05,626 --> 00:37:07,176
+Et encore mieux,
+
+529
+00:37:08,465 --> 00:37:09,600
+il peut faire fusible.
+
+530
+00:37:13,771 --> 00:37:15,171
+Qu'en pensez-vous ?
+
+531
+00:37:22,562 --> 00:37:24,762
+Avons-nous votre parole que
+
+532
+00:37:25,737 --> 00:37:29,037
+- vous n'entrerez pas dans cette pièce ?
+- Vous l'avez.
+
+533
+00:37:32,560 --> 00:37:33,840
+Alors c'est d'accord.
+
+534
+00:37:36,320 --> 00:37:37,320
+D'accord.
+
+535
+00:37:48,511 --> 00:37:50,102
+<i>- John ?
+- Monsieur le Premier Ministre ?</i>
+
+536
+00:37:50,222 --> 00:37:53,060
+<i>Après un entretien avec les forces
+militaires, nous avons décidé que</i>
+
+537
+00:37:53,180 --> 00:37:57,101
+<i>vous deviendriez notre porte-parole
+dans les négociations avec les 456.</i>
+
+538
+00:37:57,480 --> 00:38:00,720
+<i>Simon va vous briefer.
+Merci.</i>
+
+539
+00:38:04,061 --> 00:38:04,720
+Merde.
+
+540
+00:38:05,230 --> 00:38:07,180
+Je serai la dernière à savoir.
+
+541
+00:38:07,357 --> 00:38:10,000
+C'est mon mari mais il ne
+m'explique rien.
+
+542
+00:38:10,326 --> 00:38:14,082
+Les filles montrent le ciel
+du doigt et il ne dit rien !
+
+543
+00:38:14,925 --> 00:38:18,775
+Non, il n'y a rien, j'ai zappé
+sur les chaînes d'infos,
+
+544
+00:38:19,861 --> 00:38:21,711
+ils ne disent rien...
+
+545
+00:38:22,759 --> 00:38:24,159
+Oui, je sais.
+
+546
+00:38:25,073 --> 00:38:27,523
+Si j'ai du nouveau
+je t'appelle.
+
+547
+00:38:28,600 --> 00:38:29,600
+OK. Bye.
+
+548
+00:38:32,647 --> 00:38:36,360
+Lilly ! Descends, s'il-te-plait,
+je veux te voir tout le temps.
+
+549
+00:38:41,496 --> 00:38:45,424
+<i>Ce qu'on appelle "la colonne
+de feu" paralyse le centre de Londres.</i>
+
+550
+00:38:45,720 --> 00:38:48,760
+<i>{\pos(192,200)}Toutes les rues vers
+le fleuve sont bloquées,</i>
+
+551
+00:38:48,880 --> 00:38:52,800
+<i>{\pos(192,200)}ce qui provoque des
+bouchons sur les grandes artères.</i>
+
+552
+00:38:52,920 --> 00:38:56,200
+<i>{\pos(192,200)}Les voitures doivent
+éviter le centre-ville.</i>
+
+553
+00:38:56,360 --> 00:38:57,720
+<i>{\pos(192,200)}sauf urgences.</i>
+
+554
+00:38:57,880 --> 00:39:01,080
+C'est bien Jack, ça !
+Il fallait le retenir !
+
+555
+00:39:02,163 --> 00:39:04,524
+Je sais pas, on va mettre
+des heures, c'est bouché.
+
+556
+00:39:04,644 --> 00:39:05,844
+Foutue Londres !
+
+557
+00:39:07,435 --> 00:39:09,508
+La moitié des gens panique
+et veut partir,
+
+558
+00:39:09,628 --> 00:39:11,335
+l'autre essaie de rentrer.
+
+559
+00:39:11,455 --> 00:39:13,680
+Bon, faut que je file.
+Bye.
+
+560
+00:39:13,880 --> 00:39:17,080
+Tout va bien, Clem.
+Vous êtes en sécurité avec moi.
+
+561
+00:39:17,386 --> 00:39:18,760
+Vous êtes en sécurité. Avec moi.
+
+562
+00:39:19,766 --> 00:39:22,610
+- Tout va bien.
+- Les souvenirs reviennent.
+
+563
+00:39:23,995 --> 00:39:25,440
+Il n'y a pas qu'eux, là-haut.
+
+564
+00:39:26,762 --> 00:39:27,912
+C'est l'homme.
+
+565
+00:39:28,653 --> 00:39:31,103
+Il est revenu.
+Après toutes ces années.
+
+566
+00:39:32,336 --> 00:39:34,386
+- Je le sens.
+- Quel homme ?
+
+567
+00:39:34,659 --> 00:39:35,659
+Qui ?
+
+568
+00:39:36,468 --> 00:39:37,760
+Le même homme.
+
+569
+00:39:39,471 --> 00:39:40,800
+Je savais qu'il reviendrait
+pour moi.
+
+570
+00:39:41,148 --> 00:39:44,148
+Très bien. Allons donc
+prendre un bon thé.
+
+571
+00:39:45,099 --> 00:39:47,960
+Et un hot dog. Vous aimez ça ?
+J'adore ça.
+
+572
+00:40:03,556 --> 00:40:05,360
+<i>Je recommande de commencer à 19h.</i>
+
+573
+00:40:05,520 --> 00:40:09,000
+Ça nous laisse deux heures.
+Voici Louise, conseiller
+
+574
+00:40:09,120 --> 00:40:12,200
+en protocoles diplomatiques
+internationaux, ainsi que Samuel...
+
+575
+00:40:12,575 --> 00:40:14,675
+Il y a une créature là-haut.
+
+576
+00:40:15,602 --> 00:40:19,602
+Puissante, toxique,
+capable de Dieu sait quoi.
+
+577
+00:40:21,553 --> 00:40:24,683
+Vous êtes bien contente de trotter
+derrière John Frobisher à présent.
+
+578
+00:40:25,002 --> 00:40:26,535
+<i>Stuart est expert en langues,</i>
+
+579
+00:40:26,655 --> 00:40:28,799
+il peut aider s'il y a un
+problème de traduction.
+
+580
+00:40:28,919 --> 00:40:31,019
+Pardon, je dois prendre cet appel.
+
+581
+00:40:32,205 --> 00:40:34,560
+J'allais t'appeler. Comme
+j'aimerais être à la maison !
+
+582
+00:40:34,680 --> 00:40:37,720
+Dis aux filles qu'il ne faut
+pas s'inquiéter.
+
+583
+00:40:38,027 --> 00:40:39,800
+Je leur dirai, Johnny boy.
+
+584
+00:40:39,960 --> 00:40:43,573
+Je leur dirai que leur papa a
+essayé de me faire tuer, hein ?
+
+585
+00:40:43,693 --> 00:40:45,960
+C'est le portable de ma femme,
+comment l'avez-vous eu ?
+
+586
+00:40:46,458 --> 00:40:48,328
+C'est 1965, hein ?
+
+587
+00:40:49,313 --> 00:40:51,894
+Tout ça à cause de 1965.
+
+588
+00:40:53,244 --> 00:40:55,440
+Frobisher, dites-moi, c'est eux ?
+
+589
+00:40:55,560 --> 00:40:56,840
+Ils sont revenus ?
+
+590
+00:41:00,127 --> 00:41:00,880
+Oui.
+
+591
+00:41:03,410 --> 00:41:05,188
+C'est pour ça que vous avez
+essayé de me faire tuer.
+
+592
+00:41:06,396 --> 00:41:10,120
+Ainsi que Andrew Staines,
+Ellen Hunt et Michael Sanders.
+
+593
+00:41:10,950 --> 00:41:13,480
+Nous tous morts, plus personne
+ne pourra parler, hein ?
+
+594
+00:41:14,032 --> 00:41:15,280
+Je n'avais pas le choix.
+
+595
+00:41:16,318 --> 00:41:17,680
+Moi j'en ai un...
+
+596
+00:41:18,726 --> 00:41:20,120
+<i>Vous voulez l'entendre ?</i>
+
+597
+00:41:20,460 --> 00:41:22,880
+Je peux faire péter tout ça.
+Le dire au monde entier !
+
+598
+00:41:23,887 --> 00:41:26,237
+<i>Sauf si j'entre dans
+la Maison de la Tamise.</i>
+
+599
+00:41:26,869 --> 00:41:29,280
+J'exige de parler aux
+456 moi-même.
+
+600
+00:41:30,945 --> 00:41:32,195
+<i>Pensez-y.</i>
+
+601
+00:41:33,131 --> 00:41:35,840
+Leur retour prouve qu'on ne peut
+pas leur faire confiance.
+
+602
+00:41:38,080 --> 00:41:38,960
+Vous avez besoin de moi.
+
+603
+00:41:39,869 --> 00:41:43,382
+Capitaine, nous avons votre fille
+et votre petit-fils,
+
+604
+00:41:44,132 --> 00:41:46,720
+<i>Alice et Steven Carter
+avec nous.</i>
+
+605
+00:41:46,969 --> 00:41:47,840
+Quoi ?!
+
+606
+00:41:48,121 --> 00:41:50,961
+Je vous promets formellement
+que rien ne leur arrivera.
+
+607
+00:41:51,240 --> 00:41:53,520
+Tant que vous ne dites rien.
+
+608
+00:41:53,720 --> 00:41:56,600
+Et si je retourne chez vous et que
+je prends votre femme ?
+
+609
+00:41:58,255 --> 00:41:59,631
+<i>Et vos enfants ?</i>
+
+610
+00:42:00,710 --> 00:42:02,060
+Vous ne le ferez pas,
+
+611
+00:42:02,520 --> 00:42:04,440
+car vous valez mieux que moi.
+
+612
+00:42:08,090 --> 00:42:09,390
+Pardon, Jack.
+
+613
+00:42:18,816 --> 00:42:21,453
+<i>Le monde entier
+attend des nouvelles</i>
+
+614
+00:42:21,927 --> 00:42:23,124
+<i>de la Maison de la Tamise.</i>
+
+615
+00:42:23,244 --> 00:42:26,170
+<i>Pour le moment, le gouvernement
+Britannique maintient une politique</i>
+
+616
+00:42:26,290 --> 00:42:28,294
+<i>de silence total.</i>
+
+617
+00:42:28,414 --> 00:42:30,214
+<i>Et l'attente continue.</i>
+
+618
+00:42:37,182 --> 00:42:38,440
+Voilà.
+
+619
+00:42:38,560 --> 00:42:40,720
+Laissez-nous en un peu, vieux !
+
+620
+00:42:41,122 --> 00:42:42,880
+C'est votre mari ?
+
+621
+00:42:43,080 --> 00:42:44,880
+Oui, mon bien-aimé.
+
+622
+00:42:45,822 --> 00:42:47,160
+Chouette maison, hein ?
+
+623
+00:42:48,414 --> 00:42:50,560
+- On fait de notre mieux !
+- On a une douche.
+
+624
+00:42:51,640 --> 00:42:53,200
+En restant sous les étoiles.
+
+625
+00:42:55,393 --> 00:42:57,085
+J'ai vécu dans pire.
+
+626
+00:42:57,669 --> 00:42:59,120
+C'est qui la tapette ?
+
+627
+00:43:05,258 --> 00:43:06,840
+On n'est plus en 1965.
+
+628
+00:43:09,622 --> 00:43:11,160
+C'est une tapette.
+Je le sens.
+
+629
+00:43:20,720 --> 00:43:22,767
+Que l'équipe de soutient
+prenne les escaliers,
+
+630
+00:43:22,887 --> 00:43:26,487
+l'ascenseur est pour M. Frobisher
+et son personnel.
+
+631
+00:43:26,760 --> 00:43:27,844
+Vite.
+
+632
+00:43:29,115 --> 00:43:30,516
+Bonne chance, monsieur.
+
+633
+00:43:37,631 --> 00:43:38,631
+Le grand moment.
+
+634
+00:43:40,671 --> 00:43:41,671
+L'Histoire.
+
+635
+00:43:45,382 --> 00:43:47,143
+- Y'a quoi là-bas ?
+- Aucune idée.
+
+636
+00:43:47,263 --> 00:43:50,040
+C'est pour ça qu'il nous faut Lois.
+- Aucun signe, lentilles inactives.
+
+637
+00:43:52,283 --> 00:43:53,400
+Deux minutes !
+
+638
+00:43:57,720 --> 00:43:59,270
+Je dois aller
+
+639
+00:44:00,000 --> 00:44:01,100
+aux toilettes.
+
+640
+00:44:33,669 --> 00:44:35,800
+- En ligne ! Elle le fait !
+- C'est bien !
+
+641
+00:44:36,163 --> 00:44:37,200
+Je savais bien !
+
+642
+00:44:42,280 --> 00:44:43,256
+<i>{\pos(192,230)}Merci.</i>
+
+643
+00:44:43,385 --> 00:44:44,639
+{\pos(192,230)}Ne faites pas trop ça.
+
+644
+00:44:44,800 --> 00:44:46,571
+<i>- Ne faites pas trop ça.
+- Pardon.</i>
+
+645
+00:44:46,691 --> 00:44:48,280
+- Elle ne t'entend pas.
+- Je sais.
+
+646
+00:44:49,595 --> 00:44:51,095
+<i>C'est vous, Gwen ?</i>
+
+647
+00:44:52,130 --> 00:44:53,840
+<i>{\pos(192,230)}Oui c'est moi.</i>
+
+648
+00:44:59,316 --> 00:45:00,202
+Très bien.
+
+649
+00:45:02,327 --> 00:45:03,918
+<i>- Bonne chance.
+- Bonne chance.</i>
+
+650
+00:45:05,610 --> 00:45:07,520
+Non, je déteste les smileys.
+
+651
+00:45:10,572 --> 00:45:12,560
+Ça m'a pris du temps
+pour m'y habituer.
+
+652
+00:45:14,651 --> 00:45:16,458
+Tu les as utilisées ?
+
+653
+00:45:16,578 --> 00:45:19,120
+- C'est pour ça que Gwen les avait.
+- Je les ai ramenées pour s'amuser.
+
+654
+00:45:20,506 --> 00:45:21,756
+- S'amuser ?
+- Ouais.
+
+655
+00:45:22,600 --> 00:45:24,621
+Tu sais. S'amuser.
+
+656
+00:45:25,925 --> 00:45:27,760
+Ouais, je l'ai déjà fait.
+
+657
+00:45:28,420 --> 00:45:29,840
+- C'est amusant.
+- Ouais.
+
+658
+00:45:36,563 --> 00:45:38,040
+C'est lui, c'est John Frobisher.
+
+659
+00:45:38,584 --> 00:45:39,360
+Enfoiré !
+
+660
+00:45:39,560 --> 00:45:41,645
+Ça sert à que dalle
+d'avoir sa nuque,
+
+661
+00:45:41,840 --> 00:45:43,720
+on ne sait pas s'il parle.
+
+662
+00:45:46,511 --> 00:45:48,261
+Je suppose que c'est un honneur.
+
+663
+00:45:48,544 --> 00:45:50,044
+Vue la position.
+
+664
+00:45:51,520 --> 00:45:55,370
+Ceci dit, le Premier Ministre a
+assuré que diplomatiquement,
+
+665
+00:45:55,716 --> 00:45:57,416
+il ne peut pas aller au 13e,
+
+666
+00:45:58,309 --> 00:46:00,259
+alors quoiqu'il arrive,
+
+667
+00:46:00,880 --> 00:46:02,480
+si un truc tourne mal,
+
+668
+00:46:02,975 --> 00:46:05,625
+l'histoire retiendra qu'il
+n'y est pour rien.
+
+669
+00:46:08,160 --> 00:46:09,910
+Il m'utilise ?
+
+670
+00:46:11,181 --> 00:46:14,081
+On ne devient pas Premier
+Ministre par hasard.
+
+671
+00:46:42,680 --> 00:46:44,120
+Bon sang, c'est quoi ?
+
+672
+00:46:45,019 --> 00:46:46,120
+Un genre de caisson.
+
+673
+00:46:48,791 --> 00:46:51,041
+Y'a quelque chose dans le gaz.
+
+674
+00:47:25,545 --> 00:47:27,760
+<i>{\pos(192,230)}Rapprochez-vous.</i>
+
+675
+00:47:33,591 --> 00:47:34,880
+Clem, venez voir.
+
+676
+00:47:37,096 --> 00:47:39,120
+N'ayez pas peur,
+c'est très loin.
+
+677
+00:47:41,210 --> 00:47:42,560
+Alors ?
+
+678
+00:47:45,236 --> 00:47:47,136
+Ça vous dit quelque chose ?
+
+679
+00:47:48,744 --> 00:47:50,494
+Je ne le sens pas d'ici.
+
+680
+00:47:54,680 --> 00:47:56,080
+C'est ce qui voulait m'emmener ?
+
+681
+00:47:58,583 --> 00:47:59,720
+Je crois bien.
+
+682
+00:48:16,096 --> 00:48:18,040
+Vous avez déjà vu ça ?
+
+683
+00:48:18,476 --> 00:48:19,240
+Jamais.
+
+684
+00:48:19,440 --> 00:48:22,400
+Si je peux ouvrir la séance,
+le premier congrès diplomatique
+
+685
+00:48:22,520 --> 00:48:26,360
+entre les représentants de la Terre
+et les représentants des 456.
+
+686
+00:48:26,770 --> 00:48:29,105
+Je vous fais part des salutations
+des États-Unis d'Amérique,
+
+687
+00:48:29,590 --> 00:48:31,720
+de la République Populaire
+de Chine...
+
+688
+00:48:33,578 --> 00:48:35,880
+- Il nous tourne le dos !
+- Je vois ça !
+
+689
+00:48:37,647 --> 00:48:39,440
+... Du Saint Siège du Vatican...
+
+690
+00:48:39,600 --> 00:48:40,960
+- Besoin de sa boche ?
+- La ferme !
+
+691
+00:48:41,160 --> 00:48:43,480
+... De la Fédération de Russie
+et de ses...
+
+692
+00:48:44,840 --> 00:48:46,240
+<i>{\pos(192,230)}Sa bouche.</i>
+
+693
+00:48:46,400 --> 00:48:49,200
+... D'Australie,
+des provinces et territoires...
+
+694
+00:48:51,280 --> 00:48:53,609
+... Du Japon,
+de la République Grecque,
+
+695
+00:48:53,729 --> 00:48:56,440
+de la République Islamique d'Iran
+et la République d'Irak,
+
+696
+00:48:56,796 --> 00:49:00,200
+du Royaume d'Arabie Saoudite.
+Il doit être noté au dossier que
+
+697
+00:49:00,320 --> 00:49:02,124
+tout pays non susnommés
+
+698
+00:49:02,244 --> 00:49:04,200
+n'indique pas qu'il
+soit en retrait dans ce...
+
+699
+00:49:04,580 --> 00:49:05,840
+C'est ça.
+
+700
+00:49:06,527 --> 00:49:08,240
+C'est bien, c'est ça.
+
+701
+00:49:08,440 --> 00:49:12,280
+... Et n'est que le reflet du délai très
+court d'organisation de ce sommet.
+
+702
+00:49:13,880 --> 00:49:17,040
+Vous avez des yeux.
+Des yeux dans la pièce.
+
+703
+00:49:17,367 --> 00:49:19,480
+Le logiciel est moins bon de profil.
+
+704
+00:49:19,680 --> 00:49:22,364
+En accord avec les règles du
+protocole, établies par...
+
+705
+00:49:23,880 --> 00:49:26,200
+- Ce n'est pas si mal.
+- Ça marche.
+
+706
+00:49:29,971 --> 00:49:31,960
+- Tu détestes les smileys.
+- La ferme.
+
+707
+00:49:32,160 --> 00:49:35,560
+Je dois vous demander de déclarer
+si ces salutations sont bien reçues.
+
+708
+00:49:53,920 --> 00:49:55,280
+Me comprenez-vous ?
+
+709
+00:49:55,440 --> 00:49:57,090
+<i>Me comprenez-vous ?</i>
+
+710
+00:50:04,576 --> 00:50:07,508
+Je répète, en accord avec les règles
+du protocole établies par...
+
+711
+00:50:07,651 --> 00:50:09,560
+<i>les Nations Unies dans les directives...
+- Oui.</i>
+
+712
+00:50:17,269 --> 00:50:18,716
+Alors je vous remercie, au nom du...
+
+713
+00:50:18,839 --> 00:50:21,192
+<i>Alors je vous remercie, au nom
+du Royaume-Uni.</i>
+
+714
+00:50:21,312 --> 00:50:22,514
+Ça a parlé ?!
+
+715
+00:50:22,638 --> 00:50:25,160
+Ça n'a pas de bouche, ça
+a des fichus haut-parleurs !
+
+716
+00:50:26,342 --> 00:50:28,033
+Ça n'a pas de bouche !
+
+717
+00:50:29,160 --> 00:50:32,200
+<i>La Fédération de Russie,
+le Commonwealth d'Australie...</i>
+
+718
+00:50:32,300 --> 00:50:34,200
+<i>{\pos(192,230)}- Les territoires du Canada
+- Entends pas alien.</i>
+
+719
+00:50:34,360 --> 00:50:36,434
+le Japon, la République Grecque,
+
+720
+00:50:36,554 --> 00:50:39,240
+la République Islamique d'Iran,
+la République d'Irak,
+
+721
+00:50:40,197 --> 00:50:42,746
+- C'est de la sténo !
+- Je sais le lire,
+
+722
+00:50:42,866 --> 00:50:45,160
+ça dit "oui".
+- C'est un cauchemar !
+
+723
+00:50:45,453 --> 00:50:46,984
+... Et le Royaume d'Arabie Saoudite.
+
+724
+00:50:47,104 --> 00:50:50,240
+Je crois que ça serait plus facile si
+on considérait ces noms comme lus, non ?
+
+725
+00:51:08,834 --> 00:51:11,560
+- Ça fait quoi là ?
+- Je ne sais pas.
+
+726
+00:51:14,381 --> 00:51:16,560
+- "Ça fait quoi là ?"
+- Quoi, ça a dit ça ?
+
+727
+00:51:16,991 --> 00:51:18,480
+Non, c'est Lois qui demande !
+
+728
+00:51:21,253 --> 00:51:23,049
+<i>{\pos(192,230)}- Est-ce que ça va ?
+- Aucune idée.</i>
+
+729
+00:51:29,216 --> 00:51:31,700
+Pardon, mais je ne peux m'empêcher
+d'être inquiet, y a-t-il un problème ?
+
+730
+00:51:31,800 --> 00:51:35,200
+<i>Pardon, mais je ne peux m'empêcher
+d'être inquiet, y a-t-il un problème ?</i>
+
+731
+00:51:41,401 --> 00:51:43,251
+Dois-je continuer ?
+
+732
+00:51:44,320 --> 00:51:45,240
+<i>Oui.</i>
+
+733
+00:51:49,254 --> 00:51:49,880
+Oui.
+
+734
+00:51:50,580 --> 00:51:51,680
+<i>Très bien.</i>
+
+735
+00:51:52,742 --> 00:51:54,320
+<i>Dans un esprit de coopération,</i>
+
+736
+00:51:54,520 --> 00:51:56,870
+nous avons une demande formelle
+à formuler.
+
+737
+00:51:58,706 --> 00:52:01,906
+Que vous n'utilisiez plus nos
+enfants pour communiquer.
+
+738
+00:52:03,793 --> 00:52:06,160
+<i>Dans le cas où certains groupes
+ou territoires</i>
+
+739
+00:52:06,320 --> 00:52:08,420
+<i>le considèrent comme une violation.</i>
+
+740
+00:52:11,770 --> 00:52:13,220
+Est-ce acceptable ?
+
+741
+00:52:26,082 --> 00:52:26,720
+<i>Oui.</i>
+
+742
+00:52:29,896 --> 00:52:30,640
+Oui.
+
+743
+00:52:32,078 --> 00:52:32,880
+<i>Merci.</i>
+
+744
+00:52:35,637 --> 00:52:37,902
+Demandez-lui pourquoi
+ils sont venus en Grande-Bretagne.
+
+745
+00:52:39,646 --> 00:52:41,240
+Ce n'est pas vraiment une priorité.
+
+746
+00:52:43,630 --> 00:52:45,240
+Demandez-le.
+
+747
+00:52:46,584 --> 00:52:49,869
+<i>Et comme cadeau,
+comme accueil dans ce monde,</i>
+
+748
+00:52:50,960 --> 00:52:54,610
+nous avons préparé un document
+résumant notre culture et histoire.
+
+749
+00:52:54,838 --> 00:52:57,480
+Ce document peut vous être
+fourni immédiatement.
+
+750
+00:52:57,872 --> 00:52:59,796
+Bien que son format reste
+indéterminé.
+
+751
+00:52:59,916 --> 00:53:02,530
+Le dit format
+reste à déterminer par vous,
+
+752
+00:53:02,650 --> 00:53:05,901
+sans que cela ne constitue une
+demande d'informations,
+
+753
+00:53:06,021 --> 00:53:08,720
+ni un transfert de technologies
+spécifiques aux 456.
+
+754
+00:53:23,473 --> 00:53:26,673
+On me fait parvenir une demande
+d'informations particulière.
+
+755
+00:53:27,265 --> 00:53:28,765
+On demande
+
+756
+00:53:30,835 --> 00:53:33,516
+pourquoi les 456 ont choisi la GB
+
+757
+00:53:34,820 --> 00:53:38,040
+comme point de débarquement.
+
+758
+00:53:41,856 --> 00:53:43,318
+<i>Nous sommes venus ici...</i>
+
+759
+00:53:46,265 --> 00:53:47,615
+"Nous sommes venus ici..."
+
+760
+00:53:48,129 --> 00:53:49,680
+- Parce que ?
+- C'est tout ce qu'il a dit !
+
+761
+00:53:51,315 --> 00:53:54,240
+<i>Vous n'avez pas d'importance.</i>
+
+762
+00:53:56,338 --> 00:53:57,920
+<i>Vous êtes des intermédiaires.</i>
+
+763
+00:53:59,451 --> 00:54:02,351
+"Vous n'avez pas d'importance,
+vous êtes des intermédiaires."
+
+764
+00:54:02,657 --> 00:54:05,558
+C'est faux, ils sont déjà venus avant,
+c'est pour ça qu'ils reviennent,
+
+765
+00:54:05,678 --> 00:54:06,696
+pourquoi ment-il ?
+
+766
+00:54:06,816 --> 00:54:08,066
+C'est Frobisher.
+
+767
+00:54:09,165 --> 00:54:11,015
+Il le fait mentir.
+
+768
+00:54:12,106 --> 00:54:13,440
+Ils sont dans le même camp.
+
+769
+00:54:13,862 --> 00:54:16,862
+Quoiqu'il se soit passé avant,
+ils le cachent.
+
+770
+00:54:26,539 --> 00:54:28,840
+<i>Nous avons une demande.</i>
+
+771
+00:54:29,488 --> 00:54:30,638
+Allez-y.
+
+772
+00:54:31,646 --> 00:54:33,238
+Nous voulons un cadeau.
+
+773
+00:54:34,657 --> 00:54:35,657
+Bien sûr.
+
+774
+00:54:36,657 --> 00:54:37,657
+Mais...
+
+775
+00:54:37,972 --> 00:54:39,120
+Quelle sorte de cadeau...
+
+776
+00:54:39,406 --> 00:54:41,671
+<i>Quelle sorte de cadeau précisément ?</i>
+
+777
+00:54:43,345 --> 00:54:44,440
+"Un cadeau."
+
+778
+00:54:45,066 --> 00:54:46,200
+Avec joie.
+
+779
+00:54:46,743 --> 00:54:48,040
+Mais que voulez-vous ?
+
+780
+00:54:50,325 --> 00:54:51,325
+<i>Nous voulons...</i>
+
+781
+00:54:52,392 --> 00:54:53,320
+<i>Vos enfants.</i>
+
+782
+00:54:57,455 --> 00:55:00,280
+<i>Nous prendrons vos enfants.</i>
+
+783
+00:55:03,023 --> 00:55:05,920
+Ça veut dire quoi, des enfants ?!
+
+784
+00:55:06,309 --> 00:55:07,720
+"Nous prendrons vos enfants."
+
+785
+00:55:11,765 --> 00:55:13,165
+Pour quoi faire ?
+
+786
+00:55:17,388 --> 00:55:19,960
+Pardon, je pense qu'il y a un
+problème de traduction.
+
+787
+00:55:22,167 --> 00:55:25,867
+Ils veulent les prendre, comme
+avant, comme l'homme avant.
+
+788
+00:55:28,074 --> 00:55:29,280
+Il revient.
+
+789
+00:55:29,680 --> 00:55:31,600
+- Il revient.
+- Non, Clem, attendez.
+
+790
+00:55:31,800 --> 00:55:33,880
+Il arrive, il arrive.
+
+791
+00:55:34,080 --> 00:55:35,080
+Il arrive.
+
+792
+00:55:35,280 --> 00:55:39,000
+Il arrive, il arrive,
+il arrive, il arrive.
+
+793
+00:55:39,120 --> 00:55:40,365
+Il arrive.
+
+794
+00:55:41,955 --> 00:55:44,680
+Il arrive, il arrive,
+il arrive, il arrive, il arrive.
+
+795
+00:55:46,415 --> 00:55:49,160
+<i>- Quand vous dites enfants... ?
+- Vos descendants.</i>
+
+796
+00:55:50,587 --> 00:55:53,656
+<i>La progéniture terrienne.</i>
+
+797
+00:55:57,999 --> 00:55:59,024
+Combien ?
+
+798
+00:55:59,144 --> 00:56:00,311
+<i>10%.</i>
+
+799
+00:56:02,493 --> 00:56:05,131
+<i>Nous voulons 10%.</i>
+
+800
+00:56:07,974 --> 00:56:11,860
+<i> Nous voulons 10% des
+enfants de ce monde.</i>
+
+801
+00:56:19,720 --> 00:56:21,480
+Il n'a pas changé.
+
+802
+00:56:22,132 --> 00:56:23,320
+Il est pareil.
+
+803
+00:56:23,637 --> 00:56:24,960
+Il est pareil.
+
+804
+00:56:25,120 --> 00:56:27,761
+Il est pareil, depuis
+tout ce temps.
+
+805
+00:56:29,506 --> 00:56:32,120
+- Comment peut-il être pareil ?
+- De quoi parle-t-il, Jack ?
+
+806
+00:56:34,342 --> 00:56:35,742
+Clement MacDonald.
+
+807
+00:56:37,700 --> 00:56:39,040
+Rien qu'un nom de plus.
+
+808
+00:56:43,080 --> 00:56:45,200
+C'était plus facile, en ne
+sachant pas les noms.
+
+809
+00:56:48,840 --> 00:56:50,090
+Tu y étais ?
+
+810
+00:56:51,412 --> 00:56:52,520
+En 1965.
+
+811
+00:56:52,680 --> 00:56:54,530
+Marchez vers la lumière.
+
+812
+00:56:56,016 --> 00:56:57,266
+C'est l'homme.
+
+813
+00:57:02,160 --> 00:57:05,040
+Non, ce qu'il fait, c'est
+combattre les aliens.
+
+814
+00:57:05,240 --> 00:57:07,840
+Il combat les aliens,
+n'est-ce pas, Jack ?
+
+815
+00:57:10,351 --> 00:57:11,351
+Non.
+
+816
+00:57:12,774 --> 00:57:14,677
+Qu'est-ce que tu y faisais alors ?
+
+817
+00:57:16,040 --> 00:57:17,590
+Je leur ai donné les gosses.
+
+818
+00:57:24,645 --> 00:57:26,062
+En 1965,
+
+819
+00:57:27,070 --> 00:57:29,120
+je leur ai donné 12 enfants.
+
+820
+00:57:29,465 --> 00:57:30,465
+Pourquoi ?
+
+821
+00:57:33,710 --> 00:57:35,600
+En cadeau.
+
+822
+00:57:35,760 --> 00:57:38,040
+<i>Dans le prochain épisode...</i>
+
+823
+00:57:39,560 --> 00:57:41,750
+Un immortel n'a peur de rien.
+
+824
+00:57:42,008 --> 00:57:46,827
+Trois, deux, cinq, zéro, zéro, zéro.
+
+825
+00:57:47,320 --> 00:57:48,920
+Il faut couvrir ça.
+
+826
+00:58:35,751 --> 00:58:41,025
+{\pos(192,100}~ Harkness Team / Allons-Y Team ~
+~ SeriesSub / U-Sub ~

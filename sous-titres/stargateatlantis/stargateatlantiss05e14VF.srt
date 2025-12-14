@@ -1,0 +1,2471 @@
+1
+00:00:01,276 --> 00:00:02,820
+Vous vouliez me voir ?
+
+2
+00:00:02,940 --> 00:00:07,315
+Puis-je savoir pourquoi
+vous n'avez pas déposé de rapport
+
+3
+00:00:07,435 --> 00:00:09,957
+depuis que je dirige cette base ?
+
+4
+00:00:10,484 --> 00:00:12,588
+Parce que je vous
+en ai donné aucun ?
+
+5
+00:00:12,833 --> 00:00:14,867
+Comme vous le savez, j'ai changé ça,
+
+6
+00:00:14,987 --> 00:00:18,571
+j'exige que chaque membre d'équipe
+fasse un rapport de mission.
+
+7
+00:00:19,012 --> 00:00:21,358
+Pas seulement les supérieurs
+et les scientifiques.
+
+8
+00:00:21,941 --> 00:00:24,211
+Ah bon ? Je savais pas.
+
+9
+00:00:24,521 --> 00:00:26,573
+Je l'ai annoncé quatre jours
+après mon arrivée,
+
+10
+00:00:26,693 --> 00:00:30,990
+à une réunion d'orientation des équipes
+détaillant les changements effectués.
+
+11
+00:00:31,110 --> 00:00:32,210
+J'étais là ?
+
+12
+00:00:32,881 --> 00:00:35,622
+- C'était obligatoire.
+- Car je m'en souviens pas...
+
+13
+00:00:35,872 --> 00:00:38,208
+Je vous ai vu.
+C'est dur de vous rater.
+
+14
+00:00:40,084 --> 00:00:41,084
+Écoutez,
+
+15
+00:00:41,441 --> 00:00:44,497
+je veux que vous fassiez un rapport
+
+16
+00:00:45,117 --> 00:00:46,216
+à chaque mission.
+
+17
+00:00:47,044 --> 00:00:48,676
+Je suis pas doué pour l'écriture.
+
+18
+00:00:49,202 --> 00:00:52,068
+Je me disais bien que vous diriez ça.
+Servez-vous de ça.
+
+19
+00:00:52,866 --> 00:00:56,680
+C'est un enregistreur vocal numérique.
+Parlez, on le branchera,
+
+20
+00:00:56,800 --> 00:00:59,896
+et vos rapports seront transcrits
+automatiquement et mis avec les autres.
+
+21
+00:01:01,199 --> 00:01:03,436
+Je suis pas doué non plus
+pour parler.
+
+22
+00:01:07,447 --> 00:01:10,114
+Désolé.
+Trop rapide pour toi, mon pote ?
+
+23
+00:01:11,386 --> 00:01:14,035
+La maison de retraite a appelé, Rodney.
+Ils veulent leur scooter.
+
+24
+00:01:15,238 --> 00:01:17,747
+Scooter ? C'est des piles ion-lithium
+sous le capot, fiston !
+
+25
+00:01:21,197 --> 00:01:22,167
+Oh, désolé !
+
+26
+00:01:26,923 --> 00:01:29,425
+- Je vais t'écraser.
+- Trébuche pas sur ta jupe !
+
+27
+00:01:32,537 --> 00:01:35,222
+- Ça va ?
+- J'aurais pu le lâcher !
+
+28
+00:01:35,342 --> 00:01:38,726
+- On ignorait qu'il y avait quelqu'un.
+- Vous faites quoi, là ?
+
+29
+00:01:38,886 --> 00:01:42,230
+J'essaie d'endormir Torren.
+Les promenades le calment.
+
+30
+00:01:42,881 --> 00:01:44,022
+Il a des coliques ?
+
+31
+00:01:44,701 --> 00:01:46,774
+Le docteur Keller dit
+que cette phase passera.
+
+32
+00:01:46,894 --> 00:01:48,966
+Bébé, j'avais ça aussi.
+Fais comme ma mère,
+
+33
+00:01:49,086 --> 00:01:51,775
+elle me laissait pleurer.
+Je suis pas si mal.
+
+34
+00:01:53,297 --> 00:01:55,644
+Peu importe...
+On se relaie d'habitude,
+
+35
+00:01:55,764 --> 00:01:57,912
+mais Kanaan rend visite
+aux nôtres quelques jours.
+
+36
+00:01:58,856 --> 00:02:02,292
+Je t'aiderais bien,
+mais on dirait que tu te débrouilles.
+
+37
+00:02:03,860 --> 00:02:06,977
+Il me reste à retourner à mes quartiers
+sans le réveiller...
+
+38
+00:02:07,097 --> 00:02:09,674
+Ou me faire écraser.
+
+39
+00:02:10,572 --> 00:02:11,759
+On a fini.
+
+40
+00:02:11,919 --> 00:02:13,594
+On était en train de finir.
+
+41
+00:02:14,760 --> 00:02:16,762
+- Bonne nuit.
+- Passe une bonne nuit.
+
+42
+00:02:18,229 --> 00:02:19,934
+Allez, allez, allez !
+
+43
+00:02:43,576 --> 00:02:45,735
+J'ai dû trop pousser le moteur.
+
+44
+00:02:45,855 --> 00:02:48,239
+Je dois lubrifier
+l'axe de transmission.
+
+45
+00:02:48,840 --> 00:02:49,840
+Quoi ?
+
+46
+00:02:52,409 --> 00:02:53,810
+C'est quoi, ça ?
+
+47
+00:02:54,104 --> 00:02:55,126
+Aucune idée.
+
+48
+00:02:57,234 --> 00:02:58,235
+Réponds.
+
+49
+00:02:59,243 --> 00:03:00,756
+Salle de contrôle, ici McKay.
+
+50
+00:03:00,876 --> 00:03:03,774
+On a plus d'énergie dans la jetée est.
+Qu'est-ce qu'il y a ?
+
+51
+00:03:15,891 --> 00:03:17,192
+C'est étrange.
+
+52
+00:03:17,624 --> 00:03:19,620
+À part la salle de contrôle,
+tout est éteint.
+
+53
+00:03:19,877 --> 00:03:20,978
+Pourquoi ?
+
+54
+00:03:21,488 --> 00:03:23,581
+Salle de contrôle,
+ici le Docteur Rodney McKay.
+
+55
+00:03:23,701 --> 00:03:25,258
+Répondez, s'il vous plaît.
+
+56
+00:03:27,802 --> 00:03:30,002
+Il se passe quelque chose.
+
+57
+00:03:35,785 --> 00:03:38,893
+Saison 5 Épisode 14
+The Prodigal (v. 1.00)
+
+58
+00:03:39,466 --> 00:03:41,670
+Teams Projet-SG && SG-66
+
+59
+00:03:41,790 --> 00:03:44,393
+www.projet-sg.net
+www.seriestele.net
+
+60
+00:03:57,976 --> 00:03:59,580
+Rodney, vous êtes là ?
+
+61
+00:04:16,328 --> 00:04:18,610
+Rien ne marche.
+Aucun moyen de savoir ce qui se passe.
+
+62
+00:04:18,730 --> 00:04:20,970
+D'accord.
+Rivers. Déployez-vous,
+
+63
+00:04:21,132 --> 00:04:23,743
+prenez les Marines,
+allez jusqu'à la tour de contrôle.
+
+64
+00:04:23,863 --> 00:04:26,685
+Dites-moi si vous trouvez Woolsey.
+Pas de radio, utilisez les talkies.
+
+65
+00:04:28,108 --> 00:04:30,147
+- Que se passe-t-il ?
+- Tu l'ignores aussi ?
+
+66
+00:04:30,307 --> 00:04:32,570
+J'allais à la tour de contrôle.
+Je t'ai appelé.
+
+67
+00:04:32,690 --> 00:04:34,637
+Y a du courant
+que dans la tour principale.
+
+68
+00:04:34,757 --> 00:04:37,710
+Va dans la salle des machines,
+pour relancer le système de là-bas.
+
+69
+00:04:37,830 --> 00:04:38,946
+D'accord.
+
+70
+00:04:44,113 --> 00:04:44,995
+Bonsoir.
+
+71
+00:05:05,829 --> 00:05:08,394
+- <i>Rodney, tu m'entends ?</i>
+- Oui, Radek. Vas-y.
+
+72
+00:05:08,678 --> 00:05:11,355
+J'essaie de relancer l'électricité.
+Sans succès pour l'instant.
+
+73
+00:05:11,916 --> 00:05:13,029
+Et le ZPM ?
+
+74
+00:05:13,149 --> 00:05:16,023
+<i>Je l'ai vérifié,
+et le générateur Naquadah aussi.</i>
+
+75
+00:05:16,143 --> 00:05:17,644
+<i>Aucun n'est connecté.</i>
+
+76
+00:05:18,001 --> 00:05:20,391
+<i>Quelqu'un les a éteints
+de la salle de contrôle.</i>
+
+77
+00:05:20,511 --> 00:05:22,700
+Dans ce cas,
+ils n'auraient pas non plus d'énergie.
+
+78
+00:05:23,072 --> 00:05:24,994
+Sauf s'ils utilisent
+une source externe.
+
+79
+00:05:26,069 --> 00:05:28,410
+Écoute-moi.
+Je veux que tu fasses ce que je te dis.
+
+80
+00:05:28,530 --> 00:05:31,966
+Lance un patch provisoire utilisant
+une source d'alimentation externe...
+
+81
+00:05:32,086 --> 00:05:36,046
+- Une des batteries auxiliaires.
+- Ça suffira pas pour alimenter la Cité.
+
+82
+00:05:36,206 --> 00:05:39,058
+Donne-moi assez de jus
+pour accéder à l'ordinateur central.
+
+83
+00:05:39,178 --> 00:05:40,718
+Qu'on trouve ce qui se passe.
+
+84
+00:05:41,068 --> 00:05:42,803
+D'accord. Où es-tu maintenant ?
+
+85
+00:05:43,233 --> 00:05:45,347
+- 36e étage.
+- 35.
+
+86
+00:05:45,858 --> 00:05:47,283
+Génial. 35. Parfait.
+
+87
+00:05:47,403 --> 00:05:49,100
+Plus que 28 étages,
+
+88
+00:05:49,261 --> 00:05:52,396
+et il y aura la cage d'escalier.
+Et on arrivera au 63eme étage,
+
+89
+00:05:52,556 --> 00:05:54,685
+on traversera
+une cage d'escalier auxiliaire,
+
+90
+00:05:54,805 --> 00:05:58,113
+on grimpera quatre autres étages
+pour accéder à la salle d'embarquement.
+
+91
+00:05:58,233 --> 00:06:01,225
+Pendant que tu y es, essaie de dériver
+de l'énergie vers les téléporteurs.
+
+92
+00:06:01,385 --> 00:06:02,884
+Entendu, je vais essayer.
+
+93
+00:06:24,738 --> 00:06:27,838
+Cette porte mène à la cage d'escalier
+de la salle d'embarquement ?
+
+94
+00:06:28,120 --> 00:06:29,121
+Ouais.
+
+95
+00:06:30,382 --> 00:06:33,631
+Peut-être que la porte était déjà fermée
+quand l'alimentation s'est coupée.
+
+96
+00:06:33,751 --> 00:06:35,784
+Ou on l'a scellée
+pour nous empêcher d'entrer.
+
+97
+00:06:35,904 --> 00:06:38,507
+Quoi, tu penses
+que quelqu'un a infiltré Atlantis ?
+
+98
+00:06:40,218 --> 00:06:41,235
+J'écoute.
+
+99
+00:06:41,529 --> 00:06:44,907
+J'ai lancé le patch provisoire.
+J'ai dérivé de l'énergie vers ton labo.
+
+100
+00:06:45,965 --> 00:06:48,657
+- Bien, et les transporteurs ?
+- <i>J'y travaille encore.</i>
+
+101
+00:06:48,777 --> 00:06:51,282
+D'accord, préviens-moi
+quand tu en auras activé un.
+
+102
+00:06:51,402 --> 00:06:53,786
+Va dans ton labo,
+essaie d'entrer dans le système.
+
+103
+00:06:53,906 --> 00:06:56,885
+Je vais essayer les autres entrées.
+Elles sont sûrement fermées, mais...
+
+104
+00:06:57,005 --> 00:06:59,000
+Peut-être qu'on peut monter
+autrement.
+
+105
+00:06:59,469 --> 00:07:00,470
+D'accord.
+
+106
+00:07:03,101 --> 00:07:04,846
+- Colonel.
+- Elle est scellée aussi ?
+
+107
+00:07:04,966 --> 00:07:06,343
+Toutes les portes le sont.
+
+108
+00:07:06,463 --> 00:07:08,405
+On essaie d'accéder
+à la Porte depuis la coupure.
+
+109
+00:07:08,525 --> 00:07:09,625
+Nous aussi.
+
+110
+00:07:09,745 --> 00:07:12,538
+- Une idée de ce qui se passe ?
+- McKay y travaille encore.
+
+111
+00:07:12,658 --> 00:07:16,205
+- On pourrait la faire exploser au C-4.
+- Probablement, mais on en est pas là.
+
+112
+00:07:16,325 --> 00:07:19,924
+On doit savoir ce qui se passe
+avant de se précipiter là-haut.
+
+113
+00:07:26,044 --> 00:07:27,532
+- Alors ?
+- Pas grand-chose.
+
+114
+00:07:28,319 --> 00:07:30,372
+Mais t'as raison.
+Quelqu'un contrôle Atlantis.
+
+115
+00:07:30,492 --> 00:07:33,555
+J'ai du mal à accéder
+aux systèmes principaux.
+
+116
+00:07:33,675 --> 00:07:35,829
+Ceux auxquels j'accède
+sont en lecture seule.
+
+117
+00:07:35,949 --> 00:07:38,426
+Qu'est-ce que tu...
+Comment t'es monté si vite ?
+
+118
+00:07:38,546 --> 00:07:41,755
+J'ai pu réactiver
+certains téléporteurs.
+
+119
+00:07:41,915 --> 00:07:43,799
+- Celui de la Porte ?
+- Par malheur, non.
+
+120
+00:07:43,959 --> 00:07:46,100
+Il a un code de verrouillage.
+
+121
+00:07:47,798 --> 00:07:49,237
+Les caméras de surveillance.
+
+122
+00:07:49,357 --> 00:07:51,654
+Les flux en circuit fermé
+sur la salle de contrôle.
+
+123
+00:07:51,774 --> 00:07:53,274
+S'ils ne sont pas verrouillés.
+
+124
+00:07:53,394 --> 00:07:56,896
+Ce ne sont pas des systèmes principaux.
+Je devrais pouvoir y accéder si...
+
+125
+00:07:58,969 --> 00:07:59,980
+C'est bon.
+
+126
+00:08:01,585 --> 00:08:02,886
+Un Jumper ?
+
+127
+00:08:06,722 --> 00:08:09,449
+- Qui c'est ?
+- Sûrement pas un membre de l'équipe.
+
+128
+00:08:11,736 --> 00:08:14,735
+- Tu peux avoir le bureau de Woolsey ?
+- Ouais, attends.
+
+129
+00:08:18,263 --> 00:08:19,364
+Oh, mon Dieu.
+
+130
+00:08:31,381 --> 00:08:32,347
+C'est...
+
+131
+00:08:40,340 --> 00:08:41,565
+Bonsoir, Teyla.
+
+132
+00:08:47,147 --> 00:08:48,892
+Comment êtes-vous arrivé ici ?
+
+133
+00:08:49,946 --> 00:08:52,349
+Le vaisseau que je vous ai emprunté.
+
+134
+00:08:52,699 --> 00:08:56,497
+Il m'a fourni nombre
+d'informations et de technologies...
+
+135
+00:08:56,762 --> 00:08:59,040
+Et la clé pour infiltrer cette base.
+
+136
+00:08:59,560 --> 00:09:00,886
+Servez-vous de ça.
+
+137
+00:09:01,400 --> 00:09:03,336
+C'est un enregistreur numérique.
+
+138
+00:09:03,641 --> 00:09:04,982
+Parlez, on le branchera,
+
+139
+00:09:05,102 --> 00:09:08,049
+et vos rapports seront transcrits
+automatiquement et mis avec les autres.
+
+140
+00:09:08,574 --> 00:09:10,879
+Je suis pas doué
+pour parler non plus.
+
+141
+00:09:12,653 --> 00:09:14,403
+<i>Activation extérieure
+non programmée.</i>
+
+142
+00:09:20,082 --> 00:09:22,380
+- Le bouclier est levé ?
+- Oui, Monsieur.
+
+143
+00:09:23,341 --> 00:09:25,330
+C'est le code du Major Nelson.
+
+144
+00:09:26,078 --> 00:09:27,285
+Ils sont en avance.
+
+145
+00:09:27,692 --> 00:09:29,588
+Leur retour était prévu demain.
+
+146
+00:09:30,542 --> 00:09:32,198
+Très bien, laissez-les passer.
+
+147
+00:09:41,446 --> 00:09:44,586
+Il ne monte pas au hangar.
+Qu'est-ce qui cloche ?
+
+148
+00:09:45,190 --> 00:09:46,713
+Major Nelson, votre position ?
+
+149
+00:09:52,734 --> 00:09:53,923
+C'est quoi, ça ?
+
+150
+00:09:55,415 --> 00:09:57,217
+Faites sortir tout le monde.
+
+151
+00:09:58,206 --> 00:09:59,946
+Faites-les sortir tout de suite !
+
+152
+00:10:32,743 --> 00:10:34,677
+Fermeture des portes d'accès direct.
+
+153
+00:10:43,878 --> 00:10:46,639
+- J'ai activé le bouclier du Portail.
+- Bien.
+
+154
+00:10:47,057 --> 00:10:49,539
+Et pour l'interface
+de l'alimentation externe ?
+
+155
+00:10:49,659 --> 00:10:50,948
+Nous sommes connectés.
+
+156
+00:10:51,068 --> 00:10:54,572
+La salle de contrôle tire désormais
+son énergie directement du vaisseau.
+
+157
+00:10:55,091 --> 00:10:57,167
+- Le champ paralysant tient ?
+- Oui.
+
+158
+00:10:57,287 --> 00:10:59,511
+Les deux niveaux adjacents
+sont protégés.
+
+159
+00:10:59,631 --> 00:11:01,333
+Maintenant, on peut travailler.
+
+160
+00:11:02,615 --> 00:11:03,914
+Travailler sur quoi ?
+
+161
+00:11:05,365 --> 00:11:06,466
+Pardonnez-moi.
+
+162
+00:11:07,495 --> 00:11:09,504
+J'ai oublié de vous féliciter.
+
+163
+00:11:12,403 --> 00:11:13,854
+Quel est son nom ?
+
+164
+00:11:18,403 --> 00:11:19,404
+Peu importe.
+
+165
+00:11:21,135 --> 00:11:23,543
+Je crains que nous ayons
+peu de temps.
+
+166
+00:11:23,952 --> 00:11:27,492
+Mes hybrides se préparent
+à activer l'autodestruction d'Atlantis.
+
+167
+00:11:27,612 --> 00:11:29,312
+Dès qu'ils l'auront fait,
+
+168
+00:11:29,900 --> 00:11:31,132
+nous partirons.
+
+169
+00:11:31,252 --> 00:11:34,785
+- Vous allez détruire Atlantis ?
+- Une punition largement méritée.
+
+170
+00:11:36,052 --> 00:11:38,410
+Je ne m'attends pas
+à ce que vous soyez d'accord.
+
+171
+00:11:38,530 --> 00:11:40,163
+Mais ne vous inquiétez pas.
+
+172
+00:11:40,466 --> 00:11:42,164
+Votre bébé sera en sécurité.
+
+173
+00:11:42,597 --> 00:11:44,080
+Vous ne prendrez pas mon fils.
+
+174
+00:11:44,439 --> 00:11:46,874
+Si, Teyla. Je vais le prendre.
+
+175
+00:11:48,581 --> 00:11:51,281
+Vous savez combien
+votre enfant est important pour moi.
+
+176
+00:11:52,197 --> 00:11:55,123
+Son père et vous lui avez donné
+un puissant don que j'utiliserai
+
+177
+00:11:55,243 --> 00:11:58,348
+pour accroître mon contrôle
+sur ma légion d'hybrides.
+
+178
+00:11:59,618 --> 00:12:02,414
+Il est la clé
+pour augmenter ma force,
+
+179
+00:12:03,090 --> 00:12:04,892
+assurer mon règne sur la galaxie.
+
+180
+00:12:05,605 --> 00:12:08,954
+Votre "règne" est terminé.
+Vous ne partirez pas d'ici vivant.
+
+181
+00:12:09,074 --> 00:12:11,983
+- Les miens s'en assureront...
+- Ça suffit !
+
+182
+00:12:12,429 --> 00:12:14,485
+Vous pensez m'avoir affaibli.
+
+183
+00:12:15,404 --> 00:12:18,942
+Vous avez détruit mes installations,
+anéanti la plupart de mes recherches,
+
+184
+00:12:19,062 --> 00:12:21,561
+mais vous ne pouvez pas...
+Vous ne pouvez pas...
+
+185
+00:12:21,924 --> 00:12:23,828
+affaiblir ma détermination.
+
+186
+00:12:24,542 --> 00:12:26,446
+Ne vous y trompez pas, Teyla.
+
+187
+00:12:26,566 --> 00:12:29,584
+Je suis plus fort
+que je ne l'ai jamais été.
+
+188
+00:12:32,660 --> 00:12:34,105
+Regardez autour de vous.
+
+189
+00:12:34,355 --> 00:12:36,257
+Je contrôle Atlantis,
+
+190
+00:12:37,718 --> 00:12:41,220
+l'endroit où vous avez mis fin
+à ma vie telle qu'elle était.
+
+191
+00:12:41,666 --> 00:12:43,868
+Il est normal que je revienne...
+
+192
+00:12:44,898 --> 00:12:48,401
+pour anéantir cette infection
+de la galaxie une fois pour toutes.
+
+193
+00:12:52,375 --> 00:12:55,345
+- Je croyais que Michael était mort.
+- Moi aussi.
+
+194
+00:12:55,465 --> 00:12:58,229
+- On a détruit son vaisseau.
+- C'est lui qui a volé notre Jumper
+
+195
+00:12:58,349 --> 00:13:00,988
+et l'a utilisé pour s'échapper
+avant qu'on ait pu le détruire.
+
+196
+00:13:01,108 --> 00:13:03,159
+C'est comme un cafard.
+Chaque fois qu'on essaie
+
+197
+00:13:03,319 --> 00:13:04,994
+de l'écraser, il s'échappe au loin.
+
+198
+00:13:05,114 --> 00:13:07,313
+Très bien, on doit se remuer.
+
+199
+00:13:08,424 --> 00:13:11,417
+Vous et votre équipe prenez cette cage.
+Mon équipe prendra celle-ci.
+
+200
+00:13:11,577 --> 00:13:13,835
+Là-bas, attendez mon signal
+pour détruire la porte.
+
+201
+00:13:14,368 --> 00:13:15,880
+On monte reprendre le contrôle.
+
+202
+00:13:16,040 --> 00:13:18,341
+McKay, avec moi.
+Zelenka, essayez de résoudre tout ça.
+
+203
+00:13:18,704 --> 00:13:19,759
+Entendu.
+
+204
+00:13:19,919 --> 00:13:23,423
+Pas de quartier pour Michael.
+Si vous pouvez l'avoir, tirez.
+
+205
+00:13:24,121 --> 00:13:26,311
+Assurez-vous qu'il soit mort.
+C'est parti.
+
+206
+00:13:59,796 --> 00:14:01,346
+Je dois vous parler.
+
+207
+00:14:07,023 --> 00:14:10,296
+Nous avons toujours quelques soucis
+avec l'autodestruction.
+
+208
+00:14:10,706 --> 00:14:12,361
+- Pourquoi ?
+- Je vous l'ai dit,
+
+209
+00:14:12,481 --> 00:14:14,854
+le cryptage est plus complexe
+que nous ne le pensions.
+
+210
+00:14:15,466 --> 00:14:17,875
+Nous avons lancé
+plusieurs algorithmes de factorisation.
+
+211
+00:14:17,995 --> 00:14:19,873
+Rien n'a fonctionné jusqu'ici.
+
+212
+00:14:19,993 --> 00:14:21,987
+- Continuez.
+- Combien de temps encore ?
+
+213
+00:14:24,948 --> 00:14:26,033
+Ce qu'il faudra.
+
+214
+00:14:26,769 --> 00:14:29,870
+C'est une question de temps avant que
+les autres ne percent nos défenses.
+
+215
+00:14:30,251 --> 00:14:33,332
+Je sais. Mais vous aurez résolu
+ce problème de cryptage d'ici là.
+
+216
+00:14:35,774 --> 00:14:38,837
+Nous avons le bébé.
+Nous n'avons plus à rester ici.
+
+217
+00:14:39,220 --> 00:14:42,132
+Nous ne partons pas
+avant que le dispositif soit activé.
+
+218
+00:14:51,193 --> 00:14:52,193
+Des soucis ?
+
+219
+00:14:52,971 --> 00:14:54,939
+Rien dont on ne peut s'occuper.
+
+220
+00:14:55,191 --> 00:14:58,399
+Vous vous doutez que le colonel Sheppard
+compte reprendre la salle de la Porte.
+
+221
+00:14:58,788 --> 00:15:01,860
+Bien sûr, il doit probablement
+être en train de se mettre en place.
+
+222
+00:15:03,621 --> 00:15:04,905
+Ne vous inquiétez pas.
+
+223
+00:15:06,284 --> 00:15:08,148
+Ils n'arriveront pas jusqu'ici.
+
+224
+00:15:20,137 --> 00:15:21,588
+Major, vous en êtes où ?
+
+225
+00:15:23,288 --> 00:15:26,020
+Le C-4 est en place, Colonel.
+À votre signal.
+
+226
+00:15:28,256 --> 00:15:29,288
+Allez-y.
+
+227
+00:15:29,568 --> 00:15:30,793
+<i>À mon signal.</i>
+
+228
+00:15:31,287 --> 00:15:34,810
+Trois, deux, un, on y va.
+
+229
+00:15:38,852 --> 00:15:39,852
+On y va !
+
+230
+00:15:51,420 --> 00:15:54,273
+- Signal énergétique droit devant.
+- C'est quoi ?
+
+231
+00:15:54,393 --> 00:15:57,241
+Je ne sais pas, mais on devrait
+s'arrêter le temps que je trouve.
+
+232
+00:15:59,237 --> 00:16:00,887
+Major Lorne, arrêtez-vous.
+
+233
+00:16:06,476 --> 00:16:08,635
+Colonel Sheppard,
+le major Lorne est à terre.
+
+234
+00:16:10,974 --> 00:16:12,661
+- Comment ça ?
+- Je sais pas.
+
+235
+00:16:12,781 --> 00:16:15,150
+Il semble avoir heurté
+un champ de force.
+
+236
+00:16:15,732 --> 00:16:18,478
+- Il est vivant, mais inconscient.
+- <i>Ramenez-le et repliez-vous.</i>
+
+237
+00:16:19,447 --> 00:16:21,189
+On dirait qu'il a un champ de force.
+
+238
+00:16:21,594 --> 00:16:23,525
+On peut dire qu'il est ingénieux.
+
+239
+00:16:24,036 --> 00:16:25,777
+- On fait quoi ?
+- On le désactive.
+
+240
+00:16:26,040 --> 00:16:29,489
+- Comment ?
+- C'est... une... bonne question.
+
+241
+00:16:33,603 --> 00:16:35,665
+J'ai examiné les relevés d'énergie,
+
+242
+00:16:35,785 --> 00:16:38,115
+et il semble
+que Michael soit parvenu
+
+243
+00:16:38,235 --> 00:16:40,410
+à modifier la technologie
+paralysante wraith,
+
+244
+00:16:40,530 --> 00:16:42,840
+et à l'intégrer au système
+de camouflage du Jumper...
+
+245
+00:16:42,960 --> 00:16:44,951
+Créant une "bulle paralysante"...
+
+246
+00:16:45,071 --> 00:16:48,126
+Non, un champ de force englobant
+les Salles de Contrôle et de la Porte.
+
+247
+00:16:48,246 --> 00:16:49,801
+Impossible d'y entrer.
+
+248
+00:16:50,273 --> 00:16:53,513
+Je sais ça. Ce que j'ai pas entendu,
+c'est comment on désactive ce truc.
+
+249
+00:16:53,822 --> 00:16:56,280
+On ne sait pas encore comment.
+C'est assez technique.
+
+250
+00:16:56,469 --> 00:16:58,969
+Michael se sert du Jumper
+comme source d'énergie,
+
+251
+00:16:59,089 --> 00:17:02,356
+pour alimenter les Salles de Contrôle
+et de la Porte et la bulle...
+
+252
+00:17:02,808 --> 00:17:05,296
+- Assez de "bulle paralysante".
+- C'est approprié...
+
+253
+00:17:05,416 --> 00:17:07,777
+- Non, c'est stupide...
+- Oh, les gars...
+
+254
+00:17:07,897 --> 00:17:10,238
+Écoutez, le fait est
+que si on veut désactiver la bu...
+
+255
+00:17:11,502 --> 00:17:14,709
+le champ de force,
+on doit d'abord débrancher le Jumper.
+
+256
+00:17:14,829 --> 00:17:17,621
+Ou on contourne les verrous
+de Michael dans l'ordinateur central.
+
+257
+00:17:17,959 --> 00:17:20,207
+- Très bien, ça avance ?
+- Non.
+
+258
+00:17:20,367 --> 00:17:21,333
+Pas encore.
+
+259
+00:17:21,892 --> 00:17:24,669
+Continuez à travailler dessus.
+Je vais voir Lorne.
+
+260
+00:17:38,410 --> 00:17:40,602
+- Que s'est-il passé ?
+- Le Jumper qui est entré...
+
+261
+00:17:41,531 --> 00:17:43,980
+il a envoyé une sorte
+d'onde paralysante.
+
+262
+00:17:46,145 --> 00:17:48,076
+- Sur tout Atlantis ?
+- Je sais pas.
+
+263
+00:17:48,196 --> 00:17:49,208
+Sans doute.
+
+264
+00:17:55,336 --> 00:17:57,652
+Ne vous inquiétez,
+ils vont se réveiller.
+
+265
+00:17:57,959 --> 00:18:00,914
+On a tous une résistance différente.
+Tenez.
+
+266
+00:18:01,334 --> 00:18:02,951
+- Qui ferait ça ?
+- Je sais pas.
+
+267
+00:18:03,071 --> 00:18:05,995
+C'est ce que je compte découvrir.
+Vous pouvez ouvrir la porte ?
+
+268
+00:18:06,492 --> 00:18:08,338
+- Je pense.
+- Bien. Allez-y.
+
+269
+00:18:21,479 --> 00:18:22,650
+Toujours rien.
+
+270
+00:18:33,156 --> 00:18:36,741
+Il fut un temps
+où vous me compreniez, Teyla.
+
+271
+00:18:38,076 --> 00:18:40,481
+Quand vous m'avez amené ici,
+m'avez inoculé le rétrovirus
+
+272
+00:18:40,601 --> 00:18:42,163
+qui m'a rendu humain,
+
+273
+00:18:43,024 --> 00:18:45,559
+vous seule m'avez montré
+de la compassion.
+
+274
+00:18:46,729 --> 00:18:48,795
+Vous étiez la voix de ma conscience.
+
+275
+00:18:53,152 --> 00:18:55,299
+J'y ai beaucoup réfléchi.
+
+276
+00:18:58,208 --> 00:19:00,308
+Je souhaite vous rendre la pareille.
+
+277
+00:19:02,202 --> 00:19:05,761
+J'apprécierais énormément
+que vous veniez avec moi.
+
+278
+00:19:07,311 --> 00:19:11,296
+Vous prendriez soin de votre fils,
+et je prendrais soin de vous deux.
+
+279
+00:19:12,483 --> 00:19:13,903
+Je préfèrerais mourir.
+
+280
+00:19:17,020 --> 00:19:18,226
+Je vous promets...
+
+281
+00:19:21,053 --> 00:19:23,345
+de ne toucher à aucun de vous deux.
+
+282
+00:19:28,090 --> 00:19:31,212
+- Vous devez me croire.
+- Je ne crois pas un meurtrier.
+
+283
+00:19:31,587 --> 00:19:33,214
+Pourquoi ne comprenez-vous pas ?
+
+284
+00:19:35,464 --> 00:19:39,014
+Je suis devenu ce que je suis
+par nécessité,
+
+285
+00:19:39,515 --> 00:19:40,763
+pour survivre !
+
+286
+00:19:41,149 --> 00:19:42,932
+C'est par vengeance.
+
+287
+00:19:43,092 --> 00:19:44,855
+Que fait-on des criminels,
+chez vous ?
+
+288
+00:19:44,975 --> 00:19:48,062
+- N'affrontent-ils pas la justice ?
+- Vous appelez ça la justice ?
+
+289
+00:19:48,290 --> 00:19:51,592
+Tuer des centaines de milliers
+d'innocents à travers la galaxie ?
+
+290
+00:19:51,712 --> 00:19:55,711
+Ils ne seraient pas morts
+si je n'avais pas été votre cobaye.
+
+291
+00:19:55,948 --> 00:19:57,989
+Vous avez leur sang sur vos mains !
+
+292
+00:20:05,602 --> 00:20:09,201
+C'est votre choix. Vous pouvez me suivre
+et vivre, ou rester et mourir.
+
+293
+00:20:09,321 --> 00:20:11,519
+Dans tous les cas,
+je prends votre enfant.
+
+294
+00:20:20,365 --> 00:20:22,310
+Faut faire sauter le Jumper.
+
+295
+00:20:23,725 --> 00:20:26,936
+L'énergie et le champ de force
+seraient coupés, non ?
+
+296
+00:20:27,424 --> 00:20:31,339
+Bon plan... même si je vois pas trop
+comment tu comptes t'y prendre.
+
+297
+00:20:31,459 --> 00:20:33,298
+- On tire un drone.
+- On ne peut pas.
+
+298
+00:20:33,418 --> 00:20:36,903
+La Siège requiert plus de puissance
+que n'en fournissent les batteries.
+
+299
+00:20:37,023 --> 00:20:39,030
+J'ai à peine pu alimenter ce labo,
+
+300
+00:20:39,190 --> 00:20:42,694
+- sans parler des transporteurs.
+- Donc on prend un Jumper.
+
+301
+00:20:42,814 --> 00:20:46,515
+Je repose ma question du comment.
+On peut pas aller au hangar des Jumpers.
+
+302
+00:20:46,635 --> 00:20:49,453
+On en prend un du hangar sous-marin.
+On monte au sommet de la tour,
+
+303
+00:20:49,573 --> 00:20:52,898
+on tire un drone à travers la fenêtre,
+et on détruit le Jumper de Michael.
+
+304
+00:20:54,589 --> 00:20:55,589
+Quoi ?
+
+305
+00:20:55,780 --> 00:20:58,966
+Non, non, non, c'est un bon plan,
+il y a juste un léger souci...
+
+306
+00:20:59,278 --> 00:21:02,220
+le hangar sous-marin
+ne contient que deux Jumpers.
+
+307
+00:21:02,652 --> 00:21:05,180
+- Il en faut qu'un.
+- Oui, mais c'est que...
+
+308
+00:21:05,343 --> 00:21:08,785
+Les deux ont été bien endommagés
+lors de l'inondation, aucun ne volera.
+
+309
+00:21:08,905 --> 00:21:11,312
+C'était il y a deux ans, Radek.
+McKay les a réparés.
+
+310
+00:21:13,592 --> 00:21:15,983
+- Tu plaisantes...
+- Je comptais le faire.
+
+311
+00:21:16,593 --> 00:21:19,320
+- Tu disais que tu allais le faire.
+- J'allais le faire, juré.
+
+312
+00:21:19,524 --> 00:21:22,410
+- Et t'as eu deux ans !
+- J'étais occupé !
+
+313
+00:21:22,530 --> 00:21:24,658
+On devrait aller voir
+si on peut en réparer un.
+
+314
+00:21:25,402 --> 00:21:29,035
+Bonne idée, mais vous restez là
+pour contourner les verrous de Michael.
+
+315
+00:21:29,155 --> 00:21:31,910
+Pourquoi je reste pas ?
+Zelenka peut te suivre au hangar.
+
+316
+00:21:32,030 --> 00:21:34,459
+Parce que je veux que tu viennes
+pour réparer ces Jumpers
+
+317
+00:21:34,709 --> 00:21:36,658
+comme tu l'avais promis,
+il y a 2 ans.
+
+318
+00:21:36,778 --> 00:21:39,508
+- On y va.
+- Dites-moi qu'il y a un téléporteur.
+
+319
+00:21:39,628 --> 00:21:43,033
+Enfin, il n'y en a pas au hangar,
+mais il y en a un deux niveaux plus bas.
+
+320
+00:21:43,153 --> 00:21:44,227
+Ça ira.
+
+321
+00:22:13,080 --> 00:22:14,080
+Bien.
+
+322
+00:22:18,392 --> 00:22:19,812
+Vous savez vous battre ?
+
+323
+00:22:20,856 --> 00:22:22,548
+Cinq ans de kick-boxing.
+
+324
+00:22:23,589 --> 00:22:25,161
+Content de l'apprendre.
+
+325
+00:22:25,281 --> 00:22:26,569
+Que s'est-il passé ?
+
+326
+00:23:09,012 --> 00:23:11,300
+Michael et ses hybrides.
+J'en ai compté trois.
+
+327
+00:23:11,420 --> 00:23:15,301
+Je suis pas sûr de leur nombre.
+Guère plus, ils étaient dans un Jumper.
+
+328
+00:23:15,421 --> 00:23:17,924
+À moins que d'autres
+ne soient arrivés à pied après.
+
+329
+00:23:18,044 --> 00:23:19,371
+Qu'est-ce qu'on fait ?
+
+330
+00:23:20,193 --> 00:23:22,981
+On va à l'armurerie, on revient
+et on reprend la salle de la Porte.
+
+331
+00:23:23,101 --> 00:23:25,464
+J'aime ce plan.
+Vous deux, avec moi.
+
+332
+00:23:25,584 --> 00:23:27,666
+Banks, restez avec eux,
+rassurez-les.
+
+333
+00:23:27,786 --> 00:23:31,160
+Et si des hybrides rappliquent,
+faites comme tout à l'heure.
+
+334
+00:23:38,188 --> 00:23:40,591
+... vous parler à nouveau.
+C'est urgent.
+
+335
+00:23:40,711 --> 00:23:41,918
+Restez avec lui.
+
+336
+00:23:47,822 --> 00:23:49,008
+Qu'y a-t-il ?
+
+337
+00:23:49,390 --> 00:23:52,951
+Nous avons pu décrypter les données
+du dispositif d'autodestruction.
+
+338
+00:23:53,833 --> 00:23:54,833
+Bien.
+
+339
+00:23:55,685 --> 00:23:57,625
+Préparez le vaisseau pour le départ.
+
+340
+00:23:58,011 --> 00:24:01,979
+On lance l'autodestruction,
+et on rétablit l'énergie en partant.
+
+341
+00:24:02,420 --> 00:24:04,977
+Le réglage des paramètres
+doit être très précis.
+
+342
+00:24:05,097 --> 00:24:07,947
+Je ne veux pas leur laisser
+la moindre chance de la désactiver.
+
+343
+00:24:08,067 --> 00:24:10,018
+J'effectuerai les calculs.
+
+344
+00:24:14,176 --> 00:24:16,482
+Changement de plan.
+On va pas à l'armurerie.
+
+345
+00:24:16,602 --> 00:24:19,500
+- Quoi ? Qu'est-ce qu'il se passe ?
+- Ils programment l'autodestruction.
+
+346
+00:24:19,657 --> 00:24:22,690
+M. Woolsey, vous voulez bien
+rejoindre les autres ?
+
+347
+00:24:38,951 --> 00:24:41,688
+Colonel Sheppard, ici Teyla.
+Tu m'entends ?
+
+348
+00:24:42,044 --> 00:24:44,066
+John, c'est Teyla.
+Réponds, s'il te plaît.
+
+349
+00:25:00,998 --> 00:25:03,252
+Colonel Shep...
+Colonel Sheppard.
+
+350
+00:25:03,711 --> 00:25:05,913
+Ronon est en Salle de Contrôle.
+Il combat Michael !
+
+351
+00:25:06,424 --> 00:25:09,079
+On a presque atteint le hangar.
+Tenez-nous au courant.
+
+352
+00:25:21,985 --> 00:25:23,108
+Teyla, cours !
+
+353
+00:25:36,108 --> 00:25:37,425
+- Tout va bien ?
+- Oui.
+
+354
+00:25:37,545 --> 00:25:40,581
+Ronon a besoin d'aide.
+On doit aller en Salle de Contrôle.
+
+355
+00:26:05,703 --> 00:26:08,525
+Radek ?
+Dites-nous ce qui se passe là-haut.
+
+356
+00:26:08,954 --> 00:26:11,120
+Je... Je ne sais pas.
+Ronon est à terre.
+
+357
+00:26:11,240 --> 00:26:12,821
+Il doit juste être inconscient.
+
+358
+00:26:13,204 --> 00:26:16,517
+Faites signe s'il revient à lui.
+Qu'est-ce qu'on a ?
+
+359
+00:26:16,637 --> 00:26:18,600
+Déjà dit...
+Ces Jumpers sont grillés.
+
+360
+00:26:18,720 --> 00:26:21,079
+Celui-ci a tout un tas de problèmes,
+et plus d'énergie.
+
+361
+00:26:21,295 --> 00:26:23,877
+- L'autre Jumper en a ?
+- Oui, mais pas assez.
+
+362
+00:26:23,997 --> 00:26:26,771
+- Ni les propulseurs, ni les drones...
+- Celui-ci a des drones.
+
+363
+00:26:26,891 --> 00:26:29,904
+Donc si on l'alimente en énergie,
+les propulseurs fonctionneront, non ?
+
+364
+00:26:30,024 --> 00:26:33,216
+Tu veux que je rafistole un des Jumpers
+avec des pièces de l'autre ?
+
+365
+00:26:33,376 --> 00:26:34,957
+- C'est possible ?
+- J'en doute.
+
+366
+00:26:35,143 --> 00:26:36,927
+- Mais si...
+- Ça va prendre du temps.
+
+367
+00:26:37,153 --> 00:26:39,598
+Parfait. Au boulot.
+T'as besoin de quoi ? 15 minutes ?
+
+368
+00:26:44,322 --> 00:26:45,937
+Super, c'est super.
+
+369
+00:26:51,769 --> 00:26:54,768
+- Ils ont dû bloquer les téléporteurs.
+- On doit aller en Salle de Contrôle.
+
+370
+00:26:54,888 --> 00:26:57,587
+Sans armes, c'est trop dangereux.
+Où sont les escaliers ?
+
+371
+00:26:57,939 --> 00:26:59,419
+Pas bien loin. Par là.
+
+372
+00:26:59,853 --> 00:27:01,083
+Laissez-moi passer.
+
+373
+00:28:47,514 --> 00:28:48,811
+D'accord, allume.
+
+374
+00:28:50,915 --> 00:28:54,185
+- La propulsion fonctionne.
+- On avance.
+
+375
+00:28:54,305 --> 00:28:56,798
+J'ai du jus,
+j'ai les supports vitaux, j'ai...
+
+376
+00:28:57,085 --> 00:28:58,862
+- Allez !
+- Quoi ?
+
+377
+00:28:59,143 --> 00:29:00,655
+Les armes ne s'activent pas.
+
+378
+00:29:01,742 --> 00:29:03,241
+- Pourquoi ?
+- Je sais pas.
+
+379
+00:29:03,401 --> 00:29:05,451
+Trouve.
+On a besoin de ces drones.
+
+380
+00:29:12,458 --> 00:29:13,619
+Où est-elle ?
+
+381
+00:29:15,163 --> 00:29:17,677
+On ne sait pas.
+On a cherché partout.
+
+382
+00:29:17,797 --> 00:29:20,284
+Vous me dites qu'elle a disparu ?
+
+383
+00:29:20,516 --> 00:29:23,838
+On a cherché dans chaque pièce
+et couloir dans le champ de force.
+
+384
+00:29:23,958 --> 00:29:26,011
+Nous ne l'avons trouvée nulle part.
+
+385
+00:29:26,131 --> 00:29:27,825
+Elle connaît bien la Cité.
+
+386
+00:29:28,577 --> 00:29:30,129
+Elle se cache quelque part.
+
+387
+00:29:30,249 --> 00:29:31,436
+Elle joue avec moi !
+
+388
+00:29:34,541 --> 00:29:37,084
+- On continue à chercher.
+- Non. Je m'en occupe.
+
+389
+00:29:40,022 --> 00:29:42,407
+- Qu'allez-vous faire ?
+- La faire sortir.
+
+390
+00:29:48,219 --> 00:29:51,257
+C'est l'autodestruction d'Atlantis.
+Michael va faire exploser la Cité.
+
+391
+00:29:51,377 --> 00:29:53,708
+- On a combien de temps ?
+- 10 minutes.
+
+392
+00:29:53,928 --> 00:29:55,710
+Et pour faire marcher ces drones ?
+
+393
+00:29:55,870 --> 00:29:58,254
+Si j'y arrive,
+bien plus que 10 minutes !
+
+394
+00:29:59,594 --> 00:30:01,591
+- Très bien, oublie ça.
+- Tu fais quoi ?
+
+395
+00:30:01,945 --> 00:30:03,885
+Je fais crasher
+le Jumper sur la Tour.
+
+396
+00:30:04,045 --> 00:30:06,763
+- Le crasher ?
+- La seule façon de détruire le Jumper.
+
+397
+00:30:07,120 --> 00:30:08,306
+Et toi aussi.
+
+398
+00:30:08,466 --> 00:30:11,184
+J'ai déjà crashé des Jumpers
+sur la Tour.
+
+399
+00:30:11,344 --> 00:30:12,818
+Pas comme ça.
+
+400
+00:30:12,938 --> 00:30:15,229
+En plus des armes,
+les amortisseurs sont foutus.
+
+401
+00:30:15,726 --> 00:30:18,691
+Tu dois frapper le Jumper de Michael
+violemment pour faire des dégâts,
+
+402
+00:30:18,851 --> 00:30:21,153
+donc toucher la Tour
+à pleine vitesse.
+
+403
+00:30:21,273 --> 00:30:23,196
+C'est une mission suicide.
+
+404
+00:30:30,735 --> 00:30:32,682
+<i>Je sais que vous pouvez m'entendre.</i>
+
+405
+00:30:33,398 --> 00:30:37,201
+<i>L'alarme, si vous l'ignorez,
+est l'autodestruction d'Atlantis.</i>
+
+406
+00:30:37,711 --> 00:30:40,213
+<i>Je l'ai programmée,
+pour dans 10 minutes.</i>
+
+407
+00:30:40,673 --> 00:30:44,634
+<i>C'est le temps que vous avez
+pour réfléchir à mon offre.</i>
+
+408
+00:30:45,301 --> 00:30:48,124
+Si vous vous rendez
+avec votre enfant,
+
+409
+00:30:48,244 --> 00:30:49,943
+je stoppe l'explosion,
+
+410
+00:30:50,063 --> 00:30:52,218
+épargnant la vie
+de tout le monde dans la base.
+
+411
+00:30:52,338 --> 00:30:53,338
+Sinon...
+
+412
+00:30:53,912 --> 00:30:55,394
+vous, votre bébé,
+
+413
+00:30:55,989 --> 00:30:57,397
+<i>et tous les autres</i>
+
+414
+00:30:58,026 --> 00:30:59,215
+<i>mourrez.</i>
+
+415
+00:31:06,511 --> 00:31:08,172
+OK, tu peux y aller.
+
+416
+00:31:08,781 --> 00:31:11,644
+Que la troupe d'assaut
+bouge dès que le champ tombe.
+
+417
+00:31:11,764 --> 00:31:14,163
+Ne va pas trop vite
+en sortant du hangar.
+
+418
+00:31:14,323 --> 00:31:17,892
+Si tu pousses trop les moteurs,
+tu vas t'écraser comme une crêpe.
+
+419
+00:31:18,012 --> 00:31:19,168
+D'accord.
+
+420
+00:31:21,843 --> 00:31:22,895
+Quoi ?
+
+421
+00:31:23,565 --> 00:31:26,138
+Eh bien, c'est que...
+Ce que tu vas faire est...
+
+422
+00:31:26,258 --> 00:31:29,723
+Ouais. C'est pas la première fois.
+Combien de missions suicides j'ai fait ?
+
+423
+00:31:29,843 --> 00:31:32,515
+- Je sais pas. J'ai perdu le compte.
+- Eh bien, voilà.
+
+424
+00:31:33,203 --> 00:31:34,996
+D'accord, tu sais...
+
+425
+00:31:36,076 --> 00:31:38,032
+Pourvu qu'il y en ait d'autres.
+
+426
+00:31:44,884 --> 00:31:46,377
+Oui, Radek. Vas-y.
+
+427
+00:31:46,497 --> 00:31:48,959
+<i>J'ai trouvé comment forcer
+certains verrous de Michael.</i>
+
+428
+00:31:49,079 --> 00:31:51,305
+Super.
+Tu peux arrêter l'autodestruction ?
+
+429
+00:31:51,425 --> 00:31:53,444
+Non, ça va prendre
+un peu plus de temps.
+
+430
+00:31:53,564 --> 00:31:56,038
+Mais j'ai réussi à ouvrir
+les accès à la Porte.
+
+431
+00:31:56,328 --> 00:32:00,084
+C'est complètement inutile.
+Le champ paralysant fonctionne toujours.
+
+432
+00:32:00,678 --> 00:32:02,378
+Et le transporteur de la Porte ?
+
+433
+00:32:02,755 --> 00:32:05,089
+Non, je n'ai pas le contrôle
+non plus.
+
+434
+00:32:06,083 --> 00:32:08,426
+- Bon sang...
+- <i>Désolé, je fais ce que je peux.</i>
+
+435
+00:32:08,586 --> 00:32:10,803
+Michael a mis
+des codes super cryptés...
+
+436
+00:32:10,963 --> 00:32:13,681
+Et le bouclier de la Porte ?
+Tu peux le baisser ?
+
+437
+00:32:14,402 --> 00:32:15,516
+Oui. Ça, je peux.
+
+438
+00:32:16,582 --> 00:32:18,853
+Super. T'es pas obligé
+de jouer le kamikaze.
+
+439
+00:32:20,695 --> 00:32:23,242
+- Pourquoi ?
+- Vole et approche-toi de la Tour,
+
+440
+00:32:23,362 --> 00:32:26,748
+compose le DHD d'une planète,
+Radek baissera le bouclier de la Porte,
+
+441
+00:32:26,868 --> 00:32:29,613
+permettant au vortex de détruire
+le Jumper de Michael... en partie.
+
+442
+00:32:30,391 --> 00:32:32,113
+Ça, c'est un bon plan.
+
+443
+00:32:33,199 --> 00:32:35,047
+- Où vas-tu ?
+- C'est toi qui vas voler.
+
+444
+00:32:35,167 --> 00:32:37,390
+Et je pourrai diriger l'assaut.
+
+445
+00:32:37,510 --> 00:32:40,438
+Tu l'as dit... c'est simple.
+T'as qu'à activer la Porte.
+
+446
+00:32:40,558 --> 00:32:43,103
+- Je crois que je peux le faire.
+- Mollo sur l'accélérateur.
+
+447
+00:32:43,459 --> 00:32:46,411
+Radek, soyez prêt à baisser
+le bouclier à mon signal.
+
+448
+00:32:48,517 --> 00:32:49,517
+D'accord...
+
+449
+00:32:52,807 --> 00:32:54,272
+On a peu de temps.
+
+450
+00:32:54,392 --> 00:32:56,412
+On doit quitter cet endroit.
+
+451
+00:32:57,604 --> 00:32:59,162
+Le temps est compté, Teyla.
+
+452
+00:33:00,871 --> 00:33:02,360
+Je ne comprends pas...
+
+453
+00:33:02,921 --> 00:33:04,690
+Le choix est facile...
+
+454
+00:33:05,272 --> 00:33:07,637
+<i>Au moins, pensez à votre enfant.</i>
+
+455
+00:33:08,825 --> 00:33:11,364
+<i>En restant cachée,
+vous le condamnez à mort.</i>
+
+456
+00:33:11,484 --> 00:33:13,606
+<i>Quelle sorte de mère ferait ça ?</i>
+
+457
+00:33:15,518 --> 00:33:17,202
+<i>Il a une chance de vivre.</i>
+
+458
+00:33:18,510 --> 00:33:20,069
+<i>Vous l'avez tous les deux.</i>
+
+459
+00:33:21,025 --> 00:33:22,679
+Venez avec moi, Teyla.
+
+460
+00:33:23,595 --> 00:33:24,816
+Ayez confiance...
+
+461
+00:33:25,809 --> 00:33:27,642
+Je ne blesserai aucun de vous.
+
+462
+00:33:27,762 --> 00:33:29,758
+Et je ne détruirai pas Atlantis.
+
+463
+00:33:31,452 --> 00:33:32,509
+Je le promets.
+
+464
+00:33:37,022 --> 00:33:39,202
+<i>Arrêtez l'autodestruction.</i>
+
+465
+00:33:41,980 --> 00:33:45,022
+Vous voulez que je vous croie ?
+Alors prouvez-le-moi.
+
+466
+00:33:46,645 --> 00:33:49,993
+<i>Arrêtez l'autodestruction,
+et je viendrai avec vous.</i>
+
+467
+00:34:09,279 --> 00:34:11,507
+Je suis en l'air...
+j'approche de la Tour.
+
+468
+00:34:11,667 --> 00:34:13,467
+Entendu.
+Zelenka, vous êtes prêt ?
+
+469
+00:34:13,844 --> 00:34:14,968
+Quand vous voulez.
+
+470
+00:34:17,793 --> 00:34:19,403
+Michael, vous m'entendez ?
+
+471
+00:34:19,523 --> 00:34:21,936
+Moins de deux minutes.
+On doit y aller.
+
+472
+00:34:22,277 --> 00:34:23,101
+Vraiment.
+
+473
+00:34:25,776 --> 00:34:27,061
+Je vous entends.
+
+474
+00:34:29,659 --> 00:34:31,094
+Vous me décevez.
+
+475
+00:34:32,310 --> 00:34:34,321
+Je vous laisse donc au destin
+de votre choix.
+
+476
+00:34:34,853 --> 00:34:36,670
+<i>Mais je ne pars pas seul.</i>
+
+477
+00:34:37,298 --> 00:34:40,383
+<i>Vous devez savoir
+que j'ai pris l'ADN de votre fils...</i>
+
+478
+00:34:41,026 --> 00:34:43,352
+<i>Le cloner prendra plus de temps,</i>
+
+479
+00:34:43,472 --> 00:34:45,799
+<i>retardant l'exécution de mon plan,</i>
+
+480
+00:34:45,919 --> 00:34:47,559
+<i>mais comme vous le savez,</i>
+
+481
+00:34:48,188 --> 00:34:49,896
+<i>ça me dissuadera pas.</i>
+
+482
+00:34:52,871 --> 00:34:53,924
+Au revoir, Teyla.
+
+483
+00:35:13,239 --> 00:35:14,763
+Qu'est-ce que vous faites ?
+
+484
+00:35:14,974 --> 00:35:16,765
+Je prends un dernier trophée.
+
+485
+00:35:24,500 --> 00:35:25,956
+En position. Prêt à composer.
+
+486
+00:35:26,783 --> 00:35:28,502
+Radek, baissez le bouclier.
+
+487
+00:35:34,326 --> 00:35:35,988
+Bouclier baissé ! Vas-y !
+
+488
+00:36:09,711 --> 00:36:12,669
+- <i>Le champ paralysant est neutralisé !</i>
+- Et l'autodestruction ?
+
+489
+00:36:12,829 --> 00:36:14,671
+Oui, c'est tombé avec le Jumper.
+
+490
+00:36:15,110 --> 00:36:18,258
+Bien. J'arrive.
+Rétablis l'énergie dans la Cité.
+
+491
+00:36:18,418 --> 00:36:19,634
+C'est déjà en cours.
+
+492
+00:36:48,719 --> 00:36:50,011
+Appelez un médecin !
+
+493
+00:36:53,295 --> 00:36:55,332
+Fermez le hangar à Jumpers, Radek !
+
+494
+00:36:56,576 --> 00:36:57,674
+Amelia...
+
+495
+00:37:00,196 --> 00:37:03,011
+- Pouvez-vous vous occuper de Torren ?
+- Bien sûr.
+
+496
+00:37:04,405 --> 00:37:06,073
+Que personne ne sorte.
+
+497
+00:39:50,215 --> 00:39:53,034
+Comment va le plus irascible
+des patients du Dr Keller ?
+
+498
+00:39:53,154 --> 00:39:54,552
+C'est une blague.
+
+499
+00:39:54,672 --> 00:39:56,906
+On vous laisse sortir,
+et je dois encore rester ?
+
+500
+00:39:57,026 --> 00:39:59,122
+J'ai juste dévalé
+une volée d'escaliers.
+
+501
+00:39:59,242 --> 00:40:02,155
+Vous, mon ami,
+êtes tombé de bien plus haut.
+
+502
+00:40:02,275 --> 00:40:04,809
+Par chance, vous n'avez qu'une commotion
+et pas le cou rompu.
+
+503
+00:40:04,929 --> 00:40:06,421
+Rien. Ça va.
+
+504
+00:40:06,541 --> 00:40:07,570
+Je le sais.
+
+505
+00:40:08,304 --> 00:40:09,998
+Mais écoutez le docteur.
+
+506
+00:40:11,296 --> 00:40:12,857
+Bref, je suis passé
+
+507
+00:40:12,977 --> 00:40:15,546
+vous féliciter
+de votre travail exemplaire.
+
+508
+00:40:16,271 --> 00:40:19,957
+Votre courage face au danger
+n'arrête pas de m'éblouir et,
+
+509
+00:40:20,420 --> 00:40:23,002
+si j'ose dire, de m'inspirer.
+
+510
+00:40:26,487 --> 00:40:27,381
+Merci.
+
+511
+00:40:28,648 --> 00:40:29,942
+Reposez-vous.
+
+512
+00:40:30,062 --> 00:40:32,628
+Pas de souci. Votre équipe n'ira
+nulle part sans vous.
+
+513
+00:40:32,748 --> 00:40:34,026
+Ça me rappelle.
+
+514
+00:40:36,308 --> 00:40:39,435
+L'attaque de Michael
+est pas vraiment une mission,
+
+515
+00:40:40,326 --> 00:40:41,854
+mais j'ai fait un rapport.
+
+516
+00:40:44,549 --> 00:40:45,588
+Splendide.
+
+517
+00:40:46,489 --> 00:40:47,318
+Merci.
+
+518
+00:40:51,300 --> 00:40:52,708
+<i>Rapport de mission...</i>
+
+519
+00:40:53,000 --> 00:40:54,799
+<i>Michael a envahi Atlantis,</i>
+
+520
+00:40:55,442 --> 00:40:56,976
+<i>a essayé de la faire sauter.</i>
+
+521
+00:40:57,096 --> 00:40:58,407
+<i>On l'a stoppé.</i>
+
+522
+00:40:58,913 --> 00:41:00,143
+<i>Fin du rapport.</i>
+
+523
+00:41:06,813 --> 00:41:08,388
+Regarde bien,
+
+524
+00:41:08,508 --> 00:41:10,563
+tu ne verras bientôt
+que des feux arrière.
+
+525
+00:41:10,683 --> 00:41:12,261
+Bien essayé, Speed Racer.
+
+526
+00:41:19,222 --> 00:41:21,836
+Désolé.
+On était seulement...
+
+527
+00:41:21,956 --> 00:41:23,756
+- Qui gagne ?
+- Moi.
+
+528
+00:41:24,330 --> 00:41:25,836
+Toujours des coliques ?
+
+529
+00:41:25,956 --> 00:41:28,496
+Il est resté éveillé toute la journée.
+Il refuse la sieste.
+
+530
+00:41:28,616 --> 00:41:30,611
+Pas étonnant.
+Il a dormi toute la nuit.
+
+531
+00:41:31,291 --> 00:41:34,465
+Oui, c'est remarquable.
+Il a dormi pendant tout le calvaire.
+
+532
+00:41:34,585 --> 00:41:37,868
+Il n'a pas fait de nuit complète
+depuis... jamais.
+
+533
+00:41:38,376 --> 00:41:40,996
+Il peut se reposer tranquille,
+Michael est enfin hors-jeu.
+
+534
+00:41:41,316 --> 00:41:43,614
+Malheureusement,
+d'autres prendront sa place.
+
+535
+00:41:43,734 --> 00:41:44,750
+J'en suis sûre.
+
+536
+00:41:44,910 --> 00:41:48,805
+Super-maman veille sur lui.
+Pour moi, il est en de bonnes mains.
+
+537
+00:41:49,529 --> 00:41:53,056
+Torren, tu veux me voir flanquer
+une raclée à Rodney ?
+
+538
+00:41:54,336 --> 00:41:57,833
+En fait, il vaudrait mieux lui couvrir
+les yeux, ça va être horrible.
+
+539
+00:41:58,546 --> 00:41:59,789
+Prêt ?
+
+540
+00:42:00,131 --> 00:42:01,475
+Un... deux...
+

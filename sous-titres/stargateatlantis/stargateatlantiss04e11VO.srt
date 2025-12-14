@@ -1,0 +1,3447 @@
+1
+00:00:00,574 --> 00:00:02,210
+<i>Previously on</i> Stargate Atlantis.
+
+2
+00:00:04,800 --> 00:00:08,011
+I believe you refer to our enemy
+as the Replicators.
+
+3
+00:00:09,510 --> 00:00:13,140
+They have begun to annihilate
+human worlds.
+
+4
+00:00:13,714 --> 00:00:16,470
+We need to know if you can shut down
+the Replicator attack code on your own.
+
+5
+00:00:16,592 --> 00:00:19,397
+I've been looking into that,
+and it's not very promising.
+
+6
+00:00:19,562 --> 00:00:21,774
+<i>But with this Wraith's help,
+you think you could do it?</i>
+
+7
+00:00:23,391 --> 00:00:25,236
+- Take this.
+- What's this?
+
+8
+00:00:25,396 --> 00:00:27,906
+It's the core drive
+of a ship's tracking system.
+
+9
+00:00:28,219 --> 00:00:29,243
+If this works,
+
+10
+00:00:29,575 --> 00:00:32,379
+we should be able to track
+every Aurora-class Replicator ship
+
+11
+00:00:32,501 --> 00:00:34,180
+in the galaxy in real-time.
+
+12
+00:00:36,027 --> 00:00:37,873
+<i>My duplicate did say
+they were building more.</i>
+
+13
+00:00:39,440 --> 00:00:40,479
+A lot more!
+
+14
+00:00:44,984 --> 00:00:47,622
+- Don't worry, we're ahead of schedule.
+- I know.
+
+15
+00:00:47,759 --> 00:00:50,027
+All the settlements we've been assigned
+have been evacuated.
+
+16
+00:00:50,164 --> 00:00:51,955
+I know, I know. It's just that...
+
+17
+00:00:52,078 --> 00:00:54,443
+most of the planets that are
+in the Replicators' path are people
+
+18
+00:00:54,566 --> 00:00:56,351
+that we've had almost no contact with,
+
+19
+00:00:56,479 --> 00:00:58,769
+so I need you and Teyla out there
+as much as possible.
+
+20
+00:00:58,931 --> 00:01:02,644
+I think it might be the `flu. She's
+been looking a little green lately.
+
+21
+00:01:03,626 --> 00:01:04,606
+I am fine.
+
+22
+00:01:05,362 --> 00:01:07,022
+Where are we going to now?
+
+23
+00:01:07,494 --> 00:01:09,255
+M9R-373.
+
+24
+00:01:10,296 --> 00:01:12,622
+The Sions. It should be interesting.
+
+25
+00:01:12,841 --> 00:01:14,716
+Look, I'm sorry
+we're having to go out so much.
+
+26
+00:01:14,836 --> 00:01:16,490
+I know you don't feel so hot, but
+
+27
+00:01:16,610 --> 00:01:19,139
+you're the one
+with all the contacts out there, so...
+
+28
+00:01:19,290 --> 00:01:21,398
+It's all right.
+I'm feeling much better now.
+
+29
+00:01:21,548 --> 00:01:22,970
+<i>Offworld activation.</i>
+
+30
+00:01:27,602 --> 00:01:29,392
+Must be Lieutenant Kemp's team.
+
+31
+00:01:31,689 --> 00:01:34,162
+<i>Receiving video transmission.
+Coming in now, Colonel.</i>
+
+32
+00:01:40,744 --> 00:01:42,564
+Lieutenant.
+Looks like things are going well.
+
+33
+00:01:43,380 --> 00:01:45,323
+<i>Most of the settlement's
+on their way through,</i>
+
+34
+00:01:45,443 --> 00:01:47,815
+<i>but a good number of them
+have decided to stay behind.</i>
+
+35
+00:01:47,966 --> 00:01:49,893
+<i>I'm not sure they believe us, Sir.</i>
+
+36
+00:01:50,016 --> 00:01:52,777
+<i>I'm requesting Teyla come back and try
+to talk some sense into the stragglers.</i>
+
+37
+00:01:52,900 --> 00:01:54,376
+<i>I'm not gettin' anywhere with `em.</i>
+
+38
+00:01:54,513 --> 00:01:56,665
+Hell. I don't think we can do that.
+
+39
+00:01:56,785 --> 00:01:59,342
+The Replicator ship's gonna be there
+within a half hour.
+
+40
+00:01:59,541 --> 00:02:01,454
+<i>I don't know what to do. They...</i>
+
+41
+00:02:01,659 --> 00:02:02,930
+<i>Incoming!</i>
+
+42
+00:02:05,103 --> 00:02:06,670
+<i>Too late! They're already here!</i>
+
+43
+00:02:06,832 --> 00:02:08,297
+Get your men through the Gate!
+
+44
+00:02:08,718 --> 00:02:10,544
+<i>I can't! There's no way through...</i>
+
+45
+00:02:11,774 --> 00:02:12,926
+<i>We lost transmission.</i>
+
+46
+00:02:13,332 --> 00:02:14,617
+Dial `em back.
+
+47
+00:02:17,869 --> 00:02:20,357
+- Can't get a lock.
+- They must have taken out the Gate.
+
+48
+00:02:20,521 --> 00:02:22,462
+How many people
+were left on that settlement?
+
+49
+00:02:22,612 --> 00:02:24,307
+Just under two thousand.
+
+50
+00:02:34,524 --> 00:02:37,759
+The Projet-SG & SG-66 Teams
+
+51
+00:02:42,084 --> 00:02:45,514
+present:
+
+52
+00:02:48,246 --> 00:02:50,211
+Season 4 Episode 11
+Be All My Sins Remember'd (v. 1.0)
+
+53
+00:02:52,917 --> 00:02:55,787
+Transcription by:
+
+54
+00:02:57,851 --> 00:03:01,011
+swsub.com & Callie Sullivan
+
+55
+00:03:03,638 --> 00:03:06,512
+Timing by:
+
+56
+00:03:11,675 --> 00:03:14,636
+Golgi, Linwelin, Malikay,
+Obusco, Ricana, Shaft.
+
+57
+00:03:26,576 --> 00:03:28,918
+www.projet-sg.net
+www.seriestele.net
+
+58
+00:03:41,541 --> 00:03:43,905
+- Both ships at the same time.
+- This is a first.
+
+59
+00:03:44,026 --> 00:03:45,977
+This is the first time we've need them.
+
+60
+00:03:47,686 --> 00:03:49,709
+Well, since I've been here.
+
+61
+00:03:54,949 --> 00:03:56,160
+- Colonel.
+- Colonel.
+
+62
+00:03:56,409 --> 00:03:57,591
+- Colonel.
+- Colonels.
+
+63
+00:03:57,939 --> 00:03:58,742
+Colonel.
+
+64
+00:03:58,865 --> 00:03:59,673
+Colonels.
+
+65
+00:04:00,285 --> 00:04:01,286
+Seriously?
+
+66
+00:04:02,517 --> 00:04:04,445
+- Good flight?
+- Long flight.
+
+67
+00:04:04,633 --> 00:04:06,790
+- We'll make it worth your while.
+- <i>That's what I hear.</i>
+
+68
+00:04:06,992 --> 00:04:09,079
+You have a way of tracking
+the Replicator ships?
+
+69
+00:04:09,199 --> 00:04:09,930
+<i>We do.</i>
+
+70
+00:04:10,059 --> 00:04:12,146
+That'll make finding and
+destroying them a lot easier.
+
+71
+00:04:12,332 --> 00:04:14,540
+Why don't you come into my office?
+We'll get you briefed.
+
+72
+00:04:17,307 --> 00:04:20,913
+It is this recent discovery
+of the essential duality
+
+73
+00:04:21,038 --> 00:04:22,877
+of this particular stem
+of the nano sub-code
+
+74
+00:04:22,997 --> 00:04:25,294
+that has opened up
+a whole world of possibilities
+
+75
+00:04:25,419 --> 00:04:26,778
+when it comes to the expedient
+
+76
+00:04:26,899 --> 00:04:29,354
+and permanent deactivation
+of the internanite bonds...
+
+77
+00:04:29,520 --> 00:04:30,515
+Rodney...
+
+78
+00:04:30,674 --> 00:04:32,774
+I'll let you know when
+I'll take questions, thank you.
+
+79
+00:04:32,895 --> 00:04:35,861
+Have you created
+an anti-Replicator weapon or not?
+
+80
+00:04:36,022 --> 00:04:37,325
+If you just let me continue,
+
+81
+00:04:37,450 --> 00:04:39,842
+I think you'd have a better
+understanding of the complexity...
+
+82
+00:04:40,069 --> 00:04:41,198
+Yes or no, Doctor.
+
+83
+00:04:42,759 --> 00:04:44,120
+Well, no.
+
+84
+00:04:44,614 --> 00:04:47,205
+- All right, we move on to plan B.
+- Just like that?
+
+85
+00:04:47,409 --> 00:04:50,249
+The Replicators are destroying
+every human colony they can find
+
+86
+00:04:50,370 --> 00:04:52,361
+in an attempt to wipe out
+the Wraith's food supply.
+
+87
+00:04:52,482 --> 00:04:53,512
+We can't wait.
+
+88
+00:04:53,738 --> 00:04:54,907
+We have to act now.
+
+89
+00:04:55,209 --> 00:04:56,879
+But plan B, it's not a good plan.
+
+90
+00:04:57,285 --> 00:04:58,090
+Oh, no?
+
+91
+00:04:58,211 --> 00:05:00,403
+Sure, the Apollo and the Daedalus
+have been retrofitted
+
+92
+00:05:00,523 --> 00:05:02,346
+with the new Asgard plasma beam weapons,
+
+93
+00:05:02,507 --> 00:05:05,545
+which, given, are very powerful, they
+still can't destroy the Replicators.
+
+94
+00:05:05,665 --> 00:05:08,102
+We don't have to destroy them,
+we just destroy their ships.
+
+95
+00:05:08,222 --> 00:05:09,388
+From what I understand,
+
+96
+00:05:09,508 --> 00:05:11,982
+once they're exposed
+to the harsh environment of space,
+
+97
+00:05:12,103 --> 00:05:13,608
+they'll essentially be neutralized.
+
+98
+00:05:13,728 --> 00:05:16,613
+"Essentially neutralized" and
+"neutralized" are very different things.
+
+99
+00:05:16,897 --> 00:05:19,457
+Back when we blasted Niam
+into space, he froze solid.
+
+100
+00:05:19,577 --> 00:05:21,580
+We didn't have a problem till we
+
+101
+00:05:21,700 --> 00:05:23,492
+- warmed him up.
+- <i>That's what I'm saying.</i>
+
+102
+00:05:24,901 --> 00:05:27,035
+Your way leaves
+Replicator cells inactive,
+
+103
+00:05:27,155 --> 00:05:29,415
+just waiting around
+for someone to reactivate them.
+
+104
+00:05:29,536 --> 00:05:30,952
+My way shuts them down for good.
+
+105
+00:05:31,073 --> 00:05:33,042
+But our way is actually operational.
+
+106
+00:05:33,672 --> 00:05:34,917
+Come to think of it,
+
+107
+00:05:35,039 --> 00:05:37,005
+what exactly is your way?
+
+108
+00:05:37,183 --> 00:05:38,428
+From what I understand,
+
+109
+00:05:38,548 --> 00:05:40,547
+you haven't even gotten
+your programming done yet,
+
+110
+00:05:40,667 --> 00:05:42,133
+let alone a delivery method.
+
+111
+00:05:42,297 --> 00:05:44,078
+You didn't let me finish
+my presentation.
+
+112
+00:05:44,218 --> 00:05:45,806
+I think I got the gist of it.
+
+113
+00:05:46,764 --> 00:05:47,566
+Really?
+
+114
+00:05:48,134 --> 00:05:51,851
+No, I'm just wondering when the Colonel
+here became a math and physics expert.
+
+115
+00:05:52,014 --> 00:05:55,175
+Doctor, you came into this meeting
+knowing that you had nothing,
+
+116
+00:05:55,295 --> 00:05:57,190
+but instead of just
+saying that like a man,
+
+117
+00:05:57,353 --> 00:05:58,927
+you thought that you'd dazzle us
+
+118
+00:05:59,106 --> 00:06:01,738
+with a lot of fancy talk and think
+that we were too dumb to notice.
+
+119
+00:06:01,900 --> 00:06:03,949
+- Now you're questioning my manhood?
+- Enough.
+
+120
+00:06:04,111 --> 00:06:05,895
+- No, he just told...
+- Rodney.
+
+121
+00:06:06,456 --> 00:06:07,242
+Move on.
+
+122
+00:06:09,485 --> 00:06:10,218
+Look,
+
+123
+00:06:10,595 --> 00:06:12,409
+I think we've got
+this tracking system down.
+
+124
+00:06:12,529 --> 00:06:15,002
+We can peg where they're going to be
+with a 30-minute window,
+
+125
+00:06:15,174 --> 00:06:17,381
+and given current data,
+we've got at least 12 hours
+
+126
+00:06:17,501 --> 00:06:20,470
+before any of their ships are even
+close to an inhabited planet.
+
+127
+00:06:20,751 --> 00:06:22,800
+Give me and the Wraith, like, 10 hours
+
+128
+00:06:22,962 --> 00:06:24,544
+to get the shut-down program working.
+
+129
+00:06:24,664 --> 00:06:27,172
+If I don't,
+then you can just feel free to go ahead
+
+130
+00:06:27,292 --> 00:06:29,142
+and open up on them
+with your beam weapons.
+
+131
+00:06:29,799 --> 00:06:30,612
+<i>All right.</i>
+
+132
+00:06:31,679 --> 00:06:33,270
+You have 10 hours. Go.
+
+133
+00:06:38,690 --> 00:06:40,540
+I don't understand
+how you guys put up with...
+
+134
+00:06:40,660 --> 00:06:43,227
+If you ever talk like that to someone
+under my command again,
+
+135
+00:06:43,347 --> 00:06:46,241
+you will not be welcome on this base,
+Colonel. Is that clear?
+
+136
+00:06:48,598 --> 00:06:49,331
+Yes,
+
+137
+00:06:49,957 --> 00:06:50,735
+it is.
+
+138
+00:06:51,497 --> 00:06:52,329
+Good.
+
+139
+00:06:52,940 --> 00:06:54,184
+We're done here.
+
+140
+00:06:54,753 --> 00:06:55,733
+Thank you.
+
+141
+00:06:57,382 --> 00:06:59,855
+- Why would you lie to them?
+- I didn't lie to them.
+
+142
+00:07:00,173 --> 00:07:03,553
+It is most improbable that
+we complete our task within 10 hours.
+
+143
+00:07:03,673 --> 00:07:06,630
+That is quitter talk.
+Look, you don't know me.
+
+144
+00:07:06,750 --> 00:07:09,740
+This is when I'm at my best, this is
+when I shine... Impossible deadlines.
+
+145
+00:07:09,860 --> 00:07:12,940
+I ever tell you about the time I got a
+damaged Ancient hyperdrive system online
+
+146
+00:07:13,060 --> 00:07:15,536
+moments before me and my crew
+were incinerated by a super volcano?
+
+147
+00:07:15,670 --> 00:07:17,239
+Yes, you have.
+
+148
+00:07:17,359 --> 00:07:19,489
+Well, there you go.
+See, I work best under pressure.
+
+149
+00:07:19,609 --> 00:07:21,490
+Then perhaps
+I should threaten to feed on you
+
+150
+00:07:21,610 --> 00:07:23,363
+if we do not complete
+the coding in time.
+
+151
+00:07:23,483 --> 00:07:25,772
+Easy, easy.
+He's just kidding.
+
+152
+00:07:26,295 --> 00:07:28,116
+Just tell them you were joking.
+
+153
+00:07:30,294 --> 00:07:31,062
+Right.
+
+154
+00:07:35,417 --> 00:07:37,063
+I'll work in this area.
+
+155
+00:07:42,855 --> 00:07:43,913
+Time's up.
+
+156
+00:07:44,421 --> 00:07:45,421
+So soon?
+
+157
+00:07:45,794 --> 00:07:48,316
+- I guess that means you're not ready.
+- No, I'm not.
+
+158
+00:07:48,436 --> 00:07:50,590
+We're going with plan B.
+You want to go for a ride?
+
+159
+00:07:50,710 --> 00:07:53,396
+No, I'll stay here.
+This still needs to get done.
+
+160
+00:07:53,516 --> 00:07:54,542
+Good luck.
+
+161
+00:08:06,483 --> 00:08:08,618
+Daedalus, this is the Apollo,
+our scans are clear.
+
+162
+00:08:08,738 --> 00:08:11,043
+We don't have any other contacts.
+Can you confirm?
+
+163
+00:08:11,163 --> 00:08:12,741
+<i>Copy that. We have the same reading.</i>
+
+164
+00:08:13,031 --> 00:08:14,824
+Colonel, how long
+before our guest arrives?
+
+165
+00:08:14,944 --> 00:08:16,487
+Should be any second now.
+
+166
+00:08:16,607 --> 00:08:17,898
+Won't they be surprised.
+
+167
+00:08:18,078 --> 00:08:19,563
+We're going weapons hot, Apollo.
+
+168
+00:08:19,746 --> 00:08:21,496
+<i>Copy that.
+We have done the same.</i>
+
+169
+00:08:21,665 --> 00:08:24,265
+I'm detecting
+a hyperspace window opening.
+
+170
+00:08:24,877 --> 00:08:27,286
+Stand by
+to fire forward beam weapons.
+
+171
+00:08:32,548 --> 00:08:33,418
+Fire.
+
+172
+00:08:47,843 --> 00:08:49,427
+Contact has been neutralized.
+
+173
+00:08:52,611 --> 00:08:54,499
+I wish I'd had these
+a few years ago.
+
+174
+00:08:54,619 --> 00:08:57,234
+Well, the first attack is easy.
+They didn't know we were coming.
+
+175
+00:08:57,354 --> 00:09:00,275
+The Replicators have proven
+very effective in changing strategies
+
+176
+00:09:00,476 --> 00:09:01,734
+<i>when faced with failure.</i>
+
+177
+00:09:01,854 --> 00:09:04,298
+Still, we took that ship down
+without breaking a sweat.
+
+178
+00:09:04,418 --> 00:09:06,211
+Right.
+One down...
+
+179
+00:09:07,106 --> 00:09:08,208
+37 to go.
+
+180
+00:09:15,826 --> 00:09:17,650
+- Welcome back.
+- Were in the neighborhood.
+
+181
+00:09:17,806 --> 00:09:20,248
+- Thought I'd stop by, resupply.
+- How's it going out there?
+
+182
+00:09:20,368 --> 00:09:23,181
+Splitting us up was a good call.
+The Daedalus has downed another 3 ships.
+
+183
+00:09:23,301 --> 00:09:25,377
+Ellis got another two.
+That brings us to seven.
+
+184
+00:09:25,562 --> 00:09:26,710
+That's not bad at all.
+
+185
+00:09:26,830 --> 00:09:29,550
+I'll need about an hour to get what
+we need, then we'll get back out there.
+
+186
+00:09:29,670 --> 00:09:32,174
+Well, there's been
+a little change of plans.
+
+187
+00:09:32,294 --> 00:09:33,654
+- Really?
+- Yeah.
+
+188
+00:09:34,488 --> 00:09:36,864
+<i>- They're falling back?</i>
+- Safety in numbers.
+
+189
+00:09:36,993 --> 00:09:39,413
+Evidently, they haven't figured out
+how we're tracking them and...
+
+190
+00:09:39,547 --> 00:09:41,620
+Or they haven't figured out
+how to stop us.
+
+191
+00:09:41,740 --> 00:09:43,558
+Either way,
+they wanna stop losing ships.
+
+192
+00:09:43,678 --> 00:09:45,364
+They're headed back
+to their homeworld.
+
+193
+00:09:45,540 --> 00:09:47,157
+- That's right.
+<i>- Well, that's good.</i>
+
+194
+00:09:47,334 --> 00:09:50,327
+<i>They're finally all in one place.
+We can wipe them out all at once.</i>
+
+195
+00:09:50,489 --> 00:09:51,827
+Ideally, yes,
+
+196
+00:09:51,947 --> 00:09:54,680
+but our two ships
+versus an entire Replicator fleet...
+
+197
+00:09:54,800 --> 00:09:57,615
+Not to mention the drones
+they'll be firing from the surface.
+
+198
+00:09:57,741 --> 00:09:59,605
+The new weapons we have
+are very effective,
+
+199
+00:09:59,725 --> 00:10:01,889
+but they are no match
+for that kind of fire power.
+
+200
+00:10:02,428 --> 00:10:03,932
+<i>Well, sounds like the perfect time</i>
+
+201
+00:10:04,052 --> 00:10:07,317
+<i>to finally use that killer program
+you've been working on, Doctor.</i>
+
+202
+00:10:08,676 --> 00:10:09,432
+Yeah.
+
+203
+00:10:09,552 --> 00:10:13,156
+<i>Remember when you said all you needed
+was 10 hours to finish it?</i>
+
+204
+00:10:13,675 --> 00:10:15,729
+- Vaguely.
+<i>- Well, it's been 10 hours...</i>
+
+205
+00:10:15,914 --> 00:10:18,027
+<i>And a week.
+Are you finished?</i>
+
+206
+00:10:18,147 --> 00:10:20,993
+Well, I'm just...
+dotting some "i"s, crossing some "t"s.
+
+207
+00:10:21,113 --> 00:10:23,363
+Whatever our plan is,
+we need to act quickly.
+
+208
+00:10:23,537 --> 00:10:27,087
+Our intel suggests they're putting all
+their resources into building new ships.
+
+209
+00:10:27,425 --> 00:10:30,173
+I figure we have less than a week before
+they head back out into the galaxy,
+
+210
+00:10:30,293 --> 00:10:31,640
+and in much greater numbers.
+
+211
+00:10:31,783 --> 00:10:34,495
+If they start traveling in packs, our
+kill rate is gonna drop drastically.
+
+212
+00:10:34,615 --> 00:10:35,865
+We can't let that happen.
+
+213
+00:10:36,270 --> 00:10:38,423
+We need to take them out
+while they're all in one place,
+
+214
+00:10:38,543 --> 00:10:39,993
+and we need to do it quickly.
+
+215
+00:10:44,635 --> 00:10:46,865
+Hey, I should
+just get back to my lab.
+
+216
+00:10:55,509 --> 00:10:58,426
+I have to tell them. I have
+to tell them we don't have anything.
+
+217
+00:10:58,546 --> 00:10:59,990
+This is most troubling.
+
+218
+00:11:00,110 --> 00:11:01,694
+Ellis is gonna love this.
+
+219
+00:11:02,322 --> 00:11:03,377
+I don't get it.
+
+220
+00:11:03,497 --> 00:11:06,546
+We tried reconfiguring your stand-down
+code, we tried programming the nanites
+
+221
+00:11:06,666 --> 00:11:08,750
+to turn themselves off.
+Something should have worked.
+
+222
+00:11:08,926 --> 00:11:11,679
+They are a very complex
+and ingenious design.
+
+223
+00:11:11,799 --> 00:11:13,740
+Yeah, well, I thought I was ingeniouser.
+
+224
+00:11:13,860 --> 00:11:16,831
+Yes, I know that's not
+a word, Mr. Helpful.
+
+225
+00:11:17,905 --> 00:11:19,116
+All right, look,
+
+226
+00:11:19,236 --> 00:11:22,991
+maybe we could figure out some way
+to use the anti-Replicator guns somehow.
+
+227
+00:11:23,236 --> 00:11:26,707
+From what you have told me, they have
+almost certainly become immune to it.
+
+228
+00:11:26,923 --> 00:11:29,797
+Even if they haven't, we'd still have
+to get them all in one place.
+
+229
+00:11:31,983 --> 00:11:33,041
+What is it?
+
+230
+00:11:35,146 --> 00:11:37,912
+I think I've got my first
+good idea in three weeks.
+
+231
+00:11:42,625 --> 00:11:44,122
+<i>Our old anti-Replicator technology</i>
+
+232
+00:11:44,284 --> 00:11:47,553
+relied on disrupting the bonds
+between each individual nanite cell.
+
+233
+00:11:47,673 --> 00:11:50,114
+They just collapsed
+in a pile of dust, right?
+
+234
+00:11:50,298 --> 00:11:52,776
+We're familiar
+with the technology, yes...
+
+235
+00:11:52,983 --> 00:11:54,113
+Right, well,
+
+236
+00:11:54,233 --> 00:11:56,302
+the thinking is always
+to continue down that line...
+
+237
+00:11:56,422 --> 00:11:58,529
+To break the bonds,
+to turn them off,
+
+238
+00:11:58,841 --> 00:12:02,083
+sever their connections to one another,
+because dust we can deal with, right?
+
+239
+00:12:02,448 --> 00:12:03,184
+Rodney.
+
+240
+00:12:04,136 --> 00:12:05,229
+We do the opposite.
+
+241
+00:12:05,596 --> 00:12:07,758
+Instead of severing their connections,
+we significantly
+
+242
+00:12:07,878 --> 00:12:09,614
+dial up their attraction to one another.
+
+243
+00:12:09,734 --> 00:12:12,974
+We turn each cell into an incredibly
+powerful nanite magnet.
+
+244
+00:12:13,114 --> 00:12:15,802
+You know, one cell attracts
+another cell, those 2 attract 2 more,
+
+245
+00:12:15,922 --> 00:12:18,844
+and as more and more nanite cells
+bond to the core group,
+
+246
+00:12:18,964 --> 00:12:21,408
+they become stronger and stronger
+and stronger, to the point where
+
+247
+00:12:21,528 --> 00:12:23,863
+every Replicator cell on the planet,
+in orbit, all of them,
+
+248
+00:12:23,983 --> 00:12:26,934
+are amassed
+in this giant, super-dense blob.
+
+249
+00:12:29,047 --> 00:12:31,817
+A super dense-blob?
+That's your great idea?
+
+250
+00:12:32,444 --> 00:12:34,429
+It is, yes, actually.
+
+251
+00:12:35,167 --> 00:12:36,765
+What do we do with the blob, then?
+
+252
+00:12:36,885 --> 00:12:40,956
+Aren't we in danger of creating
+some Godzilla-sized super-Replicator?
+
+253
+00:12:41,076 --> 00:12:42,797
+No. At least not at first.
+
+254
+00:12:43,009 --> 00:12:44,791
+<i>This is not
+their normal form of bonding.</i>
+
+255
+00:12:44,970 --> 00:12:47,450
+It will take them some time to adapt,
+to figure out how to function
+
+256
+00:12:47,570 --> 00:12:49,698
+- within the new parameters.
+<i>- How much time?</i>
+
+257
+00:12:49,818 --> 00:12:52,008
+- Well, I mean, I'd hate to speculate.
+- Since when?
+
+258
+00:12:52,643 --> 00:12:54,917
+It doesn't matter anyways,
+because, long before that happens,
+
+259
+00:12:55,037 --> 00:12:58,191
+they're gonna fuse together so tightly,
+they will be rendered essentially inert.
+
+260
+00:12:58,311 --> 00:13:00,810
+Remember, this bond is occurring
+on a subspace level...
+
+261
+00:13:00,986 --> 00:13:04,092
+Which helps get them past the normal
+repulsive force between nuclei...
+
+262
+00:13:04,212 --> 00:13:05,703
+To the point where their electrons
+
+263
+00:13:05,865 --> 00:13:08,644
+are fusing with their protons, and once
+that starts happening, they're toast.
+
+264
+00:13:08,764 --> 00:13:11,075
+Yeah, but you're talking about
+neutron star levels of density.
+
+265
+00:13:11,248 --> 00:13:12,373
+Precisely.
+
+266
+00:13:15,334 --> 00:13:16,843
+It sounds crazy, but...
+
+267
+00:13:17,301 --> 00:13:18,315
+this could work.
+
+268
+00:13:18,435 --> 00:13:20,185
+Well, how do we make it work, then?
+
+269
+00:13:20,311 --> 00:13:23,003
+Just upload a new command
+into their base code?
+
+270
+00:13:24,247 --> 00:13:25,397
+I have a better idea.
+
+271
+00:13:31,028 --> 00:13:32,471
+- What's this?
+- This...
+
+272
+00:13:32,591 --> 00:13:34,753
+this has been in storage
+since we found it a while ago.
+
+273
+00:13:34,873 --> 00:13:36,979
+The Ancients used it
+as part of their research
+
+274
+00:13:37,099 --> 00:13:39,620
+into the creation
+of human form Replicators.
+
+275
+00:13:39,874 --> 00:13:41,319
+What are you suggesting?
+
+276
+00:13:41,484 --> 00:13:44,831
+We have the technology,
+the understanding of nanite coding.
+
+277
+00:13:44,951 --> 00:13:47,310
+We have the Ancients' blueprints,
+for crying out loud.
+
+278
+00:13:47,497 --> 00:13:49,064
+You want to make your own Replicator?
+
+279
+00:13:49,184 --> 00:13:50,266
+Not a whole one.
+
+280
+00:13:50,386 --> 00:13:53,138
+Just a block of nanite cells,
+say, yay big...
+
+281
+00:13:53,258 --> 00:13:56,062
+- Just enough to get the ball rolling.
+- I don't know, Rodney...
+
+282
+00:13:56,182 --> 00:13:58,809
+I'm not talking about creating anything
+with normal Replicator abilities.
+
+283
+00:13:58,997 --> 00:14:01,251
+Just a group of nanite cells
+that can serve as a platform
+
+284
+00:14:01,371 --> 00:14:03,199
+for us to upload
+the new bonding program.
+
+285
+00:14:03,787 --> 00:14:05,951
+We take it to the Replicator homeworld,
+we switch it on,
+
+286
+00:14:06,071 --> 00:14:09,476
+we beam it into a populated area, and we
+sit back and watch. Couldn't be easier.
+
+287
+00:14:12,217 --> 00:14:14,647
+- There is one problem.
+- Only one?
+
+288
+00:14:14,991 --> 00:14:17,555
+The Replicators on the planet will be
+affected quickly, but there'll be
+
+289
+00:14:17,686 --> 00:14:19,455
+a definite delay
+until there's enough mass
+
+290
+00:14:19,577 --> 00:14:21,397
+to attract the nanite cells in orbit.
+
+291
+00:14:21,517 --> 00:14:23,519
+So those ships will have
+plenty of time to escape.
+
+292
+00:14:23,663 --> 00:14:25,200
+Unless we disable or destroy them.
+
+293
+00:14:25,576 --> 00:14:27,452
+They have 30 ships, we have two.
+
+294
+00:14:27,870 --> 00:14:29,486
+If we don't disable them, they're gonna
+
+295
+00:14:29,606 --> 00:14:31,513
+fly away, lay low
+and replicate a new army.
+
+296
+00:14:31,633 --> 00:14:33,166
+<i>30 ships versus two.</i>
+
+297
+00:14:33,508 --> 00:14:34,459
+Can't be done.
+
+298
+00:14:37,812 --> 00:14:39,714
+We might be able to get more ships.
+
+299
+00:14:43,115 --> 00:14:46,262
+Depending on what has happened
+since I have been in captivity here,
+
+300
+00:14:47,015 --> 00:14:50,210
+I can easily bring
+another 12 ships to the battle.
+
+301
+00:14:50,464 --> 00:14:51,476
+<i>12 ships!</i>
+
+302
+00:14:51,638 --> 00:14:53,588
+Willing to fight shoulder to shoulder?
+
+303
+00:14:53,765 --> 00:14:57,271
+For a chance to destroy the Replicators
+once and for all...
+
+304
+00:14:57,633 --> 00:14:58,784
+of course.
+
+305
+00:14:59,562 --> 00:15:02,028
+It at least brings
+the odds down to two to one.
+
+306
+00:15:02,352 --> 00:15:05,281
+An alliance like this
+must be negotiated.
+
+307
+00:15:07,340 --> 00:15:09,571
+I will need to personally convince them
+
+308
+00:15:09,846 --> 00:15:12,163
+that this is
+the proper course of action.
+
+309
+00:15:36,509 --> 00:15:37,469
+Sit down.
+
+310
+00:15:42,522 --> 00:15:44,287
+First sign you cross us...
+
+311
+00:15:44,407 --> 00:15:45,283
+I die.
+
+312
+00:15:45,862 --> 00:15:46,712
+I know.
+
+313
+00:16:06,784 --> 00:16:08,923
+Well, this is different.
+
+314
+00:16:10,679 --> 00:16:12,395
+Receiving transmission...
+
+315
+00:16:14,376 --> 00:16:16,060
+<i>Docking instructions.</i>
+
+316
+00:16:16,918 --> 00:16:18,771
+All right, let's get this over with.
+
+317
+00:16:43,658 --> 00:16:44,742
+Now what?
+
+318
+00:16:48,086 --> 00:16:49,302
+You open the door.
+
+319
+00:16:54,201 --> 00:16:57,002
+Perhaps we should remove these.
+
+320
+00:16:58,683 --> 00:17:00,647
+<i>I think it sends the wrong message,</i>
+
+321
+00:17:00,958 --> 00:17:02,204
+don't you?
+
+322
+00:17:02,587 --> 00:17:03,983
+This is a mistake.
+
+323
+00:17:05,088 --> 00:17:06,428
+We need his help.
+
+324
+00:17:09,776 --> 00:17:11,754
+I've got a bad feeling about this.
+
+325
+00:17:12,225 --> 00:17:14,903
+Well, we're here, let's see it through.
+
+326
+00:17:22,307 --> 00:17:25,033
+Whoa, whoa, whoa, whoa.
+Take it easy, guys...
+
+327
+00:17:43,215 --> 00:17:46,180
+All right, the basic nanite material
+has been formed.
+
+328
+00:17:46,300 --> 00:17:48,018
+Let's see if we can get
+them to interact.
+
+329
+00:17:48,138 --> 00:17:50,475
+I must say, Rodney,
+this is quite an ingenious idea.
+
+330
+00:17:50,680 --> 00:17:53,043
+- Would you expect anything less?
+- Well...
+
+331
+00:17:53,357 --> 00:17:54,187
+What?
+
+332
+00:17:55,249 --> 00:17:56,819
+You've been in a bit of a rut lately.
+
+333
+00:17:56,939 --> 00:17:58,981
+- I have not.
+- Okay, like a dry spell.
+
+334
+00:17:59,101 --> 00:18:00,248
+That is not true.
+
+335
+00:18:00,410 --> 00:18:01,789
+- It's not.
+- Okay!
+
+336
+00:18:02,173 --> 00:18:02,877
+Okay.
+
+337
+00:18:02,997 --> 00:18:06,349
+Now, are we certain that these nanites
+will not go beyond simple cohesion?
+
+338
+00:18:06,469 --> 00:18:08,555
+Of course. I've disabled
+most of the normal protocols.
+
+339
+00:18:08,675 --> 00:18:11,361
+They won't be able to do anything
+beyond form a simple block.
+
+340
+00:18:11,824 --> 00:18:13,492
+All right, here we go.
+
+341
+00:18:20,237 --> 00:18:22,611
+- It worked. You did it, Rodney.
+- Naturally.
+
+342
+00:18:22,731 --> 00:18:25,732
+- McKay is back!
+- Stop that. I was never gone.
+
+343
+00:18:26,776 --> 00:18:29,905
+Whoa, wait a minute,
+we've got a problem.
+
+344
+00:18:30,341 --> 00:18:32,961
+The cells aren't communicating properly.
+
+345
+00:18:38,057 --> 00:18:39,495
+Could be tougher than I thought.
+
+346
+00:18:39,657 --> 00:18:42,430
+And I don't want
+to hear you say anything.
+
+347
+00:19:01,220 --> 00:19:02,210
+Be calm.
+
+348
+00:19:05,404 --> 00:19:06,272
+Here.
+
+349
+00:19:07,941 --> 00:19:09,233
+What the hell's going on?
+
+350
+00:19:09,954 --> 00:19:12,294
+Apparently, my fellow Wraith
+wanted to speak to me
+
+351
+00:19:12,414 --> 00:19:14,342
+without you being around.
+
+352
+00:19:16,092 --> 00:19:19,852
+They might have just politely asked us
+to stay in the Jumper.
+
+353
+00:19:19,972 --> 00:19:22,997
+Come, now, you would never have
+let me leave your sight.
+
+354
+00:19:23,916 --> 00:19:25,833
+Well, we'll never know now, will we?
+
+355
+00:19:30,470 --> 00:19:31,547
+We have a deal...
+
+356
+00:19:33,039 --> 00:19:35,218
+Seven hives will join us in the fight.
+
+357
+00:19:35,380 --> 00:19:37,094
+Seven? You said 12.
+
+358
+00:19:37,503 --> 00:19:40,373
+Not all of them were convinced
+that the mission was achievable.
+
+359
+00:19:40,605 --> 00:19:43,643
+Plus, many of our ships
+are without queens.
+
+360
+00:19:43,935 --> 00:19:46,813
+<i>We'd be unable to create new soldiers
+should they fall.</i>
+
+361
+00:19:47,447 --> 00:19:50,957
+- If you'd prefer none...
+- All right, seven.
+
+362
+00:19:55,914 --> 00:19:57,365
+How did I wake up before Ronon?
+
+363
+00:19:57,527 --> 00:19:59,918
+We had to stun him several times.
+
+364
+00:20:01,329 --> 00:20:04,664
+I thought it would be best
+that you were awake before he was.
+
+365
+00:20:05,306 --> 00:20:07,110
+Probably a good idea.
+
+366
+00:20:11,028 --> 00:20:13,923
+- Are we in space?
+- The hives have already left.
+
+367
+00:20:14,085 --> 00:20:17,009
+They jettisoned your ship
+before they jumped into hyperspace.
+
+368
+00:20:17,472 --> 00:20:19,940
+Anything else happened
+while we were unconscious
+
+369
+00:20:20,060 --> 00:20:21,347
+that I should know about?
+
+370
+00:20:22,069 --> 00:20:25,765
+I must return to Atlantis
+to help Dr. McKay complete our plan.
+
+371
+00:20:30,617 --> 00:20:33,542
+Help me wake them up
+and we'll get out of here.
+
+372
+00:20:38,296 --> 00:20:39,365
+<i>All right,</i>
+
+373
+00:20:39,775 --> 00:20:41,643
+<i>looking good.</i>
+
+374
+00:20:41,920 --> 00:20:44,169
+Rodney, it's being held together
+by a force field.
+
+375
+00:20:44,289 --> 00:20:45,814
+I know. I wanted to give the cells
+
+376
+00:20:45,934 --> 00:20:47,779
+time to establish
+their own internal cohesion.
+
+377
+00:20:47,899 --> 00:20:50,322
+Now, we drop the field
+
+378
+00:20:50,878 --> 00:20:52,586
+and they should hold together.
+
+379
+00:20:53,604 --> 00:20:55,421
+Not bad, not bad.
+
+380
+00:20:55,886 --> 00:20:57,271
+Structure is intact.
+
+381
+00:20:57,635 --> 00:20:58,997
+Bonds are holding.
+
+382
+00:21:06,629 --> 00:21:07,531
+Dammit.
+
+383
+00:21:07,880 --> 00:21:08,992
+It's no use, Rodney.
+
+384
+00:21:09,115 --> 00:21:11,535
+You've disabled too many
+of the cells' basic protocols.
+
+385
+00:21:11,655 --> 00:21:13,320
+It was never designed to work this way.
+
+386
+00:21:13,440 --> 00:21:15,614
+In that case,
+there's only one thing we can do.
+
+387
+00:21:15,734 --> 00:21:16,825
+<i>Dr. Zelenka?</i>
+
+388
+00:21:17,423 --> 00:21:18,123
+Yes?
+
+389
+00:21:18,246 --> 00:21:20,183
+<i>They need to see you
+right away in section seven.</i>
+
+390
+00:21:20,327 --> 00:21:22,318
+<i>We're having some power problems
+in the infirmary.</i>
+
+391
+00:21:23,628 --> 00:21:26,164
+I should go. This won't take too long.
+Is it all right if I just...
+
+392
+00:21:26,289 --> 00:21:27,289
+Go, go...
+
+393
+00:21:27,458 --> 00:21:29,701
+You're probably holding me back anyway.
+
+394
+00:21:40,528 --> 00:21:42,095
+Ronon, let it go.
+
+395
+00:21:43,440 --> 00:21:46,168
+Take it as a compliment...
+They were afraid of you.
+
+396
+00:21:48,769 --> 00:21:49,769
+Dial the Gate.
+
+397
+00:21:53,896 --> 00:21:55,774
+I'm detecting
+a hyperspace window forming.
+
+398
+00:21:56,343 --> 00:21:57,819
+Your guys forget something?
+
+399
+00:22:08,698 --> 00:22:09,952
+It's an ancestral warship.
+
+400
+00:22:10,404 --> 00:22:11,790
+Replicators. Dial the Gate.
+
+401
+00:22:12,483 --> 00:22:14,583
+- How did they find us?
+- I have an idea.
+
+402
+00:22:15,302 --> 00:22:16,629
+You are mistaken.
+
+403
+00:22:17,308 --> 00:22:18,589
+Receiving transmission.
+
+404
+00:22:18,751 --> 00:22:19,474
+What?
+
+405
+00:22:19,788 --> 00:22:21,765
+<i>Sheppard, that better not be you.</i>
+
+406
+00:22:23,168 --> 00:22:24,024
+Larrin?
+
+407
+00:22:26,021 --> 00:22:27,597
+<i>What the hell are you doing here?</i>
+
+408
+00:22:27,915 --> 00:22:29,396
+What the hell are you doing here?
+
+409
+00:22:29,520 --> 00:22:31,810
+<i>We picked up on seven hives
+orbiting a single planet.</i>
+
+410
+00:22:31,974 --> 00:22:34,186
+<i>Seemed like something big
+was going down, so</i>
+
+411
+00:22:34,350 --> 00:22:36,387
+<i>I thought we'd stop
+and do a little intel.</i>
+
+412
+00:22:36,642 --> 00:22:39,152
+Yeah, well, you just missed them.
+- <i> I see that.</i>
+
+413
+00:22:39,674 --> 00:22:41,908
+<i>Now, tell me, what are you doing here?
+And better yet...</i>
+
+414
+00:22:42,038 --> 00:22:44,444
+<i>why didn't those hives
+destroy your puny little ship?</i>
+
+415
+00:22:46,084 --> 00:22:47,998
+I take great offense to that,
+
+416
+00:22:48,316 --> 00:22:50,484
+but those are all good questions, so
+
+417
+00:22:51,326 --> 00:22:53,396
+- we should talk.
+<i>- Yes, we should.</i>
+
+418
+00:22:54,192 --> 00:22:55,192
+<i>Use bay three.</i>
+
+419
+00:22:57,169 --> 00:22:58,835
+Better her than the Replicators, right?
+
+420
+00:22:58,955 --> 00:23:00,731
+Let's see what kind of mood she's in.
+
+421
+00:23:09,241 --> 00:23:10,182
+Larrin...
+
+422
+00:23:12,035 --> 00:23:13,688
+That Wraith better be a prisoner.
+
+423
+00:23:13,808 --> 00:23:15,229
+Now, I know how it looks.
+
+424
+00:23:15,393 --> 00:23:16,313
+Kill it.
+
+425
+00:23:16,475 --> 00:23:19,419
+Hey, hey, hey! No killing, okay?
+
+426
+00:23:19,684 --> 00:23:20,401
+<i>Just...</i>
+
+427
+00:23:21,384 --> 00:23:22,456
+hear me out.
+
+428
+00:23:23,205 --> 00:23:23,936
+<i>So,</i>
+
+429
+00:23:24,109 --> 00:23:27,554
+the idea is to keep the Replicator ships
+from leaving orbit until this...
+
+430
+00:23:27,674 --> 00:23:30,347
+McKay guy can suck them back
+down to the planet?
+
+431
+00:23:30,850 --> 00:23:32,907
+Couldn't have put it better myself.
+
+432
+00:23:33,027 --> 00:23:36,457
+- And since you only have two ships...
+- We need the Wraith to help.
+
+433
+00:23:37,612 --> 00:23:39,208
+We figure the Replicators have
+
+434
+00:23:39,380 --> 00:23:41,147
+close to 30 ships
+guarding the surface.
+
+435
+00:23:41,267 --> 00:23:43,202
+The Wraith bring
+another seven to the fight.
+
+436
+00:23:43,332 --> 00:23:45,461
+- Still not very good odds.
+- No, no...
+
+437
+00:23:45,588 --> 00:23:47,503
+But unless we... I don't know,
+
+438
+00:23:47,623 --> 00:23:50,631
+meet someone with access to ships,
+it will have to do.
+
+439
+00:23:52,895 --> 00:23:56,429
+One of the planets we trade with was
+completely wiped out a few weeks ago.
+
+440
+00:23:56,599 --> 00:23:59,060
+<i>We thought it was the Wraith,
+but it didn't fit...</i>
+
+441
+00:23:59,869 --> 00:24:01,307
+They weren't culled,
+
+442
+00:24:01,534 --> 00:24:02,563
+they were leveled.
+
+443
+00:24:03,085 --> 00:24:04,108
+Replicators.
+
+444
+00:24:05,500 --> 00:24:07,417
+The last time we worked together,
+
+445
+00:24:07,585 --> 00:24:09,814
+I said I'd let you keep a few secrets,
+
+446
+00:24:11,554 --> 00:24:12,736
+but not anymore.
+
+447
+00:24:13,373 --> 00:24:14,497
+If we do this,
+
+448
+00:24:14,949 --> 00:24:16,288
+we go all the way.
+
+449
+00:24:16,909 --> 00:24:17,990
+No holding back.
+
+450
+00:24:20,937 --> 00:24:21,896
+All right.
+
+451
+00:24:22,975 --> 00:24:23,924
+Look...
+
+452
+00:24:24,791 --> 00:24:26,506
+<i>Your ship is still a mess.</i>
+
+453
+00:24:27,097 --> 00:24:29,252
+We have scientists
+that have the ancient gene.
+
+454
+00:24:29,393 --> 00:24:31,180
+Maybe they can help you supe it up.
+
+455
+00:24:32,896 --> 00:24:34,970
+Well, I'll have to talk
+to our governing council,
+
+456
+00:24:35,898 --> 00:24:37,681
+<i>but even if they agree to move forward,</i>
+
+457
+00:24:38,006 --> 00:24:41,568
+it'll be up to the individual ship
+captains if they want to join us or not.
+
+458
+00:24:41,836 --> 00:24:44,982
+And fighting alongside the Wraith
+isn't going to be popular.
+
+459
+00:24:45,150 --> 00:24:47,400
+Well, we know how persuasive you can be.
+
+460
+00:24:48,537 --> 00:24:50,943
+- I'll start making the calls.
+<i>- Oh, great.</i>
+
+461
+00:24:51,769 --> 00:24:54,306
+This is all working out for the best...
+It's...
+
+462
+00:24:54,445 --> 00:24:56,809
+Except for the part
+where I'm still tied up, Larrin.
+
+463
+00:24:59,097 --> 00:24:59,986
+Larrin?
+
+464
+00:25:06,399 --> 00:25:08,197
+You and I have
+2 very different definitions
+
+465
+00:25:08,317 --> 00:25:10,589
+- of "this won't take too long."
+- I know. I'm really sorry.
+
+466
+00:25:10,729 --> 00:25:14,265
+The naquadah generator in section 7 is
+giving us trouble, but it's fixed now,
+
+467
+00:25:14,776 --> 00:25:16,516
+I'm all yours.
+What would you like to try?
+
+468
+00:25:16,680 --> 00:25:19,471
+Actually, unencumbered by the continual
+need to explain things to you...
+
+469
+00:25:19,591 --> 00:25:21,844
+- I've made remarkable progress.
+- Oh, really?
+
+470
+00:25:21,964 --> 00:25:24,316
+The systems the Ancients had in place
+were designed to create
+
+471
+00:25:24,478 --> 00:25:26,570
+- fully-functional humanoid replicants.
+- Yes.
+
+472
+00:25:26,753 --> 00:25:29,876
+Well, turns out that trying to create
+something much simpler is ironically,
+
+473
+00:25:30,009 --> 00:25:33,431
+much more difficult.
+In the end, I was forced to compromise.
+
+474
+00:25:33,694 --> 00:25:34,890
+You're not suggesting...
+
+475
+00:25:35,010 --> 00:25:37,557
+I know it wasn't part of the plan,
+but it was either this or nothing.
+
+476
+00:25:45,097 --> 00:25:45,900
+Hello.
+
+477
+00:25:52,172 --> 00:25:53,130
+Oh, my...
+
+478
+00:26:04,540 --> 00:26:06,700
+We should go check on McKay,
+see if he made any progress.
+
+479
+00:26:06,873 --> 00:26:08,259
+I must go see Dr. Keller.
+
+480
+00:26:08,403 --> 00:26:10,542
+- Why's that?
+- I was stunned.
+
+481
+00:26:10,756 --> 00:26:12,642
+We get stunned all the time.
+Shake it off.
+
+482
+00:26:12,881 --> 00:26:14,962
+<i>The circumstances are different.</i>
+
+483
+00:26:15,154 --> 00:26:16,034
+How so?
+
+484
+00:26:19,681 --> 00:26:21,073
+I am carrying a child.
+
+485
+00:26:22,678 --> 00:26:23,787
+You're what?
+
+486
+00:26:26,675 --> 00:26:28,562
+I am pregnant, John.
+
+487
+00:26:29,910 --> 00:26:31,297
+Is this a joke?
+
+488
+00:26:32,752 --> 00:26:33,907
+Don't look at me.
+
+489
+00:26:34,137 --> 00:26:35,448
+It just happened.
+
+490
+00:26:36,405 --> 00:26:38,183
+I didn't even know
+you were seeing anybody.
+
+491
+00:26:38,515 --> 00:26:40,223
+It is no one from Atlantis.
+
+492
+00:26:42,593 --> 00:26:43,385
+How...
+
+493
+00:26:44,036 --> 00:26:45,523
+far along are you?
+
+494
+00:26:45,979 --> 00:26:47,559
+About three months...
+
+495
+00:26:48,677 --> 00:26:49,568
+Three...
+
+496
+00:26:50,795 --> 00:26:52,471
+How long have you known?
+
+497
+00:26:52,591 --> 00:26:54,067
+Just under two.
+
+498
+00:26:54,235 --> 00:26:58,094
+We've been...
+You let me put you out in the field
+
+499
+00:26:58,215 --> 00:27:00,705
+when you've known
+you were three months pregnant?
+
+500
+00:27:00,865 --> 00:27:02,164
+I tried to tell you.
+
+501
+00:27:02,326 --> 00:27:03,643
+You didn't try hard enough.
+
+502
+00:27:03,765 --> 00:27:05,472
+I am more than capable of...
+
+503
+00:27:05,592 --> 00:27:07,044
+You got stunned today.
+
+504
+00:27:07,165 --> 00:27:09,213
+Do you have any idea what kind
+of effect that has?
+
+505
+00:27:09,996 --> 00:27:13,375
+Athosian woman remain
+very active in the community...
+
+506
+00:27:13,495 --> 00:27:14,876
+This is different.
+
+507
+00:27:16,182 --> 00:27:18,098
+We get shot at, beat up, stunned...
+
+508
+00:27:18,218 --> 00:27:20,754
+We take a chance
+every time we walk through the Gate.
+
+509
+00:27:20,874 --> 00:27:22,477
+- John...
+- As of this second,
+
+510
+00:27:23,042 --> 00:27:25,171
+you are relieved from active duty.
+
+511
+00:27:29,434 --> 00:27:30,182
+Hey...
+
+512
+00:27:31,807 --> 00:27:32,932
+Congratulations.
+
+513
+00:27:33,902 --> 00:27:36,392
+<i>- Kanan is the father?</i>
+- You knew that we were...
+
+514
+00:27:36,514 --> 00:27:39,075
+I could tell.
+The way you talked about him.
+
+515
+00:27:41,320 --> 00:27:42,072
+Yes,
+
+516
+00:27:42,975 --> 00:27:44,117
+he is the father.
+
+517
+00:27:44,921 --> 00:27:45,832
+I'm sorry.
+
+518
+00:27:46,649 --> 00:27:47,962
+I will find him.
+
+519
+00:27:49,296 --> 00:27:51,133
+He is still alive... I feel it.
+
+520
+00:27:51,257 --> 00:27:52,896
+We'll find him. Together.
+
+521
+00:27:53,732 --> 00:27:54,632
+I promise.
+
+522
+00:27:56,522 --> 00:27:57,254
+Come on.
+
+523
+00:27:57,424 --> 00:27:59,242
+Let's go get you checked out.
+
+524
+00:28:01,774 --> 00:28:03,406
+You know, "Ronon",
+
+525
+00:28:03,805 --> 00:28:05,655
+it's a good name. Boy or girl.
+
+526
+00:28:08,622 --> 00:28:10,231
+So that brings the grand total to...
+
+527
+00:28:10,351 --> 00:28:11,200
+14.
+
+528
+00:28:11,379 --> 00:28:13,460
+Larrin said she can get
+three or four more ships.
+
+529
+00:28:13,580 --> 00:28:15,466
+- That's great.
+- Yeah.
+
+530
+00:28:16,123 --> 00:28:18,093
+- You okay?
+- Yeah.
+
+531
+00:28:18,525 --> 00:28:20,568
+I'm taking Teyla off active duty.
+
+532
+00:28:20,753 --> 00:28:22,482
+- Why?
+- She's pregnant.
+
+533
+00:28:25,063 --> 00:28:26,139
+Okay.
+
+534
+00:28:26,514 --> 00:28:27,796
+Who's the father?
+
+535
+00:28:29,347 --> 00:28:30,565
+I never asked.
+
+536
+00:28:31,288 --> 00:28:33,912
+Wow. It has been one hell of a day.
+
+537
+00:28:34,818 --> 00:28:37,982
+There's one more thing you need to see.
+McKay's kind of thrown us a curve ball.
+
+538
+00:28:38,102 --> 00:28:41,233
+Great. I was just thinking
+we need more of those today.
+
+539
+00:28:47,084 --> 00:28:49,881
+This is not
+what we talked about, Rodney.
+
+540
+00:28:50,001 --> 00:28:53,261
+Yeah, well, I'm sorry, but the block
+idea didn't fly. This was the only way.
+
+541
+00:28:53,910 --> 00:28:56,496
+Do you have any idea
+what kind of a security threat this is?
+
+542
+00:28:56,616 --> 00:28:59,361
+It's not as bad as you think. I've
+stripped down its programming as much as
+
+543
+00:28:59,481 --> 00:29:02,036
+I possibly could
+without sacrificing basic viability.
+
+544
+00:29:02,238 --> 00:29:03,669
+It can walk, it can talk, but...
+
+545
+00:29:03,789 --> 00:29:05,940
+it can't replicate,
+or change its form, or anything.
+
+546
+00:29:06,466 --> 00:29:09,073
+- Does she know why she was created?
+- Of course.
+
+547
+00:29:10,245 --> 00:29:12,349
+Well, then she has a certain
+amount of self-awareness.
+
+548
+00:29:12,641 --> 00:29:13,541
+Yeah, so?
+
+549
+00:29:13,661 --> 00:29:14,535
+So?
+
+550
+00:29:15,151 --> 00:29:18,781
+Honestly, I'm not sure how comfortable
+I am sending her to her death.
+
+551
+00:29:19,041 --> 00:29:19,818
+Death?
+
+552
+00:29:20,503 --> 00:29:23,597
+It can't die. It's not alive.
+It's a program.
+
+553
+00:29:23,912 --> 00:29:26,359
+<i>I mean, its "consciousness" is just
+a bunch of ones and zeros.</i>
+
+554
+00:29:26,618 --> 00:29:29,158
+I mean, you can call it she all
+you want, but it's still just a thing.
+
+555
+00:29:29,278 --> 00:29:32,849
+It's a prop. It's a really advanced
+radio-controlled weapon.
+
+556
+00:29:32,969 --> 00:29:35,486
+I mean, you don't feel sorry
+for your bullets, do you? Your bombs?
+
+557
+00:29:35,606 --> 00:29:36,777
+All right, still.
+
+558
+00:29:38,428 --> 00:29:39,470
+It's weird.
+
+559
+00:29:39,590 --> 00:29:41,725
+Well, at the end of the day,
+it doesn't matter anyway,
+
+560
+00:29:41,845 --> 00:29:43,926
+because we don't have any other choice.
+
+561
+00:29:45,589 --> 00:29:47,684
+We are teaming up with the Wraith.
+
+562
+00:29:47,804 --> 00:29:49,873
+I guess it's that kind of a mission.
+
+563
+00:29:56,062 --> 00:29:57,609
+- We have a problem.
+- What is it?
+
+564
+00:29:57,729 --> 00:30:00,028
+I've been going over your calculations.
+
+565
+00:30:00,148 --> 00:30:02,738
+I thought it would be prudent,
+for the good of the mission.
+
+566
+00:30:02,858 --> 00:30:05,310
+- I hope you don't mind.
+- No, no, it's fine.
+
+567
+00:30:05,430 --> 00:30:08,479
+I think you've underestimated
+how quickly the nanite cells will adapt
+
+568
+00:30:08,599 --> 00:30:10,102
+to their changing circumstances.
+
+569
+00:30:10,605 --> 00:30:12,813
+The mass will be able
+to manipulate its own form
+
+570
+00:30:13,011 --> 00:30:14,869
+before it reaches critical density.
+
+571
+00:30:15,101 --> 00:30:17,105
+- Are you sure?
+- I'm quite positive.
+
+572
+00:30:17,456 --> 00:30:21,252
+Once the nanites regain control, they
+will be able to halt their own collapse.
+
+573
+00:30:21,442 --> 00:30:24,080
+At that point,
+they will be extremely dangerous.
+
+574
+00:30:24,280 --> 00:30:26,535
+In other words,
+we're back to Godzilla.
+
+575
+00:30:28,157 --> 00:30:29,496
+I may have a solution.
+
+576
+00:30:34,428 --> 00:30:37,237
+We overload their ZPMs,
+about half a dozen of them,
+
+577
+00:30:37,357 --> 00:30:39,952
+in a symmetrical pattern
+around the Replicator mass.
+
+578
+00:30:40,108 --> 00:30:43,012
+The force of the explosion causes
+the mass to compress even further,
+
+579
+00:30:43,132 --> 00:30:45,035
+essentially creating our own Replicator
+
+580
+00:30:45,155 --> 00:30:47,734
+fusion bomb. The whole planet
+will be destroyed in the process.
+
+581
+00:30:47,926 --> 00:30:49,695
+You don't mess around, do you?
+
+582
+00:30:49,815 --> 00:30:53,264
+All this is based on information
+provided by a Replicator?
+
+583
+00:30:53,384 --> 00:30:54,918
+We have no reason to trust it.
+
+584
+00:30:55,038 --> 00:30:58,154
+We're not trusting it,
+we're trusting Rodney.
+
+585
+00:30:58,873 --> 00:31:00,861
+<i>This causes a slightly
+new wrinkle to the plan.</i>
+
+586
+00:31:01,023 --> 00:31:02,702
+I'll need to beam down to the core room.
+
+587
+00:31:02,822 --> 00:31:04,573
+Along with Ronon and a squad of marines.
+
+588
+00:31:04,846 --> 00:31:06,983
+From there, I should be
+able to hack into their system
+
+589
+00:31:07,103 --> 00:31:09,036
+and set the ZPMs to overload.
+
+590
+00:31:09,198 --> 00:31:11,658
+In the meantime,
+we'll be keeping their ships occupied.
+
+591
+00:31:11,778 --> 00:31:14,291
+The seven hives will space themselves
+around the planet equally
+
+592
+00:31:14,484 --> 00:31:16,621
+and our smaller ships
+will fill in the holes.
+
+593
+00:31:16,779 --> 00:31:18,683
+We could use you in my chair, Sheppard.
+
+594
+00:31:18,856 --> 00:31:20,787
+We have an arsenal of drones,
+but none of my guys
+
+595
+00:31:20,907 --> 00:31:22,466
+can fire them quite like you can.
+
+596
+00:31:25,364 --> 00:31:26,918
+No place I'd rather be.
+
+597
+00:31:28,220 --> 00:31:30,431
+The hives will be dispatching
+sizable waves
+
+598
+00:31:30,594 --> 00:31:33,918
+of darts to target the Replicators'
+hyperdrive engines.
+
+599
+00:31:34,181 --> 00:31:35,367
+My 302s will join you.
+
+600
+00:31:35,641 --> 00:31:36,647
+Very well.
+
+601
+00:31:36,944 --> 00:31:39,790
+Now, while I'm working in the core room,
+we'll beam Fran down to the city.
+
+602
+00:31:39,910 --> 00:31:41,838
+Wait a minute, Fran?
+
+603
+00:31:42,444 --> 00:31:43,987
+Friendly Replicator android.
+
+604
+00:31:44,918 --> 00:31:47,515
+I didn't realize
+we were naming things.
+
+605
+00:31:48,027 --> 00:31:51,512
+It noticed that Zelenka
+and I both had names, and...
+
+606
+00:31:52,993 --> 00:31:54,331
+and she asked for one, so...
+
+607
+00:31:56,605 --> 00:31:58,409
+All right, let's move out.
+
+608
+00:32:16,105 --> 00:32:17,759
+That's quite a sight.
+
+609
+00:32:18,524 --> 00:32:21,062
+I remember when the Cold War ended
+and we started doing joint missions
+
+610
+00:32:21,182 --> 00:32:22,800
+with the Russians.
+
+611
+00:32:23,156 --> 00:32:25,616
+I thought that was strange.
+
+612
+00:32:26,522 --> 00:32:29,283
+I've got confirmation from the fleet.
+We're ready to go.
+
+613
+00:32:29,445 --> 00:32:31,735
+Set coordinates
+for the Replicator home world.
+
+614
+00:32:53,845 --> 00:32:56,274
+This is quite exciting, isn't it?
+
+615
+00:32:57,590 --> 00:32:59,763
+It's a bit nerve-wracking. Yeah.
+
+616
+00:32:59,904 --> 00:33:01,646
+I quite look forward to it.
+
+617
+00:33:02,546 --> 00:33:03,492
+You do?
+
+618
+00:33:03,612 --> 00:33:06,464
+One always wishes
+to fulfill one's purpose.
+
+619
+00:33:07,070 --> 00:33:07,972
+Right...
+
+620
+00:33:08,677 --> 00:33:10,454
+And you're fine with all this?
+
+621
+00:33:10,621 --> 00:33:11,673
+Why would I not be?
+
+622
+00:33:12,231 --> 00:33:13,851
+It's my reason for being.
+
+623
+00:33:14,062 --> 00:33:15,546
+Well, I know, I just that you...
+
+624
+00:33:15,675 --> 00:33:18,281
+- You're going to... cease to be.
+- Yes?
+
+625
+00:33:18,401 --> 00:33:21,728
+I just imagine
+you'd rather keep being than...
+
+626
+00:33:22,316 --> 00:33:23,778
+than not.
+
+627
+00:33:24,136 --> 00:33:26,063
+Certainly, you're not worried for me,
+
+628
+00:33:26,432 --> 00:33:29,134
+- are you, Doctor?
+- No, no. That would be silly.
+
+629
+00:33:29,835 --> 00:33:31,401
+Yes, it would.
+
+630
+00:33:35,091 --> 00:33:37,216
+- We should never have given it speech.
+- Yeah.
+
+631
+00:33:37,336 --> 00:33:39,334
+Dr. McKay, we're approaching the target.
+
+632
+00:33:39,454 --> 00:33:41,521
+You need to get
+with Ronon and the marines.
+
+633
+00:33:42,284 --> 00:33:43,309
+On my way.
+
+634
+00:33:44,404 --> 00:33:45,450
+Dr. McKay...
+
+635
+00:33:46,790 --> 00:33:47,676
+Yeah?
+
+636
+00:33:48,484 --> 00:33:49,522
+Good luck.
+
+637
+00:33:52,029 --> 00:33:53,355
+You too, Fran...
+
+638
+00:33:54,476 --> 00:33:55,528
+Good luck.
+
+639
+00:34:14,717 --> 00:34:18,638
+Target their hyperdrives with the beam
+weapons and launch all 302s.
+
+640
+00:34:18,761 --> 00:34:22,479
+Beam the Replicator and McKay's team
+down to their separate coordinates.
+
+641
+00:34:34,491 --> 00:34:35,708
+Fan out. Fan out.
+
+642
+00:34:39,216 --> 00:34:40,765
+All right, we're clear.
+
+643
+00:34:41,966 --> 00:34:43,985
+This won't take more than a minute.
+
+644
+00:34:58,592 --> 00:35:00,471
+Power down in interior section.
+
+645
+00:35:00,591 --> 00:35:03,395
+Transferring power from non-critical
+systems to hull regeneration.
+
+646
+00:35:09,163 --> 00:35:10,352
+How's it coming, McKay?
+
+647
+00:35:10,522 --> 00:35:12,348
+<i>I don't want to be doing this all day.</i>
+
+648
+00:35:12,485 --> 00:35:13,441
+I'm done.
+
+649
+00:35:13,564 --> 00:35:15,418
+I've got total control
+over the power grid
+
+650
+00:35:15,538 --> 00:35:17,268
+and the ZPMs,
+
+651
+00:35:17,418 --> 00:35:19,059
+and Fran is...
+
+652
+00:35:19,564 --> 00:35:20,972
+Fran is just about to activate.
+
+653
+00:35:25,839 --> 00:35:26,584
+Hello.
+
+654
+00:35:47,089 --> 00:35:49,846
+It's working... Just hold
+those ships off a little longer...
+
+655
+00:36:06,791 --> 00:36:08,746
+I don't know how much longer
+we can keep this up.
+
+656
+00:36:08,914 --> 00:36:12,111
+We just have to keep them busy. I don't
+think they realize what's happening yet.
+
+657
+00:36:20,027 --> 00:36:23,155
+One of the Replicator ships is heading
+towards us at maximum sublight.
+
+658
+00:36:23,275 --> 00:36:24,895
+They're powering their hyperdrives.
+
+659
+00:36:25,015 --> 00:36:26,888
+Sheppard... Do you see that?
+
+660
+00:36:27,038 --> 00:36:28,446
+Yeah. I got it.
+
+661
+00:36:43,280 --> 00:36:45,681
+It's working much faster
+than I ever imagined...
+
+662
+00:36:46,255 --> 00:36:48,496
+When's it gonna be big enough
+to pull them down from orbit?
+
+663
+00:36:48,633 --> 00:36:50,232
+Soon. Really soon.
+
+664
+00:36:52,334 --> 00:36:54,179
+Our shields can't take
+much more of this, Sir.
+
+665
+00:36:54,376 --> 00:36:55,837
+Hopefully, they won't have to.
+
+666
+00:36:56,089 --> 00:36:59,744
+Get ready to transfer power
+from the beam weapons to the...
+
+667
+00:37:11,326 --> 00:37:12,297
+What the hell...
+
+668
+00:37:12,830 --> 00:37:14,155
+Son of a bitch...
+
+669
+00:37:15,386 --> 00:37:16,739
+He actually did it.
+
+670
+00:37:28,416 --> 00:37:30,410
+- What's happening?
+<i>- The Replicator mass...</i>
+
+671
+00:37:30,579 --> 00:37:33,332
+It's so heavy,
+it's sinking into the planet surface.
+
+672
+00:37:34,056 --> 00:37:35,655
+McKay, according to our readings,
+
+673
+00:37:35,778 --> 00:37:38,402
+every Replicator nanite
+is now part of the mass.
+
+674
+00:37:38,539 --> 00:37:40,726
+- Can you confirm?
+- <i>Copy that, Sam.</i>
+
+675
+00:37:40,944 --> 00:37:42,854
+I'll set the countdown and...
+
+676
+00:37:43,989 --> 00:37:45,151
+Did you do that?
+
+677
+00:37:45,342 --> 00:37:46,277
+No...
+
+678
+00:37:48,171 --> 00:37:49,559
+It's the mass.
+
+679
+00:37:49,709 --> 00:37:52,400
+It's collapsed the subterranean
+power grid... It's a black out.
+
+680
+00:37:53,508 --> 00:37:55,750
+We won't be able to overload the ZPMs.
+
+681
+00:38:05,726 --> 00:38:07,400
+Not good. Not good. Not good.
+
+682
+00:38:07,550 --> 00:38:09,198
+<i>Do you want me to beam and help you?</i>
+
+683
+00:38:09,321 --> 00:38:12,197
+The power grid has been destroyed,
+there's nothing either of us can do.
+
+684
+00:38:12,334 --> 00:38:14,596
+What's the big deal?
+You can't overload ZPMs.
+
+685
+00:38:14,733 --> 00:38:17,221
+Why don't we just send some nukes
+down there and get this over with?
+
+686
+00:38:17,358 --> 00:38:18,547
+<i>Not that simple as that!</i>
+
+687
+00:38:19,035 --> 00:38:20,852
+Look, in order to implode
+a mass this large,
+
+688
+00:38:20,975 --> 00:38:23,034
+the explosion has to be timed
+down to the nano second
+
+689
+00:38:23,154 --> 00:38:25,984
+The force needs to be exactly right...
+You can't fire a few nukes down here
+
+690
+00:38:26,104 --> 00:38:27,541
+and get the job done.
+
+691
+00:38:28,136 --> 00:38:30,226
+<i>Well, it's gotta be better than nothing.</i>
+
+692
+00:38:30,630 --> 00:38:31,805
+I have to agree.
+
+693
+00:38:31,948 --> 00:38:34,275
+McKay, my sensors indicate
+that the ground around the mass
+
+694
+00:38:34,417 --> 00:38:36,683
+- is rich with neutronium.
+- Neutronium?
+
+695
+00:38:36,803 --> 00:38:38,689
+<i>It's the base raw material
+of Replicator cells.</i>
+
+696
+00:38:39,287 --> 00:38:42,642
+It makes sense why the Ancients would
+set up on a planet where it's abundant.
+
+697
+00:38:42,957 --> 00:38:45,806
+This could be very useful.
+Neutronium is incredibly dense.
+
+698
+00:38:46,380 --> 00:38:47,514
+And that helps us how?
+
+699
+00:38:47,828 --> 00:38:49,530
+<i>Sam, we are geniuses!</i>
+
+700
+00:38:49,653 --> 00:38:52,263
+The mass is so super heavy that
+it's sinking into the planet's surface,
+
+701
+00:38:52,386 --> 00:38:54,313
+but if I dial it up, just a little bit,
+
+702
+00:38:54,628 --> 00:38:57,595
+<i>it'll attract the neutronium
+and sink all the way to the core.</i>
+
+703
+00:38:57,746 --> 00:39:00,411
+And the planet will exert enough
+pressure on it to cause an implosion.
+
+704
+00:39:02,909 --> 00:39:05,451
+Just give me one more...
+
+705
+00:39:06,758 --> 00:39:07,758
+Got it!
+
+706
+00:39:18,385 --> 00:39:21,308
+- We need to get out of here.
+- All right, let's go, come on!
+
+707
+00:39:31,791 --> 00:39:34,572
+As much as I'd love to, we shouldn't
+stick around to watch this go down.
+
+708
+00:39:34,736 --> 00:39:37,268
+We should tell the fleet to jump
+to the rendez-vous point immediately.
+
+709
+00:39:37,388 --> 00:39:39,328
+The planet's become unstable.
+
+710
+00:40:02,863 --> 00:40:04,503
+<i>I'm sorry you lost a ship.</i>
+
+711
+00:40:04,708 --> 00:40:07,578
+- They knew what they were getting into.
+- Yeah, but still.
+
+712
+00:40:07,823 --> 00:40:10,806
+You gonna stick around and
+let my guys check this place out?
+
+713
+00:40:10,943 --> 00:40:13,936
+They already gave us a head start
+when they got us battle ready.
+
+714
+00:40:14,087 --> 00:40:15,316
+Besides,
+
+715
+00:40:15,453 --> 00:40:17,448
+I have some things
+that need to get taken care of.
+
+716
+00:40:17,571 --> 00:40:18,774
+Yeah? Like?
+
+717
+00:40:19,649 --> 00:40:22,219
+Nothing for you to concern
+your pretty little head with.
+
+718
+00:40:22,355 --> 00:40:23,385
+Look,
+
+719
+00:40:24,571 --> 00:40:27,110
+now that we're allies and stuff...
+
+720
+00:40:27,821 --> 00:40:29,543
+I should probably have some way
+
+721
+00:40:29,716 --> 00:40:31,415
+of contacting you... you know,
+
+722
+00:40:31,565 --> 00:40:33,137
+for professional reasons...
+
+723
+00:40:33,259 --> 00:40:35,543
+in case we need help again.
+
+724
+00:40:36,267 --> 00:40:38,594
+I know where Atlantis is now...
+Don't worry.
+
+725
+00:40:39,304 --> 00:40:40,589
+I'll stay in touch.
+
+726
+00:40:41,068 --> 00:40:43,610
+<i>Colonel Sheppard, are you ready to beam?</i>
+
+727
+00:40:44,258 --> 00:40:45,797
+Good seeing you again.
+
+728
+00:40:45,947 --> 00:40:47,328
+I bet it was.
+
+729
+00:40:51,730 --> 00:40:52,892
+Ready to beam.
+
+730
+00:41:02,842 --> 00:41:03,929
+Welcome back.
+
+731
+00:41:04,066 --> 00:41:05,310
+Good to be back.
+
+732
+00:41:05,488 --> 00:41:07,442
+How are our good friends, the Wraith?
+
+733
+00:41:07,593 --> 00:41:09,588
+They never showed up
+at the rendezvous point.
+
+734
+00:41:10,419 --> 00:41:12,904
+- They got caught in the explosion?
+- I doubt it.
+
+735
+00:41:13,043 --> 00:41:15,612
+I guess they just figured
+there was nothing left to talk about,
+
+736
+00:41:15,749 --> 00:41:18,872
+so, as soon as the planet blew up,
+we were back to being enemies.
+
+737
+00:41:19,350 --> 00:41:20,990
+Wraith back to being enemies.
+
+738
+00:41:21,154 --> 00:41:23,543
+Replicators don't exist anymore,
+you out of your dry spell...
+
+739
+00:41:24,030 --> 00:41:24,730
+Hey...
+
+740
+00:41:24,906 --> 00:41:26,758
+All is right with the world.
+
+741
+00:41:27,493 --> 00:41:29,994
+- What are you working on anyway?
+- You'll be surprised to hear that
+
+742
+00:41:30,117 --> 00:41:32,423
+removing a planet from the database
+is actually a lot of work.
+
+743
+00:41:32,827 --> 00:41:34,782
+I thought you'd be
+pretty good at that by now.
+
+744
+00:41:34,976 --> 00:41:36,726
+You can't resist
+bringing up the fact that
+
+745
+00:41:36,862 --> 00:41:38,909
+I once accidentally destroyed
+a couple of planets?
+
+746
+00:41:39,086 --> 00:41:40,542
+It was an entire solar system.
+
+747
+00:41:41,646 --> 00:41:44,093
+- You want to do the honors?
+- No, you go ahead.
+
+748
+00:41:45,048 --> 00:41:47,239
+All right, M7R-227,
+
+749
+00:41:47,359 --> 00:41:48,978
+you were a constant pain in the ass.
+
+750
+00:41:49,189 --> 00:41:50,788
+It's good to see you go.
+
+751
+00:41:53,827 --> 00:41:56,718
+- If only it was that easy in real life.
+- Area 51 is working on it.
+
+752
+00:41:56,870 --> 00:41:59,186
+- You wanna get late dinner?
+- Absolutely.
+
+753
+00:41:59,322 --> 00:42:00,211
+All right.
+
+754
+00:42:00,348 --> 00:42:02,972
+I would have loved to have seen
+Ellis' face when my plan worked.
+
+755
+00:42:03,095 --> 00:42:04,489
+Such a tool.
+
+756
+00:42:04,667 --> 00:42:06,223
+- I like him.
+- You do?
+
+757
+00:42:06,346 --> 00:42:08,369
+Yeah. Good guy,
+excellent judge of character.
+
+758
+00:42:08,506 --> 00:42:09,681
+Oh, I see...
+
+759
+00:42:11,499 --> 00:42:13,686
+<i>I see where you're going with that.</i>
+
+760
+00:42:30,269 --> 00:42:31,417
+Our intel was correct.
+
+761
+00:42:31,581 --> 00:42:33,677
+The planet has been
+completely destroyed.
+
+762
+00:42:34,102 --> 00:42:36,265
+<i>Can you detect
+any trace Replicator cells?</i>
+
+763
+00:42:36,699 --> 00:42:39,382
+Negative...
+They've been completely wiped out.
+
+764
+00:42:40,434 --> 00:42:41,623
+Good.
+
+765
+00:42:42,442 --> 00:42:45,790
+We can finally get to work without
+having to look over our shoulders.
+
+766
+00:42:48,032 --> 00:42:49,726
+It's time to begin.
+

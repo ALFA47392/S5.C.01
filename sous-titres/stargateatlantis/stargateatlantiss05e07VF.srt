@@ -1,0 +1,2101 @@
+1
+00:00:05,885 --> 00:00:07,722
+On aurait dû rentrer plus tôt.
+
+2
+00:00:07,842 --> 00:00:11,836
+Si on était partis quand tu l'as dit,
+on serait rentrés bredouilles.
+
+3
+00:00:12,310 --> 00:00:13,806
+Pourquoi on s'arrête ?
+
+4
+00:00:15,916 --> 00:00:17,097
+J'ai vu quelqu'un.
+
+5
+00:00:18,751 --> 00:00:19,927
+Y a quelqu'un ?
+
+6
+00:00:21,165 --> 00:00:22,764
+Il n'y a personne.
+
+7
+00:00:25,729 --> 00:00:27,014
+Y a quelqu'un ?
+
+8
+00:00:35,068 --> 00:00:36,779
+Vous allez bien, l'ami ?
+
+9
+00:00:46,089 --> 00:00:47,296
+Vous êtes perdu ?
+
+10
+00:01:33,967 --> 00:01:38,137
+UN AN PLUS TARD.
+
+11
+00:01:41,167 --> 00:01:43,048
+Le signal devient plus fort.
+
+12
+00:01:48,356 --> 00:01:49,759
+C'est quoi ?
+
+13
+00:01:54,541 --> 00:01:56,905
+Un truc flippant,
+voilà ce que c'est.
+
+14
+00:01:57,874 --> 00:01:59,638
+On a trouvé quelque chose !
+
+15
+00:02:10,668 --> 00:02:13,378
+Je pense qu'on ferait mieux
+de contacter Atlantis.
+
+16
+00:02:16,559 --> 00:02:18,700
+J'arrive pas à croire que tu partes.
+
+17
+00:02:19,485 --> 00:02:23,104
+T'es malade, on te soigne,
+et tu pars six mois pour récupérer.
+
+18
+00:02:23,264 --> 00:02:26,127
+Finalement, tu reviens,
+tu restes une semaine, et tu repars ?
+
+19
+00:02:26,247 --> 00:02:29,569
+Je suis désolé, Rodney,
+mais ma place n'est pas ici.
+
+20
+00:02:29,820 --> 00:02:31,988
+Bien sûr que si !
+Tu plaisantes ?
+
+21
+00:02:32,148 --> 00:02:35,233
+Je ne peux pas rester à ne rien faire
+pendant que des gens souffrent,
+
+22
+00:02:35,353 --> 00:02:37,285
+surtout lorsque c'est ma faute.
+
+23
+00:02:37,446 --> 00:02:39,829
+Tu peux pas t'en vouloir, d'accord ?
+
+24
+00:02:40,102 --> 00:02:43,035
+Michael t'a obligé à l'aider.
+C'est lui qui répandait la drogue.
+
+25
+00:02:43,155 --> 00:02:45,762
+Oui, et c'est moi qui ai aidé
+les Hoffans à la perfectionner.
+
+26
+00:02:47,138 --> 00:02:49,319
+Colonel. Juste à temps
+pour donner un coup de main.
+
+27
+00:02:49,439 --> 00:02:51,841
+En fait, Doc, vous allez devoir
+retarder votre départ.
+
+28
+00:02:52,375 --> 00:02:55,841
+On a un message du Major Teldy.
+Ils ont trouvé un autre labo de Michael.
+
+29
+00:03:00,302 --> 00:03:03,537
+Les Teams Projet-SG & SG-66
+
+30
+00:03:07,862 --> 00:03:11,292
+présentent :
+
+31
+00:03:14,066 --> 00:03:16,323
+Saison 5 Épisode 07
+Whispers (v. 1.00)
+
+32
+00:03:18,901 --> 00:03:21,898
+Transcription et Synchro :
+
+33
+00:03:25,206 --> 00:03:28,216
+Sadgeezer,
+Golgi, Linwelin et Pikes.
+
+34
+00:03:33,097 --> 00:03:36,302
+Traduction par :
+
+35
+00:03:39,166 --> 00:03:42,426
+Linwelin, Mickey, Niko
+nitrogenc, Ody et Poloneill.
+
+36
+00:03:43,097 --> 00:03:46,138
+Relecture par :
+
+37
+00:03:49,170 --> 00:03:52,236
+Golgi, Linwelin,
+Mickey, Ody et Poloneill.
+
+38
+00:03:52,561 --> 00:03:54,736
+www.projet-sg.net
+www.seriestele.net
+
+39
+00:04:03,316 --> 00:04:05,559
+Vous auriez pu le dire
+qu'il fallait marcher autant.
+
+40
+00:04:05,679 --> 00:04:07,440
+- J'ai oublié ça ?
+- Oui.
+
+41
+00:04:07,560 --> 00:04:10,543
+Et que nous descendrions
+le flanc d'une montagne en rappel.
+
+42
+00:04:10,663 --> 00:04:11,910
+J'ai des courbatures.
+
+43
+00:04:12,030 --> 00:04:14,632
+Ça arrive quand on fait rien
+en 6 mois de repos.
+
+44
+00:04:15,002 --> 00:04:17,381
+Sans parler des deux mois
+en chambre de stase, merci.
+
+45
+00:04:17,501 --> 00:04:20,844
+Deux mois ? Essayez 800 ans.
+Ça vous fera des jambes en caoutchouc.
+
+46
+00:04:20,964 --> 00:04:21,864
+Colonel.
+
+47
+00:04:31,872 --> 00:04:32,990
+Major Teldy,
+
+48
+00:04:34,090 --> 00:04:36,991
+Dr Beckett.
+Dr Beckett, Major.
+
+49
+00:04:37,398 --> 00:04:38,847
+Voici le sergent Mehra,
+
+50
+00:04:38,967 --> 00:04:41,659
+le Dr Porter, et vous connaissez déjà
+le capitaine Vega.
+
+51
+00:04:41,862 --> 00:04:43,997
+J'avais pas réalisé que vous...
+
+52
+00:04:44,238 --> 00:04:46,712
+Que mon équipe était un groupe
+de filles, Monsieur ?
+
+53
+00:04:49,177 --> 00:04:51,252
+C'est pas ce que j'allais dire.
+
+54
+00:04:53,123 --> 00:04:55,214
+Mais, maintenant que vous le dites...
+
+55
+00:04:55,501 --> 00:04:57,383
+On m'a dit de choisir les meilleurs.
+
+56
+00:04:57,921 --> 00:04:59,721
+Amusant, comment ça s'est fini.
+
+57
+00:05:00,505 --> 00:05:01,512
+Amusant.
+
+58
+00:05:01,967 --> 00:05:02,931
+On y va ?
+
+59
+00:05:03,502 --> 00:05:04,872
+Oui. Oui.
+
+60
+00:05:27,790 --> 00:05:29,190
+On traversait la région
+
+61
+00:05:29,310 --> 00:05:32,213
+quand on a enregistré une faible
+signature énergétique.
+
+62
+00:05:33,391 --> 00:05:36,421
+On a pu la trianguler,
+et se caler sur le signal
+
+63
+00:05:36,897 --> 00:05:39,364
+et puis on l'a suivi
+jusque dans ces catacombes.
+
+64
+00:05:39,484 --> 00:05:41,083
+Ça fait une trotte.
+
+65
+00:05:45,173 --> 00:05:47,024
+Le signal nous a conduites ici.
+
+66
+00:05:51,346 --> 00:05:52,934
+Des caissons de stase.
+
+67
+00:05:54,628 --> 00:05:58,111
+J'ai passé du temps dans ses labos
+quand j'étais prisonnier,
+
+68
+00:05:58,502 --> 00:06:01,001
+mais celui-là m'est inconnu.
+
+69
+00:06:01,365 --> 00:06:04,125
+On dirait que l'équipe de nettoyage
+est pas venue depuis un moment.
+
+70
+00:06:08,157 --> 00:06:09,038
+Sergent.
+
+71
+00:06:10,610 --> 00:06:11,833
+Désolée, Colonel.
+
+72
+00:06:11,994 --> 00:06:14,419
+Et on peut arrêter
+de toucher des trucs ?
+
+73
+00:06:15,000 --> 00:06:18,288
+J'ai pas besoin de trois tonnes
+de décombres sur ma tête, d'accord ?
+
+74
+00:06:18,408 --> 00:06:21,610
+Tout va bien, j'ai désactivé
+les protocoles de sécurité.
+
+75
+00:06:23,009 --> 00:06:24,220
+Vous savez faire ça ?
+
+76
+00:06:24,852 --> 00:06:25,757
+Oui.
+
+77
+00:06:25,877 --> 00:06:29,124
+- Pourquoi McKay a pas trouvé ça ?
+- Il n'avait aucun moyen de le savoir.
+
+78
+00:06:29,562 --> 00:06:32,349
+Mais grâce aux informations
+qu'il a recueillies de cette expérience,
+
+79
+00:06:32,469 --> 00:06:35,023
+je peux contourner
+les protocoles de sécurité.
+
+80
+00:06:35,908 --> 00:06:37,008
+Vous avez quoi ?
+
+81
+00:06:37,128 --> 00:06:39,819
+Des données sur les expériences
+de Michael dans ce labo...
+
+82
+00:06:40,311 --> 00:06:42,708
+Ça pourrait s'avérer très précieux.
+
+83
+00:06:43,278 --> 00:06:46,023
+Mais parcourir tout ça
+peut prendre du temps.
+
+84
+00:06:46,143 --> 00:06:47,043
+Oh, oui.
+
+85
+00:06:47,805 --> 00:06:50,455
+- On devrait aller voir le village.
+- Quel village ?
+
+86
+00:06:50,760 --> 00:06:53,525
+On l'a repéré ce matin.
+Il est un peu plus au sud.
+
+87
+00:06:53,700 --> 00:06:55,823
+Les villageois pourraient
+avoir des informations.
+
+88
+00:06:56,337 --> 00:06:58,720
+Je suppose que c'est mieux
+que de rester ici à regarder.
+
+89
+00:06:58,840 --> 00:06:59,842
+Sergent,
+
+90
+00:07:00,668 --> 00:07:02,070
+vous restez avec eux.
+
+91
+00:07:02,276 --> 00:07:04,719
+Assurez-vous qu'ils lèvent un peu le nez
+de leur écran.
+
+92
+00:07:07,648 --> 00:07:09,147
+Bon travail, Docteur.
+
+93
+00:07:09,982 --> 00:07:11,846
+- Merci.
+- Très bien.
+
+94
+00:07:17,336 --> 00:07:20,757
+- Vous savez ce que j'aimerais, là ?
+- Laissez-moi deviner. Une bière ?
+
+95
+00:07:21,620 --> 00:07:22,927
+Un Puddle Jumper.
+
+96
+00:07:23,300 --> 00:07:27,075
+Ça aurait pu s'arranger
+si j'avais su qu'on marcherait autant.
+
+97
+00:07:27,236 --> 00:07:30,609
+Il y a trop d'arbres.
+On peut pas atterrir.
+
+98
+00:07:30,729 --> 00:07:34,290
+En plus, c'est un bon exercice.
+Ça raffermit les fesses et les mollets.
+
+99
+00:07:35,084 --> 00:07:38,633
+Super. Encore un peu
+et je jette mon cardio-training.
+
+100
+00:07:51,005 --> 00:07:52,406
+Ils sont en vie ?
+
+101
+00:07:53,659 --> 00:07:54,769
+Ils sont en stase.
+
+102
+00:07:56,542 --> 00:07:59,329
+Leurs processus physiques et chimiques
+ont été suspendus,
+
+103
+00:07:59,449 --> 00:08:01,359
+mais oui, ils sont en vie.
+
+104
+00:08:02,580 --> 00:08:04,290
+Alors, vous pouvez les réveiller ?
+
+105
+00:08:04,410 --> 00:08:07,544
+Sans connaître leur véritable état,
+
+106
+00:08:07,664 --> 00:08:09,492
+ça pourrait les tuer.
+
+107
+00:08:10,208 --> 00:08:13,037
+Donc vous les gardez comme ça
+jusqu'à ce que vous ayez trouvé ?
+
+108
+00:08:14,043 --> 00:08:15,847
+Je suppose qu'ils s'en moquent
+
+109
+00:08:15,967 --> 00:08:19,070
+tout comme leur famille
+qui les a déjà enterrés.
+
+110
+00:08:19,621 --> 00:08:22,583
+Mais ça serait
+de sacrées retrouvailles.
+
+111
+00:08:26,410 --> 00:08:29,846
+Je vais vérifier le périmètre.
+Hurlez si vous avez besoin de moi.
+
+112
+00:08:34,620 --> 00:08:35,946
+Je suis désolée.
+
+113
+00:08:36,848 --> 00:08:38,850
+Vous n'avez pas à vous excuser,
+
+114
+00:08:39,186 --> 00:08:41,889
+et franchement, elle non plus.
+
+115
+00:08:42,714 --> 00:08:47,232
+Elle a raison, les résurrections donnent
+d'intéressantes retrouvailles,
+
+116
+00:08:47,352 --> 00:08:49,991
+surtout quand le mort
+ne savait pas qu'il l'était.
+
+117
+00:08:53,397 --> 00:08:56,122
+Je suis désolé.
+Et vous, Docteur Porter ?
+
+118
+00:08:57,235 --> 00:08:58,040
+Alison.
+
+119
+00:09:00,991 --> 00:09:04,297
+Vous aimeriez partager
+d'intéressantes expériences ?
+
+120
+00:09:05,124 --> 00:09:07,713
+Vous avez rencontré
+de dangereux prédateurs ?
+
+121
+00:09:07,833 --> 00:09:09,343
+Vous avez déjà été clonée ?
+
+122
+00:09:09,521 --> 00:09:13,264
+Non, mais en toute honnêteté,
+je suis nouvelle dans Pégase.
+
+123
+00:09:13,425 --> 00:09:15,757
+Et il paraît que le clonage
+est en 2e année.
+
+124
+00:09:15,877 --> 00:09:16,928
+3e, en fait.
+
+125
+00:09:19,372 --> 00:09:20,271
+Attendez.
+
+126
+00:09:20,602 --> 00:09:21,703
+Qu'y a-t-il ?
+
+127
+00:09:22,695 --> 00:09:26,692
+On dirait la première version
+de l'hybride humain-iratus de Michael.
+
+128
+00:09:30,816 --> 00:09:31,699
+Ohé ?
+
+129
+00:09:33,665 --> 00:09:35,103
+Il y a quelqu'un ?
+
+130
+00:09:38,345 --> 00:09:39,346
+Très bien.
+
+131
+00:09:39,843 --> 00:09:43,343
+On se sépare, on fait un tour.
+Gardez le contact radio.
+
+132
+00:09:43,712 --> 00:09:44,882
+Oui, Monsieur.
+
+133
+00:10:17,029 --> 00:10:19,732
+- Vega, vous trouvez quelque chose ?
+- <i>Rien par ici.</i>
+
+134
+00:10:19,852 --> 00:10:22,134
+<i>Les villageois doivent être partis
+depuis un moment.</i>
+
+135
+00:10:22,254 --> 00:10:24,237
+Oui. La question est pourquoi.
+
+136
+00:10:30,374 --> 00:10:33,553
+Incroyable.
+D'après ceci, les premiers sujets
+
+137
+00:10:33,673 --> 00:10:36,504
+n'étaient pas techniquement
+des hybrides humains-iratus,
+
+138
+00:10:36,624 --> 00:10:39,267
+mais une combinaison
+de plusieurs formes de vie.
+
+139
+00:10:42,266 --> 00:10:45,523
+C'est peut-être pour ça
+qu'il a abandonné ces recherches.
+
+140
+00:10:46,425 --> 00:10:47,873
+C'était trop ambitieux.
+
+141
+00:10:48,353 --> 00:10:51,430
+Non. D'après ceci,
+l'expérience a été un succès.
+
+142
+00:10:52,070 --> 00:10:52,869
+Alors...
+
+143
+00:10:54,183 --> 00:10:55,324
+ça signifie quoi ?
+
+144
+00:10:56,063 --> 00:10:59,264
+Ça signifie
+qu'on ne peut rien pour eux,
+
+145
+00:11:01,148 --> 00:11:02,730
+parce que là-dedans,
+
+146
+00:11:04,564 --> 00:11:06,569
+ce ne sont plus des personnes.
+
+147
+00:11:14,212 --> 00:11:16,053
+Pardon.
+Je voulais pas vous surprendre.
+
+148
+00:11:16,706 --> 00:11:18,931
+Je voulais vous dire
+qu'il va bientôt faire nuit.
+
+149
+00:11:19,217 --> 00:11:21,925
+Alors, on passe une nuit blanche,
+ou...
+
+150
+00:11:22,912 --> 00:11:24,113
+Non, Sergent.
+
+151
+00:11:41,409 --> 00:11:42,417
+Du calme.
+
+152
+00:11:43,289 --> 00:11:45,708
+Qui êtes-vous ?
+D'où venez-vous ?
+
+153
+00:11:46,066 --> 00:11:48,007
+Nous sommes venus
+par ce grand truc rond.
+
+154
+00:11:48,127 --> 00:11:50,379
+Nous sommes explorateurs.
+Qui êtes-vous ?
+
+155
+00:11:50,836 --> 00:11:52,338
+Je me nomme Mirellus.
+
+156
+00:11:52,759 --> 00:11:56,140
+Mirellus, qu'est-ce qui s'est passé ?
+Où sont les gens ?
+
+157
+00:11:57,002 --> 00:11:58,603
+- Partis.
+- Pourquoi ?
+
+158
+00:12:00,141 --> 00:12:02,031
+Ça a commencé il y a un an et demi.
+
+159
+00:12:02,198 --> 00:12:04,379
+Les villageois ont commencé
+à disparaître...
+
+160
+00:12:04,642 --> 00:12:07,605
+d'abord de la forêt environnante,
+puis du village lui-même.
+
+161
+00:12:08,564 --> 00:12:10,274
+De jour, de nuit,
+
+162
+00:12:10,597 --> 00:12:12,699
+ils ont disparu
+sans laisser de traces.
+
+163
+00:12:13,093 --> 00:12:16,581
+Il n'y avait aucune raison,
+pas d'explication à part une...
+
+164
+00:12:17,948 --> 00:12:21,102
+ce village était maudit,
+on l'a donc abandonné.
+
+165
+00:12:21,406 --> 00:12:24,651
+- Pourquoi vous êtes encore là ?
+- Je vis dans le village d'à côté.
+
+166
+00:12:25,741 --> 00:12:27,965
+Je vous ai vus sortir des grottes.
+
+167
+00:12:28,278 --> 00:12:30,461
+Je vous ai suivis pour voir
+ce que vous faisiez et,
+
+168
+00:12:30,621 --> 00:12:32,302
+si besoin, vous prévenir.
+
+169
+00:12:32,792 --> 00:12:35,132
+Que pouvez-vous nous dire
+sur ces grottes ?
+
+170
+00:12:35,865 --> 00:12:38,302
+La rumeur les dit dangereuses,
+
+171
+00:12:38,670 --> 00:12:41,430
+mais le fait que vous y ayez survécu
+semble le démentir.
+
+172
+00:12:42,231 --> 00:12:45,012
+- Qu'y avez-vous trouvé ?
+- <i>Colonel Sheppard, vous me recevez ?</i>
+
+173
+00:12:45,132 --> 00:12:47,686
+- Me dites pas que vous avez déjà fini.
+- <i>Loin de là.</i>
+
+174
+00:12:47,847 --> 00:12:51,327
+Nous avons récupéré des informations.
+Nous aimerions les examiner ce soir.
+
+175
+00:12:51,447 --> 00:12:54,819
+On aimerait rester dans le village,
+s'il y a de la place.
+
+176
+00:12:54,980 --> 00:12:58,614
+- Je crois qu'il y a un peu de place.
+- <i>Super. Nous arrivons, alors.</i>
+
+177
+00:12:59,609 --> 00:13:02,743
+- Désolé pour ça.
+- Bonne chance, si vous comptez rester.
+
+178
+00:13:02,904 --> 00:13:04,286
+On n'a pas fini.
+
+179
+00:13:04,447 --> 00:13:06,926
+La nuit tombe
+et cet endroit n'est pas sûr.
+
+180
+00:13:07,239 --> 00:13:08,534
+Je dois partir.
+
+181
+00:13:09,750 --> 00:13:11,614
+D'accord, comme vous voulez.
+
+182
+00:13:18,831 --> 00:13:22,786
+Donc, Sergent, vous travailliez au SGC
+avant d'être transférée ici ?
+
+183
+00:13:22,906 --> 00:13:25,720
+Oui, mais Pégase
+avait plus à m'offrir.
+
+184
+00:13:26,051 --> 00:13:27,059
+Quoi donc ?
+
+185
+00:13:27,322 --> 00:13:28,882
+Des méchants à tuer.
+
+186
+00:13:29,875 --> 00:13:33,274
+La Voie lactée n'est plus la même
+depuis que les Oris ont dégagé.
+
+187
+00:13:33,501 --> 00:13:36,464
+Certains diront
+que la situation s'est améliorée...
+
+188
+00:13:39,032 --> 00:13:40,079
+Qu'y a-t-il ?
+
+189
+00:13:40,855 --> 00:13:42,829
+J'ai cru entendre quelque chose.
+
+190
+00:13:42,949 --> 00:13:43,750
+Quoi ?
+
+191
+00:13:53,297 --> 00:13:54,833
+C'est sûrement rien.
+
+192
+00:13:56,073 --> 00:13:57,150
+Mon Dieu.
+
+193
+00:14:15,964 --> 00:14:18,292
+On va au village suivant,
+pour parler aux villageois.
+
+194
+00:14:18,412 --> 00:14:19,967
+Vous avez besoin de rien ?
+
+195
+00:14:20,087 --> 00:14:23,657
+Si vous voyez un Starbuck, prenez-moi
+un triple lait vanille sans sucre.
+
+196
+00:14:25,274 --> 00:14:27,033
+Sans problème. Sergent ?
+
+197
+00:14:27,206 --> 00:14:29,465
+Je fais la baby-sitter.
+Oui, Monsieur.
+
+198
+00:14:29,585 --> 00:14:31,633
+On revient dans quelques heures.
+
+199
+00:15:00,164 --> 00:15:03,405
+J'ai l'impression d'être au lycée,
+en train d'étudier pour mes examens.
+
+200
+00:15:03,565 --> 00:15:05,086
+Je vois très bien.
+
+201
+00:15:05,598 --> 00:15:07,977
+- C'était où, d'ailleurs ?
+- Cal Tech.
+
+202
+00:15:08,345 --> 00:15:10,156
+- Allez les Castors.
+- Ouais.
+
+203
+00:15:11,338 --> 00:15:14,365
+- En quelle année, votre diplôme ?
+- 1996.
+
+204
+00:15:14,664 --> 00:15:17,876
+- Mais vous êtes une jeunette.
+- Oh, merci.
+
+205
+00:15:22,902 --> 00:15:24,881
+Je viens de lire un truc marrant.
+
+206
+00:15:26,817 --> 00:15:28,413
+Et très évident aussi.
+
+207
+00:15:31,951 --> 00:15:32,905
+Bref...
+
+208
+00:15:33,503 --> 00:15:35,813
+qu'est-ce qui vous amène
+dans la galaxie de Pégase ?
+
+209
+00:15:36,100 --> 00:15:39,149
+Mettons ça sur le compte
+de ma soif d'aventure.
+
+210
+00:15:39,616 --> 00:15:42,919
+L'envie de visiter
+des mondes étranges, inexplorés,
+
+211
+00:15:43,039 --> 00:15:45,745
+rencontrer de nouvelles personnes
+intéressantes.
+
+212
+00:15:47,046 --> 00:15:49,227
+Très bien,
+je vais vérifier le périmètre.
+
+213
+00:15:51,100 --> 00:15:52,473
+Je reviens dans 20 minutes.
+
+214
+00:15:56,274 --> 00:15:58,377
+Sauf s'il y a
+une chaussette sur la poignée.
+
+215
+00:16:03,836 --> 00:16:06,329
+- Elle a un sacré caractère, elle.
+- Ouais.
+
+216
+00:16:12,842 --> 00:16:14,648
+Le brouillard s'est levé vite.
+
+217
+00:16:14,768 --> 00:16:17,313
+Vega, vous êtes sûre
+qu'on est dans la bonne direction ?
+
+218
+00:16:17,912 --> 00:16:19,052
+Plus ou moins.
+
+219
+00:16:20,413 --> 00:16:21,553
+Et merde !
+
+220
+00:16:22,507 --> 00:16:24,174
+Super. La mienne aussi.
+
+221
+00:16:24,787 --> 00:16:27,275
+Donc, c'est le brouillard
+qui perturbe les lumières.
+
+222
+00:16:27,689 --> 00:16:29,658
+C'est à se demander ce qu'on traverse.
+
+223
+00:16:29,778 --> 00:16:31,236
+Et ce qu'on respire.
+
+224
+00:16:32,785 --> 00:16:35,843
+- Quel est le problème ?
+- Je crois avoir vu quelque chose.
+
+225
+00:16:38,598 --> 00:16:39,507
+Quoi ?
+
+226
+00:16:40,844 --> 00:16:43,663
+D'accord.
+C'est sûr, là, j'ai vu quelque chose.
+
+227
+00:17:40,613 --> 00:17:41,600
+Et zut.
+
+228
+00:18:01,635 --> 00:18:02,643
+Flippant.
+
+229
+00:18:17,863 --> 00:18:20,725
+- Ça doit être un animal.
+- Un animal qui nous épie ?
+
+230
+00:18:20,845 --> 00:18:23,783
+- Quel soulagement.
+- Silence. J'ai entendu un bruit...
+
+231
+00:18:26,813 --> 00:18:28,601
+- Qu'est-ce qu'il y a ?
+- Des démons !
+
+232
+00:18:28,721 --> 00:18:31,295
+- De quoi vous parlez ?
+- Ils sont là, dans la brume.
+
+233
+00:18:31,415 --> 00:18:32,731
+Des démons ? Oui.
+
+234
+00:18:32,851 --> 00:18:35,102
+Ils en ont après moi.
+Nous sommes en danger.
+
+235
+00:18:35,222 --> 00:18:36,474
+Doucement.
+
+236
+00:18:36,594 --> 00:18:38,696
+Excusez-moi,
+mais on va pas y croire, non ?
+
+237
+00:18:38,816 --> 00:18:40,028
+Soyez vigilante, Vega.
+
+238
+00:18:42,910 --> 00:18:44,501
+Retournons sur Atlantis avant...
+
+239
+00:18:46,478 --> 00:18:47,340
+Vega !
+
+240
+00:18:58,048 --> 00:18:58,896
+Merde.
+
+241
+00:19:24,494 --> 00:19:25,485
+Retraite !
+
+242
+00:19:37,532 --> 00:19:40,973
+Je suis vraiment contente
+qu'on ait pu travailler ensemble.
+
+243
+00:19:42,519 --> 00:19:44,066
+Moi de même, Alison.
+
+244
+00:19:47,339 --> 00:19:49,190
+- C'était quoi ?
+- Je ne sais pas.
+
+245
+00:19:51,551 --> 00:19:53,348
+Colonel, tout va bien ?
+
+246
+00:19:53,468 --> 00:19:55,286
+Colonel, répondez !
+Colonel !
+
+247
+00:19:55,406 --> 00:19:57,483
+- Rien sur la radio !
+- Rentrez. Je vais voir.
+
+248
+00:19:57,603 --> 00:19:59,364
+- Je viens avec vous.
+- Pas question.
+
+249
+00:19:59,484 --> 00:20:00,910
+Vous n'irez pas seule.
+
+250
+00:20:01,093 --> 00:20:03,537
+Le colonel m'a dit
+de prendre soin de vous, et j'obéis.
+
+251
+00:20:03,657 --> 00:20:06,394
+Vous restez ici,
+le plus loin possible des coups de feu.
+
+252
+00:20:06,514 --> 00:20:08,413
+Alors, rentrez et verrouillez la porte.
+
+253
+00:20:08,533 --> 00:20:09,962
+- Vous...
+- C'est un ordre.
+
+254
+00:20:11,031 --> 00:20:12,497
+Carson ? Venez.
+
+255
+00:20:16,415 --> 00:20:17,378
+Venez.
+
+256
+00:20:27,404 --> 00:20:29,407
+Désolé.
+Je ne savais pas.
+
+257
+00:20:29,904 --> 00:20:31,672
+De quoi vous parlez ?
+
+258
+00:20:35,592 --> 00:20:36,592
+Oh, mon Dieu.
+
+259
+00:20:41,350 --> 00:20:43,102
+Les caissons sont ouverts.
+
+260
+00:20:48,876 --> 00:20:49,987
+C'était moi.
+
+261
+00:20:50,792 --> 00:20:52,977
+- Je les ai libérés.
+- Pourquoi ?
+
+262
+00:20:53,171 --> 00:20:56,494
+Quand vous avez parlé des grottes,
+j'ai su que vous aviez vu quelque chose.
+
+263
+00:20:57,104 --> 00:20:58,354
+Je suis venu voir.
+
+264
+00:20:58,720 --> 00:20:59,761
+Pourquoi ?
+
+265
+00:21:00,930 --> 00:21:02,639
+Ma femme aussi a disparu.
+
+266
+00:21:04,328 --> 00:21:07,947
+Quand j'ai vu ces corps bloqués,
+j'ai pensé que peut-être...
+
+267
+00:21:09,444 --> 00:21:10,606
+Je ne savais pas.
+
+268
+00:21:11,022 --> 00:21:12,953
+Je pensais pouvoir la sauver.
+
+269
+00:21:13,577 --> 00:21:16,361
+12 caissons...
+Ça nous en fait 12 en liberté.
+
+270
+00:21:16,919 --> 00:21:19,781
+Avec celle que vous avez eue,
+ça nous en laisse 11.
+
+271
+00:21:21,655 --> 00:21:23,058
+Beckett ?
+Dr Porter ?
+
+272
+00:21:24,858 --> 00:21:28,331
+C'est sûrement la brume.
+Elle perturbe les lampes et les radios.
+
+273
+00:21:28,451 --> 00:21:31,596
+- Vous vous débrouillez en wraith ?
+- Sûrement aussi bien que vous.
+
+274
+00:21:31,716 --> 00:21:33,954
+On a besoin de Beckett et du Dr Porter.
+
+275
+00:21:34,074 --> 00:21:35,319
+Allons les chercher.
+
+276
+00:21:36,333 --> 00:21:39,196
+- Mais les démons sont toujours là.
+- On va revenir.
+
+277
+00:21:43,770 --> 00:21:44,774
+Attendez !
+
+278
+00:21:47,031 --> 00:21:49,276
+Ça devient brumeux dehors.
+
+279
+00:21:56,056 --> 00:21:58,218
+Je n'aurais pas dû
+la laisser sortir seule.
+
+280
+00:21:58,338 --> 00:21:59,584
+C'était un ordre.
+
+281
+00:21:59,704 --> 00:22:02,543
+- J'aurais dû insister.
+- Elle vous aurait envoyé promener.
+
+282
+00:22:02,663 --> 00:22:03,909
+Vous la connaissez pas.
+
+283
+00:22:04,899 --> 00:22:06,431
+C'était quoi, ça ?
+
+284
+00:22:07,212 --> 00:22:09,098
+Elle est peut-être de retour.
+
+285
+00:22:12,463 --> 00:22:13,463
+Sergent ?
+
+286
+00:22:15,276 --> 00:22:16,814
+Sergent, c'est vous ?
+
+287
+00:22:21,004 --> 00:22:21,963
+Merde.
+
+288
+00:22:23,527 --> 00:22:25,138
+- Vous faites quoi ?
+- Je sors.
+
+289
+00:22:25,574 --> 00:22:27,555
+Dusty nous a dit de rester ici.
+
+290
+00:22:27,904 --> 00:22:31,061
+Écoutez, c'est sûrement rien,
+mais s'il y a quelqu'un...
+
+291
+00:22:31,966 --> 00:22:35,230
+Je préfèrerais les surprendre
+plutôt que le contraire.
+
+292
+00:22:36,943 --> 00:22:38,317
+Écoutez, Alison.
+
+293
+00:22:38,925 --> 00:22:40,154
+Ça va aller.
+
+294
+00:22:40,387 --> 00:22:42,276
+Vous restez là.
+D'accord ?
+
+295
+00:22:43,090 --> 00:22:44,228
+Très bien.
+
+296
+00:23:18,812 --> 00:23:19,899
+Sergent ?
+
+297
+00:23:26,024 --> 00:23:27,324
+Sergent Mehra ?
+
+298
+00:23:40,335 --> 00:23:41,423
+Mon Dieu...
+
+299
+00:24:57,720 --> 00:24:59,354
+- Allez !
+- Merci, Sergent.
+
+300
+00:24:59,474 --> 00:25:00,929
+Allez, allez, on bouge !
+
+301
+00:25:02,390 --> 00:25:03,923
+C'était quoi, bordel ?
+
+302
+00:25:06,677 --> 00:25:07,993
+Où est Alison ?
+
+303
+00:25:08,613 --> 00:25:10,162
+C'était quoi, ces trucs ?
+
+304
+00:25:10,676 --> 00:25:13,530
+Baissez le ton.
+On dirait que ça chasse au son.
+
+305
+00:25:25,417 --> 00:25:26,236
+Bon Dieu.
+
+306
+00:25:27,448 --> 00:25:29,757
+À voir vos têtes,
+vous devez savoir ce qui se passe.
+
+307
+00:25:30,045 --> 00:25:31,741
+Où est le capitaine ?
+
+308
+00:25:32,082 --> 00:25:33,034
+Morte.
+
+309
+00:25:33,551 --> 00:25:35,488
+- Où est Porter ?
+- On ne sait pas.
+
+310
+00:25:35,967 --> 00:25:36,994
+Génial.
+
+311
+00:25:37,241 --> 00:25:41,176
+Une reine de promo, un môme en fauteuil,
+et on a la totale.
+
+312
+00:25:41,870 --> 00:25:43,831
+Faut la trouver.
+Elle sait pas ce que c'est.
+
+313
+00:25:44,024 --> 00:25:45,364
+Et qu'est-ce que c'est ?
+
+314
+00:25:45,708 --> 00:25:48,554
+- Les expériences de Michael.
+- Ça, on l'avait compris.
+
+315
+00:25:49,285 --> 00:25:51,121
+C'est une première version
+des hybrides,
+
+316
+00:25:51,301 --> 00:25:53,055
+génétiquement modifiée
+
+317
+00:25:53,262 --> 00:25:56,341
+pour introduire les caractéristiques
+d'autres créatures.
+
+318
+00:25:56,961 --> 00:25:58,937
+- Quel genre ?
+- Je ne sais pas trop.
+
+319
+00:25:59,396 --> 00:26:02,194
+Mais je sais qu'ils sont aveugles
+et chassent au son.
+
+320
+00:26:02,314 --> 00:26:05,775
+Et ce brouillard n'est pas
+un phénomène naturel.
+
+321
+00:26:06,251 --> 00:26:09,696
+J'en ai vu un exhaler la brume
+par les branchies de son cou.
+
+322
+00:26:10,550 --> 00:26:12,555
+Comme un poulpe
+qui expulse son encre ?
+
+323
+00:26:12,675 --> 00:26:14,223
+À part que c'est défensif.
+
+324
+00:26:14,874 --> 00:26:17,650
+Pour ces créatures,
+c'est clairement offensif.
+
+325
+00:26:17,816 --> 00:26:20,546
+D'où les masques à gaz au labo.
+
+326
+00:26:20,666 --> 00:26:23,994
+Qui sait ce qu'une exposition prolongée
+à cette brume pourrait nous faire.
+
+327
+00:26:24,114 --> 00:26:26,854
+J'ai une super idée.
+On va éviter de le découvrir.
+
+328
+00:26:27,336 --> 00:26:29,555
+Attendons ici jusqu'à l'aube.
+Ce sera plus sûr.
+
+329
+00:26:29,675 --> 00:26:33,300
+Ces choses ne sont pas nocturnes.
+Jour ou nuit, aucune différence.
+
+330
+00:26:33,423 --> 00:26:35,674
+Et on peut pas rester là.
+On doit trouver Porter.
+
+331
+00:26:35,871 --> 00:26:38,053
+Vous êtes sérieux ?
+Vous allez sortir ?
+
+332
+00:26:38,423 --> 00:26:41,603
+Repartez étudier les données,
+trouvez un moyen de gérer ces choses.
+
+333
+00:26:42,100 --> 00:26:43,543
+Ça pourrait être un problème.
+
+334
+00:26:43,985 --> 00:26:46,233
+Michael n'a pas laissé tomber
+sans raison...
+
+335
+00:26:47,080 --> 00:26:49,531
+Même lui n'a pas pu
+contrôler ces créatures.
+
+336
+00:26:53,828 --> 00:26:54,750
+Génial.
+
+337
+00:27:06,439 --> 00:27:08,555
+Très bien, vous êtes sûr que ça ira ?
+
+338
+00:27:08,675 --> 00:27:12,509
+Tant qu'on est silencieux,
+on sera moins en danger que vous dehors.
+
+339
+00:27:13,260 --> 00:27:16,640
+Très bien, on va se séparer
+pour couvrir plus de terrain.
+
+340
+00:27:20,038 --> 00:27:21,529
+Retour dans 20 min.
+
+341
+00:27:21,835 --> 00:27:23,020
+Bonne chance.
+
+342
+00:29:12,565 --> 00:29:14,865
+Quoi que vous fassiez, pas un bruit.
+
+343
+00:29:24,764 --> 00:29:27,268
+- C'était une erreur.
+- Parlez moins fort.
+
+344
+00:29:27,475 --> 00:29:29,957
+- Je savais que c'était trop dangereux !
+- Pas un bruit.
+
+345
+00:29:30,077 --> 00:29:33,108
+On aurait plutôt dû aller au village,
+on serait en sécurité !
+
+346
+00:29:33,388 --> 00:29:35,604
+- Fermez-la !
+- Maintenant, on a tout...
+
+347
+00:30:41,528 --> 00:30:42,844
+Ali, ça va ?
+
+348
+00:30:42,964 --> 00:30:43,831
+Ouais.
+
+349
+00:30:44,020 --> 00:30:45,180
+On avance.
+
+350
+00:31:03,197 --> 00:31:04,270
+Colonel.
+
+351
+00:31:05,254 --> 00:31:06,745
+C'est le major Teldy.
+
+352
+00:31:07,948 --> 00:31:09,426
+Elle nous voit pas.
+
+353
+00:31:32,488 --> 00:31:34,684
+- Surveillez à 6 heures.
+- Très bien.
+
+354
+00:31:52,030 --> 00:31:53,456
+Je vous croyais morte.
+
+355
+00:31:53,576 --> 00:31:55,274
+Ouais, j'y ai cru aussi.
+
+356
+00:31:55,440 --> 00:31:56,668
+Et les autres ?
+
+357
+00:31:57,000 --> 00:31:58,713
+C'est bon, vous croyez ?
+
+358
+00:31:59,432 --> 00:32:01,797
+Ça n'a pas l'air,
+au moins pour un d'entre eux.
+
+359
+00:32:01,917 --> 00:32:03,160
+Y a du sang.
+
+360
+00:32:08,062 --> 00:32:09,485
+On peut pas savoir.
+
+361
+00:32:19,109 --> 00:32:21,982
+Un de ces trucs est sorti
+du puits en rampant.
+
+362
+00:32:22,216 --> 00:32:23,680
+Ça m'a fait réfléchir.
+
+363
+00:32:24,025 --> 00:32:25,343
+Ces catacombes,
+
+364
+00:32:25,707 --> 00:32:28,267
+il y en a des kilomètres
+dans toutes les directions.
+
+365
+00:32:28,767 --> 00:32:32,390
+Donc je pense qu'une mène
+de ce puits au centre de la ville.
+
+366
+00:32:32,707 --> 00:32:36,104
+Ça expliquerait comment Michael
+enlevait ses sujets sans être vu.
+
+367
+00:32:36,546 --> 00:32:39,874
+Très bien, on a vu 12 caissons
+dans le labo.
+
+368
+00:32:40,371 --> 00:32:43,631
+- J'en ai tué un dans la forêt, donc...
+- J'en ai eu deux...
+
+369
+00:32:44,153 --> 00:32:46,017
+ce qui me place en première place.
+
+370
+00:32:47,335 --> 00:32:49,980
+Entendu, ça nous en fait neuf.
+
+371
+00:32:50,395 --> 00:32:52,175
+D'accord, et maintenant ?
+
+372
+00:32:54,138 --> 00:32:55,310
+Une idée ?
+
+373
+00:32:58,512 --> 00:33:02,493
+Elles ont un sens de l'ouïe développé
+et chassent à l'aveugle.
+
+374
+00:33:03,213 --> 00:33:04,611
+On pourrait l'utiliser.
+
+375
+00:33:04,906 --> 00:33:08,697
+- Comment ?
+- Je sais pas, leur préparer un piège ?
+
+376
+00:33:09,694 --> 00:33:11,743
+Et vous voulez utiliser quoi
+comme appât ?
+
+377
+00:33:17,744 --> 00:33:18,579
+Ça.
+
+378
+00:33:22,875 --> 00:33:24,468
+Très bien, voilà le plan.
+
+379
+00:33:24,588 --> 00:33:27,327
+Vous trois, prenez position en haut...
+
+380
+00:33:27,447 --> 00:33:29,239
+Teldy et Porter ici,
+
+381
+00:33:29,791 --> 00:33:30,934
+Mehra par là...
+
+382
+00:33:31,054 --> 00:33:33,155
+je pose des charges sur le terrain.
+
+383
+00:33:33,326 --> 00:33:35,812
+- Pour faire sauter le puits ?
+- C'est le plan.
+
+384
+00:33:36,149 --> 00:33:37,727
+Mettez donc un minuteur.
+
+385
+00:33:37,887 --> 00:33:41,818
+Les radios et les lampes marchent pas,
+le détonateur, ça risque d'être pareil.
+
+386
+00:33:41,962 --> 00:33:45,777
+Très bien, en atteignant le puits,
+j'allume l'ordinateur.
+
+387
+00:33:47,465 --> 00:33:51,326
+Je ai programmé une salve d'ultrasons
+qui les attirera vers vous.
+
+388
+00:33:51,566 --> 00:33:53,931
+- Mais s'il est près du brouillard...
+- Je l'éloignerai.
+
+389
+00:33:54,051 --> 00:33:56,828
+Il devrait être hors d'atteinte
+et attirer les neuf.
+
+390
+00:33:56,948 --> 00:33:59,686
+Vous trois, en position, sans bouger
+
+391
+00:34:00,169 --> 00:34:03,318
+jusqu'au signal,
+et tirez sur tout ce qui bouge.
+
+392
+00:34:03,779 --> 00:34:05,213
+C'est quoi, le signal ?
+
+393
+00:34:05,652 --> 00:34:07,368
+Ce sera l'explosion du puits.
+
+394
+00:34:07,488 --> 00:34:08,850
+Et vous serez où ?
+
+395
+00:34:09,155 --> 00:34:11,147
+Aussi loin que possible, j'espère.
+
+396
+00:34:13,163 --> 00:34:14,722
+Et si tout va de travers ?
+
+397
+00:34:14,882 --> 00:34:16,343
+Soyez pas négative, Teldy.
+
+398
+00:34:16,576 --> 00:34:19,686
+- Je suis sérieuse, Colonel.
+- Prenez position, sans bouger,
+
+399
+00:34:19,846 --> 00:34:22,429
+en attendant le signal.
+Aucun mouvement, aucun bruit
+
+400
+00:34:22,549 --> 00:34:23,769
+jusqu'à l'explosion.
+
+401
+00:34:23,889 --> 00:34:26,442
+- Colonel, qu...
+- Je crois avoir été clair, Sergent.
+
+402
+00:34:26,903 --> 00:34:27,903
+Oui, Monsieur.
+
+403
+00:34:29,715 --> 00:34:31,474
+Chacun sait ce qu'il a à faire ?
+
+404
+00:34:31,842 --> 00:34:34,389
+- Oui, Monsieur.
+- On y va.
+
+405
+00:36:19,889 --> 00:36:21,641
+Qu'est-ce qui se passe, là-dessous ?
+
+406
+00:36:27,677 --> 00:36:28,576
+Pas encore.
+
+407
+00:36:29,158 --> 00:36:30,079
+Merde.
+
+408
+00:36:30,838 --> 00:36:31,909
+Attendez.
+
+409
+00:36:33,642 --> 00:36:34,721
+Ça va ?
+
+410
+00:36:38,525 --> 00:36:39,853
+En sécurité.
+
+411
+00:36:39,973 --> 00:36:40,973
+Dieu merci.
+
+412
+00:36:42,279 --> 00:36:44,035
+Vous avez perdu quelque chose ?
+
+413
+00:36:44,888 --> 00:36:45,855
+Mon C-4.
+
+414
+00:36:52,596 --> 00:36:55,383
+- Je pense qu'on devrait partir.
+- Moi aussi.
+
+415
+00:37:13,704 --> 00:37:15,154
+Allez, allez.
+
+416
+00:37:22,653 --> 00:37:23,353
+Là !
+
+417
+00:37:23,473 --> 00:37:26,080
+Les tirs pourraient toucher le colonel.
+Attendez le signal.
+
+418
+00:38:07,200 --> 00:38:08,636
+Ils sont tous là ?
+
+419
+00:38:09,038 --> 00:38:10,146
+Huit... neuf...
+
+420
+00:38:10,266 --> 00:38:12,305
+avec les trois autres, ça fait 12.
+
+421
+00:38:20,153 --> 00:38:22,003
+Désolée, là ça fait neuf.
+
+422
+00:38:23,581 --> 00:38:25,915
+- Avec les trois, ça fait 12.
+- Exact.
+
+423
+00:38:27,351 --> 00:38:28,759
+<i>Colonel, où êtes-vous ?</i>
+
+424
+00:38:29,008 --> 00:38:31,539
+Au fond du puits, dans les catacombes.
+Beckett est avec moi.
+
+425
+00:38:31,789 --> 00:38:34,484
+<i>Descendez toutes les trois
+et rejoignez-nous.</i>
+
+426
+00:38:34,733 --> 00:38:35,852
+On arrive.
+
+427
+00:38:42,714 --> 00:38:45,232
+Je veux rentrer sur Atlantis
+et dormir une semaine.
+
+428
+00:38:45,352 --> 00:38:48,203
+Je comprends ce que vous dites.
+Je promets que ce sera bref.
+
+429
+00:38:51,880 --> 00:38:53,330
+Alison, ça va ?
+
+430
+00:38:53,602 --> 00:38:54,602
+Ouais.
+
+431
+00:38:55,414 --> 00:38:58,137
+Les amis, ça vous ennuie pas
+si je reste ici ?
+
+432
+00:38:58,523 --> 00:39:00,291
+J'ai ma dose de trucs dingues.
+
+433
+00:39:00,912 --> 00:39:02,059
+Ouais, bien sûr.
+
+434
+00:39:04,406 --> 00:39:05,907
+Je lui tiens compagnie.
+
+435
+00:39:07,900 --> 00:39:09,184
+On va faire vite.
+
+436
+00:39:21,989 --> 00:39:24,532
+Je veux être sûr d'avoir
+toutes les données sur ces créatures,
+
+437
+00:39:25,286 --> 00:39:26,700
+qu'on n'ait pas à revenir.
+
+438
+00:39:30,124 --> 00:39:31,298
+C'était quoi ?
+
+439
+00:39:31,712 --> 00:39:32,667
+Quoi ?
+
+440
+00:39:33,300 --> 00:39:35,247
+J'ai cru entendre quelque chose.
+
+441
+00:39:35,910 --> 00:39:37,254
+Du calme, d'accord ?
+
+442
+00:39:37,374 --> 00:39:39,846
+Il y avait 12 caissons.
+On a compté 12 corps.
+
+443
+00:39:40,727 --> 00:39:42,505
+- On les a tous eus.
+- Ouais.
+
+444
+00:40:13,854 --> 00:40:14,913
+C'est quoi ?
+
+445
+00:40:31,230 --> 00:40:32,483
+Oh, merde.
+
+446
+00:40:34,128 --> 00:40:35,619
+On les a pas tous eus.
+
+447
+00:40:49,643 --> 00:40:50,730
+Il n'y a rien.
+
+448
+00:41:09,653 --> 00:41:10,846
+Porter ? Mehra ?
+
+449
+00:41:13,423 --> 00:41:16,420
+S'ils prennent notre position,
+vous deux, vous reculez.
+
+450
+00:41:16,595 --> 00:41:19,188
+Prenez le second tunnel
+vers la surface, traversez la Porte.
+
+451
+00:41:20,038 --> 00:41:21,732
+Qui est pessimiste ?
+
+452
+00:41:57,085 --> 00:41:58,172
+Dégagé ?
+
+453
+00:41:59,049 --> 00:42:00,049
+Dégagé.
+
+454
+00:42:15,279 --> 00:42:17,912
+Je peux pas croire que tu partes.
+Ça fait même pas deux semaines.
+
+455
+00:42:18,321 --> 00:42:20,708
+J'ai fini mes recherches
+sur les créatures de Michael
+
+456
+00:42:20,828 --> 00:42:23,043
+et transmis mes résultats
+au Dr Lynch et son équipe.
+
+457
+00:42:23,203 --> 00:42:25,921
+Il y a des missions plus importantes :
+sauver des vies.
+
+458
+00:42:28,486 --> 00:42:31,093
+- Salut, Doc.
+- J'ai peut-être parlé trop vite.
+
+459
+00:42:31,547 --> 00:42:34,138
+Une autre mission
+requiert mes compétences ?
+
+460
+00:42:34,298 --> 00:42:36,475
+Je venais voir
+si vous aviez besoin d'aide.
+
+461
+00:42:36,878 --> 00:42:38,976
+- Je suis très touché.
+- Comment va Porter ?
+
+462
+00:42:40,088 --> 00:42:41,257
+- Qui ?
+- Bien...
+
+463
+00:42:41,430 --> 00:42:44,273
+Deux semaines de permission,
+puis elle revient dans Pégase.
+
+464
+00:42:44,433 --> 00:42:47,693
+Elle pourrait m'être bien utile
+dans mon travail.
+
+465
+00:42:48,010 --> 00:42:49,545
+- J'imagine.
+- Qui est Porter ?
+
+466
+00:42:49,665 --> 00:42:53,437
+- Vous pourriez en parler à M. Woolsey.
+- C'est comme si c'était fait.
+
+467
+00:42:53,629 --> 00:42:56,266
+Parfait.
+Je veux même pas savoir. Ne dites rien.
+
+468
+00:42:56,774 --> 00:42:58,169
+Allez, dites-moi !
+

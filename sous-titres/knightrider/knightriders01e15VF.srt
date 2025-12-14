@@ -1,0 +1,3348 @@
+1
+00:00:01,136 --> 00:00:04,600
+<i>Licence T, Vendredi soir, tout le monde
+parti, tout le monde va bien.</i>
+
+2
+00:00:04,800 --> 00:00:08,600
+<i>Ceci est un appel pour Charlie 9,
+votre transport n'a pas répondu.</i>
+
+3
+00:00:09,800 --> 00:00:14,600
+<i>Charlie 9. Kitt.
+Vous m'entendez ? Vous allez bien ?</i>
+
+4
+00:00:15,248 --> 00:00:18,809
+<i>Ceci est un appel pour Charlie 9,
+votre transport n'a pas répondu.</i>
+
+5
+00:00:19,800 --> 00:00:21,600
+<i>Charlie 9. Kitt, vous m'entendez ?</i>
+
+6
+00:00:22,800 --> 00:00:24,004
+<i>Charlie 9,</i>
+
+7
+00:00:24,087 --> 00:00:26,400
+<i>revenez si vous êtes là.</i>
+
+8
+00:00:30,910 --> 00:00:33,310
+Michael. Réveille-toi, Michael.
+
+9
+00:00:36,008 --> 00:00:37,397
+Kitt ?
+
+10
+00:00:37,480 --> 00:00:38,590
+Je suis désolé,
+
+11
+00:00:38,673 --> 00:00:41,406
+mais j'ai rencontré
+une possible situation.
+
+12
+00:00:43,206 --> 00:00:44,386
+Quelle heure est-il ?
+
+13
+00:00:44,469 --> 00:00:46,295
+Il est 4 h 17 du matin.
+
+14
+00:00:47,900 --> 00:00:49,574
+Les méchants ne dorment jamais ?
+
+15
+00:00:49,657 --> 00:00:50,277
+Non.
+
+16
+00:00:50,467 --> 00:00:51,960
+Mais moi non plus.
+
+17
+00:01:03,845 --> 00:01:05,505
+Bonjour, les gens.
+
+18
+00:01:06,308 --> 00:01:07,634
+Quel est le mot d'ordre ?
+
+19
+00:01:07,717 --> 00:01:08,730
+Un avion disparu.
+
+20
+00:01:08,800 --> 00:01:10,027
+Ça fait trois mots.
+
+21
+00:01:10,110 --> 00:01:11,801
+Et les avions ne disparaissent pas.
+
+22
+00:01:11,884 --> 00:01:13,000
+Celui-là l'a fait.
+
+23
+00:01:13,060 --> 00:01:15,960
+Disparu comme ma cavalière
+du bal à minuit.
+
+24
+00:01:16,373 --> 00:01:17,814
+Le dernier contact était à
+
+25
+00:01:17,897 --> 00:01:19,556
+4 h 03 ce matin, au-dessus des Sierras.
+
+26
+00:01:19,639 --> 00:01:21,319
+Il était en route, bon vent, puis...
+
+27
+00:01:21,402 --> 00:01:22,414
+il a disparu.
+
+28
+00:01:22,497 --> 00:01:23,460
+Les menottes d'Houdini.
+
+29
+00:01:23,530 --> 00:01:24,900
+La fiancée de Copperfield.
+
+30
+00:01:24,960 --> 00:01:27,900
+Il n'a pas disparu.
+Quelque chose a dû se passer.
+
+31
+00:01:27,960 --> 00:01:29,630
+Quand est-ce que Mike et Kitt sont partis ?
+
+32
+00:01:29,700 --> 00:01:31,230
+<i>À 4 h 30 ce matin.</i>
+
+33
+00:01:32,500 --> 00:01:33,735
+Kitt t'a encore réveillé ?
+
+34
+00:01:33,818 --> 00:01:35,669
+<i>Ouais, et puisqu'on en parle.</i>
+
+35
+00:01:35,752 --> 00:01:37,933
+<i>Je crois que nous avons besoin
+de parler de limites.</i>
+
+36
+00:01:38,016 --> 00:01:40,130
+Nous approchons de
+la latitude et de la longitude
+
+37
+00:01:40,200 --> 00:01:42,200
+de la dernière position GPS
+connue de l'avion.
+
+38
+00:01:43,175 --> 00:01:44,800
+N'essaie pas de changer de sujet.
+
+39
+00:01:48,725 --> 00:01:50,818
+Ça c'est changer de sujet, Michael.
+
+40
+00:01:52,488 --> 00:01:54,408
+Je détecte une zone de chaleur extrême
+
+41
+00:01:54,491 --> 00:01:55,870
+derrière cette colline.
+
+42
+00:01:55,953 --> 00:01:57,829
+Ça pourrait être le site du crash.
+
+43
+00:01:57,912 --> 00:01:59,960
+On va voir ce qu'on peut faire.
+
+44
+00:02:01,092 --> 00:02:02,496
+C'est parti, le sale.
+
+45
+00:02:02,845 --> 00:02:04,185
+Je ne suis pas sale.
+
+46
+00:02:05,375 --> 00:02:07,388
+Initialisation transformation.
+
+47
+00:02:10,190 --> 00:02:11,547
+Transformation complète.
+
+48
+00:02:12,419 --> 00:02:14,160
+Dans environ 180 mètres,
+
+49
+00:02:14,230 --> 00:02:15,700
+nous arriverons dans la zone.
+
+50
+00:02:15,760 --> 00:02:18,330
+Et sois prudent,
+si l'avion s'est crashé ici,
+
+51
+00:02:18,400 --> 00:02:20,962
+l'endroit pourrait être très dérangeant.
+
+52
+00:02:43,160 --> 00:02:45,900
+L'épave semble être celle d'un jet Leer.
+
+53
+00:02:46,930 --> 00:02:48,000
+Contacte le NTSB.
+
+54
+00:02:48,060 --> 00:02:49,660
+Dis-leur que nous avons
+localisé les lieux du crash.
+
+55
+00:02:49,730 --> 00:02:51,400
+Je dois protester, Michael.
+
+56
+00:02:53,760 --> 00:02:55,883
+Tu ne veux pas contacter le NTSB ?
+
+57
+00:02:56,051 --> 00:02:58,530
+Je ne crois pas que nous ayons
+trouvé le site du crash.
+
+58
+00:03:00,700 --> 00:03:02,460
+Un grand trou fumant, une épave de jet...
+
+59
+00:03:02,530 --> 00:03:04,130
+Qu'est-ce que j'ai loupé, Kitt ?
+
+60
+00:03:04,200 --> 00:03:06,360
+Les images satellites
+montrent que l'épave
+
+61
+00:03:06,430 --> 00:03:09,130
+est réparti sur un rayon de 200 mètres.
+
+62
+00:03:09,200 --> 00:03:11,300
+Mais un jet Leer,
+s'écrasant à vitesse minimale,
+
+63
+00:03:11,360 --> 00:03:14,500
+disperserait l'épave sur
+au moins un quart de kilomètre.
+
+64
+00:03:14,560 --> 00:03:15,830
+Peut-être une anomalie.
+
+65
+00:03:15,900 --> 00:03:17,904
+Le rayon des dégâts
+ne me parait pas très cohérent.
+
+66
+00:03:17,987 --> 00:03:18,864
+Vrai.
+
+67
+00:03:18,947 --> 00:03:20,630
+Mais mon analyse du cratère
+
+68
+00:03:20,700 --> 00:03:23,416
+à enregistrée des traces
+de nitrate d'ammonium,
+
+69
+00:03:23,499 --> 00:03:25,400
+un produit chimique ne se trouvant
+pas dans n'importe quel avion
+
+70
+00:03:25,460 --> 00:03:27,100
+mais utilisé pour des explosifs.
+
+71
+00:03:27,160 --> 00:03:29,100
+Peut-être quelque chose
+dans un avion-cargo
+
+72
+00:03:29,160 --> 00:03:30,330
+contenait du nitrate d'ammonium.
+
+73
+00:03:30,400 --> 00:03:32,030
+<i>Cela aussi est possible.</i>
+
+74
+00:03:32,100 --> 00:03:34,232
+<i>Mais regarde la cime des arbres.</i>
+
+75
+00:03:35,975 --> 00:03:38,062
+Elles sont complètement intactes.
+
+76
+00:03:39,157 --> 00:03:40,957
+Ce n'est pas le site du crash.
+
+77
+00:03:41,040 --> 00:03:42,430
+<i>Il est probable que
+quelqu'un ait désactivé</i>
+
+78
+00:03:42,500 --> 00:03:44,289
+<i>le transpondeur de l'avion,</i>
+
+79
+00:03:44,372 --> 00:03:46,830
+<i>puis relayé la position GPS
+à une deuxième partie</i>
+
+80
+00:03:46,900 --> 00:03:49,100
+<i>sur le terrain,
+pour faire croire au crash</i>
+
+81
+00:03:49,160 --> 00:03:51,900
+<i>utilisant des explosifs et
+dispersant les morceaux d'avion.</i>
+
+82
+00:03:52,327 --> 00:03:54,467
+Qui voudrait faire croire
+à un faux crash ?
+
+83
+00:03:54,550 --> 00:03:56,940
+Ne sommes-nous pas payés pour comprendre ?
+
+84
+00:03:57,023 --> 00:03:58,430
+Tu es payé ?
+
+85
+00:04:03,618 --> 00:04:06,453
+<font color="#FFFF00">Saison 1 Épisode 15
+Fly by Knight</font>
+
+86
+00:04:16,999 --> 00:04:19,994
+<font color="#FFFF00">Traduction/Synchro :
+Flamby70, Thecannibalcorpse</font>
+
+87
+00:04:21,011 --> 00:04:24,091
+<font color="#FFFF00">Relecture/Correction :
+Thom@s</font>
+
+88
+00:04:30,988 --> 00:04:32,938
+<font color="#FFFF00">Pour www.knightrider2008.fr</font>
+
+89
+00:04:37,736 --> 00:04:41,155
+<font color="#FFFF00">Bon épisode à toutes et à tous.</font>
+
+90
+00:04:46,180 --> 00:04:47,680
+Lance les nombres
+dans ta base de données.
+
+91
+00:04:47,750 --> 00:04:48,850
+Vois ce que tu peux trouver.
+
+92
+00:04:48,910 --> 00:04:50,180
+<i>Les nombres semblent incorrects,</i>
+
+93
+00:04:50,250 --> 00:04:52,410
+<i>et ce n'est pas un crash actuel.</i>
+
+94
+00:04:52,932 --> 00:04:55,109
+Quelqu'un cherche les problèmes,
+
+95
+00:04:55,527 --> 00:04:57,410
+ce sont les vrais numéros.
+
+96
+00:04:58,972 --> 00:05:01,044
+<i>Michael, des véhicules arrivent</i>
+
+97
+00:05:01,127 --> 00:05:02,807
+<i>et des gens approchent.</i>
+
+98
+00:05:07,119 --> 00:05:10,030
+Fouillez l'endroit. Sécurisez le périmètre.
+
+99
+00:05:12,450 --> 00:05:14,167
+Joli matin pour un trou fumant.
+
+100
+00:05:14,250 --> 00:05:15,262
+Qui êtes-vous ?
+
+101
+00:05:15,345 --> 00:05:17,093
+Et pourquoi vous contaminez
+mon site du crash ?
+
+102
+00:05:17,176 --> 00:05:18,294
+Je faisais du tout-terrain,
+
+103
+00:05:18,377 --> 00:05:21,362
+et je suis tombé
+sur cette scène inquiétante.
+
+104
+00:05:21,679 --> 00:05:22,849
+Je m'appelle Michael Knight.
+
+105
+00:05:22,932 --> 00:05:24,464
+Agent Renning, DEA.
+
+106
+00:05:24,882 --> 00:05:26,134
+Vous savez ce que cela signifie ?
+
+107
+00:05:26,217 --> 00:05:27,804
+Que je dois partir ?
+
+108
+00:05:27,887 --> 00:05:30,371
+J'aime les hommes qui peuvent
+prendre des indices.
+
+109
+00:05:31,489 --> 00:05:34,150
+<i>Michael, les numéros
+appartiennent à un jet Leer...</i>
+
+110
+00:05:34,233 --> 00:05:35,980
+<i>enregistré à la DEA.</i>
+
+111
+00:05:37,263 --> 00:05:39,524
+C'était votre avion, n'est-ce pas ?
+
+112
+00:05:39,607 --> 00:05:41,256
+Vous n'êtes pas parti ?
+
+113
+00:05:42,011 --> 00:05:43,932
+Il ne s'est pas écrasé ici.
+
+114
+00:05:44,631 --> 00:05:45,841
+Excusez-moi ?
+
+115
+00:05:46,300 --> 00:05:47,887
+La cime des arbres est intacte.
+
+116
+00:05:47,970 --> 00:05:50,767
+Le rayon du crash ne correspond pas
+à ce genre d'impact,
+
+117
+00:05:50,850 --> 00:05:53,618
+et il y a du nitrate d'ammonium
+partout dans le cratère.
+
+118
+00:05:54,839 --> 00:05:56,427
+Cet accident est un faux.
+
+119
+00:05:56,510 --> 00:05:57,774
+Bien sûr, vous vous...
+
+120
+00:05:57,857 --> 00:05:59,600
+en serez rendu compte tôt ou tard.
+
+121
+00:05:59,683 --> 00:06:02,224
+Voulez-vous me dire ce que
+vous faites vraiment ici ?
+
+122
+00:06:02,307 --> 00:06:04,808
+Voulez-vous me dire ce
+qu'il y avait dans l'avion ?
+
+123
+00:06:04,891 --> 00:06:06,404
+Au revoir, Mr. Knight.
+
+124
+00:06:06,487 --> 00:06:09,106
+<i>Je ne crois pas
+qu'elle t'aime bien, Michael.</i>
+
+125
+00:06:14,580 --> 00:06:16,740
+- On est dans les dossiers de la DEA.
+- Je l'ai.
+
+126
+00:06:16,823 --> 00:06:19,586
+Le jet a quitté l'aéroport
+de Redland à 2 h 15 du matin.
+
+127
+00:06:19,754 --> 00:06:22,810
+Trois passagers, deux pilotes,
+pas de cargaison.
+
+128
+00:06:22,880 --> 00:06:25,210
+Les pilotes et les deux passagers
+étaient de la DEA.
+
+129
+00:06:25,280 --> 00:06:28,450
+Le troisième passager... Oh, non.
+
+130
+00:06:28,510 --> 00:06:29,580
+Tu rigoles ?
+
+131
+00:06:29,650 --> 00:06:30,650
+Quoi ?
+
+132
+00:06:30,710 --> 00:06:31,680
+Qu'est-ce que c'est ?
+
+133
+00:06:31,750 --> 00:06:34,184
+Ouvre-moi une ligne avec Mike.
+
+134
+00:06:34,352 --> 00:06:35,502
+Un enfant ?
+
+135
+00:06:35,585 --> 00:06:37,307
+Danny Clark, dix ans.
+
+136
+00:06:37,390 --> 00:06:38,538
+Au collège.
+
+137
+00:06:38,621 --> 00:06:40,210
+A gagné le prix d'état en science
+ces deux dernières années.
+
+138
+00:06:40,280 --> 00:06:41,331
+Mathlete.
+
+139
+00:06:41,414 --> 00:06:43,980
+Joueur d'échecs top-niveau,
+classé au 25ème rang mondial,
+
+140
+00:06:44,063 --> 00:06:46,307
+avant d'arrêter, car c'était et je cite,
+
+141
+00:06:46,390 --> 00:06:47,074
+"trop ennuyant".
+
+142
+00:06:47,157 --> 00:06:48,504
+Qu'est-ce qu'un gosse comme ça...
+
+143
+00:06:48,587 --> 00:06:49,887
+fait dans un avion des stups ?
+
+144
+00:06:49,970 --> 00:06:51,203
+<i>Conformément à cela,</i>
+
+145
+00:06:51,286 --> 00:06:53,080
+<i>il a informations sur Esteban Bahia.</i>
+
+146
+00:06:53,574 --> 00:06:54,550
+Qui est Esteban Bahia ?
+
+147
+00:06:54,610 --> 00:06:56,250
+Un trafiquant de drogue péruvien.
+
+148
+00:06:56,310 --> 00:06:57,102
+Pérou ?
+
+149
+00:06:57,185 --> 00:06:58,448
+Je savais qu'ils
+produisaient de la cocaïne,
+
+150
+00:06:58,531 --> 00:06:59,877
+mais je pensais que tous
+les cartels étaient colombiens.
+
+151
+00:06:59,960 --> 00:07:01,510
+Ils l'étaient, jusqu'à ce que
+Bahia arrive sur scène.
+
+152
+00:07:02,110 --> 00:07:04,656
+<i>A 26 ans, il a assassiné 16 personnes,</i>
+
+153
+00:07:04,739 --> 00:07:06,350
+<i>dans sa façon de prendre
+le contrôle du cartel.</i>
+
+154
+00:07:06,760 --> 00:07:08,210
+Quoi ? Seulement 16 ?
+
+155
+00:07:08,280 --> 00:07:10,131
+<i>L'année dernière,
+il a été responsable de 20%...</i>
+
+156
+00:07:10,214 --> 00:07:11,972
+<i>de tout le trafic de cocaïne
+et d'héroïne venant aux USA.</i>
+
+157
+00:07:12,140 --> 00:07:13,750
+<i>Un joueur très sérieux.</i>
+
+158
+00:07:13,810 --> 00:07:15,142
+<i>Une idée de ce que Danny a sur lui ?</i>
+
+159
+00:07:15,263 --> 00:07:16,967
+Les dossiers de la DEA ne disent rien.
+
+160
+00:07:17,050 --> 00:07:18,527
+Donc on examine d'autres chemins.
+
+161
+00:07:18,688 --> 00:07:19,740
+<i>Toi et Kitt avez un plan ?</i>
+
+162
+00:07:19,823 --> 00:07:22,380
+<i>Cet avion a atterri quelque part,
+Kitt et moi allons le trouver.</i>
+
+163
+00:07:22,567 --> 00:07:24,327
+<i>Bonne chasse.</i>
+
+164
+00:07:24,410 --> 00:07:26,710
+Compte tenu de la limite
+de carburant du jet,
+
+165
+00:07:26,780 --> 00:07:28,910
+j'ai calculé un rayon potentiel...
+
+166
+00:07:28,980 --> 00:07:30,983
+d'où le transpondeur s'est arrêté.
+
+167
+00:07:31,066 --> 00:07:32,350
+Accède à l'ensemble du trafic
+aérien contrôlant les ordinateurs...
+
+168
+00:07:32,410 --> 00:07:34,550
+pour tous les aérodromes dans le cercle.
+
+169
+00:07:34,610 --> 00:07:37,168
+Recoupe les dossiers
+avec les numéros de l'avion.
+
+170
+00:07:37,251 --> 00:07:38,584
+Recoupement maintenant.
+
+171
+00:07:38,667 --> 00:07:40,295
+Cela va relever aussi
+toutes informations pertinentes...
+
+172
+00:07:40,378 --> 00:07:42,210
+sur les pilotes et les agents à bord.
+
+173
+00:07:46,883 --> 00:07:49,327
+Après avoir parcouru
+la base de données de la DEA,
+
+174
+00:07:49,410 --> 00:07:51,694
+on est passé sur les dossiers
+de la police locale.
+
+175
+00:07:51,777 --> 00:07:52,763
+En fait, le père de Danny, Jack,
+
+176
+00:07:52,931 --> 00:07:55,080
+a été assassiné par Esteban Bahia.
+
+177
+00:07:55,267 --> 00:07:57,518
+Les dossiers de la police disent que
+Danny a appelé depuis chez son père.
+
+178
+00:07:57,686 --> 00:08:00,350
+La DEA l'a retrouvé quelques heures plus
+tard, et l'a ramené en garde à vue.
+
+179
+00:08:00,433 --> 00:08:01,910
+Danny a probablement été témoin du meurtre.
+
+180
+00:08:01,980 --> 00:08:03,580
+C'est pourquoi la DEA le voulait.
+
+181
+00:08:03,650 --> 00:08:05,280
+Ils l'ont fait rentrer dans
+la protection des témoins.
+
+182
+00:08:05,350 --> 00:08:07,680
+Bahia a détourné l'avion
+pour récupérer Danny,
+
+183
+00:08:07,750 --> 00:08:09,910
+et a faussé le crash pour
+mettre la DEA sur une fausse piste.
+
+184
+00:08:09,980 --> 00:08:11,480
+Je déteste être celui qui dit ça.
+
+185
+00:08:11,550 --> 00:08:13,212
+Mais si c'est ce qu'il s'est passé...
+
+186
+00:08:13,295 --> 00:08:15,285
+le gosse est déjà mort.
+
+187
+00:08:16,110 --> 00:08:17,710
+Les parents de Danny étaient séparés.
+
+188
+00:08:17,780 --> 00:08:19,580
+J'ai une adresse pour la mère,
+
+189
+00:08:19,650 --> 00:08:21,450
+ce serait peut-être utile
+de savoir ce qu'elle sait.
+
+190
+00:08:21,510 --> 00:08:24,630
+L'un de vous deux y va,
+voyez ce que vous pouvez trouver.
+
+191
+00:08:25,089 --> 00:08:26,135
+J'y vais.
+
+192
+00:08:28,450 --> 00:08:29,510
+Vraiment ?
+
+193
+00:08:29,580 --> 00:08:30,610
+"OK ?" Juste comme ça ?
+
+194
+00:08:31,198 --> 00:08:32,480
+Tu veux être celui qui dira à Mme. Clark
+
+195
+00:08:32,550 --> 00:08:34,089
+que son fils disparu est peut-être mort ?
+
+196
+00:08:34,172 --> 00:08:35,905
+C'est à ton honneur.
+
+197
+00:08:36,250 --> 00:08:38,350
+Bien. À la réflexion, peut-être...
+
+198
+00:08:38,410 --> 00:08:40,577
+- Je vais m'en occuper.
+- Ouais.
+
+199
+00:08:42,314 --> 00:08:43,984
+J'ai consulté les numéros de téléphone
+
+200
+00:08:44,067 --> 00:08:45,858
+des agents de la DEA et des pilotes.
+
+201
+00:08:45,941 --> 00:08:47,610
+Et j'ai retracé un signal.
+
+202
+00:08:47,680 --> 00:08:49,210
+Les numéros de l'avion
+ont été identifiés
+
+203
+00:08:49,280 --> 00:08:51,780
+a la piste de Jamison Canyon, ce matin.
+
+204
+00:08:51,850 --> 00:08:53,410
+L'avion est toujours là-bas ?
+
+205
+00:08:53,480 --> 00:08:55,380
+Apparemment.
+
+206
+00:08:55,450 --> 00:08:57,510
+Fonce, Kitt, aussi vite que tu peux.
+
+207
+00:08:57,580 --> 00:08:59,913
+Le SSC a raison, Danny n'a pas beaucoup de temps.
+
+208
+00:09:06,504 --> 00:09:07,822
+Course engagée.
+
+209
+00:09:07,905 --> 00:09:09,423
+Accroche-toi, gamin.
+
+210
+00:09:24,738 --> 00:09:26,346
+Salut ?
+
+211
+00:09:26,700 --> 00:09:27,827
+Mme Clark ?
+
+212
+00:09:32,572 --> 00:09:34,051
+Mettez vos mains où je peux les voir.
+
+213
+00:09:35,150 --> 00:09:36,795
+Vous pointez une arme sur moi.
+
+214
+00:09:36,878 --> 00:09:38,120
+Vous n'êtes pas de la DEA ?
+
+215
+00:09:38,203 --> 00:09:40,050
+Non, mon nom est Zoé Chae.
+
+216
+00:09:40,110 --> 00:09:41,580
+Je travaille pour
+une organisation privée,
+
+217
+00:09:41,650 --> 00:09:43,225
+et nous avons des informations
+sur votre fils.
+
+218
+00:09:43,622 --> 00:09:45,198
+Qu'est-ce que c'est ?
+
+219
+00:09:45,594 --> 00:09:47,316
+Vous voulez de l'argent ?
+
+220
+00:09:47,399 --> 00:09:49,710
+C'est une sorte de taxe ?
+
+221
+00:09:49,780 --> 00:09:51,629
+Non, rien de tout ça.
+
+222
+00:09:51,712 --> 00:09:53,650
+Nous avons des raisons de croire
+que votre fils est vivant.
+
+223
+00:09:54,342 --> 00:09:57,462
+Les agents de la DEA étaient là
+il y a quelques heures.
+
+224
+00:09:57,545 --> 00:09:59,439
+Ils m'ont dit que l'avion s'était écrasé.
+
+225
+00:09:59,522 --> 00:10:01,140
+Personne n'a survécu.
+
+226
+00:10:01,223 --> 00:10:03,950
+Le crash était une mise en scène,
+le vrai avion a été détourné
+
+227
+00:10:04,010 --> 00:10:05,880
+et Bahia a votre fils.
+
+228
+00:10:08,980 --> 00:10:10,108
+S'il vous plaît.
+
+229
+00:10:11,206 --> 00:10:12,740
+Parlons à l'intérieur.
+
+230
+00:10:18,310 --> 00:10:20,117
+Danny a passé le week-end avec Jake,
+
+231
+00:10:20,200 --> 00:10:21,306
+son père.
+
+232
+00:10:22,329 --> 00:10:23,351
+Jake...
+
+233
+00:10:24,509 --> 00:10:26,993
+s'occupe de la logistique pour Bahia.
+
+234
+00:10:27,076 --> 00:10:28,829
+Il l'aide à bouger son produit.
+
+235
+00:10:28,912 --> 00:10:31,564
+Est-ce que Danny a été
+témoin du meurtre de Jake ?
+
+236
+00:10:31,647 --> 00:10:32,670
+Non.
+
+237
+00:10:35,280 --> 00:10:37,135
+Il y a deux semaines,
+Jack m'a appelé et m'a dit
+
+238
+00:10:37,218 --> 00:10:39,024
+qu'il avait quelque chose
+d'important en cours,
+
+239
+00:10:39,107 --> 00:10:41,150
+quelque chose qui pourrait
+nous protéger pour toujours.
+
+240
+00:10:41,210 --> 00:10:43,150
+Vous pensez que ça a rapport avec Bahia.
+
+241
+00:10:43,210 --> 00:10:46,250
+Je pense que quel que soit
+pourquoi Jake m'a appelé,
+
+242
+00:10:46,310 --> 00:10:47,850
+c'est la raison pour
+laquelle Bahia l'a tué.
+
+243
+00:10:47,910 --> 00:10:50,350
+Et Danny n'a voulu dire
+à personne ce qu'il savait,
+
+244
+00:10:50,410 --> 00:10:52,250
+jusqu'à ce que lui et moi
+soyons ensemble en sécurité.
+
+245
+00:10:52,310 --> 00:10:54,850
+Amy, si Jake a quelque chose
+que Bahia veut,
+
+246
+00:10:54,910 --> 00:10:56,150
+Danny doit l'avoir maintenant.
+
+247
+00:10:56,655 --> 00:10:58,430
+Et qu'est-ce que ça veut dire ?
+
+248
+00:10:58,513 --> 00:11:00,810
+Ça veut dire que Danny a besoin d'aide.
+
+249
+00:11:00,880 --> 00:11:02,550
+Ce qui signifie que Danny
+est toujours vivant.
+
+250
+00:11:05,033 --> 00:11:06,910
+<i>Ce qui explique pourquoi
+Bahia a détourné l'avion,</i>
+
+251
+00:11:06,980 --> 00:11:08,436
+<i>au lieu de le faire s'écraser.</i>
+
+252
+00:11:08,519 --> 00:11:09,910
+Bahia essaie d'obtenir l'information
+
+253
+00:11:09,980 --> 00:11:11,050
+de lui pendant que nous parlons.
+
+254
+00:11:11,171 --> 00:11:12,450
+C'est ce que je pense.
+
+255
+00:11:13,147 --> 00:11:14,450
+<i>Dans ce cas, rester avec la mère,</i>
+
+256
+00:11:14,510 --> 00:11:15,980
+<i>pourrait la mettre en danger.</i>
+
+257
+00:11:16,050 --> 00:11:17,810
+<i>Je ne peux pas croire
+que la DEA la laisse seule.</i>
+
+258
+00:11:17,880 --> 00:11:19,250
+<i>Dieu bénisse le gouvernement.</i>
+
+259
+00:11:19,310 --> 00:11:21,334
+Surveille tes arrières, OK ?
+
+260
+00:11:22,273 --> 00:11:24,016
+Nous approchons de l'aérodrome.
+
+261
+00:11:24,150 --> 00:11:25,450
+T'as un ID de l'avion ?
+
+262
+00:11:25,510 --> 00:11:26,610
+Selon leurs dossiers,
+
+263
+00:11:26,680 --> 00:11:28,080
+il est dans le hangar sept.
+
+264
+00:11:28,150 --> 00:11:29,810
+Il n'y a rien dans ce hangar,
+
+265
+00:11:29,880 --> 00:11:31,480
+mais j'ai localisé deux signaux
+de téléphone portable
+
+266
+00:11:31,550 --> 00:11:34,610
+dans un conteneur au bord de l'aérodrome.
+
+267
+00:11:34,680 --> 00:11:36,150
+Pourquoi doit-on y aller tranquille ?
+
+268
+00:11:36,210 --> 00:11:37,910
+Les signaux dans les conteneurs
+
+269
+00:11:37,980 --> 00:11:39,610
+sont ceux de deux agents de la DEA.
+
+270
+00:11:39,680 --> 00:11:41,150
+Allons à ce conteneur.
+
+271
+00:12:03,350 --> 00:12:04,650
+Kitt, la serrure.
+
+272
+00:12:27,675 --> 00:12:30,190
+Ce sont les agents de la DEA ?
+
+273
+00:12:30,273 --> 00:12:32,042
+Ouais... et ils sont morts.
+
+274
+00:12:39,280 --> 00:12:41,385
+Kitt, as-tu essayé de repérer
+le portable du pilote ?
+
+275
+00:12:41,563 --> 00:12:43,678
+Oui, il est non-opérationnel.
+
+276
+00:12:45,780 --> 00:12:47,750
+Accède et regarde toutes
+les images des caméras de surveillance
+
+277
+00:12:47,810 --> 00:12:50,010
+le long des grandes routes
+à partir d'ici.
+
+278
+00:12:50,080 --> 00:12:51,950
+Utilise ton logiciel
+de reconnaissance faciale
+
+279
+00:12:52,010 --> 00:12:53,950
+pour rechercher Danny, Bahia,
+et un des pilotes.
+
+280
+00:12:54,010 --> 00:12:56,005
+Accès et recherche maintenant.
+
+281
+00:12:56,088 --> 00:12:58,910
+Donne l'agent Renning
+au téléphone, tu veux ?
+
+282
+00:13:01,211 --> 00:13:02,680
+<i>Vous savez que je ne faisais pas
+vraiment du tout-terrain, n'est-ce pas ?</i>
+
+283
+00:13:02,750 --> 00:13:04,180
+Comment avez-vous eu ce numéro ?
+
+284
+00:13:04,250 --> 00:13:06,650
+Je suis à l'aéroport de
+Jamison Canyon, l'avion est là.
+
+285
+00:13:06,710 --> 00:13:08,580
+<i>Bahia est parti, je suppose avec Danny.</i>
+
+286
+00:13:08,650 --> 00:13:10,150
+Vos agents sont là, aussi.
+
+287
+00:13:10,645 --> 00:13:11,981
+Ils vont bien ?
+
+288
+00:13:12,417 --> 00:13:13,859
+<i>Non, je suis désolé.</i>
+
+289
+00:13:14,537 --> 00:13:16,333
+<i>Je devine que vos pilotes
+vous ont trahis.</i>
+
+290
+00:13:16,416 --> 00:13:18,232
+Payé par Bahia.
+
+291
+00:13:18,315 --> 00:13:20,006
+<i>Avez-vous regardé leurs badges ?</i>
+
+292
+00:13:20,089 --> 00:13:20,830
+Oui.
+
+293
+00:13:20,913 --> 00:13:22,610
+L'un des deux s'appelle Wesley Graves ?
+
+294
+00:13:28,272 --> 00:13:29,138
+Ouais.
+
+295
+00:13:29,221 --> 00:13:31,517
+<i>Écoutez, tout ce que vous
+pourrez me dire sera utile.</i>
+
+296
+00:13:40,146 --> 00:13:41,503
+C'est Renning.
+
+297
+00:13:41,586 --> 00:13:43,780
+J'ai un numéro de portable que
+je dois retracer immédiatement.
+
+298
+00:13:45,436 --> 00:13:47,827
+L'agent Renning semblait bouleversé.
+
+299
+00:13:47,994 --> 00:13:49,578
+Il est probable
+qu'elle connaissait la victime.
+
+300
+00:13:49,746 --> 00:13:52,691
+Ce qui signifie qu'on doit
+se méfier d'elle.
+
+301
+00:13:52,774 --> 00:13:54,910
+Regarde à l'extérieur du hangar,
+vois s’ils ont laissé des indices
+
+302
+00:13:54,980 --> 00:13:55,910
+à l'endroit où ils étaient.
+
+303
+00:13:55,980 --> 00:13:57,982
+Ce n'est pas nécessaire.
+
+304
+00:13:58,065 --> 00:14:01,410
+Mon logiciel de reconnaissance
+vient de me signaler ces images
+
+305
+00:14:01,480 --> 00:14:04,610
+prises il y a 15 minutes,
+dans une station sur la route 12.
+
+306
+00:14:08,389 --> 00:14:09,055
+C'est Danny.
+
+307
+00:14:09,223 --> 00:14:11,300
+Il y a une autre caméra dedans.
+
+308
+00:14:23,259 --> 00:14:25,013
+As-tu signalé la vidéo ?
+
+309
+00:14:25,096 --> 00:14:26,610
+Oui, la police est en chemin.
+
+310
+00:14:29,952 --> 00:14:31,280
+As-tu retracé le SUV ?
+
+311
+00:14:31,454 --> 00:14:33,110
+- Je l'ai fait.
+- Bien.
+
+312
+00:14:39,475 --> 00:14:41,410
+Quel que soit ce que
+Danny a crié à la caméra
+
+313
+00:14:41,480 --> 00:14:43,350
+cela a incité Bahia
+à tuer le conducteur.
+
+314
+00:14:43,410 --> 00:14:44,880
+Je vais essayer de lire
+sur les lèvres de Danny
+
+315
+00:14:44,950 --> 00:14:46,410
+et recréer le dialogue.
+
+316
+00:14:46,480 --> 00:14:48,780
+Bien. Combien pour l'interception ?
+
+317
+00:14:48,850 --> 00:14:50,931
+À peu près 43 minutes.
+
+318
+00:14:51,475 --> 00:14:53,367
+J'espère que ce ne sera pas trop tard.
+
+319
+00:14:53,518 --> 00:14:55,767
+OK, merci. Au revoir.
+
+320
+00:14:56,515 --> 00:14:58,127
+Il est vivant. Vous êtes sure ?
+
+321
+00:14:58,314 --> 00:14:59,850
+Oui, nous avons une vue sur lui,
+
+322
+00:14:59,910 --> 00:15:01,510
+et nous poursuivons leur voiture.
+
+323
+00:15:01,580 --> 00:15:02,750
+Oh, Dieu merci.
+
+324
+00:15:05,612 --> 00:15:07,418
+<i>Hé, député. Que faites-vous ?</i>
+
+325
+00:15:08,399 --> 00:15:09,810
+<i>Maman, tu sais ce que je fais.</i>
+
+326
+00:15:10,186 --> 00:15:11,626
+C'est Danny ?
+
+327
+00:15:13,750 --> 00:15:15,510
+Ouais, ouais, c'est stupide,
+
+328
+00:15:15,580 --> 00:15:17,427
+mais ça me fait
+aller mieux de la regarder.
+
+329
+00:15:17,625 --> 00:15:18,667
+<i>C'est un supersonique,
+un transport convivial,</i>
+
+330
+00:15:18,835 --> 00:15:21,650
+<i>un avion de chasse avec
+des ailes à géométrie variable.</i>
+
+331
+00:15:21,710 --> 00:15:23,410
+<i>C'est le plus cool.</i>
+
+332
+00:15:25,050 --> 00:15:27,431
+<i>Et où avez-vous acheté ce modèle ?</i>
+
+333
+00:15:28,819 --> 00:15:30,959
+<i>Je ne l'ai pas acheté, je l'ai conçu.</i>
+
+334
+00:15:31,042 --> 00:15:33,980
+<i>J'ai fait toutes les pièces
+selon mes spécifications.</i>
+
+335
+00:15:34,142 --> 00:15:36,310
+<i>Ça va être génial.</i>
+
+336
+00:15:39,325 --> 00:15:41,106
+Il semble être un garçon étonnant.
+
+337
+00:15:42,267 --> 00:15:44,438
+Je sais pas ce que je ferais si je le perdais.
+
+338
+00:15:44,521 --> 00:15:45,917
+Mike est le meilleur pour ça.
+
+339
+00:15:46,000 --> 00:15:47,534
+Il va le ramener.
+
+340
+00:15:48,931 --> 00:15:50,664
+Vous avez une façon de le dire.
+
+341
+00:15:50,747 --> 00:15:51,910
+Ouais.
+
+342
+00:15:51,980 --> 00:15:54,080
+Ça ne veut pas dire que je ne le crois pas.
+
+343
+00:15:55,850 --> 00:15:57,789
+Nous allons intercepter
+le van dans peu de temps.
+
+344
+00:15:58,273 --> 00:16:00,480
+La récupération de Danny sera difficile,
+
+345
+00:16:00,550 --> 00:16:01,510
+dans ces circonstances.
+
+346
+00:16:01,580 --> 00:16:03,080
+Que proposes-tu ?
+
+347
+00:16:03,150 --> 00:16:05,027
+Le meilleur avantage
+technique que nous ayons
+
+348
+00:16:05,110 --> 00:16:06,446
+est la surprise.
+
+349
+00:16:07,959 --> 00:16:09,764
+Penses-tu à ce que je pense ?
+
+350
+00:16:10,370 --> 00:16:11,350
+Prépare l'E.M.P.
+
+351
+00:16:11,512 --> 00:16:13,267
+E.M.P. prêt.
+
+352
+00:16:13,995 --> 00:16:14,598
+Vas-y.
+
+353
+00:16:19,976 --> 00:16:20,999
+Qu'est-ce que c'est ?
+
+354
+00:16:21,082 --> 00:16:22,480
+<i>Je ne sais pas.</i>
+
+355
+00:16:22,550 --> 00:16:24,010
+<i>Quelque chose de mort.</i>
+
+356
+00:16:27,950 --> 00:16:29,280
+Rien de drôle.
+
+357
+00:16:39,550 --> 00:16:41,710
+Michael, ce sont les pilotes de la DEA.
+
+358
+00:16:41,780 --> 00:16:44,010
+Tout le monde dans
+la voiture semble armé.
+
+359
+00:16:44,080 --> 00:16:46,254
+Je dois te répéter que
+la récupération de Danny
+
+360
+00:16:46,422 --> 00:16:48,548
+dans cette situation est peu probable.
+
+361
+00:16:48,716 --> 00:16:50,164
+Ne t'en faites pas.
+
+362
+00:16:50,247 --> 00:16:51,876
+Si Bahia n'a pas encore tué Danny,
+
+363
+00:16:51,959 --> 00:16:53,510
+il ne le fera pas tout de suite.
+
+364
+00:16:57,271 --> 00:16:59,934
+En plus... j'ai un plan.
+
+365
+00:17:09,781 --> 00:17:11,550
+Hé, les gars. Un problème ?
+
+366
+00:17:11,610 --> 00:17:13,413
+Je suis mécanicien,
+avec de la chance je peux aider ?
+
+367
+00:17:13,496 --> 00:17:14,699
+Ouais, tout est sous contrôle, mon ami.
+
+368
+00:17:14,867 --> 00:17:15,610
+Vous êtes sûr ?
+
+369
+00:17:15,680 --> 00:17:17,202
+Car, vu ce que je vois,
+
+370
+00:17:17,285 --> 00:17:18,738
+votre courroie de distribution
+pourrait être un peu...
+
+371
+00:17:19,260 --> 00:17:20,288
+Whoa, partenaire, whoa.
+
+372
+00:17:20,371 --> 00:17:21,498
+C'est facile.
+
+373
+00:17:21,650 --> 00:17:23,458
+Venez ici. Venez ici.
+
+374
+00:17:25,498 --> 00:17:27,303
+Hors de la voiture !
+
+375
+00:17:29,673 --> 00:17:31,174
+Danny, mon nom est Mike.
+Je suis là pour t'aider.
+
+376
+00:17:31,197 --> 00:17:34,050
+S'il vous plaît, je veux aller dans
+la maison de mon père, dans ma chambre.
+
+377
+00:17:34,110 --> 00:17:36,380
+Recule, maintenant.
+
+378
+00:17:37,512 --> 00:17:38,691
+Écoute, c'est ma faute.
+
+379
+00:17:39,411 --> 00:17:41,822
+Je vais vous dire, pourquoi
+vous ne prenez pas ma voiture.
+
+380
+00:17:41,905 --> 00:17:43,929
+Partez et personne ne sera blessé.
+
+381
+00:17:44,325 --> 00:17:47,510
+C'était intelligent, cette petite ruse.
+
+382
+00:17:48,910 --> 00:17:50,880
+Non, je ne pense pas
+prendre votre voiture.
+
+383
+00:17:50,950 --> 00:17:52,611
+Vous pouvez l'avoir tracé.
+
+384
+00:17:53,122 --> 00:17:55,407
+<i>Sors de la voiture !</i>
+
+385
+00:17:56,676 --> 00:17:58,710
+Lâchez-le, ou je tue
+votre homme maintenant.
+
+386
+00:17:58,982 --> 00:18:01,038
+Allez-y, je vais le tuer de toute façon.
+
+387
+00:18:04,310 --> 00:18:05,963
+Danny, je vais m'en occuper.
+
+388
+00:18:06,046 --> 00:18:07,850
+Je te promets.
+
+389
+00:18:11,605 --> 00:18:12,649
+Sortez de la voiture !
+
+390
+00:18:12,732 --> 00:18:14,280
+Ne nous suivez pas.
+
+391
+00:18:14,350 --> 00:18:17,280
+Si j'ai le sentiment que vous
+me suivez, je tuerai le gosse.
+
+392
+00:18:25,681 --> 00:18:26,950
+Kitt, qu'est-ce que tu peux faire ?
+
+393
+00:18:27,010 --> 00:18:28,910
+<i>J'ai peur que toutes actions</i>
+
+394
+00:18:28,980 --> 00:18:31,243
+<i>mettrait la vie de Danny en danger.</i>
+
+395
+00:18:31,326 --> 00:18:32,610
+À qui vous parlez ?
+
+396
+00:18:32,693 --> 00:18:34,070
+Ta mère.
+
+397
+00:18:36,949 --> 00:18:39,242
+OK, Kitt, tu peux regonfler maintenant.
+
+398
+00:18:42,410 --> 00:18:43,830
+Façon de jouer l'opossum.
+
+399
+00:18:45,180 --> 00:18:46,450
+Tu as la voiture de Bahia ?
+
+400
+00:18:46,626 --> 00:18:49,660
+Oui, j'ai fini mon analyse des mouvements
+
+401
+00:18:49,743 --> 00:18:52,164
+de lèvres de Bahia et de Danny
+sur les enregistrements.
+
+402
+00:18:52,247 --> 00:18:54,210
+Basé sur des échantillons de voix,
+que je viens d'enregistrer,
+
+403
+00:18:54,280 --> 00:18:57,845
+j'ai recréé le dialogue,
+avec leur voix actuelle.
+
+404
+00:18:59,536 --> 00:19:01,060
+<i>Il veut tout simplement
+son expédition de retour !</i>
+
+405
+00:19:01,143 --> 00:19:02,823
+<i>Dès qu'il le trouvera, il me tuera !</i>
+
+406
+00:19:02,906 --> 00:19:05,518
+<i>Regardez l'écriture sur le mur !</i>
+
+407
+00:19:05,807 --> 00:19:07,383
+Une cargaison ?
+
+408
+00:19:07,769 --> 00:19:09,031
+Quoi, l'écriture sur le mur ?
+
+409
+00:19:09,021 --> 00:19:11,850
+Ça semble être une étrange
+expression pour un enfant de son âge.
+
+410
+00:19:11,910 --> 00:19:13,610
+Appelle le SSC.
+
+411
+00:19:13,680 --> 00:19:15,410
+<i>Kitt a recomposé l'audio de la station.</i>
+
+412
+00:19:15,480 --> 00:19:16,950
+<i>Danny parle d'une cargaison</i>
+
+413
+00:19:17,010 --> 00:19:19,324
+<i>Il dit que Bahia le tuera
+dès qu'il lui dira où il se trouve.</i>
+
+414
+00:19:19,492 --> 00:19:20,372
+Une cargaison ?
+
+415
+00:19:20,455 --> 00:19:23,409
+Le père de Danny a volé
+la cargaison de Bahia et l'a caché,
+
+416
+00:19:23,492 --> 00:19:25,371
+c'est pourquoi il l'a dit à Danny,
+avant de se faire tuer.
+
+417
+00:19:25,725 --> 00:19:26,998
+Ouais, j'approuve ça.
+
+418
+00:19:27,166 --> 00:19:28,810
+<i>Dans la vidéo, Danny a dit
+que nous devrions,</i>
+
+419
+00:19:28,880 --> 00:19:30,702
+<i>"lire l'écriture sur le mur."</i>
+
+420
+00:19:30,785 --> 00:19:31,961
+<i>Cela ne signifie rien pour vous ?</i>
+
+421
+00:19:32,129 --> 00:19:33,350
+Non.
+
+422
+00:19:33,433 --> 00:19:35,839
+<i>Et puis tout à l'heure, il a dit
+qu'il voulait rentrer à la maison.</i>
+
+423
+00:19:35,922 --> 00:19:37,080
+À la maison de son père.
+
+424
+00:19:37,163 --> 00:19:38,680
+<i>Bien sûr qu'il le voulait,
+il était terrifié.</i>
+
+425
+00:19:38,750 --> 00:19:40,290
+Non, c'était pas ça.
+
+426
+00:19:40,373 --> 00:19:42,348
+<i>Je pense que la position
+de la cargaison est écrite</i>
+
+427
+00:19:42,431 --> 00:19:44,110
+<i>sur le mur de la chambre de Danny.</i>
+
+428
+00:19:44,465 --> 00:19:45,937
+<i>C'est assez mince, Mike.</i>
+
+429
+00:19:46,020 --> 00:19:47,893
+Non, je vous le dis, ce gosse est malin.
+
+430
+00:19:47,976 --> 00:19:49,080
+Il savait qu'il devait laisser un indice,
+
+431
+00:19:49,150 --> 00:19:50,772
+au cas où il lui arriverait
+quelque chose. Il va y être.
+
+432
+00:19:50,940 --> 00:19:52,580
+Tu veux mettre la vie de Danny en jeu ?
+
+433
+00:19:52,650 --> 00:19:55,527
+Il s'agit de notre meilleure
+chance de savoir où ils sont.
+
+434
+00:19:56,480 --> 00:19:58,606
+Je vais à la maison du père.
+
+435
+00:20:12,950 --> 00:20:15,410
+Votre pilote déserteur est inconscient.
+
+436
+00:20:15,480 --> 00:20:17,810
+Je suis juste derrière Bahia.
+
+437
+00:20:18,880 --> 00:20:20,910
+Désolé pour votre homme.
+
+438
+00:20:21,580 --> 00:20:22,480
+Arrêtez-le.
+
+439
+00:20:22,550 --> 00:20:23,750
+Quoi ?!
+
+440
+00:20:23,810 --> 00:20:25,280
+Et pour quel motif...
+
+441
+00:20:25,350 --> 00:20:27,750
+Pour interférer dans une enquête du gouvernement.
+
+442
+00:20:27,810 --> 00:20:29,350
+Je vous avais demandé de nous laisser tomber.
+
+443
+00:20:29,410 --> 00:20:30,880
+J'essaye de vous aider.
+
+444
+00:20:30,950 --> 00:20:32,780
+Je n'ai pas besoin de votre aide.
+
+445
+00:20:32,950 --> 00:20:35,150
+Michael, dois-je intervenir ?
+
+446
+00:20:35,600 --> 00:20:37,000
+Laisse tomber, Kitt.
+
+447
+00:20:37,000 --> 00:20:38,700
+Laisse tomber.
+
+448
+00:20:41,980 --> 00:20:44,310
+Arrêté ? Sérieusement ?
+
+449
+00:20:44,080 --> 00:20:46,150
+Ils transportent Michael dans des installations,
+
+450
+00:20:46,210 --> 00:20:47,780
+en attendant des accusations officielles.
+
+451
+00:20:47,850 --> 00:20:49,050
+Ok, et où es-tu ?
+
+452
+00:20:49,110 --> 00:20:51,910
+Je suis en train de me déplacer
+vers le nord sur l'autoroute 18.
+
+453
+00:20:51,980 --> 00:20:53,110
+Bien, tu t'en vas.
+
+454
+00:20:53,180 --> 00:20:54,950
+Pas exactement.
+
+455
+00:21:00,650 --> 00:21:03,010
+Je me fais remorquer vers la fourrière.
+
+456
+00:21:03,080 --> 00:21:05,780
+Pourquoi t'es-tu laissé remorquer ?
+
+457
+00:21:05,850 --> 00:21:07,680
+Dans ces circonstances, m'en aller
+
+458
+00:21:07,750 --> 00:21:10,210
+tout seul semble une mauvaise idée.
+
+459
+00:21:10,780 --> 00:21:13,010
+Kitt, tu dois descendre de ce camion.
+
+460
+00:21:13,080 --> 00:21:14,910
+Libérer Mike, et trouver Danny.
+
+461
+00:21:14,980 --> 00:21:16,510
+Michael et moi allons devenir des fugitifs.
+
+462
+00:21:16,580 --> 00:21:17,910
+Je vais m'occuper de ça.
+
+463
+00:21:17,980 --> 00:21:19,510
+Sort juste Mike de là.
+
+464
+00:21:19,580 --> 00:21:20,750
+Oui, Sarah.
+
+465
+00:21:43,110 --> 00:21:45,010
+Je me suis détaché de la dépanneuse
+
+466
+00:21:45,080 --> 00:21:47,980
+et je suis le signal de l'oreillette de Michael.
+
+467
+00:21:48,050 --> 00:21:49,650
+Si Mike a été mis en prison,
+
+468
+00:21:49,710 --> 00:21:52,110
+il sera presque impossible de le sortir de là.
+
+469
+00:21:52,180 --> 00:21:54,580
+Pas d'inquiétude Sarah. Je peux le faire.
+
+470
+00:21:55,550 --> 00:21:58,650
+Mike et Kitt ont passé beaucoup
+trop de temps ensemble.
+
+471
+00:22:00,610 --> 00:22:02,610
+Je ne peux pas croire que vous
+perdez votre temps avec moi.
+
+472
+00:22:02,680 --> 00:22:05,450
+S’ils trouvent ce colis, Danny est mort.
+
+473
+00:22:05,510 --> 00:22:07,510
+Notre équipe traque le fourgon qu'ils ont volé.
+
+474
+00:22:07,580 --> 00:22:09,180
+- Nous les trouverons.
+- Bien sûr.
+
+475
+00:22:09,310 --> 00:22:10,650
+Ça va seulement vous prendre trois heures
+
+476
+00:22:10,710 --> 00:22:12,450
+pour vous rendre compte que
+j'avais raison sur le faux crash ?
+
+477
+00:22:12,510 --> 00:22:14,350
+J'ai vérifié pour vous, Michael Knight.
+
+478
+00:22:14,410 --> 00:22:16,610
+Il semble que vous étiez avec Knight Industries
+pendant un certain temps.
+
+479
+00:22:16,680 --> 00:22:19,450
+Vous avez réussi à sortir
+de l'épave du train.
+
+480
+00:22:19,510 --> 00:22:20,610
+Ce n'était pas votre faute.
+
+481
+00:22:20,680 --> 00:22:21,980
+Je ne veux pas chercher autour de vous
+
+482
+00:22:22,050 --> 00:22:23,680
+et bousiller mon enquête.
+
+483
+00:22:25,750 --> 00:22:26,110
+Michael...
+
+484
+00:22:26,180 --> 00:22:28,680
+Je me rapproche de ta position.
+
+485
+00:22:28,750 --> 00:22:31,050
+Actuellement, ces jours-ci...
+
+486
+00:22:31,110 --> 00:22:33,050
+nous avons eu pas mal de choses déterminées.
+
+487
+00:22:41,910 --> 00:22:44,210
+Roamstar activé.
+
+488
+00:22:47,610 --> 00:22:48,450
+Qu'est-ce qui se passe ! ?
+
+489
+00:22:51,580 --> 00:22:52,750
+Tout va bien devant ?
+
+490
+00:22:52,810 --> 00:22:54,450
+Je ne conduis plus !
+
+491
+00:22:54,510 --> 00:22:56,280
+C'est étrange.
+
+492
+00:23:14,050 --> 00:23:15,880
+Oh, mon dieu !
+
+493
+00:23:20,180 --> 00:23:21,680
+À plus tard.
+
+494
+00:23:30,210 --> 00:23:31,150
+Sauvetage parfait, Kitt.
+
+495
+00:23:31,210 --> 00:23:32,310
+Merci, Michael.
+
+496
+00:23:39,950 --> 00:23:41,410
+Ici l'agent Renning...
+
+497
+00:23:41,480 --> 00:23:43,150
+J'ai un fugitif en cavale.
+
+498
+00:23:43,210 --> 00:23:45,110
+Il conduit une Ford Mustang noire.
+
+499
+00:23:46,350 --> 00:23:48,310
+Kitt, utilise ton générateur d'objet 3D en ligne
+
+500
+00:23:48,380 --> 00:23:50,080
+pour faire une clé pour ces menottes.
+
+501
+00:23:50,150 --> 00:23:53,250
+Agent Renning lance un avis de recherche sur nous.
+
+502
+00:23:53,310 --> 00:23:55,350
+Nous serions mieux incognito.
+
+503
+00:23:55,410 --> 00:23:56,610
+Allons-nous la faire "old school"
+
+504
+00:23:56,680 --> 00:24:00,180
+pour utiliser le jargon de l'époque.
+Je peux le faire.
+
+505
+00:24:08,610 --> 00:24:10,210
+Ils ont toujours le fourgon ?
+
+506
+00:24:10,280 --> 00:24:12,850
+Non, j'ai perdu leur signal
+après avoir été emmené.
+
+507
+00:24:12,910 --> 00:24:15,410
+Retournons à sa dernière position connue.
+
+508
+00:24:15,480 --> 00:24:16,980
+Est-ce que Billy est presque
+dans la maison du père ?
+
+509
+00:24:17,050 --> 00:24:20,050
+Oui, il devrait bientôt y être.
+
+510
+00:24:20,710 --> 00:24:25,210
+NSA, CIA, FBI, DEA, DOD ?
+
+511
+00:24:25,280 --> 00:24:27,110
+S’il y a une agence de sécurité du gouvernement,
+
+512
+00:24:27,180 --> 00:24:29,610
+c'est avec un acronyme à trois lettres
+qu'ils vont vous répondre.
+
+513
+00:24:29,680 --> 00:24:31,180
+Sarah.
+
+514
+00:24:31,250 --> 00:24:34,950
+Par respect pour votre père, je voudrais bien vous aider,
+vous le savez.
+
+515
+00:24:35,050 --> 00:24:37,150
+Mais Knight Industries n'as pas exactement
+
+516
+00:24:37,210 --> 00:24:39,180
+la meilleure réputation, n'est-ce pas ?
+
+517
+00:24:39,650 --> 00:24:41,610
+Vous savez quoi ? Vous avez 100% raison.
+
+518
+00:24:41,680 --> 00:24:43,980
+Et personne n'a payé pour nos erreurs plus que moi.
+
+519
+00:24:44,050 --> 00:24:45,510
+Mais nous pouvons vous aider.
+
+520
+00:24:45,580 --> 00:24:47,380
+Tout ce que je demande c'est de pouvoir travailler en autonomie
+
+521
+00:24:47,450 --> 00:24:49,080
+et coopération avec votre agenda.
+
+522
+00:24:49,250 --> 00:24:50,950
+C'est ce que vous faites là ?
+
+523
+00:24:51,210 --> 00:24:55,010
+Écoute... je sais pour Bahia et ce garçon.
+
+524
+00:24:55,080 --> 00:24:58,110
+Je sais aussi que l'agent Renning a arrêté votre homme,
+
+525
+00:24:58,180 --> 00:24:59,550
+parce qu'il entravait l'enquête.
+
+526
+00:24:59,610 --> 00:25:01,010
+Si ce n'était pas de notre ressort,
+
+527
+00:25:01,080 --> 00:25:04,150
+l'agent Renning serait toujours en train d'enquêter
+sur le faux site de crash.
+
+528
+00:25:04,210 --> 00:25:06,210
+Et maintenant, il s'est échappé de garde à vue,
+
+529
+00:25:06,280 --> 00:25:07,380
+et c’est un fugitif recherché.
+
+530
+00:25:07,450 --> 00:25:09,210
+Écoute ce que nous avons prévu.
+
+531
+00:25:09,380 --> 00:25:12,010
+Nous mettons le garçon en sécurité, nous retrouvons le colis
+
+532
+00:25:12,080 --> 00:25:13,410
+et tu nous donnes ce dont nous avons besoin.
+
+533
+00:25:13,480 --> 00:25:14,610
+Et si vous n'y arrivez pas ?
+
+534
+00:25:14,780 --> 00:25:16,680
+Et bien, c'est un garçon de dix ans qui meurt.
+
+535
+00:25:18,510 --> 00:25:20,610
+Si le garçon meurt...
+
+536
+00:25:20,680 --> 00:25:24,550
+votre homme sera accusé, aussi simplement que cela.
+
+537
+00:25:24,610 --> 00:25:27,550
+Et je ne pourrais rien faire pour vous aider.
+
+538
+00:25:30,150 --> 00:25:31,280
+Tu lui as dit quoi ?
+
+539
+00:25:31,350 --> 00:25:33,110
+C'est la seule façon d'obtenir de la marge de manœuvre.
+
+540
+00:25:33,180 --> 00:25:34,850
+Marge de manœuvre ? J'ai été très bien
+
+541
+00:25:34,910 --> 00:25:37,350
+jusqu'à ce que vous estampillez le mot "garantie" sur mon front.
+
+542
+00:25:37,410 --> 00:25:37,880
+Vraiment ?
+
+543
+00:25:37,950 --> 00:25:40,110
+Parce que tu es un criminel recherché qui vient de perdre le garçon.
+
+544
+00:25:40,180 --> 00:25:41,480
+Bien n'est pas le mot que j'utiliserais.
+
+545
+00:25:41,550 --> 00:25:42,680
+Super.
+
+546
+00:25:42,750 --> 00:25:44,150
+Autre chose de constructif pour moi ?
+
+547
+00:25:44,210 --> 00:25:45,710
+Ouais, ne fais pas tout foirer.
+
+548
+00:25:46,080 --> 00:25:47,880
+Merci.
+De rien.
+
+549
+00:26:01,780 --> 00:26:02,580
+C'est là.
+
+550
+00:26:03,150 --> 00:26:04,610
+Fouille.
+
+551
+00:26:16,550 --> 00:26:19,010
+Ça te dérange si je te demande ce qui s'est passé
+entre toi et Jake ?
+
+552
+00:26:19,080 --> 00:26:21,680
+Euh.
+
+553
+00:26:21,750 --> 00:26:25,510
+J'avais 19 ans quand je suis tombée enceinte de Danny.
+
+554
+00:26:25,580 --> 00:26:27,710
+Je connaissais à peine le père.
+
+555
+00:26:27,780 --> 00:26:30,180
+Mais nous avons essayé de faire que ça marche.
+
+556
+00:26:30,250 --> 00:26:31,580
+Et ça la fait au début.
+
+557
+00:26:31,650 --> 00:26:35,080
+Puis ensuite... Jake a perdu son boulot.
+
+558
+00:26:35,150 --> 00:26:37,050
+et a commencé à travailler pour Bahia.
+
+559
+00:26:37,210 --> 00:26:40,710
+Je l'ai supplié d'arrêter, mais...
+
+560
+00:26:40,780 --> 00:26:41,910
+Il ne l'a pas fait.
+
+561
+00:26:41,980 --> 00:26:44,750
+Puis vous êtes parti.
+
+562
+00:26:46,610 --> 00:26:50,250
+Danny adorait son père.
+
+563
+00:26:50,310 --> 00:26:52,350
+Ils se voyaient chaque mois.
+
+564
+00:26:53,880 --> 00:26:55,610
+Quand j'ai entendu que Jake a été tué, j'ai...
+
+565
+00:26:57,710 --> 00:26:58,950
+Comment as t'il pu être aussi stupide ?
+
+566
+00:26:59,010 --> 00:27:00,880
+Voler chez Bahia quand Danny était là ?
+
+567
+00:27:00,950 --> 00:27:03,150
+Il voulait revoir sa famille.
+
+568
+00:27:03,210 --> 00:27:04,910
+Il a vu sa chance et la prise.
+
+569
+00:27:09,110 --> 00:27:10,910
+Le chien de votre voisin aboie toujours autant ?
+
+570
+00:27:10,980 --> 00:27:13,650
+Non, d'habitude il est plutôt calme.
+
+571
+00:27:13,710 --> 00:27:14,710
+Sortons par la porte de derrière.
+
+572
+00:27:14,780 --> 00:27:16,580
+Pourquoi ? Qu'est-ce qui ne va pas ?
+
+573
+00:27:16,650 --> 00:27:18,280
+Ils sont ici.
+
+574
+00:27:22,810 --> 00:27:24,050
+Allez-y.
+
+575
+00:27:29,050 --> 00:27:31,080
+Lâchez ça tout de suite, et laissez-la partir !
+
+576
+00:27:42,450 --> 00:27:44,080
+Mike, ils l'ont attrapé.
+Qui a attrapé qui ?
+
+577
+00:27:44,150 --> 00:27:46,480
+Les hommes de Bahia. Ils ont la mère de Danny.
+
+578
+00:27:46,550 --> 00:27:47,480
+Ça va ?
+
+579
+00:27:47,550 --> 00:27:49,650
+Je vivrais. Je suis désolé.
+
+580
+00:27:49,710 --> 00:27:51,650
+Retourne au SSC.
+
+581
+00:27:54,650 --> 00:27:57,780
+Nous sommes ici à creuser et ne rien trouver.
+
+582
+00:27:58,750 --> 00:28:01,550
+Je pense que tu me mens sur l'endroit, Danny.
+
+583
+00:28:01,610 --> 00:28:02,880
+Non !
+
+584
+00:28:02,950 --> 00:28:05,510
+Peut-être que nous allons le savoir.
+
+585
+00:28:06,680 --> 00:28:08,150
+Danny!
+Maman!
+
+586
+00:28:08,210 --> 00:28:09,610
+Ça va ?
+
+587
+00:28:09,680 --> 00:28:10,480
+Ouais et toi ?
+
+588
+00:28:10,550 --> 00:28:13,010
+Je vais bien Danny, ne leur dit rien.
+
+589
+00:28:13,080 --> 00:28:14,150
+Ne leur... Ah !
+
+590
+00:28:14,210 --> 00:28:15,550
+Maman !
+
+591
+00:28:15,610 --> 00:28:16,780
+Dis-lui d'arrêter !
+
+592
+00:28:16,850 --> 00:28:18,880
+Dis-moi où est mon colis
+
+593
+00:28:18,950 --> 00:28:21,310
+et je la laisse partir.
+
+594
+00:28:21,980 --> 00:28:24,110
+Ok.
+
+595
+00:28:24,180 --> 00:28:25,280
+Tue-la.
+
+596
+00:28:25,350 --> 00:28:27,150
+Non, Ok ! Je vais vous le dire,
+je vais vous le dire !
+
+597
+00:28:27,210 --> 00:28:28,980
+Ne lui faites pas de mal.
+
+598
+00:28:30,250 --> 00:28:32,180
+Tu me mens encore
+
+599
+00:28:32,250 --> 00:28:35,110
+et je tue ta mère juste devant toi.
+
+600
+00:28:36,480 --> 00:28:37,680
+Je vais vous donner l'endroit.
+
+601
+00:28:37,750 --> 00:28:40,210
+Mais je veux que ma mère nous retrouve ici.
+
+602
+00:28:40,280 --> 00:28:41,650
+Quoi ?
+
+603
+00:28:41,710 --> 00:28:42,810
+Tu me donnes des ordres, hein ?
+
+604
+00:28:42,880 --> 00:28:44,980
+Oui, dès que je vous vois
+
+605
+00:28:45,050 --> 00:28:48,610
+la laisser partir saine et sauve,
+
+606
+00:28:49,080 --> 00:28:52,510
+je vous montre exactement où c'est caché.
+
+607
+00:28:52,680 --> 00:28:55,810
+C'est la seule manière de récupérer votre truc.
+
+608
+00:28:56,180 --> 00:28:58,550
+Bien, c'est très brave de ta part, Danny.
+
+609
+00:28:58,610 --> 00:29:00,610
+Ta mère va nous rejoindre ici.
+
+610
+00:29:00,680 --> 00:29:03,380
+Et si tu me le livres, elle sera libre.
+
+611
+00:29:10,180 --> 00:29:11,880
+Michael, j'ai Billy.
+
+612
+00:29:11,950 --> 00:29:13,580
+Billy, nous n'avons pas le temps.
+
+613
+00:29:13,650 --> 00:29:16,880
+Je suis dans la maison du père,
+j'entre dans la chambre du garçon.
+
+614
+00:29:16,950 --> 00:29:20,710
+Écrit sur le mur.
+
+615
+00:29:20,780 --> 00:29:25,510
+Écrit sur le mur.
+
+616
+00:29:25,580 --> 00:29:28,980
+Salut.
+
+617
+00:29:32,210 --> 00:29:34,710
+Bingo. Attends une seconde.
+
+618
+00:29:38,980 --> 00:29:41,950
+Mike, j'ai une équation non résolue écrite sur le mur.
+
+619
+00:29:42,010 --> 00:29:43,880
+Nous allons devoir résoudre celle-ci avec deux variables.
+
+620
+00:29:43,950 --> 00:29:45,310
+Une équation ?
+
+621
+00:29:45,380 --> 00:29:46,610
+Pourquoi aurait’ il fait ça ?
+
+622
+00:29:46,680 --> 00:29:47,680
+Bien, peut-être parce qu'il connaît un dealer
+
+623
+00:29:47,750 --> 00:29:48,880
+qui serait incapable de la résoudre.
+
+624
+00:29:48,950 --> 00:29:50,850
+La question est, peut-tu toi ?
+
+625
+00:29:50,910 --> 00:29:53,150
+S'il te plaît, je faisais ça au collège.
+
+626
+00:29:53,210 --> 00:29:54,950
+Concentre-toi dessus Billy.
+
+627
+00:29:55,010 --> 00:29:57,810
+Le premier nombre est...
+
+628
+00:29:57,880 --> 00:30:00,650
+34.499
+
+629
+00:30:00,710 --> 00:30:02,410
+Et il semble que ça se mesure en degrés.
+
+630
+00:30:02,480 --> 00:30:03,810
+C'est le format pour les coordonnées
+
+631
+00:30:03,880 --> 00:30:05,750
+de la latitude et de la longitude.
+
+632
+00:30:05,810 --> 00:30:07,780
+Kitt, vérifie chaque nombre pour les latitudes et longitudes.
+
+633
+00:30:07,850 --> 00:30:09,050
+Je sais, Michael.
+
+634
+00:30:09,110 --> 00:30:11,480
+Ok, tu n'as pas besoin d'être prétentieux.
+
+635
+00:30:11,550 --> 00:30:14,080
+Peut être que si tu respectais mon autonomie un peu plus,
+
+636
+00:30:14,150 --> 00:30:15,650
+je respecterais la tienne.
+
+637
+00:30:15,710 --> 00:30:19,550
+Je suis désolé, nous avons un moment de couple là ?
+
+638
+00:30:19,650 --> 00:30:23,810
+Je te dis juste que je n'ai pas besoin d'être
+informé de ce qu'il faut faire tout le temps.
+
+639
+00:30:23,880 --> 00:30:26,210
+Kitt, je t'entends. Ok ?
+
+640
+00:30:26,280 --> 00:30:26,880
+Ok.
+
+641
+00:30:26,950 --> 00:30:29,210
+Mike, est-ce que je viens d'entendre Kitt te donner une claque ?
+
+642
+00:30:29,280 --> 00:30:31,010
+Kitt et moi communiquons.
+
+643
+00:30:31,080 --> 00:30:32,050
+C'est ce que font les partenaires.
+
+644
+00:30:32,110 --> 00:30:34,380
+Non, ça sonnait comme si Kitt faisait de toi son chien.
+
+645
+00:30:34,450 --> 00:30:36,010
+Billy, résout la seconde équation.
+
+646
+00:30:36,080 --> 00:30:37,910
+La seconde coordonnée est...
+
+647
+00:30:37,980 --> 00:30:42,650
+118.800.
+
+648
+00:30:42,710 --> 00:30:44,410
+Les coordonnées sont entre Xinyiand et Donghai,
+
+649
+00:30:44,480 --> 00:30:47,350
+dans la province de Chine jiangau
+
+650
+00:30:47,410 --> 00:30:48,080
+Billy, qu'est-ce que c'est que ça ?!
+
+651
+00:30:48,150 --> 00:30:51,380
+Mec, c'est pas sa faute si le père du gosse
+a envoyé le colis en Chine !
+
+652
+00:30:51,610 --> 00:30:52,880
+Petite virée.
+
+653
+00:30:52,950 --> 00:30:54,580
+Billy, est-ce possible que tu aies oublié
+
+654
+00:30:54,650 --> 00:30:56,780
+un signe négatif dans la seconde réponse ?
+
+655
+00:30:59,110 --> 00:31:00,610
+Oups.
+
+656
+00:31:00,680 --> 00:31:04,080
+Ces coordonnées sont à 30,8 kms de notre position.
+
+657
+00:31:04,150 --> 00:31:06,480
+Ok, Kitt, si c'est Ok pour toi,
+
+658
+00:31:06,550 --> 00:31:07,510
+allons-y en mode attaque,
+
+659
+00:31:07,580 --> 00:31:08,950
+nous devons y être avant Bahia.
+
+660
+00:31:09,010 --> 00:31:10,180
+C’est Ok pour moi, Michael.
+
+661
+00:31:10,250 --> 00:31:11,480
+Merci d'avoir demandé.
+
+662
+00:31:11,550 --> 00:31:13,350
+Début de la transformation.
+
+663
+00:31:16,110 --> 00:31:17,510
+Transformation complète.
+
+664
+00:31:30,110 --> 00:31:32,010
+Maman !
+Danny !
+
+665
+00:31:32,080 --> 00:31:33,480
+Danny, ça va ?
+
+666
+00:31:35,350 --> 00:31:36,750
+Ok, ils sont tous ici.
+
+667
+00:31:37,310 --> 00:31:38,950
+Laisse ma mère partir
+
+668
+00:31:39,010 --> 00:31:42,950
+ou je ne te dirais pas où c'est caché.
+
+669
+00:31:43,010 --> 00:31:45,410
+J'admire ton cœur, Danny. Vraiment.
+
+670
+00:31:45,480 --> 00:31:47,280
+Mais tu n'as pas besoin de me dire où c'est,
+
+671
+00:31:47,350 --> 00:31:48,850
+parce que c'est évident.
+
+672
+00:31:59,080 --> 00:32:00,310
+Fouille ici.
+
+673
+00:32:10,550 --> 00:32:13,210
+Je suis prêt pour exécuter le plan.
+
+674
+00:32:13,280 --> 00:32:14,780
+Mec, j'espère que ça va marcher.
+
+675
+00:32:14,850 --> 00:32:16,350
+Tout comme moi, Michael.
+
+676
+00:32:16,410 --> 00:32:18,710
+Puisque sinon, Danny va mourir.
+
+677
+00:32:18,780 --> 00:32:22,450
+Et tu iras en prison.
+Merci de me le rappeler.
+
+678
+00:33:18,480 --> 00:33:19,780
+Ok, soit prêt.
+
+679
+00:33:24,850 --> 00:33:25,750
+Mike !
+
+680
+00:33:26,310 --> 00:33:27,380
+Danny, baisse-toi.
+
+681
+00:33:27,750 --> 00:33:29,250
+Kitt, maintenant !
+
+682
+00:33:38,050 --> 00:33:39,810
+Monte dans la voiture !
+
+683
+00:33:45,480 --> 00:33:46,950
+Système de retenue des occupants actif.
+
+684
+00:33:47,010 --> 00:33:48,250
+Méchant.
+
+685
+00:33:53,250 --> 00:33:54,450
+Calme-toi, Bahia.
+
+686
+00:33:54,510 --> 00:33:55,550
+C'est fini.
+
+687
+00:33:55,610 --> 00:33:57,010
+Vous avez mis les explosifs ?
+
+688
+00:33:57,080 --> 00:33:58,810
+Comment êtes-vous arrivé ici avant nous ?
+
+689
+00:33:58,880 --> 00:34:00,580
+J'ai une voiture vraiment rapide.
+
+690
+00:34:01,650 --> 00:34:04,010
+Nous devons y retourner, nous ne pouvons pas laisser Mike là-bas.
+
+691
+00:34:04,180 --> 00:34:05,310
+Je suis désolé, Danny.
+
+692
+00:34:05,380 --> 00:34:08,480
+Mes ordres sont de te sortir toi et ta mère d'ici sains et saufs.
+
+693
+00:34:08,650 --> 00:34:10,080
+Oublie tes ordres.
+
+694
+00:34:10,150 --> 00:34:13,210
+Pouvez-vous penser par vous-même ?
+
+695
+00:34:13,680 --> 00:34:15,210
+Oui, je peux.
+
+696
+00:34:21,480 --> 00:34:23,480
+Je n’arrive pas à croire que tu parles à une Mustang.
+
+697
+00:34:23,550 --> 00:34:25,850
+C'est un algorithme de pensées extrêmement avancé.
+
+698
+00:34:25,910 --> 00:34:27,710
+Je n’arrive pas à croire que tu parles avec ça.
+
+699
+00:34:27,880 --> 00:34:29,010
+Hé, je ne veux pas te tirer dessus Bahia.
+
+700
+00:34:29,080 --> 00:34:30,810
+La mort je peux gérer, mais pas la prison.
+
+701
+00:34:30,880 --> 00:34:33,610
+Il n’y a aucun endroit où tu peux t'enfuir sans que je te retrouve.
+
+702
+00:34:33,780 --> 00:34:35,110
+Eh bien, je me réjouis de la chasse.
+
+703
+00:34:42,110 --> 00:34:44,450
+Kitt, que fais-tu ?
+Je pense par moi-même.
+
+704
+00:34:50,280 --> 00:34:52,450
+Rien de fou, Ok ?
+
+705
+00:34:58,410 --> 00:34:59,650
+Ouais, tue-le !
+
+706
+00:34:59,710 --> 00:35:02,010
+Danny, n'encourage pas la voiture à devenir violente.
+
+707
+00:35:32,250 --> 00:35:33,580
+C'est un miracle.
+
+708
+00:35:35,210 --> 00:35:36,780
+Louez soit le seigneur.
+
+709
+00:35:52,850 --> 00:35:54,850
+Danny, pose cette arme tout de suite.
+
+710
+00:35:56,210 --> 00:35:59,050
+Danny, écoute ta mère, pose-la.
+
+711
+00:35:59,110 --> 00:36:00,080
+Il l’a tué !
+
+712
+00:36:00,250 --> 00:36:01,880
+Il a tué mon père !
+
+713
+00:36:04,050 --> 00:36:05,750
+L'année dernière, quelqu'un a tué ma mère.
+
+714
+00:36:05,810 --> 00:36:08,510
+Il l’a tué juste devant moi.
+
+715
+00:36:08,580 --> 00:36:10,880
+Je me suis aussi retrouvé devant lui,
+pistolet à la main.
+
+716
+00:36:10,950 --> 00:36:14,380
+Et je ne l'ai pas tué.
+
+717
+00:36:14,450 --> 00:36:17,010
+Parce que je savais que le tuer
+ne ramènerait personne.
+
+718
+00:36:41,050 --> 00:36:42,780
+Vous avez détruit le colis ?
+
+719
+00:36:44,480 --> 00:36:46,810
+C'est la partie où vous m'arrêtez encore ?
+
+720
+00:36:46,880 --> 00:36:49,480
+Vous ne pouvez pas faire ça ! Il nous a sauvés.
+
+721
+00:36:49,550 --> 00:36:52,880
+Actuellement, je peux faire ça.
+
+722
+00:36:55,380 --> 00:36:56,810
+Emmenez-les en lieu sûr.
+
+723
+00:36:56,980 --> 00:36:59,710
+Mais... je veux aller avec Mike, dans sa super voiture.
+
+724
+00:37:02,650 --> 00:37:05,810
+Les enfants.
+
+725
+00:37:07,080 --> 00:37:09,350
+Merci... Agent Renning.
+
+726
+00:37:13,080 --> 00:37:15,150
+Vous êtes chanceux d'avoir ramené le garçon.
+
+727
+00:37:15,710 --> 00:37:18,410
+Mais je ne veux pas vous revoir dans mes enquêtes.
+
+728
+00:37:18,580 --> 00:37:21,350
+Sinon, je vais vous enfermé et jeté la clé.
+
+729
+00:37:24,350 --> 00:37:26,710
+Ok, tout est dit.
+
+730
+00:37:26,980 --> 00:37:28,980
+Maintenant, que dirais-tu si toi et moi on parlait ?
+
+731
+00:37:29,050 --> 00:37:30,450
+Tu sais, tu m'as presque tiré dessus ?
+
+732
+00:37:30,510 --> 00:37:31,910
+Michael, il n’y avait presque aucune chance de te toucher...
+
+733
+00:37:31,980 --> 00:37:33,850
+Je ne veux pas entendre ça. Je clos le sujet.
+
+734
+00:37:33,910 --> 00:37:35,010
+Ce n'est pas clos... Si c'est clos.
+
+735
+00:37:35,080 --> 00:37:36,610
+J'ai visé pour être sûr que tu ne sois pas blessé.
+
+736
+00:37:36,680 --> 00:37:37,980
+Non, c'est passé au dessus de ma tête.
+
+737
+00:37:42,210 --> 00:37:44,910
+Donc, je vais me faire arrêter sur toutes les enquêtes que nous avons ?
+
+738
+00:37:44,980 --> 00:37:47,580
+Le directeur de l'Intelligence National
+nous aidera quand il pourra,
+
+739
+00:37:47,650 --> 00:37:49,880
+mais nous ne sommes pas officiellement
+une opération du gouvernement.
+
+740
+00:37:49,750 --> 00:37:51,410
+Vous êtes vous-même sur place.
+
+741
+00:37:51,480 --> 00:37:53,510
+Essayer juste de ne pas énerver plus de gens, Ok ?
+
+742
+00:37:53,780 --> 00:37:54,750
+J'essayerai.
+
+743
+00:37:54,810 --> 00:37:56,710
+Ouais, peu de chance que ça arrive.
+
+744
+00:37:56,780 --> 00:37:58,910
+Hum. Comment était la visite ?
+
+745
+00:37:59,080 --> 00:38:00,980
+Cet endroit est incroyable.
+
+746
+00:38:01,050 --> 00:38:03,050
+Je veux vraiment travailler ici quand je serais plus vieux.
+
+747
+00:38:03,110 --> 00:38:04,910
+Bien, nous serons chanceux de t'avoir.
+
+748
+00:38:05,280 --> 00:38:06,410
+Merci pour l'invitation.
+
+749
+00:38:06,480 --> 00:38:07,880
+Bien sûr.
+
+750
+00:38:09,810 --> 00:38:12,480
+Qu'est-ce qu’il fait ?
+
+751
+00:38:12,550 --> 00:38:14,450
+Ça n'a pas été nos journées les plus faciles
+
+752
+00:38:14,510 --> 00:38:17,610
+et entrer dans le programme de protection des témoins n'aide pas.
+
+753
+00:38:17,680 --> 00:38:20,450
+Alors, nous sommes heureux de nous offrir un peu de distraction.
+
+754
+00:38:20,510 --> 00:38:24,450
+Mais il y avait une autre raison pour
+que nous vous demandions de venir.
+
+755
+00:38:29,110 --> 00:38:30,210
+Je ne veux pas de l'argent de la drogue.
+
+756
+00:38:30,280 --> 00:38:32,210
+Hum... La DEA vous offre une récompense
+
+757
+00:38:32,280 --> 00:38:34,450
+Pour l'appréhension de certains criminels.
+
+758
+00:38:34,510 --> 00:38:37,350
+Bahia était très haut dans leur liste.
+
+759
+00:38:37,410 --> 00:38:39,480
+Je ne sais pas quoi dire.
+
+760
+00:38:39,650 --> 00:38:40,810
+C'est une nouvelle vie.
+
+761
+00:38:40,880 --> 00:38:43,550
+Une maison dans un bon quartier, une école privée.
+
+762
+00:38:44,410 --> 00:38:46,410
+Dites que vous le prenez.
+
+763
+00:38:48,080 --> 00:38:50,650
+C'est l'argent de mon père ?
+
+764
+00:38:53,310 --> 00:38:55,680
+Tu veux que je te parle de ma mère ?
+
+765
+00:38:58,380 --> 00:39:02,580
+Et bien, elle ne prenait pas toujours les bonnes décisions.
+
+766
+00:39:02,650 --> 00:39:05,680
+Mais je savais qu'elle m'aimait.
+
+767
+00:39:05,750 --> 00:39:08,610
+Et elle a fait tout ce qu'elle a pu pour me donner une belle vie.
+
+768
+00:39:12,050 --> 00:39:15,850
+Ton père essayait de faire la même chose.
+
+769
+00:39:15,910 --> 00:39:18,950
+Ouais.
+
+770
+00:39:19,010 --> 00:39:22,950
+Ça m'aide, souviens-toi de ça.
+
+771
+00:39:23,010 --> 00:39:26,550
+Peut-être que ça va t'aider tout aussi.
+
+772
+00:39:26,610 --> 00:39:29,150
+Merci.
+
+773
+00:39:29,210 --> 00:39:31,150
+Bien, porte-toi bien Danny.
+
+774
+00:39:31,210 --> 00:39:34,910
+Toi aussi, Mike.
+
+775
+00:39:34,980 --> 00:39:37,550
+Merci. Pour tout.
+
+776
+00:39:37,610 --> 00:39:39,550
+Ouais, faites-nous savoir si la DEA
+
+777
+00:39:39,610 --> 00:39:43,150
+ne s'occupe pas bien de vous, Ok ?
+
+778
+00:39:43,210 --> 00:39:45,280
+Oui, penses-tu que Kitt peut nous reconduire à la maison ?
+
+779
+00:39:45,350 --> 00:39:47,710
+Pourquoi tu ne lui demandes pas ?
+
+780
+00:39:47,780 --> 00:39:49,250
+Kitt ?
+
+781
+00:39:49,710 --> 00:39:52,380
+Je serais heureux, si c'est Ok avec Sarah.
+
+782
+00:39:53,350 --> 00:39:56,350
+C'est Ok, amusez-vous.
+
+783
+00:39:56,410 --> 00:39:57,650
+Super !
+
+784
+00:39:57,710 --> 00:39:59,750
+Merci.
+
+785
+00:39:59,810 --> 00:40:01,510
+Hé, Kitt, tu penses qu'on peut tirer sur quelque chose
+
+786
+00:40:01,580 --> 00:40:02,680
+sur la route ?
+
+787
+00:40:02,750 --> 00:40:04,580
+Je ne pense pas que ce soit une bonne idée.
+
+788
+00:40:04,650 --> 00:40:07,380
+Rien de vivant, juste un panneau-stop ou deux.
+
+789
+00:40:07,450 --> 00:40:08,480
+Ok.
+
+790
+00:40:08,550 --> 00:40:10,050
+Vraiment ?!
+Non.
+
+791
+00:40:18,210 --> 00:40:21,080
+Système de retenue des occupants activé.
+
+792
+00:40:23,380 --> 00:40:25,210
+Ils grandissent vite, n'est-ce pas ?
+
+793
+00:40:25,280 --> 00:40:29,580
+Oui, c'est un garçon spécial.
+
+794
+00:40:29,650 --> 00:40:31,510
+Je parle de Kitt.
+
+795
+00:40:42,480 --> 00:40:43,580
+Vas-y Kitt !
+
+796
+00:40:45,781 --> 00:40:48,500
+<font color="#FFFF00">Pour www.knightrider2008.fr</font>
+

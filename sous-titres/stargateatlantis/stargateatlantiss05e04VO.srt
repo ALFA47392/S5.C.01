@@ -1,0 +1,2921 @@
+1
+00:00:01,783 --> 00:00:04,435
+- What are you talking about?
+- I'm telling you,
+
+2
+00:00:04,555 --> 00:00:06,739
+- she's hiding him from me.
+- She's not hiding him.
+
+3
+00:00:06,859 --> 00:00:10,290
+Every time I go to see him, she tells me
+that he's just settled down.
+
+4
+00:00:10,410 --> 00:00:13,212
+- Can you blame her? You dropped him.
+- I did not drop him, he jumped.
+
+5
+00:00:13,332 --> 00:00:15,349
+- Jumped?
+- He wiggled out of my arms.
+
+6
+00:00:15,469 --> 00:00:18,496
+I said I was sorry. Besides, how much
+damage could I possibly have done?
+
+7
+00:00:18,616 --> 00:00:20,690
+He fell, like, maybe two feet.
+
+8
+00:00:20,810 --> 00:00:23,564
+Stuff like that happens all the time.
+I was dropped like, a dozen times
+
+9
+00:00:23,684 --> 00:00:25,629
+- when I was a kid.
+- That explains a lot.
+
+10
+00:00:25,749 --> 00:00:28,369
+- Why care? You don't like kids.
+- It's the principle of the thing.
+
+11
+00:00:28,489 --> 00:00:31,391
+- Everybody else gets to hold him.
+- Colonel...
+
+12
+00:00:31,760 --> 00:00:34,485
+We've got a new contact.
+Looks like a ship.
+
+13
+00:00:34,605 --> 00:00:36,708
+- How far out?
+- It's in orbit.
+
+14
+00:00:37,143 --> 00:00:39,338
+- How come we didn't detect it?
+- I don't know.
+
+15
+00:00:39,458 --> 00:00:42,548
+We didn't detect a hyperspace window.
+It just appeared out of nowhere.
+
+16
+00:00:42,668 --> 00:00:45,072
+Hang on a second, we're getting IFF.
+
+17
+00:00:45,443 --> 00:00:46,925
+It's the Daedalus.
+
+18
+00:00:47,085 --> 00:00:49,719
+How can that be?
+They're on their way back to Earth.
+
+19
+00:00:49,879 --> 00:00:51,513
+They were supposed to be.
+
+20
+00:00:53,311 --> 00:00:54,714
+Open up a channel.
+
+21
+00:00:56,260 --> 00:00:58,960
+Daedalus, this is Atlantis,
+please come in.
+
+22
+00:01:01,211 --> 00:01:03,013
+Daedalus, please respond.
+
+23
+00:01:04,952 --> 00:01:06,719
+They're not gonna answer.
+
+24
+00:01:06,839 --> 00:01:07,841
+Why not?
+
+25
+00:01:08,128 --> 00:01:10,455
+Because I'm not reading any lifesigns.
+
+26
+00:01:10,575 --> 00:01:13,326
+What are you telling me, Rodney,
+this thing flew here by itself?
+
+27
+00:01:13,446 --> 00:01:16,121
+I don't know how they got here,
+but there's no one on board.
+
+28
+00:01:16,911 --> 00:01:18,813
+At least, no one alive.
+
+29
+00:01:23,538 --> 00:01:26,773
+The Projet-SG & SG-66 Teams
+
+30
+00:01:31,098 --> 00:01:34,528
+present:
+
+31
+00:01:37,260 --> 00:01:39,394
+Season 5 Episode 04
+The Daedalus Variations (v. 1.00)
+
+32
+00:01:41,970 --> 00:01:44,984
+Transcription by:
+
+33
+00:01:48,457 --> 00:01:51,302
+Yyets.net
+
+34
+00:01:56,410 --> 00:01:59,352
+Timing by:
+
+35
+00:02:02,318 --> 00:02:05,494
+Linwelin and Pikes.
+
+36
+00:02:15,674 --> 00:02:17,931
+www.projet-sg.net
+www.seriestele.net
+
+37
+00:02:31,953 --> 00:02:34,783
+<i>Colonel, we just got confirmation
+from Stargate Command.</i>
+
+38
+00:02:35,158 --> 00:02:38,369
+<i>The Daedalus is in the Milky Way,
+on course and on schedule.</i>
+
+39
+00:02:38,489 --> 00:02:40,451
+<i>They expect to reach Earth
+within two days.</i>
+
+40
+00:02:40,571 --> 00:02:41,769
+Understood.
+
+41
+00:02:42,414 --> 00:02:44,614
+So that's not the Daedalus, then.
+
+42
+00:02:45,075 --> 00:02:46,073
+Well...
+
+43
+00:02:46,361 --> 00:02:49,264
+Not unless it can be in two places
+at once.
+
+44
+00:02:49,973 --> 00:02:51,843
+Perhaps one of your other ships...
+
+45
+00:02:51,963 --> 00:02:55,210
+They wouldn't be sending Daedalus IFF,
+it doesn't explain how they got here,
+
+46
+00:02:55,330 --> 00:02:58,180
+or why we're not picking up
+lifesign readings.
+
+47
+00:02:58,586 --> 00:03:01,100
+All right,
+I'm taking us in for a closer look.
+
+48
+00:03:21,114 --> 00:03:22,288
+You see that?
+
+49
+00:03:23,570 --> 00:03:27,038
+Some scorch marks.
+You think weaponsfire?
+
+50
+00:03:27,158 --> 00:03:30,296
+Wherever she's been, she's been through
+some pretty hard times.
+
+51
+00:03:32,252 --> 00:03:33,252
+What's that?
+
+52
+00:03:33,376 --> 00:03:35,548
+I'm picking up an energy reading.
+
+53
+00:03:35,668 --> 00:03:36,786
+From the ship.
+
+54
+00:03:36,906 --> 00:03:39,138
+- Is it dangerous?
+- I don't think so, but I have
+
+55
+00:03:39,298 --> 00:03:41,813
+- no idea what's causing it.
+- Can you get the bay doors open?
+
+56
+00:03:41,933 --> 00:03:44,030
+If the ship's command systems
+are the same,
+
+57
+00:03:44,150 --> 00:03:45,949
+it shouldn't be a problem.
+
+58
+00:04:01,511 --> 00:04:03,259
+No F-302s, but
+
+59
+00:04:04,460 --> 00:04:06,207
+there's a Jumper.
+
+60
+00:04:06,367 --> 00:04:08,551
+You sure there's no one else inside?
+
+61
+00:04:08,671 --> 00:04:10,270
+As far as I can tell.
+
+62
+00:04:10,701 --> 00:04:12,297
+All right, we're going in.
+
+63
+00:04:29,700 --> 00:04:31,384
+Why is it so cold in here?
+
+64
+00:04:31,504 --> 00:04:33,966
+The ship's operating on emergency power.
+
+65
+00:04:34,086 --> 00:04:36,321
+Some of the systems
+are barely registering.
+
+66
+00:04:36,744 --> 00:04:39,311
+- Except for the weird energy thing.
+- That's right.
+
+67
+00:04:39,431 --> 00:04:41,226
+Can you do something about it?
+
+68
+00:04:41,346 --> 00:04:43,948
+Sure, I just have to get to engineering.
+
+69
+00:04:44,605 --> 00:04:47,582
+You and Ronon are together.
+Teyla and me, we check out the bridge.
+
+70
+00:04:47,834 --> 00:04:49,836
+Radio me if you find anything.
+
+71
+00:05:04,779 --> 00:05:06,181
+No bodies in here.
+
+72
+00:05:11,493 --> 00:05:12,440
+Colonel...
+
+73
+00:05:18,137 --> 00:05:20,281
+It's the Daedalus, all right.
+
+74
+00:05:23,393 --> 00:05:24,912
+McKay, is that you?
+
+75
+00:05:25,032 --> 00:05:27,038
+<i>Of course it was me.
+Who else would it be?</i>
+
+76
+00:05:27,198 --> 00:05:30,300
+You think we've got a ghost
+on board or something?
+
+77
+00:05:31,314 --> 00:05:33,616
+Will you please not touch anything!
+
+78
+00:05:34,771 --> 00:05:36,005
+<i>What's our status?</i>
+
+79
+00:05:36,125 --> 00:05:37,923
+I've restored basic power to the ship.
+
+80
+00:05:38,199 --> 00:05:41,010
+- <i><i>It should be warming up any second.</i></i>
+- Good.
+
+81
+00:05:41,521 --> 00:05:44,931
+Check on that energy reading.
+Try to figure out what it is, all right?
+
+82
+00:05:45,889 --> 00:05:46,987
+I'm on it.
+
+83
+00:05:48,826 --> 00:05:49,769
+Colonel...
+
+84
+00:05:50,544 --> 00:05:52,245
+Ship's log, last entry.
+
+85
+00:05:58,455 --> 00:06:00,406
+<i>Preparations are almost complete.</i>
+
+86
+00:06:00,526 --> 00:06:02,280
+<i><i>We've beamed down our supplies,</i></i>
+
+87
+00:06:02,442 --> 00:06:04,363
+<i>and any equipment
+we think might be useful.</i>
+
+88
+00:06:04,483 --> 00:06:07,583
+<i>I'll be taking the last
+of the F-302s down myself.</i>
+
+89
+00:06:08,026 --> 00:06:10,807
+<i>We haven't had time to do
+a proper survey of the planet's surface,</i>
+
+90
+00:06:10,927 --> 00:06:12,785
+<i>but it seems habitable enough.</i>
+
+91
+00:06:12,905 --> 00:06:14,802
+<i>Plenty of fresh water, arable soil,</i>
+
+92
+00:06:14,922 --> 00:06:17,280
+<i>not that different from our own.</i>
+
+93
+00:06:17,400 --> 00:06:19,340
+<i>I realize our chance of rescue is slim,</i>
+
+94
+00:06:20,058 --> 00:06:23,051
+<i>but it's become obvious
+that we no longer have a choice.</i>
+
+95
+00:06:24,229 --> 00:06:26,713
+<i>This is colonel Sobol,
+commander of the Daedalus,</i>
+
+96
+00:06:26,833 --> 00:06:27,937
+<i>signing off.</i>
+
+97
+00:06:29,229 --> 00:06:30,567
+Do you recognize her?
+
+98
+00:06:30,687 --> 00:06:33,187
+I've never seen her before in my life.
+
+99
+00:06:33,653 --> 00:06:36,173
+It appears as if they abandoned ship.
+
+100
+00:06:36,293 --> 00:06:38,397
+Yeah. The question is, why?
+
+101
+00:06:39,679 --> 00:06:41,581
+I'll check previous entries.
+
+102
+00:06:44,760 --> 00:06:47,157
+Man, this ship
+has been through the wringer.
+
+103
+00:06:47,277 --> 00:06:48,277
+No hyperdrive,
+
+104
+00:06:48,397 --> 00:06:50,486
+subspace communications
+are all damaged beyond repair,
+
+105
+00:06:50,606 --> 00:06:53,007
+the shields are virtually depleted...
+
+106
+00:06:55,547 --> 00:06:56,649
+What is it?
+
+107
+00:06:56,893 --> 00:06:58,212
+It's the energy reading.
+
+108
+00:06:58,732 --> 00:06:59,931
+It's spiking.
+
+109
+00:07:00,432 --> 00:07:01,834
+Sheppard, come in.
+
+110
+00:07:02,371 --> 00:07:04,184
+- <i>Go ahead.</i>
+- Something's happening.
+
+111
+00:07:04,304 --> 00:07:06,716
+The energy reading,
+it's going off the charts.
+
+112
+00:07:06,836 --> 00:07:08,222
+Do something. Turn it off.
+
+113
+00:07:08,543 --> 00:07:11,517
+I don't know how. It's not coming
+from any of the main systems.
+
+114
+00:07:13,231 --> 00:07:14,478
+<i><i>This is Atlantis.</i></i>
+
+115
+00:07:14,639 --> 00:07:17,117
+We're picking up some kind
+of power surge coming from the ship.
+
+116
+00:07:17,237 --> 00:07:20,407
+Yeah, we noticed it.
+We're trying to check it out ourselves.
+
+117
+00:07:21,500 --> 00:07:23,282
+The levels are still rising.
+
+118
+00:07:23,402 --> 00:07:25,209
+Colonel, should we send another Jumper?
+
+119
+00:07:25,329 --> 00:07:26,533
+<i>Stand by.</i>
+
+120
+00:07:34,459 --> 00:07:36,762
+All right, that's our cue to leave.
+
+121
+00:07:37,031 --> 00:07:38,461
+Everyone, back in the Jumper.
+
+122
+00:07:45,204 --> 00:07:46,779
+McKay, what the hell was that?
+
+123
+00:07:46,899 --> 00:07:48,449
+<i>I have no idea, but...</i>
+
+124
+00:07:48,989 --> 00:07:51,349
+The energy reading's
+gone back down the way it was.
+
+125
+00:07:54,930 --> 00:07:57,104
+Atlantis, you reading anything unusual?
+
+126
+00:07:58,158 --> 00:07:59,560
+<i>Atlantis, come in.</i>
+
+127
+00:08:04,384 --> 00:08:06,192
+Atlantis, do you read?
+
+128
+00:08:07,312 --> 00:08:09,308
+Colonel Sheppard, do you read?
+
+129
+00:08:10,549 --> 00:08:13,356
+Daedalus, this is Atlantis,
+please respond.
+
+130
+00:08:15,801 --> 00:08:18,090
+- What the hell's going on?
+- I don't know.
+
+131
+00:08:18,210 --> 00:08:21,170
+One moment they were there,
+the next minute, they were gone.
+
+132
+00:08:25,079 --> 00:08:26,843
+<i>I'm having problems with communications.</i>
+
+133
+00:08:27,003 --> 00:08:28,506
+<i>I can't reach Atlantis.</i>
+
+134
+00:08:28,626 --> 00:08:29,825
+Wait a second.
+
+135
+00:08:30,663 --> 00:08:32,864
+- That can't be right.
+- What?
+
+136
+00:08:34,179 --> 00:08:36,102
+I'm not seeing the City
+on any of my screens.
+
+137
+00:08:36,816 --> 00:08:38,795
+What are you talking about?
+
+138
+00:08:38,915 --> 00:08:40,500
+<i>I just did a sensor sweep,</i>
+
+139
+00:08:40,620 --> 00:08:42,330
+<i>and there's nothing down there</i>
+<i>but ocean.</i>
+
+140
+00:08:42,450 --> 00:08:44,371
+Maybe they cloaked.
+
+141
+00:08:44,491 --> 00:08:47,283
+- <i><i>Without telling us?</i></i>
+- I don't know,
+
+142
+00:08:47,403 --> 00:08:49,372
+maybe there's a Wraith ship in the area.
+
+143
+00:08:49,492 --> 00:08:51,291
+<i>I'm not reading anything.</i>
+
+144
+00:08:51,585 --> 00:08:53,636
+Are we certain it's the same planet?
+
+145
+00:08:53,756 --> 00:08:56,383
+Perhaps the energy burst
+shifted our position.
+
+146
+00:08:56,503 --> 00:08:59,200
+No, according to our instruments,
+we haven't moved at all.
+
+147
+00:08:59,320 --> 00:09:02,382
+What do you want me to believe, Rodney?
+That Atlantis just disappeared?
+
+148
+00:09:02,502 --> 00:09:04,714
+<i>I don't know.
+Give me a second, I'll figure it out.</i>
+
+149
+00:09:05,007 --> 00:09:07,102
+I've localized
+the source of the energy reading.
+
+150
+00:09:07,222 --> 00:09:09,425
+It's coming from a hold on deck 9.
+
+151
+00:09:10,058 --> 00:09:13,723
+Keep trying to reach Atlantis.
+We'll check it out.
+
+152
+00:09:25,079 --> 00:09:27,481
+<i>Sheppard, I think I've got something.</i>
+
+153
+00:09:27,794 --> 00:09:29,773
+It's the residual radiation
+from the flash.
+
+154
+00:09:29,893 --> 00:09:32,325
+It's similar to what happens
+when you open a hyperspace window,
+
+155
+00:09:32,485 --> 00:09:35,445
+<i>but different enough that the sensors
+<i>wouldn't have picked it up.</i></i>
+
+156
+00:09:35,565 --> 00:09:37,138
+What the hell does that mean?
+
+157
+00:09:37,258 --> 00:09:39,228
+I think we're looking
+at a new kind of drive.
+
+158
+00:09:39,348 --> 00:09:40,870
+You said we didn't go anywhere.
+
+159
+00:09:40,990 --> 00:09:44,081
+<i>We didn't. At least not according
+to the ship's navigational systems.</i>
+
+160
+00:09:44,201 --> 00:09:46,709
+So, a malfunctioning drive?
+
+161
+00:09:46,829 --> 00:09:48,430
+<i>Maybe. Just hang on.</i>
+
+162
+00:09:59,759 --> 00:10:00,937
+My God, Sheppard...
+
+163
+00:10:01,371 --> 00:10:02,303
+Stand by.
+
+164
+00:10:02,423 --> 00:10:04,219
+<i>No, you don't understand,
+I know what it is.</i>
+
+165
+00:10:04,578 --> 00:10:07,351
+Look, the residual radiation.
+It's exactly what we recorded
+
+166
+00:10:07,471 --> 00:10:10,519
+when my double arrived on Atlantis
+from an alternate reality.
+
+167
+00:10:10,639 --> 00:10:13,189
+<i>I can't believe
+I didn't see this before.</i>
+
+168
+00:10:13,615 --> 00:10:16,327
+<i>It's a drive all right, but it didn't
+move us through space.</i>
+
+169
+00:10:16,487 --> 00:10:18,662
+I think it's moved us
+into a parallel universe.
+
+170
+00:10:19,982 --> 00:10:22,283
+That would explain a lot of things.
+
+171
+00:10:38,684 --> 00:10:40,502
+How long have they been dead for?
+
+172
+00:10:40,622 --> 00:10:42,825
+This place was like a meat locker.
+
+173
+00:10:43,012 --> 00:10:46,109
+They could've been preserved
+like this for months.
+
+174
+00:10:47,842 --> 00:10:50,381
+- They look just like us.
+- That's because they are us...
+
+175
+00:10:50,501 --> 00:10:53,077
+The alternate reality versions of us.
+
+176
+00:10:53,197 --> 00:10:55,227
+I feel like someone
+just walked over my grave.
+
+177
+00:10:55,347 --> 00:10:56,685
+Everything's fine.
+
+178
+00:10:56,805 --> 00:10:58,899
+No, no, no, this is very bad.
+
+179
+00:10:59,019 --> 00:10:59,955
+What?
+
+180
+00:11:00,075 --> 00:11:02,750
+Could this tablet belong
+to the other McKay?
+
+181
+00:11:02,870 --> 00:11:06,001
+They weren't part of the original crew.
+They came here just like us.
+
+182
+00:11:06,121 --> 00:11:09,921
+A ship appeared above their Atlantis,
+they came to check it out.
+
+183
+00:11:10,328 --> 00:11:12,174
+That would explain
+the other Jumper.
+
+184
+00:11:12,334 --> 00:11:15,094
+The ship jumped to another reality,
+and they were stuck.
+
+185
+00:11:15,404 --> 00:11:18,556
+Eventually their supplies ran out,
+and they...
+
+186
+00:11:18,716 --> 00:11:20,924
+All right, mystery solved.
+Let's move on.
+
+187
+00:11:21,044 --> 00:11:22,643
+Don't you realize what this means?
+
+188
+00:11:23,490 --> 00:11:25,062
+They were us, and they failed.
+
+189
+00:11:25,929 --> 00:11:28,899
+They're not us.
+We're still alive. Let's go.
+
+190
+00:11:37,313 --> 00:11:40,913
+The answer's in here somewhere.
+Can you power up the systems?
+
+191
+00:11:42,061 --> 00:11:43,860
+Yeah, just hold on.
+
+192
+00:11:49,613 --> 00:11:50,714
+All right...
+
+193
+00:11:55,409 --> 00:11:57,219
+All right, that's a start.
+
+194
+00:11:57,631 --> 00:11:58,888
+What's behind here?
+
+195
+00:12:01,465 --> 00:12:03,167
+That's a good question.
+
+196
+00:12:20,646 --> 00:12:23,079
+I'm guessing
+that's our alternate reality drive.
+
+197
+00:12:23,371 --> 00:12:25,774
+Can you figure out how to control it?
+
+198
+00:12:26,390 --> 00:12:27,875
+Offhand, I'd say no.
+
+199
+00:12:29,149 --> 00:12:32,338
+That's what the other McKay
+was trying to do, and he had... weeks.
+
+200
+00:12:34,754 --> 00:12:35,758
+Fine.
+
+201
+00:12:36,102 --> 00:12:37,771
+I'll start with his research.
+
+202
+00:12:37,891 --> 00:12:39,470
+It'll at least give us a head start.
+
+203
+00:12:39,630 --> 00:12:41,597
+That's better.
+We're going to go look or supplies.
+
+204
+00:12:41,757 --> 00:12:43,431
+The other us
+wouldn't have tried that?
+
+205
+00:12:43,551 --> 00:12:44,652
+Get to work.
+
+206
+00:13:00,691 --> 00:13:02,293
+Did you find anything?
+
+207
+00:13:02,762 --> 00:13:05,265
+Not unless you know a way to cook this.
+
+208
+00:13:06,670 --> 00:13:10,845
+Perhaps we should consider going down
+to the planet to collect supplies.
+
+209
+00:13:10,965 --> 00:13:12,612
+Sheppard says it's too risky.
+
+210
+00:13:12,732 --> 00:13:14,899
+The drive could kick in,
+and the ship could take off.
+
+211
+00:13:15,019 --> 00:13:16,719
+Then we'd be stuck here.
+
+212
+00:13:19,209 --> 00:13:20,819
+The others that we found...
+
+213
+00:13:20,939 --> 00:13:24,136
+Do you think their lives
+were very similar to ours?
+
+214
+00:13:24,256 --> 00:13:25,357
+Who cares?
+
+215
+00:13:27,027 --> 00:13:28,629
+How can you say that?
+
+216
+00:13:29,126 --> 00:13:31,125
+We've seen our doubles before.
+
+217
+00:13:31,597 --> 00:13:34,397
+Replicator-manufactured copies.
+
+218
+00:13:34,768 --> 00:13:37,791
+These were real people, with real lives.
+
+219
+00:13:37,911 --> 00:13:40,005
+I'm concern about
+who might still be waiting for her
+
+220
+00:13:40,125 --> 00:13:42,241
+back on her Atlantis.
+
+221
+00:13:43,376 --> 00:13:45,726
+Do you mean, did she also have a son?
+
+222
+00:13:46,369 --> 00:13:48,581
+- The thought had crossed my mind.
+- Look...
+
+223
+00:13:50,458 --> 00:13:52,543
+I've heard McKay talk
+about this stuff before,
+
+224
+00:13:53,114 --> 00:13:56,695
+and supposedly, there's a million
+different realities out there,
+
+225
+00:13:56,815 --> 00:13:58,632
+with every possible variation.
+
+226
+00:13:59,350 --> 00:14:02,178
+Which also means
+there's a million different Torrens.
+
+227
+00:14:03,426 --> 00:14:05,874
+You going to worry
+about every one of them?
+
+228
+00:14:07,103 --> 00:14:07,819
+No.
+
+229
+00:14:08,870 --> 00:14:10,769
+It's difficult enough
+worrying about one.
+
+230
+00:14:11,788 --> 00:14:13,689
+I'll bet it is.
+Come on.
+
+231
+00:14:24,697 --> 00:14:28,155
+- Why is the blast door closed?
+- Hello? Residual radiation?
+
+232
+00:14:28,602 --> 00:14:29,736
+Oh, right.
+
+233
+00:14:30,315 --> 00:14:31,802
+Have you made any progress?
+
+234
+00:14:31,922 --> 00:14:33,937
+As a matter of fact, yes, we have.
+
+235
+00:14:34,057 --> 00:14:35,785
+- We?
+- Me and the other McKay,
+
+236
+00:14:35,905 --> 00:14:38,190
+who, unsurprisingly, is a genius.
+Not only that,
+
+237
+00:14:38,310 --> 00:14:40,842
+but it looks like the drive
+was created by yet another McKay
+
+238
+00:14:40,962 --> 00:14:42,376
+from the original reality.
+
+239
+00:14:42,496 --> 00:14:44,848
+- What makes you say that?
+- Well, there's a certain...
+
+240
+00:14:44,968 --> 00:14:46,849
+elegance to the design that I recognize.
+
+241
+00:14:46,972 --> 00:14:49,392
+I'm sure that's what the crew was saying
+when they abandoned ship.
+
+242
+00:14:49,512 --> 00:14:53,397
+Well, admittedly there are problems,
+but it's still a monumental achievement.
+
+243
+00:14:54,096 --> 00:14:57,107
+So, what do we do?
+Can we just throw this thing in reverse?
+
+244
+00:14:57,422 --> 00:15:00,055
+Yeah, it's a little more
+complicated than that.
+
+245
+00:15:00,175 --> 00:15:01,630
+The first problem is navigation.
+
+246
+00:15:01,750 --> 00:15:05,716
+They've developed a coordinate system
+to identify the various realities
+
+247
+00:15:05,836 --> 00:15:09,203
+and allow them to get back,
+but obviously that didn't work.
+
+248
+00:15:09,972 --> 00:15:10,972
+Obviously.
+
+249
+00:15:11,913 --> 00:15:14,541
+- That's not what bothers me.
+- Well, it kind of bothers me.
+
+250
+00:15:14,899 --> 00:15:16,268
+It's power generation,
+
+251
+00:15:16,388 --> 00:15:19,474
+and jumping from one reality to another
+requires massive amounts of power.
+
+252
+00:15:19,628 --> 00:15:21,173
+We're talking ZPM levels here.
+
+253
+00:15:21,626 --> 00:15:23,896
+Obviously they didn't have
+one of those rattling around,
+
+254
+00:15:24,016 --> 00:15:28,055
+so they created a capacitor that's
+constantly drawing power from subspace.
+
+255
+00:15:29,547 --> 00:15:32,039
+And it looks like it's almost charged.
+
+256
+00:15:32,159 --> 00:15:35,928
+Is this your long-winded way of telling
+me you just can't turn it off?
+
+257
+00:15:36,048 --> 00:15:38,686
+Think of it like a tap,
+pouring water into a bucket.
+
+258
+00:15:38,806 --> 00:15:41,102
+When the bucket is full,
+the drive engages,
+
+259
+00:15:41,222 --> 00:15:43,821
+except this particular tap has no valve.
+
+260
+00:15:44,837 --> 00:15:47,286
+That seems like a pretty serious
+design flaw, don't you think?
+
+261
+00:15:47,406 --> 00:15:49,845
+Exactly. Which leads me to believe
+they were tampering with it,
+
+262
+00:15:49,965 --> 00:15:51,810
+in a vain attempt
+to generate more power.
+
+263
+00:15:51,930 --> 00:15:54,043
+As they got further and further
+from their own reality,
+
+264
+00:15:54,163 --> 00:15:56,427
+I guess they figured
+they needed to get back.
+
+265
+00:15:56,952 --> 00:15:59,084
+And here we go.
+
+266
+00:16:06,337 --> 00:16:07,188
+Okay.
+
+267
+00:16:09,053 --> 00:16:11,334
+- Where are we?
+- Don't look at me.
+
+268
+00:16:11,767 --> 00:16:14,914
+I haven't had time to route the main
+systems to these control panels.
+
+269
+00:16:15,034 --> 00:16:16,687
+I'm flying blind down here.
+
+270
+00:16:18,097 --> 00:16:20,721
+- Ronon, Teyla, meet me at the bridge.
+- <I>On our way.</I>
+
+271
+00:16:20,841 --> 00:16:22,425
+Keep it up, Rodney.
+
+272
+00:16:27,597 --> 00:16:29,353
+Colonel, Atlantis is back.
+
+273
+00:16:29,473 --> 00:16:31,572
+I'm picking them up on the sensors.
+
+274
+00:16:34,470 --> 00:16:36,281
+You know how to work this stuff?
+
+275
+00:16:36,401 --> 00:16:39,627
+The last time the Daedalus was in orbit,
+Major Marks generously offered
+
+276
+00:16:39,747 --> 00:16:43,356
+to give both of us
+some preliminary training.
+
+277
+00:16:43,476 --> 00:16:46,337
+- I was busy.
+- Atlantis, this is Sheppard, come in.
+
+278
+00:16:48,281 --> 00:16:49,953
+Atlantis, do you read?
+
+279
+00:16:55,056 --> 00:16:57,226
+Atlantis, this is Sheppard, come in.
+
+280
+00:16:57,430 --> 00:16:59,476
+Maybe they already have a Sheppard.
+
+281
+00:17:01,924 --> 00:17:04,568
+Rodney, what are the odds of us
+
+282
+00:17:05,052 --> 00:17:08,790
+randomly jumping
+back into our own reality?
+
+283
+00:17:08,910 --> 00:17:10,852
+<I>I'd say slim to none.</I>
+
+284
+00:17:10,972 --> 00:17:13,573
+I'm detecting another ship in orbit.
+
+285
+00:17:14,115 --> 00:17:15,334
+What kind?
+
+286
+00:17:15,454 --> 00:17:17,872
+I'll see if I can pull it up on screen.
+
+287
+00:17:21,576 --> 00:17:23,039
+I don't recognize it.
+
+288
+00:17:24,384 --> 00:17:25,464
+What's that?
+
+289
+00:17:30,032 --> 00:17:31,870
+- You know it?
+- No.
+
+290
+00:17:32,845 --> 00:17:35,497
+Colonel, I believe
+the ship is powering weapons.
+
+291
+00:17:36,784 --> 00:17:38,540
+What's our shield status?
+
+292
+00:17:38,660 --> 00:17:39,660
+Minimal.
+
+293
+00:17:48,630 --> 00:17:50,163
+It's firing on Atlantis.
+
+294
+00:17:50,283 --> 00:17:52,169
+The City's shields are failing.
+
+295
+00:17:52,289 --> 00:17:54,785
+Rodney, do we have enough juice
+to power up the Asgard beam?
+
+296
+00:17:55,879 --> 00:17:58,510
+<I>Maybe. You might be able to get
+a couple of shots off. Why?</I>
+
+297
+00:17:58,630 --> 00:18:01,304
+There's some alien ship
+attacking Atlantis.
+
+298
+00:18:01,424 --> 00:18:03,460
+- <I>So?</I>
+- What do you mean, "So?" It's Atlantis!
+
+299
+00:18:03,907 --> 00:18:06,290
+It's not our Atlantis.
+We have no idea who's down there.
+
+300
+00:18:06,410 --> 00:18:08,101
+Look, we should just stay out of it.
+
+301
+00:18:08,221 --> 00:18:10,509
+If we do not intervene,
+the City will be destroyed.
+
+302
+00:18:10,877 --> 00:18:13,131
+Yeah, we need help.
+My gut tells me we're better off
+
+303
+00:18:13,251 --> 00:18:15,744
+going with the people on that planet
+than whoever's on that ship.
+
+304
+00:18:15,864 --> 00:18:18,414
+- <I>I hope you're right.</I>
+- Yeah, well, me too.
+
+305
+00:18:30,247 --> 00:18:32,489
+The ship's been damaged.
+It's stopped firing.
+
+306
+00:18:32,829 --> 00:18:34,789
+Hopefully we took out its main weapons.
+
+307
+00:18:34,909 --> 00:18:36,493
+Wait, something's happening.
+
+308
+00:18:38,053 --> 00:18:39,799
+They're launching fighters.
+
+309
+00:18:52,781 --> 00:18:56,037
+You should've took Marks up when you had
+the chance. You'll have to learn fast.
+
+310
+00:18:56,157 --> 00:18:59,770
+Rail-gun targeting systems.
+Button's on the right.
+
+311
+00:18:59,890 --> 00:19:04,188
+Control, radar, tracking, and target
+acquisition, use the red button to fire.
+
+312
+00:19:23,798 --> 00:19:25,959
+- What the hell was that?
+- <I>We're under attack.</I>
+
+313
+00:19:26,120 --> 00:19:28,086
+Any chance of getting
+that hyperdrive back online?
+
+314
+00:19:28,455 --> 00:19:30,839
+No, it's completely shot!
+I already told you that!
+
+315
+00:19:31,372 --> 00:19:32,257
+Great.
+
+316
+00:19:38,158 --> 00:19:40,808
+- They're too many. I can't do this.
+- Keep trying!
+
+317
+00:20:01,948 --> 00:20:04,117
+- We've lost sublight.
+- We have a hull breach.
+
+318
+00:20:05,293 --> 00:20:07,293
+We're venting atmosphere.
+I don't know what to do.
+
+319
+00:20:13,031 --> 00:20:15,412
+Seal off damaged areas.
+We should be okay for the moment.
+
+320
+00:20:15,532 --> 00:20:17,093
+I wouldn't be so sure about that.
+
+321
+00:20:19,756 --> 00:20:21,223
+Sheppard, I have an idea!
+
+322
+00:20:21,550 --> 00:20:24,263
+- Let's hear it.
+- I've set up a few protocols
+
+323
+00:20:24,383 --> 00:20:27,437
+that should increase the efficiency
+of the alternate reality drive.
+
+324
+00:20:27,983 --> 00:20:30,594
+If I enable them,
+we might be able to jump sooner.
+
+325
+00:20:31,143 --> 00:20:33,349
+What, jump to the next universe?
+
+326
+00:20:33,469 --> 00:20:34,469
+<I>Exactly!</I>
+
+327
+00:20:34,593 --> 00:20:36,822
+<I>But if I do this, I can't undo it!</I>
+
+328
+00:20:37,203 --> 00:20:39,615
+I mean, we'll just start jumping
+faster and faster!
+
+329
+00:20:43,771 --> 00:20:44,705
+Do it.
+
+330
+00:21:05,322 --> 00:21:07,199
+- It worked.
+- Where are we?
+
+331
+00:21:09,684 --> 00:21:10,828
+We have a problem.
+
+332
+00:21:10,948 --> 00:21:13,066
+Temperature in the hull
+is rising rapidly.
+
+333
+00:21:13,940 --> 00:21:15,466
+What the hell is this?
+
+334
+00:21:23,875 --> 00:21:26,471
+According to these readings,
+we're less than two million kilometers
+
+335
+00:21:26,591 --> 00:21:28,189
+from the surface of the sun.
+
+336
+00:21:28,309 --> 00:21:31,436
+I thought we always jumped
+to the same place in every reality.
+
+337
+00:21:31,556 --> 00:21:32,500
+As did I.
+
+338
+00:21:36,004 --> 00:21:37,934
+Hull temperature is
+approaching critical.
+
+339
+00:21:38,054 --> 00:21:39,825
+If we do not restore shields...
+
+340
+00:21:39,945 --> 00:21:41,353
+We're gonna burn.
+
+341
+00:21:45,026 --> 00:21:46,224
+Are you sure about this?
+
+342
+00:21:47,124 --> 00:21:49,019
+Well, we're not imagining it, Rodney.
+
+343
+00:21:49,372 --> 00:21:53,054
+Let me transfer the sensors down
+to the station. Then at least I can...
+
+344
+00:21:54,634 --> 00:21:56,276
+You're definitely not imagining that.
+
+
+345
+00:21:56,799 --> 00:21:59,105
+- Thanks for the vote of confidence.
+- <I>I don't understand it.</I>
+
+346
+00:21:59,225 --> 00:22:01,531
+<I>We always jump to the same</I>
+<I>relative position in space.</I>
+
+347
+00:22:02,735 --> 00:22:03,787
+Unless...
+
+348
+00:22:04,265 --> 00:22:05,421
+<I>Unless what?</I>
+
+349
+00:22:06,276 --> 00:22:08,354
+You said when you went to the future,
+you saw our sun
+
+350
+00:22:08,474 --> 00:22:10,332
+expanding into a red giant, remember?
+
+351
+00:22:10,557 --> 00:22:13,069
+- You saying we're jumping through time?
+- <I>No, no, no,</I>
+
+352
+00:22:13,189 --> 00:22:15,937
+but maybe what eventually happens
+in our reality
+
+353
+00:22:16,057 --> 00:22:18,312
+is happening in this one,
+only much sooner.
+
+354
+00:22:18,432 --> 00:22:21,051
+Look, we didn't go to the sun.
+The sun came to us.
+
+355
+00:22:22,043 --> 00:22:23,695
+So how does this help us?
+
+356
+00:22:24,234 --> 00:22:25,449
+I don't know.
+
+357
+00:22:25,806 --> 00:22:27,307
+I just... I found it interesting.
+
+358
+00:22:28,118 --> 00:22:30,815
+What's interesting, Rodney,
+
+359
+00:22:30,935 --> 00:22:33,028
+is a way out of this
+without getting fried,
+
+360
+00:22:33,148 --> 00:22:35,061
+like getting sublight back on,
+
+361
+00:22:35,181 --> 00:22:38,360
+- so we can get the hell out of here.
+- <I>Actually, I think our best bet</I>
+
+362
+00:22:38,520 --> 00:22:40,994
+is just to transfer as much power
+as we can to the shields,
+
+363
+00:22:41,114 --> 00:22:43,125
+and ride it out till the next jump.
+
+364
+00:22:43,245 --> 00:22:44,877
+Well, when does that happen?
+
+365
+00:22:44,997 --> 00:22:47,128
+The time the capacitor
+takes to charge is different
+
+366
+00:22:47,248 --> 00:22:49,687
+now that I've enacted
+those new protocols.
+
+367
+00:22:49,922 --> 00:22:51,151
+You know...
+
+368
+00:22:51,829 --> 00:22:52,829
+I have no idea.
+
+369
+00:22:53,696 --> 00:22:56,022
+You're not exactly
+selling the plan, Rodney.
+
+370
+00:22:56,142 --> 00:22:58,880
+<I>I have no idea how long it would take me
+to fix the sublights either!</I>
+
+371
+00:22:59,335 --> 00:23:01,380
+I've got to run a diagnostic,
+but theoretically,
+
+372
+00:23:01,500 --> 00:23:03,794
+transferring power to the shields
+should be relatively easy.
+
+373
+00:23:04,431 --> 00:23:05,971
+All right, what do we do?
+
+374
+00:23:06,558 --> 00:23:09,052
+The first I need you to do
+is head down to engineering.
+
+375
+00:23:09,172 --> 00:23:10,268
+Let's go.
+
+376
+00:23:22,654 --> 00:23:24,816
+All right, we're here.
+What do we do?
+
+377
+00:23:25,172 --> 00:23:27,824
+You need to kill all power
+to non-essential decks.
+
+378
+00:23:27,944 --> 00:23:30,620
+Which means you're gonna have to access
+the main administrative interface.
+
+379
+00:23:31,171 --> 00:23:34,750
+<I>That should bring up a list
+of all available override commands.</I>
+
+380
+00:23:39,960 --> 00:23:40,893
+Got it.
+
+381
+00:23:41,610 --> 00:23:44,368
+<I>Okay.
+So choose the command for life support.</I>
+
+382
+00:23:44,488 --> 00:23:47,356
+<I>You're gonna have to designate the decks
+one by one.</I>
+
+383
+00:24:33,163 --> 00:24:34,867
+I think that's all of them.
+
+384
+00:24:34,987 --> 00:24:37,896
+Dammit. That didn't buy us nearly
+as much power as I would have thought.
+
+385
+00:24:38,488 --> 00:24:41,173
+- There's got to be something else.
+- <I>Right...</I>
+
+386
+00:24:41,485 --> 00:24:45,070
+All right, the ship has auxiliary power
+modules for most of the main systems.
+
+387
+00:24:45,439 --> 00:24:47,489
+<I>Most likely they're depleted,
+but if not, well,</I>
+
+388
+00:24:47,649 --> 00:24:50,714
+- <I>it might buy us a little more juice.</I>
+- Well, there you go.
+
+389
+00:25:04,636 --> 00:25:06,802
+<I>What the hell was that?
+Was it gunfire?</I>
+
+390
+00:25:06,922 --> 00:25:08,103
+Where's Ronon?
+
+391
+00:25:10,048 --> 00:25:11,244
+Keep working.
+
+392
+00:25:13,351 --> 00:25:14,351
+Stay focused.
+
+393
+00:25:15,234 --> 00:25:17,480
+- <I>Tell me what to do next.</I>
+- All right.
+
+394
+00:25:33,517 --> 00:25:35,120
+- You okay?
+- Yeah.
+
+395
+00:25:36,330 --> 00:25:37,789
+Where the hell did he come from?
+
+396
+00:25:41,109 --> 00:25:42,235
+Check it out.
+
+397
+00:25:42,704 --> 00:25:45,308
+It's the same symbol
+that was on the alien ship.
+
+398
+00:25:46,624 --> 00:25:47,883
+How'd he get onboard?
+
+399
+00:25:48,419 --> 00:25:50,864
+You know, they crashed into us,
+
+400
+00:25:50,984 --> 00:25:52,637
+penetrated our hull, remember?
+
+401
+00:25:53,360 --> 00:25:56,347
+- Think he did it on purpose?
+- That's a good question.
+
+402
+00:26:05,135 --> 00:26:06,157
+Let me try that...
+
+403
+00:26:12,289 --> 00:26:14,206
+That's it.
+That's all of them.
+
+404
+00:26:14,588 --> 00:26:16,988
+I must go help Colonel Sheppard
+and Ronon. Good luck, Rodney.
+
+405
+00:26:17,108 --> 00:26:19,365
+<I>No, no, no, it's not enough!</I>
+
+406
+00:26:19,984 --> 00:26:21,014
+What do you mean?
+
+407
+00:26:21,134 --> 00:26:22,863
+Without sublights,
+our orbit is decaying,
+
+408
+00:26:22,983 --> 00:26:25,337
+which means more radiation
+slamming into the shields.
+
+409
+00:26:25,880 --> 00:26:28,172
+The alternate reality drive
+is only charged to 70%.
+
+410
+00:26:28,359 --> 00:26:30,675
+Which means it'll never make 100
+before the shields fail.
+
+411
+00:26:31,295 --> 00:26:33,050
+What do we do?
+We have no more power.
+
+412
+00:26:34,778 --> 00:26:36,704
+Just... Give me a second.
+
+413
+00:26:47,014 --> 00:26:49,569
+Rodney, Colonel Sheppard
+and Ronon are under attack.
+
+414
+00:26:51,445 --> 00:26:53,114
+All right, I got it.
+Drop the shields.
+
+415
+00:26:53,509 --> 00:26:54,866
+- What?
+<i>- Drop the shields,</i>
+
+416
+00:26:55,134 --> 00:26:58,661
+I'll transfer all power to the drive.
+Hopefully it'll be enough for a jump.
+
+417
+00:26:59,071 --> 00:27:01,039
+- Hopefully?
+- <I>It is our only option,</I>
+
+418
+00:27:01,199 --> 00:27:04,125
+and every second we argue about it,
+is less of a chance it's gonna work!
+
+419
+00:27:05,195 --> 00:27:06,670
+Very well.
+Dropping shields.
+
+420
+00:27:12,319 --> 00:27:14,488
+Hull temperature is passing critical.
+
+421
+00:27:14,718 --> 00:27:17,296
+Okay, transferring power
+to the drive now.
+
+422
+00:27:20,881 --> 00:27:21,893
+No, no, no.
+
+423
+00:27:22,384 --> 00:27:24,744
+- <I>What is it?</I>
+- it's not enough. It's only 98%!
+
+424
+00:27:27,171 --> 00:27:29,901
+Rodney, the hull
+is beginning to deteriorate.
+
+425
+00:27:33,189 --> 00:27:34,500
+Come on, come on!
+
+426
+00:27:38,153 --> 00:27:39,703
+That's it!
+Sheppard, we're jumping!
+
+427
+00:27:57,649 --> 00:27:58,997
+Nice work, Rodney.
+
+428
+00:27:59,875 --> 00:28:02,600
+You may want to hold off
+on the congratulations.
+
+429
+00:28:03,142 --> 00:28:04,102
+Now what?
+
+430
+00:28:04,524 --> 00:28:08,023
+<I>I think I've overtaxed the drive.
+Look, it's not completely blown, but</I>
+
+431
+00:28:08,463 --> 00:28:11,484
+we've only a handful of jumps
+before it's burned out.
+
+432
+00:28:11,644 --> 00:28:13,576
+All right, then what happens?
+
+433
+00:28:13,696 --> 00:28:15,651
+If we haven't found
+our way back by then,
+
+434
+00:28:15,771 --> 00:28:17,615
+we will be stranded forever.
+
+435
+00:28:25,922 --> 00:28:27,426
+What happened to the planet?
+
+436
+00:28:27,546 --> 00:28:30,358
+Rodney believes that in this reality,
+it was destroyed by an impact,
+
+437
+00:28:30,478 --> 00:28:32,138
+possibly millions of years ago.
+
+438
+00:28:32,258 --> 00:28:34,222
+All that remains is this asteroid field.
+
+439
+00:28:34,342 --> 00:28:36,367
+All right, I think I got something.
+
+440
+00:28:36,487 --> 00:28:38,482
+It was staring me
+in the face the whole time.
+
+441
+00:28:38,602 --> 00:28:41,225
+- I was just too busy to notice it.
+- What are you talking about?
+
+442
+00:28:41,345 --> 00:28:43,643
+See, my mistake was focusing
+on the navigation system.
+
+443
+00:28:43,763 --> 00:28:45,502
+I should've known
+it was never gonna work.
+
+444
+00:28:45,622 --> 00:28:48,401
+- So, what, then?
+- So in spectacular feat
+
+445
+00:28:48,521 --> 00:28:50,113
+of multi-dimensional mathematics,
+
+446
+00:28:50,233 --> 00:28:52,690
+I've discovered a way
+to send the ship back along the path
+
+447
+00:28:52,810 --> 00:28:55,403
+it's previously traveled by passing
+the navigation system altogether.
+
+448
+00:28:55,873 --> 00:28:58,907
+Wait a minute. You're talking about
+putting this thing in reverse?
+
+449
+00:28:59,585 --> 00:29:02,737
+- Exactly.
+- I just suggested that two hours ago.
+
+450
+00:29:02,857 --> 00:29:04,608
+And naturally,
+I dismissed it out of hand,
+
+451
+00:29:04,728 --> 00:29:06,925
+but then I realized that,
+including the original designer,
+
+452
+00:29:07,045 --> 00:29:10,001
+not one, but two versions of myself
+have failed to make this thing work.
+
+453
+00:29:10,671 --> 00:29:13,317
+I had to think not like me.
+I had to think the opposite of me.
+
+454
+00:29:13,437 --> 00:29:16,424
+- Doesn't get more opposite than you.
+- I'll take that as a compliment.
+
+455
+00:29:17,233 --> 00:29:19,554
+- So can we get back or not?
+- Well, not directly.
+
+456
+00:29:19,674 --> 00:29:21,573
+It's impossible to calculate
+
+457
+00:29:21,693 --> 00:29:23,721
+the relative position
+of our original starting point
+
+458
+00:29:23,841 --> 00:29:25,933
+from where we are now,
+but we can retrace our steps,
+
+459
+00:29:26,421 --> 00:29:29,236
+passing through each reality in turn
+until we reach the right one.
+
+460
+00:29:29,356 --> 00:29:30,772
+Wait, there's a slight problem.
+
+461
+00:29:31,111 --> 00:29:33,232
+We barely got
+out of those realities alive.
+
+462
+00:29:34,021 --> 00:29:37,217
+If we do not restore the shields,
+the radiation will kill us.
+
+463
+00:29:37,337 --> 00:29:38,405
+Not necessarily.
+
+464
+00:29:38,565 --> 00:29:41,403
+Look, we know that the ship carries
+its momentum in real space
+
+465
+00:29:41,523 --> 00:29:42,866
+from one reality to the next.
+
+466
+00:29:42,986 --> 00:29:45,989
+Now, we may not have sublight engines,
+but we do have maneuvering thrusters.
+
+467
+00:29:46,109 --> 00:29:47,772
+You know, one long continuous burn
+
+468
+00:29:47,892 --> 00:29:50,577
+along the right trajectory, from now
+until the next jump should be enough
+
+469
+00:29:50,697 --> 00:29:53,584
+to allow us to establish a higher,
+more stable orbit around the sun.
+
+470
+00:29:53,704 --> 00:29:55,380
+So the radiation will not affect us?
+
+471
+00:29:55,984 --> 00:29:59,092
+Well, I wouldn't go that far, but still,
+it'll be... not quite as deadly?
+
+472
+00:30:00,094 --> 00:30:01,772
+Okay.
+That's it.
+
+473
+00:30:02,379 --> 00:30:03,720
+Course is already plotted.
+
+474
+00:30:03,840 --> 00:30:06,641
+What about those alien dudes?
+They know we shot at them.
+
+475
+00:30:06,801 --> 00:30:08,832
+- Maybe they'll be gone.
+- I wouldn't count on it.
+
+476
+00:30:08,952 --> 00:30:12,739
+Time is passing at the same rate
+in each of the realities, which means...
+
+477
+00:30:12,859 --> 00:30:14,274
+It hasn't been that long.
+
+478
+00:30:14,797 --> 00:30:18,111
+To get past those aliens,
+we're gonna need sublight engines,
+
+479
+00:30:18,458 --> 00:30:19,996
+and I'll need to fix them in time.
+
+480
+00:30:20,116 --> 00:30:22,200
+But you said
+you don't know what's wrong with those.
+
+481
+00:30:22,320 --> 00:30:25,535
+I haven't had a chance to check it out.
+I'm sorry, I can't do 10 things at once.
+
+482
+00:30:26,525 --> 00:30:29,052
+I already told you,
+the drive is gonna burn out, soon.
+
+483
+00:30:29,172 --> 00:30:30,490
+We have to do something.
+
+484
+00:30:30,610 --> 00:30:33,336
+Who's to say
+the next reality won't be even worse?
+
+485
+00:30:42,171 --> 00:30:45,471
+All right, all the modifications
+to the drive are in place.
+
+486
+00:30:46,346 --> 00:30:47,421
+<I>Here we go.</I>
+
+487
+00:31:03,610 --> 00:31:05,547
+It worked.
+You did it, Rodney.
+
+488
+00:31:06,639 --> 00:31:08,912
+<I>All right,
+I'm gonna head up to engineering,</I>
+
+489
+00:31:09,327 --> 00:31:11,161
+get to work on the sublights.
+
+490
+00:31:14,981 --> 00:31:17,253
+- What's our status?
+- Hull temperature is rising,
+
+491
+00:31:17,733 --> 00:31:19,964
+but not as rapidly as it did before.
+I think we'll be okay.
+
+492
+00:31:20,411 --> 00:31:23,760
+So much for the frying pan.
+Let's hope we make it through the fire.
+
+493
+00:31:28,447 --> 00:31:29,893
+How is it coming?
+
+494
+00:31:30,171 --> 00:31:31,436
+Ah, it's not good.
+
+495
+00:31:31,999 --> 00:31:35,443
+The main systems are completely fried.
+I'll have to do a full bypass.
+
+496
+00:31:35,563 --> 00:31:37,738
+- Can I be of assistance?
+- I doubt it.
+
+497
+00:31:37,858 --> 00:31:38,743
+Okay...
+
+498
+00:31:40,512 --> 00:31:41,705
+Oh, Jeez!
+
+499
+00:31:42,024 --> 00:31:43,171
+What the...
+
+500
+00:31:50,344 --> 00:31:51,261
+Thanks.
+
+501
+00:31:51,656 --> 00:31:54,790
+Perhaps a separate diagnostic
+of the auxiliary system might be useful.
+
+502
+00:31:57,276 --> 00:31:58,076
+Sure.
+
+503
+00:32:03,990 --> 00:32:06,469
+- I wanted to thank you, Rodney.
+- For what?
+
+504
+00:32:07,797 --> 00:32:09,206
+For not giving up.
+
+505
+00:32:11,296 --> 00:32:12,725
+Oh, I know what this is.
+
+506
+00:32:13,502 --> 00:32:14,851
+It's your first mission back.
+
+507
+00:32:14,971 --> 00:32:16,980
+Look, I am not about
+to let it be your last, okay?
+
+508
+00:32:19,951 --> 00:32:21,734
+Oh, no, that's what I was afraid of.
+
+509
+00:32:22,568 --> 00:32:25,612
+- What is it?
+- The drive's charging a lot faster now.
+
+510
+00:32:25,732 --> 00:32:28,950
+Looks like the next jump's gonna
+happen a lot sooner than we thought.
+
+511
+00:32:29,299 --> 00:32:31,583
+How's it coming
+with the sublight engine?
+
+512
+00:32:31,703 --> 00:32:33,488
+I'm gonna need a few minutes.
+
+513
+00:32:33,608 --> 00:32:36,165
+- <I>Do we have a few more minutes?</I>
+- I doubt it.
+
+514
+00:32:37,475 --> 00:32:40,503
+Let's split rail gun positions.
+I'll take forward, you take aft.
+
+515
+00:32:40,663 --> 00:32:44,299
+- You think that'll make a difference?
+- Without shields, probably not,
+
+516
+00:32:44,419 --> 00:32:47,427
+but we don't have much of a choice.
+
+517
+00:32:57,367 --> 00:32:58,880
+Where's the alien ship?
+
+518
+00:32:59,565 --> 00:33:00,669
+I'm not sure.
+
+519
+00:33:02,346 --> 00:33:04,012
+Well, maybe they left.
+
+520
+00:33:05,256 --> 00:33:07,613
+No such luck.
+They're right behind us.
+
+521
+00:33:18,575 --> 00:33:21,377
+Fighters, closing in on our position.
+How's it going down there?
+
+522
+00:33:21,497 --> 00:33:23,312
+Look, just give me a second!
+
+523
+00:33:29,608 --> 00:33:30,903
+Okay, try it now.
+
+524
+00:33:36,027 --> 00:33:38,519
+That's it, I've got it!
+Go, go, go, go, go, go!
+
+525
+00:33:55,243 --> 00:33:56,419
+<I>How we doing?</I>
+
+526
+00:33:57,856 --> 00:33:59,067
+They're gaining on us.
+
+527
+00:33:59,187 --> 00:34:01,360
+- Can you get us more speed?
+- <I>There's not a chance!</I>
+
+528
+00:34:01,480 --> 00:34:03,252
+<I>I've barely got this thing working!
+</I>
+
+529
+00:34:03,608 --> 00:34:06,005
+If we tax it any more,
+we're gonna blow the whole system!
+
+530
+00:34:06,615 --> 00:34:08,448
+Then we've got a real problem.
+
+531
+00:34:17,825 --> 00:34:19,477
+They're in weapons range.
+
+532
+00:34:21,347 --> 00:34:23,022
+- Return fire.
+- I'm trying.
+
+533
+00:34:38,045 --> 00:34:40,455
+Easy, Chewie,
+those buttons are your friends.
+
+534
+00:34:40,617 --> 00:34:42,500
+- Just keep trying.
+- I'm trying!
+
+535
+00:34:45,725 --> 00:34:48,214
+That's it,
+sublights are gone for good this time!
+
+536
+00:35:09,129 --> 00:35:10,840
+What the hell was that?
+
+537
+00:35:11,281 --> 00:35:12,029
+F-302s.
+
+538
+00:35:13,649 --> 00:35:14,866
+It's Atlantis.
+
+539
+00:35:34,692 --> 00:35:36,073
+What's happening?
+
+540
+00:35:36,321 --> 00:35:38,530
+<I>Looks like we're getting
+some help from some friends.</I>
+
+541
+00:35:38,650 --> 00:35:41,084
+Guess we bet on the right side
+after all.
+
+542
+00:35:41,204 --> 00:35:44,186
+Daedalus, this is Lieutenant Colonel
+John Sheppard, do you read?</I>
+
+543
+00:35:46,678 --> 00:35:48,483
+<I>Daedalus, do you read?</I>
+
+544
+00:35:50,729 --> 00:35:53,988
+Yeah, Daedalus.
+This is Daedalus. Come in.
+
+545
+00:35:54,149 --> 00:35:56,073
+<I>Who...
+Who is this?</I>
+
+546
+00:35:56,719 --> 00:35:58,463
+It's a long story.
+
+547
+00:35:58,583 --> 00:36:01,939
+<i>Whoever you are, you saved our asses
+when you took out their main weapons.</i>
+
+548
+00:36:02,059 --> 00:36:04,040
+<I>Figured the least we could do</I>
+<I>is return the favor.</I>
+
+549
+00:36:04,575 --> 00:36:06,007
+Much appreciated.
+
+550
+00:36:07,870 --> 00:36:08,870
+Sheppard...
+
+551
+00:36:15,713 --> 00:36:16,803
+Oh, crap.
+
+552
+00:36:26,430 --> 00:36:28,523
+<I>Sorry about that.
+One of 'em got through.</I>
+
+553
+00:36:28,683 --> 00:36:29,857
+<I>Nice shooting, though.</I>
+
+554
+00:36:31,300 --> 00:36:32,422
+Oh, thanks.
+
+555
+00:36:54,253 --> 00:36:56,216
+<I>All right, looks like
+that's the last of them.</I>
+
+556
+00:36:56,444 --> 00:36:58,344
+<I>So...
+So, what happens now?</I>
+
+557
+00:36:59,169 --> 00:37:01,256
+Well, we go our own ways.
+
+558
+00:37:01,376 --> 00:37:02,723
+<I>Just like that?</I>
+
+559
+00:37:03,545 --> 00:37:04,550
+Pretty much.
+
+560
+00:37:04,670 --> 00:37:07,864
+<I>Well, the thing is...
+we do have a few questions.</I>
+
+561
+00:37:07,984 --> 00:37:11,816
+<I>See, the Daedalus we know
+was destroyed two years ago</I>
+
+562
+00:37:12,381 --> 00:37:15,448
+- <I>in a battle with the replicators.</I>
+- Sorry to hear that,
+
+563
+00:37:16,002 --> 00:37:18,908
+but this isn't exactly our Daedalus.
+
+564
+00:37:19,028 --> 00:37:21,611
+We're just borrowing it for a while.
+
+565
+00:37:21,731 --> 00:37:24,328
+<I>Okay, I have no idea what that means.</I>
+
+566
+00:37:24,982 --> 00:37:27,063
+Like I said, it's a long story.
+
+567
+00:37:27,669 --> 00:37:30,347
+<I>All right, Daedalus, good luck.</I>
+
+568
+00:37:30,467 --> 00:37:33,280
+Thank you, Colonel, and one last thing,
+
+569
+00:37:34,075 --> 00:37:35,840
+it's been a pleasure.
+
+570
+00:37:36,567 --> 00:37:39,062
+You're obviously a man
+of great integrity,
+
+571
+00:37:39,914 --> 00:37:43,556
+and a dedicated commander,
+and a very skilled pilot.
+
+572
+00:37:45,009 --> 00:37:47,310
+<I>Well, that's funny.
+I was going to say the same to you.</I>
+
+573
+00:37:58,606 --> 00:38:00,919
+All right.
+The alien ship's gone.
+
+574
+00:38:01,039 --> 00:38:03,052
+I'm reading a planet
+with no energy signatures.
+
+575
+00:38:03,172 --> 00:38:05,661
+It's the first reality we jumped to.
+One more, and we're home.
+
+576
+00:38:07,795 --> 00:38:09,373
+Let's get down to the hangar bay.
+
+577
+00:38:18,473 --> 00:38:19,713
+All right...
+
+578
+00:38:28,052 --> 00:38:29,440
+I got shot!
+
+579
+00:38:33,111 --> 00:38:35,399
+- I thought we got 'em all.
+- Apparently not.
+
+580
+00:38:44,346 --> 00:38:47,370
+- Think there's any more of them?
+- We're not waiting around to find out.
+
+581
+00:38:54,452 --> 00:38:55,839
+Move, move, move!
+
+582
+00:39:08,930 --> 00:39:11,769
+The explosion's caused a hull breech.
+Whole sections have been de-pressurized,
+
+583
+00:39:11,929 --> 00:39:14,951
+including the hangar bay!
+We just lost the Jumpers!
+
+584
+00:39:15,071 --> 00:39:18,025
+Our stop is coming up, Rodney.
+It's time to get off this train.
+
+585
+00:39:18,383 --> 00:39:21,140
+- Look, there's no way off.
+- Once we jump into our own reality,
+
+586
+00:39:21,288 --> 00:39:23,321
+Atlantis will detect us,
+and they will send help.
+
+587
+00:39:23,483 --> 00:39:25,783
+We broke orbit to get away
+from the fighters, remember?
+
+588
+00:39:26,517 --> 00:39:30,210
+Look, we carry our momentum and position
+in space from one reality to the next.
+
+589
+00:39:30,330 --> 00:39:34,132
+Which means, by the time we next jump,
+we're gonna be half a million km out.
+
+590
+00:39:34,252 --> 00:39:36,127
+They're never gonna get to us in time!
+
+591
+00:39:37,508 --> 00:39:40,047
+We got C-4. We wait till we get back,
+then we blow the drive.
+
+592
+00:39:40,561 --> 00:39:43,846
+That could work, or it could tear a hole
+in the space-time continuum
+
+593
+00:39:43,966 --> 00:39:46,511
+not only killing us
+but destroying the entire solar system!
+
+594
+00:39:47,313 --> 00:39:49,682
+Well, we'd better
+think of something fast.
+
+595
+00:39:58,354 --> 00:40:00,564
+Another contact just appeared
+on our screens.
+
+596
+00:40:00,684 --> 00:40:03,404
+- Was it the Daedalus?
+- They're too far out for us to get IFF.
+
+597
+00:40:04,254 --> 00:40:05,614
+Well, try subspace.
+
+598
+00:40:07,518 --> 00:40:09,368
+Colonel Sheppard, do you read?
+
+599
+00:40:11,210 --> 00:40:14,045
+Colonel Sheppard, this is Major Lorne,
+do you read?
+
+600
+00:40:15,309 --> 00:40:17,093
+- Was there a hyperspace window?
+- No, sir.
+
+601
+00:40:17,213 --> 00:40:19,011
+They just appeared out of nowhere.
+
+602
+00:40:19,131 --> 00:40:21,195
+Well, it's got to be them.
+Alert Mr. Woolsey.
+
+603
+00:40:21,315 --> 00:40:23,335
+Doc, you're with me.
+Let's go, come on.
+
+604
+00:40:28,366 --> 00:40:31,245
+All right, we should be
+within radio range.
+
+605
+00:40:32,123 --> 00:40:33,684
+Colonel Sheppard, come in.
+
+606
+00:40:35,512 --> 00:40:37,242
+Dr. McKay, this is Major Lorne.
+
+607
+00:40:37,362 --> 00:40:39,883
+- Do you read?
+- There's too much interference.
+
+608
+00:40:41,202 --> 00:40:44,009
+I'm picking up some kind
+of energy reading.
+
+609
+00:40:44,418 --> 00:40:45,687
+It's spiking.
+
+610
+00:40:53,592 --> 00:40:55,496
+What the hell just happened?
+
+611
+00:40:56,635 --> 00:40:58,011
+They disappeared.
+
+612
+00:40:58,131 --> 00:40:59,835
+- What are you talking about?
+- Well...
+
+613
+00:41:00,133 --> 00:41:02,307
+They're just gone.
+
+614
+00:41:05,320 --> 00:41:06,826
+Oh, wait a minute.
+
+615
+00:41:07,616 --> 00:41:10,513
+- I'm picking up four lifesigns.
+- Okay, where?
+
+616
+00:41:11,319 --> 00:41:12,352
+Dead ahead.
+
+617
+00:41:21,161 --> 00:41:23,037
+Colonel Sheppard, is that you?
+
+618
+00:41:23,157 --> 00:41:25,678
+<I>Major...</I>
+<I>Nice of you to stop by.</I>
+
+619
+00:41:25,798 --> 00:41:28,682
+<I>Kind of hard to get a cab</I>
+<I>in this neighborhood.</I>
+
+620
+00:41:30,006 --> 00:41:31,006
+Yes, sir.
+
+621
+00:41:41,620 --> 00:41:44,631
+How many jumps you think that drive
+has left in it before it burns out?
+
+622
+00:41:44,751 --> 00:41:47,056
+Half a dozen, tops.
+Then it'll be completely inert.
+
+623
+00:41:47,176 --> 00:41:51,074
+Good. I'd hate to think of somebody else
+getting trapped inside like we did.
+
+624
+00:41:51,194 --> 00:41:52,600
+I've been thinking about that.
+
+625
+00:41:52,720 --> 00:41:54,818
+Now, true, the navigation system
+was flawed to start,
+
+626
+00:41:54,938 --> 00:41:57,935
+but the basic principles of the drive
+are fundamentally sound...
+
+627
+00:41:58,055 --> 00:42:00,135
+- Forget it, Rodney.
+- I've saved the relevant data.
+
+628
+00:42:00,255 --> 00:42:02,427
+Minor adjustments,
+and I'd have this thing up and...
+
+629
+00:42:02,547 --> 00:42:04,259
+I said forget it.
+
+630
+00:42:05,269 --> 00:42:06,485
+Hey, look who's here.
+
+631
+00:42:07,479 --> 00:42:08,696
+How's your shoulder?
+
+632
+00:42:09,025 --> 00:42:11,574
+It's pretty bad,
+but, you know, better, thanks.
+
+633
+00:42:12,632 --> 00:42:14,034
+Is it well enough to hold him?
+
+634
+00:42:17,366 --> 00:42:18,257
+Really?
+
+635
+00:42:22,445 --> 00:42:23,779
+Don't drop him.
+
+636
+00:42:24,071 --> 00:42:25,045
+Thank you.
+
+637
+00:42:31,384 --> 00:42:32,595
+Hey there, little guy.
+
+638
+00:42:33,929 --> 00:42:35,135
+I think he likes me.
+
+639
+00:42:35,255 --> 00:42:37,224
+- It suits you.
+- You think so?
+
+640
+00:42:38,223 --> 00:42:40,519
+I think you'll make
+an excellent father someday.
+
+641
+00:42:44,002 --> 00:42:46,055
+I've seen a lot of scary things
+in my time,
+
+642
+00:42:46,175 --> 00:42:49,600
+but that thought scares me the most.
+
+643
+00:42:51,894 --> 00:42:54,079
+- Do you want to...
+- I think so.
+
+644
+00:42:54,199 --> 00:42:56,118
+There you go, watch out...
+
+645
+00:42:58,266 --> 00:42:59,241
+Right.
+

@@ -1,0 +1,3055 @@
+1
+00:00:00,649 --> 00:00:02,578
+Previously on <I>Eureka...</I>
+
+2
+00:00:03,012 --> 00:00:04,840
+Stuff's been going missing
+all over town.
+
+3
+00:00:04,965 --> 00:00:06,941
+This is who's building it?
+
+4
+00:00:07,066 --> 00:00:09,243
+The signal that we've been tracking
+is getting stronger.
+
+5
+00:00:09,368 --> 00:00:10,884
+Meaning closer?
+
+6
+00:00:13,388 --> 00:00:16,682
+It's not a weapon. It's the end point
+for a high-velocity space jump.
+
+7
+00:00:25,013 --> 00:00:26,292
+It's one of ours.
+
+8
+00:00:48,131 --> 00:00:50,633
+- I didn't see this coming.
+- Henry did.
+
+9
+00:00:51,008 --> 00:00:53,693
+You knew half the town was brainwashed
+into building this landing site.
+
+10
+00:00:53,818 --> 00:00:57,138
+No, I didn't. It never even occurred
+to me that this ship still existed,
+
+11
+00:00:57,307 --> 00:00:59,206
+much less that it can find
+its way back.
+
+12
+00:00:59,331 --> 00:01:00,595
+From where?
+
+13
+00:01:00,927 --> 00:01:02,470
+Who built this thing?
+
+14
+00:01:03,101 --> 00:01:05,480
+I did. 20 years ago.
+
+15
+00:01:06,696 --> 00:01:08,936
+- It's the <I>Columbus,</I> isn't it?
+- The <I>Columbus?</I>
+
+16
+00:01:09,061 --> 00:01:10,366
+That's impossible.
+
+17
+00:01:10,491 --> 00:01:12,284
+The <I>Columbus</I> was
+an unmanned prototype.
+
+18
+00:01:12,409 --> 00:01:15,335
+GD's early research
+into interstellar exploration.
+
+19
+00:01:15,460 --> 00:01:17,972
+It was lost 3 years after the launch.
+The project was scrapped.
+
+20
+00:01:18,097 --> 00:01:19,840
+The facility repurposed.
+
+21
+00:01:19,965 --> 00:01:21,670
+We went a completely
+different direction.
+
+22
+00:01:21,795 --> 00:01:23,610
+Apparently so did this ship.
+
+23
+00:01:24,620 --> 00:01:25,900
+It's amazing.
+
+24
+00:01:26,025 --> 00:01:27,516
+And a little disturbing.
+
+25
+00:01:27,641 --> 00:01:29,838
+Speaking for those of us
+that turned into zombies.
+
+26
+00:01:30,273 --> 00:01:33,300
+Good point. Do I have to worry about it,
+telling people to do something else?
+
+27
+00:01:33,567 --> 00:01:34,588
+I don't think so.
+
+28
+00:01:34,713 --> 00:01:38,327
+It was programmed
+to send out a pre-arrival signal
+
+29
+00:01:38,452 --> 00:01:40,217
+to alert ground control.
+
+30
+00:01:40,560 --> 00:01:42,518
+That's what we started
+to pick up a week ago.
+
+31
+00:01:42,686 --> 00:01:46,565
+Exactly. But it appears that
+in the absence of landing facilities,
+
+32
+00:01:46,690 --> 00:01:48,693
+the ship improvised
+
+33
+00:01:48,917 --> 00:01:51,470
+and somehow got us
+to build the next best thing.
+
+34
+00:01:51,595 --> 00:01:55,613
+Why didn't we identify the transmission?
+Why use a foreign handshake frequency?
+
+35
+00:01:55,783 --> 00:01:58,619
+Well, the antenna array is damaged.
+Who knows what this ship's gone through
+
+36
+00:01:58,744 --> 00:02:01,870
+and what other onboard systems
+have been affected along the way.
+
+37
+00:02:02,040 --> 00:02:05,683
+I mean, it's possible that it sent
+out the only signal that it could.
+
+38
+00:02:05,808 --> 00:02:08,596
+So I do have to worry
+about the zombie problem.
+
+39
+00:02:08,721 --> 00:02:10,031
+No, no, I don't think so.
+
+40
+00:02:10,156 --> 00:02:14,018
+I mean, now that it's returned,
+its mission is over.
+
+41
+00:02:14,273 --> 00:02:17,221
+And its onboard computers
+have powered down, yes?
+
+42
+00:02:18,180 --> 00:02:20,775
+So it's good, right?
+
+43
+00:02:21,044 --> 00:02:23,501
+Sure. Still, what that thing did,
+
+44
+00:02:23,626 --> 00:02:25,770
+it definitely left
+a bad taste in my brain.
+
+45
+00:02:30,843 --> 00:02:33,152
+- Let's check these figures.
+- Yeah, sure, absolutely.
+
+46
+00:02:38,623 --> 00:02:42,763
+Little disappointed it's an American
+flag instead of a Martian one?
+
+47
+00:02:44,492 --> 00:02:47,500
+It's not exactly the first contact
+I was hoping for.
+
+48
+00:02:47,669 --> 00:02:50,278
+But, you know, considering
+where this ship has been
+
+49
+00:02:50,403 --> 00:02:52,073
+over the past 20 years,
+
+50
+00:02:52,509 --> 00:02:55,688
+this computer could hold answers
+to questions we can't even imagine.
+
+51
+00:02:55,813 --> 00:02:57,468
+Secrets of the universe.
+
+52
+00:02:58,843 --> 00:03:00,964
+Yeah, it's pretty cool.
+
+53
+00:03:02,726 --> 00:03:03,801
+Yeah. It is.
+
+54
+00:03:04,940 --> 00:03:06,601
+Well, it's a long-term
+project though.
+
+55
+00:03:06,726 --> 00:03:09,498
+I mean, it's gonna take years
+to analyze all that data.
+
+56
+00:03:10,324 --> 00:03:12,262
+And it blows a hole
+in my weekend plans.
+
+57
+00:03:12,387 --> 00:03:14,203
+- But...
+- I hear ya.
+
+58
+00:03:14,817 --> 00:03:17,856
+No, no, I mean,
+there's a meteor shower on Friday.
+
+59
+00:03:18,115 --> 00:03:20,284
+But not like haven't seen
+one of those so...
+
+60
+00:03:20,409 --> 00:03:23,452
+Yeah. Well, yeah...
+I mean... I haven't.
+
+61
+00:03:23,621 --> 00:03:25,724
+- But yes, I get the gist of...
+- Really?
+
+62
+00:03:25,849 --> 00:03:28,954
+- But it sounds cool. They sound great.
+- It is cool.
+
+63
+00:03:33,335 --> 00:03:34,505
+Do you wanna go?
+
+64
+00:03:41,750 --> 00:03:43,377
+I'm gonna...
+
+65
+00:03:49,288 --> 00:03:52,147
+Can you imagine how excited
+Nathan would've been to see this?
+
+66
+00:03:52,462 --> 00:03:54,298
+He fought the decommissioning
+tooth and nail,
+
+67
+00:03:54,423 --> 00:03:56,068
+said that we should never
+give up hope.
+
+68
+00:03:56,399 --> 00:03:58,099
+Well, I guess he was right.
+
+69
+00:04:00,613 --> 00:04:02,648
+You met Kim on this project,
+didn't you?
+
+70
+00:04:04,721 --> 00:04:07,815
+We designed the computer systems.
+You know, she had a way of...
+
+71
+00:04:07,940 --> 00:04:10,444
+of finding a path to a solution
+that was just...
+
+72
+00:04:11,607 --> 00:04:12,668
+unexpected.
+
+73
+00:04:13,579 --> 00:04:16,266
+The way I understand it, it was
+the way the two of you worked together
+
+74
+00:04:16,391 --> 00:04:18,382
+that was so productive and unique.
+
+75
+00:04:18,910 --> 00:04:20,261
+We were a good team.
+
+76
+00:04:29,357 --> 00:04:30,496
+Do you hear that?
+
+77
+00:04:30,621 --> 00:04:33,174
+- What?
+- The... it's making noise.
+
+78
+00:04:33,299 --> 00:04:35,024
+Jack, I told you, it's powered down.
+
+79
+00:04:35,193 --> 00:04:37,192
+A protocol's been initiated
+to open the door.
+
+80
+00:04:37,361 --> 00:04:39,111
+- Initiated? From where?
+- From there.
+
+81
+00:04:43,034 --> 00:04:44,991
+Okay, I need security here
+right now.
+
+82
+00:05:19,152 --> 00:05:20,417
+Hold your fire!
+
+83
+00:05:31,455 --> 00:05:32,706
+It's human?
+
+84
+00:05:45,103 --> 00:05:46,004
+It's Kim.
+
+85
+00:05:56,625 --> 00:05:57,982
+Projet-SG (1.00)
+
+86
+00:06:06,208 --> 00:06:09,935
+Well, she is dehydrated.
+Her electrolyte count is down.
+
+87
+00:06:10,060 --> 00:06:13,370
+Probably the result of plasma
+field exposure after landing.
+
+88
+00:06:13,495 --> 00:06:15,192
+Otherwise, she's fine.
+
+89
+00:06:16,008 --> 00:06:18,875
+Henry, you said this was
+an unmanned mission, right?
+
+90
+00:06:19,000 --> 00:06:20,141
+Absolutely. Yeah.
+
+91
+00:06:20,463 --> 00:06:22,708
+But the DNA tests
+match Kim Yamazaki.
+
+92
+00:06:22,833 --> 00:06:25,386
+Guys, Kim died two years ago.
+
+93
+00:06:25,662 --> 00:06:27,136
+I mean, I saw her body.
+
+94
+00:06:27,397 --> 00:06:30,059
+And her cellular structure isn't human.
+That's not Kim.
+
+95
+00:06:30,184 --> 00:06:31,932
+Okay, then.
+What's going on?
+
+96
+00:06:32,100 --> 00:06:35,127
+Well, look, this ship has been traveling
+through deep space for 20 years.
+
+97
+00:06:35,252 --> 00:06:38,605
+That's 20 years of cosmic rays
+and primordial particle radiation.
+
+98
+00:06:39,143 --> 00:06:41,652
+- Who knows what could've happened?
+- The biological mainframe.
+
+99
+00:06:41,777 --> 00:06:45,029
+I mean, it should be able to tell us
+what occurred on the trip.
+
+100
+00:06:45,197 --> 00:06:47,901
+- What's a...
+- An organic computer.
+
+101
+00:06:48,026 --> 00:06:50,659
+Based on neural net architecture
+like the human brain.
+
+102
+00:06:50,784 --> 00:06:52,536
+Instead of circuits and wires,
+
+103
+00:06:52,661 --> 00:06:54,916
+it processes information
+using living cells.
+
+104
+00:06:55,041 --> 00:06:58,218
+It can modify its structure to solve
+any problem that's presented.
+
+105
+00:06:58,343 --> 00:07:00,387
+Great. How long to boot it up?
+
+106
+00:07:01,588 --> 00:07:03,765
+<i>Might wanna go to plan B.</i>
+
+107
+00:07:03,983 --> 00:07:06,050
+<i>I tapped into the ship
+using my own organic rig.</i>
+
+108
+00:07:06,218 --> 00:07:09,342
+The onboard computer's completely fried.
+There's nothing left.
+
+109
+00:07:09,777 --> 00:07:10,940
+<i>I'm what's left.</i>
+
+110
+00:07:13,275 --> 00:07:14,423
+I'm what's left.
+
+111
+00:07:15,940 --> 00:07:17,464
+If a computer can have a baby,
+
+112
+00:07:17,589 --> 00:07:19,960
+then I definitely missed a day
+in Mrs. Sebert's health class.
+
+113
+00:07:20,085 --> 00:07:22,510
+Like I said, the ship's computer
+was made up of living cells.
+
+114
+00:07:22,635 --> 00:07:26,361
+Well, it doesn't exactly explain
+where Kim 2.0 came from or why.
+
+115
+00:07:26,529 --> 00:07:29,189
+The ship's original system was designed
+for a shorter mission, right?
+
+116
+00:07:29,314 --> 00:07:30,598
+That means limited storage.
+
+117
+00:07:30,723 --> 00:07:33,367
+Maybe when the computer started to run
+out of room, it realized it needed
+
+118
+00:07:33,492 --> 00:07:36,261
+a more complex recording medium
+and the human body was the best suited.
+
+119
+00:07:36,386 --> 00:07:38,543
+Hold... let's take this
+one huge step at a time.
+
+120
+00:07:38,668 --> 00:07:40,083
+Is your bio-lab up and running?
+
+121
+00:07:40,252 --> 00:07:43,956
+I was expecting a little more ET
+and a little less Henry's ex-girlfriend.
+
+122
+00:07:44,131 --> 00:07:46,403
+Start scanning her all the way down
+to the molecular level.
+
+123
+00:07:46,528 --> 00:07:47,351
+Got it.
+
+124
+00:07:47,672 --> 00:07:50,260
+I want you to do exactly
+the same thing to the ship.
+
+125
+00:07:50,428 --> 00:07:52,888
+Now, you said the onboard computer
+was non-functioning?
+
+126
+00:07:53,056 --> 00:07:55,297
+- I said it was fried.
+- Well, get to work on it anyway.
+
+127
+00:07:55,422 --> 00:07:58,559
+There might be something left,
+it'll give us more than we have now.
+
+128
+00:07:58,944 --> 00:08:02,109
+- I'm on it. I'll talk to Henry.
+- No, Henry has enough on his plate.
+
+129
+00:08:05,918 --> 00:08:07,487
+That was something, huh?
+
+130
+00:08:10,810 --> 00:08:13,716
+- You feeling okay?
+- Yeah, she's just been...
+
+131
+00:08:15,287 --> 00:08:16,931
+kicking me all morning.
+
+132
+00:08:21,110 --> 00:08:22,412
+It's a girl?
+
+133
+00:08:23,706 --> 00:08:26,755
+I found out yesterday.
+Yes, I'm having a girl.
+
+134
+00:08:28,360 --> 00:08:29,848
+Congratulations.
+
+135
+00:08:30,292 --> 00:08:32,526
+I love little girls.
+I mean, no... no.
+
+136
+00:08:34,048 --> 00:08:34,779
+Here.
+
+137
+00:08:35,897 --> 00:08:36,900
+That's her.
+
+138
+00:08:37,851 --> 00:08:40,144
+Maybe she likes excitement.
+
+139
+00:08:41,819 --> 00:08:43,257
+Just like her mother.
+
+140
+00:08:44,475 --> 00:08:47,381
+Excitement.
+Well, that's one word for it.
+
+141
+00:08:50,239 --> 00:08:52,322
+Well, let me know
+if there's something I can do.
+
+142
+00:08:52,947 --> 00:08:55,636
+Well, actually, there is something
+that you can do for me.
+
+143
+00:08:55,761 --> 00:08:57,244
+It's very important.
+
+144
+00:08:59,614 --> 00:09:01,039
+I'm your guy.
+
+145
+00:09:01,207 --> 00:09:03,661
+Hey, you'll get all your stuff back.
+
+146
+00:09:04,244 --> 00:09:06,764
+Everybody, please, just calm down.
+
+147
+00:09:09,641 --> 00:09:11,965
+I need a toaster oven,
+bagel-capable.
+
+148
+00:09:12,090 --> 00:09:13,786
+Right, white or chrome?
+
+149
+00:09:13,911 --> 00:09:15,387
+It's bisque.
+
+150
+00:09:20,002 --> 00:09:21,935
+Okay, I need to just check you off.
+
+151
+00:09:22,695 --> 00:09:24,438
+The system is totally overloaded.
+
+152
+00:09:24,778 --> 00:09:26,857
+First somebody
+steals my toaster oven
+
+153
+00:09:27,123 --> 00:09:29,109
+to build whatever it was
+out there in the woods
+
+154
+00:09:29,277 --> 00:09:31,945
+and now I have to wait here
+for two hours to get it back.
+
+155
+00:09:33,718 --> 00:09:34,825
+There you go.
+
+156
+00:09:35,101 --> 00:09:37,040
+This is better than the one I had.
+
+157
+00:09:37,461 --> 00:09:39,897
+No, wait.
+That's not how this works.
+
+158
+00:09:40,410 --> 00:09:43,910
+Dr. Lieber.
+L-I-E-B-E-R.
+
+159
+00:09:44,180 --> 00:09:46,084
+And what can we get
+for you, Dr. Lieber?
+
+160
+00:09:46,494 --> 00:09:48,961
+I'm here to pick up
+my 200 peta-volt boost converter.
+
+161
+00:09:49,390 --> 00:09:51,465
+And what would that
+look like exactly?
+
+162
+00:09:51,633 --> 00:09:53,926
+It's about that big.
+It's got lots of circuit boards.
+
+163
+00:09:54,206 --> 00:09:56,637
+Kinda looks like
+any other boost converter.
+
+164
+00:09:59,580 --> 00:10:00,515
+Lieber...
+
+165
+00:10:02,082 --> 00:10:03,894
+I hate this thing.
+
+166
+00:10:04,396 --> 00:10:05,797
+Probably got a virus.
+
+167
+00:10:05,922 --> 00:10:07,338
+PCs are very susceptible.
+
+168
+00:10:07,463 --> 00:10:09,566
+That's why I switched
+to an organic computer years ago.
+
+169
+00:10:10,912 --> 00:10:12,138
+Whoopee for you.
+
+170
+00:10:13,238 --> 00:10:14,828
+This what you're looking for?
+
+171
+00:10:17,049 --> 00:10:17,783
+Perfect.
+
+172
+00:10:20,152 --> 00:10:22,098
+- It's gonna be a long day.
+- It already is.
+
+173
+00:10:22,223 --> 00:10:23,789
+- Next!
+- What can we get for you?
+
+174
+00:10:24,512 --> 00:10:27,139
+There was a malfunction
+with the primary machine.
+
+175
+00:10:27,493 --> 00:10:30,862
+<i>Primary machine.
+You mean the original organic computer?</i>
+
+176
+00:10:31,682 --> 00:10:34,383
+<i>The primary machine experienced
+voltage irregularities.</i>
+
+177
+00:10:34,677 --> 00:10:38,136
+<i>In order to continue its mission,
+it created a replacement.</i>
+
+178
+00:10:39,033 --> 00:10:41,181
+- You.
+- <i>I became the primary machine.</i>
+
+179
+00:10:41,573 --> 00:10:43,684
+- What do you mean "created"?
+- I was grown.
+
+180
+00:10:43,809 --> 00:10:46,705
+Grown from what? Your ship was
+constructed in a clean room.
+
+181
+00:10:46,830 --> 00:10:50,014
+The primary machine was the only
+organic material onboard.
+
+182
+00:10:50,139 --> 00:10:51,817
+Actually, that's probably not true.
+
+183
+00:10:52,060 --> 00:10:55,162
+No environment is ever
+perfectly clean.
+
+184
+00:10:55,287 --> 00:10:58,865
+- We took level one precautions, but...
+- A few strands of hair, an eyelash.
+
+185
+00:10:59,331 --> 00:11:00,434
+<i>A skin cell.</i>
+
+186
+00:11:00,559 --> 00:11:02,786
+<i>It was fortunate
+that the DNA strands were intact</i>
+
+187
+00:11:03,337 --> 00:11:05,606
+<i>and I had such a detailed profile
+on Dr. Yamazaki</i>
+
+188
+00:11:05,731 --> 00:11:07,451
+<i>due to her involvement
+on the project.</i>
+
+189
+00:11:07,576 --> 00:11:08,583
+Is this possible?
+
+190
+00:11:08,906 --> 00:11:11,628
+The computer was programmed
+for self-preservation.
+
+191
+00:11:11,940 --> 00:11:15,132
+To keep itself operating
+under any circumstances.
+
+192
+00:11:15,421 --> 00:11:19,011
+<i>So it found a flake of skin
+and created a whole other Kim?</i>
+
+193
+00:11:19,179 --> 00:11:21,596
+Well, it evolved. It adapted.
+
+194
+00:11:21,764 --> 00:11:24,433
+It made an incredible leap.
+
+195
+00:11:24,601 --> 00:11:27,102
+But why didn't it model anyone else
+who worked on the ship?
+
+196
+00:11:27,270 --> 00:11:29,294
+<i>Why wouldn't it choose you, Henry?</i>
+
+197
+00:11:30,022 --> 00:11:32,379
+Kim Yamazaki's sample
+was the most viable.
+
+198
+00:11:32,775 --> 00:11:35,402
+We designed it to improvise...
+Kim and I.
+
+199
+00:11:37,016 --> 00:11:39,489
+<i>I look forward to working
+with you, Henry.</i>
+
+200
+00:11:43,382 --> 00:11:46,747
+<i>It was always a great pleasure...
+for Kim.</i>
+
+201
+00:11:56,318 --> 00:11:57,883
+<i>I need something to write with.</i>
+
+202
+00:12:04,477 --> 00:12:06,239
+We're in the home stretch.
+
+203
+00:12:06,364 --> 00:12:10,503
+- I don't wanna see a toaster again.
+- I don't wanna eat toast again.
+
+204
+00:12:10,628 --> 00:12:13,051
+But we are gonna have
+to do another inventory.
+
+205
+00:12:13,176 --> 00:12:14,687
+Maybe in a few minutes.
+
+206
+00:12:18,289 --> 00:12:19,709
+So much stuff.
+
+207
+00:12:19,834 --> 00:12:22,193
+Like, so many whack jobs.
+
+208
+00:12:22,648 --> 00:12:23,654
+Very funny.
+
+209
+00:12:23,779 --> 00:12:25,885
+What do you want?
+We already gave you back your thingy.
+
+210
+00:12:26,010 --> 00:12:29,429
+This is not my thingy.
+This has a ZX21 ship.
+
+211
+00:12:29,554 --> 00:12:31,822
+I don't wanna know about this stuff.
+
+212
+00:12:31,947 --> 00:12:35,847
+My boost converter has a ZY21 ship.
+This is clearly inferior.
+
+213
+00:12:36,551 --> 00:12:40,299
+- You pulled the old bait and switch.
+- Look around. There's not much left.
+
+214
+00:12:41,817 --> 00:12:44,329
+We did give out something
+that looked like this earlier today.
+
+215
+00:12:44,454 --> 00:12:45,258
+To who?
+
+216
+00:12:47,317 --> 00:12:48,642
+- God.
+- Lieber.
+
+217
+00:12:50,301 --> 00:12:51,769
+Yeah, that's the guy.
+
+218
+00:12:51,894 --> 00:12:53,611
+He's been eyeing
+my converter for months.
+
+219
+00:12:53,736 --> 00:12:54,979
+Easy.
+
+220
+00:12:55,475 --> 00:12:58,693
+It was absolutely crazy earlier.
+Could've been an honest mistake.
+
+221
+00:12:58,862 --> 00:13:01,196
+There is nothing honest
+about Tom Lieber.
+
+222
+00:13:02,616 --> 00:13:04,483
+I'm gonna get back what's mine.
+
+223
+00:13:06,203 --> 00:13:07,554
+Have a nice day.
+
+224
+00:13:09,254 --> 00:13:11,644
+Add it to the "to do" list?
+
+225
+00:13:21,015 --> 00:13:23,344
+- Brought your blender back.
+- Thank you.
+
+226
+00:13:24,655 --> 00:13:27,381
+- What's that?
+- It's my organic computer.
+
+227
+00:13:27,711 --> 00:13:30,180
+This gel uses electrical impulses
+from my hands
+
+228
+00:13:30,305 --> 00:13:32,727
+to interface with what's left
+of the ship's onboard data system.
+
+229
+00:13:33,213 --> 00:13:35,380
+I'm using it to try and pull
+any remaining data
+
+230
+00:13:35,505 --> 00:13:37,091
+out of the biological mainframe.
+
+231
+00:13:37,276 --> 00:13:39,860
+It has a light-pulse
+based transfer system.
+
+232
+00:13:40,445 --> 00:13:42,362
+- It's pretty cool.
+- Didn't you say earlier...
+
+233
+00:13:42,487 --> 00:13:45,407
+Yeah, I know.
+I said what was on the ship was DOA.
+
+234
+00:13:45,822 --> 00:13:47,617
+I can confirm
+that what's in there made Kim.
+
+235
+00:13:48,274 --> 00:13:49,503
+But that's about it.
+
+236
+00:13:49,902 --> 00:13:51,638
+20 years of discoveries...
+more knowledge
+
+237
+00:13:51,832 --> 00:13:54,444
+than what mankind has learned
+since the beginning of time...
+
+238
+00:13:54,569 --> 00:13:56,610
+is locked inside Kim
+and nowhere else?
+
+239
+00:13:57,024 --> 00:13:59,313
+We've never encountered
+anything like her before.
+
+240
+00:13:59,506 --> 00:14:01,172
+It's not like we can
+just download her.
+
+241
+00:14:01,297 --> 00:14:03,383
+Still saying, we need Henry on this.
+
+242
+00:14:04,833 --> 00:14:06,761
+Now that I've finished
+my deliveries,
+
+243
+00:14:07,610 --> 00:14:09,607
+I think I might be able
+to help with that.
+
+244
+00:14:13,715 --> 00:14:15,571
+- This isn't my blender.
+- What?
+
+245
+00:14:29,066 --> 00:14:31,782
+If Lieber says
+that that boost converter isn't his,
+
+246
+00:14:31,907 --> 00:14:35,052
+I say we let Fargo and him
+settle it in a cage match.
+
+247
+00:14:35,177 --> 00:14:37,389
+- How 'bout five bucks on Fargo.
+- Nice.
+
+248
+00:14:37,514 --> 00:14:38,819
+He's scrappy.
+
+249
+00:14:46,119 --> 00:14:48,651
+We got your boost converter.
+
+250
+00:14:50,253 --> 00:14:53,515
+This looks more like a haunted house
+than a physics lab.
+
+251
+00:15:01,386 --> 00:15:04,240
+- Do you smell that?
+- It's like something's burning.
+
+252
+00:15:17,331 --> 00:15:18,322
+Or someone.
+
+253
+00:15:30,415 --> 00:15:33,915
+So looks like
+Dr. Lieber there, was electrocuted.
+
+254
+00:15:34,040 --> 00:15:35,322
+Yeah. Probably.
+
+255
+00:15:35,447 --> 00:15:37,686
+I still have to do an autopsy.
+But, yeah.
+
+256
+00:15:38,134 --> 00:15:40,564
+You know which piece
+of equipment malfunctioned?
+
+257
+00:15:40,732 --> 00:15:44,025
+Dr. Lieber was an expert
+in electromagnetic physics.
+
+258
+00:15:44,357 --> 00:15:45,318
+Pick one.
+
+259
+00:15:46,994 --> 00:15:48,071
+I'm sorry.
+
+260
+00:15:49,037 --> 00:15:52,074
+I rebooted the power regulator so you
+guys don't have to worry about it.
+
+261
+00:15:52,243 --> 00:15:55,675
+Fargo might. The boost converter
+he accused Lieber of stealing,
+
+262
+00:15:55,800 --> 00:15:58,006
+it's gone.
+Yanked out of the panel.
+
+263
+00:15:58,666 --> 00:16:00,509
+Tell me he didn't cause this.
+
+264
+00:16:00,634 --> 00:16:04,295
+Well, I'll run a few diagnostics,
+but it's possible.
+
+265
+00:16:05,334 --> 00:16:06,088
+Great.
+
+266
+00:16:12,675 --> 00:16:14,641
+So how you doing with the whole...
+
+267
+00:16:15,458 --> 00:16:16,307
+Kim thing?
+
+268
+00:16:19,965 --> 00:16:21,050
+It's not Kim.
+
+269
+00:16:22,696 --> 00:16:26,318
+I mean, I know it seems that it is,
+but it's not Kim.
+
+270
+00:16:32,405 --> 00:16:33,648
+I'm a scientist.
+
+271
+00:16:35,714 --> 00:16:38,623
+So whatever happened on that ship
+
+272
+00:16:39,801 --> 00:16:41,416
+is a scientific issue.
+
+273
+00:16:43,932 --> 00:16:47,213
+Good. Then they're gonna need
+your help dealing with it
+
+274
+00:16:47,921 --> 00:16:48,881
+back at GD.
+
+275
+00:16:54,185 --> 00:16:55,305
+Okay, I took it.
+
+276
+00:16:56,245 --> 00:16:57,963
+Don't look at me like that.
+
+277
+00:16:58,732 --> 00:17:01,389
+It's not stealing
+when you take something that's yours.
+
+278
+00:17:02,400 --> 00:17:05,365
+What, was I supposed to ask him?
+Lieber? That weasel?
+
+279
+00:17:06,249 --> 00:17:09,048
+That weasel is...
+
+280
+00:17:09,736 --> 00:17:10,779
+he's dead.
+
+281
+00:17:12,964 --> 00:17:13,812
+Come again.
+
+282
+00:17:13,937 --> 00:17:17,806
+We think that
+Dr. Lieber was electrocuted.
+
+283
+00:17:18,271 --> 00:17:22,666
+We're thinking maybe it had something
+to do with a missing boost converter.
+
+284
+00:17:28,192 --> 00:17:31,091
+Oh, my God.
+I'm going to jail, aren't I?
+
+285
+00:17:31,259 --> 00:17:33,702
+The big house.
+The slammer. The hoosegow.
+
+286
+00:17:33,827 --> 00:17:37,339
+I'm gonna spend the rest of my life
+President of the Attia Physics club!
+
+287
+00:17:37,464 --> 00:17:38,939
+Man up, Fargo.
+
+288
+00:17:43,169 --> 00:17:46,881
+Henry's doing an autopsy right now.
+We'll have more information after that.
+
+289
+00:17:47,006 --> 00:17:49,901
+But if you can walk us
+through everything that you did.
+
+290
+00:17:52,201 --> 00:17:53,742
+And deep breaths, okay?
+
+291
+00:17:54,709 --> 00:17:57,735
+Still no luck coming up
+with any kind of data transfer protocol.
+
+292
+00:17:57,860 --> 00:17:59,547
+We connected people
+to computers before.
+
+293
+00:17:59,672 --> 00:18:01,964
+The prosthetics department
+has been doing it for years.
+
+294
+00:18:02,089 --> 00:18:04,624
+Well, yeah, but the information in Kim
+isn't centralized to a brain.
+
+295
+00:18:05,076 --> 00:18:07,127
+Every cell in the entire organism
+is a data recorder.
+
+296
+00:18:07,570 --> 00:18:10,251
+A hundred trillion cells,
+each with something to tell us.
+
+297
+00:18:10,376 --> 00:18:13,270
+I mean, how much data do you think
+we're talking about here?
+
+298
+00:18:14,602 --> 00:18:16,928
+<i>I'm guessing a lot.</i>
+
+299
+00:18:17,096 --> 00:18:20,282
+<i> She's been at it for hours.
+Ever since you gave her that marker.</i>
+
+300
+00:18:20,407 --> 00:18:22,162
+<i>Well, that's one way
+to access her data.</i>
+
+301
+00:18:22,287 --> 00:18:24,997
+Writing and speech are the slowest
+methods of information transfer
+
+302
+00:18:25,122 --> 00:18:26,213
+on the planet.
+
+303
+00:18:26,338 --> 00:18:28,963
+Imagine if I asked
+you about Shakespeare
+
+304
+00:18:29,088 --> 00:18:30,979
+and you just started
+writing out his plays.
+
+305
+00:18:31,104 --> 00:18:32,693
+It would take you forever.
+
+306
+00:18:33,702 --> 00:18:36,784
+<i>2,135 year and 69 days.</i>
+
+307
+00:18:37,521 --> 00:18:40,612
+<i>The time it will take me to download
+my data using this method.</i>
+
+308
+00:18:40,737 --> 00:18:42,142
+<i>I've run alternate simulations,</i>
+
+309
+00:18:42,267 --> 00:18:44,859
+<i>but so far, this scenario
+has the shortest timeline.</i>
+
+310
+00:18:44,984 --> 00:18:46,975
+Well, we will need
+a better solution than that.
+
+311
+00:18:47,100 --> 00:18:49,043
+Believe me, it'll be worth it.
+
+312
+00:18:49,443 --> 00:18:50,733
+Take a look at this.
+
+313
+00:18:51,501 --> 00:18:54,359
+These are what,
+gravity field distortion readings?
+
+314
+00:18:54,484 --> 00:18:57,562
+Exactly.
+Taken from beyond the heliopause,
+
+315
+00:18:57,687 --> 00:19:00,636
+indicating the existence
+of four Earth-like planets
+
+316
+00:19:00,761 --> 00:19:02,348
+within ten light-years of us.
+
+317
+00:19:02,942 --> 00:19:04,976
+My God.
+That's right in the neighborhood.
+
+318
+00:19:05,450 --> 00:19:06,895
+Pull in any department you need.
+
+319
+00:19:07,020 --> 00:19:10,066
+I want information transfer options
+on my desk as soon as possible.
+
+320
+00:19:10,191 --> 00:19:12,811
+<i>It might be beneficial to assemble
+my original team,</i>
+
+321
+00:19:12,936 --> 00:19:15,486
+<i>Dr. Deacon and my co-designer,
+Kim Yamazaki.</i>
+
+322
+00:19:19,989 --> 00:19:22,306
+Dr. Yamazaki died two years ago.
+
+323
+00:19:22,731 --> 00:19:23,860
+<i>I'm sorry. </i>
+
+324
+00:19:24,752 --> 00:19:27,414
+That's unfortunate.
+I was looking forward to meeting her.
+
+325
+00:19:37,278 --> 00:19:40,506
+I've examined Dr. Lieber's remains
+
+326
+00:19:40,631 --> 00:19:43,498
+and the electron generator
+in his lab...
+
+327
+00:19:43,623 --> 00:19:44,700
+Oh, God.
+
+328
+00:19:44,825 --> 00:19:48,755
+And all the voltage transfer limits
+are within material tolerance.
+
+329
+00:19:50,147 --> 00:19:52,047
+Thank you! Thank you!
+
+330
+00:19:52,990 --> 00:19:53,839
+And...
+
+331
+00:19:54,527 --> 00:19:58,279
+Dr. Lieber's machine did not
+malfunction or electrocute him.
+
+332
+00:19:58,681 --> 00:20:00,740
+So I guess you're free to go.
+
+333
+00:20:02,615 --> 00:20:04,615
+Freedom! Lunch is on me, boys.
+
+334
+00:20:09,945 --> 00:20:12,168
+So what did happen?
+
+335
+00:20:12,535 --> 00:20:14,462
+Lieber electrocuted his machine.
+
+336
+00:20:15,385 --> 00:20:18,090
+A voltage pathway analysis
+indicates that his body generated
+
+337
+00:20:18,215 --> 00:20:20,570
+a bolt of current that overloaded
+everything in his lab.
+
+338
+00:20:20,695 --> 00:20:23,990
+It was like some sort of internal
+electrical storm.
+
+339
+00:20:24,115 --> 00:20:25,420
+Is that even possible?
+
+340
+00:20:25,545 --> 00:20:28,142
+I have no idea. It's one
+of the strangest things I've ever seen.
+
+341
+00:20:30,305 --> 00:20:34,309
+An SDS scan will not be effective
+in decoding my amino acid construct.
+
+342
+00:20:34,515 --> 00:20:37,790
+I've tweaked the polarities.
+I'm thinking we've got a shot.
+
+343
+00:20:37,915 --> 00:20:40,864
+Moreover, there's the risk the procedure
+could harm my neural pathways.
+
+344
+00:20:41,545 --> 00:20:43,220
+Come on. Trust me.
+
+345
+00:20:44,525 --> 00:20:46,035
+I'm one of the smart ones.
+
+346
+00:20:47,205 --> 00:20:49,305
+You could damage me and my data.
+
+347
+00:20:50,925 --> 00:20:52,375
+We'll take it nice and slow.
+
+348
+00:20:52,745 --> 00:20:54,850
+You let me know
+if there's a problem, okay?
+
+349
+00:20:54,975 --> 00:20:56,645
+Lieber produced an electrical charge
+
+350
+00:20:56,770 --> 00:20:59,924
+strong enough to short out
+his entire office and himself.
+
+351
+00:21:00,705 --> 00:21:04,550
+Was he connected to that ship
+that landed, or Kim or Henry?
+
+352
+00:21:04,675 --> 00:21:07,849
+No, he wasn't at the landing site.
+And he wasn't even at GD today.
+
+353
+00:21:08,445 --> 00:21:10,295
+Initiating the SDS scan.
+
+354
+00:21:19,515 --> 00:21:22,165
+- That was a neural spike.
+- It wasn't me.
+
+355
+00:21:24,465 --> 00:21:25,915
+What are you doing?
+
+356
+00:21:27,828 --> 00:21:29,537
+You're creating a feedback loop.
+
+357
+00:21:32,333 --> 00:21:33,333
+Stop!
+
+358
+00:21:39,481 --> 00:21:40,757
+Shut the power down now!
+
+359
+00:21:58,505 --> 00:22:02,163
+Last thing I remember, I was trying
+to get the data out of her...
+
+360
+00:22:03,125 --> 00:22:04,125
+and boom.
+
+361
+00:22:05,465 --> 00:22:07,200
+I hit the grounds seeing fireworks.
+
+362
+00:22:07,649 --> 00:22:09,990
+- Was it some kind of seizure?
+- Not in the usual sense.
+
+363
+00:22:10,115 --> 00:22:12,368
+His convulsions
+were extremely violent
+
+364
+00:22:12,493 --> 00:22:15,166
+and his electroencephalogram
+is still off the charts.
+
+365
+00:22:15,725 --> 00:22:17,627
+Is this the same thing
+that Lieber had?
+
+366
+00:22:18,159 --> 00:22:20,004
+- I'll have to do more tests.
+- Wait a minute.
+
+367
+00:22:20,385 --> 00:22:22,810
+- Didn't Lieber die?
+- Lieber was alone. You weren't.
+
+368
+00:22:22,935 --> 00:22:24,517
+We got to you in a matter of seconds
+
+369
+00:22:24,642 --> 00:22:27,530
+and we were able to dissipate
+your internal voltage spike.
+
+370
+00:22:27,655 --> 00:22:28,655
+So...
+
+371
+00:22:30,515 --> 00:22:32,165
+Can I get back to work?
+
+372
+00:22:35,962 --> 00:22:38,110
+We're gonna need you to stay here
+a little longer.
+
+373
+00:22:38,235 --> 00:22:39,932
+Why? I thought you guys
+got it in time.
+
+374
+00:22:40,057 --> 00:22:42,600
+We're suppressing
+his neuro-eletrical activity,
+
+375
+00:22:42,725 --> 00:22:45,440
+but there's another electrical wave
+already building.
+
+376
+00:22:45,565 --> 00:22:46,565
+Meaning...
+
+377
+00:22:47,437 --> 00:22:50,034
+- This is gonna keep happening?
+- We're gonna find out what caused this.
+
+378
+00:22:50,202 --> 00:22:52,537
+I know what caused this.
+Kim.
+
+379
+00:22:55,085 --> 00:22:56,833
+- Where are you going?
+- To shut it down.
+
+380
+00:22:57,001 --> 00:23:00,251
+- The information is too valuable.
+- It attacked Zane.
+
+381
+00:23:01,975 --> 00:23:04,841
+We're doing an investigation
+and there are rules.
+
+382
+00:23:05,009 --> 00:23:07,760
+Now, we have a suspect there
+who we're gonna talk to.
+
+383
+00:23:08,495 --> 00:23:10,972
+Your suspect is a computer
+from outer space.
+
+384
+00:23:22,975 --> 00:23:24,390
+I've reviewed the incident.
+
+385
+00:23:24,515 --> 00:23:27,363
+And although I understand
+why you draw a different conclusion,
+
+386
+00:23:27,765 --> 00:23:29,722
+my assessment is that
+your colleague suffers
+
+387
+00:23:29,847 --> 00:23:31,530
+from a congenital brain abnormality.
+
+388
+00:23:31,655 --> 00:23:33,745
+He was fine until
+he got in there with you.
+
+389
+00:23:34,855 --> 00:23:37,832
+Let's just run through this
+one more time, okay?
+
+390
+00:23:39,215 --> 00:23:40,683
+So the spaceship lands,
+
+391
+00:23:42,185 --> 00:23:43,490
+and you come out.
+
+392
+00:23:43,615 --> 00:23:47,303
+A few hours later,
+Lieber's electrocuted in his own lab.
+
+393
+00:23:47,428 --> 00:23:49,719
+And then the exact same thing
+happens to Zane,
+
+394
+00:23:50,375 --> 00:23:52,430
+right here, in front of you.
+
+395
+00:23:53,495 --> 00:23:54,720
+And if I may say,
+
+396
+00:23:54,845 --> 00:23:58,245
+you weren't too excited
+about the test that he was doing.
+
+397
+00:23:59,278 --> 00:24:01,465
+Perhaps there was a malfunction
+with his equipment.
+
+398
+00:24:01,590 --> 00:24:03,483
+A short in the monitoring module.
+
+399
+00:24:03,985 --> 00:24:04,985
+That's...
+
+400
+00:24:05,728 --> 00:24:06,751
+a good idea.
+
+401
+00:24:06,876 --> 00:24:08,988
+We checked that
+and the machines were fine.
+
+402
+00:24:09,505 --> 00:24:11,491
+How would I be connected
+with Dr. Lieber?
+
+403
+00:24:12,065 --> 00:24:14,165
+We haven't figured that out yet.
+
+404
+00:24:15,115 --> 00:24:18,411
+Perhaps proximity is not a factor
+in this equation.
+
+405
+00:24:20,751 --> 00:24:24,629
+Are you saying that you could zap
+anyone, anywhere?
+
+406
+00:24:25,025 --> 00:24:27,030
+That might explain what happened.
+
+407
+00:24:27,155 --> 00:24:29,328
+And I have no memory of such an act.
+
+408
+00:24:29,453 --> 00:24:31,052
+I'm not programmed for aggression.
+
+409
+00:24:31,285 --> 00:24:33,554
+No, but you are programmed
+for self-preservation.
+
+410
+00:24:33,945 --> 00:24:35,345
+Yes. You're right.
+
+411
+00:24:36,475 --> 00:24:37,475
+Thanks.
+
+412
+00:24:39,244 --> 00:24:40,520
+You should shut me down.
+
+413
+00:24:43,545 --> 00:24:47,318
+Eradicate my voluntary functions
+and do your best to preserve my data.
+
+414
+00:24:47,855 --> 00:24:50,980
+Perhaps immersion in a slurry
+of liquid nitrogen and argon.
+
+415
+00:24:51,105 --> 00:24:53,105
+That's what I'm talking about.
+
+416
+00:24:58,465 --> 00:25:00,065
+Is this your way of...
+
+417
+00:25:02,775 --> 00:25:03,875
+admitting...
+
+418
+00:25:04,464 --> 00:25:05,711
+that you attacked Zane?
+
+419
+00:25:07,415 --> 00:25:08,815
+But a man is dead,
+
+420
+00:25:09,365 --> 00:25:11,260
+and another man is in danger.
+
+421
+00:25:11,385 --> 00:25:14,185
+And you just presented
+a logical explanation.
+
+422
+00:25:14,685 --> 00:25:16,610
+Whether due to a programming error
+
+423
+00:25:16,735 --> 00:25:19,335
+or degradation caused
+by my journey home,
+
+424
+00:25:19,705 --> 00:25:21,605
+I might be a serious threat.
+
+425
+00:25:24,686 --> 00:25:25,606
+Terminate me.
+
+426
+00:25:34,435 --> 00:25:35,985
+She really said that?
+
+427
+00:25:40,625 --> 00:25:41,825
+It was spooky.
+
+428
+00:25:43,595 --> 00:25:45,845
+I mean, you gotta help me out here.
+
+429
+00:25:49,905 --> 00:25:51,755
+Is there a person in there?
+
+430
+00:25:52,215 --> 00:25:54,767
+I mean, is that Kim?
+
+431
+00:25:58,470 --> 00:25:59,470
+Yes, I know.
+
+432
+00:25:59,595 --> 00:26:03,295
+It's an organic computer programmed
+to act like a human. I get it.
+
+433
+00:26:06,415 --> 00:26:07,415
+But...
+
+434
+00:26:10,435 --> 00:26:12,173
+what is a person?
+
+435
+00:26:14,485 --> 00:26:15,835
+Could there be...
+
+436
+00:26:18,225 --> 00:26:19,925
+a piece of Kim in there?
+
+437
+00:26:21,595 --> 00:26:22,945
+Scientifically...
+
+438
+00:26:25,665 --> 00:26:26,715
+Impossible.
+
+439
+00:26:32,255 --> 00:26:36,259
+But don't you think I've been asking
+myself that question since I saw her?
+
+440
+00:26:40,735 --> 00:26:42,058
+I don't think she did it.
+
+441
+00:26:44,665 --> 00:26:45,715
+Apparently,
+
+442
+00:26:46,595 --> 00:26:47,595
+she does.
+
+443
+00:26:50,405 --> 00:26:54,409
+Bottom line, we've to figure out what's
+going on before someone else gets hurt.
+
+444
+00:26:56,495 --> 00:27:00,499
+Obviously, I'm gonna need you to compare
+what you're learning about Zane
+
+445
+00:27:01,265 --> 00:27:03,265
+to what you know about Lieber.
+
+446
+00:27:10,395 --> 00:27:11,945
+I'm gonna need you...
+
+447
+00:27:12,765 --> 00:27:15,034
+to examine Kim.
+
+448
+00:27:18,355 --> 00:27:20,305
+You know, we don't have to...
+
+449
+00:27:21,715 --> 00:27:22,765
+save Kim...
+
+450
+00:27:27,405 --> 00:27:28,405
+for me.
+
+451
+00:27:30,225 --> 00:27:31,225
+I know.
+
+452
+00:27:33,935 --> 00:27:34,935
+Okay then.
+
+453
+00:27:35,605 --> 00:27:36,605
+Fine.
+
+454
+00:28:08,795 --> 00:28:10,295
+I'm glad to see you.
+
+455
+00:28:12,025 --> 00:28:14,480
+Sit down, please,
+and roll up your sleeve.
+
+456
+00:28:14,605 --> 00:28:15,855
+Yes, of course.
+
+457
+00:28:19,705 --> 00:28:20,948
+I'm glad they sent you.
+
+458
+00:28:22,384 --> 00:28:23,284
+Why?
+
+459
+00:28:23,575 --> 00:28:26,537
+It's only appropriate that you would be
+the one to terminate me.
+
+460
+00:28:30,665 --> 00:28:33,200
+I'm just gonna take
+a fresh blood sample.
+
+461
+00:28:33,325 --> 00:28:35,480
+What type of analysis
+are you going to perform?
+
+462
+00:28:35,605 --> 00:28:36,630
+The usual.
+
+463
+00:28:37,435 --> 00:28:40,435
+Will you be requiring
+more than one blood sample?
+
+464
+00:28:40,645 --> 00:28:42,720
+I'd be interested in going
+over the results with you.
+
+465
+00:28:42,845 --> 00:28:44,555
+Just, please, let me...
+
+466
+00:28:45,275 --> 00:28:48,025
+- You always liked collaborating.
+- Stop it.
+
+467
+00:28:52,185 --> 00:28:54,335
+This is very confusing, isn't it?
+
+468
+00:29:05,525 --> 00:29:06,525
+What?
+
+469
+00:29:07,905 --> 00:29:08,905
+It hurt.
+
+470
+00:29:14,515 --> 00:29:16,565
+I did a static comparison
+of Zane's test result
+
+471
+00:29:16,690 --> 00:29:18,923
+against everything from Lieber
+and there is a connection.
+
+472
+00:29:19,091 --> 00:29:21,043
+- Well, we know that.
+- The electrocutions.
+
+473
+00:29:21,385 --> 00:29:22,620
+No, no, it's a virus.
+
+474
+00:29:22,745 --> 00:29:25,763
+Wait, what type of virus could cause
+this kind of electrical disturbance?
+
+475
+00:29:26,015 --> 00:29:29,450
+Well, just think about it. It doesn't
+so much reproduce as it backs itself up,
+
+476
+00:29:29,575 --> 00:29:33,190
+creating identical copies over
+and over again without mutation.
+
+477
+00:29:33,315 --> 00:29:36,044
+Every living thing mutates.
+That's how nature works.
+
+478
+00:29:36,775 --> 00:29:39,360
+Is it possible then
+that this isn't from nature?
+
+479
+00:29:39,528 --> 00:29:42,290
+Well, all this talk about electricity
+and backups and overloads,
+
+480
+00:29:42,415 --> 00:29:45,090
+I mean, it sounds like
+you're talking about a computer virus.
+
+481
+00:29:45,215 --> 00:29:46,435
+And that's exactly right.
+
+482
+00:29:46,560 --> 00:29:50,302
+A biological organism encoded
+with binary information instead of DNA
+
+483
+00:29:50,427 --> 00:29:52,136
+and we have no defense against it.
+
+484
+00:29:53,255 --> 00:29:56,110
+And how does it jump
+from computer to living person?
+
+485
+00:29:56,235 --> 00:29:59,360
+Well, you already said it.
+It came from an organic computer.
+
+486
+00:29:59,485 --> 00:30:00,885
+A living organism.
+
+487
+00:30:01,315 --> 00:30:03,550
+So it was Kim?
+Or did the Kim clone?
+
+488
+00:30:03,675 --> 00:30:07,220
+No, he's been under full bio-containment
+protocol since we got her here.
+
+489
+00:30:07,345 --> 00:30:08,848
+But the virus still got out.
+
+490
+00:30:09,016 --> 00:30:11,725
+I did a full workup. She's clean.
+She's not the source of the virus.
+
+491
+00:30:11,893 --> 00:30:14,979
+Henry, only one organic computer
+walked off that ship.
+
+492
+00:30:15,905 --> 00:30:16,905
+True.
+
+493
+00:30:17,645 --> 00:30:20,145
+But there is another one
+still onboard.
+
+494
+00:30:20,985 --> 00:30:21,694
+Right.
+
+495
+00:30:24,435 --> 00:30:26,361
+<i>Decontamination complete.</i>
+
+496
+00:30:40,685 --> 00:30:43,335
+- Shouldn't you be wearing a mask?
+- I am.
+
+497
+00:30:44,795 --> 00:30:47,545
+It's one of those high-tech ones
+of Henry's.
+
+498
+00:30:48,175 --> 00:30:49,575
+We've all got 'em.
+
+499
+00:30:53,635 --> 00:30:55,085
+So what's all this?
+
+500
+00:30:56,165 --> 00:30:58,965
+Treats.
+I brought your favorite foods.
+
+501
+00:30:59,795 --> 00:31:01,387
+All of your favorite foods.
+
+502
+00:31:01,825 --> 00:31:03,925
+Olives stuffed with blue cheese.
+
+503
+00:31:04,225 --> 00:31:05,225
+Awesome.
+
+504
+00:31:06,575 --> 00:31:08,675
+Toasted peanut butter and bacon.
+
+505
+00:31:09,855 --> 00:31:10,855
+Egg salad.
+
+506
+00:31:12,235 --> 00:31:13,985
+And rocky road ice cream.
+
+507
+00:31:15,755 --> 00:31:17,005
+I love you, Jo.
+
+508
+00:31:19,865 --> 00:31:21,115
+I love you too.
+
+509
+00:31:34,755 --> 00:31:36,005
+That was heavy.
+
+510
+00:31:36,275 --> 00:31:39,259
+It's the motherboard
+from the ship's organic computer.
+
+511
+00:31:39,384 --> 00:31:40,564
+Or what's left of it.
+
+512
+00:31:40,815 --> 00:31:43,765
+The entire biological matrix
+has been burned up.
+
+513
+00:31:44,135 --> 00:31:45,185
+Overloaded.
+
+514
+00:31:45,862 --> 00:31:48,822
+Looks like exactly the same thing
+that happened to Dr. Lieber.
+
+515
+00:31:49,175 --> 00:31:50,625
+It's got the virus.
+
+516
+00:31:51,015 --> 00:31:53,160
+And we have definitely found
+the source.
+
+517
+00:31:53,328 --> 00:31:56,539
+Zane jacked directly into it. It must
+have jumped to his organic computer.
+
+518
+00:31:56,846 --> 00:32:00,292
+- Well, he was in it up to his elbows.
+- How did Lieber get infected?
+
+519
+00:32:00,585 --> 00:32:02,044
+He went organic years ago.
+
+520
+00:32:02,645 --> 00:32:04,347
+The computers. Not the food.
+
+521
+00:32:04,505 --> 00:32:07,752
+If he had a first generation device,
+he would have been more susceptible.
+
+522
+00:32:07,877 --> 00:32:09,927
+The infection is traveling
+through the network.
+
+523
+00:32:10,096 --> 00:32:13,688
+- How many organic computers are there?
+- There's 25 labs that are equipped.
+
+524
+00:32:13,813 --> 00:32:14,913
+So that's...
+
+525
+00:32:16,185 --> 00:32:17,235
+200 people.
+
+526
+00:32:17,695 --> 00:32:19,019
+200 people?
+
+527
+00:32:19,265 --> 00:32:22,015
+We've got a potential epidemic
+on our hands.
+
+528
+00:32:33,325 --> 00:32:36,954
+Well, the virus is causing Zane's
+neuro-electrical charge to build up.
+
+529
+00:32:37,175 --> 00:32:39,590
+I'd say two hours
+before he has another seizure.
+
+530
+00:32:39,715 --> 00:32:42,398
+And this time, I don't know
+if we'll be able to stop it.
+
+531
+00:32:43,705 --> 00:32:45,004
+So is this all of them?
+
+532
+00:32:46,878 --> 00:32:48,807
+Yeah, it's everyone who had
+an organic computer.
+
+533
+00:32:48,932 --> 00:32:50,610
+We quarantined all the computers.
+
+534
+00:32:50,735 --> 00:32:53,610
+So far, we've detected symptoms
+in 69 people.
+
+535
+00:32:54,395 --> 00:32:57,433
+Now, does that mean all of them
+are gonna get sick?
+
+536
+00:32:57,735 --> 00:33:01,103
+Like with any virus, we assume that some
+will be affected more than other.
+
+537
+00:33:01,695 --> 00:33:05,490
+The more they get hit, the harder time
+we'll have suppressing the symptoms.
+
+538
+00:33:05,615 --> 00:33:08,738
+Now, what happens when or if...
+
+539
+00:33:09,352 --> 00:33:11,113
+people without organic computers
+get sick?
+
+540
+00:33:11,655 --> 00:33:15,200
+If transmission only occurs
+with direct contact to the computer,
+
+541
+00:33:15,445 --> 00:33:18,368
+there's no reason to believe
+that's gonna happen.
+
+542
+00:33:19,895 --> 00:33:21,540
+Other than this?
+
+543
+00:33:28,715 --> 00:33:31,390
+We're all infected.
+The virus is jumping from human to human
+
+544
+00:33:31,515 --> 00:33:33,469
+via touch using
+our own electrical impulses.
+
+545
+00:33:33,594 --> 00:33:36,952
+I'm instituting a level one quarantine.
+Entrances to the town need to be sealed.
+
+546
+00:33:37,077 --> 00:33:39,384
+- No one comes in or out.
+- What about the people here?
+
+547
+00:33:39,509 --> 00:33:41,724
+The safest thing that anyone can do
+is stay indoors.
+
+548
+00:33:41,849 --> 00:33:43,977
+- Will that keep 'em from getting it?
+- Well, for now,
+
+549
+00:33:44,102 --> 00:33:47,046
+but we're dealing with a new form
+of infection here, one that is adapting.
+
+550
+00:33:47,171 --> 00:33:49,990
+Our body has no inherent immunities
+and no way to fight it.
+
+551
+00:33:50,115 --> 00:33:54,119
+I developed a crude test.
+The infection rate is already climbing.
+
+552
+00:33:55,625 --> 00:33:56,790
+How long do we have?
+
+553
+00:33:56,915 --> 00:33:59,865
+Well, based on the timeline
+for Zane and Lieber,
+
+554
+00:34:00,335 --> 00:34:03,895
+in 12 hours, you won't be able
+to find anyone who isn't infected.
+
+555
+00:34:04,965 --> 00:34:06,215
+What about Kim?
+
+556
+00:34:06,605 --> 00:34:10,260
+I mean, you tested her, right?
+You said that she wasn't the source,
+
+557
+00:34:10,385 --> 00:34:13,030
+so that means she's immune, right?
+
+558
+00:34:13,155 --> 00:34:14,155
+Maybe. Well...
+
+559
+00:34:14,815 --> 00:34:16,411
+Probably. I mean,
+
+560
+00:34:16,755 --> 00:34:20,372
+the original computer could've written
+immunity into its code as a protection,
+
+561
+00:34:20,497 --> 00:34:22,351
+so he could be our answer.
+
+562
+00:34:29,005 --> 00:34:30,850
+You're disregarding
+your isolation protocols.
+
+563
+00:34:30,975 --> 00:34:34,196
+We realized that you no longer pose
+a threat to us.
+
+564
+00:34:34,515 --> 00:34:35,665
+Are you sure?
+
+565
+00:34:35,865 --> 00:34:39,159
+Sheriff Carter presented a very logical
+and compelling argument.
+
+566
+00:34:39,495 --> 00:34:41,781
+He worked just as hard to prove
+that you had nothing to do
+
+567
+00:34:41,906 --> 00:34:45,856
+with what was happening to us
+and that you might be able to help us.
+
+568
+00:34:46,126 --> 00:34:49,795
+I believe that there are antibodies
+in your cells that could save Eureka.
+
+569
+00:34:50,775 --> 00:34:53,215
+- Do you need more tissue samples or...
+- Actually,
+
+570
+00:34:54,725 --> 00:34:56,825
+I think we should work together.
+
+571
+00:35:00,475 --> 00:35:02,175
+I'd like that very much.
+
+572
+00:35:02,976 --> 00:35:05,926
+Just so I know
+what I've got to look forward to,
+
+573
+00:35:06,345 --> 00:35:08,194
+are you experiencing any symptoms?
+
+574
+00:35:08,319 --> 00:35:10,373
+Tingling in your extremities,
+blurred vision...
+
+575
+00:35:10,498 --> 00:35:12,526
+Being able to power a flashlight
+without batteries?
+
+576
+00:35:12,694 --> 00:35:14,515
+- Yeah, like that.
+- No. I'm good.
+
+577
+00:35:15,755 --> 00:35:17,865
+It's not looking good
+for the meteor shower.
+
+578
+00:35:19,945 --> 00:35:23,420
+This will keep you from being hooked up
+to a suppression unit for a few hours.
+
+579
+00:35:23,545 --> 00:35:25,497
+- It's an electro-resistant gel.
+- Sounds good.
+
+580
+00:35:25,665 --> 00:35:27,458
+Bad news is it's gonna hurt.
+
+581
+00:35:28,705 --> 00:35:30,586
+- How much?
+- Jo didn't complain.
+
+582
+00:35:30,985 --> 00:35:32,921
+Well, that's not particularly...
+
+583
+00:35:36,925 --> 00:35:39,303
+- Now I got tingling in my extremities.
+- I'm sorry.
+
+584
+00:35:39,985 --> 00:35:41,735
+Jack, we found something.
+
+585
+00:35:44,257 --> 00:35:45,257
+Jack was right.
+
+586
+00:35:45,382 --> 00:35:47,770
+Before the original computer
+was destroyed by the virus,
+
+587
+00:35:47,941 --> 00:35:50,898
+it designs and encodes an immunity
+for its replacement.
+
+588
+00:35:51,066 --> 00:35:54,166
+- Have you been able to isolate it?
+- Yes. We have.
+
+589
+00:35:54,986 --> 00:35:57,736
+Great. What you got?
+Booster shots? A patch?
+
+590
+00:35:58,365 --> 00:36:00,965
+- That's getting old.
+- Yeah, it's not gonna be that easy.
+
+591
+00:36:01,090 --> 00:36:04,578
+There's a difference between our immune
+system and that of an organic computer.
+
+592
+00:36:04,965 --> 00:36:07,873
+Traditional methods of immunization
+just aren't gonna work.
+
+593
+00:36:08,875 --> 00:36:11,563
+What about Zane's goo thing?
+
+594
+00:36:11,704 --> 00:36:14,239
+It was attached to the ship.
+He said it used light?
+
+595
+00:36:14,364 --> 00:36:16,715
+The human optic system
+is a lot like that of a computer.
+
+596
+00:36:17,385 --> 00:36:19,565
+It's a light-based
+information transfer system.
+
+597
+00:36:20,065 --> 00:36:22,471
+So can we use eyes
+to transfer the information?
+
+598
+00:36:22,745 --> 00:36:25,808
+Our eyes process visual information
+and turn it into a series of signals.
+
+599
+00:36:26,295 --> 00:36:27,920
+That the brain can understand.
+
+600
+00:36:28,045 --> 00:36:30,333
+Which means we might be able
+to distribute immunity
+
+601
+00:36:30,458 --> 00:36:32,600
+- within an intense beam of...
+- A spectrum-tuned light.
+
+602
+00:36:32,725 --> 00:36:34,750
+But hold on, that's a lot of power.
+
+603
+00:36:34,875 --> 00:36:38,821
+Maybe 30 to 40 petavolts per byte
+of distributed information.
+
+604
+00:36:38,989 --> 00:36:41,573
+That's the output of the North American
+power grid for a year.
+
+605
+00:36:42,005 --> 00:36:43,520
+We've got maybe ten hours.
+
+606
+00:36:43,645 --> 00:36:44,745
+Suggestions.
+
+607
+00:36:44,870 --> 00:36:46,740
+We have fusion cells
+in chemical storage,
+
+608
+00:36:46,865 --> 00:36:49,240
+but it'll take days
+to get up and running.
+
+609
+00:36:49,365 --> 00:36:51,446
+- Antimatter generator.
+- Prototype's not ready.
+
+610
+00:36:51,571 --> 00:36:55,539
+How about plasma? That's good for big,
+high energy bursts of power, right?
+
+611
+00:36:57,035 --> 00:36:58,926
+What? I pay attention.
+
+612
+00:37:00,834 --> 00:37:02,270
+Plasma might do it,
+
+613
+00:37:02,395 --> 00:37:05,681
+but we don't have the components
+to build one anywhere near big enough.
+
+614
+00:37:05,975 --> 00:37:07,175
+I think we do.
+
+615
+00:37:08,065 --> 00:37:10,365
+But I'm gonna need the blender back.
+
+616
+00:37:14,765 --> 00:37:16,330
+<i>Please form an orderly line.</i>
+
+617
+00:37:16,455 --> 00:37:18,870
+- <i>Your items will be returned to you.</i>
+- Next.
+
+618
+00:37:18,995 --> 00:37:21,451
+I am gonna get this toaster
+returned to me, right?
+
+619
+00:37:28,785 --> 00:37:30,873
+Lawn sprinkler. 15 inches.
+Looks like titanium alloy.
+
+620
+00:37:31,265 --> 00:37:33,417
+- Excellent. Thank you.
+- Tower three. Fifth bay.
+
+621
+00:37:33,795 --> 00:37:35,945
+Just above the resonance coupler.
+
+622
+00:38:11,215 --> 00:38:13,250
+We've had 16 more cases
+in the last hour.
+
+623
+00:38:13,375 --> 00:38:16,025
+We laid the immunization data
+into a pulse generator
+
+624
+00:38:16,150 --> 00:38:17,775
+at 510 nanometers.
+
+625
+00:38:18,187 --> 00:38:19,493
+- Green light.
+- Thank you.
+
+626
+00:38:19,618 --> 00:38:22,481
+I've alerted all departments
+to shield their optical equipment.
+
+627
+00:38:22,606 --> 00:38:24,175
+What about our optical equipment?
+
+628
+00:38:24,300 --> 00:38:26,506
+This wavelength of light won't cause
+ocular damage.
+
+629
+00:38:26,631 --> 00:38:28,680
+- It should only affect the virus.
+- Here's hoping.
+
+630
+00:38:28,985 --> 00:38:30,515
+All right, here we go.
+
+631
+00:38:31,184 --> 00:38:32,184
+60%.
+
+632
+00:38:35,388 --> 00:38:36,188
+70%.
+
+633
+00:38:38,566 --> 00:38:39,650
+It's powering down.
+
+634
+00:38:40,415 --> 00:38:42,890
+- Power down to 30%.
+- Okay, what's wrong?
+
+635
+00:38:43,015 --> 00:38:45,653
+- We're missing a component.
+- Did you collect all the pieces?
+
+636
+00:38:46,415 --> 00:38:47,565
+No, I went...
+
+637
+00:38:49,725 --> 00:38:50,911
+Are you kidding me?
+
+638
+00:38:54,291 --> 00:38:56,166
+What happened to respect
+for personal property?
+
+639
+00:38:56,334 --> 00:38:59,086
+- What happened to saving people's live?
+- Better late than never.
+
+640
+00:39:00,835 --> 00:39:03,038
+He has some good qualities.
+
+641
+00:39:03,755 --> 00:39:06,155
+Okay, are we ready
+to try this again?
+
+642
+00:39:06,695 --> 00:39:08,145
+Cross your fingers.
+
+643
+00:39:12,185 --> 00:39:13,185
+80.
+
+644
+00:39:15,785 --> 00:39:16,785
+90.
+
+645
+00:39:18,015 --> 00:39:19,015
+100.
+
+646
+00:40:23,175 --> 00:40:24,421
+All checked out.
+
+647
+00:40:26,095 --> 00:40:27,841
+I was really worried about you.
+
+648
+00:40:28,775 --> 00:40:29,775
+Me too.
+
+649
+00:40:32,505 --> 00:40:34,005
+How are you feeling?
+
+650
+00:40:36,105 --> 00:40:37,205
+You tell me.
+
+651
+00:40:49,175 --> 00:40:50,225
+Any sparks?
+
+652
+00:40:55,505 --> 00:40:56,955
+Just the good kind.
+
+653
+00:41:19,935 --> 00:41:23,939
+I bought you a change of clothes.
+
+654
+00:41:29,665 --> 00:41:30,904
+Thank you, Henry.
+
+655
+00:41:31,265 --> 00:41:32,515
+You're welcome.
+
+656
+00:41:36,685 --> 00:41:37,953
+What happens now?
+
+657
+00:41:40,505 --> 00:41:44,209
+Well, there's still an incredible amount
+of information locked inside of you.
+
+658
+00:41:45,045 --> 00:41:47,571
+And we have to figure
+a way of getting it out safely.
+
+659
+00:41:47,696 --> 00:41:50,132
+So we have a lot of work to do.
+
+660
+00:41:51,225 --> 00:41:52,225
+Together.
+
+661
+00:42:04,215 --> 00:42:05,865
+Then let's get started.
+
+662
+00:42:17,995 --> 00:42:19,795
+Oldest story in the world.
+
+663
+00:42:20,225 --> 00:42:23,325
+Boy meets girl. Boy loses girl.
+Boy meets computer.
+
+664
+00:42:24,285 --> 00:42:26,685
+Well, everybody needs
+a hand to hold.
+
+665
+00:42:27,485 --> 00:42:29,385
+This is a really weird town.
+
+666
+00:42:31,285 --> 00:42:32,485
+But I like it.
+
+667
+00:42:33,505 --> 00:42:34,505
+Kinda.
+
+668
+00:42:44,545 --> 00:42:47,195
+Can't believe
+I've never done this before.
+
+669
+00:42:47,395 --> 00:42:48,395
+I mean,
+
+670
+00:42:48,985 --> 00:42:50,135
+it's amazing.
+
+671
+00:42:51,395 --> 00:42:52,495
+Yeah. It is.
+

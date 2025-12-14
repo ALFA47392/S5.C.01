@@ -1,0 +1,3016 @@
+1
+00:00:31,430 --> 00:00:32,800
+Où est-il KITT ?
+
+2
+00:00:33,730 --> 00:00:36,000
+L'ennemi est au nord
+et est toujours armé.
+
+3
+00:00:41,830 --> 00:00:43,100
+Je l'ai.
+
+4
+00:01:10,030 --> 00:01:11,600
+Ha ha ha !
+
+5
+00:01:11,660 --> 00:01:12,960
+Choppé !
+
+6
+00:01:13,030 --> 00:01:14,960
+Mec, Katie est pas dans ton équipe.
+
+7
+00:01:15,030 --> 00:01:16,800
+T'as dit que tu prenais Lisa.
+
+8
+00:01:16,860 --> 00:01:19,500
+Moi et KITT contre toi et Lisa.
+
+9
+00:01:19,560 --> 00:01:21,130
+Elles ont décidé d'échanger.
+
+10
+00:01:21,200 --> 00:01:22,630
+Décidé ? C'est un robot.
+
+11
+00:01:22,700 --> 00:01:25,400
+Ooh ! Je voulais pas
+la mettre hors d'elle.
+
+12
+00:01:25,460 --> 00:01:26,300
+Alors ?
+
+13
+00:01:26,305 --> 00:01:28,005
+Vous choisissez quoi M. Knight ?
+
+14
+00:01:28,860 --> 00:01:31,500
+L'eau ou le déshonneur ?
+
+15
+00:01:33,900 --> 00:01:36,460
+KITT, baisse tes fenêtres !
+
+16
+00:01:38,530 --> 00:01:39,700
+Mike !
+
+17
+00:01:43,930 --> 00:01:45,200
+- Ciblage.
+- Traître !
+
+18
+00:01:45,260 --> 00:01:46,660
+Coup direct.
+
+19
+00:01:49,030 --> 00:01:50,030
+Hé ! Hé !
+
+20
+00:01:52,035 --> 00:01:54,705
+Qu'est-ce que vous foutez ?
+
+21
+00:01:56,230 --> 00:01:57,660
+Bonjour Sarah.
+
+22
+00:02:02,930 --> 00:02:03,860
+Hé, Sarah.
+
+23
+00:02:03,930 --> 00:02:06,700
+Vous avez manqué le
+meeting R et D les mecs.
+
+24
+00:02:07,160 --> 00:02:09,360
+On était juste en train
+de passer le temps.
+
+25
+00:02:09,430 --> 00:02:11,600
+En trempant KITT ?
+
+26
+00:02:11,660 --> 00:02:13,300
+- Ouais
+- Je t'ai dit qu'il devait être étanche
+
+27
+00:02:13,360 --> 00:02:14,630
+Il est étanche.
+
+28
+00:02:14,700 --> 00:02:16,830
+Tant que tu ne baisses pas tes fenêtres.
+
+29
+00:02:16,900 --> 00:02:18,960
+À partir de maintenant,
+il ne le fera plus.
+
+30
+00:02:19,630 --> 00:02:21,530
+Surtout pour la prochaine mission.
+
+31
+00:02:27,030 --> 00:02:29,030
+Il y a une semaine, un
+agent US sous couverture
+
+32
+00:02:29,035 --> 00:02:30,560
+s'est trouvé face avec
+ce que nous croyons être
+
+33
+00:02:30,630 --> 00:02:32,560
+une cellule terroriste a Baja.
+
+34
+00:02:33,530 --> 00:02:36,300
+Le nom de code des
+opérations était "Iguane".
+
+35
+00:02:36,360 --> 00:02:39,430
+La couverture de l'agent Turner était
+en tant que facilitateur d'importation.
+
+36
+00:02:39,435 --> 00:02:41,130
+C'est un trafiquant de haut vol,
+
+37
+00:02:41,200 --> 00:02:45,100
+spécialisé dans l'intrusion
+de cargos illégaux dans les US.
+
+38
+00:02:45,160 --> 00:02:47,060
+Nous pensons qu'on lui a
+demandé d'aider à ramener
+
+39
+00:02:47,130 --> 00:02:48,500
+un système d'arme.
+
+40
+00:02:48,560 --> 00:02:50,330
+Quel genre d'arme  ?
+
+41
+00:02:50,400 --> 00:02:51,530
+Nous ne savons pas.
+
+42
+00:02:51,600 --> 00:02:52,700
+Quel genre de cellule terroriste ?
+
+43
+00:02:52,760 --> 00:02:53,930
+On ne le sait pas non plus.
+
+44
+00:02:54,000 --> 00:02:55,500
+Le lendemain où Turner
+est arrivé à Baja,
+
+45
+00:02:55,560 --> 00:02:58,300
+il s'est évanoui dans la nature.
+
+46
+00:02:58,360 --> 00:02:59,560
+12 heures plus tard,
+
+47
+00:02:59,830 --> 00:03:02,100
+Une équipe d'extraction a
+été envoyée pour le retrouver.
+
+48
+00:03:03,160 --> 00:03:04,400
+Ils ont disparu aussi.
+
+49
+00:03:04,460 --> 00:03:05,660
+C'est génial !
+
+50
+00:03:06,430 --> 00:03:08,200
+Turner a un émetteur sur lui.
+
+51
+00:03:08,260 --> 00:03:10,660
+C'est un transmetteur rfid actif.
+
+52
+00:03:10,730 --> 00:03:14,030
+Inséré sous la peau de son poignet,
+
+53
+00:03:14,100 --> 00:03:15,360
+il a une portée de 370 m,
+
+54
+00:03:15,430 --> 00:03:19,060
+transmettant pendant 216 heures.
+
+55
+00:03:19,130 --> 00:03:20,730
+Ensuite le signal se détériorera.
+
+56
+00:03:21,400 --> 00:03:22,930
+L'amplificateur de fréquences
+de KITT peut nous aider ?
+
+57
+00:03:23,000 --> 00:03:24,260
+C'est ce que nous espérons.
+
+58
+00:03:24,330 --> 00:03:26,730
+La rencontre entre Turner et la
+cellule a été programmée ici :
+
+59
+00:03:26,800 --> 00:03:28,230
+à Todos Santos.
+
+60
+00:03:30,560 --> 00:03:31,660
+Un surf spot ?
+
+61
+00:03:32,330 --> 00:03:33,830
+Un surf spot international.
+
+62
+00:03:34,300 --> 00:03:37,400
+Ce qui nous fait penser que la
+cellule que Turner contactait
+
+63
+00:03:37,460 --> 00:03:41,030
+était dans la surf culture, ou se
+faisait passer pour des surfeurs.
+
+64
+00:03:41,300 --> 00:03:42,300
+Super.
+
+65
+00:03:42,601 --> 00:03:43,601
+Une chose...
+
+66
+00:03:44,460 --> 00:03:45,630
+J'aime pas l'eau.
+
+67
+00:03:46,700 --> 00:03:48,600
+Pourtant, tu ne sembles
+pas avoir de problème avec.
+
+68
+00:03:49,160 --> 00:03:50,900
+Je suis mieux sur la terre ferme.
+
+69
+00:03:51,760 --> 00:03:53,260
+C'est à cause de Lily Mulraney ?
+
+70
+00:03:53,630 --> 00:03:55,830
+Non c'est pas à cause Lily Mulraney.
+
+71
+00:03:55,900 --> 00:03:56,860
+Qui est Lily Mulraney ?
+
+72
+00:03:57,030 --> 00:03:59,100
+Une brute de l'école
+primaire qui embêtait Mikey.
+
+73
+00:03:59,401 --> 00:04:00,401
+Ce n'est pas Lily Mulraney.
+
+74
+00:04:00,560 --> 00:04:02,230
+Et elle ne m'embêtait pas.
+
+75
+00:04:02,300 --> 00:04:04,400
+Je n'ai jamais réalisé
+combien ça t'avait affecté.
+
+76
+00:04:04,460 --> 00:04:06,630
+Bon et bien, on a juste besoin
+de prendre Carrie avec moi
+
+77
+00:04:06,700 --> 00:04:08,360
+et tout se passera
+bien. Elle sait surfer.
+
+78
+00:04:08,430 --> 00:04:10,230
+Non. L'agent Rivai est à Washington.
+
+79
+00:04:10,300 --> 00:04:11,900
+Bien si jamais je vais là-bas,
+
+80
+00:04:11,960 --> 00:04:14,030
+ce serait pas mal d'avoir
+quelqu'un qui sait surfer.
+
+81
+00:04:15,000 --> 00:04:16,930
+Whoa ! Quelles vagues !
+
+82
+00:04:17,600 --> 00:04:19,800
+Ce rouleau faisait 20
+mètres avant de s'écraser.
+
+83
+00:04:20,060 --> 00:04:21,800
+Zoe, tu surfes ?
+
+84
+00:04:22,760 --> 00:04:23,660
+Pourquoi, pas vous ?
+
+85
+00:04:23,665 --> 00:04:24,559
+Elle vient avec moi !
+
+86
+00:04:24,560 --> 00:04:26,000
+Super ! Où ?
+
+87
+00:04:26,060 --> 00:04:27,600
+On peut se parler ?
+
+88
+00:04:31,360 --> 00:04:33,800
+Ne pensez-vous pas
+qu'envoyer Zoe sous couverture
+
+89
+00:04:33,860 --> 00:04:35,200
+s'avérerait un peu risqué ?
+
+90
+00:04:36,860 --> 00:04:38,700
+Parfois elle peut-être...
+
+91
+00:04:39,160 --> 00:04:40,300
+Ailleurs ?
+
+92
+00:04:40,760 --> 00:04:42,500
+Et bien, elle parle
+espagnol et sait surfer.
+
+93
+00:04:43,160 --> 00:04:43,730
+Et vous ?
+
+94
+00:04:43,800 --> 00:04:47,160
+Euh ... non. Mais c'est pas le problème.
+
+95
+00:04:47,630 --> 00:04:49,330
+Zoe est...
+
+96
+00:04:50,600 --> 00:04:52,330
+Zoe.
+
+97
+00:04:53,100 --> 00:04:54,400
+Pourquoi pas Billy ?
+
+98
+00:04:54,460 --> 00:04:55,900
+Vous surfez ?
+
+99
+00:04:57,160 --> 00:04:58,330
+Non. Non.
+
+100
+00:04:58,400 --> 00:05:00,900
+L'... L'océan, c'est pas trop mon truc,
+
+101
+00:05:00,960 --> 00:05:02,430
+Mais vraiment pas.
+
+102
+00:05:05,730 --> 00:05:08,160
+Je veux Mike et Zoe prêts à
+partir à la plage dans 40 minutes.
+
+103
+00:05:08,630 --> 00:05:10,800
+La couverture...Devon et Bonnie.
+
+104
+00:05:11,160 --> 00:05:12,200
+Un couple en lune de miel.
+
+105
+00:05:12,860 --> 00:05:13,660
+Super !
+
+106
+00:05:29,730 --> 00:05:31,630
+J'ai perdu mon collègue.
+Elle est un peu folle.
+
+107
+00:05:31,700 --> 00:05:33,330
+Plus vous êtes proches, plus
+le signal est fort. OK ?
+
+108
+00:05:35,760 --> 00:05:37,460
+Combien de caution ?
+
+109
+00:05:37,530 --> 00:05:38,600
+Il y a 4 modifications :
+
+110
+00:05:38,760 --> 00:05:40,000
+En un le sable.
+
+111
+00:05:40,060 --> 00:05:41,800
+Numéro 2, le sable mouillé.
+
+112
+00:05:41,860 --> 00:05:42,830
+Les mecs !
+
+113
+00:05:42,900 --> 00:05:44,000
+C'est une mission.
+
+114
+00:05:44,060 --> 00:05:45,500
+Elle ne sera pas différente des autres.
+
+115
+00:05:45,860 --> 00:05:46,830
+D'ac !
+
+116
+00:05:51,100 --> 00:05:52,400
+Allons-y, surfer !
+
+117
+00:05:55,400 --> 00:05:57,160
+Pas trop différente.
+
+118
+00:05:57,830 --> 00:05:59,630
+Ouverture des portes.
+
+119
+00:06:01,830 --> 00:06:03,800
+Système de serrure actif.
+
+120
+00:06:10,001 --> 00:06:12,001
+Traduction par : Cam KNIGHT
+
+121
+00:06:12,502 --> 00:06:14,502
+Recalé et corrigé par : Djuz
+
+122
+00:06:18,003 --> 00:06:21,003
+Réalisé pour la communauté 
+de www.knight2000.net
+
+
+122
+00:06:21,003 --> 00:06:25,003 
+http://knider.free.fr www.k2000-tv.com 
+www.knightriderworld.com
+
+123
+00:07:36,060 --> 00:07:38,500
+La fiesta de vagues ! !
+
+124
+00:07:40,730 --> 00:07:42,830
+Des slash de malade !
+
+125
+00:07:44,200 --> 00:07:45,460
+Tu sais vraiment faire tout ça ?
+
+126
+00:07:46,230 --> 00:07:47,560
+Mes fakies auraient
+besoins d'être travaillés,
+
+127
+00:07:47,630 --> 00:07:49,160
+mais mes laybacks sont solides.
+
+128
+00:07:49,230 --> 00:07:51,200
+Et à propos de tes hang hands ?
+
+129
+00:07:53,060 --> 00:07:55,030
+S'il te plaît, dis-moi que
+tu ne vas pas parler comme ça.
+
+130
+00:07:55,900 --> 00:07:58,000
+Michael, nous sommes
+arrivés à Todos Santos.
+
+131
+00:07:58,060 --> 00:08:01,030
+L'hôtel "el surfer" est
+à 500 mètres plus loin.
+
+132
+00:08:01,100 --> 00:08:02,300
+Et c'est le dernier endroit,
+
+133
+00:08:02,360 --> 00:08:04,400
+duquel l'agent Turner
+est entré en contact.
+
+134
+00:08:04,460 --> 00:08:05,800
+El surfer ?
+
+135
+00:08:06,760 --> 00:08:08,460
+Uniquement le meilleur pour ma copine.
+
+136
+00:08:09,630 --> 00:08:11,660
+Que pourrais-je vouloir
+de plus pour mes noces ?
+
+137
+00:08:13,200 --> 00:08:15,830
+Tu...sais on est pas
+encore sous couverture.
+
+138
+00:08:16,500 --> 00:08:18,360
+J'entre dans le personnage.
+
+139
+00:08:24,900 --> 00:08:26,900
+- Mike
+- Ah !
+
+140
+00:08:26,960 --> 00:08:28,360
+On interrompt quelque chose ?
+
+141
+00:08:29,130 --> 00:08:31,730
+Oh ! hé ! Les mecs !
+Que... Que se passe-t-il ?
+
+142
+00:08:31,800 --> 00:08:33,060
+Quel est votre statut ?
+
+143
+00:08:34,030 --> 00:08:35,730
+On se rapproche de l'hôtel.
+
+144
+00:08:36,000 --> 00:08:38,300
+Dès que vous arrivez,
+je veux que vous vérifiez
+
+145
+00:08:38,330 --> 00:08:40,760
+et laissez KITT se focaliser sur
+tout ce qu'il a sur cette balise.
+
+146
+00:08:40,830 --> 00:08:41,830
+Exactement nos plans
+
+147
+00:08:41,900 --> 00:08:43,330
+Exceptez que nous allons nous
+commander des tacos au poisson
+
+148
+00:08:43,700 --> 00:08:45,000
+et des margaritas avant.
+
+149
+00:08:45,060 --> 00:08:46,700
+Excellente idée. Tenez-nous au courant.
+
+150
+00:08:48,730 --> 00:08:50,360
+Tacos aux poissons et margaritas ?
+
+151
+00:08:50,430 --> 00:08:51,900
+En quoi c'est une bonne idée ?
+
+152
+00:08:53,360 --> 00:08:54,900
+Leur couverture doit être convaincante.
+
+153
+00:08:54,960 --> 00:08:55,960
+Bien sûr, mais...
+
+154
+00:08:56,030 --> 00:08:58,700
+Au lieu de vous inquiéter à propos des
+capacités de nos agents sur le terrain,
+
+155
+00:08:58,760 --> 00:09:00,230
+vous devriez creuser
+
+156
+00:09:00,300 --> 00:09:01,530
+dans le passé de l'agent Turner.
+
+157
+00:09:01,600 --> 00:09:02,600
+Il est super clean
+
+158
+00:09:02,660 --> 00:09:03,800
+Rien d'inhabituel dans son fichier.
+
+159
+00:09:04,160 --> 00:09:05,860
+Et à propos de ce qui
+n'est pas dans les fichiers,
+
+160
+00:09:06,430 --> 00:09:09,460
+tant que nous ne savons pas ce qui
+se passe avec Turner et la cellule,
+
+161
+00:09:10,130 --> 00:09:11,630
+notre équipe est vulnérable.
+
+162
+00:09:11,700 --> 00:09:13,300
+Je ne veux pas qu'ils
+aient de surprises.
+
+163
+00:09:31,430 --> 00:09:33,060
+Wow. Quelle grande chambre
+
+164
+00:09:33,430 --> 00:09:34,400
+Avec...
+
+165
+00:09:35,260 --> 00:09:36,830
+un lit.
+
+166
+00:09:38,800 --> 00:09:40,500
+Si vous n'aimez pas, on
+peut en voir une autre.
+
+167
+00:09:40,860 --> 00:09:42,730
+Ne vous tracassez pas.
+C'est notre lune de miel
+
+168
+00:09:42,800 --> 00:09:44,760
+Un lit est tout ce
+dont nous avons besoin.
+
+169
+00:09:59,030 --> 00:10:00,000
+Qu'est-ce qui ne va pas ?
+
+170
+00:10:00,060 --> 00:10:01,130
+Rien !
+
+171
+00:10:02,660 --> 00:10:03,800
+J'essaye de faire paraître ça réel.
+
+172
+00:10:03,860 --> 00:10:07,060
+Bien sûr. Une chose, j'ai
+certains principes dont un :
+
+173
+00:10:07,130 --> 00:10:08,700
+Ne rien faire de ce genre,
+
+174
+00:10:08,860 --> 00:10:10,560
+avec quelqu'un du boulot.
+
+175
+00:10:10,830 --> 00:10:13,130
+- Tu l'as fait avec Sarah
+- Non, je l'ai pas fait.
+
+176
+00:10:15,000 --> 00:10:17,460
+Je veux dire, on l'a fait
+mais c'était différent.
+
+177
+00:10:18,030 --> 00:10:19,500
+Elle est moi sommes
+
+178
+00:10:19,560 --> 00:10:21,560
+T'inquiète pas, j'ai promis
+qu'il ne se passerait rien.
+
+179
+00:10:21,630 --> 00:10:23,600
+C'est pas complètement professionnel.
+
+180
+00:10:24,460 --> 00:10:25,430
+OK.
+
+181
+00:10:25,500 --> 00:10:26,960
+Tant que je n'ai pas de téquila.
+
+182
+00:10:32,760 --> 00:10:33,460
+Michael.
+
+183
+00:10:33,530 --> 00:10:34,900
+Oui, KITT ?
+
+184
+00:10:35,360 --> 00:10:37,500
+J'ai retrouvé la balise
+de l'agent Turner.
+
+185
+00:10:40,800 --> 00:10:41,800
+Zoe !
+
+186
+00:10:45,100 --> 00:10:46,130
+Présente !
+
+187
+00:10:48,700 --> 00:10:49,730
+Vraiment ?
+
+188
+00:10:49,800 --> 00:10:51,800
+Ça s'appelle "harmonie".
+
+189
+00:11:07,600 --> 00:11:08,600
+KITT, qu’elle est le statut ?
+
+190
+00:11:08,660 --> 00:11:10,160
+D'après la balise,
+
+191
+00:11:10,530 --> 00:11:12,260
+Turner est l'un des deux hommes
+dans le Toyota land cruiser,
+
+192
+00:11:12,330 --> 00:11:15,030
+à 25 mètres, à 2 heures.
+
+193
+00:11:18,330 --> 00:11:19,430
+Tu es sûr que c'est lui ?
+
+194
+00:11:19,500 --> 00:11:21,260
+La balise transmet par le véhicule.
+
+195
+00:11:21,730 --> 00:11:23,700
+Mais je n'ai de visuel
+sur aucun des deux hommes.
+
+196
+00:11:23,760 --> 00:11:25,500
+Je ne peux confirmer leurs identités.
+
+197
+00:11:25,960 --> 00:11:27,060
+Suivons-les !
+
+198
+00:11:55,200 --> 00:11:56,630
+Chauffe tes pneus, KITT !
+
+199
+00:11:56,900 --> 00:11:57,900
+Chauffer mes pneus ?
+
+200
+00:11:57,960 --> 00:11:59,360
+Reste sur la balise KITT !
+
+201
+00:11:59,730 --> 00:12:02,060
+Système de repérage verrouillé.
+
+202
+00:12:33,930 --> 00:12:35,830
+J'ai détecté un signal plus fort.
+
+203
+00:12:35,900 --> 00:12:37,260
+Plus fort quand la
+balise s'est rapprochée ?
+
+204
+00:12:37,330 --> 00:12:38,600
+La balise a été remplacée
+
+205
+00:12:38,660 --> 00:12:40,800
+par un système de visée.
+
+206
+00:12:45,260 --> 00:12:46,330
+KITT, sors-nous de là !
+
+207
+00:12:53,460 --> 00:12:54,430
+Mike !
+
+208
+00:12:55,260 --> 00:12:56,300
+KITT !
+
+209
+00:12:59,101 --> 00:13:00,101
+Attention !
+
+210
+00:13:25,930 --> 00:13:28,900
+Re-pressurisation.
+Prêt à refaire surface.
+
+211
+00:13:29,260 --> 00:13:31,530
+C'est plus cool que la
+balade de Nemo à Disney land.
+
+212
+00:13:32,200 --> 00:13:33,130
+Ce serait plus cool,
+
+213
+00:13:33,200 --> 00:13:34,660
+si vous ne tentiez pas
+de détruire la voiture.
+
+214
+00:13:35,030 --> 00:13:38,060
+On n'a rien fait, KITT a tenté d'encaisser
+ce missile et n'y est pas arrivé.
+
+215
+00:13:38,230 --> 00:13:39,460
+Et ça l'a balancé dans l'océan.
+
+216
+00:13:39,530 --> 00:13:40,230
+On sait, Mike.
+
+217
+00:13:40,300 --> 00:13:41,800
+KITT a enregistré le
+profil de l'attaque.
+
+218
+00:13:41,860 --> 00:13:43,960
+Et nous nous en occupons. Mais
+peu importe ce qui vous a frappé
+
+219
+00:13:44,030 --> 00:13:46,930
+C'est plus avancé que n'importe
+quelle chose utilisée aujourd'hui.
+
+220
+00:13:47,200 --> 00:13:48,660
+Bien si c'est ce qu'ils
+tentent de faire entrer aux USA,
+
+221
+00:13:48,830 --> 00:13:50,760
+Le problème est plus gros
+que nous ne le pensions.
+
+222
+00:13:50,930 --> 00:13:51,960
+La vraie question est
+
+223
+00:13:52,030 --> 00:13:54,400
+Comment Turner et ces types ont
+réussi à mettre la main dessus ?
+
+224
+00:13:54,660 --> 00:13:55,630
+Qu'est-ce qui vous fait
+penser que c'est Turner ?
+
+225
+00:13:55,900 --> 00:13:56,900
+On n'a pas eu de visuel sur lui.
+
+226
+00:13:57,460 --> 00:13:59,930
+Mike, l'agent Turner a un
+compte bancaire offshore.
+
+227
+00:14:00,200 --> 00:14:01,360
+On a piraté les listings bancaires,
+
+228
+00:14:01,430 --> 00:14:03,900
+le mois dernier il a retiré
+presque tout ce qu'il a ici.
+
+229
+00:14:03,960 --> 00:14:05,800
+Ça fait plus de 2 millions de dollars.
+
+230
+00:14:05,860 --> 00:14:07,260
+Vous pensez qu'il est
+passé de l'autre côté ?
+
+231
+00:14:07,630 --> 00:14:08,930
+Tout est possible.
+
+232
+00:14:09,000 --> 00:14:10,300
+Je viens d'apprendre que...
+
+233
+00:14:10,360 --> 00:14:12,000
+deux corps sont apparus 15 km au sud.
+
+234
+00:14:12,660 --> 00:14:13,700
+L'équipe d'extraction.
+
+235
+00:14:13,760 --> 00:14:15,260
+Super.
+
+236
+00:14:16,030 --> 00:14:17,430
+Maintenant on n'a plus
+de balise émettrice.
+
+237
+00:14:17,500 --> 00:14:18,630
+Et plus aucun contact.
+
+238
+00:14:18,800 --> 00:14:19,930
+Que faisons-nous ?
+
+239
+00:14:20,500 --> 00:14:21,730
+Vous allez dans la rue.
+
+240
+00:14:21,800 --> 00:14:23,630
+On les a trouvés une fois
+On peut peut-être recommencer
+
+241
+00:14:24,500 --> 00:14:26,160
+OK. Mais on doit d'abord se sécher.
+
+242
+00:14:33,260 --> 00:14:37,460
+Sortie de l'eau dans trois, deux, un.
+
+243
+00:15:01,460 --> 00:15:03,330
+Michael, je suis confus.
+
+244
+00:15:03,400 --> 00:15:05,000
+La réponse est que ce serait une erreur.
+
+245
+00:15:05,060 --> 00:15:06,700
+De quoi ?
+
+246
+00:15:06,760 --> 00:15:07,730
+Coucher avec Zoe.
+
+247
+00:15:07,800 --> 00:15:09,800
+Mais elle t'y a invité.
+
+248
+00:15:09,860 --> 00:15:11,360
+Tu ne la trouves pas attirante ?
+
+249
+00:15:11,430 --> 00:15:12,900
+Ouais, c'est ça le problème.
+
+250
+00:15:12,960 --> 00:15:15,960
+Est-ce que cela a un rapport
+avec ta relation avec Sarah ?
+
+251
+00:15:16,430 --> 00:15:18,030
+Pourquoi tout le monde
+me pose la question ?
+
+252
+00:15:18,100 --> 00:15:19,500
+On n'est pas en couple.
+
+253
+00:15:19,560 --> 00:15:21,260
+Maintenant tu sembles agité.
+
+254
+00:15:21,330 --> 00:15:23,060
+- Je ne suis pas agité.
+- Tu en es sûr ?
+
+255
+00:15:23,530 --> 00:15:24,330
+Yes !
+
+256
+00:15:24,900 --> 00:15:26,060
+Bonne nuit,Michael
+
+257
+00:15:26,630 --> 00:15:28,000
+Bonne nuit, KITT.
+
+258
+00:15:57,530 --> 00:15:58,500
+KITT, ça marche avec les scanners ?
+
+259
+00:15:58,860 --> 00:15:59,900
+Négatif, Michael.
+
+260
+00:15:59,960 --> 00:16:01,400
+Je pense que cette plage a des véhicules
+
+261
+00:16:01,460 --> 00:16:03,430
+similaires à celui que
+nous avons poursuivi hier.
+
+262
+00:16:04,100 --> 00:16:05,660
+Je n'ai toujours aucun
+résultat concluant,
+
+263
+00:16:05,730 --> 00:16:08,360
+pour l'agent Turner, ou les
+hommes qui nous ont attaqués.
+
+264
+00:16:08,630 --> 00:16:09,660
+Bien, ça fait 4 heures,
+
+265
+00:16:09,730 --> 00:16:11,560
+une de plus et on doit
+encore aller en visiter une.
+
+266
+00:16:46,130 --> 00:16:47,060
+Salut mesdemoiselles.
+
+267
+00:16:47,130 --> 00:16:48,360
+Je suis à la recherche de ce type.
+
+268
+00:16:48,930 --> 00:16:49,930
+Vous l'avez déjà vu ?
+
+269
+00:16:50,500 --> 00:16:51,530
+Désolé.
+
+270
+00:16:51,800 --> 00:16:52,700
+Merci.
+
+271
+00:16:53,060 --> 00:16:54,030
+Scanner de la voix négatif.
+
+272
+00:16:54,900 --> 00:16:56,600
+Les sujets disent la vérité.
+
+273
+00:17:00,060 --> 00:17:01,400
+Vous êtes sur notre plage.
+
+274
+00:17:02,160 --> 00:17:03,800
+Je cherche quelqu'un.
+
+275
+00:17:04,160 --> 00:17:05,400
+Ben, il est pas là.
+
+276
+00:17:07,000 --> 00:17:08,130
+Vous devriez voir la
+photo pour être sûr.
+
+277
+00:17:08,500 --> 00:17:09,200
+Non.
+
+278
+00:17:36,160 --> 00:17:37,600
+Cassez-vous de ma plage.
+
+279
+00:17:40,800 --> 00:17:42,130
+Ça va ?
+
+280
+00:17:44,030 --> 00:17:45,100
+Je m'appelle Skyler.
+
+281
+00:17:45,260 --> 00:17:46,260
+Devon.
+
+282
+00:17:46,830 --> 00:17:48,130
+Vous savez qui c'étaient ?
+
+283
+00:17:49,900 --> 00:17:50,930
+Larves de plages.
+
+284
+00:17:51,500 --> 00:17:53,400
+Je vous suis redevable.
+Laissez-moi vous offrir une bière.
+
+285
+00:17:53,460 --> 00:17:54,430
+Uh...
+
+286
+00:17:59,600 --> 00:18:01,800
+Mais c'est bien parce que vous insistez.
+
+287
+00:18:03,760 --> 00:18:05,200
+Désolé frère, je l'ai jamais vu.
+
+288
+00:18:05,460 --> 00:18:07,960
+Mais vous me semblez
+familier. Militaire ?
+
+289
+00:18:09,830 --> 00:18:10,760
+Armée.
+
+290
+00:18:11,030 --> 00:18:12,430
+Deux tours pour moi avant de me casser
+
+291
+00:18:12,500 --> 00:18:13,430
+et de prendre mon solde.
+
+292
+00:18:13,900 --> 00:18:14,900
+Des raisons ?
+
+293
+00:18:15,860 --> 00:18:16,800
+J'ai trouvé ça !
+
+294
+00:18:18,360 --> 00:18:19,730
+J'ai réalisé que je vivais
+
+295
+00:18:19,800 --> 00:18:22,960
+dans un pays de liberté,
+sans jamais avoir été libre.
+
+296
+00:18:23,030 --> 00:18:26,630
+Ici... C'est une toute autre histoire.
+
+297
+00:18:27,800 --> 00:18:28,860
+C'est quoi le truc ?
+
+298
+00:18:29,330 --> 00:18:30,260
+Aucun truc !
+
+299
+00:18:31,330 --> 00:18:33,700
+Tout ce que t'as à faire c'est
+trouver un job ici et après,
+
+300
+00:18:34,260 --> 00:18:35,500
+le paradis fait le reste.
+
+301
+00:18:36,260 --> 00:18:37,500
+Si..
+
+302
+00:18:37,560 --> 00:18:39,630
+tu veux vraiment l'avoir.
+
+303
+00:18:41,330 --> 00:18:42,330
+Je le veux.
+
+304
+00:18:42,500 --> 00:18:43,930
+Tout le temps, depuis
+que nous sommes arrivés,
+
+305
+00:18:44,000 --> 00:18:45,430
+j'ai dit à Devon que
+nous devrions rester.
+
+306
+00:18:46,200 --> 00:18:47,430
+T'as eu la bonne idée.
+
+307
+00:18:48,000 --> 00:18:51,100
+Maintenant je dois le convaincre.
+
+308
+00:18:53,860 --> 00:18:56,200
+Personne ne peut dire ... Tequila ?
+
+309
+00:18:58,300 --> 00:18:59,330
+Tequila.
+
+310
+00:19:20,330 --> 00:19:21,200
+Ohh ! Super !
+
+311
+00:19:21,260 --> 00:19:22,660
+C'est pour moi.
+
+312
+00:19:24,030 --> 00:19:24,700
+Merci pour la boisson.
+
+313
+00:19:24,860 --> 00:19:25,900
+Merci pour ton aide.
+
+314
+00:19:25,960 --> 00:19:27,100
+Pense à ce que je t'ai dit.
+
+315
+00:19:27,760 --> 00:19:28,830
+J'y penserais.
+
+316
+00:19:28,900 --> 00:19:32,160
+T'inquiète pas, je veillerais
+à ce qu'il soit OK demain matin.
+
+317
+00:19:32,630 --> 00:19:34,630
+Vous voudriez réellement
+voir de quoi je parle.
+
+318
+00:19:34,700 --> 00:19:36,730
+Vous devriez passer
+par El Pescadero demain.
+
+319
+00:19:36,800 --> 00:19:38,260
+El Pescadero ?
+
+320
+00:19:38,730 --> 00:19:40,730
+C'est un spot local, à 8 km au sud.
+
+321
+00:19:41,200 --> 00:19:43,060
+C'est là où sont les vagues.
+
+322
+00:19:43,430 --> 00:19:45,500
+On n'accepte pas les
+étrangers d'habitude.
+
+323
+00:19:45,760 --> 00:19:47,930
+Mais ça devrait le faire pour vous.
+
+324
+00:19:51,200 --> 00:19:52,260
+Bonne nuit !
+
+325
+00:19:58,030 --> 00:19:59,300
+Tu penses à ce que je pense.
+
+326
+00:20:00,160 --> 00:20:01,800
+Je peux pas coucher avec toi, Zoe.
+
+327
+00:20:02,660 --> 00:20:03,260
+Ce n'était pas ce à quoi je pensais.
+
+328
+00:20:03,530 --> 00:20:04,000
+Oh.
+
+329
+00:20:04,160 --> 00:20:06,700
+Je repensais au moment
+où ce gars est apparu,
+
+330
+00:20:06,860 --> 00:20:09,300
+pile quand tu allais te faire descendre.
+
+331
+00:20:09,760 --> 00:20:10,700
+Ouais.
+
+332
+00:20:12,800 --> 00:20:15,130
+C'est pourquoi on va
+vérifier ses empreintes.
+
+333
+00:20:19,330 --> 00:20:20,900
+Accès à AFIS.
+
+334
+00:20:22,360 --> 00:20:24,660
+Skyler Rand, expert en explosifs.
+
+335
+00:20:24,730 --> 00:20:27,560
+Médailles du Coeur Pourpre et de
+bronze. Décharges déshonorantes.
+
+336
+00:20:27,630 --> 00:20:29,160
+Je savais qu'il était mauvais.
+
+337
+00:20:30,030 --> 00:20:31,100
+Ça le rend encore plus attirant.
+
+338
+00:20:31,260 --> 00:20:32,330
+D'après les fichiers,
+
+339
+00:20:32,400 --> 00:20:34,860
+le sergent Rand a été
+renvoyé pour insubordination.
+
+340
+00:20:35,030 --> 00:20:35,960
+Ça aurait pu être moi.
+
+341
+00:20:36,030 --> 00:20:38,430
+Peut être Michael, mais pense
+que dans le cas de Skyler Rand,
+
+342
+00:20:38,500 --> 00:20:39,960
+son escadron entier
+
+343
+00:20:40,030 --> 00:20:41,730
+a été viré avec lui.
+
+344
+00:20:41,800 --> 00:20:42,930
+Combien d'hommes dans son équipe ?
+
+345
+00:20:43,000 --> 00:20:45,130
+4 survivants au moment du renvoi,
+
+346
+00:20:45,200 --> 00:20:46,760
+le sergent Rand inclu.
+
+347
+00:20:46,830 --> 00:20:49,330
+Le même nombre de gars qu'on
+a attaqué la nuit dernière.
+
+348
+00:20:49,400 --> 00:20:50,660
+En comptant Skyler !
+
+349
+00:20:50,930 --> 00:20:52,930
+Le même nombre de gars
+sur la plage aujourd'hui.
+
+350
+00:20:53,000 --> 00:20:55,860
+KITT, peux-tu avoir les dossiers
+des gars de l'équipe de Skyler ?
+
+351
+00:20:56,230 --> 00:20:57,800
+Compare les données
+avec tout ce que tu as
+
+352
+00:20:57,860 --> 00:21:00,000
+de la nuit dernière ou d'aujourd'hui.
+
+353
+00:21:00,060 --> 00:21:02,430
+Ça concorde à 85%.
+
+354
+00:21:02,700 --> 00:21:04,830
+Pote... On assure !
+
+355
+00:21:07,030 --> 00:21:09,530
+Tu es meilleure dans l'espionnage
+que je ne l'avais prévu.
+
+356
+00:21:09,600 --> 00:21:11,560
+Ouais ? Toi aussi.
+
+357
+00:21:12,630 --> 00:21:15,000
+Maintenant tu penses à ce que je pense ?
+
+358
+00:21:17,060 --> 00:21:19,500
+Je t'avais prévenu de ne pas
+me laisser boire de tequila.
+
+359
+00:21:25,700 --> 00:21:27,500
+Attendez, s'il vous plaît.
+
+360
+00:21:32,000 --> 00:21:34,700
+Mike, on a trouvé comment pister Turner.
+
+361
+00:21:35,060 --> 00:21:38,460
+On lui a donné un implant auriculaire radio
+lors de l'une de ces anciennes missions.
+
+362
+00:21:38,530 --> 00:21:41,230
+Nous n'avons plus qu'à
+le transférer vers KITT.
+
+363
+00:21:41,300 --> 00:21:42,860
+Et le configurer pour le traquer.
+
+364
+00:21:45,030 --> 00:21:46,900
+La nuit dernière était épique.
+
+365
+00:21:57,600 --> 00:21:59,230
+Combien de fois dois-je le dire ?
+
+366
+00:21:59,700 --> 00:22:01,300
+Il ne s'est rien passé !
+
+367
+00:22:01,360 --> 00:22:03,160
+Combien de fois dois-je le dire ?
+
+368
+00:22:03,230 --> 00:22:04,160
+Je m'en fous !
+
+369
+00:22:04,430 --> 00:22:06,800
+Tes relations ne sont pas mes affaires.
+
+370
+00:22:06,860 --> 00:22:08,760
+Je n'ai pas de relations.
+
+371
+00:22:08,830 --> 00:22:10,230
+Il ne s'est rien passé.
+
+372
+00:22:10,330 --> 00:22:11,960
+Enfin rien du moins
+que je ne me souvienne.
+
+373
+00:22:12,230 --> 00:22:14,830
+Je pense que c'est
+surprenant, c'est tout.
+
+374
+00:22:15,100 --> 00:22:16,630
+S'il vous plaît. C'est moi qui suis nue.
+
+375
+00:22:16,700 --> 00:22:17,930
+J'ai remarqué !
+
+376
+00:22:19,100 --> 00:22:20,030
+Ils s'en foutent.
+
+377
+00:22:20,100 --> 00:22:22,260
+En tout cas, c'est comment
+
+378
+00:22:22,330 --> 00:22:24,960
+d'être enfin dehors sur le terrain ?
+
+379
+00:22:25,030 --> 00:22:27,500
+Finalement, je préfère cela
+de l'intérieur de la KITTcave.
+
+380
+00:22:27,560 --> 00:22:29,230
+Pourquoi ?
+
+381
+00:22:29,900 --> 00:22:32,560
+Dehors il y a trop d'inconnus.
+
+382
+00:22:33,430 --> 00:22:35,230
+Tu ne sais jamais ce qu'il va arriver.
+
+383
+00:22:36,760 --> 00:22:39,400
+Billy... C'est ce qui y est fun !
+
+384
+00:22:40,400 --> 00:22:41,760
+Qu'est-ce qui te rend si jalouse ?
+
+385
+00:22:41,830 --> 00:22:43,600
+Zoe a dû faire la mission et pas toi ?
+
+386
+00:22:43,760 --> 00:22:47,060
+S'il te plaît. J'ai
+travaillé la nuit dernière.
+
+387
+00:22:48,130 --> 00:22:49,430
+Pas comme certains.
+
+388
+00:22:50,300 --> 00:22:52,260
+Je préparais aussi la
+mission la nuit dernière.
+
+389
+00:22:53,430 --> 00:22:55,930
+Ce n'est pas ce dont je parlais.
+
+390
+00:22:56,200 --> 00:22:58,000
+Billy et moi sommes venus
+avec une nouvelle application,
+
+391
+00:22:58,060 --> 00:22:59,800
+qui permettra à KITT de traquer Turner.
+
+392
+00:22:59,860 --> 00:23:02,500
+Zoe et moi avons identifié un groupe de
+mercenaires comme étant notre cellule terroriste.
+
+393
+00:23:02,560 --> 00:23:03,630
+- Vraiment ?
+- Ouais !
+
+394
+00:23:03,700 --> 00:23:04,900
+- Étaient-ils avec
+Turner ? - Non.
+
+395
+00:23:04,960 --> 00:23:08,060
+Mais je sais comment on peut
+savoir s'il est avec eux.
+
+396
+00:23:20,560 --> 00:23:21,560
+La plage d'El Pescadero,
+
+397
+00:23:21,630 --> 00:23:23,030
+nous y voilà !
+
+398
+00:23:23,700 --> 00:23:24,800
+Quelque chose, KITT ?
+
+399
+00:23:24,860 --> 00:23:26,560
+Je n'ai aucun signe de l'agent Turner.
+
+400
+00:23:26,630 --> 00:23:29,200
+Cependant, je crois que Skyler Rand
+est au sud-est de votre position.
+
+401
+00:23:32,230 --> 00:23:34,100
+Je l'ai. Allons-y !
+
+402
+00:23:56,000 --> 00:23:59,630
+Alors... on fait quoi maintenant ?
+
+403
+00:24:02,460 --> 00:24:04,660
+Relaxe et voyons ce que l'on peut voir.
+
+404
+00:24:04,730 --> 00:24:06,260
+Relax.
+
+405
+00:24:08,030 --> 00:24:09,560
+Je peux être relaxé.
+
+406
+00:24:11,560 --> 00:24:12,760
+Ça va ?
+
+407
+00:24:14,700 --> 00:24:16,260
+À vrai dire, j'aime avoir
+4 murs autour de moi.
+
+408
+00:24:16,330 --> 00:24:18,230
+Toute cette nature,
+
+409
+00:24:18,300 --> 00:24:19,930
+m'effraie.
+
+410
+00:24:21,230 --> 00:24:23,260
+Je crois que j'ai la chair de poule.
+
+411
+00:24:29,730 --> 00:24:31,100
+Superbe plage.
+
+412
+00:24:31,560 --> 00:24:33,160
+Content que vous l'ayez trouvé.
+
+413
+00:24:33,230 --> 00:24:36,200
+Mis à part le body surf, un brin au sud,
+
+414
+00:24:36,260 --> 00:24:37,860
+mais faut faire attention aux rochers...
+
+415
+00:24:37,930 --> 00:24:38,900
+Je suis là.
+
+416
+00:24:38,960 --> 00:24:40,130
+Super !
+
+417
+00:24:40,200 --> 00:24:43,530
+Ça te gêne si j'emmène
+Devon avec mes potes ?
+
+418
+00:24:43,600 --> 00:24:44,630
+Ouais !
+
+419
+00:24:45,000 --> 00:24:45,700
+Bien sûr !
+
+420
+00:24:45,760 --> 00:24:46,900
+Cool.
+
+421
+00:24:50,000 --> 00:24:51,600
+J'ai entendu que tu avais
+un problème avec l'eau.
+
+422
+00:24:51,660 --> 00:24:53,360
+Je n'ai pas vraiment le choix.
+
+423
+00:24:55,760 --> 00:24:57,300
+Souviens-toi, fais
+tes pop-up rapidement,
+
+424
+00:24:57,360 --> 00:24:59,360
+duck dives doucement,
+et évite les rips, pearls
+
+425
+00:24:59,430 --> 00:25:00,660
+et toute la partie nord de la plage,
+
+426
+00:25:00,730 --> 00:25:02,800
+parce que ces vagues sont des monstres.
+
+427
+00:25:08,230 --> 00:25:09,660
+T'as une idée de ce que
+je viens de te dire ?
+
+428
+00:25:09,730 --> 00:25:12,030
+Non mais, ça peut pas être pire.
+
+429
+00:25:21,530 --> 00:25:23,860
+Je pense que tu dois vouloir
+essayer la plage au nord.
+
+430
+00:25:26,230 --> 00:25:27,800
+La plage au nord, hein ?
+
+431
+00:25:29,730 --> 00:25:31,300
+Je te suis.
+
+432
+00:25:31,460 --> 00:25:32,830
+D'accord !
+
+433
+00:25:39,860 --> 00:25:41,330
+Tu es certain de ne pas
+vouloir sortir, Billy ?
+
+434
+00:25:41,600 --> 00:25:43,660
+Non. Je devine que
+j'ai la même chose que
+
+435
+00:25:43,730 --> 00:25:45,230
+Mike a avec l'eau.
+
+436
+00:25:45,700 --> 00:25:49,130
+Le sable, le soleil et la mer
+
+437
+00:25:49,200 --> 00:25:50,730
+Ça te dérange pas tout ça ?
+
+438
+00:25:50,800 --> 00:25:51,900
+Pas vraiment !
+
+439
+00:25:52,160 --> 00:25:53,630
+Comment ?
+
+440
+00:25:54,700 --> 00:25:56,030
+Dans le CSS,
+
+441
+00:25:56,100 --> 00:25:57,660
+tu es une geek de service, comme moi !
+
+442
+00:25:57,730 --> 00:26:01,860
+Mais dehors, tu es si ... cool.
+
+443
+00:26:05,130 --> 00:26:07,660
+Premièrement, je ne
+réfléchis pas trop à tout ça.
+
+444
+00:26:07,930 --> 00:26:09,830
+Et ensuite je crois,
+
+445
+00:26:10,000 --> 00:26:11,800
+que mon entraînement
+m'aidera à m'en sortir.
+
+446
+00:26:11,860 --> 00:26:13,060
+Et ça marche ?
+
+447
+00:26:13,930 --> 00:26:15,960
+Tant que tu te laisses aller, tu vois.
+
+448
+00:26:17,630 --> 00:26:19,430
+- Sarah...
+- Ouais, KITT.
+
+449
+00:26:19,500 --> 00:26:21,830
+Je viens de trouver un
+signal avec ton application.
+
+450
+00:26:22,400 --> 00:26:23,000
+Turner ?
+
+451
+00:26:22,960 --> 00:26:26,200
+Je crois qu'il est à moins
+de 100 mètres au sud-est
+
+452
+00:26:26,260 --> 00:26:28,260
+- de notre position.
+- Voyons ça.
+
+453
+00:26:34,800 --> 00:26:36,730
+Dès qu'on aura passé le second récif,
+
+454
+00:26:36,800 --> 00:26:39,260
+c'est là où nous aurons
+les grosses vagues.
+
+455
+00:26:52,960 --> 00:26:54,730
+On dirait qu'on a loupé tes potes.
+
+456
+00:26:55,200 --> 00:26:55,930
+C'est vrai !
+
+457
+00:26:56,200 --> 00:26:57,730
+Ça nous laisse une chance de parler
+
+458
+00:26:57,800 --> 00:26:59,230
+de ce que tu fais vraiment ici.
+
+459
+00:26:59,600 --> 00:27:01,900
+Je pensais à ce dont tu parlais.
+
+460
+00:27:02,860 --> 00:27:03,930
+Allons-y !
+
+461
+00:27:05,200 --> 00:27:06,630
+Et pour ton frère ?
+
+462
+00:27:06,700 --> 00:27:08,500
+Il doit roder quelque part.
+
+463
+00:27:09,260 --> 00:27:10,860
+C'est une âme errante, comme toi.
+
+464
+00:27:11,830 --> 00:27:13,160
+Et toi, Devon ?
+
+465
+00:27:14,230 --> 00:27:15,760
+Tu es une âme errante ?
+
+466
+00:27:16,130 --> 00:27:18,930
+J'ai fait des choses en Iraq
+dont je ne suis pas fier.
+
+467
+00:27:19,200 --> 00:27:21,130
+Maintenant je cherche
+juste à repartir de zéro.
+
+468
+00:27:22,000 --> 00:27:23,030
+Je t'entends.
+
+469
+00:27:24,700 --> 00:27:26,130
+On dirait que tu
+cherches une nouvelle vie,
+
+470
+00:27:26,200 --> 00:27:27,960
+comme pour surfer une vague.
+
+471
+00:27:28,530 --> 00:27:30,900
+Quelques-unes sont
+grosses et d'autres petites
+
+472
+00:27:31,460 --> 00:27:33,630
+Mais pour les surfeurs,
+
+473
+00:27:33,700 --> 00:27:35,860
+tu dois laisser la vague t'avoir.
+
+474
+00:27:36,030 --> 00:27:38,630
+Et si ça t'amène quelque part
+où tu ne devrais pas aller ?
+
+475
+00:27:41,160 --> 00:27:44,830
+"Devrais pas" ne sont pas des mots
+qui font partis de mon vocabulaire.
+
+476
+00:27:45,400 --> 00:27:48,260
+Comme si quelqu'un venait
+m'offrir à moi et mes hommes
+
+477
+00:27:48,330 --> 00:27:49,730
+un sacré paquet d'argent
+
+478
+00:27:49,900 --> 00:27:52,060
+pour faire le même boulot
+qu'on faisait avant.
+
+479
+00:27:53,830 --> 00:27:55,230
+Pourquoi devrais-je dire non ?
+
+480
+00:27:55,500 --> 00:27:57,130
+Ça dépend de comment
+le job est dangereux.
+
+481
+00:27:57,500 --> 00:27:59,260
+Je veux pas faire quoi
+que ce soit de stupide.
+
+482
+00:28:00,860 --> 00:28:02,730
+T'en fais pas pour ça !
+
+483
+00:28:04,000 --> 00:28:05,930
+Parfois je fais cette erreur.
+
+484
+00:28:06,100 --> 00:28:07,400
+Mais au final, il y a
+toujours une autre vague.
+
+485
+00:28:07,760 --> 00:28:08,560
+C'est vrai !
+
+486
+00:28:09,030 --> 00:28:10,330
+Mais en dehors de ça,
+
+487
+00:28:10,800 --> 00:28:12,430
+c'est ça qui va te tuer.
+
+488
+00:28:13,600 --> 00:28:15,530
+Voilà notre vague !
+
+489
+00:28:26,800 --> 00:28:27,960
+Mon pote.
+
+490
+00:28:28,630 --> 00:28:29,700
+KITT, tu m'entends ?
+
+491
+00:28:29,860 --> 00:28:31,100
+Oui, Michael.
+
+492
+00:28:31,360 --> 00:28:32,830
+Comment on se lève sur
+une planche de surf ?
+
+493
+00:28:33,300 --> 00:28:34,730
+Tu restes debout dessus.
+
+494
+00:28:35,100 --> 00:28:36,630
+Je te déteste Lily Mulraney.
+
+495
+00:28:53,660 --> 00:28:56,000
+C'est le type avec qui
+Mike est allé surfer.
+
+496
+00:28:56,360 --> 00:28:58,100
+Pourquoi va-t-il
+rencontrer Turner ?
+
+497
+00:28:59,860 --> 00:29:01,160
+Hé.
+
+498
+00:29:01,530 --> 00:29:02,760
+Tu vas bien ?
+
+499
+00:29:02,830 --> 00:29:04,100
+Ouais, ça ira mieux,
+
+500
+00:29:04,160 --> 00:29:05,900
+dès que j'aurais botté
+le cul de ce type.
+
+501
+00:29:05,960 --> 00:29:07,960
+- Mike.
+- Sarah.
+
+502
+00:29:08,030 --> 00:29:09,530
+Nous te pensions avec Skyler.
+
+503
+00:29:09,600 --> 00:29:12,560
+J'y étais jusqu'à ce qu'il tente de
+me tuer avec une vague, pourquoi ?
+
+504
+00:29:13,530 --> 00:29:15,800
+Billy et moi venons de le
+voir entrer dans un camping-car
+
+505
+00:29:15,860 --> 00:29:17,330
+Nous pensons qu'il est avec Turner
+
+506
+00:29:17,800 --> 00:29:19,500
+On arrive.
+
+507
+00:29:20,460 --> 00:29:22,430
+Infrarouge, rayons X et radar pénétrant
+
+508
+00:29:22,500 --> 00:29:23,960
+sont activés maintenant.
+
+509
+00:29:24,030 --> 00:29:25,430
+Cool. Donne-nous l'audio aussi.
+
+510
+00:29:25,500 --> 00:29:27,460
+Accès aux micros paraboliques.
+
+511
+00:29:28,700 --> 00:29:30,530
+Alors, c'est bon ?
+
+512
+00:29:30,800 --> 00:29:33,730
+Crois-moi... Ils seront au bord demain.
+
+513
+00:29:34,700 --> 00:29:37,230
+Ça vaut mieux pour vous. Et
+pour la vie de votre femme.
+
+514
+00:29:38,000 --> 00:29:39,600
+Ils ont sa femme ?
+
+515
+00:29:39,960 --> 00:29:42,760
+Mme Turner n'a pas utilisé
+son portable ni sa carte crédit
+
+516
+00:29:42,830 --> 00:29:44,260
+durant les deux dernières semaines.
+
+517
+00:29:44,330 --> 00:29:46,930
+Tu m'aides avec ça ?
+
+518
+00:29:50,660 --> 00:29:51,830
+C'est quoi ?
+
+519
+00:29:53,100 --> 00:29:54,130
+KITT, on perd l'image !
+
+520
+00:29:54,200 --> 00:29:56,400
+Je suis désolé, Sarah, mais
+il semble que le sergent Rand
+
+521
+00:29:56,460 --> 00:29:58,300
+ait activé un genre
+de brouilleur d'onde.
+
+522
+00:29:58,560 --> 00:29:59,830
+On a besoin de savoir
+ce qu'il y a là dedans.
+
+523
+00:30:00,000 --> 00:30:03,130
+Peut-être pourriez-vous sortir
+et regarder par la fenêtre !
+
+524
+00:30:04,300 --> 00:30:05,000
+J'y vais.
+
+525
+00:30:05,060 --> 00:30:07,760
+Sarah ! La hauteur de la fenêtre
+la plus basse de ce mobile home
+
+526
+00:30:07,830 --> 00:30:08,800
+est de 1 mètre 80.
+
+527
+00:30:08,860 --> 00:30:10,400
+Je suis désolé mais tu
+n'es pas assez grande,
+
+528
+00:30:10,460 --> 00:30:11,760
+pour regarder par la fenêtre.
+
+529
+00:30:12,630 --> 00:30:13,530
+Mais Billy l'est.
+
+530
+00:30:50,330 --> 00:30:51,360
+Je peux t'aider mon pote ?
+
+531
+00:30:52,330 --> 00:30:53,400
+Ouais, je...
+
+532
+00:30:53,760 --> 00:30:55,360
+Cherche des toilettes.
+
+533
+00:30:55,930 --> 00:30:56,960
+Mauvaise chalupa.
+
+534
+00:30:57,630 --> 00:30:58,700
+Épicée ?
+
+535
+00:31:00,730 --> 00:31:02,200
+La chose à ne pas faire.
+
+536
+00:31:13,800 --> 00:31:14,860
+Qu'as-tu vu ?
+
+537
+00:31:15,630 --> 00:31:18,500
+Trois Caisses pour un missile
+de nouvelle génération.
+
+538
+00:31:18,760 --> 00:31:20,430
+Tu peux dire à partir de quelle caisse ?
+
+539
+00:31:20,600 --> 00:31:22,960
+Ouais ! J'ai bossé sur le prototype.
+
+540
+00:31:25,360 --> 00:31:26,600
+Ils viennent de Knight Industries.
+
+541
+00:31:35,160 --> 00:31:35,930
+C'est pas bon !
+
+542
+00:31:36,000 --> 00:31:37,960
+Les armes de ces hommes
+sont-elles les nôtres ?
+
+543
+00:31:38,130 --> 00:31:39,130
+C'est impossible !
+
+544
+00:31:39,300 --> 00:31:40,600
+Je les ai vus, Dr. Graiman !
+
+545
+00:31:40,660 --> 00:31:42,760
+Trois caisses de cobra
+k-17, pleines à craquer.
+
+546
+00:31:42,830 --> 00:31:44,560
+C'est quoi un cobra k-17 ?
+
+547
+00:31:44,630 --> 00:31:46,460
+C'est un mini missile
+de nouvelles générations,
+
+548
+00:31:46,530 --> 00:31:47,960
+qui utilise une technologie furtive
+
+549
+00:31:48,030 --> 00:31:51,030
+et peut modifier le profil de
+son attaque à partir de la cible.
+
+550
+00:31:51,300 --> 00:31:52,760
+Je croyais que ça n'existait pas encore.
+
+551
+00:31:52,930 --> 00:31:55,060
+Le missile aurait dû
+reconnaître KITT comme ami.
+
+552
+00:31:55,130 --> 00:31:56,960
+Les puces sont faites pour
+différencier leur cible,
+
+553
+00:31:57,030 --> 00:31:58,060
+pour éviter les dommages collatéraux.
+
+554
+00:31:58,230 --> 00:31:59,860
+S'ils n'ont pas été modifiés.
+
+555
+00:32:00,830 --> 00:32:02,360
+La cargaison du mois
+dernier pour la défense
+
+556
+00:32:02,430 --> 00:32:03,800
+a été livrée comme prévu.
+
+557
+00:32:03,960 --> 00:32:06,200
+Bien, ensuite quelqu'un les a
+pris et a modifié les registres.
+
+558
+00:32:06,260 --> 00:32:07,260
+Skyler Rand.
+
+559
+00:32:07,830 --> 00:32:08,860
+Ces collègues sont des
+experts en explosifs.
+
+560
+00:32:08,930 --> 00:32:11,030
+Ils ont dû voler les
+cobras et les changer.
+
+561
+00:32:11,100 --> 00:32:12,900
+- Mais pourquoi ?
+- L'argent !
+
+562
+00:32:13,660 --> 00:32:16,230
+Il m'a carrément avoué que lui et
+ses hommes sont des mercenaires.
+
+563
+00:32:16,360 --> 00:32:17,830
+Mais, pour qui
+travaille-t-il ?
+
+564
+00:32:18,200 --> 00:32:19,560
+Que pense la défense de cela ?
+
+565
+00:32:19,630 --> 00:32:23,200
+La défense nie avoir perdu
+une quelconque cargaison !
+
+566
+00:32:24,260 --> 00:32:27,230
+Revenez. Le camping-car de
+Skyler n'est plus à la carte.
+
+567
+00:32:27,430 --> 00:32:28,900
+Mais ils bougent demain.
+
+568
+00:32:28,960 --> 00:32:31,430
+Avec ce brouilleur, on
+ne pourra pas les suivre,
+
+569
+00:32:31,500 --> 00:32:32,960
+tant que les missiles
+ne sont pas sortis.
+
+570
+00:32:33,230 --> 00:32:35,430
+On ferait mieux d'être
+prêt à bouger vite.
+
+571
+00:33:00,660 --> 00:33:01,660
+Tout ce que je veux dire,
+
+572
+00:33:01,730 --> 00:33:03,960
+c'est que je devrais peut-être
+m'habituer à ce genre de choses.
+
+573
+00:33:04,530 --> 00:33:05,560
+Le boulot de terrain ?
+
+574
+00:33:06,230 --> 00:33:07,230
+Ouais.
+
+575
+00:33:07,800 --> 00:33:09,400
+Toi et Mike deviez vous
+occuper des surfeurs tueurs.
+
+576
+00:33:09,460 --> 00:33:12,430
+Je dois infiltrer et
+exfiltrer le camping-car.
+
+577
+00:33:14,030 --> 00:33:15,060
+Exfiltrer ?
+
+578
+00:33:16,230 --> 00:33:18,800
+Ouais c'est un mot qu'on
+utilise sur le terrain.
+
+579
+00:33:19,560 --> 00:33:20,260
+On s'en occupe !
+
+580
+00:33:20,330 --> 00:33:22,300
+L'agent Turner se sert d'un
+contrôle de la sécurité,
+
+581
+00:33:22,360 --> 00:33:23,400
+pour éviter les douanes.
+
+582
+00:33:23,560 --> 00:33:25,360
+San Diego, il y a deux minutes.
+
+583
+00:33:25,430 --> 00:33:26,900
+Billy, servez-vous-en
+sur l'écran !
+
+584
+00:33:27,060 --> 00:33:28,200
+Et trouvez ce camping-car !
+
+585
+00:33:28,260 --> 00:33:29,830
+Tu pars en mode attaque !
+
+586
+00:33:31,200 --> 00:33:32,300
+Tout de suite !
+
+587
+00:33:33,560 --> 00:33:34,760
+Ouverture des portes.
+
+588
+00:33:37,900 --> 00:33:39,160
+Préparation au lancement terminé.
+
+589
+00:33:39,530 --> 00:33:40,900
+KITT, mode attaque.
+
+590
+00:33:44,800 --> 00:33:46,060
+Transformation initialisée.
+
+591
+00:33:50,900 --> 00:33:52,130
+Transformation terminée.
+
+592
+00:33:54,630 --> 00:33:55,660
+KITT, arrête-toi !
+
+593
+00:33:55,830 --> 00:33:56,900
+Pourquoi nous arrêtons-nous ?
+
+594
+00:33:58,960 --> 00:34:01,030
+- Je viens avec toi !
+- Moi aussi !
+
+595
+00:34:01,700 --> 00:34:03,200
+Michael, comme tu le
+sais, en mode attaque,
+
+596
+00:34:03,260 --> 00:34:05,360
+je ne peux emmener que deux passagers.
+
+597
+00:34:07,400 --> 00:34:08,560
+Ma mission.
+
+598
+00:34:08,930 --> 00:34:10,530
+C'est ma voiture.
+
+599
+00:34:11,800 --> 00:34:13,330
+Ferme la porte.
+
+600
+00:34:13,900 --> 00:34:15,900
+Système de ceintures de sécurité activé.
+
+601
+00:34:16,160 --> 00:34:16,900
+Ow !
+
+602
+00:34:17,060 --> 00:34:18,830
+Ouais ! Ça devrait être sympa !
+
+603
+00:34:19,300 --> 00:34:21,400
+- Enlève-toi de moi !
+- Toi ! Bouge-toi !
+
+604
+00:34:21,460 --> 00:34:23,600
+- T'es dure !
+- Je ne suis pas dure !
+
+605
+00:34:27,000 --> 00:34:28,260
+Ouverture des portes externes.
+
+606
+00:34:51,930 --> 00:34:53,060
+Le camping-car s'arrête.
+
+607
+00:34:53,130 --> 00:34:54,960
+- Où ?
+- Ici !
+
+608
+00:34:55,630 --> 00:34:58,130
+Billy, contacte Mike.
+
+609
+00:34:59,960 --> 00:35:04,360
+Mike, ils vont à la centrale
+nucléaire de Coronado Mesa.
+
+610
+00:35:05,330 --> 00:35:07,500
+Tu sais ce qui va se passer
+si l'un des missiles la touche.
+
+611
+00:35:07,600 --> 00:35:09,830
+Avec la configuration du K17,
+
+612
+00:35:09,900 --> 00:35:11,800
+je m'attends à une explosion amplifiée,
+
+613
+00:35:11,860 --> 00:35:13,700
+suivie d'une pluie radioactive.
+
+614
+00:35:13,760 --> 00:35:17,000
+Ça sera pire que le désastre
+de Tchernobyl en 1986.
+
+615
+00:35:17,360 --> 00:35:18,360
+Oh...
+
+616
+00:35:18,430 --> 00:35:20,400
+Ouais vous savez, tout ce que vous avez
+à dire, c'est que ça va pas être bon !
+
+617
+00:35:20,460 --> 00:35:21,900
+- Michael.
+- Oui, KITT ?
+
+618
+00:35:21,960 --> 00:35:23,500
+Ça va être très mauvais.
+
+619
+00:35:31,700 --> 00:35:32,660
+Génial !
+
+620
+00:35:34,330 --> 00:35:36,160
+C'est le moment de se
+faire du blé chérie !
+
+621
+00:35:51,260 --> 00:35:53,860
+Ça va péter !
+
+622
+00:36:12,760 --> 00:36:14,400
+On est à 2 minutes. Ça donne quoi ?
+
+623
+00:36:14,460 --> 00:36:15,400
+Rien de bon !
+
+624
+00:36:15,460 --> 00:36:17,160
+Et pour Turner et sa
+femme, sont-ils en danger ?
+
+625
+00:36:17,230 --> 00:36:19,000
+À l'opposé !
+
+626
+00:36:19,060 --> 00:36:21,260
+On dirait qu'ils font parti du
+gang de Skyler depuis le début.
+
+627
+00:36:21,330 --> 00:36:24,130
+Mike, souviens-toi tu ne peux pas
+attaquer directement avec KITT.
+
+628
+00:36:24,400 --> 00:36:27,030
+Même en mode attaque, il ne
+peut encaisser 4 missiles cobras.
+
+629
+00:36:27,100 --> 00:36:28,230
+Ils en ont 4 ?
+
+630
+00:36:28,600 --> 00:36:30,100
+C'est ce que l'on peut voir !
+
+631
+00:36:31,060 --> 00:36:32,700
+Contentes d'être venues ?
+
+632
+00:36:55,000 --> 00:36:56,000
+Skyler !
+
+633
+00:36:56,960 --> 00:36:58,200
+Allume-les !
+
+634
+00:37:08,830 --> 00:37:11,000
+C'est ça barre-toi mon con !
+
+635
+00:37:11,060 --> 00:37:12,100
+Rentre chez toi !
+
+636
+00:37:18,760 --> 00:37:20,400
+T'aurais dû rester à la flotte !
+
+637
+00:37:39,230 --> 00:37:42,160
+Il semble que, comme nous l'avons
+prévu, notre diversion ait fonctionné.
+
+638
+00:37:42,630 --> 00:37:43,660
+Retrouvons-le !
+
+639
+00:37:54,060 --> 00:37:54,900
+Lâche ça !
+
+640
+00:37:54,960 --> 00:37:57,260
+C'est pas trop tard frère !
+
+641
+00:37:57,430 --> 00:38:00,500
+Tu me laisses faire ça et on
+partage 12 millions de patates !
+
+642
+00:38:00,660 --> 00:38:01,830
+Qui te paye ?
+
+643
+00:38:02,200 --> 00:38:03,700
+On s'en fout !
+
+644
+00:38:05,360 --> 00:38:06,660
+Tu crois quoi là ?
+
+645
+00:38:06,830 --> 00:38:08,130
+Baisse ton arme !
+
+646
+00:38:08,200 --> 00:38:09,760
+J'étais sûr que c'était toi !
+
+647
+00:38:11,730 --> 00:38:13,260
+- Lieutenant.
+- Pose-la !
+
+648
+00:38:13,330 --> 00:38:14,960
+Afghanistan.
+
+649
+00:38:15,230 --> 00:38:18,700
+Tu avais une partenaire différente.
+
+650
+00:38:18,760 --> 00:38:19,930
+Ouais !
+
+651
+00:38:20,100 --> 00:38:23,900
+Mais toujours la même
+attitude de petit saint.
+
+652
+00:38:23,960 --> 00:38:25,130
+Les gars comme toi
+
+653
+00:38:25,200 --> 00:38:26,900
+oublient toujours une chose
+à propos de la liberté.
+
+654
+00:38:26,960 --> 00:38:28,030
+Pose-la immédiatement !
+
+655
+00:38:28,700 --> 00:38:30,260
+Elle vaut cher !
+
+656
+00:38:32,900 --> 00:38:34,200
+Missile lancé !
+
+657
+00:38:34,260 --> 00:38:36,530
+Impact dans 16, 15...
+
+658
+00:38:36,600 --> 00:38:37,660
+Le cobra !
+
+659
+00:38:39,130 --> 00:38:40,230
+KITT ! Envoie l'EMP !
+
+660
+00:38:40,300 --> 00:38:42,300
+Ça ne marchera pas sur une rockette
+à carburant. Envoie des missiles !
+
+661
+00:38:42,360 --> 00:38:43,430
+Ils ne l'auront jamais !
+
+662
+00:38:43,530 --> 00:38:44,930
+8...7...
+
+663
+00:38:45,100 --> 00:38:47,030
+Impact dans 5...
+
+664
+00:38:47,400 --> 00:38:48,330
+L'ampli !
+
+665
+00:38:48,400 --> 00:38:49,560
+Utiliser mon ampli,
+
+666
+00:38:49,630 --> 00:38:51,960
+pour parasiter la puce
+gyroscopique du missile,
+
+667
+00:38:52,030 --> 00:38:54,460
+va inverser la direction de K-17.
+
+668
+00:38:56,260 --> 00:38:57,500
+C'est ça ou Tchernobyl.
+
+669
+00:38:57,560 --> 00:39:00,030
+Activation de l'ampli en cours.
+
+670
+00:39:00,100 --> 00:39:01,130
+1...
+
+671
+00:39:02,300 --> 00:39:03,730
+Missile redirigé.
+
+672
+00:39:03,800 --> 00:39:06,030
+Amplification réussie.
+
+673
+00:39:06,200 --> 00:39:07,200
+Missile inversé.
+
+674
+00:39:07,460 --> 00:39:09,460
+Attendez ! Il retourne sur Mike !
+
+675
+00:39:13,930 --> 00:39:15,630
+Skyler on doit se casser d'ici !
+
+676
+00:39:17,800 --> 00:39:19,830
+Allez ! Allez !
+
+677
+00:39:19,900 --> 00:39:21,260
+Vivre libre ! Frère !
+
+678
+00:39:22,730 --> 00:39:24,400
+Que fais-tu ?
+
+679
+00:39:30,030 --> 00:39:31,000
+Mike !
+
+680
+00:39:32,660 --> 00:39:34,100
+Mike !
+
+681
+00:39:38,260 --> 00:39:39,630
+Mike !
+
+682
+00:39:47,730 --> 00:39:49,000
+Je vais bien !
+
+683
+00:40:07,730 --> 00:40:09,760
+Je viens de toucher un mot a la DHS. (departement
+of homeland security, la sécurité intérieure)
+
+684
+00:40:09,830 --> 00:40:11,460
+L'équipe de Skyler Rand et les Turners
+
+685
+00:40:11,530 --> 00:40:14,430
+sont tous emprisonnées dans une
+prison fédérale de hautes sécurités.
+
+686
+00:40:14,700 --> 00:40:15,700
+Ils en ont pour 10...
+
+687
+00:40:15,760 --> 00:40:17,300
+à 20 ans !
+
+688
+00:40:19,460 --> 00:40:20,760
+Quelqu'un veut fêter ça ?
+
+689
+00:40:20,830 --> 00:40:23,030
+Désolé on a une
+conférence avec la défense.
+
+690
+00:40:23,100 --> 00:40:26,030
+Il semble que maintenant
+ils veulent parler
+
+691
+00:40:26,100 --> 00:40:27,860
+de quelques cobras détournés.
+
+692
+00:40:38,160 --> 00:40:39,500
+J'ai du boulot !
+
+693
+00:40:41,360 --> 00:40:43,660
+Et j'ai un rendez-vous !
+
+694
+00:40:46,860 --> 00:40:48,430
+La revanche avec les pistolets ?
+
+695
+00:40:48,500 --> 00:40:49,530
+Charge-les à fond !
+
+696
+00:40:49,600 --> 00:40:50,730
+Yes !
+
+697
+00:40:50,800 --> 00:40:51,760
+Je prends Katie !
+
+698
+00:40:51,830 --> 00:40:53,230
+Pas d'échanges !
+
+699
+00:40:53,300 --> 00:40:54,630
+Finalement, Michael !
+
+700
+00:40:54,700 --> 00:40:58,200
+Lisa et Katie sont dans mon équipe !
+

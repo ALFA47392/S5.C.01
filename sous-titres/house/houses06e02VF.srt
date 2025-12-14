@@ -1,0 +1,3144 @@
+1
+00:00:24,886 --> 00:00:26,841
+<i>Les autres doivent être morts...</i>
+
+2
+00:00:28,103 --> 00:00:29,679
+<i>donc, on est en sous-nombre.</i>
+
+3
+00:00:30,154 --> 00:00:32,377
+<i>On doit former
+une parfaite puissance de feu.</i>
+
+4
+00:00:32,544 --> 00:00:34,550
+<i>Tu veux attaquer la cantine, non ?</i>
+
+5
+00:00:34,717 --> 00:00:38,549
+<i>Il y a deux caisses de grenades là-bas.
+C'est notre seule chance de sortie.</i>
+
+6
+00:00:39,105 --> 00:00:41,359
+<i>Vince, cet endroit
+est un piège mortel.</i>
+
+7
+00:00:43,016 --> 00:00:45,475
+<i>Heureusement pour toi,
+j'ai le méga-blaster.</i>
+
+8
+00:00:46,749 --> 00:00:47,999
+<i>Lee, va à droite.</i>
+
+9
+00:00:48,166 --> 00:00:49,233
+<i>Roy, en face.</i>
+
+10
+00:00:49,675 --> 00:00:50,925
+<i>Je vous couvre.</i>
+
+11
+00:01:06,736 --> 00:01:08,380
+<i>Où est ce tir de couverture ?</i>
+
+12
+00:01:09,901 --> 00:01:12,004
+<i>Méga-blaster, mec.
+Méga-blaster !</i>
+
+13
+00:01:18,879 --> 00:01:19,879
+<i>Je l'ai.</i>
+
+14
+00:01:20,330 --> 00:01:21,664
+<i>Vince, t'es où ?</i>
+
+15
+00:01:23,173 --> 00:01:24,916
+<i>J'arrive pas à m'en débarrasser !</i>
+
+16
+00:01:28,276 --> 00:01:30,172
+<i>Vince, enfoiré, t'es où ?</i>
+
+17
+00:01:32,426 --> 00:01:33,443
+<i>Putain !</i>
+
+18
+00:01:35,217 --> 00:01:36,417
+Putain, Vince.
+
+19
+00:01:39,474 --> 00:01:40,922
+Il te plaît pas ce sang ?
+
+20
+00:01:41,089 --> 00:01:43,766
+Je travaille toujours dessus.
+Le code est pas terrible.
+
+21
+00:01:44,141 --> 00:01:47,252
+Patron, t'aimes nous regarder
+nous faire massacrer ?
+
+22
+00:01:47,419 --> 00:01:50,810
+Je dis pas que c'est pas drôle,
+mais on le sort dans 3 mois.
+
+23
+00:01:57,488 --> 00:01:58,638
+Un problème ?
+
+24
+00:02:01,027 --> 00:02:02,027
+Mes mains.
+
+25
+00:02:02,803 --> 00:02:04,103
+Elles sont en feu.
+
+26
+00:02:06,918 --> 00:02:08,852
+.:: La Fabrique ::.
+
+27
+00:02:09,019 --> 00:02:10,588
+R[H]ésus AB+ Team
+
+28
+00:02:12,298 --> 00:02:14,115
+Synchro: ShalimarFox & Arrow
+
+29
+00:02:14,282 --> 00:02:17,992
+Adaptation : Raphelo2, Roomy, DeX,
+Sao, thiste, Venusia
+
+30
+00:02:18,159 --> 00:02:20,765
+Relecture : Elessar, Olaola, mpm
+
+31
+00:02:43,889 --> 00:02:46,248
+Votre EMG est normal.
+Ça exclut le canal carpien.
+
+32
+00:02:46,500 --> 00:02:49,017
+Pas de signe de trauma.
+Votre sang semble normal.
+
+33
+00:02:49,184 --> 00:02:51,081
+- Alors, c'est quoi ?
+- Je l'ignore.
+
+34
+00:02:51,248 --> 00:02:53,797
+- Je vous confie à un neurologue.
+- Un neurologue ?
+
+35
+00:02:54,049 --> 00:02:56,884
+Vous avez pas un diagnosticien réputé ?
+Il est où ?
+
+36
+00:02:57,874 --> 00:02:59,058
+Je démissionne.
+
+37
+00:03:07,146 --> 00:03:08,511
+Vous ne pouvez pas.
+
+38
+00:03:08,896 --> 00:03:10,648
+Vous me prenez pour Jake Gyllenhaal.
+
+39
+00:03:10,899 --> 00:03:12,428
+- Vous allez bien ?
+- Oui,
+
+40
+00:03:12,698 --> 00:03:13,984
+et je veux le rester.
+
+41
+00:03:14,328 --> 00:03:16,154
+J'en ai parlé à mon thérapeute.
+
+42
+00:03:16,404 --> 00:03:19,611
+- Je dois changer de milieu, de routine.
+- Mais il vous a rendu votre licence.
+
+43
+00:03:19,778 --> 00:03:22,075
+Ça va m'aider
+pour mon boulot de chercheur.
+
+44
+00:03:22,326 --> 00:03:23,654
+J'ai envoyé des CV.
+
+45
+00:03:23,821 --> 00:03:25,965
+Pas de patient,
+donc moins de pression.
+
+46
+00:03:26,132 --> 00:03:27,415
+Vous venez de sortir.
+
+47
+00:03:27,666 --> 00:03:29,458
+Vous avez pu y réfléchir ?
+
+48
+00:03:32,882 --> 00:03:33,882
+Désolé.
+
+49
+00:03:35,382 --> 00:03:37,392
+Je sais que ça vous affectera...
+
+50
+00:03:37,821 --> 00:03:38,821
+et 13...
+
+51
+00:03:39,719 --> 00:03:41,245
+et celui avec le nez.
+
+52
+00:03:43,526 --> 00:03:45,611
+Je peux pas risquer de revenir.
+
+53
+00:04:01,663 --> 00:04:02,699
+Surprenant.
+
+54
+00:04:09,683 --> 00:04:11,750
+Je veux diriger le département.
+
+55
+00:04:13,438 --> 00:04:15,723
+Vous avez pensé
+à attendre qu'il sorte,
+
+56
+00:04:15,890 --> 00:04:17,474
+avant de réclamer son poste ?
+
+57
+00:04:17,641 --> 00:04:20,428
+Il n'est ni mort ni sentimental
+et quelqu'un doit le faire.
+
+58
+00:04:20,595 --> 00:04:21,552
+Pas forcément.
+
+59
+00:04:22,524 --> 00:04:24,789
+Les départements de diagnostic
+n'existent pas.
+
+60
+00:04:24,956 --> 00:04:27,505
+On en a un uniquement pour House.
+
+61
+00:04:27,672 --> 00:04:30,477
+Vous nous avez réassignés,
+et payés pendant 3 mois.
+
+62
+00:04:30,838 --> 00:04:33,105
+- Donnez-moi une chance.
+- Vous êtes un bon médecin.
+
+63
+00:04:33,357 --> 00:04:34,815
+Je vous veux en neuro.
+
+64
+00:04:35,067 --> 00:04:36,054
+Mais House...
+
+65
+00:04:36,955 --> 00:04:39,104
+- était un génie.
+- C'était un égoïste,
+
+66
+00:04:39,271 --> 00:04:41,071
+un aimant à poursuites accro...
+
+67
+00:04:42,601 --> 00:04:43,657
+et un génie.
+
+68
+00:04:43,908 --> 00:04:46,119
+Et j'ai travaillé avec lui
+plus que quiconque.
+
+69
+00:04:46,650 --> 00:04:47,918
+Je peux le faire.
+
+70
+00:04:54,168 --> 00:04:55,650
+Vous avez une chance.
+
+71
+00:04:59,811 --> 00:05:01,234
+Que va faire House ?
+
+72
+00:05:01,401 --> 00:05:03,092
+Aucune idée, mais il est parti.
+
+73
+00:05:03,259 --> 00:05:05,736
+Et si on se concentrait
+sur la médecine ?
+
+74
+00:05:06,567 --> 00:05:07,438
+Quoi ?
+
+75
+00:05:07,907 --> 00:05:09,559
+T'es le patron.
+C'est sexy.
+
+76
+00:05:10,148 --> 00:05:11,999
+Je croyais que c'était le pantalon.
+
+77
+00:05:12,688 --> 00:05:15,588
+- Neuropathie diabétique ?
+- L'HBA1C est bonne.
+
+78
+00:05:17,282 --> 00:05:19,902
+- Ou une hypothyroïdie.
+- Ni fatigue ni prise de poids.
+
+79
+00:05:20,488 --> 00:05:23,053
+- Algoneurodystrophie ?
+- Bonne idée.
+
+80
+00:05:23,220 --> 00:05:24,781
+On part sur ça.
+Voyez ça.
+
+81
+00:05:25,033 --> 00:05:27,491
+- On y arrive sans House.
+- Mais il manque un truc.
+
+82
+00:05:27,658 --> 00:05:30,035
+Je suis petit, lui noir.
+Tu es un peu gay.
+
+83
+00:05:30,658 --> 00:05:32,492
+- C'est ça.
+- Traitez l'AND.
+
+84
+00:05:32,659 --> 00:05:35,000
+Préparez-le
+pour une stimulation spinale.
+
+85
+00:05:38,666 --> 00:05:41,137
+- J'y crois pas.
+- L'AND est méconnue...
+
+86
+00:05:41,304 --> 00:05:44,070
+C'est une intoxication au mercure.
+Je mange plein de sushis.
+
+87
+00:05:44,237 --> 00:05:47,478
+Vous lisez les critiques
+de <i>Speed-the-Plow</i> sur Broadway.
+
+88
+00:05:48,351 --> 00:05:49,192
+Cherchez.
+
+89
+00:05:49,359 --> 00:05:51,940
+C'est dur de manger assez de poisson
+pour s'intoxiquer,
+
+90
+00:05:52,107 --> 00:05:54,090
+et la douleur
+est pas le seul symptôme.
+
+91
+00:05:54,257 --> 00:05:57,225
+Mais c'est possible.
+Voyez l'<i>Atlantic Medical Journal</i>.
+
+92
+00:05:57,392 --> 00:05:59,881
+Ce gars ressentait des brûlures
+à cause...
+
+93
+00:06:00,219 --> 00:06:03,445
+d'une "érythromélalgie"
+due à une intoxication au mercure.
+
+94
+00:06:03,697 --> 00:06:06,842
+- Qui a besoin de docteur avec le net ?
+- Les médecins se trompent.
+
+95
+00:06:07,009 --> 00:06:08,742
+30 % d'erreurs médicales
+cette année.
+
+96
+00:06:08,993 --> 00:06:10,703
+Vérifiez celui des patients.
+
+97
+00:06:11,955 --> 00:06:13,600
+Il y a un tas d'infos ici.
+
+98
+00:06:13,767 --> 00:06:15,791
+Pourquoi ne pas m'instruire,
+être mon avocat ?
+
+99
+00:06:16,394 --> 00:06:18,085
+J'ai aussi trouvé l'AND.
+
+100
+00:06:18,336 --> 00:06:20,003
+Mais j'ai pas de dépigmentation,
+
+101
+00:06:20,255 --> 00:06:22,088
+et la douleur n'est pas continue.
+
+102
+00:06:23,124 --> 00:06:25,176
+Ça vaut bien un fichu test sanguin.
+
+103
+00:07:01,437 --> 00:07:03,964
+Tu sais que House
+déteste qu'on touche à sa boule.
+
+104
+00:07:04,716 --> 00:07:06,216
+Chase refuse d'en parler.
+
+105
+00:07:06,761 --> 00:07:08,844
+D'accord.
+Mon mari est gay, très fin.
+
+106
+00:07:09,478 --> 00:07:10,930
+Tu prends la relève de House.
+
+107
+00:07:11,574 --> 00:07:12,782
+Tu seras génial.
+
+108
+00:07:12,949 --> 00:07:13,932
+Félicitations.
+
+109
+00:07:14,990 --> 00:07:16,913
+- C'est temporaire.
+- Pour l'instant.
+
+110
+00:07:17,266 --> 00:07:18,909
+Taub et 13 le prennent bien ?
+
+111
+00:07:19,076 --> 00:07:21,023
+Il est plus âgé, elle t'a vu nu.
+
+112
+00:07:21,275 --> 00:07:23,389
+On travaille ensemble depuis 2 ans.
+
+113
+00:07:23,556 --> 00:07:26,319
+Travailler avec,
+c'est pas travailler pour.
+
+114
+00:07:27,789 --> 00:07:28,822
+T'as vu House.
+
+115
+00:07:29,389 --> 00:07:31,033
+- Comment était-il ?
+- Il était...
+
+116
+00:07:32,346 --> 00:07:33,161
+bien.
+
+117
+00:07:33,411 --> 00:07:35,663
+Il était honnête,
+il a été responsable.
+
+118
+00:07:35,914 --> 00:07:37,423
+C'était un peu bizarre.
+
+119
+00:07:38,536 --> 00:07:39,583
+13 est ici ?
+
+120
+00:07:39,835 --> 00:07:42,041
+Elle doit signer
+son transfert des urgences.
+
+121
+00:07:42,421 --> 00:07:44,468
+Elle et Taub font
+une stimulation spinale.
+
+122
+00:07:44,635 --> 00:07:45,505
+Non.
+
+123
+00:07:45,842 --> 00:07:48,169
+J'ai déposé un patient
+en salle de soins,
+
+124
+00:07:48,336 --> 00:07:50,060
+et ils n'y étaient pas.
+
+125
+00:07:55,521 --> 00:07:58,542
+En général, la stimulation spinale
+se fait en présence du patient.
+
+126
+00:07:58,709 --> 00:08:00,833
+Il veut être testé pour le mercure.
+
+127
+00:08:01,188 --> 00:08:04,086
+- Probable, mais pas impossible.
+- Ça n'était pas prévu.
+
+128
+00:08:04,253 --> 00:08:06,793
+Le test prend 20 min.
+C'est pas important.
+
+129
+00:08:06,960 --> 00:08:09,321
+C'est à moi de le décider.
+
+130
+00:08:09,573 --> 00:08:11,531
+Si tu as fini
+de marquer ton territoire...
+
+131
+00:08:12,900 --> 00:08:15,035
+J'ai les résultats.
+Surprise.
+
+132
+00:08:15,672 --> 00:08:17,245
+Marcus Webly avait tort.
+
+133
+00:08:18,277 --> 00:08:19,527
+Je m'en occupe.
+
+134
+00:08:24,128 --> 00:08:26,004
+Vous ne pensiez pas
+être si ébranlé ?
+
+135
+00:08:28,024 --> 00:08:29,674
+J'ai fait le bon choix.
+
+136
+00:08:31,457 --> 00:08:34,054
+Mais je sais pas comment m'occuper.
+Et ma jambe...
+
+137
+00:08:34,416 --> 00:08:36,363
+La douleur a augmenté
+depuis Mayfield.
+
+138
+00:08:36,530 --> 00:08:38,480
+L'ibuprofène me soulage à peine.
+
+139
+00:08:39,696 --> 00:08:41,686
+- Il vous faut un hobby.
+- Exact.
+
+140
+00:08:41,938 --> 00:08:45,114
+On soigne la douleur chronique
+en collectionnant des figurines.
+
+141
+00:08:45,281 --> 00:08:47,192
+Je ne parle pas d'un hobby stupide.
+
+142
+00:08:47,444 --> 00:08:49,736
+Il faut vous investir
+dans quelque chose,
+
+143
+00:08:49,988 --> 00:08:51,176
+vous lier aux autres.
+
+144
+00:08:51,343 --> 00:08:54,242
+J'ai déjà un coloc.
+Wilson a qu'une chambre.
+
+145
+00:08:54,492 --> 00:08:57,100
+Impossible d'être plus liés,
+sans ouvrir la braguette.
+
+146
+00:08:58,080 --> 00:09:00,455
+Alors, qu'aime faire Wilson ?
+
+147
+00:09:04,912 --> 00:09:07,619
+Vince, je suis le Dr Foreman,
+chef du service diagnostics.
+
+148
+00:09:07,786 --> 00:09:09,935
+C'est vous le remplaçant du génie.
+
+149
+00:09:10,102 --> 00:09:12,502
+Je préfère me qualifier
+de génie 2.0.
+
+150
+00:09:12,757 --> 00:09:14,302
+Ce n'est pas le mercure.
+
+151
+00:09:14,597 --> 00:09:16,096
+- Quel taux ?
+- 2,8.
+
+152
+00:09:16,348 --> 00:09:18,140
+- Par décilitre...
+- Je sais.
+
+153
+00:09:18,392 --> 00:09:19,864
+C'est plus que la normale.
+
+154
+00:09:20,031 --> 00:09:21,351
+Je veux une chélation.
+
+155
+00:09:22,183 --> 00:09:24,729
+Votre taux n'est pas assez élevé
+pour vos symptômes.
+
+156
+00:09:24,981 --> 00:09:27,357
+On le saura que s'il baisse
+et si ma douleur diminue.
+
+157
+00:09:27,609 --> 00:09:28,963
+C'est ma décision.
+
+158
+00:09:29,171 --> 00:09:31,027
+Basée sur dix ans de médecine ?
+
+159
+00:09:31,516 --> 00:09:34,252
+Je pense à une AND.
+Je veux tenter une stimulation spinale.
+
+160
+00:09:34,419 --> 00:09:38,350
+Vous voulez m'enfoncer une aiguille
+dans le dos sur la base d'une intuition.
+
+161
+00:09:39,486 --> 00:09:41,315
+Je vais garder la chélation.
+
+162
+00:09:43,690 --> 00:09:46,209
+Si vous ne voulez pas aller mieux,
+alors on a fini.
+
+163
+00:09:47,113 --> 00:09:48,813
+Comment ça, "fini" ?
+
+164
+00:09:49,437 --> 00:09:51,298
+Mon avis médical vous est égal.
+
+165
+00:09:51,550 --> 00:09:52,966
+Je passe au patient suivant.
+
+166
+00:09:53,218 --> 00:09:57,152
+Vous verrez un médecin prêt à faire
+tous les tests inutiles que vous voulez.
+
+167
+00:09:57,695 --> 00:09:59,598
+Ou vous pouvez rester et guérir.
+
+168
+00:10:01,726 --> 00:10:03,338
+Ça ne change rien pour moi.
+
+169
+00:10:05,596 --> 00:10:07,646
+Ravie que vous ayez changé d'avis.
+
+170
+00:10:08,249 --> 00:10:09,274
+Pas vraiment.
+
+171
+00:10:09,601 --> 00:10:11,651
+Le Dr Foreman m'a forcé la main,
+
+172
+00:10:12,740 --> 00:10:14,240
+c'est impressionnant.
+
+173
+00:10:14,948 --> 00:10:16,364
+Stimulation à 100 Hz.
+
+174
+00:10:16,616 --> 00:10:19,766
+Vous l'avez trouvé
+un peu plus persuasif que nous...
+
+175
+00:10:20,204 --> 00:10:21,767
+sans doute le pantalon.
+
+176
+00:10:22,179 --> 00:10:23,766
+Il me fait penser à moi.
+
+177
+00:10:25,321 --> 00:10:27,584
+- C'est censé faire mal ?
+- Pas si c'est bien fait.
+
+178
+00:10:27,836 --> 00:10:30,945
+- Ce sont vos mains ? Votre dos ?
+- Non, ma poitrine.
+
+179
+00:10:32,429 --> 00:10:33,739
+Je peux pas respirer.
+
+180
+00:10:34,468 --> 00:10:35,717
+Pouls à 140, en hausse.
+
+181
+00:10:36,303 --> 00:10:37,671
+Ne bougez pas.
+
+182
+00:10:37,838 --> 00:10:39,544
+Qu'avez-vous... fait ?
+
+183
+00:10:41,440 --> 00:10:42,349
+Respirez !
+
+184
+00:10:46,271 --> 00:10:48,188
+Ses poumons s'emplissent de liquide.
+
+185
+00:10:49,522 --> 00:10:53,336
+L'analyse du liquide des poumons
+montre un problème cardiaque.
+
+186
+00:10:53,503 --> 00:10:55,398
+Hypertrophie ventriculaire gauche.
+
+187
+00:10:55,565 --> 00:10:57,086
+Quand son coeur s'accélère,
+
+188
+00:10:57,253 --> 00:11:00,585
+la pression des poumons grimpe,
+causant un oedème pulmonaire.
+
+189
+00:11:00,752 --> 00:11:03,192
+J'ai bien fait d'opter
+pour la stimulation spinale.
+
+190
+00:11:03,359 --> 00:11:06,788
+Ça nous a menés à un autre symptôme
+et a éliminé l'intoxication.
+
+191
+00:11:06,955 --> 00:11:10,168
+On a eu de la chance,
+et on avait tort pour l'AND.
+
+192
+00:11:11,410 --> 00:11:13,063
+Hypertrophie plus neuropathie,
+
+193
+00:11:13,230 --> 00:11:15,590
+- maladie de Lyme ?
+- Pas sans douleur articulaires.
+
+194
+00:11:15,842 --> 00:11:17,175
+Quand sort son jeu ?
+
+195
+00:11:17,605 --> 00:11:19,552
+- Deux mois.
+- Il doit travailler dur.
+
+196
+00:11:19,950 --> 00:11:23,306
+- Il ne doit pas tourner qu'au café.
+- La coke explique les symptômes.
+
+197
+00:11:23,557 --> 00:11:25,657
+Donc on cherche de la drogue
+à son bureau.
+
+198
+00:11:27,008 --> 00:11:28,458
+On va lui demander.
+
+199
+00:11:32,898 --> 00:11:35,892
+De bien des manières,
+la cuisine ressemble à la musique.
+
+200
+00:11:36,300 --> 00:11:39,477
+Combinaison de différents éléments
+pour faire une symphonie.
+
+201
+00:11:40,297 --> 00:11:43,657
+Sauf que la <i>5e</i> de Beethoven
+ne finira pas aux toilettes demain.
+
+202
+00:11:44,289 --> 00:11:46,413
+Quelle était ma seule condition
+pour te permettre
+
+203
+00:11:46,665 --> 00:11:47,665
+de venir ?
+
+204
+00:11:47,905 --> 00:11:49,378
+Pas faire le connard.
+
+205
+00:11:49,545 --> 00:11:50,545
+J'essaie.
+
+206
+00:11:50,720 --> 00:11:51,970
+J'y arrive pas.
+
+207
+00:11:52,509 --> 00:11:55,018
+Fais tes boulettes
+et garde l'esprit ouvert.
+
+208
+00:11:59,851 --> 00:12:02,220
+Tu te retiens de faire une blague
+sur les boulettes ?
+
+209
+00:12:02,387 --> 00:12:03,471
+Elles fument.
+
+210
+00:12:05,077 --> 00:12:06,209
+Tes boulettes.
+
+211
+00:12:09,020 --> 00:12:11,938
+- Elles brunissent trop vite.
+- Faut pas qu'elles soient bleues.
+
+212
+00:12:12,190 --> 00:12:13,148
+Ça suffit.
+
+213
+00:12:14,091 --> 00:12:16,318
+Bon sang, l'intérieur est cru.
+
+214
+00:12:16,569 --> 00:12:18,573
+Le temps que ça cuise,
+tout sera brûlé.
+
+215
+00:12:18,740 --> 00:12:20,634
+Il y a un talc pour ça.
+
+216
+00:12:23,581 --> 00:12:24,631
+Quoique...
+
+217
+00:12:24,917 --> 00:12:26,418
+le vinaigre marcherait.
+
+218
+00:12:27,869 --> 00:12:29,748
+Mon prof de chimie disait
+
+219
+00:12:30,000 --> 00:12:32,981
+qu'on devrait pas se fier
+aux résultats d'un test HBA1C
+
+220
+00:12:33,148 --> 00:12:34,836
+sur un patient acidosique.
+
+221
+00:12:35,885 --> 00:12:37,802
+L'acide dans le sang
+freine la réaction
+
+222
+00:12:37,969 --> 00:12:40,550
+entre la protéine de l'hémoglobine
+et le glucose.
+
+223
+00:12:40,903 --> 00:12:42,802
+Cuire de la viande, c'est pareil,
+
+224
+00:12:43,054 --> 00:12:45,472
+donc l'acide devrait ralentir ça.
+
+225
+00:12:47,350 --> 00:12:48,450
+Ça se tient.
+
+226
+00:12:49,728 --> 00:12:52,296
+Tu as peut-être...
+sauvé mes boulettes.
+
+227
+00:12:52,463 --> 00:12:53,731
+C'est ça !
+
+228
+00:12:56,089 --> 00:12:57,942
+L'examen ne s'est pas passé
+comme prévu.
+
+229
+00:12:58,193 --> 00:13:00,738
+Pour le coeur, c'était imprévisible,
+mais je culpabilise.
+
+230
+00:13:01,155 --> 00:13:02,308
+Je suis désolé.
+
+231
+00:13:03,477 --> 00:13:05,416
+Depuis quand êtes-vous ensemble ?
+
+232
+00:13:07,033 --> 00:13:09,428
+On devrait s'en tenir
+aux rapports professionnels.
+
+233
+00:13:09,595 --> 00:13:12,177
+Difficile, depuis que je vous ai vue
+en bikini léopard.
+
+234
+00:13:12,344 --> 00:13:13,898
+Félicitations.
+Tope là.
+
+235
+00:13:16,129 --> 00:13:19,172
+- Vous hackez mon compte ?
+- J'ai failli avoir une crise cardiaque.
+
+236
+00:13:19,424 --> 00:13:21,841
+Je vérifiais si vous aviez
+ce qu'il faut avec les <i>cojones</i>.
+
+237
+00:13:22,093 --> 00:13:25,261
+D'un site à un autre... Y a une photo
+avec juste elle ? Un écran de veille ?
+
+238
+00:13:25,630 --> 00:13:27,181
+Vous prenez de la cocaïne ?
+
+239
+00:13:28,111 --> 00:13:30,683
+Mec, vous bloquez tout le monde
+ou vous n'avez que trois amis ?
+
+240
+00:13:30,935 --> 00:13:33,520
+Soyez franc.
+On doit pouvoir vous faire confiance.
+
+241
+00:13:35,443 --> 00:13:37,307
+Je suis clean depuis 12 ans...
+
+242
+00:13:38,755 --> 00:13:40,724
+après l'overdose de mon coloc.
+
+243
+00:13:52,393 --> 00:13:53,776
+Fouillez son bureau.
+
+244
+00:13:53,943 --> 00:13:56,620
+- Tu penses qu'il ment ?
+- Je n'en suis pas sûr.
+
+245
+00:13:56,787 --> 00:13:59,266
+Il aurait dit oui,
+ça nous aurait épargné le voyage.
+
+246
+00:13:59,433 --> 00:14:00,737
+C'est pas le cas.
+
+247
+00:14:02,482 --> 00:14:03,882
+Tu dois l'oublier.
+
+248
+00:14:04,327 --> 00:14:06,027
+- Le patient ?
+- House.
+
+249
+00:14:06,389 --> 00:14:08,441
+D'abord, tu l'imites.
+Sans succès.
+
+250
+00:14:08,608 --> 00:14:10,006
+Puis, le contraire.
+
+251
+00:14:10,173 --> 00:14:12,904
+Là, ça t'énerve
+d'avoir à utiliser ses méthodes.
+
+252
+00:14:13,820 --> 00:14:15,675
+Je suis
+comme le remplaçant de Tom Brady.
+
+253
+00:14:15,842 --> 00:14:18,102
+Il gagne des millions maintenant.
+
+254
+00:14:18,517 --> 00:14:19,767
+Te compare pas.
+
+255
+00:14:20,271 --> 00:14:22,216
+Tu peux y arriver
+en restant toi-même.
+
+256
+00:14:22,864 --> 00:14:25,845
+On devrait fouiller son bureau
+et parler à ses collègues.
+
+257
+00:14:26,012 --> 00:14:27,115
+Je cherche Taub.
+
+258
+00:14:27,367 --> 00:14:28,187
+Et...
+
+259
+00:14:29,335 --> 00:14:30,233
+merci.
+
+260
+00:14:32,205 --> 00:14:34,292
+- Resto, ce soir à 19 h.
+- Plutôt 20 h ?
+
+261
+00:14:34,459 --> 00:14:36,082
+J'ai déjà réservé.
+
+262
+00:14:43,296 --> 00:14:44,722
+Je fais des gnocchis.
+
+263
+00:14:49,514 --> 00:14:51,726
+Je ne veux pas déranger.
+Je voulais...
+
+264
+00:14:51,893 --> 00:14:53,898
+Cecile est à mon cours de cuisine.
+
+265
+00:14:54,461 --> 00:14:56,261
+Elle parle pas anglais.
+
+266
+00:14:57,684 --> 00:14:59,273
+C'est qui, cette souris ?
+
+267
+00:15:00,900 --> 00:15:02,050
+Missionnaire.
+
+268
+00:15:03,066 --> 00:15:05,987
+Passer les patates au four donne
+moins d'eau que de les faire bouillir,
+
+269
+00:15:06,239 --> 00:15:08,454
+moins de gluten,
+et des gnocchis plus légers.
+
+270
+00:15:08,621 --> 00:15:10,783
+- Vous avez l'air bien.
+- Je me sens mieux.
+
+271
+00:15:11,035 --> 00:15:12,781
+Si c'est une missionnaire,
+
+272
+00:15:12,948 --> 00:15:15,440
+pourquoi est-elle habillée
+comme une prostituée ?
+
+273
+00:15:15,607 --> 00:15:17,457
+Je parlais de la position.
+
+274
+00:15:18,877 --> 00:15:20,613
+Je dois vous parler de votre départ.
+
+275
+00:15:20,780 --> 00:15:23,255
+J'aime être supplié,
+mais ma décision est prise.
+
+276
+00:15:23,422 --> 00:15:24,346
+Ça me va,
+
+277
+00:15:24,513 --> 00:15:26,490
+tant que ce n'est pas
+à cause de moi.
+
+278
+00:15:26,657 --> 00:15:28,763
+Je sais que ça a l'air
+très narcissique...
+
+279
+00:15:31,218 --> 00:15:32,388
+Mais c'est pas ça.
+
+280
+00:15:32,639 --> 00:15:34,224
+On a flirté, on s'est embrassés.
+
+281
+00:15:34,596 --> 00:15:35,749
+J'ai peloté.
+
+282
+00:15:36,535 --> 00:15:39,718
+J'ai halluciné sur une nuit avec vous
+et je l'ai hurlé dans l'hôpital.
+
+283
+00:15:40,198 --> 00:15:41,565
+Vous êtes pas narcissique.
+
+284
+00:15:42,488 --> 00:15:43,483
+Alors, quoi ?
+
+285
+00:15:44,912 --> 00:15:46,652
+Pas la raison de mon départ.
+
+286
+00:15:53,789 --> 00:15:55,119
+Vous me manquerez.
+
+287
+00:15:56,899 --> 00:15:58,665
+Embrassez-le ou sortez.
+
+288
+00:15:59,038 --> 00:16:00,338
+On a du travail.
+
+289
+00:16:01,340 --> 00:16:04,295
+- Tu pouvais pas te taire.
+- Fais ces satanés gnocchis.
+
+290
+00:16:14,154 --> 00:16:16,797
+<i>T'as pas l'air pressée
+de retourner au boulot.</i>
+
+291
+00:16:16,964 --> 00:16:17,964
+<i>Tu l'es ?</i>
+
+292
+00:16:24,099 --> 00:16:26,229
+J'essaye pas d'éviter mon petit ami.
+
+293
+00:16:27,445 --> 00:16:29,324
+<i>Je suis un lézard, pas abruti.</i>
+
+294
+00:16:29,879 --> 00:16:31,708
+Tu fais la tête
+depuis qu'on est partis.
+
+295
+00:16:32,159 --> 00:16:34,243
+Et ça te va d'être commandé
+
+296
+00:16:34,410 --> 00:16:37,380
+par quelqu'un qui était ton égal,
+y a même pas 24 h.
+
+297
+00:16:38,001 --> 00:16:40,206
+Moi, je n'attendais rien d'autre.
+
+298
+00:16:40,832 --> 00:16:43,126
+Au travail, je peux m'y faire.
+
+299
+00:16:43,508 --> 00:16:45,169
+Il ne m'a pas invitée au resto.
+
+300
+00:16:45,421 --> 00:16:47,075
+<i>Il m'a dit qu'on y allait.</i>
+
+301
+00:16:48,741 --> 00:16:51,843
+- Il n'avait jamais fait ça.
+- Rends-lui la pareille.
+
+302
+00:16:52,095 --> 00:16:53,219
+En rentrant,
+
+303
+00:16:53,471 --> 00:16:56,246
+<i>mets des talons hauts et dompte-le.
+Tu te sentiras mieux.</i>
+
+304
+00:16:57,708 --> 00:16:58,708
+Quoi ?
+
+305
+00:17:00,100 --> 00:17:01,102
+Ça, c'est...
+
+306
+00:17:02,070 --> 00:17:03,720
+<i>un putain de gros piaf.</i>
+
+307
+00:17:12,589 --> 00:17:13,740
+<i>C'est épatant.</i>
+
+308
+00:17:13,992 --> 00:17:16,034
+Leur façon de bouger
+est si réaliste.
+
+309
+00:17:16,286 --> 00:17:17,544
+<i>Vire-les de moi !</i>
+
+310
+00:17:19,150 --> 00:17:22,000
+Je sais ce qu'a le patient.
+J'appelle Foreman.
+
+311
+00:17:24,635 --> 00:17:25,735
+À l'aide.
+
+312
+00:17:27,517 --> 00:17:30,199
+Vous avez étudié des oiseaux
+pour parfaire l'animation.
+
+313
+00:17:30,366 --> 00:17:32,539
+- Vous les avez touchés ?
+- Je les ai disséqués.
+
+314
+00:17:32,706 --> 00:17:35,511
+- Pour mieux comprendre l'anatomie.
+- Et attraper une infection
+
+315
+00:17:35,678 --> 00:17:36,917
+appelée psittacose.
+
+316
+00:17:37,084 --> 00:17:39,474
+Le Dr Foreman veut vous mettre
+sous antibiotiques.
+
+317
+00:17:39,726 --> 00:17:42,291
+Ça peut causer des problèmes à...
+
+318
+00:17:42,594 --> 00:17:43,770
+mon joystick ?
+
+319
+00:17:44,146 --> 00:17:47,129
+- Je suis bloqué en mode jeu.
+- On a compris.
+
+320
+00:17:47,475 --> 00:17:49,192
+- Elle est très jolie.
+- Pas elle.
+
+321
+00:17:49,444 --> 00:17:50,928
+Enfin, c'était elle...
+
+322
+00:17:51,397 --> 00:17:53,321
+quand elle était là
+il y a trois heures.
+
+323
+00:17:54,246 --> 00:17:56,199
+Vous avez une érection
+depuis trois heures ?
+
+324
+00:17:58,285 --> 00:18:00,495
+C'était gênant,
+mais là, ça fait mal.
+
+325
+00:18:00,863 --> 00:18:03,304
+- Les antibiotiques aideront ?
+- Je crains que non.
+
+326
+00:18:03,471 --> 00:18:05,150
+Ce n'est pas la psittacose.
+
+327
+00:18:08,711 --> 00:18:10,463
+Le traitement n'arrangeait rien.
+
+328
+00:18:10,715 --> 00:18:12,983
+On a dû poser un drain,
+pour évacuer le sang.
+
+329
+00:18:13,150 --> 00:18:15,218
+Tu n'étais pas au resto, et un drain
+
+330
+00:18:15,470 --> 00:18:17,637
+- peut être posé seul.
+- Je me suis dévouée.
+
+331
+00:18:17,999 --> 00:18:20,252
+On a la triplette :
+palpitant, paluche et pénis.
+
+332
+00:18:20,419 --> 00:18:23,485
+- Peut-être Guillain-Barré ?
+- La conduction nerveuse est normale.
+
+333
+00:18:24,355 --> 00:18:25,312
+Thrombocytose.
+
+334
+00:18:25,563 --> 00:18:27,282
+Son taux de plaquette est pas élevé.
+
+335
+00:18:27,449 --> 00:18:29,381
+La tumeur cérébrale
+est plus logique.
+
+336
+00:18:31,047 --> 00:18:33,065
+Désolé.
+Je viens de remarquer...
+
+337
+00:18:33,419 --> 00:18:35,282
+raideur et raideur.
+
+338
+00:18:36,800 --> 00:18:39,117
+Sérieusement.
+C'est pas lié à la tension
+
+339
+00:18:39,369 --> 00:18:40,669
+entre vous deux.
+
+340
+00:18:42,862 --> 00:18:45,034
+L'érection indique
+un problème circulatoire.
+
+341
+00:18:45,201 --> 00:18:46,999
+Une tumeur cérébrale peut causer...
+
+342
+00:18:47,251 --> 00:18:48,970
+On traite la thrombocytose.
+
+343
+00:18:54,783 --> 00:18:58,031
+Tout ça pour une invitation à dîner ?
+Depuis quand on est ensemble ?
+
+344
+00:18:58,198 --> 00:19:01,325
+- On aurait dit un ordre. Le ton...
+- Mon ton ?
+
+345
+00:19:01,492 --> 00:19:03,474
+Je suis sous pression.
+Si tu compatissais ?
+
+346
+00:19:03,747 --> 00:19:05,354
+C'est dur pour nous deux,
+
+347
+00:19:05,521 --> 00:19:07,535
+sauf que moi, j'ai pas été promue.
+
+348
+00:19:07,806 --> 00:19:09,139
+Alors, t'es jalouse.
+
+349
+00:19:09,306 --> 00:19:11,144
+Je dis juste, ne te plains pas
+
+350
+00:19:11,311 --> 00:19:13,484
+de devoir diriger tes employés.
+
+351
+00:19:13,821 --> 00:19:15,674
+Je me plaignais à ma petite amie.
+
+352
+00:19:17,155 --> 00:19:18,205
+C'est qui ?
+
+353
+00:19:19,372 --> 00:19:20,622
+Aucune idée.
+
+354
+00:19:26,462 --> 00:19:27,613
+Vos compétiteurs.
+
+355
+00:19:27,780 --> 00:19:29,667
+Steve Paulson.
+Neurologue à St Mark.
+
+356
+00:19:30,124 --> 00:19:32,177
+- Enchanté.
+- Vous consultez un autre médecin ?
+
+357
+00:19:32,344 --> 00:19:34,756
+Plein.
+J'ai blogué mes symptômes.
+
+358
+00:19:35,151 --> 00:19:37,458
+Vous êtes à zéro sur deux.
+Je vous ai trouvé de l'aide.
+
+359
+00:19:37,625 --> 00:19:40,135
+Je peux vous guérir
+avec mon détoxifiant à la papaye.
+
+360
+00:19:40,302 --> 00:19:42,306
+395 dollars par mois.
+
+361
+00:19:42,967 --> 00:19:45,014
+Lui, il craint.
+Mais pas tous.
+
+362
+00:19:45,181 --> 00:19:47,494
+Aucun de vous n'a d'autorité ici.
+
+363
+00:19:47,661 --> 00:19:48,686
+Allez-vous-en.
+
+364
+00:19:49,397 --> 00:19:50,397
+Maintenant.
+
+365
+00:19:51,816 --> 00:19:53,649
+Désolé pour le dérangement,
+
+366
+00:19:53,901 --> 00:19:56,319
+mais je vois que vous n'avez pas fait
+d'IRM de sa tête.
+
+367
+00:19:56,571 --> 00:19:58,780
+- Il n'en a pas besoin.
+- Je pense à une tumeur.
+
+368
+00:19:59,196 --> 00:20:02,104
+On l'a envisagé
+et conclu à une thrombocytose.
+
+369
+00:20:02,271 --> 00:20:03,951
+Je le mets sous hydroxyurée.
+
+370
+00:20:04,203 --> 00:20:06,204
+Ses plaquettes
+ne sont pas assez élevées.
+
+371
+00:20:06,519 --> 00:20:09,582
+- Si vous preniez une image...
+- Pas d'hypertension intra-crânienne.
+
+372
+00:20:09,834 --> 00:20:12,377
+- Je commence le traitement.
+- Il faut décider. Dr Hadley,
+
+373
+00:20:12,627 --> 00:20:13,802
+votre opinion ?
+
+374
+00:20:15,963 --> 00:20:17,507
+Les deux théories se valent.
+
+375
+00:20:18,175 --> 00:20:19,051
+Tumeur.
+
+376
+00:20:19,301 --> 00:20:21,260
+Sinon, vous soutiendriez
+votre boss/copain.
+
+377
+00:20:22,236 --> 00:20:23,436
+Je veux une IRM.
+
+378
+00:20:26,610 --> 00:20:28,210
+Bien.
+Je prépare ça.
+
+379
+00:20:36,585 --> 00:20:37,791
+Super. T'es debout.
+
+380
+00:20:37,958 --> 00:20:39,404
+J'ai besoin d'un goûteur.
+
+381
+00:20:40,251 --> 00:20:42,031
+Ragoût aux saucisses,
+
+382
+00:20:42,283 --> 00:20:44,011
+cuisse de boeuf, sans crème.
+
+383
+00:20:47,436 --> 00:20:48,836
+Il est un peu tôt.
+
+384
+00:20:56,367 --> 00:20:58,971
+- Tu t'es couché cette nuit ?
+- C'est pour les fiottes,
+
+385
+00:20:59,780 --> 00:21:01,880
+sauf pour le sexe, auquel cas...
+
+386
+00:21:02,452 --> 00:21:04,095
+Non, c'est pour les fiottes.
+
+387
+00:21:04,347 --> 00:21:06,905
+Ça te paraît pas
+un peu obsessionnel ?
+
+388
+00:21:07,144 --> 00:21:09,058
+T'aurais dû me voir
+découper le boeuf.
+
+389
+00:21:09,377 --> 00:21:10,561
+Je suis un toxico.
+
+390
+00:21:10,811 --> 00:21:12,270
+Je fais tout à 200 %.
+
+391
+00:21:12,522 --> 00:21:14,818
+Je pensais
+que t'essayais de te modérer.
+
+392
+00:21:15,358 --> 00:21:18,442
+Il me fallait un hobby à faire à 200 %
+sans m'éclater les tympans.
+
+393
+00:21:18,694 --> 00:21:20,385
+Badiane aux oignons caramélisés.
+
+394
+00:21:20,552 --> 00:21:23,253
+Les composés sulfurés
+font ressortir le goût de la viande.
+
+395
+00:21:26,644 --> 00:21:28,687
+Ma jambe m'a empêché de dormir.
+
+396
+00:21:29,520 --> 00:21:32,385
+C'était soit faire du ragoût,
+soit sortir chercher un fix.
+
+397
+00:21:37,309 --> 00:21:38,309
+Bon choix.
+
+398
+00:21:39,095 --> 00:21:41,340
+Très, très bon.
+
+399
+00:21:49,919 --> 00:21:52,956
+- Il m'a demandé, j'ai répondu.
+- Tu m'as dit de décider.
+
+400
+00:21:53,123 --> 00:21:55,897
+- Je le fais, et tu me trahis.
+- J'ai pas dit ce que je pensais.
+
+401
+00:21:56,149 --> 00:21:58,225
+J'ai transigé, et j'aime pas ça.
+
+402
+00:21:58,392 --> 00:22:01,152
+- Si j'ai une opinion légitime...
+- Donne-la en privé.
+
+403
+00:22:01,535 --> 00:22:03,755
+En public, l'opinion de l'équipe,
+c'est la tienne.
+
+404
+00:22:03,922 --> 00:22:06,073
+Sauf que l'opinion de l'équipe,
+c'est la tienne.
+
+405
+00:22:07,009 --> 00:22:08,659
+- C'est mon job.
+- Et le mien,
+
+406
+00:22:08,911 --> 00:22:11,208
+c'est de mentir
+quand on me questionne ?
+
+407
+00:22:12,703 --> 00:22:16,125
+Tu l'aurais fait pour House.
+Tu veux peut-être que je me plante.
+
+408
+00:22:16,377 --> 00:22:17,712
+Tu te venges peut-être
+
+409
+00:22:17,879 --> 00:22:20,235
+pour cette histoire
+d'invitation à dîner.
+
+410
+00:22:20,819 --> 00:22:23,245
+Au moins,
+quand House était un connard,
+
+411
+00:22:23,412 --> 00:22:25,173
+je pouvais en parler à mon copain.
+
+412
+00:22:25,340 --> 00:22:27,860
+Je suis peut-être un connard,
+mais tu as tort.
+
+413
+00:22:28,027 --> 00:22:29,184
+L'IRM est clean.
+
+414
+00:22:30,235 --> 00:22:32,183
+Traite-le pour une thrombocytose.
+
+415
+00:22:38,479 --> 00:22:39,733
+Vous êtes en avance.
+
+416
+00:22:41,075 --> 00:22:42,167
+Pour quoi ?
+
+417
+00:22:42,464 --> 00:22:45,009
+Je savais que vous viendriez
+vous plaindre de Foreman.
+
+418
+00:22:45,571 --> 00:22:48,341
+Je pensais que vous auriez tenu
+encore une semaine.
+
+419
+00:22:48,508 --> 00:22:51,724
+Avez-vous déjà vu une thrombocytose
+avec un taux de plaquettes sous...
+
+420
+00:22:51,891 --> 00:22:54,221
+Je suis devenu fou, pas stupide.
+
+421
+00:22:54,863 --> 00:22:58,167
+Je pars, Foreman
+découvre son côté Mugabe.
+
+422
+00:22:59,266 --> 00:23:02,213
+- C'est quoi ?
+- Embryonali... oeuf de poule non éclos.
+
+423
+00:23:03,589 --> 00:23:06,592
+Je vais aspirer une partie du jaune
+et le remplacer par du ragoût.
+
+424
+00:23:07,025 --> 00:23:10,888
+Au fait, dites aux autres lépreux
+que leur absence est bien notée.
+
+425
+00:23:11,139 --> 00:23:13,726
+- Cameron est pas venue ?
+- La fifille à son papa
+
+426
+00:23:13,893 --> 00:23:15,093
+a bien grandi.
+
+427
+00:23:16,209 --> 00:23:19,422
+Elle fait place à la bisexuelle
+à son papa aux problèmes de couple.
+
+428
+00:23:19,589 --> 00:23:21,748
+C'est pas un problème.
+C'est...
+
+429
+00:23:24,114 --> 00:23:25,444
+OK, c'est un problème.
+
+430
+00:23:26,415 --> 00:23:28,422
+Je sais.
+Le patient est une calamité.
+
+431
+00:23:28,589 --> 00:23:32,034
+Il a publié son cas en ligne.
+Vous connaissez Foreman.
+
+432
+00:23:32,286 --> 00:23:33,577
+Donc, vous savez.
+
+433
+00:23:33,829 --> 00:23:35,596
+Comment je peux le calmer ?
+
+434
+00:23:35,763 --> 00:23:38,750
+- Arrêtez d'être lâche, déjà.
+- C'est lui qui a peur de l'échec.
+
+435
+00:23:38,917 --> 00:23:41,225
+Un job qu'aucun avant moi
+n'a jamais pratiqué.
+
+436
+00:23:41,495 --> 00:23:43,182
+Ses peurs sont justifiées.
+
+437
+00:23:43,441 --> 00:23:46,522
+Vous avez peur de perdre le contrôle.
+C'est justifié, à la maison.
+
+438
+00:23:46,689 --> 00:23:48,552
+Mais ça rend son boulot impossible.
+
+439
+00:23:49,020 --> 00:23:50,586
+Passez-moi les crackers.
+
+440
+00:23:51,981 --> 00:23:54,239
+D'après vous, tout est de ma faute ?
+
+441
+00:23:54,406 --> 00:23:55,406
+Je dis...
+
+442
+00:23:56,838 --> 00:23:59,645
+que vous seriez plus heureuse,
+si vous appreniez quand céder.
+
+443
+00:24:02,358 --> 00:24:04,939
+- Quoi ?
+- Vous me dites de céder
+
+444
+00:24:05,106 --> 00:24:06,756
+pour être heureuse.
+
+445
+00:24:07,374 --> 00:24:09,084
+Qu'est-ce qu'ils vous ont fait ?
+
+446
+00:24:09,299 --> 00:24:10,349
+Goûtez ça.
+
+447
+00:24:26,906 --> 00:24:29,518
+C'est peut-être le meilleur truc
+que j'aie jamais mangé.
+
+448
+00:24:31,364 --> 00:24:33,472
+Y compris ce à quoi vous pensez.
+
+449
+00:24:34,306 --> 00:24:36,006
+Vous êtes un super cuisinier !
+
+450
+00:24:37,614 --> 00:24:38,614
+Je sais.
+
+451
+00:24:41,532 --> 00:24:43,481
+Pourtant, ma jambe me fait mal.
+
+452
+00:24:45,991 --> 00:24:47,976
+- Vire-la.
+- Je vais pas la virer.
+
+453
+00:24:48,143 --> 00:24:50,458
+- Alors, fais pas ta chochotte.
+- Je la fais pas.
+
+454
+00:24:50,625 --> 00:24:52,459
+Te contester fait partie de son job.
+
+455
+00:24:52,626 --> 00:24:54,572
+Elle le fait
+et tu le prends pour toi.
+
+456
+00:24:54,739 --> 00:24:56,783
+D'après toi, tout est de ma faute ?
+
+457
+00:24:57,256 --> 00:24:59,576
+J'essayais d'être subtil, mais, oui.
+
+458
+00:24:59,743 --> 00:25:02,386
+Soit tu élimines la contestation,
+soit la réaction.
+
+459
+00:25:02,553 --> 00:25:04,919
+Ou on reste sur mon plan de départ.
+
+460
+00:25:05,171 --> 00:25:07,467
+On se soûle,
+et on se plaint des femmes.
+
+461
+00:25:09,564 --> 00:25:11,684
+Le problème va s'évaporer tout seul.
+
+462
+00:25:20,932 --> 00:25:22,319
+Il est 8 h du matin.
+
+463
+00:25:22,857 --> 00:25:23,984
+Glace au café.
+
+464
+00:25:24,901 --> 00:25:26,191
+Pas de frittata ?
+
+465
+00:25:26,441 --> 00:25:27,726
+Pas de bombolini ?
+
+466
+00:25:27,893 --> 00:25:30,761
+J'ai réfléchi à ce que tu m'as dit
+sur mon obsession.
+
+467
+00:25:30,928 --> 00:25:32,908
+J'ai fait une obsession
+sur mon obsession.
+
+468
+00:25:33,075 --> 00:25:35,616
+- Alors, j'ai pris ma journée.
+- Tu aimais cuisiner.
+
+469
+00:25:37,093 --> 00:25:38,510
+C'est tellement macho
+
+470
+00:25:38,677 --> 00:25:42,498
+de penser que j'aime me tuer à la tâche
+tandis que tu sautes des secrétaires.
+
+471
+00:25:42,750 --> 00:25:44,925
+Tu disais que ça t'évitait
+de penser à la douleur.
+
+472
+00:25:45,092 --> 00:25:48,437
+C'était avant de découvrir le marathon
+<i>J'ai Décidé de Maigrir</i> sur le câble.
+
+473
+00:25:48,833 --> 00:25:50,858
+J'aime imaginer
+qu'ils me voient manger.
+
+474
+00:25:52,860 --> 00:25:53,884
+Ta jambe ?
+
+475
+00:25:54,524 --> 00:25:55,511
+Ça va.
+
+476
+00:26:00,184 --> 00:26:01,642
+Ma jambe me tue.
+
+477
+00:26:02,895 --> 00:26:04,441
+La cuisine a aidé un temps.
+
+478
+00:26:04,608 --> 00:26:05,896
+Je m'en suis lassé.
+
+479
+00:26:06,148 --> 00:26:07,407
+La douleur est revenue.
+
+480
+00:26:07,574 --> 00:26:09,483
+Ça m'a inquiété et ça s'est aggravé.
+
+481
+00:26:10,133 --> 00:26:11,533
+Inquiété par quoi ?
+
+482
+00:26:12,000 --> 00:26:13,572
+Que rien ne fasse effet.
+
+483
+00:26:14,115 --> 00:26:16,165
+Que je finisse au fond du trou.
+
+484
+00:26:19,142 --> 00:26:20,257
+Je vais bien.
+
+485
+00:26:21,867 --> 00:26:24,374
+- Mais je suis pas heureux.
+- Vous n'êtes pas sorti pour ça.
+
+486
+00:26:24,624 --> 00:26:26,918
+Mais parce que j'estime
+que vous pouvez le supporter.
+
+487
+00:26:27,798 --> 00:26:30,255
+Vous avez tenté une activité.
+Ça n'a pas marché.
+
+488
+00:26:30,505 --> 00:26:31,537
+Rebondissez.
+
+489
+00:26:32,206 --> 00:26:34,592
+- Écrivez. Jouez aux échecs.
+- Et si rien ne marche ?
+
+490
+00:26:34,948 --> 00:26:36,970
+Si ça me soulageait quelques jours,
+
+491
+00:26:37,137 --> 00:26:39,087
+puis mon cerveau
+cherchait autre chose,
+
+492
+00:26:39,254 --> 00:26:41,891
+avant que j'aie l'impression
+qu'on me charcute la jambe.
+
+493
+00:26:42,058 --> 00:26:43,487
+Qu'est-ce que je ferais ?
+
+494
+00:26:44,223 --> 00:26:47,123
+Si rien au monde
+ne retient votre attention,
+
+495
+00:26:48,641 --> 00:26:50,447
+on s'en occupera en temps voulu.
+
+496
+00:26:50,614 --> 00:26:53,401
+Mais faites-moi confiance,
+vous devez être patient.
+
+497
+00:26:59,383 --> 00:27:01,008
+Je t'ai apporté un donut.
+
+498
+00:27:02,198 --> 00:27:03,848
+Le fleuriste était fermé.
+
+499
+00:27:05,001 --> 00:27:07,439
+Je prends un vase
+et je le mets dans l'eau.
+
+500
+00:27:12,216 --> 00:27:14,016
+Je suis désolé, tu le sais ?
+
+501
+00:27:15,440 --> 00:27:16,440
+Moi aussi.
+
+502
+00:27:18,248 --> 00:27:19,498
+Tu penses...
+
+503
+00:27:21,990 --> 00:27:23,393
+qu'on peut recommencer ?
+
+504
+00:27:24,339 --> 00:27:25,643
+C'est une bonne idée.
+
+505
+00:27:31,457 --> 00:27:34,112
+- On va être en retard.
+- Ton patron ne dira rien.
+
+506
+00:27:39,419 --> 00:27:40,419
+Pas ça.
+
+507
+00:27:43,635 --> 00:27:46,592
+Ses ganglions ont éclaté.
+Il a été traité pour une thrombocytose
+
+508
+00:27:46,759 --> 00:27:48,148
+sans amélioration.
+
+509
+00:27:48,315 --> 00:27:50,542
+- J'avais tort.
+- Vous êtes un génie.
+
+510
+00:27:50,794 --> 00:27:53,208
+- Je l'ajoute à ma liste.
+- Ça n'a rien donné.
+
+511
+00:27:53,375 --> 00:27:55,084
+Je voyais pas assez grand.
+
+512
+00:27:55,251 --> 00:27:57,281
+Maintenant, j'offre 25 000 dollars.
+
+513
+00:28:48,161 --> 00:28:49,994
+Les stéroïdes
+ont réduit la dilatation.
+
+514
+00:28:50,161 --> 00:28:52,286
+La dilatation infirmant
+une thrombocytose.
+
+515
+00:28:52,453 --> 00:28:54,438
+Comment autant de gens
+ont eu mon e-mail ?
+
+516
+00:28:54,605 --> 00:28:56,400
+Internet est un endroit magique.
+
+517
+00:28:57,568 --> 00:29:00,568
+La dilation des ganglions
+m'inspire une polyarthrite...
+
+518
+00:29:00,770 --> 00:29:01,820
+Tu disais ?
+
+519
+00:29:03,460 --> 00:29:06,577
+Traiter les symptômes
+plutôt que la maladie, c'est inutile.
+
+520
+00:29:08,506 --> 00:29:11,792
+- Vous avez un tas de réponses. Voyons.
+- Je l'ai fait.
+
+521
+00:29:11,959 --> 00:29:14,169
+Syndrome paranéoplasique
+d'une tumeur de la colonne.
+
+522
+00:29:14,419 --> 00:29:17,671
+Pas d'hypercalcémie,
+de spasmes, ou d'incontinence.
+
+523
+00:29:17,923 --> 00:29:19,758
+Possédé par un démon nommé "Légion".
+
+524
+00:29:20,237 --> 00:29:23,219
+- Pas de chute parmi les porcs.
+- Sinon, ça collait.
+
+525
+00:29:23,469 --> 00:29:25,750
+- Maladie de Grave ?
+- La thyroïde est normale.
+
+526
+00:29:25,917 --> 00:29:27,924
+Devons-nous réfuter chaque théorie
+
+527
+00:29:28,091 --> 00:29:30,559
+ou on fait notre boulot
+pour trouver ce qui cloche ?
+
+528
+00:29:30,811 --> 00:29:32,853
+Je veux être testé
+pour une amyloïdose.
+
+529
+00:29:33,653 --> 00:29:36,274
+- Votre avis de professionnel ?
+- La sagesse des foules.
+
+530
+00:29:36,525 --> 00:29:38,408
+La décision d'un groupe
+
+531
+00:29:38,575 --> 00:29:40,976
+est plus juste
+que celle d'un individu.
+
+532
+00:29:41,143 --> 00:29:43,730
+D'après mes e-mails,
+l'amyloïdose a le plus de votes.
+
+533
+00:29:43,897 --> 00:29:47,284
+Si vous en aviez une,
+votre ultrason cardiaque serait taché.
+
+534
+00:29:47,536 --> 00:29:49,304
+Dans 100 % des cas ?
+
+535
+00:29:51,422 --> 00:29:53,123
+D'accord.
+Faisons un marché.
+
+536
+00:29:53,374 --> 00:29:55,315
+On biopsie votre rein.
+
+537
+00:29:55,482 --> 00:29:56,544
+Si c'est négatif,
+
+538
+00:29:56,794 --> 00:29:59,297
+vous enlevez votre cas d'internet
+ainsi que la récompense.
+
+539
+00:30:00,139 --> 00:30:02,163
+C'est ça, ou je ne vous teste pas.
+
+540
+00:30:04,057 --> 00:30:04,968
+D'accord.
+
+541
+00:30:15,809 --> 00:30:18,169
+Si tu voulais un 5 à 7,
+Il fallait appeler avant.
+
+542
+00:30:18,336 --> 00:30:19,635
+Je suis pas prêt.
+
+543
+00:30:20,641 --> 00:30:22,027
+Je suis rentré manger.
+
+544
+00:30:22,829 --> 00:30:24,655
+Tu manges avec Cuddy le mardi.
+
+545
+00:30:24,907 --> 00:30:26,083
+Elle est prise.
+
+546
+00:30:26,908 --> 00:30:28,367
+Et tu viens me surveiller.
+
+547
+00:30:30,829 --> 00:30:32,679
+Tu sais, tu peux me parler.
+
+548
+00:30:33,251 --> 00:30:35,999
+- C'est mon linge ?
+- T'arrivais à court de chaussettes.
+
+549
+00:30:37,753 --> 00:30:39,669
+Même si t'as plein de caleçons.
+
+550
+00:30:40,835 --> 00:30:41,735
+Ça va.
+
+551
+00:30:42,378 --> 00:30:45,377
+- T'as dit ça ce matin.
+- Cette cohérence prouve quoi ?
+
+552
+00:30:46,621 --> 00:30:49,596
+Vraiment, je vais bien.
+Je mets ça dans ta chambre.
+
+553
+00:31:02,627 --> 00:31:05,613
+La biopsie a révélé des dépôts
+dans le rein concordants avec...
+
+554
+00:31:06,854 --> 00:31:08,004
+l'amyloïdose.
+
+555
+00:31:09,279 --> 00:31:10,492
+Internet avait raison.
+
+556
+00:31:10,744 --> 00:31:13,185
+- Mets-le sous dexaméthasone.
+- Déjà fait.
+
+557
+00:31:13,560 --> 00:31:15,456
+Le moment semble mal choisi.
+
+558
+00:31:16,511 --> 00:31:17,792
+Je démissionne.
+
+559
+00:31:18,922 --> 00:31:21,628
+Un ami chirurgien
+m'a offert de le rejoindre.
+
+560
+00:31:22,750 --> 00:31:25,608
+On reçoit rarement une offre
+sans chercher.
+
+561
+00:31:25,856 --> 00:31:28,768
+J'ai cherché un peu quand j'ai su
+que House ne reviendrait pas.
+
+562
+00:31:28,935 --> 00:31:32,055
+J'ai tout fait pour qu'on reste ouverts
+et que vous gardiez votre boulot.
+
+563
+00:31:33,749 --> 00:31:36,391
+C'était très altruiste de ta part.
+
+564
+00:31:39,933 --> 00:31:41,533
+Rien de personnel.
+
+565
+00:31:42,356 --> 00:31:44,106
+Tu t'en sors plutôt bien.
+
+566
+00:31:46,411 --> 00:31:48,322
+Mais je suis venu pour House.
+
+567
+00:31:56,663 --> 00:31:57,813
+C'est un con.
+
+568
+00:31:58,282 --> 00:31:59,882
+On s'en sortira sans lui.
+
+569
+00:32:00,334 --> 00:32:03,009
+Tu sais combien
+de CV spontanés on reçoit ?
+
+570
+00:32:03,770 --> 00:32:06,467
+Peut-être un peu moins
+quand Cuddy nous fermera.
+
+571
+00:32:07,071 --> 00:32:09,471
+Le cas a été résolu sous ta tutelle.
+
+572
+00:32:10,015 --> 00:32:11,965
+Le comment est si important ?
+
+573
+00:32:13,967 --> 00:32:15,192
+C'est important.
+
+574
+00:32:18,720 --> 00:32:21,270
+Et si je n'étais pas prêt
+pour ce boulot ?
+
+575
+00:32:24,779 --> 00:32:26,068
+T'es triste.
+
+576
+00:32:27,624 --> 00:32:30,656
+Je peux te raconter l'histoire
+de ma coloc et moi à Sarah Lawrence.
+
+577
+00:32:37,000 --> 00:32:38,550
+Elle s'appelait Lindsey,
+
+578
+00:32:38,885 --> 00:32:41,759
+c'était une pom-pom girl
+originaire de l'Iowa.
+
+579
+00:32:45,091 --> 00:32:47,089
+J'ai cassé mes toilettes ce matin.
+
+580
+00:32:49,136 --> 00:32:50,640
+Je vais prendre mes outils.
+
+581
+00:32:50,807 --> 00:32:53,763
+J'ai bloqué la valve
+pour collecter l'urine de House.
+
+582
+00:32:54,715 --> 00:32:56,515
+Cuddy, il boitait à peine.
+
+583
+00:32:56,988 --> 00:32:59,582
+- Que dit le labo ?
+- Aucune trace de vicodin.
+
+584
+00:32:59,749 --> 00:33:02,725
+Cependant, il y avait d'étranges
+cellules épithéliales.
+
+585
+00:33:03,198 --> 00:33:06,532
+Des analyses ont montré
+qu'elles provenaient d'un labrador.
+
+586
+00:33:08,813 --> 00:33:09,813
+Mince.
+
+587
+00:33:11,659 --> 00:33:12,709
+Il en prend.
+
+588
+00:34:50,344 --> 00:34:52,866
+Vince, calmez-vous.
+C'est le docteur Foreman.
+
+589
+00:35:19,329 --> 00:35:20,200
+Tuez-le !
+
+590
+00:35:20,636 --> 00:35:21,636
+Tuez-le !
+
+591
+00:35:22,537 --> 00:35:24,996
+J'ai pas mon blaster !
+
+592
+00:35:28,585 --> 00:35:30,377
+Il est brûlant, il délire.
+
+593
+00:35:30,629 --> 00:35:32,481
+L'amyloïdose ne provoquerait pas ça.
+
+594
+00:35:35,927 --> 00:35:39,137
+Les antipyrétiques marchent pas.
+Le bain glacé fait chuter sa fièvre.
+
+595
+00:35:41,549 --> 00:35:43,845
+Une autre idée
+est peut-être arrivée.
+
+596
+00:35:44,012 --> 00:35:47,186
+- L'argent attire peut-être...
+- Personne d'autre ne nous distraira.
+
+597
+00:35:47,436 --> 00:35:50,815
+Les gens ont eu tort sur l'amyloïdose.
+Ils ne savent pas pour la fièvre.
+
+598
+00:35:51,428 --> 00:35:53,483
+Je m'oriente
+vers le syndrome de Randal
+
+599
+00:35:54,516 --> 00:35:55,610
+Tu es d'accord ?
+
+600
+00:36:06,337 --> 00:36:08,924
+Nous pensons que vous souffrez
+du syndrome de Randall.
+
+601
+00:36:09,684 --> 00:36:11,858
+Les protéines s'accumulent
+dans vos organes.
+
+602
+00:36:12,025 --> 00:36:13,117
+Vous pensez ?
+
+603
+00:36:14,554 --> 00:36:16,840
+Impossible
+de confirmer le diagnostic.
+
+604
+00:36:17,882 --> 00:36:19,551
+La seule solution serait
+
+605
+00:36:19,803 --> 00:36:21,928
+de commencer
+une chimiothérapie intensive.
+
+606
+00:36:22,217 --> 00:36:25,870
+Mais je dois vous avertir,
+dans votre état, ça pourrait vous tuer.
+
+607
+00:36:29,553 --> 00:36:31,605
+Vous voulez plus d'informations ?
+
+608
+00:36:33,688 --> 00:36:35,038
+Vous êtes mon médecin.
+
+609
+00:36:35,810 --> 00:36:36,998
+J'ai confiance.
+
+610
+00:36:38,639 --> 00:36:39,839
+C'est faux.
+
+611
+00:36:40,490 --> 00:36:43,049
+Vous êtes terrorisé
+et ne voulez pas décider.
+
+612
+00:36:52,378 --> 00:36:54,711
+Ma carrière dépend de ce cas...
+
+613
+00:36:55,643 --> 00:36:57,931
+et elle compte moins que votre vie.
+
+614
+00:37:00,050 --> 00:37:02,093
+Mais notre meilleure option,
+à tous les deux,
+
+615
+00:37:02,400 --> 00:37:03,900
+c'est ce traitement.
+
+616
+00:37:10,287 --> 00:37:13,191
+On vous sort de la baignoire
+et on commence la chimio.
+
+617
+00:37:18,380 --> 00:37:20,904
+On sait
+que tu reprends de la vicodin.
+
+618
+00:37:21,156 --> 00:37:23,031
+Vous savez juste
+que je suis un génie
+
+619
+00:37:23,283 --> 00:37:25,340
+qui a fait pisser un chien
+aux toilettes.
+
+620
+00:37:25,507 --> 00:37:26,948
+Tu ignores comment j'ai fait,
+
+621
+00:37:27,115 --> 00:37:29,371
+ou, plus intéressant, où j'ai pissé.
+
+622
+00:37:29,623 --> 00:37:31,498
+Ces trois derniers mois...
+
+623
+00:37:31,750 --> 00:37:32,883
+<i>Et tu, butte ?</i>
+
+624
+00:37:33,279 --> 00:37:35,378
+Vous avez pas à être là.
+C'est lui que j'embête.
+
+625
+00:37:35,628 --> 00:37:37,210
+Pourquoi ta jambe va mieux ?
+
+626
+00:37:37,622 --> 00:37:39,622
+Ça fait mal.
+Maintenant, partez.
+
+627
+00:37:40,385 --> 00:37:43,802
+Si vous croyez que j'en prends,
+demandez-moi avant de jouer au plombier.
+
+628
+00:37:44,054 --> 00:37:47,013
+Vous êtes un drogué.
+On ne peut pas vous faire confiance.
+
+629
+00:37:48,227 --> 00:37:49,933
+Bon.
+Trouvons une preuve.
+
+630
+00:37:51,838 --> 00:37:53,639
+Détournez vos yeux, mesdames.
+
+631
+00:37:55,649 --> 00:37:56,565
+Vous aussi.
+
+632
+00:38:00,370 --> 00:38:02,698
+Mon filleul l'a faite pour moi.
+
+633
+00:38:02,865 --> 00:38:04,865
+Si le labo dit que
+c'est encore le chien,
+
+634
+00:38:05,117 --> 00:38:06,324
+dites-le-moi.
+
+635
+00:38:06,491 --> 00:38:09,842
+Ça expliquerait ce besoin
+de m'essuyer les fesses sur ton tapis.
+
+636
+00:38:13,325 --> 00:38:15,543
+Merci de m'avoir
+entraînée là-dedans.
+
+637
+00:38:34,412 --> 00:38:35,855
+Arrêtez la chimio.
+
+638
+00:38:36,022 --> 00:38:37,625
+Il a la maladie de Fabry.
+
+639
+00:38:37,792 --> 00:38:40,842
+Après une heure dans le bain,
+il devrait avoir les doigts fripés.
+
+640
+00:38:41,009 --> 00:38:43,759
+J'ai déjà arrêté la chimio
+et confirmé le Fabry.
+
+641
+00:38:44,645 --> 00:38:47,699
+Ravi que vous soyez d'accords,
+mais on pourrait m'expliquer ?
+
+642
+00:38:48,212 --> 00:38:50,679
+On pensait à des dépôts
+de protéines dans vos reins,
+
+643
+00:38:50,846 --> 00:38:52,214
+mais c'était graisseux.
+
+644
+00:38:52,381 --> 00:38:55,492
+Ils se sont accumulés dans vos organes,
+touchant vos nerfs,
+
+645
+00:38:55,659 --> 00:38:58,183
+empêchant vos doigts
+de se friper dans l'eau.
+
+646
+00:38:58,350 --> 00:39:00,962
+- C'est chronique, mais gérable.
+- Comment t'as trouvé ?
+
+647
+00:39:06,764 --> 00:39:07,886
+Oreillons à l'iode.
+
+648
+00:39:08,284 --> 00:39:10,388
+Ses ganglions ont gonflé
+après le scanner.
+
+649
+00:39:10,640 --> 00:39:12,663
+On a cru à un autre symptôme,
+mais non.
+
+650
+00:39:12,830 --> 00:39:14,517
+C'était une réaction au produit.
+
+651
+00:39:14,769 --> 00:39:16,821
+Les oreillons à l'iode
+éliminent les ganglions.
+
+652
+00:39:16,988 --> 00:39:18,614
+On enlève ce symptôme...
+
+653
+00:39:20,054 --> 00:39:21,566
+Et ça t'est venu comme ça ?
+
+654
+00:39:23,627 --> 00:39:25,715
+J'ai regardé les réponses en ligne.
+
+655
+00:39:26,381 --> 00:39:28,269
+Quelqu'un a publié ça ce matin.
+
+656
+00:39:42,495 --> 00:39:43,673
+Cuddy l'a annoncé.
+
+657
+00:39:43,923 --> 00:39:45,995
+Tu diriges l'unité, félicitations.
+
+658
+00:39:51,139 --> 00:39:52,139
+Désolée.
+
+659
+00:39:53,588 --> 00:39:55,290
+J'ai agi derrière ton dos.
+
+660
+00:39:55,602 --> 00:39:58,237
+Sur une échelle d'un à dix,
+tu m'en veux à quel point ?
+
+661
+00:39:59,589 --> 00:40:00,485
+Sept.
+
+662
+00:40:02,095 --> 00:40:03,445
+Et c'est stupide.
+
+663
+00:40:04,657 --> 00:40:05,902
+Tu as bien agi.
+
+664
+00:40:06,154 --> 00:40:09,082
+- C'est de ma faute
+- J'aurais dû te tenir tête.
+
+665
+00:40:09,249 --> 00:40:11,491
+Tu ne l'as pas fait
+pour éviter une dispute.
+
+666
+00:40:15,094 --> 00:40:17,769
+C'est notre premier cas.
+On finira pas s'ajuster.
+
+667
+00:40:22,245 --> 00:40:23,879
+Et si pendant cette période,
+
+668
+00:40:24,129 --> 00:40:25,755
+on ne s'aimait plus ?
+
+669
+00:40:26,796 --> 00:40:29,050
+- Ça n'arrivera pas.
+- Tu en es sûre ?
+
+670
+00:40:29,302 --> 00:40:32,095
+Depuis que j'ai pris ce boulot,
+on se rend malheureux.
+
+671
+00:40:37,878 --> 00:40:39,828
+Je pense pas que ça marchera.
+
+672
+00:40:46,671 --> 00:40:47,737
+Tu romps ?
+
+673
+00:40:49,145 --> 00:40:51,941
+L'autre soir quand je me pensais fini,
+tu étais là.
+
+674
+00:40:53,691 --> 00:40:54,906
+J'ai besoin de toi.
+
+675
+00:40:57,387 --> 00:40:59,137
+Je ne veux pas te perdre.
+
+676
+00:41:01,363 --> 00:41:02,614
+Pourquoi tu...
+
+677
+00:41:10,945 --> 00:41:12,045
+Tu me vires.
+
+678
+00:41:18,096 --> 00:41:19,096
+Désolé.
+
+679
+00:41:24,319 --> 00:41:25,411
+J'ai dérapé.
+
+680
+00:41:27,406 --> 00:41:28,756
+Avec la vicodin ?
+
+681
+00:41:36,980 --> 00:41:38,453
+25 000 dollars.
+
+682
+00:41:40,091 --> 00:41:42,248
+J'ai résolu le cas
+de mon ancienne équipe.
+
+683
+00:41:43,415 --> 00:41:45,358
+J'allais en prendre.
+Je suis allé en ligne.
+
+684
+00:41:45,525 --> 00:41:47,754
+Des gens proposaient
+des énigmes médicales.
+
+685
+00:41:48,313 --> 00:41:49,313
+Et...
+
+686
+00:41:50,015 --> 00:41:52,473
+ma jambe a cessé de me faire mal.
+
+687
+00:42:00,855 --> 00:42:02,477
+Je suis censé changer ma vie.
+
+688
+00:42:02,729 --> 00:42:05,021
+- Ce n'est pas un changement.
+- J'ai dû me tromper.
+
+689
+00:42:06,077 --> 00:42:08,288
+Dit le type
+qui joue avec mon cerveau.
+
+690
+00:42:08,455 --> 00:42:09,984
+Vous ne devez plus consommer.
+
+691
+00:42:10,236 --> 00:42:12,243
+Arrêter votre boulot,
+vos énigmes médicales,
+
+692
+00:42:12,410 --> 00:42:13,738
+a produit l'inverse.
+
+693
+00:42:13,990 --> 00:42:16,149
+Peut-être que le diagnostic
+
+694
+00:42:16,541 --> 00:42:18,752
+vous permettrait de rester clean.
+
+695
+00:42:21,637 --> 00:42:24,457
+Vous me laisseriez donc surfer
+et résoudre des cas ?
+
+696
+00:42:26,780 --> 00:42:28,878
+Vous ne pouvez pas rester seul
+toute la journée.
+
+697
+00:42:29,130 --> 00:42:31,175
+L'isolement entraîne la dépression.
+
+698
+00:42:31,669 --> 00:42:33,383
+L'hôpital, c'est mon ancienne vie.
+
+699
+00:42:33,687 --> 00:42:35,939
+Si je reviens,
+je pourrais redevenir...
+
+700
+00:42:37,193 --> 00:42:40,390
+- celui que j'étais, replonger.
+- C'est possible.
+
+701
+00:42:41,332 --> 00:42:42,761
+Mais peut-être que...
+
+702
+00:42:43,626 --> 00:42:46,722
+le pire n'est pas
+de revenir aux diagnostics,
+
+703
+00:42:48,530 --> 00:42:49,691
+mais de les quitter.
+
+704
+00:43:00,790 --> 00:43:02,738
+Je suppose qu'on va le découvrir.
+
+705
+00:43:02,905 --> 00:43:04,623
+www.sous-titres.eu
+

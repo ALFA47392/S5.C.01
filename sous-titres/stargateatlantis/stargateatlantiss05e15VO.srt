@@ -1,0 +1,3225 @@
+1
+00:00:02,308 --> 00:00:04,205
+I find it sad.
+
+2
+00:00:04,330 --> 00:00:06,231
+What? What're you talking about?
+
+3
+00:00:07,464 --> 00:00:09,576
+- He seems lonely.
+- He does?
+
+4
+00:00:09,701 --> 00:00:12,015
+He never takes part
+in any of the City social activities.
+
+5
+00:00:12,140 --> 00:00:12,969
+Please...
+
+6
+00:00:13,289 --> 00:00:15,203
+He always eats alone.
+
+7
+00:00:15,328 --> 00:00:16,952
+Either in is office
+or in is quarters.
+
+8
+00:00:17,077 --> 00:00:19,726
+Maybe he has work to do.
+Some of us are busy people.
+
+9
+00:00:21,529 --> 00:00:24,906
+Sometimes, when I walk by his quarters
+at night, I heard him crying.
+
+10
+00:00:25,031 --> 00:00:27,108
+What? Really?
+
+11
+00:00:32,428 --> 00:00:34,627
+Would you care to join us?
+
+12
+00:00:37,008 --> 00:00:38,091
+Thank you.
+
+13
+00:00:38,216 --> 00:00:40,155
+But I'll be taking breakfast
+in my quarters.
+
+14
+00:00:40,280 --> 00:00:44,000
+I still have some final preparations
+for my impending performance evaluation.
+
+15
+00:00:45,055 --> 00:00:47,401
+- I'm a little apprehensive.
+- You shouldn't be.
+
+16
+00:00:47,526 --> 00:00:50,325
+You've done a wonderful job
+as our new commander.
+
+17
+00:00:50,960 --> 00:00:53,062
+Well, let's hope the IOA agrees.
+
+18
+00:00:54,132 --> 00:00:55,340
+There you go.
+
+19
+00:00:55,723 --> 00:00:57,625
+He prefers to be on his own.
+
+20
+00:00:57,891 --> 00:00:59,599
+Speaking of which, where's Sheppard?
+
+21
+00:01:00,872 --> 00:01:04,342
+He flew some astrobiologists
+to the mainland this morning.
+
+22
+00:01:04,467 --> 00:01:06,731
+And volunteered
+to stay with them overnight.
+
+23
+00:01:07,312 --> 00:01:09,150
+He did?
+Why would he do that?
+
+24
+00:01:12,580 --> 00:01:14,982
+This planet's sun is a class G star.
+
+25
+00:01:15,855 --> 00:01:19,555
+That fact, coupled with its Earth-like
+atmospheric composition,
+
+26
+00:01:19,843 --> 00:01:23,546
+results in the predominance
+of green photosynthetic organisms.
+
+27
+00:01:25,423 --> 00:01:28,169
+Chlorophyll mostly absorbs
+the sun's blue and red wavelengths,
+
+28
+00:01:28,445 --> 00:01:30,046
+reflecting green ones.
+
+29
+00:01:30,527 --> 00:01:32,924
+"But, hang on a minute,"
+you're probably thinking.
+
+30
+00:01:33,245 --> 00:01:35,593
+Why doesn't chlorophyll
+absorb green light?"
+
+31
+00:01:36,676 --> 00:01:38,945
+Yeah. Weird.
+Well, why doesn't it?
+
+32
+00:01:39,070 --> 00:01:41,941
+- The answer lies not so much in the...
+- Oh, my God!
+
+33
+00:01:42,354 --> 00:01:43,394
+Wait here.
+
+34
+00:01:45,976 --> 00:01:47,177
+What happened?
+
+35
+00:01:47,496 --> 00:01:48,701
+Look at this.
+
+36
+00:01:49,577 --> 00:01:52,480
+It's a plant not unlike
+the <i>Begonia eiromischa</i>.
+
+37
+00:01:54,440 --> 00:01:57,572
+- God. Lorne warned me about this.
+- You don't understand.
+
+38
+00:01:57,697 --> 00:01:59,659
+The woolly-stalked begonia
+went officially extinct
+
+39
+00:01:59,829 --> 00:02:01,887
+back on Earth in 2007.
+
+40
+00:02:02,275 --> 00:02:03,779
+And yet here we are,
+
+41
+00:02:04,011 --> 00:02:06,624
+standing over a species
+that's shockingly similar...
+
+42
+00:02:07,095 --> 00:02:10,265
+I'm gonna go back to the Jumper
+and set up for the night.
+
+43
+00:02:10,640 --> 00:02:11,710
+Want to join me?
+
+44
+00:02:13,245 --> 00:02:14,716
+It's a very unusual find.
+
+45
+00:02:15,489 --> 00:02:16,491
+Right.
+
+46
+00:02:16,922 --> 00:02:19,822
+Well, knock yourself out.
+That's what we're here for.
+
+47
+00:02:20,926 --> 00:02:23,329
+Take your time.
+We're here all night.
+
+48
+00:02:48,134 --> 00:02:51,044
+Season 5 Episode 15
+Remnants (v. 1.00)
+
+49
+00:02:51,569 --> 00:02:54,061
+The Projet-SG & SG-66 Teams
+
+50
+00:02:54,181 --> 00:02:56,759
+www.projet-sg.net
+www.seriestele.net
+
+51
+00:03:30,977 --> 00:03:34,580
+- Can I give you a hand with that?
+- Actually, if you wouldn't mind...
+
+52
+00:03:37,329 --> 00:03:39,842
+- Where are you headed?
+- Back to my quarters.
+
+53
+00:03:41,141 --> 00:03:42,887
+The southeast pier. Level 19.
+
+54
+00:03:44,050 --> 00:03:45,387
+Penthouse suite. Nice.
+
+55
+00:03:45,512 --> 00:03:48,017
+- Have we met?
+- Not yet. I'm Vanessa Conrad.
+
+56
+00:03:53,247 --> 00:03:55,471
+I just recently arrived
+on the Apollo.
+
+57
+00:03:55,596 --> 00:03:57,380
+- Welcome to Atlantis.
+- Thank you.
+
+58
+00:03:57,505 --> 00:03:59,123
+It's beautiful. And huge.
+
+59
+00:03:59,248 --> 00:04:02,136
+It's probably gonna be weeks
+before I know my way around.
+
+60
+00:04:02,261 --> 00:04:03,507
+Well, I'm sure
+
+61
+00:04:04,719 --> 00:04:07,418
+the gang at orientation
+will help you settle in.
+
+62
+00:04:08,630 --> 00:04:10,019
+I'm sorry. I'm keeping you.
+
+63
+00:04:10,144 --> 00:04:13,402
+- Southeast pier, level 19.
+- No. I have all the time in the...
+
+64
+00:04:19,353 --> 00:04:21,455
+- This is you, I believe.
+- Right.
+
+65
+00:04:23,413 --> 00:04:25,916
+- Nice to meet you, Doctor.
+- Vanessa.
+
+66
+00:04:26,695 --> 00:04:29,182
+- You can call me Vanessa.
+- Very well.
+
+67
+00:04:29,307 --> 00:04:30,726
+Nice to meet you, Vanessa.
+
+68
+00:04:31,209 --> 00:04:33,729
+- Thank you, Mr. Woolsey.
+- Actually, you can call me...
+
+69
+00:04:35,690 --> 00:04:36,697
+Dick.
+
+70
+00:05:00,305 --> 00:05:01,312
+Crap.
+
+71
+00:05:06,802 --> 00:05:08,569
+What happened
+to your off-world foofaraw?
+
+72
+00:05:08,694 --> 00:05:11,893
+I thought you were the guest of honor
+at some big diplomatic dinner on M2J?
+
+73
+00:05:12,018 --> 00:05:14,040
+Yeah, I was,
+but the festivities ended early
+
+74
+00:05:14,165 --> 00:05:16,068
+when three members
+of Lieutenant Donovan's team
+
+75
+00:05:16,193 --> 00:05:17,966
+suffered a severe allergic reaction
+
+76
+00:05:18,091 --> 00:05:20,581
+to something that we were served
+at the grand banquet.
+
+77
+00:05:20,706 --> 00:05:23,152
+I think it might have been
+those little green berries
+
+78
+00:05:23,277 --> 00:05:24,716
+with the purple specks on them,
+
+79
+00:05:24,841 --> 00:05:27,000
+because my tongue
+did feel a little bit numb...
+
+80
+00:05:27,125 --> 00:05:29,573
+Yeah, FYI, this conversation
+ended six seconds ago.
+
+81
+00:05:29,698 --> 00:05:32,479
+Yeah, anyway,
+on the way back, I had an idea.
+
+82
+00:05:32,604 --> 00:05:34,903
+Have a little lie-down. It'll pass.
+
+83
+00:05:35,957 --> 00:05:37,659
+You should hear me out.
+
+84
+00:05:40,299 --> 00:05:42,007
+We should run a scan
+of the ocean floor.
+
+85
+00:05:42,467 --> 00:05:44,196
+I've been noticing
+anomalous temperature
+
+86
+00:05:44,321 --> 00:05:46,468
+in the waters surrounding the City.
+I think it bears
+
+87
+00:05:46,637 --> 00:05:48,842
+- further investigation.
+- Not really.
+
+88
+00:05:49,337 --> 00:05:51,858
+We head through the Gate every day
+exploring distant worlds,
+
+89
+00:05:51,983 --> 00:05:54,756
+and yet, with the exception
+of a few marine biology tests,
+
+90
+00:05:54,881 --> 00:05:57,443
+we have barely scratched the surface
+of the very planet that we occupy.
+
+91
+00:05:57,567 --> 00:05:58,938
+'Cause there's nothing there.
+
+92
+00:05:59,063 --> 00:06:00,860
+My point is
+it wouldn't hurt to be thorough.
+
+93
+00:06:01,224 --> 00:06:04,279
+My point is your point is pointless.
+And a giant waste of time.
+
+94
+00:06:12,528 --> 00:06:13,730
+Dammit.
+
+95
+00:06:24,619 --> 00:06:26,208
+Xiao, welcome.
+
+96
+00:06:29,312 --> 00:06:31,564
+Atlantis welcomes you.
+
+97
+00:06:33,751 --> 00:06:36,204
+It is with great pride that I...
+
+98
+00:06:41,135 --> 00:06:42,233
+Hello, Richard.
+
+99
+00:06:45,105 --> 00:06:47,038
+Welcome to Atlantis...
+
+100
+00:06:48,336 --> 00:06:50,158
+With... great pride.
+
+101
+00:06:51,693 --> 00:06:53,993
+I'm looking forward
+to the grand tour.
+
+102
+00:06:54,302 --> 00:06:55,355
+Well, then...
+
+103
+00:06:55,480 --> 00:06:56,983
+- Shall we?
+- Yes.
+
+104
+00:07:06,657 --> 00:07:08,559
+This is the control room...
+
+105
+00:07:09,188 --> 00:07:12,482
+for all intents and purposes,
+the City's nerve center.
+
+106
+00:07:13,630 --> 00:07:17,359
+These technicians are the very best
+at what they do.
+
+107
+00:07:18,375 --> 00:07:20,334
+How's the kickboxing going, Amelia?
+
+108
+00:07:20,459 --> 00:07:22,561
+Great, Sir.
+Thanks for asking.
+
+109
+00:07:23,737 --> 00:07:25,165
+Hello there, Chet.
+
+110
+00:07:25,290 --> 00:07:26,390
+It's Chuck.
+
+111
+00:07:26,515 --> 00:07:27,477
+Excuse me?
+
+112
+00:07:27,602 --> 00:07:29,417
+It's Chuck, sir.
+My name is Chuck.
+
+113
+00:07:29,542 --> 00:07:31,092
+Of course. Chuck.
+
+114
+00:07:31,217 --> 00:07:32,815
+Chet's on the late shift.
+
+115
+00:07:37,200 --> 00:07:38,665
+There is no Chet.
+
+116
+00:07:39,956 --> 00:07:42,340
+I think it would be a simple matter
+
+117
+00:07:42,465 --> 00:07:45,021
+of reconfiguring the City's short-range
+sensors in order to achieve...
+
+118
+00:07:45,146 --> 00:07:48,164
+You know, I can see your lips moving
+but I'm not hearing any sound.
+
+119
+00:07:48,289 --> 00:07:50,353
+It would take less than an hour
+
+120
+00:07:50,478 --> 00:07:52,230
+to make the necessary adjustments.
+
+121
+00:07:52,355 --> 00:07:55,715
+All right, you know what?
+If it is so simple and important to you,
+
+122
+00:07:55,840 --> 00:07:58,148
+why don't you just go ahead
+and do it yourself?
+
+123
+00:07:58,273 --> 00:08:00,951
+- Because I require your authorization.
+- You got it.
+
+124
+00:08:01,076 --> 00:08:02,365
+Thank you, Rodney.
+
+125
+00:08:03,720 --> 00:08:06,067
+You realize it's highly unlikely
+you'll actually find anything.
+
+126
+00:08:06,857 --> 00:08:08,982
+No? Then I would have wasted
+an hour of my time
+
+127
+00:08:09,107 --> 00:08:11,323
+and you'll be able to tell me
+"I told you so."
+
+128
+00:08:11,448 --> 00:08:14,044
+If, on the other hand,
+I do find something,
+
+129
+00:08:14,169 --> 00:08:16,369
+perhaps they'll name something after me
+for a change.
+
+130
+00:08:21,611 --> 00:08:24,074
+The prospect of commanding
+the Atlantis expedition
+
+131
+00:08:24,199 --> 00:08:25,529
+was a daunting one.
+
+132
+00:08:25,654 --> 00:08:28,783
+Dr. Weir and Colonel Carter
+were incredibly tough acts to follow.
+
+133
+00:08:28,908 --> 00:08:30,856
+Yet you availed yourself nicely,
+Richard.
+
+134
+00:08:30,981 --> 00:08:32,852
+And you survived
+your nine months here.
+
+135
+00:08:32,977 --> 00:08:35,909
+Well, I like to think I've accomplished
+a little more than mere survival,
+
+136
+00:08:36,034 --> 00:08:38,266
+and I'm certain
+that once you've had review my report...
+
+137
+00:08:38,434 --> 00:08:39,927
+That won't be necessary.
+
+138
+00:08:41,213 --> 00:08:44,438
+- I'm receiving my graduation papers?
+- Of course.
+
+139
+00:08:45,696 --> 00:08:48,358
+In recognition
+of the great job you've done here,
+
+140
+00:08:48,483 --> 00:08:50,530
+the IOA is appointing you as chair
+
+141
+00:08:50,655 --> 00:08:53,257
+of Earth's
+new environmental initiative.
+
+142
+00:08:53,592 --> 00:08:55,200
+Congratulations, Richard.
+
+143
+00:08:55,325 --> 00:08:56,826
+You're coming home.
+
+144
+00:08:58,772 --> 00:09:02,247
+All right,
+short-range sensors are good to go.
+
+145
+00:09:02,645 --> 00:09:03,943
+Start the sweep.
+
+146
+00:09:04,700 --> 00:09:06,001
+Sweep initiated.
+
+147
+00:09:06,659 --> 00:09:07,531
+Great.
+
+148
+00:09:07,656 --> 00:09:10,447
+So it should take about 30 minutes
+to scan the entire planet,
+
+149
+00:09:10,572 --> 00:09:12,815
+which means I've time
+to get down to the cafeteria,
+
+150
+00:09:12,940 --> 00:09:15,481
+get myself some of that fine
+almond biscotti and a Yoo-hoo,
+
+151
+00:09:15,606 --> 00:09:18,730
+and be back in time for you to tell me
+you have found nothing.
+
+152
+00:09:18,855 --> 00:09:20,458
+We've found something.
+
+153
+00:09:24,334 --> 00:09:25,935
+Yes, of course we did.
+
+154
+00:09:29,071 --> 00:09:30,977
+Whatever it is,
+it's sitting approximately
+
+155
+00:09:31,101 --> 00:09:33,096
+1,500 feet below sea level.
+
+156
+00:10:03,263 --> 00:10:04,364
+Hello, John.
+
+157
+00:10:14,481 --> 00:10:16,310
+I don't understand your reaction.
+
+158
+00:10:16,435 --> 00:10:19,035
+Nine months ago,
+you were dreading coming over here.
+
+159
+00:10:19,160 --> 00:10:21,183
+A lot has changed in nine months.
+
+160
+00:10:21,308 --> 00:10:22,609
+I like it here.
+
+161
+00:10:23,058 --> 00:10:26,666
+And, quite frankly, I don't like
+the idea of leaving a job unfinished.
+
+162
+00:10:29,087 --> 00:10:30,589
+I've done good work.
+
+163
+00:10:31,312 --> 00:10:33,130
+My record speaks for itself.
+
+164
+00:10:34,246 --> 00:10:35,424
+What's really going on?
+
+165
+00:10:37,027 --> 00:10:40,513
+The IOA is concerned
+about some of the decisions you've made,
+
+166
+00:10:41,163 --> 00:10:43,310
+decisions that have run
+counter to protocol
+
+167
+00:10:43,435 --> 00:10:45,434
+and, quite frankly, common sense.
+
+168
+00:10:45,962 --> 00:10:47,163
+They... We...
+
+169
+00:10:48,499 --> 00:10:51,415
+feel that the demands of this position
+have compromised your judgment,
+
+170
+00:10:51,540 --> 00:10:52,983
+and it's time for a change.
+
+171
+00:10:56,955 --> 00:10:58,155
+Right here.
+
+172
+00:11:01,726 --> 00:11:02,827
+That'll do.
+
+173
+00:11:04,294 --> 00:11:06,193
+I wonder how long
+it's been down there.
+
+174
+00:11:06,318 --> 00:11:09,756
+To think, it would have remained
+undiscovered if we hadn't have...
+
+175
+00:11:10,200 --> 00:11:12,438
+Nice job on reconfiguring
+the short-range sensors.
+
+176
+00:11:12,563 --> 00:11:13,563
+Thank you.
+
+177
+00:11:13,998 --> 00:11:16,000
+Nice job on the... wild guess.
+
+178
+00:11:16,407 --> 00:11:17,407
+Thank you.
+
+179
+00:11:17,789 --> 00:11:19,290
+- Shall we?
+- Yes.
+
+180
+00:11:21,183 --> 00:11:22,186
+Keep looking.
+
+181
+00:11:22,311 --> 00:11:24,920
+There's nowhere for them to go.
+They're scientists.
+
+182
+00:11:25,045 --> 00:11:27,348
+Trust me.
+They don't run very fast.
+
+183
+00:11:29,757 --> 00:11:30,958
+You're awake.
+
+184
+00:11:32,331 --> 00:11:35,528
+Save your energy.
+You're not getting away this time.
+
+185
+00:11:36,645 --> 00:11:37,840
+I killed you.
+
+186
+00:11:38,625 --> 00:11:40,519
+You shot me. There's a difference.
+
+187
+00:11:40,644 --> 00:11:42,491
+No. I killed you.
+
+188
+00:11:43,301 --> 00:11:46,412
+- Beckett confirmed it. You were dead.
+- I'm sure that's what he thought.
+
+189
+00:11:47,102 --> 00:11:49,039
+Let's just say your friend...
+Lucius?
+
+190
+00:11:49,532 --> 00:11:52,635
+He wasn't the only one
+using Ancient technology that day.
+
+191
+00:11:53,799 --> 00:11:55,507
+How did you get here?
+
+192
+00:11:57,557 --> 00:11:58,756
+How did you find us?
+
+193
+00:11:59,342 --> 00:12:01,593
+Turns out
+some of your off-world contacts
+
+194
+00:12:02,133 --> 00:12:04,170
+aren't as trustworthy as you think.
+
+195
+00:12:04,295 --> 00:12:06,196
+Your secret's out, Sheppard.
+
+196
+00:12:09,872 --> 00:12:13,657
+A half day's walk in that direction will
+bring us to the edge of the mainland.
+
+197
+00:12:13,782 --> 00:12:17,985
+I figure it'll take us maybe two days
+to reach Atlantis by boat.
+
+198
+00:12:20,204 --> 00:12:22,855
+You won't get to the edge of the City.
+They'll blow you out of the water.
+
+199
+00:12:22,980 --> 00:12:27,081
+No. They won't even see us coming.
+They'll be too busy counting their dead.
+
+200
+00:12:29,362 --> 00:12:31,063
+What are you gonna do?
+
+201
+00:12:33,735 --> 00:12:36,037
+Send an explosive through your Gate,
+
+202
+00:12:36,347 --> 00:12:38,249
+cripple the City's defenses.
+
+203
+00:12:38,662 --> 00:12:41,365
+But for that,
+I'm gonna need something from you.
+
+204
+00:12:41,699 --> 00:12:43,176
+I think you call it
+
+205
+00:12:43,802 --> 00:12:44,903
+an IDC.
+
+206
+00:12:45,594 --> 00:12:46,763
+Go to hell.
+
+207
+00:12:47,534 --> 00:12:49,850
+I thought you would need
+some convincing.
+
+208
+00:13:04,034 --> 00:13:06,549
+Dr. Conrad. Vanessa.
+Come in.
+
+209
+00:13:06,674 --> 00:13:09,186
+- I hope I'm not intruding.
+- Not at all. What brings you by?
+
+210
+00:13:09,311 --> 00:13:11,793
+This may be wholly inappropriate,
+but I was wondering
+
+211
+00:13:11,918 --> 00:13:14,429
+- whether you'd like to catch a movie.
+- A movie?
+
+212
+00:13:14,554 --> 00:13:16,244
+They're screening two
+of my favorites...
+
+213
+00:13:16,369 --> 00:13:19,666
+Planes, trains, and automobiles
+and dirty rotten scoundrels.
+
+214
+00:13:20,645 --> 00:13:21,846
+Truth be told,
+
+215
+00:13:22,133 --> 00:13:24,718
+I'm having a horrible day
+and I'm not of a laughing mood.
+
+216
+00:13:25,526 --> 00:13:26,871
+We can wait until tomorrow
+
+217
+00:13:26,996 --> 00:13:29,181
+when they'll be screening
+Mad Money and Kangaroo Jack.
+
+218
+00:13:34,431 --> 00:13:36,934
+Is it something
+you'd like to talk about?
+
+219
+00:13:37,331 --> 00:13:39,834
+It seems the time for talk
+has passed.
+
+220
+00:13:40,746 --> 00:13:43,090
+I've just been informed
+that I'm being relieved of my command
+
+221
+00:13:43,215 --> 00:13:44,859
+here on Atlantis.
+
+222
+00:13:44,984 --> 00:13:47,407
+I'm sorry. Why?
+
+223
+00:13:47,998 --> 00:13:51,396
+Apparently, I'm not very good
+at toeing the company line.
+
+224
+00:13:52,653 --> 00:13:55,748
+I assumed I got this position
+on the strength of my record.
+
+225
+00:13:55,873 --> 00:13:58,250
+But now it's clear that the only reason
+they appointed me
+
+226
+00:13:58,375 --> 00:14:01,258
+Is because they expected
+I would just roll over for them.
+
+227
+00:14:02,333 --> 00:14:03,326
+Then don't.
+
+228
+00:14:03,813 --> 00:14:06,295
+- What?
+- Don't roll over for them.
+
+229
+00:14:07,021 --> 00:14:08,754
+- Fight this.
+- I can't.
+
+230
+00:14:09,183 --> 00:14:10,801
+The decision's been made.
+
+231
+00:14:11,405 --> 00:14:14,693
+If that was true, then why didn't they
+just forward you a communique
+
+232
+00:14:14,818 --> 00:14:18,317
+instead of sending a mouthpiece on
+a 3-week journey to the Pegasus galaxy?
+
+233
+00:14:30,879 --> 00:14:33,982
+Did you really expect me
+to just give up without a fight?
+
+234
+00:14:35,475 --> 00:14:36,627
+Honestly? Yes.
+
+235
+00:14:37,377 --> 00:14:39,925
+I assumed you'd let common sense
+guide you on this one.
+
+236
+00:14:40,050 --> 00:14:42,005
+You weren't sent here to fire me.
+
+237
+00:14:42,130 --> 00:14:44,056
+You were sent here
+to evaluate my performance
+
+238
+00:14:44,181 --> 00:14:46,720
+and make a recommendation
+based on your findings.
+
+239
+00:14:47,880 --> 00:14:49,755
+The IOA may be
+leaning a certain way,
+
+240
+00:14:49,880 --> 00:14:51,934
+but they have yet to make a decision
+on my fate.
+
+241
+00:14:52,637 --> 00:14:55,225
+Yet you, their representative,
+
+242
+00:14:56,512 --> 00:14:57,683
+clearly have...
+
+243
+00:15:01,005 --> 00:15:03,737
+Which leads me to assume
+something else is going on here.
+
+244
+00:15:06,193 --> 00:15:08,811
+Someone in the IOA wants me gone
+
+245
+00:15:08,936 --> 00:15:11,662
+and is using you
+to make sure that happens.
+
+246
+00:15:14,860 --> 00:15:16,014
+Tell me, Xiao.
+
+247
+00:15:17,254 --> 00:15:18,804
+What are you getting in return?
+
+248
+00:15:27,158 --> 00:15:29,096
+It's my job, isn't it?
+
+249
+00:15:31,065 --> 00:15:33,362
+They've promised you
+the Atlantis command
+
+250
+00:15:33,487 --> 00:15:35,144
+if you help them get rid of me?
+
+251
+00:15:36,439 --> 00:15:38,394
+This will all go a lot easier
+
+252
+00:15:39,304 --> 00:15:41,505
+- if you accept where this is going.
+- The hell I will.
+
+253
+00:15:41,630 --> 00:15:43,729
+Richard, I hold all the cards.
+
+254
+00:15:43,854 --> 00:15:46,655
+The decision is in my hands.
+This is a fight you cannot win.
+
+255
+00:16:00,504 --> 00:16:03,357
+You can tolerate more
+than any man I've ever known.
+
+256
+00:16:04,879 --> 00:16:06,156
+Now, why is that?
+
+257
+00:16:07,378 --> 00:16:08,802
+Well, I was married once.
+
+258
+00:16:14,442 --> 00:16:17,550
+You're here in the Pegasus galaxy
+to protect your people,
+
+259
+00:16:18,131 --> 00:16:20,646
+but half the time,
+you can't even do that.
+
+260
+00:16:21,535 --> 00:16:23,602
+That's what drives you, isn't it?
+
+261
+00:16:24,361 --> 00:16:25,964
+Your past failures.
+
+262
+00:16:31,503 --> 00:16:33,327
+Do you think
+by not giving me the IDC
+
+263
+00:16:33,698 --> 00:16:35,717
+you're keeping your people safe?
+
+264
+00:16:36,261 --> 00:16:38,344
+You're just putting off
+the inevitable.
+
+265
+00:16:38,753 --> 00:16:41,029
+It's over.
+You can't protect them.
+
+266
+00:16:41,617 --> 00:16:43,420
+You, those scientists,
+
+267
+00:16:44,192 --> 00:16:47,382
+your friends back at Atlantis...
+They're as good as dead.
+
+268
+00:16:53,192 --> 00:16:55,627
+Well, I see that asking nice
+isn't working.
+
+269
+00:16:56,749 --> 00:16:59,008
+I'm gonna have to make
+other plans.
+
+270
+00:17:02,291 --> 00:17:03,899
+Two men report to my position.
+
+271
+00:17:04,927 --> 00:17:06,096
+<i>On our way.</i>
+
+272
+00:17:08,336 --> 00:17:09,906
+In a couple of minutes,
+
+273
+00:17:10,623 --> 00:17:13,155
+you're gonna wish
+you'd given me that IDC.
+
+274
+00:17:16,484 --> 00:17:17,765
+What are you working on?
+
+275
+00:17:17,890 --> 00:17:19,925
+According to this,
+the device is emitting
+
+276
+00:17:20,050 --> 00:17:22,813
+a low-level energy signature
+in an oscillating pattern.
+
+277
+00:17:22,938 --> 00:17:25,285
+- Is it dangerous?
+- No. Radiation's minimal, but...
+
+278
+00:17:25,410 --> 00:17:27,876
+Unimportant.
+We should be focusing on the data.
+
+279
+00:17:28,001 --> 00:17:28,855
+I was.
+
+280
+00:17:28,980 --> 00:17:31,876
+Like, I've run every kind of decrypt
+sweep I can think of at this thing.
+
+281
+00:17:32,001 --> 00:17:34,248
+Still nothing.
+I don't know what to do.
+
+282
+00:17:34,627 --> 00:17:36,627
+- Oh, you'll think of something.
+- Really.
+
+283
+00:17:36,752 --> 00:17:39,975
+- What makes you so sure?
+- Oh, because you're brilliant.
+
+284
+00:17:40,137 --> 00:17:42,876
+That's true. Doesn't mean I'm gonna...
+Wait a minute. What did you say?
+
+285
+00:17:43,001 --> 00:17:45,315
+Why did you say that?
+What are you, sick? Am I sick?
+
+286
+00:17:45,440 --> 00:17:48,388
+- What've you heard?
+- No, nobody's sick, Rodney.
+
+287
+00:17:48,513 --> 00:17:51,488
+I said you were brilliant
+because... Because you are.
+
+288
+00:17:52,878 --> 00:17:55,501
+I rarely say it because you're
+a difficult man to compliment.
+
+289
+00:17:55,626 --> 00:17:57,836
+You're egotistical,
+you're arrogant, you're stubborn...
+
+290
+00:17:57,961 --> 00:17:58,995
+And brilliant.
+
+291
+00:18:00,252 --> 00:18:02,251
+Yes, Rodney.
+And brilliant.
+
+292
+00:18:02,376 --> 00:18:03,744
+Right. Well...
+
+293
+00:18:03,869 --> 00:18:06,788
+pull up a chair, Radek.
+We've got some work to do.
+
+294
+00:18:07,541 --> 00:18:08,663
+All right...
+
+295
+00:18:09,547 --> 00:18:11,382
+Tell me what plan B is,
+
+296
+00:18:11,543 --> 00:18:14,011
+or are you just gonna surprise me?
+
+297
+00:18:15,067 --> 00:18:18,181
+I'm gonna have my men repair the damage
+they did to your Puddle Jumper,
+
+298
+00:18:19,031 --> 00:18:20,689
+then use it to attack the City.
+
+299
+00:18:20,814 --> 00:18:22,656
+Well, I hate to be Mr. Negative,
+
+300
+00:18:22,781 --> 00:18:25,480
+but I can think of at least one problem
+you're gonna run into.
+
+301
+00:18:25,993 --> 00:18:29,682
+Yes, I know all about the Ancient gene
+needed to operate the Jumper.
+
+302
+00:18:29,807 --> 00:18:31,820
+But that's not gonna be a problem
+
+303
+00:18:32,285 --> 00:18:34,448
+because you're gonna give us a hand.
+
+304
+00:18:34,896 --> 00:18:35,805
+Hold him.
+
+305
+00:18:44,210 --> 00:18:45,828
+Last chance, Johnny Boy.
+
+306
+00:18:47,311 --> 00:18:49,137
+You gonna give me that IDC?
+
+307
+00:18:53,282 --> 00:18:54,596
+Didn't think so.
+
+308
+00:19:16,868 --> 00:19:18,575
+You're an interesting man, Sheppard.
+
+309
+00:19:18,949 --> 00:19:20,870
+You travel to another galaxy,
+
+310
+00:19:20,995 --> 00:19:24,247
+risk your life defending a bunch
+of people you don't even know.
+
+311
+00:19:25,194 --> 00:19:28,000
+If you ask me, you're either someone
+with a death wish
+
+312
+00:19:28,806 --> 00:19:31,151
+or someone
+running away from something.
+
+313
+00:19:32,933 --> 00:19:33,933
+So tell me,
+
+314
+00:19:34,697 --> 00:19:36,259
+what are you running away from?
+
+315
+00:19:40,556 --> 00:19:42,481
+- Where have you been?
+- All over.
+
+316
+00:19:42,606 --> 00:19:44,431
+The EM radiation
+this device is giving off
+
+317
+00:19:44,556 --> 00:19:46,558
+covers the entire City
+and well beyond.
+
+318
+00:19:46,683 --> 00:19:48,014
+You said it wasn't dangerous.
+
+319
+00:19:48,139 --> 00:19:51,569
+It's not. At least, according to this...
+It has a relatively low frequency.
+
+320
+00:19:51,694 --> 00:19:55,059
+At worst, some people may experience
+headaches or trouble sleeping.
+
+321
+00:19:55,184 --> 00:19:57,197
+Well, then, we'll shut it off
+before bedtime.
+
+322
+00:19:57,580 --> 00:20:00,431
+In the meantime,
+you should be focusing on the data.
+
+323
+00:20:00,556 --> 00:20:02,367
+I'm not getting anywhere with that.
+
+324
+00:20:02,492 --> 00:20:04,996
+I mean, despite the fact
+that I am a genius.
+
+325
+00:20:06,118 --> 00:20:08,089
+I said you were brilliant.
+Not you were a genius.
+
+326
+00:20:08,214 --> 00:20:10,182
+Same diff.
+I don't get it.
+
+327
+00:20:10,307 --> 00:20:12,694
+You know, this script appears to be
+a lot less complicated
+
+328
+00:20:12,819 --> 00:20:14,980
+than many we've encountered.
+It's only 12 symbols
+
+329
+00:20:15,105 --> 00:20:17,175
+in an endlessly repeating
+yet varying sequences.
+
+330
+00:20:18,570 --> 00:20:20,568
+I agree.
+It's very curious.
+
+331
+00:20:21,236 --> 00:20:23,975
+It's like being asked to figure out
+the password for an alien laptop
+
+332
+00:20:24,100 --> 00:20:25,240
+or something.
+
+333
+00:20:26,243 --> 00:20:27,744
+I think that if we...
+
+334
+00:20:28,373 --> 00:20:31,970
+- What? What are you doing?
+- I'm figuring out the alien's password.
+
+335
+00:20:32,095 --> 00:20:34,012
+- Rodney, I was kidding.
+- No, it makes sense...
+
+336
+00:20:34,137 --> 00:20:35,946
+Every kid with a computer
+password-protects.
+
+337
+00:20:36,071 --> 00:20:37,528
+Why wouldn't an alien?
+
+338
+00:20:40,881 --> 00:20:43,471
+There.
+Why didn't I see that before?
+
+339
+00:20:43,596 --> 00:20:45,757
+- What?
+- The pattern isn't in the text.
+
+340
+00:20:45,882 --> 00:20:48,831
+It's in the spaces in between the text,
+each exactly 12 symbols in length.
+
+341
+00:20:49,899 --> 00:20:53,308
+Each section of text
+is a multiple of 12... 24, 48, 96...
+
+342
+00:20:53,433 --> 00:20:55,706
+Separated by a 12-symbol space.
+
+343
+00:20:56,097 --> 00:20:58,727
+Look, it's... it's a puzzle.
+It's a prompt.
+
+344
+00:20:58,852 --> 00:20:59,909
+What are you doing?
+
+345
+00:21:00,034 --> 00:21:02,374
+Running pattern recognition software
+on the 12-symbol sequence.
+
+346
+00:21:02,499 --> 00:21:04,523
+Hopefully I can come up
+with a 12-symbol permutation
+
+347
+00:21:04,648 --> 00:21:07,118
+that I can feed directly
+back into the device.
+
+348
+00:21:07,243 --> 00:21:09,688
+And if I'm right...
+If we're right...
+
+349
+00:21:10,225 --> 00:21:11,939
+we unlock the alien laptop.
+
+350
+00:21:23,181 --> 00:21:24,492
+You poached my private spot.
+
+351
+00:21:25,297 --> 00:21:26,119
+What?
+
+352
+00:21:27,525 --> 00:21:28,814
+What I meant to say is
+
+353
+00:21:28,939 --> 00:21:30,631
+you discovered
+my little personal area.
+
+354
+00:21:34,681 --> 00:21:36,838
+This is where I come
+to be alone with my thoughts.
+
+355
+00:21:37,832 --> 00:21:40,533
+- Do you mind sharing it?
+- Not at all.
+
+356
+00:21:44,442 --> 00:21:45,555
+It's beautiful.
+
+357
+00:21:50,005 --> 00:21:52,007
+I wish I could stay here forever.
+
+358
+00:21:54,430 --> 00:21:56,482
+By the way, I wanted to thank you
+for earlier today.
+
+359
+00:21:58,931 --> 00:22:01,529
+- I took your advice.
+- Are they backing down?
+
+360
+00:22:02,491 --> 00:22:03,491
+Unlikely.
+
+361
+00:22:04,334 --> 00:22:05,520
+But at the very least,
+
+362
+00:22:05,645 --> 00:22:08,119
+I have the satisfaction
+of knowing I went out swinging.
+
+363
+00:22:10,756 --> 00:22:12,503
+You're a good man, Richard.
+
+364
+00:22:14,237 --> 00:22:16,256
+I really wish they could see that.
+
+365
+00:22:17,905 --> 00:22:20,868
+Vanessa, would you like
+to have dinner with me tonight?
+
+366
+00:22:21,873 --> 00:22:23,384
+It would be my pleasure.
+
+367
+00:22:25,743 --> 00:22:26,743
+Wonderful.
+
+368
+00:22:27,681 --> 00:22:30,120
+What time should I swing by
+to pick you up?
+
+369
+00:22:30,245 --> 00:22:32,584
+It might be easier
+if we just met up.
+
+370
+00:22:34,227 --> 00:22:35,948
+Mr. Woolsey, you're off radio.
+
+371
+00:22:36,073 --> 00:22:38,329
+Dr. McKay needs to see you
+right away.
+
+372
+00:22:49,699 --> 00:22:52,816
+That is the historical, scientific,
+and technological records
+
+373
+00:22:52,941 --> 00:22:54,572
+of an extinct civilization,
+
+374
+00:22:54,697 --> 00:22:56,320
+and if this device
+is any indication,
+
+375
+00:22:56,445 --> 00:22:58,240
+a highly advanced one at that.
+
+376
+00:22:58,365 --> 00:23:01,196
+I mean, medical breakthroughs,
+specifications for advanced weaponry...
+
+377
+00:23:01,321 --> 00:23:03,073
+- This is incredible.
+- It is.
+
+378
+00:23:04,695 --> 00:23:07,632
+- I sense a "but".
+- No, no, no. No, no, no. No "buts".
+
+379
+00:23:07,757 --> 00:23:10,760
+- A "By the way", maybe.
+- I'm listening.
+
+380
+00:23:10,885 --> 00:23:12,827
+Like I said, the device contains
+the records
+
+381
+00:23:12,952 --> 00:23:14,431
+for a long-dead civilization.
+
+382
+00:23:14,556 --> 00:23:17,071
+But it also contains
+the chemical building blocks
+
+383
+00:23:17,196 --> 00:23:19,009
+for a silicon-based lifeform.
+
+384
+00:23:19,134 --> 00:23:21,609
+- What does that mean?
+- This device was designed
+
+385
+00:23:21,885 --> 00:23:23,400
+to seed planets with organisms
+
+386
+00:23:23,525 --> 00:23:26,448
+that would, in time,
+evolve into a sentient race.
+
+387
+00:23:26,573 --> 00:23:29,617
+Once that sentient race reached
+a certain level of maturity,
+
+388
+00:23:29,777 --> 00:23:32,491
+they could then benefit from
+the information left for them by their
+
+389
+00:23:32,616 --> 00:23:33,954
+extinct ancestors.
+
+390
+00:23:34,945 --> 00:23:37,060
+- So what happened?
+- I'm not sure.
+
+391
+00:23:37,557 --> 00:23:39,943
+Obviously, they didn't complete
+their journey.
+
+392
+00:23:40,068 --> 00:23:42,619
+They ended up here instead.
+Still, with the help of the Daedalus,
+
+393
+00:23:42,744 --> 00:23:46,550
+we could ensure that it finally reached
+its target destination.
+
+394
+00:23:47,768 --> 00:23:50,634
+Okay, let's copy the data
+and then send it on its way.
+
+395
+00:23:50,759 --> 00:23:53,259
+Which is where
+the "Oh, by the way" comes in.
+
+396
+00:23:53,384 --> 00:23:56,977
+Look, this device is set up
+in such a way that accessing the data
+
+397
+00:23:57,102 --> 00:24:00,005
+would do irreparable damage
+to the biological samples.
+
+398
+00:24:00,130 --> 00:24:02,036
+In other words, it's either/or?
+
+399
+00:24:02,385 --> 00:24:05,657
+Either we take the data
+or we send it on its way.
+
+400
+00:24:05,782 --> 00:24:07,368
+We can't do both.
+
+401
+00:24:12,131 --> 00:24:13,911
+You disappoint me, John.
+
+402
+00:24:14,383 --> 00:24:16,828
+I didn't think
+you'd be this easy to break.
+
+403
+00:24:17,266 --> 00:24:19,667
+Even those two scientists you came with
+put up more of a fight...
+
+404
+00:24:20,572 --> 00:24:22,059
+before we killed them.
+
+405
+00:24:23,883 --> 00:24:26,016
+Just another two you couldn't save.
+
+406
+00:24:27,010 --> 00:24:28,010
+We're done.
+
+407
+00:24:30,275 --> 00:24:31,320
+It's operational?
+
+408
+00:24:31,445 --> 00:24:33,820
+We used the genetic material
+to initiate it.
+
+409
+00:24:33,945 --> 00:24:36,736
+You hear that, Sheppard?
+We've got the Jumper...
+
+410
+00:24:38,104 --> 00:24:40,687
+Sir, we can come back and deal with him
+once we're done with Atlantis.
+
+411
+00:24:41,341 --> 00:24:44,221
+We deal with him now.
+Find him and kill him.
+
+412
+00:24:50,330 --> 00:24:51,468
+Hello, Ellen.
+
+413
+00:24:51,885 --> 00:24:53,386
+Hello... you.
+
+414
+00:24:54,224 --> 00:24:56,514
+Amelia, could you please
+do me a favor
+
+415
+00:24:56,639 --> 00:24:59,133
+and pass on a message
+to Dr. Vanessa Conrad?
+
+416
+00:24:59,258 --> 00:25:01,132
+She's in one
+of the science departments.
+
+417
+00:25:01,257 --> 00:25:04,145
+Please tell her that,
+given Dr. McKay's recent findings,
+
+418
+00:25:04,270 --> 00:25:07,422
+we may have to
+reschedule our dinner tonight.
+
+419
+00:25:09,883 --> 00:25:11,746
+Dr. Conrad?
+Are you sure, sir?
+
+420
+00:25:12,385 --> 00:25:15,126
+Better yet, why don't you just tell me
+where her quarters are?
+
+421
+00:25:15,251 --> 00:25:18,085
+I suppose it's only proper
+that I tell her personally.
+
+422
+00:25:18,510 --> 00:25:20,195
+There's nothing here, sir.
+
+423
+00:25:20,320 --> 00:25:22,010
+She hasn't been assigned
+quarters yet?
+
+424
+00:25:22,135 --> 00:25:25,107
+No sir, according to this,
+there's no Dr. Conrad on Atlantis.
+
+425
+00:25:50,355 --> 00:25:52,349
+Amelia, the woman I was talking to
+
+426
+00:25:52,474 --> 00:25:54,771
+when you approached me
+earlier today...
+
+427
+00:25:55,406 --> 00:25:57,288
+- Sir?
+- On the balcony.
+
+428
+00:25:58,412 --> 00:26:02,407
+The woman I was speaking with when you
+delivered the message from Dr. McKay.
+
+429
+00:26:02,974 --> 00:26:05,225
+She probably left
+before I got there, sir.
+
+430
+00:26:05,350 --> 00:26:08,253
+When I approached you
+on the balcony, you were alone.
+
+431
+00:26:30,287 --> 00:26:32,256
+There's nothing wrong with you.
+
+432
+00:26:32,695 --> 00:26:34,787
+- What's going on?
+- I'll let you know in a second.
+
+433
+00:26:34,912 --> 00:26:38,287
+- I'm just looking over your results.
+- She won't find anything.
+
+434
+00:26:39,669 --> 00:26:42,350
+According to this, you're fine.
+Perfectly normal.
+
+435
+00:26:42,475 --> 00:26:44,477
+- See?
+- Then what is going on?
+
+436
+00:26:45,005 --> 00:26:46,570
+Why isn't your name in the database?
+
+437
+00:26:46,695 --> 00:26:49,076
+Why couldn't Amelia
+see you earlier today?
+
+438
+00:26:50,201 --> 00:26:52,360
+I'm pretty sure my name
+is in the database.
+
+439
+00:26:52,798 --> 00:26:54,974
+And as for Amelia,
+if she has a medical concern,
+
+440
+00:26:55,099 --> 00:26:57,036
+there's no reason
+why she shouldn't see me.
+
+441
+00:26:57,161 --> 00:26:59,409
+- When did she come by?
+- She can't see me, Richard.
+
+442
+00:27:01,134 --> 00:27:02,746
+Only you can see me.
+
+443
+00:27:03,910 --> 00:27:04,910
+Why?
+
+444
+00:27:05,037 --> 00:27:07,340
+I'd like to clarify
+the misunderstanding.
+
+445
+00:27:07,577 --> 00:27:09,472
+I don't want her thinking
+I turned her away.
+
+446
+00:27:10,586 --> 00:27:12,672
+Amelia's fine.
+I'll talk to her.
+
+447
+00:27:15,189 --> 00:27:16,039
+Great.
+
+448
+00:27:17,307 --> 00:27:18,572
+As for you,
+
+449
+00:27:19,422 --> 00:27:21,615
+you said you've been feeling unwell?
+
+450
+00:27:22,944 --> 00:27:23,934
+That's right.
+
+451
+00:27:24,161 --> 00:27:25,230
+Tired?
+
+452
+00:27:25,597 --> 00:27:26,597
+Somewhat.
+
+453
+00:27:27,288 --> 00:27:30,910
+Any visual symptoms? Shadows or flashes
+in your field of vision?
+
+454
+00:27:35,849 --> 00:27:36,821
+Sort of. Yes.
+
+455
+00:27:37,161 --> 00:27:38,661
+What about auditory symptoms?
+
+456
+00:27:38,786 --> 00:27:41,137
+Occasional ringing
+or buzzing or whistling?
+
+457
+00:27:41,262 --> 00:27:42,592
+We need to talk.
+
+458
+00:27:42,994 --> 00:27:45,845
+- Yes. The occasional buzzing.
+- Somewhere private.
+
+459
+00:27:46,986 --> 00:27:48,208
+There it goes again.
+
+460
+00:27:50,722 --> 00:27:53,091
+I bet you haven't
+been sleeping very well,
+
+461
+00:27:53,216 --> 00:27:55,422
+what with this whole
+probationary review...
+
+462
+00:27:56,117 --> 00:27:58,291
+Of course.
+That's it exactly.
+
+463
+00:27:58,416 --> 00:28:01,463
+You're obviously under a lot of stress,
+and sometimes anxiety
+
+464
+00:28:01,588 --> 00:28:03,846
+can manifest itself
+in a variety of ways,
+
+465
+00:28:03,971 --> 00:28:06,347
+but these are gonna help you relax
+
+466
+00:28:06,472 --> 00:28:08,092
+and sleep through the night.
+
+467
+00:28:08,217 --> 00:28:10,814
+And hopefully, once you're well rested,
+you'll be feeling much better,
+
+468
+00:28:10,974 --> 00:28:13,692
+and your symptoms will disappear.
+But if they don't,
+
+469
+00:28:14,123 --> 00:28:16,027
+come back and see me.
+Okay?
+
+470
+00:28:16,999 --> 00:28:18,349
+Thank you, Doctor.
+
+471
+00:28:18,474 --> 00:28:20,612
+I wouldn't advise taking those.
+
+472
+00:28:29,954 --> 00:28:34,156
+- How long have you been standing there?
+- Sorry. I didn't wanna disturb you.
+
+473
+00:28:34,281 --> 00:28:36,528
+- You seemed deep in thought.
+- I'm always deep in thought.
+
+474
+00:28:36,653 --> 00:28:37,897
+Keeps me sharp.
+
+475
+00:28:38,437 --> 00:28:39,670
+And sleepless.
+
+476
+00:28:41,003 --> 00:28:42,430
+So, what are you working on?
+
+477
+00:28:42,555 --> 00:28:45,377
+I'm just analyzing the readings
+from the radiation of the device.
+
+478
+00:28:45,502 --> 00:28:46,653
+Jeez, the radiation.
+
+479
+00:28:46,778 --> 00:28:49,016
+I'm just killing time
+till Woolsey gives us the green light
+
+480
+00:28:49,141 --> 00:28:51,189
+to start data retrieval
+on that thing.
+
+481
+00:28:52,000 --> 00:28:54,750
+- You think he will?
+- Of course. This is huge...
+
+482
+00:28:54,875 --> 00:28:58,169
+The achievements of an alien race,
+are you kidding me?
+
+483
+00:29:01,313 --> 00:29:02,540
+Wait a minute.
+
+484
+00:29:03,034 --> 00:29:04,052
+What?
+
+485
+00:29:04,931 --> 00:29:07,549
+The modulated, ultra-low frequency
+emanating from the device...
+
+486
+00:29:07,790 --> 00:29:10,122
+I've seen something like this
+before.
+
+487
+00:29:41,653 --> 00:29:43,393
+I'm sorry I made you doubt
+your sanity.
+
+488
+00:29:43,518 --> 00:29:45,699
+Who are you?
+What are you?
+
+489
+00:29:46,348 --> 00:29:47,585
+A physical manifestation
+
+490
+00:29:47,710 --> 00:29:50,608
+of your subconscious
+romantic and sexual ideals.
+
+491
+00:29:53,222 --> 00:29:54,222
+Oh, God.
+
+492
+00:29:55,683 --> 00:29:58,463
+You're not crazy.
+You're really seeing me.
+
+493
+00:29:59,803 --> 00:30:01,883
+- Why?
+- I'm sorry I had to deceive you,
+
+494
+00:30:02,350 --> 00:30:05,511
+but the survival
+of an entire civilization is at stake.
+
+495
+00:30:06,538 --> 00:30:08,220
+This has something to do
+
+496
+00:30:08,435 --> 00:30:11,309
+with that device
+Dr. McKay recovered, doesn't it?
+
+497
+00:30:14,571 --> 00:30:15,687
+She can't see me.
+
+498
+00:30:26,487 --> 00:30:29,140
+I thought I heard you talking
+with someone.
+
+499
+00:30:31,036 --> 00:30:33,400
+I was running through the pep talk
+
+500
+00:30:33,525 --> 00:30:36,287
+I'm going to be giving
+the gang in microbiology.
+
+501
+00:30:36,412 --> 00:30:37,412
+Really?
+
+502
+00:30:38,158 --> 00:30:41,312
+You know, I saw you on the balcony
+this afternoon talking with...
+
+503
+00:30:41,772 --> 00:30:42,632
+yourself.
+
+504
+00:30:44,706 --> 00:30:45,517
+I...
+
+505
+00:30:45,642 --> 00:30:49,095
+occasionally do verbalize my thoughts.
+It helps me put things in perspective.
+
+506
+00:30:49,352 --> 00:30:52,694
+A casual observer might find that
+sort of behavior a little disconcerting,
+
+507
+00:30:52,819 --> 00:30:55,086
+especially coming
+from someone in your position...
+
+508
+00:30:55,211 --> 00:30:57,617
+faced with
+a very important decision.
+
+509
+00:30:58,854 --> 00:31:00,536
+Another nail in my coffin?
+
+510
+00:31:00,661 --> 00:31:02,652
+Dr. McKay briefed me
+on the device he recovered.
+
+511
+00:31:02,812 --> 00:31:04,403
+Yes, it is an impressive find.
+
+512
+00:31:04,563 --> 00:31:06,857
+- That doesn't belong to you.
+- Please...
+
+513
+00:31:07,098 --> 00:31:08,101
+sit down.
+
+514
+00:31:11,579 --> 00:31:13,602
+He tells me you've delayed
+giving the go-ahead
+
+515
+00:31:13,727 --> 00:31:15,226
+on the data retrieval.
+
+516
+00:31:15,351 --> 00:31:19,278
+I'm not sure if Dr. McKay explained
+the dilemma we're facing...
+
+517
+00:31:19,740 --> 00:31:22,421
+I can't even believe you're considering
+letting this slip away.
+
+518
+00:31:22,581 --> 00:31:24,090
+There are other issues to consider.
+
+519
+00:31:24,250 --> 00:31:25,925
+- Such as?
+- The fate of another race.
+
+520
+00:31:26,085 --> 00:31:28,009
+Will you stay out of this!
+
+521
+00:31:29,780 --> 00:31:31,526
+I will do no such thing.
+
+522
+00:31:32,414 --> 00:31:35,754
+Their civilization is dead.
+Ours, on the other hand, is alive,
+
+523
+00:31:35,879 --> 00:31:37,352
+and we could use that information.
+
+524
+00:31:37,513 --> 00:31:40,815
+We'd be robbing a civilization
+of the opportunity to rebuild itself.
+
+525
+00:31:41,230 --> 00:31:43,425
+There's no guarante
+that a civilization will evolve
+
+526
+00:31:43,550 --> 00:31:45,000
+from the seeding process.
+
+527
+00:31:45,125 --> 00:31:47,989
+The entire race could die out
+before it even reached sentient status.
+
+528
+00:31:48,853 --> 00:31:51,747
+And we would be throwing away
+an incredible opportunity.
+
+529
+00:31:51,872 --> 00:31:52,889
+Or...
+
+530
+00:31:53,515 --> 00:31:56,133
+consigning billions
+of potential lives
+
+531
+00:31:56,780 --> 00:31:57,790
+to oblivion.
+
+532
+00:32:01,466 --> 00:32:04,003
+I can't believe
+your good fortune, Richard.
+
+533
+00:32:04,531 --> 00:32:08,134
+This is your opportunity to show
+the team back home you can play ball.
+
+534
+00:32:09,030 --> 00:32:11,546
+Follow procedure and save your job,
+
+535
+00:32:12,811 --> 00:32:15,107
+or you can hand it to me
+on a silver platter.
+
+536
+00:32:15,272 --> 00:32:16,406
+Your choice.
+
+537
+00:32:55,126 --> 00:32:56,876
+How dare you threaten me?
+
+538
+00:32:57,108 --> 00:32:58,808
+It's not a threat, Richard.
+
+539
+00:32:59,251 --> 00:33:01,812
+I'm simply telling you
+how things are going to play out
+
+540
+00:33:02,445 --> 00:33:03,731
+if we lose that device.
+
+541
+00:33:03,891 --> 00:33:06,358
+Richard, please.
+They were a kind and peaceful race,
+
+542
+00:33:06,871 --> 00:33:08,777
+one well worth saving.
+
+543
+00:33:09,492 --> 00:33:10,939
+We need to get rid of it!
+
+544
+00:33:11,064 --> 00:33:12,990
+The energy signature that device
+is giving off
+
+545
+00:33:13,150 --> 00:33:15,314
+is very similar to one
+we encountered on M1B-129.
+
+546
+00:33:15,439 --> 00:33:16,993
+It can induce mass hallucinations.
+
+547
+00:33:17,154 --> 00:33:20,636
+Or function as a means of communication
+between two very different species.
+
+548
+00:33:23,605 --> 00:33:25,040
+Let's act quickly.
+
+549
+00:33:25,324 --> 00:33:27,772
+Salvage the data
+and destroy the device.
+
+550
+00:33:27,897 --> 00:33:29,243
+Thank you all...
+
+551
+00:33:29,765 --> 00:33:31,180
+both for enlightening me.
+
+552
+00:33:31,305 --> 00:33:33,330
+I'll make my decision shortly.
+
+553
+00:33:33,808 --> 00:33:34,878
+Please.
+
+554
+00:33:42,206 --> 00:33:43,062
+Now...
+
+555
+00:33:44,077 --> 00:33:46,357
+Why don't you tell me
+what's going on?
+
+556
+00:33:46,887 --> 00:33:50,016
+This has gone on long enough.
+Use your other hand.
+
+557
+00:33:51,465 --> 00:33:52,510
+Go on.
+
+558
+00:33:55,424 --> 00:33:57,939
+I have no intention
+of letting you die.
+
+559
+00:33:59,341 --> 00:34:01,142
+Now, climb back up, John.
+
+560
+00:34:06,585 --> 00:34:07,589
+That's it.
+
+561
+00:34:22,420 --> 00:34:24,372
+What the hell's going on here?
+
+562
+00:34:25,582 --> 00:34:27,232
+Tens of thousands of years ago,
+
+563
+00:34:27,357 --> 00:34:29,760
+a civilization foresaw its end.
+
+564
+00:34:30,639 --> 00:34:32,727
+After millions of years
+of evolution,
+
+565
+00:34:32,852 --> 00:34:35,196
+the race known as the Sekkari
+faced extinction.
+
+566
+00:34:35,805 --> 00:34:37,617
+Knowing they couldn't
+save themselves,
+
+567
+00:34:37,742 --> 00:34:40,535
+they spent their final days
+creating the means to start over.
+
+568
+00:34:41,070 --> 00:34:42,623
+They built seed carriers,
+
+569
+00:34:42,774 --> 00:34:46,083
+each with a different target world
+programmed into its navigation system,
+
+570
+00:34:46,678 --> 00:34:49,419
+worlds that would provide them
+with the chemical compounds necessary
+
+571
+00:34:49,818 --> 00:34:52,268
+to produce, sustain,
+and develop life.
+
+572
+00:34:53,853 --> 00:34:55,805
+Each seed carrier
+also held a repository
+
+573
+00:34:55,930 --> 00:34:57,928
+containing the history
+of the Sekkari people...
+
+574
+00:34:58,742 --> 00:35:00,294
+Their struggles, their achievements,
+
+575
+00:35:00,419 --> 00:35:02,975
+and the mistakes that ultimately led
+to their own destruction.
+
+576
+00:35:03,416 --> 00:35:06,269
+The seed carriers were outfitted
+with subspace communicators
+
+577
+00:35:06,631 --> 00:35:09,783
+designed to alert the group
+once a seeding was successful.
+
+578
+00:35:09,908 --> 00:35:12,651
+Over 50 were launched.
+None achieved their goal.
+
+579
+00:35:13,183 --> 00:35:16,405
+This unit malfunctioned.
+I guided it to the nearest planet...
+
+580
+00:35:16,565 --> 00:35:17,634
+This world,
+
+581
+00:35:17,759 --> 00:35:20,534
+in the hope that it would prove suitable
+to the life-forming process.
+
+582
+00:35:21,433 --> 00:35:22,509
+It wasn't.
+
+583
+00:35:22,765 --> 00:35:25,748
+This device survived re-entry
+relatively unscathed,
+
+584
+00:35:25,873 --> 00:35:28,458
+then spent the next 2,000 years
+at the ocean's bottom,
+
+585
+00:35:28,847 --> 00:35:32,629
+until recently, when its dormant
+systems were awakened by its sensors
+
+586
+00:35:32,789 --> 00:35:35,716
+picking up trace readings
+from one of your submerged Jumpers.
+
+587
+00:35:36,149 --> 00:35:39,490
+The one Dr. McKay flew up
+out of the underwater bay weeks ago.
+
+588
+00:35:39,615 --> 00:35:42,597
+I scanned your city,
+and then I linked with you.
+
+589
+00:35:44,010 --> 00:35:45,388
+What are you?
+
+590
+00:35:45,662 --> 00:35:47,936
+I'm the seed carrier's
+artificial intelligence.
+
+591
+00:35:48,549 --> 00:35:51,022
+My aim was to study you,
+to get to know you,
+
+592
+00:35:51,495 --> 00:35:54,234
+and, eventually, direct you
+to help complete this unit's assignment.
+
+593
+00:35:54,592 --> 00:35:55,997
+- By manipulating me.
+- No.
+
+594
+00:35:56,122 --> 00:35:57,883
+By finding out
+what kind of person you were
+
+595
+00:35:58,008 --> 00:36:00,958
+in the hope that
+we could place our trust in you.
+
+596
+00:36:01,365 --> 00:36:03,894
+Couldn't you have simply communicated
+your situation to us
+
+597
+00:36:04,019 --> 00:36:05,359
+from the beginning?
+
+598
+00:36:05,716 --> 00:36:07,160
+Please understand...
+
+599
+00:36:07,285 --> 00:36:09,748
+I am the last hope
+for the Sekkari people.
+
+600
+00:36:10,403 --> 00:36:11,709
+I couldn't risk it.
+
+601
+00:36:12,886 --> 00:36:13,886
+I'm sorry.
+
+602
+00:36:16,026 --> 00:36:17,922
+As a soldier, you were a threat.
+
+603
+00:36:18,047 --> 00:36:20,093
+If anyone was to use force
+to secure the repository,
+
+604
+00:36:20,253 --> 00:36:22,809
+it would have been you,
+the military man.
+
+605
+00:36:23,111 --> 00:36:26,049
+So I connected with your mind
+to distract you.
+
+606
+00:36:26,369 --> 00:36:27,757
+Distract me?
+
+607
+00:36:28,692 --> 00:36:32,363
+Making me think the Jumper was sabotaged
+would've been enough of a distraction.
+
+608
+00:36:32,488 --> 00:36:34,589
+You would have discovered
+the subterfuge.
+
+609
+00:36:34,714 --> 00:36:37,324
+I'm unable to maintain
+a static illusion over time.
+
+610
+00:36:37,449 --> 00:36:39,987
+It was necessary
+to keep your mind occupied.
+
+611
+00:36:40,197 --> 00:36:42,408
+- And that's what you chose?
+- What you chose.
+
+612
+00:36:42,533 --> 00:36:44,701
+I didn't have full control
+over your hallucination
+
+613
+00:36:44,861 --> 00:36:46,616
+or the direction it took.
+
+614
+00:36:46,822 --> 00:36:49,200
+It was your mind
+driving the diversion.
+
+615
+00:36:49,325 --> 00:36:50,936
+I merely played along.
+
+616
+00:36:51,413 --> 00:36:52,876
+Are you saying I tortured myself?
+
+617
+00:36:53,187 --> 00:36:54,920
+You torture yourself
+every day, John.
+
+618
+00:36:55,524 --> 00:36:58,672
+But in this case, it was your mind
+manifesting your darkest fears.
+
+619
+00:36:59,057 --> 00:37:02,092
+You were the architect
+of your own self-deception.
+
+620
+00:37:05,374 --> 00:37:06,982
+Now you know the truth
+
+621
+00:37:08,261 --> 00:37:10,176
+and have a decision to make.
+
+622
+00:37:15,112 --> 00:37:17,263
+Colonel, where were you?
+We're sitting here for...
+
+623
+00:37:17,388 --> 00:37:19,339
+Shut up. Get in the Jumper.
+
+624
+00:37:25,009 --> 00:37:26,827
+<i>Sorry to disturb you, Ms. Shen,</i>
+
+625
+00:37:26,952 --> 00:37:29,581
+<i>but you've just received
+a secure transmission from Earth.</i>
+
+626
+00:37:29,706 --> 00:37:31,790
+- <i>Can I patch it through?</i>
+- Go ahead.
+
+627
+00:37:35,699 --> 00:37:37,507
+Luthor.
+How are things?
+
+628
+00:37:37,632 --> 00:37:38,634
+<i>Well,</i>
+
+629
+00:37:38,759 --> 00:37:42,596
+<i>but I felt it only fair to inform you
+of recent developments here.</i>
+
+630
+00:37:43,079 --> 00:37:46,387
+<i>As much as I believe you'd be
+a worthy candidate to replace Richard,</i>
+
+631
+00:37:47,269 --> 00:37:49,969
+<i>I'm afraid the rest of the council
+feels otherwise.</i>
+
+632
+00:37:50,094 --> 00:37:53,016
+<i>It looks like we'll be going
+with James Coolidge instead.</i>
+
+633
+00:37:53,141 --> 00:37:54,771
+- Coolidge?
+- <i>Don't worry.</i>
+
+634
+00:37:55,560 --> 00:37:58,941
+<i>You'll still be rewarded
+for facilitating the transition.</i>
+
+635
+00:37:59,078 --> 00:38:00,328
+<i>Congratulations.</i>
+
+636
+00:38:00,556 --> 00:38:03,779
+<i>You'll be chairing the IOA's
+new environmental initiative.</i>
+
+637
+00:38:15,441 --> 00:38:16,472
+I'm off.
+
+638
+00:38:17,269 --> 00:38:19,371
+I suppose I'll be joining you shortly.
+
+639
+00:38:19,496 --> 00:38:22,215
+Don't make any holiday plans.
+You're not going anywhere.
+
+640
+00:38:23,035 --> 00:38:24,946
+I gave you a glowing review.
+
+641
+00:38:25,372 --> 00:38:28,345
+And since your future rests
+entirely on my report,
+
+642
+00:38:28,744 --> 00:38:31,219
+I'd like to be the first
+to congratulate you as the new
+
+643
+00:38:31,344 --> 00:38:34,435
+Permanent Commander
+of the Atlantis expedition.
+
+644
+00:38:36,207 --> 00:38:37,657
+I don't understand.
+
+645
+00:38:39,477 --> 00:38:41,985
+Like you, Richard,
+I'm nobody's puppet.
+
+646
+00:38:42,635 --> 00:38:46,126
+They should've thought of that
+before delivering yesterday's update.
+
+647
+00:38:47,226 --> 00:38:48,255
+Good luck.
+
+648
+00:38:55,403 --> 00:38:56,928
+Yesterday's update?
+
+649
+00:38:57,355 --> 00:38:59,485
+I don't know
+what she's talking about, sir.
+
+650
+00:38:59,610 --> 00:39:02,456
+We haven't had
+a scheduled dial-out in days.
+
+651
+00:39:11,049 --> 00:39:13,145
+Could I have a moment alone, Amelia?
+
+652
+00:39:13,270 --> 00:39:14,270
+Yes, sir.
+
+653
+00:39:18,444 --> 00:39:20,023
+I assume that you're responsible?
+
+654
+00:39:20,602 --> 00:39:22,816
+Consider it a going-away present.
+
+655
+00:39:24,024 --> 00:39:25,028
+Thank you.
+
+656
+00:39:27,857 --> 00:39:28,903
+Alrighty.
+
+657
+00:39:29,357 --> 00:39:32,862
+Here we are,
+all fixed up and ready to roll.
+
+658
+00:39:33,487 --> 00:39:35,496
+What happens
+when you reach your destination?
+
+659
+00:39:35,656 --> 00:39:36,803
+Destination?
+
+660
+00:39:37,106 --> 00:39:39,511
+You're talking to the AI,
+aren't you?
+
+661
+00:39:40,535 --> 00:39:43,420
+I'll start the process
+that will give life to the Sekkari,
+
+662
+00:39:43,771 --> 00:39:46,716
+and then I'll go to sleep
+until a time when I'm needed again.
+
+663
+00:39:51,796 --> 00:39:54,348
+I realize it may have been
+an unpleasant experience...
+
+664
+00:39:54,540 --> 00:39:56,309
+Yeah, well, just a little bit.
+
+665
+00:39:57,029 --> 00:39:59,604
+- What... you can see her too?
+- And I want you to know
+
+666
+00:39:59,764 --> 00:40:01,731
+I'm sorry for what
+you had to go through.
+
+667
+00:40:03,830 --> 00:40:05,754
+The Apollo is ready to beam.
+
+668
+00:40:08,819 --> 00:40:10,656
+The ship will take you
+to your target planet.
+
+669
+00:40:11,304 --> 00:40:13,044
+I don't mean to complain
+or anything,
+
+670
+00:40:13,169 --> 00:40:16,030
+it's just I spent the day
+making sure this was in working order.
+
+671
+00:40:16,155 --> 00:40:19,048
+It would be kind of nice
+to just get a little face time with...
+
+672
+00:40:19,173 --> 00:40:20,457
+Here you are, Dr. McKay...
+
+673
+00:40:21,219 --> 00:40:23,239
+The true form of the Sekkari.
+
+674
+00:40:28,586 --> 00:40:29,589
+Neat.
+
+675
+00:40:32,927 --> 00:40:33,970
+Good luck.
+
+676
+00:40:40,661 --> 00:40:41,713
+"Neat"?
+
+677
+00:40:41,838 --> 00:40:44,449
+What? I... She caught me off guard.
+What did you want me to say?
+
+678
+00:40:44,574 --> 00:40:47,093
+- What would you have said?
+- "Weird."
+
+679
+00:40:54,546 --> 00:40:56,347
+Would you care to join us?
+
+680
+00:40:56,718 --> 00:40:59,276
+Well, actually,
+I have some reports to file...
+
+681
+00:40:59,880 --> 00:41:02,011
+Thank you.
+I'd love to join you.
+
+682
+00:41:07,264 --> 00:41:09,372
+So, you really had no idea
+
+683
+00:41:09,497 --> 00:41:11,282
+that what you were seeing
+wasn't real?
+
+684
+00:41:11,407 --> 00:41:12,407
+Trust me,
+
+685
+00:41:13,318 --> 00:41:15,722
+the manifestations
+were very convincing, Doctor.
+
+686
+00:41:15,847 --> 00:41:17,180
+You wouldn't have known.
+
+687
+00:41:17,305 --> 00:41:19,754
+With all due respect,
+I think they knew they couldn't fool me,
+
+688
+00:41:19,879 --> 00:41:21,940
+so they, you know, didn't bother.
+
+689
+00:41:22,380 --> 00:41:25,428
+- They just concentrated on you two.
+- You know what I don't get,
+
+690
+00:41:25,701 --> 00:41:27,911
+is the AI thing
+revealed itself that morning,
+
+691
+00:41:28,036 --> 00:41:30,183
+you discover the device
+that afternoon.
+
+692
+00:41:30,308 --> 00:41:32,153
+I mean, that's perfect timing.
+
+693
+00:41:32,408 --> 00:41:34,511
+The Colonel's right.
+That was very coincidental.
+
+694
+00:41:34,636 --> 00:41:36,761
+And I know what you're implying,
+but my mind was clear.
+
+695
+00:41:36,886 --> 00:41:40,079
+That device was found
+because of my brilliant thinking
+
+696
+00:41:40,204 --> 00:41:43,087
+and, as much as I hate to admit it,
+a little help from Zelenka.
+
+697
+00:41:43,212 --> 00:41:44,995
+What?
+Zelenka's off-world.
+
+698
+00:41:45,120 --> 00:41:47,377
+No, he's not.
+He came back yesterday.
+
+699
+00:41:50,057 --> 00:41:52,574
+Lieutenant Donovan had a nasty reaction
+to something he ate,
+
+700
+00:41:52,699 --> 00:41:54,292
+they came back early.
+
+701
+00:41:55,488 --> 00:41:56,615
+Didn't they?
+
+702
+00:42:00,144 --> 00:42:01,347
+Son of a...
+
+703
+00:42:01,472 --> 00:42:04,027
+Guess it wasn't that much
+of coincidence after all.
+

@@ -1,0 +1,1879 @@
+1
+00:00:00,766 --> 00:00:03,960
+<i>Dans le futur,
+un système informatique nommé Skynet</i>
+
+2
+00:00:04,130 --> 00:00:06,158
+<i>déclarera la guerre à l'humanité.</i>
+
+3
+00:00:07,576 --> 00:00:09,681
+<i>Des machines ont été envoyées
+dans le passé</i>
+
+4
+00:00:09,851 --> 00:00:12,609
+<i>prenant forme humaine
+pour tuer John Connor,</i>
+
+5
+00:00:12,926 --> 00:00:15,252
+<i>le futur leader de la Résistance.</i>
+
+6
+00:00:17,097 --> 00:00:19,213
+<i>Sarah Connor, la mère de John,</i>
+
+7
+00:00:19,475 --> 00:00:20,798
+<i>sage et bienveillante.</i>
+
+8
+00:00:22,087 --> 00:00:24,618
+<i>Cameron, un Terminator reprogrammé</i>
+
+9
+00:00:24,788 --> 00:00:26,554
+<i>pour les défendre à tout prix.</i>
+
+10
+00:00:27,336 --> 00:00:29,221
+<i>Derek Reese, l'oncle de John</i>
+
+11
+00:00:29,391 --> 00:00:31,600
+<i>et officier dans la résistance.</i>
+
+12
+00:00:32,333 --> 00:00:36,301
+<i>Ensemble, ils combattent
+pour empêcher la création de Skynet.</i>
+
+13
+00:00:36,550 --> 00:00:39,024
+<i>La guerre pour notre avenir
+commence aujourd'hui.</i>
+
+14
+00:00:39,244 --> 00:00:41,076
+Épisode 203 : The Mousetrap
+<i>v 1.01</i>
+
+15
+00:00:41,246 --> 00:00:43,741
+http://Projet-SG.net
+
+16
+00:00:44,799 --> 00:00:46,958
+<i>Précédemment...</i>
+
+17
+00:00:47,501 --> 00:00:48,792
+Viens si tu veux vivre.
+
+18
+00:00:49,053 --> 00:00:52,922
+T'as pas bougé depuis qu'on est sortis
+du cours d'anglais.
+
+19
+00:00:53,198 --> 00:00:55,049
+- Et tu t'appelles ?
+- Riley.
+
+20
+00:00:55,311 --> 00:00:57,092
+T'as jamais amené de fille ?
+
+21
+00:00:57,620 --> 00:00:58,928
+- Non.
+- On emménage.
+
+22
+00:00:59,190 --> 00:01:01,305
+Dès que je trouve
+où mettre les affaires.
+
+23
+00:01:01,567 --> 00:01:03,974
+- On prend le tout.
+- Cromartie a tué 20 types du FBI.
+
+24
+00:01:04,236 --> 00:01:05,517
+Il est là pour moi.
+
+25
+00:01:05,779 --> 00:01:07,686
+- Je cherche les Connor.
+- Sarah Connor ?
+
+26
+00:01:07,948 --> 00:01:10,184
+M. Dixon voulait l'épouser,
+avant vous.
+
+27
+00:01:10,354 --> 00:01:13,484
+Alors, emmène ta femme.
+Partez aussi loin que possible.
+
+28
+00:01:13,746 --> 00:01:15,986
+Oublie-moi. Oublie John.
+Pars.
+
+29
+00:01:16,247 --> 00:01:17,329
+C'est dangereux.
+
+30
+00:01:17,499 --> 00:01:19,698
+On a toujours cru
+qu'on élèverait nos enfants ici.
+
+31
+00:01:19,960 --> 00:01:21,450
+On peut plus rien planifier.
+
+32
+00:01:21,800 --> 00:01:22,826
+Pour la route.
+
+33
+00:03:29,502 --> 00:03:31,604
+Tu m'as pris ma boisson, bébé ?
+
+34
+00:04:14,607 --> 00:04:17,605
+Ça fait que 100 ans
+que j'attends une télé ici.
+
+35
+00:04:18,058 --> 00:04:19,196
+Ou 200 ans.
+
+36
+00:04:20,143 --> 00:04:21,307
+Tant que ça ?
+
+37
+00:04:21,478 --> 00:04:23,078
+Un moment en tout cas.
+
+38
+00:04:23,567 --> 00:04:25,843
+L'ex-père du bébé
+en voulait pas dans la chambre.
+
+39
+00:04:26,399 --> 00:04:28,025
+Regarde ce que ça a donné.
+
+40
+00:04:28,195 --> 00:04:31,214
+Enfin, ça, six bières
+et la méthode du calendrier.
+
+41
+00:04:32,059 --> 00:04:33,952
+- J'en ai trop dit ?
+- Ouais, un peu.
+
+42
+00:04:34,122 --> 00:04:37,396
+J'appelle le gars du câble ?
+Je pense même pas être câblée, ici.
+
+43
+00:04:39,669 --> 00:04:40,858
+Maintenant, si.
+
+44
+00:04:41,730 --> 00:04:45,028
+Mais j'en parlerais à personne.
+Surtout pas au type du câble.
+
+45
+00:04:45,299 --> 00:04:46,551
+Petit futé.
+
+46
+00:04:55,008 --> 00:04:56,135
+<i>Magicien Dompteur,</i>
+
+47
+00:04:56,305 --> 00:04:59,418
+<i>le Royaume du Carbu
+ne sera jamais tien.</i>
+
+48
+00:04:59,730 --> 00:05:01,168
+<i>Allons, allons Seth.</i>
+
+49
+00:05:02,104 --> 00:05:04,102
+<i>Ce n'est pas une façon
+de traiter son frère.</i>
+
+50
+00:05:04,272 --> 00:05:07,401
+<i>Magicien Dompteur 7.
+Le film à petit budget,</i>
+
+51
+00:05:07,571 --> 00:05:10,392
+<i>inconnu lors de sa sortie en DVD
+il y a deux ans,</i>
+
+52
+00:05:10,562 --> 00:05:14,557
+<i>a généré 6 millions de dollars
+et une nouvelle star.</i>
+
+53
+00:05:14,977 --> 00:05:16,810
+<i>Quand sa vedette, George Lazlo,</i>
+
+54
+00:05:17,072 --> 00:05:18,302
+<i>sans raison apparente,</i>
+
+55
+00:05:18,472 --> 00:05:21,756
+<i>a tué 20 membres
+d'une unité spéciale du FBI</i>
+
+56
+00:05:21,926 --> 00:05:24,818
+<i>lors d'une fusillade
+à l'immeuble Reseda.</i>
+
+57
+00:05:25,080 --> 00:05:28,697
+<i>La vie de l'acteur, souvenez-vous,
+a aussi été emportée dans ce massacre.</i>
+
+58
+00:05:29,237 --> 00:05:32,696
+Une amie de mon école de cuisine
+a travaillé sur le film.
+
+59
+00:05:32,866 --> 00:05:35,466
+Elle l'aimait bien.
+Il mangeait avec l'équipe.
+
+60
+00:05:37,355 --> 00:05:39,369
+Cette ville peut te démolir.
+
+61
+00:05:48,469 --> 00:05:49,718
+Tu fais quoi ?
+
+62
+00:05:50,258 --> 00:05:52,846
+C'est le centre absolu
+de la maison.
+
+63
+00:05:53,261 --> 00:05:54,514
+Bien. Bon travail.
+
+64
+00:05:55,088 --> 00:05:56,590
+La maison bouge.
+
+65
+00:05:57,184 --> 00:05:58,591
+- Quoi ?
+- Elle bouge.
+
+66
+00:05:59,004 --> 00:06:01,521
+Le côté sud-sud-est
+de la maison bouge.
+
+67
+00:06:02,037 --> 00:06:04,441
+- Vraiment ? Où ça va ?
+- En bas.
+
+68
+00:06:04,735 --> 00:06:07,110
+À un taux de 0,93 millimètre
+par an.
+
+69
+00:06:08,629 --> 00:06:11,156
+Et alors ?
+Ça influe sur le système de sécurité,
+
+70
+00:06:11,418 --> 00:06:13,330
+ou la portée de la vision de nuit ?
+
+71
+00:06:13,500 --> 00:06:16,328
+En quoi ça concerne la sureté
+du John Connor ?
+
+72
+00:06:17,852 --> 00:06:21,124
+En rien. Mais l'été prochain,
+il faudra repeindre.
+
+73
+00:06:28,602 --> 00:06:30,217
+T'as réglé la télé de Kacy ?
+
+74
+00:06:31,813 --> 00:06:33,513
+T'as pas piraté le câble,
+j'espère.
+
+75
+00:06:33,683 --> 00:06:36,156
+Une femme enceinte
+devrait pas regarder la télé hertzienne.
+
+76
+00:06:36,326 --> 00:06:39,351
+- C'est mauvais pour le bébé.
+- T'y connais rien en bébé.
+
+77
+00:06:39,613 --> 00:06:40,686
+Ils grandissent.
+
+78
+00:06:52,900 --> 00:06:54,032
+18 novembre.
+
+79
+00:06:54,338 --> 00:06:56,076
+<i>Johnny ? C'est le code, non ?</i>
+
+80
+00:06:59,383 --> 00:07:01,031
+- T'es où ?
+- On...
+
+81
+00:07:01,404 --> 00:07:02,799
+quittait la ville.
+
+82
+00:07:02,969 --> 00:07:04,428
+On s'en va.
+
+83
+00:07:05,583 --> 00:07:07,277
+- Pourquoi ?
+- Je...
+
+84
+00:07:08,547 --> 00:07:11,443
+Tu peux attendre une seconde,
+s'il te plaît, John ?
+
+85
+00:07:26,988 --> 00:07:28,189
+OK, je suis...
+
+86
+00:07:29,200 --> 00:07:30,595
+Je suis là. Tu...
+
+87
+00:07:31,990 --> 00:07:33,322
+Écoute, d'accord ?
+
+88
+00:07:33,710 --> 00:07:36,279
+<i>J'ai besoin de dire au revoir
+à ta mère.</i>
+
+89
+00:07:37,031 --> 00:07:39,161
+<i>J'ai pas eu la chance
+de lui dire au revoir et...</i>
+
+90
+00:07:39,423 --> 00:07:40,912
+<i>j'ai pas son numéro.</i>
+
+91
+00:07:41,174 --> 00:07:43,524
+J'ai pensé
+que tu pourrais peut-être...
+
+92
+00:07:43,741 --> 00:07:45,835
+tu sais,
+lui demander de m'appeler.
+
+93
+00:07:46,696 --> 00:07:47,696
+Attends.
+
+94
+00:07:51,726 --> 00:07:52,915
+C'est pour toi.
+
+95
+00:07:54,794 --> 00:07:55,794
+Allo ?
+
+96
+00:07:58,213 --> 00:07:59,222
+Il a ma femme.
+
+97
+00:08:00,858 --> 00:08:02,934
+Qu'est-ce que tu veux que je dise,
+Charley ?
+
+98
+00:08:03,549 --> 00:08:06,396
+<i>Aide-moi s'il te plaît, Sarah.
+On vient de quitter la ville.</i>
+
+99
+00:08:06,658 --> 00:08:08,370
+Et il... Il l'a prise !
+
+100
+00:08:09,709 --> 00:08:13,487
+Avec John en face de moi.
+Qu'est-ce que tu veux que je dise ?
+
+101
+00:08:13,866 --> 00:08:14,988
+<i>Je suis désolé.</i>
+
+102
+00:08:15,250 --> 00:08:17,552
+Je savais pas qui d'autre appeler.
+
+103
+00:08:18,969 --> 00:08:19,969
+S'il te plaît.
+
+104
+00:08:20,139 --> 00:08:22,239
+S'il te plaît, aide-moi, Sarah.
+
+105
+00:08:24,763 --> 00:08:27,834
+T'aurais pas dû appeler, Charley.
+T'as bien fait de partir.
+
+106
+00:08:31,244 --> 00:08:34,299
+Je veux pas savoir où t'es
+"au cas où j'en aurais besoin de toi".
+
+107
+00:08:35,358 --> 00:08:37,260
+<i>J'aurai pas besoin de toi.</i>
+
+108
+00:08:38,355 --> 00:08:40,889
+C'est mieux pour toi si je sais rien.
+Tu comprends ?
+
+109
+00:08:41,263 --> 00:08:43,465
+Attends une seconde...
+
+110
+00:08:44,632 --> 00:08:46,561
+T'es en train de me demander
+où je suis ?
+
+111
+00:08:50,452 --> 00:08:51,927
+Oui, c'est le cas.
+
+112
+00:08:54,071 --> 00:08:56,263
+Je suis près d'un stand de fruit.
+
+113
+00:08:57,533 --> 00:08:58,533
+C'est...
+
+114
+00:08:59,275 --> 00:09:01,618
+C'est quelque part sur la 14.
+
+115
+00:09:01,880 --> 00:09:04,734
+Au sud de California City.
+Je crois.
+
+116
+00:09:05,360 --> 00:09:07,999
+S'il te plaît.
+J'ai besoin de ton aide, Sarah.
+
+117
+00:09:08,265 --> 00:09:09,773
+Sois prudent, Charley.
+
+118
+00:09:13,157 --> 00:09:15,888
+Je t'avais dit
+de pas lui filer ton numéro.
+
+119
+00:09:18,324 --> 00:09:19,886
+Ça bouge, là-haut.
+
+120
+00:09:20,148 --> 00:09:22,848
+- C'est dangereux ?
+- C'est un oiseau.
+
+121
+00:09:23,546 --> 00:09:25,183
+Je le tuerai avant qu'il s'envole.
+
+122
+00:09:28,354 --> 00:09:30,756
+- Peut-être plus tard ?
+- Peut-être jamais.
+
+123
+00:09:31,351 --> 00:09:32,859
+John va acheter un ordinateur.
+
+124
+00:09:33,550 --> 00:09:37,155
+- Va avec lui. Le perds pas de vue.
+- Je dois savoir quelque chose ?
+
+125
+00:09:38,306 --> 00:09:40,031
+Que tu dois pas le perdre de vue.
+
+126
+00:09:41,431 --> 00:09:43,671
+Et touche pas à cet oiseau.
+
+127
+00:09:50,262 --> 00:09:52,694
+Cromartie
+a la femme de Charley Dixon.
+
+128
+00:09:53,598 --> 00:09:54,752
+Où est John ?
+
+129
+00:09:55,259 --> 00:09:58,384
+Il va chercher des ordinateurs.
+Il est avec Cameron. Ils savent pas.
+
+130
+00:10:00,697 --> 00:10:01,554
+Où tu vas ?
+
+131
+00:10:02,506 --> 00:10:04,472
+Tu sais où je vais.
+Tu peux venir.
+
+132
+00:10:04,933 --> 00:10:07,618
+- Tu peux pas.
+- Pourtant, j'y vais.
+
+133
+00:10:09,571 --> 00:10:11,396
+C'est un piège pour attraper John.
+
+134
+00:10:11,658 --> 00:10:12,731
+Je sais.
+
+135
+00:10:13,293 --> 00:10:16,735
+- Tu vois John, là ?
+- C'est la pire chose à faire.
+
+136
+00:10:17,133 --> 00:10:18,528
+Ça serait pas une première.
+
+137
+00:10:19,806 --> 00:10:21,774
+Attends, d'accord ?
+Attends.
+
+138
+00:10:21,944 --> 00:10:22,944
+Grouille-toi.
+
+139
+00:12:34,240 --> 00:12:37,295
+Cameron, Cameron.
+Laisse-moi t'aider.
+
+140
+00:12:39,056 --> 00:12:41,700
+- J'avais pas besoin d'aide.
+- Bien sûr que si.
+
+141
+00:12:45,885 --> 00:12:46,900
+Exact.
+
+142
+00:12:52,683 --> 00:12:55,007
+- Salut.
+- Je m'ennuie. On va se balader ?
+
+143
+00:12:55,177 --> 00:12:56,686
+J'ai oublié.
+18 novembre.
+
+144
+00:12:57,592 --> 00:12:59,576
+- T'es où ?
+- <i>La promenade.</i>
+
+145
+00:12:59,746 --> 00:13:01,691
+<i>Le kiosque, en face du café.</i>
+
+146
+00:13:02,413 --> 00:13:04,737
+Je suis fascinée par les gros seins.
+
+147
+00:13:07,497 --> 00:13:09,491
+Je peux y être d'ici 15 minutes.
+
+148
+00:13:09,753 --> 00:13:11,576
+Le monde a le temps d'exploser.
+
+149
+00:13:12,728 --> 00:13:15,288
+- Disons que j'en doute.
+- <i>On sait jamais.</i>
+
+150
+00:13:15,550 --> 00:13:17,997
+- Des tas de gros seins.
+- Bouge pas, d'accord ?
+
+151
+00:13:20,760 --> 00:13:22,337
+Tu peux me déposer ?
+
+152
+00:13:23,738 --> 00:13:25,130
+C'était Riley ?
+
+153
+00:13:25,827 --> 00:13:27,350
+Ça te regarde pas.
+
+154
+00:13:28,563 --> 00:13:30,699
+Ta mère m'a dit de te surveiller.
+
+155
+00:13:30,869 --> 00:13:33,181
+Ça veut pas dire
+que tu dois me suivre partout.
+
+156
+00:13:33,581 --> 00:13:34,433
+Si.
+
+157
+00:13:35,708 --> 00:13:38,513
+C'est pas parce que maman l'a dit
+que tu dois le faire.
+
+158
+00:13:38,683 --> 00:13:41,252
+Je suis plus un gosse.
+Je peux faire une course, voir un ami,
+
+159
+00:13:41,422 --> 00:13:43,650
+ou faire ce que font les autres.
+
+160
+00:13:44,073 --> 00:13:45,652
+Les autres ne sont pas comme toi.
+
+161
+00:13:47,169 --> 00:13:48,739
+T'as qu'à me déposer.
+
+162
+00:14:15,495 --> 00:14:18,436
+<i>J'avais entendu dire
+que ces arbres avaient de beaux fruits.</i>
+
+163
+00:14:18,697 --> 00:14:20,684
+<i>Mais je m'attendais pas à ça.</i>
+
+164
+00:14:25,528 --> 00:14:26,985
+<i>Je vous préviens, Madame.</i>
+
+165
+00:14:27,607 --> 00:14:30,013
+<i>Mon ami tigré grimpe très bien.</i>
+
+166
+00:14:35,557 --> 00:14:37,814
+- Allo.
+- <i>Agent James Ellison, je vous prie.</i>
+
+167
+00:14:37,996 --> 00:14:41,351
+- C'est moi.
+- <i>Je suis Catherine Weaver, M. Ellison.</i>
+
+168
+00:14:42,261 --> 00:14:44,853
+J'aimerais vous parler
+d'une opportunité.
+
+169
+00:14:45,887 --> 00:14:47,513
+Ça ne m'intéresse pas.
+
+170
+00:14:47,683 --> 00:14:49,884
+<i>Une opportunité d'emploi, Agent Ellison.</i>
+
+171
+00:14:50,589 --> 00:14:54,304
+Je présume que vous ne retournez pas
+au FBI après votre arrêt.
+
+172
+00:14:55,767 --> 00:14:58,991
+- Où vous avez eu mon numéro ?
+- Je vous le dirai au déjeuner.
+
+173
+00:14:59,161 --> 00:15:01,411
+Disons à... une heure ?
+
+174
+00:15:01,720 --> 00:15:03,474
+Mon assistant vous donnera l'adresse.
+
+175
+00:15:05,694 --> 00:15:07,313
+Je vous connais pas.
+
+176
+00:15:07,483 --> 00:15:09,068
+Et... je suis très occupé.
+
+177
+00:15:09,330 --> 00:15:10,497
+Non, c'est faux.
+
+178
+00:15:10,944 --> 00:15:12,132
+Venez déjeuner.
+
+179
+00:15:12,625 --> 00:15:16,350
+<i>Nous parlerons de qui ou quoi
+a tué vos collègues.</i>
+
+180
+00:15:40,570 --> 00:15:41,861
+Allez. Allez.
+
+181
+00:15:48,334 --> 00:15:50,693
+- Où il a pu l'emmener ?
+- Je sais pas.
+
+182
+00:15:50,955 --> 00:15:53,112
+- Alors, comment on la trouve ?
+- Je sais pas.
+
+183
+00:15:53,374 --> 00:15:55,156
+- Tu sais pas ?
+- Non.
+
+184
+00:15:58,003 --> 00:16:01,999
+- Il nous observe peut-être. On bouge.
+- On doit trouver ma femme.
+
+185
+00:16:02,342 --> 00:16:05,882
+Elle vous le dira pas, mais moi oui.
+Il l'a enlevée pour attirer John.
+
+186
+00:16:06,052 --> 00:16:08,337
+Vous pensez qu'elle compte pour lui ?
+Elle est morte.
+
+187
+00:16:13,705 --> 00:16:15,718
+- C'est elle.
+- Vérifiez-le.
+
+188
+00:16:16,872 --> 00:16:19,055
+Ils peuvent nous imiter.
+Faut t'en assurer.
+
+189
+00:16:21,501 --> 00:16:22,309
+Bébé.
+
+190
+00:16:26,995 --> 00:16:29,233
+- <i>Chérie, ça va ? T'es blessée ?</i>
+- Non.
+
+191
+00:16:29,494 --> 00:16:31,043
+Il est avec toi ?
+
+192
+00:16:31,213 --> 00:16:33,194
+<i>Oui, il est à côté.</i>
+
+193
+00:16:33,620 --> 00:16:34,917
+Je l'entends.
+
+194
+00:16:35,375 --> 00:16:38,616
+- T'es où ?
+- <i>En dehors de Mojave.</i>
+
+195
+00:16:39,054 --> 00:16:40,886
+Dans un bâtiment abandonné.
+
+196
+00:16:41,056 --> 00:16:43,788
+À environ sept...
+huit kilomètres de l'autoroute.
+
+197
+00:16:44,050 --> 00:16:45,373
+- La 14 ?
+- <i>Oui.</i>
+
+198
+00:16:45,635 --> 00:16:48,668
+Il y a un panneau de...
+
+199
+00:16:49,306 --> 00:16:51,264
+<i>je sais pas, un bureau.</i>
+
+200
+00:16:51,434 --> 00:16:53,172
+<i>Un chemin part devant,</i>
+
+201
+00:16:53,643 --> 00:16:56,134
+- <i>vers l'est.</i>
+- Vérifiez que c'est elle.
+
+202
+00:16:56,396 --> 00:16:58,907
+C'est elle.
+Je reconnaîtrais pas ma femme ?
+
+203
+00:17:03,459 --> 00:17:04,268
+Vérifie.
+
+204
+00:17:08,154 --> 00:17:10,607
+Chérie, écoute attentivement,
+d'accord ?
+
+205
+00:17:10,936 --> 00:17:13,269
+Notre première nuit, c'était où ?
+
+206
+00:17:13,439 --> 00:17:15,996
+- <i>Quoi ?</i>
+- Réponds à la question, s'il te plaît.
+
+207
+00:17:16,622 --> 00:17:19,080
+Notre première fois, c'était où ?
+
+208
+00:17:21,470 --> 00:17:22,625
+La plage...
+
+209
+00:17:23,556 --> 00:17:24,636
+<i>Laquelle ?</i>
+
+210
+00:17:24,806 --> 00:17:27,162
+Charley, je sais pas...
+Quoi ?
+
+211
+00:17:28,887 --> 00:17:31,185
+À Malibu.
+À Paradise Cove.
+
+212
+00:17:31,355 --> 00:17:34,063
+Exact, et y a eu quoi au dîner,
+ce soir-là ?
+
+213
+00:17:34,392 --> 00:17:37,508
+Tu veux dire quoi, Charley ?
+Tu veux dire quoi ? Je sais pas.
+
+214
+00:17:37,769 --> 00:17:39,927
+S'il te plaît, réponds.
+Y a eu quoi au dîner ?
+
+215
+00:17:40,189 --> 00:17:42,764
+Mon Dieu...
+Le magicien a pris ma montre ?
+
+216
+00:17:44,408 --> 00:17:46,267
+Je t'aime, bébé, tu entends ?
+
+217
+00:17:46,529 --> 00:17:49,135
+<i>On va venir te chercher.
+Tiens le coup.</i>
+
+218
+00:18:29,557 --> 00:18:30,763
+S'il vous plaît.
+
+219
+00:18:31,566 --> 00:18:32,939
+Pourquoi vous faites ça ?
+
+220
+00:18:34,614 --> 00:18:36,235
+Pourquoi...
+Non, pas de scotch.
+
+221
+00:18:36,733 --> 00:18:39,494
+Je vais pas crier.
+Je jure que je vais pas crier.
+
+222
+00:18:47,494 --> 00:18:50,560
+En 1897, James Atkinson
+invente la souricière.
+
+223
+00:18:52,978 --> 00:18:55,753
+Son ressort la ferme
+en 38 millièmes de seconde.
+
+224
+00:19:03,064 --> 00:19:04,804
+Ce record n'a jamais été battu.
+
+225
+00:19:12,081 --> 00:19:13,604
+C'est dur de faire mieux.
+
+226
+00:19:29,685 --> 00:19:31,914
+Tu sais ce qui m'énerve,
+avec ces magazines ?
+
+227
+00:19:32,553 --> 00:19:34,917
+Tout ce qu'ils veulent,
+c'est te convertir à leur culte.
+
+228
+00:19:36,300 --> 00:19:38,254
+Genre... tout est dans le titre.
+
+229
+00:19:38,516 --> 00:19:40,923
+C'est nous, les people, et ça va.
+
+230
+00:19:41,915 --> 00:19:44,946
+Mais certains d'entre nous
+vont pas bien.
+
+231
+00:19:45,494 --> 00:19:48,806
+Certains d'entre nous sont...
+des machines populaires.
+
+232
+00:19:49,267 --> 00:19:50,297
+C'est ça.
+
+233
+00:19:50,610 --> 00:19:52,852
+Certains sont...
+les armes et les munitions.
+
+234
+00:19:53,114 --> 00:19:55,271
+Ouais, toi tu racontes des histoires.
+
+235
+00:19:56,402 --> 00:19:58,858
+C'est toi qui racontes des histoires.
+
+236
+00:20:01,941 --> 00:20:04,155
+Alors... tu reviens à l'école ?
+
+237
+00:20:05,673 --> 00:20:07,246
+Non, je crois pas.
+
+238
+00:20:07,873 --> 00:20:11,412
+Ma mère veut...
+que je prenne des cours chez moi.
+
+239
+00:20:12,586 --> 00:20:14,624
+Tout le monde aura passé
+un bon moment.
+
+240
+00:20:15,933 --> 00:20:16,949
+Quoi ?
+
+241
+00:20:17,740 --> 00:20:18,837
+Je te manque ?
+
+242
+00:20:20,095 --> 00:20:21,720
+Calme-toi, chaud lapin.
+
+243
+00:20:21,890 --> 00:20:24,550
+Je sais même pas
+quelle marque de foin tu préfères.
+
+244
+00:20:24,811 --> 00:20:26,106
+Chaud lapin...
+
+245
+00:20:27,898 --> 00:20:29,409
+Mec.
+Ta soeur.
+
+246
+00:20:36,460 --> 00:20:38,201
+On y va. Tout de suite.
+
+247
+00:21:13,254 --> 00:21:15,620
+Attends.
+Comment on entre ?
+
+248
+00:21:15,815 --> 00:21:17,662
+C'est pas ça, le problème.
+
+249
+00:21:21,412 --> 00:21:23,245
+Essaie de tuer un truc en métal.
+
+250
+00:22:25,907 --> 00:22:26,945
+Attends.
+
+251
+00:22:45,312 --> 00:22:46,543
+La touche pas.
+
+252
+00:22:59,384 --> 00:23:01,457
+On est jamais tranquille avec eux,
+hein ?
+
+253
+00:23:04,510 --> 00:23:07,321
+Je vais retirer la bande.
+Bouge pas.
+
+254
+00:23:07,933 --> 00:23:09,172
+Ne bouge pas.
+
+255
+00:23:09,674 --> 00:23:11,384
+Compris ?
+Pas d'un pouce.
+
+256
+00:23:13,397 --> 00:23:14,661
+Oh, mon Dieu.
+
+257
+00:23:17,151 --> 00:23:18,724
+Tais-toi.
+Écoute-moi.
+
+258
+00:23:19,506 --> 00:23:22,399
+T'es posée sur une bombe.
+Tu bouges, elle pète.
+
+259
+00:23:23,073 --> 00:23:24,073
+Bébé.
+
+260
+00:23:25,076 --> 00:23:28,720
+On va te sortir de cette chaise.
+Après, on va tous partir.
+
+261
+00:23:29,404 --> 00:23:30,991
+Mais, s'il te plaît...
+
+262
+00:23:31,367 --> 00:23:32,802
+tu dois l'écouter.
+
+263
+00:23:33,372 --> 00:23:34,574
+S'il te plaît.
+
+264
+00:23:34,948 --> 00:23:36,183
+Où il est ?
+
+265
+00:23:37,212 --> 00:23:39,453
+Si je suis pas là dans 15 min,
+m'attendez pas.
+
+266
+00:23:41,646 --> 00:23:42,982
+Sortez-moi de là.
+
+267
+00:23:43,177 --> 00:23:44,352
+Sortez-moi de là.
+
+268
+00:23:51,199 --> 00:23:53,174
+J'essaie, Charley.
+J'essaie.
+
+269
+00:23:53,605 --> 00:23:55,761
+Mais plus je reste là,
+plus j'ai envie de bouger.
+
+270
+00:23:56,023 --> 00:23:58,682
+- J'ai les jambes en feu.
+- C'est l'adrénaline.
+
+271
+00:23:58,942 --> 00:24:00,933
+Je le sais, que c'est ça.
+
+272
+00:24:03,990 --> 00:24:07,273
+Faut que je me lève.
+Elles sont en feu. J'ai des fourmis.
+
+273
+00:24:07,827 --> 00:24:10,072
+Si tu bouges, tu meurs.
+
+274
+00:24:10,267 --> 00:24:11,402
+On meurt tous.
+
+275
+00:24:17,505 --> 00:24:18,452
+Regarde-moi.
+
+276
+00:24:19,672 --> 00:24:21,525
+Ça va aller.
+Je te le promets.
+
+277
+00:24:22,898 --> 00:24:24,693
+Ça va jamais aller.
+
+278
+00:24:25,009 --> 00:24:26,012
+Jamais.
+
+279
+00:24:36,491 --> 00:24:38,370
+Y a un sac dans le camion.
+
+280
+00:24:39,247 --> 00:24:41,348
+Poignées rouges.
+J'en ai besoin, Charley.
+
+281
+00:24:57,023 --> 00:24:58,810
+Qu'est-ce que vous faites ici ?
+
+282
+00:24:59,244 --> 00:25:01,119
+Il a appelé.
+Mais vous étiez pas obligée.
+
+283
+00:25:01,728 --> 00:25:02,578
+Si.
+
+284
+00:25:03,080 --> 00:25:04,080
+Pour Charley ?
+
+285
+00:25:07,200 --> 00:25:08,426
+Je devais venir.
+
+286
+00:25:10,459 --> 00:25:12,463
+Franchement,
+je voyais ça plus facile.
+
+287
+00:25:14,104 --> 00:25:15,800
+Je te voyais morte.
+
+288
+00:25:46,714 --> 00:25:48,166
+Il a flingué la voiture.
+
+289
+00:25:48,570 --> 00:25:50,864
+On va devoir partir à pied.
+
+290
+00:25:59,601 --> 00:26:00,437
+Quoi ?
+
+291
+00:26:02,785 --> 00:26:05,641
+Ça n'a pas de sens.
+Il détruit la voiture et pas nous.
+
+292
+00:26:07,226 --> 00:26:09,481
+Les humains,
+c'est pas bien dur à tuer.
+
+293
+00:26:14,198 --> 00:26:15,347
+De l'argile.
+
+294
+00:26:16,163 --> 00:26:17,111
+Salopard.
+
+295
+00:26:19,011 --> 00:26:20,170
+Libère-la.
+
+296
+00:26:21,697 --> 00:26:23,065
+C'était du bluff ?
+
+297
+00:26:23,315 --> 00:26:26,077
+- Tout ça, c'était du bluff ?
+- Il veut John.
+
+298
+00:26:26,300 --> 00:26:29,175
+Il a pas besoin de nous tuer pour ça
+si on est bloqués ici.
+
+299
+00:26:29,577 --> 00:26:32,188
+J'aurais dû m'en douter,
+vu que t'étais vivante.
+
+300
+00:26:37,136 --> 00:26:38,733
+John, 18 novembre.
+T'es où ?
+
+301
+00:26:38,903 --> 00:26:40,509
+<i>2007. Sur la Promenade.</i>
+
+302
+00:26:40,771 --> 00:26:43,575
+- <i>Cameron est avec toi ?</i>
+- Ouais. Pourquoi ?
+
+303
+00:26:43,745 --> 00:26:46,432
+Faut que tu restes dehors.
+Rentre pas. Va pas chez Kacy.
+
+304
+00:26:47,059 --> 00:26:48,286
+<i>Ne bouge pas.</i>
+
+305
+00:26:49,843 --> 00:26:51,933
+<i>Maman, dis-moi ce qui se passe.</i>
+
+306
+00:26:52,390 --> 00:26:55,274
+- <i>Reste dehors jusqu'à nouvel ordre.</i>
+- <i>Qu'est-ce qui se passe ?</i>
+
+307
+00:26:55,994 --> 00:26:57,344
+<i>Écoute-moi...</i>
+
+308
+00:26:59,369 --> 00:27:02,873
+<i>Va pas dans un endroit connu.
+Planque-toi jusqu'à ce que je t'appelle.</i>
+
+309
+00:27:04,628 --> 00:27:05,868
+Promets-moi, John.
+
+310
+00:27:06,978 --> 00:27:08,785
+Alors, t'en penses quoi ?
+
+311
+00:27:10,263 --> 00:27:11,498
+D'accord, promis.
+
+312
+00:27:11,760 --> 00:27:13,751
+OK, tu peux mieux faire,
+chaud lapin.
+
+313
+00:27:14,249 --> 00:27:17,087
+Reste avec Cameron.
+M'appelle pas. Je le ferai.
+
+314
+00:27:17,257 --> 00:27:18,131
+D'accord.
+
+315
+00:27:19,935 --> 00:27:20,841
+Alors ?
+
+316
+00:27:21,949 --> 00:27:23,344
+C'est super.
+
+317
+00:27:24,801 --> 00:27:28,393
+- C'était ta drôle de soeur, hein ?
+- C'était ma drôle de mère.
+
+318
+00:28:11,987 --> 00:28:14,261
+Courez ! Une bombe.
+Sortez de là !
+
+319
+00:28:23,979 --> 00:28:25,864
+Tout le monde va bien ?
+
+320
+00:28:27,536 --> 00:28:29,535
+Ça va.
+Tout le monde va bien ?
+
+321
+00:28:30,249 --> 00:28:32,204
+- Je vais bien.
+- Ça va.
+
+322
+00:28:39,116 --> 00:28:41,703
+L'antenne émettrice.
+Il l'a faite péter.
+
+323
+00:28:41,891 --> 00:28:43,716
+Après avoir enregistré ton appel.
+
+324
+00:28:44,016 --> 00:28:45,884
+Il a le numéro de John.
+Et le code.
+
+325
+00:28:46,146 --> 00:28:47,435
+Ça marchera plus.
+
+326
+00:28:50,502 --> 00:28:51,765
+Bébé. Ça va ?
+
+327
+00:28:52,027 --> 00:28:53,203
+Charley, bouge.
+
+328
+00:29:14,913 --> 00:29:17,082
+- <i>18 novembre.</i>
+- 2007.
+
+329
+00:29:17,510 --> 00:29:20,390
+Changement de plan, John.
+T'es loin de la jetée ?
+
+330
+00:29:20,640 --> 00:29:22,087
+Je sais pas, pas loin.
+
+331
+00:29:22,349 --> 00:29:24,256
+Attends-moi là.
+Éteins ton portable.
+
+332
+00:29:25,193 --> 00:29:27,003
+Qu'est-ce qui se passe ?
+T'es où ?
+
+333
+00:29:27,259 --> 00:29:30,200
+T'inquiète pas pour moi, John.
+Va jusqu'à la jetée, c'est tout.
+
+334
+00:29:45,604 --> 00:29:47,460
+- Désolé. Je dois y aller.
+- Quoi ?
+
+335
+00:29:47,630 --> 00:29:50,532
+- On devait aller au ciné.
+- Je dois rejoindre ma mère à la jetée.
+
+336
+00:29:50,793 --> 00:29:52,158
+Sérieux ?
+
+337
+00:29:52,868 --> 00:29:55,223
+Écoute, John,
+j'ai pas peur de ta mère.
+
+338
+00:29:55,432 --> 00:29:56,455
+Pas comme toi.
+
+339
+00:29:59,595 --> 00:30:01,293
+Je dois y aller.
+Je t'appelle.
+
+340
+00:30:04,615 --> 00:30:06,661
+Oublie pas le code secret !
+
+341
+00:30:07,719 --> 00:30:08,788
+On y va.
+
+342
+00:30:08,958 --> 00:30:11,747
+L'autoroute doit être
+à 8 kilomètres vers l'ouest.
+
+343
+00:30:12,133 --> 00:30:13,397
+Dans le désert.
+
+344
+00:30:14,406 --> 00:30:17,501
+Il nous faut une voiture.
+Faut qu'on retrouve John.
+
+345
+00:30:20,013 --> 00:30:21,238
+Oh, bon Dieu.
+
+346
+00:30:25,643 --> 00:30:26,820
+C'est grave ?
+
+347
+00:30:27,020 --> 00:30:28,226
+J'en sais rien.
+
+348
+00:30:28,396 --> 00:30:30,864
+Impossible de dire si le shrapnel
+a touché une artère ou...
+
+349
+00:30:31,126 --> 00:30:33,290
+Elle fait peut-être
+une hémorragie interne.
+
+350
+00:30:33,460 --> 00:30:35,661
+- On doit partir.
+- Comment ?
+
+351
+00:30:35,923 --> 00:30:36,928
+À pied.
+
+352
+00:30:37,341 --> 00:30:38,557
+Jamais, Sarah.
+
+353
+00:30:39,163 --> 00:30:41,291
+Je la déplace pas.
+Et elle marchera pas.
+
+354
+00:30:44,989 --> 00:30:47,606
+Je vous envoie quelqu'un
+dès que possible.
+
+355
+00:30:51,086 --> 00:30:52,339
+Je peux marcher.
+
+356
+00:30:55,333 --> 00:30:56,950
+On a pas à m'attendre.
+
+357
+00:31:29,007 --> 00:31:30,009
+Donc...
+
+358
+00:31:32,863 --> 00:31:34,554
+Vous savez qui je suis.
+
+359
+00:31:35,647 --> 00:31:37,062
+Ce qui est arrivé.
+
+360
+00:31:39,728 --> 00:31:41,746
+George Lazlo était un tueur.
+
+361
+00:31:41,941 --> 00:31:43,737
+George Lazlo est mort.
+
+362
+00:31:44,805 --> 00:31:46,273
+C'est dans le rapport.
+
+363
+00:31:47,273 --> 00:31:48,978
+Pourtant, vous êtes là.
+
+364
+00:31:51,765 --> 00:31:53,047
+Il y a cinq ans,
+
+365
+00:31:53,367 --> 00:31:56,372
+un petit avion est tombé dans
+les Sierras orientales.
+
+366
+00:31:56,583 --> 00:31:59,122
+Alors qu'il reliait Sacramento
+à Portland.
+
+367
+00:31:59,422 --> 00:32:02,748
+Mon frère faisait partie
+de l'équipe qui a enquêté.
+
+368
+00:32:03,900 --> 00:32:05,042
+Il a trouvé ça.
+
+369
+00:32:05,585 --> 00:32:07,094
+Et me l'a ramené.
+
+370
+00:32:15,698 --> 00:32:19,223
+En trois ans, mon défunt mari et moi
+avons dépensé 20 millions de dollars
+
+371
+00:32:19,736 --> 00:32:22,374
+à tenter de comprendre
+cette technologie.
+
+372
+00:32:23,714 --> 00:32:26,230
+Nous avons échoué.
+Pour le moment.
+
+373
+00:32:33,248 --> 00:32:35,099
+Red Valley, Nouveau Mexique.
+
+374
+00:32:35,845 --> 00:32:37,154
+Il y a huit ans.
+
+375
+00:32:37,962 --> 00:32:40,202
+22 témoins disent avoir vu un homme
+
+376
+00:32:40,605 --> 00:32:43,025
+avec une sorte de jambe robotisée.
+
+377
+00:32:43,839 --> 00:32:47,209
+Essayant de tuer un garçon
+identifié comme étant John Connor.
+
+378
+00:32:50,700 --> 00:32:52,318
+Fils de Sarah Connor.
+
+379
+00:32:53,027 --> 00:32:54,601
+C'était votre affaire.
+
+380
+00:32:55,573 --> 00:32:56,774
+Elle croyait
+
+381
+00:32:57,276 --> 00:32:59,806
+que des robots en voulaient à son fils.
+
+382
+00:33:00,543 --> 00:33:02,641
+Je sais ce qu'elle croyait,
+Mme Weaver.
+
+383
+00:33:02,962 --> 00:33:05,819
+Vous savez ce qui a tué ces agents.
+
+384
+00:33:07,545 --> 00:33:09,907
+Vous ne m'avez même demandé
+
+385
+00:33:10,761 --> 00:33:12,109
+ce que c'était.
+
+386
+00:33:15,462 --> 00:33:17,304
+Qu'attendez-vous de moi ?
+
+387
+00:33:17,778 --> 00:33:19,503
+Comme vous, M. Ellison,
+
+388
+00:33:20,632 --> 00:33:22,246
+je veux des réponses.
+
+389
+00:33:24,098 --> 00:33:25,574
+Mais plus que tout,
+
+390
+00:33:26,047 --> 00:33:28,751
+je veux que vous m'aidiez
+à en trouver un autre.
+
+391
+00:34:04,374 --> 00:34:05,412
+Où est John ?
+
+392
+00:34:22,362 --> 00:34:23,365
+Descends.
+
+393
+00:34:23,894 --> 00:34:24,910
+Dehors !
+
+394
+00:35:17,412 --> 00:35:18,819
+Sarah, ralentis !
+
+395
+00:35:21,157 --> 00:35:23,532
+Elle saigne.
+Je dois comprimer, Sarah.
+
+396
+00:35:26,853 --> 00:35:29,037
+Merde, Charley.
+Je t'avais dis de rester en dehors.
+
+397
+00:35:31,843 --> 00:35:33,875
+Sarah, tu dois t'arrêter,
+s'il te plaît !
+
+398
+00:35:34,398 --> 00:35:37,045
+- Tu aurais dû rester en dehors.
+- Je suis là et elle aussi.
+
+399
+00:35:37,307 --> 00:35:38,714
+Arrête-toi. Maintenant !
+
+400
+00:39:26,453 --> 00:39:27,478
+Tu m'aides ?
+
+401
+00:39:28,447 --> 00:39:30,987
+- Je nage pas.
+- Je m'en suis rendu compte.
+
+402
+00:39:55,075 --> 00:39:56,554
+Maman, ça va.
+On y va.
+
+403
+00:41:36,499 --> 00:41:38,616
+C'est pourquoi
+nous ne nous lassons point ;
+
+404
+00:41:38,786 --> 00:41:41,471
+mais si même
+notre homme extérieur dépérit,
+
+405
+00:41:41,641 --> 00:41:45,367
+toutefois l'homme intérieur
+est renouvelé de jour en jour.
+
+406
+00:41:48,245 --> 00:41:52,503
+Car notre légère tribulation passagère,
+opère pour nous,
+
+407
+00:41:52,673 --> 00:41:56,605
+en mesure surabondante,
+un poids éternel de gloire.
+
+408
+00:41:58,605 --> 00:42:02,600
+Si notre maison terrestre
+qui n'est qu'une tente, est détruite,
+
+409
+00:42:03,052 --> 00:42:05,726
+nous avons un édifice
+de la part de Dieu,
+
+410
+00:42:06,091 --> 00:42:08,436
+une maison
+qui n'est pas faite de main,
+
+411
+00:42:08,879 --> 00:42:11,224
+éternelle, dans les Cieux.
+
+412
+00:42:12,189 --> 00:42:16,031
+Nous avons donc toujours confiance,
+
+413
+00:42:16,268 --> 00:42:19,569
+et nous savons
+qu'étant présents dans le corps,
+
+414
+00:42:19,739 --> 00:42:22,328
+nous sommes absents
+du Seigneur,
+
+415
+00:42:23,136 --> 00:42:26,417
+nos regards n'étant pas fixés
+
+416
+00:42:27,238 --> 00:42:30,607
+sur les choses qui se voient,
+
+417
+00:42:31,400 --> 00:42:33,861
+mais sur celles
+qui ne se voient pas :
+
+418
+00:42:34,282 --> 00:42:37,466
+car les choses qui se voient
+sont pour un temps,
+
+419
+00:42:37,818 --> 00:42:40,339
+mais celles qui ne se voient pas...
+
+420
+00:42:40,743 --> 00:42:42,166
+sont éternelles.
+

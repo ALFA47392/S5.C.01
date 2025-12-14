@@ -1,0 +1,3071 @@
+1
+00:00:00,250 --> 00:00:01,251
+<i>Précédemment...</i>
+
+2
+00:00:02,119 --> 00:00:03,972
+J'ai été beaucoup de personnes.
+
+3
+00:00:04,963 --> 00:00:07,502
+Il m'arrive
+de les entendre soudainement.
+
+4
+00:00:08,258 --> 00:00:11,344
+Je m'appelle November.
+Mellie existe uniquement pour vous.
+
+5
+00:00:11,594 --> 00:00:14,556
+- N'oubliez pas notre accord.
+- La jeune fille est libre.
+
+6
+00:00:15,037 --> 00:00:18,727
+Même si vous nous avez quittés,
+vous n'êtes pas livrée à vous-même.
+
+7
+00:00:20,242 --> 00:00:21,521
+Je m'inquiète pour vous.
+
+8
+00:00:21,875 --> 00:00:23,948
+Tout ceci n'est qu'un complot
+
+9
+00:00:24,876 --> 00:00:26,901
+mené par la Rossum Corporation.
+
+10
+00:00:28,069 --> 00:00:30,780
+Il devait chercher une cause.
+On lui a parlé de nous.
+
+11
+00:00:31,173 --> 00:00:32,324
+De la prostitution ?
+
+12
+00:00:32,815 --> 00:00:34,284
+Du trafic d'être humain ?
+
+13
+00:00:34,701 --> 00:00:36,661
+- Voire des meurtres.
+- On va tout vérifier.
+
+14
+00:00:36,911 --> 00:00:38,670
+On va trouver des preuves.
+
+15
+00:00:40,062 --> 00:00:41,666
+Nous avons mieux que des preuves.
+
+16
+00:00:41,941 --> 00:00:43,251
+Nous avons un nom.
+
+17
+00:00:46,194 --> 00:00:47,945
+Tu n'as pas d'inquiétude à te faire.
+
+18
+00:00:48,195 --> 00:00:49,631
+La sécurité a tout contrôlé ?
+
+19
+00:00:49,881 --> 00:00:52,423
+Détecteurs de métaux,
+fouilles corporelles ponctuelles...
+
+20
+00:00:52,673 --> 00:00:53,678
+Ponctuelles ?
+
+21
+00:00:53,928 --> 00:00:57,064
+La Rossum Corporation est mauvaise,
+mais ils ne sont pas bêtes.
+
+22
+00:00:57,314 --> 00:00:59,267
+Ils ne vont rien tenter
+devant les caméras.
+
+23
+00:01:00,253 --> 00:01:01,436
+Tu es imperturbable.
+
+24
+00:01:01,686 --> 00:01:02,739
+Non, terrifié.
+
+25
+00:01:02,989 --> 00:01:06,384
+Je prends à témoin une innocente
+pour détruire une immense société
+
+26
+00:01:06,634 --> 00:01:09,027
+et j'ignore
+quelle sera leur réaction.
+
+27
+00:01:09,511 --> 00:01:11,724
+Redis-moi pourquoi je t'aime tant.
+
+28
+00:01:12,575 --> 00:01:14,175
+Je suis ton preux chevalier.
+
+29
+00:01:14,449 --> 00:01:15,867
+Et moi, ta belle damoiselle.
+
+30
+00:01:16,117 --> 00:01:17,269
+À tout jamais.
+
+31
+00:01:18,044 --> 00:01:19,162
+Et la conférence ?
+
+32
+00:01:19,996 --> 00:01:21,414
+On a dix minutes de retard.
+
+33
+00:01:24,542 --> 00:01:25,377
+Bonjour.
+
+34
+00:01:25,836 --> 00:01:28,302
+J'ai récemment porté
+de lourdes accusations :
+
+35
+00:01:28,552 --> 00:01:30,048
+des crimes d'entreprise commis
+
+36
+00:01:30,298 --> 00:01:32,634
+par plusieurs entreprises
+de recherche médicale.
+
+37
+00:01:33,182 --> 00:01:37,071
+Ces accusations seront étudiées
+par le congrès cette semaine,
+
+38
+00:01:37,321 --> 00:01:38,740
+à l'ouverture des audiences.
+
+39
+00:01:38,990 --> 00:01:42,114
+Alors, vous entendrez
+un mot des plus innocents,
+
+40
+00:01:42,518 --> 00:01:44,896
+un mot qui endossera
+un nouveau sens plus sinistre,
+
+41
+00:01:45,270 --> 00:01:48,069
+un mot qui deviendra synonyme
+de trafic d'être humain,
+
+42
+00:01:48,319 --> 00:01:49,401
+de prostitution
+
+43
+00:01:49,958 --> 00:01:52,237
+et d'abus inconcevables
+de technologie neurologique,
+
+44
+00:01:52,771 --> 00:01:55,782
+qu'on peut imputer directement
+à la Rossum Corporation.
+
+45
+00:01:56,835 --> 00:01:59,119
+"Maison de poupée",
+alias "dollhouse".
+
+46
+00:02:03,623 --> 00:02:06,084
+Cette légende urbaine
+est devenue trop réelle.
+
+47
+00:02:07,168 --> 00:02:10,046
+Là-bas, des personnes
+se voient effacer leur mémoire
+
+48
+00:02:10,296 --> 00:02:13,656
+et sont contraintes
+de faire des choses révoltantes.
+
+49
+00:02:14,638 --> 00:02:15,638
+Aujourd'hui,
+
+50
+00:02:16,010 --> 00:02:18,388
+je veux mettre un visage
+sur ce problème.
+
+51
+00:02:18,638 --> 00:02:21,349
+J'ai un témoin qui a perdu trois ans
+
+52
+00:02:21,599 --> 00:02:23,745
+de sa vie à cause de la dollhouse.
+
+53
+00:02:26,062 --> 00:02:28,256
+Elle aimerait faire une déclaration.
+
+54
+00:02:35,468 --> 00:02:37,866
+Je m'appelle Madeline Costley.
+
+55
+00:02:39,581 --> 00:02:41,681
+Trois ans de ma vie m'ont été volés
+
+56
+00:02:42,454 --> 00:02:43,705
+par la dollhouse.
+
+57
+00:02:45,407 --> 00:02:47,907
+Ils ont tiré profit de ma faiblesse
+
+58
+00:02:48,157 --> 00:02:49,607
+pour me forcer à...
+
+59
+00:02:50,873 --> 00:02:53,048
+Pour me forcer
+à faire certaines choses.
+
+60
+00:02:53,298 --> 00:02:54,639
+Je n'y aurais jamais cru
+
+61
+00:02:56,134 --> 00:02:58,636
+si monsieur Perrin
+n'avait pas eu de preuves.
+
+62
+00:03:02,432 --> 00:03:04,100
+Je regrette presque de savoir.
+
+63
+00:03:04,350 --> 00:03:06,060
+Mais, sinon, je ne serais pas là.
+
+64
+00:03:06,560 --> 00:03:08,855
+Et il reste des personnes
+détenues par la dollhouse.
+
+65
+00:03:10,444 --> 00:03:12,484
+Elles ignorent
+qu'elles ont besoin d'aide.
+
+66
+00:03:13,289 --> 00:03:15,320
+Donc, nous devons les aider.
+
+67
+00:03:20,533 --> 00:03:22,035
+Applaudissons son courage.
+
+68
+00:03:22,285 --> 00:03:24,042
+<i>Merci de respecter son intimité</i>
+
+69
+00:03:24,292 --> 00:03:26,342
+<i>tout au long de l'enquête.</i>
+
+70
+00:03:27,294 --> 00:03:30,823
+Redites-moi pourquoi vous avez annulé
+son contrat deux ans plus tôt.
+
+71
+00:03:31,073 --> 00:03:33,211
+- C'était une affaire interne.
+- Ah oui.
+
+72
+00:03:33,461 --> 00:03:36,748
+Pour éviter que cette maison
+ne soit dévoilée au public.
+
+73
+00:03:38,660 --> 00:03:39,967
+Ça a bien marché.
+
+74
+00:03:40,610 --> 00:03:42,680
+Manifestement,
+les choses ont mal tourné.
+
+75
+00:03:43,307 --> 00:03:45,655
+Mais notre protocole
+ne peut pas être mis en cause.
+
+76
+00:03:45,905 --> 00:03:49,360
+Rien dans sa réintégration
+ne suggérait que...
+
+77
+00:03:49,610 --> 00:03:51,523
+Qu'elle allait passer
+devant le Sénat
+
+78
+00:03:51,773 --> 00:03:53,383
+pour donner des noms ?
+
+79
+00:03:54,112 --> 00:03:56,111
+Je ne remets pas votre protocole
+en question.
+
+80
+00:03:56,551 --> 00:03:59,989
+C'est de votre discernement
+qu'il s'agit.
+
+81
+00:04:00,714 --> 00:04:03,785
+Nous craignons que vous ayez
+un faible pour cette femme.
+
+82
+00:04:04,035 --> 00:04:05,928
+Comme avec l'active de Nolan.
+
+83
+00:04:06,178 --> 00:04:08,225
+Comment elle s'appelait ? Sierra ?
+
+84
+00:04:08,918 --> 00:04:10,708
+Qu'aimeriez-vous que nous fassions ?
+
+85
+00:04:11,806 --> 00:04:12,897
+Rien du tout.
+
+86
+00:04:13,811 --> 00:04:15,922
+Rossum a déjà un plan
+pour neutraliser Madeline.
+
+87
+00:04:16,304 --> 00:04:18,066
+Qu'est-ce que ça veut dire ?
+
+88
+00:04:20,956 --> 00:04:23,471
+- Vous serez protégés.
+- Et comment ?
+
+89
+00:04:23,721 --> 00:04:25,765
+On s'en occupe, c'est tout.
+
+90
+00:04:27,016 --> 00:04:30,937
+Je dois participer à une émission
+pour démêler cette pagaille.
+
+91
+00:04:31,682 --> 00:04:33,372
+Vanter les bonnes oeuvres de Rossum,
+
+92
+00:04:33,622 --> 00:04:36,150
+notre traitement inédit
+contre la maladie d'Alzheimer...
+
+93
+00:04:37,992 --> 00:04:39,592
+Je ne manquerai pas ça.
+
+94
+00:04:39,936 --> 00:04:41,608
+Personne ne manquera ça.
+
+95
+00:04:44,457 --> 00:04:46,657
+Qu'est-ce qu'elle risque ?
+
+96
+00:04:47,561 --> 00:04:51,499
+Un ancien actif a fait allusion
+à nous sur son blog, une fois.
+
+97
+00:04:51,749 --> 00:04:53,449
+C'était son dernier article.
+
+98
+00:04:54,187 --> 00:04:56,001
+Elle passe devant le Sénat...
+
+99
+00:04:56,251 --> 00:04:57,951
+- Ça sera pire.
+- Bien pire.
+
+100
+00:04:58,201 --> 00:05:01,759
+- Il faut agir !
+- J'en ai bien l'intention.
+
+101
+00:05:02,157 --> 00:05:03,678
+Il vous a dit de ne rien faire.
+
+102
+00:05:03,928 --> 00:05:05,338
+Pas exactement.
+
+103
+00:05:05,868 --> 00:05:07,570
+Je lui ai demandé son avis
+
+104
+00:05:07,820 --> 00:05:10,768
+et, au vu du contexte,
+sa réponse n'était qu'une suggestion.
+
+105
+00:05:11,611 --> 00:05:13,354
+Vous aviez tout prévu.
+
+106
+00:05:13,604 --> 00:05:16,692
+Madeline ne témoignera pas
+devant un sous-comité du Sénat.
+
+107
+00:05:16,942 --> 00:05:18,817
+Elle était heureuse,
+après son départ.
+
+108
+00:05:19,067 --> 00:05:20,319
+Mais plus maintenant.
+
+109
+00:05:20,569 --> 00:05:22,125
+Quelqu'un se sert d'elle.
+
+110
+00:05:23,002 --> 00:05:24,532
+Vous avez un faible pour elle.
+
+111
+00:05:24,782 --> 00:05:26,142
+Vous n'y êtes pas.
+
+112
+00:05:26,445 --> 00:05:28,286
+Quelqu'un se sert d'elle contre moi.
+
+113
+00:05:28,536 --> 00:05:30,325
+Quelqu'un qui nous connaît
+
+114
+00:05:30,575 --> 00:05:32,847
+l'a livrée
+à ce sénateur en croisade.
+
+115
+00:05:33,760 --> 00:05:35,425
+Que comptez-vous faire ?
+
+116
+00:05:37,387 --> 00:05:39,837
+Découvrir à quel jeu
+cette personne joue.
+
+117
+00:05:42,336 --> 00:05:43,669
+Daniel Perrin.
+
+118
+00:05:44,177 --> 00:05:46,888
+Troisième génération de sa famille
+à devenir sénateur.
+
+119
+00:05:47,388 --> 00:05:50,226
+Depuis trois ans, il s'intéresse
+à la recherche médicale.
+
+120
+00:05:50,645 --> 00:05:53,686
+<i>Personne ne dit
+que leur travail n'est pas crucial,</i>
+
+121
+00:05:53,936 --> 00:05:55,355
+<i>mais ils doivent assumer.</i>
+
+122
+00:05:55,640 --> 00:05:58,219
+<i>On ne peut pas prendre en otage
+la santé de nos concitoyens</i>
+
+123
+00:05:58,469 --> 00:05:59,734
+<i>dans un but lucratif.</i>
+
+124
+00:06:00,827 --> 00:06:02,195
+C'est un démagogue.
+
+125
+00:06:02,445 --> 00:06:03,947
+Il est préoccupé par le public.
+
+126
+00:06:04,197 --> 00:06:07,691
+Quand il aura bloqué les recherches,
+on pourra retourner aux sangsues.
+
+127
+00:06:08,214 --> 00:06:10,745
+- Rossum n'est pas inquiet ?
+- Ils ont de quoi le salir ?
+
+128
+00:06:12,268 --> 00:06:13,748
+Ils l'auraient déjà fait.
+
+129
+00:06:13,998 --> 00:06:15,434
+November est triste.
+
+130
+00:06:19,784 --> 00:06:21,965
+- C'est vrai.
+- Il faut l'aider.
+
+131
+00:06:22,215 --> 00:06:23,383
+On va le faire.
+
+132
+00:06:26,331 --> 00:06:28,680
+- Elle n'est pas normale.
+- On a compris.
+
+133
+00:06:29,989 --> 00:06:31,789
+Elle ne parle pas de Madeline.
+
+134
+00:06:32,308 --> 00:06:34,167
+<i>Mais ça a pris du temps.</i>
+
+135
+00:06:35,511 --> 00:06:37,897
+<i>Je l'ai su à l'instant
+où j'ai posé les yeux sur lui.</i>
+
+136
+00:06:38,220 --> 00:06:41,359
+<i>Je ne pouvais pas la laisser filer.
+Elle est parfaite.</i>
+
+137
+00:06:41,775 --> 00:06:43,736
+<i>Comme si elle avait été créée
+pour moi.</i>
+
+138
+00:06:47,073 --> 00:06:49,158
+Épisode 205 : <i>The Public Eye</i>
+
+139
+00:07:15,433 --> 00:07:16,811
+www.subbercafe.fr
+
+140
+00:07:18,075 --> 00:07:19,925
+<i>Je ne pouvais pas la laisser filer.</i>
+
+141
+00:07:20,175 --> 00:07:21,345
+<i>Elle est parfaite.</i>
+
+142
+00:07:21,595 --> 00:07:23,845
+<i>Comme si elle avait été créée
+pour moi.</i>
+
+143
+00:07:25,515 --> 00:07:26,565
+Il n'a pas tort.
+
+144
+00:07:26,815 --> 00:07:28,445
+À première vue, elle est parfaite.
+
+145
+00:07:28,695 --> 00:07:31,566
+Si on regarde mieux,
+elle l'est toujours.
+
+146
+00:07:31,816 --> 00:07:33,161
+Elle a bien un défaut.
+
+147
+00:07:33,411 --> 00:07:35,722
+Si on creuse,
+certaines choses ne collent pas.
+
+148
+00:07:35,972 --> 00:07:37,832
+Les numéros de sécu de ses parents.
+
+149
+00:07:38,787 --> 00:07:42,300
+Son dossier universitaire
+n'est pas conforme au modèle Berkley.
+
+150
+00:07:42,550 --> 00:07:43,470
+Des faux.
+
+151
+00:07:43,720 --> 00:07:45,465
+Et d'excellente facture.
+
+152
+00:07:45,895 --> 00:07:47,795
+Cindy Perrin est une poupée.
+
+153
+00:07:48,675 --> 00:07:52,025
+Harding n'exagérait pas
+en disant que Rossum avait un plan.
+
+154
+00:07:52,763 --> 00:07:54,307
+Ils sont mariés depuis 3 ans.
+
+155
+00:07:54,557 --> 00:07:56,135
+Un placement à long terme.
+
+156
+00:07:56,385 --> 00:08:00,188
+Elle n'a visiblement pas été imprimée
+pour le dissuader d'attaquer Rossum.
+
+157
+00:08:01,028 --> 00:08:03,733
+- C'est un agent dormant.
+- Un assassin ?
+
+158
+00:08:04,234 --> 00:08:05,549
+Comme Mellie ?
+
+159
+00:08:05,799 --> 00:08:07,820
+Je vous en prie.
+Elle ne vous a pas tué.
+
+160
+00:08:08,070 --> 00:08:11,115
+Mme Perrin sera activée
+quand la situation sera trop tendue.
+
+161
+00:08:11,365 --> 00:08:13,034
+Ça m'a déjà l'air assez tendu.
+
+162
+00:08:13,284 --> 00:08:16,162
+Même Harding est trop malin
+pour tuer un sénateur en exercice.
+
+163
+00:08:16,412 --> 00:08:19,582
+Mais il n'hésiterait pas
+à éliminer Madeline avec un dormant.
+
+164
+00:08:19,832 --> 00:08:21,195
+On n'en arrivera pas là.
+
+165
+00:08:21,445 --> 00:08:23,753
+Vous allez l'arrêter
+avant qu'elle atteigne Madeline.
+
+166
+00:08:24,003 --> 00:08:28,138
+Perrin les a mises dans une planque
+surveillée par la société Contratech.
+
+167
+00:08:28,633 --> 00:08:29,765
+Où est Perrin ?
+
+168
+00:08:30,015 --> 00:08:33,165
+Son équipe est toujours dans l'hôtel
+où a eu lieu la conférence de presse.
+
+169
+00:08:33,415 --> 00:08:35,735
+Le Commerce Plaza.
+Il y est toujours.
+
+170
+00:08:35,985 --> 00:08:37,735
+Parlez-moi de la planque.
+
+171
+00:08:39,055 --> 00:08:42,405
+À 10 minutes du centre-ville.
+Quartier calme et résidentiel.
+
+172
+00:08:42,655 --> 00:08:44,409
+La maison est sous surveillance.
+
+173
+00:08:44,659 --> 00:08:47,026
+J'essaie de pénétrer
+les serveurs de Contratech.
+
+174
+00:08:47,276 --> 00:08:49,435
+Donnez-moi l'adresse.
+Je vais chercher Madeline.
+
+175
+00:08:49,685 --> 00:08:52,220
+Il ne suffira pas
+de jouer les monte-en-l'air.
+
+176
+00:08:52,470 --> 00:08:53,991
+Surtout si Cindy Perrin est là.
+
+177
+00:08:54,241 --> 00:08:56,913
+Vous devez comprendre
+ce que vous allez affronter.
+
+178
+00:09:04,095 --> 00:09:05,695
+C'est mon appartement.
+
+179
+00:09:12,259 --> 00:09:14,512
+Lorsqu'un actif dormant
+a été réveillé,
+
+180
+00:09:14,762 --> 00:09:17,974
+ce que vous affronterez
+ne pourra être ni raisonné ni arrêté.
+
+181
+00:09:21,823 --> 00:09:23,396
+<i>Il y a trois fleurs dans un vase.</i>
+
+182
+00:09:23,795 --> 00:09:26,045
+<i>La troisième fleur est verte.</i>
+
+183
+00:09:30,645 --> 00:09:31,795
+J'ai compris.
+
+184
+00:09:37,925 --> 00:09:40,935
+Madeline s'est facilement débarrassée
+d'un homme deux fois plus grand.
+
+185
+00:09:41,185 --> 00:09:43,585
+Cindy Perrin
+sera tout aussi compétente.
+
+186
+00:09:44,095 --> 00:09:46,995
+Pas de compassion pour M. Hearn,
+ce serait mal venu.
+
+187
+00:09:48,425 --> 00:09:50,047
+C'était un violeur en série.
+
+188
+00:09:53,365 --> 00:09:55,209
+Ce n'est pas à lui que je pensais.
+
+189
+00:10:13,205 --> 00:10:15,408
+Lors de mon dernier passage
+à la Dollhouse,
+
+190
+00:10:17,765 --> 00:10:19,615
+il avait l'air si gentil...
+
+191
+00:10:20,845 --> 00:10:21,895
+et si doux.
+
+192
+00:10:25,040 --> 00:10:28,252
+On ne sait jamais quel monstre
+se cache chez les gens.
+
+193
+00:10:32,736 --> 00:10:33,883
+Vous parlez de moi ?
+
+194
+00:10:34,765 --> 00:10:35,968
+Ne dites pas ça !
+
+195
+00:10:39,985 --> 00:10:41,435
+J'ai tué un homme.
+
+196
+00:10:44,495 --> 00:10:46,295
+Jusqu'à la fin de mes jours...
+
+197
+00:10:48,335 --> 00:10:50,983
+Je saurai que j'ai tué un homme.
+
+198
+00:10:51,233 --> 00:10:52,642
+Ce n'est pas vous.
+
+199
+00:10:53,085 --> 00:10:54,445
+C'est la Dollhouse.
+
+200
+00:10:54,695 --> 00:10:57,326
+C'est pour ça
+que vous allez témoigner contre eux.
+
+201
+00:11:12,296 --> 00:11:14,840
+Comment vont les deux femmes
+qui comptent le plus pour moi ?
+
+202
+00:11:15,935 --> 00:11:17,287
+C'est gentil, Daniel.
+
+203
+00:11:17,537 --> 00:11:19,887
+Je ne peux pas parler.
+Elle traverse une mauvaise passe.
+
+204
+00:11:20,465 --> 00:11:21,915
+Prends soin d'elle.
+
+205
+00:11:22,215 --> 00:11:25,465
+Je vais rester à l'hôtel
+pour revoir les financements.
+
+206
+00:11:26,135 --> 00:11:29,522
+- <i>Redis-moi pourquoi je t'aime tant.</i>
+- Je suis ton preux chevalier.
+
+207
+00:11:29,935 --> 00:11:31,607
+Et je suis ta belle damoiselle.
+
+208
+00:11:32,205 --> 00:11:33,405
+À tout jamais.
+
+209
+00:11:41,815 --> 00:11:42,827
+C'est quoi ?
+
+210
+00:11:43,685 --> 00:11:46,615
+C'est le truc qui,
+s'il ne marche pas comme prévu,
+
+211
+00:11:46,865 --> 00:11:48,124
+ne posera pas problème.
+
+212
+00:11:49,802 --> 00:11:50,960
+C'est un disrupteur.
+
+213
+00:11:51,865 --> 00:11:53,462
+Ça fait pas trop <i>Star Trek</i> ?
+
+214
+00:11:53,885 --> 00:11:54,985
+L'original.
+
+215
+00:11:57,605 --> 00:12:01,095
+C'est basé sur des pièces
+de l'appareil d'effacement d'Alpha.
+
+216
+00:12:01,345 --> 00:12:03,806
+C'est ce qui a transformé Echo
+en tueuse en série.
+
+217
+00:12:04,056 --> 00:12:06,142
+On ne devait pas en reparler.
+
+218
+00:12:06,955 --> 00:12:07,955
+Continuez.
+
+219
+00:12:08,602 --> 00:12:09,856
+Si on presse ce bouton,
+
+220
+00:12:10,106 --> 00:12:13,316
+une décharge neuroélectrique
+fuse par les contacts de l'implant,
+
+221
+00:12:13,566 --> 00:12:15,595
+bloquant l'architecture crânienne.
+
+222
+00:12:15,845 --> 00:12:18,243
+Si la fréquence est réglée
+pour correspondre...
+
+223
+00:12:19,525 --> 00:12:21,032
+Faites une démonstration.
+
+224
+00:12:23,505 --> 00:12:24,535
+Bonjour, Kilo.
+
+225
+00:12:25,185 --> 00:12:26,915
+C'est l'heure de mon traitement ?
+
+226
+00:12:27,165 --> 00:12:29,215
+Elle est jolie et minuscule,
+pas vrai ?
+
+227
+00:12:29,465 --> 00:12:32,365
+J'adore quand le nom d'une poupée
+lui correspond parfaitement.
+
+228
+00:12:33,065 --> 00:12:34,915
+Parce qu'elle pèse un kilo.
+
+229
+00:12:35,754 --> 00:12:37,204
+C'était une blague.
+
+230
+00:12:38,745 --> 00:12:40,134
+Je me sens seul.
+
+231
+00:12:40,384 --> 00:12:41,719
+J'aime mes traitements.
+
+232
+00:12:41,969 --> 00:12:44,878
+On sait, mais tu n'aimeras pas ceci.
+
+233
+00:12:47,325 --> 00:12:49,975
+Le bourdonnement signifie
+que ça fonctionne.
+
+234
+00:12:50,665 --> 00:12:53,314
+Parmi les effets secondaires :
+migraine, saignements de nez
+
+235
+00:12:53,564 --> 00:12:56,023
+et le besoin incontrôlable de...
+
+236
+00:12:58,944 --> 00:13:00,975
+Ça assommera les poupées
+dans un rayon de 3 m,
+
+237
+00:13:01,225 --> 00:13:03,155
+y compris une maudite dormante
+comme Cindy,
+
+238
+00:13:03,405 --> 00:13:06,418
+sans avoir d'impact
+sur les vrais gens comme nous.
+
+239
+00:13:09,135 --> 00:13:11,535
+On va dire dans un rayon de 15 m.
+
+240
+00:13:13,000 --> 00:13:13,800
+Bien.
+
+241
+00:13:14,050 --> 00:13:16,310
+J'assomme Mme Perrin
+et j'embarque Madeline.
+
+242
+00:13:19,295 --> 00:13:20,295
+Quoi ?
+
+243
+00:13:21,008 --> 00:13:22,208
+C'est exactement ça.
+
+244
+00:13:22,458 --> 00:13:24,679
+Si Madeline est à portée,
+elle sera touchée.
+
+245
+00:13:24,929 --> 00:13:26,722
+Ça ne marche que sur les poupées.
+
+246
+00:13:26,972 --> 00:13:29,225
+Ça touchera ceux qui ont
+l'architecture d'un actif.
+
+247
+00:13:30,532 --> 00:13:33,813
+Elle a été libérée.
+Elle a toujours cette architecture ?
+
+248
+00:13:36,545 --> 00:13:38,471
+On ne peut jamais vous quitter.
+
+249
+00:13:54,325 --> 00:13:55,921
+Tu as besoin d'un traitement.
+
+250
+00:14:01,915 --> 00:14:03,615
+Je vais aider November ?
+
+251
+00:14:04,729 --> 00:14:07,425
+Si je deviens quelqu'un d'autre,
+je ne pourrai pas l'aider.
+
+252
+00:14:07,675 --> 00:14:08,675
+C'est bon.
+
+253
+00:14:09,095 --> 00:14:11,726
+La personne que tu vas devenir
+va nous aider.
+
+254
+00:14:20,695 --> 00:14:23,571
+Son chaperon ne va pas apprécier
+qu'on l'ait utilisée sans lui.
+
+255
+00:14:24,765 --> 00:14:28,117
+M. Ballard n'apprécie pas
+beaucoup de choses actuellement.
+
+256
+00:14:28,515 --> 00:14:31,054
+Il doit être concentré
+sur l'extraction de Madeline.
+
+257
+00:14:31,304 --> 00:14:33,122
+Je pourrais la chaperonner.
+
+258
+00:14:33,372 --> 00:14:35,575
+J'ai besoin de vous
+à la tête des opérations.
+
+259
+00:14:35,825 --> 00:14:37,185
+Echo s'en sortira.
+
+260
+00:14:37,435 --> 00:14:39,795
+N'importe quel chaperon qualifié
+fera l'affaire.
+
+261
+00:14:40,355 --> 00:14:42,173
+- J'enverrai Edwards.
+- Bien.
+
+262
+00:14:42,585 --> 00:14:44,235
+Dites-lui de ne pas s'endormir.
+
+263
+00:14:44,485 --> 00:14:47,411
+Echo aura les choses bien en main,
+pendant cette mission.
+
+264
+00:14:52,775 --> 00:14:54,875
+Essayez le compte
+de la Transit Limited,
+
+265
+00:14:57,375 --> 00:14:58,939
+celui qui a payé Madeline.
+
+266
+00:14:59,595 --> 00:15:02,045
+Regardez encore
+si on peut trouver une piste.
+
+267
+00:15:03,555 --> 00:15:06,505
+On le reliera peut-être
+à une filiale de Rossum.
+
+268
+00:15:09,795 --> 00:15:11,067
+Tu sais quoi, Burt,
+
+269
+00:15:11,528 --> 00:15:12,625
+il se fait tard.
+
+270
+00:15:12,875 --> 00:15:14,675
+On finira ça demain matin.
+
+271
+00:15:38,425 --> 00:15:39,939
+Debout, monsieur le sénateur.
+
+272
+00:15:40,981 --> 00:15:43,108
+Je veux pas rater votre bon profil.
+
+273
+00:15:46,015 --> 00:15:47,015
+Salut.
+
+274
+00:15:48,245 --> 00:15:50,819
+Croyez-moi, vous n'avez
+aucune raison d'être gêné.
+
+275
+00:15:51,069 --> 00:15:52,743
+Quoi ? Qui êtez-vous ?
+
+276
+00:15:52,993 --> 00:15:55,145
+Vous m'avez déjà oubliée ?
+C'est pas sympa.
+
+277
+00:15:55,395 --> 00:15:56,745
+Je suis Bree.
+
+278
+00:15:57,335 --> 00:15:59,875
+Je ne vous connais pas !
+Je ne vous ai jamais vue !
+
+279
+00:16:00,345 --> 00:16:03,575
+Ça m'embête de vous contredire,
+mais vous m'avez vue tout entière.
+
+280
+00:16:03,825 --> 00:16:06,207
+Je peux vous montrer les images
+si vous voulez.
+
+281
+00:16:08,375 --> 00:16:09,825
+Je me suis évanoui.
+
+282
+00:16:10,805 --> 00:16:12,505
+Vous avez dû me droguer.
+
+283
+00:16:14,138 --> 00:16:15,307
+Du champagne ?
+
+284
+00:16:15,807 --> 00:16:17,685
+On devrait en commander.
+
+285
+00:16:18,335 --> 00:16:20,354
+C'est le contribuable
+qui paiera, non ?
+
+286
+00:16:20,604 --> 00:16:21,604
+Arrêtez !
+
+287
+00:16:21,932 --> 00:16:22,932
+Taisez-vous.
+
+288
+00:16:25,512 --> 00:16:26,812
+Je dois réfléchir.
+
+289
+00:16:27,619 --> 00:16:29,863
+D'accord, monsieur le grincheux.
+Je m'en vais.
+
+290
+00:16:34,160 --> 00:16:37,037
+J'ai envoyé le meilleur
+à mes employeurs quand vous dormiez.
+
+291
+00:16:37,287 --> 00:16:38,831
+J'ai un message pour vous.
+
+292
+00:16:40,499 --> 00:16:42,084
+C'est Rossum qui vous envoie.
+
+293
+00:16:42,936 --> 00:16:45,436
+Je fais ce qu'on me dit,
+j'ai pas les noms.
+
+294
+00:16:46,749 --> 00:16:48,149
+Voilà le message :
+
+295
+00:16:49,871 --> 00:16:50,921
+Abandonnez.
+
+296
+00:16:55,013 --> 00:16:56,625
+Merci pour la partie de plaisir.
+
+297
+00:16:56,875 --> 00:16:58,575
+Je vous laisse tranquille.
+
+298
+00:17:00,693 --> 00:17:02,557
+J'aime quand c'est un peu brutal.
+
+299
+00:17:02,807 --> 00:17:04,398
+Mais pas touche à mon visage.
+
+300
+00:17:04,648 --> 00:17:05,651
+Mon dieu.
+
+301
+00:17:06,348 --> 00:17:08,208
+Je pourrais vous attacher.
+
+302
+00:17:09,887 --> 00:17:11,036
+C'est dingue.
+
+303
+00:17:11,286 --> 00:17:12,287
+Si réelle.
+
+304
+00:17:15,558 --> 00:17:16,994
+Une vraie poupée.
+
+305
+00:17:17,664 --> 00:17:19,446
+Merci, vous êtes pas mal non plus.
+
+306
+00:17:21,851 --> 00:17:24,659
+Rossum ne se risquerait pas
+à engager une call-girl.
+
+307
+00:17:26,292 --> 00:17:28,797
+Pas quand ils peuvent
+programmer quelqu'un à la place.
+
+308
+00:17:29,167 --> 00:17:31,355
+Et effacer sa mémoire après.
+
+309
+00:17:33,469 --> 00:17:36,388
+On m'a pas dit que vous étiez barge.
+D'habitude, c'est plus cher.
+
+310
+00:17:36,995 --> 00:17:39,798
+Vous êtes une poupée.
+Vous n'êtes pas réelle.
+
+311
+00:17:40,048 --> 00:17:43,045
+Vous devriez vous reposer.
+Faire une sieste.
+
+312
+00:17:43,897 --> 00:17:44,750
+On y va.
+
+313
+00:17:45,000 --> 00:17:46,310
+Où est-ce qu'on va ?
+
+314
+00:17:46,560 --> 00:17:47,810
+Voir ma femme.
+
+315
+00:17:48,406 --> 00:17:50,402
+Tordu. J'adore ça.
+
+316
+00:17:52,032 --> 00:17:53,231
+À 3, c'est plus cher,
+
+317
+00:17:53,481 --> 00:17:55,959
+mais je vais peut-être
+vous le faire gratos, sénateur.
+
+318
+00:18:10,013 --> 00:18:11,027
+Langton.
+
+319
+00:18:11,440 --> 00:18:13,490
+J'ai des caméras à neutraliser.
+
+320
+00:18:13,818 --> 00:18:15,511
+<i>Ça ne sera pas long.</i>
+
+321
+00:18:18,270 --> 00:18:19,598
+Je charge un virus.
+
+322
+00:18:23,833 --> 00:18:25,688
+C'est bon. Vous pouvez y aller.
+
+323
+00:18:43,886 --> 00:18:45,949
+Essayez de comprendre ce que je dis.
+
+324
+00:18:46,199 --> 00:18:47,499
+Vous n'êtes pas vous.
+
+325
+00:18:49,263 --> 00:18:52,070
+Cette Dollhouse vous a transformée.
+
+326
+00:18:52,320 --> 00:18:54,435
+Elle vous a fait subir
+un lavage de cerveau.
+
+327
+00:18:54,993 --> 00:18:57,197
+Ils ont fait de vous
+quelqu'un d'autre.
+
+328
+00:18:59,891 --> 00:19:02,850
+Je sais que c'est difficile à croire.
+Ne le prenez pas mal.
+
+329
+00:19:03,329 --> 00:19:05,911
+C'est un jeu de rôle, ce fantasme ?
+
+330
+00:19:06,161 --> 00:19:08,455
+Je pige pas.
+Quand est-ce qu'on se déshabille ?
+
+331
+00:19:08,705 --> 00:19:09,648
+Écoutez-moi.
+
+332
+00:19:09,898 --> 00:19:11,376
+On vous a manipulée.
+
+333
+00:19:12,752 --> 00:19:14,820
+Vous deviez être
+désespérée et seule.
+
+334
+00:19:15,273 --> 00:19:16,723
+Ils en ont profité.
+
+335
+00:19:18,372 --> 00:19:21,910
+Ils vous ont réduite en esclavage.
+Un joujou destiné aux riches.
+
+336
+00:19:22,898 --> 00:19:24,198
+C'est méprisable.
+
+337
+00:19:26,040 --> 00:19:27,549
+Je vais vous le prouver.
+
+338
+00:19:28,204 --> 00:19:30,544
+- Comment s'appelle votre mère ?
+- Denise.
+
+339
+00:19:30,998 --> 00:19:34,224
+- Vous êtes née où ? Quel jour ?
+- À Duluth. Le 6 août.
+
+340
+00:19:34,961 --> 00:19:36,050
+J'ai deux frères.
+
+341
+00:19:36,572 --> 00:19:39,401
+Je voulais être danseuse à New York,
+mais je gagnais plus comme escort.
+
+342
+00:19:39,651 --> 00:19:41,275
+Vous voulez tout savoir ?
+
+343
+00:19:41,525 --> 00:19:43,688
+Tant de détails
+dans la programmation.
+
+344
+00:19:45,025 --> 00:19:46,060
+Évidemment.
+
+345
+00:19:47,404 --> 00:19:49,153
+Écoutez, vous êtes sympa,
+
+346
+00:19:49,403 --> 00:19:51,692
+mais j'aime ce que je fais.
+
+347
+00:19:51,942 --> 00:19:53,952
+Vous êtes pas le premier
+à vouloir me sauver.
+
+348
+00:19:54,202 --> 00:19:56,835
+Mais je peux vous sauver.
+Je peux tous vous sauver.
+
+349
+00:19:59,056 --> 00:20:01,956
+Si je n'arrête pas Rossum,
+personne ne le fera.
+
+350
+00:20:03,202 --> 00:20:04,495
+Vous êtes un vrai héros.
+
+351
+00:20:07,040 --> 00:20:08,582
+Je veux faire le bien.
+
+352
+00:20:08,906 --> 00:20:11,938
+Sénateur, sans vouloir vous offenser,
+si voulez bien faire les choses,
+
+353
+00:20:12,188 --> 00:20:16,090
+vous devriez peut-être pas
+amener une prostituée à votre femme.
+
+354
+00:20:16,340 --> 00:20:18,658
+Cindy connaît
+les meilleurs neurologues du pays.
+
+355
+00:20:18,908 --> 00:20:20,258
+Elle peut vous aider.
+
+356
+00:20:23,078 --> 00:20:24,348
+Et j'ai besoin de vous.
+
+357
+00:20:25,537 --> 00:20:27,017
+Vous êtes une preuve.
+
+358
+00:20:28,079 --> 00:20:29,695
+D'accord, des heures sup.
+
+359
+00:20:40,690 --> 00:20:41,907
+Écoutez-moi.
+
+360
+00:20:42,440 --> 00:20:44,118
+Ces gens vous trompent.
+
+361
+00:20:44,439 --> 00:20:45,994
+Ils vous manipulent.
+
+362
+00:20:46,485 --> 00:20:47,988
+Vous me faites confiance ?
+
+363
+00:20:49,979 --> 00:20:51,834
+Bien, il faut filer d'ici.
+
+364
+00:20:54,594 --> 00:20:55,796
+Lâchez-moi !
+
+365
+00:20:56,419 --> 00:20:59,466
+- Je ne vous ferai pas de mal.
+- Je sais ce que vous m'avez fait !
+
+366
+00:20:59,716 --> 00:21:00,913
+Laissez-la !
+
+367
+00:21:03,230 --> 00:21:04,657
+Tout de suite.
+
+368
+00:21:05,640 --> 00:21:06,915
+N'approchez pas.
+
+369
+00:21:07,165 --> 00:21:09,017
+Vous avez besoin de moi.
+Autant qu'elle.
+
+370
+00:21:22,218 --> 00:21:23,755
+Vous n'êtes pas une poupée.
+
+371
+00:21:30,289 --> 00:21:31,689
+C'est nouveau, ça.
+
+372
+00:21:39,385 --> 00:21:41,138
+Qu'est-ce qui s'est passé ?
+
+373
+00:21:50,160 --> 00:21:52,978
+C'est Echo. Je comprends pas.
+Elle est près de Ballard ?
+
+374
+00:21:53,228 --> 00:21:54,313
+Pourquoi ?
+
+375
+00:21:54,748 --> 00:21:58,575
+Son architecture neurale varie,
+elle a reçu un coup de disrupteur.
+
+376
+00:21:58,825 --> 00:22:00,861
+D'après son signal GPS,
+elle est à la planque.
+
+377
+00:22:01,273 --> 00:22:03,845
+Dites à son chaperon temporaire
+qu'il est renvoyé.
+
+378
+00:22:04,164 --> 00:22:05,616
+Mets la caméra de sécurité.
+
+379
+00:22:09,393 --> 00:22:11,288
+Soit ils se sont battus,
+
+380
+00:22:11,538 --> 00:22:13,540
+auquel cas, bravo Echo, soit...
+
+381
+00:22:13,790 --> 00:22:15,595
+Le sénateur Perrin est la poupée.
+
+382
+00:22:16,153 --> 00:22:17,961
+On a chassé la mauvaise proie.
+
+383
+00:22:19,339 --> 00:22:21,715
+- Dans ce cas-là, Cindy est...
+- Son chaperon.
+
+384
+00:22:22,842 --> 00:22:25,218
+Appelez Ballard. Prévenez-le.
+
+385
+00:22:26,475 --> 00:22:27,888
+Harding a créé un sénateur.
+
+386
+00:22:28,138 --> 00:22:30,974
+Et l'a monté contre la Dollhouse.
+Où est la logique ?
+
+387
+00:22:31,224 --> 00:22:32,246
+Aucune idée.
+
+388
+00:22:32,496 --> 00:22:34,960
+À moins qu'il essaye
+de saboter notre maison.
+
+389
+00:22:35,210 --> 00:22:36,146
+Répondeur.
+
+390
+00:22:36,707 --> 00:22:37,707
+Les amis ?
+
+391
+00:22:40,342 --> 00:22:42,444
+Echo vient d'enlever
+la conspiration.
+
+392
+00:22:55,540 --> 00:22:57,783
+- Où vous m'emmenez ?
+- Je sais pas. N'importe où.
+
+393
+00:22:58,033 --> 00:23:00,087
+À un endroit
+où il y a de l'aspirine.
+
+394
+00:23:00,337 --> 00:23:03,966
+- Demi-tour. Ma femme est là-bas.
+- Je vais sûrement pas y retourner.
+
+395
+00:23:25,852 --> 00:23:27,781
+Tout ce que vous avez dit est vrai.
+
+396
+00:23:28,031 --> 00:23:29,206
+Ralentissez.
+
+397
+00:23:29,882 --> 00:23:31,083
+J'ai des...
+
+398
+00:23:31,428 --> 00:23:32,312
+trous.
+
+399
+00:23:32,603 --> 00:23:34,553
+Des trucs qui manquent.
+
+400
+00:23:34,872 --> 00:23:36,557
+Je vois d'autres personnes.
+
+401
+00:23:37,541 --> 00:23:38,552
+D'autres vies.
+
+402
+00:23:38,802 --> 00:23:40,452
+Vous allez nous faire tuer.
+
+403
+00:23:41,356 --> 00:23:44,669
+Je peux voir les rouages.
+Je vois comment tout est construit.
+
+404
+00:23:46,238 --> 00:23:47,301
+Je n'existe pas.
+
+405
+00:23:48,890 --> 00:23:50,303
+Je ne suis pas qui je crois.
+
+406
+00:23:53,200 --> 00:23:54,650
+Je suis une poupée.
+
+407
+00:23:58,237 --> 00:24:00,537
+Mettez-la dans le premier avion.
+
+408
+00:24:00,922 --> 00:24:04,146
+Je vous retrouve à l'aéroport
+quand j'aurai parlé à la police.
+
+409
+00:24:07,431 --> 00:24:10,155
+La dernière recrue débile
+de la Dollhouse de Los Angeles.
+
+410
+00:24:10,405 --> 00:24:13,205
+DeWitt a reçu l'ordre
+de rester en dehors de ça.
+
+411
+00:24:13,801 --> 00:24:15,950
+Ça ressemblait plutôt
+à une suggestion.
+
+412
+00:24:17,110 --> 00:24:18,451
+Qui êtes-vous ?
+
+413
+00:24:18,973 --> 00:24:20,667
+Je suis Mme Cynthia Perrin.
+
+414
+00:24:22,588 --> 00:24:24,208
+Vous n'êtes pas une poupée.
+
+415
+00:24:25,968 --> 00:24:28,675
+Parce que ce truc ne m'a rien fait ?
+Qu'est-ce que c'est ?
+
+416
+00:24:29,505 --> 00:24:31,151
+Vous bossez pour une Dollhouse.
+
+417
+00:24:31,401 --> 00:24:34,341
+Peu importe.
+Nos experts comprendront.
+
+418
+00:24:34,591 --> 00:24:36,558
+Mettez ça dans mes bagages.
+La valise noire.
+
+419
+00:24:36,808 --> 00:24:39,515
+Ça doit passer la sécurité.
+Ils ne doivent pas le voir.
+
+420
+00:24:40,137 --> 00:24:43,315
+Pourquoi Rossum veut
+qu'elle témoigne contre eux ?
+
+421
+00:24:45,551 --> 00:24:49,132
+Après mon départ,
+balancez-le dans la rivière.
+
+422
+00:24:49,569 --> 00:24:51,740
+Je vais chercher Perrin.
+Rendez-vous à l'aéroport.
+
+423
+00:24:51,990 --> 00:24:53,453
+Ne ratez pas l'avion.
+
+424
+00:24:59,007 --> 00:25:01,952
+Je sais que vous avez peur,
+mais on ne peut pas fuir comme ça.
+
+425
+00:25:02,202 --> 00:25:04,378
+Comment vous comptiez m'aider ?
+
+426
+00:25:10,451 --> 00:25:11,451
+Mon Dieu.
+
+427
+00:25:12,267 --> 00:25:13,593
+Arrêtez la voiture !
+
+428
+00:25:18,975 --> 00:25:20,560
+- Où allez-vous ?
+- Nulle part.
+
+429
+00:25:21,595 --> 00:25:22,604
+Partout.
+
+430
+00:25:22,854 --> 00:25:24,731
+Je dois m'en débarrasser.
+Mais comment ?
+
+431
+00:25:26,107 --> 00:25:27,234
+C'est impossible.
+
+432
+00:25:32,915 --> 00:25:35,367
+Vous êtes une poupée, comme moi.
+
+433
+00:25:39,255 --> 00:25:41,540
+Je sais qui je suis !
+
+434
+00:25:45,693 --> 00:25:47,605
+Dites-moi que je ne me trompe pas.
+
+435
+00:25:48,607 --> 00:25:50,233
+Je sais qui il est.
+
+436
+00:25:51,725 --> 00:25:53,301
+C'est le sénateur Daniel Perrin.
+
+437
+00:25:53,551 --> 00:25:54,896
+Ce n'est pas une poupée ?
+
+438
+00:25:55,146 --> 00:25:58,045
+C'est le sénateur Daniel Perrin
+et c'est une poupée.
+
+439
+00:25:58,461 --> 00:26:01,003
+C'est une version modifiée
+de lui-même.
+
+440
+00:26:01,895 --> 00:26:05,124
+Sa famille est dans la politique
+depuis des générations.
+
+441
+00:26:05,374 --> 00:26:09,488
+Des députés, des sénateurs,
+même un gouverneur du Vermont.
+
+442
+00:26:09,738 --> 00:26:14,146
+Mais lui, c'était un fêtard raté
+jusqu'à la trentaine.
+
+443
+00:26:14,527 --> 00:26:16,552
+Avant son expulsion de Yale,
+
+444
+00:26:16,802 --> 00:26:20,570
+ses camarades l'imaginaient plutôt
+se réveiller dans son vomi.
+
+445
+00:26:20,820 --> 00:26:22,555
+On l'a choisi pour son pedigree.
+
+446
+00:26:22,805 --> 00:26:26,334
+Quant à son ambition...
+On la lui a donnée.
+
+447
+00:26:34,870 --> 00:26:36,711
+Un pot de vin vous tenterait ?
+
+448
+00:26:37,104 --> 00:26:37,949
+Debout.
+
+449
+00:26:55,697 --> 00:26:57,347
+Vous allez rater votre avion.
+
+450
+00:26:59,131 --> 00:27:00,368
+Ils ne bougent plus.
+
+451
+00:27:00,806 --> 00:27:03,205
+- Ils ont été capturés ?
+- Je l'ignore.
+
+452
+00:27:03,455 --> 00:27:05,838
+Mais ils ont dû arrêter
+mon équipe d'extraction.
+
+453
+00:27:06,431 --> 00:27:09,211
+J'avais envoyé une équipe,
+mais ils se sont arrêtés.
+
+454
+00:27:09,461 --> 00:27:10,928
+Et ils ne répondent pas.
+
+455
+00:27:11,754 --> 00:27:15,751
+- C'est le numéro de couverture.
+- Bree doit appeler son agence.
+
+456
+00:27:21,222 --> 00:27:22,432
+Qu'est-ce qu'il a ?
+
+457
+00:27:25,894 --> 00:27:28,438
+Oui, je dois être Bree.
+En majeure partie.
+
+458
+00:27:28,688 --> 00:27:30,482
+Le sénateur est avec vous ?
+
+459
+00:27:31,936 --> 00:27:33,526
+Si c'est vraiment un sénateur.
+
+460
+00:27:33,776 --> 00:27:35,844
+<i>Là, on dirait une boule de nerfs.</i>
+
+461
+00:27:37,804 --> 00:27:38,990
+<i>C'est de votre faute.</i>
+
+462
+00:27:39,416 --> 00:27:41,216
+<i>Non, mais je peux l'aider.</i>
+
+463
+00:27:42,669 --> 00:27:44,037
+Je vous crois.
+
+464
+00:27:44,287 --> 00:27:45,914
+Sinon, vous n'auriez pas appelé.
+
+465
+00:27:46,707 --> 00:27:47,891
+Un traitement ?
+
+466
+00:27:49,348 --> 00:27:50,627
+Oui, un traitement.
+
+467
+00:27:50,991 --> 00:27:52,379
+Il se sentira mieux après.
+
+468
+00:27:52,895 --> 00:27:55,462
+Pas de traitement.
+Je sais ce que ça signifie.
+
+469
+00:27:55,972 --> 00:27:57,968
+Je sais tout sur vous.
+
+470
+00:27:59,677 --> 00:28:01,137
+Je suis le sénateur Perrin.
+
+471
+00:28:02,868 --> 00:28:04,391
+Je ne suis pas une poupée.
+
+472
+00:28:04,641 --> 00:28:05,809
+Effectivement.
+
+473
+00:28:06,059 --> 00:28:07,102
+Au sens strict.
+
+474
+00:28:07,569 --> 00:28:09,111
+<i>Vous êtes bien Daniel Perrin,</i>
+
+475
+00:28:09,361 --> 00:28:11,398
+<i>mais vous avez été changé.</i>
+
+476
+00:28:11,648 --> 00:28:13,347
+Votre esprit a été altéré.
+
+477
+00:28:13,840 --> 00:28:14,776
+Modifié.
+
+478
+00:28:15,718 --> 00:28:18,655
+- De quoi vous parlez ?
+- <i>Quelqu'un vous contrôle.</i>
+
+479
+00:28:18,905 --> 00:28:21,616
+Je peux vous aider
+à trouver qui et pour quelle raison.
+
+480
+00:28:21,866 --> 00:28:23,910
+Pourquoi devrais-je vous croire ?
+
+481
+00:28:24,407 --> 00:28:26,329
+C'est moi qui ai programmé Bree
+
+482
+00:28:26,579 --> 00:28:27,956
+<i>pour vous faire chanter.</i>
+
+483
+00:28:28,400 --> 00:28:30,396
+<i>Si j'avais voulu vous tuer,
+vous seriez mort.</i>
+
+484
+00:28:30,680 --> 00:28:32,370
+Vous ne voulez pas me tuer.
+
+485
+00:28:32,944 --> 00:28:34,844
+On s'entend bien, je trouve.
+
+486
+00:28:35,255 --> 00:28:37,048
+<i>Parlons-en, voulez-vous ?</i>
+
+487
+00:28:37,627 --> 00:28:39,134
+Parlons de votre femme.
+
+488
+00:28:43,745 --> 00:28:44,973
+Monsieur le sénateur ?
+
+489
+00:28:45,622 --> 00:28:47,350
+C'est elle, hein ?
+
+490
+00:28:49,102 --> 00:28:50,921
+Elle n'est pas normale.
+Allons-nous-en.
+
+491
+00:28:51,171 --> 00:28:52,272
+Où étais-tu ?
+
+492
+00:28:53,964 --> 00:28:55,711
+- Qui est-ce ?
+- Quoi ?
+
+493
+00:28:57,735 --> 00:28:59,137
+Peu importe.
+
+494
+00:28:59,387 --> 00:29:01,823
+Je ne l'ai jamais vue.
+Allons-y.
+
+495
+00:29:02,073 --> 00:29:03,783
+Oui, on s'en va.
+
+496
+00:29:04,033 --> 00:29:04,993
+Lâchez-moi.
+
+497
+00:29:07,277 --> 00:29:09,170
+J'ignore ce qui m'arrive.
+
+498
+00:29:09,498 --> 00:29:12,167
+Tout va bien, bébé.
+On va s'en sortir.
+
+499
+00:29:12,722 --> 00:29:15,185
+Redis-moi pourquoi je t'aime tant.
+
+500
+00:29:17,916 --> 00:29:21,027
+Je suis ton preux chevalier.
+
+501
+00:29:22,568 --> 00:29:24,889
+Et je suis ta belle damoiselle.
+
+502
+00:29:25,338 --> 00:29:26,711
+À tout jamais.
+
+503
+00:29:27,308 --> 00:29:28,546
+À tout jamais.
+
+504
+00:29:30,215 --> 00:29:31,215
+C'est bon ?
+
+505
+00:29:34,993 --> 00:29:36,232
+Mon Dieu...
+
+506
+00:29:38,087 --> 00:29:39,318
+C'est un mensonge.
+
+507
+00:29:40,987 --> 00:29:43,740
+Je ne pars pas avec toi.
+Emmenez-moi à la Dollhouse.
+
+508
+00:29:43,990 --> 00:29:45,340
+Hors de question.
+
+509
+00:29:47,421 --> 00:29:48,821
+Tu ne tireras pas.
+
+510
+00:29:49,231 --> 00:29:50,681
+Tu es mon chaperon.
+
+511
+00:29:51,040 --> 00:29:52,174
+C'est exact.
+
+512
+00:29:53,304 --> 00:29:54,919
+Mais je ne suis pas le sien.
+
+513
+00:29:58,004 --> 00:30:00,926
+Tu ne le feras pas.
+Ça ne te ressemble pas.
+
+514
+00:30:01,296 --> 00:30:03,385
+- Baisse ton arme.
+- N'approche pas.
+
+515
+00:30:03,635 --> 00:30:04,678
+Si, allez-y.
+
+516
+00:30:06,236 --> 00:30:07,680
+Qu'est-ce que tu fais ?
+
+517
+00:30:10,267 --> 00:30:12,310
+Vous allez tout oublier,
+tous les deux.
+
+518
+00:30:12,681 --> 00:30:13,937
+On rentre à Washington.
+
+519
+00:30:14,187 --> 00:30:16,004
+Tu pourras tout oublier.
+
+520
+00:30:20,777 --> 00:30:21,695
+Non.
+
+521
+00:30:22,353 --> 00:30:23,548
+Tu ne peux pas.
+
+522
+00:30:24,315 --> 00:30:26,074
+Pas ta belle damoiselle.
+
+523
+00:30:26,961 --> 00:30:27,826
+Tu m'aimes.
+
+524
+00:30:31,570 --> 00:30:33,081
+C'est bien, oui.
+
+525
+00:30:33,774 --> 00:30:35,145
+Pose-le.
+
+526
+00:30:36,115 --> 00:30:37,460
+On doit y aller.
+
+527
+00:30:43,841 --> 00:30:47,554
+T'as réveillé beaucoup de monde.
+Et on pense tous que t'es une salope.
+
+528
+00:30:48,389 --> 00:30:51,015
+- Elle m'a frappée, Daniel.
+- Tu n'es pas ma femme.
+
+529
+00:30:52,126 --> 00:30:52,948
+Non !
+
+530
+00:31:09,742 --> 00:31:11,536
+- Je suis de votre côté !
+- Je l'aime.
+
+531
+00:31:12,113 --> 00:31:12,954
+Je sais.
+
+532
+00:31:14,622 --> 00:31:15,623
+Mais pas moi.
+
+533
+00:31:27,156 --> 00:31:28,146
+Désolée.
+
+534
+00:31:28,396 --> 00:31:30,110
+Venez.
+Je sais qui peut nous aider.
+
+535
+00:31:30,360 --> 00:31:32,678
+Vous voulez me livrer ?
+Ils sont mauvais, Bree.
+
+536
+00:31:32,928 --> 00:31:35,310
+Je crois que les siens
+sont pires que les miens.
+
+537
+00:31:38,363 --> 00:31:39,831
+C'est pas votre femme.
+
+538
+00:31:41,349 --> 00:31:42,150
+Venez.
+
+539
+00:32:00,361 --> 00:32:01,604
+Pile à l'heure.
+
+540
+00:32:04,295 --> 00:32:05,643
+Appelez la sécurité.
+
+541
+00:32:12,221 --> 00:32:15,767
+Si je ne peux pas l'affronter lui,
+je ne peux pas affronter Rossum.
+
+542
+00:32:22,775 --> 00:32:25,084
+- On doit vous sortir de là.
+- J'étais qui ?
+
+543
+00:32:25,715 --> 00:32:28,905
+- Pourquoi je vous obsède autant ?
+- Ce n'est pas le moment.
+
+544
+00:32:29,394 --> 00:32:30,907
+C'est maintenant ou jamais.
+
+545
+00:32:36,020 --> 00:32:38,914
+Elle s'appelait Mellie.
+Nous étions voisins.
+
+546
+00:32:40,014 --> 00:32:43,086
+Je faisais partie du FBI,
+elle m'aidait sur mon enquête.
+
+547
+00:32:44,152 --> 00:32:45,794
+C'était ça, votre fantasme ?
+
+548
+00:32:46,336 --> 00:32:49,175
+J'étais la secrétaire
+avec qui vous couchiez ?
+
+549
+00:32:49,425 --> 00:32:50,812
+Ce n'était pas un fantasme.
+
+550
+00:32:51,062 --> 00:32:53,638
+Je faisais partie du FBI.
+Je pensais que Mellie était réelle.
+
+551
+00:32:53,888 --> 00:32:55,367
+La Dollhouse m'a piégé aussi.
+
+552
+00:32:55,617 --> 00:32:57,505
+Donc, vous travaillez pour eux.
+
+553
+00:32:59,661 --> 00:33:02,062
+Ça faisait partie du marché
+pour vous libérer.
+
+554
+00:33:02,480 --> 00:33:05,134
+Si je travaillais pour eux,
+ils vous libéraient.
+
+555
+00:33:06,404 --> 00:33:07,777
+Je devrais vous remercier ?
+
+556
+00:33:08,027 --> 00:33:09,680
+Je veux leur peau autant que vous.
+
+557
+00:33:09,930 --> 00:33:11,447
+Alors, laissez-moi témoigner.
+
+558
+00:33:11,697 --> 00:33:14,491
+Ils veulent que vous témoigniez.
+C'est un piège.
+
+559
+00:33:15,288 --> 00:33:17,532
+Mellie, ce serait une erreur.
+
+560
+00:33:19,553 --> 00:33:21,040
+Je ne suis pas Mellie.
+
+561
+00:33:24,062 --> 00:33:25,043
+Je sais.
+
+562
+00:33:30,002 --> 00:33:31,602
+Vous m'avez libérée.
+
+563
+00:33:32,498 --> 00:33:35,053
+Une femme libre
+a le droit de faire des erreurs.
+
+564
+00:33:37,682 --> 00:33:38,766
+Je suis libre ?
+
+565
+00:34:15,340 --> 00:34:17,703
+Nous avons perdu les constantes
+et le signal GPS d'Echo.
+
+566
+00:34:17,953 --> 00:34:21,239
+- Comment est-ce possible ?
+- C'est impossible.
+
+567
+00:34:21,859 --> 00:34:25,296
+Quelque chose d'impossible
+vient de se produire.
+
+568
+00:34:28,274 --> 00:34:31,224
+Echo n'est plus là.
+Le sénateur Perrin non plus.
+
+569
+00:34:31,656 --> 00:34:33,622
+<i>Appelez M. Ballard avant de rentrer.</i>
+
+570
+00:34:33,872 --> 00:34:36,207
+<i>Il a peut-être eu plus de chance
+avec Madeline.</i>
+
+571
+00:34:54,584 --> 00:34:56,301
+Aucune nouvelle de Ballard.
+
+572
+00:34:56,995 --> 00:35:00,275
+Madeline est certainement
+en train de se préparer à témoigner
+
+573
+00:35:00,525 --> 00:35:04,226
+devant le sous-comité du Sénat
+sur l'éthique de la neuroscience.
+
+574
+00:35:04,890 --> 00:35:07,187
+Pourquoi Harding
+ne nous soutient pas ?
+
+575
+00:35:07,439 --> 00:35:09,653
+Si on tombe,
+la moitié de Rossum nous suit.
+
+576
+00:35:09,903 --> 00:35:11,703
+Avec Perrin dans sa poche,
+
+577
+00:35:11,953 --> 00:35:13,694
+il contrôle l'étendue des dégâts.
+
+578
+00:35:14,745 --> 00:35:17,072
+Le sous-comité blanchira Rossum.
+
+579
+00:35:18,772 --> 00:35:21,172
+Et Perrin sera vu comme un héros
+
+580
+00:35:21,690 --> 00:35:23,637
+qui a secouru
+de pauvres âmes sans défense.
+
+581
+00:35:23,887 --> 00:35:26,666
+Il aura le pouvoir
+de faire passer toutes les lois
+
+582
+00:35:26,916 --> 00:35:28,029
+que Rossum voudra.
+
+583
+00:35:28,279 --> 00:35:29,794
+On ne pourra plus les arrêter.
+
+584
+00:35:30,221 --> 00:35:31,301
+Exactement.
+
+585
+00:35:31,551 --> 00:35:32,901
+Que faisons-nous ?
+
+586
+00:35:34,935 --> 00:35:36,335
+Nous les arrêtons.
+
+587
+00:35:45,448 --> 00:35:46,598
+Merci, Grace.
+
+588
+00:35:46,958 --> 00:35:48,716
+Le sénateur arrive bientôt ?
+
+589
+00:35:48,966 --> 00:35:50,347
+D'un instant à l'autre.
+
+590
+00:35:50,597 --> 00:35:53,197
+Le diagnostic d'Athena attendra.
+Je veux le champ libre.
+
+591
+00:35:53,865 --> 00:35:55,737
+Daniel Perrin est notre star.
+
+592
+00:35:56,364 --> 00:35:59,214
+Ils amènent également
+celle qui l'a enlevé.
+
+593
+00:36:00,537 --> 00:36:02,951
+Nous l'examinerons
+quand le sénateur sera sur pied.
+
+594
+00:36:03,608 --> 00:36:05,908
+Elle vient vraiment de Los Angeles ?
+
+595
+00:36:07,527 --> 00:36:09,256
+Pourquoi ils nous attaqueraient ?
+
+596
+00:36:09,506 --> 00:36:11,334
+Concentrez-vous sur votre travail.
+
+597
+00:36:12,403 --> 00:36:14,999
+Lorsqu'on commence à se poser
+des questions sur la direction,
+
+598
+00:36:15,249 --> 00:36:17,449
+ils s'en posent sur nous.
+
+599
+00:36:17,998 --> 00:36:20,498
+- Ce n'est pas dans votre intérêt.
+- Désolée.
+
+600
+00:36:20,971 --> 00:36:23,180
+La curiosité.
+C'est un sentiment naturel.
+
+601
+00:36:24,952 --> 00:36:26,652
+Nous avons des pulsions.
+
+602
+00:36:27,171 --> 00:36:29,228
+C'est notre commerce.
+Pourquoi ne pas y céder ?
+
+603
+00:36:32,406 --> 00:36:34,983
+- Combien de sucres ?
+- Deux et demi.
+
+604
+00:36:37,134 --> 00:36:38,404
+Mais on ne peut pas.
+
+605
+00:36:38,655 --> 00:36:40,808
+On ne peut pas céder.
+
+606
+00:36:41,058 --> 00:36:42,466
+Nous avons un devoir sacré.
+
+607
+00:36:42,716 --> 00:36:45,201
+Nous avons le privilège
+d'avoir un coeur.
+
+608
+00:36:45,579 --> 00:36:47,317
+Nous le défendrions à tout prix.
+
+609
+00:36:49,419 --> 00:36:50,819
+Nous ferions tout.
+
+610
+00:36:57,680 --> 00:36:58,680
+Bennett.
+
+611
+00:37:00,394 --> 00:37:01,311
+Oui.
+
+612
+00:37:01,561 --> 00:37:02,636
+Aucun problème.
+
+613
+00:37:03,672 --> 00:37:05,989
+Dès que j'aurai
+le corps du sénateur Perrin.
+
+614
+00:37:06,568 --> 00:37:08,697
+On lui implantera
+des souvenirs de voyages...
+
+615
+00:37:08,947 --> 00:37:11,097
+Une étape à Milwaukee,
+des perturbations...
+
+616
+00:37:11,355 --> 00:37:14,172
+et quelque chose qui explique
+sa déshydratation et son égarement.
+
+617
+00:37:14,422 --> 00:37:17,145
+Une intoxication alimentaire
+ou un film avec un chien.
+
+618
+00:37:18,523 --> 00:37:21,273
+Mais assurez-vous
+que personne ne le touche.
+
+619
+00:37:22,765 --> 00:37:25,615
+Vous avez des informations
+sur l'autre active ?
+
+620
+00:37:26,442 --> 00:37:29,834
+Il pourrait être utile de la scanner
+pour verrouiller ses paramètres.
+
+621
+00:37:30,084 --> 00:37:31,581
+Ça pourrait nous aider...
+
+622
+00:37:32,984 --> 00:37:34,752
+Je ferai mon rapport
+dès que possible.
+
+623
+00:37:36,383 --> 00:37:37,380
+Ils arrivent.
+
+624
+00:37:40,654 --> 00:37:43,186
+Hades arrive à 18 h
+après son engagement.
+
+625
+00:37:43,436 --> 00:37:44,886
+Faites-le attendre.
+
+626
+00:37:46,483 --> 00:37:48,033
+Et annulez Aphrodite.
+
+627
+00:37:53,743 --> 00:37:55,857
+Pourquoi Hades est encore
+sur la table ?
+
+628
+00:37:56,298 --> 00:37:58,048
+- Ça aurait dû être...
+- Ça aurait.
+
+629
+00:37:58,298 --> 00:37:59,298
+Aurait.
+
+630
+00:37:59,948 --> 00:38:01,480
+Ça n'a pas. Ça n'est pas.
+
+631
+00:38:02,496 --> 00:38:05,687
+Contraire à la réalité : aurait.
+Irréel. Comme un mensonge.
+
+632
+00:38:06,824 --> 00:38:07,824
+Aurait.
+
+633
+00:38:08,197 --> 00:38:09,197
+Aurait.
+
+634
+00:38:15,437 --> 00:38:16,437
+Ça y est.
+
+635
+00:38:18,295 --> 00:38:19,740
+Il est inconscient ?
+
+636
+00:38:19,990 --> 00:38:21,841
+Je ne peux pas travailler.
+
+637
+00:38:22,091 --> 00:38:23,986
+Préparez le masque,
+compilez l'empreinte
+
+638
+00:38:24,236 --> 00:38:25,511
+et augmentez la mémoire.
+
+639
+00:38:25,761 --> 00:38:28,009
+- Et l'autre active ?
+- Commencez par elle.
+
+640
+00:38:28,259 --> 00:38:30,610
+Je vais l'examiner
+avant que le sénateur revienne à lui.
+
+641
+00:38:30,860 --> 00:38:33,643
+Préparez-les tous les deux
+et mettez-le en attente.
+
+642
+00:38:35,272 --> 00:38:38,107
+Vous pourrez partir, ensuite.
+Je dois me concentrer.
+
+643
+00:38:38,357 --> 00:38:39,650
+Je peux vous aider.
+
+644
+00:38:39,900 --> 00:38:41,776
+Je dois me concentrer !
+Merci.
+
+645
+00:38:43,627 --> 00:38:44,977
+J'en ai besoin...
+
+646
+00:38:47,009 --> 00:38:48,359
+Je dois me concentrer.
+
+647
+00:38:49,258 --> 00:38:50,160
+Merci.
+
+648
+00:38:56,141 --> 00:38:58,338
+Encore une migraine, Bennett ?
+
+649
+00:38:58,870 --> 00:39:00,320
+C'est dans ma tête.
+
+650
+00:39:03,108 --> 00:39:05,008
+Vos blessures ne sont qu'externes.
+
+651
+00:39:07,732 --> 00:39:10,451
+Il faudra expliquer ça
+dans l'empreinte de Perrin.
+
+652
+00:39:11,456 --> 00:39:13,187
+Quelle version prend-on ?
+
+653
+00:39:13,454 --> 00:39:14,704
+Une agression ?
+
+654
+00:39:14,992 --> 00:39:16,642
+Une chute dans l'escalier ?
+
+655
+00:39:17,489 --> 00:39:19,605
+Il pourrait battre sa femme.
+
+656
+00:39:20,650 --> 00:39:23,485
+Le sénateur ne bat pas sa femme.
+Le sénateur aime sa femme.
+
+657
+00:39:23,866 --> 00:39:25,112
+Elle a de la chance.
+
+658
+00:39:26,098 --> 00:39:27,764
+Je vous ai apporté un souvenir.
+
+659
+00:39:28,014 --> 00:39:29,714
+L'appareil qui l'a grillé.
+
+660
+00:39:31,606 --> 00:39:33,156
+Un transmetteur binaural.
+
+661
+00:39:33,463 --> 00:39:36,499
+Condensateurs à électrolyte solide.
+Soudure à l'échelle nanométrique.
+
+662
+00:39:36,750 --> 00:39:37,900
+Cette griffe,
+
+663
+00:39:38,739 --> 00:39:40,639
+c'est celle de Topher Brink.
+
+664
+00:39:42,130 --> 00:39:44,276
+Je rêvais de voir
+une de ses inventions.
+
+665
+00:39:46,119 --> 00:39:49,010
+Si vous faites ça,
+toutes les poupées vont s'évanouir.
+
+666
+00:39:54,756 --> 00:39:55,684
+Incroyable.
+
+667
+00:39:58,219 --> 00:39:59,919
+Comment tu fonctionnes ?
+
+668
+00:40:00,723 --> 00:40:02,335
+L'audience débute dans dix heures.
+
+669
+00:40:02,585 --> 00:40:05,944
+Sans Perrin, le plan tombe à l'eau.
+Je ne donne pas cher de notre peau.
+
+670
+00:40:14,075 --> 00:40:17,317
+L'autre active est sur la table.
+Celui-ci est à moitié conscient.
+
+671
+00:40:17,567 --> 00:40:19,395
+Vous pourrez bientôt travailler.
+
+672
+00:40:19,933 --> 00:40:22,258
+Il ne répond plus aux phrases clés.
+
+673
+00:40:22,508 --> 00:40:24,879
+Je vais devoir rétablir
+le relais CR10 dans l'amygdale.
+
+674
+00:40:25,384 --> 00:40:26,433
+Super.
+
+675
+00:40:27,975 --> 00:40:31,133
+Nous allons voir à quel point
+l'empreinte a été endommagée.
+
+676
+00:40:42,524 --> 00:40:43,858
+Va-t'en.
+
+677
+00:40:44,108 --> 00:40:45,109
+Va-t'en !
+
+678
+00:40:45,359 --> 00:40:46,776
+Il va falloir tout refaire.
+
+679
+00:40:47,306 --> 00:40:49,202
+Je vous en prie, ne m'effacez pas !
+
+680
+00:40:49,614 --> 00:40:50,597
+Par pitié !
+
+681
+00:40:50,847 --> 00:40:52,116
+Je ne veux pas oublier.
+
+682
+00:40:55,161 --> 00:40:56,537
+C'est mon esprit.
+
+683
+00:40:56,787 --> 00:40:58,038
+Plus depuis un moment.
+
+684
+00:40:58,733 --> 00:40:59,936
+Mon Dieu.
+
+685
+00:41:00,871 --> 00:41:02,121
+Qui êtes-vous ?
+
+686
+00:41:02,836 --> 00:41:04,292
+C'est Dieu, mon chéri.
+
+687
+00:41:04,542 --> 00:41:06,087
+Et tu l'as offensée.
+
+688
+00:41:08,224 --> 00:41:10,383
+Assurez-vous
+que Los Angeles ne les a pas suivis.
+
+689
+00:41:10,933 --> 00:41:11,802
+C'est bon.
+
+690
+00:41:12,052 --> 00:41:14,225
+Assurez-vous-en.
+
+691
+00:41:14,514 --> 00:41:16,275
+Assurez-vous-en.
+
+692
+00:41:18,710 --> 00:41:19,810
+Ça va aller.
+
+693
+00:41:21,062 --> 00:41:22,355
+Tout va bien se passer.
+
+694
+00:41:22,605 --> 00:41:24,034
+C'est complètement dingue.
+
+695
+00:41:25,363 --> 00:41:27,668
+- Vous êtes dingue.
+- Qui peut en juger ?
+
+696
+00:41:28,311 --> 00:41:29,778
+Nous commencerons bientôt.
+
+697
+00:41:48,307 --> 00:41:49,420
+Où suis-je ?
+
+698
+00:41:51,042 --> 00:41:52,042
+Caroline...
+
+699
+00:41:53,975 --> 00:41:55,925
+Tu m'avais promis de revenir.
+
+700
+00:42:03,229 --> 00:42:04,212
+Jouons un peu.
+

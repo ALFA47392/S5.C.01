@@ -1,0 +1,4413 @@
+1
+00:00:01,026 --> 00:00:02,487
+<i>Previously on</i> The Shield<i>...</i>
+
+2
+00:00:02,635 --> 00:00:04,346
+- You gonna hide.
+- Puttin' him on the run?
+
+3
+00:00:04,468 --> 00:00:06,757
+- I can't run.
+- Right now it's about keeping ya alive.
+
+4
+00:00:06,878 --> 00:00:08,798
+You've got history
+with these grenade tossers.
+
+5
+00:00:08,920 --> 00:00:10,912
+The guy with the grenades
+is named Guardo.
+
+6
+00:00:11,060 --> 00:00:13,580
+We hit him hard and his weapons stash,
+but he got away.
+
+7
+00:00:13,729 --> 00:00:14,968
+He screwed my ex-wife.
+
+8
+00:00:15,114 --> 00:00:16,152
+Sole purpose...
+
+9
+00:00:16,301 --> 00:00:19,762
+making this investigation
+seem like a personal vendetta.
+
+10
+00:00:20,141 --> 00:00:22,633
+He may have assassinated
+a gang leader.
+
+11
+00:00:22,772 --> 00:00:24,041
+This was not
+part of the deal.
+
+12
+00:00:24,173 --> 00:00:26,325
+Sure it was.
+The part Antwon didn't tell you about.
+
+13
+00:00:26,490 --> 00:00:28,817
+This was a calculated move
+by Lieutenant Kavanaugh
+
+14
+00:00:28,962 --> 00:00:30,960
+to put Curtis' life
+in jeopardy
+
+15
+00:00:31,175 --> 00:00:33,252
+to compel him to testify
+against his team.
+
+16
+00:00:33,390 --> 00:00:35,872
+My client is willing
+to plead to new charges,
+
+17
+00:00:36,004 --> 00:00:38,124
+as long as we can reasonably
+guarantee his safety.
+
+18
+00:00:38,256 --> 00:00:40,066
+What does he have to say
+about his friends?
+
+19
+00:00:40,215 --> 00:00:42,104
+Nothing.
+There is one other option, though.
+
+20
+00:00:42,252 --> 00:00:44,049
+I can't turn on my family.
+
+21
+00:00:44,312 --> 00:00:47,574
+We're gonna lose
+a vast chance at nailing Vic.
+
+22
+00:00:47,739 --> 00:00:50,379
+You got to make him believe
+that Lemansky gave it up
+
+23
+00:00:50,527 --> 00:00:51,671
+for witness protection.
+
+24
+00:00:51,852 --> 00:00:52,864
+Lemansky's talking.
+
+25
+00:00:53,013 --> 00:00:54,795
+Now all this bullshit
+can blow back on me.
+
+26
+00:00:54,926 --> 00:00:57,049
+If he had a change of heart,
+he would've tipped us.
+
+27
+00:00:57,181 --> 00:00:59,031
+He wouldn't if his deal
+meant us going down.
+
+28
+00:00:59,163 --> 00:01:01,204
+We go to the spot and
+we'll take his temperature.
+
+29
+00:01:01,336 --> 00:01:03,187
+If he doesn't show,
+assume he made the deal.
+
+30
+00:01:03,311 --> 00:01:04,967
+We got to wait
+until you get to Mexico.
+
+31
+00:01:05,089 --> 00:01:06,858
+We got money parked in
+an account for you.
+
+32
+00:01:06,990 --> 00:01:09,031
+- It's all set up.
+- I'm not going that route.
+
+33
+00:01:09,179 --> 00:01:11,958
+Why did you even come back here
+if you weren't planning on leaving?
+
+34
+00:01:12,094 --> 00:01:13,117
+I came to see you guys.
+
+35
+00:01:13,254 --> 00:01:14,408
+I brought you some food.
+
+36
+00:01:17,351 --> 00:01:18,356
+Shane.
+
+37
+00:01:23,168 --> 00:01:25,344
+Are you happy, Detective Mackey?
+
+38
+00:01:29,069 --> 00:01:30,075
+Break 'em up.
+
+39
+00:01:30,980 --> 00:01:32,595
+We gonna find out who did this.
+
+40
+00:01:33,749 --> 00:01:35,035
+And we gonna kill him.
+
+41
+00:01:37,343 --> 00:01:39,172
+o/~ And then it came to me, o/~
+
+42
+00:01:39,964 --> 00:01:41,579
+o/~ just what I had done, o/~
+
+43
+00:01:42,138 --> 00:01:44,149
+o/~ and all for no reason, o/~
+
+44
+00:01:44,610 --> 00:01:46,423
+o/~ just one piece of lead. o/~
+
+45
+00:01:46,918 --> 00:01:48,847
+o/~ I hung my head... o/~
+
+46
+00:01:49,341 --> 00:01:51,368
+o/~ I hung my head... o/~
+
+47
+00:02:01,457 --> 00:02:03,353
+o/~ Here in the courthouse, o/~
+
+48
+00:02:03,622 --> 00:02:05,370
+o/~ the whole town was there, o/~
+
+49
+00:02:06,111 --> 00:02:07,760
+o/~ I see the judge, o/~
+
+50
+00:02:08,254 --> 00:02:10,232
+o/~ high up in his chair, o/~
+
+51
+00:02:10,644 --> 00:02:12,672
+o/~ explain
+to the courtroom, o/~
+
+52
+00:02:12,936 --> 00:02:14,934
+o/~ what went through
+your mind. o/~
+
+53
+00:02:15,296 --> 00:02:17,241
+o/~ And we'll ask the jury, o/~
+
+54
+00:02:17,571 --> 00:02:19,599
+o/~ what verdict they find. o/~
+
+55
+00:02:20,225 --> 00:02:21,989
+o/~ I felt the power, o/~
+
+56
+00:02:22,388 --> 00:02:24,234
+o/~ of death over life, o/~
+
+57
+00:02:24,646 --> 00:02:26,657
+o/~ I orphaned his children, o/~
+
+58
+00:02:26,986 --> 00:02:28,948
+o/~ I widowed his wife. o/~
+
+59
+00:02:29,377 --> 00:02:31,470
+o/~ I begged their forgiveness, o/~
+
+60
+00:02:31,800 --> 00:02:33,616
+o/~ I wish I was dead. o/~
+
+61
+00:02:34,029 --> 00:02:36,122
+o/~ I hung my head... o/~
+
+62
+00:02:36,386 --> 00:02:38,331
+o/~ I hung my head... o/~
+
+63
+00:02:38,660 --> 00:02:40,858
+o/~ I hung my head... o/~
+
+64
+00:02:41,139 --> 00:02:42,924
+o/~ I hung my head... o/~
+
+65
+00:02:49,131 --> 00:02:51,142
+I ran down the grocery guy's contacts.
+
+66
+00:02:52,081 --> 00:02:54,290
+No one's seen Guardo.
+He's a god damn ghost.
+
+67
+00:02:55,296 --> 00:02:56,704
+Anything south of the border?
+
+68
+00:02:56,829 --> 00:02:59,400
+Our federale is neck-deep
+in some prison beef.
+
+69
+00:02:59,527 --> 00:03:00,532
+Couldn't help.
+
+70
+00:03:04,991 --> 00:03:07,208
+How did Guardo get Lem
+to show up at that place?
+
+71
+00:03:08,296 --> 00:03:09,302
+Alone.
+
+72
+00:03:14,327 --> 00:03:15,868
+And the way he died.
+
+73
+00:03:16,862 --> 00:03:17,863
+Shit.
+
+74
+00:03:24,315 --> 00:03:25,403
+We find Guardo...
+
+75
+00:03:27,080 --> 00:03:28,452
+He dies the same way.
+
+76
+00:03:30,833 --> 00:03:31,851
+Only slower.
+
+77
+00:03:33,975 --> 00:03:35,008
+Yeah. He will.
+
+78
+00:03:38,222 --> 00:03:40,165
+If only he'd reach out
+to us instead of Becca.
+
+79
+00:03:40,395 --> 00:03:42,528
+- He should've trusted us man.
+- He was scared.
+
+80
+00:03:43,723 --> 00:03:45,652
+If I didn't let the whole thing
+with Antwon go
+
+81
+00:03:45,817 --> 00:03:47,729
+- shit-side up...
+- Hey, it's nobody's fault.
+
+82
+00:03:59,947 --> 00:04:01,216
+You were a great cop.
+
+83
+00:04:02,337 --> 00:04:03,416
+You were a great friend.
+
+84
+00:04:03,573 --> 00:04:05,098
+Here's the 21 you deserve, man.
+
+85
+00:04:28,273 --> 00:04:29,987
+{\c&HFFFFFF&}Transcript : www.swsub.com
+
+86
+00:04:30,161 --> 00:04:32,863
+{\c&HFFFFFF&}Synchro : Artusamak - Strike Team
+~www.theshield-laserie.com ~
+
+87
+00:04:36,495 --> 00:04:38,399
+{\c&HFFFFFF&}ON THE JONES
+
+88
+00:04:40,292 --> 00:04:41,314
+Partner go home?
+
+89
+00:04:41,808 --> 00:04:44,610
+Billings takes 9 to 5
+very seriously.
+
+90
+00:04:44,795 --> 00:04:46,104
+Another homicide
+volunteer?
+
+91
+00:04:46,245 --> 00:04:48,817
+It's the third el salvadoran
+to confess to Lemansky's murder.
+
+92
+00:04:48,971 --> 00:04:50,584
+First two didn't get one detail right.
+
+93
+00:04:50,707 --> 00:04:52,913
+This guy wasn't even in the country
+when it happened.
+
+94
+00:04:53,465 --> 00:04:54,824
+Guy turns himself in,
+
+95
+00:04:54,950 --> 00:04:56,763
+takes the prison juice for the killing,
+
+96
+00:04:56,895 --> 00:04:58,049
+keeps the heat off the gang.
+
+97
+00:04:58,172 --> 00:05:00,093
+Heat? What heat?
+I haven't heard a peep
+
+98
+00:05:00,241 --> 00:05:01,247
+out of downtown.
+
+99
+00:05:01,395 --> 00:05:03,109
+No police funeral.
+No press conference.
+
+100
+00:05:03,291 --> 00:05:04,873
+It's like Lemansky
+never wore a badge.
+
+101
+00:05:05,071 --> 00:05:06,571
+He's ready
+to be processed.
+
+102
+00:05:11,911 --> 00:05:14,483
+- Vic check in yet?
+- No. I'll get this.
+
+103
+00:05:18,016 --> 00:05:21,478
+Hey, is Vic around?
+I can't get him on the phone.
+
+104
+00:05:21,610 --> 00:05:24,328
+No. He's still taking
+some personal time.
+
+105
+00:05:24,459 --> 00:05:26,297
+He's not supposed
+to be back until tomorrow.
+
+106
+00:05:26,429 --> 00:05:27,430
+Is everything OK?
+
+107
+00:05:27,563 --> 00:05:28,962
+I haven't heard from him in days.
+
+108
+00:05:29,257 --> 00:05:32,234
+I leave messages.
+He doesn't get back to me.
+
+109
+00:05:32,381 --> 00:05:33,443
+The kids are freaking out.
+
+110
+00:05:33,592 --> 00:05:36,279
+Well, I'm sure he's
+just sorting things out.
+
+111
+00:05:37,119 --> 00:05:38,125
+Yeah.
+
+112
+00:05:38,263 --> 00:05:39,681
+I'll get a message to him.
+
+113
+00:05:39,961 --> 00:05:40,967
+Have him call me.
+
+114
+00:05:42,137 --> 00:05:43,142
+Thanks.
+
+115
+00:05:48,294 --> 00:05:50,519
+A.C., sorry to startle you.
+
+116
+00:05:50,783 --> 00:05:52,250
+Can I get a minute of your time?
+
+117
+00:05:53,634 --> 00:05:54,739
+What now, Lieutenant?
+
+118
+00:05:55,546 --> 00:05:57,712
+I just wanna apologize
+for my behavior last week
+
+119
+00:05:57,871 --> 00:05:58,925
+in Captain Wyms' office.
+
+120
+00:05:59,920 --> 00:06:01,914
+It was out of line.
+I let it get too personal.
+
+121
+00:06:02,046 --> 00:06:03,059
+Yeah, you did.
+
+122
+00:06:03,916 --> 00:06:05,920
+I've been doing a lot of soul searching
+
+123
+00:06:06,052 --> 00:06:07,733
+in the light of Lemansky's death,
+
+124
+00:06:08,557 --> 00:06:09,768
+trying to locate my motives.
+
+125
+00:06:09,900 --> 00:06:11,054
+Motives for what?
+
+126
+00:06:13,603 --> 00:06:14,607
+For finding his killer.
+
+127
+00:06:14,755 --> 00:06:15,768
+That's not your job.
+
+128
+00:06:16,340 --> 00:06:18,466
+Wyms' office is in charge
+of that investigation.
+
+129
+00:06:18,898 --> 00:06:21,881
+I know. And Wagenbach, he's a good man.
+
+130
+00:06:22,508 --> 00:06:25,195
+But he's only looking at this
+from the Salvadoran angle.
+
+131
+00:06:25,336 --> 00:06:26,398
+What do you want, Jon?
+
+132
+00:06:26,530 --> 00:06:27,832
+Same thing I wanted last week.
+
+133
+00:06:27,964 --> 00:06:30,908
+Not gonna happen. You
+can't see the line anymore.
+
+134
+00:06:31,106 --> 00:06:33,776
+Nobody can see the line.
+Mackey just keeps moving it.
+
+135
+00:06:34,205 --> 00:06:36,776
+Please. I just need...
+You need a time for a dead cop.
+
+136
+00:06:37,633 --> 00:06:38,688
+He deserves that.
+
+137
+00:06:42,688 --> 00:06:44,451
+Okay. What is it?
+
+138
+00:06:45,787 --> 00:06:48,902
+The brick of tar
+that we found on Lemansky
+
+139
+00:06:49,508 --> 00:06:52,173
+was a part of something dirty
+that Vic put into motion.
+
+140
+00:06:53,624 --> 00:06:54,843
+When Curtis got caught,
+
+141
+00:06:55,766 --> 00:06:57,761
+Vic need to protect himself.
+
+142
+00:06:57,920 --> 00:06:59,854
+So he let Lemansky take the plea
+
+143
+00:07:00,468 --> 00:07:02,604
+while he brokered a deal
+with Antwon Mitchell
+
+144
+00:07:03,237 --> 00:07:04,622
+for his guy's safety in the joint.
+
+145
+00:07:05,363 --> 00:07:07,078
+But the Mitchell deal went bad.
+
+146
+00:07:08,281 --> 00:07:10,144
+Curtis, he panicked,
+on the run.
+
+147
+00:07:11,452 --> 00:07:13,464
+Vic knew that this guy was gonna crack,
+
+148
+00:07:13,809 --> 00:07:16,353
+- That curtis was gonna
+- Mackey killed his own guy?
+
+149
+00:07:16,512 --> 00:07:19,710
+More than likely, he cut a
+deal with the Salvadorans.
+
+150
+00:07:19,875 --> 00:07:22,802
+But somebody put that grenade
+in Lemansky's lap.
+
+151
+00:07:23,301 --> 00:07:25,031
+And Vic, he knows who did it.
+
+152
+00:07:25,671 --> 00:07:28,077
+Let Wagenbach follow
+the Salvadoran trail.
+
+153
+00:07:28,572 --> 00:07:29,791
+Let me look into Vic.
+
+154
+00:07:30,022 --> 00:07:31,026
+Discreet.
+
+155
+00:07:31,191 --> 00:07:32,228
+Respectful.
+
+156
+00:07:34,975 --> 00:07:37,075
+I want your report end of day tomorrow.
+
+157
+00:07:38,074 --> 00:07:39,843
+We'll decide if it
+makes sense to pursue.
+
+158
+00:07:40,497 --> 00:07:41,502
+You'll have it.
+
+159
+00:07:42,491 --> 00:07:43,506
+Thank you, sir.
+
+160
+00:07:59,251 --> 00:08:00,638
+There's nothing new on Lem.
+
+161
+00:08:00,917 --> 00:08:03,518
+We've been spending more time
+knocking down false confessions.
+
+162
+00:08:03,682 --> 00:08:05,513
+It's all a smokescreen.
+It's Guardo.
+
+163
+00:08:05,958 --> 00:08:08,028
+We stepped on his drug
+protection play twice.
+
+164
+00:08:08,480 --> 00:08:10,502
+Killing Lem was a message to stay away.
+
+165
+00:08:10,810 --> 00:08:12,144
+Been waiting on you.
+
+166
+00:08:12,917 --> 00:08:14,860
+Water street
+methadone clinic got torched.
+
+167
+00:08:15,040 --> 00:08:16,045
+Go check that out.
+
+168
+00:08:16,260 --> 00:08:17,793
+We're not arson patrol.
+
+169
+00:08:18,056 --> 00:08:20,515
+Well, it's a drug rehab
+in a heavy gang area.
+
+170
+00:08:21,485 --> 00:08:23,743
+I can't sign off on you
+working Lem's murder.
+
+171
+00:08:24,139 --> 00:08:26,401
+Take a step back.
+Focus on something else.
+
+172
+00:08:26,763 --> 00:08:28,676
+If we find something out,
+we'll let you know.
+
+173
+00:08:28,956 --> 00:08:31,840
+Hey, um, Corrine was here last night.
+
+174
+00:08:32,138 --> 00:08:34,179
+She hadn't heard from you.
+The kids were worried.
+
+175
+00:08:34,318 --> 00:08:35,405
+Maybe you should call her.
+
+176
+00:08:38,109 --> 00:08:39,115
+Right.
+
+177
+00:08:45,404 --> 00:08:46,418
+Shit. Split. Split.
+
+178
+00:08:47,564 --> 00:08:48,569
+Hey!
+
+179
+00:08:49,718 --> 00:08:50,755
+Hey!
+
+180
+00:08:50,899 --> 00:08:51,913
+Turn that shit off.
+
+181
+00:08:52,739 --> 00:08:53,739
+Come here.
+
+182
+00:08:54,552 --> 00:08:56,138
+How's Antwon's favorite errand bitch?
+
+183
+00:08:56,441 --> 00:08:57,503
+- You got a need?
+- Yeah.
+
+184
+00:08:57,634 --> 00:08:58,638
+To do this.
+
+185
+00:09:03,937 --> 00:09:05,627
+Damn, I got left overs older than you.
+
+186
+00:09:06,190 --> 00:09:07,909
+Yeah, but not as tasty.
+
+187
+00:09:09,677 --> 00:09:12,110
+Hey, looks like Moses finally made it
+
+188
+00:09:12,242 --> 00:09:14,036
+to the land of milk and underage honey.
+
+189
+00:09:14,477 --> 00:09:16,580
+- She legal.
+- And all kind of willin'.
+
+190
+00:09:17,369 --> 00:09:18,374
+Vic.
+
+191
+00:09:19,191 --> 00:09:20,204
+Goddamn!
+
+192
+00:09:20,833 --> 00:09:22,279
+Looks like business has been good.
+
+193
+00:09:23,002 --> 00:09:24,026
+No thanks to you.
+
+194
+00:09:24,148 --> 00:09:25,340
+Goddamn empty safe.
+
+195
+00:09:27,744 --> 00:09:30,166
+Looks like your daddy
+might have a broken sugar, darlin'.
+
+196
+00:09:33,809 --> 00:09:35,594
+You wanna get off
+the dead-banger's list,
+
+197
+00:09:35,950 --> 00:09:37,354
+you learn to play
+by the rules.
+
+198
+00:09:37,490 --> 00:09:39,941
+The first one is,
+we still make the rules.
+
+199
+00:09:41,838 --> 00:09:44,880
+Burnt-out clinic on water.
+That's a 1-9er block.
+
+200
+00:09:45,163 --> 00:09:47,124
+Looks like you guys
+might be holding the match.
+
+201
+00:09:47,274 --> 00:09:49,166
+- We got no beef with the methadonians.
+- No.
+
+202
+00:09:49,289 --> 00:09:50,293
+They good business.
+
+203
+00:09:50,425 --> 00:09:52,273
+How's them climbing
+off the horse help you?
+
+204
+00:09:53,302 --> 00:09:55,246
+What we lose in h
+we gain in benzos.
+
+205
+00:09:55,621 --> 00:09:57,367
+Some of them junkies
+drop 10 tabs a day.
+
+206
+00:09:57,500 --> 00:09:59,877
+- Clinic knows that's going on?
+- They don't give a shit.
+
+207
+00:09:59,998 --> 00:10:01,114
+Getting clean's big money.
+
+208
+00:10:02,006 --> 00:10:04,623
+Turns those street junkies
+into state-sponsored ones.
+
+209
+00:10:04,843 --> 00:10:05,845
+Hell, yeah.
+
+210
+00:10:05,977 --> 00:10:08,347
+Some of them zombies been
+on the m-dose 20 goddamn years.
+
+211
+00:10:09,693 --> 00:10:10,707
+Shit.
+
+212
+00:10:11,460 --> 00:10:12,812
+Get a hold of the torched clinic.
+
+213
+00:10:12,956 --> 00:10:15,082
+See if anybody violent's
+trying to kick their dose.
+
+214
+00:10:15,216 --> 00:10:16,315
+Someone on the jones?
+
+215
+00:10:16,502 --> 00:10:19,047
+Hurting. Delusional.
+I'd be setting fires.
+
+216
+00:10:20,380 --> 00:10:23,399
+Call Wyms. Have her post unis
+at all the methadone facilities.
+
+217
+00:10:24,094 --> 00:10:26,267
+You, tell your fearless leader
+
+218
+00:10:26,403 --> 00:10:28,567
+he ever needs a favor,
+he shouldn't hesitate to call.
+
+219
+00:10:30,770 --> 00:10:31,774
+I owe him one.
+
+220
+00:10:36,247 --> 00:10:39,144
+Clinic said Quentin garth's been doing
+the home-study methadone kick.
+
+221
+00:10:39,269 --> 00:10:40,823
+This idiot's lowering
+his own dosage?
+
+222
+00:10:40,954 --> 00:10:41,954
+Down to 30 mils.
+
+223
+00:10:42,075 --> 00:10:44,707
+Volatile, raging about how
+he's being screwed by big medicine.
+
+224
+00:10:44,828 --> 00:10:45,829
+Threatened a counselor.
+
+225
+00:10:45,951 --> 00:10:49,007
+Lives here with his best friend.
+No one's seen either of them for 2 days.
+
+226
+00:10:59,586 --> 00:11:00,619
+Kitchen's clear.
+
+227
+00:11:02,885 --> 00:11:04,230
+- Bedroom's clear.
+- Looks like
+
+228
+00:11:04,350 --> 00:11:05,947
+Quentin's seen some time in the desert.
+
+229
+00:11:06,078 --> 00:11:07,692
+Probably where he
+picked up his habit.
+
+230
+00:11:07,898 --> 00:11:08,903
+You smell that?
+
+231
+00:11:09,841 --> 00:11:10,846
+Yeah.
+
+232
+00:11:15,460 --> 00:11:17,225
+Smells like burnt toast.
+
+233
+00:11:21,629 --> 00:11:23,410
+Kevin Smith.
+The roommate.
+
+234
+00:11:23,588 --> 00:11:25,691
+Cracked his skull open.
+Went through his wallet.
+
+235
+00:11:25,816 --> 00:11:26,820
+Left him for dead.
+
+236
+00:11:27,489 --> 00:11:29,036
+I'm glad this guy's
+his best friend.
+
+237
+00:11:29,176 --> 00:11:31,036
+I'd hate to see what
+he'd do to his enemies.
+
+238
+00:11:43,463 --> 00:11:45,756
+Thank you.
+Got anything new on the Lemansky murder?
+
+239
+00:11:47,024 --> 00:11:48,028
+N-- No.
+
+240
+00:11:54,062 --> 00:11:56,306
+Uh, I called you actually.
+
+241
+00:11:56,428 --> 00:11:58,991
+Is there any way to get in touch
+with your el Salvadoran C.I.?
+
+242
+00:11:59,395 --> 00:12:01,395
+Emolia?
+What do you wanna talk to her for?
+
+243
+00:12:01,714 --> 00:12:02,869
+Guardo's my lead suspect.
+
+244
+00:12:02,991 --> 00:12:05,522
+She's seen him, knows that world.
+Maybe she's got a pipeline.
+
+245
+00:12:07,119 --> 00:12:08,436
+She talked about...
+
+246
+00:12:08,732 --> 00:12:10,280
+Going to seattle...
+
+247
+00:12:10,428 --> 00:12:11,432
+Be with her sister.
+
+248
+00:12:11,597 --> 00:12:13,457
+I really don't know
+where she is right now.
+
+249
+00:12:13,913 --> 00:12:15,499
+Um, you parking here?
+
+250
+00:12:16,083 --> 00:12:18,108
+- I thought your investigation was over.
+- It is.
+
+251
+00:12:18,256 --> 00:12:19,499
+I'm opening a new one
+
+252
+00:12:19,902 --> 00:12:21,527
+in conjunction
+with Lemansky's death.
+
+253
+00:12:22,240 --> 00:12:24,597
+I'm creating a timeline
+for my lead suspect.
+
+254
+00:12:26,606 --> 00:12:27,612
+Who is that?
+
+255
+00:12:27,949 --> 00:12:30,080
+This is footage from
+the city and freeway cams
+
+256
+00:12:30,202 --> 00:12:31,958
+on the night that Lemansky was murdered.
+
+257
+00:12:32,212 --> 00:12:34,433
+In his voluntary statement
+given the next morning,
+
+258
+00:12:34,831 --> 00:12:35,995
+Mackey said :
+
+259
+00:12:36,686 --> 00:12:38,052
+"It was
+too late to see my kids,
+
+260
+00:12:38,197 --> 00:12:40,592
+so I hopped on the 10.
+
+261
+00:12:41,164 --> 00:12:42,678
+Headed towards the coast highway.
+
+262
+00:12:42,798 --> 00:12:44,347
+That drive always clears my head."
+
+263
+00:12:45,183 --> 00:12:47,278
+You're establishing
+a timeline for Vic
+
+264
+00:12:47,402 --> 00:12:48,594
+on the night of the murder?
+
+265
+00:12:50,576 --> 00:12:51,580
+Yeah.
+
+266
+00:12:53,505 --> 00:12:54,622
+Look...
+
+267
+00:12:56,162 --> 00:12:59,708
+Lemansky and Mackey
+were extraordinarily tight.
+
+268
+00:13:00,008 --> 00:13:01,304
+Plus you've got no motive.
+
+269
+00:13:03,689 --> 00:13:04,693
+Here's the thing, man.
+
+270
+00:13:07,003 --> 00:13:09,972
+I had Aceveda tell Mackey
+
+271
+00:13:10,526 --> 00:13:11,953
+that Lem was cutting a deal,
+
+272
+00:13:12,488 --> 00:13:16,761
+that he was giving up Vic
+and his team for immunity.
+
+273
+00:13:18,319 --> 00:13:21,236
+I knew that Mackey would go to Curtis
+
+274
+00:13:21,692 --> 00:13:23,034
+to try to find out the truth.
+
+275
+00:13:23,664 --> 00:13:26,424
+So we were gonna tail him,
+get him on aiding and abetting.
+
+276
+00:13:27,252 --> 00:13:29,577
+But Vic and his guys, they shook up.
+
+277
+00:13:30,060 --> 00:13:32,763
+A couple of hours later,
+I see him standing over
+
+278
+00:13:32,896 --> 00:13:33,900
+Lemansky's body.
+
+279
+00:13:34,774 --> 00:13:36,238
+Jesus Christ.
+
+280
+00:13:36,426 --> 00:13:39,218
+Maybe it wasn't mackey.
+Maybe he couldn't do it.
+
+281
+00:13:40,214 --> 00:13:41,218
+But he needed it done.
+
+282
+00:13:41,810 --> 00:13:44,091
+He had Lem killed.
+Because I gave him up.
+
+283
+00:13:46,711 --> 00:13:48,564
+All right, let's get
+an apb out on Quentin.
+
+284
+00:13:48,884 --> 00:13:50,720
+Ex-military.
+Probably has guns.
+
+285
+00:13:50,847 --> 00:13:52,308
+Let's track down family members,
+
+286
+00:13:52,530 --> 00:13:53,534
+drug dealers.
+
+287
+00:13:53,665 --> 00:13:55,041
+And let's ask our clinic guy...
+
+288
+00:13:56,999 --> 00:13:58,011
+What's up?
+
+289
+00:13:58,152 --> 00:13:59,159
+What?
+
+290
+00:14:00,586 --> 00:14:01,590
+Have you seen this?
+
+291
+00:14:10,523 --> 00:14:12,701
+Claudette, you knew about this shit?
+
+292
+00:14:12,889 --> 00:14:13,893
+I read it.
+
+293
+00:14:14,025 --> 00:14:15,845
+Lem gave 12 years to this department.
+
+294
+00:14:16,126 --> 00:14:17,394
+God knows how many arrests.
+
+295
+00:14:17,525 --> 00:14:19,854
+Never saw his picture
+in the paper once for any of that.
+
+296
+00:14:19,978 --> 00:14:22,760
+The reporter got wind of facts
+and brass couldn't control the spin.
+
+297
+00:14:22,898 --> 00:14:23,902
+That's bullshit.
+
+298
+00:14:24,034 --> 00:14:26,744
+Johnson's been looking for a corruption
+goat since he made chief.
+
+299
+00:14:26,929 --> 00:14:28,199
+He pinned
+the horns on Lem.
+
+300
+00:14:28,338 --> 00:14:30,326
+It's a shitty ending
+to an ugly story.
+
+301
+00:14:30,447 --> 00:14:31,893
+And with the bad cop buried,
+
+302
+00:14:32,250 --> 00:14:34,256
+you and the Department
+get a fresh start, right?
+
+303
+00:14:34,550 --> 00:14:36,507
+What happened to Lemansky
+was an awful thing.
+
+304
+00:14:36,653 --> 00:14:38,197
+I'm sorry. But he made the choice
+
+305
+00:14:38,325 --> 00:14:40,118
+to stash the heroin in his car.
+
+306
+00:14:40,240 --> 00:14:41,563
+He made the choice to run.
+
+307
+00:14:41,712 --> 00:14:44,397
+Kavanaugh browbeat
+that admission on him.
+
+308
+00:14:44,604 --> 00:14:46,908
+Then he threatened to dump him
+in Antwon's bottom bunk.
+
+309
+00:14:47,043 --> 00:14:48,361
+He ran because he was scared.
+
+310
+00:14:48,482 --> 00:14:50,031
+He forced Lem to make another deal.
+
+311
+00:14:51,496 --> 00:14:52,677
+What are you talking about?
+
+312
+00:14:55,805 --> 00:14:58,224
+Becca said that Lem made a second deal
+
+313
+00:14:58,377 --> 00:14:59,683
+with Kavanaugh and the chief.
+
+314
+00:15:00,249 --> 00:15:02,142
+The only way Lemansky
+would make another deal
+
+315
+00:15:02,292 --> 00:15:04,855
+was if he turned in other
+dirty cops, and he didn't.
+
+316
+00:15:05,747 --> 00:15:06,752
+What?
+
+317
+00:15:07,125 --> 00:15:08,126
+It was the same deal.
+
+318
+00:15:08,797 --> 00:15:10,130
+He was willing to do more time
+
+319
+00:15:10,279 --> 00:15:12,200
+if I.A.D. could assure him
+they'd keep him out
+
+320
+00:15:12,331 --> 00:15:13,527
+of Antwon's reach.
+
+321
+00:15:13,972 --> 00:15:15,611
+He was killed before it went through.
+
+322
+00:15:15,740 --> 00:15:16,741
+No.
+
+323
+00:15:17,026 --> 00:15:19,890
+Police council is making a
+formal statement this evening.
+
+324
+00:15:20,557 --> 00:15:22,415
+We'll be as respectful as we can.
+
+325
+00:15:24,593 --> 00:15:25,598
+Let me guess.
+
+326
+00:15:26,537 --> 00:15:28,154
+That respectful face is Aceveda's.
+
+327
+00:15:28,283 --> 00:15:29,288
+What do you think?
+
+328
+00:15:34,664 --> 00:15:38,039
+Aceveda said that Lem gave us up,
+
+329
+00:15:38,178 --> 00:15:41,365
+that he told him
+about the money train.
+
+330
+00:15:41,508 --> 00:15:42,860
+Kavanaugh must've heard a rumor,
+
+331
+00:15:43,074 --> 00:15:45,630
+had his wetback bitch
+feed it to us, put us in motion.
+
+332
+00:15:45,797 --> 00:15:47,379
+And we goddamn ate it up.
+
+333
+00:15:49,505 --> 00:15:51,368
+Made me think
+my own guy turned on me.
+
+334
+00:15:54,747 --> 00:15:57,257
+Hey, Julian, what the hell
+is Kavanaugh doing here?
+
+335
+00:15:57,850 --> 00:16:00,174
+Heard he's working
+Lemansky's murder with Dutch.
+
+336
+00:16:16,516 --> 00:16:18,188
+According to his visa stamp,
+
+337
+00:16:18,418 --> 00:16:20,576
+Rene arrived in L.A. 18 hours after
+
+338
+00:16:20,710 --> 00:16:22,061
+Lemansky was killed.
+
+339
+00:16:36,078 --> 00:16:38,979
+He says he's got 2 cousins
+who saw him kill Lemansky.
+
+340
+00:16:40,338 --> 00:16:42,382
+Um, cousins got addresses?
+
+341
+00:16:46,668 --> 00:16:47,672
+He doesn't know.
+
+342
+00:16:47,804 --> 00:16:48,808
+Right.
+
+343
+00:16:48,991 --> 00:16:50,096
+I need a minute with you.
+
+344
+00:16:51,429 --> 00:16:52,442
+Okay.
+
+345
+00:16:53,578 --> 00:16:56,507
+Run the cousins'
+names through I.N.S., DMV.
+
+346
+00:16:56,638 --> 00:16:57,907
+See if you can find addresses.
+
+347
+00:17:07,236 --> 00:17:08,967
+Kavanaugh's working Lem's murder?
+
+348
+00:17:09,974 --> 00:17:11,621
+An angle of it,
+and it's not my choice.
+
+349
+00:17:11,755 --> 00:17:12,761
+Which angle?
+
+350
+00:17:13,601 --> 00:17:15,464
+He didn't really go into any detail.
+
+351
+00:17:16,074 --> 00:17:17,739
+Don't dick me around, Dutchman.
+
+352
+00:17:21,712 --> 00:17:22,717
+You're the angle.
+
+353
+00:17:49,979 --> 00:17:51,611
+Oh, hey. Oh, I'm sorry.
+
+354
+00:17:51,809 --> 00:17:53,758
+That's OK.
+I was just taking a minute.
+
+355
+00:17:54,220 --> 00:17:55,258
+Oh, my God.
+
+356
+00:17:55,951 --> 00:17:57,663
+Wow. He's big.
+
+357
+00:17:59,149 --> 00:18:00,945
+He's beefy and happy.
+
+358
+00:18:01,901 --> 00:18:03,039
+You mind if, uh...
+
+359
+00:18:03,531 --> 00:18:04,569
+No. Okay. Sure.
+
+360
+00:18:05,014 --> 00:18:06,712
+Hey. It's OK.
+
+361
+00:18:08,535 --> 00:18:10,543
+I just had to take care
+of some insurance stuff,
+
+362
+00:18:10,675 --> 00:18:12,020
+so I thought I'd show him off.
+
+363
+00:18:14,759 --> 00:18:15,794
+He's beautiful, Danielle.
+
+364
+00:18:16,256 --> 00:18:17,262
+Thanks.
+
+365
+00:18:20,489 --> 00:18:21,531
+- See you.
+- Yeah.
+
+366
+00:18:23,572 --> 00:18:24,578
+Say bye.
+
+367
+00:18:25,853 --> 00:18:27,673
+Let's go inside.
+Come on.
+
+368
+00:18:40,120 --> 00:18:42,540
+I guess I should start making
+my funeral arrangements now.
+
+369
+00:18:42,672 --> 00:18:43,672
+Right, Lieutenant?
+
+370
+00:18:43,796 --> 00:18:45,015
+Why would you wanna do that?
+
+371
+00:18:45,180 --> 00:18:47,962
+Seems like every cop
+you investigate ends up dead.
+
+372
+00:18:48,881 --> 00:18:50,082
+I'm not at liberty to discuss
+
+373
+00:18:50,214 --> 00:18:52,008
+the details
+of my investigation with you.
+
+374
+00:18:52,284 --> 00:18:53,719
+You get my best friend blown up.
+
+375
+00:18:54,210 --> 00:18:55,338
+You come into my house.
+
+376
+00:18:55,462 --> 00:18:57,272
+You hang your mistake
+and your guilt on me.
+
+377
+00:18:57,396 --> 00:18:58,416
+Detail enough?
+
+378
+00:18:58,855 --> 00:19:00,490
+I know this must be the grief talking.
+
+379
+00:19:00,806 --> 00:19:02,358
+At what point do your bosses realize
+
+380
+00:19:02,481 --> 00:19:04,565
+you're as delusional
+as that sick, crazy,
+
+381
+00:19:04,696 --> 00:19:06,068
+twisted ex-wife of yours?
+
+382
+00:19:06,190 --> 00:19:09,052
+I guess the same time that yours realize
+that you've murdered two...
+
+383
+00:19:09,184 --> 00:19:10,580
+of your own team members.
+
+384
+00:19:16,035 --> 00:19:17,474
+Mackey! Kavanaugh!
+
+385
+00:19:19,689 --> 00:19:21,839
+Knock it off! Knock it off!
+
+386
+00:19:21,974 --> 00:19:23,210
+- Get your hands off.
+- Now!
+
+387
+00:19:28,555 --> 00:19:30,863
+Jesus. I got a goddamn lump.
+
+388
+00:19:38,504 --> 00:19:39,558
+What the hell was that?
+
+389
+00:19:39,695 --> 00:19:40,699
+It's not the first time.
+
+390
+00:19:40,831 --> 00:19:43,139
+He and Mackey went at it
+at Lemansky's crime scene.
+
+391
+00:19:43,287 --> 00:19:44,933
+Took 9 unis to break it up.
+
+392
+00:19:45,566 --> 00:19:46,954
+This is you being discreet?
+
+393
+00:19:47,692 --> 00:19:49,549
+Mackey advanced on me both times.
+
+394
+00:19:49,677 --> 00:19:51,108
+It was self-defense. You saw that.
+
+395
+00:19:51,256 --> 00:19:53,884
+I.A.D.'s supposed to be
+the objective eyes of the department.
+
+396
+00:19:54,022 --> 00:19:56,499
+Objectivity doesn't lead to brawls
+and pissing matches.
+
+397
+00:19:56,642 --> 00:19:57,776
+I don't need that report.
+
+398
+00:19:57,921 --> 00:19:59,727
+You're done with Mackey.
+You're off of this.
+
+399
+00:20:00,360 --> 00:20:01,630
+Get your ass out of the barn
+
+400
+00:20:01,758 --> 00:20:04,877
+before I hit you
+with an insubordination beef.
+
+401
+00:20:05,467 --> 00:20:07,775
+Okay, look, stop.
+
+402
+00:20:13,239 --> 00:20:15,824
+I have proof that Vic
+had Lemansky killed.
+
+403
+00:20:19,476 --> 00:20:20,495
+I do.
+
+404
+00:20:23,010 --> 00:20:24,020
+What proof?
+
+405
+00:20:25,146 --> 00:20:26,188
+Emolia Melendez.
+
+406
+00:20:27,388 --> 00:20:29,551
+Vic used her to get a message
+to the el Salvadorans.
+
+407
+00:20:29,801 --> 00:20:32,856
+She set up Lem's murder for Vic.
+
+408
+00:20:37,590 --> 00:20:40,720
+You told Dutch that you
+didn't know where she was.
+
+409
+00:20:40,844 --> 00:20:42,614
+I don't. She called me.
+She was terrified.
+
+410
+00:20:42,737 --> 00:20:44,992
+Maybe she was trying
+to create another revenue source.
+
+411
+00:20:45,124 --> 00:20:47,172
+Is there anything this woman
+won't say for a buck?
+
+412
+00:20:48,371 --> 00:20:49,793
+Mackey threatened her kid.
+
+413
+00:20:50,481 --> 00:20:53,115
+She was terrified.
+She had no choice, all right?
+
+414
+00:20:53,247 --> 00:20:54,564
+Just bringing this to us now?
+
+415
+00:20:54,695 --> 00:20:57,756
+I've seen Mackey slip out of every
+noose that we've had around his neck.
+
+416
+00:20:58,073 --> 00:21:00,213
+I don't even know who to
+trust around here anymore.
+
+417
+00:21:00,365 --> 00:21:02,157
+I mean, you gave me
+to the end of the day,
+
+418
+00:21:02,368 --> 00:21:04,390
+and I was just trying
+to put the pieces together
+
+419
+00:21:04,530 --> 00:21:05,829
+before I brought them to you.
+
+420
+00:21:10,243 --> 00:21:12,339
+Let's bring her in.
+Let's hear her.
+
+421
+00:21:14,659 --> 00:21:15,675
+All right.
+
+422
+00:21:15,817 --> 00:21:19,288
+I have D.A. gave us some leads
+to where Emolia might be.
+
+423
+00:21:19,459 --> 00:21:21,345
+Dutch is out there writing them down.
+
+424
+00:21:22,935 --> 00:21:25,124
+Okay. I'll give him a call.
+
+425
+00:21:29,423 --> 00:21:31,674
+Emolia, it's Jon. Jon Kavanaugh.
+
+426
+00:21:33,982 --> 00:21:35,380
+What the hell are you doing here?
+
+427
+00:21:35,696 --> 00:21:36,712
+You alone?
+
+428
+00:21:36,870 --> 00:21:38,778
+Sebastio's at my mom's. Why?
+
+429
+00:21:40,432 --> 00:21:42,506
+The detective said he
+wasn't coming here, right?
+
+430
+00:21:43,033 --> 00:21:44,331
+No. What's the matter?
+
+431
+00:21:45,598 --> 00:21:46,603
+No toys.
+
+432
+00:21:47,606 --> 00:21:49,631
+Sebastio's spending all
+this time at your mom's?
+
+433
+00:21:49,763 --> 00:21:50,960
+Yeah. He's safe there.
+
+434
+00:21:52,100 --> 00:21:53,105
+What are you afraid of?
+
+435
+00:21:54,791 --> 00:21:56,257
+I snitched on Guardo.
+
+436
+00:21:56,832 --> 00:21:59,367
+People know.
+They want me dead.
+
+437
+00:22:00,437 --> 00:22:01,437
+What about Vic?
+
+438
+00:22:02,421 --> 00:22:03,639
+He hasn't got your back now?
+
+439
+00:22:03,779 --> 00:22:05,334
+Vic ain't shit for me.
+
+440
+00:22:05,458 --> 00:22:06,742
+Not taking care of you anymore?
+
+441
+00:22:06,939 --> 00:22:10,363
+Him and his guys shit all over me.
+Called Sebastio a retard.
+
+442
+00:22:10,610 --> 00:22:12,750
+That's wrong.
+I'm sorry about that.
+
+443
+00:22:14,684 --> 00:22:16,363
+But I have a way to make things right.
+
+444
+00:22:24,314 --> 00:22:25,318
+Jesus.
+
+445
+00:22:25,812 --> 00:22:27,244
+Lem didn't rat.
+
+446
+00:22:28,599 --> 00:22:31,003
+You made me believe
+my own guy turned on me.
+
+447
+00:22:33,077 --> 00:22:34,827
+I have people waiting in my office.
+
+448
+00:22:35,381 --> 00:22:37,357
+You were in bed with
+Kavanaugh the whole time.
+
+449
+00:22:38,871 --> 00:22:41,334
+Kavanaugh played us both.
+Squeezed me, too.
+
+450
+00:22:42,091 --> 00:22:43,704
+- I had no choice.
+- Bullshit.
+
+451
+00:22:44,567 --> 00:22:46,636
+Your jones to hurt me
+let you turn a blind eye
+
+452
+00:22:46,804 --> 00:22:48,259
+at what he was doing to Lem.
+
+453
+00:22:49,532 --> 00:22:51,112
+You knew about the Antwon threat.
+
+454
+00:22:51,588 --> 00:22:52,855
+That scare
+put him on the run,
+
+455
+00:22:53,251 --> 00:22:54,263
+got him killed.
+
+456
+00:22:54,551 --> 00:22:55,916
+What, so it's my fault?
+
+457
+00:22:58,074 --> 00:23:00,115
+When do you ever take
+responsibility, Vic?
+
+458
+00:23:00,543 --> 00:23:02,198
+When is anything your fault?
+
+459
+00:23:02,326 --> 00:23:05,058
+If you weren't a heartbeat away
+from being forced out right now...
+
+460
+00:23:05,182 --> 00:23:07,182
+What? You'd take my badge?
+
+461
+00:23:07,413 --> 00:23:08,417
+Go ahead.
+
+462
+00:23:09,799 --> 00:23:11,371
+Is that what you and Kavanaugh want?
+
+463
+00:23:11,511 --> 00:23:12,511
+Take it all.
+
+464
+00:23:12,840 --> 00:23:13,844
+Here.
+
+465
+00:23:14,502 --> 00:23:15,507
+Take it.
+
+466
+00:23:16,445 --> 00:23:17,992
+What the hell are you doing?
+
+467
+00:23:18,124 --> 00:23:20,906
+You wanna end a career,
+you do it straight up
+
+468
+00:23:21,367 --> 00:23:22,717
+to someone who's still alive.
+
+469
+00:23:23,013 --> 00:23:24,958
+Who could still
+look you right in the eye.
+
+470
+00:23:28,351 --> 00:23:29,962
+I'm sorry about Lem.
+
+471
+00:23:34,299 --> 00:23:35,600
+Then don't disgrace him.
+
+472
+00:23:37,394 --> 00:23:38,678
+You know, it's not my fault.
+
+473
+00:23:40,061 --> 00:23:41,378
+It's not my call.
+
+474
+00:23:42,678 --> 00:23:44,373
+I'm just the face of the decision.
+
+475
+00:24:02,619 --> 00:24:05,919
+I say that Vic used me as a middleman
+
+476
+00:24:06,059 --> 00:24:07,637
+to set up the hit on his guy.
+
+477
+00:24:08,180 --> 00:24:09,201
+Yes.
+
+478
+00:24:09,365 --> 00:24:10,518
+He had it all planned out.
+
+479
+00:24:11,077 --> 00:24:13,563
+Give the exact time and place
+where Lem will be.
+
+480
+00:24:14,501 --> 00:24:16,098
+We'll go over the exact details later.
+
+481
+00:24:16,247 --> 00:24:18,781
+Thought you stopped other cops
+from doing this kind of thing.
+
+482
+00:24:18,914 --> 00:24:19,918
+Vic did this.
+
+483
+00:24:20,923 --> 00:24:22,980
+I'm just trying to get you
+to tell the truth.
+
+484
+00:24:23,589 --> 00:24:25,457
+It's just somebody else's
+truth, that's all.
+
+485
+00:24:26,552 --> 00:24:27,553
+I won't get in trouble?
+
+486
+00:24:28,212 --> 00:24:30,631
+You're gonna tell 'em
+that he threatened your son.
+
+487
+00:24:30,796 --> 00:24:32,096
+That, uh...
+
+488
+00:24:32,491 --> 00:24:33,742
+That you were scared...
+
+489
+00:24:34,598 --> 00:24:36,409
+and you had no other
+choice but to do this.
+
+490
+00:24:36,540 --> 00:24:37,824
+And i'll get
+all those things?
+
+491
+00:24:37,980 --> 00:24:40,883
+A house with a pool.
+Monthly checks.
+
+492
+00:24:41,036 --> 00:24:42,649
+This is real, Emolia, this is real.
+
+493
+00:24:46,222 --> 00:24:47,254
+It might be my mom.
+
+494
+00:24:48,933 --> 00:24:51,353
+Emolia Melendez?
+You in there?
+
+495
+00:24:51,649 --> 00:24:53,081
+It's Detective Wagenbach.
+
+496
+00:24:53,953 --> 00:24:55,863
+I just need to ask you a few questions.
+
+497
+00:24:57,262 --> 00:24:58,764
+You're not in trouble.
+
+498
+00:25:00,410 --> 00:25:01,933
+Ma'am? Excuse me.
+
+499
+00:25:02,089 --> 00:25:03,093
+Ma'am.
+
+500
+00:25:05,035 --> 00:25:08,360
+Okay, I need a place where
+Vic would wanna meet you.
+
+501
+00:25:08,579 --> 00:25:11,443
+It needs to be a public place
+where it's not very crowded.
+
+502
+00:25:11,607 --> 00:25:13,270
+Uh, Sewing shop.
+
+503
+00:25:16,002 --> 00:25:17,632
+Did some work for them the other day.
+
+504
+00:25:19,782 --> 00:25:20,794
+Do you speak english?
+
+505
+00:25:22,432 --> 00:25:24,506
+Um, excuse me...
+Gracias.
+
+506
+00:25:26,596 --> 00:25:27,633
+Hello. Wagenbach.
+
+507
+00:25:27,765 --> 00:25:31,417
+Dutch, Jon Kavanaugh.
+Did the Captain called you?
+
+508
+00:25:31,704 --> 00:25:32,709
+No. Why?
+
+509
+00:25:32,840 --> 00:25:34,347
+Emolia reached out to me.
+
+510
+00:25:34,881 --> 00:25:36,000
+I'm on my way
+to meet her.
+
+511
+00:25:36,156 --> 00:25:40,128
+She's at Tama's costura,
+a Sewing shop on Haden.
+
+512
+00:25:40,256 --> 00:25:42,245
+Uh... Are you sure about that?
+
+513
+00:25:42,500 --> 00:25:44,623
+I got some possible 20s
+from calls her sister made.
+
+514
+00:25:44,747 --> 00:25:46,640
+I think she's dodging
+my knock at one of 'em.
+
+515
+00:25:46,763 --> 00:25:49,149
+You do whatever you want,
+but I would think a Sewing shop
+
+516
+00:25:49,281 --> 00:25:51,535
+would be a great place
+to follow up your Guardo lead.
+
+517
+00:25:51,668 --> 00:25:53,462
+<i>But you know,
+this is your case, whatever.</i>
+
+518
+00:25:53,924 --> 00:25:55,406
+OK, I'll meet you there.
+
+519
+00:26:01,479 --> 00:26:02,648
+And then what did he do?
+
+520
+00:26:03,230 --> 00:26:04,233
+Shot out the door,
+
+521
+00:26:04,596 --> 00:26:07,065
+called me a sick shithead,
+and then tried to cap me.
+
+522
+00:26:07,674 --> 00:26:09,064
+Got this diving out of the way.
+
+523
+00:26:10,083 --> 00:26:11,658
+Do you have any idea who it was, Axl?
+
+524
+00:26:11,806 --> 00:26:12,892
+Never seen him before.
+
+525
+00:26:15,500 --> 00:26:17,541
+Think you could describe
+him for a sketch artist?
+
+526
+00:26:17,680 --> 00:26:20,044
+Yeah.
+I got one of those photogenic memories.
+
+527
+00:26:23,634 --> 00:26:26,729
+Someone is unhappy with him peddling
+filth through to the neighborhood.
+
+528
+00:26:26,877 --> 00:26:28,457
+Porn's a billion-dollar industry.
+
+529
+00:26:29,862 --> 00:26:32,748
+What? All I'm saying is there's
+a lot of people who are okay with it.
+
+530
+00:26:32,887 --> 00:26:35,653
+Look, you start knocking
+on doors across the street, alright?
+
+531
+00:26:35,883 --> 00:26:36,887
+I'll get these.
+
+532
+00:26:38,501 --> 00:26:41,250
+You could use
+some tight-assed lube yourself, sparky.
+
+533
+00:26:42,488 --> 00:26:43,555
+What am I supposed to do?
+
+534
+00:26:43,703 --> 00:26:46,730
+Just sit back and let this
+shitbag tank my career, too?
+
+535
+00:26:47,423 --> 00:26:48,533
+He's goddamn poison.
+
+536
+00:26:48,658 --> 00:26:50,042
+Kavanaugh's not my problem.
+
+537
+00:26:50,534 --> 00:26:51,555
+Oh, I am?
+
+538
+00:26:51,686 --> 00:26:53,791
+Pensions hasn't received
+your retirement paperwork.
+
+539
+00:26:54,219 --> 00:26:56,605
+- I'm still sorting that out.
+- You were supposed to keep
+
+540
+00:26:56,753 --> 00:26:59,437
+a low profile so you could get out with
+a piece of your pension.
+
+541
+00:26:59,568 --> 00:27:01,206
+There's been a lot going on around here.
+
+542
+00:27:02,716 --> 00:27:04,450
+Phillips thinks too much is going on.
+
+543
+00:27:06,928 --> 00:27:08,969
+This came directly
+from the chief's office.
+
+544
+00:27:13,355 --> 00:27:15,400
+This puts my retirement
+effective immediately.
+
+545
+00:27:15,581 --> 00:27:18,793
+You take it now, the chief will
+see you get a piece of your pension.
+
+546
+00:27:19,663 --> 00:27:20,686
+Why now?
+
+547
+00:27:20,900 --> 00:27:22,513
+I had until my 15 mark.
+
+548
+00:27:23,846 --> 00:27:25,476
+Certain things are in motion.
+
+549
+00:27:25,986 --> 00:27:27,221
+This is a lifeline.
+
+550
+00:27:27,352 --> 00:27:29,771
+Sign this, and it'll
+save us all a lot of grief.
+
+551
+00:27:29,912 --> 00:27:31,739
+- If you don't...
+- You can't cut me loose.
+
+552
+00:27:31,887 --> 00:27:32,892
+It's not my idea.
+
+553
+00:27:33,121 --> 00:27:35,112
+Brass is gonna be watching
+every move you make.
+
+554
+00:27:35,311 --> 00:27:36,990
+You need me to make this place work.
+
+555
+00:27:37,138 --> 00:27:38,916
+I need people I can trust.
+
+556
+00:27:41,172 --> 00:27:42,542
+So you won't help me fight this.
+
+557
+00:27:42,670 --> 00:27:43,773
+You know a reason I should?
+
+558
+00:27:45,504 --> 00:27:47,035
+Quentin showed up at another clinic.
+
+559
+00:27:47,184 --> 00:27:48,945
+Unis spooked him. He's got hostages.
+
+560
+00:27:51,123 --> 00:27:52,506
+Who you're gonna trust with that?
+
+561
+00:27:56,950 --> 00:27:58,202
+All right, boys, here it is.
+
+562
+00:27:58,597 --> 00:28:00,984
+This guy's got a doctor,
+a mother and her 3-month-old son
+
+563
+00:28:01,116 --> 00:28:02,284
+trapped in an examing room.
+
+564
+00:28:02,991 --> 00:28:05,069
+He's doused the Doc
+and the mother with gasoline,
+
+565
+00:28:05,189 --> 00:28:07,649
+threatened to use them as kindling
+if they didn't shut down
+
+566
+00:28:07,797 --> 00:28:10,710
+- all their methadone clinics.
+- Negotiator and SWAT's 30 minutes out.
+
+567
+00:28:10,875 --> 00:28:12,966
+Let's go.
+Shane, you coming?
+
+568
+00:28:13,629 --> 00:28:15,012
+- Shane.
+- Yeah.
+
+569
+00:28:15,851 --> 00:28:16,856
+Yeah.
+
+570
+00:28:21,319 --> 00:28:23,516
+He'll shoot the cans,
+blow the hallway if he
+
+571
+00:28:23,640 --> 00:28:24,799
+needs to seal himself off.
+
+572
+00:28:25,300 --> 00:28:27,325
+Hey, there skylights in every room
+in this place?
+
+573
+00:28:28,465 --> 00:28:29,465
+Get her out of here.
+
+574
+00:28:30,913 --> 00:28:32,214
+Get me a peeper scope.
+
+575
+00:28:32,366 --> 00:28:35,263
+I'll go on the roof, see if
+I can look in on what's happening there.
+
+576
+00:28:35,612 --> 00:28:37,522
+I don't want anyone
+rattling this guy's cage.
+
+577
+00:28:37,662 --> 00:28:39,349
+I don't want anyone talking to him.
+Hey.
+
+578
+00:28:40,559 --> 00:28:41,778
+- Are you with me?
+- Yeah.
+
+579
+00:28:42,749 --> 00:28:44,518
+'cause Ronnie and I
+can take care of this.
+
+580
+00:28:44,642 --> 00:28:46,049
+- I'm here man.
+- No, you're not.
+
+581
+00:28:46,172 --> 00:28:47,859
+I got innocents soaked with gasoline.
+
+582
+00:28:48,174 --> 00:28:49,968
+- I need your head in the game.
+- It is.
+
+583
+00:28:50,297 --> 00:28:51,482
+I promise. I'm OK.
+
+584
+00:28:52,602 --> 00:28:53,605
+Okay.
+
+585
+00:29:01,093 --> 00:29:02,097
+Can I help you?
+
+586
+00:29:02,541 --> 00:29:04,039
+You have any idea where Vic is?
+
+587
+00:29:04,286 --> 00:29:05,998
+We haven't seen him
+since Lem's memorial.
+
+588
+00:29:06,738 --> 00:29:07,743
+No, I don't. I saw him
+
+589
+00:29:07,874 --> 00:29:09,668
+at the barn for a second.
+That's about it.
+
+590
+00:29:12,146 --> 00:29:13,323
+You think Vic's staying here?
+
+591
+00:29:14,229 --> 00:29:15,299
+It crossed my mind.
+
+592
+00:29:15,463 --> 00:29:16,468
+He's not.
+
+593
+00:29:18,015 --> 00:29:19,019
+Sorry.
+
+594
+00:29:21,192 --> 00:29:23,973
+Hey. Vic and me, we're not a thing.
+
+595
+00:29:26,196 --> 00:29:27,661
+What about that thing in your arms?
+
+596
+00:29:27,809 --> 00:29:30,097
+Whatever shitpile you're
+cleaning up with your ex,
+
+597
+00:29:30,229 --> 00:29:32,039
+don't come dumping it
+on my doorstep.
+
+598
+00:29:33,521 --> 00:29:35,046
+And don't ever call my son a thing,
+
+599
+00:29:35,540 --> 00:29:36,700
+you uptight bitch.
+
+600
+00:29:36,856 --> 00:29:38,699
+I'm not uptight, sweetheart.
+
+601
+00:29:38,848 --> 00:29:39,902
+I'm a realist.
+
+602
+00:29:40,181 --> 00:29:41,745
+You have no idea what has been dumped
+
+603
+00:29:41,879 --> 00:29:42,931
+on your doorstep.
+
+604
+00:29:43,490 --> 00:29:45,655
+Vic. He is not gonna be there for him.
+
+605
+00:29:45,786 --> 00:29:47,665
+- Well, I don't need anyone's help.
+- Really?
+
+606
+00:29:47,793 --> 00:29:50,571
+You think you're gonna be a full-time
+cop and take care of this kid
+
+607
+00:29:50,692 --> 00:29:52,998
+- all by yourself?
+- Just 'cause you couldn't handle it
+
+608
+00:29:53,120 --> 00:29:56,326
+- doesn't mean that I won't be able to.
+- And if they tell you he's autistic?
+
+609
+00:30:01,393 --> 00:30:02,742
+My son is fine.
+
+610
+00:30:02,907 --> 00:30:04,212
+They're all fine at first.
+
+611
+00:30:05,150 --> 00:30:06,583
+But we have 2 autistic kids,
+
+612
+00:30:06,714 --> 00:30:09,430
+and there's a genetic
+predisposition for siblings.
+
+613
+00:30:10,195 --> 00:30:12,187
+Maybe you're the one
+with the screwed-up genes.
+
+614
+00:30:12,335 --> 00:30:14,737
+Maybe. Maybe not.
+But keep your eyes open
+
+615
+00:30:14,885 --> 00:30:17,954
+because the sooner the doctors know,
+the more they can do for him, okay?
+
+616
+00:30:24,259 --> 00:30:26,152
+Mom and the doctor
+are jammed in the corner.
+
+617
+00:30:26,276 --> 00:30:28,926
+The baby's on a table by the door.
+
+618
+00:30:29,065 --> 00:30:30,629
+If we can get him to give up the kid,
+
+619
+00:30:30,761 --> 00:30:33,106
+<i>SWAT can drop down between
+the junkie and the innocents.</i>
+
+620
+00:30:33,238 --> 00:30:35,543
+I'll get an E.T.A.
+On SWAT and the negotiator.
+
+621
+00:30:36,944 --> 00:30:38,870
+Jesus Christ.
+Don't hurt that little baby.
+
+622
+00:30:39,001 --> 00:30:42,195
+Stop! I'm gonna kill
+this goddamn baby, man.
+
+623
+00:30:45,031 --> 00:30:46,842
+Everybody just shut the hell up!
+
+624
+00:30:46,990 --> 00:30:48,455
+I'm gonna kill this goddamn thing.
+
+625
+00:30:48,603 --> 00:30:49,615
+Hey, Quentin.
+
+626
+00:30:49,821 --> 00:30:50,826
+Shane.
+
+627
+00:30:51,895 --> 00:30:52,900
+Quentin.
+
+628
+00:30:53,031 --> 00:30:54,035
+Listen to me, man.
+
+629
+00:30:54,381 --> 00:30:57,294
+The reason the baby's crying
+is 'cause of the gasoline.
+
+630
+00:30:57,706 --> 00:30:59,698
+The fumes are probably burning his eyes.
+
+631
+00:31:01,923 --> 00:31:03,207
+What the hell's he doing?
+
+632
+00:31:03,352 --> 00:31:04,376
+You better get down here.
+
+633
+00:31:04,496 --> 00:31:07,577
+Just hand the kid over to me,
+get a little peace and quiet.
+
+634
+00:31:07,808 --> 00:31:09,223
+Just focus on what you got to do.
+
+635
+00:31:13,042 --> 00:31:14,195
+Who the hell are you, man?
+
+636
+00:31:14,721 --> 00:31:16,009
+I'm a cop. What?
+
+637
+00:31:16,306 --> 00:31:18,297
+I'm a cop. Shane Vendrell.
+I'm unarmed.
+
+638
+00:31:19,022 --> 00:31:21,046
+Just hand over the crying kid...
+
+639
+00:31:22,149 --> 00:31:23,162
+and take me instead.
+
+640
+00:31:23,927 --> 00:31:26,310
+A quiet Detective is a much
+better bargaining chip, man.
+
+641
+00:31:29,253 --> 00:31:31,344
+Nah. It's a con.
+
+642
+00:31:31,492 --> 00:31:33,487
+You're full of shit.
+Just like everything else.
+
+643
+00:31:33,635 --> 00:31:35,344
+No, it's not a con. It's...
+
+644
+00:31:36,777 --> 00:31:37,781
+Oh, no!
+
+645
+00:31:38,588 --> 00:31:39,600
+Quentin.
+
+646
+00:31:40,234 --> 00:31:42,127
+Quentin, listen to me.
+Open the door, buddy.
+
+647
+00:31:42,753 --> 00:31:44,122
+Quentin, open the door.
+
+648
+00:31:44,484 --> 00:31:47,052
+Look, OK. Look.
+
+649
+00:31:47,908 --> 00:31:49,768
+Look, buddy. You see?
+
+650
+00:31:50,624 --> 00:31:51,636
+You see?
+
+651
+00:31:52,122 --> 00:31:53,126
+Oh, my God.
+
+652
+00:31:55,431 --> 00:31:56,600
+Jesus Christ, Shane.
+
+653
+00:31:59,201 --> 00:32:00,452
+It's no con, man.
+
+654
+00:32:01,104 --> 00:32:02,112
+It's no con.
+
+655
+00:32:02,477 --> 00:32:03,730
+Get ready to move.
+
+656
+00:32:06,742 --> 00:32:08,363
+Any point you think I'm lying...
+
+657
+00:32:08,791 --> 00:32:10,058
+Just...
+
+658
+00:32:10,272 --> 00:32:11,639
+You just flick your bic, brother.
+
+659
+00:32:12,412 --> 00:32:13,416
+Okay?
+
+660
+00:32:14,371 --> 00:32:15,671
+Don't worry. I will, man.
+
+661
+00:32:16,857 --> 00:32:17,869
+Shit!
+
+662
+00:32:19,392 --> 00:32:20,395
+Quentin!
+
+663
+00:32:21,119 --> 00:32:22,321
+Quentin, listen to me, man.
+
+664
+00:32:22,479 --> 00:32:24,693
+Is there a closet in there
+or a cabinet or something?
+
+665
+00:32:24,825 --> 00:32:26,438
+Somewhere where the baby can breathe.
+
+666
+00:32:27,278 --> 00:32:28,282
+Yeah. I mean, it's...
+
+667
+00:32:29,401 --> 00:32:31,903
+good. Just put him in there
+and close the door, OK?
+
+668
+00:32:32,282 --> 00:32:33,805
+It keeps the fumes out of his eyes.
+
+669
+00:32:45,442 --> 00:32:46,512
+See? I told you, Quentin.
+
+670
+00:32:48,125 --> 00:32:49,673
+I told you, man, you can trust me.
+
+671
+00:32:53,278 --> 00:32:54,915
+I think this psycho's going for Shane.
+
+672
+00:33:01,094 --> 00:33:02,098
+Stop. Right there.
+
+673
+00:33:05,344 --> 00:33:06,356
+You get him?
+
+674
+00:33:07,320 --> 00:33:08,324
+Are you all right?
+
+675
+00:33:09,015 --> 00:33:10,908
+Yeah. Glad you put on a vest.
+
+676
+00:33:11,040 --> 00:33:12,044
+Check the kid.
+
+677
+00:33:17,371 --> 00:33:20,021
+You wanna tell me what
+the hell happened back here?
+
+678
+00:33:23,346 --> 00:33:25,980
+We just saved 3 innocents
+from a homicidal junkie.
+
+679
+00:33:27,406 --> 00:33:28,986
+Maybe you could draw up the paperwork
+
+680
+00:33:29,612 --> 00:33:30,665
+and let me sign it.
+
+681
+00:33:37,184 --> 00:33:39,336
+You lied. You lied to me.
+
+682
+00:33:39,962 --> 00:33:40,966
+You lied!
+
+683
+00:33:45,081 --> 00:33:47,224
+Captain, here's a sketch
+of that guy that shot up
+
+684
+00:33:47,357 --> 00:33:48,546
+the sex shop this morning.
+
+685
+00:33:48,694 --> 00:33:50,381
+Black, early 20s, earrings.
+
+686
+00:33:50,521 --> 00:33:51,640
+Narrows things down.
+
+687
+00:33:53,122 --> 00:33:54,933
+I don't have anybody free.
+
+688
+00:33:55,081 --> 00:33:57,031
+Could you jump on
+this porn shop shooting?
+
+689
+00:33:57,171 --> 00:33:59,810
+Sounds titillating,
+but I'm still a little woozy.
+
+690
+00:34:00,155 --> 00:34:02,410
+That's what I get for trying
+to keep the peace, right?
+
+691
+00:34:02,542 --> 00:34:03,596
+Maybe you should go home.
+
+692
+00:34:03,941 --> 00:34:06,394
+I leave now it chews up
+one of my personal days.
+
+693
+00:34:06,888 --> 00:34:09,271
+I'm gonna hang
+and clean up some paperwork.
+
+694
+00:34:09,534 --> 00:34:10,555
+I'll be OK.
+
+695
+00:34:10,688 --> 00:34:11,691
+Thank God.
+
+696
+00:34:12,431 --> 00:34:15,757
+Circulate it to the skin joints,
+bookstores. See if he's a regular.
+
+697
+00:34:16,119 --> 00:34:17,172
+OK.
+
+698
+00:34:18,538 --> 00:34:20,084
+DMV didn't have any of the addresses
+
+699
+00:34:20,216 --> 00:34:22,603
+on the cousins of the el Salvadoran
+we questioned.
+
+700
+00:34:22,784 --> 00:34:24,167
+And I'm still waiting on I.N.S.
+
+701
+00:34:24,298 --> 00:34:25,327
+Good girl.
+
+702
+00:34:30,156 --> 00:34:31,160
+Good girl?
+
+703
+00:34:31,281 --> 00:34:33,520
+It's part of my new
+mentoring philosophy.
+
+704
+00:34:33,684 --> 00:34:34,689
+Right.
+
+705
+00:34:35,923 --> 00:34:38,606
+I thought you were meeting
+Kavanaugh and picking up Emolia.
+
+706
+00:34:38,787 --> 00:34:41,002
+Me, too. Sent me to the sewing shop.
+It was closed.
+
+707
+00:34:41,126 --> 00:34:42,130
+No one ever showed.
+
+708
+00:34:45,883 --> 00:34:47,216
+Vic said I should tell Guardo
+
+709
+00:34:47,365 --> 00:34:48,750
+I was sorry for turning on him.
+
+710
+00:34:49,521 --> 00:34:52,020
+Offer up my handler asrestitucion.
+
+711
+00:34:52,735 --> 00:34:54,579
+He knew that guardo
+would wanna hurt the cop
+
+712
+00:34:54,719 --> 00:34:56,480
+that crushed his drug
+protection comeback.
+
+713
+00:34:56,628 --> 00:34:59,312
+Jesus. You told 'em it was Lem.
+
+714
+00:35:00,053 --> 00:35:02,479
+They gave me the place, the time.
+
+715
+00:35:02,660 --> 00:35:06,150
+I set it up. Told him it was a
+blond cop I've been working for.
+
+716
+00:35:06,545 --> 00:35:08,800
+You did this because
+Vic threatened your son.
+
+717
+00:35:09,393 --> 00:35:11,722
+Said if I did it,
+he'd give me 500 bucks.
+
+718
+00:35:11,852 --> 00:35:12,865
+If I didn't,
+
+719
+00:35:12,988 --> 00:35:15,363
+Sebastio's hospital bill
+would be a hundred times
+
+720
+00:35:15,485 --> 00:35:16,490
+that much.
+
+721
+00:35:16,625 --> 00:35:17,654
+What choice did I have?
+
+722
+00:35:18,148 --> 00:35:19,152
+You have the money?
+
+723
+00:35:19,794 --> 00:35:22,715
+No. He was supposed to drop it
+off at the Sewing shop yesterday.
+
+724
+00:35:22,871 --> 00:35:25,085
+He never did.
+I got scared.
+
+725
+00:35:25,209 --> 00:35:27,974
+Figured if he could off
+his own guy that way,
+
+726
+00:35:28,369 --> 00:35:30,312
+what's to stop him
+from killing me and my boy?
+
+727
+00:35:30,657 --> 00:35:31,744
+That's why she called me.
+
+728
+00:35:32,633 --> 00:35:35,530
+I got a man staying with her
+mother and with her son right now.
+
+729
+00:35:36,475 --> 00:35:39,290
+Yeah. I just want us all to be safe.
+
+730
+00:35:39,981 --> 00:35:41,133
+Far away from Vic.
+
+731
+00:35:42,253 --> 00:35:43,388
+Phillips is on his way.
+
+732
+00:35:43,803 --> 00:35:46,898
+We should wait till he gets here before
+we get into more of these details.
+
+733
+00:35:47,507 --> 00:35:48,511
+You did fine.
+
+734
+00:35:55,446 --> 00:35:56,902
+Hey, uh, what happened to you?
+
+735
+00:35:57,046 --> 00:35:58,178
+I went to the Sewing shop.
+
+736
+00:35:58,721 --> 00:35:59,725
+Oh, sorry about that.
+
+737
+00:36:00,450 --> 00:36:04,535
+Emolia moved the meeting place
+3 times after I talked to you.
+
+738
+00:36:04,666 --> 00:36:05,950
+Where'd you finally meet her?
+
+739
+00:36:06,642 --> 00:36:09,127
+Behind Sid's.
+Coffee place on Wilton.
+
+740
+00:36:09,621 --> 00:36:12,074
+That place across from the 101 on Ramp?
+
+741
+00:36:13,038 --> 00:36:14,062
+I think so. I think so.
+
+742
+00:36:15,165 --> 00:36:16,169
+Ask Emolia. She'd know.
+
+743
+00:36:16,481 --> 00:36:17,683
+Anyway, no harm, no foul.
+
+744
+00:36:25,003 --> 00:36:27,357
+Easy. Ow!
+I know you're pissed at me.
+
+745
+00:36:27,489 --> 00:36:30,484
+I don't give a shit
+if I hear from you, OK?
+
+746
+00:36:31,037 --> 00:36:32,189
+I'll make it up to the kids.
+
+747
+00:36:32,337 --> 00:36:35,152
+Hope you have another bag of cash
+put aside for the years of therapy,
+
+748
+00:36:35,284 --> 00:36:36,881
+- they're gonna need
+- Don't say that.
+
+749
+00:36:37,029 --> 00:36:38,115
+Cass is just like you.
+
+750
+00:36:38,272 --> 00:36:40,121
+- She internalizes everything.
+- Hey!
+
+751
+00:36:40,549 --> 00:36:41,553
+Hey. You doing OK?
+
+752
+00:36:41,833 --> 00:36:43,743
+Yeah. I'll live,
+
+753
+00:36:43,891 --> 00:36:45,997
+as long as my ex isn't
+the one taking care of me.
+
+754
+00:36:46,244 --> 00:36:47,495
+Hey, Corrine.
+Hey.
+
+755
+00:36:48,598 --> 00:36:50,416
+We're gonna need an x-ray
+of that shoulder.
+
+756
+00:36:54,902 --> 00:36:56,042
+How you feeling?
+
+757
+00:36:56,362 --> 00:36:57,366
+Good.
+
+758
+00:36:57,507 --> 00:36:59,219
+I still smell a little like diesel.
+
+759
+00:36:59,696 --> 00:37:01,244
+Just like Ronnie's aftershave.
+
+760
+00:37:06,738 --> 00:37:08,039
+What the hell was that today?
+
+761
+00:37:10,047 --> 00:37:11,808
+I just saw a way
+to make your plan work.
+
+762
+00:37:12,220 --> 00:37:14,524
+My plan wasn't turning you
+into a duraflame.
+
+763
+00:37:15,479 --> 00:37:17,184
+I've had enough funerals for one week.
+
+764
+00:37:18,699 --> 00:37:20,032
+It was just my own little spin.
+
+765
+00:37:20,921 --> 00:37:23,291
+You can put another one
+in the win column, though, right?
+
+766
+00:37:26,287 --> 00:37:27,291
+Listen, man.
+
+767
+00:37:28,307 --> 00:37:30,315
+We've all been beating
+ourselves up about Lem.
+
+768
+00:37:32,043 --> 00:37:33,690
+But it's like you said, man.
+
+769
+00:37:34,891 --> 00:37:36,126
+It's nobody's fault.
+
+770
+00:37:37,229 --> 00:37:38,299
+Except Guardo's.
+
+771
+00:37:38,424 --> 00:37:39,806
+- Yeah.
+- Hey.
+
+772
+00:37:40,909 --> 00:37:41,913
+Come here.
+
+773
+00:37:45,734 --> 00:37:48,302
+Wyms and the chief are trying
+to push through my retirement.
+
+774
+00:37:48,763 --> 00:37:51,084
+I'm not sure why,
+but I don't have much time.
+
+775
+00:37:51,239 --> 00:37:52,482
+- No man.
+- That's why you...
+
+776
+00:37:52,614 --> 00:37:54,499
+can't get reckless.
+You hear me?
+
+777
+00:37:56,490 --> 00:37:58,506
+I'm gonna need your help
+to finish this thing.
+
+778
+00:38:00,595 --> 00:38:02,043
+I can't lose you, too, Shane.
+
+779
+00:38:05,023 --> 00:38:06,027
+You won't.
+
+780
+00:38:15,238 --> 00:38:16,390
+This doesn't add up.
+
+781
+00:38:16,612 --> 00:38:18,983
+The pieces fit. Motive, timing.
+
+782
+00:38:19,641 --> 00:38:21,023
+He's got a compelling case.
+
+783
+00:38:21,409 --> 00:38:25,985
+Look, you and I both know Vic is a
+cop with questionable ethics.
+
+784
+00:38:26,363 --> 00:38:29,277
+He capable of killing another cop?
+Maybe. But Lem?
+
+785
+00:38:30,544 --> 00:38:31,721
+Her story's a little neat.
+
+786
+00:38:31,878 --> 00:38:33,692
+I'm at the last house
+on the D.E.A. List.
+
+787
+00:38:33,826 --> 00:38:35,686
+I knock. I definitely
+hear someone inside.
+
+788
+00:38:35,851 --> 00:38:38,024
+Maybe two people.
+They don't come to the door.
+
+789
+00:38:38,155 --> 00:38:39,818
+Then I get a call from Kavanaugh
+
+790
+00:38:39,966 --> 00:38:42,106
+sending me off and running
+to the sewing shop?
+
+791
+00:38:43,060 --> 00:38:44,224
+Seems strange.
+
+792
+00:38:45,162 --> 00:38:47,483
+You think he's pushing the story?
+
+793
+00:38:48,405 --> 00:38:49,409
+Lying?
+
+794
+00:38:49,788 --> 00:38:51,187
+That doesn't fit either.
+
+795
+00:38:51,335 --> 00:38:53,684
+Here's a guy who wouldn't bend
+the rules for his ex-wife
+
+796
+00:38:53,834 --> 00:38:55,814
+when any other cop
+in this building would have.
+
+797
+00:38:57,977 --> 00:38:58,981
+I know that look.
+
+798
+00:39:00,627 --> 00:39:01,681
+Something's not right.
+
+799
+00:39:02,866 --> 00:39:04,858
+Chief wants Vic
+on the retired list
+
+800
+00:39:05,167 --> 00:39:06,747
+before we file any charges.
+
+801
+00:39:07,323 --> 00:39:08,755
+He's not going without a fight.
+
+802
+00:39:09,150 --> 00:39:10,269
+What do you want me to do?
+
+803
+00:39:12,064 --> 00:39:13,232
+Stick to the Guardo angle.
+
+804
+00:39:13,364 --> 00:39:14,631
+Bring Vic in for questioning.
+
+805
+00:39:14,812 --> 00:39:16,836
+See what he has to say
+about Emolia's story.
+
+806
+00:39:17,198 --> 00:39:18,202
+Okay.
+
+807
+00:39:21,741 --> 00:39:22,811
+I'm gonna head home now.
+
+808
+00:39:23,617 --> 00:39:25,658
+I might need to take
+that personal day tomorrow.
+
+809
+00:39:25,807 --> 00:39:28,561
+Oh, we'll try to fill the void.
+
+810
+00:39:30,635 --> 00:39:31,640
+Uh, Vic.
+
+811
+00:39:32,660 --> 00:39:33,928
+You cruising for interns?
+
+812
+00:39:34,076 --> 00:39:35,080
+How's the shoulder?
+
+813
+00:39:35,228 --> 00:39:36,282
+Kevlar is my friend.
+
+814
+00:39:39,371 --> 00:39:40,951
+Kavanaugh's brought in a witness
+
+815
+00:39:41,075 --> 00:39:43,363
+who claims you hired
+the el Salvadorans to kill Lem.
+
+816
+00:39:44,968 --> 00:39:45,972
+What witness?
+
+817
+00:39:46,530 --> 00:39:47,814
+Emolia Melendez.
+
+818
+00:39:50,991 --> 00:39:52,316
+What's Kavanaugh offering her?
+
+819
+00:39:52,686 --> 00:39:53,722
+Witness protection.
+
+820
+00:39:55,616 --> 00:39:56,867
+So you're here to arrest me?
+
+821
+00:39:57,088 --> 00:39:58,520
+Right now I just need a statement.
+
+822
+00:39:58,652 --> 00:40:00,216
+You think I did it? Lem?
+
+823
+00:40:02,767 --> 00:40:04,364
+I need to take you back to the barn.
+
+824
+00:40:05,565 --> 00:40:06,783
+Well, I can drive myself.
+
+825
+00:40:12,497 --> 00:40:14,093
+OK. I'll see you back there.
+
+826
+00:40:26,642 --> 00:40:29,193
+Mackey's lawyer will
+paint her as a paid snitch,
+
+827
+00:40:29,328 --> 00:40:30,974
+promised the american dream in exchange
+
+828
+00:40:31,106 --> 00:40:32,168
+for her testimony.
+
+829
+00:40:32,291 --> 00:40:34,036
+There's no evidence backing this story.
+
+830
+00:40:34,538 --> 00:40:36,529
+That's why I wanna
+continue this investigation.
+
+831
+00:40:36,661 --> 00:40:38,053
+This report is not complete yet.
+
+832
+00:40:38,250 --> 00:40:40,540
+What about Wagenbach's
+el Salvadoran suspect?
+
+833
+00:40:41,462 --> 00:40:43,116
+I've seen Dutch cozy up to Mackey.
+
+834
+00:40:43,256 --> 00:40:45,066
+I don't know where his loyalty lands.
+
+835
+00:40:45,198 --> 00:40:46,975
+We need to get him off
+this Lemansky case.
+
+836
+00:40:47,124 --> 00:40:49,321
+We don't want another guy
+tipped off and on the run.
+
+837
+00:40:53,184 --> 00:40:54,189
+Okay.
+
+838
+00:40:57,020 --> 00:40:58,189
+I'll talk to Wyms about him.
+
+839
+00:40:58,373 --> 00:41:00,908
+But this time if you can't
+keep it from becoming personal,
+
+840
+00:41:02,126 --> 00:41:03,789
+I'll go disciplinary on you, Jon.
+
+841
+00:41:04,085 --> 00:41:06,669
+You'll lose those lt bars.
+You hear that?
+
+842
+00:41:07,130 --> 00:41:08,134
+I hear it.
+
+843
+00:41:08,299 --> 00:41:10,589
+Tell the chief he's got my word.
+Nothing personal.
+
+844
+00:41:17,609 --> 00:41:18,613
+What's this?
+
+845
+00:41:18,757 --> 00:41:21,423
+Requesting today's footage
+from the 101 freeway cam
+
+846
+00:41:21,555 --> 00:41:25,045
+at the Wilton on-ramp
+across from Sid's coffee.
+
+847
+00:41:25,522 --> 00:41:26,526
+Just a hunch.
+
+848
+00:41:27,135 --> 00:41:29,176
+Any sign of Vic? Not yet.
+
+849
+00:41:29,779 --> 00:41:32,479
+Captain, a guy fitting the description
+of our sex shop shooter
+
+850
+00:41:32,611 --> 00:41:34,253
+was seen in 4 other video stores today.
+
+851
+00:41:34,379 --> 00:41:35,860
+He bought out every copy of that.
+
+852
+00:41:38,248 --> 00:41:41,402
+I am not familiar with
+the "Dick 'n' Granny" series.
+
+853
+00:41:41,548 --> 00:41:43,564
+Hopo productions is owned and operated
+
+854
+00:41:43,705 --> 00:41:44,816
+by holes and poles, inc.
+
+855
+00:41:44,956 --> 00:41:46,371
+That the owner who got shot at?
+
+856
+00:41:46,503 --> 00:41:49,798
+Yes. Not only is Axl the producer,
+director, and distributor.
+
+857
+00:41:50,272 --> 00:41:52,232
+But guess who's wearing
+the Nixon mask.
+
+858
+00:41:52,990 --> 00:41:54,883
+The Richard Nixon mask's
+a reflection of your
+
+859
+00:41:55,031 --> 00:41:56,035
+political bent?
+
+860
+00:41:56,167 --> 00:41:58,142
+Or are you just afraid to be associated
+
+861
+00:41:58,274 --> 00:41:59,278
+with your own smut?
+
+862
+00:41:59,772 --> 00:42:00,776
+It's my hook.
+
+863
+00:42:01,795 --> 00:42:03,638
+I'm Richard Nixon
+and I'm dickin' granny.
+
+864
+00:42:03,771 --> 00:42:06,141
+Yeah, we get it.
+Who's the old lady?
+
+865
+00:42:06,273 --> 00:42:07,606
+Why?
+She's of age, right?
+
+866
+00:42:10,339 --> 00:42:12,644
+- All my actors sign contracts...
+- Whoever shot at you
+
+867
+00:42:12,800 --> 00:42:15,038
+this morning bought up
+every copy of that in the city.
+
+868
+00:42:15,262 --> 00:42:17,698
+Maybe he's a little upset
+about you dickin' granny.
+
+869
+00:42:19,922 --> 00:42:22,555
+Shit. Number 3.
+
+870
+00:42:23,247 --> 00:42:24,300
+Forgot her name.
+
+871
+00:42:24,456 --> 00:42:27,066
+First-timer.
+She was raw.
+
+872
+00:42:27,296 --> 00:42:29,601
+But in the end, I always
+get a good performance.
+
+873
+00:42:31,147 --> 00:42:32,908
+We need a name and address.
+
+874
+00:42:34,044 --> 00:42:35,048
+It's Vic.
+
+875
+00:42:36,315 --> 00:42:37,320
+Yeah.
+
+876
+00:42:37,451 --> 00:42:40,480
+Anyone ever tell you that you
+have incredibly expressive eyes?
+
+877
+00:42:41,073 --> 00:42:42,192
+Ever been on film?
+
+878
+00:42:43,328 --> 00:42:44,596
+Ever been in a mug book?
+
+879
+00:42:48,151 --> 00:42:50,785
+Family emergency.
+He can't come in right now.
+
+880
+00:42:51,081 --> 00:42:52,317
+He'll run out of emergencies,
+
+881
+00:42:52,449 --> 00:42:53,733
+then we'll get to the truth.
+
+882
+00:42:55,412 --> 00:42:57,667
+Hard to believe this place
+was ever a church.
+
+883
+00:42:59,346 --> 00:43:01,716
+We can track down
+Axl's granny in the morning.
+
+884
+00:43:02,072 --> 00:43:03,109
+It's been a long day.
+
+885
+00:43:03,258 --> 00:43:06,036
+I'm okay. I'll wait for the
+address and follow it up tonight.
+
+886
+00:43:06,410 --> 00:43:09,522
+It's your first week.
+You can't keep up this kind of pace.
+
+887
+00:43:10,229 --> 00:43:12,402
+Now, I'm just talking general health.
+
+888
+00:43:13,009 --> 00:43:14,776
+You got to take care of yourself.
+
+889
+00:43:16,947 --> 00:43:19,449
+Can I tell you something
+doesn't go beyond these pews?
+
+890
+00:43:19,786 --> 00:43:20,791
+Of course.
+
+891
+00:43:21,581 --> 00:43:23,369
+Phillips paid me a visit today.
+
+892
+00:43:26,686 --> 00:43:28,348
+If I don't turn this place around
+
+893
+00:43:29,681 --> 00:43:31,657
+before the quarterly
+statistics come out,
+
+894
+00:43:33,017 --> 00:43:35,634
+they might be saying mass
+down there again real soon.
+
+895
+00:43:46,837 --> 00:43:47,874
+I'm Captain Wyms.
+
+896
+00:43:48,006 --> 00:43:49,611
+Sorry to disturb you so late, ma'am.
+
+897
+00:43:50,607 --> 00:43:51,611
+You know this man?
+
+898
+00:43:56,263 --> 00:43:57,274
+Edmond!
+
+899
+00:43:58,387 --> 00:43:59,465
+Edmond!
+
+900
+00:44:00,312 --> 00:44:01,974
+Stop!
+Stop!
+
+901
+00:44:02,172 --> 00:44:03,275
+Drop the gun!
+
+902
+00:44:03,737 --> 00:44:04,740
+Drop that gun.
+
+903
+00:44:05,202 --> 00:44:06,206
+Drop the gun.
+
+904
+00:44:06,338 --> 00:44:08,376
+Please, kid, just drop the gun.
+
+905
+00:44:08,719 --> 00:44:11,106
+- Please don't make me shoot you.
+- Drop the gun, asshole
+
+906
+00:44:11,238 --> 00:44:13,060
+- or I will shoot.
+- Edmond, don't!
+
+907
+00:44:13,620 --> 00:44:15,825
+- Just drop the gun, kid.
+- Drop the gun goddamn it!
+
+908
+00:44:15,957 --> 00:44:17,587
+- Do it now!
+- Drop... The gun.
+
+909
+00:44:19,002 --> 00:44:20,006
+Get on your knees.
+
+910
+00:44:20,336 --> 00:44:21,472
+Why did you do it, grandma?
+
+911
+00:44:21,604 --> 00:44:23,617
+Get down on your knees.
+Get down on your knees.
+
+912
+00:44:23,755 --> 00:44:24,759
+Right now!
+
+913
+00:44:27,360 --> 00:44:29,179
+How could you let that man
+do that to you?
+
+914
+00:44:30,504 --> 00:44:33,584
+He got arrested for stealing
+a car 6 months ago.
+
+915
+00:44:34,884 --> 00:44:36,415
+I need his bail money.
+
+916
+00:44:37,798 --> 00:44:39,346
+You shouldn't have
+done it, grandma.
+
+917
+00:44:39,576 --> 00:44:40,827
+Why'd you be his whore?
+
+918
+00:44:47,011 --> 00:44:48,023
+What are you doing here?
+
+919
+00:44:50,929 --> 00:44:52,459
+You got Emolia to lie for you.
+
+920
+00:44:54,221 --> 00:44:56,540
+Now you know the difference
+between a lie and a truth?
+
+921
+00:44:56,983 --> 00:44:58,498
+You think I'm a cop killer.
+
+922
+00:45:00,934 --> 00:45:02,053
+Maybe I am.
+
+923
+00:45:05,099 --> 00:45:07,207
+You're a cop, right?
+
+924
+00:45:10,894 --> 00:45:13,380
+That sounds like a direct
+threat on my life, Detective.
+
+925
+00:45:13,939 --> 00:45:14,960
+You know what that means?
+
+926
+00:45:16,565 --> 00:45:17,602
+It means you just stepped
+
+927
+00:45:17,739 --> 00:45:19,961
+onto an entirely
+new playing field.
+
+928
+00:45:21,904 --> 00:45:22,924
+And for your sake,
+
+929
+00:45:24,274 --> 00:45:25,961
+I hope you know the rules of the game.
+
+930
+00:45:29,897 --> 00:45:31,880
+That it? You came all the way down here
+
+931
+00:45:32,020 --> 00:45:33,255
+just to blow words by me?
+
+932
+00:45:33,551 --> 00:45:34,638
+It's a street tactic.
+
+933
+00:45:35,280 --> 00:45:37,847
+Always let the bad guy
+know you're on to his game.
+
+934
+00:45:38,676 --> 00:45:41,853
+Makes him change tact
+so he makes mistakes.
+
+935
+00:45:42,067 --> 00:45:43,499
+Then I guess I should let you know
+
+936
+00:45:44,264 --> 00:45:46,272
+that you're wanted for
+questioning in the murder
+
+937
+00:45:46,396 --> 00:45:47,400
+of Curtis Lemansky.
+
+938
+00:45:48,305 --> 00:45:49,544
+There are unis at your house,
+
+939
+00:45:49,742 --> 00:45:51,346
+and they're waiting to bring you in.
+
+940
+00:45:58,943 --> 00:46:00,067
+Gabino Guiz.
+
+941
+00:46:00,330 --> 00:46:02,816
+This is the address
+I.N.S. gave me for the cousin.
+
+942
+00:46:02,980 --> 00:46:06,042
+Nobody home.
+What a shock. Let's go.
+
+943
+00:46:26,130 --> 00:46:27,694
+Oh, that's gross.
+
+944
+00:46:29,389 --> 00:46:31,891
+Dutch. Bloody cat prints.
+
+945
+00:46:43,938 --> 00:46:45,386
+Crime scene. Tread lightly.
+
+946
+00:46:48,942 --> 00:46:53,657
+6-Paul-32 requesting
+4 additional units and CSU
+
+947
+00:46:53,812 --> 00:46:55,590
+at 89 San Marcos.
+
+948
+00:46:55,738 --> 00:46:58,652
+I've got multiple 187s,
+
+949
+00:46:58,932 --> 00:47:01,483
+3, possibly 4...
+
+950
+00:47:12,517 --> 00:47:14,311
+you got to be shitting me.
+
+951
+00:47:15,250 --> 00:47:16,698
+They're asleep.
+
+952
+00:47:16,896 --> 00:47:18,707
+I just didn't feel like going home.
+
+953
+00:47:20,715 --> 00:47:22,641
+I'm sorry I dropped out this week.
+
+954
+00:47:23,990 --> 00:47:25,686
+They just need to hear your voice.
+
+955
+00:47:27,983 --> 00:47:28,987
+What is it?
+
+956
+00:47:29,152 --> 00:47:31,983
+Kavanaugh's trying to prove I had
+something to do with Lem's death.
+
+957
+00:47:32,149 --> 00:47:34,617
+Oh, my God. That's ridiculous.
+
+958
+00:47:34,766 --> 00:47:37,496
+He got some low-life
+C.I. To lie for him.
+
+959
+00:47:38,105 --> 00:47:39,290
+What are you gonna do?
+
+960
+00:47:41,562 --> 00:47:42,566
+<i>I'll get right to it.</i>
+
+961
+00:47:44,080 --> 00:47:46,566
+<i>Last year Captain Rawling
+initiated an inquiry</i>
+
+962
+00:47:46,714 --> 00:47:49,056
+<i>into the Farmington gang and drug unit.</i>
+
+963
+00:47:50,123 --> 00:47:52,748
+Supervised by lieutenant
+Kavanaugh from I.A.D.,
+
+964
+00:47:52,888 --> 00:47:55,588
+<i>this department conducted
+a 7 month investigation...</i>
+
+965
+00:47:56,149 --> 00:47:57,154
+Daddy!
+
+966
+00:47:57,285 --> 00:47:59,180
+Get out! Go back in your room right now!
+
+967
+00:47:59,682 --> 00:48:00,883
+I'm sorry. I just didn't want
+
+968
+00:48:01,015 --> 00:48:03,493
+- her to see.
+- <i>Detective Lemansky fled justice,</i>
+
+969
+00:48:03,641 --> 00:48:04,711
+<i>became a wanted fugitive.</i>
+
+970
+00:48:05,601 --> 00:48:07,659
+<i>No doubt the thought
+of spending years in prison</i>
+
+971
+00:48:07,807 --> 00:48:09,437
+<i>was a frightening proposition.</i>
+
+972
+00:48:10,490 --> 00:48:11,494
+<i>We'll never know</i>
+
+973
+00:48:12,334 --> 00:48:14,887
+<i>what triggered Detective
+Lemansky's reluctance</i>
+
+974
+00:48:15,825 --> 00:48:16,846
+<i>to serve his time.</i>
+
+975
+00:48:16,969 --> 00:48:18,443
+<i>Because less than 24 hours later,</i>
+
+976
+00:48:18,887 --> 00:48:20,270
+<i>he was found brutally murdered.</i>
+
+977
+00:48:22,360 --> 00:48:24,511
+<i>Someone dropped a live grenade</i>
+
+978
+00:48:24,654 --> 00:48:25,946
+<i>in the front seat of his car.</i>
+
+979
+00:48:28,325 --> 00:48:30,448
+<i>That murder investigation
+is ongoing and as of yet</i>
+
+980
+00:48:31,436 --> 00:48:32,852
+<i>no suspects are in custody.</i>
+
+981
+00:48:36,972 --> 00:48:39,062
+<i>And our condolences go out
+to Detective Lemansky's</i>
+
+982
+00:48:39,210 --> 00:48:40,272
+<i>friends and family.</i>
+
+983
+00:48:42,486 --> 00:48:44,379
+<i>But within this tragedy,
+there is a message,</i>
+
+984
+00:48:45,722 --> 00:48:48,685
+<i>and one that I hope will
+shake this department to its core.</i>
+
+985
+00:48:51,928 --> 00:48:55,469
+<i>Breaking the law and wearing a
+badge is a dangerous combination,</i>
+
+986
+00:48:57,345 --> 00:48:58,810
+<i>and this city will not tolerate it.</i>
+
+987
+00:48:59,699 --> 00:49:01,692
+<i>This department
+will not tolerate it.</i>
+
+988
+00:49:07,635 --> 00:49:09,693
+<i>It's the primary objective
+of this Police Council</i>
+
+989
+00:49:09,824 --> 00:49:11,642
+<i>over the next 18 months</i>
+
+990
+00:49:13,206 --> 00:49:15,363
+<i>to squash corruption
+within our own ranks.</i>
+
+991
+00:49:20,928 --> 00:49:22,920
+<i>And cops involved
+in any illegal activities</i>
+
+992
+00:49:24,319 --> 00:49:25,348
+<i>will be rooted out.</i>
+
+993
+00:49:26,196 --> 00:49:27,546
+<i>They will be relieved of duty</i>
+
+994
+00:49:28,895 --> 00:49:31,136
+<i>and prosecuted to
+the full extent of the law,</i>
+
+995
+00:49:32,831 --> 00:49:35,695
+<i>just as Detective Curtis
+Lemansky was being prosecuted</i>
+
+996
+00:49:35,844 --> 00:49:37,243
+<i>for his corrupt actions.</i>
+
+997
+00:49:37,490 --> 00:49:38,543
+You son of a bitch.
+
+998
+00:49:38,691 --> 00:49:40,205
+<i>This community
+needs police officers<i>
+
+999
+00:49:40,353 --> 00:49:42,479
+<i>who are peaceful and
+trustworthy civil servants.</i>
+
+1000
+00:49:44,059 --> 00:49:45,146
+<i>It's our goal</i>
+
+1001
+00:49:45,788 --> 00:49:48,701
+<i>to return dignity
+and respect</i>
+
+1002
+00:49:49,129 --> 00:49:50,150
+<i>to the badge...</i>
+
+1003
+00:49:56,046 --> 00:49:58,515
+And to the men and women who
+wear one a reason to be proud.
+
+1004
+00:50:06,011 --> 00:50:07,312
+Nothing personal.
+

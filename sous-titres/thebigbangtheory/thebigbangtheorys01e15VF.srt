@@ -1,0 +1,1530 @@
+1
+00:00:00,131 --> 00:00:02,166
+D'un autre côté,
+les physiciens craignent
+
+2
+00:00:02,336 --> 00:00:04,204
+que si le Supercollider fonctionne,
+
+3
+00:00:04,374 --> 00:00:06,473
+il génère un trou noir
+qui engloutira la Terre,
+
+4
+00:00:06,643 --> 00:00:08,286
+mettant un terme à la vie.
+
+5
+00:00:08,456 --> 00:00:10,237
+Quelle bande de pleurnichards.
+
+6
+00:00:10,732 --> 00:00:12,381
+Pas de couilles, pas de gloire.
+
+7
+00:00:13,498 --> 00:00:14,863
+Regarde ça,
+
+8
+00:00:15,162 --> 00:00:18,093
+l'École de Pharmacologie
+cherche des volontaires.
+
+9
+00:00:18,263 --> 00:00:20,681
+"Nous testons un nouveau produit
+contre l'anxiété sociale,
+
+10
+00:00:20,943 --> 00:00:24,776
+"les crises de panique,
+l'agoraphobie, et les TOC."
+
+11
+00:00:26,545 --> 00:00:28,731
+Pourquoi ils cherchent
+des volontaires ici ?
+
+12
+00:00:30,134 --> 00:00:31,411
+Je sais pas, Raj.
+
+13
+00:00:31,581 --> 00:00:34,625
+La boutique de BD doit pas avoir
+de panneau d'affichage.
+
+14
+00:00:37,973 --> 00:00:41,123
+- Qu'est-ce qui se passe ?
+- Jolie nana chez Sheldon.
+
+15
+00:00:41,589 --> 00:00:42,578
+Chez Sheldon ?
+
+16
+00:00:44,889 --> 00:00:46,339
+Elle s'est perdue ?
+
+17
+00:00:47,300 --> 00:00:48,315
+Je crois pas,
+
+18
+00:00:48,485 --> 00:00:50,544
+je l'ai suivie depuis le parking.
+
+19
+00:00:52,641 --> 00:00:54,123
+Ça doit être son avocate.
+
+20
+00:00:54,431 --> 00:00:56,618
+Elle examine mon cas quand elle veut.
+
+21
+00:00:57,310 --> 00:01:00,137
+Je sais, je suis dégoûtant.
+Je dois être puni... par elle.
+
+22
+00:01:00,399 --> 00:01:01,727
+Voilà que je continue.
+
+23
+00:01:02,717 --> 00:01:03,882
+Ça devrait suffire.
+
+24
+00:01:04,052 --> 00:01:05,599
+Merci d'être passée.
+
+25
+00:01:12,187 --> 00:01:13,117
+Bonjour.
+
+26
+00:01:14,691 --> 00:01:16,056
+Salut, mon pote.
+
+27
+00:01:18,315 --> 00:01:19,679
+"Mon pote..." ?
+
+28
+00:01:20,628 --> 00:01:23,285
+Désolé d'être en retard,
+je travaille sur un projet
+
+29
+00:01:23,547 --> 00:01:26,247
+qui pourrait me conduire
+dans la prochaine navette spatiale.
+
+30
+00:01:26,651 --> 00:01:29,291
+En retard ?
+Mais, je ne t'attendais pas.
+
+31
+00:01:30,195 --> 00:01:32,878
+Personne ne m'attend jamais.
+Parfois, tu regardes et...
+
+32
+00:01:33,140 --> 00:01:34,607
+Bam !
+Howard Wolowitz.
+
+33
+00:01:36,852 --> 00:01:38,133
+Tu nous présentes ?
+
+34
+00:01:38,737 --> 00:01:40,302
+Très bien. Voici Missy.
+
+35
+00:01:40,676 --> 00:01:44,139
+Missy, voici Leonard et Rajesh,
+tu connais déjà Howard.
+
+36
+00:01:44,401 --> 00:01:47,296
+- Ravie de vous rencontrer.
+- Toi aussi, pareillement, de même.
+
+37
+00:01:50,046 --> 00:01:51,647
+Comment vous vous connaissez ?
+
+38
+00:01:52,543 --> 00:01:55,673
+Il a passé neuf mois
+avec mes jambes autour du cou.
+
+39
+00:01:59,437 --> 00:02:00,427
+Pardon ?
+
+40
+00:02:01,557 --> 00:02:03,890
+C'est ma sœur jumelle.
+Elle se trouve drôle,
+
+41
+00:02:04,060 --> 00:02:06,309
+mais je n'ai jamais pu le constater.
+
+42
+00:02:06,479 --> 00:02:09,039
+Parce que t'as aucun sens de l'humour.
+
+43
+00:02:09,417 --> 00:02:12,015
+Comment le sais-tu ? Tu l'as mesuré ?
+
+44
+00:02:12,342 --> 00:02:13,800
+Avec un humouromètre ?
+
+45
+00:02:16,892 --> 00:02:20,449
+Je te trouve délicieusement amusante.
+Ou comme disent les Français...
+
+46
+00:02:22,232 --> 00:02:23,679
+Si j'ai bien retenu :
+
+47
+00:02:24,244 --> 00:02:26,682
+Leonard, Howard et...
+
+48
+00:02:26,944 --> 00:02:28,392
+Désolée, c'est quoi déjà ?
+
+49
+00:02:55,850 --> 00:02:56,729
+Rajesh.
+
+50
+00:02:58,168 --> 00:03:00,635
+Épisode 115 :
+L'indétermination de la shiksa
+
+51
+00:03:01,353 --> 00:03:02,829
+sub-way
+Version 1.0
+
+52
+00:03:20,843 --> 00:03:22,980
+Alors, Missy,
+qu'est-ce qui t'amène ici ?
+
+53
+00:03:23,150 --> 00:03:25,653
+La destinée, peut-être ?
+Je pense que c'est ça.
+
+54
+00:03:25,823 --> 00:03:28,077
+Une amie se marie demain soir
+à Disneyland.
+
+55
+00:03:28,339 --> 00:03:30,563
+Destinée, ton nom est Anaheim.
+
+56
+00:03:33,172 --> 00:03:36,377
+Et je devais faire signer des papiers
+à Shelly pour la succession de papa.
+
+57
+00:03:36,639 --> 00:03:40,047
+T'aurais pu les envoyer.
+C'est maman qui t'a dit de m'espionner !
+
+58
+00:03:40,309 --> 00:03:42,508
+C'est donc pour ça
+qu'on t'appelle le génie.
+
+59
+00:03:42,770 --> 00:03:45,386
+On m'appelle le génie
+parce que je suis un génie.
+
+60
+00:03:46,290 --> 00:03:48,889
+Dis à maman
+que je pèse 75 kilogrammes,
+
+61
+00:03:49,151 --> 00:03:51,314
+que je vais à la selle
+régulièrement.
+
+62
+00:03:52,595 --> 00:03:54,061
+Bon mariage. Au revoir.
+
+63
+00:03:57,249 --> 00:04:00,693
+Comme le mariage n'est que demain,
+tu n'as qu'à rester avec nous ce soir.
+
+64
+00:04:00,955 --> 00:04:03,404
+Je ne pense pas.
+Shelly n'aime pas la compagnie.
+
+65
+00:04:03,666 --> 00:04:07,367
+Même enfant, il congédiait
+ses amis imaginaires, le soir.
+
+66
+00:04:07,891 --> 00:04:10,953
+Ce n'était pas des amis,
+mais des collègues imaginaires.
+
+67
+00:04:11,924 --> 00:04:14,343
+Écoute, tu es là.
+On a plein de place.
+
+68
+00:04:14,513 --> 00:04:15,328
+Non !
+
+69
+00:04:15,719 --> 00:04:17,998
+Shelly, elle est de la famille.
+
+70
+00:04:18,542 --> 00:04:21,290
+Et alors ?
+Je n'invite pas ta mère, moi.
+
+71
+00:04:22,406 --> 00:04:25,092
+J'apprécierais d'éviter d'aller
+à Disney à l'heure de pointe.
+
+72
+00:04:25,354 --> 00:04:27,074
+Et ne m'appelle jamais Shelly.
+
+73
+00:04:28,023 --> 00:04:29,722
+C'est réglé, tu restes avec nous.
+
+74
+00:04:29,984 --> 00:04:33,095
+Je te raccompagne.
+Tu es au parking n°3, niveau C, non ?
+
+75
+00:04:37,246 --> 00:04:39,440
+Qu'est-ce qu'il vient de se passer ?
+
+76
+00:04:41,036 --> 00:04:42,701
+Donc, on avait huit ans,
+
+77
+00:04:42,871 --> 00:04:45,112
+et Sheldon transforme
+mon Petit Four pour Cuisiner
+
+78
+00:04:45,282 --> 00:04:47,114
+en fourneau à haute énergie.
+
+79
+00:04:48,041 --> 00:04:49,312
+Classique !
+
+80
+00:04:50,844 --> 00:04:53,628
+Il fallait que je cuise
+mes substrats semi-conducteurs
+
+81
+00:04:53,798 --> 00:04:55,539
+pour mes circuits intégrés.
+
+82
+00:04:55,818 --> 00:04:59,426
+Il voulait construire un robot soldat
+pour m'empêcher d'aller dans sa chambre.
+
+83
+00:04:59,743 --> 00:05:02,776
+Ce qui était nécessaire
+au vu de son insistance à y entrer.
+
+84
+00:05:03,517 --> 00:05:05,948
+Bref, je vais faire mes petits gâteaux.
+
+85
+00:05:06,118 --> 00:05:09,432
+Il y a un gros flash. Une seconde après,
+j'ai plus de sourcils !
+
+86
+00:05:10,853 --> 00:05:12,292
+Pas les sourcils !
+
+87
+00:05:13,604 --> 00:05:15,966
+J'ai passé l'année de CE1
+
+88
+00:05:16,136 --> 00:05:18,479
+avec des sourcils tordus
+dessinés par ma mère.
+
+89
+00:05:18,894 --> 00:05:20,246
+C'était donc ça.
+
+90
+00:05:20,416 --> 00:05:23,609
+J'ai cru que le programme de CE1
+te laissait perplexe.
+
+91
+00:05:27,749 --> 00:05:30,497
+T'as oublié ton caleçon
+dans le sèche-linge.
+
+92
+00:05:36,722 --> 00:05:37,998
+C'est pas le mien.
+
+93
+00:05:39,638 --> 00:05:42,745
+Ah oui ? Pourtant,
+il y a ton nom sur l'étiquette.
+
+94
+00:05:43,941 --> 00:05:46,217
+Ah, non, je m'en sers pour...
+
+95
+00:05:46,594 --> 00:05:50,071
+nettoyer mon matériel
+de pêche au harpon.
+
+96
+00:05:52,206 --> 00:05:53,682
+Je pêche au harpon.
+
+97
+00:05:57,515 --> 00:06:00,021
+Quand je ne chasse pas à l'arbalète.
+
+98
+00:06:03,369 --> 00:06:05,402
+Voici la sœur jumelle de Sheldon,
+Missy.
+
+99
+00:06:05,662 --> 00:06:07,112
+Notre voisine, Penny.
+
+100
+00:06:07,372 --> 00:06:10,568
+- Vous ne vous ressemblez pas.
+- Faites-moi un alléluia.
+
+101
+00:06:11,916 --> 00:06:13,896
+Les faux jumeaux
+viennent d'œufs différents,
+
+102
+00:06:14,066 --> 00:06:16,162
+ils se ressemblent pas plus
+que des non-jumeaux.
+
+103
+00:06:19,042 --> 00:06:20,873
+Devinez quoi ! J'ai été pris
+
+104
+00:06:21,043 --> 00:06:24,991
+comme cobaye pour un remède miracle
+contre la timidité pathologique.
+
+105
+00:06:25,640 --> 00:06:28,884
+- Félicitations, Raj.
+- Je suis très confiant. Bonjour, Missy.
+
+106
+00:06:39,554 --> 00:06:41,897
+Des effets secondaires sont possibles.
+
+107
+00:06:44,071 --> 00:06:45,767
+Alors, Missy,
+
+108
+00:06:45,937 --> 00:06:49,379
+as-tu déjà rencontré un homme
+venant de l'exotique Inde.
+
+109
+00:06:50,867 --> 00:06:53,158
+Oui, le Dr Patel, dans mon église.
+
+110
+00:06:53,418 --> 00:06:55,076
+Oui, Patel, un brave homme.
+
+111
+00:06:55,515 --> 00:06:57,814
+T'aimes les motos ? J'ai une bécane.
+
+112
+00:06:59,221 --> 00:07:02,417
+Une bécane ? T'as un scooter
+avec un panier sur le guidon.
+
+113
+00:07:04,309 --> 00:07:06,595
+Je porte quand même un casque.
+
+114
+00:07:08,309 --> 00:07:10,395
+T'as entendu parler du Kama Sutra ?
+
+115
+00:07:10,565 --> 00:07:13,080
+- Le  guide sexuel.
+- Le guide sexuel indien.
+
+116
+00:07:13,556 --> 00:07:15,249
+Donc, si tu te demandes
+
+117
+00:07:15,419 --> 00:07:18,167
+qui a écrit le livre de l'amour,
+c'était nous.
+
+118
+00:07:20,405 --> 00:07:23,608
+- La sœur de Sheldon est jolie, hein ?
+- Je ne la matais pas.
+
+119
+00:07:25,562 --> 00:07:28,423
+J'ai pas dit ça,
+j'ai juste dit qu'elle était jolie.
+
+120
+00:07:30,494 --> 00:07:31,518
+Possible,
+
+121
+00:07:31,993 --> 00:07:34,035
+si tu aimes les femmes grandes...
+
+122
+00:07:35,426 --> 00:07:36,627
+et parfaites.
+
+123
+00:07:39,651 --> 00:07:41,927
+Sheldon, pourquoi ignores-tu ta sœur ?
+
+124
+00:07:42,097 --> 00:07:44,960
+Je n'ignore pas ma sœur,
+je vous ignore tous.
+
+125
+00:07:46,341 --> 00:07:47,546
+Et voilà un apéro.
+
+126
+00:07:48,001 --> 00:07:50,992
+Super... des cornichons et...
+
+127
+00:07:51,873 --> 00:07:53,754
+De la sauce à l'oignon.
+
+128
+00:07:56,488 --> 00:07:58,440
+On n'a pas l'habitude de recevoir.
+
+129
+00:08:01,403 --> 00:08:03,006
+Tu aimes les pyjamas ?
+
+130
+00:08:03,903 --> 00:08:06,581
+- Je crois.
+- C'est nous qui les avons inventés.
+
+131
+00:08:07,520 --> 00:08:08,758
+De rien.
+
+132
+00:08:10,393 --> 00:08:12,647
+Mon peuple a inventé la circoncision.
+
+133
+00:08:17,840 --> 00:08:18,820
+De rien.
+
+134
+00:08:20,933 --> 00:08:23,497
+C'est l'heure de ma manucure,
+tu veux venir ?
+
+135
+00:08:23,838 --> 00:08:25,917
+Avec grand plaisir. Merci.
+
+136
+00:08:26,398 --> 00:08:27,589
+De rien.
+
+137
+00:08:28,788 --> 00:08:31,423
+- Au revoir.
+- Au revoir, Missy, à plus tard.
+
+138
+00:08:31,764 --> 00:08:34,431
+- Au revoir, Leonard.
+- Oh, oui, non, au revoir, Penny.
+
+139
+00:08:36,437 --> 00:08:37,948
+Laissez tomber.
+
+140
+00:08:38,118 --> 00:08:39,931
+Pourquoi ? Toi, laisse tomber, mec.
+
+141
+00:08:40,191 --> 00:08:42,642
+Excusez-moi, mais c'est mon appart
+et la sœur de mon coloc.
+
+142
+00:08:42,902 --> 00:08:45,489
+- Et ? T'as déjà Penny !
+- Comment ça, j'ai Penny ?
+
+143
+00:08:45,659 --> 00:08:47,480
+Dans quel univers j'ai Penny ?
+
+144
+00:08:48,927 --> 00:08:51,151
+- Je peux avoir Penny, alors ?
+- Non !
+
+145
+00:08:52,413 --> 00:08:54,427
+Excusez-moi, je peux intervenir ?
+
+146
+00:08:56,215 --> 00:08:59,367
+Je commande des pizzas.
+Pepperoni, ça vous va ?
+
+147
+00:09:01,816 --> 00:09:04,555
+- Je peux te parler en privé ?
+- Si tu veux.
+
+148
+00:09:05,347 --> 00:09:07,553
+Je t'aurais pris une sans fromage.
+
+149
+00:09:07,723 --> 00:09:08,970
+- Merci.
+- C'est rien,
+
+150
+00:09:09,140 --> 00:09:12,464
+il n'y a pas de honte
+à être allergique au lactose.
+
+151
+00:09:14,163 --> 00:09:16,930
+Je suis un Indien prétentieux,
+on a inventé les pyjamas.
+
+152
+00:09:17,858 --> 00:09:20,232
+Hé, regarde,
+je n'ai pas de prépuce.
+
+153
+00:09:31,359 --> 00:09:34,569
+Sais-tu que ta sœur
+est une femme terriblement attirante ?
+
+154
+00:09:37,471 --> 00:09:39,611
+C'est vrai qu'elle a la symétrie
+et la corpulence
+
+155
+00:09:39,781 --> 00:09:41,986
+que la culture occidentale
+estime désirables.
+
+156
+00:09:42,156 --> 00:09:44,064
+Mais il faut noter que par le passé,
+
+157
+00:09:44,234 --> 00:09:46,340
+une femme forte
+était le standard de la beauté,
+
+158
+00:09:46,510 --> 00:09:48,659
+car ses formes
+suggéraient l'abondance.
+
+159
+00:09:49,757 --> 00:09:50,724
+Fascinant...
+
+160
+00:09:50,894 --> 00:09:53,827
+J'ai pas dit que c'était fascinant,
+mais qu'il fallait le noter.
+
+161
+00:09:54,419 --> 00:09:56,157
+D'accord... Noté.
+
+162
+00:09:57,209 --> 00:10:00,461
+Mais, en fait, je voulais dire
+que Koothrappali et Wolowitz...
+
+163
+00:10:01,014 --> 00:10:02,927
+draguent ta sœur.
+
+164
+00:10:06,986 --> 00:10:07,926
+D'accord.
+
+165
+00:10:08,192 --> 00:10:10,630
+Sans vouloir critiquer ta rhétorique,
+
+166
+00:10:10,800 --> 00:10:12,868
+cette conversation
+aurait bien plus avancé
+
+167
+00:10:13,038 --> 00:10:14,900
+si tu avais commencé par là.
+
+168
+00:10:15,369 --> 00:10:18,423
+- Super...
+- C'était une digression superflue
+
+169
+00:10:18,593 --> 00:10:19,906
+de ta thèse initiale.
+
+170
+00:10:20,167 --> 00:10:21,213
+Peu importe !
+
+171
+00:10:22,805 --> 00:10:24,451
+Tu dois faire quelque chose.
+
+172
+00:10:24,917 --> 00:10:27,413
+- Pourquoi ?
+- Parce que c'est ta sœur.
+
+173
+00:10:28,711 --> 00:10:30,216
+Je ne comprends pas.
+
+174
+00:10:30,572 --> 00:10:33,014
+Certes, nous avons partagé
+un utérus durant 9 mois.
+
+175
+00:10:33,184 --> 00:10:35,129
+Mais depuis, nous nous sommes éloignés.
+
+176
+00:10:38,796 --> 00:10:39,823
+Réfléchis.
+
+177
+00:10:39,993 --> 00:10:43,220
+Maintenant que ton père vous a quittés,
+il est de ta responsabilité
+
+178
+00:10:43,482 --> 00:10:46,683
+de t'assurer que Missy choisisse
+un partenaire adapté.
+
+179
+00:10:48,521 --> 00:10:50,108
+Je n'y avais pas réfléchi.
+
+180
+00:10:51,100 --> 00:10:53,043
+Nous partageons le même ADN, c'est vrai.
+
+181
+00:10:53,213 --> 00:10:55,567
+Donc il existe l'infime possibilité
+
+182
+00:10:55,828 --> 00:10:58,852
+que son bas-ventre abrite
+le potentiel d'un autre individu
+
+183
+00:10:59,022 --> 00:11:00,873
+aussi remarquable que moi.
+
+184
+00:11:01,975 --> 00:11:03,209
+Exactement !
+
+185
+00:11:04,128 --> 00:11:06,938
+Et tu te dois à toi-même
+et à la postérité
+
+186
+00:11:07,108 --> 00:11:10,831
+de protéger l'intégrité génétique
+de la future progéniture de ta sœur.
+
+187
+00:11:12,857 --> 00:11:13,979
+Tu as raison.
+
+188
+00:11:14,608 --> 00:11:16,814
+Si quelqu'un veut accéder
+à ses trompes de Fallope,
+
+189
+00:11:16,984 --> 00:11:18,571
+il devra passer par moi.
+
+190
+00:11:28,522 --> 00:11:31,616
+Je suis Shiva, le Destructeur.
+J'aurai la femme.
+
+191
+00:11:33,442 --> 00:11:37,031
+Je te préviens, j'étais champion de judo
+au camp de maths.
+
+192
+00:11:37,854 --> 00:11:40,009
+Trêve de querelles juvéniles.
+
+193
+00:11:40,179 --> 00:11:41,946
+Arrêtez. Je vous dis d'arrêter !
+
+194
+00:11:43,233 --> 00:11:45,196
+Je vais régler ça sur-le-champ.
+
+195
+00:11:45,626 --> 00:11:47,953
+Vous n'êtes ni l'un ni l'autre
+assez bien pour ma sœur.
+
+196
+00:11:48,214 --> 00:11:51,164
+- De quel droit tu en décides ?
+- C'est l'homme de sa famille.
+
+197
+00:11:51,425 --> 00:11:52,772
+Respectez ses désirs.
+
+198
+00:11:52,942 --> 00:11:54,994
+- Ça vaut aussi pour toi.
+- Quoi ?
+
+199
+00:11:55,434 --> 00:11:56,535
+Rien de personnel.
+
+200
+00:11:56,705 --> 00:11:59,247
+Je préfère que ma nièce ou mon neveu
+n'ait pas de gaz
+
+201
+00:11:59,417 --> 00:12:01,488
+quand il ou elle mange un esquimau !
+
+202
+00:12:08,007 --> 00:12:10,891
+- Qu'est-ce qui te rend si heureux ?
+- Je suis pas heureux.
+
+203
+00:12:11,061 --> 00:12:13,539
+C'est les médicaments
+qui m'obligent à sourire.
+
+204
+00:12:19,680 --> 00:12:22,919
+Maintenant que Leonard m'a fait réaliser
+l'importance des enjeux génétiques,
+
+205
+00:12:23,089 --> 00:12:26,240
+acceptez que vous ne formez pas
+de partenaires adaptés à ma sœur.
+
+206
+00:12:26,668 --> 00:12:29,715
+Attends un peu.
+C'est Leonard qui t'a fait réaliser ça ?
+
+207
+00:12:30,911 --> 00:12:32,892
+On fait tous des erreurs. Passons.
+
+208
+00:12:33,771 --> 00:12:36,084
+Je crois que tu rates
+une grande opportunité.
+
+209
+00:12:36,344 --> 00:12:37,252
+En quoi ?
+
+210
+00:12:37,513 --> 00:12:40,968
+Tout le monde sait que la diversité
+produit la progéniture la plus robuste.
+
+211
+00:12:41,138 --> 00:12:44,382
+Pourquoi ne pas mettre un peu de moka
+dans le café-crème de la famille ?
+
+212
+00:12:47,148 --> 00:12:48,901
+En théorie, tu as raison.
+
+213
+00:12:49,071 --> 00:12:50,977
+Mais dans la pratique,
+dois-je te rappeler
+
+214
+00:12:51,147 --> 00:12:53,106
+qu'il te faut un traitement expérimental
+
+215
+00:12:53,276 --> 00:12:55,477
+pour ne serait-ce que parler
+au sexe opposé.
+
+216
+00:12:56,984 --> 00:13:00,152
+Je crois que tu te focalises
+bien trop sur les médicaments.
+
+217
+00:13:06,176 --> 00:13:08,419
+C'est parce que je suis Juif ?
+Je tuerais mon rabbin
+
+218
+00:13:08,589 --> 00:13:10,493
+avec une côte de porc, pour ta sœur.
+
+219
+00:13:17,465 --> 00:13:19,340
+Ça n'a rien à voir avec la religion,
+
+220
+00:13:19,510 --> 00:13:21,938
+mais avec le fait
+que tu es un lilliputien
+
+221
+00:13:22,108 --> 00:13:23,801
+qui vit encore avec sa mère.
+
+222
+00:13:25,008 --> 00:13:28,135
+- Sheldon, tu n'es pas raisonnable.
+- Tu trouves ?
+
+223
+00:13:28,616 --> 00:13:32,389
+Tiens, mange ce fromage sans péter
+et tu pourras coucher avec ma sœur.
+
+224
+00:13:34,074 --> 00:13:35,270
+Tiens donc ?
+
+225
+00:13:42,358 --> 00:13:45,227
+Shelly, je peux te parler ?
+Seul à seul ?
+
+226
+00:13:46,400 --> 00:13:48,798
+Pourquoi tout le monde veut me parler
+seul à seul ?
+
+227
+00:13:48,968 --> 00:13:51,824
+D'habitude, personne ne veut rester
+seul avec moi.
+
+228
+00:13:57,570 --> 00:13:59,626
+On fait tous des erreurs. Passons.
+
+229
+00:14:03,271 --> 00:14:05,881
+Je demanderai pas pourquoi
+tu me prostitues contre du fromage.
+
+230
+00:14:07,812 --> 00:14:10,970
+Mais depuis quand ça t'intéresse,
+avec qui je couche ?
+
+231
+00:14:11,494 --> 00:14:13,444
+À vrai dire,
+je n'y avais jamais réfléchi.
+
+232
+00:14:13,614 --> 00:14:17,017
+Mais on m'a fait remarquer que tu portes
+un ADN à très haut potentiel.
+
+233
+00:14:17,380 --> 00:14:19,960
+- Qu'est-ce que tu racontes ?
+- Je vais t'expliquer.
+
+234
+00:14:20,240 --> 00:14:23,330
+Vois-tu, moi, je suis
+une mutation génétique supérieure.
+
+235
+00:14:23,500 --> 00:14:26,527
+Une amélioration
+du stock médiocre existant.
+
+236
+00:14:28,324 --> 00:14:30,990
+Qu'est-ce que tu veux dire
+par "stock médiocre" ?
+
+237
+00:14:31,252 --> 00:14:32,550
+Je parle de toi.
+
+238
+00:14:33,820 --> 00:14:37,109
+Mais dans tes entrailles se trouve
+un potentiel autre moi.
+
+239
+00:14:37,411 --> 00:14:39,529
+Peut-être même plus grand,
+plus intelligent,
+
+240
+00:14:39,699 --> 00:14:41,174
+sans taches de rousseur.
+
+241
+00:14:41,344 --> 00:14:43,224
+Sheldon 2.0, si tu préfères.
+
+242
+00:14:44,869 --> 00:14:46,214
+Sheldon 2.0 ?
+
+243
+00:14:46,475 --> 00:14:47,432
+Exactement.
+
+244
+00:14:47,602 --> 00:14:48,411
+Bon,
+
+245
+00:14:48,766 --> 00:14:51,803
+je ne dis pas que je dois être
+le seul décisionnaire.
+
+246
+00:14:52,064 --> 00:14:55,515
+Si le prétendant ne t'attire pas,
+la probabilité de conception diminuera.
+
+247
+00:14:55,776 --> 00:14:57,862
+- C'est une blague, j'espère !
+- Pas du tout.
+
+248
+00:14:58,032 --> 00:15:01,145
+De fréquents coïts augmentent grandement
+les chances de fertilisation.
+
+249
+00:15:02,466 --> 00:15:04,335
+Shelly, assieds-toi.
+
+250
+00:15:07,751 --> 00:15:09,863
+Toute ma vie, j'ai vécu avec le fait
+
+251
+00:15:10,124 --> 00:15:12,835
+que mon frère jumeau est,
+comme maman le dit,
+
+252
+00:15:13,134 --> 00:15:15,534
+"un petit protégé du Seigneur".
+
+253
+00:15:16,437 --> 00:15:18,836
+Je me suis toujours considéré
+comme un coucou.
+
+254
+00:15:19,006 --> 00:15:20,415
+Une créature supérieure
+
+255
+00:15:20,585 --> 00:15:23,153
+dont l'œuf est placé
+dans le nid d'oiseaux ordinaires.
+
+256
+00:15:23,323 --> 00:15:25,287
+Le jeune coucou
+mange toute la nourriture,
+
+257
+00:15:25,457 --> 00:15:28,047
+laissant ses frères et sœurs ordinaires
+mourir de faim.
+
+258
+00:15:29,038 --> 00:15:31,800
+Heureusement pour toi,
+la métaphore s'arrêtait avant.
+
+259
+00:15:33,472 --> 00:15:35,638
+Elle s'était pas arrêtée à "coucou" ?
+
+260
+00:15:38,052 --> 00:15:39,323
+Écoute-moi bien.
+
+261
+00:15:39,715 --> 00:15:42,728
+Si tu veux te comporter comme un frère
+qui tient à moi, c'est super.
+
+262
+00:15:43,098 --> 00:15:44,313
+Te gêne pas.
+
+263
+00:15:44,934 --> 00:15:47,718
+Mais si tu me dis encore une fois
+avec qui je dois coucher,
+
+264
+00:15:47,888 --> 00:15:50,561
+ça se finira
+comme quand on était petits.
+
+265
+00:15:50,860 --> 00:15:52,075
+Tu te souviens ?
+
+266
+00:15:56,158 --> 00:15:58,410
+- J'ai une alternative.
+- Je t'écoute.
+
+267
+00:15:59,093 --> 00:16:02,221
+Tu fais un don d'ovules
+qu'on cryogénise et stocke,
+
+268
+00:16:02,391 --> 00:16:05,267
+je trouverai un donneur de sperme
+approprié pour tes ovules,
+
+269
+00:16:05,437 --> 00:16:07,879
+je les ferai fertiliser et inséminer
+dans ton utérus.
+
+270
+00:16:08,140 --> 00:16:09,730
+Tout le monde y gagne !
+
+271
+00:16:18,835 --> 00:16:19,975
+Correction,
+
+272
+00:16:20,236 --> 00:16:22,643
+Missy peut sortir
+avec qui elle le souhaite.
+
+273
+00:16:24,535 --> 00:16:26,971
+- Il faut régler ça.
+- Je suis d'accord.
+
+274
+00:16:27,141 --> 00:16:30,735
+La sœur de Sheldon se cache chez Penny
+parce qu'on l'a tous draguée.
+
+275
+00:16:30,996 --> 00:16:32,242
+Elle se cache pas.
+
+276
+00:16:32,412 --> 00:16:35,382
+Elle avait besoin d'intimité
+pour appeler sa grand-mère souffrante.
+
+277
+00:16:35,552 --> 00:16:37,760
+Et après,
+elle doit se laver les cheveux.
+
+278
+00:16:38,863 --> 00:16:41,209
+Pauvre petit enfoiré plein d'illusions !
+
+279
+00:16:41,632 --> 00:16:43,766
+- Commence pas.
+- Tu veux remettre ça ?
+
+280
+00:16:43,936 --> 00:16:44,807
+Assis.
+
+281
+00:16:46,886 --> 00:16:49,472
+Si on doit se battre pour Missy,
+faisons-le correctement.
+
+282
+00:16:49,642 --> 00:16:50,961
+Et honorablement.
+
+283
+00:16:52,662 --> 00:16:53,671
+Prends ça !
+
+284
+00:16:54,687 --> 00:16:55,952
+T'en veux encore ?
+
+285
+00:16:58,682 --> 00:17:00,645
+Et il est à terre !
+
+286
+00:17:01,861 --> 00:17:04,333
+Deux, trois, quatre...
+
+287
+00:17:04,503 --> 00:17:06,962
+- Allez, relève-toi !
+- Reste à terre, salope !
+
+288
+00:17:07,286 --> 00:17:09,023
+Sept, huit...
+
+289
+00:17:09,547 --> 00:17:11,174
+Neuf, dix...
+
+290
+00:17:12,800 --> 00:17:14,905
+La sélection naturelle à l'œuvre !
+
+291
+00:17:15,166 --> 00:17:16,875
+Je pleure pour l'humanité.
+
+292
+00:17:17,601 --> 00:17:20,629
+Excusez-moi, je vais annoncer
+la bonne nouvelle à Missy.
+
+293
+00:17:27,440 --> 00:17:29,222
+- Salut.
+- Salut, Penny, ça va ?
+
+294
+00:17:29,392 --> 00:17:31,755
+Dis, tu sors toujours avec ce Mike ?
+
+295
+00:17:32,016 --> 00:17:33,820
+- Oui, pourquoi ?
+- Comme ça.
+
+296
+00:17:33,990 --> 00:17:36,133
+Au fait, je pourrais parler à Missy ?
+
+297
+00:17:37,440 --> 00:17:38,506
+Bien sûr.
+
+298
+00:17:40,557 --> 00:17:41,723
+Ça va, Leonard ?
+
+299
+00:17:41,984 --> 00:17:45,434
+Puisque tu pars demain,
+accepterais-tu de dîner avec moi ?
+
+300
+00:17:46,089 --> 00:17:48,229
+C'est trop gentil. Mais, non merci.
+
+301
+00:17:51,563 --> 00:17:53,619
+- Tu as d'autres projets ?
+- Non.
+
+302
+00:17:57,637 --> 00:17:58,787
+D'accord...
+
+303
+00:18:00,499 --> 00:18:03,677
+- Profite bien du reste de la soirée.
+- Merci ! Salut.
+
+304
+00:18:11,308 --> 00:18:14,088
+Voilà quelque chose
+que nous n'avions pas anticipé.
+
+305
+00:18:19,688 --> 00:18:20,970
+Qu'est-ce que tu veux ?
+
+306
+00:18:21,453 --> 00:18:23,696
+Je vais bien, merci de ton intérêt.
+
+307
+00:18:25,143 --> 00:18:26,767
+Je voudrais parler à Missy.
+
+308
+00:18:31,049 --> 00:18:33,685
+- Bonsoir, Howard.
+- L'Incroyable Howard.
+
+309
+00:18:35,328 --> 00:18:37,945
+- Aimes-tu la magie ?
+- Pas vraiment.
+
+310
+00:18:39,291 --> 00:18:41,240
+Alors, tu vas te régaler.
+
+311
+00:18:43,403 --> 00:18:45,497
+Voici une canne ordinaire.
+
+312
+00:18:50,837 --> 00:18:52,835
+VEUX-TU SORTIR AVEC MOI ?
+
+313
+00:19:03,671 --> 00:19:05,347
+TU ES SÛRE ?
+
+314
+00:19:18,583 --> 00:19:20,358
+Merci. J'appréc...
+
+315
+00:19:22,732 --> 00:19:23,779
+J'appr...
+
+316
+00:19:25,313 --> 00:19:26,566
+J'app...
+
+317
+00:19:29,425 --> 00:19:31,498
+L'effet des médicaments s'estompe ?
+
+318
+00:19:35,252 --> 00:19:36,598
+Salut, trésor.
+
+319
+00:19:36,878 --> 00:19:38,654
+J'espérais que tu viendrais.
+
+320
+00:20:06,968 --> 00:20:09,311
+On avait un chien
+qui faisait ce bruit-là.
+
+321
+00:20:09,481 --> 00:20:10,800
+On a dû le piquer.
+
+322
+00:20:14,240 --> 00:20:16,614
+Tu veux que je transmette quelque chose
+à maman ?
+
+323
+00:20:17,025 --> 00:20:18,956
+Elle sera peut-être intéressée
+d'apprendre
+
+324
+00:20:19,126 --> 00:20:21,967
+que je n'étudie plus la théorie
+des cordes bosoniques,
+
+325
+00:20:22,228 --> 00:20:24,064
+mais celle des cordes hétérotiques.
+
+326
+00:20:24,663 --> 00:20:26,607
+Je lui dirai bonjour de ta part.
+
+327
+00:20:29,336 --> 00:20:31,230
+Ta visite fut plaisante.
+
+328
+00:20:31,400 --> 00:20:34,121
+À l'exception de cette affaire
+impliquant mes testicules.
+
+329
+00:20:35,778 --> 00:20:37,189
+Viens là, Shelly.
+
+330
+00:20:43,437 --> 00:20:45,239
+Sache que je suis très fière de toi.
+
+331
+00:20:45,755 --> 00:20:47,088
+- C'est vrai ?
+- Oui.
+
+332
+00:20:47,258 --> 00:20:50,411
+Je me vante toujours de mon frère,
+l'ingénieur en aérospatiale.
+
+333
+00:20:51,824 --> 00:20:54,331
+Tu racontes que je suis
+ingénieur en aérospatiale ?
+
+334
+00:20:55,656 --> 00:20:56,459
+Oui !
+
+335
+00:20:56,720 --> 00:20:58,586
+Je suis un physicien théoricien.
+
+336
+00:20:59,002 --> 00:21:01,507
+- Ça change quoi ?
+- Ça change quoi ?
+
+337
+00:21:03,167 --> 00:21:04,294
+Au revoir, Shelly.
+
+338
+00:21:04,464 --> 00:21:06,027
+Je suis sidéré !
+
+339
+00:21:07,167 --> 00:21:10,961
+Tu n'as qu'à dire que je bosse au péage
+du pont du Golden Gate !
+
+340
+00:21:13,822 --> 00:21:16,770
+Ingénieur en aérospatiale,
+quelle humiliation.
+

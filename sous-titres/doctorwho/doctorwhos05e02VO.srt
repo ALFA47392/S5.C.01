@@ -1,0 +1,2969 @@
+1
+00:00:19,930 --> 00:00:21,670
+<i>Well done, Mabel.</i>
+
+2
+00:00:23,401 --> 00:00:25,201
+<i>Well done, Alfie.</i>
+
+3
+00:00:25,918 --> 00:00:27,772
+<i>Good girl, Tabitha.</i>
+
+4
+00:00:29,746 --> 00:00:31,796
+<i>Very well done, Ranjit.</i>
+
+5
+00:00:33,393 --> 00:00:34,919
+<i>Good girl, Chloe.</i>
+
+6
+00:00:37,168 --> 00:00:38,811
+<i>Well done, Ben.</i>
+
+7
+00:00:40,520 --> 00:00:42,154
+<i>Well done, Mandy.</i>
+
+8
+00:00:49,044 --> 00:00:50,719
+<i>Bad boy, Timmy.</i>
+
+9
+00:00:55,800 --> 00:00:56,773
+<i>Zero.</i>
+
+10
+00:00:59,752 --> 00:01:02,400
+- You got a zero, didn't you?
+- Yeah. So?
+
+11
+00:01:02,720 --> 00:01:06,557
+- You'll have to walk home, then.
+- Walk to London? That's 20 decks!
+
+12
+00:01:06,677 --> 00:01:09,761
+You can't ride a Vator with a zero.
+You know what happens.
+
+13
+00:01:10,273 --> 00:01:11,600
+You'll get sent below.
+
+14
+00:01:17,029 --> 00:01:18,240
+I'll wait for you.
+
+15
+00:01:32,760 --> 00:01:34,410
+<i>Welcome to Vator Verse,</i>
+
+16
+00:01:34,661 --> 00:01:37,063
+<i>sponsored by
+McLintock's Candy Burgers.</i>
+
+17
+00:01:37,451 --> 00:01:38,977
+London, please.
+
+18
+00:01:39,200 --> 00:01:42,156
+<i>A horse and a man, above, below</i>
+
+19
+00:01:42,440 --> 00:01:45,529
+<i>One has a plan, but both must go</i>
+
+20
+00:01:46,102 --> 00:01:48,560
+<i>Mile after mile, above, beneath</i>
+
+21
+00:01:48,881 --> 00:01:52,040
+<i>One has a smile, and one has teeth</i>
+
+22
+00:01:52,555 --> 00:01:55,466
+<i>Though the man above might say hello</i>
+
+23
+00:01:55,586 --> 00:01:58,959
+<i>Expect no love from the beast below.</i>
+
+24
+00:02:04,981 --> 00:02:05,720
+Help!
+
+25
+00:02:05,880 --> 00:02:07,012
+Help me!
+
+26
+00:02:16,240 --> 00:02:18,640
+U-Sub.net et la Allons-y Team
+présentent :
+
+27
+00:02:18,800 --> 00:02:20,300
+Docteur Who Saison 5
+
+28
+00:02:20,420 --> 00:02:22,680
+Transcript : Red Bee Media Ltd
+
+29
+00:02:22,840 --> 00:02:26,840
+Synchro : Dauphinus, darkevil, delphiki,
+Imaginos, JOJO13 et Sargeros
+
+30
+00:02:26,960 --> 00:02:30,640
+Traduction : citrøn, darkevil, delphiki,
+Imaginos, Mika, et mmime
+
+31
+00:02:30,800 --> 00:02:34,000
+Relecture : Arno, citrøn, G-Lo,
+Imaginos et Killarney
+
+32
+00:02:34,120 --> 00:02:35,370
+The Beast Below
+
+33
+00:02:56,685 --> 00:02:58,185
+<i>My name is Amy Pond.</i>
+
+34
+00:03:02,103 --> 00:03:04,853
+<i>When I was seven,
+I had an imaginary friend.</i>
+
+35
+00:03:05,424 --> 00:03:07,280
+<i>Last night was the night before
+my wedding... </i>
+
+36
+00:03:07,400 --> 00:03:08,360
+Come on, Pond.
+
+37
+00:03:08,957 --> 00:03:10,760
+<i>... and my imaginary
+friend came back.</i>
+
+38
+00:03:12,480 --> 00:03:14,562
+- Now do you believe me
+- OK,
+
+39
+00:03:14,821 --> 00:03:16,727
+your box is a spaceship.
+
+40
+00:03:17,105 --> 00:03:19,759
+It's really, really a spaceship.
+
+41
+00:03:20,434 --> 00:03:21,861
+We are in space!
+
+42
+00:03:24,605 --> 00:03:28,133
+- What are we breathing?
+- I've extended the air shell we're fine.
+
+43
+00:03:29,745 --> 00:03:31,812
+Now, that's interesting.
+
+44
+00:03:32,560 --> 00:03:35,417
+29th Century.
+Solar flares roast the earth,
+
+45
+00:03:35,537 --> 00:03:38,657
+and the entire human race
+packs its bags
+
+46
+00:03:38,777 --> 00:03:41,009
+and moves out
+till the weather improves.
+
+47
+00:03:41,129 --> 00:03:44,381
+- Whole nations migrating to the stars.
+- Doctor?
+
+48
+00:03:44,501 --> 00:03:46,484
+- Doctor?
+- Isn't that amazing?
+
+49
+00:03:46,604 --> 00:03:47,546
+Doctor!
+
+50
+00:03:54,200 --> 00:03:55,120
+Come on.
+
+51
+00:03:55,280 --> 00:03:56,720
+I've found us a spaceship.
+
+52
+00:03:58,258 --> 00:04:01,787
+This is the United Kingdom of
+Britain and Northern Ireland -
+
+53
+00:04:01,907 --> 00:04:04,353
+all of it, bolted together
+and floating in the sky.
+
+54
+00:04:05,191 --> 00:04:07,057
+Starship UK. It's Britain,
+
+55
+00:04:07,995 --> 00:04:08,903
+but metal.
+
+56
+00:04:10,220 --> 00:04:12,463
+That's not just a ship,
+that's an idea.
+
+57
+00:04:12,583 --> 00:04:14,600
+That's a whole country,
+
+58
+00:04:15,573 --> 00:04:17,373
+living and laughing and...
+
+59
+00:04:18,055 --> 00:04:19,016
+shopping.
+
+60
+00:04:20,656 --> 00:04:22,968
+Searching the stars for a new home.
+
+61
+00:04:24,541 --> 00:04:27,435
+- Can we go out and see?
+- Of course but first, there's a thing.
+
+62
+00:04:27,555 --> 00:04:30,915
+- A thing?
+- An important thing. In fact, thing one
+
+63
+00:04:31,854 --> 00:04:34,915
+we are observers only. That's the one
+rule I've always stuck to in my travels.
+
+64
+00:04:35,081 --> 00:04:38,600
+I never get involved in the affairs
+of other peoples or planets.
+
+65
+00:04:38,760 --> 00:04:41,737
+- That's interesting.
+- So we're like a wildlife documentary,
+
+66
+00:04:41,857 --> 00:04:45,256
+yeah? Cos if they see a wounded cub or
+something, they can't just save it
+
+67
+00:04:45,376 --> 00:04:48,008
+they've got to keep filming
+and let it die.
+
+68
+00:04:50,278 --> 00:04:51,520
+That's got to be hard.
+
+69
+00:04:52,432 --> 00:04:54,200
+I don't think I could do that.
+
+70
+00:04:54,360 --> 00:04:57,440
+Don't you find that hard being all,
+like, detached and cold?
+
+71
+00:05:01,200 --> 00:05:02,037
+Doctor?
+
+72
+00:05:10,847 --> 00:05:12,480
+<i>Welcome to London Market.</i>
+
+73
+00:05:13,083 --> 00:05:14,915
+<i>You are being monitored. </i>
+
+74
+00:05:15,278 --> 00:05:16,560
+I'm in the future.
+
+75
+00:05:16,797 --> 00:05:20,032
+Like hundreds... of years
+in the future.
+
+76
+00:05:21,604 --> 00:05:24,737
+- I've been dead for centuries.
+- Oh, lovely.
+
+77
+00:05:25,441 --> 00:05:26,880
+You're a cheery one.
+
+78
+00:05:27,000 --> 00:05:29,104
+Never mind dead, look at this place.
+Isn't it wrong?
+
+79
+00:05:29,224 --> 00:05:30,102
+What's wrong?
+
+80
+00:05:30,222 --> 00:05:33,160
+Use your eyes, notice everything.
+What's wrong with this picture?
+
+81
+00:05:33,320 --> 00:05:35,391
+Is it... the bicycles?
+
+82
+00:05:35,511 --> 00:05:38,080
+- Bit unusual on a spaceship, bicycles.
+- Says the girl in the nightie.
+
+83
+00:05:38,240 --> 00:05:40,240
+Oh, my God! I'm in my nightie.
+
+84
+00:05:40,677 --> 00:05:43,440
+Now, come on, look around you.
+Actually look.
+
+85
+00:05:44,497 --> 00:05:46,939
+<i>London Market is a crime-free zone.</i>
+
+86
+00:05:47,680 --> 00:05:49,684
+Life on a giant starship,
+back to basics.
+
+87
+00:05:49,804 --> 00:05:51,880
+Bicycles, washing lines,
+wind-up street lamps.
+
+88
+00:05:52,000 --> 00:05:54,912
+But look closer. Secrets and
+shadows, lives led in fear.
+
+89
+00:05:55,081 --> 00:05:58,840
+Society bent out of shape, on the
+brink of collapse. A police state.
+
+90
+00:05:59,000 --> 00:06:01,479
+- Excuse me.
+- What are you doing?
+
+91
+00:06:09,024 --> 00:06:09,908
+Sorry.
+
+92
+00:06:11,016 --> 00:06:13,119
+Checking all the water in this area.
+
+93
+00:06:13,658 --> 00:06:15,389
+There's an escaped fish.
+
+94
+00:06:16,459 --> 00:06:18,624
+- Where was I?
+- Why did you just do that?
+
+95
+00:06:18,744 --> 00:06:20,250
+I think a lot.
+It's hard to keep track.
+
+96
+00:06:20,370 --> 00:06:22,807
+- Now, police state, do you see it yet?
+- Where?
+
+97
+00:06:23,636 --> 00:06:24,362
+There.
+
+98
+00:06:46,012 --> 00:06:47,162
+Are you sure?
+
+99
+00:06:48,070 --> 00:06:49,270
+Saw it myself.
+
+100
+00:06:49,960 --> 00:06:51,592
+<i>Are you going to tell her?</i>
+
+101
+00:06:51,712 --> 00:06:53,960
+We're under orders to tell her.
+
+102
+00:06:54,341 --> 00:06:56,554
+<i>Well done. Keep tabs on him.</i>
+
+103
+00:07:09,000 --> 00:07:12,092
+<i>Sorry to interrupt.
+There's been a sighting.</i>
+
+104
+00:07:12,649 --> 00:07:14,549
+<i>London block, Oxford Street.</i>
+
+105
+00:07:15,361 --> 00:07:16,185
+<i>A man.</i>
+
+106
+00:07:16,305 --> 00:07:17,931
+Did he do the thing?
+
+107
+00:07:18,378 --> 00:07:19,308
+<i>Apparently.</i>
+
+108
+00:07:19,809 --> 00:07:21,546
+I'll have a look on the monitors.
+
+109
+00:07:39,720 --> 00:07:41,880
+One little girl crying. So?
+
+110
+00:07:42,454 --> 00:07:43,952
+Crying silently.
+
+111
+00:07:44,724 --> 00:07:46,913
+I mean, children cry
+cos they want attention, cos
+
+112
+00:07:47,033 --> 00:07:50,840
+they're hurt or afraid. When they cry
+silently, it's cos they just can't stop.
+
+113
+00:07:51,073 --> 00:07:53,560
+- Any parent knows that.
+- Are you a parent?
+
+114
+00:07:55,158 --> 00:07:58,440
+Hundreds of parents walking past and not
+one of them's asking her what's wrong,
+
+115
+00:07:58,660 --> 00:08:00,160
+which means...
+
+116
+00:08:00,523 --> 00:08:03,762
+they already know, and it's something
+they don't talk about Secrets.
+
+117
+00:08:03,882 --> 00:08:06,555
+They're not helping her, it's something
+they're afraid of shadows.
+
+118
+00:08:06,675 --> 00:08:09,097
+Whatever they're
+afraid of it's nowhere to be seen,
+
+119
+00:08:09,217 --> 00:08:11,360
+which means it's everywhere.
+
+120
+00:08:11,520 --> 00:08:12,670
+Police state.
+
+121
+00:08:15,435 --> 00:08:17,280
+- Where'd she go?
+- Deck 207,
+
+122
+00:08:17,440 --> 00:08:20,480
+Apple Sesame block, Dwelling 54A.
+You're looking for Mandy Tanner.
+
+123
+00:08:21,614 --> 00:08:24,240
+This fell out of her pocket
+when I accidentally bumped into her.
+
+124
+00:08:24,442 --> 00:08:25,524
+Took me four goes.
+
+125
+00:08:25,644 --> 00:08:27,600
+Ask her about those things.
+
+126
+00:08:27,760 --> 00:08:29,904
+The smiling fellows in the booths.
+They're everywhere.
+
+127
+00:08:30,024 --> 00:08:31,696
+But they're just things.
+
+128
+00:08:31,920 --> 00:08:32,967
+They're clean.
+
+129
+00:08:34,200 --> 00:08:36,639
+Everything else here is battered and
+filthy. Look at this place.
+
+130
+00:08:36,759 --> 00:08:40,616
+No-one's laid a finger on those booths.
+Not a footprint within two feet of them.
+
+131
+00:08:40,736 --> 00:08:44,360
+Ask Mandy, "Why are people scared
+of the things in the booths?"
+
+132
+00:08:44,520 --> 00:08:45,830
+Hang on, what do I do?
+
+133
+00:08:45,950 --> 00:08:48,240
+I don't know what I'm doing here
+and I'm not even dressed!
+
+134
+00:08:48,400 --> 00:08:50,520
+It's this or Leadworth.
+What do you think?
+
+135
+00:08:50,680 --> 00:08:51,505
+Let's see.
+
+136
+00:08:51,625 --> 00:08:54,828
+What will Amy Pond choose?
+
+137
+00:08:58,165 --> 00:08:58,948
+Gotcha!
+
+138
+00:08:59,760 --> 00:09:02,461
+- Meet me back here in half an hour.
+- What are you going to do?
+
+139
+00:09:02,581 --> 00:09:03,960
+What I always do.
+
+140
+00:09:04,121 --> 00:09:05,344
+Stay out of trouble.
+
+141
+00:09:07,756 --> 00:09:08,520
+Badly.
+
+142
+00:09:11,354 --> 00:09:13,255
+So is this how it works, Doctor?
+
+143
+00:09:13,543 --> 00:09:16,627
+You never interfere in the affairs
+of other peoples or planets,
+
+144
+00:09:16,747 --> 00:09:18,600
+unless there's children crying?
+
+145
+00:09:19,727 --> 00:09:20,467
+Yes.
+
+146
+00:09:41,411 --> 00:09:42,704
+You're following me.
+
+147
+00:09:43,120 --> 00:09:45,449
+Saw you watching me
+at the marketplace.
+
+148
+00:09:45,569 --> 00:09:46,814
+You dropped this.
+
+149
+00:09:46,934 --> 00:09:49,366
+Yeah, when your friend
+kept bumping into me.
+
+150
+00:09:54,108 --> 00:09:57,134
+- What's that?
+- There's a hole. We have to go back.
+
+151
+00:09:57,254 --> 00:09:58,884
+A what? A hole?
+
+152
+00:09:59,004 --> 00:10:02,040
+Are you stupid? There's a hole
+in the road. We can't go that way.
+
+153
+00:10:02,200 --> 00:10:05,575
+There's a travel pipe down
+by the airlocks, if you've got stamps.
+
+154
+00:10:05,695 --> 00:10:08,000
+- What are you doing?
+- Don't mind me.
+
+155
+00:10:08,120 --> 00:10:10,093
+Never could resist
+a "keep out" sign.
+
+156
+00:10:10,756 --> 00:10:13,380
+What's through there?
+What's so scary about a hole?
+
+157
+00:10:14,000 --> 00:10:15,520
+Something under the road?
+
+158
+00:10:15,777 --> 00:10:16,932
+Nobody knows.
+
+159
+00:10:17,674 --> 00:10:21,032
+- We're not supposed to talk about it.
+- About what?
+
+160
+00:10:22,554 --> 00:10:23,280
+Below.
+
+161
+00:10:24,016 --> 00:10:26,242
+And because you're not supposed to,
+you don't?
+
+162
+00:10:26,463 --> 00:10:28,084
+Watch and learn.
+
+163
+00:10:30,698 --> 00:10:33,915
+- You sound Scottish.
+- I am Scottish. What's wrong with that?
+
+164
+00:10:34,035 --> 00:10:35,790
+Scotland's got to be here somewhere.
+
+165
+00:10:35,910 --> 00:10:36,621
+No.
+
+166
+00:10:37,004 --> 00:10:38,443
+They wanted their own ship.
+
+167
+00:10:39,468 --> 00:10:41,640
+Good for them. Nothing changes.
+
+168
+00:10:43,284 --> 00:10:44,667
+How did you get here?
+
+169
+00:10:44,787 --> 00:10:46,960
+Just passing through, you know,
+with a guy.
+
+170
+00:10:47,155 --> 00:10:48,280
+Your boyfriend?
+
+171
+00:10:52,150 --> 00:10:52,949
+What?
+
+172
+00:10:53,756 --> 00:10:55,306
+Nothing. It's just...
+
+173
+00:10:55,426 --> 00:10:57,475
+I'm getting married.
+Funny how things slip your mind.
+
+174
+00:10:57,595 --> 00:10:59,480
+- Married?
+- Yeah, shut up, married.
+
+175
+00:11:00,212 --> 00:11:01,960
+Really, actually married.
+
+176
+00:11:02,419 --> 00:11:04,459
+- Almost definitely.
+- When?
+
+177
+00:11:05,220 --> 00:11:06,937
+Well, it's kind of weird.
+
+178
+00:11:07,057 --> 00:11:08,878
+A long time ago, tomorrow morning.
+
+179
+00:11:10,524 --> 00:11:12,024
+I wonder what I did.
+
+180
+00:11:15,080 --> 00:11:15,927
+Result!
+
+181
+00:11:16,047 --> 00:11:17,440
+- Coming?
+- No.
+
+182
+00:11:17,754 --> 00:11:19,040
+Suit yourself.
+
+183
+00:11:20,617 --> 00:11:22,480
+Stop! You mustn't do that!
+
+184
+00:11:48,683 --> 00:11:49,683
+My God.
+
+185
+00:11:53,500 --> 00:11:55,056
+That's weird. That's...
+
+186
+00:12:29,163 --> 00:12:30,044
+Can't be.
+
+187
+00:12:45,738 --> 00:12:47,238
+The impossible truth
+
+188
+00:12:47,559 --> 00:12:48,774
+in a glass of water.
+
+189
+00:12:49,597 --> 00:12:51,143
+Not many people see it.
+
+190
+00:12:53,132 --> 00:12:55,619
+But you do, don't you, Doctor?
+
+191
+00:12:57,432 --> 00:12:59,670
+- You know me?
+- Keep your voice down.
+
+192
+00:13:00,360 --> 00:13:02,000
+They're everywhere.
+
+193
+00:13:03,358 --> 00:13:06,155
+- Tell me what you see in the glass.
+- Who says I see anything?
+
+194
+00:13:06,543 --> 00:13:09,144
+Don't waste time.
+At the marketplace,
+
+195
+00:13:09,316 --> 00:13:12,118
+you placed a glass of water
+on the floor, looked at it,
+
+196
+00:13:12,238 --> 00:13:15,011
+then came straight here
+to the engine room. Why?
+
+197
+00:13:16,901 --> 00:13:19,412
+No engine vibration on deck.
+Ship this size, engine this big,
+
+198
+00:13:19,532 --> 00:13:21,984
+you'd feel it. The water would move.
+
+199
+00:13:23,576 --> 00:13:25,100
+I thought I'd take a look.
+
+200
+00:13:26,440 --> 00:13:27,900
+It doesn't make sense.
+
+201
+00:13:28,020 --> 00:13:31,919
+These power couplings,
+they're not connected. Look.
+
+202
+00:13:32,121 --> 00:13:33,320
+They're dummies, see?
+
+203
+00:13:35,120 --> 00:13:37,217
+And behind this wall, nothing.
+It's hollow.
+
+204
+00:13:37,337 --> 00:13:38,775
+If I didn't know better, I'd say
+there was...
+
+205
+00:13:38,895 --> 00:13:39,968
+No engine at all.
+
+206
+00:13:41,606 --> 00:13:44,120
+But it's working. This ship is
+traveling though space. I saw it.
+
+207
+00:13:44,280 --> 00:13:45,813
+The impossible truth, Doctor.
+
+208
+00:13:45,933 --> 00:13:49,750
+We're traveling among the stars
+in a spaceship that could never fly.
+
+209
+00:13:49,870 --> 00:13:51,692
+- How?
+- I don't know.
+
+210
+00:13:52,055 --> 00:13:54,092
+There's a darkness at the heart
+of this nation.
+
+211
+00:13:54,212 --> 00:13:55,983
+It threatens every one of us.
+
+212
+00:13:57,390 --> 00:13:58,690
+Help us, Doctor.
+
+213
+00:13:59,251 --> 00:14:00,801
+You're our only hope.
+
+214
+00:14:02,788 --> 00:14:05,999
+Your friend is safe. This will
+take you to her. Now go, quickly!
+
+215
+00:14:08,603 --> 00:14:09,567
+Who are you?
+
+216
+00:14:10,720 --> 00:14:11,999
+How do I find you again?
+
+217
+00:14:13,350 --> 00:14:16,853
+I am Liz 10. And I will find you.
+
+218
+00:14:44,793 --> 00:14:46,760
+<i>Welcome to voting cubicle</i>
+
+219
+00:14:46,920 --> 00:14:47,752
+<i>330C.</i>
+
+220
+00:14:48,588 --> 00:14:50,200
+<i>Please leave this installation</i>
+
+221
+00:14:50,360 --> 00:14:52,104
+<i>as you would wish to find it.</i>
+
+222
+00:14:52,619 --> 00:14:55,080
+<i>The United Kingdom
+recognizes the right</i>
+
+223
+00:14:55,240 --> 00:14:56,931
+<i>to know of all its citizens.</i>
+
+224
+00:14:57,553 --> 00:15:00,681
+<i>A presentation concerning
+the history of Starship UK</i>
+
+225
+00:15:00,801 --> 00:15:02,392
+<i>will begin shortly.</i>
+
+226
+00:15:02,992 --> 00:15:06,360
+<i>Your identity is being verified
+on our electoral roll.</i>
+
+227
+00:15:10,400 --> 00:15:12,582
+<i>Name: Amelia Jessica Pond.</i>
+
+228
+00:15:15,560 --> 00:15:16,321
+<i>Age:</i>
+
+229
+00:15:17,094 --> 00:15:18,137
+<i>1,306.</i>
+
+230
+00:15:18,910 --> 00:15:19,895
+Shut up!
+
+231
+00:15:24,280 --> 00:15:25,473
+<i>Marital status...</i>
+
+232
+00:15:29,336 --> 00:15:30,356
+<i>Unknown.</i>
+
+233
+00:15:34,000 --> 00:15:35,289
+<i>You are here</i>
+
+234
+00:15:35,677 --> 00:15:38,480
+<i>because you want to know
+the truth about this starship,</i>
+
+235
+00:15:39,822 --> 00:15:43,150
+<i>and I am talking to you because
+you're entitled to know.</i>
+
+236
+00:15:44,662 --> 00:15:46,947
+<i>When this presentation has finished,</i>
+
+237
+00:15:48,101 --> 00:15:49,484
+<i>you will have a choice.</i>
+
+238
+00:15:50,995 --> 00:15:52,811
+<i>You may either protest...</i>
+
+239
+00:15:53,362 --> 00:15:54,240
+<i>or forget.</i>
+
+240
+00:15:57,616 --> 00:15:59,560
+<i>If you choose to protest,</i>
+
+241
+00:15:59,720 --> 00:16:00,955
+<i>understand this.</i>
+
+242
+00:16:01,876 --> 00:16:02,720
+<i>If just</i>
+
+243
+00:16:02,880 --> 00:16:06,130
+<i>1% of the population
+of this ship do likewise,</i>
+
+244
+00:16:07,407 --> 00:16:09,481
+<i>the programme will be discontinued,</i>
+
+245
+00:16:09,763 --> 00:16:12,247
+<i>with consequences for you all.</i>
+
+246
+00:16:14,087 --> 00:16:18,040
+<i>If you choose to accept the situation,
+and we hope that you will,</i>
+
+247
+00:16:18,774 --> 00:16:20,960
+<i>then press the "forget" button.</i>
+
+248
+00:16:22,242 --> 00:16:23,720
+<i>All the information I am about</i>
+
+249
+00:16:23,880 --> 00:16:26,684
+<i>to give you will be erased
+from your memory.</i>
+
+250
+00:16:27,821 --> 00:16:31,320
+<i>You will continue to enjoy the safety
+and amenities of Starship</i>
+
+251
+00:16:31,480 --> 00:16:34,920
+<i>UK, unburdened by the knowledge
+of what has been</i>
+
+252
+00:16:35,080 --> 00:16:36,341
+<i>done to save you.</i>
+
+253
+00:16:37,882 --> 00:16:41,280
+<i>Here, then,
+is the truth about Starship UK,</i>
+
+254
+00:16:41,843 --> 00:16:45,640
+<i>and the price that has been paid
+for the safety of the British people.</i>
+
+255
+00:16:47,409 --> 00:16:50,022
+<i>May God have mercy on our souls.</i>
+
+256
+00:17:10,040 --> 00:17:12,080
+MESSAGE EN ATTENTE.
+
+257
+00:17:13,800 --> 00:17:15,720
+<i>This isn't a trick.
+You've got to find</i>
+
+258
+00:17:15,880 --> 00:17:17,999
+<i>the Doctor and get him back
+to the TARDIS.</i>
+
+259
+00:17:18,159 --> 00:17:21,103
+<i>Don't let him investigate.
+Stop him. Do whatever you have to.</i>
+
+260
+00:17:21,223 --> 00:17:24,044
+<i>Just please,
+please get the Doctor off this ship!</i>
+
+261
+00:17:34,471 --> 00:17:35,807
+What have you done?
+
+262
+00:17:44,101 --> 00:17:45,680
+Yeah, your basic memory wipe job.
+
+263
+00:17:45,840 --> 00:17:48,882
+- Must have erased about 20 minutes.
+- But why would I choose to forget?
+
+264
+00:17:49,002 --> 00:17:50,400
+Cos everyone does.
+
+265
+00:17:50,722 --> 00:17:52,843
+Everyone chooses
+the "forget" button.
+
+266
+00:17:54,009 --> 00:17:54,920
+Did you?
+
+267
+00:17:55,520 --> 00:17:57,706
+I'm not eligible to vote yet.
+
+268
+00:17:57,826 --> 00:17:58,678
+I'm 12.
+
+269
+00:17:59,299 --> 00:18:02,320
+Any time after you're 16,
+you're allowed to the see the film and
+
+270
+00:18:02,771 --> 00:18:05,760
+make your choice.
+And then, once every five years...
+
+271
+00:18:06,017 --> 00:18:09,357
+And once every five years, everyone
+chooses to forget what they've learned.
+
+272
+00:18:09,767 --> 00:18:11,325
+Democracy in action.
+
+273
+00:18:13,016 --> 00:18:14,680
+How do you not know about this?
+
+274
+00:18:14,840 --> 00:18:17,531
+- Are you Scottish too?
+- I'm way worse than Scottish.
+
+275
+00:18:17,651 --> 00:18:19,520
+I can't even see the movie.
+Won't play for me.
+
+276
+00:18:20,321 --> 00:18:21,373
+It played for me.
+
+277
+00:18:21,493 --> 00:18:23,840
+The difference being
+the computer doesn't accept me as human.
+
+278
+00:18:24,282 --> 00:18:25,120
+Why not?
+
+279
+00:18:28,067 --> 00:18:29,280
+You look human.
+
+280
+00:18:29,639 --> 00:18:30,389
+No,
+
+281
+00:18:30,612 --> 00:18:31,971
+you look Time Lord.
+
+282
+00:18:32,252 --> 00:18:34,800
+- We came first.
+- So there are other Time Lords?
+
+283
+00:18:39,377 --> 00:18:41,100
+There were, but there aren't...
+
+284
+00:18:41,580 --> 00:18:42,705
+Just me now.
+
+285
+00:18:44,960 --> 00:18:47,357
+Long story. There was a bad day.
+Bad stuff happened,
+
+286
+00:18:47,477 --> 00:18:50,763
+and you know what? I'd love to forget it
+all, every last bit of it, but I don't.
+
+287
+00:18:50,883 --> 00:18:51,760
+Not ever.
+
+288
+00:18:53,609 --> 00:18:55,720
+Cos this is what I do,
+every time, every day,
+
+289
+00:18:56,199 --> 00:18:57,394
+every second.
+
+290
+00:18:57,898 --> 00:18:58,695
+This.
+
+291
+00:18:59,304 --> 00:19:00,324
+Hold tight.
+
+292
+00:19:01,367 --> 00:19:03,370
+We're bringing down the government.
+
+293
+00:19:15,641 --> 00:19:17,927
+Say, "Wheee!"
+
+294
+00:19:26,278 --> 00:19:27,978
+It's all right, love.
+
+295
+00:19:28,920 --> 00:19:30,075
+It's only me.
+
+296
+00:19:41,143 --> 00:19:42,400
+High-speed air cannon.
+
+297
+00:19:42,877 --> 00:19:44,280
+Lousy way to travel.
+
+298
+00:19:44,440 --> 00:19:46,680
+- Where are we?
+- 600 feet down,
+
+299
+00:19:46,840 --> 00:19:49,861
+20 miles laterally, puts us
+at the heart of the ship. I'd say...
+
+300
+00:19:50,297 --> 00:19:52,000
+Lancashire.
+What's this
+
+301
+00:19:52,160 --> 00:19:53,800
+then a cave? Can't be a cave. Looks
+
+302
+00:19:53,960 --> 00:19:55,640
+- like a cave.
+- It's a rubbish dump,
+
+303
+00:19:55,800 --> 00:19:58,000
+- and it's minging!
+- Yes, but
+
+304
+00:19:58,160 --> 00:19:59,707
+only food refuse.
+
+305
+00:20:00,316 --> 00:20:03,223
+Organic, coming through feeder tubes
+from all over the ship.
+
+306
+00:20:04,031 --> 00:20:06,188
+The floor's all squidgy,
+like a water bed.
+
+307
+00:20:06,308 --> 00:20:08,285
+But feeding what, though?
+
+308
+00:20:08,510 --> 00:20:11,089
+It's sort of rubbery, feel it.
+Wet and slimy.
+
+309
+00:20:15,764 --> 00:20:17,616
+It's not a floor, it's a...
+
+310
+00:20:19,132 --> 00:20:20,328
+It's a what?
+
+311
+00:20:20,808 --> 00:20:23,200
+The next word is kind of the scary word.
+Take a moment.
+
+312
+00:20:23,360 --> 00:20:25,774
+Get yourself in a calm place.
+Go "omm".
+
+313
+00:20:28,212 --> 00:20:30,344
+It's a tongue.
+
+314
+00:20:31,235 --> 00:20:33,684
+- A tongue?
+- A tongue. A great big tongue.
+
+315
+00:20:33,804 --> 00:20:34,920
+This is a mouth?
+
+316
+00:20:36,415 --> 00:20:37,440
+This whole place
+
+317
+00:20:37,938 --> 00:20:38,899
+is a mouth?
+
+318
+00:20:39,320 --> 00:20:40,680
+- We're in a mouth?
+- Yes.
+
+319
+00:20:40,840 --> 00:20:42,400
+But on the plus side, roomy.
+
+320
+00:20:42,686 --> 00:20:43,940
+How do we get out?
+
+321
+00:20:44,060 --> 00:20:46,331
+How big is this beastie?
+It's gorgeous!
+
+322
+00:20:46,578 --> 00:20:49,200
+Blimey! If this is just the mouth,
+I'd love to see the stomach.
+
+323
+00:20:51,114 --> 00:20:53,353
+- Though not right now.
+- Doctor, how do we get out?
+
+324
+00:20:53,760 --> 00:20:56,646
+It's being fed through surgically
+implanted feeder tubes, so
+
+325
+00:20:57,000 --> 00:20:59,083
+the normal entrance is...
+
+326
+00:21:01,917 --> 00:21:03,570
+... closed for business.
+
+327
+00:21:07,472 --> 00:21:09,720
+- We can try, though.
+- No! Stop, don't move!
+
+328
+00:21:09,880 --> 00:21:11,727
+- Too late. It's started.
+- What has?
+
+329
+00:21:11,847 --> 00:21:12,920
+Swallow reflex.
+
+330
+00:21:14,960 --> 00:21:17,240
+- What you doing?
+- I'm vibrating the chemo-receptors.
+
+331
+00:21:17,400 --> 00:21:18,572
+Chemo-what?
+
+332
+00:21:19,560 --> 00:21:20,670
+The eject button.
+
+333
+00:21:20,790 --> 00:21:23,680
+- How does a mouth have an eject button?
+- Think about it!
+
+334
+00:21:31,360 --> 00:21:32,432
+Right, then.
+
+335
+00:21:32,666 --> 00:21:35,360
+This isn't going to be big
+on dignity.
+
+336
+00:21:47,160 --> 00:21:49,492
+There's nothing broken,
+there's no sign of concussion
+
+337
+00:21:49,612 --> 00:21:51,305
+and yes, you are covered in sick.
+
+338
+00:21:52,231 --> 00:21:54,480
+- Where are we?
+- Overspill pipe, at a guess.
+
+339
+00:21:56,626 --> 00:21:59,160
+- Oh, God, it stinks.
+- That's not the pipe.
+
+340
+00:22:03,988 --> 00:22:05,000
+Can we get out?
+
+341
+00:22:05,160 --> 00:22:07,760
+One door, one door switch,
+one condition.
+
+342
+00:22:07,920 --> 00:22:09,920
+We forget everything we saw.
+
+343
+00:22:10,435 --> 00:22:11,593
+Look familiar?
+
+344
+00:22:13,448 --> 00:22:14,720
+That's the carrot.
+
+345
+00:22:15,960 --> 00:22:17,200
+Here's the stick.
+
+346
+00:22:17,791 --> 00:22:20,760
+There's a creature living in the heart
+of this ship. What's it doing there?
+
+347
+00:22:22,702 --> 00:22:24,931
+No, that's not going to work on me,
+so come on.
+
+348
+00:22:25,051 --> 00:22:26,392
+Big old beast below decks,
+
+349
+00:22:26,512 --> 00:22:29,400
+and everyone who protests gets shoved
+down its throat. That how it works?
+
+350
+00:22:32,378 --> 00:22:35,004
+Stop it. I'm not leaving
+and I'm not forgetting
+
+351
+00:22:35,124 --> 00:22:38,291
+and what are you fellows going to do
+about it? Stick out your tongues?
+
+352
+00:22:42,290 --> 00:22:43,160
+Doctor?
+
+353
+00:22:55,644 --> 00:22:56,876
+Look who it is.
+
+354
+00:22:57,607 --> 00:22:59,487
+You look a lot better
+without your mask.
+
+355
+00:23:00,555 --> 00:23:01,987
+You must be Amy. Liz.
+
+356
+00:23:02,107 --> 00:23:03,640
+Liz 10.
+
+357
+00:23:03,800 --> 00:23:04,800
+Hi!
+
+358
+00:23:06,591 --> 00:23:08,640
+Lovely hair, Amy.
+Shame about the sick.
+
+359
+00:23:09,639 --> 00:23:10,846
+You know Mandy?
+
+360
+00:23:11,440 --> 00:23:14,266
+- She's very brave.
+- How did you find us?
+
+361
+00:23:15,080 --> 00:23:16,451
+Stuck my gizmo on you.
+
+362
+00:23:16,960 --> 00:23:19,480
+Been listening in.
+Nice moves on the hurl escape.
+
+363
+00:23:20,122 --> 00:23:22,275
+So, what's the big fella doing here?
+
+364
+00:23:22,800 --> 00:23:24,254
+You're over 16, you've voted.
+
+365
+00:23:24,765 --> 00:23:26,880
+Whatever this is, you've chosen
+to forget about it.
+
+366
+00:23:27,080 --> 00:23:30,160
+No. Never forgot, never voted.
+Not technically a British subject.
+
+367
+00:23:30,320 --> 00:23:33,360
+Then who and what are you,
+and how do you know me?
+
+368
+00:23:34,086 --> 00:23:37,005
+You're a bit hard to miss, love.
+Mysterious stranger,
+
+369
+00:23:37,786 --> 00:23:41,052
+MO consistent with higher alien
+intelligence, hair of an idiot...
+
+370
+00:23:42,443 --> 00:23:44,459
+I've been brought up on the stories.
+
+371
+00:23:45,406 --> 00:23:46,589
+My whole family was.
+
+372
+00:23:46,709 --> 00:23:47,809
+Your family?
+
+373
+00:23:49,385 --> 00:23:51,912
+They're repairing. Doesn't take them
+long. Let's move.
+
+374
+00:23:56,520 --> 00:23:59,427
+The Doctor.
+Old drinking buddy of Henry XII.
+
+375
+00:23:59,547 --> 00:24:02,939
+Tea and scones with Liz II. Vicky was a
+bit on the fence about you, weren't she?
+
+376
+00:24:03,059 --> 00:24:05,784
+Knighted and exiled you
+on the same day.
+
+377
+00:24:06,008 --> 00:24:09,720
+And so much for the Virgin Queen,
+you bad, bad boy!
+
+378
+00:24:09,880 --> 00:24:11,120
+Liz 10?
+
+379
+00:24:11,280 --> 00:24:14,016
+Liz 10, yeah. Elizabeth X. And down!
+
+380
+00:24:22,227 --> 00:24:23,680
+I'm the bloody Queen, mate.
+
+381
+00:24:24,703 --> 00:24:26,272
+Basically, I rule.
+
+382
+00:24:31,964 --> 00:24:34,040
+There's a high-speed Vator
+through there.
+
+383
+00:24:36,131 --> 00:24:38,608
+Oh, yeah. There's these things.
+
+384
+00:24:39,478 --> 00:24:40,480
+Any ideas?
+
+385
+00:24:40,640 --> 00:24:41,988
+I saw one of these up top.
+
+386
+00:24:42,108 --> 00:24:44,320
+There was a hole in the road,
+like it had burst through,
+
+387
+00:24:44,480 --> 00:24:46,180
+- like a root.
+- Exactly like a root.
+
+388
+00:24:46,300 --> 00:24:49,106
+It's all one creature - the same
+one we were inside - reaching out.
+
+389
+00:24:49,226 --> 00:24:52,200
+It must be growing through
+the mechanisms of the entire ship.
+
+390
+00:24:52,665 --> 00:24:54,920
+What? Like an infestation?
+
+391
+00:24:57,589 --> 00:24:59,046
+Someone's helping it.
+
+392
+00:24:59,486 --> 00:25:00,581
+Feeding it.
+
+393
+00:25:01,062 --> 00:25:04,411
+Feeding my subjects to it. Come on.
+We've got to keep moving.
+
+394
+00:25:08,560 --> 00:25:09,446
+Doctor?
+
+395
+00:25:09,803 --> 00:25:10,674
+Oh, Amy.
+
+396
+00:25:13,383 --> 00:25:15,275
+We should never have come here.
+
+397
+00:25:18,899 --> 00:25:20,343
+<i>Don't let him investigate.</i>
+
+398
+00:25:20,463 --> 00:25:22,247
+<i>Stop him. Do whatever you have to.</i>
+
+399
+00:25:23,373 --> 00:25:25,638
+<i>Just please, please get the Doctor
+off this ship.</i>
+
+400
+00:25:29,880 --> 00:25:31,519
+Winder division one.
+
+401
+00:25:32,913 --> 00:25:35,539
+Ten has penetrated
+to the lower levels.
+
+402
+00:25:36,403 --> 00:25:38,320
+Initiate the protocol.
+
+403
+00:25:39,540 --> 00:25:41,494
+God save the Queen.
+
+404
+00:25:45,805 --> 00:25:47,280
+Why all the glasses?
+
+405
+00:25:47,684 --> 00:25:50,559
+To remind me every single day that
+my government is up to something,
+
+406
+00:25:51,459 --> 00:25:53,520
+and it's my duty to find out what.
+
+407
+00:25:56,093 --> 00:25:58,720
+A queen going undercover
+to investigate her own kingdom?
+
+408
+00:25:58,880 --> 00:26:01,048
+Secrets are being kept from me.
+
+409
+00:26:01,632 --> 00:26:03,009
+I don't have a choice.
+
+410
+00:26:03,652 --> 00:26:06,240
+Ten years I've been at this,
+my entire reign
+
+411
+00:26:06,784 --> 00:26:09,036
+and you've achieved more
+in one afternoon.
+
+412
+00:26:10,348 --> 00:26:12,501
+How old were you
+when you came to the throne?
+
+413
+00:26:14,000 --> 00:26:15,480
+40. Why?
+
+414
+00:26:16,563 --> 00:26:17,800
+What, you're 50 now?
+
+415
+00:26:18,309 --> 00:26:19,317
+No way!
+
+416
+00:26:20,562 --> 00:26:22,000
+They slowed my body clock.
+
+417
+00:26:22,160 --> 00:26:23,680
+Keeps me looking like the stamps.
+
+418
+00:26:23,840 --> 00:26:27,120
+- And you always wear this in public?
+- Undercover is not easy when you're me.
+
+419
+00:26:27,465 --> 00:26:29,519
+The autographs, the bunting.
+
+420
+00:26:30,239 --> 00:26:31,708
+Air-balanced porcelain.
+
+421
+00:26:32,679 --> 00:26:35,400
+Stays on by itself,
+cos it's perfectly
+
+422
+00:26:35,560 --> 00:26:37,880
+sculpted to your face.
+
+423
+00:26:39,514 --> 00:26:40,520
+So what?
+
+424
+00:26:40,680 --> 00:26:41,741
+Oh, Liz.
+
+425
+00:26:42,312 --> 00:26:43,495
+So everything.
+
+426
+00:26:47,246 --> 00:26:48,560
+What are you doing?
+
+427
+00:26:49,344 --> 00:26:50,989
+How dare you come in here?
+
+428
+00:26:51,109 --> 00:26:52,400
+Ma'am,
+
+429
+00:26:52,560 --> 00:26:55,480
+you have expressed interest in
+the interior workings of Starship UK.
+
+430
+00:26:56,150 --> 00:26:57,800
+You will come with us now.
+
+431
+00:26:58,590 --> 00:26:59,841
+Why would I do that?
+
+432
+00:27:05,372 --> 00:27:07,040
+How can they be Smilers?
+
+433
+00:27:07,774 --> 00:27:09,487
+Half Smiler, half human.
+
+434
+00:27:10,241 --> 00:27:12,171
+Whatever you creatures are,
+
+435
+00:27:12,598 --> 00:27:14,000
+I am still your queen.
+
+436
+00:27:15,400 --> 00:27:17,120
+On whose authority is this done?
+
+437
+00:27:17,280 --> 00:27:18,640
+The highest authority, Ma'am.
+
+438
+00:27:18,800 --> 00:27:21,000
+- I AM the highest authority.
+- Yes, ma'am.
+
+439
+00:27:21,160 --> 00:27:24,068
+- You must go now, Ma'am.
+- Where?
+
+440
+00:27:24,188 --> 00:27:25,486
+The tower, Ma'am.
+
+441
+00:27:38,520 --> 00:27:39,972
+Doctor, where are we?
+
+442
+00:27:41,000 --> 00:27:43,344
+The lowest point of Starship UK.
+
+443
+00:27:43,811 --> 00:27:45,704
+The dungeon. Ma'am.
+
+444
+00:27:46,998 --> 00:27:47,998
+Hawthorne!
+
+445
+00:27:48,760 --> 00:27:51,020
+So this is
+where you hid yourself away.
+
+446
+00:27:52,440 --> 00:27:55,080
+You've got some explaining to do.
+There's children down here.
+
+447
+00:27:55,240 --> 00:27:56,571
+What's all that about?
+
+448
+00:27:56,871 --> 00:28:00,665
+Protesters and citizens of
+limited value are fed to the beast.
+
+449
+00:28:00,952 --> 00:28:03,180
+For some reason,
+it won't eat the children.
+
+450
+00:28:03,541 --> 00:28:06,554
+You're the first adults it's spared.
+You're very lucky.
+
+451
+00:28:06,964 --> 00:28:09,919
+Yeah, look at us. Torture chamber
+of the Tower of London.
+
+452
+00:28:10,039 --> 00:28:11,053
+Lucky.
+
+453
+00:28:11,173 --> 00:28:13,884
+Except it's not
+a torture chamber, is it?
+
+454
+00:28:14,004 --> 00:28:15,240
+Well, except it is.
+
+455
+00:28:15,400 --> 00:28:17,056
+Except it isn't.
+
+456
+00:28:17,441 --> 00:28:18,840
+Depends on your angle.
+
+457
+00:28:21,346 --> 00:28:22,446
+What's that?
+
+458
+00:28:23,095 --> 00:28:25,319
+Well, like I say,
+depends on the angle.
+
+459
+00:28:25,439 --> 00:28:29,121
+It's either the exposed pain center of big
+fella's brain, being tortured relentlessly.
+
+460
+00:28:29,241 --> 00:28:30,800
+Or it's the gas pedal.
+
+461
+00:28:30,960 --> 00:28:33,640
+The accelerator,
+Starship UK's go-faster button.
+
+462
+00:28:34,045 --> 00:28:35,880
+- I don't understand.
+- Don't you? Try.
+
+463
+00:28:36,040 --> 00:28:36,874
+Go on.
+
+464
+00:28:37,276 --> 00:28:40,328
+The spaceship that could never fly,
+no vibration on deck.
+
+465
+00:28:40,448 --> 00:28:43,792
+This creature. This poor,
+trapped, terrified creature.
+
+466
+00:28:43,912 --> 00:28:45,480
+It's not infesting you,
+
+467
+00:28:45,640 --> 00:28:47,560
+it's not invading, it's...
+
+468
+00:28:47,720 --> 00:28:49,789
+what you have instead of an engine.
+
+469
+00:28:50,295 --> 00:28:52,538
+And this place down here
+is where you hurt it,
+
+470
+00:28:52,658 --> 00:28:55,320
+where you torture it, day after day,
+just to keep it moving.
+
+471
+00:29:02,894 --> 00:29:04,094
+Tell you what.
+
+472
+00:29:05,299 --> 00:29:07,635
+Normally, it's above
+the range of human hearing.
+
+473
+00:29:12,888 --> 00:29:15,109
+This is the sound
+none of you wanted to hear.
+
+474
+00:29:25,391 --> 00:29:26,254
+Stop it.
+
+475
+00:29:38,092 --> 00:29:39,162
+Who did this?
+
+476
+00:29:39,726 --> 00:29:42,889
+We act on instructions
+from the highest authority.
+
+477
+00:29:43,684 --> 00:29:45,680
+I am the highest authority.
+
+478
+00:29:47,991 --> 00:29:49,675
+The creature will be released.
+
+479
+00:29:49,795 --> 00:29:50,557
+Now.
+
+480
+00:29:52,467 --> 00:29:53,698
+I said now!
+
+481
+00:29:55,239 --> 00:29:57,080
+- Is anyone listening to me?
+- Liz.
+
+482
+00:29:59,577 --> 00:30:00,520
+Your mask.
+
+483
+00:30:01,166 --> 00:30:02,120
+What about it?
+
+484
+00:30:03,654 --> 00:30:04,699
+Look at it.
+
+485
+00:30:05,160 --> 00:30:06,052
+It's old.
+
+486
+00:30:06,650 --> 00:30:08,560
+At least 200 years old, I'd say.
+
+487
+00:30:09,158 --> 00:30:11,005
+Yeah, it's an antique, so?
+
+488
+00:30:11,292 --> 00:30:14,235
+Yeah, an antique made
+by a craftsmen over 200 years ago
+
+489
+00:30:14,355 --> 00:30:16,320
+and perfectly sculpted to your face.
+
+490
+00:30:17,238 --> 00:30:19,942
+They slowed your body clock,
+all right, but you're not 50.
+
+491
+00:30:21,668 --> 00:30:23,279
+Nearer 300.
+
+492
+00:30:25,033 --> 00:30:26,828
+And it's been a long old reign.
+
+493
+00:30:28,450 --> 00:30:29,830
+Nah, it's ten years.
+
+494
+00:30:30,981 --> 00:30:32,840
+I've been on this throne ten years.
+
+495
+00:30:33,331 --> 00:30:34,274
+Ten years.
+
+496
+00:30:34,689 --> 00:30:36,610
+And the same ten years
+over and over again,
+
+497
+00:30:36,730 --> 00:30:37,710
+always...
+
+498
+00:30:37,940 --> 00:30:40,520
+always leading you... here.
+
+499
+00:30:52,039 --> 00:30:53,280
+What have you done?
+
+500
+00:30:53,915 --> 00:30:55,765
+Only what you have ordered.
+
+501
+00:30:56,561 --> 00:30:58,320
+We work for you, Ma'am.
+
+502
+00:30:58,661 --> 00:31:00,800
+The Winders, the Smilers,
+
+503
+00:31:01,473 --> 00:31:02,428
+all of us.
+
+504
+00:31:03,359 --> 00:31:05,080
+<i>If you are watching this...</i>
+
+505
+00:31:05,810 --> 00:31:07,870
+<i>If I am watching this,</i>
+
+506
+00:31:07,990 --> 00:31:10,990
+<i>then I have found my way
+to the Tower Of London.</i>
+
+507
+00:31:12,987 --> 00:31:14,640
+<i>The creature you are looking at</i>
+
+508
+00:31:15,080 --> 00:31:16,780
+<i>is called a Star Whale.</i>
+
+509
+00:31:18,185 --> 00:31:19,993
+<i>Once, there were millions of them.</i>
+
+510
+00:31:20,113 --> 00:31:24,028
+<i>They lived in the depths of space and,
+according to legend,</i>
+
+511
+00:31:24,388 --> 00:31:28,200
+<i>guided the early space travelers
+through the asteroid belts.</i>
+
+512
+00:31:28,860 --> 00:31:29,981
+<i>This one,</i>
+
+513
+00:31:30,379 --> 00:31:32,034
+<i>as far as we are aware,</i>
+
+514
+00:31:32,846 --> 00:31:34,440
+<i>is the last of its kind.</i>
+
+515
+00:31:36,461 --> 00:31:37,840
+<i>And what we have done to it</i>
+
+516
+00:31:38,797 --> 00:31:40,084
+<i>breaks my heart.</i>
+
+517
+00:31:42,007 --> 00:31:43,503
+<i>The Earth was burning.</i>
+
+518
+00:31:44,269 --> 00:31:47,143
+<i>Our sun had turned on us,
+and every other nation</i>
+
+519
+00:31:47,263 --> 00:31:48,740
+<i>had fled to the skies.</i>
+
+520
+00:31:49,453 --> 00:31:51,202
+<i>Our children screamed</i>
+
+521
+00:31:51,743 --> 00:31:53,396
+<i>as the skies grew hotter.</i>
+
+522
+00:31:54,000 --> 00:31:55,260
+<i>And then it came,</i>
+
+523
+00:31:56,434 --> 00:31:57,684
+<i>like a miracle.</i>
+
+524
+00:31:58,763 --> 00:32:00,520
+<i>The last of the star whales.</i>
+
+525
+00:32:01,719 --> 00:32:02,969
+<i>We trapped it.</i>
+
+526
+00:32:03,293 --> 00:32:05,053
+<i>We built our ship around it,</i>
+
+527
+00:32:05,629 --> 00:32:07,651
+<i>and we rode on its back to safety.</i>
+
+528
+00:32:09,561 --> 00:32:11,623
+<i>If you wish our voyage to continue,</i>
+
+529
+00:32:12,785 --> 00:32:15,096
+<i>then you must press
+the "forget" button.</i>
+
+530
+00:32:16,523 --> 00:32:19,000
+<i>Be again the heart of this nation,</i>
+
+531
+00:32:20,182 --> 00:32:21,182
+<i>untainted.</i>
+
+532
+00:32:23,031 --> 00:32:23,986
+<i>If not,</i>
+
+533
+00:32:24,757 --> 00:32:26,200
+<i>press the other button.</i>
+
+534
+00:32:27,744 --> 00:32:29,157
+<i>Your reign will end,</i>
+
+535
+00:32:29,320 --> 00:32:31,357
+<i>the Star Whale will be released,</i>
+
+536
+00:32:31,477 --> 00:32:33,467
+<i>and our ship will disintegrate.</i>
+
+537
+00:32:35,348 --> 00:32:38,385
+<i>I hope I keep the strength
+to make the right decision.</i>
+
+538
+00:32:41,031 --> 00:32:42,381
+I voted for this?
+
+539
+00:32:44,349 --> 00:32:45,753
+Why would I do that?
+
+540
+00:32:46,708 --> 00:32:48,365
+Because you knew if we stayed here,
+
+541
+00:32:48,485 --> 00:32:51,003
+I'd be faced with
+an impossible choice.
+
+542
+00:32:52,173 --> 00:32:54,331
+Humanity or the alien.
+
+543
+00:32:55,631 --> 00:32:58,080
+You took it upon yourself
+to save me from that.
+
+544
+00:32:59,564 --> 00:33:01,014
+And that was wrong.
+
+545
+00:33:01,312 --> 00:33:03,203
+You don't ever decide
+what I need to know.
+
+546
+00:33:03,323 --> 00:33:06,440
+- I don't even remember doing it.
+- You did it. That's what counts.
+
+547
+00:33:07,108 --> 00:33:07,924
+I'm...
+
+548
+00:33:08,753 --> 00:33:10,480
+- I'm sorry.
+- Oh, I don't care.
+
+549
+00:33:13,600 --> 00:33:15,814
+When I'm done here,
+you're going home.
+
+550
+00:33:20,002 --> 00:33:20,720
+Why?
+
+551
+00:33:21,613 --> 00:33:22,920
+Because I made a mistake?
+
+552
+00:33:23,580 --> 00:33:26,374
+One mistake?
+I don't even remember doing it.
+
+553
+00:33:26,617 --> 00:33:28,260
+- Doctor!
+- Yeah. I know.
+
+554
+00:33:29,539 --> 00:33:30,960
+You're only human.
+
+555
+00:33:32,245 --> 00:33:33,600
+What are you doing?
+
+556
+00:33:35,627 --> 00:33:37,433
+The worst thing I'll ever do.
+
+557
+00:33:38,414 --> 00:33:42,183
+I'm going to pass a massive electrical
+charge through the Star Whale's brain.
+
+558
+00:33:42,303 --> 00:33:45,320
+It should knock out all its higher
+functions, leave it a vegetable.
+
+559
+00:33:45,635 --> 00:33:47,880
+The ship will still fly,
+but the whale won't feel it.
+
+560
+00:33:48,373 --> 00:33:50,991
+- That'll be like killing it.
+- Look, three options.
+
+561
+00:33:51,111 --> 00:33:51,849
+One,
+
+562
+00:33:51,969 --> 00:33:55,324
+I let the Star Whale continue
+in unendurable agony
+
+563
+00:33:55,444 --> 00:33:56,769
+for hundreds more years.
+
+564
+00:33:56,889 --> 00:33:59,560
+Two, I kill everyone on this ship.
+
+565
+00:34:00,093 --> 00:34:01,814
+Three, I murder a beautiful,
+
+566
+00:34:01,934 --> 00:34:04,484
+innocent creature
+as painlessly as I can.
+
+567
+00:34:05,006 --> 00:34:07,887
+And then I find a new name,
+cos I won't be the Doctor any more.
+
+568
+00:34:08,007 --> 00:34:09,654
+There must be some other way.
+
+569
+00:34:09,774 --> 00:34:12,115
+Nobody talk to me. Nobody human,
+
+570
+00:34:12,235 --> 00:34:14,280
+has anything to say to me today!
+
+571
+00:34:38,271 --> 00:34:39,271
+Timmy!
+
+572
+00:34:40,052 --> 00:34:41,553
+You made it, you're OK!
+
+573
+00:34:42,967 --> 00:34:44,470
+It's me - Mandy.
+
+574
+00:34:58,407 --> 00:35:00,739
+<i>Come on, use your eyes.
+Notice everything.</i>
+
+575
+00:35:00,978 --> 00:35:02,361
+<i>Notice everything.</i>
+
+576
+00:35:02,481 --> 00:35:03,960
+Our children screamed.
+
+577
+00:35:04,440 --> 00:35:07,200
+It came, like a miracle.
+It won't eat the children.
+
+578
+00:35:07,483 --> 00:35:10,640
+Children screamed. Then it came.
+It's the last of its kind.
+
+579
+00:35:10,989 --> 00:35:13,153
+- Just me now.
+- The last of its kind.
+
+580
+00:35:13,273 --> 00:35:16,858
+Is this how it works, Doctor? Never
+interfere with other people or planets.
+
+581
+00:35:17,240 --> 00:35:19,280
+- Children screamed.
+- Unless it's children crying.
+
+582
+00:35:19,440 --> 00:35:21,160
+- The last of its kind.
+- Just me now.
+
+583
+00:35:21,320 --> 00:35:23,520
+- Unless there's children crying.
+- Yes.
+
+584
+00:35:23,967 --> 00:35:26,955
+<i>It won't eat the children.
+Then it came.</i>
+
+585
+00:35:27,494 --> 00:35:28,955
+<i>Like a miracle.</i>
+
+586
+00:35:29,560 --> 00:35:31,808
+<i>The last of the Star Whales.</i>
+
+587
+00:35:36,046 --> 00:35:37,000
+Doctor, stop.
+
+588
+00:35:37,422 --> 00:35:39,672
+Whatever you're doing, stop it now!
+
+589
+00:35:40,040 --> 00:35:42,120
+Sorry, Your Majesty,
+going to need a hand.
+
+590
+00:35:42,280 --> 00:35:43,690
+Amy, no! No!
+
+591
+00:36:01,338 --> 00:36:02,640
+Amy, what have you done?
+
+592
+00:36:03,375 --> 00:36:04,840
+Nothing at all.
+
+593
+00:36:05,230 --> 00:36:06,456
+Am I right?
+
+594
+00:36:06,755 --> 00:36:08,258
+We've increased speed!
+
+595
+00:36:08,378 --> 00:36:10,805
+Yeah, well,
+you've stopped torturing the pilot.
+
+596
+00:36:10,925 --> 00:36:12,120
+Gotta help.
+
+597
+00:36:12,604 --> 00:36:13,880
+It's still here?
+
+598
+00:36:15,813 --> 00:36:17,263
+I don't understand.
+
+599
+00:36:18,007 --> 00:36:20,880
+The Star Whale didn't come like
+a miracle all those years ago.
+
+600
+00:36:21,206 --> 00:36:22,456
+It volunteered.
+
+601
+00:36:22,901 --> 00:36:25,250
+You didn't have to trap it
+or torture it -
+
+602
+00:36:25,517 --> 00:36:27,117
+that was all just you.
+
+603
+00:36:27,400 --> 00:36:30,560
+It came because it couldn't stand
+to watch your children cry.
+
+604
+00:36:32,463 --> 00:36:35,947
+What if you were really old,
+and really kind and alone?
+
+605
+00:36:36,537 --> 00:36:38,947
+Your whole race dead, no future.
+
+606
+00:36:39,513 --> 00:36:41,000
+What couldn't you do then?
+
+607
+00:36:41,571 --> 00:36:43,871
+If you were that old, and that kind,
+
+608
+00:36:45,200 --> 00:36:47,956
+and the very last of your kind...
+
+609
+00:36:49,418 --> 00:36:52,618
+you couldn't just stand there
+and watch children cry.
+
+610
+00:37:14,185 --> 00:37:15,531
+From Her Majesty.
+
+611
+00:37:15,651 --> 00:37:18,901
+She says there will be
+no more secrets on Starship UK.
+
+612
+00:37:24,737 --> 00:37:27,737
+Amy, you could have killed
+everyone on this ship.
+
+613
+00:37:31,633 --> 00:37:33,883
+You could have killed a Star Whale.
+
+614
+00:37:35,829 --> 00:37:37,179
+And you saved it.
+
+615
+00:37:38,299 --> 00:37:39,549
+I know, I know.
+
+616
+00:37:46,984 --> 00:37:48,560
+Amazing, though, don't you think?
+
+617
+00:37:49,769 --> 00:37:51,019
+The Star Whale.
+
+618
+00:37:53,002 --> 00:37:54,920
+All that pain and misery...
+
+619
+00:37:57,889 --> 00:37:59,339
+... and loneliness.
+
+620
+00:38:02,408 --> 00:38:03,900
+And it just made it kind.
+
+621
+00:38:05,236 --> 00:38:07,943
+But you couldn't have known
+ho wit would react. You couldn't.
+
+622
+00:38:08,473 --> 00:38:10,173
+But I've seen it before.
+
+623
+00:38:11,559 --> 00:38:14,646
+Very old and very kind,
+and the very, very last.
+
+624
+00:38:14,885 --> 00:38:16,435
+Sound a bit familiar?
+
+625
+00:38:26,695 --> 00:38:27,720
+What?
+
+626
+00:38:28,353 --> 00:38:29,403
+Gotcha. Ha!
+
+627
+00:38:33,730 --> 00:38:34,730
+Gotcha.
+
+628
+00:38:39,555 --> 00:38:42,021
+Shouldn't we say goodbye?
+Won't they wonder where we went?
+
+629
+00:38:42,141 --> 00:38:45,083
+For the rest of their lives.
+Oh, the songs they'll write!
+
+630
+00:38:45,203 --> 00:38:47,403
+Never mind them. Big day tomorrow.
+
+631
+00:38:48,078 --> 00:38:50,161
+- Sorry, what?
+- It's always a big day tomorrow.
+
+632
+00:38:50,281 --> 00:38:52,936
+We've got a time machine.
+I skip the little ones.
+
+633
+00:38:53,541 --> 00:38:57,025
+You know what I said about
+getting back for tomorrow morning...
+
+634
+00:39:00,840 --> 00:39:04,567
+Have you ever run away from something
+because you were scared, or,
+
+635
+00:39:04,687 --> 00:39:06,755
+or not ready, or just...
+
+636
+00:39:07,258 --> 00:39:09,000
+Just because you could?
+
+637
+00:39:10,058 --> 00:39:11,058
+Once...
+
+638
+00:39:12,053 --> 00:39:13,753
+a long time ago.
+
+639
+00:39:15,080 --> 00:39:16,280
+What happened?
+
+640
+00:39:17,549 --> 00:39:18,549
+Hello!
+
+641
+00:39:21,789 --> 00:39:22,789
+Right.
+
+642
+00:39:23,702 --> 00:39:26,260
+Doctor, there's something
+I haven't told you.
+
+643
+00:39:26,600 --> 00:39:29,000
+No. Hang on,
+is that a phone ringing?
+
+644
+00:39:31,544 --> 00:39:34,096
+- People phone you?
+- Well, it's a phone box.
+
+645
+00:39:34,216 --> 00:39:35,466
+Would you mind?
+
+646
+00:39:42,790 --> 00:39:43,680
+Hello?
+
+647
+00:39:45,282 --> 00:39:46,490
+Sorry, who?
+
+648
+00:39:47,470 --> 00:39:48,560
+No, seriously. Who?
+
+649
+00:39:50,441 --> 00:39:52,982
+Says he's Prime Minister. First
+the Queen, now the Prime Minister.
+
+650
+00:39:53,160 --> 00:39:54,380
+Get about, don't you?
+
+651
+00:39:54,500 --> 00:39:56,050
+Which Prime Minister?
+
+652
+00:39:59,440 --> 00:40:00,990
+Which Prime Minister?
+
+653
+00:40:02,027 --> 00:40:04,480
+- The British one.
+- Which British one?
+
+654
+00:40:05,290 --> 00:40:06,690
+Which British one?
+
+655
+00:40:10,885 --> 00:40:12,356
+Winston Churchill for you.
+
+656
+00:40:12,476 --> 00:40:14,518
+Oh! Hello, dear. What's up?
+
+657
+00:40:15,058 --> 00:40:16,722
+Tricky situation, Doctor.
+
+658
+00:40:16,842 --> 00:40:18,510
+Potentially very dangerous.
+
+659
+00:40:18,630 --> 00:40:20,534
+I think I'm going to need you.
+
+660
+00:40:20,654 --> 00:40:23,520
+Don't worry about a thing,
+Prime Minister. We're on our way.
+
+661
+00:40:29,485 --> 00:40:31,680
+<i>In bed above, we're deep asleep</i>
+
+662
+00:40:32,885 --> 00:40:35,702
+<i>While greater love lies further deep</i>
+
+663
+00:40:35,822 --> 00:40:38,613
+<i>This dream must end.
+This world must know.</i>
+
+664
+00:40:39,131 --> 00:40:41,773
+<i>We all depend on the beast below.</i>
+
+665
+00:40:56,016 --> 00:40:58,880
+- Winston Churchill.
+- Doctor, is it you?
+
+666
+00:40:59,040 --> 00:41:00,300
+Cabinet War Rooms, right?
+
+667
+00:41:00,420 --> 00:41:02,528
+I have something to show you.
+
+668
+00:41:02,720 --> 00:41:04,240
+Our new secret weapon.
+
+669
+00:41:05,894 --> 00:41:08,500
+- This is one of my ironsides.
+- Your what?
+
+670
+00:41:08,620 --> 00:41:10,880
+I am your soldier.
+
+671
+00:41:11,040 --> 00:41:13,640
+- You didn't invent them, they're alien.
+- They'll win me the war.
+
+672
+00:41:13,800 --> 00:41:16,122
+They're up to something,
+but what is it? What are they after?
+
+673
+00:41:16,242 --> 00:41:18,200
+I've defeated you time and again.
+
+674
+00:41:18,360 --> 00:41:20,440
+I've saved the whole of reality
+from you.
+
+675
+00:41:20,600 --> 00:41:23,600
+I am the Doctor,
+and you are the Daleks.
+
+676
+00:41:23,760 --> 00:41:27,520
+Behold the restoration
+of the Daleks.
+

@@ -1,0 +1,2611 @@
+1
+00:00:25,847 --> 00:00:26,859
+Bonjour, Phil.
+
+2
+00:00:27,276 --> 00:00:28,403
+Tom, ça va ?
+
+3
+00:00:29,524 --> 00:00:30,809
+C'est bientôt vendredi.
+
+4
+00:00:30,851 --> 00:00:32,657
+Dure semaine pour les assurances ?
+
+5
+00:00:32,937 --> 00:00:35,585
+- Tu veux que je t'en parle ?
+- Non, merci, Tom.
+
+6
+00:00:52,570 --> 00:00:53,553
+Excusez-moi.
+
+7
+00:00:53,742 --> 00:00:56,431
+- Il y a une boulangerie dans le coin ?
+- Oui, c'est à deux blocs
+
+8
+00:00:56,515 --> 00:00:57,867
+et tournez à gauche.
+
+9
+00:00:59,414 --> 00:01:00,257
+Merci.
+
+10
+00:02:08,416 --> 00:02:09,377
+Mon Dieu.
+
+11
+00:02:11,428 --> 00:02:13,443
+Il courait dans la rue. Je...
+
+12
+00:02:14,651 --> 00:02:15,987
+Quelqu'un a vu ça ?
+
+13
+00:02:16,453 --> 00:02:17,261
+Callen...
+
+14
+00:02:20,991 --> 00:02:22,266
+J'ai pas pu m'arrêter...
+
+15
+00:02:26,299 --> 00:02:27,694
+Appelez une ambulance !
+
+16
+00:02:41,302 --> 00:02:43,998
+.: Team UnderCovers :.
+
+17
+00:02:53,882 --> 00:02:56,368
+NCIS Los Angeles 1x23
+- Burned -
+
+18
+00:03:01,231 --> 00:03:02,768
+Hier soir, j'ai bu un verre là
+
+19
+00:03:02,810 --> 00:03:05,059
+où Macy m'a emmenée
+après ma première fusillade.
+
+20
+00:03:05,430 --> 00:03:08,229
+Je voulais être seule.
+Mais ce mec est arrivé.
+
+21
+00:03:09,065 --> 00:03:12,253
+Séduisant, bien habillé,
+qui la ramène un peu. Tu vois le genre.
+
+22
+00:03:12,522 --> 00:03:13,568
+Trop bien.
+
+23
+00:03:13,835 --> 00:03:15,403
+Devine comment il a commencé.
+
+24
+00:03:16,882 --> 00:03:19,155
+"Salut. Je m'appelle monsieur
+
+25
+00:03:19,197 --> 00:03:22,201
+"Je-sais-pas-ce-que-je-fais-là.
+Je peux te payer un verre ?"
+
+26
+00:03:22,285 --> 00:03:24,579
+Tu vois. Ça, ça aurait été bien.
+
+27
+00:03:25,152 --> 00:03:26,455
+Mais il a pas dit ça.
+
+28
+00:03:27,678 --> 00:03:28,615
+"Salut.
+
+29
+00:03:29,330 --> 00:03:30,854
+"J'ai remarqué vos bottes.
+
+30
+00:03:31,167 --> 00:03:34,511
+"Seule une fille au style unique
+peut porter ces trucs."
+
+31
+00:03:35,703 --> 00:03:36,945
+"Style unique" ?
+
+32
+00:03:37,109 --> 00:03:39,427
+Comme bizarre ? Moche ?
+
+33
+00:03:39,664 --> 00:03:42,723
+- Les bottes étaient normales.
+- Les bottes ne comptent pas.
+
+34
+00:03:42,863 --> 00:03:44,398
+Il jouait avec toi.
+
+35
+00:03:44,867 --> 00:03:45,781
+Quoi ?
+
+36
+00:03:46,250 --> 00:03:47,164
+Le jeu.
+
+37
+00:03:47,586 --> 00:03:49,074
+L'art de la séduction.
+
+38
+00:03:49,373 --> 00:03:51,939
+Il a offert de te payer un verre,
+il voulait te plaire,
+
+39
+00:03:52,023 --> 00:03:54,518
+- il a renversé les rôles.
+- Me mettant sur la défensive.
+
+40
+00:03:54,560 --> 00:03:56,903
+En fait, il voulait se plaire
+au niveau subconscient.
+
+41
+00:03:57,276 --> 00:03:58,404
+C'est le jeu.
+
+42
+00:03:58,626 --> 00:04:00,197
+Ce truc ne marche pas sur moi.
+
+43
+00:04:00,408 --> 00:04:02,247
+Au moins, tu ne lui as pas donné
+ton numéro.
+
+44
+00:04:04,473 --> 00:04:05,306
+Non ?
+
+45
+00:04:11,017 --> 00:04:11,967
+Bon sang.
+
+46
+00:04:13,174 --> 00:04:14,670
+Tu as vu Callen aujourd'hui ?
+
+47
+00:04:18,788 --> 00:04:19,922
+ENVOI EN COURS
+
+48
+00:04:46,244 --> 00:04:47,635
+Ce mec t'a payé un verre ?
+
+49
+00:04:48,912 --> 00:04:50,873
+Il m'a laissée lui payer un verre,
+a-t-il dit.
+
+50
+00:04:51,615 --> 00:04:52,416
+Le jeu.
+
+51
+00:04:53,070 --> 00:04:55,628
+Il regardait son téléphone
+comme s'il avait mieux à faire.
+
+52
+00:04:56,025 --> 00:04:57,630
+- Le jeu.
+- Il espérait un baiser
+
+53
+00:04:57,923 --> 00:04:59,465
+après juste 15 minutes.
+
+54
+00:04:59,787 --> 00:05:01,248
+Définitivement le jeu.
+
+55
+00:05:01,551 --> 00:05:03,269
+Au moins, tu l'as pas laissé faire.
+
+56
+00:05:04,298 --> 00:05:05,505
+- Hein ?
+- Non.
+
+57
+00:05:10,866 --> 00:05:13,354
+Qui a appris à M. Beal
+à faire ça selon vous ?
+
+58
+00:05:14,851 --> 00:05:17,608
+- Quoi de neuf, Hetty ?
+- L'agent Callen a des ennuis.
+
+59
+00:05:18,120 --> 00:05:19,360
+Il a déclenché
+
+60
+00:05:19,444 --> 00:05:21,612
+le protocole Beauregard par message.
+
+61
+00:05:22,702 --> 00:05:24,115
+Sa couverture est brûlée.
+
+62
+00:05:24,835 --> 00:05:27,657
+- Comment c'est arrivé ?
+- Ce n'est pas clair pour le moment.
+
+63
+00:05:28,819 --> 00:05:30,800
+La seule chose sûre,
+
+64
+00:05:30,997 --> 00:05:34,210
+c'est qu'on a pu s'infiltrer
+dans nos opérations.
+
+65
+00:05:34,888 --> 00:05:37,336
+Dès maintenant,
+nous ne prenons plus contact
+
+66
+00:05:37,735 --> 00:05:39,588
+avec lui... y compris vous,
+
+67
+00:05:40,132 --> 00:05:41,221
+M. Hanna.
+
+68
+00:05:42,539 --> 00:05:45,553
+Le message de Callen parle aussi
+d'un endroit à Venice.
+
+69
+00:05:45,980 --> 00:05:48,136
+Le croisement entre Horizon
+et Speedway.
+
+70
+00:05:49,566 --> 00:05:51,453
+C'est à deux blocs de sa chambre.
+
+71
+00:05:52,710 --> 00:05:55,323
+Ce sont les images
+de la caméra du croisement
+
+72
+00:05:55,365 --> 00:05:57,175
+datant d'environ 15 minutes.
+
+73
+00:06:03,163 --> 00:06:04,276
+J'appelle Deeks,
+
+74
+00:06:04,428 --> 00:06:07,074
+que la police sache
+qu'on s'en occupe discrètement.
+
+75
+00:06:07,440 --> 00:06:09,827
+Eric, réunis tout ce que tu as
+sur ce mec.
+
+76
+00:06:13,424 --> 00:06:15,124
+Selon les premiers rapports,
+
+77
+00:06:15,208 --> 00:06:17,174
+le mort s'appelle Michael St Paris.
+
+78
+00:06:17,216 --> 00:06:18,545
+Pas de casier.
+
+79
+00:06:18,932 --> 00:06:20,795
+Employé par Northgate
+Elite Security.
+
+80
+00:06:20,837 --> 00:06:23,853
+C'est un cabinet de détectives privés.
+Spécialisé dans la surveillance.
+
+81
+00:06:24,685 --> 00:06:27,415
+Il filait G, qui l'a découvert.
+St Paris a détalé.
+
+82
+00:06:27,581 --> 00:06:29,638
+J'appelle Northgate
+pour savoir qui l'a engagé.
+
+83
+00:06:29,722 --> 00:06:31,774
+Callen a quitté les lieux très vite.
+
+84
+00:06:31,915 --> 00:06:35,352
+Il cherchait les angles morts,
+il est sur aucune caméra.
+
+85
+00:06:35,953 --> 00:06:38,918
+Son téléphone ne répond plus
+depuis l'envoi de l'alerte à Hetty.
+
+86
+00:06:39,251 --> 00:06:40,191
+Déconnecté.
+
+87
+00:06:40,565 --> 00:06:43,721
+C'est en rapport avec le meurtre
+de l'agent Macy à Annapolis ?
+
+88
+00:06:45,428 --> 00:06:46,447
+Sans rapport.
+
+89
+00:06:46,670 --> 00:06:48,416
+Qu'est-ce que Callen va faire ?
+
+90
+00:06:49,907 --> 00:06:51,337
+Ce qu'il fait le mieux.
+
+91
+00:06:52,485 --> 00:06:53,788
+Devenir un fantôme.
+
+92
+00:06:56,599 --> 00:06:58,036
+Donc, on peut pas le trouver.
+
+93
+00:06:59,224 --> 00:07:01,333
+Pas avant qu'il ne soit prêt
+à être trouvé.
+
+94
+00:07:44,717 --> 00:07:47,658
+Northgate a dit qu'un inconnu
+les a engagés par téléphone,
+
+95
+00:07:47,700 --> 00:07:49,510
+pour connaître les mouvements de G.
+
+96
+00:07:50,401 --> 00:07:52,475
+Un seul paiement a été envoyé
+par chèque.
+
+97
+00:07:52,517 --> 00:07:54,034
+Ils se sont pas posés de questions.
+
+98
+00:07:54,243 --> 00:07:55,724
+La filature a duré longtemps ?
+
+99
+00:07:56,184 --> 00:07:58,171
+G a repéré leur homme
+en quelques minutes.
+
+100
+00:07:58,328 --> 00:08:01,328
+On leur a juste demandé de surveiller.
+Pas de faire des recherches.
+
+101
+00:08:01,586 --> 00:08:04,358
+Ils ne savent rien du NCIS,
+ni de l'identité de Callen.
+
+102
+00:08:05,125 --> 00:08:08,070
+Tout ce que l'inconnu leur a donné,
+c'est le nom et l'adresse de Callen.
+
+103
+00:08:19,431 --> 00:08:20,486
+Mon pote.
+
+104
+00:08:21,200 --> 00:08:22,079
+Mon pote,
+
+105
+00:08:22,454 --> 00:08:24,107
+un truc bizarre vient d'arriver.
+
+106
+00:08:24,271 --> 00:08:28,007
+Un mec a appelé le magasin.
+Il veut parler à mon dernier client,
+
+107
+00:08:28,209 --> 00:08:29,486
+c'est-à-dire vous.
+
+108
+00:08:42,145 --> 00:08:42,977
+Oui ?
+
+109
+00:08:43,294 --> 00:08:44,430
+<i>M. Callen.</i>
+
+110
+00:08:44,928 --> 00:08:46,276
+<i>Ou vous préférez</i>
+
+111
+00:08:46,446 --> 00:08:48,259
+<i>agent spécial ?</i>
+
+112
+00:08:49,346 --> 00:08:51,030
+Désolé, mec. Tu te trompes.
+
+113
+00:08:51,325 --> 00:08:53,821
+<i>Le téléphone public
+sur Ocean Walk et Sunset.</i>
+
+114
+00:08:54,272 --> 00:08:56,675
+<i>Vous avez trois minutes.
+Et M. Callen,</i>
+
+115
+00:08:57,008 --> 00:08:59,340
+<i>je sais ce que signifie le "G".</i>
+
+116
+00:09:23,062 --> 00:09:24,688
+- C'est pour moi.
+- D'accord.
+
+117
+00:09:26,725 --> 00:09:27,897
+OK, je suis là.
+
+118
+00:09:28,436 --> 00:09:31,111
+- C'est qui ?
+- <i>Je m'appelle Eugene Keelson.</i>
+
+119
+00:09:31,590 --> 00:09:33,524
+Je crois pas qu'on se connaisse.
+
+120
+00:09:33,566 --> 00:09:34,579
+<i>En effet.</i>
+
+121
+00:09:35,844 --> 00:09:37,063
+Donc, qui êtes-vous ?
+
+122
+00:09:37,696 --> 00:09:40,262
+Quelqu'un qui sait plus
+que votre nom et votre adresse.
+
+123
+00:09:40,790 --> 00:09:42,250
+<i>J'ai des réponses.</i>
+
+124
+00:09:43,694 --> 00:09:45,777
+<i>Et le nom de la personne
+qui m'a engagé</i>
+
+125
+00:09:45,819 --> 00:09:48,295
+<i>pour découvrir tous les détails
+vous concernant.</i>
+
+126
+00:09:51,561 --> 00:09:52,508
+TRACE L'APPEL
+
+127
+00:09:52,592 --> 00:09:54,104
+J'ai reçu un message de Callen.
+
+128
+00:09:54,244 --> 00:09:57,444
+Il est au téléphone public au coin
+d'Ocean Walk et Sunset.
+
+129
+00:09:58,627 --> 00:10:00,234
+Je trace l'appel...
+
+130
+00:10:00,276 --> 00:10:01,308
+maintenant.
+
+131
+00:10:01,602 --> 00:10:02,850
+D'accord, je marche.
+
+132
+00:10:03,530 --> 00:10:04,687
+Que savez-vous ?
+
+133
+00:10:05,394 --> 00:10:08,464
+Une mine d'information
+qui pourrait vous intéresser.
+
+134
+00:10:09,108 --> 00:10:09,900
+Quoi ?
+
+135
+00:10:11,499 --> 00:10:14,358
+Je suis prêt à partager
+cette information en échange
+
+136
+00:10:14,499 --> 00:10:16,073
+d'une petite faveur.
+
+137
+00:10:16,547 --> 00:10:18,811
+Qui vous dit
+que je ne connais pas l'information ?
+
+138
+00:10:18,853 --> 00:10:21,578
+<i>J'ai accès à des choses
+dont vous ne connaissez pas l'existence.</i>
+
+139
+00:10:21,999 --> 00:10:24,143
+Vous ne posez pas
+les bonnes questions.
+
+140
+00:10:24,185 --> 00:10:26,006
+C'est plus profond que votre nom,
+
+141
+00:10:26,048 --> 00:10:27,293
+votre famille.
+
+142
+00:10:27,849 --> 00:10:29,829
+<i>Vous avez demandé qui, quand</i>
+
+143
+00:10:30,744 --> 00:10:32,339
+<i>vous devriez commencer à demander</i>
+
+144
+00:10:32,630 --> 00:10:33,462
+pourquoi.
+
+145
+00:10:34,013 --> 00:10:35,654
+Quelle est cette faveur ?
+
+146
+00:10:39,384 --> 00:10:40,723
+Il a raccroché.
+
+147
+00:10:40,909 --> 00:10:43,142
+J'étais à 5 secondes
+de trianguler sa position.
+
+148
+00:10:43,226 --> 00:10:45,185
+Ce mec sait ce qu'on fait
+quand on le fait.
+
+149
+00:10:50,494 --> 00:10:51,483
+Impressionnant.
+
+150
+00:10:52,447 --> 00:10:55,752
+Certains jouent aux dames.
+Mais vous et moi, on joue aux échecs.
+
+151
+00:10:56,314 --> 00:10:58,552
+Vous parliez de réponses ?
+Je veux voir.
+
+152
+00:10:58,825 --> 00:11:01,452
+Sous le téléphone, vous trouverez
+une enveloppe. Ouvrez-la.
+
+153
+00:11:15,133 --> 00:11:18,147
+Ça vous suffit comme preuve,
+M. Callen ?
+
+154
+00:11:24,575 --> 00:11:25,768
+D'où tenez-vous ça ?
+
+155
+00:11:26,044 --> 00:11:28,812
+À vous de décider
+si vous me faites cette faveur.
+
+156
+00:11:32,876 --> 00:11:34,234
+Que dois-je faire ?
+
+157
+00:11:35,667 --> 00:11:37,062
+Vous voyez la clé USB ?
+
+158
+00:11:37,363 --> 00:11:39,698
+<i>Livrez-la à mes clients.
+Des Bulgares.</i>
+
+159
+00:11:39,782 --> 00:11:41,644
+<i>Le lieu est écrit dans l'enveloppe.</i>
+
+160
+00:11:41,819 --> 00:11:43,624
+<i>Vous leur donnez la clé USB</i>
+
+161
+00:11:43,666 --> 00:11:45,813
+<i>en échange d'un paiement en liquide.</i>
+
+162
+00:11:46,444 --> 00:11:48,165
+Je serai qui pour ces Bulgares ?
+
+163
+00:11:48,582 --> 00:11:49,291
+Moi.
+
+164
+00:11:50,914 --> 00:11:53,855
+- Ils s'attendent à un accent ?
+<i>- Non, ils me croient américain.</i>
+
+165
+00:11:54,544 --> 00:11:55,985
+<i>Mais je vous préviens,</i>
+
+166
+00:11:56,027 --> 00:11:58,095
+<i>si vous échouez à les convaincre</i>
+
+167
+00:11:58,137 --> 00:11:59,774
+<i>que vous êtes bien</i>
+
+168
+00:11:59,816 --> 00:12:01,716
+Eugene Keelson,
+
+169
+00:12:02,524 --> 00:12:04,431
+ils n'hésiteront pas à vous tuer.
+
+170
+00:12:04,717 --> 00:12:06,299
+<i>Vous changez d'avis ?</i>
+
+171
+00:12:09,557 --> 00:12:12,564
+On m'a déjà piégé avant,
+et je trouve que ça y ressemble.
+
+172
+00:12:13,753 --> 00:12:15,170
+<i>Si j'ai pu vous trouver,</i>
+
+173
+00:12:15,909 --> 00:12:18,821
+<i>combien de temps me faudra-t-il
+pour trouver le reste de l'équipe ?</i>
+
+174
+00:12:19,640 --> 00:12:21,949
+Le NCIS est infiltré.
+
+175
+00:12:22,817 --> 00:12:25,852
+<i>La seule manière de trouver jusqu'où,
+c'est de faire ce que je dis.</i>
+
+176
+00:12:29,642 --> 00:12:31,667
+Où je rapporte l'argent
+après l'échange ?
+
+177
+00:12:31,974 --> 00:12:33,181
+<i>Je vous rappellerai.</i>
+
+178
+00:12:34,282 --> 00:12:36,954
+<i>Vous avez 30 minutes
+pour rejoindre les Bulgares.</i>
+
+179
+00:12:37,095 --> 00:12:40,387
+<i>Si vous contactez quiconque,
+le marché est annulé.</i>
+
+180
+00:12:40,718 --> 00:12:43,415
+Si vous essayez de décrypter la clé,
+
+181
+00:12:44,085 --> 00:12:45,347
+le marché est annulé.
+
+182
+00:12:45,432 --> 00:12:47,766
+- Keelson...
+- <i>Si vous voulez découvrir</i>
+
+183
+00:12:47,850 --> 00:12:49,447
+<i>la vérité sur vous,</i>
+
+184
+00:12:50,528 --> 00:12:51,853
+<i>c'est votre seule chance.</i>
+
+185
+00:12:52,263 --> 00:12:53,480
+<i>On s'est compris ?</i>
+
+186
+00:12:56,880 --> 00:12:58,318
+<i>Pas mal la nouvelle tenue,</i>
+
+187
+00:12:58,402 --> 00:13:00,696
+mais j'enlèverais cette casquette
+si j'étais vous.
+
+188
+00:13:06,440 --> 00:13:08,162
+J'ai pu trianguler l'origine
+
+189
+00:13:08,246 --> 00:13:10,061
+jusqu'à un bloc de la cabine,
+
+190
+00:13:10,335 --> 00:13:12,666
+mais il a coupé juste à temps.
+
+191
+00:13:13,077 --> 00:13:14,847
+Un mobile prépayé jetable, sûrement
+
+192
+00:13:14,999 --> 00:13:17,202
+Il l'a déjà jeté et maintenant il...
+
+193
+00:13:19,019 --> 00:13:20,966
+Intrusion dans le serveur
+du Centre ?
+
+194
+00:13:22,217 --> 00:13:24,139
+Attendez... Je vais vérifier ça.
+
+195
+00:13:24,181 --> 00:13:27,221
+- Un rapport avec l'appel de Callen ?
+- Non, rien à voir.
+
+196
+00:13:27,541 --> 00:13:30,559
+Cheval de Troie.
+Une variante du Conficker. Type F.
+
+197
+00:13:30,643 --> 00:13:32,396
+C'est une attaque sérieuse.
+
+198
+00:13:32,970 --> 00:13:36,076
+J'active les pare-feux
+pour lui interdire l'accès.
+
+199
+00:13:36,920 --> 00:13:38,261
+Que se passe-t-il, Eric ?
+
+200
+00:13:38,572 --> 00:13:40,277
+Il a franchi les pare-feux.
+
+201
+00:13:40,882 --> 00:13:42,863
+Je perds le contrôle
+de notre système.
+
+202
+00:13:42,905 --> 00:13:44,192
+Tu peux l'arrêter ?
+
+203
+00:13:44,234 --> 00:13:46,012
+Il atteint nos dossiers.
+
+204
+00:13:46,385 --> 00:13:48,869
+Je sais, je vais le dérouter
+vers un autre endroit.
+
+205
+00:13:49,214 --> 00:13:51,100
+Éteignez le système.
+
+206
+00:13:51,721 --> 00:13:52,737
+Lequel ?
+
+207
+00:13:53,512 --> 00:13:54,291
+Tous.
+
+208
+00:13:55,045 --> 00:13:56,343
+On disparaît.
+
+209
+00:14:14,195 --> 00:14:16,539
+Mesdames et messieurs,
+nous sommes officiellement
+
+210
+00:14:17,078 --> 00:14:18,065
+débranchés.
+
+211
+00:14:19,762 --> 00:14:20,817
+On est aveugles.
+
+212
+00:14:21,777 --> 00:14:23,875
+Et si G. essaie de nous joindre ?
+
+213
+00:14:24,405 --> 00:14:27,784
+Il aura un message d'erreur standard
+préenregistré.
+
+214
+00:14:29,310 --> 00:14:31,057
+Il est dehors dans le froid,
+
+215
+00:14:32,568 --> 00:14:33,429
+tout seul.
+
+216
+00:14:36,476 --> 00:14:39,195
+<i>Le numéro que vous avez demandé
+n'est pas en service,</i>
+
+217
+00:14:44,798 --> 00:14:47,318
+<i>Le numéro que vous avez demandé
+n'est pas en service.</i>
+
+218
+00:14:47,360 --> 00:14:49,596
+<i>Veuillez vérifier votre numéro
+et recommencez.</i>
+
+219
+00:14:56,437 --> 00:14:58,188
+NUMERO INEXISTANT
+
+220
+00:15:49,032 --> 00:15:50,157
+Je suis Marinov.
+
+221
+00:15:51,149 --> 00:15:51,934
+Keelson.
+
+222
+00:15:53,141 --> 00:15:54,786
+Mon invitation disait
+
+223
+00:15:55,093 --> 00:15:56,863
+tenue décontractée, mais...
+
+224
+00:15:57,603 --> 00:15:58,749
+Fouillez-le.
+
+225
+00:16:05,047 --> 00:16:06,685
+Juste ici. Splendide.
+
+226
+00:16:10,134 --> 00:16:13,138
+J'ai parlé récemment à un ami commun
+de Tchétchénie.
+
+227
+00:16:13,474 --> 00:16:15,933
+Il dit que votre source au FSB
+
+228
+00:16:15,975 --> 00:16:17,893
+a montré son attachement
+à notre cause.
+
+229
+00:16:18,633 --> 00:16:20,730
+Je parle pas de mes amis,
+ni de mes sources.
+
+230
+00:16:21,002 --> 00:16:22,439
+C'est mieux pour tout le monde.
+
+231
+00:16:23,273 --> 00:16:25,275
+J'aime les gens réglo au boulot.
+
+232
+00:16:26,053 --> 00:16:27,820
+J'aime les bons clients.
+
+233
+00:16:28,411 --> 00:16:29,988
+Vous avez de l'argent pour moi ?
+
+234
+00:16:31,294 --> 00:16:33,575
+Je crois qu'il va être déçu.
+
+235
+00:16:36,321 --> 00:16:38,080
+Montrez-moi la clé USB d'abord.
+
+236
+00:16:38,961 --> 00:16:40,801
+Je veux vérifier le contenu.
+
+237
+00:16:43,086 --> 00:16:44,270
+Servez-vous.
+
+238
+00:17:07,661 --> 00:17:08,681
+Satisfait ?
+
+239
+00:17:12,136 --> 00:17:14,105
+- Ça me paraît authentique.
+- Génial.
+
+240
+00:17:14,338 --> 00:17:15,617
+Alors, où est mon argent ?
+
+241
+00:17:17,573 --> 00:17:18,675
+Mon argent.
+
+242
+00:17:19,179 --> 00:17:21,593
+Le problème,
+c'est que vous l'avez déjà, M. Keelson.
+
+243
+00:17:21,635 --> 00:17:22,686
+Pardon ?
+
+244
+00:17:22,728 --> 00:17:25,107
+Les horaires de la relève de garde
+que vous m'avez vendus
+
+245
+00:17:25,149 --> 00:17:27,254
+pour l'aéroport de Chisinau ?
+Ils étaient faux.
+
+246
+00:17:27,783 --> 00:17:28,639
+Faux ?
+
+247
+00:17:29,436 --> 00:17:31,053
+Mon cul, ils étaient faux !
+
+248
+00:17:31,308 --> 00:17:34,720
+C'était une info en béton.
+C'est vous qui avez merdé.
+
+249
+00:17:35,462 --> 00:17:37,878
+Vous me prenez pour un con,
+Keelson ?
+
+250
+00:17:40,029 --> 00:17:41,178
+Bon, écoutez,
+
+251
+00:17:41,740 --> 00:17:44,856
+c'est un malentendu. Visiblement,
+y a eu embrouille dans la traduction.
+
+252
+00:17:45,549 --> 00:17:47,588
+Tout va bien. On n'a qu'à...
+
+253
+00:17:48,371 --> 00:17:50,444
+disons qu'on est quittes.
+On en reste là.
+
+254
+00:18:39,023 --> 00:18:41,369
+Sidewinder Rugged Appliance.
+
+255
+00:18:41,453 --> 00:18:44,456
+Le système anti-intrusion
+le plus sûr,
+
+256
+00:18:44,636 --> 00:18:47,648
+URL géolocalisée,
+filtre d'application codé,
+
+257
+00:18:47,865 --> 00:18:48,960
+le meilleur.
+
+258
+00:18:49,246 --> 00:18:51,543
+Cherchons jusqu'où
+
+259
+00:18:51,585 --> 00:18:53,799
+ce cheval de Troie a pénétré.
+
+260
+00:18:54,918 --> 00:18:55,949
+J'y suis.
+
+261
+00:18:59,235 --> 00:19:00,489
+Agent Renko.
+
+262
+00:19:01,872 --> 00:19:04,142
+Dans la mesure où M. Callen
+
+263
+00:19:04,497 --> 00:19:06,594
+nous joue "<i>Les 3 jours du Condor</i>",
+
+264
+00:19:07,040 --> 00:19:08,200
+nous avons besoin
+
+265
+00:19:08,382 --> 00:19:10,273
+de toutes les bonnes volontés.
+
+266
+00:19:10,761 --> 00:19:13,235
+Puisqu'on en parle, où est Sam ?
+
+267
+00:19:15,236 --> 00:19:16,507
+Où donc, en effet ?
+
+268
+00:19:33,269 --> 00:19:36,132
+J'ai vu pire
+comme lieu de ralliement.
+
+269
+00:19:36,216 --> 00:19:38,894
+Tu as dit la même chose
+quand on l'a choisi il y a cinq ans.
+
+270
+00:19:41,121 --> 00:19:42,764
+J'avais espéré qu'il servirait pas.
+
+271
+00:19:43,352 --> 00:19:44,891
+Qu'on se ferait jamais avoir ?
+
+272
+00:19:45,407 --> 00:19:46,893
+On peut rêver, non ?
+
+273
+00:19:48,535 --> 00:19:49,771
+D'abord Dom...
+
+274
+00:19:50,610 --> 00:19:51,653
+puis Macy.
+
+275
+00:19:52,473 --> 00:19:53,598
+Maintenant ça.
+
+276
+00:19:55,200 --> 00:19:57,028
+Il se passe quelque chose, Sam.
+
+277
+00:19:59,102 --> 00:20:01,422
+Hetty pense que ces événements
+ne sont pas reliés.
+
+278
+00:20:02,176 --> 00:20:05,287
+Si on n'essaie pas de nous tuer,
+c'est qu'on bosse mal, tu l'as dit.
+
+279
+00:20:05,493 --> 00:20:06,547
+J'ai dit ça ?
+
+280
+00:20:07,063 --> 00:20:07,914
+Vraiment ?
+
+281
+00:20:09,539 --> 00:20:10,969
+Ça te réconforte ?
+
+282
+00:20:11,320 --> 00:20:12,193
+Un peu.
+
+283
+00:20:15,633 --> 00:20:16,840
+Qui t'a cramé ?
+
+284
+00:20:17,679 --> 00:20:19,507
+Un type appelé Eugene Keelson.
+
+285
+00:20:19,742 --> 00:20:21,708
+Quelqu'un l'a engagé
+pour me retrouver.
+
+286
+00:20:23,070 --> 00:20:24,628
+Il a bien travaillé.
+
+287
+00:20:25,367 --> 00:20:26,457
+C'est quoi ?
+
+288
+00:20:27,668 --> 00:20:30,082
+Une liste
+de toutes mes familles d'accueil.
+
+289
+00:20:30,308 --> 00:20:31,259
+Les 37.
+
+290
+00:20:31,867 --> 00:20:34,399
+Certaines de ces adresses
+ne sont même pas connues du NCIS.
+
+291
+00:20:36,176 --> 00:20:37,527
+Pourquoi il t'a appelé ?
+
+292
+00:20:37,855 --> 00:20:40,773
+Il voulait que je rencontre
+des Bulgares. À sa place.
+
+293
+00:20:41,236 --> 00:20:43,099
+Échange d'une clé USB
+contre paiement.
+
+294
+00:20:44,225 --> 00:20:46,173
+Je suppose que ça s'est mal passé.
+
+295
+00:20:46,592 --> 00:20:49,791
+Ils ont téléchargé le dossier,
+mais pas d'argent. Des flingues.
+
+296
+00:20:50,817 --> 00:20:53,500
+J'étais sa police d'assurance
+en cas de dérapage.
+
+297
+00:20:54,520 --> 00:20:58,012
+Agir tout seul contre un groupe armé,
+ça te paraît malin ?
+
+298
+00:20:58,305 --> 00:21:00,860
+Keelson a sous-entendu
+que le NCIS est infiltré.
+
+299
+00:21:01,103 --> 00:21:02,709
+C'est plus qu'un sous-entendu.
+
+300
+00:21:05,000 --> 00:21:07,094
+Eric a trouvé un cheval de Troie.
+
+301
+00:21:07,504 --> 00:21:09,643
+On a dû débrancher
+le centre opérationnel.
+
+302
+00:21:12,840 --> 00:21:16,024
+Je n'ai jamais été
+aussi près de savoir qui je suis.
+
+303
+00:21:18,388 --> 00:21:20,236
+C'est ce qui m'inquiète, G.
+
+304
+00:21:30,555 --> 00:21:31,665
+J'ai des photos.
+
+305
+00:21:34,287 --> 00:21:35,690
+Fais profil bas.
+
+306
+00:21:35,732 --> 00:21:36,822
+Planque-toi.
+
+307
+00:21:43,999 --> 00:21:47,723
+Il semble que le cheval de Troie
+se soit arrêté au dossier de Callen.
+
+308
+00:21:48,235 --> 00:21:49,736
+Cherchez encore.
+
+309
+00:21:56,831 --> 00:21:59,149
+M. Hanna. Je vous sais...
+
+310
+00:21:59,539 --> 00:22:02,362
+polyglotte, mais je ne crois pas
+
+311
+00:22:03,004 --> 00:22:04,864
+avoir employé une langue
+
+312
+00:22:04,948 --> 00:22:07,200
+que vous ne pratiquez pas
+
+313
+00:22:07,349 --> 00:22:10,682
+quand je vous ai interdit
+de contacter
+
+314
+00:22:10,724 --> 00:22:11,830
+M. Callen.
+
+315
+00:22:11,914 --> 00:22:14,001
+Pourquoi êtes-vous sûre que... ?
+
+316
+00:22:15,320 --> 00:22:17,784
+C'est une rupture de protocole...
+
+317
+00:22:20,462 --> 00:22:21,980
+que je comprends.
+
+318
+00:22:23,910 --> 00:22:25,677
+Bon, qu'avons-nous ?
+
+319
+00:22:25,993 --> 00:22:28,824
+Le gars qui a grillé Callen
+s'appelle Eugene Keelson.
+
+320
+00:22:29,787 --> 00:22:32,011
+Callen a fait une livraison
+pour lui à des Bulgares,
+
+321
+00:22:32,053 --> 00:22:33,268
+ça s'est mal passé.
+
+322
+00:22:34,701 --> 00:22:36,773
+Ce type a des informations
+sur le passé de G.
+
+323
+00:22:36,815 --> 00:22:38,658
+Des choses que le NCIS ignore.
+
+324
+00:22:38,700 --> 00:22:41,338
+Voici ce qu'il a donné aux Bulgares.
+
+325
+00:22:41,860 --> 00:22:43,611
+C'est très bien crypté.
+
+326
+00:22:43,695 --> 00:22:46,124
+Sans la clé de déchiffrement,
+ça va prendre du temps.
+
+327
+00:22:46,166 --> 00:22:48,333
+Voici les photos qu'il a prises
+avant la livraison.
+
+328
+00:22:49,118 --> 00:22:52,245
+Il faut trouver tout ce qu'on peut
+sur M. Keelson
+
+329
+00:22:52,329 --> 00:22:54,654
+avant qu'il ne détruise ce groupe.
+
+330
+00:23:10,540 --> 00:23:12,766
+Les Eugene Keelson
+que j'ai trouvés sont clean.
+
+331
+00:23:13,443 --> 00:23:14,467
+Pareil.
+
+332
+00:23:15,236 --> 00:23:18,938
+Ce serveur provisoire, c'est l'âge
+de pierre à côté du Centre Opérationnel,
+
+333
+00:23:19,022 --> 00:23:21,983
+mais j'ai trouvé les Bulgares
+photographiés par Callen.
+
+334
+00:23:25,091 --> 00:23:26,457
+Luka Dimitrov...
+
+335
+00:23:27,228 --> 00:23:28,642
+Ilia Tagkov,
+
+336
+00:23:29,562 --> 00:23:30,700
+Kosta Daimov.
+
+337
+00:23:30,784 --> 00:23:33,833
+- Beaucoup de <i>ov</i>.
+- Tous abattus ce matin,
+
+338
+00:23:33,875 --> 00:23:35,121
+sauf celui-ci...
+
+339
+00:23:35,824 --> 00:23:37,224
+Ruman Marinov.
+
+340
+00:23:38,500 --> 00:23:40,811
+Tous sont
+d'anciens militaires bulgares impliqués
+
+341
+00:23:40,853 --> 00:23:42,836
+dans le crime organisé aux USA.
+
+342
+00:23:42,878 --> 00:23:45,298
+Ils se servent d'un restaurant en ville
+comme façade.
+
+343
+00:23:45,841 --> 00:23:48,002
+Que penses-tu d'un goulasch, Sam ?
+
+344
+00:23:48,674 --> 00:23:50,470
+Je croyais que c'était hongrois.
+
+345
+00:23:50,896 --> 00:23:52,813
+En fait,
+c'est un plat d'Europe de l'Est.
+
+346
+00:23:52,855 --> 00:23:55,684
+Il y a beaucoup de versions.
+À la base, c'est un ragoût.
+
+347
+00:23:55,726 --> 00:23:58,603
+Le seul point commun,
+c'est les nouilles.
+
+348
+00:23:59,280 --> 00:24:01,089
+Merci du tuyau, Maïté.
+
+349
+00:24:01,305 --> 00:24:03,688
+Maintenant, trouve-moi
+les liens entre les Bulgares
+
+350
+00:24:03,730 --> 00:24:05,318
+et les organisations criminelles.
+
+351
+00:24:23,002 --> 00:24:24,101
+C'est fermé.
+
+352
+00:24:24,671 --> 00:24:26,088
+Un mardi après-midi ?
+
+353
+00:24:26,402 --> 00:24:27,799
+C'est pas bon signe.
+
+354
+00:24:32,529 --> 00:24:34,179
+J'ai dit c'est fermé.
+
+355
+00:24:35,254 --> 00:24:36,933
+Cinq employés, pas de client ?
+
+356
+00:24:37,798 --> 00:24:40,279
+Ça va faire tache dans ma critique.
+
+357
+00:24:42,823 --> 00:24:44,837
+Je bosse pour Ramon Casador.
+
+358
+00:24:49,440 --> 00:24:51,865
+Ramon aime la vie en prison ?
+
+359
+00:24:52,626 --> 00:24:55,276
+C'est pas vraiment
+sa villa à Cartagène,
+
+360
+00:24:56,583 --> 00:24:58,705
+mais la bouffe est correcte
+si on y met le prix.
+
+361
+00:24:59,530 --> 00:25:02,389
+Vu ses moyens,
+il doit très bien manger.
+
+362
+00:25:03,144 --> 00:25:06,099
+Un petit problème
+trouble sa digestion :
+
+363
+00:25:07,448 --> 00:25:08,647
+Eugene Keelson.
+
+364
+00:25:21,966 --> 00:25:25,315
+M. Casador veut savoir avec quel genre
+d'homme il pourrait travailler.
+
+365
+00:25:26,398 --> 00:25:28,800
+Il a entendu dire
+que vous aviez bossé avec lui.
+
+366
+00:25:36,114 --> 00:25:38,481
+Je dirai à M. Casador
+que vous êtes trop occupé
+
+367
+00:25:38,523 --> 00:25:40,305
+à monter votre empire
+dans la restauration.
+
+368
+00:25:42,273 --> 00:25:44,667
+En tant que vendeur d'informations,
+
+369
+00:25:45,870 --> 00:25:47,463
+Keelson est le meilleur.
+
+370
+00:25:49,060 --> 00:25:52,306
+Il trouvera ce que vous voulez,
+à son prix.
+
+371
+00:25:53,325 --> 00:25:54,522
+Vraiment tout.
+
+372
+00:25:55,230 --> 00:25:56,715
+Et il est cher.
+
+373
+00:25:58,030 --> 00:25:59,224
+Il est loyal ?
+
+374
+00:25:59,382 --> 00:26:01,017
+Envers celui qui paie le mieux.
+
+375
+00:26:01,101 --> 00:26:02,310
+Il vous a grillé.
+
+376
+00:26:04,866 --> 00:26:07,327
+Disons simplement
+qu'il va être victime
+
+377
+00:26:07,807 --> 00:26:10,829
+d'une retraite soudaine
+très prochainement.
+
+378
+00:26:13,119 --> 00:26:15,281
+M. Casador appréciera l'information.
+
+379
+00:26:29,585 --> 00:26:30,879
+Ça y est, c'est bon.
+
+380
+00:26:54,084 --> 00:26:57,198
+Serait-ce votre troisième portable
+de la journée ?
+
+381
+00:26:57,613 --> 00:26:59,343
+Je garde les tickets de caisse.
+
+382
+00:26:59,617 --> 00:27:00,469
+<i>Bien.</i>
+
+383
+00:27:00,716 --> 00:27:03,288
+<i>J'attends tous les justificatifs
+de dépenses</i>
+
+384
+00:27:03,690 --> 00:27:07,073
+pour vos besoins
+pendant votre cavale.
+
+385
+00:27:07,115 --> 00:27:09,279
+Je parle bien de besoins.
+
+386
+00:27:09,764 --> 00:27:12,537
+J'annule ma suite
+au Chateau Marmont.
+
+387
+00:27:14,955 --> 00:27:16,801
+Vous avez trouvé quoi
+sur les Bulgares ?
+
+388
+00:27:18,887 --> 00:27:20,972
+J'ai cassé le code de la clé USB !
+
+389
+00:27:21,056 --> 00:27:23,266
+- <i>Hetty...</i>
+- Je dois y aller.
+
+390
+00:27:23,350 --> 00:27:26,051
+Je suis grillé et je peux pas
+m'impliquer dans l'affaire...
+
+391
+00:27:27,029 --> 00:27:28,313
+Je comprends.
+
+392
+00:27:28,685 --> 00:27:30,547
+<i>Moi aussi, M. Callen,</i>
+
+393
+00:27:30,938 --> 00:27:32,462
+<i>plus que vous n'imaginez.</i>
+
+394
+00:27:35,384 --> 00:27:36,994
+Quoi ? Qu'y a-t-il ?
+
+395
+00:27:37,776 --> 00:27:40,492
+Je ne saurais pas si c'est infecté
+avant de l'ouvrir.
+
+396
+00:27:40,998 --> 00:27:43,661
+Si tu ne l'ouvres pas,
+on perd notre seul indice.
+
+397
+00:27:44,273 --> 00:27:47,181
+<i>Vivons dangereusement</i>
+est mon credo, M. Beal.
+
+398
+00:27:47,223 --> 00:27:48,875
+Allez-y. Allez-y et faites-le.
+
+399
+00:27:52,951 --> 00:27:54,011
+Inoffensif.
+
+400
+00:27:54,230 --> 00:27:57,541
+C'est un fichier contenant un dossier
+et un itinéraire de voyage.
+
+401
+00:27:57,854 --> 00:27:59,411
+Qui est Andres Werner ?
+
+402
+00:28:00,777 --> 00:28:02,390
+PDG de Haupt Eisen.
+
+403
+00:28:02,561 --> 00:28:04,766
+Un des plus grands
+sidérurgistes allemands.
+
+404
+00:28:05,735 --> 00:28:08,728
+Il est ici
+pour une fusion d'entreprises.
+
+405
+00:28:10,008 --> 00:28:13,232
+Marinov est un gros actionnaire.
+On parle de millions.
+
+406
+00:28:13,991 --> 00:28:17,276
+Des millions qui ne vaudront plus rien
+si la fusion a lieu.
+
+407
+00:28:17,801 --> 00:28:19,234
+Ils vont l'assassiner.
+
+408
+00:28:19,448 --> 00:28:21,932
+Callen a donné le dossier à Marinov.
+
+409
+00:28:21,974 --> 00:28:24,303
+Keelson l'a forcé à le faire,
+
+410
+00:28:24,731 --> 00:28:28,247
+mais nous ne pouvons laisser
+cet homme se faire tuer.
+
+411
+00:28:28,629 --> 00:28:31,481
+Werner atterrit à LAX
+dans une heure.
+
+412
+00:28:34,737 --> 00:28:36,493
+On quitte l'aéroport.
+
+413
+00:28:36,535 --> 00:28:37,945
+On a Werner.
+
+414
+00:28:37,987 --> 00:28:40,674
+Temps estimé d'arrivée, 30 minutes.
+
+415
+00:28:52,619 --> 00:28:55,044
+Il y a un bouchon sur le pont,
+tourne à droite.
+
+416
+00:29:13,793 --> 00:29:15,253
+Werner ! Sors de la voiture !
+
+417
+00:29:16,796 --> 00:29:19,030
+Agents fédéraux !
+Lâchez vos armes !
+
+418
+00:29:19,549 --> 00:29:22,885
+- Lâchez vos armes !
+- Le goulasch va avoir un sale goût.
+
+419
+00:29:32,601 --> 00:29:33,438
+Renko ?
+
+420
+00:29:36,191 --> 00:29:37,118
+Ça va ?
+
+421
+00:29:51,147 --> 00:29:53,040
+- Viens. Ça va ?
+- Ça va. Ça va.
+
+422
+00:29:54,876 --> 00:29:56,700
+Je préviens le LAPD.
+
+423
+00:30:05,152 --> 00:30:07,722
+- M. Hanna ?
+- <i>Le leurre a marché.</i>
+
+424
+00:30:07,806 --> 00:30:10,445
+Werner est en sécurité.
+Marinov nous a attaqués.
+
+425
+00:30:10,487 --> 00:30:12,863
+Ils sont tous à terre sauf Marinov.
+
+426
+00:30:12,905 --> 00:30:14,479
+Une voiture l'a récupéré.
+
+427
+00:30:14,599 --> 00:30:16,731
+Que Kensi lance
+un avis de recherche.
+
+428
+00:30:18,191 --> 00:30:19,441
+C'est parti.
+
+429
+00:30:19,483 --> 00:30:22,979
+<i>Un des hommes de Marinov
+est-il en état de parler ?</i>
+
+430
+00:30:23,114 --> 00:30:24,982
+Ils ne sont pas en état de respirer.
+
+431
+00:30:25,024 --> 00:30:27,658
+On a protégé Werner,
+mais on a pas avancé pour Keelson.
+
+432
+00:30:28,595 --> 00:30:31,141
+Ce qui nous laisse dans l'impasse.
+
+433
+00:30:39,436 --> 00:30:41,107
+Qu'est-il arrivé au protocole ?
+
+434
+00:30:42,601 --> 00:30:45,290
+Il est parti
+avec le bébé et l'eau du bain.
+
+435
+00:30:47,166 --> 00:30:50,482
+J'ai beaucoup pensé
+à votre situation.
+
+436
+00:30:51,947 --> 00:30:54,959
+Nate est inquiet
+quant à votre état d'esprit.
+
+437
+00:30:55,001 --> 00:30:56,745
+Il va devoir faire la queue.
+
+438
+00:30:58,097 --> 00:31:01,442
+Pendant la crise,
+il a dit avoir besoin d'une arme.
+
+439
+00:31:02,388 --> 00:31:03,402
+Vous...
+
+440
+00:31:04,764 --> 00:31:06,102
+N'y pensez pas.
+
+441
+00:31:08,497 --> 00:31:09,867
+Accompagnez-moi.
+
+442
+00:31:11,357 --> 00:31:14,303
+Cet Eugene Keelson
+
+443
+00:31:14,948 --> 00:31:16,347
+est un vrai malin.
+
+444
+00:31:16,959 --> 00:31:19,543
+Il est rare d'avoir un adversaire
+
+445
+00:31:19,585 --> 00:31:23,033
+qui nous connaît mieux
+que nous ne le connaissons.
+
+446
+00:31:24,821 --> 00:31:27,045
+Malgré les doutes de Nate,
+
+447
+00:31:28,063 --> 00:31:31,472
+je pense que nous avons besoin
+de tout le monde à bord.
+
+448
+00:31:31,708 --> 00:31:33,787
+Je ne crois pas
+que ce soit une bonne idée.
+
+449
+00:31:35,769 --> 00:31:37,744
+J'ai cru que faire la livraison
+aux Bulgares
+
+450
+00:31:37,786 --> 00:31:39,842
+pourrait montrer à quel point
+
+451
+00:31:39,884 --> 00:31:41,881
+Keelson nous avait infiltrés.
+
+452
+00:31:43,901 --> 00:31:45,395
+C'est pour ça que je l'ai fait ?
+
+453
+00:31:46,713 --> 00:31:48,251
+Ou c'était juste une excuse
+
+454
+00:31:49,165 --> 00:31:50,761
+pour découvrir mon passé ?
+
+455
+00:31:51,245 --> 00:31:54,203
+Vous seul pouvez répondre à ça,
+M. Callen.
+
+456
+00:31:54,453 --> 00:31:55,402
+Je peux pas.
+
+457
+00:31:57,251 --> 00:31:58,877
+C'est pour ça que Nate a raison.
+
+458
+00:31:59,214 --> 00:32:00,876
+Je devrais lâcher cette affaire.
+
+459
+00:32:06,849 --> 00:32:08,092
+<i>Mauvaises nouvelles.</i>
+
+460
+00:32:08,176 --> 00:32:11,029
+J'ai recherché les dégâts que le virus
+de Keelson a provoqués.
+
+461
+00:32:11,259 --> 00:32:13,014
+Il n'a pas visé
+que le dossier de Callen.
+
+462
+00:32:13,525 --> 00:32:14,684
+Qui d'autre ?
+
+463
+00:32:15,308 --> 00:32:16,225
+Tout le monde.
+
+464
+00:32:17,043 --> 00:32:18,102
+<i>Et tout le reste.</i>
+
+465
+00:32:18,320 --> 00:32:20,746
+Keelson a des informations
+sur tous nos dossiers.
+
+466
+00:32:22,099 --> 00:32:24,358
+Je parle du NCIS dans son entier.
+
+467
+00:32:25,408 --> 00:32:27,763
+Merci, Eric.
+Je reviens bientôt.
+
+468
+00:32:30,824 --> 00:32:34,619
+J'apprécie votre noble retour
+à la raison, M. Callen
+
+469
+00:32:35,184 --> 00:32:37,340
+mais les choses ont évolué.
+
+470
+00:32:38,289 --> 00:32:41,383
+L'ensemble du NCIS est compromis.
+
+471
+00:32:42,039 --> 00:32:43,252
+De gré ou de force,
+
+472
+00:32:43,903 --> 00:32:45,332
+vous reprenez du service.
+
+473
+00:33:01,260 --> 00:33:03,522
+Dis-moi que Hetty
+ne va pas me démolir
+
+474
+00:33:03,606 --> 00:33:06,206
+<i>- pour parler avec un agent cramé.</i>
+- C'est bon, Eric.
+
+475
+00:33:07,066 --> 00:33:09,972
+Tu devrais voir nos nouveaux locaux.
+Vachement plus intimes,
+
+476
+00:33:10,183 --> 00:33:13,488
+quoiqu'un peu sombres,
+et légèrement sinistres.
+
+477
+00:33:15,527 --> 00:33:17,917
+Je veux que tu rallumes
+nos serveurs.
+
+478
+00:33:17,959 --> 00:33:20,956
+Tu dois réactiver le virus
+que Keelson a introduit
+
+479
+00:33:21,040 --> 00:33:22,179
+<i>dans le système.</i>
+
+480
+00:33:22,221 --> 00:33:23,793
+- T'es sérieux ?
+- Très.
+
+481
+00:33:24,012 --> 00:33:26,391
+Tu me demandes de commettre
+une faute professionnelle.
+
+482
+00:33:28,477 --> 00:33:29,637
+C'est parti.
+
+483
+00:33:42,717 --> 00:33:44,288
+Le virus est réactivé.
+
+484
+00:33:44,651 --> 00:33:46,857
+Nos serveurs sont à nouveau exposés.
+
+485
+00:33:48,413 --> 00:33:50,592
+Je détecte un code étranger
+dans le pare-feu.
+
+486
+00:33:50,827 --> 00:33:52,113
+Ça doit être Keelson.
+
+487
+00:33:52,197 --> 00:33:53,463
+Ouvre un nouveau dossier.
+
+488
+00:33:53,505 --> 00:33:55,866
+Appelle-le "Keelson",
+mets-le bien en vue.
+
+489
+00:33:58,638 --> 00:33:59,412
+Fait.
+
+490
+00:33:59,974 --> 00:34:01,662
+Insère le message suivant :
+
+491
+00:34:02,259 --> 00:34:04,076
+"Appelez-moi.
+Passons un marché."
+
+492
+00:34:04,118 --> 00:34:05,283
+<i>Autre chose ?</i>
+
+493
+00:34:05,325 --> 00:34:07,211
+Donne-lui mon numéro de téléphone.
+
+494
+00:34:08,879 --> 00:34:10,180
+C'est fait. Mais...
+
+495
+00:34:10,222 --> 00:34:12,591
+je peux demander
+pourquoi on s'expose à ce mec ?
+
+496
+00:34:13,368 --> 00:34:17,024
+Il nous le faut avant qu'il ne vende
+les dossiers du NCIS au marché noir.
+
+497
+00:34:17,434 --> 00:34:19,049
+C'est le seul moyen de l'appâter.
+
+498
+00:34:27,298 --> 00:34:29,419
+Keelson aime l'argent plus que tout.
+
+499
+00:34:29,901 --> 00:34:31,739
+Si on peut lui en offrir assez,
+
+500
+00:34:31,950 --> 00:34:34,856
+il peut se découvrir suffisamment
+pour qu'on le chope.
+
+501
+00:34:36,438 --> 00:34:37,938
+Et si Keelson
+
+502
+00:34:38,348 --> 00:34:39,614
+préférait mourir
+
+503
+00:34:39,883 --> 00:34:42,239
+qu'affronter les poursuites
+pour ses crimes ?
+
+504
+00:34:42,784 --> 00:34:45,690
+L'information qu'il détient
+sur votre passé
+
+505
+00:34:46,171 --> 00:34:48,378
+disparaîtrait avec lui.
+
+506
+00:34:49,605 --> 00:34:52,218
+Êtes-vous prêt à l'accepter,
+M. Callen ?
+
+507
+00:35:02,100 --> 00:35:03,026
+Callen.
+
+508
+00:35:03,366 --> 00:35:04,477
+Qu'offrez-vous ?
+
+509
+00:35:04,784 --> 00:35:06,228
+Quoi, pas de papotage ?
+
+510
+00:35:06,495 --> 00:35:08,206
+Pourquoi ? Vous détestez ça.
+
+511
+00:35:08,581 --> 00:35:11,294
+Vous avez oublié que je vous connais
+mieux que vous-même ?
+
+512
+00:35:11,914 --> 00:35:14,457
+Je peux pas laisser cette liste
+partir sur le marché.
+
+513
+00:35:14,896 --> 00:35:17,990
+Notre offre est de 10 millions de $
+en billets non marqués.
+
+514
+00:35:19,806 --> 00:35:22,443
+La liste vaut plus
+si je la négocie moi-même.
+
+515
+00:35:23,503 --> 00:35:26,749
+Plus vous la gardez, plus vous courez
+de risques, vous le savez.
+
+516
+00:35:27,195 --> 00:35:29,040
+<i>Paiement aujourd'hui garanti.</i>
+
+517
+00:35:32,439 --> 00:35:34,173
+Observatoire de Griffith Park.
+
+518
+00:35:34,257 --> 00:35:36,529
+<i>Soyez là-bas avec l'argent
+dans une heure.</i>
+
+519
+00:35:36,892 --> 00:35:39,130
+- Comment je vous trouve ?
+<i>- Je vous trouverai.</i>
+
+520
+00:35:42,978 --> 00:35:45,518
+Je ne peux pas débloquer
+10 millions de $.
+
+521
+00:35:47,762 --> 00:35:49,337
+Je ne vous l'aurais pas demandé.
+
+522
+00:36:04,120 --> 00:36:05,538
+Je suis en position. Kensi ?
+
+523
+00:36:07,863 --> 00:36:09,208
+Je vois Callen,
+
+524
+00:36:09,670 --> 00:36:11,877
+mais jusqu'ici,
+personne ne s'approche.
+
+525
+00:36:13,714 --> 00:36:14,500
+Renko ?
+
+526
+00:36:15,214 --> 00:36:17,593
+Rien.
+Ce Keelson pourrait être n'importe qui.
+
+527
+00:36:18,665 --> 00:36:19,755
+Il va se montrer.
+
+528
+00:36:21,552 --> 00:36:22,763
+D'ici, tout va bien.
+
+529
+00:36:27,267 --> 00:36:28,385
+Une minute.
+
+530
+00:36:28,427 --> 00:36:31,647
+Un type avec des lunettes de soleil
+s'approche de Callen par le sud.
+
+531
+00:36:38,277 --> 00:36:39,590
+Eugene Keelson ?
+
+532
+00:36:41,308 --> 00:36:43,409
+Un pourboire me semble correct,
+après tout ?
+
+533
+00:36:46,329 --> 00:36:47,454
+Couchez-vous !
+
+534
+00:36:49,374 --> 00:36:50,416
+À terre !
+
+535
+00:36:50,583 --> 00:36:51,876
+Poussez-vous !
+
+536
+00:36:52,525 --> 00:36:54,545
+Sam, c'est lui ! C'est Keelson.
+
+537
+00:36:55,922 --> 00:36:57,446
+Eric, le mec en veste noire !
+
+538
+00:36:58,196 --> 00:36:59,508
+Tournez-vous.
+
+539
+00:37:04,219 --> 00:37:06,430
+Je lance la reconnaissance faciale,
+mais ça va être lo...
+
+540
+00:37:07,131 --> 00:37:08,310
+Aussi vite ?
+
+541
+00:37:12,636 --> 00:37:15,524
+C'est le conducteur qui a tué le gars
+qui filait Callen
+
+542
+00:37:15,608 --> 00:37:16,635
+<i>ce matin !</i>
+
+543
+00:37:16,778 --> 00:37:18,800
+- <i>Callen a dû le reconnaître.</i>
+- C'est qui ?
+
+544
+00:37:18,842 --> 00:37:20,253
+<i>Pas de nom, pas d'adresse.</i>
+
+545
+00:37:20,485 --> 00:37:22,803
+<i>Ce sont les deux seules images
+de ce type qui existent.</i>
+
+546
+00:37:40,274 --> 00:37:41,270
+Keelson !
+
+547
+00:37:47,044 --> 00:37:48,933
+Vous avez pris des risques
+en venant ici.
+
+548
+00:37:49,434 --> 00:37:51,060
+Ce sont les dames, pas les échecs.
+
+549
+00:37:52,762 --> 00:37:54,772
+Vous ou Marinov
+alliez vous en sortir.
+
+550
+00:37:55,880 --> 00:37:58,165
+Ça me laissait une petite chance
+
+551
+00:37:58,401 --> 00:37:59,430
+de m'en tirer.
+
+552
+00:38:00,731 --> 00:38:02,231
+Vous n'aurez pas cette chance.
+
+553
+00:38:05,219 --> 00:38:07,235
+Vous savez, ce qui se joue ici
+
+554
+00:38:07,852 --> 00:38:09,610
+nous dépasse, vous et moi.
+
+555
+00:38:11,696 --> 00:38:13,911
+Si vous me tuez,
+vous ne saurez jamais la vérité,
+
+556
+00:38:15,751 --> 00:38:17,028
+qui vous êtes vraiment ?
+
+557
+00:38:18,779 --> 00:38:20,736
+Qui m'a engagé pour vous retrouver ?
+
+558
+00:38:24,357 --> 00:38:25,248
+Vous êtes...
+
+559
+00:38:25,587 --> 00:38:28,060
+vous êtes prêt à passer le reste
+de votre vie
+
+560
+00:38:28,102 --> 00:38:30,800
+à vous demander
+ce que "G" signifie ?
+
+561
+00:39:39,814 --> 00:39:40,986
+Allumez !
+
+562
+00:39:58,710 --> 00:40:01,124
+Poker ? C'est un jeu.
+Ce sont tous des jeux.
+
+563
+00:40:01,166 --> 00:40:02,983
+- Je te dis que...
+- Des jeux.
+
+564
+00:40:12,885 --> 00:40:15,746
+Tu sais ce que ça veut dire
+jouer avec quelqu'un ?
+
+565
+00:40:18,207 --> 00:40:19,291
+Cette veste...
+
+566
+00:40:19,375 --> 00:40:21,988
+Seule une fille au style unique
+peut la porter.
+
+567
+00:40:33,389 --> 00:40:35,628
+Ravi de voir
+que tout est revenu à la normale.
+
+568
+00:40:36,272 --> 00:40:38,018
+Vous pouvez surfer sur internet
+
+569
+00:40:38,428 --> 00:40:39,940
+pour vos vidéos sur les chats.
+
+570
+00:40:42,037 --> 00:40:45,541
+Au moins, mes recherches
+ne nécessitent pas une purge drastique
+
+571
+00:40:45,687 --> 00:40:47,611
+à la fin de la journée.
+
+572
+00:40:49,435 --> 00:40:52,049
+J'écris une lettre à Elizabeth Macy.
+
+573
+00:40:53,079 --> 00:40:55,792
+Encore quelqu'un
+à la recherche de réponses.
+
+574
+00:40:56,935 --> 00:40:58,528
+Je suis désolée, M. Callen.
+
+575
+00:41:00,151 --> 00:41:01,123
+Pour quoi ?
+
+576
+00:41:02,014 --> 00:41:05,260
+Vous n'avez pas obtenu
+les informations que vous espériez.
+
+577
+00:41:08,699 --> 00:41:11,184
+Keelson a trouvé les réponses,
+je les trouverai aussi.
+
+578
+00:41:12,567 --> 00:41:14,008
+Quelqu'un l'a engagé.
+
+579
+00:41:14,764 --> 00:41:16,287
+Il est dehors, quelque part.
+
+580
+00:41:17,014 --> 00:41:18,748
+Comment vous sentez-vous ?
+
+581
+00:41:20,255 --> 00:41:23,178
+Je répondrai un jour
+à cette question.
+
+582
+00:41:23,998 --> 00:41:24,841
+Quand ?
+
+583
+00:41:25,597 --> 00:41:27,241
+Quand j'aurai eu mes réponses.
+
+584
+00:41:28,375 --> 00:41:29,453
+Les gars ?
+
+585
+00:41:31,281 --> 00:41:32,114
+Quoi ?
+
+586
+00:41:32,301 --> 00:41:34,124
+L'affaire n'est pas close.
+
+587
+00:41:34,700 --> 00:41:36,535
+J'ai trouvé l'adresse de Keelson.
+
+588
+00:41:36,719 --> 00:41:38,453
+- Où ?
+- Au centre-ville.
+
+589
+00:41:38,676 --> 00:41:40,052
+Une planque peut-être.
+
+590
+00:41:40,205 --> 00:41:42,173
+J'ai vérifié
+sa signature électronique.
+
+591
+00:41:42,215 --> 00:41:45,984
+On dirait que l'endroit est rempli
+de serveurs de données.
+
+592
+00:41:46,856 --> 00:41:48,579
+Et je crois qu'on en a la clé.
+
+593
+00:41:52,462 --> 00:41:54,178
+Qui dit données dit réponses.
+
+594
+00:41:56,879 --> 00:41:58,458
+À suivre...
+
+595
+00:42:01,618 --> 00:42:03,725
+.: Team UnderCovers :.
+
